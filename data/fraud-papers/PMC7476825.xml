@@ -1,0 +1,528 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article article-type="research-article" xml:lang="en" dtd-version="1.4"><front><journal-meta><journal-id journal-id-type="nlm-ta">Cancer Med</journal-id><journal-id journal-id-type="iso-abbrev">Cancer Med</journal-id><journal-id journal-id-type="pmc-domain-id">1974</journal-id><journal-id journal-id-type="pmc-domain">canmed</journal-id><journal-id journal-id-type="nlm-id">101595310</journal-id><journal-id journal-id-type="publisher-id">CAM4</journal-id><journal-title-group><journal-title>Cancer Medicine</journal-title></journal-title-group><issn pub-type="epub">2045-7634</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC7476825</article-id><article-id pub-id-type="pmcid-ver">PMC7476825.1</article-id><article-id pub-id-type="pmcaid">7476825</article-id><article-id pub-id-type="pmcaiid">7476825</article-id><article-id pub-id-type="pmid">32691991</article-id><article-id pub-id-type="doi">10.1002/cam4.3285</article-id><article-id pub-id-type="publisher-id">CAM43285</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Cancer Biology</subject><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></subj-group></article-categories><title-group><article-title>Puerarin 6″‐O‐xyloside suppressed HCC via regulating proliferation, stemness, and apoptosis with inhibited PI3K/AKT/mTOR</article-title><alt-title alt-title-type="left-running-head">LI et al.</alt-title></title-group><contrib-group><contrib id="cam43285-cr-0001" contrib-type="author"><name name-style="western"><surname>Li</surname><given-names initials="L">Long</given-names></name><xref ref-type="aff" rid="cam43285-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cam43285-cr-0002" contrib-type="author"><name name-style="western"><surname>Liu</surname><given-names initials="JD">Jun‐Dong</given-names></name><xref ref-type="aff" rid="cam43285-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cam43285-cr-0003" contrib-type="author"><name name-style="western"><surname>Gao</surname><given-names initials="GD">Guo‐Dong</given-names></name><xref ref-type="aff" rid="cam43285-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cam43285-cr-0004" contrib-type="author"><name name-style="western"><surname>Zhang</surname><given-names initials="K">Kai</given-names></name><xref ref-type="aff" rid="cam43285-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cam43285-cr-0005" contrib-type="author"><name name-style="western"><surname>Song</surname><given-names initials="YW">Yu‐Wei</given-names></name><xref ref-type="aff" rid="cam43285-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cam43285-cr-0006" contrib-type="author" corresp="yes"><name name-style="western"><surname>Li</surname><given-names initials="HB">Hong‐Bo</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-3206-2375</contrib-id><xref ref-type="aff" rid="cam43285-aff-0001">
+<sup>1</sup>
+</xref><address><email>lihongborz@yeah.net</email></address></contrib></contrib-group><aff id="cam43285-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of General Surgery</named-content>
+<institution>People's Hospital of Rizhao</institution>
+<city>Rizhao</city>
+<named-content content-type="country-part">Shandong Province</named-content>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Hong-Bo Li, Department of General Surgery, People's Hospital of Rizhao. No.126 Tai 'an Road, Donggang District, Rizhao, Shandong Province, China.<break/>
+Email: <email>lihongborz@yeah.net</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>21</day><month>7</month><year>2020</year></pub-date><pub-date pub-type="collection"><month>9</month><year>2020</year></pub-date><volume>9</volume><issue>17</issue><issue-id pub-id-type="pmc-issue-id">364763</issue-id><issue-id pub-id-type="doi">10.1002/cam4.v9.17</issue-id><fpage>6399</fpage><lpage>6410</lpage><history><date date-type="received"><day>27</day><month>3</month><year>2020</year></date><date date-type="rev-recd"><day>05</day><month>6</month><year>2020</year></date><date date-type="accepted"><day>18</day><month>6</month><year>2020</year></date></history><pub-history><event event-type="pmc-release"><date><day>21</day><month>07</month><year>2020</year></date></event><event event-type="pmc-live"><date><day>11</day><month>09</month><year>2020</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2024-10-15 00:25:16.437"><day>15</day><month>10</month><year>2024</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2020 The Authors. <italic toggle="yes">Cancer Medicine</italic> published by John Wiley &amp; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="CAM4-9-6399.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:CAM4-9-6399.pdf"/><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="retraction-forward" xml:lang="en" xlink:title="retraction" vol="13" journal-id="Cancer Med" journal-id-type="nlm-ta" ext-link-type="pmc" xlink:href="PMC11465275"><article-title>
+<styled-content style="fixed-case" toggle="no">RETRACTION</styled-content>: Puerarin 6″‐O‐xyloside suppressed <styled-content style="fixed-case" toggle="no">HCC</styled-content> via regulating proliferation, stemness, and apoptosis with inhibited <styled-content style="fixed-case" toggle="no">PI3K</styled-content>/<styled-content style="fixed-case" toggle="no">AKT</styled-content>/<styled-content style="fixed-case" toggle="no">mTOR</styled-content>
+</article-title><volume>13</volume><issue seq="90">19</issue><date><day>10</day><month>10</month><year>2024</year></date><elocation-id>e70301</elocation-id><source>Cancer Medicine</source><pub-id pub-id-type="doi">10.1002/cam4.70301</pub-id><pub-id pub-id-type="pmcid">PMC11465275</pub-id><pub-id pub-id-type="pmid">39387478</pub-id></related-article><abstract id="cam43285-abs-0001"><title>Abstract</title><p>Puerarin 6″‐O‐xyloside is a tumor suppressive derivate of Puerarin that is recently characterized as a lysine‐specific demethylase 6B inhibitor. Here we investigated the effects of Puerarin 6″‐O‐xyloside in hepatocellular carcinoma (HCC) cell lines SMMC‐7721 and HepG2. Cell viability, proliferation, stemness, protein expression, and autophagy were tested by CCK‐8, colony formation, sphere formation, western blotting, and LC3B GFP puncta per cell, respectively. Apoptosis, CD133‐positive cells, and JC‐1‐labeled mitochondrial membrane potential were measured by flow cytometry. The effects of Puerarin 6″‐O‐xyloside in vivo were explored in HepG2 xenograft mice. Puerarin 6″‐O‐xyloside inhibited cell viability, proliferation, and stemness, and promoted apoptosis in both SMMC‐7721 and HepG2 cells. Further experiments showed promoted autophagy and decreased mitochondrial membrane potential, and decreased expression of p‐PI3K, p‐AKT, and p‐mTOR in HepG2 cells. Co‐administration of 3‐MA with Puerarin 6″‐O‐xyloside obviously augmented these effects including inhibited protein expression of p‐PI3K, p‐AKT, and p‐mTOR, and inhibited proliferation, promoted apoptosis, and decreased stemness. In HepG2 xenograft mice, 100 mg/kg/d Puerarin 6″‐O‐xyloside significantly suppressed tumor growth, stemness, and apoptosis. In conclusion, our study indicated that Puerarin 6″‐O‐xyloside decreased cell viability, proliferation, and stemness, and promoted autophagy and mitochondria‐dependent apoptosis of HCC, at least partly through inhibiting PI3K/AKT/mTOR. These results highlighted Puerarin 6″‐O‐xyloside as a promising prodrug that could inhibit both PI3K/AKT/mTOR and epigenetic demethylation.</p></abstract><abstract abstract-type="graphical" id="cam43285-abs-0002"><p>Puerarin 6″‐O‐xyloside suppressed HCC via regulating proliferation, stemness, autophagy, and apoptosis with inhibited PI3K/AKT/mTOR pathway. Puerarin 6″‐O‐xyloside targeted PI3K, mTOR, and KDM6B.<boxed-text position="anchor" content-type="graphic" id="cam43285-blkfxd-0001" orientation="portrait"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="nlm-graphic-1" orientation="portrait" xlink:href="CAM4-9-6399-g007.jpg"/></boxed-text>
+</p></abstract><kwd-group><kwd id="cam43285-kwd-0001">KDM6B</kwd><kwd id="cam43285-kwd-0002">liver cancer</kwd><kwd id="cam43285-kwd-0003">mTOR</kwd><kwd id="cam43285-kwd-0004">PI3K</kwd><kwd id="cam43285-kwd-0005">Puerarin 6″‐O‐xyloside</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>The Development Plan of Medical and Health Science and Technology of Shandong Province</funding-source><award-id>2018WS357</award-id></award-group></funding-group><counts><fig-count count="6"/><table-count count="0"/><page-count count="12"/><word-count count="5738"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>September 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.8.9 mode:remove_FC converted:07.09.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="cam43285-cit-1001">
+<string-name name-style="western">
+<surname>Li</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>J-D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gao</surname>
+<given-names>G-D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Song</surname>
+<given-names>Y-W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>H-B</given-names>
+</string-name>. <article-title>Puerarin 6″-O-xyloside suppressed HCC via regulating proliferation, stemness, and apoptosis with inhibited PI3K/AKT/mTOR</article-title>. <source xml:lang="en">Cancer Med</source>. <year>2020</year>;<volume>9</volume>:<fpage>6399</fpage>–<lpage>6410</lpage>. <pub-id pub-id-type="doi">10.1002/cam4.3285</pub-id>
+<pub-id pub-id-type="pmcid">PMC7476825</pub-id><pub-id pub-id-type="pmid">32691991</pub-id><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="retraction-forward" ext-link-type="pmc" xlink:href="PMC11465275"/></mixed-citation>
+</p></notes></front><body id="cam43285-body-0001"><sec id="cam43285-sec-0001"><label>1</label><title>INTRODUCTION</title><p>Liver cancer is among the leading causes of cancer deaths worldwide, accounting for 854 000 incidences and 810 000 deaths globally in 2015, and hepatocellular carcinoma (HCC) is the most common subtype.<xref rid="cam43285-bib-0001" ref-type="ref">
+<sup>1</sup>
+</xref> Early diagnosis is the only hope for liver cancer at present as only limited therapeutic strategies for late‐stage conditions are present.<xref rid="cam43285-bib-0002" ref-type="ref">
+<sup>2</sup>
+</xref> With the transmission of hepatitis B virus and influence of other risk factors, and burden of liver cancer increased, more effective therapies for diagnosis and treatment of HCC are in urgent need to be developed.</p><p>Natural agents derived from plants are important sources of prodrug. Puerarin 6″‐O‐xyloside is a major compound in the root of the famous Traditional Chinese Medicine Pueraria lobata (Willd.) Ohwi (P. lobata).<xref rid="cam43285-bib-0003" ref-type="ref">
+<sup>3</sup>
+</xref> Puerarin 6″‐O‐xyloside is formed with substitution of hydroxyl group at C‐6″ of Puerarin with a xylose residue (Figure <xref rid="cam43285-fig-0001" ref-type="fig">1A</xref>). Puerarin 6″‐O‐xyloside and Puerarin were reported to be tumor suppressive for several carcinomas including esophageal cancer,<xref rid="cam43285-bib-0004" ref-type="ref">
+<sup>4</sup>
+</xref> gastric carcinoma,<xref rid="cam43285-bib-0005" ref-type="ref">
+<sup>5</sup>
+</xref> lung carcinoma,<xref rid="cam43285-bib-0006" ref-type="ref">
+<sup>6</sup>
+</xref> colon cancer, and HCC.<xref rid="cam43285-bib-0007" ref-type="ref">
+<sup>7</sup>
+</xref>, <xref rid="cam43285-bib-0008" ref-type="ref">
+<sup>8</sup>
+</xref> In mouse models of xenograft esophageal and gastric tumors, Puerarin exhibited equally potent efficiency with 5FU, and co‐administration of Puerarin and 5FU exhibited even better with no significant adverse effect seen.<xref rid="cam43285-bib-0004" ref-type="ref">
+<sup>4</sup>
+</xref>, <xref rid="cam43285-bib-0005" ref-type="ref">
+<sup>5</sup>
+</xref> Researches about Puerarin 6″‐O‐xyloside and Puerarin were not seen in the same cell or animal model. Anyway Puerarin 6″‐O‐xyloside could be more effective as its median inhibitory concentration (IC50) reported is usually about 40 μg/mL while IC50 of Puerarin is about 500 μg/mL.<xref rid="cam43285-bib-0006" ref-type="ref">
+<sup>6</sup>
+</xref>, <xref rid="cam43285-bib-0007" ref-type="ref">
+<sup>7</sup>
+</xref> Especially, Puerarin 6″‐O‐xyloside showed obvious safety in mice and rats with a dose of 80 mg/kg each day in vivo.<xref rid="cam43285-bib-0009" ref-type="ref">
+<sup>9</sup>
+</xref> Puerarin inhibited proliferation and promoted mitochondrial‐mediated apoptosis in SMMC‐7721 cells, mainly through inhibiting MAPK signaling.<xref rid="cam43285-bib-0007" ref-type="ref">
+<sup>7</sup>
+</xref>, <xref rid="cam43285-bib-0010" ref-type="ref">
+<sup>10</sup>
+</xref> Similarly, Puerarin 6″‐O‐xyloside was proved to be effective to lung and colon cancers, mainly through induction of apoptosis.<xref rid="cam43285-bib-0006" ref-type="ref">
+<sup>6</sup>
+</xref>, <xref rid="cam43285-bib-0008" ref-type="ref">
+<sup>8</sup>
+</xref> Puerarin 6″‐O‐xyloside‐induced apoptosis was characterized by upregulated cleaved caspase‐3, cleaved caspase‐9, B‐cell lymphoma 2 (Bcl‐2)‐associated X protein and phosphorylated c‐Jun terminal kinase, and downregulated Bcl‐2, matrix metalloproteinase (MMP)‐3, and MMP‐9.<xref rid="cam43285-bib-0006" ref-type="ref">
+<sup>6</sup>
+</xref> These highlighted the involvement of mitochondria in Puerarin 6″‐O‐xyloside‐induced apoptosis.</p><fig fig-type="FIGURE" xml:lang="en" id="cam43285-fig-0001" orientation="portrait" position="float"><label>FIGURE 1</label><caption><p>Effects of Puerarin 6″‐O‐xyloside on HCC cell lines. A, The structure of Puerarin and Puerarin 6″‐O‐xyloside. Both SMMC‐7721 and HepG2 cells were seeded in 96‐well plates at a density of 3000 cells/well. Increasing concentrations of Puerarin 6″‐O‐xyloside were added after 24 h and incubated for another 24 h before CCK‐8 was added and tested. B, Cell viability of SMMC‐7721 and HepG2 cells treated with Puerarin 6″‐O‐xyloside. *<italic toggle="yes">P</italic> &lt; .05 compared with no Puerarin 6″‐O‐xyloside treatment analyzed by one‐way ANOVA. Data were from three independent replicates</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-3" position="float" orientation="portrait" xlink:href="CAM4-9-6399-g001.jpg"/></fig><p>The mechanism of action of Puerarin 6″‐O‐xyloside is still largely unknown other than induced apoptosis. Compared to Puerarin, antitumor activity of Puerarin 6″‐O‐xyloside largely improved. But Puerarin 6″‐O‐xyloside is far from perfect for it could be easily hydrolyzed. Puerarin has been approved to induce apoptosis in SMMC‐7721 cells; then Puerarin 6″‐O‐xyloside may also be effective to liver cancer cells as Puerarin 6″‐O‐xyloside is a derivate of Puerarin. In this study, we investigated the possible effects of Puerarin 6″‐O‐xyloside on both SMMC‐7721 and HepG2 cells, concerning proliferation, apoptosis, stemness, and autophagy and possibly related signaling pathways.</p></sec><sec sec-type="results" id="cam43285-sec-0002"><label>2</label><title>RESULTS</title><sec id="cam43285-sec-0003"><label>2.1</label><title>Puerarin 6″‐O‐xyloside dose dependently inhibited cell viability in SMMC‐7721 and HepG2 cells</title><p>To establish the effects of Puerarin 6″‐O‐xyloside, CCK‐8 was carried out in normal liver cell line LO2 and liver cancer cell lines SMMC‐7721 and HepG2. As shown in Figure <xref rid="cam43285-fig-0001" ref-type="fig">1B</xref>, no significant change in viability was seen in LO2 treated with up to 400 μmol/L of Puerarin 6″‐O‐xyloside. 50 and 100 μmol/L of Puerarin 6″‐O‐xyloside started to show significant inhibition of cell viability in HepG2 and SMMC‐7721 cells, respectively. Overall, HepG2 cells were slightly more sensitive to Puerarin 6″‐O‐xyloside treatment. The calculated IC50 of Puerarin 6″‐O‐xyloside in SMMC‐7721 is about 109 μmol/L and IC50 in HepG2 is about 57 μmol/L. To explore the possible mechanism of action of Puerarin 6″‐O‐xyloside in liver cancer, 0, 5, 10, and 20 μmol/L of Puerarin 6″‐O‐xyloside (indicated as POX 0, POX 5, POX‐10, and POX 20 μmol/L in figures) were chosen for their miner toxicity in later experiments.</p></sec><sec id="cam43285-sec-0004"><label>2.2</label><title>Puerarin 6″‐O‐xyloside inhibited proliferation and promoted apoptosis in SMMC‐7721 and HepG2 cells</title><p>Proliferation and apoptosis are most common downstream of chemicals that harbor antitumor effects. We tested the effect of Puerarin 6″‐O‐xyloside on proliferation and apoptosis of SMMC‐7721 and HepG2 cells. Colony formation assay showed dose‐dependent inhibition of proliferation with Puerarin 6″‐O‐xyloside both in SMMC‐7721 and HepG2 cells as shown in Figure <xref rid="cam43285-fig-0002" ref-type="fig">2</xref>A,B, as well as indicated by western blotting of proliferation marker protein Ki67 shown in Figure <xref rid="cam43285-fig-0002" ref-type="fig">2E</xref>. Similar to cell viability results, proliferation inhibition in HepG2 cells was more significant than that in SMMC‐7721. Cell apoptosis and cell necrosis were dose dependently induced by Puerarin 6″‐O‐xyloside in both cell lines as shown in Figure <xref rid="cam43285-fig-0002" ref-type="fig">2</xref>C,D. Again, apoptosis in HepG2 cells was more significant than in SMMC‐7721, with 5 μmol/L in HepG2 vs 10 μmol/L in SMMC‐7721 started to obviously (<italic toggle="yes">P</italic> &lt; .05 vs 0 μmol/L) induce apoptosis. The increased apoptosis was also validated by the increased ratio of cleaved caspase‐3 to caspase‐3 as shown in Figure <xref rid="cam43285-fig-0002" ref-type="fig">2F</xref>.</p><fig fig-type="FIGURE" xml:lang="en" id="cam43285-fig-0002" orientation="portrait" position="float"><label>FIGURE 2</label><caption><p>Puerarin 6″‐O‐xyloside inhibited proliferation and promoted apoptosis in SMMC‐7721 and HepG2 cells. Both cell lines were treated with 0, 5, 10, and 20 μmol/L of Puerarin 6″‐O‐xyloside for 24 h. The proliferation was shown with crystal violet staining (A) and area of the staining was measured by ImageJ (B). Flow cytometry was applied to show apoptotic cells (C) and the number of apoptotic cells was counted (D). Western blotting was used to show relative protein expression of Ki67 (E) and the ratio of cleaved caspase‐3 to caspase‐3 (F) in both cell lines. *<italic toggle="yes">P</italic> &lt; .05 and **<italic toggle="yes">P</italic> &lt; .01 compared with no Puerarin 6″‐O‐xyloside treatment by <italic toggle="yes">t</italic> test of at least three replicates. POX: Puerarin 6″‐O‐xyloside</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-5" position="float" orientation="portrait" xlink:href="CAM4-9-6399-g002.jpg"/></fig></sec><sec id="cam43285-sec-0005"><label>2.3</label><title>Puerarin 6″‐O‐xyloside reduced stem‐like property of SMMC‐7721 and HepG2 cells</title><p>Stem‐like property of SMMC‐7721 and HepG2 cells treated with Puerarin 6″‐O‐xyloside was estimated by sphere formation, CD133 enabled cell‐sorting, and protein expression of stemness marker OTC4. Puerarin 6″‐O‐xyloside dose dependently reduced the formation of spheres, and decreased the size and number of spheres (Figure <xref rid="cam43285-fig-0003" ref-type="fig">3</xref>A‐C). With the dosage increase, the number of CD133‐labeled cells was increased both in HepG2 and SMMC‐7721 cells (Figure <xref rid="cam43285-fig-0003" ref-type="fig">3</xref>D,E). The inhibition of stem‐like property of Puerarin 6″‐O‐xyloside in both cell lines was also validated by the dose‐dependent decrease of OCT4 protein (Figure <xref rid="cam43285-fig-0003" ref-type="fig">3F</xref>). Stem‐like property in HepG2 cells was more easily inhibited by Puerarin 6″‐O‐xyloside compared to SMMC‐7721, which was similar to trends in proliferation.</p><fig fig-type="FIGURE" xml:lang="en" id="cam43285-fig-0003" orientation="portrait" position="float"><label>FIGURE 3</label><caption><p>Stem‐like property of SMMC‐7721 and HepG2 cells treated with Puerarin 6″‐O‐xyloside. Both cell lines were treated with 0, 5, 10, and 20 μmol/L of Puerarin 6″‐O‐xyloside for 10 d. (A) Sphere formation assay was used to test the effects of Puerarin 6″‐O‐xyloside treatment to stemness. Diameter (B) and the number of spheres per 100 cells (C) were measured. (D) CD133‐positive cells tested by anti‐CD133‐PE powered flow cytometry. (E) Number of CD133‐positive cells. (F) Relative protein expression of OCT4 tested by western blotting. *<italic toggle="yes">P</italic> &lt; .05 and **<italic toggle="yes">P</italic> &lt; .01 compared with no Puerarin 6″‐O‐xyloside treatment by <italic toggle="yes">t</italic> test of at least three replicates. POX: Puerarin 6″‐O‐xyloside</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-7" position="float" orientation="portrait" xlink:href="CAM4-9-6399-g003.jpg"/></fig></sec><sec id="cam43285-sec-0006"><label>2.4</label><title>Puerarin 6″‐O‐xyloside induced autophagy and reduced mitochondrial membrane potential in HepG2 cells</title><p>Apoptosis is downstream of most anticancer therapeutics. To investigate the induction and modulation of apoptosis by Puerarin 6″‐O‐xyloside, autophagy and mitochondrial membrane potential were tested. Puerarin 6″‐O‐xyloside induced similar effects in HepG2 cells and SMMC‐7721 cells including inhibition of cell viability, proliferation, and sphere formation, with HepG2 cells slightly more sensitive to Puerarin 6″‐O‐xyloside treatment. So in the following experiments, further mechanism of action of Puerarin 6″‐O‐xyloside in liver cancer was assessed in HepG2 cells. As indicated in Figure <xref rid="cam43285-fig-0004" ref-type="fig">4A</xref>, Puerarin 6″‐O‐xyloside dose dependently promoted LC3‐positive puncta per cell in HepG2 cells, with significant difference observed at 5 μmol/L group (<italic toggle="yes">P</italic> &lt; .05), and more significant difference seen at 20 μmol/L group (<italic toggle="yes">P</italic> &lt; .01). The promotion of autophagy by Puerarin 6″‐O‐xyloside was also validated by autophagy‐related proteins as shown in Figure <xref rid="cam43285-fig-0004" ref-type="fig">4B</xref>. Autophagy was significantly induced with 5‐μmol/L Puerarin 6″‐O‐xyloside (<italic toggle="yes">P</italic> &lt; .05) and very significantly induced at 20 μmol/L (<italic toggle="yes">P</italic> &lt; .01), as indicated by the ratio of LC3BII/LC3BI, and protein expression of Beclin 1 and ATG7.</p><fig fig-type="FIGURE" xml:lang="en" id="cam43285-fig-0004" orientation="portrait" position="float"><label>FIGURE 4</label><caption><p>Change in autophagy and mitochondrial membrane potential with treatment of Puerarin 6″‐O‐xyloside in HepG2 cells. GFP‐LC3 plasmid was transfected into HepG2 cells, then treated with 0, 5, 10, and 20 μmol/L of Puerarin 6″‐O‐xyloside for 24 h and (A) LC3 puncta per cells were counted with Image Pro Plus, Blue fluorescence form DAPI and green fluorescence were GFP‐LC3B. (B) Relative expression of autophagy‐related proteins in cells tested by western blotting. (C) Mitochondrial membrane potential measured by JC‐1‐labeled flow cytometry. When mitochondrial membrane potential loss happens, JC‐1 in cytoplasm captures the leaked proton and turns green. *<italic toggle="yes">P</italic> &lt; .05 and **<italic toggle="yes">P</italic> &lt; .01 compared with no Puerarin 6″‐O‐xyloside treatment by <italic toggle="yes">t</italic> test of at least three replicates. POX: Puerarin 6″‐O‐xyloside</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-9" position="float" orientation="portrait" xlink:href="CAM4-9-6399-g004.jpg"/></fig><p>Then Puerarin 6″‐O‐xyloside‐induced decrease of mitochondrial membrane potential was measured by JC‐1‐labeled flow cytometry. The results showed that mitochondrial membrane potential was dose dependently decreased in Puerarin 6″‐O‐xyloside‐treated HepG2 cells, as indicated by increased green fluorescence in Figure <xref rid="cam43285-fig-0004" ref-type="fig">4C</xref>.</p></sec><sec id="cam43285-sec-0007"><label>2.5</label><title>PI3K/AKT/mTOR is involved in the mechanism of action of Puerarin 6″‐O‐xyloside in HepG2 cells</title><p>As stem‐like property was inhibited in both cell lines and autophagy was induced in HepG2 cells with treatment of Puerarin 6″‐O‐xyloside, typical proteins of PI3K/AKT/mTOR, which participate in both stemness and autophagy regulation, were tested (Figure <xref rid="cam43285-fig-0005" ref-type="fig">5</xref>A,B). Treatment with Puerarin 6″‐O‐xyloside in HepG2 cells dose dependently inhibited p‐PI3K p85, PI3K p110α, p‐AKT, and p‐mTOR expression, with significant difference observed with 5 μmol/L of Puerarin 6″‐O‐xyloside (<italic toggle="yes">P</italic> &lt; .05). Then, 20 μmol/L of Puerarin 6″‐O‐xyloside and 1‐mM 3‐MA were used to show its effects through inactivated PI3K. PI3K, AKT, and mTOR were all inhibited by Puerarin 6″‐O‐xyloside and 3‐MA, and co‐administration of Puerarin 6″‐O‐xyloside and 3‐MA more significantly inhibited PI3K/AKT/mTOR signaling (Figure <xref rid="cam43285-fig-0005" ref-type="fig">5</xref>A,C). Treatment with Puerarin 6″‐O‐xyloside or 3‐MA reduced proliferation of HepG2 cells, and a more significant inhibition was observed when co‐administered (Figure <xref rid="cam43285-fig-0005" ref-type="fig">5</xref>D,E). Cell apoptosis was induced by Puerarin 6″‐O‐xyloside or 3‐MA, and more obviously induced by Puerarin 6″‐O‐xyloside and 3‐MA (Figure <xref rid="cam43285-fig-0005" ref-type="fig">5</xref>F,G). Similar trend was observed in stem‐like property; both diameter and number of spheres per 100 cells were reduced by Puerarin 6″‐O‐xyloside or 3‐MA, and co‐administration of the two indicated a more significant reduction (Figure <xref rid="cam43285-fig-0005" ref-type="fig">5</xref>H‐J). These results showed that the inhibited proliferation, promoted apoptosis, and reduced stemness by Puerarin 6″‐O‐xyloside were enhanced by 3‐MA.</p><fig fig-type="FIGURE" xml:lang="en" id="cam43285-fig-0005" orientation="portrait" position="float"><label>FIGURE 5</label><caption><p>Effects of 3‐MA to Puerarin 6″‐O‐xyloside‐treated HepG2 cells. A, Relative protein expression of PI3K/AKT/mTOR and their phosphorylated form in HepG2 treated with 0, 5, 10, and 20 μmol/L of Puerarin 6″‐O‐xyloside for 24 h. Then HepG2 cells were treated with PBS (control), Puerarin 6″‐O‐xyloside (POX 20 μmol/L), 1 mmol/L of 3‐MA or Puerarin 6″‐O‐xyloside + 3‐MA (POX 20 μmol/L + 3‐MA) for 24 h. B, Relative PI3K/AKT/mTOR pathway protein expression in HepG2 cells treated with 3‐MA and/or Puerarin 6″‐O‐xyloside. C, and D, Cell proliferation indicated with crystal violet staining. E and F, Apoptosis measured by flow cytometry. Stemness was indicated by sphere formation assay G, and diameter of sphere H, and number of spheres per 100 cells I, were measured. *<italic toggle="yes">P</italic> &lt; .05 compared with control and <sup>#</sup>
+<italic toggle="yes">P</italic> &lt; .05 compared with Puerarin 6″‐O‐xyloside treatment by <italic toggle="yes">t</italic> test of at least three replicates. POX: Puerarin 6″‐O‐xyloside</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-11" position="float" orientation="portrait" xlink:href="CAM4-9-6399-g005.jpg"/></fig></sec><sec id="cam43285-sec-0008"><label>2.6</label><title>Puerarin 6″‐O‐xyloside inhibited tumor progression in HepG2 xenograft mice</title><p>To further validate the effects of Puerarin 6″‐O‐xyloside on liver cancer, Balb/c nude mice were used to establish HepG2 xenograft tumors and were treated with 100 mg/kg/d of Puerarin 6″‐O‐xyloside for 28 days. As a result, Puerarin 6″‐O‐xyloside significantly reduced the tumor volume (Figure <xref rid="cam43285-fig-0006" ref-type="fig">6</xref>A,B). The expression of Ki67 and OCT4 was reduced in Puerarin 6″‐O‐xyloside‐treated mice, while apoptosis was induced in Puerarin 6″‐O‐xyloside‐treated mice (Figure <xref rid="cam43285-fig-0006" ref-type="fig">6</xref>C,D). The results verified that Puerarin 6″‐O‐xyloside inhibited progression of liver cancer in vivo.</p><fig fig-type="FIGURE" xml:lang="en" id="cam43285-fig-0006" orientation="portrait" position="float"><label>FIGURE 6</label><caption><p>Effects of Puerarin 6″‐O‐xyloside in HepG2 Xenograft Balb/c mice. The mice were treated with saline or 100 mg/kg/d for 28 d. A, The tumors harvested. B, The volumes of the tumors were measured. C, The tumors were stained as indicated to show proliferation, stemness, and apoptosis. D, The staining of Ki67, OCT4, and TUNEL was semi‐quantified</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-13" position="float" orientation="portrait" xlink:href="CAM4-9-6399-g006.jpg"/></fig></sec></sec><sec sec-type="materials-and-methods" id="cam43285-sec-0009"><label>3</label><title>MATERIALS AND METHODS</title><sec id="cam43285-sec-0010"><label>3.1</label><title>Cell culture and reagents</title><p>LO2, HepG2, and SMMC‐7721 were obtained from the American Type Culture Collection (ATCC), maintained in DMEM (Invitrogen) supplemented with 10% FBS (Invitrogen) and antibiotics (1% penicillin and 100 μg/mL streptomycin; Beyotime), with an atmosphere containing 5% CO2 at 37°C. JC‐1 (T4069) and 3‐MA (M9281) were from Sigma‐Aldrich, Puerarin 6″‐O‐xyloside was purchased from Tauto Biotech (E‐1160, Shanghai, China), and Cell Counting Kit 8 (CCK‐8, C0037), PBS, Crystal Violet Staining Solution (C0121), 4% Paraformaldehyde Fix Solution, Colorimetric TUNEL Apoptosis Assay Kit and Bicinchoninic acid (BCA) protein assay reagent (P0012S) were purchased from Beyotime. Mouse CD133‐PE antibody was purchased from Miltenyi Biotec; antibodies of Ki67 (ab15580), Cleaved Caspase‐3 (ab32042), Caspase‐3 (ab90437), OCT4 (ab109183), LC3B (ab229327), Beclin1 (ab207612), ATG7 (ab133528), AKT (ab18785), p‐AKT (ab8933), mTOR (ab32028), and p‐mTOR (abs) were purchased from Abcam. PI3K p110α (#4255), PI3K p85 (#4257), p‐PI3K p85 (#4228), GAPDH (#5174) antibodies and all secondary antibodies were purchased from CST (Danvers, MA, USA). Annexin V fluorescein isothiocyanate/propidium iodide (FITC/PI) kit was purchased from BD Biosciences. Other reagents were purchased from Beyotime and Solarbio.</p></sec><sec id="cam43285-sec-0011"><label>3.2</label><title>Cell viability assay</title><p>LO2, HepG2, and SMMC‐7721 cells were seeded in 96‐well plates at a density of 5 × 10<sup>5</sup> cells/well in 100‐μL medium. After cultured for 24 hours, cells were changed with another 100‐μL medium containing Puerarin 6″‐O‐xyloside (0, 0.1, 0.2, 0.5, 1, 2, 5, 10, 20, 50, 100, 200, 300, and 400 μmol/L). After incubation for more than 22 hours, 10 μL of CCK‐8 was added to each well. Optical density was measured at 450 nm, 2 hours after CCK‐8 was added. The inhibitory rate was calculated according to the following formula: [(ODC0 − ODCx)/(ODC0 − ODPBS)] × 100%. Outliers were discarded by G test. Four replicate wells were involved in each concentration. The experiment was independently repeated for 3 times.</p></sec><sec id="cam43285-sec-0012"><label>3.3</label><title>Colony formation assay</title><p>About 1000 cells were seeded in 6‐well plates. After stable adhesion formed, medium containing Puerarin 6″‐O‐xyloside (0, 5, 10, 20 μmol/L, 2 mL) was added and refreshed every 3‐4 days. After incubated for 14 days, each well was washed twice with PBS, fixed with methanol for 30 minutes, and then stained with 0.5% crystal violet for 30 minutes at room temperature. The test was performed in triplicate. Images were acquired using a digital camera.</p></sec><sec id="cam43285-sec-0013"><label>3.4</label><title>Sphere formation assay</title><p>HepG2 and SMMC‐7721 cells were seeded in low adherent 24‐well culture plates at 2 × 10<sup>3</sup> cells per well. Then, cells were incubated in serum‐free medium of RPMI 1640 containing 20 μL/mL of B27, 20 ng/mL of EGF, 20 ng/mL of bFGF, and 1% of penicillin‐streptomycin. After incubation at 37°C in a 5% CO2 incubator for 10 days, pictures were taken under a microscope and the number of spheres was counted in three separate 40 × fields.</p></sec><sec id="cam43285-sec-0014"><label>3.5</label><title>Flow cytometry</title><p>Flow cytometry analysis was applied to show apoptosis, stem‐like property, and change in mitochondrial membrane potential. In brief, HepG2 and/or SMMC‐7721 cells were treated with different dose of Puerarin 6″‐O‐xyloside (0, 5, 10, and 20 μmol/L) for 24 hours before tested. Apoptosis was tested as previously reported. <xref rid="cam43285-bib-0011" ref-type="ref">
+<sup>11</sup>
+</xref> Cells were digested with 2.5% trypsin, harvested in flow cytometry tubes, and centrifuged for 5 minutes at 500 g. Cell pellets were incubated with Annexin V‐FITC for 15 minutes and then with PI for 10 minutes, and analyzed with a FACScan flow cytometer (BD Biosciences). Annexin V‐FITC‐positive cells were considered apoptotic cells and PI‐positive cells are considered dead cells.<xref rid="cam43285-bib-0012" ref-type="ref">
+<sup>12</sup>
+</xref>
+</p><p>For analysis of stem‐like property, fluorescence‐activated cell sorting (FACS) assay was performed. For each well, 100 μL of 1 × 10<sup>7</sup> cells was incubated with 10‐μL anti‐CD133‐PE in the dark at 4°C for 10 minutes. Then, cells were washed twice with buffer and suspended in 500 μL of buffer for analysis by flow cytometry.</p><p>For analysis of mitochondrial membrane potential, cells were detached by trypsinization, re‐suspended with JC‐1 working solution, incubated in 37°C, 5% CO2 for 15 minutes, then re‐suspended again in PBS, and analyzed with FACScan as described previously.<xref rid="cam43285-bib-0013" ref-type="ref">
+<sup>13</sup>
+</xref>, <xref rid="cam43285-bib-0014" ref-type="ref">
+<sup>14</sup>
+</xref>
+</p></sec><sec id="cam43285-sec-0015"><label>3.6</label><title>Western blotting</title><p>Cells were lysed under ice in 20 μL of cold RIPA Lysis Buffer. Protein lysis was collected and BCA method was adopted to adjust protein concentrations. About 30 μg of total protein per sample was used in electrophoresis. Primary antibodies were incubated shaken at 4°C overnight, and secondary antibodies were incubated at room temperature for 1 hour. Images were collected using the Gel Imaging System (Bio‐Rad) with ECL and analyzed by ImageJ.</p></sec><sec id="cam43285-sec-0016"><label>3.7</label><title>GFP‐LC3 plasmid transfection and confocal microscopy</title><p>HepG2 cells underwent GFP‐LC3 plasmid transfection that was performed using Lipofectamine 3000 transfection reagent (Invitrogen, L3000) according to the manufacturer's protocol. GFP‐LC3 plasmids were bought from Addgene (#24920). After incubation for 48 hours, the medium containing the transfection mixture was replaced with fresh complete medium and the cells were treated with Puerarin 6″‐O‐xyloside (0, 5, 10, 20 μmol/L, 2 mL) for 24 hours, then viewed by a laser scanning confocal microscope (Zeiss). Then images were analyzed by ImageJ.</p></sec><sec id="cam43285-sec-0017"><label>3.8</label><title>Animal experiments</title><p>Male Balb/c mice (6 weeks old, weighing ~20 g) were purchased from and in vivo experiments were applied at Hunan SJA Laboratory Animal Co., Ltd. The mice were housed under a specific‐pathogen‐free (SPF) environment with a 12‐hour light/dark cycle and free access to food and water.</p><p>A total of 10 mice were randomly divided into two groups. About 1 × 10<sup>7</sup> HepG2 cells were subcutaneously injected into the right dorsal area of each mice. The experiment group mice were intraperitoneal injected with 100 mg/kg/d of Puerarin 6″‐O‐xyloside in saline; the control group mice were injected with equivalent saline.<xref rid="cam43285-bib-0006" ref-type="ref">
+<sup>6</sup>
+</xref>, <xref rid="cam43285-bib-0009" ref-type="ref">
+<sup>9</sup>
+</xref> After 28 days, the mice were sacrificed and the tumors were harvested. After photographing, the tissues were fixed in 4% Paraformaldehyde Fix Solution. The fixed tissues were paraffin‐embedded to get 5‐μm slides before rehydration. Then the slides were stained with TUNEL, Ki67, and OCT4 antibodies, respectively, according to the manufacturer's instructions and observed with a fluorescence microscope (Olympus) and analyzed with Image Pro Plus (version 6.0, Media Cybernetics).</p></sec><sec id="cam43285-sec-0018"><label>3.9</label><title>Statistical analysis</title><p>Statistical analyses were performed with GraphPad Prism 6.0. Images were quantified by ImageJ or Image Pro Plus software. Data were analyzed with <italic toggle="yes">t</italic> tests or one‐way analysis of variances (ANOVA). <italic toggle="yes">P</italic> &lt; .05 was taken as statistically significant.</p></sec></sec><sec sec-type="discussion" id="cam43285-sec-0019"><label>4</label><title>DISCUSSION</title><p>Puerarin 6″‐O‐xyloside has been indicated to be effective to lung and colon cancers.<xref rid="cam43285-bib-0006" ref-type="ref">
+<sup>6</sup>
+</xref>, <xref rid="cam43285-bib-0008" ref-type="ref">
+<sup>8</sup>
+</xref> Here we suggested that Puerarin 6″‐O‐xyloside was also effective to HCC in a dose‐dependent manner, as indicated in both SMMC‐7721 and HepG2 cells in vitro, and in HepG2 Xenograft mice. Main effects of Puerarin 6″‐O‐xyloside on HCC cell lines include inhibited proliferation and stemness, and promoted autophagy and apoptosis. Inhibition of cell viability in HCC cells in this study was about 120 μmol/L which seemed to be relatively higher than 40 μmol/L in SW480, LoVo, HCT‐116, and A549 cells. This could be a result of different cell lines, possible drug conditions, and cell culture conditions. Puerarin exhibited no significant liver toxicity in nude mice at 30 mg/kg/day.<xref rid="cam43285-bib-0005" ref-type="ref">
+<sup>5</sup>
+</xref> Puerarin 6″‐O‐xyloside, in contract, was safe at 60 mg/kg/day for 12 weeks in ICR mice.<xref rid="cam43285-bib-0009" ref-type="ref">
+<sup>9</sup>
+</xref> This remarkable safety was predictable, as no toxic group was introduced and the hydroxyl‐rich structure could be easy to be eliminated directly. In the current research, 100 mg/kg/day of Puerarin 6″‐O‐xyloside was used in Balb/c mice. As a result, Puerarin 6″‐O‐xyloside showed significant antitumor effects without observable toxicity. These strongly supported the possible application of Puerarin 6″‐O‐xyloside in tumors, especially in HCC.</p><p>Antitumor effects of Puerarin 6″‐O‐xyloside could be more than apoptosis. In this study, Puerarin 6″‐O‐xyloside‐inhibited proliferation was indicated by colony formation assay. Apoptosis was induced with Puerarin 6″‐O‐xyloside as indicated by flow cytometry and relative protein expression of cleaved caspase‐3. Stem‐like property was decreased by Puerarin 6″‐O‐xyloside as indicated by sphere formatting assay, number of CD133‐positive cells, and relative protein expression of stemness marker OCT4. All these effects were observed in both SMMC‐7721 and HepG2 cells in a dose‐dependent manner. These results indicated that targets of Puerarin 6″‐O‐xyloside in HCC could be complex.</p><p>Autophagy is an important regulator of apoptosis especially in the mechanism of action of antitumor therapeutics. Although autophagy is induced by drugs to initiate apoptotic cell death in vitro, autophagy enables tumor cells to evade damages from drugs in vivo.<xref rid="cam43285-bib-0015" ref-type="ref">
+<sup>15</sup>
+</xref> Knockout of autophagy‐related gene promoted incidence of premalignant lesions, while prevented established malignant tumors. This phenomenon was also validated in HCC.<xref rid="cam43285-bib-0016" ref-type="ref">
+<sup>16</sup>
+</xref> Though inhibition of autophagy in late‐stage cancers possibly would impair hematopoiesis and/or systemic immunity, co‐administration of autophagy inhibitory drugs with other therapeutics is currently being pursued for late‐stage cancers.<xref rid="cam43285-bib-0015" ref-type="ref">
+<sup>15</sup>
+</xref> In the present study, we observed that Puerarin 6″‐O‐xyloside‐induced autophagy in HepG2 cells, and inhibition of autophagy with 3‐MA significantly enhanced inhibition of proliferation and stemness, and promotion of apoptosis. These results highlighted that autophagy was possibly induced to reduce toxicity of Puerarin 6″‐O‐xyloside, and autophagy inhibitors could be a potent adjuvant for Puerarin 6″‐O‐xyloside in HCC treatment.</p><p>Mitochondria‐induced apoptosis, the predominant mechanism for targeted chemotherapy, was also indicated to be involved in the mechanism of action of Puerarin 6″‐O‐xyloside in previous studies.<xref rid="cam43285-bib-0006" ref-type="ref">
+<sup>6</sup>
+</xref> Loss of mitochondrial membrane potential is an early hallmark of mitochondria‐induced apoptosis. Upon loss of mitochondrial membrane potential, proapoptotic molecules in mitochondria, such as cytochrome c, were released out to the cytoplasm. Then, the released proapoptotic molecules interacted with adenosine triphosphate, apoptotic protease activating factor 1, and caspase‐9, and subsequently activated caspase‐3, which consequently elicited caspase‐dependent apoptotic cell death.<xref rid="cam43285-bib-0017" ref-type="ref">
+<sup>17</sup>
+</xref> In both SMMC‐7721 and HepG2 cells, apoptosis was dose dependently induced with Puerarin 6″‐O‐xyloside. Further experiments showed that loss of mitochondrial membrane potential was induced by Puerarin 6″‐O‐xyloside. These indicated the involvement of mitochondria in Puerarin 6″‐O‐xyloside‐induced apoptosis in HCC.</p><p>The in vivo anti‐lung cancer effects of Puerarin 6″‐O‐xyloside were simply characterized previously.<xref rid="cam43285-bib-0006" ref-type="ref">
+<sup>6</sup>
+</xref> Here, we investigated the effects of Puerarin 6″‐O‐xyloside in HepG2 Xenograft Balb/c nude mice. As currently maximum dosage of Puerarin 6″‐O‐xyloside (80 mg/kg/d) reported no toxicity,<xref rid="cam43285-bib-0009" ref-type="ref">
+<sup>9</sup>
+</xref> 100 mg/kg/d was employed. Administration of Puerarin 6″‐O‐xyloside significantly reduced tumor volume with 28 days. What is more, expression of KI67 and OCT4 was inhibited and apoptosis was induced in tumors of the treated mice. The in vivo experiments supported that Puerarin 6″‐O‐xyloside inhibited progression of HCC possibly through regulating proliferation, stemness, and apoptosis.</p><p>Recently, Puerarin 6″‐O‐xyloside was characterized as a specific inhibitor of histone demethylation lysine‐specific demethylase 6B (KDM6B, also called jumonji domain‐containing protein 3 or JMJD3) with an IC50 value of 30.2 μmol/L and a Ki value of 7.5 μmol/L.<xref rid="cam43285-bib-0018" ref-type="ref">
+<sup>18</sup>
+</xref> KDMs play important roles in the epigenetic regulation of gene expression, especially in hypoxia and drug resistance. For example, KDM6A directly senses oxygen. KDM6A promotes H3K27 demethylation under hypoxia to block cellular differentiation.<xref rid="cam43285-bib-0019" ref-type="ref">
+<sup>19</sup>
+</xref> Hypoxia is the hallmark of solid tumors, and it was indicated that KDM6B was induced by HIF1A, the pivotal hypoxia‐inducible protein, in human and mouse.<xref rid="cam43285-bib-0020" ref-type="ref">
+<sup>20</sup>
+</xref> Overexpressed KDM6B promoted hepatoma cell migration, proliferation, and stemness, and inhibited apoptosis, thus promoting HCC carcinogenesis.<xref rid="cam43285-bib-0021" ref-type="ref">
+<sup>21</sup>
+</xref> KDM6B in clinical specimens of HCC was correlated inversely with patient survival, and this KDM6B overexpression induced EMT, stemness, and metastasis.<xref rid="cam43285-bib-0022" ref-type="ref">
+<sup>22</sup>
+</xref> Furthermore, KDM6B induced drug resistance in multiple tumors. Inhibition of KDM6B enhanced apoptotic response to PI3K/AKT inhibitor treatment in GDC‐0941‐resistant breast cancer cells.<xref rid="cam43285-bib-0023" ref-type="ref">
+<sup>23</sup>
+</xref> In addition, KDM6B was also involved in resistance of non‐solid tumors such as large B‐cell lymphoma.<xref rid="cam43285-bib-0024" ref-type="ref">
+<sup>24</sup>
+</xref> Consequently, inhibition of KDM6B showed promising effects in vivo in specific tumors like high‐risk neuroblastoma.<xref rid="cam43285-bib-0025" ref-type="ref">
+<sup>25</sup>
+</xref> So inhibition of KDM6B might be effective to HCC. Puerarin 6″‐O‐xyloside dose dependently inhibited proliferation and stemness, and promoted apoptosis in this study. These effects were possibly resulted from inhibited demethylation that was consistent with the effects of other KDMs.<xref rid="cam43285-bib-0021" ref-type="ref">
+<sup>21</sup>
+</xref> However, downstream of KDM6B was not tested at present, and to what extent Puerarin 6″‐O‐xyloside functioned through inhibiting KDM6B was not determined yet.</p><p>PI3K/AKT/mTOR signaling is an essential upstream of autophagy, drug resistance, proliferation, and stemness and important therapeutic target that dysregulated in more than 40% of HCC patients.<xref rid="cam43285-bib-0026" ref-type="ref">
+<sup>26</sup>
+</xref> However, PI3K inhibitors used as a monotherapy have shown limited clinical outcome, possibly as a consequence of resistance and poor tolerability.<xref rid="cam43285-bib-0027" ref-type="ref">
+<sup>27</sup>
+</xref> Co‐administration of PI3K/AKT/mTOR inhibitor with other targeted therapies and development of multi‐targeted chemicals have showed promising effects in vitro and in vivo.<xref rid="cam43285-bib-0028" ref-type="ref">
+<sup>28</sup>
+</xref>, <xref rid="cam43285-bib-0029" ref-type="ref">
+<sup>29</sup>
+</xref> Inhibition of PI3K or mTOR, or in combination is different. Inhibition of mTOR alone sometimes promoted drug resistance by PI3K activating feedback, and mTOR inhibition has been testified to be beneficial for the sensitivity to PI3K inhibitors. As a result, a series of 4‐acrylamido‐quinoline derivatives, as dual inhibitors of PI3K and mTOR, showed promising biological profiles.<xref rid="cam43285-bib-0030" ref-type="ref">
+<sup>30</sup>
+</xref> Puerarin 6″‐O‐xyloside decreased the relative expression of p‐PI3K, p‐AKT, and p‐mTOR and induced autophagy dose dependently, and PI3K inhibitor 3‐MA enhanced this effect. The effects of Puerarin 6″‐O‐xyloside on PI3K/AKT/mTOR signaling indicated that it could possibly target PI3K and mTOR at the same time. As expected, co‐administration of Puerarin 6″‐O‐xyloside and 3‐MA more significantly inhibited proliferation and stemness, and promoted apoptosis in HepG2 cells.</p><p>Very interestingly, other than 4‐acrylamido‐quinoline derivatives, Puerarin 6″‐O‐xyloside shared structural similarities with fused pyrimidine‐based hydroxamates, a series of PI3K/AKT/mTOR, and class I histone deacetylases dual inhibitors.<xref rid="cam43285-bib-0030" ref-type="ref">
+<sup>30</sup>
+</xref>, <xref rid="cam43285-bib-0031" ref-type="ref">
+<sup>31</sup>
+</xref> The fused pyrimidine‐based hydroxamates showed significant single agent oral efficacy in hypervascular liver cancer models. The similarities in structure and targets as well as similar effects provide new horizon for optimizing these compounds. On the other hand, multi‐targeted chemicals, such as Puerarin 6″‐O‐xyloside, may have side effects on normal tissues. For instance, activation of PI3K/AKT often exerts protective effects. The activation of the Lyn/PI3K/Akt pathways by a green barley extract exerted a significant reduction in dead cells when undergoing aggressive oxidative stress.<xref rid="cam43285-bib-0032" ref-type="ref">
+<sup>32</sup>
+</xref> The mechanism of action of Puerarin 6″‐O‐xyloside needs to be carefully explored.</p></sec><sec id="cam43285-sec-0020"><label>5</label><title>ETHICAL APPROVAL STATEMENT</title><p>All the mice received human care and all experiments were done according to the guidelines of <italic toggle="yes">the Animal Welfare Act and the Guide for Care and Use of Laboratory Animals from the National Institutes of Health</italic>. The experimental protocols were approved by the Hunan Science and Technology Department (SYXK 2019‐0017) and in accordance with <italic toggle="yes">the Principles of Human Experimental Technique</italic> and with implications for replacement, refinement, or reduction (the 3Rs) principle.</p></sec><sec sec-type="COI-statement" id="cam43285-sec-0022"><title>CONFLICT OF INTEREST</title><p>The authors declare no conflict of interest.</p></sec><sec sec-type="COI-statement" id="cam43285-sec-0023"><title>CONFLICT OF INTEREST</title><p>The authors declare no conflict of interest.</p></sec><sec id="cam43285-sec-0024"><title>AUTHORSHIP STATEMENT</title><p>Hongbo Li and Long Li designed the research; Long Li, Jun‐Dong Liu, Guo‐Dong Gao, and Yu‐Wei Song performed the experiments; Jun‐Dong Liu and Kai Zhang collected the data; Yu‐Wei Song did the analysis; Hongbo Li drafted the manuscript; Hongbo Li revised the manuscript. All authors approved the final manuscript.</p></sec></body><back><ack id="cam43285-sec-0021"><title>ACKNOWLEDGMENT</title><p>This work was supported by the Development Plan of Medical and Health Science and Technology of Shandong Province (2018WS357).</p></ack><sec sec-type="data-availability" id="cam43285-sec-0026"><title>DATA AVAILABILITY STATEMENT</title><p>All data are available upon request.</p></sec><ref-list content-type="cited-references" id="cam43285-bibl-0001"><title>REFERENCES</title><ref id="cam43285-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="cam43285-cit-0001">
+<string-name name-style="western">
+<surname>Akinyemiju</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Abera</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ahmed</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>The burden of primary liver cancer and underlying etiologies from 1990 to 2015 at the lobal, Regional, and National Level</article-title>. <source xml:lang="en">JAMA Oncol</source>. <year>2017</year>;<volume>3</volume>(<issue>12</issue>):<fpage>1683</fpage>–<lpage>1691</lpage>. <pub-id pub-id-type="doi">10.1001/jamaoncol.2017.3055</pub-id>
+<pub-id pub-id-type="pmid">28983565</pub-id><pub-id pub-id-type="pmcid">PMC5824275</pub-id></mixed-citation></ref><ref id="cam43285-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="cam43285-cit-0002">
+<string-name name-style="western">
+<surname>Armengol</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sarrias</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sala</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Hepatocellular carcinoma: present and future</article-title>. <source xml:lang="en">Med Clin</source>. <year>2018</year>;<volume>150</volume>:<fpage>390</fpage>–<lpage>397</lpage>. <pub-id pub-id-type="doi">10.1016/j.medcli.2017.08.010</pub-id>
+<pub-id pub-id-type="pmid">29096967</pub-id></mixed-citation></ref><ref id="cam43285-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="cam43285-cit-0003">
+<string-name name-style="western">
+<surname>Chen</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xue</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xie</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Puerarin prevents isoprenaline‐induced myocardial fibrosis in mice by reduction of myocardial TGF‐beta1 expression</article-title>. <source xml:lang="en">J Nutritional Biochem</source>. <year>2012</year>;<volume>23</volume>:<fpage>1080</fpage>–<lpage>1085</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jnutbio.2011.05.015</pub-id><pub-id pub-id-type="pmid">22079205</pub-id></mixed-citation></ref><ref id="cam43285-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="cam43285-cit-0004">
+<string-name name-style="western">
+<surname>Wang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>
+<given-names>Z‐R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guo</surname>
+<given-names>X‐F</given-names>
+</string-name>, et al. <article-title>Synergistic effects of puerarin combined with 5‐fluorouracil on esophageal cancer</article-title>. <source xml:lang="en">Molecular Med Rep</source>. <year>2014</year>;<volume>10</volume>:<fpage>2535</fpage>–<lpage>2541</lpage>. <pub-id pub-id-type="doi">10.3892/mmr.2014.2539</pub-id>
+<pub-id pub-id-type="pmid">25189132</pub-id></mixed-citation></ref><ref id="cam43285-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="cam43285-cit-0005">
+<string-name name-style="western">
+<surname>Guo</surname>
+<given-names>X‐F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>
+<given-names>Z‐R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Synergistic antitumor effect of puerarin combined with 5‐fluorouracil on gastric carcinoma</article-title>. <source xml:lang="en">Molecular Med Rep</source>. <year>2015</year>;<volume>11</volume>:<fpage>2562</fpage>–<lpage>2568</lpage>. <pub-id pub-id-type="doi">10.3892/mmr.2014.3016</pub-id>
+<pub-id pub-id-type="pmcid">PMC4337718</pub-id><pub-id pub-id-type="pmid">25434307</pub-id></mixed-citation></ref><ref id="cam43285-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="cam43285-cit-0006">
+<string-name name-style="western">
+<surname>Chen</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>In vitro and in vivo antitumour activities of puerarin 6''‐O‐xyloside on human lung carcinoma A549 cell line via the induction of the mitochondria‐mediated apoptosis pathway</article-title>. <source xml:lang="en">Pharm Biol</source>. <year>2016</year>;<volume>54</volume>:<fpage>1793</fpage>–<lpage>1799</lpage>.<pub-id pub-id-type="pmid">26730946</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3109/13880209.2015.1127980</pub-id></mixed-citation></ref><ref id="cam43285-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="cam43285-cit-0007">
+<string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>WG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>XF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Meng</surname>
+<given-names>KW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hu</surname>
+<given-names>SY</given-names>
+</string-name>. <article-title>Puerarin inhibits growth and induces apoptosis in SMMC‐7721 hepatocellular carcinoma cells</article-title>. <source xml:lang="en">Molecular Med Rep</source>. <year>2014</year>;<volume>10</volume>:<fpage>2752</fpage>–<lpage>2758</lpage>. <pub-id pub-id-type="doi">10.3892/mmr.2014.2512</pub-id>
+<pub-id pub-id-type="pmid">25175767</pub-id></mixed-citation></ref><ref id="cam43285-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="cam43285-cit-0008">
+<string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>XL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>BB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mo</surname>
+<given-names>JS</given-names>
+</string-name>. <article-title>Puerarin 6''‐O‐xyloside possesses significant antitumor activities on colon cancer through inducing apoptosis</article-title>. <source xml:lang="en">Oncol Lett</source>. <year>2018</year>;<volume>16</volume>:<fpage>5557</fpage>–<lpage>5564</lpage>. <pub-id pub-id-type="doi">10.3892/ol.2018.9364</pub-id>
+<pub-id pub-id-type="pmid">30344709</pub-id><pub-id pub-id-type="pmcid">PMC6176249</pub-id></mixed-citation></ref><ref id="cam43285-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="cam43285-cit-0009">
+<string-name name-style="western">
+<surname>Li</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Anti‐osteoporotic activity of puerarin 6"‐O‐xyloside on ovariectomized mice and its potential mechanism</article-title>. <source xml:lang="en">Pharm Biol</source>. <year>2016</year>;<volume>54</volume>:<fpage>111</fpage>.<pub-id pub-id-type="pmid">25857587</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3109/13880209.2015.1017885</pub-id></mixed-citation></ref><ref id="cam43285-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="cam43285-cit-0010">
+<string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>WG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yin</surname>
+<given-names>XC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>XF</given-names>
+</string-name>, et al. <article-title>Puerarin induces hepatocellular carcinoma cell apoptosis modulated by MAPK signaling pathways in a dose‐dependent manner</article-title>. <source xml:lang="en">Anticancer Res</source>. <year>2017</year>;<volume>37</volume>(<issue>8</issue>):<fpage>4425</fpage>–<lpage>4431</lpage>.<pub-id pub-id-type="pmid">28739736</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.21873/anticanres.11837</pub-id></mixed-citation></ref><ref id="cam43285-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="cam43285-cit-0011">
+<string-name name-style="western">
+<surname>Amaravadi</surname>
+<given-names>RK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kimmelman</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Debnath</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Targeting autophagy in cancer: recent advances and future directions</article-title>. <source xml:lang="en">Cancer Discovery</source>. <year>2019</year>;<volume>9</volume>(<issue>9</issue>):<fpage>1167</fpage>–<lpage>1181</lpage>. <pub-id pub-id-type="doi">10.1158/2159-8290.cd-19-0292</pub-id>
+<pub-id pub-id-type="pmid">31434711</pub-id><pub-id pub-id-type="pmcid">PMC7306856</pub-id></mixed-citation></ref><ref id="cam43285-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="cam43285-cit-0012">
+<string-name name-style="western">
+<surname>Takamura</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Komatsu</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hara</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>Autophagy‐deficient mice develop multiple liver tumors</article-title>. <source xml:lang="en">Genes Dev</source>. <year>2011</year>;<volume>25</volume>(<issue>8</issue>):<fpage>795</fpage>–<lpage>800</lpage>. <pub-id pub-id-type="doi">10.1101/gad.2016211</pub-id>
+<pub-id pub-id-type="pmid">21498569</pub-id><pub-id pub-id-type="pmcid">PMC3078705</pub-id></mixed-citation></ref><ref id="cam43285-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="cam43285-cit-0013">
+<string-name name-style="western">
+<surname>Yan</surname>
+<given-names>S‐L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huang</surname>
+<given-names>C‐Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>S‐T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yin</surname>
+<given-names>M‐C</given-names>
+</string-name>. <article-title>Oleanolic acid and ursolic acid induce apoptosis in four human liver cancer cell lines</article-title>. <source xml:lang="en">Toxicol In Vitro</source>. <year>2010</year>;<volume>24</volume>(<issue>3</issue>):<fpage>842</fpage>–<lpage>848</lpage>. <pub-id pub-id-type="doi">10.1016/j.tiv.2009.12.008</pub-id>
+<pub-id pub-id-type="pmid">20005942</pub-id></mixed-citation></ref><ref id="cam43285-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="cam43285-cit-0014">
+<string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>YI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lou</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Screening of inhibitors against histone demethylation jumonji domain‐containing protein 3 by capillary electrophoresis</article-title>. <source xml:lang="en">J Chromatogr A</source>. <year>2020</year>;<volume>1613</volume>:<fpage>460625</fpage>.<pub-id pub-id-type="pmid">31668999</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.chroma.2019.460625</pub-id></mixed-citation></ref><ref id="cam43285-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="cam43285-cit-0015">
+<string-name name-style="western">
+<surname>Chakraborty</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Laukka</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Myllykoski</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Histone demethylase KDM6A directly senses oxygen to control chromatin and cell fate</article-title>. <source xml:lang="en">Science</source>. <year>2019</year>;<volume>363</volume>(<issue>6432</issue>):<fpage>1217</fpage>–<lpage>1222</lpage>. <pub-id pub-id-type="doi">10.1126/science.aaw1026</pub-id>
+<pub-id pub-id-type="pmid">30872525</pub-id><pub-id pub-id-type="pmcid">PMC7336390</pub-id></mixed-citation></ref><ref id="cam43285-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="cam43285-cit-0016">
+<string-name name-style="western">
+<surname>Lee</surname>
+<given-names>H‐Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Choi</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Oh</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Park</surname>
+<given-names>Y‐K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Park</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>HIF‐1‐dependent induction of jumonji domain‐containing protein (JMJD) 3 under hypoxic conditions</article-title>. <source xml:lang="en">Mol Cells</source>. <year>2014</year>;<volume>37</volume>(<issue>1</issue>):<fpage>43</fpage>–<lpage>50</lpage>.<pub-id pub-id-type="pmid">24552709</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.14348/molcells.2014.2250</pub-id><pub-id pub-id-type="pmcid">PMC3907005</pub-id></mixed-citation></ref><ref id="cam43285-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="cam43285-cit-0017">
+<string-name name-style="western">
+<surname>Junhu</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hongyang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lijun</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liwei</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jun</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liang</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>JMJD6 promotes hepatocellular carcinoma carcinogenesis by targeting CDK4</article-title>. <source xml:lang="en">Int J Cancer</source>. <year>2019</year>;<volume>144</volume>(<issue>10</issue>):<fpage>2489</fpage>–<lpage>2500</lpage>. <pub-id pub-id-type="doi">10.1002/ijc.31816</pub-id>
+<pub-id pub-id-type="pmid">30125344</pub-id></mixed-citation></ref><ref id="cam43285-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="cam43285-cit-0018">
+<string-name name-style="western">
+<surname>Tang</surname>
+<given-names>BO</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Qi</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tang</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>Aberrant JMJD3 expression upregulates slug to promote migration, invasion, and stem cell‐like behaviors in hepatocellular carcinoma</article-title>. <source xml:lang="en">Can Res</source>. <year>2016</year>;<volume>76</volume>(<issue>22</issue>):<fpage>6520</fpage>–<lpage>6532</lpage>. <pub-id pub-id-type="doi">10.1158/0008-5472.can-15-3029</pub-id>
+<pub-id pub-id-type="pmid">27651311</pub-id></mixed-citation></ref><ref id="cam43285-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="cam43285-cit-0019">
+<string-name name-style="western">
+<surname>Wenyu</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gat</surname>
+<given-names>LK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Min</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>KDM6B counteracts EZH2‐mediated suppression ofIGFBP5to confer resistance to PI3K/AKT inhibitor treatment in breast cancer</article-title>. <source xml:lang="en">Mol Cancer Ther</source>. <year>2018</year>;<volume>17</volume>(<issue>9</issue>):<fpage>1973</fpage>–<lpage>1983</lpage>. <pub-id pub-id-type="doi">10.1158/1535-7163.mct-17-0802</pub-id>
+<pub-id pub-id-type="pmid">29925528</pub-id></mixed-citation></ref><ref id="cam43285-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="cam43285-cit-0020">
+<string-name name-style="western">
+<surname>Rohit</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lalit</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ondrej</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Inhibition of demethylase KDM6B sensitizes diffuse large B‐cell lymphoma to chemotherapeutic drugs</article-title>. <source xml:lang="en">Haematologica</source>. <year>2017</year>;<volume>102</volume>(<issue>2</issue>):<fpage>373</fpage>–<lpage>380</lpage>.<pub-id pub-id-type="pmid">27742770</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3324/haematol.2016.144964</pub-id><pub-id pub-id-type="pmcid">PMC5286945</pub-id></mixed-citation></ref><ref id="cam43285-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="cam43285-cit-0021">
+<string-name name-style="western">
+<surname>Lochmann</surname>
+<given-names>TL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Powell</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jungoh</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Targeted inhibition of histone H3K27 demethylation is effective in high‐risk neuroblastoma</article-title>. <source xml:lang="en">Sci Transl Med</source>. <year>2018</year>;<volume>10</volume>(<issue>441</issue>):<elocation-id>eaao4680</elocation-id>.<pub-id pub-id-type="pmid">29769286</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/scitranslmed.aao4680</pub-id><pub-id pub-id-type="pmcid">PMC6200133</pub-id></mixed-citation></ref><ref id="cam43285-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="cam43285-cit-0022">
+<string-name name-style="western">
+<surname>Li</surname>
+<given-names>SZ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sun</surname>
+<given-names>CQ</given-names>
+</string-name>, et al. <article-title>Research advances in the mammalian target of rapamycin signaling pathway and its inhibitors in treatment of hepatocellular carcinoma</article-title>. <source xml:lang="en">Chinese J Hepatol</source>. <year>2018</year>;<volume>26</volume>(<issue>1</issue>):<fpage>77</fpage>–<lpage>80</lpage>. <pub-id pub-id-type="doi">10.3760/cma.j.issn.1007-3418.2018.01.018</pub-id>
+<pub-id pub-id-type="pmcid">PMC12769241</pub-id><pub-id pub-id-type="pmid">29804369</pub-id></mixed-citation></ref><ref id="cam43285-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="cam43285-cit-0023">
+<string-name name-style="western">
+<surname>Yang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nie</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ma</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wei</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Peng</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wei</surname>
+<given-names>X</given-names>
+</string-name>. <article-title>Targeting PI3K in cancer: mechanisms and advances in clinical trials</article-title>. <source xml:lang="en">Molecular Cancer</source>. <year>2019</year>;<volume>18</volume>(<issue>1</issue>). <pub-id pub-id-type="doi">10.1186/s12943-019-0954-x</pub-id>
+<pub-id pub-id-type="pmcid">PMC6379961</pub-id><pub-id pub-id-type="pmid">30782187</pub-id></mixed-citation></ref><ref id="cam43285-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="cam43285-cit-0024">
+<string-name name-style="western">
+<surname>Ye</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dai</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>He</surname>
+<given-names>Q</given-names>
+</string-name>, et al. <article-title>Comprehensive anti‐tumor effect of Brusatol through inhibition of cell viability and promotion of apoptosis caused by autophagy via the PI3K/Akt/mTOR pathway in hepatocellular carcinoma</article-title>. <source xml:lang="en">Biomed Pharmacother</source>. <year>2018</year>;<volume>105</volume>:<fpage>962</fpage>–<lpage>973</lpage>. <pub-id pub-id-type="doi">10.1016/j.biopha.2018.06.065</pub-id>
+<pub-id pub-id-type="pmid">30021391</pub-id></mixed-citation></ref><ref id="cam43285-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="cam43285-cit-0025">
+<string-name name-style="western">
+<surname>Wang</surname>
+<given-names>WH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xiao</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>SH</given-names>
+</string-name>, et al. <article-title>Synergistic activity of magnolin combined with B‐RAF inhibitor SB590885 in hepatocellular carcinoma cells via targeting PI3K‐AKT/mTOR and ERK MAPK pathway</article-title>. <source xml:lang="en">Am J Transl Res</source>. <year>2019</year>;<volume>11</volume>(<issue>6</issue>):<fpage>3816</fpage>–<lpage>3824</lpage>.<pub-id pub-id-type="pmid">31312391</pub-id><pub-id pub-id-type="pmcid">PMC6614620</pub-id></mixed-citation></ref><ref id="cam43285-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="cam43285-cit-0026">
+<string-name name-style="western">
+<surname>Ma</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shen</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Novel 4‐acrylamido‐quinoline derivatives as potent PI3K/mTOR dual inhibitors: the design, synthesis, and in vitro and in vivo biological evaluation</article-title>. <source xml:lang="en">Front Chem</source>. <year>2019</year>;<volume>7</volume>
+<pub-id pub-id-type="doi">10.3389/fchem.2019.00236</pub-id>
+<pub-id pub-id-type="pmcid">PMC6491818</pub-id><pub-id pub-id-type="pmid">31069214</pub-id></mixed-citation></ref><ref id="cam43285-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="cam43285-cit-0027">
+<string-name name-style="western">
+<surname>Dizhong</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kai</surname>
+<given-names>SC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huang</surname>
+<given-names>GW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Haishan</surname>
+<given-names>W</given-names>
+</string-name>. <article-title>Design, synthesis, and preclinical evaluation of fused pyrimidine‐based hydroxamates for the treatment of hepatocellular carcinoma</article-title>. <source xml:lang="en">J Med Chem</source>. <year>2018</year>;<volume>61</volume>(<issue>4</issue>):<fpage>1552</fpage>–<lpage>1575</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jmedchem.7b01465</pub-id>
+<pub-id pub-id-type="pmid">29360358</pub-id></mixed-citation></ref><ref id="cam43285-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="cam43285-cit-0028">
+<string-name name-style="western">
+<surname>Ruiz‐Medina</surname>
+<given-names>BE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dennise</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Michael</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Green barley mitigates cytotoxicity in human lymphocytes undergoing aggressive oxidative stress, via activation of both the Lyn/PI3K/Akt and MAPK/ERK pathways</article-title>. <source xml:lang="en">Scientific Rep</source>. <year>2019</year>;<volume>9</volume>(<issue>1</issue>). <pub-id pub-id-type="doi">10.1038/s41598-019-42228-4</pub-id>
+<pub-id pub-id-type="pmcid">PMC6461650</pub-id><pub-id pub-id-type="pmid">30979953</pub-id></mixed-citation></ref><ref id="cam43285-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="cam43285-cit-0029">
+<string-name name-style="western">
+<surname>Elisa</surname>
+<given-names>RE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dennise</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nyakeriga</surname>
+<given-names>AM</given-names>
+</string-name>, et al. <article-title>Searching in mother nature for anti‐cancer activity: anti‐proliferative and pro‐apoptotic effect elicited by green barley on leukemia/lymphoma cells</article-title>. <source xml:lang="en">PLoS ONE</source>. <year>2013</year>;<volume>8</volume>(<issue>9</issue>):<elocation-id>e73508</elocation-id>.<pub-id pub-id-type="pmid">24039967</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0073508</pub-id><pub-id pub-id-type="pmcid">PMC3767772</pub-id></mixed-citation></ref><ref id="cam43285-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="cam43285-cit-0030">
+<string-name name-style="western">
+<surname>Robles‐Escajeda</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Das</surname>
+<given-names>U</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ortega</surname>
+<given-names>NM</given-names>
+</string-name>, et al. <article-title>A novel curcumin‐like dienone induces apoptosis in triple‐negative breast cancer cells</article-title>. <source xml:lang="en">Cell Oncol</source>. <year>2016</year>;<volume>39</volume>(<issue>3</issue>):<fpage>265</fpage>–<lpage>277</lpage>. <pub-id pub-id-type="doi">10.1007/s13402-016-0272-x</pub-id>
+<pub-id pub-id-type="pmcid">PMC4899127</pub-id><pub-id pub-id-type="pmid">26920032</pub-id></mixed-citation></ref><ref id="cam43285-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="cam43285-cit-0031">
+<string-name name-style="western">
+<surname>Villanueva</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Alberto</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baca</surname>
+<given-names>ST</given-names>
+</string-name>. <article-title>Pyronaridine exerts potent cytotoxicity on human breast and hematological cancer cells through induction of apoptosis</article-title>. <source xml:lang="en">PLOS ONE</source>. <year>2018</year>;<volume>13</volume>(<issue>11</issue>):<elocation-id>e0206467</elocation-id>.<pub-id pub-id-type="pmid">30395606</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0206467</pub-id><pub-id pub-id-type="pmcid">PMC6218039</pub-id></mixed-citation></ref><ref id="cam43285-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="cam43285-cit-0032">
+<string-name name-style="western">
+<surname>Gutierrez</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>DeJesus</surname>
+<given-names>RE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Contreras</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>A new pyridazinone exhibits potent cytotoxicity on human cancer cells via apoptosis and poly‐ubiquitinated protein accumulation</article-title>. <source xml:lang="en">Cell Biol Toxicol</source>. <year>2019</year>;<volume>35</volume>(<issue>6</issue>):<fpage>503</fpage>–<lpage>519</lpage>.<pub-id pub-id-type="pmid">30825052</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s10565-019-09466-8</pub-id><pub-id pub-id-type="pmcid">PMC6800828</pub-id></mixed-citation></ref></ref-list></back></article>

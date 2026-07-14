@@ -1,0 +1,410 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article article-type="research-article" xml:lang="en" dtd-version="1.4"><front><journal-meta><journal-id journal-id-type="nlm-ta">Braz J Med Biol Res</journal-id><journal-id journal-id-type="iso-abbrev">Braz. J. Med. Biol. Res</journal-id><journal-id journal-id-type="pmc-domain-id">1733</journal-id><journal-id journal-id-type="pmc-domain">bjmbr</journal-id><journal-id journal-id-type="nlm-id">8112917</journal-id><journal-id journal-id-type="publisher-id">bjmbr</journal-id><journal-title-group><journal-title>Brazilian Journal of Medical and Biological Research</journal-title></journal-title-group><issn pub-type="ppub">0100-879X</issn><issn pub-type="epub">1414-431X</issn><publisher><publisher-name>Associação Brasileira de Divulgação Científica</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC6002139</article-id><article-id pub-id-type="pmcid-ver">PMC6002139.1</article-id><article-id pub-id-type="pmcaid">6002139</article-id><article-id pub-id-type="pmcaiid">6002139</article-id><article-id pub-id-type="pmid">29791590</article-id><article-id pub-id-type="doi">10.1590/1414-431X20187046</article-id><article-id pub-id-type="other">00615</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group></article-categories><title-group><article-title>lncRNA CCAT1 promotes cell proliferation, migration, and invasion by
+down-regulation of miR-143 in FTC-133 thyroid carcinoma cell
+line</article-title></title-group><contrib-group><contrib contrib-type="author"><name name-style="western"><surname>Yang</surname><given-names initials="T">Tianzheng</given-names></name><xref ref-type="aff" rid="aff1">1</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Zhai</surname><given-names initials="H">Hongyan</given-names></name><xref ref-type="aff" rid="aff1">1</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Yan</surname><given-names initials="R">Ruihong</given-names></name><xref ref-type="aff" rid="aff1">1</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Zhou</surname><given-names initials="Z">Zhenhu</given-names></name><xref ref-type="aff" rid="aff1">1</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Gao</surname><given-names initials="L">Lei</given-names></name><xref ref-type="aff" rid="aff1">1</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Wang</surname><given-names initials="L">Luqing</given-names></name><xref ref-type="aff" rid="aff2">2</xref></contrib><aff id="aff1">
+<label>1</label>Department of Nuclear Medicine, Liaocheng People's Hospital,
+Liaocheng, Shandong, China</aff><aff id="aff2">
+<label>2</label>Department of Radioimmunoassay, Liaocheng People's Hospital,
+Liaocheng, Shandong, China</aff></contrib-group><author-notes><corresp id="cor1">Correspondence: Ruihong Yan:
+&lt;<email>yanruihong810@126.com</email>&gt;</corresp></author-notes><pub-date pub-type="epub"><day>21</day><month>5</month><year>2018</year></pub-date><pub-date pub-type="collection"><year>2018</year></pub-date><volume>51</volume><issue>6</issue><issue-id pub-id-type="pmc-issue-id">312225</issue-id><elocation-id>e7046</elocation-id><history><date date-type="received"><day>29</day><month>8</month><year>2017</year></date><date date-type="accepted"><day>16</day><month>2</month><year>2018</year></date></history><pub-history><event event-type="pmc-release"><date><day>21</day><month>05</month><year>2018</year></date></event><event event-type="pmc-live"><date><day>06</day><month>07</month><year>2018</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-09-01 12:25:40.887"><day>01</day><month>09</month><year>2025</year></date></event></pub-history><permissions><license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by/4.0/"><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an Open Access article distributed under the terms of the
+Creative Commons Attribution Non-Commercial License, which permits
+unrestricted non-commercial use, distribution, and reproduction in any
+medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="1414-431X-bjmbr-51-6-e7046.pdf"/><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="retraction-forward" xml:lang="en" xlink:title="retraction" journal-id="Braz J Med Biol Res" journal-id-type="nlm-ta" ext-link-type="pmc" xlink:href="PMC8208769"><article-title>Retraction notice for: “lncRNA CCAT1 promotes cell proliferation, migration, and invasion by down-regulation of miR-143 in FTC-133 thyroid carcinoma cell line” [Braz J Med Biol Res (2018) 51(6): e7046]</article-title><volume>54</volume><issue>6</issue><date><day>14</day><month>6</month><year>2021</year></date><elocation-id>e7046retraction</elocation-id><source>Brazilian Journal of Medical and Biological Research</source><pub-id pub-id-type="doi">10.1590/1414-431X2020e7046retraction</pub-id><pub-id pub-id-type="pmcid">PMC8208769</pub-id><pub-id pub-id-type="pmid">34133476</pub-id></related-article><abstract><p>Thyroid cancer is a common malignant tumor. Long non-coding RNA colon
+cancer-associated transcript 1 (lncRNA CCAT1) is highly expressed in many
+cancers; however, the molecular mechanism of CCAT1 in thyroid cancer remains
+unclear. Hence, this study aimed to investigate the effect of CCAT1 on human
+thyroid cancer cell line FTC-133. FTC-133 cells were transfected with CCAT1
+expressing vector, CCAT1 shRNA, miR-143 mimic, and miR-143 inhibitor,
+respectively. After different treatments, cell viability, proliferation,
+migration, invasion, and apoptosis were measured. Moreover, the regulatory
+relationship of CCAT1 and miR-143, as well as miR-143 and VEGF were tested using
+dual-luciferase reporter assay. The relative expressions of CCAT1, miR-143, and
+VEGF were tested by qRT-PCR. The expressions of apoptosis-related factors and
+corresponding proteins in PI3K/AKT and MAPK pathways were analyzed using western
+blot analysis. The results suggested that CCAT1 was up-regulated in the FTC-133
+cells. CCAT1 suppression decreased FTC-133 cell viability, proliferation,
+migration, invasion, and miR-143 expression, while it increased apoptosis and
+VEGF expression. CCAT1 might act as a competing endogenous RNA (ceRNA) for
+miR-143. Moreover, CCAT1 activated PI3K/AKT and MAPK signaling pathways through
+inhibition of miR-143. This study demonstrated that CCAT1 exhibited
+pro-proliferative and pro-metastasis functions on FTC-133 cells and activated
+PI3K/AKT and MAPK signaling pathways via down-regulation of miR-143. These
+findings will provide a possible target for clinical treatment of thyroid
+cancer.</p></abstract><kwd-group><kwd>Thyroid cancer</kwd><kwd>CCAT1</kwd><kwd>miR-143</kwd><kwd>VEGF</kwd><kwd>PI3K/AKT pathway</kwd><kwd>MAPK pathway</kwd></kwd-group><counts><fig-count count="6"/><table-count count="0"/><equation-count count="0"/><ref-count count="36"/><page-count count="10"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="intro"><title>Introduction</title><p>Thyroid cancer is a common endocrine system malignant tumor, accounting for about 3%
+of all malignant tumors (<xref rid="B01" ref-type="bibr">1</xref>). It can be
+divided into two types: differentiated and undifferentiated (<xref rid="B02" ref-type="bibr">2</xref>). The five-year survival rate of differentiated thyroid
+cancer could reach 90%, but for the undifferentiated type, it is less than 10%
+(<xref rid="B03" ref-type="bibr">3</xref>). Over the past few decades, the
+incidence of thyroid cancer has been rising globally. Although this disease has
+improved with early diagnosis and treatment, the mortality rate has not declined
+(<xref rid="B04" ref-type="bibr">4</xref>). Hence, it is necessary to study the
+pathogenesis and regulatory mechanisms of thyroid cancer in order to effectively
+reduce mortality and improve clinical treatment.</p><p>With the rapid development of tumor molecular biology, many researchers have studied
+tumors using modern molecular technology. The findings show that tumor development
+involves a series of key molecules, such as cancer stem cells, long non-coding RNAs
+(lncRNAs), and microRNAs (miRNAs) (<xref rid="B05" ref-type="bibr">5</xref>
+<xref rid="B06" ref-type="bibr"/>–<xref rid="B07" ref-type="bibr">7</xref>). These
+molecules are important for almost all cancers and are responsible for the
+modulation of the tumor microenvironment in malignant processes (<xref rid="B07" ref-type="bibr">7</xref>).</p><p>lncRNAs are a class of conserved non-coding RNA in eukaryotic cells with a length
+longer than 200 nt (<xref rid="B08" ref-type="bibr">8</xref>). Accumulating evidence
+suggests that a number of lncRNAs play important roles in the development of many
+cancers (<xref rid="B09" ref-type="bibr">9</xref>,<xref rid="B10" ref-type="bibr">10</xref>). For example, Tuo et al. reported that lncRNA UCA1 was up-regulated
+and could regulate cell proliferation and apoptosis in breast cancer by
+down-regulation of miR-143 (<xref rid="B09" ref-type="bibr">9</xref>). lncRNA GAS5
+is low-expressed in lung cancer tissues and regulates cell proliferation and
+apoptosis by activating p53 and E2F1 signaling pathways (<xref rid="B10" ref-type="bibr">10</xref>). In addition, some lncRNA expressions could be used as
+markers for cancer diagnosis (<xref rid="B11" ref-type="bibr">11</xref>); for
+example, lncRNA PVT1 is an independent risk factor for hepatocellular carcinoma
+(HCC) recurrence (<xref rid="B12" ref-type="bibr">12</xref>). Furthermore, lncRNA
+colon cancer-associated transcript 1 (CCAT1) was first discovered in 2012 (<xref rid="B13" ref-type="bibr">13</xref>) and is highly expressed in many cancers,
+including gastric cancer, colon cancer, and HCC (<xref rid="B14" ref-type="bibr">14</xref>–<xref rid="B16" ref-type="bibr">16</xref>). Meanwhile, CCAT1 promotes
+proliferation, migration, and invasion of cancer cells inducing tumorigenesis and
+metastasis process. Moreover, Deng et al. (<xref rid="B15" ref-type="bibr">15</xref>) showed that CCAT1 boosts HCC progression via functioning as a let-7
+sponge. However, the regulation and molecular mechanism of CCAT1 in the thyroid
+cancer remain unclear.</p><p>miRNAs are widely distributed in eukaryotes and can participate in many physiological
+processes, including proliferation, apoptosis, and differentiation of biological
+cells (<xref rid="B05" ref-type="bibr">5</xref>). In previous studies, miR-143 was
+found to be highly expressed in several cancers and was mainly identified as tumor
+suppressor by inhibiting tumor growth (<xref rid="B17" ref-type="bibr">17</xref>,<xref rid="B18" ref-type="bibr">18</xref>). Only one study reported
+that miR-143 expression was decreased in thyroid cancer and B-cell malignancies
+(<xref rid="B18" ref-type="bibr">18</xref>).</p><p>Therefore, we aimed to explore the molecular mechanism of lncRNA CCAT1 to reveal its
+potential in thyroid cancer therapy by focusing on the regulation between CCAT1 and
+miR-143.</p></sec><sec sec-type="materials|methods"><title>Material and Methods</title><sec><title>Cell culture</title><p>Human follicular thyroid carcinoma cell line FTC-133 (BNCC337959) and human
+thyroid normal cell line Nthy-ori 3–1 (BNCC340487) were purchased from BeNa
+Culture Collection (BNCC; China). The cells were cultured in 90% Dulbecco's
+Modified Eagle's Medium (DMEM; Solarbio, China) supplemented with 100 U/mL
+penicillin, 100 mg/mL streptomycin, and 10% heat-inactivated fetal bovine serum
+(FBS; all from Sigma-Aldrich, USA), and incubated in a humid atmosphere
+containing 5% CO<sub>2</sub> at 37°C.</p></sec><sec><title>Cell transfection</title><p>In order to test CCAT1 expression, short-hairpin RNA (shRNA) directed against
+human lncRNA CCAT1 was ligated into the U6/GFP/Neo plasmid (GenePharma, China)
+to become sh-CCAT1. The full-length CCAT1 sequence was constructed in pEX-2, and
+was called pEX-CCAT1. The plasmid carrying a non-targeting sequence was used as
+a negative control (NC) of sh-CCAT1 that was referred to as sh-NC. miR-143
+mimic, inhibitor, and their respective NCs were synthesized and transfected into
+FTC-133 cells in this study (GenePharma). Following the manufacturer's
+instructions, cell transfection was performed using Lipofectamine<sup>TM</sup>
+3000 reagent (Thermo Fisher Scientific, USA). The stably transfected cells were
+selected by the culture medium containing 0.5 mg/mL G418 (Sigma-Aldrich, USA).
+After approximately 4 weeks, G418-resistant FTC-133 cells were established and
+collected for the subsequent experiments.</p></sec><sec><title>Cell viability assay</title><p>FTC-133 cells were seeded in 96-well plates with 2×10<sup>3</sup> cells/well and
+assessed by Cell Counting Kit-8 (CCK-8; Dojindo Molecular Technologies, USA).
+Briefly, 10 μL of CCK-8 solution was added to each well, and the cultures were
+then incubated for 1 h at 37°C in humidified 95% air and 5% CO<sub>2</sub>. The
+experiment was repeated three times. Absorbance was measured at 450 nm using a
+Microplate Reader (Bio-Rad, Hercules, USA).</p></sec><sec><title>Cell proliferation assay</title><p>FTC-133 cells were seeded in 96-well plates with 2×10<sup>3</sup> cells/well.
+Cell proliferation was evaluated using BrdU Cell Proliferation Assay Kit
+(Sigma-Aldrich) following the manufacturer's instructions. In brief, BrdU was
+added to each well, and cultures were incubated for 40 min at 37°C. Cells were
+then washed in phosphate buffered saline (PBS) twice and fixed with methanol for
+10 min. Each experiment was repeated at least three times independently.
+Absorbance was measured at 450 nm using a Microplate Reader (Bio-Rad).</p></sec><sec><title>Cell migration and invasion assay</title><p>Cell migration was determined using a modified two-chamber method with a pore
+size of 8-μm membranes. FTC-133 cells (2×10<sup>4</sup> /ml) were suspended in
+100 μl of serum-free DMEM medium and seeded on the upper compartment of 24-well
+Transwell culture chamber (Millipore, USA). DMEM (500 μL) medium including 10%
+fetal bovine serum (FBS; Sijiqing, China) was added to the lower compartment.
+After incubation for 24 h at 37°C in 5% CO<sub>2</sub> atmosphere, all cells
+were fixed with 95% ethanol for 30 min. Non-traversed cells were removed from
+the upper surface of the filter carefully with a cotton swab; the traversed
+cells on the lower side of the filter were stained with 0.5% crystal violet
+(Solarbio, China) for 30 min and counted under a microscope (Leica Microsystems,
+Germany). The experiment was repeated three times.</p><p>Cell invasion was measured using 24-well Millicell¯ Hanging Cell Culture Inserts
+with 8-μm PET membranes (Millipore). FTC-133 cells (2×10<sup>4</sup>/mL) in 200
+μL serum-free DMEM medium were plated onto BD BioCoat<sup>TM</sup>
+Matrigel<sup>TM</sup> Invasion Chamber (BD Biosciences, USA), while DMEM
+medium containing 10% FBS was added to the lower chamber. After processing the
+invasion chambers for 48 h at 37°C (5% CO<sub>2</sub>) in accordance with the
+manufacturer's protocol, the non-invading cells were removed with a cotton swab.
+The invading cells were fixed in 100% methanol for 30 min, stained with 0.5%
+crystal violet solution for 30 min, and then counted microscopically. The
+experiment was repeated three times.</p></sec><sec><title>Apoptosis assay</title><p>Apoptotic assays were performed using Annexin V-FITC/PI Apoptosis Detection Kit
+(Sigma-Aldrich). In brief, stable FTC-133 cells (2×10<sup>4</sup> /mL) were
+washed in cold PBS three times and stained in 200 µL of binding buffer including
+10 µL Annexin V-FITC and 5 µL of PI in the presence of 50 μg/mL RNase A
+(Sigma-Aldrich), and then incubated for 1 h at room temperature in the dark.
+Flow cytometry analysis was done using a FACScan (Beckman Coulter, USA). The
+data were analyzed by using FlowJo software (Treestar, Inc., USA).</p></sec><sec><title>Dual-luciferase reporter assay</title><p>The fragment from CCAT1 was amplified by PCR and then cloned into a pmirGLO
+dual-luciferase miRNA Target Expression Vector (Promega, USA). Then, miR-143
+mimics were individually co-transfected with the reporter vector CCAT1-wild-type
+(CCAT1-wt) or CCAT1-mutated-type (CCAT1-mt) into FTC-133 cells. The fragment
+from VEGF 3′UTR was amplified by PCR and then cloned into a pmirGLO
+dual-luciferase miRNA Target Expression Vector (Promega). miR-143 mimics were
+individually co-transfected with the reporter vector VEGF 3′UTR-wild-type (VEGF
+3′UTR-wt) or VEGF 3′UTR-mutated-type (VEGF 3′UTR-mt) into FTC-133 cells.
+Dual-luciferase¯ Reporter Assay System Protocol (Promega) was used to measure
+the luciferase activity after 48 h of cell transfection and collection. The
+experiment was repeated three times independently.</p></sec><sec><title>Quantitative real-time polymerase chain reaction (qRT-PCR)</title><p>According to the manufacturer's instructions, total RNA was extracted from
+FTC-133 cells using Trizol reagent (Life Technologies Corporation, USA). The
+expression level of CCAT1 was tested using One Step SYBR¯ PrimeScript¯ PLUS
+RT-RNA PCR Kit (TaKaRa Biotechnology, China). The Taqman MicroRNA Reverse
+Transcription Kit and Taqman Universal Master Mix II (both from Applied
+Biosystems, USA) were used to detect the level of miR-143 expression. The GAPDH
+and U6 were used in this study for normalizing CCAT1 and miR-143 levels. The
+sequences of qRT-PCR primers were as follows: lncRNA CCAT1,
+5′-AGAAACACTATCACCTACGC-3′ (Forward) and 5′-CTTAACAGGGCATTGCTAATCT-3′ (Reverse);
+miR-143, 5′-AAGCTTAAGGTCAAGGTTTGGTCCT-3 (Forward) and
+5′-CTCGAGTGCTAAGATGGACACACTGG-3′ (Reverse); U6, 5′-CGCTTCGGCAGCACATATACTA-3′
+(Forward) and 5′-CGCTTCACGAATTTGCGTGTCA-3′ (Reverse); GAPDH,
+5′-TGTTGCCATCAATGACCCCTT-3′ (Forward) and 5′-CTCCACGACGTACTCAGCG-3′ (Reverse);
+sh-CCAT1, 5′-CCTGGCCCTCTCATCAGAGACTTGACTTA-3′; miR-143 mimic,
+5′-GGUGCAGUGCUGCAUCUCUGGU-3′ (mimics sense) and 5′-CAGAGAUGCAGCACUGCACCUU-3′
+(mimics antisense); and miR-143 inhibitor, 5′-ACCAGAGAUGCAGCACUGCACC-3′. Fold
+changes were calculated by the relative quantification (2<sup>−ΔΔCt</sup>)
+method (<xref rid="B19" ref-type="bibr">19</xref>).</p></sec><sec><title>Western blot analysis</title><p>RIPA lysis buffer (Beyotime Biotechnology, China) supplemented with protease
+inhibitors (Roche, China) was used to extract the proteins for western blot
+analysis. Proteins were quantified using the BCA™ Protein Assay Kit (Pierce,
+Appleton, USA) following the manufacturer's protocol. Then, proteins (30
+μg/sample) were loaded, electrophoresed by 10% sodium dodecyl
+sulfate-polyacrylamide gel electrophoresis (SDS-PAGE), and transferred to the
+polyvinylidene difluoride (PVDF) membranes. The primary antibody of VEGFA
+(ab46154), Bcl-2 (ab32124), Bax (ab32503), pro-caspase-3 (ab32499),
+cleaved-caspase-3 (ab2302), pro-caspase-9 (ab135544), cleaved-caspase-9
+(ab2324), PI3K p85 (ab191606), p-P13K p85 (ab182651), AKT (ab8805), p-AKT
+(ab38449), MAPKAP Kinase 2 (ab131531), p-MAPKAP Kinase 2 (ab131504), and GAPDH
+(ab9485) were obtained from Abcam (China), prepared in 5% blocking buffer at a
+dilution of 1:1000, incubated with the membrane for 2 h at 4°C, washed twice in
+PBS, and then cultivated with secondary antibody (1:1000) marked by horseradish
+peroxidase for 2 h at room temperature. Immobilon Western chemiluminescent HRP
+substrate (200 μL; Millipore) was added to cover the membrane surface, the
+signals were captured, and the intensity of the bands was quantified using Image
+Lab™ software (Bio-Rad).</p></sec><sec><title>Statistical analysis</title><p>The results are reported as means±SD. Statistical analyses were performed using
+SPSS 19.0 statistical software (IBM Corporation, USA). The P-values were
+calculated using a one-way analysis of variance (ANOVA).
+P<italic toggle="yes">&lt;</italic>0.05 indicated a statistically significant result.</p></sec></sec><sec sec-type="results"><title>Results</title><sec><title>CCAT1 overexpression enhanced cell viability, proliferation, migration, and
+invasion in FTC-133 cells</title><p>In order to assess the effect of CCAT1 on thyroid carcinoma cells, we first
+detected the expression level of CCAT1 in different cell lines using qRT-PCR,
+and found that CCAT1 was up-regulated in thyroid carcinoma cell line FTC-133
+compared with human thyroid normal cell line Nthy-ori 3–1 (P&lt;0.01, <xref ref-type="fig" rid="f01">Figure 1A</xref>). The transfection efficiency of
+CCAT1 overexpression and suppression were examined in FTC-133 cells. As shown in
+<xref ref-type="fig" rid="f01">Figure 1B and C</xref>, CCAT1 expression was
+significantly down-regulated in the sh-CCAT1 group and up-regulated in the
+pEX-CCAT1 group (both P&lt;0.01). The results of CCK-8, BrdU, Transwell, and
+invasion assay (<xref ref-type="fig" rid="f02">Figure 2A and D</xref>) showed
+that cell viability, proliferation, migration, and invasion were all increased
+when CCAT1 was overexpressed (all P&lt;0.05). However, suppression of CCAT1
+displayed the opposite results; that is, cell viability, proliferation,
+migration, and invasion were greatly reduced (all P&lt;0.05). Subsequently,
+apoptosis and the expressions of apoptosis-related proteins were detected using
+flow cytometry analysis and western blot, respectively. The results suggested
+that apoptosis was significantly elevated by CCAT1 knockdown (P&lt;0.001). The
+expression of Bcl-2 was down-regulated and Bax, cleaved-caspase-3, and
+cleaved-caspase-9 expressions were up-regulated in sh-CCAT1 group (<xref ref-type="fig" rid="f02">Figure 2E and F</xref>). Moreover, CCAT1
+overexpression had little effect on apoptosis.</p><fig id="f01" orientation="portrait" position="float"><label>Figure 1.</label><caption><title>Expression of CCAT1 in FTC-133 cells. Cells were transfected with
+CCAT1 expressing vector or CCAT1 shRNA. <italic toggle="yes">A</italic>, The mRNA
+level of CCAT1 was detected using qRT-PCR in Nthy-ori 3–1 cells and
+FTC-133 cells. <italic toggle="yes">B</italic> and <italic toggle="yes">C</italic>, The expression
+level of CCAT1 suppression and overexpression were tested by using
+qRT-PCR in FTC-133 cells. NC: negative control. Data are reported as
+means±SD. **P&lt;0.01 (ANOVA).</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="1414-431X-bjmbr-51-6-e7046-gf001.jpg"/></fig><fig id="f02" orientation="portrait" position="float"><label>Figure 2.</label><caption><title>CCAT1 increased cell viability, proliferation, migration, and
+invasion in FTC-133 cells. Cells were transfected with CCAT1 expressing
+vector or CCAT1 shRNA. <italic toggle="yes">A</italic> to <italic toggle="yes">E</italic>, Cell
+viability, proliferation, migration, invasion, and apoptosis were
+measured using CCK-8, BrdU assay, Transwell assay, invasion assay, and
+flow cytometry analysis, respectively. <italic toggle="yes">F</italic>, The
+expressions of apoptosis-related proteins were detected using western
+blot analysis. NC: negative control. Data are reported as means±SD.
+*P&lt;0.05; ***P&lt;0.001 (ANOVA).</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="1414-431X-bjmbr-51-6-e7046-gf002.jpg"/></fig></sec><sec><title>CCAT1 overexpression promoted vascular endothelial growth factor (VEGF)
+expression in FTC-133 cells via down-regulation of miR-143</title><p>The regulatory relationship between CCAT1 and miR-143 was detected using qRT-PCR
+and dual-luciferase reporter assay. Thus, the expressing vector and shRNA of
+CCAT1 were transfected into FTC-133 cells to overexpress and silence CCAT1
+expression, respectively. The expression of miR-143 was clearly up-regulated by
+CCAT1 suppression and down-regulated by CCAT1 overexpression in FTC-133 cells
+(P&lt;0.05 or P&lt;0.01; <xref ref-type="fig" rid="f03">Figure 3A</xref>). <xref ref-type="fig" rid="f03">Figure 3B</xref> showed that CCAT1 had binding
+sites for miR-143, which might better explain the negative regulatory
+relationship between CCAT1 and miR-143. Therefore, we suspected that CCAT1 might
+be working as a competitive endogenous RNA (ceRNA) for miR-143. To verify this
+hypothesis, dual-luciferase reporter assay was performed. The relative
+luciferase activity in FTC-133 cells that were co-transfected with CCAT1-wt and
+miR-143 mimic was lower than the cells co-transfected with CCAT1-mt and NC
+(P&lt;0.05; <xref ref-type="fig" rid="f03">Figure 3C</xref>). Shown in <xref ref-type="fig" rid="f03">Figure 3D and E</xref>, the results of qRT-PCR and
+western blot displayed that CCAT1 knockdown decreased the expression of VEGF,
+while the opposite results were observed in pEX-CCAT1 group (P&lt;0.05 or
+P&lt;0.01). To further explore the relationship between miR-143 and VEGF in
+FTC-133 cells, we analyzed VEGF expression in cells transfected with miR-143
+mimic or inhibitor. As shown in <xref ref-type="fig" rid="f03">Figure 3F</xref>,
+efficiency of miR-143 up-regulation and inhibition was confirmed by using
+qRT-PCR. <xref ref-type="fig" rid="f03">Figure 3G and H</xref> suggested that
+the mRNA and protein levels of VEGF were reduced in miR-143 mimic-treated cells,
+while miR-143 inhibitor up-regulated the expression of VEGF (P&lt;0.05 or
+P&lt;0.01). As shown in <xref ref-type="fig" rid="f03">Figure 3I</xref>, there
+was a binding site for miR-143 in VEGF. The relative luciferase activity in
+FTC-133 cells co-transfected with VEGF 3UTR-wt and miR-143 mimic was lower than
+cells co-transfected with VEGF 3UTR-mt and NC (P&lt;0.05, <xref ref-type="fig" rid="f03">Figure 3J</xref>). Therefore, miR-143 and VEGF exhibited the
+negative regulatory relationship, which explained the positive regulation of
+CCAT1 on VEGF.</p><fig id="f03" orientation="portrait" position="float"><label>Figure 3.</label><caption><title>CCAT1 promoted the up-regulation of VEGF via inhibition of miR-143.
+FTC-133 cells were transfected with CCAT1 expressing vector, CCAT1
+shRNA, miR-143 mimic, or miR-143 inhibitor. <italic toggle="yes">A</italic>, mRNA
+expression of miR-143 was detected in FTC-133 cells using qRT-PCR.
+<italic toggle="yes">B</italic>, The predicated miR-143 binding site of CCAT1
+(CCAT1-wt) and the designed CCAT1-mt are indicated. <italic toggle="yes">C</italic>,
+The binding relationship between CCAT1 and miR-143 was assessed using
+dual-luciferase reporter assay. <italic toggle="yes">D</italic>, mRNA levels of VEGF
+in FTC-133 cells were detected using qRT-PCR. <italic toggle="yes">E</italic>, The
+protein level of VEGF with sh-CCAT1 or pEX-CCAT1 was analyzed using
+western blot analysis. <italic toggle="yes">F</italic>, <italic toggle="yes">G</italic>, mRNA
+levels of miR-143 and VEGF with miR-143 mimic or inhibitor were tested
+using qRT-PCR. <italic toggle="yes">H</italic>, The protein level of VEGF with
+miR-143 mimic or inhibitor were detected using western blot analysis.
+<italic toggle="yes">I</italic>, The predicted miR-143 binding site of VEGF 3′UTR
+(VEGF 3′UTR-wt) and the designed VEGF 3′UTR-mt are indicated.
+<italic toggle="yes">J</italic>, The binding relationship between miR-143 and
+VEGF 3′UTR was assessed using dual-luciferase reporter assay. NC:
+negative control. Data are reported as means±SD. *P&lt;0.05; **P&lt;0.01
+(ANOVA).</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="1414-431X-bjmbr-51-6-e7046-gf003.jpg"/></fig></sec><sec><title>CCAT1 overexpression increased cell viability, proliferation, migration, and
+invasion in FTC-133 cells by down-regulating miR-143 expression</title><p>The effects of CCAT1 in combination with miR-143 were further studied on FTC-133
+cells. CCAT1 overexpression plus miR-143 overexpression decreased cell viability
+and proliferation relative to only CCAT1 overexpression (both P&lt;0.05; <xref ref-type="fig" rid="f04">Figure 4A to D</xref>). Cell viability and
+proliferation were increased after CCAT1 suppression plus miR-143 knockdown
+relative to only CCAT1 suppression (both P&lt;0.05). Similarly, miR-143
+overexpression inhibited the increases of cell migration and invasion induced by
+CCAT1 overexpression; on the contrary, miR-143 knockdown enhanced the reduction
+of migration and invasion induced by CCAT1 suppression (all P&lt;0.05; <xref ref-type="fig" rid="f05">Figure 5A to D</xref>). In addition, we also
+detected expressions of apoptosis and apoptosis-related proteins by the
+treatments of miR-143 silence combined with CCAT1 suppression. As shown in <xref ref-type="fig" rid="f05">Figure 5E and F</xref>, apoptosis, Bax, and cleaved
+caspase-3/9 expressions were significantly reduced; Bcl-2 expression was
+simultaneously increased in sh-CCAT1+miR-143 inhibitor group compared with
+sh-CCAT1+NC group (P&lt;0.05).</p><fig id="f04" orientation="portrait" position="float"><label>Figure 4.</label><caption><title>CCAT1 enhanced cell viability and proliferation via the inhibition of
+miR-143. FTC-133 cells were transfected with CCAT1 expressing vector,
+CCAT1 shRNA, miR-143 mimic, or miR-143 inhibitor. <italic toggle="yes">A</italic> and
+<italic toggle="yes">B</italic>, Cell viability, and <italic toggle="yes">C</italic> and
+<italic toggle="yes">D</italic>, proliferation were measured in FTC-133 cells
+using CCK-8 and BrdU assay, respectively. NC: negative control. Data are
+reported as means±SD. *P&lt;0.05 (ANOVA).</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="1414-431X-bjmbr-51-6-e7046-gf004.jpg"/></fig><fig id="f05" orientation="portrait" position="float"><label>Figure 5.</label><caption><title>CCAT1 enhanced cell migration and invasion via the inhibition of
+miR-143. FTC-133 cells were transfected with CCAT1 expressing vector,
+CCAT1 shRNA, miR-143 mimic, or miR-143 inhibitor. <italic toggle="yes">A</italic> and
+<italic toggle="yes">B</italic>, Cell migration, <italic toggle="yes">C</italic> and
+<italic toggle="yes">D</italic>, invasion, and (<italic toggle="yes">E</italic>) apoptosis
+were measured in FTC cells using Transwell assay, invasion assay, and
+flow cytometry analysis, respectively. <italic toggle="yes">F</italic>, The
+expressions of apoptosis-related proteins were detected using western
+blot analysis. NC: negative control. Data are reported as means±SD.
+*P&lt;0.05, ***P&lt;0.001 (ANOVA).</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="1414-431X-bjmbr-51-6-e7046-gf005.jpg"/></fig></sec><sec><title>CCAT1 overexpression activated PI3K/AKT and MAPK signaling pathways via
+down-regulation of miR-143</title><p>The expressions of the proteins associated with PI3K/AKT and MAPK signaling
+pathways were assessed using western blot analysis. The results (<xref ref-type="fig" rid="f06">Figure 6A and B</xref>) displayed that the levels
+of p-P13K p85, p-AKT, and p-MAPKAP kinase 2 were all obviously up-regulated
+after CCAT1 overexpression, and then miR-143 overexpression inhibited these
+increases. Conversely, CCAT1 knockdown down-regulated p-P13K, p85, p-AKT, and
+p-MAPKAP Kinase 2 expressions, while their expressions were further increased
+after miR-143 suppression.</p><fig id="f06" orientation="portrait" position="float"><label>Figure 6.</label><caption><title>CCAT1 activated PI3K/AKT and MAPK signaling pathways via the
+inhibition of miR-143. FTC-133 cells were transfected with CCAT1
+expressing vector, CCAT1 shRNA, miR-143 mimic, or miR-143 inhibitor. The
+expressions of the main factors in <italic toggle="yes">A</italic>, PI3K/AKT and
+<italic toggle="yes">B</italic>, MAPK signaling pathways were analyzed in FTC-133
+cells using western blot analysis. NC: negative control.</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="1414-431X-bjmbr-51-6-e7046-gf006.jpg"/></fig></sec></sec><sec sec-type="discussion"><title>Discussion</title><p>Thyroid cancer is characterized by high morbidity and rapid growth in China (<xref rid="B20" ref-type="bibr">20</xref>). lncRNAs can participate in the regulation
+of cell proliferation, migration, and apoptosis by controlling the expression of
+downstream miRNAs (<xref rid="B21" ref-type="bibr">21</xref>,<xref rid="B17" ref-type="bibr">17</xref>). Therefore, we studied the regulatory mechanism of lncRNA
+CCAT1 on thyroid cancer cell line FTC-133. CCAT1 was closely related with colon
+cancer genesis, and down-regulation of miR-143 was a well-known potential marker for
+colon cancer and played an important role in carcinogenesis (<xref rid="B22" ref-type="bibr">22</xref>,<xref rid="B23" ref-type="bibr">23</xref>). Therefore, we
+analyzed the binding site of CCAT1 and miR-143. As CCAT1 was up-regulated in FTC-133
+cells, the regulatory relationship of CCAT1 and miR-143 in FTC-133 cells were
+analyzed and the effects of CCAT1-miR-143 axis on FTC-133 cells were also explored.
+Furthermore, the mechanism of CCAT1 was investigated by detecting activations of
+PI3K/AKT and MAPK signaling pathways after altering expressions of CCAT1 and
+miR-143.</p><p>Our study suggested that CCAT1 might act as a competing endogenous RNA (ceRNA) for
+miR-143. CCAT1 overexpression up-regulated miR-143-mediated VEGF expression,
+indicating that CCAT1 might promote angiogenesis in thyroid carcinoma. CCAT1
+overexpression enhanced cell viability, proliferation, migration, and invasion, as
+well as reduced apoptosis by down-regulation of miR-143. In addition, we also found
+that CCAT1 activated PI3K/AKT and MAPK signaling pathways by inhibiting miR-143
+expression.</p><p>lncRNA CCAT1 is a non-coding RNA with the length of 2628 nt and originally found in
+colon cancer (<xref rid="B13" ref-type="bibr">13</xref>). A large number of studies
+have shown that knockdown of CCAT1 significantly inhibited cell proliferation and
+migration and promoted apoptosis in many cancers, including glioma (<xref rid="B21" ref-type="bibr">21</xref>), prostate cancer (<xref rid="B24" ref-type="bibr">24</xref>), and HCC (<xref rid="B15" ref-type="bibr">15</xref>),
+suggesting that CCAT1 was an oncogene. In our study, we first found that CCAT1 was
+overexpressed in FTC-133 cells. Further results showed that CCAT1 overexpression
+increased cell viability, proliferation, migration, and invasion, but obviously
+reduced apoptosis of FTC-133 cells. These findings were consistent with previous
+studies (<xref rid="B15" ref-type="bibr">15</xref>,<xref rid="B21" ref-type="bibr">21</xref>,<xref rid="B24" ref-type="bibr">24</xref>), implying that CCAT1 could
+promote cancer growth in FTC-133 cells.</p><p>miR-143 has been reported to decrease prostate cancer cells' proliferation and
+migration (<xref rid="B25" ref-type="bibr">25</xref>). Moreover, a previous study
+reported that miR-143 is down-regulated in thyroid cancer (<xref rid="B18" ref-type="bibr">18</xref>). However, the results of our study revealed that
+overexpression of miR-143 inhibited increases of cell viability, proliferation,
+migration, invasion, and the reduction of apoptosis in FTC-133 cells. Therefore, we
+speculated that miR-143 was a tumor suppressor for thyroid cancer and upstream
+regulated CCAT1. Recent studies have demonstrated that lncRNAs function as ceRNA by
+sponging miRNAs to regulate gene expression at a post-transcriptional level (<xref rid="B26" ref-type="bibr">26</xref>). For instance, CCAT1 could competitively
+bind miR-218-5p through intracellular “sponge-like” adsorption and promote the
+expression of target genes, leading to the proliferation of bladder cancer cells and
+invasion of blood vessels (<xref rid="B27" ref-type="bibr">27</xref>). Thus, we
+explored the regulatory relationship between CCAT1 and miR-143 in this study.
+Firstly, we found that CCAT1 overexpression down-regulated the expression of
+miR-143. There was a binding site of miR-143 in the sequence of CCAT1. Then,
+relative luciferase activity was lower in cells co-transfected with CCAT1-wt and
+miR-143 mimic. Considering the context, we deduced that CCAT1 could act as a
+molecular sponge in regulating the biological functions of miR-143. In addition,
+VEGF is an important factor in mediating angiogenesis, which can promote the mitosis
+of vascular endothelial cells and the growth of tumor blood vessels (<xref rid="B28" ref-type="bibr">28</xref>
+<xref rid="B29" ref-type="bibr"/>). Related evidence has shown that lncRNAs and
+miRNAs regulate the expression of VEGF in cancers (<xref rid="B28" ref-type="bibr">28</xref>–<xref rid="B30" ref-type="bibr">30</xref>). In the current study, we
+found that CCAT1 positively and miR-143 negatively regulated VEGF expression.
+Further, the mRNA and protein level of VEGF were increased with CCAT1 overexpression
+or miR-143 suppression. Importantly, there was a binding site of VEGF in the
+sequence of miR-143 and the dual-luciferase reporter assay further confirmed their
+positive regulatory relationship. Therefore, VEGF also plays an important role in
+the study of thyroid cancer.</p><p>Pagliuca et al. (<xref rid="B31" ref-type="bibr">31</xref>) reported that Kirsten rat
+sarcoma 2 viral oncogene homolog (KRAS) and v-Raf murine sarcoma viral oncogene
+homolog B1 (BRAF) were targeted by miR-143. The reduction of the expressions of
+these proteins affected cell signaling pathways involved in transformation.
+Moreover, the primary mediators of miR-143 in inhibiting tumors are genes belonging
+to the growth factor receptor-mitogen-activated protein kinase (MAPK) network. Wang
+et al. (<xref rid="B32" ref-type="bibr">32</xref>) showed that miR-143
+overexpression inhibited PI3K/AKT signaling pathway in glioma and other RAS-driven
+cancers. Hence, we focused on P13K/AKT and MAPK pathways to explain the effect of
+CCAT1 on FTC-133 cells. P13K/AKT pathway is the central regulator of cell growth,
+proliferation, apoptosis, and metabolism (<xref rid="B33" ref-type="bibr">33</xref>). MAPK is a primary pathway for signal transduction of vascular
+endothelial cells (<xref rid="B34" ref-type="bibr">34</xref>
+<xref rid="B35" ref-type="bibr"/>). Recently, extensive research has shown that the
+activated P13K/AKT and MAPK signaling pathways could promote tumor cell
+proliferation, invasion, and migration and reduce apoptosis (<xref rid="B34" ref-type="bibr">34</xref>–<xref rid="B36" ref-type="bibr">36</xref>). Our results
+suggested that CCAT1 overexpression increased the expression of proteins associated
+with these pathways, whereas miR-143 overexpression inhibited these effects. CCAT1
+could activate PI3K/AKT and MAPK signaling pathways by inhibiting miR-143
+expression.</p><p>In summary, our study demonstrated that CCAT1 exhibited a cancer-promoting function
+potentially via down-regulation of miR-143 and activation of PI3K/AKT and MAPK
+signal pathways in FTC-133 cells. Hence, this study might provide a basis for
+further study of the mechanism of lncRNA CCAT1 and a possible target for the
+clinical treatment of thyroid cancer.</p></sec></body><back><ref-list><title>References</title><ref id="B01"><label>1</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Siraj</surname><given-names>AK</given-names></name><name name-style="western"><surname>Hussain</surname><given-names>AR</given-names></name><name name-style="western"><surname>Al-Rasheed</surname><given-names>M</given-names></name><name name-style="western"><surname>Ahmed</surname><given-names>M</given-names></name><name name-style="western"><surname>Bavi</surname><given-names>P</given-names></name><name name-style="western"><surname>Alsobhi</surname><given-names>SA</given-names></name><etal/></person-group><article-title>Demethylation of TMS1 gene sensitizes thyroid cancer cells to
+TRAIL-induced apoptosis</article-title><source>J Clin Endocrinol Metab</source><year>2011</year><volume>96</volume><fpage>E215</fpage><lpage>E224</lpage><pub-id pub-id-type="doi">10.1210/jc.2010-0790</pub-id><pub-id pub-id-type="pmid">20926535</pub-id></element-citation></ref><ref id="B02"><label>2</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Sipos</surname><given-names>JA</given-names></name><name name-style="western"><surname>Mazzaferri</surname><given-names>EL</given-names></name></person-group><article-title>Thyroid cancer epidemiology and prognostic
+variables</article-title><source>Clin Oncol (R Coll Radiol)</source><year>2010</year><volume>22</volume><fpage>395</fpage><lpage>404</lpage><pub-id pub-id-type="doi">10.1016/j.clon.2010.05.004</pub-id><pub-id pub-id-type="pmid">20627675</pub-id></element-citation></ref><ref id="B03"><label>3</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Nikiforova</surname><given-names>MN</given-names></name><name name-style="western"><surname>Tseng</surname><given-names>GC</given-names></name><name name-style="western"><surname>Steward</surname><given-names>D</given-names></name><name name-style="western"><surname>Diorio</surname><given-names>D</given-names></name><name name-style="western"><surname>Nikiforov</surname><given-names>YE</given-names></name></person-group><article-title>MicroRNA expression profiling of thyroid tumors: biological
+significance and diagnostic utility</article-title><source>J Clin Endocrinol Metab</source><year>2008</year><volume>93</volume><fpage>1600</fpage><lpage>1608</lpage><pub-id pub-id-type="doi">10.1210/jc.2007-2696</pub-id><pub-id pub-id-type="pmid">18270258</pub-id><pub-id pub-id-type="pmcid">PMC2386678</pub-id></element-citation></ref><ref id="B04"><label>4</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>La Vecchia</surname><given-names>C</given-names></name><name name-style="western"><surname>Malvezzi</surname><given-names>M</given-names></name><name name-style="western"><surname>Bosetti</surname><given-names>C</given-names></name><name name-style="western"><surname>Garavello</surname><given-names>W</given-names></name><name name-style="western"><surname>Bertuccio</surname><given-names>P</given-names></name><name name-style="western"><surname>Levi</surname><given-names>F</given-names></name><etal/></person-group><article-title>Thyroid cancer mortality and incidence: a global
+overview</article-title><source>Int J Cancer</source><year>2015</year><volume>136</volume><fpage>2187</fpage><lpage>2195</lpage><pub-id pub-id-type="doi">10.1002/ijc.29251</pub-id><pub-id pub-id-type="pmid">25284703</pub-id></element-citation></ref><ref id="B05"><label>5</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Garzon</surname><given-names>R</given-names></name><name name-style="western"><surname>Calin</surname><given-names>GA</given-names></name><name name-style="western"><surname>Croce</surname><given-names>CM</given-names></name></person-group><article-title>MicroRNAs in Cancer</article-title><source>Annu Rev Med</source><year>2009</year><volume>60</volume><fpage>167</fpage><lpage>179</lpage><pub-id pub-id-type="doi">10.1146/annurev.med.59.053006.104707</pub-id><pub-id pub-id-type="pmid">19630570</pub-id></element-citation></ref><ref id="B06"><label>6</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Rinn</surname><given-names>JL</given-names></name><name name-style="western"><surname>Kertesz</surname><given-names>M</given-names></name><name name-style="western"><surname>Wang</surname><given-names>JK</given-names></name><name name-style="western"><surname>Squazzo</surname><given-names>SL</given-names></name><name name-style="western"><surname>Xu</surname><given-names>X</given-names></name><name name-style="western"><surname>Brugmann</surname><given-names>SA</given-names></name><etal/></person-group><article-title>Functional demarcation of active and silent chromatin domains in
+human HOX loci by noncoding RNAs</article-title><source>Cell</source><year>2007</year><volume>129</volume><fpage>1311</fpage><lpage>1323</lpage><pub-id pub-id-type="doi">10.1016/j.cell.2007.05.022</pub-id><pub-id pub-id-type="pmid">17604720</pub-id><pub-id pub-id-type="pmcid">PMC2084369</pub-id></element-citation></ref><ref id="B07"><label>7</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Catana</surname><given-names>CS</given-names></name><name name-style="western"><surname>Pichler</surname><given-names>M</given-names></name><name name-style="western"><surname>Giannelli</surname><given-names>G</given-names></name><name name-style="western"><surname>Mader</surname><given-names>RM</given-names></name><name name-style="western"><surname>Berindan-Neagoe</surname><given-names>I</given-names></name></person-group><article-title>Non-coding RNAs, the Trojan horse in two-way communication
+between tumor and stroma in colorectal and hepatocellular
+carcinoma</article-title><source>Oncotarget</source><year>2017</year><volume>8</volume><fpage>29519</fpage><lpage>29534</lpage><pub-id pub-id-type="doi">10.18632/oncotarget.15706</pub-id><pub-id pub-id-type="pmid">28392501</pub-id><pub-id pub-id-type="pmcid">PMC5438748</pub-id></element-citation></ref><ref id="B08"><label>8</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Yang</surname><given-names>F</given-names></name><name name-style="western"><surname>Yi</surname><given-names>F</given-names></name><name name-style="western"><surname>Zheng</surname><given-names>Z</given-names></name><name name-style="western"><surname>Ling</surname><given-names>Z</given-names></name><name name-style="western"><surname>Ding</surname><given-names>J</given-names></name><name name-style="western"><surname>Guo</surname><given-names>J</given-names></name><etal/></person-group><article-title>Characterization of a carcinogenesis-associated long non-coding
+RNA</article-title><source>RNA Biol</source><year>2012</year><volume>9</volume><fpage>110</fpage><lpage>116</lpage><pub-id pub-id-type="doi">10.4161/rna.9.1.18332</pub-id><pub-id pub-id-type="pmid">22258142</pub-id></element-citation></ref><ref id="B09"><label>9</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Tuo</surname><given-names>YL</given-names></name><name name-style="western"><surname>Li</surname><given-names>XM</given-names></name><name name-style="western"><surname>Luo</surname><given-names>J</given-names></name></person-group><article-title>Long noncoding RNA UCA1 modulates breast cancer cell growth and
+apoptosis through decreasing tumor suppressive miR-143</article-title><source>Eur Rev Med Pharmacol Sci</source><year>2015</year><volume>19</volume><fpage>3403</fpage><lpage>3411</lpage><pub-id pub-id-type="pmid">26439035</pub-id></element-citation></ref><ref id="B10"><label>10</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Shi</surname><given-names>X</given-names></name><name name-style="western"><surname>Sun</surname><given-names>M</given-names></name><name name-style="western"><surname>Liu</surname><given-names>H</given-names></name><name name-style="western"><surname>Yao</surname><given-names>Y</given-names></name><name name-style="western"><surname>Kong</surname><given-names>R</given-names></name><name name-style="western"><surname>Chen</surname><given-names>F</given-names></name><etal/></person-group><article-title>A critical role for the long non-coding RNA GAS5 in proliferation
+and apoptosis in non-small-cell lung cancer</article-title><source>Mol Carcinog</source><year>2015</year><volume>54</volume><issue>Suppl 1:</issue><fpage>E1</fpage><lpage>E12</lpage><pub-id pub-id-type="doi">10.1002/mc.22120</pub-id><pub-id pub-id-type="pmid">24357161</pub-id></element-citation></ref><ref id="B11"><label>11</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Slaby</surname><given-names>O</given-names></name><name name-style="western"><surname>Laga</surname><given-names>R</given-names></name><name name-style="western"><surname>Sedlacek</surname><given-names>O</given-names></name></person-group><article-title>Therapeutic targeting of non-coding RNAs in
+cancer</article-title><source>Biochem J</source><year>2017</year><volume>474</volume><fpage>4219</fpage><lpage>4251</lpage><pub-id pub-id-type="doi">10.1042/BCJ20170079</pub-id><pub-id pub-id-type="pmid">29242381</pub-id></element-citation></ref><ref id="B12"><label>12</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Ding</surname><given-names>C</given-names></name><name name-style="western"><surname>Yang</surname><given-names>Z</given-names></name><name name-style="western"><surname>Lv</surname><given-names>Z</given-names></name><name name-style="western"><surname>Du</surname><given-names>C</given-names></name><name name-style="western"><surname>Xiao</surname><given-names>H</given-names></name><name name-style="western"><surname>Peng</surname><given-names>C</given-names></name><etal/></person-group><article-title>Long non-coding RNA PVT1 is associated with tumor progression and
+predicts recurrence in hepatocellular carcinoma patients</article-title><source>Oncol Lett</source><year>2015</year><volume>9</volume><fpage>955</fpage><lpage>963</lpage><pub-id pub-id-type="doi">10.3892/ol.2014.2730</pub-id><pub-id pub-id-type="pmid">25624916</pub-id><pub-id pub-id-type="pmcid">PMC4301564</pub-id></element-citation></ref><ref id="B13"><label>13</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Nissan</surname><given-names>A</given-names></name><name name-style="western"><surname>Stojadinovic</surname><given-names>A</given-names></name><name name-style="western"><surname>Mitrani-Rosenbaum</surname><given-names>S</given-names></name><name name-style="western"><surname>Halle</surname><given-names>D</given-names></name><name name-style="western"><surname>Grinbaum</surname><given-names>R</given-names></name><name name-style="western"><surname>Roistacher</surname><given-names>M</given-names></name><etal/></person-group><article-title>Colon cancer associated transcript-1: a novel RNA expressed in
+malignant and pre-malignant human tissues</article-title><source>Int J Cancer</source><year>2012</year><volume>130</volume><fpage>1598</fpage><lpage>1606</lpage><pub-id pub-id-type="doi">10.1002/ijc.26170</pub-id><pub-id pub-id-type="pmid">21547902</pub-id></element-citation></ref><ref id="B14"><label>14</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>He</surname><given-names>X</given-names></name><name name-style="western"><surname>Tan</surname><given-names>X</given-names></name><name name-style="western"><surname>Wang</surname><given-names>X</given-names></name><name name-style="western"><surname>Jin</surname><given-names>H</given-names></name><name name-style="western"><surname>Liu</surname><given-names>L</given-names></name><name name-style="western"><surname>Ma</surname><given-names>L</given-names></name><etal/></person-group><article-title>C-Myc-activated long noncoding RNA CCAT1 promotes colon cancer
+cell proliferation and invasion</article-title><source>Tumour Biol</source><year>2014</year><volume>35</volume><fpage>12181</fpage><lpage>12188</lpage><pub-id pub-id-type="doi">10.1007/s13277-014-2526-4</pub-id><pub-id pub-id-type="pmid">25185650</pub-id></element-citation></ref><ref id="B15"><label>15</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Deng</surname><given-names>L</given-names></name><name name-style="western"><surname>Yang</surname><given-names>SB</given-names></name><name name-style="western"><surname>Xu</surname><given-names>FF</given-names></name><name name-style="western"><surname>Zhang</surname><given-names>JH</given-names></name></person-group><article-title>Long noncoding RNA CCAT1 promotes hepatocellular carcinoma
+progression by functioning as let-7 sponge</article-title><source>J Exp Clin Cancer Res</source><year>2015</year><volume>34</volume><fpage>18</fpage><pub-id pub-id-type="doi">10.1186/s13046-015-0136-7</pub-id><pub-id pub-id-type="pmid">25884472</pub-id><pub-id pub-id-type="pmcid">PMC4339002</pub-id></element-citation></ref><ref id="B16"><label>16</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Shan</surname><given-names>T</given-names></name><name name-style="western"><surname>Chen</surname><given-names>YG</given-names></name><name name-style="western"><surname>Hong</surname><given-names>B</given-names></name><name name-style="western"><surname>Zhou</surname><given-names>H</given-names></name><name name-style="western"><surname>Xia</surname><given-names>JZ</given-names></name></person-group><article-title>[Expression and clinical significance of long non-coding RNA
+CCAT1 in gastric cancer]</article-title><source>Zhonghua Yi Xue Za Zhi</source><year>2017</year><volume>97</volume><fpage>1411</fpage><lpage>1414</lpage><pub-id pub-id-type="doi">10.3760/cma.j.issn.0376-2491.2017.18.012</pub-id><pub-id pub-id-type="pmid">28535628</pub-id></element-citation></ref><ref id="B17"><label>17</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Wei</surname><given-names>J</given-names></name><name name-style="western"><surname>Ma</surname><given-names>Z</given-names></name><name name-style="western"><surname>Li</surname><given-names>Y</given-names></name><name name-style="western"><surname>Zhao</surname><given-names>B</given-names></name><name name-style="western"><surname>Wang</surname><given-names>D</given-names></name><name name-style="western"><surname>Jin</surname><given-names>Y</given-names></name><etal/></person-group><article-title>miR-143 inhibits cell proliferation by targeting
+autophagy-related 2B in non-small cell lung cancer H1299
+cells</article-title><source>Mol Med Rep</source><year>2015</year><volume>11</volume><fpage>571</fpage><lpage>576</lpage><pub-id pub-id-type="doi">10.3892/mmr.2014.2675</pub-id><pub-id pub-id-type="pmid">25322940</pub-id></element-citation></ref><ref id="B18"><label>18</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Zhang</surname><given-names>C</given-names></name></person-group><article-title>MicroRNomics: a newly emerging approach for disease
+biology</article-title><source>Physiol Genomics</source><year>2008</year><volume>33</volume><fpage>139</fpage><lpage>147</lpage><pub-id pub-id-type="doi">10.1152/physiolgenomics.00034.2008</pub-id><pub-id pub-id-type="pmid">18303086</pub-id></element-citation></ref><ref id="B19"><label>19</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Couto</surname><given-names>MR</given-names></name><name name-style="western"><surname>Goncalves</surname><given-names>P</given-names></name><name name-style="western"><surname>Catarino</surname><given-names>TA</given-names></name><name name-style="western"><surname>Martel</surname><given-names>F</given-names></name></person-group><article-title>The effect of inflammatory status on butyrate and folate uptake
+by tumoral (Caco-2) and non-tumoral (IEC-6) intestinal epithelial
+cells</article-title><source>Cell J</source><year>2017</year><volume>19</volume><fpage>96</fpage><lpage>105</lpage><pub-id pub-id-type="doi">10.22074/cellj.2017.4859</pub-id><pub-id pub-id-type="pmid">28580313</pub-id><pub-id pub-id-type="pmcid">PMC5448317</pub-id></element-citation></ref><ref id="B20"><label>20</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Xiang</surname><given-names>J</given-names></name><name name-style="western"><surname>Wu</surname><given-names>Y</given-names></name><name name-style="western"><surname>Li</surname><given-names>DS</given-names></name><name name-style="western"><surname>Shen</surname><given-names>Q</given-names></name><name name-style="western"><surname>Wang</surname><given-names>ZY</given-names></name><name name-style="western"><surname>Sun</surname><given-names>TQ</given-names></name><etal/></person-group><article-title>New clinical features of thyroid cancer in eastern
+China</article-title><source>J Visc Surg</source><year>2010</year><volume>147</volume><fpage>e53</fpage><lpage>e56</lpage><pub-id pub-id-type="doi">10.1016/j.jviscsurg.2010.02.007</pub-id><pub-id pub-id-type="pmid">20587378</pub-id></element-citation></ref><ref id="B21"><label>21</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Cui</surname><given-names>B</given-names></name><name name-style="western"><surname>Li</surname><given-names>B</given-names></name><name name-style="western"><surname>Liu</surname><given-names>Q</given-names></name><name name-style="western"><surname>Cui</surname><given-names>Y</given-names></name></person-group><article-title>lncRNA CCAT1 Promotes Glioma Tumorigenesis by Sponging
+miR-181b</article-title><source>J Cell Biochem</source><year>2017</year><pub-id pub-id-type="doi">10.1002/jcb.26116</pub-id><pub-id pub-id-type="pmid">28475287</pub-id></element-citation></ref><ref id="B22"><label>22</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Akao</surname><given-names>Y</given-names></name><name name-style="western"><surname>Nakagawa</surname><given-names>Y</given-names></name><name name-style="western"><surname>Naoe</surname><given-names>T</given-names></name></person-group><article-title>MicroRNA-143 and -145 in colon cancer</article-title><source>DNA Cell Biol</source><year>2007</year><volume>26</volume><fpage>311</fpage><lpage>320</lpage><pub-id pub-id-type="doi">10.1089/dna.2006.0550</pub-id><pub-id pub-id-type="pmid">17504027</pub-id></element-citation></ref><ref id="B23"><label>23</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Chen</surname><given-names>X</given-names></name><name name-style="western"><surname>Guo</surname><given-names>X</given-names></name><name name-style="western"><surname>Zhang</surname><given-names>H</given-names></name><name name-style="western"><surname>Xiang</surname><given-names>Y</given-names></name><name name-style="western"><surname>Chen</surname><given-names>J</given-names></name><name name-style="western"><surname>Yin</surname><given-names>Y</given-names></name><etal/></person-group><article-title>Role of miR-143 targeting KRAS in colorectal
+tumorigenesis</article-title><source>Oncogene</source><year>2009</year><volume>28</volume><fpage>1385</fpage><lpage>1392</lpage><pub-id pub-id-type="doi">10.1038/onc.2008.474</pub-id><pub-id pub-id-type="pmid">19137007</pub-id></element-citation></ref><ref id="B24"><label>24</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Han</surname><given-names>X</given-names></name><name name-style="western"><surname>Ling</surname><given-names>ZX</given-names></name><name name-style="western"><surname>Zeng-Le</surname><given-names>GE</given-names></name><name name-style="western"><surname>Qiang</surname><given-names>HU</given-names></name><name name-style="western"><surname>Bin</surname><given-names>XU</given-names></name><name name-style="western"><surname>Chen</surname><given-names>M</given-names></name><etal/></person-group><article-title>Effection of lnc RNA CCAT1 on the proliferation,migration and
+apoptosis of prostate cancer cell PC-3</article-title><source>Journal of Southeast University</source><year>2017</year></element-citation></ref><ref id="B25"><label>25</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Xu</surname><given-names>B</given-names></name><name name-style="western"><surname>Niu</surname><given-names>X</given-names></name><name name-style="western"><surname>Zhang</surname><given-names>X</given-names></name><name name-style="western"><surname>Tao</surname><given-names>J</given-names></name><name name-style="western"><surname>Wu</surname><given-names>D</given-names></name><name name-style="western"><surname>Wang</surname><given-names>Z</given-names></name><etal/></person-group><article-title>miR-143 decreases prostate cancer cells proliferation and
+migration and enhances their sensitivity to docetaxel through suppression of
+KRAS</article-title><source>Mol Cel Biochem</source><year>2011</year><volume>350</volume><fpage>207</fpage><pub-id pub-id-type="doi">10.1007/s11010-010-0700-6</pub-id><pub-id pub-id-type="pmid">21197560</pub-id></element-citation></ref><ref id="B26"><label>26</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Ma</surname><given-names>CC</given-names></name><name name-style="western"><surname>Zhang</surname><given-names>X</given-names></name><name name-style="western"><surname>Zhu</surname><given-names>GN</given-names></name><name name-style="western"><surname>Chao</surname><given-names>W</given-names></name><name name-style="western"><surname>Gang</surname><given-names>Z</given-names></name><name name-style="western"><surname>Wang</surname><given-names>HL</given-names></name><etal/></person-group><article-title>Long non-coding RNA ATB promotes glioma malignancy by negatively
+regulating miR-200a</article-title><source>Journal of Experimental &amp; Clinical Cancer Research</source><year>2016</year><volume>35</volume><fpage>90</fpage><pub-id pub-id-type="pmid">27267902</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13046-016-0367-2</pub-id><pub-id pub-id-type="pmcid">PMC4895888</pub-id></element-citation></ref><ref id="B27"><label>27</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Ma</surname><given-names>MZ</given-names></name><name name-style="western"><surname>Chu</surname><given-names>BF</given-names></name><name name-style="western"><surname>Zhang</surname><given-names>Y</given-names></name><name name-style="western"><surname>Weng</surname><given-names>MZ</given-names></name><name name-style="western"><surname>Qin</surname><given-names>YY</given-names></name><name name-style="western"><surname>Gong</surname><given-names>W</given-names></name><etal/></person-group><article-title>Long non-coding RNA CCAT1 promotes gallbladder cancer development
+via negative modulation of miRNA-218-5p</article-title><source>Cell Death Dis</source><year>2015</year><volume>6</volume><fpage>e1583</fpage><pub-id pub-id-type="doi">10.1038/cddis.2014.541</pub-id><pub-id pub-id-type="pmid">25569100</pub-id><pub-id pub-id-type="pmcid">PMC4669740</pub-id></element-citation></ref><ref id="B28"><label>28</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Zhao</surname><given-names>D</given-names></name><name name-style="western"><surname>Pan</surname><given-names>C</given-names></name><name name-style="western"><surname>Sun</surname><given-names>J</given-names></name><name name-style="western"><surname>Gilbert</surname><given-names>C</given-names></name><name name-style="western"><surname>Drews-Elger</surname><given-names>K</given-names></name><name name-style="western"><surname>Azzam</surname><given-names>DJ</given-names></name><etal/></person-group><article-title>VEGF drives cancer-initiating stem cells through VEGFR-2/Stat3
+signaling to upregulate Myc and Sox2</article-title><source>Oncogene</source><year>2015</year><volume>34</volume><fpage>3107</fpage><lpage>3119</lpage><pub-id pub-id-type="doi">10.1038/onc.2014.257</pub-id><pub-id pub-id-type="pmid">25151964</pub-id></element-citation></ref><ref id="B29"><label>29</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Zhang</surname><given-names>Z</given-names></name><name name-style="western"><surname>Zhang</surname><given-names>Y</given-names></name><name name-style="western"><surname>Sun</surname><given-names>XX</given-names></name><name name-style="western"><surname>Ma</surname><given-names>X</given-names></name><name name-style="western"><surname>Chen</surname><given-names>ZN</given-names></name></person-group><article-title>microRNA-146a inhibits cancer metastasis by downregulating VEGF
+through dual pathways in hepatocellular carcinoma</article-title><source>Mol Cancer</source><year>2015</year><volume>14</volume><fpage>5</fpage><pub-id pub-id-type="doi">10.1186/1476-4598-14-5</pub-id><pub-id pub-id-type="pmid">25608619</pub-id><pub-id pub-id-type="pmcid">PMC4326400</pub-id></element-citation></ref><ref id="B30"><label>30</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Zhang</surname><given-names>B</given-names></name><name name-style="western"><surname>Wang</surname><given-names>D</given-names></name><name name-style="western"><surname>Ji</surname><given-names>TF</given-names></name><name name-style="western"><surname>Shi</surname><given-names>L</given-names></name><name name-style="western"><surname>Yu</surname><given-names>JL</given-names></name></person-group><article-title>Overexpression of lncRNA ANRIL up-regulates VEGF expression and
+promotes angiogenesis of diabetes mellitus combined with cerebral infarction
+by activating NF-kappaB signaling pathway in a rat model</article-title><source>Oncotarget</source><year>2017</year><volume>8</volume><fpage>17347</fpage><lpage>17359</lpage><pub-id pub-id-type="doi">10.18632/oncotarget.14468</pub-id><pub-id pub-id-type="pmid">28060742</pub-id><pub-id pub-id-type="pmcid">PMC5370045</pub-id><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="retraction-forward" ext-link-type="pmc" xlink:href="PMC11745482"/></element-citation></ref><ref id="B31"><label>31</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Pagliuca</surname><given-names>A</given-names></name><name name-style="western"><surname>Valvo</surname><given-names>C</given-names></name><name name-style="western"><surname>Fabrizi</surname><given-names>E</given-names></name><name name-style="western"><surname>di Martino</surname><given-names>S</given-names></name><name name-style="western"><surname>Biffoni</surname><given-names>M</given-names></name><name name-style="western"><surname>Runci</surname><given-names>D</given-names></name><etal/></person-group><article-title>Analysis of the combined action of miR-143 and miR-145 on
+oncogenic pathways in colorectal cancer cells reveals a coordinate program
+of gene repression</article-title><source>Oncogene</source><year>2013</year><volume>32</volume><fpage>4806</fpage><lpage>4813</lpage><pub-id pub-id-type="doi">10.1038/onc.2012.495</pub-id><pub-id pub-id-type="pmid">23128394</pub-id></element-citation></ref><ref id="B32"><label>32</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Wang</surname><given-names>L</given-names></name><name name-style="western"><surname>Shi</surname><given-names>Z</given-names></name><name name-style="western"><surname>Jiang</surname><given-names>C</given-names></name><name name-style="western"><surname>Liu</surname><given-names>X</given-names></name><name name-style="western"><surname>Chen</surname><given-names>Q</given-names></name><name name-style="western"><surname>Qian</surname><given-names>X</given-names></name><etal/></person-group><article-title>MiR-143 acts as a tumor suppressor by targeting N-RAS and
+enhances temozolomide-induced apoptosis in glioma</article-title><source>Oncotarget</source><year>2014</year><volume>5</volume><fpage>5416</fpage><lpage>5427</lpage><pub-id pub-id-type="pmid">24980823</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.18632/oncotarget.2116</pub-id><pub-id pub-id-type="pmcid">PMC4170647</pub-id></element-citation></ref><ref id="B33"><label>33</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Manfredi</surname><given-names>GI</given-names></name><name name-style="western"><surname>Dicitore</surname><given-names>A</given-names></name><name name-style="western"><surname>Gaudenzi</surname><given-names>G</given-names></name><name name-style="western"><surname>Caraglia</surname><given-names>M</given-names></name><name name-style="western"><surname>Persani</surname><given-names>L</given-names></name><name name-style="western"><surname>Vitale</surname><given-names>G</given-names></name></person-group><article-title>PI3K/Akt/mTOR signaling in medullary thyroid cancer: a promising
+molecular target for cancer therapy</article-title><source>Endocrine</source><year>2015</year><volume>48</volume><fpage>363</fpage><lpage>370</lpage><pub-id pub-id-type="doi">10.1007/s12020-014-0380-1</pub-id><pub-id pub-id-type="pmid">25115638</pub-id></element-citation></ref><ref id="B34"><label>34</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Shen</surname><given-names>CT</given-names></name><name name-style="western"><surname>Qiu</surname><given-names>ZL</given-names></name><name name-style="western"><surname>Song</surname><given-names>HJ</given-names></name><name name-style="western"><surname>Wei</surname><given-names>WJ</given-names></name><name name-style="western"><surname>Luo</surname><given-names>QY</given-names></name></person-group><article-title>miRNA-106a directly targeting RARB associates with the expression
+of Na(+)/I(-) symporter in thyroid cancer by regulating MAPK signaling
+pathway</article-title><source>J Exp Clin Cancer Res</source><year>2016</year><volume>35</volume><fpage>101</fpage><pub-id pub-id-type="doi">10.1186/s13046-016-0377-0</pub-id><pub-id pub-id-type="pmid">27342319</pub-id><pub-id pub-id-type="pmcid">PMC4919890</pub-id></element-citation></ref><ref id="B35"><label>35</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Larson</surname><given-names>SD</given-names></name><name name-style="western"><surname>Jackson</surname><given-names>LN</given-names></name><name name-style="western"><surname>Riall</surname><given-names>TS</given-names></name><name name-style="western"><surname>Uchida</surname><given-names>T</given-names></name><name name-style="western"><surname>Thomas</surname><given-names>RP</given-names></name><name name-style="western"><surname>Qiu</surname><given-names>S</given-names></name><etal/></person-group><article-title>Increased incidence of well-differentiated thyroid cancer
+associated with Hashimoto thyroiditis and the role of the PI3k/Akt
+pathway</article-title><source>J Am Coll Surg</source><year>2007</year><volume>204</volume><fpage>764</fpage><lpage>773</lpage><pub-id pub-id-type="doi">10.1016/j.jamcollsurg.2006.12.037</pub-id><pub-id pub-id-type="pmid">17481480</pub-id><pub-id pub-id-type="pmcid">PMC2430882</pub-id></element-citation></ref><ref id="B36"><label>36</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Xu</surname><given-names>J</given-names></name><name name-style="western"><surname>Li</surname><given-names>Z</given-names></name><name name-style="western"><surname>Su</surname><given-names>Q</given-names></name><name name-style="western"><surname>Zhao</surname><given-names>J</given-names></name><name name-style="western"><surname>Ma</surname><given-names>J</given-names></name></person-group><article-title>TRIM29 promotes progression of thyroid carcinoma via activating
+P13K/AKT signaling pathway</article-title><source>Oncol Rep</source><year>2017</year><volume>37</volume><fpage>1555</fpage><lpage>1564</lpage><pub-id pub-id-type="doi">10.3892/or.2017.5364</pub-id><pub-id pub-id-type="pmid">28098872</pub-id></element-citation></ref></ref-list></back></article>

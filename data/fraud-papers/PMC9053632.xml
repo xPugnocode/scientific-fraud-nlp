@@ -1,0 +1,697 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">RSC Adv</journal-id><journal-id journal-id-type="iso-abbrev">RSC Adv</journal-id><journal-id journal-id-type="pmc-domain-id">4079</journal-id><journal-id journal-id-type="pmc-domain">rscadv</journal-id><journal-id journal-id-type="nlm-id">101581657</journal-id><journal-id journal-id-type="publisher-id">RA</journal-id><journal-title-group><journal-title>RSC Advances</journal-title></journal-title-group><issn pub-type="epub">2046-2069</issn><publisher><publisher-name>Royal Society of Chemistry</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC9053632</article-id><article-id pub-id-type="pmcid-ver">PMC9053632.1</article-id><article-id pub-id-type="pmcaid">9053632</article-id><article-id pub-id-type="pmcaiid">9053632</article-id><article-id pub-id-type="pmid">35517205</article-id><article-id pub-id-type="doi">10.1039/d0ra00020e</article-id><article-id pub-id-type="publisher-id">d0ra00020e</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Chemistry</subject></subj-group></article-categories><title-group><article-title>The PI3K/Akt and NF-κB signaling pathways are involved in the protective effects of <italic toggle="yes">Lithocarpus polystachyus</italic> (sweet tea) on APAP-induced oxidative stress injury in mice</article-title></title-group><contrib-group><contrib contrib-type="author"><name name-style="western"><surname>Yang</surname><given-names initials="JY">Jia-yu</given-names></name><xref rid="affa" ref-type="aff"/></contrib><contrib contrib-type="author"><name name-style="western"><surname>Zhong</surname><given-names initials="YT">Yu-te</given-names></name><xref rid="affb" ref-type="aff"/></contrib><contrib contrib-type="author"><name name-style="western"><surname>Hao</surname><given-names initials="WN">Wei-nan</given-names></name><xref rid="affa" ref-type="aff"/></contrib><contrib contrib-type="author"><name name-style="western"><surname>Liu</surname><given-names initials="XX">Xiang-xiang</given-names></name><xref rid="affa" ref-type="aff"/></contrib><contrib contrib-type="author"><name name-style="western"><surname>Shen</surname><given-names initials="Q">Qiong</given-names></name><xref rid="affa" ref-type="aff"/></contrib><contrib contrib-type="author"><name name-style="western"><surname>Li</surname><given-names initials="YF">Yan-fei</given-names></name><xref rid="affa" ref-type="aff"/></contrib><contrib contrib-type="author"><name name-style="western"><surname>Ren</surname><given-names initials="S">Shen</given-names></name><xref rid="affa" ref-type="aff"/></contrib><contrib contrib-type="author"><name name-style="western"><surname>Wang</surname><given-names initials="Z">Zi</given-names></name><xref rid="affa" ref-type="aff"/></contrib><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-2988-4298</contrib-id><name name-style="western"><surname>Li</surname><given-names initials="W">Wei</given-names></name><xref rid="affa" ref-type="aff"/></contrib><contrib contrib-type="author" corresp="yes"><name name-style="western"><surname>Zhao</surname><given-names initials="LC">Li-Chun</given-names></name><xref rid="affb" ref-type="aff"/></contrib><aff id="affa">
+<institution>College of Chinese Medicinal Materials, Jilin Agricultural University</institution>
+<city>Changchun 130118</city>
+<country>China</country>
+<email>liwei7727@126.com</email>
+<fax>+86-431-84533304</fax>
+<phone>+86-431-84533304</phone>
+</aff><aff id="affb">
+<institution>College of Pharmacy, Guangxi University of Chinese Medicine</institution>
+<city>Nanning 530200</city>
+<country>China</country>
+<email>hyzlc@163.com</email>
+</aff></contrib-group><pub-date publication-format="electronic" date-type="pub" iso-8601-date="2020-05-12"><day>12</day><month>5</month><year>2020</year></pub-date><pub-date publication-format="electronic" date-type="collection" iso-8601-date="2020-05-10"><day>10</day><month>5</month><year>2020</year></pub-date><volume>10</volume><issue>31</issue><issue-id pub-id-type="pmc-issue-id">406452</issue-id><fpage>18044</fpage><lpage>18053</lpage><history><date date-type="received" iso-8601-date="2020-01-02"><day>2</day><month>1</month><year>2020</year></date><date date-type="accepted" iso-8601-date="2020-04-25"><day>25</day><month>4</month><year>2020</year></date></history><pub-history><event event-type="pmc-release"><date><day>12</day><month>05</month><year>2020</year></date></event><event event-type="pmc-live"><date><day>04</day><month>05</month><year>2022</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2023-10-02 17:25:25.297"><day>02</day><month>10</month><year>2023</year></date></event></pub-history><permissions><copyright-statement>This journal is © The Royal Society of Chemistry</copyright-statement><copyright-year>2020</copyright-year><copyright-holder>The Royal Society of Chemistry</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense" start_date="2020-05-12">https://creativecommons.org/licenses/by-nc/3.0/</ali:license_ref></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="RA-010-D0RA00020E.pdf"/><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="retraction-forward" xml:lang="en" xlink:title="retraction" vol="12" journal-id="RSC Adv" journal-id-type="nlm-ta" ext-link-type="pmc" xlink:href="PMC9540404"><article-title>Retraction: The PI3K/Akt and NF-κB signaling pathways are involved in the protective effects of <italic toggle="yes">Lithocarpus polystachyus</italic> (sweet tea) on APAP-induced oxidative stress injury in mice</article-title><volume>12</volume><issue>44</issue><date><day>7</day><month>10</month><year>2022</year></date><fpage>28658</fpage><lpage>28658</lpage><source>RSC Advances</source><pub-id pub-id-type="doi">10.1039/d2ra90100e</pub-id><pub-id pub-id-type="pmcid">PMC9540404</pub-id><pub-id pub-id-type="pmid">36320513</pub-id></related-article><abstract><p>Acetaminophen (APAP)-induced acute liver injury (ALI) is a health issue that has gradually attracted attention, and is often regarded as a model of drug-induced hepatotoxicity. The leaves of <italic toggle="yes">Lithocarpus polystachyus</italic> Rehd. (named as “sweet tea”, ST) usually serve as tea drink and folk medicine for healthcare in the southwest part of China. In previous reports, it has been proven to protect various animal models, except for APAP-induced liver injury model. Therefore, this study initially explored the protective effect of ST leaf extract (STL-E) on hepatotoxicity induced by APAP in ICR mice. STL-E of 50 and 100 mg kg<sup>−1</sup> were given to each group for 7 days. ALI was intraperitoneally induced by APAP treatment (i.p. 250 mg per kg body weight). Biochemical markers, levels of inflammatory factors, histopathological staining and western blotting were used to analyze the inflammation and apoptosis of liver tissues. Interestingly, the treatment with STL-E significantly attenuated APAP-induced liver injury (<italic toggle="yes">p</italic> &lt; 0.05). Moreover, STL-E partially mitigated APAP-induced liver injury by effectively activating the PI3K/Akt pathway and inhibiting the NF-κB pathway. In a word, STL-E protected liver against APAP-induced hepatotoxicity by inhibiting the PI3K/Akt-mediated apoptosis signal pathway and inhibiting the NF-κB-mediated signaling pathway.</p></abstract><abstract abstract-type="toc"><p>Acetaminophen (APAP)-induced acute liver injury (ALI) is a health issue that has gradually attracted attention, and is often regarded as a model of drug-induced hepatotoxicity.<graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="ga" position="float" orientation="portrait" xlink:href="d0ra00020e-ga.jpg"/></p></abstract><funding-group><award-group><funding-source>
+<institution-wrap><institution>National Natural Science Foundation of China</institution><institution-id institution-id-type="doi">10.13039/501100001809</institution-id></institution-wrap>
+</funding-source><award-id>81860691</award-id></award-group><award-group><funding-source>
+<institution-wrap><institution>Education Department of Jilin Province</institution><institution-id institution-id-type="doi">10.13039/501100010211</institution-id></institution-wrap>
+</funding-source><award-id>JJKH20190946KJ</award-id></award-group></funding-group><counts><page-count count="10"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC</meta-value></custom-meta><custom-meta><meta-name>pubstatus</meta-name><meta-value>Paginated Article</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec><label>1.</label><title>Introduction</title><p>The liver is an important organ for metabolism, which has several functions including glycogen conservation, red cell decomposition, plasma protein synthesis and detoxification.<sup><xref rid="cit1" ref-type="bibr">1</xref></sup> On most occasions, liver injury is an extensively spread pathology involving a gradual evolution of oxidative stress and steatosis in chronic hepatitis, fibrosis, cirrhosis, and hepatocellular carcinoma.<sup><xref rid="cit2" ref-type="bibr">2</xref></sup> Acetaminophen (APAP) is a widely used over-the-counter analgesic for pain and fever relief. However, APAP can cause severe liver injury and can develop fulminant hepatic failure when applied at high doses or at lower doses to particularly sensitive people.<sup><xref rid="cit3" ref-type="bibr">3</xref></sup> It is a known fact that mitochondrial dysfunction occurs when active metabolites are produced.<sup><xref rid="cit4" ref-type="bibr">4–6</xref></sup> Abundant evidences indicate that the depletion of hepatic glutathione and the covalent attachment of <italic toggle="yes">N</italic>-acetyl-<italic toggle="yes">p</italic>-benzoquinone imine to cellular macromolecules promote protein modification and mitochondrial function through ATP depletion, which ultimately leads to a large amount of massive centrilobular necrosis.<sup><xref rid="cit7" ref-type="bibr">7–9</xref></sup></p><p>
+<italic toggle="yes">Lithocarpus polystachyus</italic> Rehd. is mainly distributed in wild mountainous terrain which is rich in plant resources.<sup><xref rid="cit10" ref-type="bibr">10,11</xref></sup> It has the popular name “sweet tea” (ST) in folk medicine and serves as a traditional herbal medicine against various diseases.<sup><xref rid="cit12" ref-type="bibr">12–14</xref></sup> The tender leaves of <italic toggle="yes">L. polystachyus</italic> have been used as a traditional Chinese herb and a sweet tonic drink for several hundreds of years in southern China.<sup><xref rid="cit15" ref-type="bibr">15</xref></sup> In searching for the sweet components in the leaves, flavonoid with a content up to 7% in the leaves<sup><xref rid="cit16" ref-type="bibr">16,17</xref></sup> was determined as a sweet compound, among which trilobatin is also one of the main sweet sources.<sup><xref rid="cit18" ref-type="bibr">18</xref></sup> These components exert extensive pharmacological activities, such as anti-diabetes,<sup><xref rid="cit19" ref-type="bibr">19–21</xref></sup> memory improvement, anti-aging,<sup><xref rid="cit22" ref-type="bibr">22–24</xref></sup> inhibition of lipid peroxidation,<sup><xref rid="cit24" ref-type="bibr">24</xref></sup> and anti-cancer.<sup><xref rid="cit25" ref-type="bibr">25</xref></sup></p><p>Although people in China have been accustomed to using Chinese medicine to prevent liver diseases for several decades,<sup><xref rid="cit3" ref-type="bibr">3,26</xref></sup> there have been no pharmacological studies of hepatoprotective effects of ST leaf extract (STL-E) on APAP-induced liver injury in experimental animals to date. Therefore, the current work was designed to investigate the possible anti-inflammatory and anti-apoptotic effects of STL-E in APAP-induced acute liver injury (ALI).</p></sec><sec><label>2.</label><title>Materials</title><sec><label>2.1.</label><title>Plant materials</title><p>Tender leaves of <italic toggle="yes">L. polystachyus</italic> were obtained from Hunan Funong Sweet Tea Co. Ltd, Zhijiang County, Hunan Province and identified by Professor Wei Li, College of Chinese Medicinal Materials, Jilin Agricultural University.</p></sec><sec><label>2.2.</label><title>Reagents</title><p>APAP (purity ≥ 99%, HPLC method) was supplied from Sigma Chemicals (St. Louis, MO, USA). Hematoxylin and eosin (H&amp;E) and Hoechst 33258 dye kits were obtained from Beyotime Co. Ltd (Shanghai, China). Immunofluorescence staining and TUNEL kits were purchased from BOSTER Biological Technology (Wuhan, China) and Roche Applied Science (Shanghai, China). The antibodies of rabbit monoclonal anti-mouse PI3K, p-PI3K, Bax, Bcl-2, caspases 3 and 9 and cleaved-caspases 3 and 9, NF-κB, IKKα/β, IκBα and β-actin were recruited from Cell Signaling Technology (Danvers, MA, USA) and BOSTER Biological Technology (Wuhan, China). All other chemicals were the highest grade commercial chemicals.</p></sec><sec><label>2.3.</label><title>Sample preparation</title><p>Ultrasound-assisted extraction was used to extract 100 g of powdery leaves with 100% ethanol in a 45 °C water bath three times. Then, the crude extract (STL-E) was obtained by concentrated evaporation and freeze-drying.<sup><xref rid="cit27" ref-type="bibr">27</xref></sup> Trilobatin, a major and representative compound in STL-E, was analyzed by using HPLC analysis on a Waters e2695 system with a UV detector. HPLC analysis was performed through a hyper alloy ODS2 column (250 × 4.6 mm, 5 μm) with the following chromatographic conditions: column temperature of 30 °C, flow rate of 1.0 ml min<sup>−1</sup>, detection at 280 nm, and mobile phase of acetonitrile (A) and water (B). The chromatographic peak of trilobatin was confirmed by its retention time compared to a reference standard containing trilobatin. The peak integrals were quantified using an external standard method. The content of trilobatin in STL-E was determined as 81.6%. The chemical structure of trilobatin and the HPLC chromatogram of STL-E are shown in <xref rid="fig1" ref-type="fig">Fig. 1</xref>.</p><fig position="float" id="fig1" orientation="portrait"><label>Fig. 1</label><caption><title>The chemical structure of trilobatin (A) and HPLC analysis of trilobatin in STL-E (B).</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="d0ra00020e-f1.jpg"/></fig></sec><sec><label>2.4.</label><title>Animals</title><p>Male ICR mice (8 weeks old), weighing 22 ± 3 g, were purchased from Changchun Yisi Experimental Animal Holding with a Certificate of Quality No. SCXK (JI)-2018-0002 (Changchun, China). The animals were housed for 1 week with a 12 hour light/dark cycle in a temperature- and humidity-controlled room. The animals were given free access to food and water. All animals were cared for according to the Guiding Principle in the Care and Use of Animals. All experimental procedures were approved by the Ethical Committee for Laboratory Animals at Jilin Agricultural University.</p></sec><sec><label>2.5.</label><title>Animal treatment and experimental design</title><p>All experimental animals were randomly divided into four groups (<italic toggle="yes">n</italic> = 8). (1) Normal group; (2) APAP (250 mg kg<sup>−1</sup>) group; (3) APAP + STL-E (50 mg kg<sup>−1</sup>) group; (4) APAP + STL-E (100 mg kg<sup>−1</sup>) group. The dosages of STL-E and APAP were based on other previous studies.<sup><xref rid="cit28" ref-type="bibr">28,29</xref></sup> STL-E was prepared using a suspension of 0.05% (w/v) sodium carboxyl methyl cellulose (CMC-Na). STL-E was intragastrically administered to the treatment group for 7 days, and the normal group and the APAP group were treated with 0.9% physiological saline. After the final administration, APAP and APAP + STL-E treatment mice were intraperitoneally injected with APAP at a dose of 250 mg kg<sup>−1</sup> to induce ALI. At the same time, normal mice were given 0.9% physiological saline in the same manner. After fasting 12 hours, all the mice peritoneal injection of APAP, during fasting to allow free water. Next, all mice died of cervical dislocation after a single injection of APAP for 24 h. The liver tissue was quickly dissected, and the separated liver was washed twice with saline, blotted dry with filter paper, weighed, and observed for shape, size, <italic toggle="yes">etc.</italic> A small piece of liver tissue from the left lobe of the liver was fixed in 10% (w/v) buffered formalin solution for histopathological analysis and the remaining liver tissues were stored at −80 °C.</p></sec><sec><label>2.6.</label><title>Serological determinations</title><p>Serum ALT and AST (Nanjing Jiancheng Biotechnology Research Institute, Nanjing) and TNF-α (Minneapolis, MN, USA) activities were determined using commercial kits, according to the manufacturer's instructions (Bio-Rad, Hercules, CA, USA) as specified in the protocol provided under 450 nm conditions.</p></sec><sec><label>2.7.</label><title>Estimation of lipid peroxidation</title><p>The oxidation kits of GSH and MDA were purchased from Nanjing Jiancheng Biotechnology Research Institute, analyzed using commercial reagent kits according to the manufacturer's instructions (Bio-Rad, Hercules, CA, USA). The absorbance of each sample was measured at 532 nm.</p></sec><sec><label>2.8.</label><title>Histopathology and immunofluorescence staining</title><p>Experimental methods and procedures were as described previously.<sup><xref rid="cit30" ref-type="bibr">30</xref></sup> The histopathological examination was performed with H&amp;E staining. Apoptotic cells were measured by TUNEL staining and Hoechst 33258 staining. Antibody for TNF-α (1 : 200) was purchased from Cell Signaling, and IgA (abs120195) was obtained from (BOSTER, Wuhan, China) for immunofluorescence staining. Sections were of approximately 5 μm in thickness and the liver histology of mice was studied under a light microscope (Leica DM2500, Shanghai). At the same time, the degree of hepatocyte inflammation and necrosis was assessed by the liver injury score method.<sup><xref rid="cit31" ref-type="bibr">31</xref></sup> Partial quantified data were analysised using with Image-Pro plus 6.0 (Media Cybernetics, Rockville, MD, USA).</p></sec><sec><label>2.9.</label><title>Western blotting analysis</title><p>Western blotting analysis was performed as previously described in our laboratory.<sup><xref rid="cit32" ref-type="bibr">32</xref></sup> The antibody dilution ratios of PI3K, p-PI3K, Akt, p-Akt, caspase 3, cleaved-caspase 3, caspase 9, cleaved-caspase 9, Bax, Bcl-2, β-actin, IKKα, IKKβ, p-IKKα/β, IκBα, p-IκBα, IκBα, NF-κB and p-NF-κB were (1 : 2000) with Ultra Signal Hypersensitive ECL Western Blotting Substrate (Pierce Chemical Co., Rockford, IL, USA).</p></sec><sec><label>2.10.</label><title>Statistical analysis</title><p>The data are expressed as the mean ± SD. Statistical analyses were performed by using one-way ANOVA followed by the two-tailed test. Statistical significance was defined as <italic toggle="yes">p</italic> &lt; 0.05 or <italic toggle="yes">p</italic> &lt; 0.01.</p></sec></sec><sec><label>3.</label><title>Results</title><sec><label>3.1.</label><title>Effects of STL-E on body weights and organ indices in mice</title><p>As shown in <xref rid="tab1" ref-type="table">Table 1</xref>, the body weight of mice was significantly reduced 24 h after injection of 250 mg per kg APAP, compared with the normal group (<italic toggle="yes">p</italic> &lt; 0.05). However, the change was significantly reversed (<italic toggle="yes">p</italic> &lt; 0.01, <italic toggle="yes">p</italic> &lt; 0.05) in the two treatment groups of STL-E (50 and 100 mg kg<sup>−1</sup>).</p><table-wrap position="float" id="tab1" orientation="portrait"><caption><title>Effects of STL-E on body weight and organ index in mice<xref rid="tab1fna" ref-type="table-fn">a</xref></title></caption><table frame="hsides" rules="groups"><colgroup span="1"><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/></colgroup><thead><tr><th rowspan="2" colspan="1">Group</th><th rowspan="2" colspan="1">Dosage (mg kg<sup>−1</sup>)</th><th colspan="2" rowspan="1">Body weight (g)</th><th rowspan="2" colspan="1">Liver index (mg g<sup>−1</sup>)</th></tr><tr><th rowspan="1" colspan="1">Initial</th><th rowspan="1" colspan="1">Final</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">Normal</td><td rowspan="1" colspan="1">—</td><td align="char" char="xb1" rowspan="1" colspan="1">28.51 ± 1.50</td><td align="char" char="xb1" rowspan="1" colspan="1">32.98 ± 1.75</td><td align="char" char="xb1" rowspan="1" colspan="1">5.64 ± 0.34</td></tr><tr><td rowspan="1" colspan="1">APAP</td><td rowspan="1" colspan="1">250</td><td align="char" char="xb1" rowspan="1" colspan="1">28.70 ± 1.62</td><td align="char" char="xb1" rowspan="1" colspan="1">27.65 ± 1.45*</td><td align="char" char="xb1" rowspan="1" colspan="1">6.29 ± 0.24*</td></tr><tr><td rowspan="1" colspan="1">APAP + ST-E</td><td rowspan="1" colspan="1">50</td><td align="char" char="xb1" rowspan="1" colspan="1">28.32 ± 1.64</td><td align="char" char="xb1" rowspan="1" colspan="1">31.42 ± 1.85<sup>#</sup></td><td align="char" char="xb1" rowspan="1" colspan="1">5.72 ± 0.63<sup>#</sup></td></tr><tr><td rowspan="1" colspan="1">APAP + ST-E</td><td rowspan="1" colspan="1">100</td><td align="char" char="xb1" rowspan="1" colspan="1">28.16 ± 1.38</td><td align="char" char="xb1" rowspan="1" colspan="1">31.85 ± 1.56<sup>#</sup></td><td align="char" char="xb1" rowspan="1" colspan="1">5.69 ± 0.32<sup>##</sup></td></tr></tbody></table><table-wrap-foot><fn id="tab1fna"><label>a</label><p>Values represent the mean ± SD, <italic toggle="yes">n</italic> = 8. *<italic toggle="yes">p</italic> &lt; 0.05 <italic toggle="yes">vs.</italic> normal group; <sup>#</sup><italic toggle="yes">p</italic> &lt; 0.05, <sup>##</sup><italic toggle="yes">p</italic> &lt; 0.01 <italic toggle="yes">vs.</italic> APAP group.</p></fn></table-wrap-foot></table-wrap></sec><sec><label>3.2.</label><title>Effects of STL-E on liver enzymes and oxidative stress</title><p>As shown in <xref rid="fig2" ref-type="fig">Fig. 2</xref>, serum levels of ALT and AST in the APAP group significantly increased compared with those in the normal group (<italic toggle="yes">p</italic> &lt; 0.01), indicating severe liver injury. In the mice treated with STL-E, the levels of ALT and AST were significantly reduced as compared with the APAP group. The pretreatment of STL-E alleviated the APAP-induced elevation of the two transaminases (<xref rid="fig2" ref-type="fig">Fig. 2A and B</xref>).</p><fig position="float" id="fig2" orientation="portrait"><label>Fig. 2</label><caption><title>Pretreatment with STL-E protecting against APAP-induced ALI. Serum ALT and AST activities (A and B). The hepatic levels of GSH and MDA (C and D). All data are expressed as mean ± SD, <italic toggle="yes">n</italic> = 8. *<italic toggle="yes">p</italic> &lt; 0.05, **<italic toggle="yes">p</italic> &lt; 0.01 <italic toggle="yes">vs.</italic> normal group; <sup>#</sup><italic toggle="yes">p</italic> &lt; 0.05, <sup>##</sup><italic toggle="yes">p</italic> &lt; 0.01 <italic toggle="yes">vs.</italic> APAP group.</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="d0ra00020e-f2.jpg"/></fig><p>The activity of GSH was measured by a commercial reagent kit. As shown in <xref rid="fig2" ref-type="fig">Fig. 2C</xref>, APAP treatment caused a significant decrease in GSH levels in liver homogenate, compared with normal mice. However, STL-E supplementation inhibited the depletion of hepatic GSH content resulting from APAP injection (<xref rid="fig2" ref-type="fig">Fig. 2C</xref>) (<italic toggle="yes">p</italic> &lt; 0.01). Oxidative damage was assessed by determining the production level of MDA. As the final product of lipid peroxidation, MDA was considerably enhanced in the liver of APAP-treated mice. However, STL-E pretreatment significantly inhibited such increase (<xref rid="fig2" ref-type="fig">Fig. 2D</xref>) (<italic toggle="yes">p</italic> &lt; 0.01). In conclusion, STL-E could further protect against APAP-induced hepatotoxicity by regulating the level of oxidative markers to reduce oxidative stress.</p></sec><sec><label>3.3.</label><title>Effects of STL-E on pathological changes of liver tissues in mice</title><p>As shown in <xref rid="fig3" ref-type="fig">Fig. 3A</xref>, hepatocytes were evenly distributed, with complete cytoskeleton and intact morphology in the normal group. On the contrary, the liver injected with APAP showed cellular tissue disorder and cytoskeleton damage, and was accompanied by inflammatory infiltration and necrosis. Interestingly, the mice pretreated with STL-E had significant improvement of liver histopathology in comparison to the APAP-exposed group. Histopathological change and necrosis score also clearly showed that STL-E pretreatment could alleviate APAP-induced liver lesions (<italic toggle="yes">p</italic> &lt; 0.01) (<xref rid="fig3" ref-type="fig">Fig. 3D</xref>). The liver morphology of APAP-exposed mice pretreated with high dose of STL-E (100 mg kg<sup>−1</sup>) was similar to that of normal mice. Therefore, STL-E pretreatment could effectively lessen inflammation and necrotic cells, increase normal cells, and enhance the liver pathological change resulting from APAP exposure.</p><fig position="float" id="fig3" orientation="portrait"><label>Fig. 3</label><caption><title>Histological examination of morphological changes in liver tissues. (A) Liver tissues were stained with H&amp;E (100×, 400×). In the H&amp;E staining, yellow arrows indicate hepatocyte necrosis and inflammatory cell infiltration. (D) The scores representing the approximate extent of necrotisis around the central veins. 0 = no damage, 1 = 0–10%, 2 = 11–25%, 3 = 26–45%, 4 = 46–75%, 5 = &gt;75%. (B and C) Liver tissues were stained with Hoechst 33258 (200×) and TUNEL (400×); yellow arrows indicate apoptotic cells. (E and F) Percentage of Hoechst 33258 positive cells and TUNEL positive cells were evaluated by an image analyzer. All data are expressed as mean ± SD, <italic toggle="yes">n</italic> = 8. *<italic toggle="yes">p</italic> &lt; 0.05, **<italic toggle="yes">p</italic> &lt; 0.01 <italic toggle="yes">vs.</italic> normal group; <sup>#</sup><italic toggle="yes">p</italic> &lt; 0.05, <sup>##</sup><italic toggle="yes">p</italic> &lt; 0.01 <italic toggle="yes">vs.</italic> APAP group.</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="d0ra00020e-f3.jpg"/></fig></sec><sec><label>3.4.</label><title>Inhibitory effects of STL-E on apoptotic molecular expression in mice</title><p>To verify the inhibition of STL-E on APAP-induced hepatocyte apoptosis, Hoechst 33258 and TUNEL staining were adopted to analyze changes in nuclear morphology. As shown in <xref rid="fig3" ref-type="fig">Fig. 3B and C</xref>, the nucleus was intact, evenly distributed, neatly arranged, with clear edges and uniform chromatin staining in the normal group. In the APAP group, nuclear contraction, chromatin condensation, and high fluorescence intensity after APAP injection indicated serious apoptosis. STL-E pretreatment could significantly inhibit nuclear morphological change and attenuate fluorescence intensity. As shown in <xref rid="fig3" ref-type="fig">Fig. 3E and F</xref>, the result of TUNEL staining showed that APAP exposure resulted in an increase of positive hepatocyte numbers, while the APAP + STL-E group tended to show alleviation of this condition, indicating that STL-E effectively reduced APAP-induced nuclear apoptosis to a certain extent.</p><p>Since PI3K/Akt may be involved in the apoptotic mechanism of regulating apoptotic cytokine transcription, the apoptotic degrees of hepatocytes in all experimental groups were quantitatively analyzed by measuring the expression levels of the PI3K/Akt signaling pathway-related proteins, downstream pro-apoptotic factor Bax, and anti-apoptotic factor Bcl-2. The expressions of p-PI3K and p-Akt were reduced significantly after APAP exposure (<italic toggle="yes">p</italic> &lt; 0.05 or <italic toggle="yes">p</italic> &lt; 0.01). However, one week of STL-E pretreatment dramatically reversed this situation. In addition, APAP treatment markedly increased the protein expression levels of Bax, cleaved-caspase 3 and cleaved-caspase 9, and reduced Bcl-2 protein expression levels in liver tissues.<sup><xref rid="cit33" ref-type="bibr">33</xref></sup> Fortunately, one week of STL-E supplementation could lessen the occurrence of apoptosis by improving the expressions of caspase family proteins. All the above results verified that STL-E exerted a repressive effect on APAP-induced liver cell apoptosis (<xref rid="fig4" ref-type="fig">Fig. 4A and C</xref>).</p><fig position="float" id="fig4" orientation="portrait"><label>Fig. 4</label><caption><title>Effects of STL-E against APAP-induced liver toxicity by regulating the apoptosis pathway. (A) The protein expressions of p-PI3K, PI3K, p-Akt, Akt, Bax and Bcl-2 were measured by western blotting with specific primary antibodies, and GAPDH protein level was used as a loading normal. (B and C) Quantification of relative protein expression was performed by densitometric analysis. All data are expressed as mean ± SD, <italic toggle="yes">n</italic> = 8. *<italic toggle="yes">p</italic> &lt; 0.05, **<italic toggle="yes">p</italic> &lt; 0.01 <italic toggle="yes">vs.</italic> normal group; <sup>#</sup><italic toggle="yes">p</italic> &lt; 0.05, <sup>##</sup><italic toggle="yes">p</italic> &lt; 0.01 <italic toggle="yes">vs.</italic> APAP group.</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="d0ra00020e-f4.jpg"/></fig></sec><sec><label>3.5.</label><title>STL-E inhibited inflammation response after APAP treatment</title><p>Currently, inflammation is still often considered to be the cause of liver tissue damage. In this study, the expression of TNF-α in liver tissue was verified by immunofluorescence staining. APAP exposure enhanced the expression of TNF-α, compared to the normal group. As shown in <xref rid="fig5" ref-type="fig">Fig. 5A and B</xref>, the expression level of TNF-α induced by APAP was mitigated by STL-E pretreatment (<italic toggle="yes">p</italic> &lt; 0.05, <italic toggle="yes">p</italic> &lt; 0.01). As shown in <xref rid="fig5" ref-type="fig">Fig. 5C</xref>, serum TNF-α level in mice with elevated APAP treatment was higher than that in the normal group (<italic toggle="yes">p</italic> &lt; 0.05 or <italic toggle="yes">p</italic> &lt; 0.01). However, the TNF-α level was remarkably decreased with STL-E treatment in mice (<italic toggle="yes">p</italic> &lt; 0.05 or <italic toggle="yes">p</italic> &lt; 0.01).</p><fig position="float" id="fig5" orientation="portrait"><label>Fig. 5</label><caption><title>Effects of STL-E on APAP-induced liver toxicity by regulating the inflammation response. (A) The expression level of NF-κB (green) in tissue section isolated from different groups was evaluated with immunofluorescence. Representative immunofluorescence images were taken at 400×; 4′,6-diamidino-2-phenylindole (DAPI) (blue) acted as a nuclear counterstain. (B) Column chart showing relative fluorescence intensity. (C) Serum TNF-α activity. (D) The protein expressions of phosphorylated and total IKKα, IKKβ and NF-κB were measured by western blotting with specific primary antibodies, and GAPDH protein level was used as a loading normal. (E) Quantification of relative protein expression was performed by densitometric analysis. Data are expressed as mean ± SD, <italic toggle="yes">n</italic> = 8. *<italic toggle="yes">p</italic> &lt; 0.05, **<italic toggle="yes">p</italic> &lt; 0.01 <italic toggle="yes">vs.</italic> normal group; <sup>#</sup><italic toggle="yes">p</italic> &lt; 0.05, <sup>##</sup><italic toggle="yes">p</italic> &lt; 0.01 <italic toggle="yes">vs.</italic> APAP group.</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="d0ra00020e-f5.jpg"/></fig><p>The NF-κB signaling pathway plays an important role in inflammation, immunity, cell proliferation, and apoptosis, especially in an animal model of APAP-induced hepatotoxicity. So, the protein level was analyzed in this study. APAP exposure increased the phosphorylated protein expression of NF-κB and its upstream regulatory factors, IKKα/β and IκBα (<italic toggle="yes">p</italic> &lt; 0.01). As expected, STL-E supplementation considerably inhibited NF-κB phosphorylation, IKKα/β and IκBα phosphorylation (<italic toggle="yes">p</italic> &lt; 0.05, <italic toggle="yes">p</italic> &lt; 0.01), which was essentially protective against APAP-induced liver damage (<xref rid="fig5" ref-type="fig">Fig. 5D and E</xref>). The result showed that STL-E inhibited APAP-induced hepatotoxicity by restraining the inflammatory response.</p></sec></sec><sec><label>4.</label><title>Discussion</title><p>Multiple liver necrosis secondary to APAP-induced ALI is a rapidly progressive clinical syndrome which often causes multiple organ failure. As a traditional Chinese medicine, the leaves of <italic toggle="yes">L. polystachyus</italic> have served as a sweet tonic for centuries.<sup><xref rid="cit34" ref-type="bibr">34</xref></sup> Current pharmacological researches suggest that <italic toggle="yes">L. polystachyus</italic> has a preventive effect against hypertension and has significant protective activity for type 2 and type 1 diabetes.<sup><xref rid="cit17" ref-type="bibr">17,28</xref></sup> Recently, the favorable effects of trilobatin on anti-oxidation and anti-inflammation were explained by researchers.<sup><xref rid="cit35" ref-type="bibr">35</xref></sup> Oxidative stress is a major target of drug toxicity.<sup><xref rid="cit36" ref-type="bibr">36</xref></sup> The levels of MDA and GSH respectively indicated the degree of oxidative damage and lipid peroxidation.<sup><xref rid="cit37" ref-type="bibr">37</xref></sup> The results of this study proved that APAP overdose led to oxidative stress in liver tissue by reducing GSH levels and increasing MDA levels, which was consistent with many previous reports.<sup><xref rid="cit38" ref-type="bibr">38,39</xref></sup> Intriguingly, STL-E remarkably improved this situation. This result indicated that STL-E protected the liver from oxidative stress by inhibiting ROS production and lipid/protein peroxidation (<xref rid="fig6" ref-type="fig">Fig. 6</xref>).</p><fig position="float" id="fig6" orientation="portrait"><label>Fig. 6</label><caption><title>A schematic diagram of molecular mechanisms underlying ameliorative effects of STL-E against APAP-induced hepatotoxicity.</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="d0ra00020e-f6.jpg"/></fig><p>More and more evidence suggests that APAP-induced ALI is associated with hepatocyte necrosis, inflammation and apoptosis.<sup><xref rid="cit40" ref-type="bibr">40</xref></sup> The expression of inflammatory pathway NF-κB was assessed by western blotting analysis to further verify that STL-E could inhibit APAP-induced inflammation of liver tissue. The NF-κB pathway is generally regarded as a typical pro-inflammatory signal transduction pathway, which is based primarily on the activation of pro-inflammatory cytokines such as TNF-α. NF-κB is located in the cytosol bound to the effector of IκBα. Once activated, NF-κB might cause various biological events, such as cytokine transcription and inflammatory responses.<sup><xref rid="cit41" ref-type="bibr">41</xref></sup> Therefore, maintaining the stability of NF-κB/IκBα or inhibiting the release of NF-κB and IκBα in hepatocytes might promote the lessening of APAP-induced liver injury. The study by Liu <italic toggle="yes">et al.</italic> indicated that saikosaponin D protected mice from APAP-induced hepatotoxicity mainly by downregulating NF-κB and Stat3-mediated inflammatory signals,<sup><xref rid="cit42" ref-type="bibr">42</xref></sup> and Liang <italic toggle="yes">et al.</italic> also reported that urantide had a protective effect on the acutely inflamed injury of partial liver by preventing the release of pro-inflammatory cytokines and the activation of the NF-κB pathway.<sup><xref rid="cit43" ref-type="bibr">43</xref></sup> In this study, it was found that STL-E could effectively inhibit the occurrence of such a situation. Western blotting analysis showed that STL-E lessened the generation of NF-κB signals by inhibiting the activation of IKKα, IKKβ and IκBα. Accordingly, it could be concluded that STL-E inhibited NF-κB bioactivity from IκBα, then decreased and eventually prevented TNF-α release due to the APAP-induced inflammatory response of liver-injured mice.</p><p>Increasing evidence has demonstrated that APAP induces translocation of Bcl-2 family proteins<sup><xref rid="cit44" ref-type="bibr">44</xref></sup> and the expression of increasing positive cells for TUNEL assay.<sup><xref rid="cit45" ref-type="bibr">45</xref></sup> Thus, the effect of STL-E on APAP-induced apoptotic signals was examined and the protein expression of PI3K/Akt signaling pathway and the downstream protein were evaluated by western blotting analysis. The activation of such pathway plays a vital role in essential cellular functions such as survival, proliferation, migration and differentiation which underlie the biology of human cancer. Activated Akt stimulated or inhibited its downstream target proteins such as Bcl-2 and Bax to further regulate cell proliferation and apoptosis.<sup><xref rid="cit46" ref-type="bibr">46–48</xref></sup> The result demonstrated that APAP downregulated Bcl-2 and upregulated Bax, cleaved-caspase 9 and cleaved-caspase 3 in hepatocytes, and related protein expression in the PI3K/Akt signaling pathway was suppressed. The activity was close to normal level after STL-E pretreatment. This result was also consistent with those of previous reports.<sup><xref rid="cit49" ref-type="bibr">49,50</xref></sup></p></sec><sec><label>5.</label><title>Conclusions</title><p>In brief, the findings of the present work have confirmed that STL-E exerts mitigation effects of oxidative stress damage and the inhibition of inflammation and apoptosis of APAP-induced ALI in mice. STL-E treatment mechanism involves the activation of the PI3K/Akt-mediated apoptosis signaling pathway and the decline of the NF-κB signaling pathway. Therefore, STL-E treatment can be used as a potential therapeutic strategy to prevent ALI from APAP overdose. In addition, due to the extremely high level of trilobatin in STL-E, it is proposed that trilobatin may also have a protective effect against APAP-induced liver injury, which is worth further exploration in the future.</p></sec><sec sec-type="COI-statement"><title>Conflicts of interest</title><p>The authors declare no conflicts of interest.</p></sec><sec><title>Abbreviations</title><def-list><def-item><term>APAP</term><def><p>Acetaminophen</p></def></def-item><def-item><term>Akt</term><def><p>Protein kinase B</p></def></def-item><def-item><term>PI3K</term><def><p>Phosphatidylinositol-3-kinase</p></def></def-item><def-item><term>Bax</term><def><p>Bcl-2 associated X protein</p></def></def-item><def-item><term>Bcl-2</term><def><p>B-cell-lymphoma-2</p></def></def-item><def-item><term>NF-κB</term><def><p>Nuclear factor-kappa B</p></def></def-item><def-item><term>IκB</term><def><p>Inhibitor of nuclear factor kappa-B</p></def></def-item><def-item><term>IKK (IκBk)</term><def><p>IκB kinase</p></def></def-item><def-item><term>TNF-α</term><def><p>Tumor necrosis factor-α</p></def></def-item><def-item><term>ALT</term><def><p>Alanine aminotransferase</p></def></def-item><def-item><term>AST</term><def><p>Aspartate aminotransferase</p></def></def-item><def-item><term>MDA</term><def><p>Malondialdehyde</p></def></def-item><def-item><term>GSH</term><def><p>Glutathione</p></def></def-item></def-list></sec><sec sec-type="supplementary-material"><title>Supplementary Material</title></sec></body><back><ack><p>This work was supported by the National Natural Science Foundation of China (no. 81860691) and “13<sup>th</sup> five year plan” scientific research planning project of Jilin Provincial Department of Education (no. JJKH20190946KJ).</p></ack><ref-list><title>References</title><ref id="cit1"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Fu</surname><given-names>C. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Liu</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Leng</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Zhang</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>He</surname><given-names>Y. F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Chen</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Li</surname><given-names>W.</given-names></name>
+</person-group><article-title>Platycodin D protects acetaminophen-induced hepatotoxicity by inhibiting hepatocyte MAPK pathway and apoptosis in C57BL/6J mice</article-title><source>Biomed. Pharmacother.</source><year>2018</year><volume>107</volume><fpage>867</fpage><lpage>877</lpage><pub-id pub-id-type="doi">10.1016/j.biopha.2018.08.082</pub-id><pub-id pub-id-type="pmid">30257399</pub-id></element-citation></ref><ref id="cit2"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Liang</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Feng</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Cui</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Qiu</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Zhang</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Liu</surname><given-names>C.</given-names></name>
+</person-group><article-title>Simvastatin protects against acetaminophen-induced liver injury in mice</article-title><source>Biomed. Pharmacother.</source><year>2018</year><volume>98</volume><fpage>916</fpage><lpage>924</lpage><pub-id pub-id-type="doi">10.1016/j.biopha.2017.12.076</pub-id><pub-id pub-id-type="pmid">29421861</pub-id></element-citation></ref><ref id="cit3"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Wu</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Fan</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Huang</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Wu</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Guo</surname><given-names>C.</given-names></name>
+</person-group><article-title>Hepatoprotective effects exerted by Poria Cocos polysaccharides against acetaminophen-induced liver injury in mice</article-title><source>Int. J. Biol. Macromol.</source><year>2018</year><volume>114</volume><fpage>137</fpage><lpage>142</lpage><pub-id pub-id-type="doi">10.1016/j.ijbiomac.2018.03.107</pub-id><pub-id pub-id-type="pmid">29572139</pub-id></element-citation></ref><ref id="cit4"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Abdel-Zaher</surname><given-names>A. O.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Abdel-Hady</surname><given-names>R. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Mahmoud</surname><given-names>M. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Farrag</surname><given-names>M. M.</given-names></name>
+</person-group><article-title>The potential protective role of alpha-lipoic acid against acetaminophen-induced hepatic and renal damage</article-title><source>Toxicology</source><year>2008</year><volume>243</volume><issue>3</issue><fpage>261</fpage><lpage>270</lpage><pub-id pub-id-type="doi">10.1016/j.tox.2007.10.010</pub-id><pub-id pub-id-type="pmid">18068886</pub-id></element-citation></ref><ref id="cit5"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Zhao</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Kalhorn</surname><given-names>T. F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Slattery</surname><given-names>J. T.</given-names></name>
+</person-group><article-title>Selective mitochondrial glutathione depletion by ethanol enhances acetaminophen toxicity in rat liver</article-title><source>Hepatology</source><year>2002</year><volume>36</volume><issue>2</issue><fpage>326</fpage><lpage>335</lpage><pub-id pub-id-type="doi">10.1053/jhep.2002.34943</pub-id><pub-id pub-id-type="pmid">12143040</pub-id></element-citation></ref><ref id="cit6"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Arakawa</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Maejima</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Fujimoto</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Yamaguchi</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Yagi</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Sugiura</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Atsumi</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Yamazoe</surname><given-names>Y.</given-names></name>
+</person-group><article-title>Resistance to acetaminophen-induced hepatotoxicity in glutathione S-transferase Mu 1-null mice</article-title><source>J. Toxicol. Sci.</source><year>2012</year><volume>37</volume><issue>3</issue><fpage>595</fpage><lpage>605</lpage><pub-id pub-id-type="doi">10.2131/jts.37.595</pub-id><pub-id pub-id-type="pmid">22687999</pub-id></element-citation></ref><ref id="cit7"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Zaher</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Buters</surname><given-names>J. T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Ward</surname><given-names>J. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Bruno</surname><given-names>M. K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Lucas</surname><given-names>A. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Stern</surname><given-names>S. T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Cohen</surname><given-names>S. D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Gonzalez</surname><given-names>F. J.</given-names></name>
+</person-group><article-title>Protection against acetaminophen toxicity in CYP1A2 and CYP2E1 double-null mice</article-title><source>Toxicol. Appl. Pharmacol.</source><year>1998</year><volume>152</volume><issue>1</issue><fpage>193</fpage><lpage>199</lpage><pub-id pub-id-type="doi">10.1006/taap.1998.8501</pub-id><pub-id pub-id-type="pmid">9772215</pub-id></element-citation></ref><ref id="cit8"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Kalsi</surname><given-names>S. S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Dargan</surname><given-names>P. I.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Waring</surname><given-names>W. S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Wood</surname><given-names>D. M.</given-names></name>
+</person-group><article-title>A review of the evidence concerning hepatic glutathione depletion and susceptibility to hepatotoxicity after paracetamol overdose</article-title><source>Open Access Emerg. Med.</source><year>2011</year><volume>3</volume><fpage>87</fpage><lpage>96</lpage><pub-id pub-id-type="pmid">27147856</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.2147/OAEM.S24963</pub-id><pub-id pub-id-type="pmcid">PMC4753970</pub-id></element-citation></ref><ref id="cit9"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Canbay</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Jochum</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Bechmann</surname><given-names>L. P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Festag</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Gieseler</surname><given-names>R. K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Yuksel</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Lutkes</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Saner</surname><given-names>F. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Paul</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Gerken</surname><given-names>G.</given-names></name>
+</person-group><article-title>Acute liver failure in a metropolitan area in Germany: a retrospective study (2002 - 2008)</article-title><source>Z. Gastroenterol.</source><year>2009</year><volume>47</volume><issue>9</issue><fpage>807</fpage><lpage>813</lpage><pub-id pub-id-type="doi">10.1055/s-0028-1109058</pub-id><pub-id pub-id-type="pmid">19750427</pub-id></element-citation></ref><ref id="cit10"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Li</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Zhao</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Huang</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Song</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Zeng</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Hou</surname><given-names>S. Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Lai</surname><given-names>X. P.</given-names></name>
+</person-group><article-title>New dihydrochalcone and propenamide from Lithocarpus polystachyus</article-title><source>Nat. Prod. Commun.</source><year>2014</year><volume>9</volume><issue>5</issue><fpage>653</fpage><lpage>654</lpage><pub-id pub-id-type="doi">10.1177/1934578X1400900516</pub-id><pub-id pub-id-type="pmid">25026712</pub-id></element-citation></ref><ref id="cit11"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Ning</surname><given-names>R. N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>H. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Shen</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Chen</surname><given-names>Z. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Zhang</surname><given-names>R. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Leng</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Zhao</surname><given-names>W. M.</given-names></name>
+</person-group><article-title>Lithocarpic acids O-S, five homo-cycloartane derivatives from the cupules of Lithocarpus polystachyus</article-title><source>Bioorg. Med. Chem. Lett.</source><year>2014</year><volume>24</volume><issue>23</issue><fpage>5395</fpage><lpage>5398</lpage><pub-id pub-id-type="doi">10.1016/j.bmcl.2014.10.036</pub-id><pub-id pub-id-type="pmid">25453795</pub-id></element-citation></ref><ref id="cit12"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Chang</surname><given-names>W. T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Huang</surname><given-names>W. C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Liou</surname><given-names>C. J.</given-names></name>
+</person-group><article-title>Evaluation of the anti-inflammatory effects of phloretin and phlorizin in lipopolysaccharide-stimulated mouse macrophages</article-title><source>Food Chem.</source><year>2012</year><volume>134</volume><issue>2</issue><fpage>972</fpage><lpage>979</lpage><pub-id pub-id-type="doi">10.1016/j.foodchem.2012.03.002</pub-id><pub-id pub-id-type="pmid">23107715</pub-id></element-citation></ref><ref id="cit13"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Zhou</surname><given-names>C. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Huang</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Liu</surname><given-names>J. Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Qiu</surname><given-names>S. Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Xie</surname><given-names>F. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Song</surname><given-names>H. P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Li</surname><given-names>Y. S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Hou</surname><given-names>S. Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Lai</surname><given-names>X. P.</given-names></name>
+</person-group><article-title>Sweet tea leaves extract improves leptin resistance in diet-induced obese rats</article-title><source>J. Ethnopharmacol.</source><year>2013</year><volume>145</volume><issue>1</issue><fpage>386</fpage><lpage>392</lpage><pub-id pub-id-type="doi">10.1016/j.jep.2012.09.057</pub-id><pub-id pub-id-type="pmid">23147498</pub-id></element-citation></ref><ref id="cit14"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Zhu</surname><given-names>F. B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>J. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Zhang</surname><given-names>Y. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Hu</surname><given-names>Y. G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Yue</surname><given-names>Z. S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Zeng</surname><given-names>L. R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Zheng</surname><given-names>W. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Hou</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Yan</surname><given-names>S. G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Quan</surname><given-names>R. F.</given-names></name>
+</person-group><article-title>Mechanisms underlying the antiapoptotic and anti-inflammatory effects of monotropein in hydrogen peroxide-treated osteoblasts</article-title><source>Mol. Med. Rep.</source><year>2016</year><volume>14</volume><issue>6</issue><fpage>5377</fpage><lpage>5384</lpage><pub-id pub-id-type="doi">10.3892/mmr.2016.5908</pub-id><pub-id pub-id-type="pmid">27840925</pub-id></element-citation></ref><ref id="cit15"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Koh</surname><given-names>G. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>McCutcheon</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Zhang</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Liu</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Cartwright</surname><given-names>C. A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Martin</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Yang</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Liu</surname><given-names>Z.</given-names></name>
+</person-group><article-title>Improvement of obesity phenotype by Chinese sweet leaf tea (Rubus suavissimus) components in high-fat diet-induced obese rats</article-title><source>J. Agric. Food Chem.</source><year>2011</year><volume>59</volume><issue>1</issue><fpage>98</fpage><lpage>104</lpage><pub-id pub-id-type="doi">10.1021/jf103497p</pub-id><pub-id pub-id-type="pmid">21138267</pub-id></element-citation></ref><ref id="cit16"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Li</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Zhao</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Hou</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Huang</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Yang</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Lai</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Zeng</surname><given-names>X.</given-names></name>
+</person-group><article-title>Identification of the bioactive components of orally administered Lithocarpus polystachyus Rehd and their metabolites in rats by liquid chromatography coupled to LTQ Orbitrap mass spectrometry</article-title><source>J. Chromatogr. B: Anal. Technol. Biomed. Life Sci.</source><year>2014</year><volume>962</volume><fpage>37</fpage><lpage>43</lpage><pub-id pub-id-type="doi">10.1016/j.jchromb.2014.05.016</pub-id><pub-id pub-id-type="pmid">24887594</pub-id></element-citation></ref><ref id="cit17"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Hou</surname><given-names>S. Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Xu</surname><given-names>S. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Jiang</surname><given-names>D. X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Chen</surname><given-names>S. X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>L. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Huang</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Lai</surname><given-names>X. P.</given-names></name>
+</person-group><article-title>Effect of the flavonoid fraction of Lithocarpus polystachyus Rehd. on spontaneously hypertensive and normotensive rats</article-title><source>J. Ethnopharmacol.</source><year>2012</year><volume>143</volume><issue>2</issue><fpage>441</fpage><lpage>447</lpage><pub-id pub-id-type="doi">10.1016/j.jep.2012.06.016</pub-id><pub-id pub-id-type="pmid">22820240</pub-id></element-citation></ref><ref id="cit18"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Sun</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Chen</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Li</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Li</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Lv</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Yang</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Li</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Xie</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Xiong</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Zhang</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>Y.</given-names></name>
+</person-group><article-title>Diterpenoid UDP-Glycosyltransferases from Chinese Sweet Tea and Ashitaba Complete the Biosynthesis of Rubusoside</article-title><source>Mol. Plant</source><year>2018</year><volume>11</volume><issue>10</issue><fpage>1308</fpage><lpage>1311</lpage><pub-id pub-id-type="doi">10.1016/j.molp.2018.05.010</pub-id><pub-id pub-id-type="pmid">29885474</pub-id></element-citation></ref><ref id="cit19"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Gaisano</surname><given-names>H. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Ostenson</surname><given-names>C. G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Sheu</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Wheeler</surname><given-names>M. B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Efendic</surname><given-names>S.</given-names></name>
+</person-group><article-title>Abnormal expression of pancreatic islet exocytotic soluble N-ethylmaleimide-sensitive factor attachment protein receptors in Goto-Kakizaki rats is partially restored by phlorizin treatment and accentuated by high glucose treatment</article-title><source>Endocrinology</source><year>2002</year><volume>143</volume><issue>11</issue><fpage>4218</fpage><lpage>4226</lpage><pub-id pub-id-type="doi">10.1210/en.2002-220237</pub-id><pub-id pub-id-type="pmid">12399415</pub-id></element-citation></ref><ref id="cit20"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>McCrimmon</surname><given-names>R. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Evans</surname><given-names>M. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Jacob</surname><given-names>R. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Fan</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Zhu</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Shulman</surname><given-names>G. I.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Sherwin</surname><given-names>R. S.</given-names></name>
+</person-group><article-title>AICAR and phlorizin reverse the hypoglycemia-specific defect in glucagon secretion in the diabetic BB rat</article-title><source>Am. J. Physiol.: Endocrinol. Metab.</source><year>2002</year><volume>283</volume><issue>5</issue><fpage>E1076</fpage><lpage>E1083</lpage><pub-id pub-id-type="doi">10.1152/ajpendo.00195.2002</pub-id><pub-id pub-id-type="pmid">12376337</pub-id></element-citation></ref><ref id="cit21"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Zhao</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Yakar</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Gavrilova</surname><given-names>O.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Sun</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Zhang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Kim</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Setser</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Jou</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>LeRoith</surname><given-names>D.</given-names></name>
+</person-group><article-title>Phloridzin improves hyperglycemia but not hepatic insulin resistance in a transgenic mouse model of type 2 diabetes</article-title><source>Diabetes</source><year>2004</year><volume>53</volume><issue>11</issue><fpage>2901</fpage><lpage>2909</lpage><pub-id pub-id-type="doi">10.2337/diabetes.53.11.2901</pub-id><pub-id pub-id-type="pmid">15504971</pub-id></element-citation></ref><ref id="cit22"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Hall</surname><given-names>J. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Reilly</surname><given-names>R. T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Cottrill</surname><given-names>K. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Stone</surname><given-names>W. S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Gold</surname><given-names>P. E.</given-names></name>
+</person-group><article-title>Phlorizin enhancement of memory in rats and mice</article-title><source>Pharmacol., Biochem. Behav.</source><year>1992</year><volume>41</volume><issue>2</issue><fpage>295</fpage><lpage>299</lpage><pub-id pub-id-type="doi">10.1016/0091-3057(92)90101-K</pub-id><pub-id pub-id-type="pmid">1574518</pub-id></element-citation></ref><ref id="cit23"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Xiang</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Sun</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Lu</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Weng</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Taoka</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Sakagami</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Qi</surname><given-names>J.</given-names></name>
+</person-group><article-title>Anti-aging effects of phloridzin, an apple polyphenol, on yeast via the SOD and Sir2 genes</article-title><source>Biosci., Biotechnol., Biochem.</source><year>2011</year><volume>75</volume><issue>5</issue><fpage>854</fpage><lpage>858</lpage><pub-id pub-id-type="doi">10.1271/bbb.100774</pub-id><pub-id pub-id-type="pmid">21597195</pub-id></element-citation></ref><ref id="cit24"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Ridgway</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>O'Reilly</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>West</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Tucker</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Wiseman</surname><given-names>H.</given-names></name>
+</person-group><article-title>Antioxidant action of novel derivatives of the apple-derived flavonoid phloridzin compared to oestrogen: relevance to potential cardioprotective action</article-title><source>Biochem. Soc. Trans.</source><year>1997</year><volume>25</volume><issue>1</issue><fpage>106S</fpage><pub-id pub-id-type="doi">10.1042/bst025106s</pub-id><pub-id pub-id-type="pmid">9057004</pub-id></element-citation></ref><ref id="cit25"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Ugocsai</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Varga</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Molnar</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Antus</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Molnar</surname><given-names>J.</given-names></name>
+</person-group><article-title>Effects of selected flavonoids and carotenoids on drug accumulation and apoptosis induction in multidrug-resistant colon cancer cells expressing MDR1/LRP</article-title><source>In Vivo</source><year>2005</year><volume>19</volume><issue>2</issue><fpage>433</fpage><lpage>438</lpage><pub-id pub-id-type="pmid">15796208</pub-id></element-citation></ref><ref id="cit26"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Lee</surname><given-names>K. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>You</surname><given-names>H. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Park</surname><given-names>S. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Kim</surname><given-names>Y. S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Chung</surname><given-names>Y. C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Jeong</surname><given-names>T. C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Jeong</surname><given-names>H. G.</given-names></name>
+</person-group><article-title>Hepatoprotective effects of Platycodon grandiflorum on acetaminophen-induced liver damage in mice</article-title><source>Cancer Lett.</source><year>2001</year><volume>174</volume><issue>1</issue><fpage>73</fpage><lpage>81</lpage><pub-id pub-id-type="doi">10.1016/S0304-3835(01)00678-4</pub-id><pub-id pub-id-type="pmid">11675154</pub-id></element-citation></ref><ref id="cit27"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Li</surname><given-names>Y. Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Ren</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Yan</surname><given-names>X. T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Li</surname><given-names>H. P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Li</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Zheng</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Liu</surname><given-names>Y. Y.</given-names></name>
+</person-group><article-title>Improvement of Cisplatin-induced renal dysfunction by Schisandra chinensis stems via anti-inflammation and anti-apoptosis effects</article-title><source>J. Ethnopharmacol.</source><year>2018</year><volume>217</volume><fpage>228</fpage><lpage>237</lpage><pub-id pub-id-type="doi">10.1016/j.jep.2018.01.033</pub-id><pub-id pub-id-type="pmid">29421595</pub-id></element-citation></ref><ref id="cit28"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Zhang</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Zeng</surname><given-names>J. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Tang</surname><given-names>M.</given-names></name>
+</person-group><article-title>Effects of different liquid extracts from polypanicle on MDA/CAT activity in diabetic mice</article-title><source>Hubei Agricultural Sciences</source><year>2012</year><volume>51</volume><issue>02</issue><fpage>354</fpage><lpage>357</lpage></element-citation></ref><ref id="cit29"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Leng</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Fu</surname><given-names>C. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Zhang</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Ren</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Hu</surname><given-names>J. N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Jiang</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>Y. P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Chen</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Li</surname><given-names>W.</given-names></name>
+</person-group><source>Phytother. Res.</source><year>2018</year><volume>32</volume><fpage>2235</fpage><lpage>2246</lpage><pub-id pub-id-type="doi">10.1002/ptr.6160</pub-id><pub-id pub-id-type="pmid">30039882</pub-id></element-citation></ref><ref id="cit30"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Zhang</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Hou</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Yan</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Leng</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Li</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Zhang</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Xing</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Chen</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Li</surname><given-names>W.</given-names></name>
+</person-group><article-title>Platycodon grandiflorum Saponins Ameliorate Cisplatin-Induced Acute Nephrotoxicity through the NF-kappaB-Mediated Inflammation and PI3K/Akt/Apoptosis Signaling Pathways</article-title><source>Nutrients</source><year>2018</year><volume>10</volume><issue>9</issue><fpage>1328</fpage><pub-id pub-id-type="doi">10.3390/nu10091328</pub-id><pub-id pub-id-type="pmid">30235825</pub-id><pub-id pub-id-type="pmcid">PMC6164643</pub-id></element-citation></ref><ref id="cit31"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Mi</surname><given-names>X. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Hou</surname><given-names>J. G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Jiang</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Liu</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Tang</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Liu</surname><given-names>X. X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>Y. P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Chen</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Li</surname><given-names>W.</given-names></name>
+</person-group><article-title>Maltol Mitigates Thioacetamide-induced Liver Fibrosis through TGF-beta1-mediated Activation of PI3K/Akt Signaling Pathway</article-title><source>J. Agric. Food Chem.</source><year>2019</year><volume>67</volume><issue>5</issue><fpage>1392</fpage><lpage>1401</lpage><pub-id pub-id-type="doi">10.1021/acs.jafc.8b05943</pub-id><pub-id pub-id-type="pmid">30644744</pub-id></element-citation></ref><ref id="cit32"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Li</surname><given-names>R. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Zhang</surname><given-names>W. Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Yan</surname><given-names>X. T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Hou</surname><given-names>J. G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Ding</surname><given-names>C. B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Liu</surname><given-names>W. C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Zheng</surname><given-names>Y. N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Chen</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Li</surname><given-names>Y. R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Li</surname><given-names>W.</given-names></name>
+</person-group><article-title>Arginyl-fructosyl-glucose, a Major Maillard Reaction Product of Red Ginseng, Attenuates Cisplatin-Induced Acute Kidney Injury by Regulating Nuclear Factor kappaB and Phosphatidylinositol 3-Kinase/Protein Kinase B Signaling Pathways</article-title><source>J. Agric. Food Chem.</source><year>2019</year><volume>67</volume><issue>20</issue><fpage>5754</fpage><lpage>5763</lpage><pub-id pub-id-type="pmid">31045365</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/acs.jafc.9b00540</pub-id></element-citation></ref><ref id="cit33"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Yan</surname><given-names>X. T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Sun</surname><given-names>Y. S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Ren</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Zhao</surname><given-names>L. C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Liu</surname><given-names>W. C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Chen</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Li</surname><given-names>W.</given-names></name>
+</person-group><article-title>Dietary alpha-Mangostin Provides Protective Effects against Acetaminophen-Induced Hepatotoxicity in Mice via Akt/mTOR-Mediated Inhibition of Autophagy and Apoptosis</article-title><source>Int. J. Mol. Sci.</source><year>2018</year><volume>19</volume><issue>5</issue><fpage>1335</fpage><pub-id pub-id-type="doi">10.3390/ijms19051335</pub-id><pub-id pub-id-type="pmid">29723988</pub-id><pub-id pub-id-type="pmcid">PMC5983768</pub-id></element-citation></ref><ref id="cit34"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Sun</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Li</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Liu</surname><given-names>Z.</given-names></name>
+</person-group><article-title>Preparative isolation, quantification and antioxidant activity of dihydrochalcones from Sweet Tea (Lithocarpus polystachyus Rehd.)</article-title><source>J. Chromatogr. B: Anal. Technol. Biomed. Life Sci.</source><year>2015</year><volume>1002</volume><fpage>372</fpage><lpage>378</lpage><pub-id pub-id-type="doi">10.1016/j.jchromb.2015.08.045</pub-id><pub-id pub-id-type="pmid">26363372</pub-id></element-citation></ref><ref id="cit35"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Gao</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Liu</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Xu</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Liu</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Lv</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Deng</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Shi</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Gong</surname><given-names>Q.</given-names></name>
+</person-group><article-title>Trilobatin Protects Against Oxidative Injury in Neuronal PC12 Cells Through Regulating Mitochondrial ROS Homeostasis Mediated by AMPK/Nrf2/Sirt3 Signaling Pathway</article-title><source>Front. Mol. Neurosci.</source><year>2018</year><volume>11</volume><fpage>267</fpage><pub-id pub-id-type="doi">10.3389/fnmol.2018.00267</pub-id><pub-id pub-id-type="pmid">30104959</pub-id><pub-id pub-id-type="pmcid">PMC6077207</pub-id></element-citation></ref><ref id="cit36"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Song</surname><given-names>E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Fu</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Xia</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Su</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Song</surname><given-names>Y.</given-names></name>
+</person-group><article-title>Bazhen decoction protects against acetaminophen induced acute liver injury by inhibiting oxidative stress, inflammation and apoptosis in mice</article-title><source>PLoS One</source><year>2014</year><volume>9</volume><issue>9</issue><fpage>e107405</fpage><pub-id pub-id-type="doi">10.1371/journal.pone.0107405</pub-id><pub-id pub-id-type="pmid">25222049</pub-id><pub-id pub-id-type="pmcid">PMC4164650</pub-id></element-citation></ref><ref id="cit37"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Kamiyama</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Sato</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Liu</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Tajiri</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Miyakawa</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Marumo</surname><given-names>F.</given-names></name>
+</person-group><article-title>Role of lipid peroxidation in acetaminophen-induced hepatotoxicity: comparison with carbon tetrachloride</article-title><source>Toxicol. Lett.</source><year>1993</year><volume>66</volume><issue>1</issue><fpage>7</fpage><lpage>12</lpage><pub-id pub-id-type="doi">10.1016/0378-4274(93)90073-7</pub-id><pub-id pub-id-type="pmid">8427022</pub-id></element-citation></ref><ref id="cit38"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Zhou</surname><given-names>C.-J.</given-names></name>
+</person-group><article-title>Sweet tea leaves extract improves leptin resistance in diet-induced obese rats</article-title><source>J. Ethnopharmacol.</source><year>2013</year><volume>145</volume><issue>1</issue><fpage>386</fpage><lpage>392</lpage><pub-id pub-id-type="doi">10.1016/j.jep.2012.09.057</pub-id><pub-id pub-id-type="pmid">23147498</pub-id></element-citation></ref><ref id="cit39"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Hou</surname><given-names>S.-z.</given-names></name>
+</person-group><article-title>The hypoglycemic activity of Lithocarpus polystachyus Rehd. leaves in the experimental hyperglycemic rats</article-title><source>J. Ethnopharmacol.</source><year>2011</year><volume>138</volume><issue>1</issue><fpage>142</fpage><lpage>149</lpage><pub-id pub-id-type="doi">10.1016/j.jep.2011.08.067</pub-id><pub-id pub-id-type="pmid">21924344</pub-id></element-citation></ref><ref id="cit40"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Patterson</surname><given-names>A. D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Shah</surname><given-names>Y. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Matsubara</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Krausz</surname><given-names>K. W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Gonzalez</surname><given-names>F. J.</given-names></name>
+</person-group><article-title>Peroxisome proliferator-activated receptor alpha induction of uncoupling protein 2 protects against acetaminophen-induced liver toxicity</article-title><source>Hepatology</source><year>2012</year><volume>56</volume><issue>1</issue><fpage>281</fpage><lpage>290</lpage><pub-id pub-id-type="doi">10.1002/hep.25645</pub-id><pub-id pub-id-type="pmid">22318764</pub-id><pub-id pub-id-type="pmcid">PMC3378765</pub-id></element-citation></ref><ref id="cit41"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Ghosh</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Dass</surname><given-names>J. F.</given-names></name>
+</person-group><article-title>Study of pathway cross-talk interactions with NF-kappaB leading to its activation via ubiquitination or phosphorylation: A brief review</article-title><source>Gene</source><year>2016</year><volume>584</volume><issue>1</issue><fpage>97</fpage><lpage>109</lpage><pub-id pub-id-type="doi">10.1016/j.gene.2016.03.008</pub-id><pub-id pub-id-type="pmid">26968890</pub-id></element-citation></ref><ref id="cit42"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Liu</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Tanaka</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Sun</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Guo</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Kim</surname><given-names>J. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Krausz</surname><given-names>K. W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Fang</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Jiang</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Yang</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Gonzalez</surname><given-names>F. J.</given-names></name>
+</person-group><article-title>Saikosaponin d protects against acetaminophen-induced hepatotoxicity by inhibiting NF-kappaB and STAT3 signaling</article-title><source>Chem.-Biol. Interact.</source><year>2014</year><volume>223</volume><fpage>80</fpage><lpage>86</lpage><pub-id pub-id-type="doi">10.1016/j.cbi.2014.09.012</pub-id><pub-id pub-id-type="pmid">25265579</pub-id><pub-id pub-id-type="pmcid">PMC4376644</pub-id></element-citation></ref><ref id="cit43"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Liang</surname><given-names>D. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Liu</surname><given-names>L. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Ye</surname><given-names>C. G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Zhao</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Yu</surname><given-names>F. P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Gao</surname><given-names>D. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>Y. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Yang</surname><given-names>Z. W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>Y. Y.</given-names></name>
+</person-group><article-title>Inhibition of UII/UTR system relieves acute inflammation of liver through preventing activation of NF-kappaB pathway in ALF mice</article-title><source>PLoS One</source><year>2014</year><volume>8</volume><issue>6</issue><fpage>e64895</fpage><pub-id pub-id-type="doi">10.1371/journal.pone.0064895</pub-id><pub-id pub-id-type="pmid">23755157</pub-id><pub-id pub-id-type="pmcid">PMC3670940</pub-id></element-citation></ref><ref id="cit44"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Tomasello</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Messina</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Lartigue</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Schembri</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Medina</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Reina</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Thoraval</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Crouzet</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Ichas</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>De Pinto</surname><given-names>V.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>De Giorgi</surname><given-names>F.</given-names></name>
+</person-group><article-title>Outer membrane VDAC1 controls permeability transition of the inner mitochondrial membrane in cellulo during stress-induced apoptosis</article-title><source>Cell Res.</source><year>2009</year><volume>19</volume><issue>12</issue><fpage>1363</fpage><lpage>1376</lpage><pub-id pub-id-type="doi">10.1038/cr.2009.98</pub-id><pub-id pub-id-type="pmid">19668262</pub-id></element-citation></ref><ref id="cit45"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Christina</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Angelika</surname><given-names>H. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Bernd</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Martina</surname><given-names>P.</given-names></name>
+</person-group><article-title>Simultaneous detection of a cell surface antigen and apoptosis by microwave-sensitized TUNEL assay on paraffin sections</article-title><source>J. Immunol. Methods</source><year>2006</year><volume>316</volume><issue>1–2</issue><fpage>163</fpage><lpage>166</lpage><pub-id pub-id-type="doi">10.1016/j.jim.2006.08.013</pub-id><pub-id pub-id-type="pmid">17034813</pub-id></element-citation></ref><ref id="cit46"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Hong</surname><given-names>S. W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Lee</surname><given-names>H. S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Jung</surname><given-names>K. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Lee</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Hong</surname><given-names>S. S.</given-names></name>
+</person-group><article-title>Protective effect of fucoidan against acetaminophen-induced liver injury</article-title><source>Arch. Pharmacal Res.</source><year>2012</year><volume>35</volume><issue>6</issue><fpage>1099</fpage><lpage>1105</lpage><pub-id pub-id-type="doi">10.1007/s12272-012-0618-5</pub-id><pub-id pub-id-type="pmid">22870820</pub-id></element-citation></ref><ref id="cit47"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Grespan</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Aguiar</surname><given-names>R. P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Giubilei</surname><given-names>F. N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Fuso</surname><given-names>R. R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Damiao</surname><given-names>M. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Silva</surname><given-names>E. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Mikcha</surname><given-names>J. G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Hernandes</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Bersani Amado</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Cuman</surname><given-names>R. K.</given-names></name>
+</person-group><article-title>Hepatoprotective Effect of Pretreatment with Thymus vulgaris Essential Oil in Experimental Model of Acetaminophen-Induced Injury</article-title><source>Evid. Based Complementary Altern. Med.</source><year>2014</year><volume>2014</volume><fpage>954136</fpage><pub-id pub-id-type="doi" assigning-authority="pmc">10.1155/2014/954136</pub-id><pub-id pub-id-type="pmcid">PMC3932235</pub-id><pub-id pub-id-type="pmid">24639884</pub-id></element-citation></ref><ref id="cit48"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Lin</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Fang</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Zhang</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Yang</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Guo</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Lin</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Zhang</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>X.</given-names></name>
+</person-group><article-title>Lithocarpus polystachyus REHD leaf aqueous extract inhibits human breast cancer growth in vitro and in vivo</article-title><source>Nutr. Cancer</source><year>2014</year><volume>66</volume><issue>4</issue><fpage>613</fpage><lpage>624</lpage><pub-id pub-id-type="doi">10.1080/01635581.2014.894094</pub-id><pub-id pub-id-type="pmid">24660968</pub-id></element-citation></ref><ref id="cit49"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Zhou</surname><given-names>X. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Gong</surname><given-names>M. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Yang</surname><given-names>H. M.</given-names></name>
+</person-group><article-title>Effects of scutellaria stem-leaf total flavonoids on cardiocyte apoptosis induced by hypoxia/reoxygenation</article-title><source>Chin. J. Integr. Tradit. West. Med.</source><year>2011</year><volume>31</volume><issue>6</issue><fpage>803</fpage><lpage>806</lpage><pub-id pub-id-type="pmid">21823428</pub-id></element-citation></ref><ref id="cit50"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Ren</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Leng</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Xu</surname><given-names>X. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Jiang</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>Y. P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Yan</surname><given-names>X. T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Liu</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Chen</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Li</surname><given-names>W.</given-names></name>
+</person-group><article-title>Ginsenoside Rb1, A Major Saponin from Panax ginseng, Exerts Protective Effects Against Acetaminophen-Induced Hepatotoxicity in Mice</article-title><source>Am. J. Chin. Med.</source><year>2019</year><fpage>1</fpage><lpage>17</lpage><pub-id pub-id-type="pmid">31786947</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1142/S0192415X19500927</pub-id></element-citation></ref></ref-list></back></article>

@@ -1,0 +1,594 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article article-type="research-article" xml:lang="en" dtd-version="1.4"><front><journal-meta><journal-id journal-id-type="nlm-ta">Cancer Med</journal-id><journal-id journal-id-type="iso-abbrev">Cancer Med</journal-id><journal-id journal-id-type="pmc-domain-id">1974</journal-id><journal-id journal-id-type="pmc-domain">canmed</journal-id><journal-id journal-id-type="nlm-id">101595310</journal-id><journal-id journal-id-type="publisher-id">CAM4</journal-id><journal-title-group><journal-title>Cancer Medicine</journal-title></journal-title-group><issn pub-type="epub">2045-7634</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC7013059</article-id><article-id pub-id-type="pmcid-ver">PMC7013059.1</article-id><article-id pub-id-type="pmcaid">7013059</article-id><article-id pub-id-type="pmcaiid">7013059</article-id><article-id pub-id-type="pmid">31894666</article-id><article-id pub-id-type="doi">10.1002/cam4.2815</article-id><article-id pub-id-type="publisher-id">CAM42815</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Cancer Biology</subject><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></subj-group></article-categories><title-group><article-title>LINC00311 promotes cancer stem‐like properties by targeting miR‐330‐5p/TLR4 pathway in human papillary thyroid cancer</article-title><alt-title alt-title-type="left-running-head">GAO et al.</alt-title></title-group><contrib-group><contrib id="cam42815-cr-0001" contrib-type="author"><name name-style="western"><surname>Gao</surname><given-names initials="Y">Yu</given-names></name><xref ref-type="aff" rid="cam42815-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cam42815-cr-0002" contrib-type="author"><name name-style="western"><surname>Wang</surname><given-names initials="F">Fan</given-names></name><xref ref-type="aff" rid="cam42815-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cam42815-cr-0003" contrib-type="author"><name name-style="western"><surname>Zhang</surname><given-names initials="L">Li</given-names></name><xref ref-type="aff" rid="cam42815-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cam42815-cr-0004" contrib-type="author"><name name-style="western"><surname>Kang</surname><given-names initials="M">Mei</given-names></name><xref ref-type="aff" rid="cam42815-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cam42815-cr-0005" contrib-type="author"><name name-style="western"><surname>Zhu</surname><given-names initials="L">Liyang</given-names></name><xref ref-type="aff" rid="cam42815-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cam42815-cr-0006" contrib-type="author"><name name-style="western"><surname>Xu</surname><given-names initials="L">Lei</given-names></name><xref ref-type="aff" rid="cam42815-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cam42815-cr-0007" contrib-type="author"><name name-style="western"><surname>Liang</surname><given-names initials="W">Wei</given-names></name><xref ref-type="aff" rid="cam42815-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cam42815-cr-0008" contrib-type="author" corresp="yes"><name name-style="western"><surname>Zhang</surname><given-names initials="W">Wei</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-4163-5438</contrib-id><xref ref-type="aff" rid="cam42815-aff-0002">
+<sup>2</sup>
+</xref><address><email>WeiZhangsdf@163.com</email></address></contrib></contrib-group><aff id="cam42815-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Radiotherapy</named-content>
+<institution>The First Affiliated Hospital of Anhui Medical University</institution>
+<city>Hefei</city>
+<named-content content-type="country-part">Anhui</named-content>
+<country country="CN">China</country>
+</aff><aff id="cam42815-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Endocrinology</named-content>
+<institution>Shengjing Hospital of China Medical University</institution>
+<city>Shenyang</city>
+<named-content content-type="country-part">Liaoning</named-content>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Wei Zhang, Department of Endocrinology, Shengjing hospital of China Medical University, 36 Sanhao Street, Heping District, Shenyang, Liaoning 110000, China.<break/>
+Email: <email>WeiZhangsdf@163.com</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>02</day><month>1</month><year>2020</year></pub-date><pub-date pub-type="collection"><month>2</month><year>2020</year></pub-date><volume>9</volume><issue>4</issue><issue-id pub-id-type="pmc-issue-id">352230</issue-id><issue-id pub-id-type="doi">10.1002/cam4.v9.4</issue-id><fpage>1515</fpage><lpage>1528</lpage><history><date date-type="received"><day>15</day><month>10</month><year>2019</year></date><date date-type="rev-recd"><day>17</day><month>11</month><year>2019</year></date><date date-type="accepted"><day>17</day><month>12</month><year>2019</year></date></history><pub-history><event event-type="pmc-release"><date><day>02</day><month>01</month><year>2020</year></date></event><event event-type="pmc-live"><date><day>24</day><month>03</month><year>2020</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2024-02-01 13:25:10.283"><day>01</day><month>02</month><year>2024</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2020 The Authors. <italic toggle="yes">Cancer Medicine</italic> published by John Wiley &amp; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="CAM4-9-1515.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:CAM4-9-1515.pdf"/><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="retraction-forward" xml:lang="en" xlink:title="retraction" journal-id="Cancer Med" journal-id-type="nlm-ta" ext-link-type="pmc" xlink:href="PMC10225171"><article-title>Retraction</article-title><volume>12</volume><issue seq="750">9</issue><date><day>12</day><month>4</month><year>2023</year></date><fpage>11041</fpage><lpage>11041</lpage><source>Cancer Medicine</source><pub-id pub-id-type="pmcid">PMC10225171</pub-id><pub-id pub-id-type="pmid">37050853</pub-id></related-article><abstract id="cam42815-abs-0001"><title>Abstract</title><p>Growing evidence has suggested that long noncoding RNAs (lncRNAs) play an essential role in the progression of papillary thyroid cancer (PTC). LncRNA LINC00311 was found to be able to regulate many cellular process in several diseases. However, the function and regulatory mechanism of LINC00311 remains unclear in PTC. In the present study, the results showed that the expression of LINC00311 was upregulated in PTC tissues and cells. Furthermore, knockdown of LINC00311 dramatically suppressed spheroid formation, proliferation, migration, and invasion in PTC cells in vitro. Mechanistic investigations revealed that LINC00311 was negatively correlated with the expression of miR‐330‐5p, meanwhile, TLR4 was a direct target of miR‐330‐5p. In addition, rescue assays further determined that LINC00311 contributed to the progression of PTC through regulating TLR4 expression. Taken together, these findings indicated that LINC00311 could promote cancer stem‐like properties by targeting miR‐330‐5p/TLR4 pathway in PTC.</p></abstract><abstract abstract-type="graphical" id="cam42815-abs-0002"><p>The expression of LINC00311 was increased in PTC tissues and cells, and knockdown of LINC00311 suppressed the spheroid formation in PTC cells,<boxed-text position="anchor" content-type="graphic" id="cam42815-blkfxd-0001" orientation="portrait"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="nlm-graphic-1" orientation="portrait" xlink:href="CAM4-9-1515-g008.jpg"/></boxed-text>
+</p></abstract><kwd-group><kwd id="cam42815-kwd-0001">LINC00311</kwd><kwd id="cam42815-kwd-0002">MiR‐330‐5p</kwd><kwd id="cam42815-kwd-0003">papillary thyroid cancer</kwd><kwd id="cam42815-kwd-0004">spheroid formation</kwd><kwd id="cam42815-kwd-0005">stem‐like properties</kwd><kwd id="cam42815-kwd-0006">TLR4</kwd></kwd-group><counts><fig-count count="7"/><table-count count="2"/><page-count count="14"/><word-count count="7658"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>February 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.5 mode:remove_FC converted:18.02.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="cam42815-cit-1001">
+<string-name name-style="western">
+<surname>Gao</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>LINC00311 promotes cancer stem‐like properties by targeting miR‐330‐5p/TLR4 pathway in human papillary thyroid cancer</article-title>. <source xml:lang="en">Cancer Med</source>. <year>2020</year>;<volume>9</volume>:<fpage>1515</fpage>–<lpage>1528</lpage>. <pub-id pub-id-type="doi">10.1002/cam4.2815</pub-id>
+<pub-id pub-id-type="pmid">31894666</pub-id><pub-id pub-id-type="pmcid">PMC7013059</pub-id><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="retraction-forward" ext-link-type="pmc" xlink:href="PMC10225171"/></mixed-citation>
+</p></notes></front><body id="cam42815-body-0001"><sec id="cam42815-sec-0001"><label>1</label><title>INTRODUCTION</title><p>Thyroid cancer has gradually become one of the most malignant cancers over the past decades in the world.<xref rid="cam42815-bib-0001" ref-type="ref">1</xref> Among all types of thyroid tumors, papillary thyroid carcinoma (PTC) is the most common subtype of thyroid tumor with a good prognosis. In fact, the survival rate of this disease is extremely good.<xref rid="cam42815-bib-0002" ref-type="ref">2</xref>, <xref rid="cam42815-bib-0003" ref-type="ref">3</xref>, <xref rid="cam42815-bib-0004" ref-type="ref">4</xref> However, there are still 25% of PTC patients with predominant locoregional lymph node metastasis and recurrence, which may decrease the survival rate of PTC patients. In addition, the incidence of PTC is drastically increasing in recent years due to the improved diagnostic techniques over this time period.<xref rid="cam42815-bib-0005" ref-type="ref">5</xref>, <xref rid="cam42815-bib-0006" ref-type="ref">6</xref>, <xref rid="cam42815-bib-0007" ref-type="ref">7</xref>, <xref rid="cam42815-bib-0008" ref-type="ref">8</xref>, <xref rid="cam42815-bib-0009" ref-type="ref">9</xref> Therefore, it is essential to explore new and effective novel therapeutic targets for treating PTC.</p><p>Increasing evidence suggests that stem‐like properties of PTC cells play an essential role in the progression of different diseases, such as tumor metastasis, initiation, invasive growth, and so on.<xref rid="cam42815-bib-0010" ref-type="ref">10</xref> For example, Ahn et al<xref rid="cam42815-bib-0011" ref-type="ref">11</xref> showed that the percentage of CD44<sup>+</sup>/CD24<sup>−</sup> cells was higher in aggressive recurrent PTC, meanwhile, as a stem cell marker, POU5F1 was found upregulated in the CD44<sup>+</sup>/CD24<sup>−</sup> subpopulation and tumorigenic thyrospheroid cells. Further in clinical studies, stem cell markers have been found upregulated in PTC tissues, and the expression levels of these markers were positively correlated with lymph node, tumors metastasis stage.<xref rid="cam42815-bib-0012" ref-type="ref">12</xref> For treatment, one study suggested that PTC was more resistant to bortezomib, taxol, cisplatin, etoposide, and other chemotherapeutics drugs.<xref rid="cam42815-bib-0013" ref-type="ref">13</xref> In addition, another study reported that the expression of CD15, CD44, CD166, and ALDH1 was positively independently correlated with a shorter progression‐free survival (PFS).<xref rid="cam42815-bib-0014" ref-type="ref">14</xref> All these studies indicated that the stem‐like properties of PTC cells are not only closely related to the progression of PTC but also act as predictors for PTC prognosis. However, the molecular mechanism of stem‐like properties of PTC cells remains poorly understood.</p><p>Numerous studies have reported that, as members of noncoding RNAs (ncRNAs), microRNAs (miRNAs) and long noncoding RNAs (lncRNAs) play essential roles in regulating the pathologic network of PTC in different stages.<xref rid="cam42815-bib-0015" ref-type="ref">15</xref>, <xref rid="cam42815-bib-0016" ref-type="ref">16</xref>, <xref rid="cam42815-bib-0017" ref-type="ref">17</xref> LncRNAs are defined as a cluster of transcripts with more than 200 nucleotides without protein‐coding potential, which were originally considered as transcriptional noise. However, more and more evidence suggested that lncRNAs were involved in the regulation a wide range of cellular processes, and more importantly, play different roles in cancer stem‐like properties.<xref rid="cam42815-bib-0018" ref-type="ref">18</xref>, <xref rid="cam42815-bib-0019" ref-type="ref">19</xref>, <xref rid="cam42815-bib-0020" ref-type="ref">20</xref> For instance, lncRNA LUCAT1 plays an essential role in regulating breast cancer stemness.<xref rid="cam42815-bib-0021" ref-type="ref">21</xref> Another lncRNA NEAT1 has been shown to promote stem‐like properties in glioma cells.<xref rid="cam42815-bib-0022" ref-type="ref">22</xref> In addition, microRNAs (miRNAs) are defined as small, noncoding RNAs, which are approximately 21 nucleotides long and are able to repress translation or degradation of mRNA.<xref rid="cam42815-bib-0023" ref-type="ref">23</xref>, <xref rid="cam42815-bib-0024" ref-type="ref">24</xref> Accumulating evidences have proved that lncRNAs and miRNAs were abnormally expressed in PTC and can be used to determine the outcomes of PTC patients.<xref rid="cam42815-bib-0025" ref-type="ref">25</xref>, <xref rid="cam42815-bib-0026" ref-type="ref">26</xref>, <xref rid="cam42815-bib-0027" ref-type="ref">27</xref>, <xref rid="cam42815-bib-0028" ref-type="ref">28</xref> Recent studies reported that lncRNA LINC00311 participates in the process of cell proliferation and differentiation.<xref rid="cam42815-bib-0029" ref-type="ref">29</xref>, <xref rid="cam42815-bib-0030" ref-type="ref">30</xref> However, it is still unclear whether certain lncRNAs contribute to stem‐like properties in PTC cells.</p><p>In this study, we aimed to investigate the biologic function of lncRNA LINC00311 in PTC. Furthermore, we also want to clarify the related miRNA and the related pathways involved in stem‐like properties in PTC cells. These findings may provide a novel sight into the pathologic mechanism of PTC and might provide new therapeutic strategies.</p></sec><sec sec-type="materials-and-methods" id="cam42815-sec-0002"><label>2</label><title>MATERIALS AND METHODS</title><sec id="cam42815-sec-0003"><label>2.1</label><title>Collection and analysis of tumor tissues</title><p>The study was approved and supervised by the Ethical Committee of The First Affiliated Hospital of Anhui Medical University (Approval no. PJ2019‐04‐08) and all patients have signed the informed consents before any research‐related medical procedure. A total of 60 patients diagnosed with PTC were included in this study. For the subtype of PTC, 56 patients were diagnosed with conventional PTC, two of them were follicular variant of PTC, one was all cell variant of PTC, and one was confirmed as columnar cell variant of PTC. Sixty paired tissues (tumor and adjacent nontumor) were collected from patients who underwent surgical resection at The First Affiliated Hospital of Anhui Medical University. Chemotherapy or radiotherapy was not performed in those patients who were included in the current study. The definition of high or low expression of LINC00311 was determined by median. All samples were immediately snap‐frozen in liquid nitrogen and stored at −80°C for further studies.</p></sec><sec id="cam42815-sec-0004"><label>2.2</label><title>qRT‐PCR</title><p>Total RNAs from samples (tissues and cells) were extracted by the Trizol reagents (Invitrogen). Then, extracted RNA was reverse transcribed into complementary DNA (cDNA). For miR‐330‐5p, MicroRNA Reverse Transcription Kit (Takara Biotechnology) was used to perform reverse transcription. Then, qRT‐PCR was performed with SYBR Green Master Mix (Life Technologies) using 7500 Real‐Time PCR system (Applied Biosystems). The primers used in our experiments were deigned and purchased from Sangon Biotech, which were listed in Table <xref rid="cam42815-tbl-0001" ref-type="table">1</xref>. The internal controls for miR‐330‐5p and mRNAs were U6 and GAPDH, respectively. The 2<sup>ΔΔ</sup> Ct method was used to calculate the expression levels.</p><table-wrap id="cam42815-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Primers used in the present study</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Gene</th><th align="left" valign="top" rowspan="1" colspan="1">Primer sequence</th></tr></thead><tbody><tr><td align="left" rowspan="2" colspan="1">miR‐330‐5p</td><td align="left" rowspan="1" colspan="1">forward: 5′‐TTTGGCGATCACTGCCTCTC‐3′</td></tr><tr><td align="left" rowspan="1" colspan="1">reverse: 5′‐CTCTCTGCAGGCCGTGTG‐3′</td></tr><tr><td align="left" rowspan="2" colspan="1">U6</td><td align="left" rowspan="1" colspan="1">forward: 5′‐CTCGCTTCGGCAGCACA‐3′</td></tr><tr><td align="left" rowspan="1" colspan="1">reverse: 5′‐AACGCTTCACGAATTTGCGT‐3′</td></tr><tr><td align="left" rowspan="2" colspan="1">LINC00311</td><td align="left" rowspan="1" colspan="1">forward: 5′‐CGCTGCGTCCTAACCAAATG‐3′</td></tr><tr><td align="left" rowspan="1" colspan="1">reverse: 5′‐AGCAGAGCCAAGATGCTCAG‐3′</td></tr><tr><td align="left" rowspan="2" colspan="1">ALDH1</td><td align="left" rowspan="1" colspan="1">forward: 5′‐CCCGTGGCGTACTATGGATG‐3′</td></tr><tr><td align="left" rowspan="1" colspan="1">reverse: 5′‐CAGTGCAGGCCCTATCTTCC‐3′</td></tr><tr><td align="left" rowspan="2" colspan="1">CD44</td><td align="left" rowspan="1" colspan="1">forward: 5′‐AGCAACTGAGACAGCAACCA‐3</td></tr><tr><td align="left" rowspan="1" colspan="1">reverse: 5′‐CGTACCAGCCATTTGTGTTGT‐3′</td></tr><tr><td align="left" rowspan="2" colspan="1">NANO</td><td align="left" rowspan="1" colspan="1">forward: 5′‐AGAGCGAGAAGTGCCAACTC‐3</td></tr><tr><td align="left" rowspan="1" colspan="1">reverse: 5′‐ GAGCGACTCATGCTGTGACT‐3′</td></tr><tr><td align="left" rowspan="2" colspan="1">SOX2</td><td align="left" rowspan="1" colspan="1">forward: 5′‐CATGACCAACTCGCAGACCT‐3</td></tr><tr><td align="left" rowspan="1" colspan="1">reverse: 5′‐CCAAAGGAGTCCAGCAGTGT‐3′</td></tr><tr><td align="left" rowspan="2" colspan="1">Oct4</td><td align="left" rowspan="1" colspan="1">forward: 5′‐CTCGGACCTGGATGAGCTTC‐3′</td></tr><tr><td align="left" rowspan="1" colspan="1">reverse: 5′‐TCAAAATCCTCGCGTTGGGA‐3′</td></tr><tr><td align="left" rowspan="2" colspan="1">TLR4</td><td align="left" rowspan="1" colspan="1">forward: 5′‐GAAGACTGGGTGCGGAATGA‐3</td></tr><tr><td align="left" rowspan="1" colspan="1">reverse: 5′‐GACTCTGGGGTTTACCAGCC‐3′</td></tr><tr><td align="left" rowspan="1" colspan="1">GAPDH</td><td align="left" rowspan="1" colspan="1">
+<p>forward: 5'‐CCGGGAAACTGTGGCGTGATGG‐3'</p>
+<p>reverse: 5'‐AGGTGGAGGAGTGGGTGTCGCTGTT‐3'</p>
+</td></tr></tbody></table><permissions><copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="cam42815-sec-0005"><label>2.3</label><title>Cell lines and culture</title><p>Human thyroid cell line (HTori‐3), PTC cell lines (KTC‐1, K1, SNU‐790, TPC‐1), and HEK293 cells were purchased from ATCC. Cells were cultured in a standard humidified incubator with 95% air and 5% CO<sub>2</sub> at 37°C. Cells were cultured in DMEM (Invitrogen) supplemented with 10% Fetal bovine serum (FBS) (Gibco), and 1% streptomycin/penicillin (100 μg/mL and 100 μg/mL) (Invitrogen).</p></sec><sec id="cam42815-sec-0006"><label>2.4</label><title>Cell transfection</title><p>For transfection, short hairpin RNA (shRNA) plasmids targeting LINC00311 (sh1#‐ LINC00311, sh2#‐ LINC00311) and negative control (shNC), plasmid pcDNA3.1 TLR4 for overexpression of TLR4 and control vector, miR‐330‐5p mimic for overexpression of miR‐330‐5p and mimic control (NC mimics), miR‐330‐5p inhibitor for knockdown of miR‐330‐5p were purchased from Thermo Fisher scientific company. Different groups of cells were transfected using Lipofectamine 3000 (Invitrogen).</p></sec><sec id="cam42815-sec-0007"><label>2.5</label><title>Immunohistochemistry (IHC)</title><p>The expression of TLR4, Ki67, and ALDH1 were detected by immunohistochemistry (IHC). Briefly, tissues were collected and fixed in 10% formaldehyde, then, each section was cut into 4 μm. Next, endogenous peroxidases were blocked with 3% H<sub>2</sub>O<sub>2</sub> solution for avoiding nonspecific binding of primary antibodies. Then, those sections were incubated with primary anti‐TLR4 antibody (ab13556, 1:500, Abcam), anti‐Ki67 (ab15580, 1:1000, Abcam), and anti‐ALDH1 (ab56777, 1:1000, Abcam) at 4°C overnight. The following day, the secondary antibodies were added and incubated with sections for 1 hour at room temperature, and then the sections were immunostained using DAB plus kit. The images were then captured and analyzed.</p></sec><sec id="cam42815-sec-0008"><label>2.6</label><title>Flow cytometer assay</title><p>The percentage of ALDH<sup>+</sup> cells was determined by flow cytometry assay. Briefly, transfected TPC‐1 cells were resuspended in PBS at a density of 1 × 10<sup>6</sup> cells and incubated in 1 mL of 5% BSA in phosphate buffer saline (PBS) for 1 hour. Then, approximately 100 μL of each cell suspension was incubated with 1 μL of ALDH<sup>+</sup> antibody at 2‐8°C overnight. Cells were washed with 1 mL of 5% BSA in PBS and then the percentage of ALDH<sup>+</sup> cells was measured and analyzed by flow cytometer.</p></sec><sec id="cam42815-sec-0009"><label>2.7</label><title>Western blot assay</title><p>Total proteins from different groups of PTC cells were extracted by RIPA lysis buffer (Beyotime) and qualified by a BCA detection kit (Sigma). Subsequently, proteins were separated by sodium dodecyl sulfate‐polyacrylamide gel electrophoresis (SDS‐PAGE) and then transferred onto polyvinylidene fluoride (PVDF, Millipore) membranes. Primary antibodies suck as rabbit anti‐ALDH1 (ab52492, 1:500, Abcam), rabbit anti‐CD44 (ab216647, 1:1000, Abcam), rabbit anti‐NANOG (ab109250, 1:500, Abcam), rabbit anti‐SOX2 (ab97959, 1:500, Abcam), rabbit anti‐Oct4 (ab18976, 1:1000, Abcam), rabbit anti‐TLR4 (ab13556, 1:1000, Abcam), and β‐actin (ab8226, 1:1000, Abcam) were incubated with membranes at 4°C overnight after blocked in 5% nonfat milk. On the next day, the membranes were washed and then incubated with Goat Anti‐Rabbit secondary detection antibodies (1:4000; ab205718; Abcam). The protein of interest was detected using the LI‐COR Odyssey infrared imaging system (LI‐COR Bioscience).</p></sec><sec id="cam42815-sec-0010"><label>2.8</label><title>Spheroid formation test</title><p>For spheroid formation test, different groups of transfected SNU‐790 and TPC‐1 cells, which have a density of 3.5 × 10<sup>4</sup>/well, were cultured in an Ultra‐Low Cluster plate (Costar). After 24 days, cells were stained with Crystal Violet, spheroids were photographed, and their diameter was calculated.</p></sec><sec id="cam42815-sec-0011"><label>2.9</label><title>CCK‐8 assay</title><p>To assess the cell viability of PTC cells, CCK‐8 assays (ab228554, Abcam) were conducted. Briefly, different groups of PTC cells (3 × 10<sup>3</sup>) were seeded into 96‐well plates. After 48 hour, 10‐μL CCK‐8 reagent and 90‐μL DMEM were added to each well. Subsequently, cell absorbance was measured at a wavelength of 450 nm, 2 hours after incubation.</p></sec><sec id="cam42815-sec-0012"><label>2.10</label><title>Colony formation</title><p>Colony formation assay was conducted in different groups. SNU‐790 and TPC‐1 cells were trypsinized and cultured in 6‐well plates. After 2 weeks, colonies were fixed with 10% (w/v) formaldehyde followed by 0.1% (w/v) crystal violet staining for 20 minutes. The colonies were photographed by a microscope (AF6000, Leica, Germany).</p></sec><sec id="cam42815-sec-0013"><label>2.11</label><title>Wound healing</title><p>For wound healing assay, the cell monolayer was scratched using a 10‐μL pipette Eppendorf tip and then washed three times with PBS. After 24 hours, the percentage of wound closure was calculated by the following formula: Original width‐width after migration/Original width.</p></sec><sec id="cam42815-sec-0014"><label>2.12</label><title>Transwell assay</title><p>Transwell assay was carried out using transwell chambers (Corning). A number of 5 × 10<sup>3</sup> cells were seeded into the upper layer in basal medium without FBS, while lower chamber was filled with DMEM containing 10% FBS. The invaded cells were fixed and calculated after 24 hours.</p></sec><sec id="cam42815-sec-0015"><label>2.13</label><title>Dual‐luciferase reporter assay</title><p>The 3′‐untranslated region (3′‐UTR) of LINC00311 was cloned into the pmirGLO vector (Promega) and named wild‐type (WT) LINC00311‐3′‐UTR. In addition, the fragments from TLR4 3′UTR containing the predicted miR‐330‐5p binding site or the corresponding mutants created by mutating the miR‐330‐5p seed region binding site were subcloned into the pmiRGLO Vector (Promega). Lipofectamine 2000 (Invitrogen) was used for transfection according to the manufacturer's protocol.</p></sec><sec id="cam42815-sec-0016"><label>2.14</label><title>In situ hybridization (ISH)</title><p>Paraformaldehyde‐fixed, paraffin‐embedded PTC tissues were sectioned in 5‐μm thick, then sections were first stained to identify the tumor areas. The tissue microarray (TMA) consisted of triplicate 0.6‐mm cores using manual tissue microarrayer (Beecher Instruments). For normal control, we used adjacent histologically normal thyroid tissue.</p><p>For ISH test, LINC00311 was labeled with digoxin‐labeled RNA probe (BOSTER). The probes used were hs‐ LINC00311, hs‐ACTB (Actin, positive control), and dapB (negative control). Then, TMA was hybridized with LINC00311 probe overnight, followed by incubation with antibody against digoxigenin. Afterward, the signal was determined by diaminobenzidine (DAB) solution.</p></sec><sec id="cam42815-sec-0017"><label>2.15</label><title>Fluorescence in situ hybridization (FISH)</title><p>Fluorescence In Situ Hybridization Kit (GenePharma) was used to perform FISH assay. LINC00311 and miR‐330‐5p were labeled with digoxin‐labeled RNA probe (red) and FAM probe (green). Hybridization was conducted at 55°C for 2 hours before the slides were washed and dehydrated. Afterward, air‐dried slides were then mounted with Prolong Gold Antifade Reagent with DAPI (blue). Images were captured using Leica SP8 laser scanning confocal microscope.</p></sec><sec id="cam42815-sec-0018"><label>2.16</label><title>RIP</title><p>Magna RIP™ RNA‐Binding Protein Immunoprecipitation Kit (Millipore) was applied in our study to identify the binding relationship between endogenous LINC00311 and miR‐330‐5p. The cell lysates were incubated in a RIP buffer containing the magnetic beads, which had been coated with Ago2 antibodies or negative control IgG. Then, the precipitation of RNA was isolated and analyzed.</p></sec><sec id="cam42815-sec-0019"><label>2.17</label><title>Tumor xenograft experiments</title><p>The animal procedures were approved by the Ethical Committee of The First Affiliated Hospital of Anhui Medical University (Approval no. LLSC20190721). Six 6‐ to 8‐week‐old BALB/c nude mice were purchased from Charles River. For tumorigenesis experiments, TPC‐1 cells, which transfected with sh‐LINC00311 or shNC, were subcutaneously inoculated into the right flanks of mice (0 day). Tumor volume was monitored and measured every 4 days. The nude mice were sacrificed after 24 days, and the weight of each tumor was measured. In addition, the tumor tissue was collected for further experiments.</p></sec><sec id="cam42815-sec-0020"><label>2.18</label><title>Statistical analysis</title><p>All data were presented as Mean ± SD of three independent experiments and analyzed using SPSS v19.0 and GraphPad Prism 7. All cell experiments were independently repeated at least in triplicate. For comparing two groups or multiple groups, Student's <italic toggle="yes">t</italic> test and one‐way ANOVA were used, respectively. Survival curves were determined by Kaplan‐Meier analysis. Furthermore, Pearson correlation coefficient and Kaplan‐Meier analysis were used for analyzing statistical correlation and survival curves, respectively. <italic toggle="yes">P</italic> values (*<italic toggle="yes">P</italic> &lt; .05; **<italic toggle="yes">P</italic> &lt; .01) less than 0.05 or 0.01 considered statistically significant.</p></sec></sec><sec sec-type="results" id="cam42815-sec-0021"><label>3</label><title>RESULTS</title><sec id="cam42815-sec-0022"><label>3.1</label><title>The expression of LINC00311 was increased in PTC tissues and cells</title><p>In order to identity the expression of LINC00311 in human PTC tissues, 60 pairs of PTC and adjacent normal tissues were included and analyzed. Figure <xref rid="cam42815-fig-0001" ref-type="fig">1</xref>A showed that the expression of LINC00311 was significantly upregulated in PTC tissues compared with normal tissues (<italic toggle="yes">P</italic> &lt; .01). In addition, in tumor tissues, the definition of high or low expression of LINC00311 was determined by median, which means, it was relatively highly expressed in 30 PTC tissues, whereas it was relatively lower expressed in another 30 PTC tissues. Moreover, in ISH test, at both 40× and 100× magnifications, moderate to strong signals of LINC00311 expression were observed in PTC tissues. The results revealed that LINC00311 was upregulated in PTC tissues. In addition, the correlation between LINC00311 expression and clinicopathological characteristics of PTC patients was analyzed (Table <xref rid="cam42815-tbl-0002" ref-type="table">2</xref>). The high level of LINC00311 was positively correlated with advanced primary tumor (T3‐T4), lymph node metastasis (N1) as well as TNM stage (III‐IV) in PTC patients (<italic toggle="yes">P</italic> &lt; .05, Table <xref rid="cam42815-tbl-0002" ref-type="table">2</xref>). Moreover, Kaplan‐Meier analysis showed that the high level of LINC00311 was correlated with poor overall survival in PTC patients (<italic toggle="yes">P</italic> = .0352, Figure <xref rid="cam42815-fig-0001" ref-type="fig">1</xref>C). In addition, the expression of LINC00311 was detected both in human thyroid cell line (HTori‐3) and PTC cell lines (KTC‐1, K1, SNU‐790, TPC‐1) using qRT‐PCR. As shown in Figure <xref rid="cam42815-fig-0001" ref-type="fig">1</xref>D, our results demonstrated that LINC00311 was markedly upregulated in all PTC cell lines compared with normal human thyroid cell, especially in SNU‐790 and TPC‐1 cell lines (<italic toggle="yes">P</italic> &lt; .01). We further measured the expression of LINC00311 in monolayer and spheroid cells, respectively. Compared with monolayer cells, the expression of LINC00311 was higher in spheroid cells, suggesting that LINC00311 was mainly expressed in spheroid PTC cells (<italic toggle="yes">P</italic> &lt; .01, Figure <xref rid="cam42815-fig-0001" ref-type="fig">1</xref>E). Taken together, these results reveled that LINC00311 was upregulated in PTC tissue and cell lines and correlated with lower overall survival and worse outcome in PTC patients.</p><fig fig-type="Figure" xml:lang="en" id="cam42815-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>The highly expressed LINC00311 was associated with poor clinical outcome of papillary thyroid cancer (PTC) patients. A, Relative expression of LINC00311 in PTC tissues and paired normal tissues was analyzed using qRT‐PCR. B, The expression of LINC00311 was detected in PTC tissues and paired normal tissues using FISH test. C, Kaplan‐Meier analysis exhibited the survival rate of PTC patients with high or low expression levels. D, The expression of LINC00311 was detected in human thyroid cell line (HTori‐3) and PTC cell lines (KTC‐1, K1, SNU‐790, TPC‐1) using qRT‐PCR. E, The expression of LINC00311 was analyzed in monolayer and spheroid PTC cells lines, respectively. Data were expressed as mean ± SD. **<italic toggle="yes">P</italic> &lt; .01, ***<italic toggle="yes">P</italic> &lt; .001 represent statistical difference</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-3" position="float" orientation="portrait" xlink:href="CAM4-9-1515-g001.jpg"/></fig><table-wrap id="cam42815-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Association between LINC00311 expression and clinicopathological characteristics of PTC patients</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="bottom" colspan="1">Parameters</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">LINC00311 expression</th><th align="left" rowspan="2" valign="bottom" colspan="1">
+<italic toggle="yes">P</italic> value</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Low (n = 30)</th><th align="left" valign="bottom" rowspan="1" colspan="1">High (n = 30)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Gender</td><td align="char" char="." rowspan="1" colspan="1"> </td><td align="char" char="." rowspan="1" colspan="1"> </td><td align="char" char="." rowspan="1" colspan="1">.605</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Male</td><td align="char" char="." rowspan="1" colspan="1">13</td><td align="char" char="." rowspan="1" colspan="1">15</td><td align="char" char="." rowspan="1" colspan="1"> </td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Female</td><td align="char" char="." rowspan="1" colspan="1">17</td><td align="char" char="." rowspan="1" colspan="1">15</td><td align="char" char="." rowspan="1" colspan="1"> </td></tr><tr><td align="left" rowspan="1" colspan="1">Age (y)</td><td align="char" char="." rowspan="1" colspan="1"> </td><td align="char" char="." rowspan="1" colspan="1"> </td><td align="char" char="." rowspan="1" colspan="1">.791</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&lt;45</td><td align="char" char="." rowspan="1" colspan="1">11</td><td align="char" char="." rowspan="1" colspan="1">12</td><td align="char" char="." rowspan="1" colspan="1"> </td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">≥45</td><td align="char" char="." rowspan="1" colspan="1">19</td><td align="char" char="." rowspan="1" colspan="1">18</td><td align="char" char="." rowspan="1" colspan="1"> </td></tr><tr><td align="left" rowspan="1" colspan="1">Focality</td><td align="char" char="." rowspan="1" colspan="1"> </td><td align="char" char="." rowspan="1" colspan="1"> </td><td align="char" char="." rowspan="1" colspan="1">.284</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Unifocal</td><td align="char" char="." rowspan="1" colspan="1">17</td><td align="char" char="." rowspan="1" colspan="1">21</td><td align="char" char="." rowspan="1" colspan="1"> </td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Multifocal</td><td align="char" char="." rowspan="1" colspan="1">13</td><td align="char" char="." rowspan="1" colspan="1">9</td><td align="char" char="." rowspan="1" colspan="1"> </td></tr><tr><td align="left" rowspan="1" colspan="1">Extrathyroidal extension</td><td align="char" char="." rowspan="1" colspan="1"> </td><td align="char" char="." rowspan="1" colspan="1"> </td><td align="char" char="." rowspan="1" colspan="1">.781</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Positive</td><td align="char" char="." rowspan="1" colspan="1">9</td><td align="char" char="." rowspan="1" colspan="1">10</td><td align="char" char="." rowspan="1" colspan="1"> </td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Negative</td><td align="char" char="." rowspan="1" colspan="1">21</td><td align="char" char="." rowspan="1" colspan="1">20</td><td align="char" char="." rowspan="1" colspan="1"> </td></tr><tr><td align="left" rowspan="1" colspan="1">Primary tumor</td><td align="char" char="." rowspan="1" colspan="1"> </td><td align="char" char="." rowspan="1" colspan="1"> </td><td align="char" char="." rowspan="1" colspan="1">.009*</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">T1‐T2</td><td align="char" char="." rowspan="1" colspan="1">18</td><td align="char" char="." rowspan="1" colspan="1">8</td><td align="char" char="." rowspan="1" colspan="1"> </td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">T3‐T4</td><td align="char" char="." rowspan="1" colspan="1">12</td><td align="char" char="." rowspan="1" colspan="1">22</td><td align="char" char="." rowspan="1" colspan="1"> </td></tr><tr><td align="left" rowspan="1" colspan="1">Lymph node metastasis</td><td align="char" char="." rowspan="1" colspan="1"> </td><td align="char" char="." rowspan="1" colspan="1"> </td><td align="char" char="." rowspan="1" colspan="1">.020*</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">N0</td><td align="char" char="." rowspan="1" colspan="1">20</td><td align="char" char="." rowspan="1" colspan="1">11</td><td align="char" char="." rowspan="1" colspan="1"> </td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">N1</td><td align="char" char="." rowspan="1" colspan="1">10</td><td align="char" char="." rowspan="1" colspan="1">19</td><td align="char" char="." rowspan="1" colspan="1"> </td></tr><tr><td align="left" rowspan="1" colspan="1">TNM stage</td><td align="char" char="." rowspan="1" colspan="1"> </td><td align="char" char="." rowspan="1" colspan="1"> </td><td align="char" char="." rowspan="1" colspan="1">.004*</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">I‐II</td><td align="char" char="." rowspan="1" colspan="1">21</td><td align="char" char="." rowspan="1" colspan="1">10</td><td align="char" char="." rowspan="1" colspan="1"> </td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">III‐IV</td><td align="char" char="." rowspan="1" colspan="1">9</td><td align="char" char="." rowspan="1" colspan="1">20</td><td align="char" char="." rowspan="1" colspan="1"> </td></tr></tbody></table><table-wrap-foot id="cam42815-ntgp-0023"><fn id="cam42815-note-0023"><p>*<italic toggle="yes">P</italic> &lt; .05 represent statistically difference.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="cam42815-sec-0023"><label>3.2</label><title>Knockdown of LINC00311 attenuated spheroid formation in PTC cells</title><p>To assess the potential pathologic role of LINC00311 in PTC, loss‐of‐function experiments were conducted in our study. Firstly, knockdown efficiency of LINC00311 was tested in two knockdown systems (sh#1‐LINC00311, sh#2‐LINC00311) in ALDH<sup>+</sup> SNU‐790 and TPC‐1 cell lines. Compared with control vector (shNC), the expression of LINC00311 was significantly inhibited in two cell lines in these two knockdown systems, indicating that the current method can be used for further studies (<italic toggle="yes">P</italic> &lt; .01, Figure <xref rid="cam42815-fig-0002" ref-type="fig">2</xref>A). Then, the number of spheres and diameter of spheres were measured and analyzed. As shown in Figure <xref rid="cam42815-fig-0002" ref-type="fig">2</xref>B, the number of spheres was obviously suppressed by the knockdown of LINC00311 (<italic toggle="yes">P</italic> &lt; .01), meanwhile, the diameter of spheres was also decreased in the LINC00311 knockdown group (<italic toggle="yes">P</italic> &lt; .01). In addition, stemness markers, such as ALDH1, CD44, NANOG, SOX2, and Oct4, were detected in both mRNA level and protein level in PTC cells. The results revealed that knockdown of LINC00311 significantly suppressed the expression of these markers in both mRNA level and protein level (<italic toggle="yes">P</italic> &lt; .01, Figure <xref rid="cam42815-fig-0002" ref-type="fig">2</xref>C,D). Furthermore, flow cytometry assay was used for analyzing relative percentage of ALDH<sup>+</sup> cells in PTC cell lines. As shown in Figure <xref rid="cam42815-fig-0002" ref-type="fig">2</xref>E, the percentage of ALDH<sup>+</sup> cell was markedly lower in LINC00311 knockdown groups compared with the vector group (<italic toggle="yes">P</italic> &lt; .05, <italic toggle="yes">P</italic> &lt; .01). Overall, these results demonstrated that knockdown of LINC00311 suppressed spheroid formation in PTC cells.</p><fig fig-type="Figure" xml:lang="en" id="cam42815-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>The expression of spheroid formation markers in LINC00311‐knockdown papillary thyroid cancer (PTC) cells. A, The expression level of LINC00311 was detected by qRT‐PCR in ALDH<sup>+</sup> SNU‐790 and TPC‐1 cell lines transfected with shRNAs targeted LINC00311 (sh#1‐LINC00311, sh#2‐LINC00311). B, Number of spheres and diameter of spheres of PTC cells were measured and analyzed in LINC00311‐knockdown group and control group, respectively. The effect of downregulated LINC00311 on stemness markers such as ALDH1, CD44, NANOG, SOX2, and Oct4 was detected by qRT‐PCR (C) and Western blot (D). E, Flow cytometer assay was used for analyzing relative percentage of ALDH<sup>+</sup> cells in different groups. Data were expressed as mean ± SD. *<italic toggle="yes">P</italic> &lt; .05, **<italic toggle="yes">P</italic> &lt; .01, ***<italic toggle="yes">P</italic> &lt; .001 represent statistical difference</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-5" position="float" orientation="portrait" xlink:href="CAM4-9-1515-g002.jpg"/></fig></sec><sec id="cam42815-sec-0024"><label>3.3</label><title>Knockdown of LINC00311 attenuated cell proliferation, migration, and invasion in PTC cells</title><p>Next, we investigated the functional roles of LINC00311 in PTC cells using knockdown system. Cell viability was measured by CCK‐8 assay. As shown in Figure <xref rid="cam42815-fig-0003" ref-type="fig">3</xref>A, after transfected with sh‐LINC00311, cell viability was inhibited in ALDH<sup>+</sup> SNU‐790 and TPC‐1 cell lines (<italic toggle="yes">P</italic> &lt; .05). Colony formation assay showed that knockdown of LINC00311 attenuates the colony number of ALDH<sup>+</sup> SNU‐790 and TPC‐1 cells (<italic toggle="yes">P</italic> &lt; .01, Figure <xref rid="cam42815-fig-0003" ref-type="fig">3</xref>B). Subsequently, wound healing assay and transwell assay were conducted to investigate the migration and invasion abilities of PTC cells. Our results demonstrated that cells transfected with sh‐LINC00311 showed a slower closing of scratch wound and less invasion cell numbers compared with control vector (shNC) in ALDH<sup>+</sup> SNU‐790 and TPC‐1 cell lines, suggesting that knockdown of LINC00311 inhibited cell migration and invasion in PTC cells (<italic toggle="yes">P</italic> &lt; .05, <italic toggle="yes">P</italic> &lt; .01, Figure <xref rid="cam42815-fig-0003" ref-type="fig">3</xref>C,D). Altogether, the above results indicated that knockdown of LINC00311 suppressed cell proliferation, migration, and invasion in PTC cells.</p><fig fig-type="Figure" xml:lang="en" id="cam42815-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>LINC00311 knockdown inhibited cell proliferation, migration, and invasion in papillary thyroid cancer (PTC) cells. A, Cell viability was detected by CCK‐8 assay in different groups (sh#1‐LINC00311, sh#2‐LINC00311, and shNC). B, The role of knockdown of LINC00311 on cell proliferation was determined by colony formation assay. C, The effect of downregulated LINC00311 on migration ability in PTC cells (ALDH<sup>+</sup> SNU‐790 and TPC‐1) was measured by wound healing assay. D, Transwell assay was used to detect the invasion of PTC cells (ALDH<sup>+</sup> SNU‐790 and TPC‐1) in different groups (sh#1‐LINC00311, sh#2‐LINC00311, and shNC). Data were expressed as mean ± SD. *<italic toggle="yes">P</italic> &lt; .05, **<italic toggle="yes">P</italic> &lt; .01 represent statistical difference</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-7" position="float" orientation="portrait" xlink:href="CAM4-9-1515-g003.jpg"/></fig></sec><sec id="cam42815-sec-0025"><label>3.4</label><title>The expression of LINC00311 was negatively correlated with the expression of miR‐330‐5p</title><p>To better explore the underlying molecular mechanisms of the effects of LINC00311 on PTC cellular behavior, we conducted bioinformatics analysis via miRDB. We found a putative miR‐330‐5p response elements on LINC00311 (Figure <xref rid="cam42815-fig-0004" ref-type="fig">4</xref>A). Then, FISH assay revealed that LINC00311 and miR‐330‐5p were all expressed in the cytoplasm of PTC cells (Figure <xref rid="cam42815-fig-0004" ref-type="fig">4</xref>B). Next, qRT‐PCR was used for testing the transfection efficiency of miR‐330‐5p overexpression. As shown in Figure <xref rid="cam42815-fig-0004" ref-type="fig">4</xref>C, after transfected with miR‐330‐5p mimic, the expression of miR‐330‐5p was markedly increased compared with control miR‐NC mimic (<italic toggle="yes">P</italic> &lt; .01, Figure <xref rid="cam42815-fig-0004" ref-type="fig">4</xref>C). Subsequently, dual‐luciferase reporter assay was conducted to confirm the targeting relationship between LINC00311 and miR‐330‐5p. As shown in Figure <xref rid="cam42815-fig-0004" ref-type="fig">4</xref>D, luciferase activity of HEK 293 cells transfected with LINC00311 WT plasmid was significantly inhibited by miR‐330‐5p mimics (<italic toggle="yes">P</italic> &lt; .01), indicating that miR‐330‐5p can bind to LINC00311. In addition, RIP assay results suggested that compared with IgG control, LINC00311 preferentially enriches the miRNA ribonucleoprotein complex containing Ago2 (<italic toggle="yes">P</italic> &lt; .01, Figure <xref rid="cam42815-fig-0004" ref-type="fig">4</xref>E). Moreover, the expression of miR‐330‐5p was significantly increased in PTC cells transfected with sh‐LINC00311 (<italic toggle="yes">P</italic> &lt; .01, Figure <xref rid="cam42815-fig-0004" ref-type="fig">4</xref>F). Furthermore, in tumor samples, the expression level of miR‐330‐5p was much lower than normal tissues (<italic toggle="yes">P</italic> &lt; .05, Figure <xref rid="cam42815-fig-0004" ref-type="fig">4</xref>G). By using Spearman's correlation analysis, the expression of LINC00311 and miR‐330‐5p exhibited a dramatical negative correlation, which was shown in Figure <xref rid="cam42815-fig-0004" ref-type="fig">4</xref>H (<italic toggle="yes">P</italic> &lt; .001, r = 0.7723). All these data demonstrated that the expression of LINC00311 was negatively correlated with miR‐330‐5p.</p><fig fig-type="Figure" xml:lang="en" id="cam42815-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>LINC00311 inversely interacted with miR‐330‐5p. A, LINC00311 wide‐type and the mutated‐type in the miR‐330‐5p binding sites were shown. B, The co‐localization of LINC00311 and miR‐330‐5p was tested using FISH assay. C, The transfection efficiency of miR‐330‐5p mimics was tested by qRT‐PCR. D, Luciferase activity of HEK293 cells co‐transfected with miR‐330‐5p mimics or NC mimics and luciferase reporters containing LINC00311 WT or LINC00311 MUT transcript were determined by dual‐luciferase reporter assays. E, Endogenous miR‐330‐5p precipitated by AGO2 upon overexpression of LINC00311 was determined by RIP assay. F, The expression of miR‐330‐5p was measured by qRT‐PCR in different groups. G, The expression of miR‐330‐5p in papillary thyroid cancer (PTC) tissues and corresponding normal tissues was detected by qRT‐PCR. n = 60. H, The correlation between LINC00311 and miR‐330‐5p was analyzed using Spearman's correlation analysis. Data were expressed as mean ± SD. *<italic toggle="yes">P</italic> &lt; .05, **<italic toggle="yes">P</italic> &lt; .01 represent statistical difference</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-9" position="float" orientation="portrait" xlink:href="CAM4-9-1515-g004.jpg"/></fig></sec><sec id="cam42815-sec-0026"><label>3.5</label><title>TLR4 was a direct target of miR‐330‐5p</title><p>Subsequently, the role of miR‐330‐5p and its function in the pathogenesis of PTC were further explored. Among the putative targets, we focused on TLR4, which mediates the expression of a variety of genes in response to various cell functions. Figure <xref rid="cam42815-fig-0005" ref-type="fig">5</xref>A showed the biding site of TLR4 and miR‐330‐5p. We further conducted luciferase reporter assay by co‐transfection of miR‐330‐5p mimics or NC mimics and TLR4 3′‐UTR WT or TLR4 3′‐UTR MUT transcript into HEK293 cells. The results indicated that TLR4 was a target gene of miR‐330‐3p (<italic toggle="yes">P</italic> &lt; .01, Figure <xref rid="cam42815-fig-0005" ref-type="fig">5</xref>B). Then, the transfection efficiency of miR‐330‐5p inhibitor was examined. As shown in Figure <xref rid="cam42815-fig-0005" ref-type="fig">5</xref>C, after transfected with miR‐330‐5p inhibitor, the expression of miR‐330‐5p was dramatically inhibited by its inhibitor in ALDH<sup>+</sup> SNU‐790 and TPC‐1 cells (<italic toggle="yes">P</italic> &lt; .01). Then, the expression of mRNA and protein level of TLR4 were detected by qRT‐PCR. The results showed that the expression of TLR4 mRNA and TLR4 protein was significantly increased when cells were transfected with miR‐330‐5p inhibitor (<italic toggle="yes">P</italic> &lt; .01, Figure <xref rid="cam42815-fig-0005" ref-type="fig">5</xref>D,E). On the contrary, TLR4 was decreased when cells were transfected with miR‐330‐5p mimics (<italic toggle="yes">P</italic> &lt; .01, Figure <xref rid="cam42815-fig-0005" ref-type="fig">5</xref>D,E), indicating that the expression of TLR4 was negatively related with miR‐330‐5p in ALDH<sup>+</sup> SNU‐790 and TPC‐1 cells. Moreover, the expression of TLR4 mRNA was detected in human PTC tissues and normal tissues (n = 60). The results demonstrated that mRNA level of TLR4 was significantly upregulated in tumor tissues compared with nontumor tissues (<italic toggle="yes">P</italic> &lt; .01, Figure <xref rid="cam42815-fig-0005" ref-type="fig">5</xref>F). This result was further confirmed by IHC staining (Figure <xref rid="cam42815-fig-0005" ref-type="fig">5</xref>G). In addition, the correlation between TLR4 and LINC00311 and TLR4 and miR‐330‐5p was analyzed, and the results suggested that the expression of TLR4 was positively correlated with LINC00311 level (r = 0.7577, <italic toggle="yes">P</italic> &lt; .001), while negatively correlated with miR‐330‐3p (r = −0.6072, <italic toggle="yes">P</italic> &lt; .001, Figure <xref rid="cam42815-fig-0005" ref-type="fig">5</xref>H). Taken together, these results indicated that TLR4 was a direct target of miR‐330‐5p.</p><fig fig-type="Figure" xml:lang="en" id="cam42815-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>TLR4 was a direct target of miR‐330‐5p. A, Biding site of TLR4 and miR‐330‐5p was shown. B, Luciferase activity of HEK293 cells co‐transfected with miR‐330‐5p mimics or NC mimics and luciferase reporters containing TLR4 WT or TLR4 MUT transcript were determined by dual‐luciferase reporter assays. C, The transfection efficiency of miR‐330‐5p inhibitors was tested by qRT‐PCR. D, The expression of mRNA TLR4 was detected in papillary thyroid cancer (PTC) cells, which transfected with miR‐330‐5p mimic, inhibitor, miR‐NC, and inhi‐NC, using qRT‐PCR. E, The expression of TLR4 protein was detected in PTC cells, which transfected with miR‐330‐5p mimic, inhibitor, miR‐NC, and inhi‐NC, using Western blot. F, The expression of TLR4 in PTC tissues and corresponding normal tissues was detected by qRT‐PCR. n = 60. G, The expression of TLR4 was measured in tumor and normal tissues using IHC. H, The correlation between TLR4 and LINC00311 or miR‐330‐5p was analyzed using Spearman's correlation analysis. Data were expressed as mean ± SD. *<italic toggle="yes">P</italic> &lt; .05, **<italic toggle="yes">P</italic> &lt; .01 represent statistical difference</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-11" position="float" orientation="portrait" xlink:href="CAM4-9-1515-g005.jpg"/></fig></sec><sec id="cam42815-sec-0027"><label>3.6</label><title>LINC00311 promotes stem‐like properties in PTC cell lines via targeting TLR4</title><p>Given the fact that LINC00311 was directly interacted with miR‐330‐5p while TLR4 was a direct target of miR‐330‐5p, we hypothesized that LINC00311 might exert its role in regulating PTC cellar functions via targeting TLR4. To this end, we used TLR4 overexpression plasmid pcDNA3.1‐TLR4, and the level of TLR4 mRNA and TLR4 protein was significantly increased in ALDH<sup>+</sup> TPC‐1 cells transfected with pcDNA3.1‐TLR4 (<italic toggle="yes">P</italic> &lt; .01, Figure <xref rid="cam42815-fig-0006" ref-type="fig">6</xref>A,B). Next, to test whether LINC00311 is able to promote stem‐like properties in PTC cell lines via targeting TLR4, ALDH<sup>+</sup> TPC‐1 cells were co‐transfected with sh‐LINC00311 or shNC and pcDNA3.1‐TLR4 or control vector. Then, the number and diameter of spheres, stemness markers, and percentage of ALDH<sup>+</sup> cells were detected in different groups, respectively. The results demonstrated that compared to control, interference of LINC00311 markedly inhibited the number and diameter of spheres, expression of stemness markers such as ALDH1, CD44, NANOG, SOX2, and Oct4, as well as percentage of ALDH<sup>+</sup> cells (<italic toggle="yes">P</italic> &lt; .05, <italic toggle="yes">P</italic> &lt; .01, Figure <xref rid="cam42815-fig-0006" ref-type="fig">6</xref>C‐E). However, these effects were reversed by the overexpression of TLR4 (<italic toggle="yes">P</italic> &lt; .01, Figure <xref rid="cam42815-fig-0006" ref-type="fig">6</xref>C‐E). Moreover, cell viability, proliferation, migration, and invasion abilities were detected using CCK‐8 assay, colony formation assay, wound healing assay, and transwell assay, respectively. As shown in Figure <xref rid="cam42815-fig-0006" ref-type="fig">6</xref>F‐I, overexpression of TLR4 abolished the INC00311‐induced effects on cell viability, proliferation, migration, and invasion (<italic toggle="yes">P</italic> &lt; .05, <italic toggle="yes">P</italic> &lt; .01). Collectively, the data indicated that LINC00311 promoted stem‐like properties in PTC cell lines via targeting TLR4.</p><fig fig-type="Figure" xml:lang="en" id="cam42815-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>LINC00311 promotes stem‐like properties in papillary thyroid cancer (PTC) cell lines via targeting TLR4. A‐B, The transfection efficiency of pcDNA3.1‐TLR4 was tested by qRT‐PCR and Western blot, respectively. C, Number of spheres and diameter of spheres of ALDH<sup>+</sup> TPC‐1 cells transfected with co‐transfected with sh‐LINC00311 or shNC and pcDNA3.1‐TLR4 or control vector were measured and analyzed. D, Stemness markers such as ALDH1, CD44, NANOG, SOX2, and Oct4 were detected by Western blot in different groups. E, Flow cytometer assay was used for analyzing relative percentage of ALDH<sup>+</sup> TPC‐1 cells in different groups. F‐I, The cell viability, proliferation, migration, and invasion were determined by CCK‐8 assay, colony formation assay, wound healing assay, and transwell assay in ALDH<sup>+</sup> TPC‐1 cells, which were co‐transfected with sh‐LINC00311 or shNC and pcDNA3.1‐TLR4 or control vector. Data were expressed as mean ± SD. *<italic toggle="yes">P</italic> &lt; .05, **<italic toggle="yes">P</italic> &lt; .01 represent statistical difference</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-13" position="float" orientation="portrait" xlink:href="CAM4-9-1515-g006.jpg"/></fig></sec><sec id="cam42815-sec-0028"><label>3.7</label><title>Knockdown of LINC00311 suppressed PTC cell tumorigenesis in vivo</title><p>In the final part, orthotopic xenograft mouse models were used to identify the effect of LINC00311 on PTC in vivo. ALDH<sup>+</sup> TPC‐1 cells transfected with shRNA LINC00311 or control plasmid (shNC) were inoculated into nude mice (n = 6). First, the transfection efficiency of shRNA LINC00311 was tested in ALDH<sup>+</sup> TPC‐1 cells. The results showed that the expression of LINC00311 and mRNA TLR4 was markedly downregulated, while the expression of miR‐330‐5p was significantly increased when transfected with shRNA LINC00311 compared with shNC (<italic toggle="yes">P</italic> &lt; .01, Figure <xref rid="cam42815-fig-0007" ref-type="fig">7</xref>A). Then, tumor volume and tumor weight were measured 24 days after initial inoculation. As shown in Figure <xref rid="cam42815-fig-0007" ref-type="fig">7</xref>B,C, the tumor volume and weight were dramatically reduced in shRNA LINC00311‐treated group compared with control group (<italic toggle="yes">P</italic> &lt; .05, <italic toggle="yes">P</italic> &lt; .01). Furthermore, the expression of TLR4, Ki67 (proliferative marker), and ALDH1 (stemness marker) was detected by IHC assay. Compared with control, the expression of TLR4, Ki67, and ALDH1 was relatively lower in shRNA LINC00311 group (Figure <xref rid="cam42815-fig-0007" ref-type="fig">7</xref>D). All results revealed that knockdown of LINC00311 suppressed PTC cell tumorigenesis in vivo.</p><fig fig-type="Figure" xml:lang="en" id="cam42815-fig-0007" orientation="portrait" position="float"><label>Figure 7</label><caption><p>Downregulated LINC00311 expression suppressed PTC cell tumorigenesis in vivo. A, The expression of LINC00311, miR‐330‐5p, and TLR4 was measured in ALDH<sup>+</sup> TPC‐1 cells after transfected with sh‐LINC00311 or shNC. B, Tumors collected from mice, which received ALDH<sup>+</sup> TPC‐1 cell inoculation (sh‐LINC00311 or shNC), were shown. C, Tumor volume and weight were detected after initial subcutaneously inoculation in nude mice. n = 6. D, The expression level of TLR4, proliferation indicator Ki67, stemness marker ALDH1 in vivo was detected by IHC assay. Data were expressed as mean ± SD. *<italic toggle="yes">P</italic> &lt; .05, **<italic toggle="yes">P</italic> &lt; .01 represent statistical difference</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-15" position="float" orientation="portrait" xlink:href="CAM4-9-1515-g007.jpg"/></fig></sec></sec><sec sec-type="discussion" id="cam42815-sec-0029"><label>4</label><title>DISCUSSION</title><p>With the increasing incidence and limited therapeutic targets, PTC has attracted much more attention in the past few decades.<xref rid="cam42815-bib-0031" ref-type="ref">31</xref> Clinically, identifying accurate molecular markers for targeting PTC is critically essential in the early stage of PTC, as some of the patients have risk of distal metastasis.<xref rid="cam42815-bib-0032" ref-type="ref">32</xref> Recently, considerable evidence suggested that lncRNAs play various roles in biological process of PTC. For instance, lncRNA TUG1 contributes to the progression of PTC by regulating miR‐145.<xref rid="cam42815-bib-0033" ref-type="ref">33</xref> Another lncRNA called ABHD11‐AS1 was dramatically upregulated in PTC cells and promoted tumorigenesis via modulating BHD11‐AS1/miR‐199a‐5p/SLC1A5 axis.<xref rid="cam42815-bib-0033" ref-type="ref">33</xref> In addition, lncRNA myocardial infarction‐associated transcript (MIAT) was also highly expressed in PTC cells and enhanced tumor progression.<xref rid="cam42815-bib-0034" ref-type="ref">34</xref>, <xref rid="cam42815-bib-0035" ref-type="ref">35</xref> From our perspective, most of the reported lncRNAs were abnormally upregulated in PTC samples and cells and have negative impact on outcome of PTC patients. For the cellular and molecular mechanisms, these lncRNAs may closely associated with some cell functions such as proliferation, migration, apoptosis, and invasion by regulating numerous signaling pathways.<xref rid="cam42815-bib-0036" ref-type="ref">36</xref>, <xref rid="cam42815-bib-0037" ref-type="ref">37</xref>, <xref rid="cam42815-bib-0038" ref-type="ref">38</xref> In this study, we focused on a new lncRNA called LINC00311, which was previously reported to be highly expressed in osteoclasts and elevated the expression Notch2 and TRAP mRNA.<xref rid="cam42815-bib-0022" ref-type="ref">22</xref> Our results showed that LINC00311 was also upregulated in human PTC tissue and cell lines. Furthermore, by conducting a series of loss‐of‐function experiments, we found that the knockdown of LINC00311 inhibited spheroid formation, proliferation, migration, and invasion in PTC cells in vitro, suggesting that LINC00311 indeed play a regulatory role in PTC pathologic process. In addition, higher expression of LINC00311 in PTC tissues was correlated with poor outcome of PTC.</p><p>Stem‐like cells are defined as a subpopulation of self‐renewing stem cells, which are more resistant to chemotherapeutics or radiation therapy.<xref rid="cam42815-bib-0039" ref-type="ref">39</xref> To date, accumulating evidence from advances in tumor cell biology and genetics have suggested that stem‐like properties in cell play a critical role in tumor initiation, invasive growth, and metastasis in many cancers.<xref rid="cam42815-bib-0040" ref-type="ref">40</xref>, <xref rid="cam42815-bib-0041" ref-type="ref">41</xref> In PTC cell lines, especially in stem‐like properties population, the most putative cancer stem cell markers are CD44, ALDH1, NANOG, etc<xref rid="cam42815-bib-0042" ref-type="ref">42</xref>, <xref rid="cam42815-bib-0043" ref-type="ref">43</xref> In addition, studies have reported that some lncRNAs, such as lncRNA‐H19, were specifically highly expressed in PTC stem cells, meanwhile, silencing of H19 suppressed E2‐induced sphere formation ability,<xref rid="cam42815-bib-0044" ref-type="ref">44</xref> indicating that in PTC, certain lncRNAs may be involved in cell stemness ability. In this study, the expression of stemness markers, such as ALDH1, CD44, NANOG, SOX2, and Oct4, was detected in both mRNA level and protein level in LINC00311 knockdown group or control group, as previously described. The results showed that LINC00311 significantly suppressed the expression of these markers, suggesting that knockdown of LINC00311 suppressed spheroid formation and stemness in PTC cells.</p><p>To further investigate the molecular mechanism of how LINC00311 exerts its function in PTC stem‐like properties, we used bioinformatics tools to predict its potential target. By using dual‐luciferase reporter assay, RIP, and qRT‐PCR, we found that the level of LINC00311 was negatively correlated with miR‐330‐5p. Moreover, toll‐like receptors 4 (TLR4) was a direct target of miR‐330‐5p. As important downstream factors of LINC00311 in our study, miR‐330‐5p and TLR4 were also confirmed involved in cancer pathological progressions in many published studies. So far, miR‐330‐5 was reported as an inhibitory factor in many types of cancers, such as glioblastoma,<xref rid="cam42815-bib-0045" ref-type="ref">45</xref> cutaneous malignant melanoma,<xref rid="cam42815-bib-0046" ref-type="ref">46</xref> and ovarian cancer.<xref rid="cam42815-bib-0047" ref-type="ref">47</xref> However, until now, no studies have reported the miR‐330‐5p in PTC yet. TLR4 was abundantly expressed in PTC cells and PTC.<xref rid="cam42815-bib-0048" ref-type="ref">48</xref> Moreover, overexpression of TLR4 induces ETS1 transcriptional activity by regulating MAPK/ERK pathway.<xref rid="cam42815-bib-0049" ref-type="ref">49</xref> Our study demonstrated that LINC00311 promotes stem‐like properties in PTC cell lines via targeting TLR4, indicating that TLR4 was interacted with LINC00311 in the pathologic process in PTC progression. However, there are still some limitations in the current study. For example, we did not introduce miR‐330‐5p knockdown or overexpression system into the functional experiments. Moreover, we did not design any experiments to clarify whether off‐target effects of shRNA exist or not in the current experiments. Additionally, only the loss‐of‐function experiments were performed in the present study, gain‐of‐function studies may also need to valid the results in future.</p><p>In summary, our studies revealed that lncRNA LINC00311 played a regulator role in promoting PTC stem‐like traits. In addition, LINC00311 accelerated this process via modulating miR‐330‐5p/TLR4 pathway. The current findings may provide a better understanding of molecular mechanism of PTC cell stemness, and may further contribute to a potential therapeutic opportunity for aggressive PTC.</p></sec><sec sec-type="COI-statement" id="cam42815-sec-0030"><title>CONFLICT OF INTEREST</title><p>The authors declare that they have no competing interests, and all authors should confirm its accuracy.</p></sec><sec id="cam42815-sec-0031"><title>AUTHOR CONTRIBUTIONS</title><p>WZ and YG conceived and designed the experiments, FW, LZ, and MK analyzed and interpreted the results of the experiments, LYZ, LX and WL performed the experiments.</p></sec><sec id="cam42815-sec-0032"><title>ETHICS APPROVAL AND CONSENT TO PARTICIPATE</title><p>All procedures performed in studies involving human participants were in accordance with the standards upheld by the Ethics Committee of Shengjing Hospital of China Medical University and with those of the 1964 Helsinki Declaration and its later amendments for ethical research involving human subjects. (Approval No. 20190721).</p><p>All animal experiments were approved by the Ethics Committee of Shengjing Hospital of China Medical University for the use of animals and conducted in accordance with the National Institutes of Health Laboratory Animal Care and Use Guidelines. (Approval No. PJ‐2019‐04‐08).</p></sec><sec id="cam42815-sec-0033"><title>INFORMED CONSENT</title><p>Written informed consent was obtained from a legally authorized representative(s) for anonymized patient information to be published in this article.</p></sec></body><back><sec sec-type="data-availability" id="cam42815-sec-0036"><title>DATA AVAILABILITY STATEMENT</title><p>All data generated or analyzed during this study are included in this published article.</p></sec><ref-list content-type="cited-references" id="cam42815-bibl-0001"><title>REFERENCES</title><ref id="cam42815-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="cam42815-cit-0001">
+<string-name name-style="western">
+<surname>Torre</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bray</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Siegel</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ferlay</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lortet‐Tieulent</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jemal</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Global cancer statistics, 2012</article-title>. <source xml:lang="en">CA Cancer J Clin</source>. <year>2015</year>;<volume>65</volume>(<issue>2</issue>):<fpage>87</fpage>‐<lpage>108</lpage>.<pub-id pub-id-type="pmid">25651787</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3322/caac.21262</pub-id></mixed-citation></ref><ref id="cam42815-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="cam42815-cit-0002">
+<string-name name-style="western">
+<surname>Sipos</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mazzaferri</surname>
+<given-names>EL</given-names>
+</string-name>. <article-title>Thyroid cancer epidemiology and prognostic variables</article-title>. <source xml:lang="en">Clin Oncol (R Coll Radiol)</source>. <year>2010</year>;<volume>22</volume>(<issue>6</issue>):<fpage>395</fpage>‐<lpage>404</lpage>.<pub-id pub-id-type="pmid">20627675</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.clon.2010.05.004</pub-id></mixed-citation></ref><ref id="cam42815-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="cam42815-cit-0003">
+<string-name name-style="western">
+<surname>Sherman</surname>
+<given-names>SI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brierley</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sperling</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Prospective multicenter study of thyroiscarcinoma treatment: initial analysis of staging and outcome. National Thyroid Cancer Treatment Cooperative Study Registry Group</article-title>. <source xml:lang="en">Cancer</source>. <year>1998</year>;<volume>83</volume>(<issue>5</issue>):<fpage>1012</fpage>‐<lpage>1021</lpage>.<pub-id pub-id-type="pmid">9731906</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/(sici)1097-0142(19980901)83:5&lt;1012::aid-cncr28&gt;3.0.co;2-9</pub-id></mixed-citation></ref><ref id="cam42815-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="cam42815-cit-0004">
+<string-name name-style="western">
+<surname>Bosetti</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bertuccio</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Malvezzi</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Cancer mortality in Europe, 2005–2009, and an overview of trends since 1980</article-title>. <source xml:lang="en">Ann Oncol</source>. <year>2013</year>;<volume>24</volume>(<issue>10</issue>):<fpage>2657</fpage>‐<lpage>2671</lpage>.<pub-id pub-id-type="pmid">23921790</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/annonc/mdt301</pub-id></mixed-citation></ref><ref id="cam42815-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="cam42815-cit-0005">
+<string-name name-style="western">
+<surname>Shoup</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stojadinovic</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nissan</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Prognostic indicators of outcomes in patients with distant metastases from differentiated thyroid carcinoma</article-title>. <source xml:lang="en">J Am Coll Surg</source>. <year>2003</year>;<volume>197</volume>(<issue>2</issue>):<fpage>191</fpage>‐<lpage>197</lpage>.<pub-id pub-id-type="pmid">12892796</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S1072-7515(03)00332-6</pub-id></mixed-citation></ref><ref id="cam42815-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="cam42815-cit-0006">
+<string-name name-style="western">
+<surname>Haugen</surname>
+<given-names>BR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Alexander</surname>
+<given-names>EK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bible</surname>
+<given-names>KC</given-names>
+</string-name>, et al. <article-title>2015 American Thyroid Association Management Guidelines for adult patients with thyroid nodules and differentiated thyroid cancer: the American Thyroid Association Guidelines task force on thyroid nodules and differentiated thyroid cancer</article-title>. <source xml:lang="en">Thyroid</source>. <year>2016</year>;<volume>26</volume>(<issue>1</issue>):<fpage>1</fpage>‐<lpage>133</lpage>.<pub-id pub-id-type="pmid">26462967</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1089/thy.2015.0020</pub-id><pub-id pub-id-type="pmcid">PMC4739132</pub-id></mixed-citation></ref><ref id="cam42815-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="cam42815-cit-0007">
+<string-name name-style="western">
+<surname>Bardet</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Malville</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rame</surname>
+<given-names>JP</given-names>
+</string-name>, et al. <article-title>Macroscopic lymph‐node involvement and neck dissection predict lymph‐node recurrence in papillary thyroid carcinoma</article-title>. <source xml:lang="en">Eur J Endocrinol</source>. <year>2008</year>;<volume>158</volume>(<issue>4</issue>):<fpage>551</fpage>‐<lpage>560</lpage>.<pub-id pub-id-type="pmid">18362303</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1530/EJE-07-0603</pub-id></mixed-citation></ref><ref id="cam42815-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="cam42815-cit-0008">
+<string-name name-style="western">
+<surname>Leboulleux</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rubino</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baudin</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Prognostic factors for persistent or recurrent disease of papillary thyroid carcinoma with neck lymph node metastases and/or tumor extension beyond the thyroid capsule at initial diagnosis</article-title>. <source xml:lang="en">J Clin Endocrinol Metab</source>. <year>2005</year>;<volume>90</volume>(<issue>10</issue>):<fpage>5723</fpage>‐<lpage>5729</lpage>. <pub-id pub-id-type="doi">10.1210/jc.2005-0285</pub-id>.<pub-id pub-id-type="pmid">16030160</pub-id></mixed-citation></ref><ref id="cam42815-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="cam42815-cit-0009">
+<string-name name-style="western">
+<surname>La Vecchia</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Malvezzi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bosetti</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Thyroid cancer mortality and incidence: a global overview</article-title>. <source xml:lang="en">Int J Cancer</source>. <year>2015</year>;<volume>136</volume>(<issue>9</issue>):<fpage>2187</fpage>‐<lpage>2195</lpage>.<pub-id pub-id-type="pmid">25284703</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ijc.29251</pub-id></mixed-citation></ref><ref id="cam42815-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="cam42815-cit-0010">
+<string-name name-style="western">
+<surname>Derwahl</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Linking stem cells to thyroid cancer</article-title>. <source xml:lang="en">J Clin Endocrinol Metab</source>. <year>2011</year>;<volume>96</volume>(<issue>3</issue>):<fpage>610</fpage>‐<lpage>613</lpage>.<pub-id pub-id-type="pmid">21378223</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1210/jc.2010-2826</pub-id></mixed-citation></ref><ref id="cam42815-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="cam42815-cit-0011">
+<string-name name-style="western">
+<surname>Ahn</surname>
+<given-names>SH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Henderson</surname>
+<given-names>YC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Williams</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lai</surname>
+<given-names>SY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Clayman</surname>
+<given-names>GL</given-names>
+</string-name>. <article-title>Detection of thyroid cancer stem cells in papillary thyroid carcinoma</article-title>. <source xml:lang="en">J Clin Endocrinol Metab</source>. <year>2014</year>;<volume>99</volume>(<issue>2</issue>):<fpage>536</fpage>‐<lpage>544</lpage>.<pub-id pub-id-type="pmid">24302752</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1210/jc.2013-2558</pub-id><pub-id pub-id-type="pmcid">PMC3913805</pub-id></mixed-citation></ref><ref id="cam42815-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="cam42815-cit-0012">
+<string-name name-style="western">
+<surname>Lin</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>W</given-names>
+</string-name>, et al. <article-title>Association of cancer stem cell markers with aggressive tumor features in papillary thyroid carcinoma</article-title>. <source xml:lang="en">Cancer Control</source>. <year>2015</year>;<volume>22</volume>(<issue>4</issue>):<fpage>508</fpage>‐<lpage>514</lpage>.<pub-id pub-id-type="pmid">26678979</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/107327481502200418</pub-id></mixed-citation></ref><ref id="cam42815-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="cam42815-cit-0013">
+<string-name name-style="western">
+<surname>Giuffrida</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Adamo</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Iannolo</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>Resistance of papillary thyroid cancer stem cells to chemotherapy</article-title>. <source xml:lang="en">Oncol Lett</source>. <year>2016</year>;<volume>12</volume>(<issue>1</issue>):<fpage>687</fpage>‐<lpage>691</lpage>. <pub-id pub-id-type="doi">10.3892/ol.2016.4666</pub-id>.<pub-id pub-id-type="pmid">27347201</pub-id><pub-id pub-id-type="pmcid">PMC4907300</pub-id></mixed-citation></ref><ref id="cam42815-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="cam42815-cit-0014">
+<string-name name-style="western">
+<surname>Kim</surname>
+<given-names>HM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Koo</surname>
+<given-names>JS</given-names>
+</string-name>. <article-title>Immunohistochemical analysis of cancer stem cell marker expression in papillary thyroid cancer</article-title>. <source xml:lang="en">Front Endocrinol (Lausanne)</source>. <year>2019</year>;<volume>10</volume>:<fpage>523</fpage>.<pub-id pub-id-type="pmid">31428052</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fendo.2019.00523</pub-id><pub-id pub-id-type="pmcid">PMC6688385</pub-id></mixed-citation></ref><ref id="cam42815-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="cam42815-cit-0015">
+<string-name name-style="western">
+<surname>Gomez‐Perez</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cornejo Pareja</surname>
+<given-names>IM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Garcia Aleman</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>New molecular biomarkers in differentiated thyroid carcinoma: impact of miR‐146, miR‐221 and miR‐222 levels in the evolution of the disease</article-title>. <source xml:lang="en">Clin Endocrinol</source>. <year>2019</year>;<volume>91</volume>(<issue>1</issue>):<fpage>187</fpage>‐<lpage>194</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/cen.13972</pub-id><pub-id pub-id-type="pmid">30887564</pub-id></mixed-citation></ref><ref id="cam42815-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="cam42815-cit-0016">
+<string-name name-style="western">
+<surname>Murugan</surname>
+<given-names>AK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Munirajan</surname>
+<given-names>AK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Alzahrani</surname>
+<given-names>AS</given-names>
+</string-name>. <article-title>Long noncoding RNAs: emerging players in thyroid cancer pathogenesis</article-title>. <source xml:lang="en">Endocr Relat Cancer</source>. <year>2018</year>;<volume>25</volume>(<issue>2</issue>):<fpage>R59</fpage>‐<lpage>R82</lpage>.<pub-id pub-id-type="pmid">29146581</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1530/ERC-17-0188</pub-id></mixed-citation></ref><ref id="cam42815-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="cam42815-cit-0017">
+<string-name name-style="western">
+<surname>Goedert</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Placa</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fuziwara</surname>
+<given-names>CS</given-names>
+</string-name>, et al. <article-title>Identification of long noncoding RNAs deregulated in papillary thyroid cancer and correlated with BRAF(V600E) mutation by bioinformatics integrative analysis</article-title>. <source xml:lang="en">Sci Rep</source>. <year>2017</year>;<volume>7</volume>(<issue>1</issue>):<fpage>1662</fpage>.<pub-id pub-id-type="pmid">28490781</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41598-017-01957-0</pub-id><pub-id pub-id-type="pmcid">PMC5431778</pub-id></mixed-citation></ref><ref id="cam42815-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="cam42815-cit-0018">
+<string-name name-style="western">
+<surname>Mattick</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rinn</surname>
+<given-names>JL</given-names>
+</string-name>. <article-title>Discovery and annotation of long noncoding RNAs</article-title>. <source xml:lang="en">Nat Struct Mol Biol</source>. <year>2015</year>;<volume>22</volume>(<issue>1</issue>):<fpage>5</fpage>‐<lpage>7</lpage>.<pub-id pub-id-type="pmid">25565026</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nsmb.2942</pub-id></mixed-citation></ref><ref id="cam42815-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="cam42815-cit-0019">
+<string-name name-style="western">
+<surname>Jathar</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kumar</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Srivastava</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tripathi</surname>
+<given-names>V</given-names>
+</string-name>. <article-title>Technological developments in lncRNA Biology</article-title>. <source xml:lang="en">Adv Exp Med Biol</source>. <year>2017</year>;<volume>1008</volume>:<fpage>283</fpage>‐<lpage>323</lpage>.<pub-id pub-id-type="pmid">28815544</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/978-981-10-5203-3_10</pub-id></mixed-citation></ref><ref id="cam42815-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="cam42815-cit-0020">
+<string-name name-style="western">
+<surname>Xu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bai</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>X</given-names>
+</string-name>, et al. <article-title>A comprehensive overview of lncRNA annotation resources</article-title>. <source xml:lang="en">Brief Bioinform</source>. <year>2017</year>;<volume>18</volume>(<issue>2</issue>):<fpage>236</fpage>‐<lpage>249</lpage>.<pub-id pub-id-type="pmid">26944085</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/bib/bbw015</pub-id></mixed-citation></ref><ref id="cam42815-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="cam42815-cit-0021">
+<string-name name-style="western">
+<surname>Zheng</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Song</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Long non‐coding RNA LUCAT1/miR‐5582‐3p/TCF7L2 axis regulates breast cancer stemness via Wnt/beta‐catenin pathway</article-title>. <source xml:lang="en">J Exp Clin Cancer Res</source>. <year>2019</year>;<volume>38</volume>(<issue>1</issue>):<fpage>305</fpage>.<pub-id pub-id-type="pmid">31300015</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13046-019-1315-8</pub-id><pub-id pub-id-type="pmcid">PMC6626338</pub-id></mixed-citation></ref><ref id="cam42815-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="cam42815-cit-0022">
+<string-name name-style="western">
+<surname>Yang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xiao</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Du</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Du</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Silencing of the long non‐coding RNA NEAT1 suppresses glioma stem‐like properties through modulation of the miR‐107/CDK6 pathway</article-title>. <source xml:lang="en">Oncol Rep</source>. <year>2017</year>;<volume>37</volume>(<issue>1</issue>):<fpage>555</fpage>‐<lpage>562</lpage>.<pub-id pub-id-type="pmid">27878295</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3892/or.2016.5266</pub-id></mixed-citation></ref><ref id="cam42815-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="cam42815-cit-0023">
+<string-name name-style="western">
+<surname>Visone</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pallante</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vecchione</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Specific microRNAs are downregulated in human thyroid anaplastic carcinomas</article-title>. <source xml:lang="en">Oncogene</source>. <year>2016</year>;<volume>35</volume>(<issue>39</issue>):<fpage>5214</fpage>.<pub-id pub-id-type="pmid">27345412</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/onc.2016.139</pub-id></mixed-citation></ref><ref id="cam42815-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="cam42815-cit-0024">
+<string-name name-style="western">
+<surname>Krol</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Loedige</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Filipowicz</surname>
+<given-names>W</given-names>
+</string-name>. <article-title>The widespread regulation of microRNA biogenesis, function and decay</article-title>. <source xml:lang="en">Nat Rev Genet</source>. <year>2010</year>;<volume>11</volume>(<issue>9</issue>):<fpage>597</fpage>‐<lpage>610</lpage>.<pub-id pub-id-type="pmid">20661255</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nrg2843</pub-id></mixed-citation></ref><ref id="cam42815-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="cam42815-cit-0025">
+<string-name name-style="western">
+<surname>Fu</surname>
+<given-names>XM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guo</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>The expression and function of long noncoding RNA lncRNA‐ATB in papillary thyroid cancer</article-title>. <source xml:lang="en">Eur Rev Med Pharmacol Sci</source>. <year>2017</year>;<volume>21</volume>(<issue>14</issue>):<fpage>3239</fpage>‐<lpage>3246</lpage>.<pub-id pub-id-type="pmid">28770959</pub-id></mixed-citation></ref><ref id="cam42815-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="cam42815-cit-0026">
+<string-name name-style="western">
+<surname>You</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sui</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Integrated analysis of long noncoding RNA interactions reveals the potential role in progression of human papillary thyroid cancer</article-title>. <source xml:lang="en">Cancer Med</source>. <year>2018</year>;<volume>7</volume>(<issue>11</issue>):<fpage>5394</fpage>‐<lpage>5410</lpage>.<pub-id pub-id-type="pmid">30318850</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/cam4.1721</pub-id><pub-id pub-id-type="pmcid">PMC6246933</pub-id></mixed-citation></ref><ref id="cam42815-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="cam42815-cit-0027">
+<string-name name-style="western">
+<surname>Boos</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schmitt</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Moch</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>MiRNAs are involved in tall cell morphology in papillary thyroid carcinoma</article-title>. <source xml:lang="en">Cancers</source>. <year>2019</year>;<volume>11</volume>(<issue>6</issue>):<fpage>885</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/cancers11060885</pub-id><pub-id pub-id-type="pmcid">PMC6628239</pub-id><pub-id pub-id-type="pmid">31242620</pub-id></mixed-citation></ref><ref id="cam42815-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="cam42815-cit-0028">
+<string-name name-style="western">
+<surname>Liu</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>You</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sui</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Prognostic value of a two‐microRNA signature for papillary thyroid cancer and a bioinformatic analysis of their possible functions</article-title>. <source xml:lang="en">J Cell Biochem</source>. <year>2019</year>;<volume>120</volume>(<issue>5</issue>):<fpage>7185</fpage>‐<lpage>7198</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/jcb.27993</pub-id><pub-id pub-id-type="pmid">30390338</pub-id></mixed-citation></ref><ref id="cam42815-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="cam42815-cit-0029">
+<string-name name-style="western">
+<surname>Zhong</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhong</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>LINC00311 is overexpressed in ankylosing spondylitis and predict treatment outcomes and recurrence</article-title>. <source xml:lang="en">BMC Musculoskelet Disord</source>. <year>2019</year>;<volume>20</volume>(<issue>1</issue>):<fpage>278</fpage>.<pub-id pub-id-type="pmid">31170957</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12891-019-2647-4</pub-id><pub-id pub-id-type="pmcid">PMC6554900</pub-id></mixed-citation></ref><ref id="cam42815-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="cam42815-cit-0030">
+<string-name name-style="western">
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Luo</surname>
+<given-names>TB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cui</surname>
+<given-names>ZQ</given-names>
+</string-name>. <article-title>LncRNA LINC00311 promotes the proliferation and differentiation of osteoclasts in osteoporotic rats through the notch signaling pathway by targeting DLL3</article-title>. <source xml:lang="en">Cell Physiol Biochem</source>. <year>2018</year>;<volume>47</volume>(<issue>6</issue>):<fpage>2291</fpage>‐<lpage>2306</lpage>.<pub-id pub-id-type="pmid">29975944</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1159/000491539</pub-id></mixed-citation></ref><ref id="cam42815-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="cam42815-cit-0031">
+<string-name name-style="western">
+<surname>Lim</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Devesa</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sosa</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Check</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kitahara</surname>
+<given-names>CM</given-names>
+</string-name>. <article-title>Trends in thyroid cancer incidence and mortality in the United States, 1974–2013</article-title>. <source xml:lang="en">JAMA</source>. <year>2017</year>;<volume>317</volume>(<issue>13</issue>):<fpage>1338</fpage>‐<lpage>1348</lpage>.<pub-id pub-id-type="pmid">28362912</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jama.2017.2719</pub-id><pub-id pub-id-type="pmcid">PMC8216772</pub-id></mixed-citation></ref><ref id="cam42815-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="cam42815-cit-0032">
+<string-name name-style="western">
+<surname>Seethala</surname>
+<given-names>RR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baloch</surname>
+<given-names>ZW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barletta</surname>
+<given-names>JA</given-names>
+</string-name>, et al. <article-title>Noninvasive follicular thyroid neoplasm with papillary‐like nuclear features: a review for pathologists</article-title>. <source xml:lang="en">Mod Pathol</source>. <year>2018</year>;<volume>31</volume>(<issue>1</issue>):<fpage>39</fpage>‐<lpage>55</lpage>.<pub-id pub-id-type="pmid">29052599</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/modpathol.2017.130</pub-id></mixed-citation></ref><ref id="cam42815-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="cam42815-cit-0033">
+<string-name name-style="western">
+<surname>Lei</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gao</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>
+<given-names>X</given-names>
+</string-name>. <article-title>LncRNA TUG1 influences papillary thyroid cancer cell proliferation, migration and EMT formation through targeting miR‐145</article-title>. <source xml:lang="en">Acta Biochim Biophys Sin</source>. <year>2017</year>;<volume>49</volume>(<issue>7</issue>):<fpage>588</fpage>‐<lpage>597</lpage>.<pub-id pub-id-type="pmid">28645161</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/abbs/gmx047</pub-id></mixed-citation></ref><ref id="cam42815-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="cam42815-cit-0034">
+<string-name name-style="western">
+<surname>Wang</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ji</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bai</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wen</surname>
+<given-names>Q</given-names>
+</string-name>. <article-title>Myocardial infarction associated transcript (MIAT) promotes papillary thyroid cancer progression via sponging miR‐212</article-title>. <source xml:lang="en">Biomed Pharmacother</source>. <year>2019</year>;<volume>118</volume>:<fpage>109298</fpage>.<pub-id pub-id-type="pmid">31404776</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.biopha.2019.109298</pub-id></mixed-citation></ref><ref id="cam42815-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="cam42815-cit-0035">
+<string-name name-style="western">
+<surname>Liu</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ai</surname>
+<given-names>Z</given-names>
+</string-name>. <article-title>Long non‐coding RNA MIAT promotes papillary thyroid cancer progression through upregulating LASP1</article-title>. <source xml:lang="en">Cancer Cell Int</source>. <year>2019</year>;<volume>19</volume>:<fpage>194</fpage>.<pub-id pub-id-type="pmid">31372094</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12935-019-0913-z</pub-id><pub-id pub-id-type="pmcid">PMC6659215</pub-id></mixed-citation></ref><ref id="cam42815-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="cam42815-cit-0036">
+<string-name name-style="western">
+<surname>Feng</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yi</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>A novel lncRNA n384546 promotes thyroid papillary cancer progression and metastasis by acting as a competing endogenous RNA of miR‐145‐5p to regulate AKT3</article-title>. <source xml:lang="en">Cell Death Dis</source>. <year>2019</year>;<volume>10</volume>(<issue>6</issue>):<fpage>433</fpage>.<pub-id pub-id-type="pmid">31160577</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41419-019-1637-7</pub-id><pub-id pub-id-type="pmcid">PMC6547665</pub-id></mixed-citation></ref><ref id="cam42815-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="cam42815-cit-0037">
+<string-name name-style="western">
+<surname>Feng</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dong</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Long noncoding RNA small nucleolar RNA host gene 12 promotes papillary thyroid carcinoma cell growth and invasion by targeting miR‐16‐5p</article-title>. <source xml:lang="en">Histol Histopathol</source>. <year>2019</year>:<fpage>18155</fpage>
+<pub-id pub-id-type="doi">10.14670/hh-18-155</pub-id>.<pub-id pub-id-type="pmid">31355416</pub-id></mixed-citation></ref><ref id="cam42815-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="cam42815-cit-0038">
+<string-name name-style="western">
+<surname>Luo</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>He</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>X</given-names>
+</string-name>. <article-title>Sp1‐induced LncRNA CTBP1‐AS2 is a novel regulator in cardiomyocyte hypertrophy by interacting with FUS to stabilize TLR4</article-title>. <source xml:lang="en">Cardiovasc Pathol</source>. <year>2019</year>;<volume>42</volume>:<fpage>21</fpage>‐<lpage>29</lpage>.<pub-id pub-id-type="pmid">31220774</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.carpath.2019.04.005</pub-id></mixed-citation></ref><ref id="cam42815-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="cam42815-cit-0039">
+<string-name name-style="western">
+<surname>Hardin</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Montemayor‐Garcia</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lloyd</surname>
+<given-names>RV</given-names>
+</string-name>. <article-title>Thyroid cancer stem‐like cells and epithelial‐mesenchymal transition in thyroid cancers</article-title>. <source xml:lang="en">Hum Pathol</source>. <year>2013</year>;<volume>44</volume>(<issue>9</issue>):<fpage>1707</fpage>‐<lpage>1713</lpage>.<pub-id pub-id-type="pmid">23528862</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.humpath.2013.01.009</pub-id></mixed-citation></ref><ref id="cam42815-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="cam42815-cit-0040">
+<string-name name-style="western">
+<surname>Capp</surname>
+<given-names>JP</given-names>
+</string-name>. <article-title>Cancer stem cells: From historical roots to a new perspective</article-title>. <source xml:lang="en">J Oncol</source>. <year>2019</year>;<volume>2019</volume>:<fpage>5189232</fpage>
+<pub-id pub-id-type="doi">10.1155/2019/5189232</pub-id>.<pub-id pub-id-type="pmid">31308849</pub-id><pub-id pub-id-type="pmcid">PMC6594320</pub-id></mixed-citation></ref><ref id="cam42815-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="cam42815-cit-0041">
+<string-name name-style="western">
+<surname>McCoy</surname>
+<given-names>MG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nyanyo</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hung</surname>
+<given-names>CK</given-names>
+</string-name>, et al. <article-title>Endothelial cells promote 3D invasion of GBM by IL‐8‐dependent induction of cancer stem cell properties</article-title>. <source xml:lang="en">Sci Rep</source>. <year>2019</year>;<volume>9</volume>(<issue>1</issue>):<fpage>9069</fpage>.<pub-id pub-id-type="pmid">31227783</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41598-019-45535-y</pub-id><pub-id pub-id-type="pmcid">PMC6588602</pub-id></mixed-citation></ref><ref id="cam42815-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="cam42815-cit-0042">
+<string-name name-style="western">
+<surname>Mitsutake</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Iwao</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nagai</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Characterization of side population in thyroid cancer cell lines: cancer stem‐like cells are enriched partly but not exclusively</article-title>. <source xml:lang="en">Endocrinology</source>. <year>2007</year>;<volume>148</volume>(<issue>4</issue>):<fpage>1797</fpage>‐<lpage>1803</lpage>.<pub-id pub-id-type="pmid">17234707</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1210/en.2006-1553</pub-id></mixed-citation></ref><ref id="cam42815-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="cam42815-cit-0043">
+<string-name name-style="western">
+<surname>Todaro</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Iovino</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Eterno</surname>
+<given-names>V</given-names>
+</string-name>, et al. <article-title>Tumorigenic and metastatic activity of human thyroid cancer stem cells</article-title>. <source xml:lang="en">Can Res</source>. <year>2010</year>;<volume>70</volume>(<issue>21</issue>):<fpage>8874</fpage>‐<lpage>8885</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/0008-5472.CAN-10-1994</pub-id><pub-id pub-id-type="pmid">20959469</pub-id></mixed-citation></ref><ref id="cam42815-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="cam42815-cit-0044">
+<string-name name-style="western">
+<surname>Li</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chai</surname>
+<given-names>HF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Peng</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>Estrogen receptor beta upregulated by lncRNA‐H19 to promote cancer stem‐like properties in papillary thyroid carcinoma</article-title>. <source xml:lang="en">Cell Death Dis</source>. <year>2018</year>;<volume>9</volume>(<issue>11</issue>):<fpage>1120</fpage>.<pub-id pub-id-type="pmid">30389909</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41419-018-1077-9</pub-id><pub-id pub-id-type="pmcid">PMC6214949</pub-id></mixed-citation></ref><ref id="cam42815-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="cam42815-cit-0045">
+<string-name name-style="western">
+<surname>Feng</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ma</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ji</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hu</surname>
+<given-names>W</given-names>
+</string-name>. <article-title>miR‐330‐5p suppresses glioblastoma cell proliferation and invasiveness through targeting ITGA5</article-title>. <source xml:lang="en">Biosci Rep</source>. <year>2017</year>;<volume>37</volume>(<issue>3</issue>): <pub-id pub-id-type="doi">10.1042/BSR20170019</pub-id>.<pub-id pub-id-type="pmcid">PMC5479020</pub-id><pub-id pub-id-type="pmid">28336765</pub-id><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="retraction-forward" ext-link-type="pmc" xlink:href="PMC8458690"/></mixed-citation></ref><ref id="cam42815-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="cam42815-cit-0046">
+<string-name name-style="western">
+<surname>Su</surname>
+<given-names>BB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>SW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gan</surname>
+<given-names>CB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>XN</given-names>
+</string-name>. <article-title>MiR‐330‐5p regulates tyrosinase and PDIA3 expression and suppresses cell proliferation and invasion in cutaneous malignant melanoma</article-title>. <source xml:lang="en">J Surg Res</source>. <year>2016</year>;<volume>203</volume>(<issue>2</issue>):<fpage>434</fpage>‐<lpage>440</lpage>.<pub-id pub-id-type="pmid">27363653</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jss.2016.03.021</pub-id></mixed-citation></ref><ref id="cam42815-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="cam42815-cit-0047">
+<string-name name-style="western">
+<surname>Fu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dan</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>LncRNA EWSAT1 promotes ovarian cancer progression through targeting miR‐330‐5p expression</article-title>. <source xml:lang="en">Am J Transl Res</source>. <year>2017</year>;<volume>9</volume>(<issue>9</issue>):<fpage>4094</fpage>‐<lpage>4103</lpage>.<pub-id pub-id-type="pmid">28979684</pub-id><pub-id pub-id-type="pmcid">PMC5622253</pub-id></mixed-citation></ref><ref id="cam42815-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="cam42815-cit-0048">
+<string-name name-style="western">
+<surname>Dang</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Peng</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ye</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Stimulation of TLR4 by LMW‐HA induces metastasis in human papillary thyroid carcinoma through CXCR7</article-title>. <source xml:lang="en">Clin Dev Immunol</source>. <year>2013</year>;<volume>2013</volume>:<fpage>712561</fpage>.<pub-id pub-id-type="pmid">24363762</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1155/2013/712561</pub-id><pub-id pub-id-type="pmcid">PMC3865734</pub-id></mixed-citation></ref><ref id="cam42815-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="cam42815-cit-0049">
+<string-name name-style="western">
+<surname>Peyret</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nazar</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Martin</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Functional toll‐like receptor 4 overexpression in papillary thyroid cancer by MAPK/ERK‐induced ETS1 transcriptional activity</article-title>. <source xml:lang="en">Mol Cancer Res</source>. <year>2018</year>;<volume>16</volume>(<issue>5</issue>):<fpage>833</fpage>‐<lpage>845</lpage>.<pub-id pub-id-type="pmid">29523762</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/1541-7786.MCR-17-0433</pub-id></mixed-citation></ref></ref-list></back></article>

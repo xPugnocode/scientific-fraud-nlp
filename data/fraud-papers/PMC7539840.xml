@@ -1,0 +1,766 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article article-type="research-article" xml:lang="en" dtd-version="1.4"><front><journal-meta><journal-id journal-id-type="nlm-ta">CNS Neurosci Ther</journal-id><journal-id journal-id-type="iso-abbrev">CNS Neurosci Ther</journal-id><journal-id journal-id-type="pmc-domain-id">3640</journal-id><journal-id journal-id-type="pmc-domain">cnsneurosci</journal-id><journal-id journal-id-type="nlm-id">101473265</journal-id><journal-id journal-id-type="publisher-id">CNS</journal-id><journal-title-group><journal-title>CNS Neuroscience &amp; Therapeutics</journal-title></journal-title-group><issn pub-type="ppub">1755-5930</issn><issn pub-type="epub">1755-5949</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC7539840</article-id><article-id pub-id-type="pmcid-ver">PMC7539840.1</article-id><article-id pub-id-type="pmcaid">7539840</article-id><article-id pub-id-type="pmcaiid">7539840</article-id><article-id pub-id-type="pmid">32602622</article-id><article-id pub-id-type="doi">10.1111/cns.13432</article-id><article-id pub-id-type="publisher-id">CNS13432</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Articles</subject></subj-group></article-categories><title-group><article-title>Allopregnanolone restores the tyrosine hydroxylase‐positive neurons and motor performance in a 6‐OHDA‐injected mouse model</article-title><alt-title alt-title-type="left-running-head">CHEN et al.</alt-title></title-group><contrib-group><contrib id="cns13432-cr-0001" contrib-type="author"><name name-style="western"><surname>Chen</surname><given-names initials="ZC">Zhi‐Chi</given-names></name><xref ref-type="aff" rid="cns13432-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="cns13432-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cns13432-cr-0002" contrib-type="author"><name name-style="western"><surname>Wang</surname><given-names initials="TT">Tong‐Tong</given-names></name><xref ref-type="aff" rid="cns13432-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="cns13432-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cns13432-cr-0003" contrib-type="author"><name name-style="western"><surname>Bian</surname><given-names initials="W">Wei</given-names></name><xref ref-type="aff" rid="cns13432-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="cns13432-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cns13432-cr-0004" contrib-type="author"><name name-style="western"><surname>Ye</surname><given-names initials="X">Xin</given-names></name><xref ref-type="aff" rid="cns13432-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="cns13432-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cns13432-cr-0005" contrib-type="author"><name name-style="western"><surname>Li</surname><given-names initials="MY">Meng‐Yi</given-names></name><xref ref-type="aff" rid="cns13432-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="cns13432-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cns13432-cr-0006" contrib-type="author"><name name-style="western"><surname>Du</surname><given-names initials="JJ">Juan‐Juan</given-names></name><xref ref-type="aff" rid="cns13432-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="cns13432-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="cns13432-cr-0007" contrib-type="author"><name name-style="western"><surname>Zhou</surname><given-names initials="P">Peng</given-names></name><xref ref-type="aff" rid="cns13432-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="cns13432-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cns13432-cr-0008" contrib-type="author"><name name-style="western"><surname>Cui</surname><given-names initials="HR">Huai‐Rui</given-names></name><xref ref-type="aff" rid="cns13432-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cns13432-cr-0009" contrib-type="author"><name name-style="western"><surname>Ding</surname><given-names initials="YQ">Yu‐Qiang</given-names></name><xref ref-type="aff" rid="cns13432-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cns13432-cr-0010" contrib-type="author"><name name-style="western"><surname>Ren</surname><given-names initials="YH">Yan‐hua</given-names></name><xref ref-type="aff" rid="cns13432-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="cns13432-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="cns13432-cr-0011" contrib-type="author"><name name-style="western"><surname>Qi</surname><given-names initials="SS">Shuang‐Shuang</given-names></name><xref ref-type="aff" rid="cns13432-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="cns13432-cr-0012" contrib-type="author"><name name-style="western"><surname>Yuan</surname><given-names initials="YY">Yuan‐Yuan</given-names></name><xref ref-type="aff" rid="cns13432-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="cns13432-cr-0013" contrib-type="author" corresp="yes"><name name-style="western"><surname>Liao</surname><given-names initials="M">Min</given-names></name><xref ref-type="aff" rid="cns13432-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="cns13432-aff-0003">
+<sup>3</sup>
+</xref><address><email>3590083385@qq.com</email></address></contrib><contrib id="cns13432-cr-0014" contrib-type="author" corresp="yes"><name name-style="western"><surname>Sun</surname><given-names initials="CY">Chen‐You</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-4563-1987</contrib-id><xref ref-type="aff" rid="cns13432-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="cns13432-aff-0002">
+<sup>2</sup>
+</xref><address><email>sunchenyou1972@aliyun.com</email></address></contrib></contrib-group><aff id="cns13432-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Anatomy</named-content>
+<named-content content-type="organisation-division">School of Basic Medical Sciences</named-content>
+<institution>Wenzhou Medical University</institution>
+<city>Wenzhou</city>
+<country country="CN">China</country>
+</aff><aff id="cns13432-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Institute of Neuroscience</named-content>
+<named-content content-type="organisation-division">School of Basic Medical Sciences</named-content>
+<institution>Wenzhou Medical University</institution>
+<city>Wenzhou</city>
+<country country="CN">China</country>
+</aff><aff id="cns13432-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Department of Histology and Embryology</named-content>
+<named-content content-type="organisation-division">School of Basic Medical Sciences</named-content>
+<institution>Wenzhou Medical University</institution>
+<city>Wenzhou</city>
+<country country="CN">China</country>
+</aff><aff id="cns13432-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Department of Pharmacy</named-content>
+<institution>Second Affiliated Hospital</institution>
+<institution>Wenzhou Medical University</institution>
+<city>Wenzhou</city>
+<country country="CN">China</country>
+</aff><aff id="cns13432-aff-0005">
+<label><sup>5</sup></label>
+<named-content content-type="organisation-division">School of Basic Medical Sciences</named-content>
+<institution>Zhejiang Chinese Medical University</institution>
+<city>Hangzhou</city>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Min Liao, Department of Histology and Embryology, School of Basic Medical Sciences, Wenzhou Medical University, Wenzhou 325035, China.<break/>
+Email: <email>3590083385@qq.com</email><break/>
+Chen‐You Sun, Department of Anatomy, School of Basic Medical Sciences, Wenzhou Medical University, Wenzhou 325035, China.<break/>
+Email: <email>sunchenyou1972@aliyun.com</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>30</day><month>6</month><year>2020</year></pub-date><pub-date pub-type="collection"><month>10</month><year>2020</year></pub-date><volume>26</volume><issue>10</issue><issue-id pub-id-type="pmc-issue-id">366502</issue-id><issue-id pub-id-type="doi">10.1111/cns.v26.10</issue-id><fpage>1069</fpage><lpage>1082</lpage><history><date date-type="received"><day>24</day><month>11</month><year>2019</year></date><date date-type="rev-recd"><day>25</day><month>5</month><year>2020</year></date><date date-type="accepted"><day>12</day><month>6</month><year>2020</year></date></history><pub-history><event event-type="pmc-release"><date><day>30</day><month>06</month><year>2020</year></date></event><event event-type="pmc-live"><date><day>09</day><month>10</month><year>2020</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2023-10-02 17:25:25.297"><day>02</day><month>10</month><year>2023</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2020 The Authors. <italic toggle="yes">CNS Neuroscience &amp; Therapeutics</italic> Published by John Wiley &amp; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="CNS-26-1069.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:CNS-26-1069.pdf"/><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="retraction-forward" xml:lang="en" xlink:title="retraction" journal-id="CNS Neurosci Ther" journal-id-type="nlm-ta" ext-link-type="pmc" xlink:href="PMC8841292"><article-title>Retraction: Allopregnanolone restores the tyrosine hydroxylase‐positive neurons and motor performance in a 6‐OHDA‐injected mouse model</article-title><volume>28</volume><issue seq="170">3</issue><date><day>17</day><month>12</month><year>2021</year></date><fpage>461</fpage><lpage>461</lpage><source>CNS Neuroscience &amp; Therapeutics</source><pub-id pub-id-type="pmcid">PMC8841292</pub-id><pub-id pub-id-type="pmid">34921506</pub-id></related-article><abstract id="cns13432-abs-0001"><title>Abstract</title><sec id="cns13432-sec-0001"><title>Aims</title><p>It has been reported that allopregnanolone (APα) promotes the neurogenesis of the neural progenitor cells (NPCs) in the subventricular zone (SVZ) and prevents the decrease of dopaminergic neurons in 6‐hydroxydopamine (6‐OHDA)‐treated mice by binding to γ‐aminobutyric acid A receptor (GABAAR) and then opening voltage‐gated L‐type Ca<sup>2+</sup> channel, but the underlying mechanisms remain elusive. The aim of this study was to explore the possible involvement of GABAAR and calcium/calmodulin‐dependent protein kinase II delta 3 (CaMKIIδ3) in this process.</p></sec><sec id="cns13432-sec-0002"><title>Methods</title><p>6‐OHDA‐treated mice and primary cultured midbrain cells were administrated with APα and GABAAR antagonist bicuculline (Bic), and the proliferation and differentiation of NPCs, the tyrosine hydroxylase (TH)‐positive neurons and their fibers, the expression levels of CaMKIIδ3 and brain‐derived neurotrophic factor (BDNF), and motor functions were measured using ELISA, immunohistochemical staining, real‐time RT‐PCR, Western blot, and behavioral test.</p></sec><sec id="cns13432-sec-0003"><title>Results</title><p>Allopregnanolone significantly promoted the phosphorylation of cytoplasmic CaMKIIδ3 and its nuclear translocation by binding to GABAAR, which, in turn, increased the expression levels of BDNF. This may account for the findings that the exogenous APα enhanced the proliferation and differentiation of NPCs, and ameliorated the nigrostriatal system and behavioral performance in 6‐OHDA‐treated mice.</p></sec><sec id="cns13432-sec-0004"><title>Conclusions</title><p>Allopregnanolone may directly activate GABAAR, which, in turn, enhance the proliferation and differentiation of NPCs <italic toggle="yes">via</italic> upregulating the expression levels of CaMKIIδ3, and finally contribute to the restoration of dopaminergic neurons in 6‐OHDA‐treated mice.</p></sec></abstract><abstract abstract-type="graphical" id="cns13432-abs-0002"><p>APα significantly promotes the phosphorylation of cytoplasmic CaMKIIδ3 and its nuclear translocation by binding to GABAAR, which, in turn, increases the expression levels of cell cycle protein and BDNF. This may account for the findings that APα enhances the proliferation and differentiation of NPCs, and ameliorates the deficiency of dopaminergic neurons in 6‐OHDA‐treated mice and primary cultured midbrain cells.<boxed-text position="anchor" content-type="graphic" id="cns13432-blkfxd-0001" orientation="portrait"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="nlm-graphic-1" orientation="portrait" xlink:href="CNS-26-1069-g007.jpg"/></boxed-text>
+</p></abstract><kwd-group><kwd id="cns13432-kwd-0001">6‐hydroxydopamine</kwd><kwd id="cns13432-kwd-0002">allopregnanolone</kwd><kwd id="cns13432-kwd-0003">brain‐derived neurotrophic factor</kwd><kwd id="cns13432-kwd-0004">calcium/calmodulin‐dependent protein kinase II delta 3</kwd><kwd id="cns13432-kwd-0005">neural progenitor cell</kwd><kwd id="cns13432-kwd-0006">γ‐aminobutyric acid A receptor</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>National Natural Science Foundation of China</funding-source><award-id>81671401</award-id><award-id>81701812</award-id></award-group><award-group id="funding-0002"><funding-source>Wenzhou Public Welfare Science and Technology Project of China</funding-source><award-id>Y20190059</award-id><award-id>Y20140725</award-id></award-group><award-group id="funding-0003"><funding-source>Research Foundation of Zhejiang Chinese Medical University</funding-source><award-id>2018ZR05</award-id></award-group></funding-group><counts><fig-count count="6"/><table-count count="0"/><page-count count="14"/><word-count count="7809"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>October 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.9.2 mode:remove_FC converted:07.10.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="cns13432-cit-1001">
+<string-name name-style="western">
+<surname>Chen</surname>
+<given-names>Z‐C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>T‐T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bian</surname>
+<given-names>W</given-names>
+</string-name>, et al. <article-title>Allopregnanolone restores the tyrosine hydroxylase‐positive neurons and motor performance in a 6‐OHDA‐injected mouse model</article-title>. <source xml:lang="en">CNS Neurosci Ther</source>. <year>2020</year>;<volume>26</volume>:<fpage>1069</fpage>–<lpage>1082</lpage>. <pub-id pub-id-type="doi">10.1111/cns.13432</pub-id>
+<pub-id pub-id-type="pmcid">PMC7539840</pub-id><pub-id pub-id-type="pmid">32602622</pub-id><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="retraction-forward" ext-link-type="pmc" xlink:href="PMC8841292"/></mixed-citation>
+</p><fn-group id="cns13432-ntgp-0001"><fn id="cns13432-note-0001"><p>Chen, Wang and Bian are contributed equally to this work.</p></fn><fn fn-type="funding" id="cns13432-note-0002"><p>Funding information</p><p>National Natural Science Foundation of China (81671401, 81701812), Wenzhou Public Welfare Science and Technology Project of China (Y20190059, Y20140725) and Research Foundation of Zhejiang Chinese Medical University (2018ZR05).</p></fn></fn-group></notes></front><body id="cns13432-body-0001"><sec id="cns13432-sec-0005"><label>1</label><title>INTRODUCTION</title><p>Parkinson's disease (PD) is characterized by the reduction of dopaminergic neurons in the substantia nigra (SN) and the subsequent dopamine depletion in the striatum.<xref rid="cns13432-bib-0001" ref-type="ref">
+<sup>1</sup>
+</xref> The resting tremor, movement slowness, and postural instability have become the most common clinical symptoms of PD.<xref rid="cns13432-bib-0002" ref-type="ref">
+<sup>2</sup>
+</xref>, <xref rid="cns13432-bib-0003" ref-type="ref">
+<sup>3</sup>
+</xref> 6‐hydroxydopamine (6‐OHDA) and 1‐methyl‐4‐phenyl‐1, 2, 3, 6‐tetrahydropyridine (MPTP) are commonly used to develop PD animal models.<xref rid="cns13432-bib-0004" ref-type="ref">
+<sup>4</sup>
+</xref>, <xref rid="cns13432-bib-0005" ref-type="ref">
+<sup>5</sup>
+</xref> Some studies reported that the generation of stem cells in the subventricular zone (SVZ) lining the lateral ventricles (LVs) was inhibited in the rats or mice treated with 6‐OHDA or MPTP.<xref rid="cns13432-bib-0006" ref-type="ref">
+<sup>6</sup>
+</xref>, <xref rid="cns13432-bib-0007" ref-type="ref">
+<sup>7</sup>
+</xref> Another study suggested that the neurodegeneration might result from the disturbance between the neurogenesis and neuronal cell loss.<xref rid="cns13432-bib-0008" ref-type="ref">
+<sup>8</sup>
+</xref> Our previous study found that 6‐OHDA‐treated mice had an incomplete recovery of dopaminergic neurons in SN, suggesting that a potential therapeutic approach to promote the neurogenesis should be developed in PD treatment.<xref rid="cns13432-bib-0009" ref-type="ref">
+<sup>9</sup>
+</xref>, <xref rid="cns13432-bib-0010" ref-type="ref">
+<sup>10</sup>
+</xref>
+</p><p>Allopregnanolone (APα), which is synthesized in the embryonic and adult central nervous system (CNS), as well as in the neural progenitor cells (NPCs), shows a neurodegenerative disease‐associated decline.<xref rid="cns13432-bib-0011" ref-type="ref">
+<sup>11</sup>
+</xref>, <xref rid="cns13432-bib-0012" ref-type="ref">
+<sup>12</sup>
+</xref>, <xref rid="cns13432-bib-0013" ref-type="ref">
+<sup>13</sup>
+</xref> In Alzheimer's disease (AD) mice, some reports have indicated that APα promotes the proliferation of NPCs in the LV‐SVZ, and prevents the reduction of tyrosine hydroxylase (TH)‐expressed neurons in SN pars compacta (SNpc).<xref rid="cns13432-bib-0008" ref-type="ref">
+<sup>8</sup>
+</xref>, <xref rid="cns13432-bib-0010" ref-type="ref">
+<sup>10</sup>
+</xref>, <xref rid="cns13432-bib-0014" ref-type="ref">
+<sup>14</sup>
+</xref>, <xref rid="cns13432-bib-0015" ref-type="ref">
+<sup>15</sup>
+</xref>, <xref rid="cns13432-bib-0016" ref-type="ref">
+<sup>16</sup>
+</xref> In addition, Adeosun et al<xref rid="cns13432-bib-0017" ref-type="ref">
+<sup>17</sup>
+</xref> reported that APα ameliorated the deficits of motor function in MPTP‐injected mice. However, the mechanisms underlying APα‐involved neuroprotective effects remain unknown.</p><p>Accumulated evidences have indicated that APα increases an efflux of chloride through the depolarization of γ‐aminobutyric acid A receptor (GABAAR)‐driven opening of voltage‐gated L‐type Ca<sup>2+</sup> channel (VGLCC), and the elevated Ca<sup>2+</sup> signaling might activate the calcium/calmodulin (CaM)‐dependent protein kinase II (CaMKII) in immature neurons.<xref rid="cns13432-bib-0014" ref-type="ref">
+<sup>14</sup>
+</xref>, <xref rid="cns13432-bib-0018" ref-type="ref">
+<sup>18</sup>
+</xref>, <xref rid="cns13432-bib-0019" ref-type="ref">
+<sup>19</sup>
+</xref> As a multifunctional serine/threonine protein kinase, CaMKII plays an important biological role in a variety of cellular processes.<xref rid="cns13432-bib-0020" ref-type="ref">
+<sup>20</sup>
+</xref> CaMKII subunits including α, β, γ, and δ have been identified, and among them CaMKII delta 3 (CaMKIIδ3) is highly expressed in the dopaminergic neurons of SN.<xref rid="cns13432-bib-0021" ref-type="ref">
+<sup>21</sup>
+</xref> The nuclear CaMKII can regulate the transcription of brain‐derived neurotrophic factor (BDNF), and BDNF, in turn, promotes the neuronal survival and the growth of axon and dendrites.<xref rid="cns13432-bib-0020" ref-type="ref">
+<sup>20</sup>
+</xref>, <xref rid="cns13432-bib-0021" ref-type="ref">
+<sup>21</sup>
+</xref> It is likely that APα‐induced proliferation and differentiation of NPCs might depend on CaMKIIδ3 and BDNF, in which APα might regulate the activity of GABAAR.</p><p>In this study, 6‐OHDA‐treated mice and primary cultured midbrain cells were administrated with APα and/or bicuculline (Bic, a specific blocker of GABAAR) to evaluate the effects of APα and its possible molecular mechanism.</p></sec><sec sec-type="materials-and-methods" id="cns13432-sec-0006"><label>2</label><title>MATERIALS AND METHODS</title><sec id="cns13432-sec-0007"><label>2.1</label><title>Animals</title><p>All experiments should comply with National Institute of Health Guide for Care and Use of Laboratory Animals (NIH Publications No. 8023, revised 1978) and Animal Committee of Wenzhou Medical University. In order to identify SVZ‐derived NPCs and explore their proliferation, <italic toggle="yes">Nestin‐CreER<sup>TM</sup>::ROSA26‐LacZ</italic> mice was used.<xref rid="cns13432-bib-0009" ref-type="ref">
+<sup>9</sup>
+</xref> Tamoxifen (TAM, Sigma; T5648) that was predissolved in the corn oil (15 mg/mL; vehicle solution) can activate <italic toggle="yes">Cre</italic> to excise the transcriptional stop cassette flanked by <italic toggle="yes">LoxP</italic> sites in <italic toggle="yes">ROSA‐LacZ</italic> reporter mice and induce the expression of <italic toggle="yes">LacZ</italic> gene in NPCs. β‐galactosidase (β‐gal) that was encoded by <italic toggle="yes">LacZ</italic> gene could catalyze the hydrolysis of lactose and the hydrolysate showed as blue color by X‐gal staining. Thus, X‐gal‐stained cells were regarded as Nestin‐positive NPCs. <italic toggle="yes">Nestin‐CreER<sup>TM</sup></italic>::<italic toggle="yes">ROSA‐LacZ</italic> mice were intraperitoneally (i.p.) injected with TAM (200 ~ 250 mg/kg/d) or the same amount of vehicle solution for five consecutive days.</p><p>A total of 3‐month‐old adult male <italic toggle="yes">Nestin‐CreER<sup>TM</sup>::ROSA26‐LacZ</italic> mice (n = 48) and wild‐type C57BL/6 (n = 48) were maintained at a 12‐hour light/dark cycle, temperature/humidity‐controlled animal facility with free access to food and water. These mice were randomly assigned to normal saline + DMSO, normal saline + APα, normal saline + Bic, 6‐OHDA + DMSO, 6‐OHDA + APα, and 6‐OHDA + APα+Bic groups. In order to develop PD mouse model, 6‐OHDA (Sigma; H4381) that was predissolved in 0.02% L‐ascorbate normal saline (10.26 μg/μL) was used to obtain the degeneration of dopaminergic neurons. The right side of striatum was stereotaxically given 6‐OHDA by a double point administration in each point having 0.487 μL according to anterior‐posterior (−2.0 and −2.3 mm), medial‐lateral (1.0 and 0.3 mm), and dorsal‐ventral (−3.5 mm) with respect to bregma using a 5‐μl Hamilton syringe. In the previous studies, we found that a single 20 mg/kg of APα injection could significantly alleviate the deficiency of TH‐positive neurons in AD‐transgenic mouse model<xref rid="cns13432-bib-0008" ref-type="ref">
+<sup>8</sup>
+</xref>, <xref rid="cns13432-bib-0010" ref-type="ref">
+<sup>10</sup>
+</xref>; thus in this study, 20 mg/kg of APα (Tocris Bioscience; 3653) was subcutaneously given once on day 7 after 6‐OHDA injection. In order to explore the alteration that APα exerted the neurogenic effects when the function of GABAAR was blocked by Bic, 4 mg/kg of Bic (Tocris Bioscience; 48954) was given (i.p.) to obtain an IC50 of 2 ~ 3 µmol/L at 0.5 hour prior to APα injection.<xref rid="cns13432-bib-0022" ref-type="ref">
+<sup>22</sup>
+</xref>, <xref rid="cns13432-bib-0023" ref-type="ref">
+<sup>23</sup>
+</xref> In order to analyze the cell proliferation, 100 mg/kg of bromodeoxyuridine (BrdU, Sigma; B5002) was (i.p.) injected once daily for four consecutive days at 1 hour prior to 6‐OHDA or APα or Bic or vehicle solution administrations. Mice were sacrificed at 2, 4, and 6 weeks following 6‐OHDA for 6‐OHDA + DMSO or 7, 21, and 35 days following APα or Bic administrations for 6‐OHDA + APα and 6‐OHDA + APα+Bic groups.</p></sec><sec id="cns13432-sec-0008"><label>2.2</label><title>Primary culture of midbrain cells</title><p>The fetuses of pregnant SD rats were obtained on embryonic day 12. The ventral part of midbrain was dissociated into cells and maintained in 500 μL of serum‐free Neurobasal medium/B27 supplement (Gibco Invitrogen; 21103049/17504044) at 37°C and 5% CO2 atmosphere. On the first day in vitro (DIV 1), these midbrain‐derived cells were incubated with the mouse anti‐Nestin antibody (1:400; Cell Signaling Technology; 33475S) to identify the neurospheres. Thereafter, these cells were divided into the control, normal saline + DMSO, normal saline + APα, normal saline + Bic, and 6‐OHDA‐treated groups in combination with either DMSO or 5, 50, 500 nmol/L, and 1 μmol/L concentrations of APα. The cells treated without any chemicals and reagents were used as the control group. Once the most optimal APα concentration was determined, these cells were further divided into 6‐OHDA‐treated group administrated with APα and/or Bic on DIV 3. In 6‐OHDA + APα+Bic group, the cells were pretreated with 30 μmol/L Bic at 30 minutes prior to APα administration and then cultured for 24 hours before 0.1 mmol/L 6‐OHDA was given for 24 hours. In addition, each group of cells was exposed to 10 μmol/L BrdU at 1 hour prior to 6‐OHDA or APα or Bic or vehicle solution treatment.</p></sec><sec id="cns13432-sec-0009"><label>2.3</label><title>Behavioral test</title><p>One day prior to sacrifice, the behavioral tests were performed in sequences with a 30‐minute interval.</p><sec id="cns13432-sec-0010"><label>2.3.1</label><title>Apomorphine‐induced turning behavior</title><p>Mice were injected (i.p.) with apomorphine (Sigma; 41372‐20‐7) at a dose of 0.125 g/L and then placed into a measuring cup to record the circles that the mice rotated toward a non‐6‐OHDA‐injected side within 20 minutes. The apomorphine‐induced turnings were expressed as circles/min.</p></sec><sec id="cns13432-sec-0011"><label>2.3.2</label><title>Open‐field test</title><p>Each mouse was placed at the center of a 25‐square floor (16 × 16 cm/square) in a box and then practiced a 5‐minute session (pretest) for habituation to the new environment. On day 1 following the pretest session, the mice were allowed to explore for 5 minutes, and the total walking distance (mm) and an average walking velocity (mm/s) were recorded within 5 minutes.<xref rid="cns13432-bib-0022" ref-type="ref">
+<sup>22</sup>
+</xref>, <xref rid="cns13432-bib-0023" ref-type="ref">
+<sup>23</sup>
+</xref>
+</p></sec><sec id="cns13432-sec-0012"><label>2.3.3</label><title>Rotarod test</title><p>Mice were successively placed onto a still and moving rod for 2 ~ 3 minutes. The speed of rod was progressively increased to 60 rpm until the mice fell off the rotating rod. The time latency (sec) and the velocity (r/min) of rotating rod were recorded before or when the mice fell off the rotating rod.</p></sec></sec><sec id="cns13432-sec-0013"><label>2.4</label><title>Quantification of APα and dopamine</title><p>In order to determine the effect of exogenous APα on the endogenous APα and dopamine in 6‐OHDA‐injected mice, APα or dopamine concentration in the cerebral cortex or striatum was measured by comparing the optical densities (OD) of samples to the standard curve according to the manufacturer's instruction of ELISA kit (Lab‐bio Biomart). Briefly, fifty microliters of blank control, APα, or dopamine standard and tissue samples was placed into a 96‐well plate that was precoated with the monoclonal anti‐APα or dopamine antibody. Afterward, fifty microliters of biotin‐conjugated polyclonal antibody was added and incubated for 45 minutes at 37°C. Finally, one hundred microliters of avidin‐conjugated horseradish peroxidase (HRP) was added, followed by an incubation with 90 µL chromogen solution for 15 minutes at 37℃. Having added 50 µL stopping solution, the color change was assayed at 450‐nm wave length using a microplate absorbance reader (Elx800, BioTek).</p></sec><sec id="cns13432-sec-0014"><label>2.5</label><title>X‐gal and immunofluorescent staining</title><p>The staining of X‐gal and immunofluorescence was performed, as reported previously with slight modifications.<xref rid="cns13432-bib-0008" ref-type="ref">
+<sup>8</sup>
+</xref>, <xref rid="cns13432-bib-0009" ref-type="ref">
+<sup>9</sup>
+</xref>, <xref rid="cns13432-bib-0010" ref-type="ref">
+<sup>10</sup>
+</xref> Briefly, six sets of sequential coronary sections (40‐μm thickness) were collected. The brain sections were subjected to X‐gal staining solution (Sigma; BG‐3) overnight and then counterstained with 0.1% neutral red (Sigma; N4638) for 1 hour at 37°C. To analyze the proliferation and differentiation of cultured midbrain NPCs, each group of cells was incubated overnight with the rabbit anti‐doublecortin (DCX; 1:400; Cell Signaling Technology; 148025) on DIV 5, or rabbit anti‐β‐tubulin III (1:400; Cell Signaling Technology; 151155) on DIV 7, or guinea pig anti‐neuronal nuclear antigen (NeuN; 1:3000; Merck Millipore; ABN90) on DIV 15, or rabbit anti‐TH antibodies (1:400; Merck Millipore; AB152) on DIV16 alone or in combination with the mouse anti‐BrdU antibody (1:400; Novus; NB500‐169). The cells were then incubated with DyLight594 goat anti‐mouse or DyLight488 goat anti‐rabbit secondary antibody (1:400; Jackson ImmunoResearch) for 1.5 hours at 37°C. Finally, the cells were cover‐slipped with DAPI‐containing mounting medium (Sigma). Negative control was carried out by replacing with normal serum or vehicle solution.</p></sec><sec id="cns13432-sec-0015"><label>2.6</label><title>Immunostaining for TH‐positive fibers</title><p>The brain sections were incubated with the rabbit anti‐TH antibody (1:400; Merck Millipore; AB152) overnight at 4°C and then incubated with the goat anti‐rabbit secondary antibody (1:400; Jackson ImmunoResearch) for 2.5 hours. Finally, TH immunoreactivity was visualized by an incubation of brain sections with 0.05% diaminobenzidine (DAB; Sigma) and 0.01% H2O2 for 5 minutes.</p></sec><sec id="cns13432-sec-0016"><label>2.7</label><title>Real‐time RT‐PCR</title><p>The total RNA was prepared using TRIzol Reagent (Thermo Fisher Scientific), and the relative expressions of CaMKIIδ3, BDNF, and CDC2 mRNAs were quantified using 2‐ΔΔCT method by qPCR Master Mix reagent (Thermo Fisher Scientific). The mRNA expression of each sample was expressed as the percentage of normal saline + DMSO group.</p></sec><sec id="cns13432-sec-0017"><label>2.8</label><title>Western blot</title><p>The cytoplasmic and nuclear fractions were extracted according to the manufacturer's instruction (Beyotime). Briefly, the midbrain (~10 mg) was homogenized by sonication with 50 μL lysis buffer containing phenylmethanesulfonyl fluoride (PMSF) and phosphatase inhibitors. The lysate of brain tissue was centrifuged at 9676.8 <italic toggle="yes">g</italic> for 5 minutes at 4°C. The supernatant was transferred to a prechilled 1.5 mL tube (cytoplasmic protein fraction). Fifty microliters of nuclear extraction buffer was added to the tube loading the precipitation, vibrated vigorously for 30 seconds, and then incubated on ice for 2 minutes. The tube was centrifuged at 11 708.9 <italic toggle="yes">g</italic> for 10 minutes at 4°C, and the supernatant was transferred to a prechilled 1.5 mL tube (nuclear protein fraction).</p><p>Forty micrograms of protein that was isolated from the midbrain was run onto 10% polyacrylamide gel for 1.5 hours at 80 V and then electro‐transferred onto a polyvinylidene fluoride (PVDF) membrane for 1 hour at 320 mA. The nonspecific binding sites were blocked with 5% nonfat milk for 2 hours. The membrane was incubated overnight at 4°C with the following primary antibodies: rabbit anti‐CaMKIIδ3 or p‐CaMKIIδ3 (T286) or CDK1 or p‐CDC2 (T14) (1:1000; Abcam; ab181052; ab171095; ab32384) or BDNF (1:3000; Merck Millipore; MABN79) or mouse anti‐β‐actin (1:2000; Abgent; AM1829b) or rabbit anti‐Histone H3 (1:1000; Abcam; ab791) antibody. The membrane was then incubated with the corresponding HRP‐conjugated goat anti‐rabbit/mouse antibody (1:5000; ZSGBBIO) for 2 hours at room temperature. The immunoreactivity of protein band was detected with an enhanced chemiluminescent (ECL) kit (Beyotime). The protein level was normalized with respect to β‐actin or Histone H3 (a loading control).</p></sec><sec id="cns13432-sec-0018"><label>2.9</label><title>Co‐immunoprecipitation assay</title><p>According to the manufacturer's instruction (Absin), 10% cytoplasmic or nuclear fraction from the midbrain was taken out as an input (positive control). Meanwhile, the remaining extract was coated with 1 ~ 5 μg of rabbit anti‐CaMKIIδ3 or p‐CaMKIIδ3 antibody (Abcam) or IgG (negative control) overnight at 4°C. The extract was then incubated with Protein A and G Sepharose beads (1:1) for 3 hours at 4°C. The magnetic beads were washed thoroughly for 3 times. The input and immunoprecipitation were undertaken by Western blot analysis for CDK1 or BDNF.</p></sec><sec id="cns13432-sec-0019"><label>2.10</label><title>Image acquisition, cell counting, and statistical analysis</title><p>According to the atlas of mouse brain,<xref rid="cns13432-bib-0024" ref-type="ref">
+<sup>24</sup>
+</xref> every sixth brain section was collected. An unbiased stereological estimation was made in TH‐positive neurons and X‐gal‐positive cells from 16 randomly selected frames.<xref rid="cns13432-bib-0009" ref-type="ref">
+<sup>9</sup>
+</xref> In the primarily cultured midbrain cells, the immunopositive cells were counted by randomly selecting five visual fields. In order to measure the OD of striatal TH‐positive fibers, five brain sections were obtained. The immunoreactivity and immunopositive cells were captured under an upright microscope (Olympus) and calculated using ImageJ software (NIH). To identify the colocalization of double‐positive cells, the confocal laser scanning microscope (NIKON A1R) was used to make a 3D (<italic toggle="yes">x‐y, x‐z,</italic> and <italic toggle="yes">y‐z</italic>) reconstruction. Statistical analysis was displayed with Prism 7.04 software (GraphPad Software Inc). All data were presented as mean ± SEM and analyzed by repeated measures of <italic toggle="yes">one‐way</italic> ANOVA or <italic toggle="yes">two‐way</italic> ANOVA followed by Bonferroni post hoc test. The differences were statistically significant when the probability (<italic toggle="yes">P</italic>) value was less than or equal to .05, .01, .001, and .0001.</p></sec></sec><sec sec-type="results" id="cns13432-sec-0020"><label>3</label><title>RESULTS</title><sec id="cns13432-sec-0021"><label>3.1</label><title>APα ameliorated the deficits of balance and coordination in 6‐OHDA‐administrated mice</title><p>The open‐field and rotarod tests, as well as the rotational behavior, which mirrored the abilities of balance and coordination, were conducted. 6‐OHDA‐administrated mice displayed a stronger turning behavior toward a noninjected side in response to the apomorphine, as well as a much worse behavioral performance in the open‐field and rotarod tests, as compared with the pretest, and normal saline + DMSO‐ or normal saline + APα‐ or normal saline + Bic‐treated mice. There was not significantly different among the pretest, normal saline + DMSO‐, normal saline + APα‐, and normal saline + Bic‐treated mice. Moreover, the turning behavior was significantly alleviated at 6 weeks, as compared with that at 2 week following 6‐OHDA injection. APα ameliorated the rotational behavior, and reversed the behavioral deficits of 6‐OHDA‐lesioned mice in the open‐field and rotarod tests. Notably, the rotational circles were much less on day 21 and 35 following APα administration. Importantly, APα‐induced behavioral amelioration was blocked by Bic administration (Figure <xref rid="cns13432-fig-0001" ref-type="fig">1A</xref> ~ E).</p><fig fig-type="Figure" xml:lang="en" id="cns13432-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>(A)~(E), Rotational circles (A), total walking distances (B) and average walking velocity (C) of the open filed test, as well as the time latency (D) and the velocity of rotating rod (E) before or when falling off the rotarod test. Values are mean ± SEM; n = 6~10 at various time points for each group. (F)~(G), Dopamine or APα content in the striatum (F), or cerebral cortex (G). Values are mean ± SEM; n = 2~3 at various time points for each group. **<italic toggle="yes">P ＜ </italic>.01, ***<italic toggle="yes">P ＜ </italic>.001, and ****<italic toggle="yes">P ＜ </italic>.0001, comparison between 6‐OHDA + DMSO and the pretest or normal saline + DMSO or normal saline + APα or normal saline + Bic groups; <sup>#</sup>
+<italic toggle="yes">P ＜ </italic>.05, <sup>##</sup>
+<italic toggle="yes">P ＜ </italic>.01, <sup>###</sup>
+<italic toggle="yes">P ＜ </italic>.001, and <sup>####</sup>
+<italic toggle="yes">P ＜ </italic>.0001, comparison between 6‐OHDA + APα and 6‐OHDA + DMSO groups; <sup>&amp;</sup>
+<italic toggle="yes">P ＜ </italic>.05 and <sup>&amp;&amp;&amp;&amp;</sup>
+<italic toggle="yes">P ＜ </italic>.0001, comparison between 6‐OHDA + APα+Bic and 6‐OHDA + APα groups; <sup>$</sup>
+<italic toggle="yes">P ＜ </italic>.05, <sup>$$</sup>
+<italic toggle="yes">P ＜ </italic>.01, and <sup>$$$$</sup>
+<italic toggle="yes">P ＜ </italic>.0001, comparison between at 2 and 4 or 6 wk following 6‐OHDA injection in the rotational behavior and dopamine or APα content; <sup>^^^^</sup>
+<italic toggle="yes">P ＜ </italic>.0001, comparison between on day 7 and 21 or 35 following APα injection in the rotational behavior or dopamine content using <italic toggle="yes">two‐way</italic> ANOVA followed by Bonferroni post hoc test. NS, no significance</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-3" position="float" orientation="portrait" xlink:href="CNS-26-1069-g001.jpg"/></fig></sec><sec id="cns13432-sec-0022"><label>3.2</label><title>APα reversed the striatal dopamine level in 6‐OHDA‐injected mice</title><p>Since SN dopaminergic neurons projected their axon terminals into the striatum, we examined the striatal dopamine level. There was a significant reduction in the striatal dopamine level of 6‐OHDA + DMSO group, as compared with normal saline + DMSO, normal saline + APα, and normal saline + Bic‐treated groups. There was not significantly different among the normal saline + DMSO‐, normal saline + APα‐, and normal saline + Bic‐treated mice. Moreover, the striatal dopamine level was much higher at 6 weeks than that at 2 weeks following 6‐OHDA injection (<italic toggle="yes">P = </italic>.0041). APα significantly increased the striatal dopamine level of 6‐OHDA + DMSO group, and in particular, there was a striatal dopamine turnover on day 21 and 35 following APα administration (<italic toggle="yes">P = </italic>.0015). It should be noted that these effects were blocked by Bic treatment (Figure <xref rid="cns13432-fig-0001" ref-type="fig">1F</xref>).</p></sec><sec id="cns13432-sec-0023"><label>3.3</label><title>Bic blocked the elevation of APα level in the cerebral cortex of 6‐OHDA‐injected mice</title><p>In the CNS, APα was mainly synthesized in the cerebral cortex of adult mammal animals,<xref rid="cns13432-bib-0008" ref-type="ref">
+<sup>8</sup>
+</xref> so we examined APα concentration in the cerebral cortex. There was a significant reduction in APα content of 6‐OHDA + DMSO group at 2 and 4 weeks following 6‐OHDA injection, as compared with normal saline + DMSO‐, normal saline + APα‐, and normal saline + Bic‐treated groups. When the exogenous APα was injected to 6‐OHDA‐treated mice, an increase in APα content occurred on day 7 and 21 following APα injection (<italic toggle="yes">P = </italic>.0063), and this change was blocked again by Bic treatment. However, there did not exist a significant difference among groups at 6 weeks following 6‐OHDA injection (Figure <xref rid="cns13432-fig-0001" ref-type="fig">1G</xref>).</p></sec><sec id="cns13432-sec-0024"><label>3.4</label><title>Administered APα protected the nigrostriatal system against 6‐OHDA lesion</title><p>6‐OHDA was stereotaxically injected into the striatum to induce the lesion of nigrostriatal system. The dopaminergic neurons and their fibers were immunostained with anti‐TH (rate‐limiting enzyme for dopamine biosynthesis) antibody.<xref rid="cns13432-bib-0025" ref-type="ref">
+<sup>25</sup>
+</xref> TH‐positive neurons in the SN exhibited green immunofluorescence in the perikarya and proximal dendrites (Figure <xref rid="cns13432-fig-0002" ref-type="fig">2A</xref> ~ F), and TH‐positive fibers in the striatum displayed brown reaction products (Figure <xref rid="cns13432-fig-0002" ref-type="fig">2G</xref> ~ L).</p><fig fig-type="Figure" xml:lang="en" id="cns13432-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>(A)~(F), TH‐immunofluorescent stained positive neurons were observed in the SNpc of normal saline + DMSO (A), normal saline + APα (B), normal saline + Bic (C), 6‐OHDA + DMSO (D), 6‐OHDA + APα (E), and 6‐OHDA + APα+Bic (F). (G)~(L), DAB‐stained TH‐positive fibers were observed in the striatum of normal saline + DMSO (G), normal saline + APα (H), normal saline + Bic (I), 6‐OHDA + DMSO (J), 6‐OHDA + APα (K), and 6‐OHDA + APα+Bic (L). SNpc, pars compacta of substantia nigra; VTA, ventral tegmental area; CPu, striatum. Scale bar = 200 μm for images (A)~(L). (M) and (N), Absolute number of TH‐positive neurons in the SNpc (M) and the OD of TH‐positive fibers in the striatum (N) at 2, 4, and 6 wk following 6‐OHDA injection. Values are mean ± SEM; n = 3 at various time points for each group. ****<italic toggle="yes">P ＜ </italic>.0001, comparison between 6‐OHDA + DMSO and normal saline + DMSO or normal saline + APα or normal saline + Bic groups; <sup>##</sup>
+<italic toggle="yes">P ＜ </italic>.01, <sup>###</sup>
+<italic toggle="yes">P ＜ </italic>.001, and <sup>####</sup>
+<italic toggle="yes">P ＜ </italic>.0001, comparison between 6‐OHDA + APα and 6‐OHDA + DMSO groups; <sup>&amp;&amp;</sup>
+<italic toggle="yes">P ＜ </italic>.01, <sup>&amp;&amp;&amp;</sup>
+<italic toggle="yes">P ＜ </italic>.001, and <sup>&amp;&amp;&amp;&amp;</sup>
+<italic toggle="yes">P ＜ </italic>.0001, comparison between 6‐OHDA + APα+Bic and 6‐OHDA + APα groups; <sup>$</sup>
+<italic toggle="yes">P ＜ </italic>.05, comparison between at 2 and 6 wk following 6‐OHDA injection in the striatal TH‐positive fibers; <sup>^^</sup>
+<italic toggle="yes">P ＜ </italic>.01 and <sup>^^^^</sup>
+<italic toggle="yes">P ＜ </italic>.0001, comparison between on day 7 and 21 or 35 following APα injection in SNpc TH‐positive neurons using <italic toggle="yes">Two‐way</italic> ANOVA followed by Bonferroni post hoc test. NS, no significance</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-5" position="float" orientation="portrait" xlink:href="CNS-26-1069-g002.jpg"/></fig><p>The mice treated with 6‐OHDA had an approximate 71.9%, 58.9%, and 58.05% loss in SNpc TH‐positive neurons, as well as 70.50%, 65.50%, and 57.53% reduction in striatal TH‐positive fibers at 2, 4, and 6 weeks following 6‐OHDA injection, as compared with normal saline + DMSO. There was not significantly different among the normal saline + DMSO‐, normal saline + APα‐, and normal saline + Bic‐treated mice. Moreover, a slight recovery in TH‐positive axon terminals began at 6 weeks following 6‐OHDA injection (<italic toggle="yes">P = </italic>.0208). APα significantly augmented the number of SNpc TH‐positive neurons and OD of their striatal fibers of 6‐OHDA + DMSO group, and in particular, there was a significant increase in TH‐positive neurons on day 21 and 35 following APα administration (<italic toggle="yes">P = </italic>.0163, <italic toggle="yes">P = </italic>.0021). In addition, Bic significantly reduced SNpc TH‐positive neurons and striatal TH immunoreactivity after APα treatment (Figure <xref rid="cns13432-fig-0002" ref-type="fig">2M</xref> ~ N).</p></sec><sec id="cns13432-sec-0025"><label>3.5</label><title>APα administration further increased the number of Nestin‐positive NPCs in 6‐OHDA‐injected mice</title><p>Our findings showed that X‐gal‐labeled Nestin‐positive NPCs with blue products were prevalent in the SVZ of LV (LV‐SVZ), third ventricle (3V‐SVZ), and cerebral aqueduct (Aq‐SVZ) (Figure <xref rid="cns13432-fig-0003" ref-type="fig">3A</xref> ~ C). Relative to normal saline + DMSO group, the ratio of NPCs at 2, 4, and 6 weeks following 6‐OHDA injection was 391.67%, 553.85%, and 156.25% in LV‐SVZ, 298.46%, 800.00%, and 106.25% in 3V‐SVZ, as well as 122.32%, 687.50%, and 286.67% in Aq‐SVZ, respectively. Thus, a peak increase in Nestin‐positive NPCs of these SVZ occurred at 4 weeks following 6‐OHDA injection. There was not significantly different among the normal saline + DMSO‐, normal saline + APα‐, and normal saline + Bic‐treated mice. APα further increased the number of Nestin‐positive NPCs in these SVZ, particularly at 4 weeks following 6‐OHDA injection. In addition, Bic partly abolished APα‐induced increase in NPCs of SVZ (Figure <xref rid="cns13432-fig-0003" ref-type="fig">3D</xref> ~ F).</p><fig fig-type="Figure" xml:lang="en" id="cns13432-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>(A)~(C), The blue color of X‐gal‐labeled Nestin‐positive NPCs indicated with black arrows were mainly located in the SVZ of LV (A), 3V (B), and Aq (C). LV, lateral ventricle; 3V, the third ventricle; Aq, cerebral aqueduct. Scale bar = 200 μm for images (A)~(C). (D)~(F), Quantification of the ratio of X‐gal‐labeled Nestin‐positive NPCs relative to normal saline + DMSO group in the SVZ of LV (D), 3V (E), and Aq (F) at 2, 4, and 6 wk following 6‐OHDA injection among groups. Values are mean ± SEM; n = 3 at various time points for each group. ****<italic toggle="yes">P ＜ </italic>.0001, comparison between 6‐OHDA + DMSO and normal saline + DMSO or normal saline + APα or normal saline + Bic groups; <sup>##</sup>
+<italic toggle="yes">P ＜ </italic>.01, <sup>###</sup>
+<italic toggle="yes">P ＜ </italic>.001, and <sup>####</sup>
+<italic toggle="yes">P ＜ </italic>.0001, comparison between 6‐OHDA + APα and 6‐OHDA + DMSO groups; <sup>&amp;&amp;</sup>
+<italic toggle="yes">P ＜ </italic>.01, <sup>&amp;&amp;&amp;</sup>
+<italic toggle="yes">P ＜ </italic>.001, and <sup>&amp;&amp;&amp;&amp;</sup>
+<italic toggle="yes">P ＜ </italic>.0001, comparison between 6‐OHDA + APα+Bic and 6‐OHDA + APα groups; <sup>$$$$</sup>
+<italic toggle="yes">P ＜ </italic>.0001, comparison between at 4 and 2 or 6 wk following 6‐OHDA injection; <sup>^^^^</sup>
+<italic toggle="yes">P ＜ </italic>.0001, comparison between on day 21 and 7 or 35 following APα administration using <italic toggle="yes">two‐way</italic> ANOVA followed by Bonferroni post hoc test. NS, no significance</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-7" position="float" orientation="portrait" xlink:href="CNS-26-1069-g003.jpg"/></fig></sec><sec id="cns13432-sec-0026"><label>3.6</label><title>APα administration promoted the proliferation and differentiation of 6‐OHDA‐treated midbrain‐derived NPCs</title><p>To explore the effects of APα on the NPCs of midbrain, the embryonic midbrain‐derived cells were cultured. A majority of cultured midbrain cells could form neurospheres on DIV 1 (Figure <xref rid="cns13432-fig-0004" ref-type="fig">4A</xref>). After these cells were exposed to BrdU for 48 hours, BrdU‐positive cells exhibited a medium‐sized round or oval nucleus, which resembled a chromatin‐like structure (Figure <xref rid="cns13432-fig-0004" ref-type="fig">4B</xref> ~ E). BrdU‐labeled newborn midbrain‐derived cells were dramatically decreased in 6‐OHDA‐treated group, as compared with the control group, normal saline + DMSO, normal saline + APα, and normal saline + Bic groups. A series of concentrations of APα (5 nmol/L ~ 1 μmol/L) significantly increased the number of newborn midbrain‐derived cells. Moreover, 500 nmol/L APα was selected as the most optimal APα concentration in promoting the proliferation of these newborn midbrain‐derived cells (data not shown).</p><fig fig-type="Figure" xml:lang="en" id="cns13432-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>(A)~(E), Neural stem cells (A), immature NPCs (B), developing neurons (C), mature neurons (D) and dopaminergic neurons (E) were detected using anti‐Nestin, DCX, β‐tubulin III, NeuN, and TH antibodies on DIV 1, 5, 7, 15, and 16, respectively. A representative image of DCX, β‐tubulin III, NeuN and TH‐positive cells (green color), and BrdU‐positive cells (red color) was shown to verify their colocalization in three planes (<italic toggle="yes">x</italic>, <italic toggle="yes">y</italic>, and <italic toggle="yes">z</italic>) by confocal laser scanning microscope. Scale bar = 200, 50, and 100 μm for images (A), (B) and (C)~(E). (F)~(I), The number of DCX, BrdU or DCX/BrdU (F), β‐tubulin III, BrdU or β‐tubulin III/BrdU (G), NeuN, BrdU or NeuN/BrdU (H), and TH, BrdU or TH/BrdU‐positive cells (I) was calculated per field among different groups. Values are mean ± SEM; n = 3 at various time points for each group. **<italic toggle="yes">P ＜ </italic>.01, ***<italic toggle="yes">P ＜ </italic>.001, and ****<italic toggle="yes">P ＜ </italic>.0001, comparison between 6‐OHDA + DMSO and control group or normal saline + DMSO or normal saline + 500 nmol/L APα or normal saline + Bic groups; <sup>#</sup>
+<italic toggle="yes">P ＜ </italic>.05, <sup>##</sup>
+<italic toggle="yes">P ＜ </italic>.01, <sup>###</sup>
+<italic toggle="yes">P ＜ </italic>.001, and <sup>####</sup>
+<italic toggle="yes">P ＜ </italic>.0001, comparison between 6‐OHDA + 500 nmol/L APα and 6‐OHDA + DMSO groups; <sup>&amp;</sup>
+<italic toggle="yes">P ＜ </italic>.05, <sup>&amp;&amp;</sup>
+<italic toggle="yes">P ＜ </italic>.01, and <sup>&amp;&amp;&amp;&amp;</sup>
+<italic toggle="yes">P ＜ </italic>.0001, comparison between 6‐OHDA + 500 nmol/L APα + Bic and 6‐OHDA + 500 nmol/L APα groups by repeated measures of <italic toggle="yes">one‐way</italic> ANOVA followed by Bonferroni post hoc test. NS, no significance</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-9" position="float" orientation="portrait" xlink:href="CNS-26-1069-g004.jpg"/></fig><p>To further investigate the differentiation of midbrain‐derived BrdU‐positive newborn cells, we performed a double immunofluorescence staining. DCX‐positive immature NPCs exhibited a clustermorphology, β‐tubulin III‐positive cells showed a prominent nucleus and neurite extension, NeuN was localized within the nuclear fraction, and TH was mainly present in the cytoplasm (Figure <xref rid="cns13432-fig-0004" ref-type="fig">4B</xref> ~ E). After an incubation with BrdU for 48 hours, BrdU‐positive cells were coexpressed with DCX (43.8831 ± 4.5595%) on DIV 5, β‐tubulin III (49.1615 ± 2.4661%) on DIV 7, NeuN (1.8316 ± 0.8350%) on DIV 15, and TH (2.5895 ± 0.0570%) on DIV 16 in the control group. 6‐OHDA significantly caused a decrease in the number of DCX and DCX/BrdU, β‐tubulin III and β‐tubulin III/BrdU, NeuN and NeuN/BrdU, and TH and TH/BrdU‐positive cells. The most optimal concentration (500 nmol/L) of APα significantly increased these positive cells of 6‐OHDA + DMSO group. In addition, Bic significantly decreased these double‐positive cells of 6‐OHDA + 500 nmol/L APα group (Figure <xref rid="cns13432-fig-0004" ref-type="fig">4F</xref> ~ I).</p></sec><sec id="cns13432-sec-0027"><label>3.7</label><title>APα treatment increased the phosphorylation of cytoplasmic CaMKIIδ3 and its nuclear translocation in 6‐OHDA‐lesioned mice</title><p>Since APα could open VGLCC in immature neurons,<xref rid="cns13432-bib-0008" ref-type="ref">
+<sup>8</sup>
+</xref>, <xref rid="cns13432-bib-0016" ref-type="ref">
+<sup>16</sup>
+</xref> we speculated that it might regulate the expression levels of Ca<sup>2+</sup>/CaM‐dependent protein kinases. Our morphological results demonstrated that CaMKIIδ3 was located in the multiple brain areas including the cerebral cortex, hippocampal dentate gyrus, SN, ventral tegmental area, LV‐, 3V‐, and Aq‐SVZ, and their surrounding regions (data not shown).</p><p>The relative expression levels of CaMKIIδ3 mRNA in the midbrain were much lower in 6‐OHDA + DMSO group than those in the normal saline + APα‐ or normal saline + Bic‐treated mice at 2 and 6 weeks following 6‐OHDA treatment. There was not significantly different among the normal saline + DMSO‐, normal saline + APα‐, and normal saline + Bic‐treated mice at 2 and 4 weeks following 6‐OHDA administration. As compared with 6‐OHDA + DMSO group, the relative expression levels of CaMKIIδ3 mRNA were significantly elevated after APα administration, and they were the highest on day 35 following APα administration. These effects were blocked by Bic treatment (Figure <xref rid="cns13432-fig-0005" ref-type="fig">5B</xref>).</p><fig fig-type="Figure" xml:lang="en" id="cns13432-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>(A), Representative protein bands for CaMKIIδ3 (55 kD) and p‐CaMKIIδ3 (80 kD) expression levels were shown in the cytoplasmic and nuclear fractions of midbrain. Lane 1 ~ 6: normal saline + DMSO, normal saline + APα, normal saline + Bic, 6‐OHDA + DMSO, 6‐OHDA + APα, and 6‐OHDA + APα+Bic groups at 2, 4, and 6 wk following 6‐OHDA injection; β‐actin (43 kD) or Histone H3 (17 kD): loading control. (B) and (C)~(F), Relative expression levels for CaMKIIδ3 mRNAs or CaMKIIδ3 and p‐CaMKIIδ3 proteins in the cytoplasmic and nuclear fractions of midbrain among groups. Values are mean ± SEM; n = 3 at various time points for each group. *<italic toggle="yes">P ＜ </italic>.05, **<italic toggle="yes">P ＜ </italic>.01, ***<italic toggle="yes">P ＜ </italic>.001, and ****<italic toggle="yes">P ＜ </italic>.0001, comparison between 6‐OHDA + DMSO and normal saline + DMSO or normal saline + APα or normal saline + Bic groups; <sup>#</sup>
+<italic toggle="yes">P ＜ </italic>.05, <sup>##</sup>
+<italic toggle="yes">P ＜ </italic>.01, <sup>###</sup>
+<italic toggle="yes">P ＜ </italic>.001, and <sup>####</sup>
+<italic toggle="yes">P ＜ </italic>.0001, comparison between 6‐OHDA + APα and 6‐OHDA + DMSO groups; <sup>&amp;</sup>
+<italic toggle="yes">P ＜ </italic>.05, <sup>&amp;&amp;</sup>
+<italic toggle="yes">P ＜ </italic>.01, and <sup>&amp;&amp;&amp;&amp;</sup>
+<italic toggle="yes">P ＜ </italic>.0001, comparison between 6‐OHDA + APα+Bic and 6‐OHDA + APα groups; <sup>%</sup>
+<italic toggle="yes">P ＜ </italic>.05, comparison of CaMKIIδ3 mRNAs between normal saline + DMSO and normal saline + APα at 6 wk following 6‐OHDA injection; <sup>$</sup>
+<italic toggle="yes">p＜</italic>0.05, comparison of p‐CaMKIIδ3 expression levels between at 2 and 6 wk following 6‐OHDA injection in the cytoplasmic fraction of midbrain; <sup>^</sup>
+<italic toggle="yes">P ＜ </italic>.05, <sup>^^^</sup>
+<italic toggle="yes">P ＜ </italic>.001, and <sup>^^^^</sup>
+<italic toggle="yes">P ＜ </italic>.0001, comparison of CaMKIIδ3 mRNA or p‐CaMKIIδ3 protein expression levels between on day 7 or 21 and 35, as well as on day 7 and 21 or 35 following APα injection using <italic toggle="yes">two‐way</italic> ANOVA followed by Bonferroni post hoc test. NS, no significance</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-11" position="float" orientation="portrait" xlink:href="CNS-26-1069-g005.jpg"/></fig><p>The effect of APα on total CaMKIIδ3 or p‐CaMKIIδ3 expression levels was further validated by Western blot assay (Figure <xref rid="cns13432-fig-0005" ref-type="fig">5A</xref>). The total CaMKIIδ3 or p‐CaMKIIδ3 expression levels in the midbrain were significantly decreased after 6‐OHDA treatment, as compared with normal saline + DMSO or normal saline + APα or normal saline + Bic groups. There was not significantly different among the normal saline + DMSO‐, normal saline + APα‐, and normal saline + Bic‐treated mice. Nevertheless, p‐CaMKIIδ3 expression levels were much higher in the cytoplasmic fraction of midbrain at 6 weeks than those at 2 and 4 weeks following 6‐OHDA injection. APα significantly increased the total CaMKIIδ3 or p‐CaMKIIδ3 expression levels on day 7 and 14 or 35 following APα administration, in particular, p‐CaMKIIδ3 expression levels were much higher in the cytoplasmic fraction of midbrain on day 21 and 35 than those on day 7 following APα administration. In addition, Bic significantly reduced the total CaMKIIδ3 or p‐CaMKIIδ3 expression levels on day 7 or 21 or 35 following APα administration (Figure <xref rid="cns13432-fig-0005" ref-type="fig">5C</xref> ~ F). Interestingly, our results showed that APα‐induced a ratio of p‐CaMKIIδ3/totalCaMKIIδ3 expression levels in the nuclear fraction was approximately 2.14‐fold higher than that in the cytoplasmic fraction of midbrain.</p></sec><sec id="cns13432-sec-0028"><label>3.8</label><title>APα treatment increased the expression levels of BDNF, CDK1, CDC2 or p‐CDC2 in the mRNAs or proteins of 6‐OHDA‐lesioned mice</title><p>The neurogenic action of APα predicted that it could regulate the neurotrophic factors and cell cycle proteins, so we examined the expression levels of BDNF and nuclear cyclin‐dependent kinase‐1 (CDK1) or cell division cycle protein 2 homolog (CDC2). Like CaMKIIδ3 mRNA expression levels, the relative expression levels of BDNF and CDC2 mRNAs in the midbrain were much lower in 6‐OHDA + DMSO group than those in normal saline + DMSO or normal saline + APα and normal saline + Bic groups at 2 and 4 weeks following 6‐OHDA treatment. There was not significantly different among the normal saline + DMSO‐, normal saline + APα‐, and normal saline + Bic‐treated mice. APα administration resulted in a significant upregulation, which was reversed by Bic administration (Figure <xref rid="cns13432-fig-0006" ref-type="fig">6A‐B</xref>). Western blot assay indicated that the protein expression levels of BDNF, CDK1, and p‐CDC2 had an entire consistence with their mRNAs expression levels at 2 or 4 or 6 weeks following 6‐OHDA treatment (Figure <xref rid="cns13432-fig-0006" ref-type="fig">6C,D</xref> ~ F).</p><fig fig-type="Figure" xml:lang="en" id="cns13432-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>(A) and (B), Relative level for BDNF (A) and CDC2 (B) mRNAs in the midbrain. (C) Representative protein bands for BDNF (28 kD), CDK1 (34 kD), and p‐CDC2 (34 kD) expression levels were shown in the midbrain. Lane 1 ~ 6: normal saline + DMSO, normal saline + APα, normal saline + Bic, 6‐OHDA + DMSO, 6‐OHDA + APα, and 6‐OHDA + APα+Bic groups at 2, 4, and 6 wk following 6‐OHDA injection; Histone H3 (17 kD): loading control. (D)~(F), BDNF (D), CDK1 (E), and p‐CDC2 (F) protein expression levels in the midbrain. Values are mean ± SEM; n = 3 at various time points for each group. *<italic toggle="yes">P ＜ </italic>.05, **<italic toggle="yes">P ＜ </italic>.01, ***<italic toggle="yes">P ＜ </italic>.001, and ****<italic toggle="yes">P ＜ </italic>.0001, comparison between 6‐OHDA + DMSO and normal saline + DMSO or normal saline + APα or normal saline + Bic groups; <sup>#</sup>
+<italic toggle="yes">P ＜ </italic>.05, <sup>##</sup>
+<italic toggle="yes">P ＜ </italic>.01, <sup>###</sup>
+<italic toggle="yes">P ＜ </italic>.001, and <sup>####</sup>
+<italic toggle="yes">P ＜ </italic>.0001, comparison between 6‐OHDA + APα and 6‐OHDA + DMSO groups; <sup>&amp;</sup>
+<italic toggle="yes">P ＜ </italic>.05, <sup>&amp;&amp;</sup>
+<italic toggle="yes">P ＜ </italic>.01, <sup>&amp;&amp;&amp;</sup>
+<italic toggle="yes">P ＜ </italic>.001, and <sup>&amp;&amp;&amp;&amp;</sup>
+<italic toggle="yes">P ＜ </italic>.0001, comparison between 6‐OHDA + APα+Bic and 6‐OHDA + APα groups using <italic toggle="yes">two‐way</italic> ANOVA followed by Bonferroni post hoc test. NS, no significance. (G) and (H), Co‐immunoprecipitation assay of total CaMKIIδ3/p‐CaMKIIδ and BDNF (G), as well as total CaMKIIδ3/p‐CaMKIIδ and CDK1 (H) interactions. Input: positive control; IgG: negative control; C: cytoplasmic fraction; N: nuclear fraction; IP: immunoprecipitation; IB: immunoblot; β‐actin (43 kD) or Histone H3 (17 kD): loading control</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-13" position="float" orientation="portrait" xlink:href="CNS-26-1069-g006.jpg"/></fig></sec><sec id="cns13432-sec-0029"><label>3.9</label><title>Co‐immunoprecipitation assay determined the interactions of CaMKIIδ3 or p‐CaMKIIδ3 and BDNF or CDK1</title><p>To determine the interaction of total CaMKIIδ3 or p‐CaMKIIδ3 with CDK1 or BDNF, co‐immunoprecipitation was performed. Our results demonstrated that a small fraction of CDK1 and BDNF were also present in the cytoplasmic fraction, although they were mainly located in the nuclear fraction of midbrain. Co‐immunoprecipitation assay revealed that total CaMKIIδ3and p‐CaMKIIδ3 predominantly bound to BDNF or CDK1 in the nuclear fraction of midbrain (Figure <xref rid="cns13432-fig-0006" ref-type="fig">6G</xref>‐H).</p></sec></sec><sec sec-type="discussion" id="cns13432-sec-0030"><label>4</label><title>DISCUSSION</title><p>Our current results indicated that 6‐OHDA‐induced reduction in TH‐positive fibers and the dopamine level terminally led to a massive loss of TH‐positive neurons, which was consistent with the previous reports.<xref rid="cns13432-bib-0026" ref-type="ref">
+<sup>26</sup>
+</xref>, <xref rid="cns13432-bib-0027" ref-type="ref">
+<sup>27</sup>
+</xref> Nevertheless, we also noticed there was a partial recovery at 6 weeks following 6‐OHDA injection including the striatal dopamine level or TH‐positive axon terminals, which seemed to be related to a substantial increase in X‐gal‐labeled Nestin‐positive NPCs at 4 weeks following 6‐OHDA injection by a postlesion compensatory mechanism. Although the neuronal death or degeneration could induce a modest increase in NPCs division or their neurogenesis,<xref rid="cns13432-bib-0028" ref-type="ref">
+<sup>28</sup>
+</xref>, <xref rid="cns13432-bib-0029" ref-type="ref">
+<sup>29</sup>
+</xref> their proliferation and differentiation could not keep up with the degenerative processes in an unfavorable microenvironment.<xref rid="cns13432-bib-0030" ref-type="ref">
+<sup>30</sup>
+</xref>
+</p><p>In the aged and AD brains, a previous research has shown that there was a significant decrease in APα content, which was associated with a decrease in SNpc TH‐positive neurons.<xref rid="cns13432-bib-0010" ref-type="ref">
+<sup>10</sup>
+</xref>, <xref rid="cns13432-bib-0031" ref-type="ref">
+<sup>31</sup>
+</xref> Our current research further proved that APα treatment partly recovered the APα and dopamine levels in PD mice, which terminately protected the nigrostriatal TH‐positive neurons against 6‐OHDA lesion. Some studies indicated that APα regulated the neurogenesis of SVZ‐NPCs by binding to GABAAR and then opening L‐type Ca<sup>2+</sup> channel.<xref rid="cns13432-bib-0014" ref-type="ref">
+<sup>14</sup>
+</xref>, <xref rid="cns13432-bib-0032" ref-type="ref">
+<sup>32</sup>
+</xref>, <xref rid="cns13432-bib-0033" ref-type="ref">
+<sup>33</sup>
+</xref> Once APα site within GABAAR was blocked by Bic, APα‐induced amelioration was abolished not only in SN‐striatal TH‐positive neurons but also in the proliferation and differentiation of newborn midbrain‐derived NPCs; however, Bic alone could not significantly decrease these indicators, suggesting that APα required GABAAR to promote the neurogenesis of NPCs.</p><p>GABAAR was a ligand‐gated chloride channel including a variety of subunits, and our results indicated that APα administration could significantly alleviate the expression levels of GABAAR α4 subunit in the membrane protein fraction of midbrain at 2 and 4 weeks following 6‐OHDA injection (<italic toggle="yes">P</italic> = .0244, <italic toggle="yes">P</italic> = .0022), which was significantly reversed on day 21 after pretreatment with Bic (<italic toggle="yes">P</italic> = .0447) (data not shown), but it did not suggest whether GABAARs was in a validated functional state. However, some studies reported that APa could induce a significant alteration in GABAAR expression levels by activating many GABAAR subtypes including GABAAα1 and GABAARβ2 in promoting the proliferation of NPCs, neuronal migration, synaptogenesis, and hippocampal neurogenesis.<xref rid="cns13432-bib-0014" ref-type="ref">
+<sup>14</sup>
+</xref>, <xref rid="cns13432-bib-0015" ref-type="ref">
+<sup>15</sup>
+</xref>, <xref rid="cns13432-bib-0018" ref-type="ref">
+<sup>18</sup>
+</xref>
+</p><p>In the adult hippocampal neurogenesis, APα binding to GABAAR‐induced rise in the cytoplasmic Ca<sup>2+</sup> concentration was often followed by the activation of gene transcription and intracellular cascades.<xref rid="cns13432-bib-0014" ref-type="ref">
+<sup>14</sup>
+</xref>, <xref rid="cns13432-bib-0018" ref-type="ref">
+<sup>18</sup>
+</xref>, <xref rid="cns13432-bib-0032" ref-type="ref">
+<sup>32</sup>
+</xref> Some studies reported that the cytoplasmic Ca<sup>2+</sup>/CaM activated and promoted the phosphorylation of CaMKII and its nuclear translocation, leading to the expressions of transcription factors and BDNF, which, in turn, promoted the neurite extension in 6‐OHDA‐lesioned dopaminergic neurons.<xref rid="cns13432-bib-0034" ref-type="ref">
+<sup>34</sup>
+</xref>, <xref rid="cns13432-bib-0035" ref-type="ref">
+<sup>35</sup>
+</xref> In CaMKII isoforms, our results indicated that CaMKIIδ3 was mainly located in the regions where NPCs were abundant except for SN and the striatum.<xref rid="cns13432-bib-0021" ref-type="ref">
+<sup>21</sup>
+</xref> As compared with the cytoplasmic fraction, APα could induce a higher ratio of p‐CaMKIIδ3/total CaMKIIδ3 in the nuclear fraction, indicating APα treatment enhanced the phosphorylation of cytoplasmic CaMKIIδ3 and its nuclear translocation in 6‐OHDA‐lesioned mice, which was in accordance with a previous report.<xref rid="cns13432-bib-0036" ref-type="ref">
+<sup>36</sup>
+</xref> However, a conflicting study indicated that p‐CaMKIIδ3 was dephosphorylated and then easily translocated into the nuclear fraction after the dopamine receptor was activated.<xref rid="cns13432-bib-0035" ref-type="ref">
+<sup>35</sup>
+</xref> This discrepancy might result from the idea that the assembly of CaMKII isoforms likely affected its activation and nuclear translocation.<xref rid="cns13432-bib-0037" ref-type="ref">
+<sup>37</sup>
+</xref>
+</p><p>Mohapel et al<xref rid="cns13432-bib-0038" ref-type="ref">
+<sup>38</sup>
+</xref> found that BDNF increased the number of newly formed cells in the striatum and SN of adult rats with a unilateral SN 6‐OHDA lesion. In the course of APα‐induced SVZ neurogenesis, BDNF phosphorylation was also elevated.<xref rid="cns13432-bib-0011" ref-type="ref">
+<sup>11</sup>
+</xref> In addition, APα could significantly upregulate the expression of proliferating cell nuclear antigen, cyclins, and CDKs.<xref rid="cns13432-bib-0039" ref-type="ref">
+<sup>39</sup>
+</xref>, <xref rid="cns13432-bib-0040" ref-type="ref">
+<sup>40</sup>
+</xref> Our studies demonstrated that APα increased CaMKIIδ3, BDNF, and CDC2 expression levels of 6‐OHDA‐lesioned mice via GABAAR by transcriptional and translational mechanisms. In addition, we also found that p‐CaMKIIδ3 or total CaMKIIδ3 had an interaction with CDK1 or BDNF, indicating that APα‐induced increase in the phosphorylation of cytoplasmic CaMKIIδ3 and its nuclear translocation further promoted their interactions with the cell cycle protein and BDNF, which, in turn, further increased these proteins expression levels.</p><p>Some studies and our previous results indicated that a small amount of SNpc newly generated TH‐positive neurons might be involved in the regeneration process of 6‐OHDA‐lesioned dopaminergic neurons.<xref rid="cns13432-bib-0009" ref-type="ref">
+<sup>9</sup>
+</xref>, <xref rid="cns13432-bib-0041" ref-type="ref">
+<sup>41</sup>
+</xref>, <xref rid="cns13432-bib-0042" ref-type="ref">
+<sup>42</sup>
+</xref>, <xref rid="cns13432-bib-0043" ref-type="ref">
+<sup>43</sup>
+</xref>, <xref rid="cns13432-bib-0044" ref-type="ref">
+<sup>44</sup>
+</xref> Our current results from the primarily cultured midbrain cells indicated that 6‐OHDA treatment could inhibit the acquisition of neuronal identities and reduce the newly generated midbrain‐derived NPCs differentiation toward mature neurons, which was not in line with Nestin‐positive NPCs in vivo study because a local unfavorable microenvironment could upregulate the number of Nestin‐positive NPCs with the absence of dopaminergic inputs.<xref rid="cns13432-bib-0009" ref-type="ref">
+<sup>9</sup>
+</xref> In addition, APα induced an extremely rare increase in the newborn dopaminergic neurons, which further supported that the newly formed NPCs and their differentiation contributed a small fraction to APα‐promoted regeneration process following 6‐OHDA lesion, indicating that the newborn mature neurons were formed after a strong selection of NPCs.<xref rid="cns13432-bib-0044" ref-type="ref">
+<sup>44</sup>
+</xref>, <xref rid="cns13432-bib-0045" ref-type="ref">
+<sup>45</sup>
+</xref>
+</p><p>Some documents reported that APα increased the function of surviving dopaminergic neurons in a neighboring area to compensate the dysfunction from the lesioned neurons, which, in turn, enhanced the behavioral performance.<xref rid="cns13432-bib-0014" ref-type="ref">
+<sup>14</sup>
+</xref>, <xref rid="cns13432-bib-0015" ref-type="ref">
+<sup>15</sup>
+</xref>, <xref rid="cns13432-bib-0016" ref-type="ref">
+<sup>16</sup>
+</xref>, <xref rid="cns13432-bib-0046" ref-type="ref">
+<sup>46</sup>
+</xref> Other studies indicated that APα reinstated TH‐positive neurons and their fibers, as well as the motor symptoms in MPTP‐lesioned mice.<xref rid="cns13432-bib-0008" ref-type="ref">
+<sup>8</sup>
+</xref>, <xref rid="cns13432-bib-0017" ref-type="ref">
+<sup>17</sup>
+</xref>, <xref rid="cns13432-bib-0019" ref-type="ref">
+<sup>19</sup>
+</xref> Although there was a partial recovery in the turning behavior at 6 weeks following 6‐OHDA injection except for p‐CaMKIIδ3 expression, our results indicated that APα treatment could further improve the motor performance in PD mice, accompanying with a significant increase in TH‐positive neurons and their fibers or dopamine levels, as well as the number of NPCs. However, the detail mechanisms underlying APα‐ameliorated behavioral performance in 6‐OHDA‐lesioned mice need to be further elucidated.</p><p>In conclusion, a vital contribution of the presented work is that APα/GABAAR/CaMKIIδ3 might be an alternative molecular and cellular mechanism that underlies APα‐treated PD.</p></sec><sec sec-type="COI-statement" id="cns13432-sec-0032"><title>CONFLICT OF INTERESTS</title><p>The authors declare no conflict of interest.</p></sec></body><back><ack id="cns13432-sec-0031"><title>ACKNOWLEDGMENTS</title><p>We gratefully acknowledge Mr Tserai Hilton Munyaradzi for his excellent work in language revision.</p></ack><ref-list content-type="cited-references" id="cns13432-bibl-0001"><title>REFERENCES</title><ref id="cns13432-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="cns13432-cit-0001">
+<string-name name-style="western">
+<surname>Morrison</surname>
+<given-names>BE</given-names>
+</string-name>. <article-title>Discovery of nigral dopaminergic neurogenesis in adult mice</article-title>. <source xml:lang="en">Neural Regen Res</source>. <year>2016</year>;<volume>11</volume>:<fpage>878</fpage>‐<lpage>881</lpage>.<pub-id pub-id-type="pmid">27482200</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.4103/1673-5374.184449</pub-id><pub-id pub-id-type="pmcid">PMC4962569</pub-id></mixed-citation></ref><ref id="cns13432-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="cns13432-cit-0002">
+<string-name name-style="western">
+<surname>Broen</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Duits</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Visser‐Vandewalle</surname>
+<given-names>V</given-names>
+</string-name>, et al. <article-title>Impulse control and related disorders in Parkinson's disease patients treated with bilateral subthalamic nucleus stimulation: a review</article-title>. <source xml:lang="en">Parkinsonism Relat Disord</source>. <year>2011</year>;<volume>17</volume>:<fpage>413</fpage>‐<lpage>417</lpage>.<pub-id pub-id-type="pmid">21382739</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.parkreldis.2011.02.013</pub-id></mixed-citation></ref><ref id="cns13432-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="cns13432-cit-0003">
+<string-name name-style="western">
+<surname>Wu</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Politis</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Piccini</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Parkinson disease and impulse control disorders: a review of clinical features, pathophysiology and management</article-title>. <source xml:lang="en">Postgrad Med J</source>. <year>2009</year>;<volume>85</volume>:<fpage>590</fpage>‐<lpage>596</lpage>.<pub-id pub-id-type="pmid">19892894</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/pgmj.2008.075820</pub-id></mixed-citation></ref><ref id="cns13432-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="cns13432-cit-0004">
+<string-name name-style="western">
+<surname>Zuch</surname>
+<given-names>CL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nordstroem</surname>
+<given-names>VK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Briedrick</surname>
+<given-names>LA</given-names>
+</string-name>, et al. <article-title>Time course of degenerative alterations in nigral dopaminergic neurons following a 6‐hydroxydopamine lesion</article-title>. <source xml:lang="en">J Comp Neurol</source>. <year>2000</year>;<volume>427</volume>:<fpage>440</fpage>‐<lpage>454</lpage>.<pub-id pub-id-type="pmid">11054705</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/1096-9861(20001120)427:3&lt;440::aid-cne10&gt;3.0.co;2-7</pub-id></mixed-citation></ref><ref id="cns13432-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="cns13432-cit-0005">
+<string-name name-style="western">
+<surname>Deumens</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Blokland</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Prickaerts</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Modeling Parkinson's disease in rats: an evaluationof 6‐OHDA lesions of the nigrostriatal pathway</article-title>. <source xml:lang="en">Exp Neurol</source>. <year>2002</year>;<volume>175</volume>:<fpage>303</fpage>‐<lpage>317</lpage>.<pub-id pub-id-type="pmid">12061862</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1006/exnr.2002.7891</pub-id></mixed-citation></ref><ref id="cns13432-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="cns13432-cit-0006">
+<string-name name-style="western">
+<surname>Baker</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baker</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hagg</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Dopaminergic nigrostriatal projections regulate neural precursor proliferation in the adult mouse subventricular zone</article-title>. <source xml:lang="en">Eur J Neurosci</source>. <year>2004</year>;<volume>20</volume>:<fpage>575</fpage>‐<lpage>579</lpage>.<pub-id pub-id-type="pmid">15233767</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1460-9568.2004.03486.x</pub-id></mixed-citation></ref><ref id="cns13432-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="cns13432-cit-0007">
+<string-name name-style="western">
+<surname>Winner</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Geyer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Couillard‐Despres</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Striatal deafferentation increases dopaminergic neurogenesis in the adult olfactory bulb</article-title>. <source xml:lang="en">Exp Neurol</source>. <year>2006</year>;<volume>197</volume>:<fpage>113</fpage>‐<lpage>121</lpage>.<pub-id pub-id-type="pmid">16246330</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.expneurol.2005.08.028</pub-id></mixed-citation></ref><ref id="cns13432-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="cns13432-cit-0008">
+<string-name name-style="western">
+<surname>Sun</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ou</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Farley</surname>
+<given-names>JM</given-names>
+</string-name>, et al. <article-title>Allopregnanolone increases the number of dopaminergic neurons in substantia nigra of a triple transgenic mouse model of Alzheimer's disease</article-title>. <source xml:lang="en">Curr Alzheimer Res</source>. <year>2012</year>;<volume>9</volume>:<fpage>473</fpage>‐<lpage>480</lpage>.<pub-id pub-id-type="pmid">22272610</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.2174/156720512800492567</pub-id><pub-id pub-id-type="pmcid">PMC3348519</pub-id></mixed-citation></ref><ref id="cns13432-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="cns13432-cit-0009">
+<string-name name-style="western">
+<surname>Xie</surname>
+<given-names>MQ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>ZC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Newborn dopaminergic neurons are associated with the migration and differentiation of SVZ‐derived neural progenitors in a 6‐hydroxydopamin‐injected mouse model</article-title>. <source xml:lang="en">Neuroscience</source>. <year>2017</year>;<volume>352</volume>:<fpage>64</fpage>‐<lpage>78</lpage>.<pub-id pub-id-type="pmid">28385636</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neuroscience.2017.03.045</pub-id></mixed-citation></ref><ref id="cns13432-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="cns13432-cit-0010">
+<string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xie</surname>
+<given-names>MQ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ding</surname>
+<given-names>YQ</given-names>
+</string-name>, et al. <article-title>Allopregnanolone enhances the neurogenesis of midbrain dopaminergic neurons in APPswe/PSEN1 mice</article-title>. <source xml:lang="en">Neuroscience</source>. <year>2015</year>;<volume>290</volume>:<fpage>214</fpage>‐<lpage>226</lpage>.<pub-id pub-id-type="pmid">25637494</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neuroscience.2015.01.019</pub-id></mixed-citation></ref><ref id="cns13432-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="cns13432-cit-0011">
+<string-name name-style="western">
+<surname>Brinton</surname>
+<given-names>RD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>JM</given-names>
+</string-name>. <article-title>Therapeutic potential of neurogenesis for prevention and recovery from Alzheimer's disease: allopregnanolone as a proof of concept neurogenic agent</article-title>. <source xml:lang="en">Curr Alzheimer Res</source>. <year>2016</year>;<volume>3</volume>:<fpage>185</fpage>‐<lpage>190</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.2174/156720506777632817</pub-id><pub-id pub-id-type="pmid">16842093</pub-id></mixed-citation></ref><ref id="cns13432-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="cns13432-cit-0012">
+<string-name name-style="western">
+<surname>Gago</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>El‐Etr</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sananes</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>3alpha,5alpha‐Tetrahydroprogesterone (allopregnanolone) and gamma‐aminobutyric acid: autocrine/paracrine interactions in the control of neonatal PSA‐NCAM+ progenitor proliferation</article-title>. <source xml:lang="en">J Neurosci Res</source>. <year>2004</year>;<volume>78</volume>:<fpage>770</fpage>‐<lpage>783</lpage>.<pub-id pub-id-type="pmid">15523635</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/jnr.20348</pub-id></mixed-citation></ref><ref id="cns13432-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="cns13432-cit-0013">
+<string-name name-style="western">
+<surname>Marx</surname>
+<given-names>CE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Trost</surname>
+<given-names>WT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shampine</surname>
+<given-names>LJ</given-names>
+</string-name>, et al. <article-title>The neurosteroid allopregnanolone is reduced in prefrontal cortex in Alzheimer's disease</article-title>. <source xml:lang="en">Biol Psychiatry</source>. <year>2006</year>;<volume>60</volume>:<fpage>1287</fpage>‐<lpage>1294</lpage>.<pub-id pub-id-type="pmid">16997284</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.biopsych.2006.06.017</pub-id></mixed-citation></ref><ref id="cns13432-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="cns13432-cit-0014">
+<string-name name-style="western">
+<surname>Wang</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Johnston</surname>
+<given-names>PB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ball</surname>
+<given-names>BG</given-names>
+</string-name>, et al. <article-title>The neurosteroid allopregnanolone promotes proliferation of rodent and human neural progenitor cells and regulates cell‐cycle gene and protein expression</article-title>. <source xml:lang="en">J Neurosci</source>. <year>2005</year>;<volume>25</volume>:<fpage>4706</fpage>‐<lpage>4718</lpage>.<pub-id pub-id-type="pmid">15888646</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1523/JNEUROSCI.4520-04.2005</pub-id><pub-id pub-id-type="pmcid">PMC6724768</pub-id></mixed-citation></ref><ref id="cns13432-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="cns13432-cit-0015">
+<string-name name-style="western">
+<surname>Wang</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Singh</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Allopregnanolone reverses neurogenic and cognitive deficits in mouse model of Alzheimer's disease</article-title>. <source xml:lang="en">Proc Natl Acad Sci U S A</source>. <year>2010</year>;<volume>107</volume>:<fpage>6498</fpage>‐<lpage>6503</lpage>.<pub-id pub-id-type="pmid">20231471</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.1001422107</pub-id><pub-id pub-id-type="pmcid">PMC2851948</pub-id></mixed-citation></ref><ref id="cns13432-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="cns13432-cit-0016">
+<string-name name-style="western">
+<surname>Singh</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>JM</given-names>
+</string-name>, et al. <article-title>Allopregnanolone restores hippocampal‐dependent learning and memory and neural progenitor survival in aging 3xTgAD and nonTg mice</article-title>. <source xml:lang="en">Neurobiol Aging</source>. <year>2012</year>;<volume>33</volume>:<fpage>1493</fpage>‐<lpage>1506</lpage>.<pub-id pub-id-type="pmid">21803451</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neurobiolaging.2011.06.008</pub-id><pub-id pub-id-type="pmcid">PMC3232295</pub-id></mixed-citation></ref><ref id="cns13432-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="cns13432-cit-0017">
+<string-name name-style="western">
+<surname>Adeosun</surname>
+<given-names>SO</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hou</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jiao</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Allopregnanolone reinstates tyrosine hydroxylase immunoreactive neurons and motor performance in an MPTP‐lesioned mouse model of Parkinson's disease</article-title>. <source xml:lang="en">PLoS One</source>. <year>2012</year>;<volume>7</volume>:<elocation-id>e50040</elocation-id>.<pub-id pub-id-type="pmid">23209637</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0050040</pub-id><pub-id pub-id-type="pmcid">PMC3510204</pub-id></mixed-citation></ref><ref id="cns13432-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="cns13432-cit-0018">
+<string-name name-style="western">
+<surname>Jagasia</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Steib</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Englberger</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>GABA‐cAMP response element‐binding proteinsignaling regulates maturation and survival of newly generated neurons in the adult hippocampus</article-title>. <source xml:lang="en">J Neurosci</source>. <year>2009</year>;<volume>29</volume>:<fpage>7966</fpage>‐<lpage>7977</lpage>.<pub-id pub-id-type="pmid">19553437</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1523/JNEUROSCI.1054-09.2009</pub-id><pub-id pub-id-type="pmcid">PMC2776747</pub-id></mixed-citation></ref><ref id="cns13432-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="cns13432-cit-0019">
+<string-name name-style="western">
+<surname>Keller</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zamparini</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Borodinsky</surname>
+<given-names>LN</given-names>
+</string-name>, et al. <article-title>Role of allopregnanolone on cerebellar granule cells neurogenesis</article-title>. <source xml:lang="en">Brain Res Dev Brain Res</source>. <year>2004</year>;<volume>153</volume>:<fpage>13</fpage>‐<lpage>17</lpage>.<pub-id pub-id-type="pmid">15464213</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.devbrainres.2004.07.009</pub-id></mixed-citation></ref><ref id="cns13432-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="cns13432-cit-0020">
+<string-name name-style="western">
+<surname>Fukunaga</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Miyamoto</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>A working model of CaM kinase II activity in hippocampal long‐term potentiation and memory</article-title>. <source xml:lang="en">Neurosci Res</source>. <year>2000</year>;<volume>38</volume>:<fpage>3</fpage>‐<lpage>17</lpage>.<pub-id pub-id-type="pmid">10997573</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0168-0102(00)00139-5</pub-id></mixed-citation></ref><ref id="cns13432-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="cns13432-cit-0021">
+<string-name name-style="western">
+<surname>Takeuchi</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fukunaga</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Miyamoto</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Activation of nuclear Ca(2+)/calmodulin dependent protein kinase II and brain‐derived neurotrophic factor gene expression by stimulation of dopamine D2 receptor in transfected NG108‐15 cells</article-title>. <source xml:lang="en">J Neurochem</source>. <year>2002</year>;<volume>82</volume>:<fpage>316</fpage>‐<lpage>328</lpage>.<pub-id pub-id-type="pmid">12124432</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1046/j.1471-4159.2002.00967.x</pub-id></mixed-citation></ref><ref id="cns13432-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="cns13432-cit-0022">
+<string-name name-style="western">
+<surname>Yunes</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Casas</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gaglio</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Progesterone exerts a neuromodulatory effect on turning behavior of hemiparkinsonian male rats: expression of 3 α‐hydroxysteroid oxidoreductase and allopregnanolone as suggestive of GABAA receptors involvement</article-title>. <source xml:lang="en">Parkinsons Dis</source>. <year>2015</year>;<volume>2015</volume>:<fpage>431690</fpage>.<pub-id pub-id-type="pmid">25918669</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1155/2015/431690</pub-id><pub-id pub-id-type="pmcid">PMC4396568</pub-id></mixed-citation></ref><ref id="cns13432-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="cns13432-cit-0023">
+<string-name name-style="western">
+<surname>Rodríguez‐Landa</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Contreras</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>García‐Ríos</surname>
+<given-names>RI</given-names>
+</string-name>. <article-title>Allopregnanolone microinjected into the lateral septum or dorsal hippocampus reduces immobility in the forced swim test: participation of the GABAA receptor</article-title>. <source xml:lang="en">Behav Pharmacol</source>. <year>2009</year>;<volume>20</volume>:<fpage>614</fpage>‐<lpage>622</lpage>.<pub-id pub-id-type="pmid">19752723</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/FBP.0b013e328331b9f2</pub-id></mixed-citation></ref><ref id="cns13432-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="cns13432-cit-0024">
+<string-name name-style="western">
+<surname>Golmohammadi</surname>
+<given-names>MG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Blackmore</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Large</surname>
+<given-names>B</given-names>
+</string-name>, et al. <article-title>Comparative analysis of the frequency and distribution of stem and progenitor cells in the adult mouse brain</article-title>. <source xml:lang="en">Stem Cells</source>. <year>2008</year>;<volume>26</volume>:<fpage>979</fpage>‐<lpage>987</lpage>.<pub-id pub-id-type="pmid">18203672</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1634/stemcells.2007-0919</pub-id></mixed-citation></ref><ref id="cns13432-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="cns13432-cit-0025">
+<string-name name-style="western">
+<surname>Parish</surname>
+<given-names>CL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Beljajeva</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Arenas</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Midbrain dopaminergic neurogenesis and behavioural recovery in a salamander lesion‐induced regeneration model</article-title>. <source xml:lang="en">Development</source>. <year>2007</year>;<volume>134</volume>:<fpage>2881</fpage>‐<lpage>2887</lpage>.<pub-id pub-id-type="pmid">17611231</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1242/dev.002329</pub-id></mixed-citation></ref><ref id="cns13432-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="cns13432-cit-0026">
+<string-name name-style="western">
+<surname>Grospe</surname>
+<given-names>GM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baker</surname>
+<given-names>PM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ragozzino</surname>
+<given-names>ME</given-names>
+</string-name>. <article-title>Cognitive flexibility deficits following 6‐OHDA lesions of the rat dorsomedial striatum</article-title>. <source xml:lang="en">Neuroscience</source>. <year>2018</year>;<volume>374</volume>:<fpage>80</fpage>‐<lpage>90</lpage>.<pub-id pub-id-type="pmid">29374536</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neuroscience.2018.01.032</pub-id></mixed-citation></ref><ref id="cns13432-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="cns13432-cit-0027">
+<string-name name-style="western">
+<surname>Wasik</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Romanska</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zelek‐Molik</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Multiple administration of endogenous amines TIQ and 1MeTIQ protects against a 6‐OHDA‐induced essential fall of dopamine release in the rat striatum. Vivo Microdialysis Study</article-title>. <source xml:lang="en">Neurotox Res</source>. <year>2018</year>;<volume>33</volume>:<fpage>523</fpage>‐<lpage>531</lpage>.<pub-id pub-id-type="pmid">29076060</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s12640-017-9824-8</pub-id><pub-id pub-id-type="pmcid">PMC5871648</pub-id></mixed-citation></ref><ref id="cns13432-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="cns13432-cit-0028">
+<string-name name-style="western">
+<surname>Emsley</surname>
+<given-names>JG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mitchell</surname>
+<given-names>BD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kempermann</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>Adult neurogenesis and repair of the adult CNS with neural progenitors, precursors, and stem cells</article-title>. <source xml:lang="en">Prog Neurogibol</source>. <year>2005</year>;<volume>75</volume>:<fpage>321</fpage>‐<lpage>341</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.pneurobio.2005.04.002</pub-id><pub-id pub-id-type="pmid">15913880</pub-id></mixed-citation></ref><ref id="cns13432-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="cns13432-cit-0029">
+<string-name name-style="western">
+<surname>Park</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Enikolopov</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Transient elevation of adult hippocampal neurogenesis after dopamine depletion</article-title>. <source xml:lang="en">Exp Neurol</source>. <year>2010</year>;<volume>222</volume>:<fpage>267</fpage>‐<lpage>276</lpage>.<pub-id pub-id-type="pmid">20079351</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.expneurol.2010.01.004</pub-id><pub-id pub-id-type="pmcid">PMC3042396</pub-id></mixed-citation></ref><ref id="cns13432-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="cns13432-cit-0030">
+<string-name name-style="western">
+<surname>Lie</surname>
+<given-names>DC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Song</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Colamarino</surname>
+<given-names>SA</given-names>
+</string-name>, et al. <article-title>Neurogenesis in the adult brain: new strategies for central nervous system diseases</article-title>. <source xml:lang="en">Annu Rev Pharmacol Toxicol</source>. <year>2004</year>;<volume>44</volume>:<fpage>399</fpage>‐<lpage>421</lpage>.<pub-id pub-id-type="pmid">14744252</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1146/annurev.pharmtox.44.101802.121631</pub-id></mixed-citation></ref><ref id="cns13432-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="cns13432-cit-0031">
+<string-name name-style="western">
+<surname>Charalampopoulos</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Remboutsika</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Margioris</surname>
+<given-names>AN</given-names>
+</string-name>, et al. <article-title>Neurosteroids as modulators of neurogenesis and neuronal survival</article-title>. <source xml:lang="en">Trends Endocrinol Metab</source>. <year>2008</year>;<volume>19</volume>:<fpage>300</fpage>‐<lpage>307</lpage>.<pub-id pub-id-type="pmid">18771935</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.tem.2008.07.004</pub-id></mixed-citation></ref><ref id="cns13432-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="cns13432-cit-0032">
+<string-name name-style="western">
+<surname>Guennoun</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Meffre</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Labombarda</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>The membrane‐associated progesterone‐binding protein 25‐Dx: expression, cellular localization and up‐regulation after brain and spinal cord injuries</article-title>. <source xml:lang="en">Brain Res Rev</source>. <year>2008</year>;<volume>57</volume>:<fpage>493</fpage>‐<lpage>505</lpage>.<pub-id pub-id-type="pmid">17618691</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.brainresrev.2007.05.009</pub-id></mixed-citation></ref><ref id="cns13432-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="cns13432-cit-0033">
+<string-name name-style="western">
+<surname>Schumacher</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guennoun</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ghoumari</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Novel perspectives for progesterone in hormone replacement therapy, with special reference to the nervous system</article-title>. <source xml:lang="en">Endocr Rev</source>. <year>2007</year>;<volume>28</volume>:<fpage>387</fpage>‐<lpage>439</lpage>.<pub-id pub-id-type="pmid">17431228</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1210/er.2006-0050</pub-id></mixed-citation></ref><ref id="cns13432-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="cns13432-cit-0034">
+<string-name name-style="western">
+<surname>Ma</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Groth</surname>
+<given-names>RD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cohen</surname>
+<given-names>SM</given-names>
+</string-name>, et al. <article-title>gammaCaMKII shuttles Ca(2)(+)/CaM to the nucleus to trigger CREB phosphorylation and gene expression</article-title>. <source xml:lang="en">Cell</source>. <year>2014</year>;<volume>159</volume>:<fpage>281</fpage>‐<lpage>294</lpage>.<pub-id pub-id-type="pmid">25303525</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cell.2014.09.019</pub-id><pub-id pub-id-type="pmcid">PMC4201038</pub-id></mixed-citation></ref><ref id="cns13432-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="cns13432-cit-0035">
+<string-name name-style="western">
+<surname>Shioda</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sawai</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ishizuka</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Nuclear translocation of calcium/calmodulin‐dependent protein kinase IIdelta3 promoted by protein phosphatase‐1 enhances brain‐derived neurotrophic factor expression in dopaminergic neurons</article-title>. <source xml:lang="en">J Biol Chem</source>. <year>2015</year>;<volume>290</volume>:<fpage>21663</fpage>‐<lpage>21675</lpage>.<pub-id pub-id-type="pmid">26163515</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1074/jbc.M115.664920</pub-id><pub-id pub-id-type="pmcid">PMC4571889</pub-id></mixed-citation></ref><ref id="cns13432-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="cns13432-cit-0036">
+<string-name name-style="western">
+<surname>Heist</surname>
+<given-names>EK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Srinivasan</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schulman</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Phosphorylation at the nuclear localization signal of Ca2+/calmodulin‐dependent protein kinase II blocks its nuclear targeting</article-title>. <source xml:lang="en">J Biol Chem</source>. <year>1998</year>;<volume>273</volume>:<fpage>19763</fpage>‐<lpage>19771</lpage>.<pub-id pub-id-type="pmid">9677407</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1074/jbc.273.31.19763</pub-id></mixed-citation></ref><ref id="cns13432-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="cns13432-cit-0037">
+<string-name name-style="western">
+<surname>Aponso</surname>
+<given-names>PM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Faull</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Connor</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>Increased progenitor cell proliferation and astrogenesis in the partial progressive 6‐hydroxydopamine model of Parkinson's disease</article-title>. <source xml:lang="en">Neuroscience</source>. <year>2008</year>;<volume>151</volume>:<fpage>1142</fpage>‐<lpage>1153</lpage>.<pub-id pub-id-type="pmid">18201835</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neuroscience.2007.11.036</pub-id></mixed-citation></ref><ref id="cns13432-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="cns13432-cit-0038">
+<string-name name-style="western">
+<surname>Mohapel</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Frielingsdorf</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Haggblad</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Platelet‐derived growth factor (PDGFBB) and brain‐derived neurotrophic factor (BDNF) induce striatal neurogenesis in adult rats with 6‐hydroxydopamine lesions</article-title>. <source xml:lang="en">Neuroscience</source>. <year>2005</year>;<volume>132</volume>:<fpage>767</fpage>‐<lpage>776</lpage>.<pub-id pub-id-type="pmid">15837137</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neuroscience.2004.11.056</pub-id></mixed-citation></ref><ref id="cns13432-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="cns13432-cit-0039">
+<string-name name-style="western">
+<surname>Schulman</surname>
+<given-names>BA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Carrano</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jeffrey</surname>
+<given-names>PD</given-names>
+</string-name>, et al. <article-title>Insights into SCF ubiquitin ligases from the structure of the Skp1‐Skp2 complex</article-title>. <source xml:lang="en">Nature</source>. <year>2000</year>;<volume>408</volume>:<fpage>381</fpage>‐<lpage>386</lpage>.<pub-id pub-id-type="pmid">11099048</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/35042620</pub-id></mixed-citation></ref><ref id="cns13432-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="cns13432-cit-0040">
+<string-name name-style="western">
+<surname>Tyers</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jorgensen</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Proteolysis and the cell cycle: with this RING I do thee destroy</article-title>. <source xml:lang="en">Curr Opin Genet Dev</source>. <year>2000</year>;<volume>10</volume>:<fpage>54</fpage>‐<lpage>64</lpage>.<pub-id pub-id-type="pmid">10679394</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0959-437x(99)00049-0</pub-id></mixed-citation></ref><ref id="cns13432-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="cns13432-cit-0041">
+<string-name name-style="western">
+<surname>Höglinger</surname>
+<given-names>GU</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rizk</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Muriel</surname>
+<given-names>MP</given-names>
+</string-name>, et al. <article-title>Dopamine depletion impairs precursor cell proliferation in Parkinson disease</article-title>. <source xml:lang="en">Nat Neurosci</source>. <year>2004</year>;<volume>7</volume>:<fpage>726</fpage>‐<lpage>735</lpage>.<pub-id pub-id-type="pmid">15195095</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nn1265</pub-id></mixed-citation></ref><ref id="cns13432-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="cns13432-cit-0042">
+<string-name name-style="western">
+<surname>Yamada</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Iwatsubo</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mizuno</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Overexpression of alpha‐synuclein in rat substantia nigra results in loss of dopaminergic neurons, phosphorylation of alpha‐synuclein and activation of caspase‐9: resemblance to pathogenetic changes in Parkinson's disease</article-title>. <source xml:lang="en">J Neurochem</source>. <year>2004</year>;<volume>91</volume>:<fpage>451</fpage>‐<lpage>461</lpage>.<pub-id pub-id-type="pmid">15447678</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1471-4159.2004.02728.x</pub-id></mixed-citation></ref><ref id="cns13432-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="cns13432-cit-0043">
+<string-name name-style="western">
+<surname>Shan</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chi</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bishop</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Enhanced de novo neurogenesis and dopaminergic neurogenesis in the substantia nigra of 1‐methyl‐4‐phenyl‐1,2,3,6‐tetrahydropyridine‐induced Parkinson's disease‐like mice</article-title>. <source xml:lang="en">Stem Cells</source>. <year>2006</year>;<volume>24</volume>:<fpage>1280</fpage>‐<lpage>1287</lpage>.<pub-id pub-id-type="pmid">16424396</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1634/stemcells.2005-0487</pub-id><pub-id pub-id-type="pmcid">PMC1840319</pub-id></mixed-citation></ref><ref id="cns13432-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="cns13432-cit-0044">
+<string-name name-style="western">
+<surname>Luzzati</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>De Marchis</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fasolo</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Adult neurogenesis and local neuronal progenitors in the striatum</article-title>. <source xml:lang="en">Neurodegener Dis</source>. <year>2007</year>;<volume>4</volume>:<fpage>322</fpage>‐<lpage>327</lpage>.<pub-id pub-id-type="pmid">17627136</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1159/000101889</pub-id></mixed-citation></ref><ref id="cns13432-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="cns13432-cit-0045">
+<string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Momma</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Delfani</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Evidence for neurogenesis in the adult mammalian substantianigra</article-title>. <source xml:lang="en">Proc Natl Acad Sci U S A</source>. <year>2003</year>;<volume>100</volume>:<fpage>7925</fpage>‐<lpage>7930</lpage>.<pub-id pub-id-type="pmid">12792021</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.1131955100</pub-id><pub-id pub-id-type="pmcid">PMC164689</pub-id></mixed-citation></ref><ref id="cns13432-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="cns13432-cit-0046">
+<string-name name-style="western">
+<surname>Gage</surname>
+<given-names>FH</given-names>
+</string-name>. <article-title>Neurogenesis in the adult brain</article-title>. <source xml:lang="en">J Neurosci</source>. <year>2002</year>;<volume>22</volume>:<fpage>612</fpage>‐<lpage>613</lpage>.<pub-id pub-id-type="pmid">11826087</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1523/JNEUROSCI.22-03-00612.2002</pub-id><pub-id pub-id-type="pmcid">PMC6758482</pub-id></mixed-citation></ref></ref-list></back></article>

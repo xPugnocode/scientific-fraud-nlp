@@ -1,0 +1,904 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article article-type="research-article" xml:lang="en" dtd-version="1.4"><front><journal-meta><journal-id journal-id-type="nlm-ta">Cancer Med</journal-id><journal-id journal-id-type="iso-abbrev">Cancer Med</journal-id><journal-id journal-id-type="pmc-domain-id">1974</journal-id><journal-id journal-id-type="pmc-domain">canmed</journal-id><journal-id journal-id-type="nlm-id">101595310</journal-id><journal-id journal-id-type="publisher-id">CAM4</journal-id><journal-title-group><journal-title>Cancer Medicine</journal-title></journal-title-group><issn pub-type="epub">2045-7634</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC5852357</article-id><article-id pub-id-type="pmcid-ver">PMC5852357.1</article-id><article-id pub-id-type="pmcaid">5852357</article-id><article-id pub-id-type="pmcaiid">5852357</article-id><article-id pub-id-type="pmid">29473328</article-id><article-id pub-id-type="doi">10.1002/cam4.1353</article-id><article-id pub-id-type="publisher-id">CAM41353</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Cancer Biology</subject><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></subj-group></article-categories><title-group><article-title>Lnc<styled-content style="fixed-case">RNA HOTAIR</styled-content> influences cell growth, migration, invasion, and apoptosis via the miR‐20a‐5p/<italic toggle="yes"><styled-content style="fixed-case">HMGA</styled-content>2</italic> axis in breast cancer</article-title><alt-title alt-title-type="left-running-head">W. Zhao et al.</alt-title></title-group><contrib-group><contrib id="cam41353-cr-0001" contrib-type="author"><name name-style="western"><surname>Zhao</surname><given-names initials="W">Wenyan</given-names></name><xref ref-type="aff" rid="cam41353-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cam41353-cr-0002" contrib-type="author"><name name-style="western"><surname>Geng</surname><given-names initials="D">Donghua</given-names></name><xref ref-type="aff" rid="cam41353-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cam41353-cr-0003" contrib-type="author"><name name-style="western"><surname>Li</surname><given-names initials="S">Shuqiang</given-names></name><xref ref-type="aff" rid="cam41353-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cam41353-cr-0004" contrib-type="author"><name name-style="western"><surname>Chen</surname><given-names initials="Z">Zhaofu</given-names></name><xref ref-type="aff" rid="cam41353-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cam41353-cr-0005" contrib-type="author" corresp="yes"><name name-style="western"><surname>Sun</surname><given-names initials="M">Ming</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-6620-4271</contrib-id><address><email>sunm1980@163.com</email></address><xref ref-type="aff" rid="cam41353-aff-0002">
+<sup>2</sup>
+</xref></contrib></contrib-group><aff id="cam41353-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of General Surgery</named-content>
+<institution>Shengjing Hospital Affiliated China Medical University</institution>
+<named-content content-type="city">Shenyang</named-content>
+<named-content content-type="post-code">110004</named-content>
+<named-content content-type="country-part">Liaoning</named-content>
+<country country="CN">China</country>
+</aff><aff id="cam41353-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Urology</named-content>
+<institution>Shengjing Hospital Affiliated China Medical University</institution>
+<named-content content-type="city">Shenyang</named-content>
+<named-content content-type="post-code">110004</named-content>
+<named-content content-type="country-part">Liaoning</named-content>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Ming Sun, Department of Urology, Shengjing Hospital Affiliated China Medical University, No. 36 Sanhao Street, Heping District, Shenyang 110004, Liaoning, China. Tel: +86 024 96615; E‐mail: <email>sunm1980@163.com</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>23</day><month>2</month><year>2018</year></pub-date><pub-date pub-type="collection"><month>3</month><year>2018</year></pub-date><volume>7</volume><issue>3</issue><issue-id pub-id-type="pmc-issue-id">308422</issue-id><issue-id pub-id-type="doi">10.1002/cam4.2018.7.issue-3</issue-id><fpage>842</fpage><lpage>855</lpage><history><date date-type="received"><day>03</day><month>11</month><year>2017</year></date><date date-type="rev-recd"><day>18</day><month>12</month><year>2017</year></date><date date-type="accepted"><day>30</day><month>12</month><year>2017</year></date></history><pub-history><event event-type="pmc-release"><date><day>23</day><month>02</month><year>2018</year></date></event><event event-type="pmc-live"><date><day>22</day><month>03</month><year>2018</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2023-12-31 00:25:30.990"><day>31</day><month>12</month><year>2023</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2018 The Authors. <italic toggle="yes">Cancer Medicine</italic> published by John Wiley &amp; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="CAM4-7-842.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:CAM4-7-842.pdf"/><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="retraction-forward" xml:lang="en" xlink:title="retraction" journal-id="Cancer Med" journal-id-type="nlm-ta" ext-link-type="pmc" xlink:href="PMC10757124"><article-title>Retraction</article-title><volume>12</volume><issue seq="690">24</issue><date><day>15</day><month>12</month><year>2023</year></date><fpage>22437</fpage><lpage>22437</lpage><source>Cancer Medicine</source><pub-id pub-id-type="pmcid">PMC10757124</pub-id><pub-id pub-id-type="pmid">38100296</pub-id></related-article><abstract id="cam41353-abs-0001"><title>Abstract</title><p>To study the regulatory effect of lnc<styled-content style="fixed-case">RNA HOTAIR</styled-content>/miR‐20a‐5p/<italic toggle="yes"><styled-content style="fixed-case">HMGA</styled-content>2</italic> axis on breast cancer (<styled-content style="fixed-case">BC</styled-content>) cell growth, cell mobility, invasiveness, and apoptosis. The microarray data of lnc<styled-content style="fixed-case">RNA</styled-content>s and <styled-content style="fixed-case">mRNA</styled-content>s with differential expression in <styled-content style="fixed-case">BC</styled-content> tissues were analyzed in the Cancer Genome Atlas (<styled-content style="fixed-case">TCGA</styled-content>) database. Lnc<styled-content style="fixed-case">RNA HOX</styled-content> transcript antisense <styled-content style="fixed-case">RNA</styled-content> (lnc<styled-content style="fixed-case">RNA HOTAIR</styled-content>) expression in <styled-content style="fixed-case">BC</styled-content> was assessed by <styled-content style="fixed-case">qRT</styled-content>‐<styled-content style="fixed-case">PCR</styled-content>. Cell viability was confirmed using <styled-content style="fixed-case">MTT</styled-content> and colony formation assay. Cell apoptosis was analyzed by TdT‐mediated <styled-content style="fixed-case">dUTP</styled-content> nick‐end labeling (<styled-content style="fixed-case">TUNEL</styled-content>) assay. Cell mobility and invasiveness were testified by transwell assay. <styled-content style="fixed-case">RNA</styled-content> pull‐down and dual luciferase assay were used for analysis of the correlation between lnc<styled-content style="fixed-case">RNA HOTAIR</styled-content> and miR‐20a‐5p, as well as relationship of miR‐20a‐5p with <italic toggle="yes">high mobility group <styled-content style="fixed-case">AT</styled-content>‐hook 2</italic> (<italic toggle="yes"><styled-content style="fixed-case">HMGA</styled-content>2</italic>). Tumor xenograft study was applied to confirm the correlation of lnc<styled-content style="fixed-case">RNA HOTAIR</styled-content>/miR‐20a‐5p/<italic toggle="yes"><styled-content style="fixed-case">HMGA</styled-content>2</italic> axis on <styled-content style="fixed-case">BC</styled-content> development in vivo. The expression levels of the lnc<styled-content style="fixed-case">RNA HOTAIR</styled-content> were upregulated in <styled-content style="fixed-case">BC</styled-content> tissues and cells. Knockdown lnc<styled-content style="fixed-case">RNA HOTAIR</styled-content> inhibited cell propagation and metastasis and facilitated cell apoptosis. MiR‐20a‐5p was a target of lnc<styled-content style="fixed-case">RNA HOTAIR</styled-content> and had a negative correlation with lnc<styled-content style="fixed-case">RNA HOTAIR</styled-content>. MiR‐20a‐5p overexpression in <styled-content style="fixed-case">BC</styled-content> suppressed cell growth, mobility, and invasiveness and facilitated apoptosis. <italic toggle="yes"><styled-content style="fixed-case">HMGA</styled-content>2</italic> was a target of miR‐20a‐5p, which significantly induced carcinogenesis of <styled-content style="fixed-case">BC</styled-content>. <styled-content style="fixed-case">BC</styled-content> cells progression was mediated by lnc<styled-content style="fixed-case">RNA HOTAIR</styled-content> via affecting miR‐20a‐5p/<italic toggle="yes"><styled-content style="fixed-case">HMGA</styled-content>2</italic> in vivo. Lnc<styled-content style="fixed-case">RNA HOTAIR</styled-content> affected cell growth, metastasis, and apoptosis via the miR‐20a‐5p/<italic toggle="yes"><styled-content style="fixed-case">HMGA</styled-content>2</italic> axis in breast cancer.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="cam41353-kwd-0001">Breast cancer</kwd><kwd id="cam41353-kwd-0002"><italic toggle="yes"><styled-content style="fixed-case">HMGA</styled-content>2</italic></kwd><kwd id="cam41353-kwd-0003">lnc<styled-content style="fixed-case">RNA HOTAIR</styled-content></kwd><kwd id="cam41353-kwd-0004">miR‐20a‐5p</kwd></kwd-group><counts><fig-count count="7"/><table-count count="1"/><page-count count="14"/><word-count count="6608"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>cam41353</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>March 2018</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:version=5.3.2.2 mode:remove_FC converted:15.03.2018</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="cam41353-sec-0001"><title>Introduction</title><p>Breast cancer (BC) is considered the leading cause of cancer‐related death in women worldwide <xref rid="cam41353-bib-0001" ref-type="ref">1</xref>, <xref rid="cam41353-bib-0002" ref-type="ref">2</xref>, <xref rid="cam41353-bib-0003" ref-type="ref">3</xref>, <xref rid="cam41353-bib-0004" ref-type="ref">4</xref>. At present, gene therapy against neoplasms has been a novel research focus in cancer treatment <xref rid="cam41353-bib-0005" ref-type="ref">5</xref>, <xref rid="cam41353-bib-0006" ref-type="ref">6</xref>. Using gene therapy against BC, it is an urgent need to elucidate novel mechanisms correlated with BC development.</p><p>Noncoding RNAs (ncRNAs) have become the focus of “next generation” biology <xref rid="cam41353-bib-0007" ref-type="ref">7</xref>, which consist of long noncoding RNAs (lncRNAs) and microRNAs (miRNAs). Until now, a few lncRNAs have been demonstrated to be dysregulated in breast cancer, which is closely related to breast cancer diagnosis and prognosis <xref rid="cam41353-bib-0008" ref-type="ref">8</xref>, <xref rid="cam41353-bib-0009" ref-type="ref">9</xref>. HOX transcript antisense intergenic RNA (HOTAIR) located in chromosome 12 and owned 2.2 kb in length approximately, which is transcribed from the HOXC locus and epigenetically acts as a repressor of HOXD <xref rid="cam41353-bib-0010" ref-type="ref">10</xref>. In addition, lncRNA HOTAIR has been found to be closely associated with cell metastasis in multiple cancers, such as colorectal <xref rid="cam41353-bib-0011" ref-type="ref">11</xref>, hepatocellular <xref rid="cam41353-bib-0012" ref-type="ref">12</xref>, pancreatic <xref rid="cam41353-bib-0013" ref-type="ref">13</xref>, gastrointestinal stromal <xref rid="cam41353-bib-0014" ref-type="ref">14</xref>, lung <xref rid="cam41353-bib-0015" ref-type="ref">15</xref>, and breast <xref rid="cam41353-bib-0016" ref-type="ref">16</xref> carcinomas. Notably, HOTAIR expression is increased in breast cancer, which provides a powerful biomarker of tumor metastases and patient death <xref rid="cam41353-bib-0016" ref-type="ref">16</xref>, <xref rid="cam41353-bib-0017" ref-type="ref">17</xref>. However, the molecular mechanism of HOTAIR in BC remains unknown.</p><p>MiRNAs are short (20‐22 nt), noncoding, and highly stable RNAs that are involved in post‐transcriptional regulation of gene expression <xref rid="cam41353-bib-0018" ref-type="ref">18</xref>. Dysregulation of miRNAs is a major culprit of tumorigenesis in breast cancers because their loss leads to the increased expression of targeted genes, including oncogenes. For example, Browne et al. <xref rid="cam41353-bib-0019" ref-type="ref">19</xref> showed that miR‐378‐mediated suppression of <italic toggle="yes">Runx1</italic> alleviated the aggressive phenotype of triple‐negative MDA‐MB‐231 human breast cancer cells. Playing the role of cancer inhibitor, miR‐20a‐5p has been found to be downregulated in the majority of cancer cells. For example, miR‐20a‐5p was confirmed to repress <italic toggle="yes">MICA</italic> and <italic toggle="yes">MICB</italic> expression by binding to the mRNA 3′‐UTRs in human cancer cells (mainly HeLa, 293T, DU145 cells) <xref rid="cam41353-bib-0020" ref-type="ref">20</xref>. Meanwhile, miR‐20a‐5p was also experimentally verified as new pharmacogenomic biomarkers for metformin in MCF‐7 or MDA‐MB‐231 cell lines <xref rid="cam41353-bib-0021" ref-type="ref">21</xref>. Therefore, it is suggested that miR‐20a‐5p may hold great promise as an accessible biomarker for BC. However, the role of miR‐20a‐5p in breast cancer needs to be further illuminated.</p><p>
+<italic toggle="yes">High mobility group AT‐hook 2</italic> (<italic toggle="yes">HMGA2</italic>) binds to AT‐rich regions in DNA, altering chromatin architecture <xref rid="cam41353-bib-0022" ref-type="ref">22</xref> to promote the action of transcriptional enhancers. <italic toggle="yes">HMGA2</italic> is highly expressed in most malignant epithelial tumors, including breast <xref rid="cam41353-bib-0023" ref-type="ref">23</xref>, pancreas <xref rid="cam41353-bib-0024" ref-type="ref">24</xref>, and nonsmall cell lung cancer <xref rid="cam41353-bib-0025" ref-type="ref">25</xref>, suggesting that <italic toggle="yes">HMGA2</italic> could promote tumor progression in breast cancer.</p><p>In this study, we explored the role of lncRNA HOTAIR/miR‐20a‐5p/HMGA2 axis in the development of BC. LncRNA HOTAIR functioned as the sponge of miR‐20a‐5p to upregulate HMGA2 expression. Therefore, decrease in lncRNA HOTAIR may serve as prognostic as well as predication marker for BC patients and used as a novel therapeutic target.</p></sec><sec id="cam41353-sec-0002"><title>Materials and Methods</title><sec id="cam41353-sec-0003"><title>Clinical samples</title><p>A total of 20 BC patients who underwent a mastectomy at Shengjing Hospital Affiliated China Medical University were recruited to the study. All specimens were pathologically confirmed as breast cancer and did not receive radiotherapy or chemotherapy prior to surgery. After resection, the tumor and adjacent tissues were frozen by liquid nitrogen, and the specimens were immediately stored at −80°C. The Ethics Committee of Shengjing Hospital Affiliated China Medical University approved this study, and written informed consents were acquired from all enrolled patients.</p></sec><sec id="cam41353-sec-0004"><title>Bioinformatics analysis</title><p>LncRNAs and mRNAs with differential expressions in BC tissues were analyzed in the Cancer Genome Atlas (TCGA) database (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://cancergenome.nih.gov/">https://cancergenome.nih.gov/</ext-link>). Differentially expressed lncRNA and mRNA were identified using a <italic toggle="yes">t</italic>‐test (<italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>0.05) combined with fold change (FC) (log<sub>2</sub>(FC)&gt;2 for upregulated lncRNAs and log<sub>2</sub>(FC)&lt;2 for downregulated lncRNAs). The Kaplan‐Meier curve was used to test lncRNA association with time to progression. The binding sites between lncRNA HOTAIR and miR‐20a‐5p, and the target genes of miR‐20a‐5p were predicted using miRcode (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.mircode.org/">http://www.mircode.org/</ext-link>) and TargetScan 7.1 database (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.targetscan.org">www.targetscan.org</ext-link>).</p></sec><sec id="cam41353-sec-0005"><title>Cell culture</title><p>Three BC carcinoma cell lines MCF7, SKBR3, MDA‐MB‐231 and human breast epithelial cell lines MCF‐10A were all purchased from BeNa Culture Collection Biological Technology Co., Ltd. (Beijing, China). Breast cancer cell lines MCF7 and MDA‐MB‐231 were cultured in Dulbecco's Modified Eagle Medium (DMEM, Gibco) supplemented with 10% FBS and 100 U/mL Penicillin/Streptomycin in a 5% CO<sub>2</sub> incubator. SKBR3 were cultured in McCoy's 5A Media (modified with tricine) and MCF‐10A was cultured in RPMI‐1640. Cells were collected at 90% confluence, and the medium was changed every 48–72 h.</p></sec><sec id="cam41353-sec-0006"><title>Cell transfection</title><p>MDA‐MB‐231 cells at exponential stage were used for transfection. Before transfection, 1 × 10<sup>6</sup> BC cells were cultured in 6‐well plates with 2 mL complete medium for 24 h until they were 90% confluent. Si‐HOTAIR, hsa‐miR‐20a‐5p mimics, hsa‐miR‐20a‐5p inhibitor, si‐<italic toggle="yes">HMGA2</italic>, pCDNA‐<italic toggle="yes">HMGA2,</italic> and negative control (NC) were purchased from Shanghai GenePharma Inc. (Shanghai, China). The vectors and microRNAs were transfected, respectively, into MDA‐MB‐231 cell line by Lipofectamine 3000 reagents and cultured with Opti‐MEM serum‐free medium following the instructions. Cells were grouped into (1) NC group; (2) si‐HOTAIR group; (3) miR‐20a‐5p‐mimics group; (4) miR‐20a‐5p‐inhibitor group; (5) si‐HOTAIR+miR‐20a‐5p‐inhibitor group; (6) <italic toggle="yes">HMGA2</italic> group; (7) si‐<italic toggle="yes">HMGA2</italic> group; (8) <italic toggle="yes">HMGA2 </italic>+<italic toggle="yes"> </italic>miR‐20a‐5p‐mimics group.</p></sec><sec id="cam41353-sec-0007"><title>qRT‐PCR</title><p>The total RNA from BC tissues and cells was extracted by TRIzol<sup>®</sup> reagent (Invitrogen, Carlsbad, CA, USA), and 200 ng extracted RNA was reverse transcribed into cDNA by ReverTra Ace qPCR RT Kit (Toyobo, Japan) before qRT‐PCR. Quantitative PCR was carried out using THUNDERBIRD SYBR<sup>®</sup> qPCR Mix (Toyobo, Japan) and a LightCycler 480 Real‐Time PCR system (Roche, Shanghai, China). The GAPDH and U6 gene was used as an endogenous control gene for normalizing the expression of target genes. Each sample was analyzed in triplicate. The thermo‐cycling program consisted of holding at 94°C for 2 min, followed by 30 cycles of 30 sec at 94°C, 30 sec at 56°C, and 60 sec at 72°C. Melting curve data were then collected to verify PCR specificity and the absence of primer dimers. Primer sequences are exhibited in Table <xref rid="cam41353-tbl-0001" ref-type="table-wrap">1</xref>.</p><table-wrap id="cam41353-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Primer sequences</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1"/><th align="left" valign="top" rowspan="1" colspan="1">Primer sequences (5′–3′)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">MiR‐20a‐5p forward</td><td align="left" rowspan="1" colspan="1">UAAAGUGCUUAUAGUGCAGGUAG</td></tr><tr><td align="left" rowspan="1" colspan="1">MiR‐20a‐5p reverse</td><td align="left" rowspan="1" colspan="1">CUACCUGCACUAUAAGCACUUUA</td></tr><tr><td align="left" rowspan="1" colspan="1">U6 forward</td><td align="left" rowspan="1" colspan="1">CTCGCTTCGGCAGCACATATACT</td></tr><tr><td align="left" rowspan="1" colspan="1">U6 reverse</td><td align="left" rowspan="1" colspan="1">CGCTTCACGAATTTGCGTGT</td></tr><tr><td align="left" rowspan="1" colspan="1">HOTAIR forward</td><td align="left" rowspan="1" colspan="1">CAGTGGGGAACTCTGACTCG</td></tr><tr><td align="left" rowspan="1" colspan="1">HOTAIR reverse</td><td align="left" rowspan="1" colspan="1">GTGCCTGGTGCTCTCTTACC</td></tr><tr><td align="left" rowspan="1" colspan="1">HMGA2 forward</td><td align="left" rowspan="1" colspan="1">GGGCGCCGACATTCAAT</td></tr><tr><td align="left" rowspan="1" colspan="1">HMGA2 reverse</td><td align="left" rowspan="1" colspan="1">ACTGCAGTGTCTTCTCCCTTCAA</td></tr><tr><td align="left" rowspan="1" colspan="1">GAPDH forward</td><td align="left" rowspan="1" colspan="1">TCAAGGCTGAGAACGGGAAG</td></tr><tr><td align="left" rowspan="1" colspan="1">GAPDH reverse</td><td align="left" rowspan="1" colspan="1">TGGACTCCACGACGTACTCA</td></tr></tbody></table><permissions><copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="cam41353-sec-0008"><title>MTT assay</title><p>Cell viability was monitored using MTT cell viability assay kit (Sigma). The transfected cells were seeded in 96‐well plates (200 μL, 3 × 10<sup>3</sup> cells/well). 10 μL MTT (5 mg/mL) was added to each well and continued incubating for 4 h, followed by the precipitate dissolving in dimethyl sulfoxide (DMSO, 100 μL). The absorbance was measured at 490 nm under a microplate spectrophotometer.</p></sec><sec id="cam41353-sec-0009"><title>Colony formation assay</title><p>Cells (1 × 10<sup>3</sup> cells per well) were seeded in a 6‐well plate and incubated for 1 week at 37°C. Then, cells were washed twice in PBS, fixed with 4% formaldehyde for 15 min and stained for 10–30 min with GIMSA. The colonies (a diameter ≥ 100 μm) were counted in triplicate assays.</p></sec><sec id="cam41353-sec-0010"><title>Transwell assay</title><p>For the transwell migration assay, the breast cancer cells were trypsinized and placed in the upper chamber of each insert (Corning, Cambridge, USA) containing the noncoated membrane. Lower chambers were supplemented with 1% fetal bovine serum (600 μL). After 24 h incubation at 37°C, the upper surface of the membrane was removed with a cotton tip, while the cells on the lower surface were stained for 30 min with 0.1% crystal violet. For the invasion assay, matrigel chambers (BD Biosciences, San Jose, CA, USA) were carried out conforming to manufacturer's instructions. Briefly, transfected MDA‐MB‐231 cells (200 μL, 5000 cells per well) were collected, resuspended in medium without serum, and then shifted to the hydrated matrigel chambers (50 μL). The bottom chambers were incubated overnight in 500 μL DMEM culture medium with 10% FBS. The cells on the upper surface were scraped, whereas the invasive cells on the lower surface were fixed and colored with 0.1% crystal violet for half an hour.</p></sec><sec id="cam41353-sec-0011"><title>TUNEL staining</title><p>Cells were transfected with si‐HOTAIR or miR‐20a‐5p mimic or miR‐20a‐5p inhibitor and then cultured overnight. After rising twice with PBS, the cells were fixed with 4% paraformaldehyde for 15 min and permeabilized in 0.25% Triton‐X 100 for 20 min. TUNEL assays were carried out conforming to the manufacturer's instructions (Roche). Briefly, the cells were first incubated in terminal dexynucleotidyl transferase (TdT) reaction cocktail for 45 min at 37°C, followed by treatment with Click‐iT reaction cocktail. The nucleus was stained with hematoxylin or methyl green.</p></sec><sec id="cam41353-sec-0012"><title>RNA pull‐down assay</title><p>RNA pull‐down assay was conducted through Flag‐MS2 bp‐MS2bs‐based pull‐down assay. Specifically, pcDNA3‐FlagMS2 bp and pcDNA3‐HOTAIR‐MS2bs were co‐transfected to MDA‐MB‐231 cells, and the cells were collected after 2 days. About 1 × 10<sup>7</sup> cells were dissolved in the soft lysis buffer plus 80 U/mL RNasin (Promega Madison, WI, USA). Fifty microliters of ANTI‐FLAG M‐280 Magnetic Beads (Invitrogen) was supplemented to each binding reaction tube and incubated for 4 h. Beads were washed six times in the lysis buffer. The retrieved supernatant was detected by qRT‐PCR.</p></sec><sec id="cam41353-sec-0013"><title>Luciferase reporter assay</title><p>Cells (1 × 10<sup>5</sup> per milliliter) were transfected with 100 ng plasmids and 200 nmol/L miR‐20a‐5p mimics, miR‐20a‐5p inhibitors or their negative control. After 2 days, the cells were lysed with 80 μL 1× Passive Lysis Buffer and tested through a dual luciferase assay (Promega). For HOTAIR and <italic toggle="yes">HMGA2</italic> promoter analysis, the HOTAIR and <italic toggle="yes">HMGA2</italic> promoter was amplified and cloned into a psiCHECK TM‐2 vector (Promega). Luciferase activity was evaluated through the dual luciferase assay system (Promega).</p></sec><sec id="cam41353-sec-0014"><title>Tumor xenograft in vivo</title><p>A total of 30 BALB/c nude mice were chosen and assigned to five groups: (1) NC group (injected with MDA‐MB‐231 cells), (2) si‐HOTAIR (injected with MDA‐MB‐231 cells with HOTAIR knockdown), (3) miR‐20a‐5p inhibitor group (injected with MDA‐MB‐231 cells with miR‐20a‐5p knockdown), (4) si‐HMGA2 group (injected with MDA‐MB‐231 cells with HMGA2 knockdown), (5) si‐HOTAIR+miR‐20a‐5p inhibitor group ((injected with MDA‐MB‐231 cells with both HOTAIR and miR‐20a‐5p knockdown). 0.2 mL of above cell suspension that contained 2 × 10<sup>3</sup> or 2 × 10<sup>4</sup> or 2 × 10<sup>5</sup> cells was injected into the left or right back of each mice. Tumor sizes were assessed once per week by a digital caliper. The tumor volumes were determined by measuring their length (<italic toggle="yes">l</italic>) and width (<italic toggle="yes">w</italic>) and calculating the volume (<italic toggle="yes">V</italic>) as follows: <italic toggle="yes">V</italic> = <italic toggle="yes">lw</italic>
+<sup>2</sup>/2. After 28 days, the mice were euthanized and tumor tissues were weighted. The animal studies were approved by the Institutional Animal Care and Use Committee of Shengjing Hospital Affiliated China Medical University, and were performed according to institutional guidelines.</p></sec><sec id="cam41353-sec-0015"><title>Statistical analysis</title><p>Statistical data were analyzed using GraphPad Prism 6.0 (GraphPad Software) and were presented as mean ± standard deviation. Student's <italic toggle="yes">t</italic>‐test was employed to evaluate difference between individual groups. The criterion of statistical significance was <italic toggle="yes">P &lt; </italic>0.05.</p></sec></sec><sec id="cam41353-sec-0016"><title>Results</title><sec id="cam41353-sec-0017"><title>LncRNA HOTAIR was overexpressed in BC tissues and cells</title><p>Microarray analysis was used to identify differential expressed lncRNA in BC tissues and its adjacent tissues. Among them, lncRNA HOTAIR had been reported to act as tumor‐promoting molecular in multiple tumors, and it was significantly upregulated in BC tissues, predicting its expression and biological function in BC tumorigenesis (Fig. <xref rid="cam41353-fig-0001" ref-type="fig">1</xref>A and B). The prognosis analysis of lncRNA HOTAIR and the results showed that the high expression of lncRNA HOTAIR brought out an adverse role in survival depending on Kaplan‐Meier analysis (Fig. <xref rid="cam41353-fig-0001" ref-type="fig">1</xref>C). In addition, lncRNA HOTAIR expression in the BC tissues was upregulated by about 2.27‐fold in comparison with the adjacent tissues (<italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>0.01, Fig. <xref rid="cam41353-fig-0001" ref-type="fig">1</xref>D). To determine its role in BC development, we explored the expression of lncRNA HOTAIR in BC cells (MDA‐MB‐231, SKBR3, MCF‐7) and normal cells (MCF‐10A), and found that the expression of lncRNA HOTAIR was considerably increased in the BC cell lines compared to MCF‐10A cells (<italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>0.05, Fig. <xref rid="cam41353-fig-0001" ref-type="fig">1</xref>E). Besides, lncRNA HOTAIR expression in MDA‐MB‐231 was higher than other cell lines, thereafter selected as conducting the following experiments. These findings suggested that lncRNA HOTAIR might participate in the development of BC.</p><fig fig-type="Figure" xml:lang="en" id="cam41353-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>
+<styled-content style="fixed-case">HOTAIR</styled-content> was overexpressed in <styled-content style="fixed-case">BC</styled-content> tissues and cells. (A) Volcano plot: <styled-content style="fixed-case">HOTAIR</styled-content> was analyzed by lnc<styled-content style="fixed-case">RNA</styled-content> microarray analysis and selected as a promising lnc<styled-content style="fixed-case">RNA</styled-content> involved breast cancer (<styled-content style="fixed-case">BC</styled-content>) tumorgenesis. (B) Heatmap: Lnc<styled-content style="fixed-case">RNA HOTAIR</styled-content> was overexpressed in <styled-content style="fixed-case">BC</styled-content> tumor tissues compared with adjacent tissues. (C) Kaplan‐Meier analysis showed that high expression of <styled-content style="fixed-case">HOTAIR</styled-content> obtaining an adverse overall survival. (D–E) <styled-content style="fixed-case">QRT</styled-content>‐<styled-content style="fixed-case">PCR</styled-content> was used to detect expression levels of <styled-content style="fixed-case">HOTAIR</styled-content> in <styled-content style="fixed-case">BC</styled-content> tumor tissues and cells including normal <styled-content style="fixed-case">MCF</styled-content>‐10A cells and breast cancer cell lines <styled-content style="fixed-case">SKBR</styled-content>3, <styled-content style="fixed-case">MCF</styled-content>7, <styled-content style="fixed-case">MDA</styled-content>‐<styled-content style="fixed-case">MB</styled-content>‐231, demonstrating that Lnc<styled-content style="fixed-case">RNA HOTAIR</styled-content> was overexpressed. * Compared with the control group, <italic toggle="yes">P </italic>&lt; 0.05. ** Compared with the control group, <italic toggle="yes">P </italic>&lt; 0.01.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-3" position="float" orientation="portrait" xlink:href="CAM4-7-842-g001.jpg"/></fig></sec><sec id="cam41353-sec-0018"><title>LncRNA HOTAIR enhanced the progression of BC cells</title><p>To investigate the biological functions of lncRNA HOTAIR in BC cells, we decreased expression of lncRNA HOTAIR in MDA‐MB‐231 cells by transfection of small interfering RNA (siRNA). QRT‐PCR showed that lncRNA HOTAIR expression remarkably downregulated in si‐HOTAIR transfected MDA‐MB‐231 cells compared with control groups (<italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>0.01, Fig. <xref rid="cam41353-fig-0002" ref-type="fig">2</xref>A). MTT and colony formation assay showed that lncRNA HOTAIR suppression remarkably reduced cellular viability of MDA‐MB‐231 cells compared to control groups (<italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>0.01, Fig. <xref rid="cam41353-fig-0002" ref-type="fig">2</xref>B and C). Furthermore, we explored whether lncRNA HOTAIR was involved in cell metastasis in MDA‐MB‐231 cells. Transwell migration assay showed that lncRNA HOTAIR inhibition remarkably decreased migration ability in MDA‐MB‐231 cells (<italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>0.01, Fig. <xref rid="cam41353-fig-0002" ref-type="fig">2</xref>D). By using transwell invasion assay, we observed that the number of invaded cells was obviously decreased in the lncRNA HOTAIR knockdown cells compared with control groups (<italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>0.01, Fig. <xref rid="cam41353-fig-0002" ref-type="fig">2</xref>E). As well, TUNEL assay showed that lncRNA HOTAIR knockdown in MDA‐MB‐231 cells significantly promoted cell apoptosis (<italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>0.01, Fig. <xref rid="cam41353-fig-0002" ref-type="fig">2</xref>F). Taken together, these findings indicated that lncRNA HOTAIR enhanced carcinogenesis of BC cells in vitro.</p><fig fig-type="Figure" xml:lang="en" id="cam41353-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>
+<styled-content style="fixed-case">HOTAIR</styled-content> affected cells proliferation, migration, invasiveness, and apoptosis in <styled-content style="fixed-case">BC</styled-content>. (A) Transfection efficiency of si‐<styled-content style="fixed-case">HOTAIR</styled-content> was confirmed by <styled-content style="fixed-case">qRT</styled-content>‐<styled-content style="fixed-case">PCR</styled-content> methods. (B) <styled-content style="fixed-case">MTT</styled-content> assay: <styled-content style="fixed-case">HOTAIR</styled-content> knockdown in <styled-content style="fixed-case">MDA</styled-content>‐<styled-content style="fixed-case">MB</styled-content>‐231 cells significantly inhibited cell proliferation. (C) Colony formation assay: colony formation of <styled-content style="fixed-case">BC</styled-content> cells was decreased by knockdown of <styled-content style="fixed-case">HOTAIR</styled-content>. (D) Transwell migration assay: <styled-content style="fixed-case">HOTAIR</styled-content> knockdown in <styled-content style="fixed-case">MDA</styled-content>‐<styled-content style="fixed-case">MB</styled-content>‐231 cells reduced migration of <styled-content style="fixed-case">BC</styled-content> cells. Bar: 20 μm. (E) Transwell invasive assay: <styled-content style="fixed-case">HOTAIR</styled-content> knockdown significantly suppressed cell invasive capacity in <styled-content style="fixed-case">BC</styled-content> cells. (F) Detection of apoptosis was using the <styled-content style="fixed-case">TUNEL</styled-content> assay (100×). <styled-content style="fixed-case">MDA</styled-content>‐<styled-content style="fixed-case">MB</styled-content>‐231 cells were transfected with control si<styled-content style="fixed-case">RNA</styled-content>, si‐<styled-content style="fixed-case">HOTAIR</styled-content>. Apoptosis rate of <styled-content style="fixed-case">BC</styled-content> cell was significantly increased after si‐<styled-content style="fixed-case">HOTAIR</styled-content> treatment. Bar: 20 μm. **Compared with <styled-content style="fixed-case">NC</styled-content> group, <italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>0.01.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-5" position="float" orientation="portrait" xlink:href="CAM4-7-842-g002.jpg"/></fig></sec><sec id="cam41353-sec-0019"><title>LncRNA HOTAIR targeted miR‐20a‐5p and repressed its expression</title><p>Bioinformatics prediction showed that lncRNA HOTAIR could potentially bind to miR‐20a‐5p, miR‐107, miR‐137, miR‐133b as well as miR‐200b. QRT‐PCR assay showed that miR‐20a‐5p and miR‐107 expressions were significantly higher than control group after lncRNA HOTAIR knockdown and miR‐20a‐5p was the highest increase (<italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>0.01, Fig. <xref rid="cam41353-fig-0003" ref-type="fig">3</xref>A). MiR‐137 and miR‐133B were slightly upregulated (<italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>0.05, Fig. <xref rid="cam41353-fig-0003" ref-type="fig">3</xref>A), whereas miR‐200b was observed no significance (<italic toggle="yes">P </italic>&gt;<italic toggle="yes"> </italic>0.05, Fig. <xref rid="cam41353-fig-0003" ref-type="fig">3</xref>A). Thus, we then explored the relationship of lncRNA HOTAIR and miR‐20a‐5p. We employed biotinylated miR‐20a‐5p probe to pull down the lncRNA HOTAIR. Data indicated endogenous lncRNA HOTAIR was enriched specifically in miR‐20a‐5p probe detection compared with control group, suggesting that miR‐20a‐5p is a direct inhibitory target of lncRNA HOTAIR (<italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>0.01, Fig. <xref rid="cam41353-fig-0003" ref-type="fig">3</xref>B). In addition, relying on the miRcode (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.mircode.org/">http://www.mircode.org/</ext-link>), the targeting relationship between lncRNA HOTAIR and miR‐20a‐5p was displayed in Fig. <xref rid="cam41353-fig-0003" ref-type="fig">3</xref>C. Meanwhile, there was a negative correlation between lncRNA HOTAIR expression and miR‐20a‐5p expression (<italic toggle="yes">R</italic>
+<sup>2</sup> = 0.9008, <italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>0.01, Fig. <xref rid="cam41353-fig-0003" ref-type="fig">3</xref>D). The above results demonstrated that lncRNA HOTAIR targeted and regulated miR‐20a‐5p expression.</p><fig fig-type="Figure" xml:lang="en" id="cam41353-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>
+<styled-content style="fixed-case">HOTAIR</styled-content> directly targeted miR‐20a‐5p. (A) <styled-content style="fixed-case">qRT</styled-content>‐<styled-content style="fixed-case">PCR</styled-content> was used to detect the expression level of miR‐20a‐5p, miR‐107, miR‐137, miR‐133b, and miR‐200b after transfection with si‐<styled-content style="fixed-case">NC</styled-content> or si‐<styled-content style="fixed-case">HOTAIR</styled-content>. (B) The targeting relations of <styled-content style="fixed-case">HOTAIR</styled-content> and miR‐20a‐5p were confirmed by <styled-content style="fixed-case">RNA</styled-content> pull‐down assay. Endogenous <styled-content style="fixed-case">HOTAIR</styled-content> was enriched specifically in miR‐20a‐5p probe detection compared with control group. (C) The targeting relation between lnc<styled-content style="fixed-case">RNA HOTAIR</styled-content> and miR‐20a‐5p by miRcode. (D) Pearson's correlation analysis was used to determine the relationship between expression of miR‐20a‐5p and <styled-content style="fixed-case">HOTAIR</styled-content>. (E) Transfection efficiency of miR‐20a‐5p‐mimics and miR‐20a‐5p‐inhibitor was confirmed by <styled-content style="fixed-case">qRT</styled-content>‐<styled-content style="fixed-case">PCR</styled-content> assay. ** Compared with <styled-content style="fixed-case">NC</styled-content> group, <italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>0.01.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-7" position="float" orientation="portrait" xlink:href="CAM4-7-842-g003.jpg"/></fig></sec><sec id="cam41353-sec-0020"><title>MiR‐20a‐5p inhibited the progression of BC cells</title><p>QRT‐PCR revealed that miR‐20a‐5p expression level was significantly upregulated after transfected with miR‐20a‐5p‐mimics, but downregulated on miR‐20a‐5p‐inhibitor addition (<italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>0.01, Fig. <xref rid="cam41353-fig-0003" ref-type="fig">3</xref>E). MTT and colony formation assay showed that miR‐20a‐5p overexpression reduced cell viability, while cell transfected with miR‐20a‐5p inhibitors exhibited a significantly increased cell proliferation. Moreover, lncRNA HOTAIR knockdown neutralized the activator effects of miR‐20a‐5p inhibitor (<italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>0.05, Fig. <xref rid="cam41353-fig-0004" ref-type="fig">4</xref>A–C). Meanwhile, miR‐20a‐5p significantly impaired cell migratory and invasive capacity in MDA‐MB‐231 cells, whereas lncRNA HOTAIR induced BC cells migratory and invasive capacity. Co‐transfected with si‐HOTAIR and miR‐20a‐5p inhibitor, both migratory and invasive capacities were not significantly changed compared with negative control (<italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>0.05, Fig. <xref rid="cam41353-fig-0004" ref-type="fig">4</xref>D and E). TUNEL assays revealed that miR‐20a‐5p suppression inhibited apoptosis of BC cells, indicating that miR‐20a‐5p promoted BC cells apoptosis, which was restored on lncRNA HOTAIR knockdown as well (<italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>0.01, Fig. <xref rid="cam41353-fig-0004" ref-type="fig">4</xref>F). Overall, lncRNA HOTAIR/miR‐20a‐5p axis can exert influence on BC development and procession.</p><fig fig-type="Figure" xml:lang="en" id="cam41353-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>miR‐20a‐5p affected cell proliferation, migration, invasiveness, and apoptosis in <styled-content style="fixed-case">BC</styled-content>. (A) <styled-content style="fixed-case">MTT</styled-content> assay: miR‐20a‐5p overexpression suppressed cell growth, while transfection with miR‐20a‐5p inhibitor significantly promoted cell proliferation. (B) No significant change was observed in <styled-content style="fixed-case">MDA</styled-content>‐<styled-content style="fixed-case">MB</styled-content>‐231 with <styled-content style="fixed-case">HOTAIR</styled-content> and miR‐20a‐5p co‐downregulation. (C) Colony formation assay: the number of colonies was decreased on miR‐20a‐5p overexpression, whereas increased on miR‐20a‐5p inhibitors transfection. <styled-content style="fixed-case">HOTAIR</styled-content> knockdown neutralized the activator effects of miR‐20a‐5p inhibitor. (D) Transwell migration assay: miR‐20a‐5p inhibitor induced migration of <styled-content style="fixed-case">BC</styled-content> cells, while miR‐145‐5p mimics inhibited migration. The effect of miR‐20a‐5p inhibitor was attenuated on si‐<styled-content style="fixed-case">HOTAIR</styled-content> supplemented. Bar: 20 μm. (E) Transwell invasive assay: miR‐20a‐5p inhibitor significantly induced cell invasive capacity in <styled-content style="fixed-case">BC</styled-content> cells, whereas miR‐20a‐5p mimics impaired <styled-content style="fixed-case">BC</styled-content> invasive capacity. Co‐transfected with si‐<styled-content style="fixed-case">HOTAIR</styled-content> and miR‐20a‐5p inhibitor, invasive capacity was not significantly changed compared with negative control. (F) Detection of apoptosis was using the <styled-content style="fixed-case">TUNEL</styled-content> assay. <styled-content style="fixed-case">MDA</styled-content>‐<styled-content style="fixed-case">MB</styled-content>‐231 cells were transfected with si‐<styled-content style="fixed-case">NC</styled-content>, miR‐20a‐5p mimics, miR‐20a‐5p inhibitors, si‐<styled-content style="fixed-case">HOTAIR</styled-content>+miR‐20a‐5p inhibitors, respectively, before the <styled-content style="fixed-case">TUNEL</styled-content> assay (100×). The results revealed that miR‐20a‐5p overexpression promoted apoptosis of <styled-content style="fixed-case">BC</styled-content> cells, and miR‐20a‐5p suppression inhibited cell apoptosis. No significant apoptosis cell was observed in <styled-content style="fixed-case">HOTAIR</styled-content> and miR‐20a‐5p simultaneously downexpressed. Bar: 20 μm. * Compared with control group, <italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>0.05. ** Compared with <styled-content style="fixed-case">NC</styled-content> group, <italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>0.01. <sup>#</sup> Compared with miR‐20a‐5p‐inhibitor group, <italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>0.05</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-9" position="float" orientation="portrait" xlink:href="CAM4-7-842-g004.jpg"/></fig></sec><sec id="cam41353-sec-0021"><title>
+<italic toggle="yes">HMGA2</italic> was differentially expressed and analyzed by mRNA array in BC cells</title><p>To understand the underlying mechanism of miR‐20a‐5p in BC, we searched the differentially expressed mRNA for its potential target genes via TCGA microarray. 158 upregulated mRNA and 175 downregulated mRNA were found in BC tissues. <italic toggle="yes">HMGA2</italic> was one of the candidate genes because its expression was upregulated reaching to 2.05‐fold (Fig. <xref rid="cam41353-fig-0005" ref-type="fig">5</xref>A and B). And qRT‐PCR also confirmed <italic toggle="yes">HMGA2</italic> was observably higher than adjacent tissues, indicating its carcinogenesis role in BC (<italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>0.01, Fig. <xref rid="cam41353-fig-0005" ref-type="fig">5</xref>C).</p><fig fig-type="Figure" xml:lang="en" id="cam41353-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>
+<italic toggle="yes"><styled-content style="fixed-case">HMGA</styled-content>2</italic> was overexpressed in <styled-content style="fixed-case">BC</styled-content> tissues, and <italic toggle="yes"><styled-content style="fixed-case">HMGA</styled-content>2</italic> was targeted by miR‐20a‐5p in <styled-content style="fixed-case">BC</styled-content>. (A) Volcano plot: <italic toggle="yes"><styled-content style="fixed-case">HMGA</styled-content>2</italic> was analyzed by <styled-content style="fixed-case">mRNA</styled-content> microarray analysis and selected as a promising gene involved <styled-content style="fixed-case">BC</styled-content> tumorgenesis. (B) Heatmap: <italic toggle="yes"><styled-content style="fixed-case">HMGA</styled-content>2</italic> was overexpressed in <styled-content style="fixed-case">BC</styled-content> tumor tissues compared with adjacent tissues. (C) The <styled-content style="fixed-case">mRNA</styled-content> level of <italic toggle="yes"><styled-content style="fixed-case">HMGA</styled-content>2</italic> was confirmed to be upregulated in tumor tissues via <styled-content style="fixed-case">qRT</styled-content>‐<styled-content style="fixed-case">PCR</styled-content> analysis. (D) The putative binding site between <italic toggle="yes"><styled-content style="fixed-case">HMGA</styled-content>2</italic> and miR‐20a‐5p was predicted by TargetScan. (E) The dual luciferase assay showed that miR‐20a‐5p mimics significantly reduced the luciferase activity of <styled-content style="fixed-case">WT</styled-content>
+<italic toggle="yes">‐<styled-content style="fixed-case">HMGA</styled-content>2</italic> but not <styled-content style="fixed-case">MUT</styled-content>‐<italic toggle="yes"><styled-content style="fixed-case">HMGA</styled-content>2</italic>. (F) <styled-content style="fixed-case">qRT</styled-content>‐<styled-content style="fixed-case">PCR</styled-content> was used to determine miR‐20a‐5p and <italic toggle="yes"><styled-content style="fixed-case">HMGA</styled-content>2</italic> expression level. MiR‐20a‐5p mimics significantly reduced the expression of <italic toggle="yes"><styled-content style="fixed-case">HMGA</styled-content>2</italic> compared with control group. (G) Overexpression of <italic toggle="yes"><styled-content style="fixed-case">HMGA</styled-content>2</italic> could not decrease the expression of miR‐20a‐5p in <styled-content style="fixed-case">MDA</styled-content>‐<styled-content style="fixed-case">MB</styled-content>‐231 cells. (H) Pearson's correlation analysis was used to determine the relationship between expression of miR‐20a‐5p and <italic toggle="yes"><styled-content style="fixed-case">HMGA</styled-content>2</italic>,<italic toggle="yes"> R</italic>
+<sup>2</sup> = 0.8374. ** Compared with the control group, <italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>0.01.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-11" position="float" orientation="portrait" xlink:href="CAM4-7-842-g005.jpg"/></fig></sec><sec id="cam41353-sec-0022"><title>
+<italic toggle="yes">HMGA2</italic> was targeted by miR‐20a‐5p in BC cells</title><p>In this study, bioinformatics prediction software (TargetScan) showed that miR‐20a‐5p potentially bound to <italic toggle="yes">HMGA2</italic> (Fig. <xref rid="cam41353-fig-0005" ref-type="fig">5</xref>D). Dual luciferase reporter assay showed that luciferase activity was remarkably decreased in cells co‐transfected with WT‐<italic toggle="yes">HMGA2</italic> and miR‐20a‐5p mimics (<italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>0.01, Fig. <xref rid="cam41353-fig-0005" ref-type="fig">5</xref>E). It indicated that miR‐20a‐5p could directly bind to 3′‐UTR of <italic toggle="yes">HMGA2</italic>, and further repressed gene expression. To investigate their relationship thoroughly, we explored the expression of <italic toggle="yes">HMGA2</italic> in MDA‐MB‐231 cells transfected with miR‐20a‐5p mimics. The results showed miR‐20a‐5p mimics significantly reduced the expression of <italic toggle="yes">HMGA2</italic> compared with control group (<italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>0.01, Fig. <xref rid="cam41353-fig-0005" ref-type="fig">5</xref>F). On the other hand, overexpression of <italic toggle="yes">HMGA2</italic> could not decrease the expression of miR‐20a‐5p in MDA‐MB‐231 cells (<italic toggle="yes">P </italic>&gt; 0.05, Fig. <xref rid="cam41353-fig-0005" ref-type="fig">5</xref>G). Then, we explored the expression of miR‐20a‐5p in BC tissues, our findings suggested that lncRNA HOTAIR expression was increased and inverse correlation with miR‐20a‐5p expression in these 20 clinical BC tissues (<italic toggle="yes">R</italic>
+<sup>2</sup> = 0.8374, <italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>0.01, Fig. <xref rid="cam41353-fig-0005" ref-type="fig">5</xref>H). Those data demonstrated that miR‐20a‐5p regulated <italic toggle="yes">HMGA2</italic> expression by directly binding to it, but <italic toggle="yes">HMGA2</italic> could not induce the degradation of miR‐20a‐5p in return.</p></sec><sec id="cam41353-sec-0023"><title>MiR‐20a‐5p targeted <italic toggle="yes">HMGA2</italic> to affect cells proliferation, migration, invasion, and apoptosis</title><p>To explore the potential function of miR‐20a‐5p/<italic toggle="yes">HMGA2</italic> in BC development, MDA‐MB‐231 cells were classified into NC group, <italic toggle="yes">HMGA2</italic> group, si‐<italic toggle="yes">HMGA2</italic> group, and <italic toggle="yes">HMGA2 </italic>+<italic toggle="yes"> </italic>miR‐20a‐5p‐mimics group. MTT and colony formation assay were used to analyze cells growth. Results showed that <italic toggle="yes">HMGA2</italic> overexpression induced cells growth and increased colonies formation, while transfected with si‐<italic toggle="yes">HMGA2</italic> significantly suppressed cell proliferation. Moreover, miR‐20a‐5p overexpression attenuated the activator effects of <italic toggle="yes">HMGA2</italic> (<italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>0.05, Fig. <xref rid="cam41353-fig-0006" ref-type="fig">6</xref>A –C). As well, <italic toggle="yes">HMGA2</italic> significantly enhanced cell migratory and invasive capacity in MDA‐MB‐231 cells, whereas <italic toggle="yes">HMGA2</italic> knockdown reduced BC cells migratory and invasive capacity. Meanwhile, co‐transfected with HMGA2 and miR‐20a‐5p mimics, both migratory and invasive capacities were not significantly changed compared with NC group (<italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>0.05, Fig. <xref rid="cam41353-fig-0006" ref-type="fig">6</xref>D and E). Moreover, <italic toggle="yes">HMGA2</italic> reduced BC cells apoptosis, as evaluated by the TUNEL assay. The simultaneous increase of miR‐20a‐5p in MDA‐MB‐231 cells attenuated the role of <italic toggle="yes">HMGA2</italic> in BC procession, as shown by the increased cell apoptosis rate (<italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>0.01, Fig. <xref rid="cam41353-fig-0006" ref-type="fig">6</xref>F). These data suggested that <italic toggle="yes">HMGA2</italic> played an activated role in BC development mediated by miR‐20a‐5p.</p><fig fig-type="Figure" xml:lang="en" id="cam41353-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>miR‐20a‐5p targeted <italic toggle="yes"><styled-content style="fixed-case">HMGA</styled-content>2</italic> to influence cell proliferation, migration, invasion, and apoptosis in <styled-content style="fixed-case">BC</styled-content>. (A) <styled-content style="fixed-case">MTT</styled-content> assay: Increased expression of <italic toggle="yes"><styled-content style="fixed-case">HMGA</styled-content>2</italic> enforced cell proliferation, but decreased <italic toggle="yes"><styled-content style="fixed-case">HMGA</styled-content>2</italic> expression inhibited cell growth. No significant change was observed in miR‐20‐5p and <italic toggle="yes"><styled-content style="fixed-case">HMGA</styled-content>2</italic> co‐overexpression. (B‐C) Colony formation assay: colonies were decreased on si‐<italic toggle="yes"><styled-content style="fixed-case">HMGA</styled-content>2</italic> addition, but <italic toggle="yes"><styled-content style="fixed-case">HMGA</styled-content>2</italic> overexpression significantly promoted colonies formation. <italic toggle="yes"><styled-content style="fixed-case">HMGA</styled-content>2</italic> overexpression neutralized the inhibitory effects of miR‐20a‐5p mimics. (D) Transwell migration assay: <italic toggle="yes"><styled-content style="fixed-case">HMGA</styled-content>2</italic> overexpression induced migration of <styled-content style="fixed-case">BC</styled-content> cells; however, si‐<italic toggle="yes"><styled-content style="fixed-case">HMGA</styled-content>2</italic> inhibited migration. The effect of <italic toggle="yes"><styled-content style="fixed-case">HMGA</styled-content>2</italic> overexpression was attenuated on miR‐20a‐5p supplemented. (E) Transwell invasive assay: <italic toggle="yes"><styled-content style="fixed-case">HMGA</styled-content>2</italic> overexpression significantly induced cell invasive capacity in <styled-content style="fixed-case">BC</styled-content> cells, whereas si‐<italic toggle="yes"><styled-content style="fixed-case">HMGA</styled-content>2</italic> impaired <styled-content style="fixed-case">BC</styled-content> invasive capacity. Co‐transfected with <italic toggle="yes"><styled-content style="fixed-case">HMGA</styled-content>2</italic> and miR‐20a‐5p mimics, invasive capacity was not significantly changed compared with <styled-content style="fixed-case">NC</styled-content>. (F) Detection of apoptosis was using the <styled-content style="fixed-case">TUNEL</styled-content> assay. <styled-content style="fixed-case">MDA</styled-content>‐<styled-content style="fixed-case">MB</styled-content>‐231 cells were transfected with si‐<styled-content style="fixed-case">NC</styled-content>,<italic toggle="yes"><styled-content style="fixed-case">HMGA</styled-content>2</italic>, si‐<italic toggle="yes"><styled-content style="fixed-case">HMGA</styled-content>2</italic>,<italic toggle="yes"><styled-content style="fixed-case">HMGA</styled-content>2 </italic>+<italic toggle="yes"> </italic>miR‐20a‐5p mimics before the <styled-content style="fixed-case">TUNEL</styled-content> assay (100×). The results revealed that <italic toggle="yes"><styled-content style="fixed-case">HMGA</styled-content>2</italic> downregulation promoted apoptosis of <styled-content style="fixed-case">BC</styled-content> cells, and <italic toggle="yes"><styled-content style="fixed-case">HMGA</styled-content>2</italic> overexpression inhibited cell apoptosis. No significant apoptosis cell was observed in <italic toggle="yes"><styled-content style="fixed-case">HMGA</styled-content>2</italic> and miR‐20a‐5p simultaneously overexpressed. ** Compared with <styled-content style="fixed-case">NC</styled-content> group, <italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>0.01. <sup>#</sup> Compared with <italic toggle="yes"><styled-content style="fixed-case">HMGA</styled-content>2</italic> group, <italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>0.05.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-13" position="float" orientation="portrait" xlink:href="CAM4-7-842-g006.jpg"/></fig></sec><sec id="cam41353-sec-0024"><title>LncRNA HOTAIR/miR‐20a‐5p/HMGA2 axis modulated BC tumor growth in vivo</title><p>To verify the function of lncRNA HOTAIR/miR‐20a‐5p/HMGA2 axis in BC, we studied on their bio‐functional role in tumorigenesis in vivo. Nude mice experiment results indicated knockdown of lncRNA HOTAIR or si‐HMGA2 could slowdown mice tumor growth, while miR‐20a‐5p inhibitor accelerated tumor growth (<italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>0.05, Fig. <xref rid="cam41353-fig-0007" ref-type="fig">7</xref>A–C). Moreover, the tumor volume of mice in si‐HOTAIR+ miR‐20a‐5p inhibitor group was significantly smaller than that in miR‐20a‐5p inhibitor group, while larger than that in si‐HOTAIR group (<italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>0.05). The tumor weight of mice after treatment also displayed similar trend.</p><fig fig-type="Figure" xml:lang="en" id="cam41353-fig-0007" orientation="portrait" position="float"><label>Figure 7</label><caption><p>
+<styled-content style="fixed-case">HOTAIR</styled-content>/miR‐20a‐5p/<italic toggle="yes"><styled-content style="fixed-case">HMGA</styled-content>2</italic> axis mediated <styled-content style="fixed-case">BC</styled-content> tumorgenesis in vivo. (A–C) Suppression of tumor growth was observed after <styled-content style="fixed-case">HOTAIR</styled-content> or <italic toggle="yes"><styled-content style="fixed-case">HMGA</styled-content>2</italic> knockdown. Tumor size was enlarged by transfecting with miR‐20a‐5p inhibitor, Tumor volume was retrieved in si‐<styled-content style="fixed-case">HOTAIR</styled-content> group on addition of miR‐20a‐5p inhibitor. Tumor growth was measured every other day after 7 days of injection, and tumors were then harvested on day 28 and weighed. Actual tumor size after the harvest was shown in the medium panel. * Compared with <styled-content style="fixed-case">NC</styled-content> group, <italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>0.05. <sup>#</sup> Compared with si‐<styled-content style="fixed-case">HOTAIR</styled-content> group, <italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>0.05. <sup>+</sup> Compared with miR‐20a‐5p‐inhibitor group.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-15" position="float" orientation="portrait" xlink:href="CAM4-7-842-g007.jpg"/></fig></sec></sec><sec id="cam41353-sec-0025"><title>Discussion</title><p>Herein, lncRNA HOTAIR was found to be overexpressed in breast cancer tissues and cells and mediated miR‐20a‐5p/HMGA2 in breast cancer. Knockdown of lncRNA HOTAIR could suppress cell viability, further affecting cell propagation, migration, invasiveness, and cell apoptosis capacities in BC. Nevertheless, knockdown of miR‐20a‐5p in BC cells showed the opposite changes. Our findings indicated that lncRNA HOTAIR and miR‐20a‐5p could be used as novel markers of BC and were potential therapeutic targets for BC treatment.</p><p>LncRNA HOTAIR is one of the important lncRNAs in various tumor carcinogenesis including breast cancer and highly expressed in various cancers, which is closely related to tumor size, advanced and extensive metastasis <xref rid="cam41353-bib-0013" ref-type="ref">13</xref>, <xref rid="cam41353-bib-0026" ref-type="ref">26</xref>, <xref rid="cam41353-bib-0027" ref-type="ref">27</xref>, <xref rid="cam41353-bib-0028" ref-type="ref">28</xref>, <xref rid="cam41353-bib-0029" ref-type="ref">29</xref>. Overexpression of lncRNA HOTAIR not only influences tumor formation but induces the proliferation, migration, and invasion <xref rid="cam41353-bib-0016" ref-type="ref">16</xref>, <xref rid="cam41353-bib-0027" ref-type="ref">27</xref>, <xref rid="cam41353-bib-0030" ref-type="ref">30</xref>. Accumulated evidence suggested that lncRNA HOTAIR is an independent biomarker for predicting the risk of metastasis and mortality in breast cancer <xref rid="cam41353-bib-0016" ref-type="ref">16</xref>, <xref rid="cam41353-bib-0031" ref-type="ref">31</xref>, suggesting its carcinogenic role in BC progression. Our study also disclosed that lncRNA HOTAIR acted as a crucial regulator in BC development and facilitated BC cell propagation and metastasis and promoted tumor growth in vitro and in vivo.</p><p>Some previous researches demonstrated that miRNAs can modulate lncRNA HOTAIR expression, including miR‐141 <xref rid="cam41353-bib-0032" ref-type="ref">32</xref>, miR‐148a <xref rid="cam41353-bib-0007" ref-type="ref">7</xref>, miR‐34a <xref rid="cam41353-bib-0033" ref-type="ref">33</xref>. MiR‐20, as a member of the miR‐17‐92 cluster, has been reported that displayed a higher expression in multiple cancers and involved in carcinogenesis <xref rid="cam41353-bib-0034" ref-type="ref">34</xref>. Recently, miR‐17‐92 members including miR‐20a were also reported to suppress MICA/B protein expression in ovarian tumors <xref rid="cam41353-bib-0035" ref-type="ref">35</xref>, glioma <xref rid="cam41353-bib-0036" ref-type="ref">36</xref>, and breast tumors <xref rid="cam41353-bib-0037" ref-type="ref">37</xref>, contributing to their immune escape. However, on condition of some physiological context and the cell type, miR‐20a also plays tumor suppressive function <xref rid="cam41353-bib-0038" ref-type="ref">38</xref>, <xref rid="cam41353-bib-0039" ref-type="ref">39</xref>, <xref rid="cam41353-bib-0040" ref-type="ref">40</xref>. In our study, miR‐20a‐5p functioned as a tumor suppressor in breast cancer cells. Analysis of miRNA expression profiles revealed a decrease in miR‐20a‐5p expression in breast carcinoma. Furthermore, we demonstrated that lncRNA HOTAIR functioned as a competing endogenous RNA (ceRNA) to affect miR‐20a‐5p activity and regulate the miR‐20a‐5p target genes like <italic toggle="yes">HMGA2</italic>.</p><p>As a transcriptional factor, <italic toggle="yes">HMGA2</italic> is increased in many malignant tumors such as lung cancer <xref rid="cam41353-bib-0041" ref-type="ref">41</xref>, ovarian cancer <xref rid="cam41353-bib-0042" ref-type="ref">42</xref>, and bladder cancer <xref rid="cam41353-bib-0043" ref-type="ref">43</xref>, which targets different downstream genes in the process of tumorigenesis <xref rid="cam41353-bib-0044" ref-type="ref">44</xref>, <xref rid="cam41353-bib-0045" ref-type="ref">45</xref>, <xref rid="cam41353-bib-0046" ref-type="ref">46</xref>. Wu et al. <xref rid="cam41353-bib-0047" ref-type="ref">47</xref> proved that HMGA2 expression was positively correlated with tumor histological grade, and it was important with pathogenesis of breast cancer. Therefore, <italic toggle="yes">HMGA2</italic> is becoming recognized as a key mediator in numerous mesenchymal and epithelial malignancies. In the current study, we substantiated that <italic toggle="yes">HMGA2</italic> was negatively regulated by miR‐20a‐5p and exerted a certain influence on BC cell growth, cell mobility, invasiveness, and apoptosis.</p><p>However, there are some limitations that exist in this study. First, the limited samples might not fully substantiate the accuracy of the results. Second, detailed investigation of genes that comprise the lncRNA HOTAIR/miR‐20a‐5p/<italic toggle="yes">HMGA2</italic> axis should also yield further insight into the mechanism by which lncRNA HOTAIR overexpression induces breast cancer progression. And the relationship between lncRNA HOTAIR and other potential targeting miRNAs needed more attentions and researches. In addition, we just focused on one breast cancer cell line, the MDA‐MB‐231 cell line, which made our research not strict adequate and the experimental conclusion was not sufficient enough. Moreover, the specific role of lncRNA HOTAIR/miR‐20a‐5p/<italic toggle="yes">HMGA2</italic> in breast cancer remains to be further investigated.</p><p>In conclusion, lncRNA HOTAIR expression was elevated in BC tissues and cells. LncRNA HOTAIR could act as a molecular sponge of miR‐20a‐5p and significantly contributed to BC development and tumorigenesis by activating <italic toggle="yes">HMGA2</italic> protein expression. The finding of the lncRNA HOTAIR/miR‐20a‐5p/<italic toggle="yes">HMGA2</italic> network might provide more effective clinical therapeutic strategy for breast cancer patients.</p></sec><sec id="cam41353-sec-0027"><title>Conflict of Interest</title><p>None declared.</p></sec></body><back><ack id="cam41353-sec-0026"><title>Acknowledgment</title><p>This research was supported by Shengjing Hospital Affiliated China Medical University.</p></ack><ref-list content-type="cited-references" id="cam41353-bibl-0001"><title>References</title><ref id="cam41353-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="cam41353-cit-0001">
+<string-name name-style="western">
+<surname>Wang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Liu</surname>
+</string-name>, et al. <year>2017</year>
+<article-title>Mir‐204/zeb2 axis functions as key mediator for malat1‐induced epithelial‐mesenchymal transition in breast cancer</article-title>. <source>Tumour Biol.</source>
+<volume>39</volume>:<fpage>1010428317690998</fpage>.<pub-id pub-id-type="pmid">28675122</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/1010428317690998</pub-id></mixed-citation></ref><ref id="cam41353-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="cam41353-cit-0002">
+<string-name name-style="western">
+<surname>Torre</surname>, <given-names>L. A.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Bray</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. L.</given-names>
+<surname>Siegel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Ferlay</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Lortet‐Tieulent</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Jemal</surname>
+</string-name>. <year>2015</year>
+<article-title>Global cancer statistics, 2012</article-title>. <source>CA Cancer J. Clin.</source>
+<volume>65</volume>:<fpage>87</fpage>–<lpage>108</lpage>.<pub-id pub-id-type="pmid">25651787</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3322/caac.21262</pub-id></mixed-citation></ref><ref id="cam41353-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="cam41353-cit-0003">
+<string-name name-style="western">
+<surname>Jemal</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Bray</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. M.</given-names>
+<surname>Center</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Ferlay</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Ward</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Forman</surname>
+</string-name>. <year>2011</year>
+<article-title>Global cancer statistics</article-title>. <source>CA Cancer J. Clin.</source>
+<volume>61</volume>:<fpage>69</fpage>–<lpage>90</lpage>.<pub-id pub-id-type="pmid">21296855</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3322/caac.20107</pub-id></mixed-citation></ref><ref id="cam41353-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="cam41353-cit-0004">
+<string-name name-style="western">
+<surname>Gonzalez‐Angulo</surname>, <given-names>A. M.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Morales‐Vasquez</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>G. N.</given-names>
+<surname>Hortobagyi</surname>
+</string-name>. <year>2007</year>
+<article-title>Overview of resistance to systemic therapy in patients with breast cancer</article-title>. <source>Adv. Exp. Med. Biol.</source>
+<volume>608</volume>:<fpage>1</fpage>–<lpage>22</lpage>.<pub-id pub-id-type="pmid">17993229</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/978-0-387-74039-3_1</pub-id></mixed-citation></ref><ref id="cam41353-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="cam41353-cit-0005">
+<string-name name-style="western">
+<surname>Zhao</surname>, <given-names>X. B.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>G. S.</given-names>
+<surname>Ren</surname>
+</string-name>. <year>2016</year>
+<article-title>Lncrna taurine‐upregulated gene 1 promotes cell proliferation by inhibiting microrna‐9 in mcf‐7 cells</article-title>. <source>J. Breast Cancer</source>
+<volume>19</volume>:<fpage>349</fpage>–<lpage>357</lpage>.<pub-id pub-id-type="pmid">28053623</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.4048/jbc.2016.19.4.349</pub-id><pub-id pub-id-type="pmcid">PMC5204041</pub-id></mixed-citation></ref><ref id="cam41353-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="cam41353-cit-0006">
+<string-name name-style="western">
+<surname>Shuvalov</surname>, <given-names>O.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Petukhov</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Daks</surname>
+</string-name>, <string-name name-style="western">
+<given-names>O.</given-names>
+<surname>Fedorova</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Ermakov</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Melino</surname>
+</string-name>, et al. <year>2015</year>
+<article-title>Current genome editing tools in gene therapy: new approaches to treat cancer</article-title>. <source>Curr. Gene Ther.</source>
+<volume>15</volume>:<fpage>511</fpage>–<lpage>529</lpage>.<pub-id pub-id-type="pmid">26282844</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.2174/1566523215666150818110241</pub-id></mixed-citation></ref><ref id="cam41353-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="cam41353-cit-0007">
+<string-name name-style="western">
+<surname>Tao</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>He</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>Q.</given-names>
+<surname>Chen</surname>
+</string-name>. <year>2015</year>
+<article-title>Estradiol induces hotair levels via gper‐mediated mir‐148a inhibition in breast cancer</article-title>. <source>J. Transl. Med.</source>
+<volume>13</volume>:<fpage>131</fpage>.<pub-id pub-id-type="pmid">25928008</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12967-015-0489-x</pub-id><pub-id pub-id-type="pmcid">PMC4421993</pub-id></mixed-citation></ref><ref id="cam41353-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="cam41353-cit-0008">
+<string-name name-style="western">
+<surname>Ke</surname>, <given-names>H.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Feng</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Zou</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Q.</given-names>
+<surname>Yang</surname>
+</string-name>, et al. <year>2016</year>
+<article-title>Neat1 is required for survival of breast cancer cells through fus and mir‐548</article-title>. <source>Gene Regul. Syst. Biol.</source>
+<volume>10</volume>:<fpage>11</fpage>–<lpage>17</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.4137/GRSB.S29414</pub-id><pub-id pub-id-type="pmcid">PMC4849421</pub-id><pub-id pub-id-type="pmid">27147820</pub-id></mixed-citation></ref><ref id="cam41353-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="cam41353-cit-0009">
+<string-name name-style="western">
+<surname>Xing</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>P. K.</given-names>
+<surname>Park</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Lin</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Yang</surname>
+</string-name>. <year>2015</year>
+<article-title>Lncrna bcar4 wires up signaling transduction in breast cancer</article-title>. <source>RNA Biol.</source>
+<volume>12</volume>:<fpage>681</fpage>–<lpage>689</lpage>.<pub-id pub-id-type="pmid">26016563</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/15476286.2015.1053687</pub-id><pub-id pub-id-type="pmcid">PMC4615247</pub-id></mixed-citation></ref><ref id="cam41353-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="cam41353-cit-0010">
+<string-name name-style="western">
+<surname>Rinn</surname>, <given-names>J. L.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Kertesz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. K.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. L.</given-names>
+<surname>Squazzo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. A.</given-names>
+<surname>Brugmann</surname>
+</string-name>, et al. <year>2007</year>
+<article-title>Functional demarcation of active and silent chromatin domains in human hox loci by noncoding rnas</article-title>. <source>Cell</source>
+<volume>129</volume>:<fpage>1311</fpage>–<lpage>1323</lpage>.<pub-id pub-id-type="pmid">17604720</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cell.2007.05.022</pub-id><pub-id pub-id-type="pmcid">PMC2084369</pub-id></mixed-citation></ref><ref id="cam41353-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="cam41353-cit-0011">
+<string-name name-style="western">
+<surname>Kogo</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Shimamura</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Mimori</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Kawahara</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Imoto</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Sudo</surname>
+</string-name>, et al. <year>2011</year>
+<article-title>Long noncoding rna hotair regulates polycomb‐dependent chromatin modification and is associated with poor prognosis in colorectal cancers</article-title>. <source>Can. Res.</source>
+<volume>71</volume>:<fpage>6320</fpage>–<lpage>6326</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/0008-5472.CAN-11-1021</pub-id><pub-id pub-id-type="pmid">21862635</pub-id></mixed-citation></ref><ref id="cam41353-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="cam41353-cit-0012">
+<string-name name-style="western">
+<surname>Geng</surname>, <given-names>Y. J.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>S. L.</given-names>
+<surname>Xie</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Q.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Ma</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>G. Y.</given-names>
+<surname>Wang</surname>
+</string-name>. <year>2011</year>
+<article-title>Large intervening non‐coding rna hotair is associated with hepatocellular carcinoma progression</article-title>. <source>J. Int. Med. Res.</source>
+<volume>39</volume>:<fpage>2119</fpage>–<lpage>2128</lpage>.<pub-id pub-id-type="pmid">22289527</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/147323001103900608</pub-id></mixed-citation></ref><ref id="cam41353-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="cam41353-cit-0013">
+<string-name name-style="western">
+<surname>Kim</surname>, <given-names>K.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Jutooru</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Chadalapaka</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Johnson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Frank</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Burghardt</surname>
+</string-name>, et al. <year>2013</year>
+<article-title>Hotair is a negative prognostic factor and exhibits pro‐oncogenic activity in pancreatic cancer</article-title>. <source>Oncogene</source>
+<volume>32</volume>:<fpage>1616</fpage>–<lpage>1625</lpage>.<pub-id pub-id-type="pmid">22614017</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/onc.2012.193</pub-id><pub-id pub-id-type="pmcid">PMC3484248</pub-id></mixed-citation></ref><ref id="cam41353-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="cam41353-cit-0014">
+<string-name name-style="western">
+<surname>Niinuma</surname>, <given-names>T.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Suzuki</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Nojima</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Nosho</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Yamamoto</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Takamaru</surname>
+</string-name>, et al. <year>2012</year>
+<article-title>Upregulation of mir‐196a and hotair drive malignant character in gastrointestinal stromal tumors</article-title>. <source>Can. Res.</source>
+<volume>72</volume>:<fpage>1126</fpage>–<lpage>1136</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/0008-5472.CAN-11-1803</pub-id><pub-id pub-id-type="pmid">22258453</pub-id></mixed-citation></ref><ref id="cam41353-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="cam41353-cit-0015">
+<string-name name-style="western">
+<surname>Nakagawa</surname>, <given-names>T.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Endo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Yokoyama</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Abe</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Tamai</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Tanaka</surname>
+</string-name>, et al. <year>2013</year>
+<article-title>Large noncoding rna hotair enhances aggressive biological behavior and is associated with short disease‐free survival in human non‐small cell lung cancer</article-title>. <source>Biochem. Biophys. Res. Commun.</source>
+<volume>436</volume>:<fpage>319</fpage>–<lpage>324</lpage>.<pub-id pub-id-type="pmid">23743197</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bbrc.2013.05.101</pub-id></mixed-citation></ref><ref id="cam41353-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="cam41353-cit-0016">
+<string-name name-style="western">
+<surname>Gupta</surname>, <given-names>R. A.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Shah</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. C.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H. M.</given-names>
+<surname>Horlings</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. J.</given-names>
+<surname>Wong</surname>
+</string-name>, et al. <year>2010</year>
+<article-title>Long non‐coding rna hotair reprograms chromatin state to promote cancer metastasis</article-title>. <source>Nature</source>
+<volume>464</volume>:<fpage>1071</fpage>–<lpage>1076</lpage>.<pub-id pub-id-type="pmid">20393566</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nature08975</pub-id><pub-id pub-id-type="pmcid">PMC3049919</pub-id></mixed-citation></ref><ref id="cam41353-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="cam41353-cit-0017">
+<string-name name-style="western">
+<surname>Yang</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. M.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. C.</given-names>
+<surname>Lai</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H. Y.</given-names>
+<surname>Xie</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Zhang</surname>
+</string-name>, et al. <year>2011</year>
+<article-title>Overexpression of long non‐coding rna hotair predicts tumor recurrence in hepatocellular carcinoma patients following liver transplantation</article-title>. <source>Ann. Surg. Oncol.</source>
+<volume>18</volume>:<fpage>1243</fpage>–<lpage>1250</lpage>.<pub-id pub-id-type="pmid">21327457</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1245/s10434-011-1581-y</pub-id></mixed-citation></ref><ref id="cam41353-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="cam41353-cit-0018">
+<string-name name-style="western">
+<surname>Bartel</surname>, <given-names>D. P.</given-names>
+</string-name>
+<year>2004</year>
+<article-title>Micrornas: genomics, biogenesis, mechanism, and function</article-title>. <source>Cell</source>
+<volume>116</volume>:<fpage>281</fpage>–<lpage>297</lpage>.<pub-id pub-id-type="pmid">14744438</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0092-8674(04)00045-5</pub-id></mixed-citation></ref><ref id="cam41353-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="cam41353-cit-0019">
+<string-name name-style="western">
+<surname>Browne</surname>, <given-names>G.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>J. A.</given-names>
+<surname>Dragon</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Hong</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. L.</given-names>
+<surname>Messier</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. A.</given-names>
+<surname>Gordon</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N. H.</given-names>
+<surname>Farina</surname>
+</string-name>, et al. <year>2016</year>
+<article-title>Microrna‐378‐mediated suppression of runx1 alleviates the aggressive phenotype of triple‐negative mda‐mb‐231 human breast cancer cells</article-title>. <source>Tumour Biol.</source>
+<volume>37</volume>:<fpage>8825</fpage>–<lpage>8839</lpage>.<pub-id pub-id-type="pmid">26749280</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s13277-015-4710-6</pub-id><pub-id pub-id-type="pmcid">PMC4939137</pub-id></mixed-citation></ref><ref id="cam41353-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="cam41353-cit-0020">
+<string-name name-style="western">
+<surname>Stern‐Ginossar</surname>, <given-names>N.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Gur</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Biton</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Horwitz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Elboim</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Stanietsky</surname>
+</string-name>, et al. <year>2008</year>
+<article-title>Human micrornas regulate stress‐induced immune responses mediated by the receptor nkg2d</article-title>. <source>Nat. Immunol.</source>
+<volume>9</volume>:<fpage>1065</fpage>–<lpage>1073</lpage>.<pub-id pub-id-type="pmid">18677316</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/ni.1642</pub-id></mixed-citation></ref><ref id="cam41353-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="cam41353-cit-0021">
+<string-name name-style="western">
+<surname>Li</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Lei</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, et al. <year>2016</year>
+<article-title>Network‐based identification of micrornas as potential pharmacogenomic biomarkers for anticancer drugs</article-title>. <source>Oncotarget</source>
+<volume>7</volume>:<fpage>45584</fpage>–<lpage>45596</lpage>.<pub-id pub-id-type="pmid">27329603</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.18632/oncotarget.10052</pub-id><pub-id pub-id-type="pmcid">PMC5216744</pub-id></mixed-citation></ref><ref id="cam41353-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="cam41353-cit-0022">
+<string-name name-style="western">
+<surname>Fusco</surname>, <given-names>A.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Fedele</surname>
+</string-name>. <year>2007</year>
+<article-title>Roles of hmga proteins in cancer</article-title>. <source>Nat. Rev. Cancer</source>
+<volume>7</volume>:<fpage>899</fpage>–<lpage>910</lpage>.<pub-id pub-id-type="pmid">18004397</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nrc2271</pub-id></mixed-citation></ref><ref id="cam41353-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="cam41353-cit-0023">
+<string-name name-style="western">
+<surname>Rogalla</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Drechsler</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Kazmierczak</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Rippe</surname>
+</string-name>, <string-name name-style="western">
+<given-names>U.</given-names>
+<surname>Bonk</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Bullerdiek</surname>
+</string-name>. <year>1997</year>
+<article-title>Expression of hmgi‐c, a member of the high mobility group protein family, in a subset of breast cancers: relationship to histologic grade</article-title>. <source>Mol. Carcinog.</source>
+<volume>19</volume>:<fpage>153</fpage>–<lpage>156</lpage>.<pub-id pub-id-type="pmid">9254881</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/(sici)1098-2744(199707)19:3&lt;153::aid-mc2&gt;3.0.co;2-f</pub-id></mixed-citation></ref><ref id="cam41353-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="cam41353-cit-0024">
+<string-name name-style="western">
+<surname>Abe</surname>, <given-names>N.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Watanabe</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Suzuki</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Matsumoto</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Masaki</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Mori</surname>
+</string-name>, et al. <year>2003</year>
+<article-title>An increased high‐mobility group a2 expression level is associated with malignant phenotype in pancreatic exocrine tissue</article-title>. <source>Br. J. Cancer</source>
+<volume>89</volume>:<fpage>2104</fpage>–<lpage>2109</lpage>.<pub-id pub-id-type="pmid">14647145</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/sj.bjc.6601391</pub-id><pub-id pub-id-type="pmcid">PMC2376847</pub-id></mixed-citation></ref><ref id="cam41353-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="cam41353-cit-0025">
+<string-name name-style="western">
+<surname>Meyer</surname>, <given-names>B.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Loeschke</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Schultze</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Weigel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Sandkamp</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Goldmann</surname>
+</string-name>, et al. <year>2007</year>
+<article-title>Hmga2 overexpression in non‐small cell lung cancer</article-title>. <source>Mol. Carcinog.</source>
+<volume>46</volume>:<fpage>503</fpage>–<lpage>511</lpage>.<pub-id pub-id-type="pmid">17477356</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/mc.20235</pub-id></mixed-citation></ref><ref id="cam41353-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="cam41353-cit-0026">
+<string-name name-style="western">
+<surname>Sorensen</surname>, <given-names>K. P.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Thomassen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Q.</given-names>
+<surname>Tan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Bak</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Cold</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Burton</surname>
+</string-name>, et al. <year>2013</year>
+<article-title>Long non‐coding rna hotair is an independent prognostic marker of metastasis in estrogen receptor‐positive primary breast cancer</article-title>. <source>Breast Cancer Res. Treat.</source>
+<volume>142</volume>:<fpage>529</fpage>–<lpage>536</lpage>.<pub-id pub-id-type="pmid">24258260</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s10549-013-2776-7</pub-id></mixed-citation></ref><ref id="cam41353-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="cam41353-cit-0027">
+<string-name name-style="western">
+<surname>Ge</surname>, <given-names>X. S.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>H. J.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X. H.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H. L.</given-names>
+<surname>Ruan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X. Y.</given-names>
+<surname>Liao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W. Q.</given-names>
+<surname>Xue</surname>
+</string-name>, et al. <year>2013</year>
+<article-title>Hotair, a prognostic factor in esophageal squamous cell carcinoma, inhibits wif‐1 expression and activates wnt pathway</article-title>. <source>Cancer Sci.</source>
+<volume>104</volume>:<fpage>1675</fpage>–<lpage>1682</lpage>.<pub-id pub-id-type="pmid">24118380</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/cas.12296</pub-id><pub-id pub-id-type="pmcid">PMC7653522</pub-id></mixed-citation></ref><ref id="cam41353-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="cam41353-cit-0028">
+<string-name name-style="western">
+<surname>Liu</surname>, <given-names>X. H.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>Z. L.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z. X.</given-names>
+<surname>Wang</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>De</surname>
+</string-name>. <year>2013</year>
+<article-title>The long non‐coding rna hotair indicates a poor prognosis and promotes metastasis in non‐small cell lung cancer</article-title>. <source>BMC Cancer</source>
+<volume>13</volume>:<fpage>464</fpage>.<pub-id pub-id-type="pmid">24103700</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/1471-2407-13-464</pub-id><pub-id pub-id-type="pmcid">PMC3851855</pub-id></mixed-citation></ref><ref id="cam41353-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="cam41353-cit-0029">
+<string-name name-style="western">
+<surname>Li</surname>, <given-names>X.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Q.</given-names>
+<surname>Mei</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Fu</surname>
+</string-name>, et al. <year>2013</year>
+<article-title>Long non‐coding rna hotair, a driver of malignancy, predicts negative prognosis and exhibits oncogenic activity in oesophageal squamous cell carcinoma</article-title>. <source>Br. J. Cancer</source>
+<volume>109</volume>:<fpage>2266</fpage>–<lpage>2278</lpage>.<pub-id pub-id-type="pmid">24022190</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/bjc.2013.548</pub-id><pub-id pub-id-type="pmcid">PMC3798955</pub-id></mixed-citation></ref><ref id="cam41353-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="cam41353-cit-0030">
+<string-name name-style="western">
+<surname>Ding</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Lv</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Xiao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Du</surname>
+</string-name>, et al. <year>2014a</year>
+<article-title>Long non‐coding rna hotair promotes cell migration and invasion via down‐regulation of rna binding motif protein 38 in hepatocellular carcinoma cells</article-title>. <source>Int. J. Mol. Sci.</source>
+<volume>15</volume>:<fpage>4060</fpage>–<lpage>4076</lpage>.<pub-id pub-id-type="pmid">24663081</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ijms15034060</pub-id><pub-id pub-id-type="pmcid">PMC3975384</pub-id></mixed-citation></ref><ref id="cam41353-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="cam41353-cit-0031">
+<string-name name-style="western">
+<surname>Lu</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Q.</given-names>
+<surname>Deng</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Katsaros</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. T.</given-names>
+<surname>Mayne</surname>
+</string-name>, et al. <year>2012</year>
+<article-title>Association of large noncoding rna hotair expression and its downstream intergenic cpg island methylation with survival in breast cancer</article-title>. <source>Breast Cancer Res. Treat.</source>
+<volume>136</volume>:<fpage>875</fpage>–<lpage>883</lpage>.<pub-id pub-id-type="pmid">23124417</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s10549-012-2314-z</pub-id></mixed-citation></ref><ref id="cam41353-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="cam41353-cit-0032">
+<string-name name-style="western">
+<surname>Chiyomaru</surname>, <given-names>T.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Fukuhara</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Saini</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Majid</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Deng</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Shahryari</surname>
+</string-name>, et al. <year>2014</year>
+<article-title>Long non‐coding rna hotair is targeted and regulated by mir‐141 in human cancer cells</article-title>. <source>J. Biol. Chem.</source>
+<volume>289</volume>:<fpage>12550</fpage>–<lpage>12565</lpage>.<pub-id pub-id-type="pmid">24616104</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1074/jbc.M113.488593</pub-id><pub-id pub-id-type="pmcid">PMC4007447</pub-id></mixed-citation></ref><ref id="cam41353-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="cam41353-cit-0033">
+<string-name name-style="western">
+<surname>Deng</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>An</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Wang</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Liu</surname>
+</string-name>. <year>2017</year>
+<article-title>Long non‐coding rna hotair regulates the proliferation, self‐renewal capacity, tumor formation and migration of the cancer stem‐like cell (csc) subpopulation enriched from breast cancer cells</article-title>. <source>PLoS ONE</source>
+<volume>12</volume>:<fpage>e0170860</fpage>.<pub-id pub-id-type="pmid">28122024</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0170860</pub-id><pub-id pub-id-type="pmcid">PMC5266294</pub-id><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="retraction-forward" ext-link-type="pmc" xlink:href="PMC10965075"/></mixed-citation></ref><ref id="cam41353-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="cam41353-cit-0034">
+<string-name name-style="western">
+<surname>Jiang</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Yin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Fu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Mo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Pan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Dai</surname>
+</string-name>, et al. <year>2014</year>
+<article-title>Mirna 17 family regulates cisplatin‐resistant and metastasis by targeting tgfbetar2 in nsclc</article-title>. <source>PLoS ONE</source>
+<volume>9</volume>:<fpage>e94639</fpage>.<pub-id pub-id-type="pmid">24722426</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0094639</pub-id><pub-id pub-id-type="pmcid">PMC3983236</pub-id><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="expression-of-concern" ext-link-type="pmc" xlink:href="PMC6752771"/></mixed-citation></ref><ref id="cam41353-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="cam41353-cit-0035">
+<string-name name-style="western">
+<surname>Xie</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Nie</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Q.</given-names>
+<surname>Mi</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Zhao</surname>
+</string-name>. <year>2014</year>
+<article-title>Ovarian tumor‐associated microrna‐20a decreases natural killer cell cytotoxicity by downregulating mica/b expression</article-title>. <source>Cell. Mol. Immunol.</source>
+<volume>11</volume>:<fpage>495</fpage>–<lpage>502</lpage>.<pub-id pub-id-type="pmid">24813230</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/cmi.2014.30</pub-id><pub-id pub-id-type="pmcid">PMC4197204</pub-id></mixed-citation></ref><ref id="cam41353-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="cam41353-cit-0036">
+<string-name name-style="western">
+<surname>Codo</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Weller</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Meister</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Szabo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Steinle</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Wolter</surname>
+</string-name>, et al. <year>2014</year>
+<article-title>Microrna‐mediated down‐regulation of nkg2d ligands contributes to glioma immune escape</article-title>. <source>Oncotarget</source>
+<volume>5</volume>:<fpage>7651</fpage>–<lpage>7662</lpage>.<pub-id pub-id-type="pmid">25277195</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.18632/oncotarget.2287</pub-id><pub-id pub-id-type="pmcid">PMC4202151</pub-id></mixed-citation></ref><ref id="cam41353-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="cam41353-cit-0037">
+<string-name name-style="western">
+<surname>Shen</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Pan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Du</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Si</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Yao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Xu</surname>
+</string-name>, et al. <year>2017</year>
+<article-title>Silencing nkg2d ligand‐targeting mirnas enhances natural killer cell‐mediated cytotoxicity in breast cancer</article-title>. <source>Cell Death Dis.</source>
+<volume>8</volume>:<fpage>e2740</fpage>.<pub-id pub-id-type="pmid">28383557</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/cddis.2017.158</pub-id><pub-id pub-id-type="pmcid">PMC5477582</pub-id></mixed-citation></ref><ref id="cam41353-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="cam41353-cit-0038">
+<string-name name-style="western">
+<surname>Yan</surname>, <given-names>H.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Zuo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Zhang</surname>
+</string-name>, et al. <year>2010</year>
+<article-title>Microrna‐20a overexpression inhibited proliferation and metastasis of pancreatic carcinoma cells</article-title>. <source>Hum. Gene Ther.</source>
+<volume>21</volume>:<fpage>1723</fpage>–<lpage>1734</lpage>.<pub-id pub-id-type="pmid">20583868</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1089/hum.2010.061</pub-id></mixed-citation></ref><ref id="cam41353-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="cam41353-cit-0039">
+<string-name name-style="western">
+<surname>Yu</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>N. E.</given-names>
+<surname>Willmarth</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Katiyar</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Liu</surname>
+</string-name>, et al. <year>2010</year>
+<article-title>Microrna 17/20 inhibits cellular invasion and tumor metastasis in breast cancer by heterotypic signaling</article-title>. <source>Proc. Natl Acad. Sci. USA</source>
+<volume>107</volume>:<fpage>8231</fpage>–<lpage>8236</lpage>.<pub-id pub-id-type="pmid">20406904</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.1002080107</pub-id><pub-id pub-id-type="pmcid">PMC2889540</pub-id></mixed-citation></ref><ref id="cam41353-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="cam41353-cit-0040">
+<string-name name-style="western">
+<surname>Yu</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. C.</given-names>
+<surname>Casimiro</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Liu</surname>
+</string-name>, et al. <year>2008</year>
+<article-title>A cyclin d1/microrna 17/20 regulatory feedback loop in control of breast cancer cell proliferation</article-title>. <source>J. Cell Biol.</source>
+<volume>182</volume>:<fpage>509</fpage>–<lpage>517</lpage>.<pub-id pub-id-type="pmid">18695042</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1083/jcb.200801079</pub-id><pub-id pub-id-type="pmcid">PMC2500136</pub-id></mixed-citation></ref><ref id="cam41353-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="cam41353-cit-0041">
+<string-name name-style="western">
+<surname>Kumar</surname>, <given-names>M. S.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Armenteros‐Monterroso</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>East</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Chakravorty</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Matthews</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. M.</given-names>
+<surname>Winslow</surname>
+</string-name>, et al. <year>2014</year>
+<article-title>Hmga2 functions as a competing endogenous rna to promote lung cancer progression</article-title>. <source>Nature</source>
+<volume>505</volume>:<fpage>212</fpage>–<lpage>217</lpage>.<pub-id pub-id-type="pmid">24305048</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nature12785</pub-id><pub-id pub-id-type="pmcid">PMC3886898</pub-id><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="retraction-forward" ext-link-type="pmc" xlink:href="PMC4527149"/></mixed-citation></ref><ref id="cam41353-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="cam41353-cit-0042">
+<string-name name-style="western">
+<surname>Xi</surname>, <given-names>Y. N.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>X. Y.</given-names>
+<surname>Xin</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>H. M.</given-names>
+<surname>Ye</surname>
+</string-name>. <year>2014</year>
+<article-title>Effects of hmga2 on malignant degree, invasion, metastasis, proliferation and cellular morphology of ovarian cancer cells</article-title>. <source>Asian Pac. J. Trop. Med.</source>
+<volume>7</volume>:<fpage>289</fpage>–<lpage>292</lpage>.<pub-id pub-id-type="pmid">24507678</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S1995-7645(14)60040-7</pub-id></mixed-citation></ref><ref id="cam41353-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="cam41353-cit-0043">
+<string-name name-style="western">
+<surname>Ding</surname>, <given-names>X.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Q.</given-names>
+<surname>Chi</surname>
+</string-name>, et al. <year>2014b</year>
+<article-title>Expression of hmga2 in bladder cancer and its association with epithelial‐to‐mesenchymal transition</article-title>. <source>Cell Prolif.</source>
+<volume>47</volume>:<fpage>146</fpage>–<lpage>151</lpage>.<pub-id pub-id-type="pmid">24571540</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/cpr.12096</pub-id><pub-id pub-id-type="pmcid">PMC6496012</pub-id></mixed-citation></ref><ref id="cam41353-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="cam41353-cit-0044">
+<string-name name-style="western">
+<surname>Madison</surname>, <given-names>B. B.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A. N.</given-names>
+<surname>Jeganathan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Mizuno</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. M.</given-names>
+<surname>Winslow</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Castells</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Cuatrecasas</surname>
+</string-name>, et al. <year>2015</year>
+<article-title>Let‐7 represses carcinogenesis and a stem cell phenotype in the intestine via regulation of hmga2</article-title>. <source>PLoS Genet.</source>
+<volume>11</volume>:<fpage>e1005408</fpage>.<pub-id pub-id-type="pmid">26244988</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pgen.1005408</pub-id><pub-id pub-id-type="pmcid">PMC4526516</pub-id></mixed-citation></ref><ref id="cam41353-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="cam41353-cit-0045">
+<string-name name-style="western">
+<surname>Yu</surname>, <given-names>K. R.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>J. H.</given-names>
+<surname>Shin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. J.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. G.</given-names>
+<surname>Koog</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. Y.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. W.</given-names>
+<surname>Choi</surname>
+</string-name>, et al. <year>2015</year>
+<article-title>Rapid and efficient direct conversion of human adult somatic cells into neural stem cells by hmga2/let‐7b</article-title>. <source>Cell Rep.</source>
+<volume>10</volume>:<fpage>441</fpage>–<lpage>452</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.celrep.2014.12.038</pub-id><pub-id pub-id-type="pmid">25600877</pub-id></mixed-citation></ref><ref id="cam41353-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="cam41353-cit-0046">
+<string-name name-style="western">
+<surname>Parameswaran</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Xia</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Hegde</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Ahmad</surname>
+</string-name>. <year>2014</year>
+<article-title>Hmga2 regulates self‐renewal of retinal progenitors</article-title>. <source>Development</source>
+<volume>141</volume>:<fpage>4087</fpage>–<lpage>4097</lpage>.<pub-id pub-id-type="pmid">25336737</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1242/dev.107326</pub-id><pub-id pub-id-type="pmcid">PMC4302892</pub-id></mixed-citation></ref><ref id="cam41353-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="cam41353-cit-0047">
+<string-name name-style="western">
+<surname>Wu</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Shan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Chen</surname>
+</string-name>, et al. <year>2016</year>
+<article-title>Elevated hmga2 expression is associated with cancer aggressiveness and predicts poor outcome in breast cancer</article-title>. <source>Cancer Lett.</source>
+<volume>376</volume>:<fpage>284</fpage>–<lpage>292</lpage>.<pub-id pub-id-type="pmid">27063096</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.canlet.2016.04.005</pub-id></mixed-citation></ref></ref-list></back></article>

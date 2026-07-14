@@ -1,0 +1,629 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article article-type="research-article" xml:lang="en" dtd-version="1.4"><front><journal-meta><journal-id journal-id-type="nlm-ta">J Cell Mol Med</journal-id><journal-id journal-id-type="iso-abbrev">J. Cell. Mol. Med</journal-id><journal-id journal-id-type="pmc-domain-id">2233</journal-id><journal-id journal-id-type="pmc-domain">jcmmopen</journal-id><journal-id journal-id-type="nlm-id">101083777</journal-id><journal-id journal-id-type="publisher-id">JCMM</journal-id><journal-title-group><journal-title>Journal of Cellular and Molecular Medicine</journal-title></journal-title-group><issn pub-type="ppub">1582-1838</issn><issn pub-type="epub">1582-4934</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC5867138</article-id><article-id pub-id-type="pmcid-ver">PMC5867138.1</article-id><article-id pub-id-type="pmcaid">5867138</article-id><article-id pub-id-type="pmcaiid">5867138</article-id><article-id pub-id-type="pmid">29441717</article-id><article-id pub-id-type="doi">10.1111/jcmm.13532</article-id><article-id pub-id-type="publisher-id">JCMM13532</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Articles</subject></subj-group></article-categories><title-group><article-title>S100A9 gene silencing inhibits the release of pro‐inflammatory cytokines by blocking the <styled-content style="fixed-case">IL</styled-content>‐17 signalling pathway in mice with acute pancreatitis</article-title><alt-title alt-title-type="left-running-head">WU et al.</alt-title></title-group><contrib-group><contrib id="jcmm13532-cr-0001" contrib-type="author"><name name-style="western"><surname>Wu</surname><given-names initials="DM">Dong‐Mei</given-names></name><xref ref-type="aff" rid="jcmm13532-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="jcmm13532-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="jcmm13532-cr-0002" contrib-type="author"><name name-style="western"><surname>Wang</surname><given-names initials="S">Shan</given-names></name><xref ref-type="aff" rid="jcmm13532-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="jcmm13532-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="jcmm13532-cr-0003" contrib-type="author"><name name-style="western"><surname>Shen</surname><given-names initials="M">Min</given-names></name><xref ref-type="aff" rid="jcmm13532-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="jcmm13532-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="jcmm13532-cr-0004" contrib-type="author"><name name-style="western"><surname>Wang</surname><given-names initials="YJ">Yong‐Jian</given-names></name><xref ref-type="aff" rid="jcmm13532-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="jcmm13532-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="jcmm13532-cr-0005" contrib-type="author"><name name-style="western"><surname>Zhang</surname><given-names initials="B">Bo</given-names></name><xref ref-type="aff" rid="jcmm13532-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="jcmm13532-cr-0006" contrib-type="author"><name name-style="western"><surname>Wu</surname><given-names initials="ZQ">Zi‐Qi</given-names></name><xref ref-type="aff" rid="jcmm13532-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="jcmm13532-cr-0007" contrib-type="author" corresp="yes"><name name-style="western"><surname>Lu</surname><given-names initials="J">Jun</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0003-3098-7507</contrib-id><address><email>lu-jun75@163.com</email></address><xref ref-type="aff" rid="jcmm13532-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="jcmm13532-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="jcmm13532-cr-0008" contrib-type="author" corresp="yes"><name name-style="western"><surname>Zheng</surname><given-names initials="YL">Yuan‐Lin</given-names></name><address><email>ylzheng@jsnu.edu.cn</email></address><xref ref-type="aff" rid="jcmm13532-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="jcmm13532-aff-0002">
+<sup>2</sup>
+</xref></contrib></contrib-group><aff id="jcmm13532-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Key Laboratory for Biotechnology on Medicinal Plants of Jiangsu Province</named-content>
+<named-content content-type="organisation-division">School of Life Science</named-content>
+<institution>Jiangsu Normal University</institution>
+<named-content content-type="city">Xuzhou</named-content>
+<country country="CN">China</country>
+</aff><aff id="jcmm13532-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">College of Health Sciences</named-content>
+<institution>Jiangsu Normal University</institution>
+<named-content content-type="city">Xuzhou</named-content>
+<country country="CN">China</country>
+</aff><aff id="jcmm13532-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Department of General Surgery</named-content>
+<institution>The First Affiliated Hospital of Fujian Medical University</institution>
+<named-content content-type="city">Fuzhou</named-content>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Jun Lu and Yuan‐Lin Zheng<break/>
+Emails: <email>lu-jun75@163.com</email> (JL) and <email>ylzheng@jsnu.edu.cn</email> (Y‐LZ)<break/></corresp></author-notes><pub-date pub-type="epub"><day>14</day><month>2</month><year>2018</year></pub-date><pub-date pub-type="ppub"><month>4</month><year>2018</year></pub-date><volume>22</volume><issue>4</issue><issue-id pub-id-type="pmc-issue-id">309068</issue-id><issue-id pub-id-type="doi">10.1111/jcmm.2018.22.issue-4</issue-id><fpage>2378</fpage><lpage>2389</lpage><history><date date-type="received"><day>16</day><month>6</month><year>2017</year></date><date date-type="accepted"><day>09</day><month>12</month><year>2017</year></date></history><pub-history><event event-type="pmc-release"><date><day>01</day><month>04</month><year>2018</year></date></event><event event-type="pmc-live"><date><day>01</day><month>04</month><year>2018</year></date></event><event event-type="pmc-released-under-embargo"><date><day>30</day><month>03</month><year>2018</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-07-11 13:25:38.027"><day>11</day><month>07</month><year>2025</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2018 The Authors. Journal of Cellular and Molecular Medicine published by John Wiley &amp; Sons Ltd and Foundation for Cellular and Molecular Medicine.</copyright-statement><license license-type="creativeCommonsBy"><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="JCMM-22-2378.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:JCMM-22-2378.pdf"/><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="retraction-forward" xml:lang="en" xlink:title="retraction" journal-id="J Cell Mol Med" journal-id-type="nlm-ta" ext-link-type="pmc" xlink:href="PMC7810926"><article-title>Retraction</article-title><volume>25</volume><issue>1</issue><date><day>4</day><month>1</month><year>2021</year></date><fpage>613</fpage><lpage>613</lpage><source>Journal of Cellular and Molecular Medicine</source><pub-id pub-id-type="doi">10.1111/jcmm.16031</pub-id><pub-id pub-id-type="pmcid">PMC7810926</pub-id><pub-id pub-id-type="pmid">33452749</pub-id></related-article><abstract id="jcmm13532-abs-0001"><title>Abstract</title><p>The study aimed to investigate whether S100A9 gene silencing mediating the <styled-content style="fixed-case">IL</styled-content>‐17 pathway affected the release of pro‐inflammatory cytokines in acute pancreatitis (<styled-content style="fixed-case">AP</styled-content>). Kunming mice were assigned to the normal, <styled-content style="fixed-case">AP</styled-content>,<styled-content style="fixed-case"> AP</styled-content> + negative control (<styled-content style="fixed-case">NC</styled-content>), <styled-content style="fixed-case">AP</styled-content> + sh<styled-content style="fixed-case">RNA</styled-content>,<styled-content style="fixed-case"> AP</styled-content> + IgG and <styled-content style="fixed-case">AP</styled-content> + anti <styled-content style="fixed-case">IL</styled-content>‐17 groups. <styled-content style="fixed-case">ELISA</styled-content> was applied to measure expressions of <styled-content style="fixed-case">AMY</styled-content>,<styled-content style="fixed-case"> LDH</styled-content>,<styled-content style="fixed-case"> CRP</styled-content>,<styled-content style="fixed-case"> TNF</styled-content>‐α, <styled-content style="fixed-case">IL</styled-content>‐6 and <styled-content style="fixed-case">IL</styled-content>‐8. The cells were distributed into the control, blank, <styled-content style="fixed-case">NC</styled-content>, sh<styled-content style="fixed-case">RNA</styled-content>1 and sh<styled-content style="fixed-case">RNA</styled-content>2 groups. <styled-content style="fixed-case">MTT</styled-content> assay, flow cytometry, <styled-content style="fixed-case">RT</styled-content>‐<styled-content style="fixed-case">qPCR</styled-content> and Western blotting were used to evaluate cell proliferation, cell cycle and apoptosis, and expressions of S100A9, <styled-content style="fixed-case">TLR</styled-content>4, <styled-content style="fixed-case">RAGE</styled-content>,<styled-content style="fixed-case"> IL</styled-content>‐17, <styled-content style="fixed-case">HMGB</styled-content>1 and S100A12 in tissues and cells. Compared with the normal group, the <styled-content style="fixed-case">AP</styled-content> group displayed increased expressions of <styled-content style="fixed-case">AMY</styled-content>,<styled-content style="fixed-case"> LDH</styled-content>,<styled-content style="fixed-case"> CRP</styled-content>,<styled-content style="fixed-case"> TNF</styled-content>α, <styled-content style="fixed-case">IL</styled-content>‐6, <styled-content style="fixed-case">IL</styled-content>‐8, S100A9, <styled-content style="fixed-case">TLR</styled-content>4, <styled-content style="fixed-case">RAGE</styled-content>,<styled-content style="fixed-case"> IL</styled-content>‐17, <styled-content style="fixed-case">HMGB</styled-content>1 and S100A12. The <styled-content style="fixed-case">AP</styled-content> + sh<styled-content style="fixed-case">RNA</styled-content> and <styled-content style="fixed-case">AP</styled-content> + anti <styled-content style="fixed-case">IL</styled-content>‐17 groups exhibited an opposite trend. The in vivo results: Compare with the control group, the blank, <styled-content style="fixed-case">NC</styled-content>, sh<styled-content style="fixed-case">RNA</styled-content>1 and sh<styled-content style="fixed-case">RNA</styled-content>2 groups demonstrated increased expressions of S100A9, <styled-content style="fixed-case">TLR</styled-content>4, <styled-content style="fixed-case">RAGE</styled-content>,<styled-content style="fixed-case"> IL</styled-content>‐17, <styled-content style="fixed-case">HMGB</styled-content>1 and S100A12, as well as cell apoptosis and cells at the G1 phase, with reduced proliferation. Compared with the blank and <styled-content style="fixed-case">NC</styled-content> groups, the sh<styled-content style="fixed-case">RNA</styled-content>1 and sh<styled-content style="fixed-case">RNA</styled-content>2 groups had declined expressions of S100A9, <styled-content style="fixed-case">TLR</styled-content>4, <styled-content style="fixed-case">RAGE</styled-content>,<styled-content style="fixed-case"> IL</styled-content>‐17, <styled-content style="fixed-case">HMGB</styled-content>1 and S100A12, as well as cell apoptosis and cells at the G1 phase, with elevated proliferation. The results indicated that S100A9 gene silencing suppressed the release of pro‐inflammatory cytokines through blocking of the <styled-content style="fixed-case">IL</styled-content>‐17 pathway in <styled-content style="fixed-case">AP</styled-content>.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="jcmm13532-kwd-0001">acute pancreatitis</kwd><kwd id="jcmm13532-kwd-0002">interleukin‐17 signalling pathway</kwd><kwd id="jcmm13532-kwd-0003">pro‐inflammatory cytokine</kwd><kwd id="jcmm13532-kwd-0004">S100A9</kwd></kwd-group><funding-group><award-group><funding-source>National Natural Science Foundation of China</funding-source><award-id>81570531</award-id><award-id>81571055</award-id><award-id>81400902</award-id><award-id>81271225</award-id><award-id>81171012</award-id><award-id>81672731</award-id><award-id>30950031</award-id></award-group><award-group><funding-source>2013 “Qinglan Project” of the Young and Middleaged Academic Leader of Jiangsu College and University</funding-source></award-group><award-group><funding-source>Major Fundamental Research Program of the Natural Science Foundation of the Jiangsu Higher Education Institutions of China</funding-source><award-id>13KJA180001</award-id></award-group><award-group><funding-source>Cultivate National Science Fund for Distinguished Young Scholars of Jiangsu Normal University</funding-source></award-group><award-group><funding-source>Priority Academic Program Development of Jiangsu Higher Education Institutions (PAPD); 2016 “333 Project” Award of Jiangsu Province</funding-source></award-group></funding-group><counts><fig-count count="6"/><table-count count="2"/><page-count count="12"/><word-count count="8201"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>jcmm13532</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>April 2018</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:version=5.3.3 mode:remove_FC converted:25.03.2018</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="jcmm13532-cit-1001">
+<string-name name-style="western">
+<surname>Wu</surname>
+<given-names>D‐M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shen</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>S100A9 gene silencing inhibits the release of pro‐inflammatory cytokines by blocking the IL‐17 signalling pathway in mice with acute pancreatitis</article-title>. <source>J Cell Mol Med</source>. <year>2018</year>;<volume>22</volume>:<fpage>2378</fpage>–<lpage>2389</lpage>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://doi.org/10.1111/jcmm.13532">https://doi.org/10.1111/jcmm.13532</ext-link>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/jcmm.13532</pub-id><pub-id pub-id-type="pmcid">PMC5867138</pub-id><pub-id pub-id-type="pmid">29441717</pub-id><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="retraction-forward" ext-link-type="pmc" xlink:href="PMC7810926"/></mixed-citation>
+</p><fn-group id="jcmm13532-ntgp-0001"><fn id="jcmm13532-note-1001"><p>Dong‐Mei Wu, Shan Wang, Min Shen are regarded as co‐first authors.</p></fn></fn-group></notes></front><body><sec id="jcmm13532-sec-0001"><label>1</label><title>INTRODUCTION</title><p>Acute pancreatitis (AP) relates to an acute inflammatory progression, by which the pancreas elicits a systemic inflammatory response.<xref rid="jcmm13532-bib-0001" ref-type="ref">1</xref> It is widely accepted that AP refers to a dynamic evolving situation, with fluctuations in severity during the development of the disease.<xref rid="jcmm13532-bib-0002" ref-type="ref">2</xref> Severe acute pancreatitis (SAP) represents the most serious type of AP largely due to the fact comes with particularly high rates of morbidity and mortality.<xref rid="jcmm13532-bib-0003" ref-type="ref">3</xref> Biliary pathology and alcohol misuse typify the most typical patterns of AP aetiology, accounting for 40% and 22% of all cases of the condition, respectively. Furthermore, other risk factors associated with the condition include trauma, hypercholesterolaemia, iatrogenic procedures and other idiopathic causes.<xref rid="jcmm13532-bib-0004" ref-type="ref">4</xref> It is estimated that approximately 30% of all AP patients will be subject to severe attacks, which is indicative of a high mortality rate.<xref rid="jcmm13532-bib-0005" ref-type="ref">5</xref> Owing to both the high mortality rate and exorbitant medical costs associated with the treatment of the more severe cases of AP, treatment of AP remains a critical challenge to the field of gastroenterology.<xref rid="jcmm13532-bib-0006" ref-type="ref">6</xref> Schenckenburger et al demonstrated the roles of S100 calcium‐binding protein A9 (S100A9) in inflammatory cell infiltration and in cell‐cell contact regulation.<xref rid="jcmm13532-bib-0007" ref-type="ref">7</xref> S100A9, which is commonly referred to as myeloid‐related protein‐14 (MRP14), is a primary member of the S100 family of proteins and has been linked to acute and chronic inflammatory conditions.<xref rid="jcmm13532-bib-0008" ref-type="ref">8</xref> Furthermore, elevated levels of S100A8/A9 have been detected in a variety of inflammatory diseases, such as rheumatoid arthritis and inflammatory bowel disease.<xref rid="jcmm13532-bib-0009" ref-type="ref">9</xref> During this study, we aimed to elucidate the mechanisms involved with S100A9 and its role in AP.</p><p>When combined with S100A8, S100A9 constitutes the heterodimeric protein calprotectin (S100A8/9), which is expressed in nearly all cells, tissues and fluids in the human body.<xref rid="jcmm13532-bib-0010" ref-type="ref">10</xref> A recent study explored the relationship between pancreatic cancer, S100A9/A8 and transforming growth factor beta 1 (TGFβ1) concluded that the overexpression of S100A9/A8 by infiltrating inflammatory cells and the expressions is related to TGFβ1 in pancreatic ductal adenocarcinoma (PDAC).<xref rid="jcmm13532-bib-0011" ref-type="ref">11</xref> Interleukin‐17 (IL‐17), a pro‐inflammatory cytokine mainly produced by T‐helper 17 (Th 17) cells, has been reported to play a crucial role in the development of an effective immune response.<xref rid="jcmm13532-bib-0012" ref-type="ref">12</xref>, <xref rid="jcmm13532-bib-0013" ref-type="ref">13</xref> Liu et al reported that IL‐17 played a pivotal role in the pathogenesis of numerous inflammatory diseases in the central nervous system (CNS), such as multiple sclerosis and stoke,<xref rid="jcmm13532-bib-0014" ref-type="ref">14</xref> whereas Dai et al suggested that serum IL‐17 was an early prognostic biomarker of severe acute pancreatitis in patients receiving continuous blood purification.<xref rid="jcmm13532-bib-0015" ref-type="ref">15</xref> However, few studies have appeared to place an emphasis on the effects of S100A9 and the release of pro‐inflammatory cytokines through the IL‐17 signalling pathway in AP. Hence, during this study, we aimed to explore the roles of S100A9 in the release of pro‐inflammatory cytokines via the IL‐17 signalling pathway in a mouse model of AP.</p></sec><sec id="jcmm13532-sec-0002"><label>2</label><title>MATERIALS AND METHODS</title><sec id="jcmm13532-sec-0003"><label>2.1</label><title>Ethics statement</title><p>All animal use and experimental procedures were performed in accordance with the Declaration of Helsinki,<xref rid="jcmm13532-bib-0016" ref-type="ref">16</xref> as well as in agreement with the Experimental Animal Ethics Committee of Key Laboratory for Biotechnology on Medicinal Plants of Jiangsu Province, School of Life Science, Jiangsu Normal University.</p></sec><sec id="jcmm13532-sec-0004"><label>2.2</label><title>Establishment of AP mouse model</title><p>A total of 90 healthy male Kunming (KM) mice were raised under a specific pathogen animal (SPF) environment (23°C room temperature, 65% relative humidity and 12/12 hours light/dark cycle), with free access to water and food deprivation a minimum of 12 hours. The mice were then divided into 6 groups (15 mice each group), namely a normal (intraperitoneally injected with the same volume of sterile normal saline 6 times, once/h), a AP group (intraperitoneally injected with 20% L‐arginine [L‐Arg] [200 mg/100 g] [S3174, Selleck Chemicals Co. Ltd., Shanghai, China] 6 times, once/h), a AP + negative control (NC) group (injected with 200 μL 5 × 10<sup>9</sup> TU/mL shRNA‐NC lentivirus by tail vein before intraperitoneal injection with 20% L‐Arg), a AP + shRNA group (injected with 200 μL 5 × 10<sup>9</sup> TU/mL shRNA‐S100A9 lentivirus by tail vein before intraperitoneal injection with 20% L‐Arg), a AP + IgG group (intraperitoneally injected with IgG isotype control protein every 48 hours [4 times, 100 μg per mouse] [Tianjin Sungene Biotech Co., Ltd., Tianjin, China]) and a AP + anti IL‐17 group (intraperitoneally injected with IL‐17 monoclonal antibody every 48 hours [4 times, 100 μg per mouse] [Tianjin Sungene Biotech Co., Ltd., Tianjin, China]).<xref rid="jcmm13532-bib-0017" ref-type="ref">17</xref> When the mice exhibited a reduction in foraging activity, a tendency to huddle, loose fur, distended abdomens and frequent urination, post‐model establishment, the model was then considered to be successful.<xref rid="jcmm13532-bib-0018" ref-type="ref">18</xref> Twenty‐four hours post‐model establishment, a tail bleeding procedure was performed. The mice were executed, and the serum was separated and stored in a refrigerator at −20°C. One part of the extracted pancreatic tissues was fixed, embedded and sectioned for immunohistochemistry (IHC) and haematoxylin‐eosin (HE) staining, whereas the other part was used for reverse transcription quantitative polymerase chain reaction (RT‐qPCR) and Western blotting purposes.</p></sec><sec id="jcmm13532-sec-0005"><label>2.3</label><title>Immunohistochemistry (IHC)</title><p>Immunohistochemistry was performed in accordance with the instructions of the SP‐9001 Kit (Beijing Nobleryder Technology Co. Ltd., Beijing, China). The paraffin‐embedded pancreatic tissue blocks obtained from the mice of the normal and AP groups were placed at room temperature for 30 minutes. The tissues were then fixed with acetone at 4°C for 10 minutes, dewaxed and rehydrated. After the tissues were washed 3 times with phosphate‐buffered saline (PBS) (5 minutes per wash), 3% H<sub>2</sub>O<sub>2</sub> was used to exhaust the endogenous peroxidase activity for 5‐10 minutes. The blocks were then washed 3 times with distilled water (3 minutes per wash) and immersed twice in PBS (5 minutes each time). After that, the tissues were blocked finally in a working solution comprised of 5% normal goat serum (C1771, Beijing Applygen Technology Co., Ltd, Beijing, China). After incubation at 37°C for 10‐15 minutes, the tissue blocks were sliced into sections of approximately 5 μm, which were flattened and baked at 70°C for 1 hour, followed by slicing and an additional round of baking at 60°C for 5. Next, the sections were incubated with rabbit anti‐S100A9 antibody (ab92507, Abcam Inc., Cambridge, MA, USA) and IL‐17 (ab79056, Abcam Inc., Cambridge, MA, USA) at 4°C overnight. The sections were then placed at room temperature for 30 minutes, washed 3 times with PBS (5 minutes each time) and incubated with a corresponding biotinylated goat anti‐rabbit IgG secondary antibody (ab150077, Abcam Inc, Cambridge, MA, USA) at 37°C for 1 hour. After an additional 3 washes with PBS (5 minutes each time), the sections were incubated with horseradish peroxidase (HRP) (0343‐10000U, Beijing Imun Biotechnology Co., Ltd., Beijing, China) labelled streptavidin working solution at 37°C for 1 hour, followed by 3 further PBS washes (5 minutes each time). A 3,3′‐diaminobenzidine (DAB, ST033, Guangzhou Whiga Technology Co., Ltd., Guangzhou, Guangdong, China) was used for colour development for a period of 3‐10 minutes, and the samples were washed with double‐distilled water (DDW) for 10 minutes after the reaction had been stopped. The sections were then counterstained with haematoxylin (Shanghai Fusheng Industrial Co., Ltd., Shanghai, China) for 1 minute and soaked in 1% hydrochloric acid‐ethanol mixtures for 10 seconds. After washing with running water, the tissues were stained to turn blue for 10 seconds using 1% ammonia. Next, the samples were dehydrated with graded ethanol, permeabilized with xylene and mounted by neutral balsam. PBS was regarded as the NC during the replacement of the primary antibody. The experiment was repeated 3 times. The scores of staining intensity and cell rate of positive expression were calculated using the OlymPusDp70 image acquisition analyser. The scale of staining intensity was as follows: 0, no staining; 1, weak staining; 2, moderate staining; 3, strong staining. The criteria for the cell rate of positive expression were as follows: 0, &lt;1%; 1, &lt;10%; 2, &lt;50%; 3, &lt;80%; 4, &gt;80%; The final score was calculated based on staining intensity and cell rate of positive expression: 0‐2, negative (−); 3‐5, positive (+); 6‐7, strongly positive (++).</p></sec><sec id="jcmm13532-sec-0006"><label>2.4</label><title>Haematoxylin‐eosin (HE) staining</title><p>The pancreatic tissues were extracted from the executed mice and immediately fixed in 4% paraformaldehyde. The fixed tissues were washed with running water, 24 hours later, dehydrated conventionally once for 1 minute, permeabilized twice in xylene (5 minutes each time), dipped in wax and cooled on the cooling stage of the paraffin embedding station. The embedded blocks were sliced at a thickness of 5 μm, which were flattened, baked at 70°C for 1 hour and then further baked again at 60°C for 5 hours. The paraffin‐embedded sections were deparaffinized and rehydrated, stained with haematoxylin for 10 minutes at room temperature and washed with running water for a duration of 30‐60 seconds. Next, the tissue blocks were differentiated with 1% hydrochloric acid‐ethanol mixtures, washed with running water for 5 minutes and stained with eosin (0001‐H, Beijing Xinhua Lvyuan Science &amp; Technology Co., Ltd, Beijing, China) at room temperature for 1 minute. The samples were then dehydrated with gradient ethanol (70%, 80%, 90%, 95% and 100%) for 1 minute, respectively, immersed in carbolic acid xylene and permeabilized twice in xylene I and II (GD‐RY1215‐12, Shanghai Guduo Biotechnology Co., Ltd., Shanghai, China), respectively (1 minute each time). Finally, a sealing process was performed using neutral balsam in the fume hood. Images were obtained by means of photography using a Zeiss fluorescence microscope (PrimoStar iLED, Bio‐Research (Beijing) Scientific Co., Ltd., Beijing, China), whereas the pathological changes among the pancreatic tissues were recorded.</p></sec><sec id="jcmm13532-sec-0007"><label>2.5</label><title>Enzyme‐linked immunosorbent assay (ELISA)</title><p>Serum from mice in the normal and AP groups was collected. An ELISA Kit (YQ, Beijing Imun Biotechnology Co., Ltd., Beijing, China) was used to detect the amylase serum levels (AMY, JK‐EA01139), lactate dehydrogenase (LDH, JKSJ‐1983), c‐reactive protein (CRP, JK‐(a)‐1623), tumour necrosis factor α (TNFα, JK‐EA01383), interleukin‐6 (IL‐6, JKSJ‐2176) and interleukin‐8 (IL‐8, JKSJ‐1931) (all were purchased from Shanghai Jingkang Bioengineering Co., Ltd., Shanghai, China). The known antigen was diluted to 1‐10 μg/mL with a carbonate coating buffer (pH 9.6) and seeded into a 96‐well plate, followed by incubation at 4°C overnight with 0.1 mL diluent supplemented for each well. The solution in the well was removed the next day. Following 3 washes with a washing buffer (3 minutes each time), the well was supplemented with 0.1 mL sample supernatant, incubated at 37°C for 1 hour and washed again. Meanwhile, the blank, negative and positive control wells were set in the corresponding reaction wells. Next, the wells were added with 0.1 mL of enzyme‐labelled antibody (Abcam Inc, Cambridge, MA, USA) and incubated at 37°C for 35‐40 minutes, followed by washing with washing buffer and a final round of washing with ddH2O. Freshly prepared 0.1 mL substrate solution of tetramethyl benzidine (TMB, EL0001, Huzhou InnoReagents Co., Ltd., Huzhou, Zhejiang, China) was supplemented into each well for chromogen at 37°C for 10‐30 minutes. After 0.05 mL of 2 mol/L sulphuric acid was supplemented into each well, the optical density (OD) value was measured at 450 nm using a microplate reader (BS‐1101; Nanjing Detie Experimental Equipment Co., Ltd., Nanjing, Jiangsu, China). The OD value was measured when the value of the blank control well was zero.</p></sec><sec id="jcmm13532-sec-0008"><label>2.6</label><title>Reverse transcription quantitative polymerase chain reaction (RT‐qPCR)</title><p>Pancreatic tissues (5 × 5 ×  5 mm<sup>3</sup>) were extracted from mice in of the AP and normal groups and then placed in 1 mL TRIZOL Kit (15596‐018, Beijing Solarbio Science &amp; Technology Co., Ltd., Beijing, China). The tissues were homogenized for 2 minutes in an ice bath and centrifuged (10000 g rpm, 5 minutes), and the precipitate was discarded accordingly. Next, 200 μL chloroform was added to the tissues, mixed and placed at room temperature for 15 minutes at 4°C, followed by centrifugation at 12 000 rpm for 15 minutes. The extracted aqueous phase in the upper layer was mixed with 0.5 mL isopropyl alcohol, placed at room temperature for 10‐30 minutes and centrifuged at 4°C at 12 000 rpm for 10 minutes. Following the discarding of the supernatant, 1 mL 75% ethanol was added to the RNA precipitation in the bottom of tube, diluted with 20 μL diethyl pyrocarbonate (DEPC) and shaken gently to suspend the precipitate. After centrifugation at 4°C (8000 rpm, 5 minutes) to discard the supernatant, the samples were dried by means of airing at room temperature and in certain cases, vacuumed for 5‐10 minutes. DEPC (20 μL) was used to dissolve the precipitation, followed by determination of RNA concentration. The primer sequences were synthesized by Takara (Takara Biotechnology Co., Ltd., Dalian, China; Table <xref rid="jcmm13532-tbl-0001" ref-type="table-wrap">1</xref>), and then, reverse transcription was performed using the Reverse Transcription Kit (Beijing Transgen Biotechnology Co., Ltd., Beijing, China) in accordance with the manufacturer's instructions. The reaction conditions were as follows: 42°C for 30‐50 minutes (reverse transcription) and 85°C for 5 seconds (enzyme deactivation). Reversely transcribed cDNA was diluted to 50 ng/μL (adding 2 μL each time), whereas the amplification system was 25 μL. The fluorescence quantitative PCR instrument (ViiA 7, Da An Gene Co., Ltd. of Sun Yat‐Sen University, Guangdong, China) were adopted. The reaction condition of PCR included 40 cycles of pre‐denaturation at 95°C for 10 minutes, denaturation at 95°C for 5 seconds, annealing and elongation at 60°C for 30 seconds. The 2 μg RNA was used as template and glyceraldehyde‐3‐phosphate dehydrogenase (GAPDH) as the internal control. The 2<sup>−ΔΔCT</sup>
+<xref rid="jcmm13532-bib-0019" ref-type="ref">19</xref> method was used to calculate the relative mRNA expressions of target genes (S100A9, IL‐17, high‐mobility group box 1 protein (HMGB1) and S100A12):▵▵Ct = ▵Ct<sub>AP group</sub> − ▵Ct<sub>normal group</sub>, ▵Ct = Ct<sub>(target gene)</sub> − Ct<sub>(internal control)</sub>. Total RNA was extracted from the pancreas of the mice post‐transfection and incubated for 48 h. The same procedure was conducted for all cell experiments.</p><table-wrap id="jcmm13532-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Primer sequences for RT‐qPCR</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Gene</th><th align="left" valign="top" rowspan="1" colspan="1">Primer sequence (5′‐3′)</th></tr></thead><tbody><tr><td align="left" rowspan="2" colspan="1">S100A9</td><td align="left" rowspan="1" colspan="1">F: TCATCGACCCTTCCATCAA</td></tr><tr><td align="left" rowspan="1" colspan="1">R: GATCAACTTTGCCATCAGCA</td></tr><tr><td align="left" rowspan="2" colspan="1">IL‐17</td><td align="left" rowspan="1" colspan="1">F: GGTCAACCTCAAAGTCTTTAACTC</td></tr><tr><td align="left" rowspan="1" colspan="1">R: TTAAAAATGCAAGTAAGTTTGCTG</td></tr><tr><td align="left" rowspan="2" colspan="1">HMGB1</td><td align="left" rowspan="1" colspan="1">F: GGGTCACATGGATTATTAGTG</td></tr><tr><td align="left" rowspan="1" colspan="1">R: CAGGGCATGTGGACAAAAG</td></tr><tr><td align="left" rowspan="2" colspan="1">S100A12</td><td align="left" rowspan="1" colspan="1">F: CTTCCACCAATACTCAGTTCGG</td></tr><tr><td align="left" rowspan="1" colspan="1">R: GCAATGGCTACCAGGGATATG</td></tr><tr><td align="left" rowspan="1" colspan="1">TLR 4</td><td align="left" rowspan="1" colspan="1">
+F: AGTGGGTCAAGGAACAGAAGCA<break/>
+R: CTTTACCAGCTCATTTCTCA CC
+</td></tr><tr><td align="left" rowspan="1" colspan="1">RAGE</td><td align="left" rowspan="1" colspan="1">
+F: AACACAGCCCCCATCCAA<break/>
+R: GCTCAACCAACAGCTGAATGC
+</td></tr><tr><td align="left" rowspan="2" colspan="1">GAPDH</td><td align="left" rowspan="1" colspan="1">F: AATGGGCAGCCGTTAGGAAA</td></tr><tr><td align="left" rowspan="1" colspan="1">R: GCGCCCAATACGACCAAATC</td></tr></tbody></table><table-wrap-foot><fn id="jcmm13532-note-0002"><p>F, forward; R, reverse; S100A9, S100 calcium‐binding protein A9; IL‐17, interleukin‐17; HMGB1, high‐mobility group box 1 protein; S100A12, calgranulin C; TLR4, toll‐like receptor 4; RAGE, receptor for advanced glycation end products; GAPDH, glyceraldehyde‐3‐phosphate dehydrogenase; RT‐qPCR, reverse transcription quantitative polymerase chain reaction.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="jcmm13532-sec-0009"><label>2.7</label><title>Western blotting</title><p>After weighing, the cooled pancreatic tissues from each group were placed in a glass grinder containing 1 mL ice‐cold normal saline. After homogenization in an ice bath, the tissues were centrifuged (12 000 rpm/min) at 4°C for 20 minutes, and the supernatant was discarded. Next, 1 ml of lysates (including 50 mmol/LT ris, 150 mmol/L NaCl, 5 mmol/L ethylene diamine tetraacetic acid (EDTA), 0.1% sodium dodecyl sulphate (SDS), 1% NP‐40, 5 g/mL Aprotinin and 2 mmol/L phenylmethanesulfonyl fluoride (PMSF)) was added to the tissues and triturated repeatedly to ead in order to allow the lysates to spread in an even manner. After the tissues were homogenized in an ice bath, the protein lysate was added for lysing at 4°C for 30 minutes, followed by periodic shaking at intervals of 10 minutes. The supernatants were obtained for further use after post‐centrifugation (12 000 rpm/min) at 4°C for 20 minutes and removal of lipid layer. The protein concentration of each sample was determined using a bicinchoninic acid (BCA) Kit (20201ES76, Shanghai Yeasen Biotechnology Co., Ltd., Shanghai, China), and the deionized water was used to ensure the consistency of the 30 μg sample loading. Stacking gel and 10% SDS running gel was prepared. The mixture of sample and loading buffer was boiled for at 100°C for 5 minutes. The proteins were then loaded onto an electrophoresis apparatus in each lane by micropipette after ice bath and centrifugation. The proteins were then transferred into nitrocellulose membranes. The membranes were blocked with 5% skim milk and incubated at 4°C overnight. The samples were incubated with rabbit anti‐S100A9 (ab105472, 1:1000), IL‐17 (ab79056, 0.5‐2 μg/mL), HMGB1 (ab79823, 1:10000), S100A12 (ab37657, 1:1000), TLR4 (ab83444, 1:1000) and RAGE (ab37647, 1:1000) primary antibodies overnight at 4°C on a shaking table. All aforementioned antibodies were purchased from Abcam Inc., Cambridge, MA, USA. Samples were washed 3 times with Tris‐buffered saline with Tween 20 (TBST, 5 minutes each time). The samples were subsequently incubated with goat anti‐rabbit IgG (FITC, 1:1000, Abcam Inc, Cambridge, MA, USA) secondary antibody at room temperature 1 hour. After 3 washes with TBST (5 minutes each time), chromogenic reagent was supplemented for developing. The Image J 1.48 software (National Institutes of Health, Bethesda, Maryland, USA) was used for quantitative analysis of proteins based on the ratio of grey value between proteins and GAPDH. The same procedure was conducted for all cell experiments after 48 hours of transfection.</p></sec><sec id="jcmm13532-sec-0010"><label>2.8</label><title>Construction of lentiviral vectors</title><p>On the basis of the known mRNA sequence of S100A9 gene deposited in the GenBank database, siRNA design online software, BLOCK‐iT RNAi Designer (Invitrogen Inc., Carlsbad, CA, USA), was utilized to synthesize the primer sequences of shRNA1‐S100A9 and shRNA2‐S100A9 as well as the randomly selected NC sequences (Sigma, St. Louis, MO, USA) without targeting any gene. The sequences were as follows: shRNA1‐S100A9: Sense: 5′‐GCAGCATAACCACCATCATCG‐3′, Antisense: 5′‐CGATGATGGTGGTTATGCTGC‐3′; shRNA2‐S100A9: Sense: 5′‐GGACACAAACCAGGACAATCA‐3′, Antisense: 5′‐TGATTGTCCTGGTTTGTGTCC‐3′; Negative control: Sense: 5′‐GCGACGAUCUGCCUAAGAU‐3′, Antisense: 5′‐AUCUUAGGCAGAUCGUCGC‐3′. The synthesized single‐strand phosphorylation was annealed to form a double‐stranded DNA with double cleavage sites and cloned into lentiviral vector of pRNA‐Lenti‐GFPh. The recombinant plasmid expressing shRNA1 and shRNA2 were produced and transformed to <italic toggle="yes">E‐coli</italic> DH5α. A total of 16 single colonies were selected using medium containing ampicillin (A8180, AMRESCO, Inc., Solon, OH, USA) and amplified. The PCR amplification was then performed, followed by another preliminary selection. The plasmids were extracted using Gen Elute GenElute Plasmid Kit (PLD35‐1KT, Sigma, St. Louis, MO, USA) and further identified by DNA sequencing.</p><p>The 293T cells (ATCC‐Y0106, Shanghai Enzyme Research Biotechnology Co., Ltd, Shanghai, China) at the logarithmic growth phase were selected. After cell counting, the cells were inoculated with 5 × 10<sup>6</sup> cells/culture dish in culture dishes and cultured in an incubator with 5% CO<sub>2</sub> at 37°C overnight. After the removal of the former culture medium, a fresh serum‐containing medium was added to the cells. The virus solution was supplemented and mixed in its entirety in the cell suspension for incubation at 37°C. The cells were then added to a fresh medium with of the same volume after 4 hours to dilute the virus suspension, and cultured for 72 hours. A 5‐mL sterile centrifuge tube was prepared. Serum‐free Opti‐MEMI medium (40 μL) was inserted into the tube, with the subsequent supplementation of pLV/helper‐SL1, pLV/helper‐SL2, pHelper 2 (4 μL for each), followed by the upside down blending and incubation conducted under room temperature conditions for 5 minutes. Meanwhile, another 5‐mL sterile centrifuge tube was prepared, followed by the addition of serum‐free Opti‐MEMI medium as well as 40 μL lipofectamin 2000, and incubated for 5 minutes. The diluted lipofectamin 2000 was then added to the serum‐free medium containing Opti‐MEMI and mixed gently. After incubation at room temperature for 20 minutes, centrifugation was conducted at 3000 rpm for 15 minutes. Next, the supernatant was filtered with a 0.45‐μm filter to completely remove all cell debris. Precipitate in each tube was resuspended with 200 μL culture medium and then separately packed into 2 AXYGEN tubes (100 μL each tube) and stored at ‐80°C. The lentiviral titre was measured: Ten twofold serial dilutions of 100 μL lentivirus were added into 96‐well plates and cultured in an incubator containing 5% CO<sub>2</sub> at 37°C for 24 hours. Three parallel plates were set for samples of each concentration. The dilution ratio with the highest fluorescence in lentivirus solution under fluorescence microscope observation was regarded as the lentiviral titre (unit IU/mL).</p></sec><sec id="jcmm13532-sec-0011"><label>2.9</label><title>AP cell model establishment and grouping</title><p>The HPNE cells were purchased from ATCC (Maryland, US) and induced by caerulein to construct an AP cell model. The HPNE cells at the logarithmic growth phase were seeded into a 6‐well plate. After cell adhesion, the cells through the addition of 1 × 10<sup>−8</sup> mol/L cerulein for 24 hours induced to establish an AP model. The cells were assigned into 5 groups: the control group (HPNE cells without transfection), blank group (HPNE cells induced by 1 × 10<sup>−8</sup> mol/L cerulein without transfection), NC group (HPNE cells induced by 1 × 10<sup>−8</sup> mol/L cerulein added with 1010 IU/mL shRNA‐S100A9 NC solution), shRNA1 group (HPNE cells induced by 1 × 10<sup>−8</sup> mol/L cerulein added with 1010 IU/mL shRNA1‐S100A9 lentivirus solution) and shRNA2 group (HPNE cells induced by 1 × 10<sup>−8 </sup>mol/L cerulein added with 1010 IU/mL shRNA2‐S100A9 lentivirus solution).</p></sec><sec id="jcmm13532-sec-0012"><label>2.10</label><title>3‐(4,5‐dimethyl‐2‐thiazolyl)‐2,5‐diphenyl‐2‐H‐tetrazolium bromide (MTT) assay</title><p>At the 48 hours point, post‐infection with lentivirus, the cells were washed twice with PBS and digested with 0.25% trypsin for single cell suspension preparation. After the cells were counted, they were then inoculated in 96‐well plates (3 × 10<sup>3</sup>‐6 × 10<sup>3</sup> cells/well) with 0.2 mL volume/well. Six reduplicate wells were set. The cells were incubated for 24, 48 and 72 hours, respectively, and continuously cultured for 4 hours in a medium containing 10% MTT solution (5 g/L, GD‐Y1317, Shanghai Guduo Biological Technology Co., Ltd., Shanghai, China). After removing the supernatant, dimethyl sulphoxide (DMSO, D5879‐100ML, Sigma, St. Louis, MO, USA) was added to each well (100 μL per well) and gently mixed for 5 minutes to completely dissolve the formazan crystals. The OD value was measured at a 590 nm using a microplate reader (BS‐1101, Nanjing DeTie Experimental Equipment Co., Ltd., Nanjing, China). All experiments were repeated 3 times. Cell viability curves were drawn with time‐point as abscissas and OD value as ordinates.</p></sec><sec id="jcmm13532-sec-0013"><label>2.11</label><title>Flow cytometry</title><p>Propidium iodide (PI) staining was used to examine the cell cycle. At the 48 hours point post‐infection with lentivirus, the cells were collected and washed 3 times with ice‐cold PBS. After centrifugation, the supernatant was discarded. The cells were then re‐suspended in PBS and adjusted to a density of approximately 1 × 10<sup>5</sup> cells/mL. The cells were then fixed with pre‐cooled 70% ice ethanol at ‐20°C and incubated at 4°C overnight. After centrifugation (800 g) at 4°C, the supernatant was discarded, and the cells were washed with PBS containing 1% foetal bovine serum (FBS). The cells were resuspended in 400 μL binding buffer. Next, the cells were incubated with 50 μL RNAase A (R4875, Shanghai Wegene Biotechnology Co., Ltd., Shanghai, China) at 37°C for 30 minutes. Then, 50 μL of 50 mg/L PI (GK3601‐50T, Beijing Dingguo Changsheng Biotechnology Co., Ltd., Beijing, China) was added in conditions void of light. The samples were once again washed with PBS and incubated at room temperature for 30 minutes. Finally, a flow cytometer was employed to analyse the cell cycle.</p><p>Annexin‐V‐fluorescein isothiocyanate (FITC)/PI double staining was used to evaluate cell apoptosis. At 48 h after transfection, the cells were digested with 0.25% trypsin without EDTA (YB15050057, Shanghai Yubo Biotechnology Co., Ltd., Shanghai, China), and collected to the flow tube. After centrifugation, the supernatant was discarded. The cells were then washed 3 times with ice‐cold PBS, and centrifuged, followed by the removal of the supernatant. In accordance with the instructions of Annexin‐V‐FITC Cell Apoptosis Detection Kit (K201‐100, BioVision, San Francisco, CA, USA), Annexin‐V‐FITC, PI and 4‐(2‐Hydroxyethyl)‐1‐piperazineethanesulfonic acid (HEPES) buffer with the ratio of 1:2:50 were mixed as Annexin‐V‐FITC/PI staining solution. The 1 × 10<sup>6</sup> cells were resuspended with 100 μL staining solution. Next, the cells were shaken to permit mixing and incubated at room temperature for 15 minutes. The samples were added with 1 mL HEPES buffer (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="PB180325">PB180325</ext-link>, Procell, Wuhan, China). At excitation of 488 nm, FITC fluorescence and PI fluorescence were measured by 515 and 620 nm bandpass filter, respectively, to evaluate cell apoptosis. The experiment was repeated 3 times.</p></sec><sec id="jcmm13532-sec-0014"><label>2.12</label><title>Statistical analysis</title><p>All statistical analyses were performed using SPSS 21.0 software (International Business Machines Corporation (IBM) Company, New York, USA). Enumeration data were reported as rate or in percentage form. Comparisons among groups were analysed by chi‐square test. Measurement data were expressed as mean ± standard deviation (SD). The comparisons between two groups were analysed by means of <italic toggle="yes">t</italic> test, whereas comparisons among multiple groups were performed using one‐way analysis of variance (ANOVA). <italic toggle="yes">P</italic> &lt; .05 was considered to be statistically significant.</p></sec></sec><sec id="jcmm13532-sec-0015"><label>3</label><title>RESULTS</title><sec id="jcmm13532-sec-0016"><label>3.1</label><title>Strong positive expressions of S100A9 and IL‐17 are found in pancreatic tissues</title><p>The expression of S100A9 determined by IHC displayed a weakly positive expression in the normal, AP + shRNA and AP + anti IL‐17 groups with light staining, but strongly positive expression in the AP, AP + NC and AP + IgG groups with a distinct increase in brown granules, of which were mainly expressed in the pancreatic ductal complex and interstitial inflammatory cells (Figure <xref rid="jcmm13532-fig-0001" ref-type="fig">1</xref>A). The positive expression of IL‐17 showed the same tendency with that of S100A9 (Figure <xref rid="jcmm13532-fig-0001" ref-type="fig">1</xref>B).</p><fig fig-type="Figure" xml:lang="en" id="jcmm13532-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Positive expressions of S100A9 and <styled-content style="fixed-case">IL</styled-content>‐17 in pancreatic tissues in each group determined by <styled-content style="fixed-case">IHC</styled-content>. A, expression of S100A9 observed under the microscope (×400) and statistical analysis; B, expression of <styled-content style="fixed-case">IL</styled-content>‐17 observed under the microscope (×400) and statistical analysis; *<italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>.05 compared with the normal group; <sup>#</sup>
+<italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>.05 compared with the <styled-content style="fixed-case">AP</styled-content> group; S100A9, S100 calcium‐binding protein A9; <styled-content style="fixed-case">IL</styled-content>‐17, interleukin 17; <styled-content style="fixed-case">IHC</styled-content>, immunohistochemistry; <styled-content style="fixed-case">AP</styled-content>, acute pancreatitis</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-1" position="float" orientation="portrait" xlink:href="JCMM-22-2378-g001.jpg"/></fig></sec><sec id="jcmm13532-sec-0017"><label>3.2</label><title>S100A9 gene silencing attenuates pathological changes in pancreatic tissues</title><p>HE staining results exhibited that the pancreatic tissues in the normal group had clear structure, normal morphology without obvious bleeding or necrosis. There was obvious bleeding, vacuolization, focal necrosis and a large infiltration of neutrophils in the pancreatic and omental foci occurred in the AP, AP + NC and AP + IgG groups. But the AP + shRNA and AP + anti IL‐17 groups showed intact acini and lobules in pancreatic tissues, with no neutrophil infiltration except for mild oedema occurred in some interstitial areas (Figure <xref rid="jcmm13532-fig-0002" ref-type="fig">2</xref>).</p><fig fig-type="Figure" xml:lang="en" id="jcmm13532-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Pathological morphology of pancreatic tissues in each group measured by <styled-content style="fixed-case">HE</styled-content> staining (×200). <styled-content style="fixed-case">HE</styled-content>, haematoxylin‐eosin</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-3" position="float" orientation="portrait" xlink:href="JCMM-22-2378-g002.jpg"/></fig></sec><sec id="jcmm13532-sec-0018"><label>3.3</label><title>S100A9 gene silencing attenuates inflammatory response in AP mice</title><p>ELISA results revealed that when compared with the normal group, the expressions of AMY, LDH, CRP, TNFα, IL‐6 and IL‐8 in serum were significantly increased in the AP, AP + NC, AP + IgG, AP + shRNA and AP + anti IL‐17 groups (all <italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>.05). Compared with the AP, AP + NC and AP + IgG groups, the expressions of AMY, LDH, CRP, TNFα, IL‐6 and IL‐8 in serum were significantly decreased in the AP + shRNA and AP + anti IL‐17 groups (all <italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>.05). No significant differences were detected among the AP, AP + NC and AP + IgG groups (all <italic toggle="yes">P </italic>&gt;<italic toggle="yes"> </italic>.05; Table <xref rid="jcmm13532-tbl-0002" ref-type="table-wrap">2</xref>).</p><table-wrap id="jcmm13532-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Expressions of AMY, LDH, CRP, TNFα, IL‐6 and IL‐8 in serum in each group</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Group</th><th align="left" valign="top" rowspan="1" colspan="1">AMY (U/L)</th><th align="left" valign="top" rowspan="1" colspan="1">LDH (U/L)</th><th align="left" valign="top" rowspan="1" colspan="1">CRP (mg/L)</th><th align="left" valign="top" rowspan="1" colspan="1">TNFα (pg/mL)</th><th align="left" valign="top" rowspan="1" colspan="1">IL‐6 (pg/mL)</th><th align="left" valign="top" rowspan="1" colspan="1">IL‐8 (pg/mL)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Normal</td><td align="left" rowspan="1" colspan="1">61.20 ± 7.32</td><td align="left" rowspan="1" colspan="1">410.25 ± 38.03</td><td align="left" rowspan="1" colspan="1">10.02 ± 2.56</td><td align="left" rowspan="1" colspan="1">24.05 ± 7.42</td><td align="left" rowspan="1" colspan="1">35.15 ± 8.51</td><td align="left" rowspan="1" colspan="1">9.25 ± 2.54</td></tr><tr><td align="left" rowspan="1" colspan="1">AP</td><td align="left" rowspan="1" colspan="1">283.03 ± 34.30<xref ref-type="fn" rid="jcmm13532-note-0004">a</xref>
+</td><td align="left" rowspan="1" colspan="1">982.30 ± 65.46<xref ref-type="fn" rid="jcmm13532-note-0004">a</xref>
+</td><td align="left" rowspan="1" colspan="1">46.21 ± 14.62<xref ref-type="fn" rid="jcmm13532-note-0004">a</xref>
+</td><td align="left" rowspan="1" colspan="1">51.12 ± 11.80<xref ref-type="fn" rid="jcmm13532-note-0004">a</xref>
+</td><td align="left" rowspan="1" colspan="1">67.58 ± 13.76<xref ref-type="fn" rid="jcmm13532-note-0004">a</xref>
+</td><td align="left" rowspan="1" colspan="1">38.69 ± 8.54<xref ref-type="fn" rid="jcmm13532-note-0004">a</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">AP + NC</td><td align="left" rowspan="1" colspan="1">289.28 ± 28.69<xref ref-type="fn" rid="jcmm13532-note-0004">a</xref>
+</td><td align="left" rowspan="1" colspan="1">975.26 ± 96.21<xref ref-type="fn" rid="jcmm13532-note-0004">a</xref>
+</td><td align="left" rowspan="1" colspan="1">48.73 ± 4.86<xref ref-type="fn" rid="jcmm13532-note-0004">a</xref>
+</td><td align="left" rowspan="1" colspan="1">49.51 ± 4.84<xref ref-type="fn" rid="jcmm13532-note-0004">a</xref>
+</td><td align="left" rowspan="1" colspan="1">64.17 ± 6.42<xref ref-type="fn" rid="jcmm13532-note-0004">a</xref>
+</td><td align="left" rowspan="1" colspan="1">40.26 ± 3.73<xref ref-type="fn" rid="jcmm13532-note-0004">a</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">AP + shRNA</td><td align="left" rowspan="1" colspan="1">153.28 ± 15.13<xref ref-type="fn" rid="jcmm13532-note-0004">a</xref>
+<sup>,</sup>
+<xref ref-type="fn" rid="jcmm13532-note-0005">b</xref>
+</td><td align="left" rowspan="1" colspan="1">643.37 ± 60.25<xref ref-type="fn" rid="jcmm13532-note-0004">a</xref>
+<sup>,</sup>
+<xref ref-type="fn" rid="jcmm13532-note-0005">b</xref>
+</td><td align="left" rowspan="1" colspan="1">29.63 ± 2.76<xref ref-type="fn" rid="jcmm13532-note-0004">a</xref>
+<sup>,</sup>
+<xref ref-type="fn" rid="jcmm13532-note-0005">b</xref>
+</td><td align="left" rowspan="1" colspan="1">36.75 ± 3.22<xref ref-type="fn" rid="jcmm13532-note-0004">a</xref>
+<sup>,</sup>
+<xref ref-type="fn" rid="jcmm13532-note-0005">b</xref>
+</td><td align="left" rowspan="1" colspan="1">51.28 ± 5.02<xref ref-type="fn" rid="jcmm13532-note-0004">a</xref>
+<sup>,</sup>
+<xref ref-type="fn" rid="jcmm13532-note-0005">b</xref>
+</td><td align="left" rowspan="1" colspan="1">23.18 ± 2.13<xref ref-type="fn" rid="jcmm13532-note-0004">a</xref>
+<sup>,</sup>
+<xref ref-type="fn" rid="jcmm13532-note-0005">b</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">AP + IgG</td><td align="left" rowspan="1" colspan="1">280.17 ± 28.36<xref ref-type="fn" rid="jcmm13532-note-0004">a</xref>
+</td><td align="left" rowspan="1" colspan="1">968.82 ± 9.69<xref ref-type="fn" rid="jcmm13532-note-0004">a</xref>
+</td><td align="left" rowspan="1" colspan="1">50.27 ± 5.01<xref ref-type="fn" rid="jcmm13532-note-0004">a</xref>
+</td><td align="left" rowspan="1" colspan="1">53.17 ± 5.42<xref ref-type="fn" rid="jcmm13532-note-0004">a</xref>
+</td><td align="left" rowspan="1" colspan="1">65.97 ± 6.42<xref ref-type="fn" rid="jcmm13532-note-0004">a</xref>
+</td><td align="left" rowspan="1" colspan="1">42.38 ± 4.16<xref ref-type="fn" rid="jcmm13532-note-0004">a</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">AP + anti IL‐17</td><td align="left" rowspan="1" colspan="1">159.37 ± 15.34<xref ref-type="fn" rid="jcmm13532-note-0004">a</xref>
+<sup>,</sup>
+<xref ref-type="fn" rid="jcmm13532-note-0005">b</xref>
+</td><td align="left" rowspan="1" colspan="1">657.19 ± 62.35<xref ref-type="fn" rid="jcmm13532-note-0004">a</xref>
+<sup>,</sup>
+<xref ref-type="fn" rid="jcmm13532-note-0005">b</xref>
+</td><td align="left" rowspan="1" colspan="1">27.37 ± 2.34<xref ref-type="fn" rid="jcmm13532-note-0004">a</xref>
+<sup>,</sup>
+<xref ref-type="fn" rid="jcmm13532-note-0005">b</xref>
+</td><td align="left" rowspan="1" colspan="1">39.37 ± 3.76<xref ref-type="fn" rid="jcmm13532-note-0004">a</xref>
+<sup>,</sup>
+<xref ref-type="fn" rid="jcmm13532-note-0005">b</xref>
+</td><td align="left" rowspan="1" colspan="1">48.73 ± 4.33<xref ref-type="fn" rid="jcmm13532-note-0004">a</xref>
+<sup>,</sup>
+<xref ref-type="fn" rid="jcmm13532-note-0005">b</xref>
+</td><td align="left" rowspan="1" colspan="1">26.35 ± 2.34<xref ref-type="fn" rid="jcmm13532-note-0004">a</xref>
+<sup>,</sup>
+<xref ref-type="fn" rid="jcmm13532-note-0005">b</xref>
+</td></tr></tbody></table><table-wrap-foot><fn id="jcmm13532-note-0003"><p>AP, acute pancreatitis; NC, negative control; AMY, amylase; LDH, lactate dehydrogenase; CRP, c‐reactive protein; TNFα, tumour necrosis factor α; IL‐6, interleukin‐6; IL‐8, interleukin‐8.</p></fn><fn id="jcmm13532-note-0004"><label>a</label><p>
+<italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>.05 compared with the normal group.</p></fn><fn id="jcmm13532-note-0005"><label>b</label><p>
+<italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>.05 compared with the AP group.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="jcmm13532-sec-0019"><label>3.4</label><title>S100A9 gene silencing blocks the activation of IL‐17 signalling pathway in vivo</title><p>Both RT‐qPCR and Western blotting indicated that the mRNA and protein expressions of S100A9, TLR4, RAGR, IL‐17, HMGB1 and S100A12 in the AP group were all higher than those in the normal group (all <italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>.05). The AP + shRNA group had significantly lower mRNA and protein expressions of S100A9, TLR4, RAGR and HMGB1, as well as an insignificant reduction in the expressions of IL‐17 and S100A12 compared with the normal group. Furthermore, there were significantly lower mRNA and protein expressions of S100A9, TLR4, RAGR, IL‐17 and HMGB1, while insignificant reductions in the expressions of S100A12 in the AP + anti IL‐17 group. There was no significant difference detected among the AP, AP + NC and AP + IgG groups (<italic toggle="yes">P </italic>&gt;<italic toggle="yes"> </italic>.05; Figure <xref rid="jcmm13532-fig-0003" ref-type="fig">3</xref>A, B).</p><fig fig-type="Figure" xml:lang="en" id="jcmm13532-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Relative mRNA and protein expressions of S100A9, <styled-content style="fixed-case">TLR</styled-content>4, <styled-content style="fixed-case">RAGE</styled-content>, IL‐17, <styled-content style="fixed-case">HMGB</styled-content>1 and S100A12 in pancreatic tissues in each group examined by <styled-content style="fixed-case">RT</styled-content>‐<styled-content style="fixed-case">qPCR</styled-content> and Western blotting. (A) <styled-content style="fixed-case">mRNA</styled-content> expressions of S100A9, <styled-content style="fixed-case">TLR</styled-content>4, <styled-content style="fixed-case">RAGE</styled-content>,<styled-content style="fixed-case"> IL</styled-content>‐17, <styled-content style="fixed-case">HMGB</styled-content>1 and S100A12 in pancreatic tissues in each group examined by <styled-content style="fixed-case">RT</styled-content>‐<styled-content style="fixed-case">qPCR</styled-content>; (B) protein expressions of S100A9, <styled-content style="fixed-case">TLR</styled-content>4, <styled-content style="fixed-case">RAGE</styled-content>,<styled-content style="fixed-case"> IL</styled-content>‐17, <styled-content style="fixed-case">HMGB</styled-content>1 and S100A12 in pancreatic tissues in each group examined by Western blotting; *<italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>.05 compared with the normal group; <sup>#</sup>
+<italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>.05 compared with the <styled-content style="fixed-case">AP</styled-content> group; S100A9, S100 calcium‐binding protein A9; <styled-content style="fixed-case">TLR</styled-content>4, toll‐like receptor 4; <styled-content style="fixed-case">RAGE</styled-content>, receptor for advanced glycation end products; <styled-content style="fixed-case">IL</styled-content>‐17, interleukin‐17; <styled-content style="fixed-case">HMGB</styled-content>1, high‐mobility group box 1 protein; S100A12, calgranulin (C) <styled-content style="fixed-case">RT</styled-content>‐<styled-content style="fixed-case">qPCR</styled-content>, reverse transcription quantitative polymerase chain reaction; <styled-content style="fixed-case">AP</styled-content>, acute pancreatitis</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-5" position="float" orientation="portrait" xlink:href="JCMM-22-2378-g003.jpg"/></fig></sec><sec id="jcmm13532-sec-0020"><label>3.5</label><title>S100A9 gene silencing blocks the activation of IL‐17 signalling pathway in vitro</title><p>In comparison with the control group, the blank, NC, shRNA1 and shRNA2 groups had increased mRNA and protein expressions of S100A9, TLR4, RAGE, IL‐17, HMGB1 and S100A12 (all <italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>.05). Compared with the blank and NC groups, the shRNA1 and shRNA2 groups had displayed notably decreased mRNA and protein expression of S100A9, TLR4, RAGE and HMGB1, as well as no significant declines in the expressions of IL‐17 and S100A12. No significant difference was observed between the shRNA1 and shRNA2 groups (Figure <xref rid="jcmm13532-fig-0004" ref-type="fig">4</xref>; <italic toggle="yes">P </italic>&gt;<italic toggle="yes"> </italic>.05).</p><fig fig-type="Figure" xml:lang="en" id="jcmm13532-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Relative <styled-content style="fixed-case">mRNA</styled-content> and protein expressions of S100A9, <styled-content style="fixed-case">TLR</styled-content>4, <styled-content style="fixed-case">RAGE</styled-content>,<styled-content style="fixed-case"> IL</styled-content>‐17, <styled-content style="fixed-case">HMGB</styled-content>1 and S100A12 in <styled-content style="fixed-case">HPNE</styled-content> cells in each group determined by <styled-content style="fixed-case">RT</styled-content>‐<styled-content style="fixed-case">qPCR</styled-content> and Western blotting. (A) protein expressions of S100A9, <styled-content style="fixed-case">TLR</styled-content>4, <styled-content style="fixed-case">RAGE</styled-content>,<styled-content style="fixed-case"> IL</styled-content>‐17, <styled-content style="fixed-case">HMGB</styled-content>1 and S100A12 in <styled-content style="fixed-case">HPNE</styled-content> cells in each group determined by Western blotting; (B) <styled-content style="fixed-case">mRNA</styled-content> expressions of S100A9, <styled-content style="fixed-case">TLR</styled-content>4, <styled-content style="fixed-case">RAGE</styled-content>,<styled-content style="fixed-case"> IL</styled-content>‐17, <styled-content style="fixed-case">HMGB</styled-content>1 and S100A12 in <styled-content style="fixed-case">HPNE</styled-content> cells in each group determined by <styled-content style="fixed-case">RT</styled-content>‐<styled-content style="fixed-case">qPCR</styled-content>; *<italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>.05 compared with the control group; <sup>#</sup>
+<italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>.05 compared with the blank and <styled-content style="fixed-case">NC</styled-content> group; S100A9, S100 calcium‐binding protein A9; <styled-content style="fixed-case">TLR</styled-content>4, toll‐like receptor 4; <styled-content style="fixed-case">RAGE</styled-content>, receptor for advanced glycation end products; <styled-content style="fixed-case">IL</styled-content>‐17, interleukin‐17; <styled-content style="fixed-case">HMGB</styled-content>1, high‐mobility group box 1 protein; S100A12, calgranulin (C) <styled-content style="fixed-case">RT</styled-content>‐<styled-content style="fixed-case">qPCR</styled-content>, reverse transcription quantitative polymerase chain reaction; <styled-content style="fixed-case">GAPDH</styled-content>, glyceraldehyde‐3‐phosphate dehydrogenase; <styled-content style="fixed-case">AP</styled-content>, acute pancreatitis</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-7" position="float" orientation="portrait" xlink:href="JCMM-22-2378-g004.jpg"/></fig></sec><sec id="jcmm13532-sec-0021"><label>3.6</label><title>S100A9 gene silencing increases cell proliferation</title><p>Compared with the control group, cell proliferation in the blank, NC, shRNA1 and shRNA2 groups was reduced, when measured after 48 and 72 hours (all <italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>.05). However, no significant difference was found between the blank and NC groups at each point (all <italic toggle="yes">P </italic>&gt;<italic toggle="yes"> </italic>.05). Compared with the blank and NC groups, the shRNA1 and shRNA2 groups showed increased proliferation capacities both at 48 and 72 hours, whereas the proliferation capacities of the shRNA1 group were slightly higher than that in the shRNA2 group (<italic toggle="yes">P &gt; </italic>.05; Figure <xref rid="jcmm13532-fig-0005" ref-type="fig">5</xref>).</p><fig fig-type="Figure" xml:lang="en" id="jcmm13532-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Cell proliferation in each group evaluated by <styled-content style="fixed-case">MTT</styled-content> assay. *<italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>.05 compared with the control group; <sup>#</sup>
+<italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>.05 compared with the blank and <styled-content style="fixed-case">NC</styled-content> groups; <styled-content style="fixed-case">NC</styled-content>, negative control; <styled-content style="fixed-case">OD</styled-content>, optical density; <styled-content style="fixed-case">MTT</styled-content>, 3‐(4,5‐dimethyl‐2‐thiazolyl)‐2,5‐diphenyl‐2‐H‐tetrazolium bromide</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-9" position="float" orientation="portrait" xlink:href="JCMM-22-2378-g005.jpg"/></fig></sec><sec id="jcmm13532-sec-0022"><label>3.7</label><title>S100A9 gene silencing promotes cell cycle entry while decreasing cell apoptosis</title><p>PI staining results illustrated in Figure <xref rid="jcmm13532-fig-0006" ref-type="fig">6</xref>A and B indicated that when compared with the control group, the percentage of cells at the G1 phase had increased, whereas reductions at the G2 and S phases were recorded in the blank, NC, shRNA1 and shRNA2 groups (all <italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>.05). There were no statistically significant differences observed between the blank and NC groups (all <italic toggle="yes">P </italic>&gt;<italic toggle="yes"> </italic>.05). Compared with the blank and NC groups, the percentage of cells decreased at the G1 phase; however, increases at G2 and S phases in the shRNA1 and shRNA2 groups were observed (all <italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>.05). Among cells in the shRNA1 group decreases of cells at the G1 phase but increases at G2 and S phase in comparison with the shRNA2 group were observed.</p><fig fig-type="Figure" xml:lang="en" id="jcmm13532-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>Cell cycle distribution and cell apoptosis measured by flow cytometry A and B, cell cycle distribution in each group; C and D, cell apoptosis rate in each group; *<italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>.05 compared with the control group; <sup>#</sup>
+<italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>.05 compared with the blank and <styled-content style="fixed-case">NC</styled-content> groups; <styled-content style="fixed-case">NC</styled-content>, negative control</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-11" position="float" orientation="portrait" xlink:href="JCMM-22-2378-g006.jpg"/></fig><p>Annexin‐V‐FITC/PI double‐staining results shown in Figure <xref rid="jcmm13532-fig-0006" ref-type="fig">6</xref>C and D revealed that comparisons of the apoptotic rate in the control group (5.26 ± 0.53)% revealed increased apoptotic rates in the blank group (18.36 ± 1.86)%, the NC group (19.23 ± 1.92)%, the shRNA1 group (11.36 ± 1.16)% and the shRNA2 group (12.01 ± 1.20)% (all <italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>.05). No significant difference was found between the blank and NC groups (<italic toggle="yes">P </italic>&gt;<italic toggle="yes"> </italic>.05). Compared with the blank and NC groups, the shRNA1 and shRNA2 groups had decreases in apoptotic rates (all <italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>.05). The apoptotic rate in the shRNA1 group was slightly lower than that in the shRNA2 group (<italic toggle="yes">P </italic>&gt;<italic toggle="yes"> </italic>.05).</p></sec></sec><sec id="jcmm13532-sec-0023"><label>4</label><title>DISCUSSION</title><p>The prognosis of AP is generally unfavourable, whereas the rate of recurrence is as high as 17%. Approximately 8% of AP patients will fall victim to chronic pancreatitis within a 5‐year period.<xref rid="jcmm13532-bib-0020" ref-type="ref">20</xref> Therefore, it is of significant urgency that more effective treatments are used to alleviate the issue of recurrence. Our findings provided evidence that S100A9 silencing inhibited the release of inflammatory cytokines, suppressed the proliferation and promoted apoptosis of pancreatic cells in a mouse model of AP, via the blockade of the IL‐17 signalling pathway, thus highlighting the potential of S100A9 as a therapy target in the treatment of AP.</p><p>Elevated expression of S100A9 has previously been detected in the progression of a number of inflammatory diseases, including psoriatic arthritis,<xref rid="jcmm13532-bib-0021" ref-type="ref">21</xref> systemic lupus erythematosus<xref rid="jcmm13532-bib-0022" ref-type="ref">22</xref> and inflammatory bowel disease.<xref rid="jcmm13532-bib-0023" ref-type="ref">23</xref> Likewise, this was detected in our results, in which we identified increased expression of S100A9 in our AP mice models. As a member of the S100 family, with the exception of those affecting epithelial tissues, S100A9 maintains its regulatory influence on cellular processes including transcription, proliferation and differentiation.<xref rid="jcmm13532-bib-0024" ref-type="ref">24</xref> In addition, combined with its heterodimer partner S100A8, S100A9 exerted growth‐inhibitory and apoptosis‐inducing effects in a variety of cells via the classical mitochondrial pathway.<xref rid="jcmm13532-bib-0025" ref-type="ref">25</xref>, <xref rid="jcmm13532-bib-0026" ref-type="ref">26</xref> Moreover, Li et al asserted that the overexpression of S100A9 could induce cell apoptosis and inhibit cell growth.<xref rid="jcmm13532-bib-0027" ref-type="ref">27</xref> Therefore, during our study, it was inferred that S100A9 gene silencing could act to promote cell growth and inhibit cell apoptosis in AP. S100A8/S100A9 was shown to control the G2/M cell cycle checkpoint as well as the apparent dysregulation that occurred, leading to the loss of the checkpoint in head and neck squamous cell carcinoma.<xref rid="jcmm13532-bib-0028" ref-type="ref">28</xref> During the process, p53, correlated with cell cycle, apoptosis and adipogenesis, can modulate S100A9 transcription.<xref rid="jcmm13532-bib-0029" ref-type="ref">29</xref> Initially, S100A8/A9 enhanced the activity of PP2A phosphatase as well as p‐Chk1 (Ser345) phosphorylation, leading to the inactivation of the G2/M Cdc2/cyclin B1 complex through the inhibitory phosphorylation of mitotic p‐Cdc25C (Ser216) and p‐Cdc2 (Thr14/Tyr15); followed by the decrease in the expression of Cyclin B1 and cell cycle arrest at the G2/M checkpoint, which ultimately resulted in the reduction in cell division and the negative regulation squamous cell carcinoma growth.<xref rid="jcmm13532-bib-0030" ref-type="ref">30</xref> In a zinc‐reversible manner, S100A8/A9 induced apoptosis in various human and mouse tumour cell lines, including colon cancer cell lines.<xref rid="jcmm13532-bib-0031" ref-type="ref">31</xref> In a previous study reported by Schnekenburger et al, he and his team found that pancreatitis induced an increased level of S100A9 in the pancreas and the application of S100A8/A9 in mice induces pancreatic cell‐cell contract dissociation which could trigger cell apoptosis.<xref rid="jcmm13532-bib-0032" ref-type="ref">32</xref> Once the activation of the IL‐17 signalling pathway is mediated by S100A9, HMGB1 and RAGE both of which are cell death biomarkers are up‐regulated, thus leading to cell apoptosis.<xref rid="jcmm13532-bib-0033" ref-type="ref">33</xref>
+</p><p>IL‐17 is characterized by its ability to induce the expression of both cytokines and chemokines and has been reported to participate in the amplification of inflammatory responses.<xref rid="jcmm13532-bib-0034" ref-type="ref">34</xref> The significant effects of IL‐17 blockade have proved to be controversial, due to its weak functions in vitro, as on the one hand IL‐6 secretin, nuclear factor‐κB (NF‐κB) or other pro‐inflammatory, which were only activated under high levels of cytokines, whereas on the other hand IL‐17 exhibited significantly potent synergy in its ability to link with other cytokines such as IL‐1β and TNFα.<xref rid="jcmm13532-bib-0035" ref-type="ref">35</xref> In the present study, we found that S100A9 exerted its effects by blocking the IL‐17 signalling pathway. This was supported by a study reviewing the synovial fluid (SF) of rheumatoid arthritis (RA), which initially indicated that S100A9 level was closely associated with IL‐17 and IL‐6, the critical factor to induce T‐helper (Th) 17 differentiations.<xref rid="jcmm13532-bib-0036" ref-type="ref">36</xref> Meanwhile, the activation of Th17 cells resulted in the production of IL‐17 expression and overexpression of IL‐17, together with TNF, may lead to cartilage surface erosion.<xref rid="jcmm13532-bib-0037" ref-type="ref">37</xref> A clinical study reported by Jia et al demonstrated that the serum level of IL‐17 might be linked to AP severity and sever as a prognostic factor in evaluating disease severity of patients with AP.<xref rid="jcmm13532-bib-0038" ref-type="ref">38</xref>
+</p><p>S100A8 and S100A9 are generally considered to be pro‐inflammatory substances.<xref rid="jcmm13532-bib-0039" ref-type="ref">39</xref> This was observed in the present study in that S100A9 silencing inhibited the release of pro‐inflammatory cytokines. Both the pro‐ and anti‐inflammatory functions of macrophages were primarily premised on the following factors: One was the stage of differentiation and the other was distinct mechanisms of activation.<xref rid="jcmm13532-bib-0040" ref-type="ref">40</xref> Considering that S100A8 and S100A9 were less stable than S100A8/A9 heterodimers, S100A8/A9 heterodimers are usually referred to when discussing pro‐inflammatory activities.<xref rid="jcmm13532-bib-0041" ref-type="ref">41</xref> The main receptors for S100A8, S100A9 and calprotectin are TLR4, which represent the dominant receptor for the S100A8/S100A9 signalling pathway, as well as RAGE; however, the specific receptors and pathways for S100A8, S100A9 and calprotectin are mainly dependent on the cell type.<xref rid="jcmm13532-bib-0042" ref-type="ref">42</xref> For example, activated microglia produces significantly greater levels of S100A9 in Alzheimer's disease.<xref rid="jcmm13532-bib-0043" ref-type="ref">43</xref> A previous study indicated that both TLR4 and RAGE proteins were overexpressed in pancreatitis, as well as highlighting the ability of S100A9 to activate the IL‐17 signalling pathway and regulate the expression of inflammatory factors by binding to the cell surface receptors TLR4 and RAGE proteins.<xref rid="jcmm13532-bib-0044" ref-type="ref">44</xref> Once secreted, S100A8/S100A9 has the potential to bind to TLR4, which displayed pro‐inflammatory functions, and result in the up‐regulation of pro‐inflammatory cytokines, the activation of endothelial cells and macrophages.<xref rid="jcmm13532-bib-0036" ref-type="ref">36</xref>
+</p><p>In conclusion, the results of the present study demonstrated that S100A9 silencing inhibits the release of pro‐inflammatory cytokines by blocking the IL‐17 signalling pathway. This was evidentiary the established AP mouse model in this study. Cell proliferation was inhibited, and apoptosis conditions were enhanced. The results of this study provide an experimental basis for the use of S100A9‐based therapy in the treatment of AP. It should be noted that the mechanisms between S100A9 and the IL‐17 signalling pathway require further analysis and further clinical trials are needed, in order to assess whether the key findings of this study can be applied to human beings.</p></sec><sec id="jcmm13532-sec-0025"><title>CONFLICT OF INTEREST</title><p>None.</p></sec></body><back><ack id="jcmm13532-sec-0024"><title>ACKNOWLEDGEMENTS</title><p>This work was supported by the Priority Academic Program Development of Jiangsu Higher Education Institutions (PAPD); the 2016 “333 Project” Award of Jiangsu Province, the 2013 “Qinglan Project” of the Young and Middle‐aged Academic Leader of Jiangsu College and University, the National Natural Science Foundation of China (81570531, 81571055, 81400902, 81271225, 81171012, 81672731 and 30950031), the Major Fundamental Research Program of the Natural Science Foundation of the Jiangsu Higher Education Institutions of China (13KJA180001) and grants from the Cultivate National Science Fund for Distinguished Young Scholars of Jiangsu Normal University. The authors want to show their appreciation to the reviewers for their helpful comments.</p></ack><ref-list content-type="cited-references" id="jcmm13532-bibl-0001"><title>REFERENCES</title><ref id="jcmm13532-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jcmm13532-cit-0001">
+<string-name name-style="western">
+<surname>Herath</surname>
+<given-names>HM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kulatunga</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Acute pancreatitis complicated with deep vein thrombosis and pulmonary embolism: a case report</article-title>. <source>J Med Case Rep</source>. <year>2016</year>;<volume>10</volume>:<fpage>182</fpage>.<pub-id pub-id-type="pmid">27339635</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13256-016-0968-6</pub-id><pub-id pub-id-type="pmcid">PMC4917977</pub-id></mixed-citation></ref><ref id="jcmm13532-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="jcmm13532-cit-0002">
+<string-name name-style="western">
+<surname>Banks</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bollen</surname>
+<given-names>TL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dervenis</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Classification of acute pancreatitis–2012: revision of the Atlanta classification and definitions by international consensus</article-title>. <source>Gut</source>. <year>2013</year>;<volume>62</volume>:<fpage>102</fpage>‐<lpage>111</lpage>.<pub-id pub-id-type="pmid">23100216</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/gutjnl-2012-302779</pub-id></mixed-citation></ref><ref id="jcmm13532-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jcmm13532-cit-0003">
+<string-name name-style="western">
+<surname>Zerem</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Treatment of severe acute pancreatitis and its complications</article-title>. <source>World J Gastroenterol</source>. <year>2014</year>;<volume>20</volume>:<fpage>13879</fpage>‐<lpage>13892</lpage>.<pub-id pub-id-type="pmid">25320523</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3748/wjg.v20.i38.13879</pub-id><pub-id pub-id-type="pmcid">PMC4194569</pub-id></mixed-citation></ref><ref id="jcmm13532-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jcmm13532-cit-0004">
+<string-name name-style="western">
+<surname>McNicholas</surname>
+<given-names>DP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kelly</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Das</surname>
+<given-names>JP</given-names>
+</string-name>, et al. <article-title>Disappearing portal venous gas in acute pancreatitis and small bowel ischemia</article-title>. <source>Radiol Case Rep</source>. <year>2017</year>;<volume>12</volume>:<fpage>269</fpage>‐<lpage>272</lpage>.<pub-id pub-id-type="pmid">28491167</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.radcr.2017.01.006</pub-id><pub-id pub-id-type="pmcid">PMC5417629</pub-id></mixed-citation></ref><ref id="jcmm13532-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="jcmm13532-cit-0005">
+<string-name name-style="western">
+<surname>Cai</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cui</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ma</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Qiao</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Interleukin‐10 ‐1082A/G polymorphism is associated with the development of acute pancreatitis in a Chinese population</article-title>. <source>Int J Clin Exp Pathol</source>. <year>2015</year>;<volume>8</volume>:<fpage>15170</fpage>‐<lpage>15176</lpage>.<pub-id pub-id-type="pmid">26823862</pub-id><pub-id pub-id-type="pmcid">PMC4713648</pub-id></mixed-citation></ref><ref id="jcmm13532-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jcmm13532-cit-0006">
+<string-name name-style="western">
+<surname>Hamada</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Masamune</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shimosegawa</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Transition of early‐phase treatment for acute pancreatitis: an analysis of nationwide epidemiological survey</article-title>. <source>World J Gastroenterol</source>. <year>2017</year>;<volume>23</volume>:<fpage>2826</fpage>‐<lpage>2831</lpage>.<pub-id pub-id-type="pmid">28522901</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3748/wjg.v23.i16.2826</pub-id><pub-id pub-id-type="pmcid">PMC5413778</pub-id></mixed-citation></ref><ref id="jcmm13532-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jcmm13532-cit-0007">
+<string-name name-style="western">
+<surname>Farkas</surname>
+<given-names>G</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name name-style="western">
+<surname>Tiszlavicz</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Takacs</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>Analysis of plasma levels and polymorphisms of S100A8/9 and S100A12 in patients with acute pancreatitis</article-title>. <source>Pancreas</source>. <year>2014</year>;<volume>43</volume>:<fpage>485</fpage>‐<lpage>487</lpage>.<pub-id pub-id-type="pmid">24622086</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/MPA.0000000000000046</pub-id></mixed-citation></ref><ref id="jcmm13532-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jcmm13532-cit-0008">
+<string-name name-style="western">
+<surname>Averill</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barnhart</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Becker</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>S100A9 differentially modifies phenotypic states of neutrophils, macrophages, and dendritic cells: implications for atherosclerosis and adipose tissue inflammation</article-title>. <source>Circulation</source>. <year>2011</year>;<volume>123</volume>:<fpage>1216</fpage>‐<lpage>1226</lpage>.<pub-id pub-id-type="pmid">21382888</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/CIRCULATIONAHA.110.985523</pub-id><pub-id pub-id-type="pmcid">PMC3072335</pub-id></mixed-citation></ref><ref id="jcmm13532-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jcmm13532-cit-0009">
+<string-name name-style="western">
+<surname>Narumi</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Miyakawa</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ueda</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Proinflammatory proteins S100A8/S100A9 activate NK cells via interaction with RAGE</article-title>. <source>J Immunol</source>. <year>2015</year>;<volume>194</volume>:<fpage>5539</fpage>‐<lpage>5548</lpage>.<pub-id pub-id-type="pmid">25911757</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.4049/jimmunol.1402301</pub-id></mixed-citation></ref><ref id="jcmm13532-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="jcmm13532-cit-0010">
+<string-name name-style="western">
+<surname>Reinhard</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rupp</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Riedel</surname>
+<given-names>HD</given-names>
+</string-name>, et al. <article-title>S100A9 is a biliary protein marker of disease activity in primary sclerosing cholangitis</article-title>. <source>PLoS ONE</source>. <year>2012</year>;<volume>7</volume>:<fpage>e29821</fpage>.<pub-id pub-id-type="pmid">22253789</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0029821</pub-id><pub-id pub-id-type="pmcid">PMC3256182</pub-id></mixed-citation></ref><ref id="jcmm13532-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="jcmm13532-cit-0011">
+<string-name name-style="western">
+<surname>Basso</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bozzato</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Padoan</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Inflammation and pancreatic cancer: molecular and functional interactions between S100A8, S100A9, NT‐S100A8 and TGFbeta1</article-title>. <source>Cell Commun Signal</source>. <year>2014</year>;<volume>12</volume>:<fpage>20</fpage>.<pub-id pub-id-type="pmid">24670043</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/1478-811X-12-20</pub-id><pub-id pub-id-type="pmcid">PMC4108065</pub-id></mixed-citation></ref><ref id="jcmm13532-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jcmm13532-cit-0012">
+<string-name name-style="western">
+<surname>Yan</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>YJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Peng</surname>
+<given-names>WJ</given-names>
+</string-name>, et al. <article-title>Therapeutic potential of interleukin‐17 in inflammation and autoimmune diseases</article-title>. <source>Expert Opin Ther Targets</source>. <year>2014</year>;<volume>18</volume>:<fpage>29</fpage>‐<lpage>41</lpage>.<pub-id pub-id-type="pmid">24147601</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1517/14728222.2013.843669</pub-id></mixed-citation></ref><ref id="jcmm13532-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="jcmm13532-cit-0013">
+<string-name name-style="western">
+<surname>de Almeida‐Neto</surname>
+<given-names>FB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Assis Costa</surname>
+<given-names>VM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Oliveira‐Filho</surname>
+<given-names>AF</given-names>
+</string-name>, et al. <article-title>TH17 cells, interleukin‐17 and interferon‐gamma in patients and households contacts of leprosy with multibacillary and paucibacillary forms before and after the start of chemotherapy treatment</article-title>. <source>J Eur Acad Dermatol Venereol</source>. <year>2015</year>;<volume>29</volume>:<fpage>1354</fpage>‐<lpage>1361</lpage>.<pub-id pub-id-type="pmid">25429820</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/jdv.12869</pub-id></mixed-citation></ref><ref id="jcmm13532-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="jcmm13532-cit-0014">
+<string-name name-style="western">
+<surname>Liu</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xin</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>He</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Interleukin‐17 inhibits adult hippocampal neurogenesis</article-title>. <source>Sci Rep</source>. <year>2014</year>;<volume>4</volume>:<fpage>7554</fpage>.<pub-id pub-id-type="pmid">25523081</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/srep07554</pub-id><pub-id pub-id-type="pmcid">PMC4271266</pub-id></mixed-citation></ref><ref id="jcmm13532-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="jcmm13532-cit-0015">
+<string-name name-style="western">
+<surname>Dai</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>JB</given-names>
+</string-name>. <article-title>Serum interleukin 17 as an early prognostic biomarker of severe acute pancreatitis receiving continuous blood purification</article-title>. <source>Int J Artif Organs</source>. <year>2015</year>;<volume>38</volume>:<fpage>192</fpage>‐<lpage>198</lpage>.<pub-id pub-id-type="pmid">25907530</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.5301/ijao.5000406</pub-id></mixed-citation></ref><ref id="jcmm13532-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="jcmm13532-cit-0016">
+<string-name name-style="western">
+<surname>Williams</surname>
+<given-names>JR</given-names>
+</string-name>. <article-title>The Declaration of Helsinki and public health</article-title>. <source>Bull World Health Organ</source>. <year>2008</year>;<volume>86</volume>:<fpage>650</fpage>‐<lpage>652</lpage>.<pub-id pub-id-type="pmid">18797627</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.2471/BLT.08.050955</pub-id><pub-id pub-id-type="pmcid">PMC2649471</pub-id></mixed-citation></ref><ref id="jcmm13532-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="jcmm13532-cit-0017">
+<string-name name-style="western">
+<surname>Shi</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guo</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jiang</surname>
+<given-names>X</given-names>
+</string-name>, et al. <article-title>Dysregulated Tim‐3 expression and its correlation with imbalanced CD4 helper T cell function in ulcerative colitis</article-title>. <source>Clin Immunol</source>. <year>2012</year>;<volume>145</volume>:<fpage>230</fpage>‐<lpage>240</lpage>.<pub-id pub-id-type="pmid">23117395</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.clim.2012.09.001</pub-id></mixed-citation></ref><ref id="jcmm13532-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="jcmm13532-cit-0018">
+<string-name name-style="western">
+<surname>Elder</surname>
+<given-names>AS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Saccone</surname>
+<given-names>GT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bersten</surname>
+<given-names>AD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dixon</surname>
+<given-names>DL</given-names>
+</string-name>. <article-title>Evaluation of lung injury and respiratory mechanics in a rat model of acute pancreatitis complicated with endotoxin</article-title>. <source>Pancreatology</source>. <year>2012</year>;<volume>12</volume>:<fpage>240</fpage>‐<lpage>247</lpage>.<pub-id pub-id-type="pmid">22687380</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.pan.2012.03.001</pub-id></mixed-citation></ref><ref id="jcmm13532-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="jcmm13532-cit-0019">
+<string-name name-style="western">
+<surname>Ayuk</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Abrahamse</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Houreld</surname>
+<given-names>NN</given-names>
+</string-name>. <article-title>The role of photobiomodulation on gene expression of cell adhesion molecules in diabetic wounded fibroblasts in vitro</article-title>. <source>J Photochem Photobiol, B</source>. <year>2016</year>;<volume>161</volume>:<fpage>368</fpage>‐<lpage>374</lpage>.<pub-id pub-id-type="pmid">27295416</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jphotobiol.2016.05.027</pub-id></mixed-citation></ref><ref id="jcmm13532-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="jcmm13532-cit-0020">
+<string-name name-style="western">
+<surname>Ahmed Ali</surname>
+<given-names>U</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Issa</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hagenaars</surname>
+<given-names>JC</given-names>
+</string-name>, et al. <article-title>Risk of recurrent pancreatitis and progression to chronic pancreatitis after a first episode of acute pancreatitis</article-title>. <source>Clin Gastroenterol Hepatol</source>. <year>2016</year>;<volume>14</volume>:<fpage>738</fpage>‐<lpage>746</lpage>.<pub-id pub-id-type="pmid">26772149</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cgh.2015.12.040</pub-id></mixed-citation></ref><ref id="jcmm13532-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="jcmm13532-cit-0021">
+<string-name name-style="western">
+<surname>Kane</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Roth</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Frosch</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Increased perivascular synovial membrane expression of myeloid‐related proteins in psoriatic arthritis</article-title>. <source>Arthritis Rheum</source>. <year>2003</year>;<volume>48</volume>:<fpage>1676</fpage>‐<lpage>1685</lpage>.<pub-id pub-id-type="pmid">12794836</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/art.10988</pub-id></mixed-citation></ref><ref id="jcmm13532-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="jcmm13532-cit-0022">
+<string-name name-style="western">
+<surname>Soyfoo</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Roth</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vogl</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pochet</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Decaux</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Phagocyte‐specific S100A8/A9 protein levels during disease exacerbations and infections in systemic lupus erythematosus</article-title>. <source>J Rheumatol</source>. <year>2009</year>;<volume>36</volume>:<fpage>2190</fpage>‐<lpage>2194</lpage>.<pub-id pub-id-type="pmid">19755614</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3899/jrheum.081302</pub-id></mixed-citation></ref><ref id="jcmm13532-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="jcmm13532-cit-0023">
+<string-name name-style="western">
+<surname>Leach</surname>
+<given-names>ST</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Messina</surname>
+<given-names>I</given-names>
+</string-name>, et al. <article-title>Serum and mucosal S100 proteins, calprotectin (S100A8/S100A9) and S100A12, are elevated at diagnosis in children with inflammatory bowel disease</article-title>. <source>Scand J Gastroenterol</source>. <year>2007</year>;<volume>42</volume>:<fpage>1321</fpage>‐<lpage>1331</lpage>.<pub-id pub-id-type="pmid">17852869</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/00365520701416709</pub-id></mixed-citation></ref><ref id="jcmm13532-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="jcmm13532-cit-0024">
+<string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hoechst</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Duffy</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>S100A9 a new marker for monocytic human myeloid‐derived suppressor cells</article-title>. <source>Immunology</source>. <year>2012</year>;<volume>136</volume>:<fpage>176</fpage>‐<lpage>183</lpage>.<pub-id pub-id-type="pmid">22304731</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1365-2567.2012.03566.x</pub-id><pub-id pub-id-type="pmcid">PMC3403264</pub-id></mixed-citation></ref><ref id="jcmm13532-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="jcmm13532-cit-0025">
+<string-name name-style="western">
+<surname>Yui</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nakatani</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mikami</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Calprotectin (S100A8/S100A9), an inflammatory protein complex from neutrophils with a broad apoptosis‐inducing activity</article-title>. <source>Biol Pharm Bull</source>. <year>2003</year>;<volume>26</volume>:<fpage>753</fpage>‐<lpage>760</lpage>.<pub-id pub-id-type="pmid">12808281</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1248/bpb.26.753</pub-id></mixed-citation></ref><ref id="jcmm13532-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="jcmm13532-cit-0026">
+<string-name name-style="western">
+<surname>Ghavami</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kerkhoff</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chazin</surname>
+<given-names>WJ</given-names>
+</string-name>, et al. <article-title>S100A8/9 induces cell death via a novel, RAGE‐independent pathway that involves selective release of Smac/DIABLO and Omi/HtrA2</article-title>. <source>Biochim Biophys Acta</source>. <year>2008</year>;<volume>1783</volume>:<fpage>297</fpage>‐<lpage>311</lpage>.<pub-id pub-id-type="pmid">18060880</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bbamcr.2007.10.015</pub-id></mixed-citation></ref><ref id="jcmm13532-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="jcmm13532-cit-0027">
+<string-name name-style="western">
+<surname>Li</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ding</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>A novel p53 target gene, S100A9, induces p53‐dependent cellular apoptosis and mediates the p53 apoptosis pathway</article-title>. <source>Biochem J</source>. <year>2009</year>;<volume>422</volume>:<fpage>363</fpage>‐<lpage>372</lpage>.<pub-id pub-id-type="pmid">19534726</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1042/BJ20090465</pub-id></mixed-citation></ref><ref id="jcmm13532-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="jcmm13532-cit-0028">
+<string-name name-style="western">
+<surname>Silva</surname>
+<given-names>EJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Argyris</surname>
+<given-names>PP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zou</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ross</surname>
+<given-names>KF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Herzberg</surname>
+<given-names>MC</given-names>
+</string-name>. <article-title>S100A8/A9 regulates MMP‐2 expression and invasion and migration by carcinoma cells</article-title>. <source>Int J Biochem Cell Biol</source>. <year>2014</year>;<volume>55</volume>:<fpage>279</fpage>‐<lpage>287</lpage>.<pub-id pub-id-type="pmid">25236491</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.biocel.2014.09.007</pub-id><pub-id pub-id-type="pmcid">PMC4253299</pub-id></mixed-citation></ref><ref id="jcmm13532-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="jcmm13532-cit-0029">
+<string-name name-style="western">
+<surname>Agra</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fernandez‐Trasancos</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sierra</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>González‐Juanatey</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Eiras</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Differential association of S100A9, an inflammatory marker, and p53, a cell cycle marker, expression with epicardial adipocyte size in patients with cardiovascular disease</article-title>. <source>Inflammation</source>. <year>2014</year>;<volume>37</volume>:<fpage>1504</fpage>‐<lpage>1512</lpage>.<pub-id pub-id-type="pmid">24700313</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s10753-014-9876-3</pub-id></mixed-citation></ref><ref id="jcmm13532-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="jcmm13532-cit-0030">
+<string-name name-style="western">
+<surname>Khammanivong</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sorenson</surname>
+<given-names>BS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ross</surname>
+<given-names>KF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Herzberg</surname>
+<given-names>MC</given-names>
+</string-name>. <article-title>S100A8/A9 (calprotectin) negatively regulates G2/M cell cycle progression and growth of squamous cell carcinoma</article-title>. <source>PLoS ONE</source>. <year>2013</year>;<volume>8</volume>:<fpage>e69395</fpage>.<pub-id pub-id-type="pmid">23874958</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0069395</pub-id><pub-id pub-id-type="pmcid">PMC3706396</pub-id></mixed-citation></ref><ref id="jcmm13532-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="jcmm13532-cit-0031">
+<string-name name-style="western">
+<surname>Ghavami</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kerkhoff</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Los</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hashemi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sorg</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Karami‐Tehrani</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>Mechanism of apoptosis induced by S100A8/A9 in colon cancer cell lines: the role of ROS and the effect of metal ions</article-title>. <source>J Leukoc Biol</source>. <year>2004</year>;<volume>76</volume>:<fpage>169</fpage>‐<lpage>175</lpage>.<pub-id pub-id-type="pmid">15075348</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1189/jlb.0903435</pub-id></mixed-citation></ref><ref id="jcmm13532-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="jcmm13532-cit-0032">
+<string-name name-style="western">
+<surname>Schnekenburger</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schick</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kruger</surname>
+<given-names>B</given-names>
+</string-name>, et al. <article-title>The calcium binding protein S100A9 is essential for pancreatic leukocyte infiltration and induces disruption of cell‐cell contacts</article-title>. <source>J Cell Physiol</source>. <year>2008</year>;<volume>216</volume>:<fpage>558</fpage>‐<lpage>567</lpage>.<pub-id pub-id-type="pmid">18452188</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/jcp.21433</pub-id></mixed-citation></ref><ref id="jcmm13532-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="jcmm13532-cit-0033">
+<string-name name-style="western">
+<surname>Fahmueller</surname>
+<given-names>YN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nagel</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hoffmann</surname>
+<given-names>RT</given-names>
+</string-name>, et al. <article-title>Immunogenic cell death biomarkers HMGB1, RAGE, and DNAse indicate response to radioembolization therapy and prognosis in colorectal cancer patients</article-title>. <source>Int J Cancer</source>. <year>2013</year>;<volume>132</volume>:<fpage>2349</fpage>‐<lpage>2358</lpage>.<pub-id pub-id-type="pmid">23047645</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ijc.27894</pub-id></mixed-citation></ref><ref id="jcmm13532-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="jcmm13532-cit-0034">
+<string-name name-style="western">
+<surname>Ruddy</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wong</surname>
+<given-names>GC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>XK</given-names>
+</string-name>, et al. <article-title>Functional cooperation between interleukin‐17 and tumor necrosis factor‐alpha is mediated by CCAAT/enhancer‐binding protein family members</article-title>. <source>J Biol Chem</source>. <year>2004</year>;<volume>279</volume>:<fpage>2559</fpage>‐<lpage>2567</lpage>.<pub-id pub-id-type="pmid">14600152</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1074/jbc.M308809200</pub-id></mixed-citation></ref><ref id="jcmm13532-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="jcmm13532-cit-0035">
+<string-name name-style="western">
+<surname>Gaffen</surname>
+<given-names>SL</given-names>
+</string-name>. <article-title>An overview of IL‐17 function and signaling</article-title>. <source>Cytokine</source>. <year>2008</year>;<volume>43</volume>:<fpage>402</fpage>‐<lpage>407</lpage>.<pub-id pub-id-type="pmid">18701318</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cyto.2008.07.017</pub-id><pub-id pub-id-type="pmcid">PMC2582446</pub-id></mixed-citation></ref><ref id="jcmm13532-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="jcmm13532-cit-0036">
+<string-name name-style="western">
+<surname>Lee</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Woo</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kwok</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cho</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Park</surname>
+<given-names>SH</given-names>
+</string-name>. <article-title>MRP8 promotes Th17 differentiation via upregulation of IL‐6 production by fibroblast‐like synoviocytes in rheumatoid arthritis</article-title>. <source>Exp Mol Med</source>. <year>2013</year>;<volume>45</volume>:<fpage>e20</fpage>.<pub-id pub-id-type="pmid">23619188</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/emm.2013.39</pub-id><pub-id pub-id-type="pmcid">PMC3641402</pub-id></mixed-citation></ref><ref id="jcmm13532-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="jcmm13532-cit-0037">
+<string-name name-style="western">
+<surname>Koenders</surname>
+<given-names>MI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marijnissen</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Devesa</surname>
+<given-names>I</given-names>
+</string-name>, et al. <article-title>Tumor necrosis factor‐interleukin‐17 interplay induces S100A8, interleukin‐1beta, and matrix metalloproteinases, and drives irreversible cartilage destruction in murine arthritis: rationale for combination treatment during arthritis</article-title>. <source>Arthritis Rheum</source>. <year>2011</year>;<volume>63</volume>:<fpage>2329</fpage>‐<lpage>2339</lpage>.<pub-id pub-id-type="pmid">21520013</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/art.30418</pub-id></mixed-citation></ref><ref id="jcmm13532-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="jcmm13532-cit-0038">
+<string-name name-style="western">
+<surname>Jia</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tang</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Qiu</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Increased interleukin‐23/17 axis and C‐reactive protein are associated with severity of acute pancreatitis in patients</article-title>. <source>Pancreas</source>. <year>2015</year>;<volume>44</volume>:<fpage>321</fpage>‐<lpage>325</lpage>.<pub-id pub-id-type="pmid">25426616</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/MPA.0000000000000284</pub-id></mixed-citation></ref><ref id="jcmm13532-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="jcmm13532-cit-0039">
+<string-name name-style="western">
+<surname>Gomes</surname>
+<given-names>LH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Raftery</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yan</surname>
+<given-names>WX</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Goyette</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Thomas</surname>
+<given-names>PS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Geczy</surname>
+<given-names>CL</given-names>
+</string-name>. <article-title>S100A8 and S100A9‐oxidant scavengers in inflammation</article-title>. <source>Free Radic Biol Med</source>. <year>2013</year>;<volume>58</volume>:<fpage>170</fpage>‐<lpage>186</lpage>.<pub-id pub-id-type="pmid">23277148</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.freeradbiomed.2012.12.012</pub-id></mixed-citation></ref><ref id="jcmm13532-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="jcmm13532-cit-0040">
+<string-name name-style="western">
+<surname>Foell</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Roth</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Proinflammatory S100 proteins in arthritis and autoimmune disease</article-title>. <source>Arthritis Rheum</source>. <year>2004</year>;<volume>50</volume>:<fpage>3762</fpage>‐<lpage>3771</lpage>.<pub-id pub-id-type="pmid">15593206</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/art.20631</pub-id></mixed-citation></ref><ref id="jcmm13532-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="jcmm13532-cit-0041">
+<string-name name-style="western">
+<surname>Chen</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Miller</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rebelatto</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>S100A9 induced inflammatory responses are mediated by distinct damage associated molecular patterns (DAMP) receptors in vitro and in vivo</article-title>. <source>PLoS ONE</source>. <year>2015</year>;<volume>10</volume>:<fpage>e0115828</fpage>.<pub-id pub-id-type="pmid">25706559</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0115828</pub-id><pub-id pub-id-type="pmcid">PMC4338059</pub-id></mixed-citation></ref><ref id="jcmm13532-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="jcmm13532-cit-0042">
+<string-name name-style="western">
+<surname>Gao</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zheng</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Peng</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hou</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Meng</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>S100A9‐induced release of interleukin (IL)‐6 and IL‐8 through toll‐like receptor 4 (TLR4) in human periodontal ligament cells</article-title>. <source>Mol Immunol</source>. <year>2015</year>;<volume>67</volume>:<fpage>223</fpage>‐<lpage>232</lpage>.<pub-id pub-id-type="pmid">26038301</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.molimm.2015.05.014</pub-id></mixed-citation></ref><ref id="jcmm13532-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="jcmm13532-cit-0043">
+<string-name name-style="western">
+<surname>Wang</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Klechikov</surname>
+<given-names>AG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gharibyan</surname>
+<given-names>AL</given-names>
+</string-name>, et al. <article-title>The role of pro‐inflammatory S100A9 in Alzheimer's disease amyloid‐neuroinflammatory cascade</article-title>. <source>Acta Neuropathol</source>. <year>2014</year>;<volume>127</volume>:<fpage>507</fpage>‐<lpage>522</lpage>.<pub-id pub-id-type="pmid">24240735</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00401-013-1208-4</pub-id><pub-id pub-id-type="pmcid">PMC4148179</pub-id></mixed-citation></ref><ref id="jcmm13532-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="jcmm13532-cit-0044">
+<string-name name-style="western">
+<surname>Ma</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sun</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yao</surname>
+<given-names>SL</given-names>
+</string-name>. <article-title>Proinflammatory effects of S100A8/A9 via TLR4 and RAGE signaling pathways in BV‐2 microglial cells</article-title>. <source>Int J Mol Med</source>. <year>2017</year>;<volume>40</volume>:<fpage>31</fpage>‐<lpage>38</lpage>.<pub-id pub-id-type="pmid">28498464</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3892/ijmm.2017.2987</pub-id><pub-id pub-id-type="pmcid">PMC5466387</pub-id></mixed-citation></ref></ref-list></back></article>

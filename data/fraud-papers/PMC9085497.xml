@@ -1,0 +1,525 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">RSC Adv</journal-id><journal-id journal-id-type="iso-abbrev">RSC Adv</journal-id><journal-id journal-id-type="pmc-domain-id">4079</journal-id><journal-id journal-id-type="pmc-domain">rscadv</journal-id><journal-id journal-id-type="nlm-id">101581657</journal-id><journal-id journal-id-type="publisher-id">RA</journal-id><journal-title-group><journal-title>RSC Advances</journal-title></journal-title-group><issn pub-type="epub">2046-2069</issn><publisher><publisher-name>Royal Society of Chemistry</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC9085497</article-id><article-id pub-id-type="pmcid-ver">PMC9085497.1</article-id><article-id pub-id-type="pmcaid">9085497</article-id><article-id pub-id-type="pmcaiid">9085497</article-id><article-id pub-id-type="pmid">35548736</article-id><article-id pub-id-type="doi">10.1039/c8ra04876b</article-id><article-id pub-id-type="publisher-id">c8ra04876b</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Chemistry</subject></subj-group></article-categories><title-group><article-title>Down-regulated LncR-MALAT1 suppressed cell proliferation and migration by inactivating autophagy in bladder cancer</article-title></title-group><contrib-group><contrib contrib-type="author"><name name-style="western"><surname>Qi</surname><given-names initials="J">Jiude</given-names></name><xref rid="affa" ref-type="aff"/><xref rid="fn1" ref-type="author-notes">†</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Chu</surname><given-names initials="Y">Yanfeng</given-names></name><xref rid="affb" ref-type="aff"/><xref rid="fn1" ref-type="author-notes">†</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Zhang</surname><given-names initials="G">Guangyan</given-names></name><xref rid="affc" ref-type="aff"/></contrib><contrib contrib-type="author"><name name-style="western"><surname>Li</surname><given-names initials="H">Hongjun</given-names></name><xref rid="affd" ref-type="aff"/></contrib><contrib contrib-type="author"><name name-style="western"><surname>Yang</surname><given-names initials="D">Dongdong</given-names></name><xref rid="affe" ref-type="aff"/></contrib><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-5323-800X</contrib-id><name name-style="western"><surname>Wang</surname><given-names initials="Q">Qi</given-names></name><xref rid="afff" ref-type="aff"/></contrib><aff id="affa">
+<institution>Department of Oncology, People's Hospital of Laiwu</institution>
+<state>Shandong 271100</state>
+<country>China</country>
+</aff><aff id="affb">
+<institution>Department of Laboratory, Yantaishan Hospital</institution>
+<state>Shandong 264000</state>
+<country>China</country>
+</aff><aff id="affc">
+<institution>Department of Laboratory, People's Hospital of Zhangqiu District</institution>
+<state>Shandong 250200</state>
+<country>China</country>
+</aff><aff id="affd">
+<institution>Department of EGG Laboratory, Traditional Chinese Medicine Hospital of Zhangqiu Dirtrict</institution>
+<state>Shandong 250200</state>
+<country>China</country>
+</aff><aff id="affe">
+<institution>Department of Nursing, People's Hospital of Zhangqiu District</institution>
+<state>Shandong 250000</state>
+<country>China</country>
+</aff><aff id="afff">
+<institution>Department of Urology, Qingdao Municipal Hospital</institution>
+<addr-line>No. 5 Donghai Middle Road</addr-line>
+<addr-line>Shinan District</addr-line>
+<city>Qingdao</city>
+<state>Shandong 266001</state>
+<country>China</country>
+<email>wangqisdqd@163.com</email>
+<phone>+86-0523-82789159</phone>
+</aff></contrib-group><author-notes><fn id="fn1"><label>†</label><p>Jiude Qi and Yanfeng Chu are the co-first authors.</p></fn></author-notes><pub-date publication-format="electronic" date-type="pub" iso-8601-date="2018-09-04"><day>4</day><month>9</month><year>2018</year></pub-date><pub-date publication-format="electronic" date-type="collection" iso-8601-date="2018-08-30"><day>30</day><month>8</month><year>2018</year></pub-date><volume>8</volume><issue>54</issue><issue-id pub-id-type="pmc-issue-id">407371</issue-id><fpage>31019</fpage><lpage>31027</lpage><history><date date-type="received" iso-8601-date="2018-06-07"><day>7</day><month>6</month><year>2018</year></date><date date-type="accepted" iso-8601-date="2018-07-10"><day>10</day><month>7</month><year>2018</year></date></history><pub-history><event event-type="pmc-release"><date><day>04</day><month>09</month><year>2018</year></date></event><event event-type="pmc-live"><date><day>10</day><month>05</month><year>2022</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2023-10-02 17:25:25.297"><day>02</day><month>10</month><year>2023</year></date></event></pub-history><permissions><copyright-statement>This journal is © The Royal Society of Chemistry</copyright-statement><copyright-year>2018</copyright-year><copyright-holder>The Royal Society of Chemistry</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense" start_date="2018-09-04">https://creativecommons.org/licenses/by-nc/3.0/</ali:license_ref></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="RA-008-C8RA04876B.pdf"/><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="retraction-forward" xml:lang="en" xlink:title="retraction" vol="12" journal-id="RSC Adv" journal-id-type="nlm-ta" ext-link-type="pmc" xlink:href="PMC9523765"><article-title>Retraction: Down-regulated LncR-MALAT1 suppressed cell proliferation and migration by inactivating autophagy in bladder cancer</article-title><volume>12</volume><issue>43</issue><date><day>30</day><month>9</month><year>2022</year></date><fpage>28009</fpage><lpage>28009</lpage><source>RSC Advances</source><pub-id pub-id-type="doi">10.1039/d2ra90096c</pub-id><pub-id pub-id-type="pmcid">PMC9523765</pub-id><pub-id pub-id-type="pmid">36320251</pub-id></related-article><abstract><p>Long non-coding RNA-metastasis-associated lung adenocarcinoma transcript (LncR-MALAT) is highly expressed in a variety of tumors, which can affect the progression of tumor cells. LncR-MALAT1 was reported to affect the proliferation of pancreatic cancer and glioma cells by regulating autophagy, but how LncR-MALAT1 affects the proliferation and invasion of various cancer cells by regulating autophagy in bladder cancer has not been reported. Therefore, in this study, we aimed to investigate the effect of LncR-MALAT1 on cell proliferation, apoptosis, invasion and autophagy of bladder cancer and the possible mechanism <italic toggle="yes">in vitro</italic>. The results showed that LncR-MALAT1 was highly expressed in bladder cancer tissues and cells. The silence of LncR-MALAT1 inhibited the proliferation and invasion and promoted apoptosis in bladder cancer cells. In addition, MALAT1 shRNA down-regulated the expression of Beclin1 and the LC3 II/I ratio, enhanced the expression of p62 and played a significant role in autophagy inhibition. By further investigating the relevant regulatory mechanisms, we found that MALATI shRNA reduced the phosphorylation of AMPK and increased the phosphorylation level of mTOR, thereby inhibiting the activation of the AMPK/mTOR pathway. It is noteworthy that the AMPK/mTOR pathway activator, metformin, partially reversed the effect of MALAT1 shRNA on the inhibition of autophagy in bladder cancer cells. At the same time, the proliferation and invasion ability of HT-1376 cells inhibited by MALAT1 shRNA were also enhanced. The results showed that down-regulation of LncR-MALAT1 could inhibit the proliferation and invasion of bladder cancer cells by attenuating autophagy <italic toggle="yes">via</italic> the regulation of the AMPK/mTOR pathway.</p></abstract><abstract abstract-type="toc"><p>Long non-coding RNA-metastasis-associated lung adenocarcinoma transcript (LncR-MALAT) is highly expressed in a variety of tumors, which can affect the progression of tumor cells.<graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="ga" position="float" orientation="portrait" xlink:href="c8ra04876b-ga.jpg"/></p></abstract><counts><page-count count="9"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC</meta-value></custom-meta><custom-meta><meta-name>pubstatus</meta-name><meta-value>Paginated Article</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec><title>Introduction</title><p>Bladder cancer is the ninth most common tumor in the world.<sup><xref rid="cit1" ref-type="bibr">1</xref></sup> In recent years, the incidence of bladder cancer has increased year by year. There were about 43 000 bladder cancer cases in 2012 and the mortality rate was nearly 60%.<sup><xref rid="cit2" ref-type="bibr">2</xref></sup> Bladder cancer can be divided into urothelial cell carcinoma, squamous cell carcinoma and adenocarcinoma, among which urothelial cell carcinoma is the most common one.<sup><xref rid="cit3" ref-type="bibr">3</xref></sup> At present, the treatment for bladder cancer mainly depends on surgery, but the 5 year survival rate is less than 50% because of the high recurrence rate and metastasis risk.<sup><xref rid="cit4" ref-type="bibr">4,5</xref></sup> Therefore, getting a better understanding of the pathogenesis of bladder cancer and finding a new therapeutic target have become urgent tasks.</p><p>Human genome sequencing results showed that only 2% of the human genome was the protein coding gene, and more than 80% of the DNA is transcribed as RNA without protein coding. Such RNA is called noncoding RNA.<sup><xref rid="cit6" ref-type="bibr">6</xref></sup> Recent researches have shown that lncRNAs play an important role in gene transcription, shear, cell cycle regulation and immune response.<sup><xref rid="cit7" ref-type="bibr">7,8</xref></sup> LncRNA metastasis-associated lung adenocarcinoma transcript 1 (MALAT1) is a long-chain non-coding RNA found in 2003, which is located on chromosome 11q13.1.<sup><xref rid="cit9" ref-type="bibr">9</xref></sup> Investigations have shown that LncR-MALAT1 was highly expressed in a variety of tumor tissues, such as lung cancer, breast cancer, liver cancer, pancreatic cancer and bladder cancer.<sup><xref rid="cit10" ref-type="bibr">10–13</xref></sup> Previous reports demonstrated that knockdown of MALAT1 inhibited the proliferation of human osteosarcoma cell and suppressed the expression of proliferating cell nuclear antigen (PCNA).<sup><xref rid="cit14" ref-type="bibr">14</xref></sup> Others also reported that the abnormal expression of MALAT1 in bladder cancer was closely related to cancer development and prognosis.<sup><xref rid="cit15" ref-type="bibr">15</xref></sup></p><p>Autophagy is a highly conserved metabolic pathway in eukaryotic cells which removes harmful substances in the cell, provides nutrients and energy for cells, thus maintaining cell metabolic balance.<sup><xref rid="cit16" ref-type="bibr">16</xref></sup> Investigations have shown that autophagy is closely related to a variety of diseases, such as aging, neurodegenerative diseases and cancer.<sup><xref rid="cit17" ref-type="bibr">17–19</xref></sup> Among them, autophagy plays a dual role as tumor suppressor and tumor promoter in the process of cancer development. It affects cell mobility by influencing the phenotype of cells and also provides nutritional support for the proliferation of tumor cells.<sup><xref rid="cit19" ref-type="bibr">19,20</xref></sup> It has also been reported that LncR-MALAT1 can influence the proliferation, mobility and multidrug resistance of pancreatic cancer cells by regulating autophagy.<sup><xref rid="cit21" ref-type="bibr">21</xref></sup> However, how LncR-MALAT1 affects the proliferation and invasion of various cancer cells by regulating autophagy in bladder cancer has not been reported.</p><p>The aim of this investigation was to investigate the related mechanism of LncR-MALAT1 in regulating the proliferation and invasion in bladder cancer cells. We found that MALAT1 showed a high expression in bladder cancer. MALAT1 shRNA inhibited the proliferation and invasion of bladder cancer cells, promoted cell apoptosis, inhibited autophagy and inactivated AMPK/mTOR pathway. The activation of AMPK/mTOR pathway reversed the effect of MALAT1 shRNA on cell proliferation, apoptosis, invasion and autophagy. Taken together, our study demonstrated that down-regulation of LncRNA MALAT1 inhibited the proliferation and invasion of bladder cancer cells by inhibiting autophagy <italic toggle="yes">via</italic> the AMPK/mTOR pathway.</p></sec><sec><title>Materials and methods</title><sec><title>Samples collection</title><p>The specimens were obtained from 30 patients who were underwent surgical treatment for bladder cancer between March 2016 and March 2017 at the Qingdao Municipal Hospital. All patients had no chemotherapy and radiotherapy before surgery. All of 30 patients, 23 were male and 7 were female, aged 58.23 ± 9.41 years (range 30–76). Tissue samples were immediately snap-frozen in liquid nitrogen after cutting then stored in −80 °C until RNA extraction. In this experiment, the patients signed the informed consent and got the approval from the ethics committee of the Qingdao Municipal Hospital (KYLL-2017(ks)-1243). All experiments were performed in compliance with the relevant laws or guidelines of People's Hospital of Laiwu</p></sec><sec><title>Cell lines culture</title><p>The bladder cancer cell lines RT4, HT-1376, RT112, 253J, T24 and normal urinary tract epithelial cells SV-HUC-1 were derived from the Chinese Academy of Sciences cell bank. SV-HUC-1 cells were cultured with 10% fetal bovine serum F-12K medium (21127030, Gibco, Rockville, MD). Other cells were cultured in RPMI 1640 medium (11875119, Gibco, Rockville, MD) containing 10% fetal bovine serum. All cells were cultured in a humidified incubator at 37 °C with an atmosphere of 5% CO<sub>2</sub>.</p></sec><sec><title>Quantitative real-time polymerase chain reaction</title><p>Total RNA was extracted from cells and tissues according to the manufacturer protocols of TRIzol kit (12183555, Invitrogen, Carlsbad, USA) and was quantified by NanoDrop2000 (Thermo Fisher Scientific, Waltham, USA). Then cDNA was synthesized using reverse transcription kits (AM1314, Thermo Fisher Scientific, Waltham, USA) following the manufacturer protocols. Quantitative analysis of cDNA was performed by using a fluorescence quantitative PCR kit (F416XL, Thermo Fisher Scientific, Waltham, USA) following the manufacturer protocols. The amplification primers used were as follows: MALAT1 sense 5′-CTCACTAAA GGCACCGAAGG-3′, MALAT1 anti-sense 5′-GGCAGAGAAGTT GCTTGTGG-3′. The expression level of MALAT1 was detected with GAPDH as the internal reference. GAPDH sense 5′-GAAGGTGAAGGTCGGAGTCA-3′, GAPDH anti-sense 5′-TGGACTCCACGACGTACTCA-3′. Relative expression was calculated by 2<sup>−ΔΔ<italic toggle="yes">C</italic><sub>t</sub></sup> method.</p></sec><sec><title>Cell transfection</title><p>Cell transfection was transfected according to the DharmaFECT kit (13778075, Life Technologies, Grand Island, NY) transfection instructions. The MALAT1 used in shRNA was purchased from Shanghai Aibos Biological Technology Co., Ltd. The sequence was as follows: 5′-GACCTTGAAATCCATCACG-3′, with a shRNA vector without the intended sequence as a negative control. Cells were cultured in 6-well plates at 60% confluency. Next day, 100 nM of MALAT1 shRNA or negative control (MALAT1 scramble) and DharmaFECT Transfection Reagent (Life Technologies, Grand Island, NY) were diluted in Opti-MEM Reduced Serum Medium (Gibco), respectively, co-incubated for 20 min at room temperature and added into each well. After transfection of MALAT1 shRNA or MALAT1 scramble for 48 h, the cells were collected for subsequent experiments.</p></sec><sec><title>Cell proliferation test</title><p>The cell proliferation was examined in accordance with the CCK-8 kit (C0038, Dojindo; Kumamoto, Japan) instructions after the HT-1376 cells and 253J cells were transfected with MALAT1 shRNA. Cells were incubated in 10% CCK-8 solution diluted with normal medium for 4 h at 37 °C. At last the absorbance at 450 nm was detected with a spectrophotometer (Bio-Rad Laboratories, Hercules, CA, USA). The proliferation folds were calculated by formula the absorbance post transfection/the absorbance before transfection.</p></sec><sec><title>Transwell invasion experiment</title><p>Cell invasion was measured by using a 24-well plate containing transwell chamber (8 μm pore size, Corning). The cells were grown in a pre-coated matrigel chamber, and a complete culture medium containing 10% fetal bovine serum was cultured in the lower chamber. The cells on the surface of the membrane were wiped off using a sterile cotton swab after 24 hours of incubation. The cells that hit the lower layers of the cells were stained with hematoxylin and the ten fields were randomly selected for statistical purposes.</p></sec><sec><title>Flow cytometric analysis</title><p>Cells in each group were harvested at 48 h post-transfection. For the apoptosis analysis, cells were collected (1 × 10<sup>6</sup>) and resuspend in 200 μl binding buffer (1×). Cell density should be 5 × 10<sup>5</sup>/ml, then were stained using the Annexin V-fluorescein isothiocyanate (FITC) and PI (BMS500FI-100, Annexin V-FITC Apoptosis Detection Kit, Thermo Fisher Scientific, Waltham, USA) following the manufacturer protocols. Then the apoptosis rates were analyzed using the FACS Caliber II sorter and Cell Quest FACS system (BD Bio-sciences, San Jose, CA, USA) according to the manufacturer's protocols. The flow cytometry analysis was repeated at least three times.</p></sec><sec><title>Western blot</title><p>Cells were lysed in lysis buffer supplemented with phenylmethanesulfonyl fluoride (PMSF) to extract proteins. The protein concentration was detected by using the BCA protein assay (Tiangen, China). 30 μg proteins per lane were separated by 10% SDS-PAGE and transferred to PDVF membrane (Millipore, Billerica, USA). The PVDF membrane was placed in 5% skimmed milk and blocked, and the primary (PCNA (ab18197, 1 : 1000), MMP-3 (ab53015, 1 : 1000), Bax (ab53154, 1 : 1000), LC3 II/I (ab48394, 1 : 500), P62, Beclin1 (ab91526, 1 : 500), AMPK (ab3760, 1 : 1000), <italic toggle="yes">p</italic>-AMPK (ab109402, 1 : 1000), Mtor (ab2732, 1 : 2000), <italic toggle="yes">p</italic>-mTOR (ab84400, 1 : 400)) and secondary antibodies (ab205718, 1 : 2000) were incubated (all primary antibodies were purchased from Abcam, Cambridge, MA) and tested with a ChemiDoc XRS imaging system.</p></sec><sec><title>Immunofluorescence staining</title><p>After 8 h, cells were fixed in 4% paraformaldehyde in PBS at room temperature for 10 min, then permeabilized with 0.3% Triton X-100 for 10 min at room temperature. After washing in PBS, the cells were incubated with primary antibody (ab51520, 1 : 2000) and secondary antibodies (ab205718, 1 : 2000) (all antibodies were purchased from Abcam, Cambridge, MA). Then cells were counterstained with 10 mg ml<sup>−1</sup> DAPI. The cells were examined under a Nikon fluorescence microscope (Image Systems, Columbia, MD).</p></sec><sec><title>Statistical analysis</title><p>SPSS 19.0 software was used for statistical analysis. The data were expressed as mean ± standard deviation. <italic toggle="yes">T</italic> test was used between the two groups, and more groups were compared with ANOVA, with <italic toggle="yes">P</italic> &lt; 0.05 indicating a statistically significant difference.</p></sec></sec><sec><title>Results</title><sec><title>Expression of MALAT1 in bladder cancer tissues and cells</title><p>The expression of LncR-MALAT1 in bladder cancer tissues, adjacent healthy tissues, bladder cancer cell lines and normal urinary epithelial cells was detected through qRT-PCR. The results showed that the expression of LncR-MALAT1 in bladder cancer tissues was significantly higher than that in normal healthy bladder tissues (<xref rid="fig1" ref-type="fig">Fig. 1A</xref>, **<italic toggle="yes">P</italic> &lt; 0.01). Besides, the expression of LncR-MALAT1 in bladder cancer cell lines was also up-regulated compared with the normal urinary epithelial cells (<xref rid="fig1" ref-type="fig">Fig. 1B</xref>, **<italic toggle="yes">P</italic> &lt; 0.01, ***<italic toggle="yes">P</italic> &lt; 0.01). The results showed that LncR-MALAT1 was highly expressed in bladder cancer tissues and cells.</p><fig position="float" id="fig1" orientation="portrait"><label>Fig. 1</label><caption><title>MALAT1 is significantly up-regulated in bladder cancer tissues and cell lines. (A) RT-PCR was used to detect the expression of LncR-MALAT1 in bladder cancer tissues and adjacent tissues (<italic toggle="yes">n</italic> = 30). (B) The expression of LncR-MALATI in bladder cancer cell lines (RT4, HT-1376, RT112, 253J, T24) and normal urinary tract epithelial cells (SV-HUC-1) was detected by RT-PCR. The adjacent tissues and normal urinary tract epithelial cells were used as normal control group. All experiments were repeated at least three times. **<italic toggle="yes">P</italic> &lt; 0.01, ***<italic toggle="yes">P</italic> &lt; 0.001 <italic toggle="yes">versus</italic> the control group.</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="c8ra04876b-f1.jpg"/></fig></sec><sec><title>Effect of MALAT1 shRNA on bladder cancer cell proliferation and invasion</title><p>Two kinds of cell lines (HT-1376 cells and 253J cells) with the highest expression of LncR-MALAT1 were selected for the following experiments. After transfection of MALAT1 shRNA or MALAT1 scramble for 48 h, qRT-PCR was used to detect the transfection efficiency. The expression of MALAT1 was measured by qRT-PCR. The transfection efficiency was quantified by calculating the percentage of reduced expression of MALAT1. As shown in <xref rid="fig2" ref-type="fig">Fig. 2A</xref>, the expression of MALAT1 in HT-1376 cells and 253J cells was significantly decreased by 80% after MALAT1 shRNA transfection, indicating successful transfection (<italic toggle="yes">P</italic> &lt; 0.01). The results of CCK8 assay showed that MALAT1 shRNA significantly inhibited the proliferation of HT-1376 cells and 253J cells and the expression of proliferating cell nuclear antigen (PCNA) compared with the control group (<xref rid="fig2" ref-type="fig">Fig. 2B, C and F</xref>, *<italic toggle="yes">P</italic> &lt; 0.05, **<italic toggle="yes">P</italic> &lt; 0.01). What is more, transwell invasion assay and western blot showed that MALAT1 shRNA significantly inhibited the invasion of bladder cancer cells and decreased the expression of matrix metalloprotein-3 (MMP-3) (<xref rid="fig2" ref-type="fig">Fig. 2D and F</xref>, *<italic toggle="yes">P</italic> &lt; 0.05, **<italic toggle="yes">P</italic> &lt; 0.01). At the same time, cell apoptosis was largely promoted by MALAT1 shRNA detected through flow cytometry (<xref rid="fig2" ref-type="fig">Fig. 2E</xref>, **<italic toggle="yes">P</italic> &lt; 0.01). The expression of pro-apoptotic protein Bax was also obviously elevated by MALAT1 shRNA (<xref rid="fig2" ref-type="fig">Fig. 2F</xref>, *<italic toggle="yes">P</italic> &lt; 0.05). In summary, MALAT1 shRNA inhibited the proliferation and invasion of bladder cancer cells.</p><fig position="float" id="fig2" orientation="portrait"><label>Fig. 2</label><caption><title>Effect of MALAT1 on bladder cancer cell proliferation and migration. The cells were treated with LncR-MALAT1 shRNA, and the LncR-MALAT1 was knocked out. The cells were divided into control group, MALAT1 shRNA group and MALAT1 scramble group. (A) RT-PCR was used to detect the expression of MALAT1 in HT-1376 and 253J cell lines. (B and C) CCK8 was used to detect HT-1376 and 253J cell proliferation. (D) Transwell experiments were used to detect cell invasion. (E) Cell apoptosis was analyzed through flow cytometry. (F) The expression of PCNA, MMP-3 and Bax was detected through western blot. GAPDH was used as internal reference. All experiments were repeated at least three times. *<italic toggle="yes">P</italic> &lt; 0.05, **<italic toggle="yes">P</italic> &lt; 0.01 <italic toggle="yes">versus</italic> control.</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="c8ra04876b-f2.jpg"/></fig></sec><sec><title>MALAT1 shRNA inactivated autophagy and inactivated the AMPK/mTOR pathway</title><p>Investigations have shown that regulation of autophagy can affect the development of bladder cancer, and AMPK/mTOR signaling pathway plays an important role in regulating cell autophagy.<sup><xref rid="cit22" ref-type="bibr">22,23</xref></sup> We detected the phosphorylation of autophagy-related protein (AMPK and mTOR) by western blot, in order to investigate whether MALAT1 shRNA affects the autophagy of bladder cancer by regulating AMPK/mTOR signaling pathway. The results showed that MALAT1 shRNA significantly inhibited autophagy by down-regulating the expression of Beclin1 in HT-1376 cells and 253J cells, increasing the expression of p62 and decreasing the ratio of LC3 II/I (<xref rid="fig3" ref-type="fig">Fig. 3A</xref>, **<italic toggle="yes">P</italic> &lt; 0.01) compared with control group. At the same time, MALAT1 shRNA significantly inactivated the AMPK/mTOR pathway by suppressing the phosphorylation level of AMPK in bladder cancer cells and increasing the phosphorylation level of mTOR (<xref rid="fig3" ref-type="fig">Fig. 3B</xref>, **<italic toggle="yes">P</italic> &lt; 0.01). It indicated that down-regulation of MALAT1 expression may inhibit autophagy <italic toggle="yes">via</italic> inactivating AMPK/mTOR pathway.</p><fig position="float" id="fig3" orientation="portrait"><label>Fig. 3</label><caption><title>Down-regulated LncR-MALAT1 inactivated autophagy <italic toggle="yes">via</italic> the AMPK/mTOR pathway. MALAT1 was silenced with sh-RNA and the cells were divided into control group, MALAT1 shRNA group and MALAT1 scramble group. (A) Western blot was used to detect the expression of autophagy-related proteins LC3 II/I, p62 and Beclin1. (B) The detection of autophagy pathway proteins: western blot was used to detect the expression of AMPK/<italic toggle="yes">p</italic>-AMPK and mTOR/<italic toggle="yes">p</italic>-mTOR in AMPK/mTOR signaling pathway. GAPDH was used as internal reference. All experiments were repeated at least three times. **<italic toggle="yes">P</italic> &lt; 0.01 <italic toggle="yes">versus</italic> control group.</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="c8ra04876b-f3.jpg"/></fig></sec><sec><title>Suppression of MALAT1 inhibited cell proliferation and invasion by inactivating autophagy <italic toggle="yes">via</italic> the AMPK/mTOR pathway</title><p>Previous research has shown that autophagy can promote the proliferation and migration of pancreatic cancer cells.<sup><xref rid="cit24" ref-type="bibr">24</xref></sup> In our previous investigations, we have shown that MALAT1 shRNA inhibited the proliferation and invasion of bladder cancer cells and may inhibit autophagy through the AMPK/mTOR pathway. To further investigate that whether MALAT1 regulated the proliferation and invasion of bladder cancer cells by regulating autophagy, anAMPK/mTOR pathway activator metformin was used to activate the AMPK/mTOR pathway. The results showed that the adding of metformin abolished the inhibiting effect of MALAT1 shRNA on autophagy and significantly increased the number of LC3 fluorescence focus and Beclin1 expression compared with MALAT1 shRNA group (<xref rid="fig4" ref-type="fig">Fig. 4A, B and F</xref>, *<italic toggle="yes">P</italic> &lt; 0.05, <sup>#</sup><italic toggle="yes">P</italic> &lt; 0.05). At the same time, the addition of metformin reversed the effect of MALAT1 shRNA on cell proliferation and invasion by significantly promoting cell proliferation, suppressing cell apoptosis and elevating the number of invasive cells (<xref rid="fig4" ref-type="fig">Fig. 4C–E</xref>, *<italic toggle="yes">P</italic> &lt; 0.05, <sup>#</sup><italic toggle="yes">P</italic> &lt; 0.05). Besides, the activation of AMPK/mTOR pathway increased the expression of PCNA and MMP-3 and decreased the expression of Bax (<xref rid="fig4" ref-type="fig">Fig. 4F</xref>, *<italic toggle="yes">P</italic> &lt; 0.05, <sup>#</sup><italic toggle="yes">P</italic> &lt; 0.05). These results above suggest that down-regulation of LncR-MALAT1 inhibits autophagy <italic toggle="yes">via</italic> the AMPK/mTOR pathway, thereby inhibiting the proliferation and invasion of cancer cells.</p><fig position="float" id="fig4" orientation="portrait"><label>Fig. 4</label><caption><title>The inhibition of LncR-MALAT1 suppressed cell proliferation and migration by inactivating autophagy <italic toggle="yes">via</italic> the AMPK/mTOR pathway. MALAT1 was silenced and AMPK pathway activator metformin was used to treat cells. (A) Immunofluorescence was used to detect the positive expression of LC3. (B) LC3 positive expression was quantitatively analyzed. (C) CCK8 was used to detect cell viability. (D) Transwell was used to detect cell invasion ability. (E) Cell apoptosis was analyzed through flow cytometry. (F) Western blot was used to detect the expression of Beclin1, PCNA, MMP-3 and Bax in HT-1376 cells. GAPDH was used as internal reference, *<italic toggle="yes">P</italic> &lt; 0.05 <italic toggle="yes">versus</italic> control group, <sup>#</sup><italic toggle="yes">P</italic> &lt; 0.05 <italic toggle="yes">versus</italic> MALAT1 shRNA group.</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="c8ra04876b-f4.jpg"/></fig></sec></sec><sec><title>Discussion</title><p>LncR-MALAT1 is one of the earliest discovered LncRNAs and it was firstly discovered in lung cancer.<sup><xref rid="cit25" ref-type="bibr">25</xref></sup> LncR-MALAT1 affects the occurrence and development of cancer by affecting the viability and mobility of cancer cells, and the aberrant expression of MALAT1 is considered as one of the most important prognostic indicators in cancers.<sup><xref rid="cit26" ref-type="bibr">26</xref></sup> Similarly, in our investigation, we found that LncR-MALAT1 was highly expressed in bladder cancer tissues and cell lines, which was consistent with previous investigations.<sup><xref rid="cit27" ref-type="bibr">27</xref></sup> Then we set to explore the effect of MALAT1 on the progression of bladder cancer and related mechanism.</p><p>Investigations have shown that silenced LncR-MALAT1 inhibits the proliferation and migration of cervical cancer cells.<sup><xref rid="cit28" ref-type="bibr">28</xref></sup> Yang L. <italic toggle="yes">et al.</italic> also reported that high MALAT1 expression predicted a poor prognosis of cervical cancer and promoted cancer cell growth and invasion.<sup><xref rid="cit29" ref-type="bibr">29</xref></sup> In accordance with previous reports, the results of our research showed that shRNA-mediated MALAT1 silencing significantly inhibited the proliferation and invasion ability of bladder cancer cells, and induced obvious cell apoptosis at the same time. The decreased expression of PNCA and MMP-3 and increased expression of Bax also demonstrated that MALAT1 shRNA inhibited cell proliferation and invasion. In summary, inhibition of LncR-MALAT1 expression can play a role in inhibiting bladder cancer cell proliferation and invasion, but the mechanism remains to be further investigated.</p><p>Autophagy plays a “double-edged sword” in the process of tumor development. Autophagy can inhibit the expression of cancer genes and destroy cancer cell organelles in the early stages of cancer, thereby preventing tumor development.<sup><xref rid="cit30" ref-type="bibr">30</xref></sup> Autophagy is beneficial to the dormancy of tumor cells, which can be prevented by chemotherapy and radiotherapy, and can maintain cell activity during metastasis.<sup><xref rid="cit31" ref-type="bibr">31</xref></sup> It has been demonstrated that inhibition of autophagy enhances the therapeutic effect of radiotherapy and chemotherapy on breast cancer.<sup><xref rid="cit32" ref-type="bibr">32</xref></sup> But autophagy can provide nutrients for cancer cell survival, maintaining the function of cancer cell mitochondria, and promoting the proliferation and metastasis of malignant tumors when cancer worsens.<sup><xref rid="cit20" ref-type="bibr">20,24</xref></sup> In recent decades, there has been a growing body of evidence demonstrated that LncRNA can influence cancer progression by modulating autophagy. As reported in pancreatic cancer, LncR-MALAT1 was able to promote the proliferation and migration of pancreatic cancer cells by activating autophagy.<sup><xref rid="cit33" ref-type="bibr">33</xref></sup> Others also reported that MALAT1 activated autophagy and promoted cell proliferation by sponging miR-101 in glioma.<sup><xref rid="cit34" ref-type="bibr">34</xref></sup> But whether LncR-MALATI can influence the development of bladder cancer through autophagy is unknown. Our research showed that silencing LncR-MALAT1 significantly inhibited the expression of Beclin1 and the rate of LC3 II/I in bladder cancer cells and increased the expression of p62. So, it suggests that MALAT1 shRNA may affect the formation or degradation of autophagosomes, thereby reducing the bladder cancer cell autophagy and thus affect the pathological process of bladder cancer.</p><p>The AMPK/mTOR signaling pathway is one of the most classic autophagy regulatory pathways. MTOR consists mainly of two complexes, mTORC1 and mTORC2. MTORC1 mainly plays a role in inhibiting the formation of autophagy, and mTORC2 regulate autophagy through phosphorylation of PKCα and Akt indirectly.<sup><xref rid="cit35" ref-type="bibr">35</xref></sup> AMPK is thought to be an “energy regulator” of eukaryotic cells which is activated when cell energy is reduced, whereas phosphorylation-activated AMPK enhances autophagy by inhibiting mTORC1.<sup><xref rid="cit36" ref-type="bibr">36</xref></sup> Our investigation showed that LncR-MALAT1 shRNA reduced the phosphorylation level of AMPK in bladder cancer cells and increased the phosphorylation level of mTOR, thus inactivating the AMPK/mTOR signaling pathway. It suggests that down-regulated LncR-MALAT1 inhibits autophagy may be associated with the inhibition of AMPK/mTOR pathway. Further research found that the activation of the AMPK/mTOR signaling pathway by metformin partially reversed the autophagic inhibition and restored the proliferation and invasion ability of cancer cells elevated by MALAT1 shRNA. The further research demonstrated that the effect of LncR-MALAT1 on proliferation and invasion of bladder cancer cells is partly due to the regulation of autophagy <italic toggle="yes">via</italic> AMPK/mTOR signaling pathway.</p><p>In summary, down-regulation of LncR-MALAT1 expression can inhibit cell proliferation, promote cell apoptosis and suppress cell invasion in bladder cancer by inhibiting autophagy <italic toggle="yes">via</italic> regulating AMPK/mTOR signaling pathway. Thus, we suggest that LncR-MALAT1 may serve as a prognostic and prognostic target for bladder cancer. There is clearly much work to be done about the target gene of MALAT1 and the associated regulation mechanism, so our research provides a foundation for the treatment of bladder cancer and other related cancers.</p></sec><sec sec-type="COI-statement"><title>Conflicts of interest</title><p>None.</p></sec><sec><title>Abbreviations</title><def-list><def-item><term>MALAT1</term><def><p>Metastasis-associated lung adenocarcinoma transcript</p></def></def-item><def-item><term>LncRNA</term><def><p>Long non-coding RNA</p></def></def-item><def-item><term>LC3</term><def><p>Microtubule-associated protein 1 light chain 3</p></def></def-item><def-item><term>shRNA</term><def><p>short hairpin RNA</p></def></def-item><def-item><term>AMPK/mTOR</term><def><p>Adenosine monophasphate activated protein kinase/mammalian target of rapamycin</p></def></def-item><def-item><term>PCNA</term><def><p>Proliferating cell nuclear antigen</p></def></def-item><def-item><term>MMP</term><def><p>Matrix metallo protein</p></def></def-item></def-list></sec><sec sec-type="supplementary-material"><title>Supplementary Material</title></sec></body><back><ref-list><title>References</title><ref id="cit1"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Egerod</surname><given-names>F. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Bartels</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Fristrup</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Borre</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Orntoft</surname><given-names>T. F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Oleksiewicz</surname><given-names>M. B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Brunner</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Dyrskjot</surname><given-names>L.</given-names></name>
+</person-group><article-title>High frequency of tumor cells with nuclear Egr-1 protein expression in human bladder cancer is associated with disease progression</article-title><source>BMC Cancer</source><year>2009</year><volume>9</volume><fpage>385</fpage><pub-id pub-id-type="doi">10.1186/1471-2407-9-385</pub-id><pub-id pub-id-type="pmid">19878561</pub-id><pub-id pub-id-type="pmcid">PMC2774864</pub-id></element-citation></ref><ref id="cit2"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Antoni</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Ferlay</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Soerjomataram</surname><given-names>I.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Znaor</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Jemal</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Bray</surname><given-names>F.</given-names></name>
+</person-group><article-title>Bladder Cancer Incidence and Mortality: A Global Overview and Recent Trends</article-title><source>Eur. Urol.</source><year>2017</year><volume>71</volume><fpage>96</fpage><lpage>108</lpage><pub-id pub-id-type="doi">10.1016/j.eururo.2016.06.010</pub-id><pub-id pub-id-type="pmid">27370177</pub-id></element-citation></ref><ref id="cit3"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Clark</surname><given-names>P. E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Agarwal</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Biagioli</surname><given-names>M. C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Eisenberger</surname><given-names>M. A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Greenberg</surname><given-names>R. E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Herr</surname><given-names>H. W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Inman</surname><given-names>B. A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Kuban</surname><given-names>D. A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Kuzel</surname><given-names>T. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Lele</surname><given-names>S. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Michalski</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Pagliaro</surname><given-names>L. C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Pal</surname><given-names>S. K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Patterson</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Plimack</surname><given-names>E. R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Pohar</surname><given-names>K. S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Porter</surname><given-names>M. P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Richie</surname><given-names>J. P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Sexton</surname><given-names>W. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Shipley</surname><given-names>W. U.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Small</surname><given-names>E. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Spiess</surname><given-names>P. E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Trump</surname><given-names>D. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Wile</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Wilson</surname><given-names>T. G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Dwyer</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Ho</surname><given-names>M.</given-names></name>
+</person-group><article-title>Bladder cancer</article-title><source>J. Natl. Compr. Cancer Network</source><year>2013</year><volume>11</volume><fpage>446</fpage><lpage>475</lpage><pub-id pub-id-type="doi">10.6004/jnccn.2013.0059</pub-id><pub-id pub-id-type="pmid">23584347</pub-id></element-citation></ref><ref id="cit4"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Zhang</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Su</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Lu</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>J.</given-names></name>
+</person-group><article-title>The complexity of bladder cancer: long noncoding RNAs are on the stage</article-title><source>Mol. Cancer</source><year>2013</year><volume>12</volume><fpage>101</fpage><pub-id pub-id-type="doi">10.1186/1476-4598-12-101</pub-id><pub-id pub-id-type="pmid">24006935</pub-id><pub-id pub-id-type="pmcid">PMC3846905</pub-id></element-citation></ref><ref id="cit5"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Fan</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Shen</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Tan</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Mu</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Qin</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Zhang</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Liu</surname><given-names>Y.</given-names></name>
+</person-group><article-title>TGF-beta-induced upregulation of malat1 promotes bladder cancer metastasis by associating with suz12</article-title><source>Clin. Cancer Res.</source><year>2014</year><volume>20</volume><fpage>1531</fpage><lpage>1541</lpage><pub-id pub-id-type="doi">10.1158/1078-0432.CCR-13-1455</pub-id><pub-id pub-id-type="pmid">24449823</pub-id></element-citation></ref><ref id="cit6"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Bertone</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Stolc</surname><given-names>V.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Royce</surname><given-names>T. E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Rozowsky</surname><given-names>J. S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Urban</surname><given-names>A. E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Zhu</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Rinn</surname><given-names>J. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Tongprasit</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Samanta</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Weissman</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Gerstein</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Snyder</surname><given-names>M.</given-names></name>
+</person-group><article-title>Global identification of human transcribed sequences with genome tiling arrays</article-title><source>Science</source><year>2004</year><volume>306</volume><fpage>2242</fpage><lpage>2246</lpage><pub-id pub-id-type="doi">10.1126/science.1103388</pub-id><pub-id pub-id-type="pmid">15539566</pub-id></element-citation></ref><ref id="cit7"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Orom</surname><given-names>U. A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Derrien</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Beringer</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Gumireddy</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Gardini</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Bussotti</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Lai</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Zytnicki</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Notredame</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Huang</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Guigo</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Shiekhattar</surname><given-names>R.</given-names></name>
+</person-group><article-title>Long noncoding RNAs with enhancer-like function in human cells</article-title><source>Cell</source><year>2010</year><volume>143</volume><fpage>46</fpage><lpage>58</lpage><pub-id pub-id-type="doi">10.1016/j.cell.2010.09.001</pub-id><pub-id pub-id-type="pmid">20887892</pub-id><pub-id pub-id-type="pmcid">PMC4108080</pub-id></element-citation></ref><ref id="cit8"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Szymanski</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Barciszewska</surname><given-names>M. Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Erdmann</surname><given-names>V. A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Barciszewski</surname><given-names>J.</given-names></name>
+</person-group><article-title>A new frontier for molecular medicine: noncoding RNAs</article-title><source>Biochim. Biophys. Acta</source><year>2005</year><volume>1756</volume><fpage>65</fpage><lpage>75</lpage><pub-id pub-id-type="pmid">16125325</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bbcan.2005.07.005</pub-id></element-citation></ref><ref id="cit9"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Ji</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Diederichs</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Boing</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Metzger</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Schneider</surname><given-names>P. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Tidow</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Brandt</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Buerger</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Bulk</surname><given-names>E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Thomas</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Berdel</surname><given-names>W. E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Serve</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Muller-Tidow</surname><given-names>C.</given-names></name>
+</person-group><article-title>MALAT-1, a novel noncoding RNA, and thymosin beta4 predict metastasis and survival in early-stage non-small cell lung cancer</article-title><source>Oncogene</source><year>2003</year><volume>22</volume><fpage>8031</fpage><lpage>8041</lpage><pub-id pub-id-type="doi">10.1038/sj.onc.1206928</pub-id><pub-id pub-id-type="pmid">12970751</pub-id></element-citation></ref><ref id="cit10"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Schmidt</surname><given-names>L. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Spieker</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Koschmieder</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Schaffers</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Humberg</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Jungen</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Bulk</surname><given-names>E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Hascher</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Wittmer</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Marra</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Hillejan</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Wiebe</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Berdel</surname><given-names>W. E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Wiewrodt</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Muller-Tidow</surname><given-names>C.</given-names></name>
+</person-group><article-title>The long noncoding MALAT-1 RNA indicates a poor prognosis in non-small cell lung cancer and induces migration and tumor growth</article-title><source>J. Thorac. Oncol.</source><year>2011</year><volume>6</volume><fpage>1984</fpage><lpage>1992</lpage><pub-id pub-id-type="doi">10.1097/JTO.0b013e3182307eac</pub-id><pub-id pub-id-type="pmid">22088988</pub-id></element-citation></ref><ref id="cit11"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Guerrieri</surname><given-names>F.</given-names></name>
+</person-group><article-title>Long non-coding RNAs era in liver cancer</article-title><source>World. J. Hepatol.</source><year>2015</year><volume>7</volume><fpage>1971</fpage><lpage>1973</lpage><pub-id pub-id-type="doi">10.4254/wjh.v7.i16.1971</pub-id><pub-id pub-id-type="pmid">26261686</pub-id><pub-id pub-id-type="pmcid">PMC4528270</pub-id></element-citation></ref><ref id="cit12"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Lai</surname><given-names>M. C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Yang</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Zhou</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Zhu</surname><given-names>Q. Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Xie</surname><given-names>H. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Zhang</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Wu</surname><given-names>L. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Chen</surname><given-names>L. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Zheng</surname><given-names>S. S.</given-names></name>
+</person-group><article-title>Long non-coding RNA MALAT-1 overexpression predicts tumor recurrence of hepatocellular carcinoma after liver transplantation</article-title><source>Med. Oncol.</source><year>2012</year><volume>29</volume><fpage>1810</fpage><lpage>1816</lpage><pub-id pub-id-type="doi">10.1007/s12032-011-0004-z</pub-id><pub-id pub-id-type="pmid">21678027</pub-id></element-citation></ref><ref id="cit13"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Zhao</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Chen</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Liu</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Wu</surname><given-names>C.</given-names></name>
+</person-group><article-title>17beta-Estradiol treatment inhibits breast cell proliferation, migration and invasion by decreasing MALAT-1 RNA level</article-title><source>Biochem. Biophys. Res. Commun.</source><year>2014</year><volume>445</volume><fpage>388</fpage><lpage>393</lpage><pub-id pub-id-type="doi">10.1016/j.bbrc.2014.02.006</pub-id><pub-id pub-id-type="pmid">24525122</pub-id></element-citation></ref><ref id="cit14"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Dong</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Liang</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Yuan</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Yang</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Gao</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Zhou</surname><given-names>X.</given-names></name>
+</person-group><article-title>MALAT1 promotes the proliferation and metastasis of osteosarcoma cells by activating the PI3K/Akt pathway</article-title><source>Tumour Immunobiol.</source><year>2015</year><volume>36</volume><fpage>1477</fpage><lpage>1486</lpage><pub-id pub-id-type="doi">10.1007/s13277-014-2631-4</pub-id><pub-id pub-id-type="pmid">25431257</pub-id></element-citation></ref><ref id="cit15"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Li</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Cui</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Liu</surname><given-names>L. F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Ren</surname><given-names>W. B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Li</surname><given-names>Q. Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Zhou</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Li</surname><given-names>Y. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Li</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Bai</surname><given-names>X. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Zu</surname><given-names>X. B.</given-names></name>
+</person-group><article-title>High Expression of Long Noncoding RNA MALAT1 Indicates a Poor Prognosis and Promotes Clinical Progression and Metastasis in Bladder Cancer</article-title><source>Clin. Genitourin. Cancer</source><year>2017</year><volume>15</volume><fpage>570</fpage><lpage>576</lpage><pub-id pub-id-type="doi">10.1016/j.clgc.2017.05.001</pub-id><pub-id pub-id-type="pmid">28648755</pub-id></element-citation></ref><ref id="cit16"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Galluzzi</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Pietrocola</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Levine</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Kroemer</surname><given-names>G.</given-names></name>
+</person-group><article-title>Metabolic control of autophagy</article-title><source>Cell</source><year>2014</year><volume>159</volume><fpage>1263</fpage><lpage>1276</lpage><pub-id pub-id-type="doi">10.1016/j.cell.2014.11.006</pub-id><pub-id pub-id-type="pmid">25480292</pub-id><pub-id pub-id-type="pmcid">PMC4500936</pub-id></element-citation></ref><ref id="cit17"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Martinez-Lopez</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Athonvarangkul</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Singh</surname><given-names>R.</given-names></name>
+</person-group><article-title>Autophagy and aging</article-title><source>Adv. Exp. Med. Biol.</source><year>2015</year><volume>847</volume><fpage>73</fpage><lpage>87</lpage><pub-id pub-id-type="doi">10.1007/978-1-4939-2404-2_3</pub-id><pub-id pub-id-type="pmid">25916586</pub-id><pub-id pub-id-type="pmcid">PMC4644734</pub-id></element-citation></ref><ref id="cit18"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Nixon</surname><given-names>R. A.</given-names></name>
+</person-group><article-title>The role of autophagy in neurodegenerative disease</article-title><source>Nat. Med.</source><year>2013</year><volume>19</volume><fpage>983</fpage><lpage>997</lpage><pub-id pub-id-type="doi">10.1038/nm.3232</pub-id><pub-id pub-id-type="pmid">23921753</pub-id></element-citation></ref><ref id="cit19"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Levy</surname><given-names>J. M. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Towers</surname><given-names>C. G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Thorburn</surname><given-names>A.</given-names></name>
+</person-group><article-title>Targeting autophagy in cancer</article-title><source>Nat. Rev. Cancer</source><year>2017</year><volume>17</volume><fpage>528</fpage><lpage>542</lpage><pub-id pub-id-type="doi">10.1038/nrc.2017.53</pub-id><pub-id pub-id-type="pmid">28751651</pub-id><pub-id pub-id-type="pmcid">PMC5975367</pub-id></element-citation></ref><ref id="cit20"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>White</surname><given-names>E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Mehnert</surname><given-names>J. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Chan</surname><given-names>C. S.</given-names></name>
+</person-group><article-title>Autophagy, Metabolism, and Cancer</article-title><source>Clin. Cancer Res.</source><year>2015</year><volume>21</volume><fpage>5037</fpage><lpage>5046</lpage><pub-id pub-id-type="doi">10.1158/1078-0432.CCR-15-0490</pub-id><pub-id pub-id-type="pmid">26567363</pub-id><pub-id pub-id-type="pmcid">PMC4646728</pub-id></element-citation></ref><ref id="cit21"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Yuan</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Cao</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Zang</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Li</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Guo</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Fan</surname><given-names>J.</given-names></name>
+</person-group><article-title>The HIF-2alpha-MALAT1-miR-216b axis regulates multi-drug resistance of hepatocellular carcinoma cells <italic toggle="yes">via</italic> modulating autophagy</article-title><source>Biochem. Biophys. Res. Commun.</source><year>2016</year><volume>478</volume><fpage>1067</fpage><lpage>1073</lpage><pub-id pub-id-type="doi">10.1016/j.bbrc.2016.08.065</pub-id><pub-id pub-id-type="pmid">27524242</pub-id></element-citation></ref><ref id="cit22"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Kang</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Jeong</surname><given-names>C. W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Ku</surname><given-names>J. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Kwak</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Kim</surname><given-names>H. H.</given-names></name>
+</person-group><article-title>Inhibition of autophagy potentiates atorvastatin-induced apoptotic cell death in human bladder cancer cells <italic toggle="yes">in vitro</italic></article-title><source>Int. J. Mol. Sci.</source><year>2014</year><volume>15</volume><fpage>8106</fpage><lpage>8121</lpage><pub-id pub-id-type="doi">10.3390/ijms15058106</pub-id><pub-id pub-id-type="pmid">24815071</pub-id><pub-id pub-id-type="pmcid">PMC4057722</pub-id></element-citation></ref><ref id="cit23"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Fan</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Hou</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Lin</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Bensoussan</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Chang</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Liu</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>B.</given-names></name>
+</person-group><article-title>Berberine alleviates ox-LDL induced inflammatory factors by up-regulation of autophagy <italic toggle="yes">via</italic> AMPK/mTOR signaling pathway</article-title><source>J. Transl. Med.</source><year>2015</year><volume>13</volume><fpage>92</fpage><pub-id pub-id-type="doi">10.1186/s12967-015-0450-z</pub-id><pub-id pub-id-type="pmid">25884210</pub-id><pub-id pub-id-type="pmcid">PMC4365560</pub-id></element-citation></ref><ref id="cit24"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>White</surname><given-names>E.</given-names></name>
+</person-group><article-title>Deconvoluting the context-dependent role for autophagy in cancer</article-title><source>Nat. Rev. Cancer</source><year>2012</year><volume>12</volume><fpage>401</fpage><lpage>410</lpage><pub-id pub-id-type="doi">10.1038/nrc3262</pub-id><pub-id pub-id-type="pmid">22534666</pub-id><pub-id pub-id-type="pmcid">PMC3664381</pub-id></element-citation></ref><ref id="cit25"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Xu</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Yang</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Tian</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Li</surname><given-names>Z.</given-names></name>
+</person-group><article-title>MALAT-1: a long non-coding RNA and its important 3′ end functional motif in colorectal cancer metastasis</article-title><source>Int. J. Oncol.</source><year>2011</year><volume>39</volume><fpage>169</fpage><lpage>175</lpage><pub-id pub-id-type="pmid">21503572</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3892/ijo.2011.1007</pub-id></element-citation></ref><ref id="cit26"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Tian</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Xu</surname><given-names>G.</given-names></name>
+</person-group><article-title>Clinical value of lncRNA MALAT1 as a prognostic marker in human cancer: systematic review and meta-analysis</article-title><source>BMJ Open</source><year>2015</year><volume>5</volume><fpage>e008653</fpage><pub-id pub-id-type="doi">10.1136/bmjopen-2015-008653</pub-id><pub-id pub-id-type="pmid">26423854</pub-id><pub-id pub-id-type="pmcid">PMC4593150</pub-id></element-citation></ref><ref id="cit27"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Kohls</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Schmidt</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Holdenrieder</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Muller</surname><given-names>S. C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Ellinger</surname><given-names>J.</given-names></name>
+</person-group><article-title>[Detection of cell-free lncRNA in serum of cancer patients]</article-title><source>Urologe A</source><year>2015</year><volume>54</volume><fpage>819</fpage><lpage>825</lpage><pub-id pub-id-type="doi">10.1007/s00120-014-3655-5</pub-id><pub-id pub-id-type="pmid">25312755</pub-id></element-citation></ref><ref id="cit28"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Sun</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Qin</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Jiang</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Fang</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Pan</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Peng</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Liu</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Li</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Li</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Li</surname><given-names>G.</given-names></name>
+</person-group><article-title>Down-regulation of MALAT1 inhibits cervical cancer cell invasion and metastasis by inhibition of epithelial-mesenchymal transition</article-title><source>Mol. Biosyst.</source><year>2016</year><volume>12</volume><fpage>952</fpage><lpage>962</lpage><pub-id pub-id-type="doi">10.1039/C5MB00685F</pub-id><pub-id pub-id-type="pmid">26798987</pub-id></element-citation></ref><ref id="cit29"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Yang</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Bai</surname><given-names>H. S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Deng</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Fan</surname><given-names>L.</given-names></name>
+</person-group><article-title>High MALAT1 expression predicts a poor prognosis of cervical cancer and promotes cancer cell growth and invasion</article-title><source>Eur. Rev. Med. Pharmacol. Sci.</source><year>2015</year><volume>19</volume><fpage>3187</fpage><lpage>3193</lpage><pub-id pub-id-type="pmid">26400521</pub-id></element-citation></ref><ref id="cit30"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Arroyo</surname><given-names>D. S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Gaviglio</surname><given-names>E. A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Peralta Ramos</surname><given-names>J. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Bussi</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Rodriguez-Galan</surname><given-names>M. C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Iribarren</surname><given-names>P.</given-names></name>
+</person-group><article-title>Autophagy in inflammation, infection, neurodegeneration and cancer</article-title><source>Int. Immunopharmacol.</source><year>2014</year><volume>18</volume><fpage>55</fpage><lpage>65</lpage><pub-id pub-id-type="doi">10.1016/j.intimp.2013.11.001</pub-id><pub-id pub-id-type="pmid">24262302</pub-id><pub-id pub-id-type="pmcid">PMC3903161</pub-id></element-citation></ref><ref id="cit31"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Gewirtz</surname><given-names>D. A.</given-names></name>
+</person-group><article-title>Autophagy, senescence and tumor dormancy in cancer therapy</article-title><source>Autophagy</source><year>2009</year><volume>5</volume><fpage>1232</fpage><lpage>1234</lpage><pub-id pub-id-type="doi">10.4161/auto.5.8.9896</pub-id><pub-id pub-id-type="pmid">19770583</pub-id></element-citation></ref><ref id="cit32"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Bristol</surname><given-names>M. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Di</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Beckman</surname><given-names>M. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Wilson</surname><given-names>E. N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Henderson</surname><given-names>S. C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Maiti</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Fan</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Gewirtz</surname><given-names>D. A.</given-names></name>
+</person-group><article-title>Dual functions of autophagy in the response of breast tumor cells to radiation: cytoprotective autophagy with radiation alone and cytotoxic autophagy in radiosensitization by vitamin D3</article-title><source>Autophagy</source><year>2012</year><volume>8</volume><fpage>739</fpage><lpage>753</lpage><pub-id pub-id-type="doi">10.4161/auto.19313</pub-id><pub-id pub-id-type="pmid">22498493</pub-id><pub-id pub-id-type="pmcid">PMC3378418</pub-id></element-citation></ref><ref id="cit33"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Li</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Chen</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Gao</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>Y. W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Zhang</surname><given-names>G. Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Pan</surname><given-names>S. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Ji</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Kong</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Jia</surname><given-names>Y. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Bai</surname><given-names>X. W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Sun</surname><given-names>B.</given-names></name>
+</person-group><article-title>Long Noncoding RNA MALAT1 Promotes Aggressive Pancreatic Cancer Proliferation and Metastasis <italic toggle="yes">via</italic> the Stimulation of Autophagy</article-title><source>Mol. Cancer Ther.</source><year>2016</year><volume>15</volume><fpage>2232</fpage><lpage>2243</lpage><pub-id pub-id-type="doi">10.1158/1535-7163.MCT-16-0008</pub-id><pub-id pub-id-type="pmid">27371730</pub-id></element-citation></ref><ref id="cit34"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Fu</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Luo</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Peng</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Sun</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Shi</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Li</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Zhang</surname><given-names>B.</given-names></name>
+</person-group><article-title>Malat1 activates autophagy and promotes cell proliferation by sponging miR-101 and upregulating STMN1, RAB5A and ATG4D expression in glioma</article-title><source>Biochem. Biophys. Res. Commun.</source><year>2017</year><volume>492</volume><fpage>480</fpage><lpage>486</lpage><pub-id pub-id-type="doi">10.1016/j.bbrc.2017.08.070</pub-id><pub-id pub-id-type="pmid">28834690</pub-id></element-citation></ref><ref id="cit35"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Luo</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Liu</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Wu</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Singh</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Su</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Zhang</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Liu</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Shen</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Huang</surname><given-names>S.</given-names></name>
+</person-group><article-title>Rapamycin inhibits mSin1 phosphorylation independently of mTORC1 and mTORC2</article-title><source>Oncotarget</source><year>2015</year><volume>6</volume><fpage>4286</fpage><lpage>4298</lpage><pub-id pub-id-type="pmid">25738366</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.18632/oncotarget.3006</pub-id><pub-id pub-id-type="pmcid">PMC4414190</pub-id></element-citation></ref><ref id="cit36"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Sciarretta</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Volpe</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Sadoshima</surname><given-names>J.</given-names></name>
+</person-group><article-title>Mammalian target of rapamycin signaling in cardiac physiology and disease</article-title><source>Circ. Res.</source><year>2014</year><volume>114</volume><fpage>549</fpage><lpage>564</lpage><pub-id pub-id-type="doi">10.1161/CIRCRESAHA.114.302022</pub-id><pub-id pub-id-type="pmid">24481845</pub-id><pub-id pub-id-type="pmcid">PMC3995130</pub-id></element-citation></ref></ref-list></back></article>

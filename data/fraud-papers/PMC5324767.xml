@@ -1,0 +1,943 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article article-type="research-article" xml:lang="en" dtd-version="1.4"><front><journal-meta><journal-id journal-id-type="nlm-ta">FEBS Open Bio</journal-id><journal-id journal-id-type="iso-abbrev">FEBS Open Bio</journal-id><journal-id journal-id-type="pmc-domain-id">2013</journal-id><journal-id journal-id-type="pmc-domain">febsopenbio</journal-id><journal-id journal-id-type="nlm-id">101580716</journal-id><journal-id journal-id-type="publisher-id">FEB4</journal-id><journal-title-group><journal-title>FEBS Open Bio</journal-title></journal-title-group><issn pub-type="epub">2211-5463</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC5324767</article-id><article-id pub-id-type="pmcid-ver">PMC5324767.1</article-id><article-id pub-id-type="pmcaid">5324767</article-id><article-id pub-id-type="pmcaiid">5324767</article-id><article-id pub-id-type="pmid">28255535</article-id><article-id pub-id-type="doi">10.1002/2211-5463.12139</article-id><article-id pub-id-type="publisher-id">FEB412139</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group></article-categories><title-group><article-title>Lymphocyte‐specific protein 1 inhibits the growth of hepatocellular carcinoma by suppressing <styled-content style="fixed-case">ERK</styled-content>1/2 phosphorylation</article-title><alt-title alt-title-type="left-running-head">H. Zhang <italic toggle="yes">et al</italic>.</alt-title></title-group><contrib-group><contrib id="feb412139-cr-0001" contrib-type="author"><name name-style="western"><surname>Zhang</surname><given-names initials="H">Hongyong</given-names></name><xref ref-type="aff" rid="feb412139-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="author-notes" rid="feb412139-note-1001">
+<sup>†</sup>
+</xref></contrib><contrib id="feb412139-cr-0002" contrib-type="author"><name name-style="western"><surname>Wang</surname><given-names initials="Y">Yufeng</given-names></name><xref ref-type="aff" rid="feb412139-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="author-notes" rid="feb412139-note-1001">
+<sup>†</sup>
+</xref></contrib><contrib id="feb412139-cr-0003" contrib-type="author"><name name-style="western"><surname>Liu</surname><given-names initials="Z">Zhikui</given-names></name><xref ref-type="aff" rid="feb412139-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="feb412139-cr-0004" contrib-type="author"><name name-style="western"><surname>Yao</surname><given-names initials="B">Bowen</given-names></name><xref ref-type="aff" rid="feb412139-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="feb412139-cr-0005" contrib-type="author"><name name-style="western"><surname>Dou</surname><given-names initials="C">Changwei</given-names></name><xref ref-type="aff" rid="feb412139-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="feb412139-cr-0006" contrib-type="author"><name name-style="western"><surname>Xu</surname><given-names initials="M">Meng</given-names></name><xref ref-type="aff" rid="feb412139-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="feb412139-cr-0007" contrib-type="author"><name name-style="western"><surname>Li</surname><given-names initials="Q">Qing</given-names></name><xref ref-type="aff" rid="feb412139-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="feb412139-cr-0008" contrib-type="author"><name name-style="western"><surname>Jia</surname><given-names initials="Y">Yuli</given-names></name><xref ref-type="aff" rid="feb412139-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="feb412139-cr-0009" contrib-type="author" corresp="yes"><name name-style="western"><surname>Wu</surname><given-names initials="S">Shengli</given-names></name><address><email>victorywu@163.com</email></address><xref ref-type="aff" rid="feb412139-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="feb412139-cr-0010" contrib-type="author"><name name-style="western"><surname>Tu</surname><given-names initials="K">Kangsheng</given-names></name><xref ref-type="aff" rid="feb412139-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="feb412139-cr-0011" contrib-type="author" corresp="yes"><name name-style="western"><surname>Liu</surname><given-names initials="Q">Qingguang</given-names></name><address><email>liuqingguang@vip.sina.com</email></address><xref ref-type="aff" rid="feb412139-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="feb412139-aff-0001"><label><sup>1</sup></label><named-content content-type="organisation-division">Department of Hepatobiliary Surgery</named-content><institution>The First Affiliated Hospital of Xi'an Jiaotong University</institution><country country="CN">China</country></aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Q. Liu, Department of Hepatobiliary Surgery, The First Affiliated Hospital of Xi'an Jiaotong University, 277 Yanta West Road, Xi'an 710061, China<break/>
+Fax: +086 029 85323209<break/>
+Tel: +086 029 85323905<break/>
+E‐mail: <email>liuqingguang@vip.sina.com</email><break/>
+S. Wu, Department of Hepatobiliary Surgery, The First Affiliated Hospital of Xi'an Jiaotong University, 277 Yanta West Road, Xi'an 710061, China<break/>
+E‐mail: <email>victorywu@163.com</email><break/></corresp><fn fn-type="equal" id="feb412139-note-1001"><label>†</label><p>These authors contributed equally to this work</p></fn></author-notes><pub-date pub-type="epub"><day>07</day><month>11</month><year>2016</year></pub-date><pub-date pub-type="collection"><month>12</month><year>2016</year></pub-date><volume>6</volume><issue>12</issue><issue-id pub-id-type="pmc-issue-id">287367</issue-id><issue-id pub-id-type="doi">10.1002/feb4.2016.6.issue-12</issue-id><fpage>1227</fpage><lpage>1237</lpage><history><date date-type="received"><day>12</day><month>7</month><year>2016</year></date><date date-type="rev-recd"><day>29</day><month>8</month><year>2016</year></date><date date-type="accepted"><day>27</day><month>9</month><year>2016</year></date></history><pub-history><event event-type="pmc-release"><date><day>07</day><month>11</month><year>2016</year></date></event><event event-type="pmc-live"><date><day>02</day><month>03</month><year>2017</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2023-10-02 17:25:25.297"><day>02</day><month>10</month><year>2023</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2016 The Authors. Published by FEBS Press and John Wiley &amp; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="FEB4-6-1227.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:FEB4-6-1227.pdf"/><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="retraction-forward" xml:lang="en" xlink:title="retraction" journal-id="FEBS Open Bio" journal-id-type="nlm-ta" ext-link-type="pmc" xlink:href="PMC9714348"><article-title>Retraction statement: Lymphocyte‐specific protein 1 inhibits the growth of hepatocellular carcinoma by suppressing <styled-content style="fixed-case" toggle="no">ERK1</styled-content>/2 phosphorylation</article-title><volume>12</volume><issue seq="180">12</issue><date><day>15</day><month>11</month><year>2022</year></date><fpage>2255</fpage><lpage>2255</lpage><source>FEBS Open Bio</source><pub-id pub-id-type="pmcid">PMC9714348</pub-id><pub-id pub-id-type="pmid">36377843</pub-id></related-article><abstract id="feb412139-abs-0001"><p>Lymphocyte‐specific protein 1 (<styled-content style="fixed-case">LSP</styled-content>1) has been reported to regulate cell biology in several human cancers including lymphoma and breast cancer. However, the functions of <styled-content style="fixed-case">LSP</styled-content>1 in human hepatocellular carcinoma (<styled-content style="fixed-case">HCC</styled-content>) are still unknown. In this study, we found that <styled-content style="fixed-case">LSP</styled-content>1 expression was downregulated in <styled-content style="fixed-case">HCC</styled-content> tissues and cell lines, and lower <styled-content style="fixed-case">LSP</styled-content>1 expression was correlated with poor clinicopathological features including large tumor size, high Edmondson–Steiner grading and advanced tumor–node–metastasis (<styled-content style="fixed-case">TNM</styled-content>) stage. Additionally, we demonstrated that patients with high <styled-content style="fixed-case">LSP</styled-content>1 expression had significantly better overall survival and disease‐free survival. Moreover, <styled-content style="fixed-case">LSP</styled-content>1 was found to be an independent factor for predicting the prognosis of <styled-content style="fixed-case">HCC</styled-content> patients. <italic toggle="yes">In vitro</italic> and <italic toggle="yes">in vivo</italic> assays showed that overexpressing <styled-content style="fixed-case">LSP</styled-content>1 inhibited <styled-content style="fixed-case">HCC</styled-content> growth by inducing both apoptosis and growth arrest. Mechanistically, we found that expression of phosphorylated extracellular regulated protein kinases 1 and 2 (<styled-content style="fixed-case">ERK</styled-content>1/2) was downregulated after <styled-content style="fixed-case">LSP</styled-content>1 overexpression, indicating <styled-content style="fixed-case">LSP</styled-content>1 could suppress <styled-content style="fixed-case">HCC</styled-content> growth by inhibiting the <styled-content style="fixed-case">ERK</styled-content> pathway in <styled-content style="fixed-case">HCC</styled-content> cells. Taken together, these results indicate that <styled-content style="fixed-case">LSP</styled-content>1 may serve as a prognostic marker and a potential therapeutic target in human <styled-content style="fixed-case">HCC</styled-content>.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="feb412139-kwd-0001">apoptosis</kwd><kwd id="feb412139-kwd-0002">extracellular regulated protein kinase pathway</kwd><kwd id="feb412139-kwd-0003">hepatocellular carcinoma</kwd><kwd id="feb412139-kwd-0004">lymphocyte‐specific protein 1</kwd><kwd id="feb412139-kwd-0005">proliferation</kwd></kwd-group><funding-group><award-group><funding-source>National Natural Scientific Foundation of China</funding-source><award-id>81402039</award-id><award-id>81272645</award-id><award-id>81572847</award-id></award-group></funding-group><counts><fig-count count="6"/><table-count count="2"/><page-count count="11"/><word-count count="5791"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>feb412139</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>December 2016</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.0.7 mode:remove_FC converted:23.02.2017</meta-value></custom-meta></custom-meta-group></article-meta></front><body><def-list list-content="abbreviations" id="feb412139-dl-0001"><title>Abbreviations</title><def-item><term>Bcl2</term><def><p>B‐cell lymphoma 2</p></def></def-item><def-item><term>CNV</term><def><p>copy number variation</p></def></def-item><def-item><term>ERK1/2</term><def><p>extracellular regulated protein kinases 1 and 2</p></def></def-item><def-item><term>HCC</term><def><p>hepatocellular carcinoma</p></def></def-item><def-item><term>KSR</term><def><p>kinase suppressor of Ras</p></def></def-item><def-item><term>LSP1</term><def><p>lymphocyte‐specific protein 1</p></def></def-item><def-item><term>MAPK</term><def><p>mitogen‐activated protein kinase</p></def></def-item><def-item><term>TNM</term><def><p>tumor–node–metastasis</p></def></def-item></def-list><p>Hepatocellullar carcinoma (HCC) is currently the fifth most frequently diagnosed malignant tumor and the third leading cause of cancer‐related deaths <xref rid="feb412139-bib-0001" ref-type="ref">1</xref>. Although therapeutic methods including surgical resection, liver transplantation and adjuvant therapy have been applied in the treatment of HCC, the overall 5‐year survival rate of HCC patients remains unsatisfactory <xref rid="feb412139-bib-0001" ref-type="ref">1</xref>, <xref rid="feb412139-bib-0002" ref-type="ref">2</xref>. Therefore, it is necessary to elucidate the molecular mechanisms of HCC pathogenesis, which may contribute to identifying novel therapeutic targets for HCC.</p><p>Lymphocyte‐specific protein 1 (LSP1), the gene for which is located in 11p15.5 and contains 20 exons, is a protein that consists of 339 amino acids <xref rid="feb412139-bib-0003" ref-type="ref">3</xref>. Previous studies have revealed that LSP1 was involved in multiple cancers including breast cancer <xref rid="feb412139-bib-0003" ref-type="ref">3</xref>, lymphomas <xref rid="feb412139-bib-0004" ref-type="ref">4</xref>, pancreatic cancer <xref rid="feb412139-bib-0005" ref-type="ref">5</xref> and dermatofibroma <xref rid="feb412139-bib-0006" ref-type="ref">6</xref>. It has been reported that LSP1 was downregulated in all breast cancer patients, and LSP1 downregulation was a risk factor for breast cancer <xref rid="feb412139-bib-0003" ref-type="ref">3</xref>, <xref rid="feb412139-bib-0007" ref-type="ref">7</xref> and non‐Hodgkin lymphoma <xref rid="feb412139-bib-0008" ref-type="ref">8</xref>. Results from a large pancreatic case–control study indicated that LSP1 may also be associated with pancreatic cancer susceptibility and survival <xref rid="feb412139-bib-0009" ref-type="ref">9</xref>. Additionally, LSP1 expression has been found to be useful in distinguishing dermatofibroma from dermatofibrosarcoma protuberans <xref rid="feb412139-bib-0006" ref-type="ref">6</xref>. Moreover, Nalesnik <italic toggle="yes">et al</italic>. <xref rid="feb412139-bib-0010" ref-type="ref">10</xref> found through genome analysis that LSP1 had the most cases of copy number variation (CNV), including 46 deletions and 5 amplifications in 98 human HCC tissues. However, the expression and functions of LSP1 in human HCC remain largely unknown.</p><p>In this study, we demonstrated that LSP1 was downregulated in human HCC and was an independent prognostic factor for predicting both the overall and the disease‐free 5‐year survival of HCC patients. LSP1 inhibited the growth of HCC by inhibiting cell proliferation and promoting both apoptosis and growth arrest of HCC. Furthermore, LSP1 was inversely related to phosphorylated extracellular regulated protein kinases 1 and 2 (ERK1/2) protein expression in HCC cell lines. Our results suggested that LSP1 inhibited HCC growth by suppressing the ERK1/2 pathway.</p><sec id="feb412139-sec-0002"><title>Materials and methods</title><sec id="feb412139-sec-0003"><title>Human HCC clinical samples</title><p>Ninety HCC samples and paired adjacent benign tissues (&gt;2 cm distance from the margin of the resection) were obtained from patients who had undergone curative surgery for HCC at the First Affiliated Hospital of Xi'an Jiaotong University from January 2008 to December 2010, with a median follow‐up time of 35 months. All tissues were stored at −80 °C in a deep freezer before protein extraction. The patients had not received any antitumor therapy before surgery. All HCC and normal liver tissue samples were pathologically confirmed. All samples were used after obtaining informed consent from patients. The Xi'an Jiaotong University Ethics Committee approved all protocols according to the Declaration of Helsinki (as revised in Tokyo 2004).</p></sec><sec id="feb412139-sec-0004"><title>Cell culture</title><p>The human immortalized normal hepatic cell line LO2 and six HCC cell lines (HepG2, MHCC‐97L, Hep3B, SMMC‐7721, MHCC‐97H and Huh7) were obtained from the Institute of Biochemistry and Cell Biology, Chinese Academy of Sciences (Shanghai, China). The cells were cultured in Dulbecco's modified Eagle's medium (DMEM; Invitrogen, Carlsbad, CA, USA) supplemented with 10% fetal bovine serum (Gibco, Life Technologies, Carlsbad, CA, USA), 100 units·mL<sup>−1</sup> penicillin and 100 μg·mL<sup>−1</sup> streptomycin (Sigma‐Aldrich, St. Louis, MO, USA), aerated with air containing 5% CO<sub>2</sub> in an incubator at 37 °C.</p></sec><sec id="feb412139-sec-0005"><title>Immunohistochemistry</title><p>Ninety paraformaldehyde‐fixed, paraffin‐embedded HCC tissue sections and corresponding adjacent benign tissue sections were used to perform the immunohistochemistry. The sections were heated at 60 °C for 2 h and then deparaffinized in xylene and rehydrated through descending alcohol concentrations. They were washed in PBS (pH 7.4) before antigen retrieval in citrate buffer. Endogenous peroxidase activity was blocked using 0.3% hydrogen peroxide for 15 min at room temperature. The sections were blocked for 30 min using 10% goat plasma and then incubated at 4 °C overnight with the primary antibodies directed against LSP1 (Cat. No. ab133506, Abcam, Cambridge, MA, USA) or Ki‐67 (9027; Cell Signaling Technology, Danvers, MA, USA). After washing in PBS, they were incubated with horseradish peroxidase‐conjugated secondary antibody (Goldenbridge Biotechnology, Zhongshan, China) according to the manufacturer's recommendations. A negative control was prepared by replacing the primary antibody with PBS. Finally, the sections were visualized with diaminobenzidine and counterstained with hematoxylin, then dehydrated in alcohol and xylene and mounted onto glass slides.</p></sec><sec id="feb412139-sec-0006"><title>Western blotting</title><p>Western blotting analysis was performed using standard techniques. The following antibodies were used: LSP1 (ab133506, Abcam), ERK1/2 (sc‐292838, Santa Cruz Biotechnology, Dallas, TX, USA), phosphorylated ERK1/2 (p‐ERK1/2; sc‐16982, Santa Cruz Biotechnology), cyclin D1 (ab137875, Abcam), B‐cell lymphoma 2 (Bcl2; ab32124, Abcam) and β‐actin (sc‐4778, Santa Cruz Biotechnology).</p></sec><sec id="feb412139-sec-0007"><title>MTT assay</title><p>Hepatocellular carcinoma cells transfected with LAP1 expressing vector or negative control vector were seeded in 96‐well plates in triplicate at densities of approximately 5000 cells per well and cultured in DMEM containing 10% FBS. Cell viability was analyzed using thiazolyl blue,3‐[4,5‐dimethylthylthiazol‐2‐yl]‐2,5 diphenyltetrazolium broide (MTT; Sigma‐Aldrich) assay at the indicated time points.</p></sec><sec id="feb412139-sec-0008"><title>BrdU assay</title><p>Cells grown on coverslips (Fisher, Pittsburgh, PA, USA) were incubated with bromodeoxyuridine (BrdU) for 1 h and stained with anti‐BrdU antibody (Sigma‐Aldrich) according to the manufacturer's instructions. Gray level images were acquired under a laser scanning microscope (Axioskop 2 plus, Carl Zeiss Co. Ltd, Jena, Germany).</p></sec><sec id="feb412139-sec-0009"><title>Cell cycle assay and cell apoptosis detection</title><p>The cells were collected and washed with PBS. The washed cells were resuspended in PBS and fixed in 75% ethanol. Then, the fixed cells were stained with propidium iodide (PI) supplemented with RNase A (Sigma‐Aldrich) for cell cycle analysis with a FACScan flow cytometer (BD Biosciences, San Jose, CA, USA). An Annexin‐V‐FLUOS Staining Kit (Roche Diagnostics, Indianapolis, IN, USA) was used to analyze the level of apoptosis. Data were collected and analyzed with <sc>modfit</sc> software (BD Biosciences).</p></sec><sec id="feb412139-sec-0010"><title>Cell transfection</title><p>The pcDNA/LSP1 and Control were purchased from Origene Biotechnology (Beijing, China; sc118682). The day before transfection, 5 × 10<sup>6</sup> Hep3B or HepG2 cells were seeded in 100 mm dishes. Cells were transfected using Lipofectamine 2000 Reagent (Invitrogen/Life Technologies) following the manufacturer's instructions. The medium containing the retroviruses was collected 48 and 72 h after transfection. Viral transduction was performed by incubating cells with the viral supernatant (25%) supplemented with polybrene (8 μg·mL<sup>−1</sup>) overnight at 37 °C. Further experiments were performed 48–96 h after viral transduction.</p></sec><sec id="feb412139-sec-0011"><title>
+<italic toggle="yes">In vivo</italic> experiments</title><p>Female BALB/c nude mice (Centre of Laboratory Animals, The Medical College of Xi'an Jiaotong University, Xi'an, China), 4–6 weeks old, were used to establish a nude mouse xenograft model. Hep3B cells (5 × 10<sup>6</sup>) transfected with pcDNA/LSP1 or Control vectors were mixed in 100 μL of Matrigel and were inoculated subcutaneously into the flank of the nude mouse. Tumor volume was determined by measuring two of its dimensions with calipers every 7 days, and then calculated as tumor volume = length × width × width/2. All mice were sacrificed at 4 weeks after the injection of HCC cells. The xenograft tumor tissues were explanted for pathological examination. All <italic toggle="yes">in vivo</italic> protocols were approved by the Institutional Animal Care and Use Committee of Xi'an Jiaotong University.</p></sec><sec id="feb412139-sec-0012"><title>Statistical analysis</title><p>All statistical analyses were performed using the statistical package <sc>spss</sc> for Windows Version 20.0 (IBM Corp., Armonk, NY, USA) or <sc>prism</sc> 5 software (GraphPad Software, Inc., San Diego, CA, USA). The quantitative data were compared between groups using Student's <italic toggle="yes">t</italic> test and Chi squared test was used to analyse the clinical characteristics of the patients. The Kaplan–Meier method and log‐rank test were used to compare the cumulative recurrence and survival rates. The independent factors influencing the survival and recurrence of HCC patients were determined using the Cox proportional hazards model. <italic toggle="yes">P</italic> &lt; 0.05 was considered to be statistically significant.</p></sec></sec><sec id="feb412139-sec-0013"><title>Results</title><sec id="feb412139-sec-0014"><title>LSP1 was significantly downregulated in human HCC</title><p>To identify the expression level of LSP1 in human HCC, firstly, we used immunohistochemistry and western blot to detect LSP1 expression in HCC tissues and adjacent tissues. The results showed that LSP1 was mainly expressed in the cytoplasm (Fig. <xref rid="feb412139-fig-0001" ref-type="fig">1</xref>A), and LSP1 was significantly downregulated in HCC tissues compared with adjacent tissues (Fig. <xref rid="feb412139-fig-0001" ref-type="fig">1</xref>A, <italic toggle="yes">P</italic> &lt; 0.001; Fig. <xref rid="feb412139-fig-0001" ref-type="fig">1</xref>B, <italic toggle="yes">P</italic> &lt; 0.05). Then, we further examined the LSP1 expression in HCC cell lines by western blot. This consistently revealed that LSP1 protein expression was downregulated in six HCC cell lines (HepG2, MHCC‐97L, Hep3B, SMMC‐7721, MHCC‐97H and Huh7) compared with the human immortalized normal hepatic cell line LO2 (Fig. <xref rid="feb412139-fig-0001" ref-type="fig">1</xref>C). Among them, the relative expression levels were lowest in HepG2 and Hep3B cell lines. These data demonstrated that LSP1 was obviously downregulated in human HCC.</p><fig fig-type="Figure" xml:lang="en" id="feb412139-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p> The expression levels of LSP1 in HCC. (A) Immunohistochemical analyses of LSP1 protein in HCC tissues (b,d) and matched noncancerous tissues (a,c). (a,b: ×100; c,d: 400). Scale bar: 100 m. IHC score, immunohistochemistry score. (B) Representative western blot analysis of LSP1 expression in HCC tissues (T) and matched noncancerous tissues (NT) was shown. (C) Representative western blot analysis of LSP1 expression in HCC cell lines and the immortalized hepatic cell line LO2 was shown. Values are depicted as mean ± SEM,*<italic toggle="yes">P</italic> &lt; 0.05, **<italic toggle="yes">P</italic> &lt; 0.01, by <italic toggle="yes">t</italic> test.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-3" position="float" orientation="portrait" xlink:href="FEB4-6-1227-g001.jpg"/></fig></sec><sec id="feb412139-sec-0015"><title>Clinical significance of LSP1 expression in HCC</title><p>To determine whether LSP1 expression is associate with clinical features in HCC patients, we divided 90 patients into two different groups according to the median level of LSP1 expression. Statistical analysis indicated that the expression of LSP1 was significantly correlated with tumor size (<italic toggle="yes">P</italic> = 0.003), Edmondson–Steiner grading (<italic toggle="yes">P</italic> = 0.049) and TNM tumor stage (<italic toggle="yes">P</italic> = 0.001) (Table <xref rid="feb412139-tbl-0001" ref-type="table-wrap">1</xref>). Kaplan–Meier survival curves showed that low LSP1 expression in HCC was significantly correlated with worse overall survival (<italic toggle="yes">P</italic> &lt; 0.01) and disease‐free survival (<italic toggle="yes">P</italic> &lt; 0.001) (Fig. <xref rid="feb412139-fig-0002" ref-type="fig">2</xref>). Moreover, multivariate Cox regression analysis indicated that LSP1 expression and tumor size were independent prognostic factors for predicting both 5‐year overall survival and disease‐free survival in HCC patients (<italic toggle="yes">P</italic> &lt; 0.01, respectively, Table <xref rid="feb412139-tbl-0002" ref-type="table-wrap">2</xref>). These data suggested that downregulated LSP1 was correlated with poor prognosis of HCC patients and LSP1 may be a promising prognostic marker for HCC.</p><table-wrap id="feb412139-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Correlation between the clinicopathological characteristics and expression of LSP1 in human HCC. AFP, α‐fetoprotein; HBV, hepatitis B virus; LSP1<sup>Low</sup> and LSP1<sup>High</sup>, low and high expression, respectively, of LSP1 in HCC</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" colspan="2" valign="top">Clinicopathological feature</th><th align="left" rowspan="2" valign="top" colspan="1">Total no. of patients (<italic toggle="yes">n</italic> = 90)</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">No. of patients</th><th align="left" rowspan="2" valign="top" colspan="1">
+<italic toggle="yes">P</italic>
+</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">LSP1<sup>Low</sup>
+</th><th align="left" valign="top" rowspan="1" colspan="1">LSP1<sup>High</sup>
+</th></tr></thead><tbody><tr><td align="left" rowspan="2" colspan="1">Age (years)</td><td align="left" rowspan="1" colspan="1">&lt;50</td><td align="left" rowspan="1" colspan="1">24</td><td align="left" rowspan="1" colspan="1">14</td><td align="left" rowspan="1" colspan="1">10</td><td align="left" rowspan="2" colspan="1">0.847</td></tr><tr><td align="left" rowspan="1" colspan="1">≥50</td><td align="left" rowspan="1" colspan="1">66</td><td align="left" rowspan="1" colspan="1">37</td><td align="left" rowspan="1" colspan="1">29</td></tr><tr><td align="left" rowspan="2" colspan="1">Sex</td><td align="left" rowspan="1" colspan="1">Male</td><td align="left" rowspan="1" colspan="1">65</td><td align="left" rowspan="1" colspan="1">33</td><td align="left" rowspan="1" colspan="1">32</td><td align="left" rowspan="2" colspan="1">0.069</td></tr><tr><td align="left" rowspan="1" colspan="1">Female</td><td align="left" rowspan="1" colspan="1">25</td><td align="left" rowspan="1" colspan="1">18</td><td align="left" rowspan="1" colspan="1">7</td></tr><tr><td align="left" rowspan="2" colspan="1">HBV</td><td align="left" rowspan="1" colspan="1">Absent</td><td align="left" rowspan="1" colspan="1">21</td><td align="left" rowspan="1" colspan="1">13</td><td align="left" rowspan="1" colspan="1">8</td><td align="left" rowspan="2" colspan="1">0.580</td></tr><tr><td align="left" rowspan="1" colspan="1">Present</td><td align="left" rowspan="1" colspan="1">69</td><td align="left" rowspan="1" colspan="1">38</td><td align="left" rowspan="1" colspan="1">31</td></tr><tr><td align="left" rowspan="2" colspan="1">Serum AFP level (ng·mL<sup>−1</sup>)</td><td align="left" rowspan="1" colspan="1">&lt;400</td><td align="left" rowspan="1" colspan="1">35</td><td align="left" rowspan="1" colspan="1">20</td><td align="left" rowspan="1" colspan="1">15</td><td align="left" rowspan="2" colspan="1">0.942</td></tr><tr><td align="left" rowspan="1" colspan="1">≥400</td><td align="left" rowspan="1" colspan="1">55</td><td align="left" rowspan="1" colspan="1">31</td><td align="left" rowspan="1" colspan="1">24</td></tr><tr><td align="left" rowspan="2" colspan="1">Tumor size (cm)</td><td align="left" rowspan="1" colspan="1">&lt;5</td><td align="left" rowspan="1" colspan="1">36</td><td align="left" rowspan="1" colspan="1">13</td><td align="left" rowspan="1" colspan="1">21</td><td align="left" rowspan="2" colspan="1">0.003<xref ref-type="fn" rid="feb412139-note-0002">**</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">≥5</td><td align="left" rowspan="1" colspan="1">54</td><td align="left" rowspan="1" colspan="1">38</td><td align="left" rowspan="1" colspan="1">16</td></tr><tr><td align="left" rowspan="2" colspan="1">No. of tumor nodules</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">69</td><td align="left" rowspan="1" colspan="1">37</td><td align="left" rowspan="1" colspan="1">32</td><td align="left" rowspan="2" colspan="1">0.291</td></tr><tr><td align="left" rowspan="1" colspan="1">≥2</td><td align="left" rowspan="1" colspan="1">21</td><td align="left" rowspan="1" colspan="1">14</td><td align="left" rowspan="1" colspan="1">7</td></tr><tr><td align="left" rowspan="2" colspan="1">Cirrhosis</td><td align="left" rowspan="1" colspan="1">Absent</td><td align="left" rowspan="1" colspan="1">39</td><td align="left" rowspan="1" colspan="1">22</td><td align="left" rowspan="1" colspan="1">17</td><td align="left" rowspan="2" colspan="1">0.966</td></tr><tr><td align="left" rowspan="1" colspan="1">Present</td><td align="left" rowspan="1" colspan="1">51</td><td align="left" rowspan="1" colspan="1">29</td><td align="left" rowspan="1" colspan="1">22</td></tr><tr><td align="left" rowspan="2" colspan="1">Vennous infiltration</td><td align="left" rowspan="1" colspan="1">Absent</td><td align="left" rowspan="1" colspan="1">57</td><td align="left" rowspan="1" colspan="1">31</td><td align="left" rowspan="1" colspan="1">26</td><td align="left" rowspan="2" colspan="1">0.566</td></tr><tr><td align="left" rowspan="1" colspan="1">Present</td><td align="left" rowspan="1" colspan="1">33</td><td align="left" rowspan="1" colspan="1">20</td><td align="left" rowspan="1" colspan="1">13</td></tr><tr><td align="left" rowspan="2" colspan="1">Edmondson–steiner grading</td><td align="left" rowspan="1" colspan="1">I + II</td><td align="left" rowspan="1" colspan="1">67</td><td align="left" rowspan="1" colspan="1">42</td><td align="left" rowspan="1" colspan="1">25</td><td align="left" rowspan="2" colspan="1">0.049<xref ref-type="fn" rid="feb412139-note-0002">*</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">III + IV</td><td align="left" rowspan="1" colspan="1">23</td><td align="left" rowspan="1" colspan="1">9</td><td align="left" rowspan="1" colspan="1">14</td></tr><tr><td align="left" rowspan="2" colspan="1">TNM tumor stage</td><td align="left" rowspan="1" colspan="1">I + II</td><td align="left" rowspan="1" colspan="1">62</td><td align="left" rowspan="1" colspan="1">28</td><td align="left" rowspan="1" colspan="1">34</td><td align="left" rowspan="2" colspan="1">0.001<xref ref-type="fn" rid="feb412139-note-0002">**</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">III + IV</td><td align="left" rowspan="1" colspan="1">28</td><td align="left" rowspan="1" colspan="1">23</td><td align="left" rowspan="1" colspan="1">5</td></tr></tbody></table><table-wrap-foot><fn id="feb412139-note-0002"><p>*<italic toggle="yes">P</italic> &lt; 0.05, **<italic toggle="yes">P</italic> &lt; 0.01.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder></permissions></table-wrap><fig fig-type="Figure" xml:lang="en" id="feb412139-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Prognostic significance of <styled-content style="fixed-case">LSP</styled-content>1 in <styled-content style="fixed-case">HCC</styled-content> cases. Kaplan‐Meier 5‐year (A, <italic toggle="yes">P</italic> &lt; 0.01) overall and (B, <italic toggle="yes">P</italic> &lt; 0.001) disease‐free survival curves of HCC patients according to the level of LSP1 expression revealed that the high LSP1 group patients had a better prognosis than low LSP1 group patients.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-5" position="float" orientation="portrait" xlink:href="FEB4-6-1227-g002.jpg"/></fig><table-wrap id="feb412139-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Multivariate Cox regression analysis of 5‐year overall and disease‐free survival of 90 HCC patients. The data show the hazard ratio (HR) and 95% confidence interval (CI)</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="top" colspan="1">Variables</th><th align="left" colspan="3" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Overall survival</th><th align="left" colspan="3" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Disease‐free survival</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">HR</th><th align="left" valign="top" rowspan="1" colspan="1">95% CI</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">P</italic>
+</th><th align="left" valign="top" rowspan="1" colspan="1">HR</th><th align="left" valign="top" rowspan="1" colspan="1">95% CI</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">P</italic>
+</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">LSP1 expression</td><td align="left" rowspan="1" colspan="1">3.774</td><td align="left" rowspan="1" colspan="1">1.429, 9.964</td><td align="left" rowspan="1" colspan="1">0.007<xref ref-type="fn" rid="feb412139-note-0003">**</xref>
+</td><td align="left" rowspan="1" colspan="1">6.562</td><td align="left" rowspan="1" colspan="1">2.260, 19.050</td><td align="left" rowspan="1" colspan="1">0.002<xref ref-type="fn" rid="feb412139-note-0003">**</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Tumor size</td><td align="left" rowspan="1" colspan="1">3.249</td><td align="left" rowspan="1" colspan="1">1.230, 8.586</td><td align="left" rowspan="1" colspan="1">0.017<xref ref-type="fn" rid="feb412139-note-0003">*</xref>
+</td><td align="left" rowspan="1" colspan="1">5.532</td><td align="left" rowspan="1" colspan="1">1.692, 18.087</td><td align="left" rowspan="1" colspan="1">0.005<xref ref-type="fn" rid="feb412139-note-0003">**</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Edmondson–Steiner grading</td><td align="left" rowspan="1" colspan="1">2.777</td><td align="left" rowspan="1" colspan="1">1.089, 7.081</td><td align="left" rowspan="1" colspan="1">0.132</td><td align="left" rowspan="1" colspan="1">2.962</td><td align="left" rowspan="1" colspan="1">1.126, 7.791</td><td align="left" rowspan="1" colspan="1">0.228</td></tr><tr><td align="left" rowspan="1" colspan="1">TNM tumor stage</td><td align="left" rowspan="1" colspan="1">6.511</td><td align="left" rowspan="1" colspan="1">1.784, 23.770</td><td align="left" rowspan="1" colspan="1">0.205</td><td align="left" rowspan="1" colspan="1">6.746</td><td align="left" rowspan="1" colspan="1">2.181, 20.869</td><td align="left" rowspan="1" colspan="1">0.103</td></tr></tbody></table><table-wrap-foot><fn id="feb412139-note-0003"><p>*<italic toggle="yes">P</italic> &lt; 0.05, **<italic toggle="yes">P</italic> &lt; 0.01.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="feb412139-sec-0016"><title>LSP1 inhibited HCC cell proliferation and promoted apoptosis</title><p>In order to explore the biological functions of LSP1 in HCC progression, we transfected pcDNA/LSP1 plasmid into HepG2 and Hep3B cell lines. Western blot revealed LSP1 was upregulated when transfected with pcDNA/LSP1 (Fig. <xref rid="feb412139-fig-0003" ref-type="fig">3</xref>A). Then we carried out the MTT and Brdu assays to explore the changes of HCC proliferation. The results showed overexpressing LSP1 resulted in decreased proliferation of HepG2 and Hep3B (Fig. <xref rid="feb412139-fig-0003" ref-type="fig">3</xref>B–E). Then, flow cytometry analysis was utilized to detect changes of cell apoptosis (Fig. <xref rid="feb412139-fig-0003" ref-type="fig">3</xref>F,G). The results revealed that overexpressed LSP1 induced cell apoptosis both in HepG2 and Hep3B cells. Therefore, these results suggested that LSP1 exerted a tumor suppressive role in HCC by inhibiting proliferation and promoting both apoptosis and growth arrest.</p><fig fig-type="Figure" xml:lang="en" id="feb412139-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>
+<styled-content style="fixed-case">LSP</styled-content>1 regulates proliferation and apoptosis in <styled-content style="fixed-case">HCC</styled-content> cells. (A) HepG2 and Hep3B cells that had been transfected with pc<styled-content style="fixed-case">DNA</styled-content>/<styled-content style="fixed-case">LSP</styled-content>1 were subjected to western blot for <styled-content style="fixed-case">LSP</styled-content>1. (B,C) Cell proliferation was measured by <styled-content style="fixed-case">MTT</styled-content> assay; overexpressed <styled-content style="fixed-case">LSP</styled-content>1 was found to reduce the viability of HepG2 and Hep3B cells. (D,E). Representative quantification of BrdU positive cells. (F,G) Quantification of the apoptotic cell population by flow cytometry. Both HepG2 and Hep3B cells with overexpressed <styled-content style="fixed-case">LSP</styled-content>1 were composed of a larger subset of apoptotic cells compared with the control cells. PI‐A: the apoptosis cell stained by propidium iodide(PI). FITC‐A: the apoptosis cell stained by fluorescein isothiocyanate (FITC). *<italic toggle="yes">P</italic> &lt; 0.05, **<italic toggle="yes">P</italic> &lt; 0.01, by <italic toggle="yes">t</italic> test; <italic toggle="yes">n</italic> = 3 repeats with similar results.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-7" position="float" orientation="portrait" xlink:href="FEB4-6-1227-g003.jpg"/></fig><p>To further confirm LSP1 could inhibit HCC proliferation and promote apoptosis, we conducted animal experiments. Hep3B cells that had been infected with retroviruses were implanted into nude mice via subcutaneous injection. Tumor growth curves, generated over 28 days, revealed that overexpressed LSP1 slowed down Hep3B tumor growth in mice (Fig. <xref rid="feb412139-fig-0004" ref-type="fig">4</xref>A–C). We performed immunohistochemistry for Ki‐67 in the xenografted tissues. As expected, LSP1 overexpression inhibited proliferation <italic toggle="yes">in vivo</italic> (Fig. <xref rid="feb412139-fig-0004" ref-type="fig">4</xref>D). Taken together, these data indicated that LSP1 inhibited tumor proliferation.</p><fig fig-type="Figure" xml:lang="en" id="feb412139-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>
+<styled-content style="fixed-case">LSP</styled-content>1 inhibited tumor growth <italic toggle="yes">in vivo</italic>. (A) Representative pictures of <styled-content style="fixed-case">HCC</styled-content> xenografts from both control Hep3B cells (top) and overexpressed <styled-content style="fixed-case">LSP</styled-content>1 Hep3B cells (bottom). Tumor volume (B) and weight (C) revealed that <styled-content style="fixed-case">LSP</styled-content>1 significantly inhibited tumor growth. (D) Tumor nodules were subjected to immunohistochemical staining for Ki‐67 and quantitative analysis. Representative immunostaining revealed that <styled-content style="fixed-case">LSP</styled-content>1 significantly reduced the number of Ki‐67 positive cells. Values are depicted as the mean relative level of Ki‐67. <italic toggle="yes">P</italic> &lt; 0.05, **<italic toggle="yes">P</italic> &lt; 0.01, by <italic toggle="yes">t</italic> test. Scale bar: 100 μm.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-9" position="float" orientation="portrait" xlink:href="FEB4-6-1227-g004.jpg"/></fig></sec><sec id="feb412139-sec-0017"><title>LSP1 suppressed HCC cell cycle progression <italic toggle="yes">in vitro</italic>
+</title><p>We have confirmed that LSP1 could inhibit HCC cell proliferation. To further confirm the results, flow cytometric analysis of cell cycle distribution was performed to detect the cell cycle of HepG2 and Hep3B cell lines. The results revealed that overexpressed LSP1 led to cell cycle arrest at G0/G1 phase and reduced the percentages of cells at S phase in both cell lines compared with the corresponding percentages in negative control cells (Fig. <xref rid="feb412139-fig-0005" ref-type="fig">5</xref>). Therefore, LSP1 could suppress HCC cell cycle progression <italic toggle="yes">in vitro</italic>.</p><fig fig-type="Figure" xml:lang="en" id="feb412139-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>
+<styled-content style="fixed-case">LSP</styled-content>1 suppressed <styled-content style="fixed-case">HCC</styled-content> cell cycle progression. Effects of overexpressed <styled-content style="fixed-case">LSP</styled-content>1 on the cell cycle progression of Hep3B cells (A) and HepG2 cells (B) measured by flow cytometry analysis. The proportion of S‐phase cells was significantly reduced in pc<styled-content style="fixed-case">DNA</styled-content>/<styled-content style="fixed-case">LSP</styled-content>1 transfected cell lines compared with the control group. Overexpressed <styled-content style="fixed-case">LSP</styled-content>1 induced G0/G1 arrest of <styled-content style="fixed-case">HCC</styled-content> cells. FL2‐A: the area of second fluorescence channel.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-11" position="float" orientation="portrait" xlink:href="FEB4-6-1227-g005.jpg"/></fig></sec><sec id="feb412139-sec-0018"><title>LSP1 inhibited the ERK1/2 pathway</title><p>As we have mentioned before, LSP1, as a tumor suppressor, could inhibit the ERK pathway to exert its role <xref rid="feb412139-bib-0011" ref-type="ref">11</xref>. Also, deletion of LSP1 expression results in increased p‐ERK2 in rat HCC <xref rid="feb412139-bib-0011" ref-type="ref">11</xref>. So we needed to know whether LSP1 could regulate ERK1/2 activation in human HCC. It has been confirmed that the gene for cyclin D1, a cell cycle regulator, could promote cancer cell proliferation and could be induced by the mitogen‐activated protein kinase (MAPK) /ERK pathway <xref rid="feb412139-bib-0012" ref-type="ref">12</xref>, <xref rid="feb412139-bib-0013" ref-type="ref">13</xref>, <xref rid="feb412139-bib-0014" ref-type="ref">14</xref>, <xref rid="feb412139-bib-0015" ref-type="ref">15</xref>. And Bcl2, an important anti‐apoptotic protein, could be regulated by the MAPK/ERK pathway <xref rid="feb412139-bib-0016" ref-type="ref">16</xref>. Western blot was performed to analyze the expression level of ERK1/2, p‐ERK1/2, Bcl2 and cyclin D1. We found that overexpressed LSP1 could decrease the expressions of p‐ERK1/2, Bcl2 and cyclin D1 in both Hep3B and HepG2 cell lines (Fig. <xref rid="feb412139-fig-0006" ref-type="fig">6</xref>). The total expression of ERK1/2 showed little change. However, p‐ERK1/2 level was downregulated by Flag‐LSP1, which meant the ERK1/2 pathway was inhibited (Fig. <xref rid="feb412139-fig-0006" ref-type="fig">6</xref>B,C). Also, the change of cyclin D1 expression indicated that the cell cycle in cells with pcDNA/LSP1 was restrained compared with the control cells (Fig. <xref rid="feb412139-fig-0006" ref-type="fig">6</xref>D). The result that protein expression of Bcl2 was also downregulated (Fig. <xref rid="feb412139-fig-0006" ref-type="fig">6</xref>E) revealed LSP1 could accelerate HCC cell apoptosis. These data consistently indicated that LSP1 could inhibit cell proliferation and promote cell apoptosis, through inhibiting the ERK1/2 pathway in HCC cells.</p><fig fig-type="Figure" xml:lang="en" id="feb412139-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>Overexpressed of <styled-content style="fixed-case">LSP</styled-content>1 inhibited the <styled-content style="fixed-case">ERK</styled-content>1/2 pathway. (A) HepG2 and Hep3B cells were transfected with pc<styled-content style="fixed-case">DNA</styled-content>/<styled-content style="fixed-case">LSP</styled-content>1, and subjected to western blot for <styled-content style="fixed-case">LSP</styled-content>1, <styled-content style="fixed-case">ERK</styled-content>1/2, p‐<styled-content style="fixed-case">ERK</styled-content>1/2, Bcl2 and cyclin D1. (B–E) <styled-content style="fixed-case">LSP</styled-content>1 overexpression decreased p‐<styled-content style="fixed-case">ERK</styled-content>1/2 (B,C), cyclin D1 (D) and Bcl2 (E) protein levels in HepG2 and Hep3B cells. Data are representative of multiple repeats with similar results. *<italic toggle="yes">P</italic> &lt; 0.05, **<italic toggle="yes">P</italic> &lt; 0.01.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-13" position="float" orientation="portrait" xlink:href="FEB4-6-1227-g006.jpg"/></fig></sec></sec><sec id="feb412139-sec-0019"><title>Discussion</title><p>Currently, HCC patients still have a poor prognosis and early diagnosis plays a pivotal role in treatment and clinical outcomes <xref rid="feb412139-bib-0017" ref-type="ref">17</xref>. Elucidating the underlying molecular mechanisms of HCC progression is critical for identifying novel therapeutic targets for HCC. Recent years, more and more cell elements, such as microRNAs (miRNAs) <xref rid="feb412139-bib-0018" ref-type="ref">18</xref>, <xref rid="feb412139-bib-0019" ref-type="ref">19</xref>, <xref rid="feb412139-bib-0020" ref-type="ref">20</xref>, long non‐coding RNAs (lncRNAs) <xref rid="feb412139-bib-0021" ref-type="ref">21</xref>, <xref rid="feb412139-bib-0022" ref-type="ref">22</xref> and proteins <xref rid="feb412139-bib-0020" ref-type="ref">20</xref>, <xref rid="feb412139-bib-0023" ref-type="ref">23</xref>, have been identified as potential therapeutic targets for HCC. For example, miR‐185 suppresses the epithelial‐mesenchymal transition progression via the up‐regulation of E‐cadherin and down‐regulation of vimentin in epithelial and mesenchymal HCC cells <xref rid="feb412139-bib-0024" ref-type="ref">24</xref>. Also, the lncRNA HOTAIR, overexpressed in HCC and associated with tumor size, could activate autophagy by increasing ATG3 and ATG7 expression, promoting HCC cell proliferation <xref rid="feb412139-bib-0025" ref-type="ref">25</xref>. Protein NUPR1 has been identified as a potential therapeutic target in hepatocarcinogenesis, which may contribute to the progression of HCC <xref rid="feb412139-bib-0026" ref-type="ref">26</xref>. LSP1, which is mainly expressed in lymphocytes <xref rid="feb412139-bib-0027" ref-type="ref">27</xref>, neutrophils <xref rid="feb412139-bib-0028" ref-type="ref">28</xref>, macrophages <xref rid="feb412139-bib-0029" ref-type="ref">29</xref> and endothelium <xref rid="feb412139-bib-0030" ref-type="ref">30</xref>, has been reported to be correlated with several kinds of cancers, such as breast cancer <xref rid="feb412139-bib-0031" ref-type="ref">31</xref>, lymphomas <xref rid="feb412139-bib-0008" ref-type="ref">8</xref>, pancreatic cancer <xref rid="feb412139-bib-0009" ref-type="ref">9</xref> and dermatofibroma <xref rid="feb412139-bib-0006" ref-type="ref">6</xref>. Polymorphisms of LSP1 are associated with high risk of breast cancer in women who have an existing mutation of the <italic toggle="yes">BRCA1</italic> gene <xref rid="feb412139-bib-0032" ref-type="ref">32</xref>. More importantly, in rat HCC, the <italic toggle="yes">LSP1</italic> gene was reported to be a tumor suppressor, existing at high CNV, which can regulate hepatocellular proliferation and migration in rat via inhibiting the MAPK/ERK pathway <xref rid="feb412139-bib-0010" ref-type="ref">10</xref>, <xref rid="feb412139-bib-0011" ref-type="ref">11</xref>. However, there are no previous reports about <italic toggle="yes">LSP1</italic> expression and function in human HCC.</p><p>In order to explore the expression of LSP1 in human HCC and understand its role in human HCC, we initially investigated the expression of LSP1 protein in 90 HCC patients using immunohistochemistry and western blot. Our data showed that the expression of LSP1 was significantly lower in HCC compared with matched normal, tumor‐adjacent tissues. Furthermore, LSP1 expression was significantly correlated with tumor size, Edmondson–Steiner grading and TNM tumor stage. Importantly, our data indicated that higher LSP1 expression is significantly correlated with a better 5‐year patient survival for all HCC patients. Multivariate Cox regression analysis found that LSP1 was an independent factor in predicting both overall 5‐year survival and disease‐free survival in HCC patients. These results suggested that LSP1 may be a potential prognosis marker in HCC patients. Furthermore, we explored the functions of LSP1 in HCC cell biology both <italic toggle="yes">in vivo</italic> and <italic toggle="yes">in vitro</italic> and found that LSP1 could suppress HCC growth by regulating cell proliferation, apoptosis and cell cycle progression.</p><p>It has been reported that LSP1 can target the scaffold kinase suppressor of Ras (KSR) to F‐actin filaments and regulate cell growth and migration <xref rid="feb412139-bib-0033" ref-type="ref">33</xref>. KSR was described as a major regulator of cell growth, because it acts as a scaffold for Raf and mitogen activated protein kinase (MAPK) <xref rid="feb412139-bib-0034" ref-type="ref">34</xref>. Previous studies have found the MAPK/ERK pathway was excessively activated in many cancer such as bladder cancer <xref rid="feb412139-bib-0035" ref-type="ref">35</xref>, lung cancer <xref rid="feb412139-bib-0036" ref-type="ref">36</xref> and HCC <xref rid="feb412139-bib-0037" ref-type="ref">37</xref>. The MAPK/ERK pathway is a positive regulator of biological features of carcinoma, including proliferation <xref rid="feb412139-bib-0038" ref-type="ref">38</xref>, apoptosis <xref rid="feb412139-bib-0039" ref-type="ref">39</xref> and differentiation <xref rid="feb412139-bib-0040" ref-type="ref">40</xref>. Many compounds can inhibit steps in the MAPK/ERK pathway, and therefore are potential drugs for treating cancer. The first drug licensed to act on this pathway is sorafenib, a Raf kinase inhibitor <xref rid="feb412139-bib-0041" ref-type="ref">41</xref>. In this study, we found LSP1 could inhibit ERK1/2 phosphorylation, and thus inhibit its downstream proteins, such as Bcl2 and cyclin D1. Thus, we demonstrated that LSP1 could inhibit the ERK1/2 pathway to suppress cell proliferation and the cell cycle, and promote cell apoptosis.</p><p>In summary, this study indicated that LSP1 is a tumor suppressor in human HCC. LSP1 could suppress cell proliferation and the cell cycle and promote cell apoptosis through inhibiting the ERK1/2 pathway. Thus, LSP1 may potentially act as a clinical biomarker and may also be a therapeutic target in HCC.</p></sec><sec id="feb412139-sec-0021"><title>Author contributions</title><p>HZ, YW, ZL, BY, CD, MX, YJ and QL carried out the cell biology and molecular biology experiments and drafted the manuscript. QL, KT, SW, HZ, YW, ZL, BY, CD, MX, YJ and QL participated in the design of the study and performed the statistical analysis. All authors read and approved the final manuscript.</p></sec></body><back><ack id="feb412139-sec-0020"><title>Acknowledgements</title><p>This work was supported by the National Natural Scientific Foundation of China (No. 81402039, 81272645 and 81572847).</p></ack><ref-list content-type="cited-references" id="feb412139-bibl-0001"><title>References</title><ref id="feb412139-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="feb412139-cit-0001">
+<string-name name-style="western">
+<surname>Janevska</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chaloska‐Ivanova</surname>
+<given-names>V</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Janevski</surname>
+<given-names>V</given-names>
+</string-name> (<year>2015</year>) <article-title>Hepatocellular carcinoma: risk factors, diagnosis and treatment</article-title>. <source>Open Access Maced J Med Sci</source>
+<volume>3</volume>, <fpage>732</fpage>–<lpage>736</lpage>.<pub-id pub-id-type="pmid">27275318</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3889/oamjms.2015.111</pub-id><pub-id pub-id-type="pmcid">PMC4877918</pub-id></mixed-citation></ref><ref id="feb412139-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="feb412139-cit-0002">
+<string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yue</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shu</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cheng</surname>
+<given-names>H</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Hu</surname>
+<given-names>P</given-names>
+</string-name> (<year>2016</year>) <article-title>Recent advances in the management of hepatocellular carcinoma</article-title>. <source>J BUON</source>
+<volume>21</volume>, <fpage>307</fpage>–<lpage>311</lpage>.<pub-id pub-id-type="pmid">27273938</pub-id></mixed-citation></ref><ref id="feb412139-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="feb412139-cit-0003">
+<string-name name-style="western">
+<surname>Chen</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Qi</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Qiu</surname>
+<given-names>P</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>J</given-names>
+</string-name> (<year>2015</year>) <article-title>Correlation between LSP1 polymorphisms and the susceptibility to breast cancer</article-title>. <source>Int J Clin Exp Pathol</source>
+<volume>8</volume>, <fpage>5798</fpage>–<lpage>5802</lpage>.<pub-id pub-id-type="pmid">26191300</pub-id><pub-id pub-id-type="pmcid">PMC4503171</pub-id></mixed-citation></ref><ref id="feb412139-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="feb412139-cit-0004">
+<string-name name-style="western">
+<surname>Marafioti</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mancini</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ascani</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sabattini</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zinzani</surname>
+<given-names>PL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pozzobon</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pulford</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Falini</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jaffe</surname>
+<given-names>ES</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Muller‐Hermelink</surname>
+<given-names>HK</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2004</year>) <article-title>Leukocyte‐specific phosphoprotein‐1 and PU.1: two useful markers for distinguishing T‐cell‐rich B‐cell lymphoma from lymphocyte‐predominant Hodgkin's disease</article-title>. <source>Haematologica</source>
+<volume>89</volume>, <fpage>957</fpage>–<lpage>964</lpage>.<pub-id pub-id-type="pmid">15339679</pub-id></mixed-citation></ref><ref id="feb412139-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="feb412139-cit-0005">
+<string-name name-style="western">
+<surname>Couch</surname>
+<given-names>FJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McWilliams</surname>
+<given-names>RR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bamlet</surname>
+<given-names>WR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>de Andrade</surname>
+<given-names>M</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Petersen</surname>
+<given-names>GM</given-names>
+</string-name> (<year>2009</year>) <article-title>Association of breast cancer susceptibility variants with risk of pancreatic cancer</article-title>. <source>Cancer Epidemiol Biomarkers Prev</source>
+<volume>18</volume>, <fpage>3044</fpage>–<lpage>3048</lpage>.<pub-id pub-id-type="pmid">19843670</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/1055-9965.EPI-09-0306</pub-id><pub-id pub-id-type="pmcid">PMC3248348</pub-id></mixed-citation></ref><ref id="feb412139-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="feb412139-cit-0006">
+<string-name name-style="western">
+<surname>Jin</surname>
+<given-names>SY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Choi</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Choi</surname>
+<given-names>YL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Choi</surname>
+<given-names>YL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kim</surname>
+<given-names>do H</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Lee</surname>
+<given-names>SH</given-names>
+</string-name> (<year>2015</year>) <article-title>Identification of leukocyte‐specific protein 1‐positive cells: a clue to the cell of origin and a marker for the diagnosis of dermatofibroma</article-title>. <source>Ann Dermatol</source>
+<volume>27</volume>, <fpage>157</fpage>–<lpage>162</lpage>.<pub-id pub-id-type="pmid">25834354</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.5021/ad.2015.27.2.157</pub-id><pub-id pub-id-type="pmcid">PMC4377404</pub-id></mixed-citation></ref><ref id="feb412139-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="feb412139-cit-0007">
+<string-name name-style="western">
+<surname>Stone</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Thompson</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dos Santos Silva</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Scott</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tamimi</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lindstrom</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kraft</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hazra</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Eriksson</surname>
+<given-names>L</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2015</year>) <article-title>Novel associations between common breast cancer susceptibility variants and risk‐predicting mammographic density measures</article-title>. <source>Cancer Res</source>
+<volume>75</volume>, <fpage>2457</fpage>–<lpage>2467</lpage>.<pub-id pub-id-type="pmid">25862352</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/0008-5472.CAN-14-2012</pub-id><pub-id pub-id-type="pmcid">PMC4470785</pub-id></mixed-citation></ref><ref id="feb412139-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="feb412139-cit-0008">
+<string-name name-style="western">
+<surname>Lim</surname>
+<given-names>U</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kocarnik</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bush</surname>
+<given-names>WS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Matise</surname>
+<given-names>TC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Caberto</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Park</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Carlson</surname>
+<given-names>CS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Deelman</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Duggan</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fesinmeyer</surname>
+<given-names>M</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2014</year>) <article-title>Pleiotropy of cancer susceptibility variants on the risk of non‐Hodgkin lymphoma: the PAGE consortium</article-title>. <source>PLoS One</source>
+<volume>9</volume>, <fpage>e89791</fpage>.<pub-id pub-id-type="pmid">24598796</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0089791</pub-id><pub-id pub-id-type="pmcid">PMC3943855</pub-id></mixed-citation></ref><ref id="feb412139-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="feb412139-cit-0009">
+<string-name name-style="western">
+<surname>Childs</surname>
+<given-names>EJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chaffee</surname>
+<given-names>KG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gallinger</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Syngal</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schwartz</surname>
+<given-names>AG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cote</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bondy</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hruban</surname>
+<given-names>RH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chanock</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hoover</surname>
+<given-names>RN</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2016</year>) <article-title>Association of common susceptibility variants of pancreatic cancer in higher‐risk patients: a PACGENE study</article-title>. <source>Cancer Epidemiol Biomarkers Prev</source>
+<volume>25</volume>, <fpage>1185</fpage>–<lpage>1191</lpage>.<pub-id pub-id-type="pmid">27197284</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/1055-9965.EPI-15-1217</pub-id><pub-id pub-id-type="pmcid">PMC5321211</pub-id></mixed-citation></ref><ref id="feb412139-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="feb412139-cit-0010">
+<string-name name-style="western">
+<surname>Nalesnik</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tseng</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ding</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xiang</surname>
+<given-names>GS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zheng</surname>
+<given-names>ZL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marsh</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Michalopoulos</surname>
+<given-names>GK</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Luo</surname>
+<given-names>JH</given-names>
+</string-name> (<year>2012</year>) <article-title>Gene deletions and amplifications in human hepatocellular carcinomas: correlation with hepatocyte growth regulation</article-title>. <source>Am J Pathol</source>
+<volume>180</volume>, <fpage>1495</fpage>–<lpage>1508</lpage>.<pub-id pub-id-type="pmid">22326833</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ajpath.2011.12.021</pub-id><pub-id pub-id-type="pmcid">PMC3657620</pub-id></mixed-citation></ref><ref id="feb412139-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="feb412139-cit-0011">
+<string-name name-style="western">
+<surname>Koral</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Paranjpe</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bowen</surname>
+<given-names>WC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mars</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Luo</surname>
+<given-names>J</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Michalopoulos</surname>
+<given-names>GK</given-names>
+</string-name> (<year>2015</year>) <article-title>Leukocyte‐specific protein 1: a novel regulator of hepatocellular proliferation and migration deleted in human hepatocellular carcinoma</article-title>. <source>Hepatology</source>
+<volume>61</volume>, <fpage>537</fpage>–<lpage>547</lpage>.<pub-id pub-id-type="pmid">25234543</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/hep.27444</pub-id><pub-id pub-id-type="pmcid">PMC4303494</pub-id></mixed-citation></ref><ref id="feb412139-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="feb412139-cit-0012">
+<string-name name-style="western">
+<surname>Low</surname>
+<given-names>HB</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</string-name> (<year>2016</year>) <article-title>Regulatory roles of MAPK phosphatases in cancer</article-title>. <source>Immune Netw</source>
+<volume>16</volume>, <fpage>85</fpage>–<lpage>98</lpage>.<pub-id pub-id-type="pmid">27162525</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.4110/in.2016.16.2.85</pub-id><pub-id pub-id-type="pmcid">PMC4853501</pub-id></mixed-citation></ref><ref id="feb412139-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="feb412139-cit-0013">
+<string-name name-style="western">
+<surname>Maik‐Rachline</surname>
+<given-names>G</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Seger</surname>
+<given-names>R</given-names>
+</string-name> (<year>2016</year>) <article-title>The ERK cascade inhibitors: towards overcoming resistance</article-title>. <source>Drug Resist Updat</source>
+<volume>25</volume>, <fpage>1</fpage>–<lpage>12</lpage>.<pub-id pub-id-type="pmid">27155372</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.drup.2015.12.001</pub-id></mixed-citation></ref><ref id="feb412139-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="feb412139-cit-0014">
+<string-name name-style="western">
+<surname>Tang</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hou</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tu</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sun</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Du</surname>
+<given-names>YE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>M</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2015</year>) <article-title>Oxidized ATM promotes abnormal proliferation of breast CAFs through maintaining intracellular redox homeostasis and activating the PI3K‐AKT, MEK‐ERK, and Wnt‐beta‐catenin signaling pathways</article-title>. <source>Cell Cycle</source>
+<volume>14</volume>, <fpage>1908</fpage>–<lpage>1924</lpage>.<pub-id pub-id-type="pmid">25970706</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/15384101.2015.1041685</pub-id><pub-id pub-id-type="pmcid">PMC4615140</pub-id></mixed-citation></ref><ref id="feb412139-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="feb412139-cit-0015">
+<string-name name-style="western">
+<surname>Jian</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ning</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fu</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zheng</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pan</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>W</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2016</year>) <article-title>Cold inducible RNA binding protein upregulation in pituitary corticotroph adenoma induces corticotroph cell proliferation via Erk signaling pathway</article-title>. <source>Oncotarget</source>
+<volume>7</volume>, <fpage>9175</fpage>–<lpage>9187</lpage>.<pub-id pub-id-type="pmid">26824322</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.18632/oncotarget.7037</pub-id><pub-id pub-id-type="pmcid">PMC4891034</pub-id></mixed-citation></ref><ref id="feb412139-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="feb412139-cit-0016">
+<string-name name-style="western">
+<surname>Potz</surname>
+<given-names>BA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sabe</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Elmadhun</surname>
+<given-names>NY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Feng</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mitchell</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Quesenberry</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Abid</surname>
+<given-names>MR</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Sellke</surname>
+<given-names>FW</given-names>
+</string-name> (<year>2015</year>) <article-title>Calpain inhibition decreases myocardial apoptosis in a swine model of chronic myocardial ischemia</article-title>. <source>Surgery</source>
+<volume>158</volume>, <fpage>445</fpage>–<lpage>452</lpage>.<pub-id pub-id-type="pmid">25991048</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.surg.2015.03.034</pub-id><pub-id pub-id-type="pmcid">PMC4492842</pub-id></mixed-citation></ref><ref id="feb412139-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="feb412139-cit-0017">
+<string-name name-style="western">
+<surname>Adhoute</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Penaranda</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Raoul</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Le Treut</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bollon</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hardwigsen</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Castellani</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Perrier</surname>
+<given-names>H</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Bourliere</surname>
+<given-names>M</given-names>
+</string-name> (<year>2016</year>) <article-title>Usefulness of staging systems and prognostic scores for hepatocellular carcinoma treatments</article-title>. <source>World J Hepatol</source>
+<volume>8</volume>, <fpage>703</fpage>–<lpage>715</lpage>.<pub-id pub-id-type="pmid">27330679</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.4254/wjh.v8.i17.703</pub-id><pub-id pub-id-type="pmcid">PMC4911504</pub-id></mixed-citation></ref><ref id="feb412139-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="feb412139-cit-0018">
+<string-name name-style="western">
+<surname>Svoronos</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Engelman</surname>
+<given-names>DM</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Slack</surname>
+<given-names>FJ</given-names>
+</string-name> (<year>2016</year>) <article-title>OncomiR or tumor suppressor? The duplicity of microRNAs in cancer</article-title>. <source>Cancer Res</source>
+<volume>76</volume>, <fpage>3666</fpage>–<lpage>3670</lpage>.<pub-id pub-id-type="pmid">27325641</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/0008-5472.CAN-16-0359</pub-id><pub-id pub-id-type="pmcid">PMC4930690</pub-id></mixed-citation></ref><ref id="feb412139-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="feb412139-cit-0019">
+<string-name name-style="western">
+<surname>Wang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yue</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>X</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Jin</surname>
+<given-names>H</given-names>
+</string-name> (<year>2015</year>) <article-title>Function and clinical potential of microRNAs in hepatocellular carcinoma</article-title>. <source>Oncol Lett</source>
+<volume>10</volume>, <fpage>3345</fpage>–<lpage>3353</lpage>.<pub-id pub-id-type="pmid">26788134</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3892/ol.2015.3759</pub-id><pub-id pub-id-type="pmcid">PMC4665873</pub-id></mixed-citation></ref><ref id="feb412139-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="feb412139-cit-0020">
+<string-name name-style="western">
+<surname>Reichl</surname>
+<given-names>P</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Mikulits</surname>
+<given-names>W</given-names>
+</string-name> (<year>2016</year>) <article-title>Accuracy of novel diagnostic biomarkers for hepatocellular carcinoma: an update for clinicians (Review)</article-title>. <source>Oncol Rep</source>
+<volume>36</volume>, <fpage>613</fpage>–<lpage>625</lpage>.<pub-id pub-id-type="pmid">27278244</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3892/or.2016.4842</pub-id><pub-id pub-id-type="pmcid">PMC4930874</pub-id></mixed-citation></ref><ref id="feb412139-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="feb412139-cit-0021">
+<string-name name-style="western">
+<surname>Bartonicek</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maag</surname>
+<given-names>JL</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Dinger</surname>
+<given-names>ME</given-names>
+</string-name> (<year>2016</year>) <article-title>Long noncoding RNAs in cancer: mechanisms of action and technological advancements</article-title>. <source>Mol Cancer</source>
+<volume>15</volume>, <fpage>43</fpage>.<pub-id pub-id-type="pmid">27233618</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12943-016-0530-6</pub-id><pub-id pub-id-type="pmcid">PMC4884374</pub-id></mixed-citation></ref><ref id="feb412139-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="feb412139-cit-0022">
+<string-name name-style="western">
+<surname>Liu</surname>
+<given-names>YR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tang</surname>
+<given-names>RX</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huang</surname>
+<given-names>WT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ren</surname>
+<given-names>FH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>He</surname>
+<given-names>RQ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>
+<given-names>LH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Luo</surname>
+<given-names>DZ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dang</surname>
+<given-names>YW</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>G</given-names>
+</string-name> (<year>2015</year>) <article-title>Long noncoding RNAs in hepatocellular carcinoma: novel insights into their mechanism</article-title>. <source>World J Hepatol</source>
+<volume>7</volume>, <fpage>2781</fpage>–<lpage>2791</lpage>.<pub-id pub-id-type="pmid">26668690</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.4254/wjh.v7.i28.2781</pub-id><pub-id pub-id-type="pmcid">PMC4670950</pub-id></mixed-citation></ref><ref id="feb412139-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="feb412139-cit-0023">
+<string-name name-style="western">
+<surname>Durantel</surname>
+<given-names>D</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Zoulim</surname>
+<given-names>F</given-names>
+</string-name> (<year>2016</year>) <article-title>New antiviral targets for innovative treatment concepts for hepatitis B virus and hepatitis delta virus</article-title>. <source>J Hepatol</source>
+<volume>64</volume>, <fpage>S117</fpage>–<lpage>S131</lpage>.<pub-id pub-id-type="pmid">27084032</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jhep.2016.02.016</pub-id></mixed-citation></ref><ref id="feb412139-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="feb412139-cit-0024">
+<string-name name-style="western">
+<surname>Zhu</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jiang</surname>
+<given-names>ZY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yuan</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ji</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>FH</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Jin</surname>
+<given-names>J</given-names>
+</string-name> (<year>2016</year>) <article-title>MicroRNA‐185 inhibits cell proliferation and epithelial‐mesenchymal transition in hepatocellular carcinoma by targeting Six2</article-title>. <source>Eur Rev Med Pharmacol Sci</source>
+<volume>20</volume>, <fpage>1712</fpage>–<lpage>1719</lpage>.<pub-id pub-id-type="pmid">27212161</pub-id></mixed-citation></ref><ref id="feb412139-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="feb412139-cit-0025">
+<string-name name-style="western">
+<surname>Yang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>H</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>J</given-names>
+</string-name> (<year>2016</year>) <article-title>The long noncoding RNA HOTAIR activates autophagy by upregulating ATG3 and ATG7 in hepatocellular carcinoma</article-title>. <source>Mol BioSyst</source>
+<volume>12</volume>, <fpage>2605</fpage>–<lpage>2612</lpage>.<pub-id pub-id-type="pmid">27301338</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1039/c6mb00114a</pub-id></mixed-citation></ref><ref id="feb412139-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="feb412139-cit-0026">
+<string-name name-style="western">
+<surname>Emma</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Iovanna</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bachvarov</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Puleio</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Loria</surname>
+<given-names>GR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Augello</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Candido</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Libra</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gulino</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cancila</surname>
+<given-names>V</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2016</year>) <article-title>NUPR1, a new target in liver cancer: implication in controlling cell growth, migration, invasion and sorafenib resistance</article-title>. <source>Cell Death Dis</source>
+<volume>7</volume>, <fpage>e2269</fpage>.<pub-id pub-id-type="pmid">27336713</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/cddis.2016.175</pub-id><pub-id pub-id-type="pmcid">PMC5143401</pub-id></mixed-citation></ref><ref id="feb412139-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="feb412139-cit-0027">
+<string-name name-style="western">
+<surname>Hwang</surname>
+<given-names>SH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jung</surname>
+<given-names>SH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lee</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Choi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yoo</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Park</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hwang</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shim</surname>
+<given-names>SC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sabbagh</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kim</surname>
+<given-names>KJ</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2015</year>) <article-title>Leukocyte‐specific protein 1 regulates T‐cell migration in rheumatoid arthritis</article-title>. <source>Proc Natl Acad Sci USA</source>
+<volume>112</volume>, <fpage>E6535</fpage>–<lpage>E6543</lpage>.<pub-id pub-id-type="pmid">26554018</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.1514152112</pub-id><pub-id pub-id-type="pmcid">PMC4664344</pub-id></mixed-citation></ref><ref id="feb412139-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="feb412139-cit-0028">
+<string-name name-style="western">
+<surname>Hossain</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Qadri</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Su</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cayabyab</surname>
+<given-names>FS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Heit</surname>
+<given-names>B</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>L</given-names>
+</string-name> (<year>2015</year>) <article-title>Endothelial LSP1 modulates extravascular neutrophil chemotaxis by regulating nonhematopoietic vascular PECAM‐1 expression</article-title>. <source>J Immunol</source>
+<volume>195</volume>, <fpage>2408</fpage>–<lpage>2416</lpage>.<pub-id pub-id-type="pmid">26238489</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.4049/jimmunol.1402225</pub-id></mixed-citation></ref><ref id="feb412139-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="feb412139-cit-0029">
+<string-name name-style="western">
+<surname>Maxeiner</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shi</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schalla</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aydin</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hoss</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vogel</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zenke</surname>
+<given-names>M</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Sechi</surname>
+<given-names>AS</given-names>
+</string-name> (<year>2015</year>) <article-title>Crucial role for the LSP1‐myosin1e bimolecular complex in the regulation of Fcgamma receptor‐driven phagocytosis</article-title>. <source>Mol Biol Cell</source>
+<volume>26</volume>, <fpage>1652</fpage>–<lpage>1664</lpage>.<pub-id pub-id-type="pmid">25717183</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1091/mbc.E14-05-1005</pub-id><pub-id pub-id-type="pmcid">PMC4436777</pub-id></mixed-citation></ref><ref id="feb412139-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="feb412139-cit-0030">
+<string-name name-style="western">
+<surname>Le</surname>
+<given-names>NP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Channabasappa</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hossain</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>L</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Singh</surname>
+<given-names>B</given-names>
+</string-name> (<year>2015</year>) <article-title>Leukocyte‐specific protein 1 regulates neutrophil recruitment in acute lung inflammation</article-title>. <source>Am J Physiol Lung Cell Mol Physiol</source>
+<volume>309</volume>, <fpage>L995</fpage>–<lpage>L1008</lpage>.<pub-id pub-id-type="pmid">26320151</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1152/ajplung.00068.2014</pub-id><pub-id pub-id-type="pmcid">PMC4628980</pub-id></mixed-citation></ref><ref id="feb412139-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="feb412139-cit-0031">
+<string-name name-style="western">
+<surname>Chen</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shi</surname>
+<given-names>C</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Guo</surname>
+<given-names>Q</given-names>
+</string-name> (<year>2016</year>) <article-title>TNRC9 rs12443621 and FGFR2 rs2981582 polymorphisms and breast cancer risk</article-title>. <source>World J Surg Oncol</source>
+<volume>14</volume>, <fpage>50</fpage>.<pub-id pub-id-type="pmid">26911390</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12957-016-0795-7</pub-id><pub-id pub-id-type="pmcid">PMC4765088</pub-id></mixed-citation></ref><ref id="feb412139-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="feb412139-cit-0032">
+<string-name name-style="western">
+<surname>Poorhosseini</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hashemi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Alipour Olyaei</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Izadi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Moslemi</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ravesh</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hashemi‐Gorji</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kheiri</surname>
+<given-names>HR</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Yassaee</surname>
+<given-names>VR</given-names>
+</string-name> (<year>2016</year>) <article-title>New gene profiling in determination of breast cancer recurrence and prognosis in Iranian women</article-title>. <source>Asian Pac J Cancer Prev</source>
+<volume>17</volume> Spec No., <fpage>155</fpage>–<lpage>160</lpage>.<pub-id pub-id-type="pmid">27165221</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.7314/apjcp.2016.17.s3.155</pub-id></mixed-citation></ref><ref id="feb412139-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="feb412139-cit-0033">
+<string-name name-style="western">
+<surname>Harrison</surname>
+<given-names>RE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sikorski</surname>
+<given-names>BA</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Jongstra</surname>
+<given-names>J</given-names>
+</string-name> (<year>2004</year>) <article-title>Leukocyte‐specific protein 1 targets the ERK/MAP kinase scaffold protein KSR and MEK1 and ERK2 to the actin cytoskeleton</article-title>. <source>J Cell Sci</source>
+<volume>117</volume>, <fpage>2151</fpage>–<lpage>2157</lpage>.<pub-id pub-id-type="pmid">15090600</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1242/jcs.00955</pub-id></mixed-citation></ref><ref id="feb412139-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="feb412139-cit-0034">
+<string-name name-style="western">
+<surname>Karthik</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Majumder</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Palanisamy</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Khairunnisa</surname>
+<given-names>K</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Venugopal</surname>
+<given-names>V</given-names>
+</string-name> (<year>2014</year>) <article-title>Targeting cysteine rich C1 domain of Scaffold protein Kinase Suppressor of Ras (KSR) with anthocyanidins and flavonoids – a binding affinity characterization study</article-title>. <source>Bioinformation</source>
+<volume>10</volume>, <fpage>580</fpage>–<lpage>585</lpage>.<pub-id pub-id-type="pmid">25352726</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.6026/97320630010580</pub-id><pub-id pub-id-type="pmcid">PMC4209367</pub-id></mixed-citation></ref><ref id="feb412139-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="feb412139-cit-0035">
+<string-name name-style="western">
+<surname>Peng</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tao</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Peng</surname>
+<given-names>CY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Su</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Darko</surname>
+<given-names>KO</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tao</surname>
+<given-names>X</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Yang</surname>
+<given-names>X</given-names>
+</string-name> (<year>2016</year>) <article-title>Metformin and gefitinib cooperate to inhibit bladder cancer growth via both AMPK and EGFR pathways joining at Akt and Erk</article-title>. <source>Sci Rep</source>
+<volume>6</volume>, <fpage>28611</fpage>.<pub-id pub-id-type="pmid">27334428</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/srep28611</pub-id><pub-id pub-id-type="pmcid">PMC4917871</pub-id></mixed-citation></ref><ref id="feb412139-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="feb412139-cit-0036">
+<string-name name-style="western">
+<surname>Wang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shi</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shi</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lu</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sun</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>He</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jin</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lv</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zou</surname>
+<given-names>H</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2016</year>) <article-title>TRIM11 overexpression promotes proliferation, migration and invasion of lung cancer cells</article-title>. <source>J Exp Clin Cancer Res</source>
+<volume>35</volume>, <fpage>100</fpage>.<pub-id pub-id-type="pmid">27329103</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13046-016-0379-y</pub-id><pub-id pub-id-type="pmcid">PMC4915141</pub-id><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="retraction-forward" ext-link-type="pmc" xlink:href="PMC10233986"/></mixed-citation></ref><ref id="feb412139-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="feb412139-cit-0037">
+<string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wei</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>K</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>J</given-names>
+</string-name> (<year>2016</year>) <article-title>Bromodomain containing protein represses the Ras/Raf/MEK/ERK pathway to attenuate human hepatoma cell proliferation during HCV infection</article-title>. <source>Cancer Lett</source>
+<volume>371</volume>, <fpage>107</fpage>–<lpage>116</lpage>.<pub-id pub-id-type="pmid">26620707</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.canlet.2015.11.027</pub-id></mixed-citation></ref><ref id="feb412139-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="feb412139-cit-0038">
+<string-name name-style="western">
+<surname>Wang</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fan</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kong</surname>
+<given-names>D</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>P</given-names>
+</string-name> (<year>2016</year>) <article-title>MEK‐ERK inhibition potentiates WAY‐600‐induced anti‐cancer efficiency in preclinical hepatocellular carcinoma (HCC) models</article-title>. <source>Biochem Biophys Res Commun</source>
+<volume>474</volume>, <fpage>330</fpage>–<lpage>337</lpage>.<pub-id pub-id-type="pmid">27107695</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bbrc.2016.04.099</pub-id></mixed-citation></ref><ref id="feb412139-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="feb412139-cit-0039">
+<string-name name-style="western">
+<surname>Cui</surname>
+<given-names>SX</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shi</surname>
+<given-names>WN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Song</surname>
+<given-names>ZY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>SQ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yu</surname>
+<given-names>XF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gao</surname>
+<given-names>ZH</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Qu</surname>
+<given-names>XJ</given-names>
+</string-name> (<year>2016</year>) <article-title>Des‐gamma‐carboxy prothrombin antagonizes the effects of Sorafenib on human hepatocellular carcinoma through activation of the Raf/MEK/ERK and PI3K/Akt/mTOR signaling pathways</article-title>. <source>Oncotarget</source>
+<volume>7</volume>, <fpage>36767</fpage>–<lpage>36782</lpage>.<pub-id pub-id-type="pmid">27167344</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.18632/oncotarget.9168</pub-id><pub-id pub-id-type="pmcid">PMC5095038</pub-id></mixed-citation></ref><ref id="feb412139-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="feb412139-cit-0040">
+<string-name name-style="western">
+<surname>Tang</surname>
+<given-names>X</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2015</year>) <article-title>CD166 positively regulates MCAM via inhibition to ubiquitin E3 ligases Smurf1 and betaTrCP through PI3K/AKT and c‐Raf/MEK/ERK signaling in Bel‐7402 hepatocellular carcinoma cells</article-title>. <source>Cell Signal</source>
+<volume>27</volume>, <fpage>1694</fpage>–<lpage>1702</lpage>.<pub-id pub-id-type="pmid">26004137</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cellsig.2015.05.006</pub-id></mixed-citation></ref><ref id="feb412139-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="feb412139-cit-0041">
+<string-name name-style="western">
+<surname>Tang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Qiao</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guan</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sun</surname>
+<given-names>F</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>J</given-names>
+</string-name> (<year>2015</year>) <article-title>CD166 positively regulates MCAM via inhibition to ubiquitin E3 ligases Smurf1 and betaTrCP through PI3K/AKT and c‐Raf/MEK/ERK signaling in Bel‐7402 hepatocellular carcinoma cells</article-title>. <source>Cell Signal</source>
+<volume>27</volume>, <fpage>1694</fpage>–<lpage>1702</lpage>.<pub-id pub-id-type="pmid">26004137</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cellsig.2015.05.006</pub-id></mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,386 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article article-type="research-article" xml:lang="en" dtd-version="1.4"><front><journal-meta><journal-id journal-id-type="nlm-ta">Mol Genet Genomic Med</journal-id><journal-id journal-id-type="iso-abbrev">Mol Genet Genomic Med</journal-id><journal-id journal-id-type="pmc-domain-id">2232</journal-id><journal-id journal-id-type="pmc-domain">mggmopen</journal-id><journal-id journal-id-type="nlm-id">101603758</journal-id><journal-id journal-id-type="publisher-id">MGG3</journal-id><journal-title-group><journal-title>Molecular Genetics &amp; Genomic Medicine</journal-title></journal-title-group><issn pub-type="epub">2324-9269</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC6978255</article-id><article-id pub-id-type="pmcid-ver">PMC6978255.1</article-id><article-id pub-id-type="pmcaid">6978255</article-id><article-id pub-id-type="pmcaiid">6978255</article-id><article-id pub-id-type="pmid">31724324</article-id><article-id pub-id-type="doi">10.1002/mgg3.1043</article-id><article-id pub-id-type="publisher-id">MGG31043</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Articles</subject></subj-group></article-categories><title-group><article-title>MiR‐191‐5p inhibits lung adenocarcinoma by repressing SATB1 to inhibit Wnt pathway</article-title><alt-title alt-title-type="left-running-head">ZHOU et al.</alt-title></title-group><contrib-group><contrib id="mgg31043-cr-0001" contrib-type="author"><name name-style="western"><surname>Zhou</surname><given-names initials="LY">Lai‐yong</given-names></name><xref ref-type="aff" rid="mgg31043-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="mgg31043-cr-0002" contrib-type="author"><name name-style="western"><surname>Zhang</surname><given-names initials="FW">Fu‐wei</given-names></name><xref ref-type="aff" rid="mgg31043-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="mgg31043-cr-0003" contrib-type="author"><name name-style="western"><surname>Tong</surname><given-names initials="J">Jian</given-names></name><xref ref-type="aff" rid="mgg31043-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="mgg31043-cr-0004" contrib-type="author" corresp="yes"><name name-style="western"><surname>Liu</surname><given-names initials="F">Fang</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-1614-5015</contrib-id><xref ref-type="aff" rid="mgg31043-aff-0003">
+<sup>3</sup>
+</xref><address><email>szbaliufang@sina.com</email></address></contrib></contrib-group><aff id="mgg31043-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Cardiothoracic surgery</named-content>
+<institution>The People's Hospital of Bao’an Shenzhen</institution>
+<institution>The Affiliated Bao’an Hospital of Southern Medical University</institution>
+<city>Shenzhen</city>
+<country country="CN">China</country>
+</aff><aff id="mgg31043-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Cardiothoracic surgery</named-content>
+<institution>Zhujiang Hospital</institution>
+<institution>Southern Medical University</institution>
+<city>Guangzhou</city>
+<country country="CN">China</country>
+</aff><aff id="mgg31043-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Department of Pathology</named-content>
+<institution>The People's Hospital of Bao’an Shenzhen</institution>
+<institution>The Affiliated Bao’an Hospital of Southern Medical University</institution>
+<city>Shenzhen</city>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Fang Liu, Department of Pathology, The People's Hospital of Bao’an Shenzhen, The Affiliated Bao’an Hospital of Southern Medical University, Shenzhen, Guangdong, China.<break/>
+Email: <email>szbaliufang@sina.com</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>13</day><month>11</month><year>2019</year></pub-date><pub-date pub-type="collection"><month>1</month><year>2020</year></pub-date><volume>8</volume><issue>1</issue><issue-id pub-id-type="pmc-issue-id">350741</issue-id><issue-id pub-id-type="doi">10.1002/mgg3.v8.1</issue-id><elocation-id>e1043</elocation-id><history><date date-type="received"><day>01</day><month>6</month><year>2019</year></date><date date-type="rev-recd"><day>08</day><month>10</month><year>2019</year></date><date date-type="accepted"><day>11</day><month>10</month><year>2019</year></date></history><pub-history><event event-type="pmc-release"><date><day>13</day><month>11</month><year>2019</year></date></event><event event-type="pmc-live"><date><day>28</day><month>01</month><year>2020</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2023-10-02 17:25:25.297"><day>02</day><month>10</month><year>2023</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2019 The Authors. <italic toggle="yes">Molecular Genetics &amp; Genomic Medicine</italic> published by Wiley Periodicals, Inc.</copyright-statement><license license-type="creativeCommonsBy"><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="MGG3-8-e1043.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:MGG3-8-e1043.pdf"/><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="retraction-forward" xml:lang="en" xlink:title="retraction" vol="11" journal-id="Mol Genet Genomic Med" journal-id-type="nlm-ta" ext-link-type="pmc" xlink:href="PMC9834138"><article-title>MiR‐191‐5p inhibits lung adenocarcinoma by repressing SATB1 to inhibit Wnt pathway</article-title><volume>11</volume><issue seq="190">1</issue><date><day>28</day><month>11</month><year>2022</year></date><elocation-id>e2111</elocation-id><source>Molecular Genetics &amp; Genomic Medicine</source><pub-id pub-id-type="doi">10.1002/mgg3.2111</pub-id><pub-id pub-id-type="pmcid">PMC9834138</pub-id><pub-id pub-id-type="pmid">37053501</pub-id></related-article><abstract id="mgg31043-abs-0001"><title>Abstract</title><sec id="mgg31043-sec-0001"><title>Background</title><p>To investigate the function of miR‐191‐5p in lung adenocarcinoma and its possible mechanism.</p></sec><sec id="mgg31043-sec-0002"><title>Methods</title><p>QRT‐PCR was adopted for the detection of the expression levels of miR‐191‐5p and <italic toggle="yes">SATB1</italic> (HGNC: 10541). The effects of miR‐191‐5p and <italic toggle="yes">SATB1</italic> on cell proliferation and migration were examined through the CCK‐8 and Transwell assays. Subsequently, the binding relationships between miR‐191‐5p and <italic toggle="yes">SATB1</italic> were confirmed by dual‐luciferase reporter gene assay. Finally, the potential mechanisms of action of miR‐191‐5p were explored through a serious of in vivo and in vitro experiments.</p></sec><sec id="mgg31043-sec-0003"><title>Results</title><p>Lung adenocarcinoma patients had a notably lower expression level of miR‐191‐5p than controls, patients with metastasis had a lower level than those without metastasis, and the level in patients with lung adenocarcinoma in stage III‐IV was lower than that in patients with lung adenocarcinoma in stage I‐II. Overexpression of miR‐191‐5p repressed the migration and proliferation of lung cancer A549/H1650 cells. According to the reporter gene assay, miR‐191‐5p could bind to <italic toggle="yes">SATB1</italic>. Besides, <italic toggle="yes">SATB1</italic> was significantly overexpressed in cancer tissues of patients with lung adenocarcinoma, and <italic toggle="yes">SATB1</italic> overexpression accelerated the migration and proliferation of A549/H1650 cells and reversed inhibition on cell migration and proliferation by miR‐191‐5p.</p></sec><sec id="mgg31043-sec-0004"><title>Conclusion</title><p>Overexpression of miR‐191‐5p is capable of blocking the migration and proliferation of lung cancer cells, and its mechanism may be through targeting <italic toggle="yes">SATB1</italic> thus downregulating Wnt signaling.</p></sec></abstract><abstract abstract-type="graphical" id="mgg31043-abs-0002"><p>MiR‐191‐5p has a notably low expression in Lung adenocarcinoma patients. MiR‐191‐5p inhibits the migration and proliferation of lung cancer cells. MiR‐191‐5p reduces the expression of SATB1 and inhibits the activation of Wnt/β‐catenin signaling pathway through its target gene SATB1.<boxed-text position="anchor" content-type="graphic" id="mgg31043-blkfxd-0001" orientation="portrait"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="nlm-graphic-1" orientation="portrait" xlink:href="MGG3-8-e1043-g008.jpg"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="mgg31043-kwd-0001">lung adenocarcinoma</kwd><kwd id="mgg31043-kwd-0002">metastatic lung cancer</kwd><kwd id="mgg31043-kwd-0003">miR‐191‐5p</kwd><kwd id="mgg31043-kwd-0004"><styled-content style="fixed-case" toggle="no"><italic toggle="yes">SATB1</italic></styled-content></kwd></kwd-group><counts><fig-count count="7"/><table-count count="0"/><page-count count="10"/><word-count count="5073"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.5 mode:remove_FC converted:23.01.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="mgg31043-cit-1001">
+<string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>L‐Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>F‐W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tong</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>MiR‐191‐5p inhibits lung adenocarcinoma by repressing SATB1 to inhibit Wnt pathway</article-title>. <source xml:lang="en">Mol Genet Genomic Med</source>. <year>2020</year>;<volume>8</volume>:<elocation-id>e1043</elocation-id>
+<pub-id pub-id-type="doi">10.1002/mgg3.1043</pub-id>
+<pub-id pub-id-type="pmcid">PMC6978255</pub-id><pub-id pub-id-type="pmid">31724324</pub-id><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="retraction-forward" ext-link-type="pmc" xlink:href="PMC9834138"/></mixed-citation>
+</p></notes></front><body id="mgg31043-body-0001"><sec id="mgg31043-sec-0005"><label>1</label><title>INTRODUCTION</title><p>Lung cancer is the leading cause of cancer‐related deaths worldwide, and there are approximately 1.4 million new cases of lung cancer every year (Jemal et al., <xref rid="mgg31043-bib-0009" ref-type="ref">2011</xref>) (Wei, Tian, Song, Wu, &amp; Liu, <xref rid="mgg31043-bib-0024" ref-type="ref">2018</xref>). Two major lung cancer subtypes are small cell lung cancer (SCLC) and non–small cell lung cancer (NSCLC), with the proportion of about 15%–20% and 80%–85%, respectively (Goldstraw et al., <xref rid="mgg31043-bib-0007" ref-type="ref">2011</xref>). Adenocarcinoma takes up over 50% in NSCLC. In spite of therapies for lung adenocarcinoma, lung adenocarcinoma‐induced mortality rate is still high (Diaz‐Garcia et al., <xref rid="mgg31043-bib-0002" ref-type="ref">2013</xref>; Rosell, Bivona, &amp; Karachaliou, <xref rid="mgg31043-bib-0020" ref-type="ref">2013</xref>), which may be associated with early metastasis (Peters et al., <xref rid="mgg31043-bib-0017" ref-type="ref">2012</xref>). Hence, seeking novel targets and prognostic biomarkers is of profound significance.</p><p>microRNAs (miRNAs) are small noncoding RNA molecules modulating posttranscriptional protein expression through complementary base pairing (Lau, Lim, Weinstein, &amp; Bartel, <xref rid="mgg31043-bib-0011" ref-type="ref">2001</xref>). miRNAs are involved in tumor formation, invasion, migration, and metastasis through a variety of signaling pathways, revealing roles as therapeutic targets in cancer (Pfeffer, Yang, &amp; Pfeffer, <xref rid="mgg31043-bib-0018" ref-type="ref">2015</xref>; Rupaimoole &amp; Slack, <xref rid="mgg31043-bib-0021" ref-type="ref">2017</xref>). As the gene sequencing technology advances, miRNA expressions in lung cancer tissues and paracancerous tissues have been examined (Puissegur et al., <xref rid="mgg31043-bib-0019" ref-type="ref">2011</xref>). miR‐191‐5p is known to be dysregulated in several tumors, including intrahepatic cholangiocarcinoma, breast cancer, and colorectal cancer (Li et al., <xref rid="mgg31043-bib-0012" ref-type="ref">2017</xref>; Mar‐Aguilar et al., <xref rid="mgg31043-bib-0014" ref-type="ref">2013</xref>; Zhang et al., <xref rid="mgg31043-bib-0027" ref-type="ref">2015</xref>). However, miR‐191‐5p's function in lung adenocarcinoma remains largely unknown.</p><p>The aim of this study was to investigate the expression level of miR‐191‐5p and its potential as a therapeutic target in lung cancer. We performed analysis in patient primary adenocarcinoma tissues, cell lines, and a mouse xenograft model. Our study revealed miR‐191‐5p's therapeutic effects on inhibiting cancer cell migration and proliferation and further identified its target gene <italic toggle="yes">SATB1</italic> (HGNC: 10541) and downstream pathway.</p></sec><sec sec-type="methods" id="mgg31043-sec-0006"><label>2</label><title>METHODS</title><sec id="mgg31043-sec-0007"><label>2.1</label><title>Ethical compliance</title><p>The research was approved by the Ethics Committee of The People's Hospital of Bao'an Shenzhen.</p></sec><sec id="mgg31043-sec-0008"><label>2.2</label><title>General data</title><p>Fresh lung adenocarcinoma and lung adenocarcinoma‐adjacent tissue samples of 24 lung adenocarcinoma patients receiving surgical treatment were collected, and the lung adenocarcinoma‐adjacent tissues should be at more than 5 cm from the edge of the tumor tissues. Besides, these patients had no history of other primary secondary tumors and no history of chemotherapy, radiotherapy, targeted therapy, etc. After collection, the samples were placed in a freezing storage tube, marked with sample information and stored in liquid nitrogen, and procedures in the whole storage and transportation process were operated under the condition with no enzyme. Meanwhile, clinicopathological data, including gender, age, smoking history, the tumor size, histological grades, pathological subtypes, TNM stages, and the lymph node status, of all the patients were collected. All the patients voluntarily entered into this research and signed the written informed consent, and this research gained the approval of the Ethics Committee of the People's Hospital of Bao'an Shenzhen.</p></sec><sec id="mgg31043-sec-0009"><label>2.3</label><title>Cell culture</title><p>HBE, a normal bronchial epithelial cell line, and SPC‐A1, H460, H1650, and A549, NSCLC cell lines, were all bought from ATCC. These cells were cultured in DMEM (Thermo Fisher Scientific) with RPMI‐1640 medium (Gibco‐BRL; Thermo Fisher Scientific) or 10% fetal bovine serum (FBS; Hyclone) in a constant temperature incubator with saturated humidity and 5% CO<sub>2</sub> at 37°C.</p></sec><sec id="mgg31043-sec-0010"><label>2.4</label><title>Cell transfection</title><p>At 1 day before transfection, an appropriate number of cells were inoculated into 6‐well plates and cultured in the cell culture medium without antibiotics, followed by transient transfection when the cells filled 60%–70% of the culture dish overnight. Then the cells were transfected with miR‐191‐5p mimics, pcDNA‐SATB homeobox 1 (<italic toggle="yes">SATB1</italic>) and corresponding negative controls and mixed with Lipo2000. Subsequently, the mixture was let stand for 20 min after even mixing at room temperature to form the DNA/Lipo2000 (or mimics/Lipo2000) complex. 100 μL of the complex was slowly dripped into the culture solution and mixed well to co‐culture the cells for 4–6 hr. Thereafter, the complex was discarded, and the complete culture medium containing 1% streptomycin and 10% FBS was used to replace the culture medium for 24 hr for subsequent experiments.</p></sec><sec id="mgg31043-sec-0011"><label>2.5</label><title>Extraction of total RNA from tissues and cells</title><p>About 50 mg tissues were taken, ground in liquid nitrogen, and added with 1 ml TRIzol (Invitrogen). Then cells were washed with PBS once after collection, added with 1 ml TRIzol at the cell density of 5 × 10<sup>6</sup>/ml. After that, the tissues or cells were fully homogenized, transferred to a 1.5 ml centrifuge tube, and let stand for 5 min. Chloroform with a volume 0.2 times that of the volume of TRIzol (TRIzol: chloroform = 1:0.2) was added into a centrifuge tube containing lysate and let stand for 5 min at room temperature after even mixing, followed by 10 min of centrifugation. Then the supernatant was transferred to another unused 1.5 ml centrifuge tube, and the DNaseI (RNase Free, TaKaRa) was applied to remove the residual DNAs according to manual. Afterward, the supernatant was added with an equal volume of isopropyl alcohol, mixed evenly and centrifuged for 10 min, and ultimately the supernatant was carefully sucked and discarded. After that, a centrifuge tube containing RNA precipitates was added with 1 ml of 75% ethanol, mixed uniformly, let stand at room temperature for 5 min, and centrifuged for 5 min. Finally, the supernatant was carefully sucked and discarded, and the RNA precipitates were dried at room temperature and dissolved in diethyl pyrocarbonate (DEPC)‐treated water based on their amount.</p></sec><sec id="mgg31043-sec-0012"><label>2.6</label><title>Quantitative reverse transcription‐polymerase chain reaction (qRT‐PCR)</title><p>After the test of purity and concentration of RNA samples, cDNA samples were synthesized by RT, with GAPDH and U6 as the internal references. DEPC (Beyotime Biotechnology), SYBR Green (Applied Biosystems) premixed solution, forward (F)/reverse (R) primers, and templates were prepared into PCR solution, which was placed on a RT‐PCR instrument for PCR amplification. miRNAs were reversely transcribed into cDNAs by miRNA RT kit [Tiangen Biotech (Shanghai) Co., Ltd.], and PCR and quantitative analysis of miRNAs were carried out according to miRNA qPCR kit instructions [Tiangen Biotech (Shanghai) Co., Ltd.]. Primer sequences are listed below:</p><p>miR‐191‐5p (F: 5′ CAACGGAATCCCAAAAGCAGCTG 3′,</p><p>R: As provided by the miScript SYBR Green kit;</p><p>U6 (F: 5′ CTCGCTTCGGCAGCACA 3′, R: 5′ ACGCTTCACGAATTTGCGT 3′);</p><p>GAPDH (F: 5' GAAGGTGAAGGTCGGAGTC′, R: 5′ GAAGATGGTGATGGGATT TC′);</p><p>
+<italic toggle="yes">SATB1</italic> (F: 5′ GATCATTTGAACGAGGCAACTCA 3′, R: 5′ TGGACCCTTCGGATC</p><p>ACTCA 3′)</p><sec id="mgg31043-sec-0013"><label>2.6.1</label><title>Luciferase enzyme detection</title><p>The sequence of the 3'UTR of <italic toggle="yes">SATB1</italic> transcripts was cloned into the vector pGL3 containing luciferase reporter genes as WT3'UTR group. The key binding region of miRNAs on the 3'UTR mutated into invalid binding sequences using the site‐directed mutagenesis kit to form control plasmid MUT3′UTR group. Each group was transfected with miR‐191‐5p mimics and marine kidney luciferase plasmids (internal reference). After transfection for 24 hr, the cell culture solution was aspirated completely. According to the requirements of the kit, an appropriate amount of lysate was added to fully lyse the cells. Following centrifugation, 100 μL of the supernatant of the lysate was harvested for determination. The RLU value determined by firefly luciferase was divided by that determined by <italic toggle="yes">renilla</italic> luciferase with <italic toggle="yes">renilla</italic> luciferase as internal reference. According to the obtained ratio, the activation degree of different sample target reporter genes was compared.</p></sec></sec><sec id="mgg31043-sec-0014"><label>2.7</label><title>Cell migration</title><p>A Transwell chamber was placed above a 24‐well plate. After trypsinization, the transfected NSCLC cells were suspended in serum‐free medium, followed by counting with a cell counting plate. After that, the cells were diluted with serum‐free medium, whose density was adjusted to 1 × 10<sup>5</sup>/ml, and the chamber was added with the above cell suspension. Then the cells in the sterile 24‐well plate was added with a culture medium with 10% FBS in an incubator for incubation. 48 hr later, the culture medium was discarded, followed by washing with PBS, and the Transwell chamber was taken out and fixed with 4% paraformaldehyde for 30 min. After staining with 0.5% crystal violet added for 10–15 min, the staining agent was rinsed with PBS. Finally, observation and counting of the cells were performed using a microscope.</p></sec><sec id="mgg31043-sec-0015"><label>2.8</label><title>Cell proliferation</title><p>NSCLC cells after treatment were inoculated into 96‐well plates (1 × 10<sup>4</sup>/well), followed by culture for 0 hr, 24 hr, 48 hr, and 72 hr, respectively. Cell Counting Kit‐8 (CCK‐8) kit (Dojindo) was utilized to detect the cell proliferation ability, before which CCK‐8 and the culture medium were mixed at 1:10 to prepare a mixed solution. The culture medium used previously was discarded, and 110 μL of the mixed culture medium was added for further 1 hr of incubation at 37°C away from light. Ultimately, the OD value at 450 nm was examined by ELISA, and six replicate wells were set in each group.</p></sec><sec id="mgg31043-sec-0016"><label>2.9</label><title>Western blotting</title><p>Through centrifugation at 12,000 × g and 4°C for 20 min, total proteins were extracted, whose concentration was evaluated by BCA protein assay kit (Beyotime). After that, the same quantities of total proteins were isolated in 10% SDS‐PAGE and transferred onto nitrocellulose membranes, which were then sealed with 5% skim milk powder in TBS containing 0.5% Tween‐20 for 1 hr. Afterward, a primary antibody was added for incubation at 4°C overnight, and the proteins were rinsed and incubated with a secondary antibody for 2 hr at room temperature. Eventually, ECL and Western blotting detection reagents (Thermo Fisher Scientific, Inc.) were employed to examine the membranes. The above antibodies (Abcam) were utilized by reference to the manufacturer's instructions.</p></sec><sec id="mgg31043-sec-0017"><label>2.10</label><title>Tumor growth assay in vivo</title><p>Animal experiments gained the approval of the Animal Use and Care Committee of Jiangsu University. A total of six male BALB/c nude mice aged 4 weeks old were allocated into two groups randomly. At 36 hr after transfection, A549 cells subjected to transfection with miR‐191‐5p agomir and NC were obtained, and 0.2 ml PBS was utilized to resuspend about 2 × 10<sup>6</sup> A549 cells, which were then injected into each mouse subcutaneously. After cell inoculation, xenografts were periodically observed. At 6 weeks after injection, these mice were executed, followed by the removal and photographing of xenografts. Ultimately, a vernier caliper was applied to measure the tumor diameter, and the tumor volume (V) was calculated based on the formula:</p></sec><sec id="mgg31043-sec-0018"><label>2.11</label><title>Immunohistochemical staining</title><p>Anti‐Ki‐67 primary monoclonal antibody (Cell Signaling Technology) was added to incubate tumor tissue sections, which were subjected to further incubation with the secondary antibody at room temperature for 30 min. Following 5 min of incubation with 3,3'‐DAB (Maxim), 30 s of counterstain of the sections was carried out with hematoxylin, followed by photographing under a TE2000 microscope (Nikon).</p></sec><sec id="mgg31043-sec-0019"><label>2.12</label><title>Statistical methods</title><p>SPSS 23.0 (SPSS, Inc.) was adopted for data statistical processing. χ<sup>2</sup> test was carried out to compare count data, and comparisons of measurement data were detected via the independent samples <italic toggle="yes">t</italic>‐test between the two groups. <italic toggle="yes">p</italic> &lt; .05 represented that the difference was of statistical significance.</p></sec></sec><sec sec-type="results" id="mgg31043-sec-0020"><label>3</label><title>RESULTS</title><sec id="mgg31043-sec-0021"><label>3.1</label><title>miR‐191‐5p exhibited an significantly low expression in lung cancer cell lines</title><p>At first, miR‐191‐5p expression levels in lung cancer tissues and corresponding cancer‐adjacent tissues were measured, the results of which revealed that miR‐191‐5p was significantly lowly expressed in lung cancer tissues (Figure <xref rid="mgg31043-fig-0001" ref-type="fig">1</xref>a). Second, the expression of miR‐191‐5p in different lung cancer stages were detected, which manifested that miR‐191‐5p expression in patients with lung cancer in stage III‐IV was markedly lower than that in patients with cancer in stage I‐II (Figure <xref rid="mgg31043-fig-0001" ref-type="fig">1</xref>b). Thirdly, lung cancer group was subdivided into metastasis group and nonmetastasis group, and miR‐191‐5p expression levels in the two groups were examined. According to the results, miR‐191‐5p exhibited a notably low expression in the tissues of patients with cancer metastasis (Figure <xref rid="mgg31043-fig-0001" ref-type="fig">1</xref>c). Ultimately, the survival analysis displayed that patients with lowly expressed miR‐191‐5p had significantly lower survival rates than those with highly expressed miR‐191‐5p (Figure <xref rid="mgg31043-fig-0001" ref-type="fig">1</xref>d). The above results indicate that miR‐191‐5p may exert certain effects in the process of lung cancer.</p><fig fig-type="Figure" xml:lang="en" id="mgg31043-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>miR‐191‐5p expression level correlates with lung cancer metastasis in patient tissue samples. (a) miR‐191‐5p expression significantly declined in lung cancer tissues compared with that in paracancerous tissues. (b) miR‐191‐5p expression in the tissues of patients with lung cancer in stage III‐IV is remarkably lower than that in patients with lung cancer in stage I‐II. (c) miR‐191‐5p expression in metastasis group is lower than that in non‐metastasis group. (d) Survival analysis reveals that patients with low miR‐191‐5p expression have lower survival rates than those with high expression. ***<italic toggle="yes">p</italic> &lt; .001</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-3" position="float" orientation="portrait" xlink:href="MGG3-8-e1043-g001.jpg"/></fig></sec><sec id="mgg31043-sec-0022"><label>3.2</label><title>miR‐191‐5p could inhibit cell proliferation and migration</title><p>In addition, miR‐191‐5p expression level in lung cancer cell lines was also determined. According to the results, compared with that in HBE, miR‐191‐5p expression level was generally lower in lung cancer cell lines (Figure <xref rid="mgg31043-fig-0002" ref-type="fig">2</xref>a). To elaborate the possible role of miR‐191‐5p in lung cancer's occurrence and development, A549 and H1650 cells were chosen for the following research. After transfection with miR‐191‐5p mimics, miR‐191‐5p expressions in the two cell lines were elevated in comparison with that in control group (Figure <xref rid="mgg31043-fig-0002" ref-type="fig">2</xref>b). The functions of miR‐191‐5p expression in cell proliferation and migration were examined through the upregulation of its expression. The results denote that cell migration and proliferation are markedly repressed after an increase in miR‐191‐5p expression (Figure <xref rid="mgg31043-fig-0002" ref-type="fig">2</xref>c‐f).</p><fig fig-type="Figure" xml:lang="en" id="mgg31043-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>miR −191‐5p inhibits cell proliferation and migration. (a) In comparison with that in normal bronchial epithelial cells, miR‐191‐5p expression is generally downregulated in lung cancer cell lines. (b) After A549 and H1650 cells are transfected with miR‐191‐5p mimics, miR‐191‐5p expression is markedly elevated. (c,d) Cell proliferation ability is significantly inhibited after miR‐191‐5p expressions in A549 and H1650 cells are elevated. (e,f) Cell migration ability is remarkably inhibited after miR‐191‐5p expressions in A549 and H1650 cells are increased. *<italic toggle="yes">p</italic> &lt; .05, **<italic toggle="yes">p</italic> &lt; .01, ***<italic toggle="yes">p</italic> &lt; .001</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-5" position="float" orientation="portrait" xlink:href="MGG3-8-e1043-g002.jpg"/></fig></sec><sec id="mgg31043-sec-0023"><label>3.3</label><title>
+<italic toggle="yes">SATB1</italic> was a potential target gene of miR‐191‐5p</title><p>Prediction and analysis through websites illustrated that <italic toggle="yes">SATB1</italic> was a potential target gene of miR‐191‐5p (Figure <xref rid="mgg31043-fig-0003" ref-type="fig">3</xref>a), and the dual‐luciferase reporter gene assay further confirmed the binding relationship between the two (Figure <xref rid="mgg31043-fig-0003" ref-type="fig">3</xref>b,c). <italic toggle="yes">SATB1</italic> expression was measured after overexpression of miR‐191‐5p in A549 and H1650 cells, which displayed that both mRNA and protein expression levels of <italic toggle="yes">SATB1</italic> were remarkably inhibited (Figure <xref rid="mgg31043-fig-0003" ref-type="fig">3</xref>d‐f). The above results denote that <italic toggle="yes">SATB1</italic> is the target gene of miR‐191‐5p, and miR‐191‐5p can reduce <italic toggle="yes">SATB1</italic> expression.</p><fig fig-type="Figure" xml:lang="en" id="mgg31043-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>
+<italic toggle="yes">SATB1</italic> is a potential target gene of miR‐191‐5p. (a) Bioinformatics analysis shows that the two have potential binding sites. (b,c) Dual‐luciferase reporter gene displays that there is a binding relationship between them. (d‐f) Following miR‐191‐5p expressions in A549/H1650 cells are increased, <italic toggle="yes">SATB1</italic> expression is notably decreased. **<italic toggle="yes">p</italic> &lt; .01, ***<italic toggle="yes">p</italic> &lt; .001</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-7" position="float" orientation="portrait" xlink:href="MGG3-8-e1043-g003.jpg"/></fig></sec><sec id="mgg31043-sec-0024"><label>3.4</label><title>
+<italic toggle="yes">SATB1</italic> could promote cell proliferation and migration</title><p>Since <italic toggle="yes">SATB1</italic> is a target gene of miR‐191‐5p, its expression in tissues of lung cancer patients was examined. It was discovered that cancer tissues had prominently higher <italic toggle="yes">SATB1</italic> expression than adjacent tissues (Figure <xref rid="mgg31043-fig-0004" ref-type="fig">4</xref>a). According to Pearson correlation analysis, miR‐191‐5p had a negative relationship to <italic toggle="yes">SATB1</italic> expression in lung cancer tissues (<italic toggle="yes">r<sup>2</sup></italic> = 0.352, <italic toggle="yes">p</italic> = .0022) (Figure <xref rid="mgg31043-fig-0004" ref-type="fig">4</xref>b). After A549 and H1650 cells were transfected with <italic toggle="yes">SATB1</italic> overexpression plasmids, <italic toggle="yes">SATB1</italic> expression was notably elevated (Figure <xref rid="mgg31043-fig-0004" ref-type="fig">4</xref>c). The results of CCK‐8 and Transwell assays illustrated that the upregulation of <italic toggle="yes">SATB1</italic> expression remarkably accelerated the migration and proliferation of lung cancer cells (Figure <xref rid="mgg31043-fig-0004" ref-type="fig">4</xref>d‐f).</p><fig fig-type="Figure" xml:lang="en" id="mgg31043-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>
+<italic toggle="yes">SATB1</italic> can promote cell proliferation and migration. (a) Compared with that in cancer‐adjacent tissues, <italic toggle="yes">SATB1</italic> is significantly highly expressed in lung cancer tissues. (b) Pearson analysis validates that a negative correlation exists between the two expressions. (c) After A549 and H1650 cells are transfected with <italic toggle="yes">SATB1</italic> plasmids, <italic toggle="yes">SATB1</italic> expressions are markedly elevated. (d‐f) The elevated <italic toggle="yes">SATB1</italic> expressions in A549/H460 cells can promote the cell proliferation and migration ability. *<italic toggle="yes">p</italic> &lt; .05, **<italic toggle="yes">p</italic> &lt; .01, ***<italic toggle="yes">p</italic> &lt; .001</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-9" position="float" orientation="portrait" xlink:href="MGG3-8-e1043-g004.jpg"/></fig></sec><sec id="mgg31043-sec-0025"><label>3.5</label><title>miR‐191‐5p exerted its effects by decreasing <bold><italic toggle="yes">SATB1</italic></bold>
+</title><p>After <italic toggle="yes">SATB1</italic> overexpression in A549 and H1650 cells, β‐catenin expression level was significantly raised (Figure <xref rid="mgg31043-fig-0005" ref-type="fig">5</xref>a). Increased miR‐191‐5p suppressed β‐catenin expression, but elevated <italic toggle="yes">SATB1</italic> partially restored it (Figure <xref rid="mgg31043-fig-0005" ref-type="fig">5</xref>b). Furthermore, in order to explore whether miR‐191‐5p exerts its effects by decreasing <italic toggle="yes">SATB1</italic>, a rescue experiment was carried out. The experimental results confirmed that the migration and proliferation abilities of A549 and H1650 cells were prominently weakened after an increase in miR‐191‐5p expression. However, the proliferation and migration abilities of cells were partially improved after the expressions of both miR‐191‐5p and <italic toggle="yes">SATB1</italic> were elevated (Figure <xref rid="mgg31043-fig-0005" ref-type="fig">5</xref>c‐e), which indicates that miR‐191‐5p reduces the expression of <italic toggle="yes">SATB1</italic> and inhibits the activation of Wnt/β‐catenin signaling pathway through its target gene <italic toggle="yes">SATB1</italic>.</p><fig fig-type="Figure" xml:lang="en" id="mgg31043-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>miR −191‐5p exerts its effects by decreasing <italic toggle="yes">SATB1.</italic> (a) The expression of β‐catenin is notably increased after upregulation of <italic toggle="yes">SATB1</italic> in cells. (b) The expression of β‐catenin is markedly reduced after overexpression of miR‐191‐5p in cells, which partially restores the expression of β‐catenin. (c‐e) Upregulation of <italic toggle="yes">SATB1</italic> partially reverses the inhibitory effect of miR‐191‐5p on cell migration and proliferation. *<italic toggle="yes">p</italic> &lt; .05, **<italic toggle="yes">p</italic> &lt; .01</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-11" position="float" orientation="portrait" xlink:href="MGG3-8-e1043-g005.jpg"/></fig></sec><sec id="mgg31043-sec-0026"><label>3.6</label><title>miR‐191‐5p inhibited tumor growth</title><p>The roles of miR‐91‐5p in lung cancer in vivo were discussed by construction of a mouse model of xenograft. Six weeks later, the mice treated with miR‐191‐5p agomir cells formed significantly smaller tumors than those treated with NC, as determined by tumor size and weight (Figure <xref rid="mgg31043-fig-0006" ref-type="fig">6</xref>a‐c). It was also discovered that miR‐191‐5p was over‐expressed in the miR‐191‐5p agomir‐injected tumor sections than NC‐injected tumor sections (Figure <xref rid="mgg31043-fig-0006" ref-type="fig">6</xref>d). Furthermore, to indicate the proliferation of intratumoral cells, immunohistochemical method was used for detecting the expression of intratumoral Ki67, a marker of cell proliferation, in each group. The results indicated that Ki67 positive staining showed brown‐yellow granules, and the number of Ki67‐positive expression cells and their degree of positive staining in tumor tissues were reduced in miR‐191‐5p‐A549‐injected mice, indicating that miR‐191‐5p treatment slows the proliferation of intratumoral cells to some extent (Figure <xref rid="mgg31043-fig-0006" ref-type="fig">6</xref>e,f).</p><fig fig-type="Figure" xml:lang="en" id="mgg31043-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>miR‐191‐5p inhibits tumor growth. (a‐c) Tumor volumes and weights of mice in mir‐191‐5p and NC groups. (d) QRT‐PCR analysis of miR‐191‐5p expression in tissues of resected tumors. (e,f) Typical images of HE staining and immunohistochemical staining of Ki‐67 in mouse tumor tissues. Original magnification: ×100. **<italic toggle="yes">p</italic> &lt; .01, ***<italic toggle="yes">p</italic> &lt; .001</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-13" position="float" orientation="portrait" xlink:href="MGG3-8-e1043-g006.jpg"/></fig></sec></sec><sec sec-type="discussion" id="mgg31043-sec-0027"><label>4</label><title>DISCUSSION</title><p>The implication of miRNAs in tumorigenesis was first recognized when miRNA genes were observed to be specifically deleted in patients with leukemia (Dyrskjot et al., <xref rid="mgg31043-bib-0004" ref-type="ref">2009</xref>). There is increasing evidence that miRNAs are related to tumor aggressiveness and metastatic potential and are considered diagnostic and prognostic markers for multiple cancers, including lung cancer (Dai et al., <xref rid="mgg31043-bib-0001" ref-type="ref">2019</xref>; Dong, Li, &amp; Wang, <xref rid="mgg31043-bib-0003" ref-type="ref">2019</xref>).</p><p>The function of miR‐191‐5p differs among different tumors. According to one study on ovarian cancer, miR‐191‐5p inhibits apoptosis induced by TNF‐α in endometrial carcinoma cells by targeting DAPK1 (Tian, Xu, &amp; Wang, <xref rid="mgg31043-bib-0023" ref-type="ref">2015</xref>). Additionally, miR‐191‐5p could promote the tumorigenesis of colorectal cancer by targeting CCAAT‐enhancer‐binding protein β (Zhang et al., <xref rid="mgg31043-bib-0027" ref-type="ref">2015</xref>). In lung cancer, inhibition of miR‐191 contributes to radiation‐resistance of two lung cancer cell lines by altering autophagy activity (Liu &amp; Huang, <xref rid="mgg31043-bib-0013" ref-type="ref">2015</xref>). However, another study revealed that overexpression of miR‐191 does not lead to an alteration in cell cycle, proliferation, and chemosensitivity of A549 and BEAS‐2B cell lines (Patnaik, Kannisto, &amp; Yendamuri, <xref rid="mgg31043-bib-0016" ref-type="ref">2010</xref>). Meanwhile, it was also found that the expression of miR‐191 was significantly upregulated in NSCLC cells in patients in vivo (Zhang, Ma, Zhang, Huo, &amp; Zhao, <xref rid="mgg31043-bib-0026" ref-type="ref">2017</xref>). Therefore, the effects of miR‑191 in the development of lung cancer are still a subject of debate. It was discovered in this research that miR‐191‐5p was lowly expressed in lung adenocarcinoma and lung cancer cell lines. It has not ever been reported before. The results of experiments in vitro and in vivo revealed that miR‐191‐5p could repress the migration and proliferation of A549/H1650 cells, furtherly, blocked the growth of tumor. Therefore, miR‐191‐5p may act as a tumor suppressor in lung adenocarcinoma cancer.</p><p>In order to further unfold the potential mechanism of action of miR‐191‐5p, the bioinformatics analysis was performed, which revealed that <italic toggle="yes">SATB1</italic> was its potential target gene, which was validated by dual‐luciferase reporter gene assay. <italic toggle="yes">SATB1</italic>, a nuclear matrix‐associated protein, adjusts the expression of multiple genes by functioning in chromatin remodeling mechanisms (Kohwi‐Shigematsu et al., <xref rid="mgg31043-bib-0010" ref-type="ref">2013</xref>; Nodin et al., <xref rid="mgg31043-bib-0015" ref-type="ref">2012</xref>). <italic toggle="yes">SATB1</italic> interacts with the Wnt‐β‐catenin pathway (Gattinoni, Ji, &amp; Restifo, <xref rid="mgg31043-bib-0006" ref-type="ref">2010</xref>) and is also correlated with many types of cancers (Elebro et al., <xref rid="mgg31043-bib-0005" ref-type="ref">2014</xref>; Selinger et al., <xref rid="mgg31043-bib-0022" ref-type="ref">2011</xref>). It is known that Wnt/β‐catenin signaling adjusts numerous cellular processes, including proliferation, invasion and differentiation, by adjusting the ability of the multifunctional β‐catenin protein, which is a vital signaling molecule in the Wnt/β‐catenin pathway (Javed et al., <xref rid="mgg31043-bib-0008" ref-type="ref">2019</xref>; Zhan, Rindtorff, &amp; Boutros, <xref rid="mgg31043-bib-0025" ref-type="ref">2017</xref>).</p><p>In this research, the expression of <italic toggle="yes">SATB1</italic> in lung cancer was assessed, which demonstrated that <italic toggle="yes">SATB1</italic> exhibited a high expression in lung cancer tissues and was negatively related to miR‐191‐5p. In A549 and H1650 cells, <italic toggle="yes">SATB1</italic> could upregulate the expression of β‐catenin, thus activating the Wnt/β‐catenin signaling pathway. Meanwhile, miR‐191‐5p could reduce the β‐catenin expression and the upregulation of <italic toggle="yes">SATB1</italic> could rescue this effect. Functional experiments indicated that upregulating <italic toggle="yes">SATB1</italic> could partially improve the inhibition of miR‐191‐5p on cell migration and proliferation. Combining the above results, we supposed that miR‐191‐5p might repress the <italic toggle="yes">SATB1</italic> expression and then partly inhibited the activation of Wnt/β‐catenin signaling pathway, thus leading to the impairment of cell proliferation and migration.</p></sec><sec sec-type="conclusions" id="mgg31043-sec-0028"><label>5</label><title>CONCLUSION</title><p>To sum up, it was found in this study that miR‐191‐5p could inhibit proliferation and migration of NSCLC cells, and its mechanism was probably to downregulate the <italic toggle="yes">SATB1</italic> expression, thus reducing the expression of β‐catenin, its downstream gene (Figure <xref rid="mgg31043-fig-0007" ref-type="fig">7</xref>). This study might provide a new biomarker for detecting the disease and predicting its prognosis in the early stage as well as a therapeutic target in lung adenocarcinoma.</p><fig fig-type="Figure" xml:lang="en" id="mgg31043-fig-0007" orientation="portrait" position="float"><label>Figure 7</label><caption><p>Graphical abstract of how miR‐191‐5p inhibits lung cancer. A schematic model of miR‐191‐5p/<italic toggle="yes">SATB1</italic>/β‐catenin pathway in lung cancer. miR‐191‐5p reduces the expression of <italic toggle="yes">SATB1</italic> and the level of β‐catenin</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-15" position="float" orientation="portrait" xlink:href="MGG3-8-e1043-g007.jpg"/></fig></sec><sec id="mgg31043-sec-0029"><title>CONFICT OF INTEREST</title><p>None.</p></sec><sec id="mgg31043-sec-0030"><title>AUTHORS CONTRIBUTION</title><p>Fang Liu designed the research. Lai‐yong Zhou and Fu‐wei Zhang performed the experiments. Fang Liu and Jian Tong wrote the draft manuscript. All authors contributed to the writing and reviewing of the manuscript, and approved the final manuscript for submission.</p></sec></body><back><ref-list content-type="cited-references" id="mgg31043-bibl-0001"><title>REFERENCE</title><ref id="mgg31043-bib-0001"><mixed-citation publication-type="journal" id="mgg31043-cit-0001">
+<string-name name-style="western">
+<surname>Dai</surname>, <given-names>F. Q.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>, <given-names>C. R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fan</surname>, <given-names>X. Q.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tan</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>, <given-names>R. T.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Jin</surname>, <given-names>H.</given-names>
+</string-name> (<year>2019</year>). <article-title>miR‐150‐5p Inhibits non‐small‐cell lung cancer metastasis and recurrence by targeting HMGA2 and beta‐catenin signaling</article-title>. <source xml:lang="en">Molecular Therapy Nucleic Acids</source>, <volume>16</volume>, <fpage>675</fpage>–<lpage>685</lpage>. <pub-id pub-id-type="doi">10.1016/j.omtn.2019.04.017</pub-id>
+<pub-id pub-id-type="pmid">31121479</pub-id><pub-id pub-id-type="pmcid">PMC6529773</pub-id></mixed-citation></ref><ref id="mgg31043-bib-0002"><mixed-citation publication-type="journal" id="mgg31043-cit-0002">
+<string-name name-style="western">
+<surname>Díaz‐García</surname>, <given-names>C. V.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Agudo‐López</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pérez</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>López‐Martín</surname>, <given-names>J. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rodríguez‐Peralto</surname>, <given-names>J. L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>de Castro</surname>, <given-names>J.</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>Agulló‐Ortuño</surname>, <given-names>M. T.</given-names>
+</string-name> (<year>2013</year>). <article-title>DICER1, DROSHA and miRNAs in patients with non‐small cell lung cancer: Implications for outcomes and histologic classification</article-title>. <source xml:lang="en">Carcinogenesis</source>, <volume>34</volume>(<issue>5</issue>), <fpage>1031</fpage>–<lpage>1038</lpage>. <pub-id pub-id-type="doi">10.1093/carcin/bgt022</pub-id>
+<pub-id pub-id-type="pmid">23349018</pub-id></mixed-citation></ref><ref id="mgg31043-bib-0003"><mixed-citation publication-type="journal" id="mgg31043-cit-0003">
+<string-name name-style="western">
+<surname>Dong</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>, <given-names>B.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Wang</surname>, <given-names>X.</given-names>
+</string-name> (<year>2019</year>). <article-title>MuicroRNA889 plays a suppressive role in cell proliferation and invasion by directly targeting TAB1 in nonsmall cell lung cancer</article-title>. <source xml:lang="en">Molecular Medicine Reports</source>, <pub-id pub-id-type="doi">10.3892/mmr.2019.10245</pub-id>
+<pub-id pub-id-type="pmid">31115539</pub-id></mixed-citation></ref><ref id="mgg31043-bib-0004"><mixed-citation publication-type="journal" id="mgg31043-cit-0004">
+<string-name name-style="western">
+<surname>Dyrskjot</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ostenfeld</surname>, <given-names>M. S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bramsen</surname>, <given-names>J. B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Silahtaroglu</surname>, <given-names>A. N.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lamy</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ramanathan</surname>, <given-names>R.</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>Orntoft</surname>, <given-names>T. F.</given-names>
+</string-name> (<year>2009</year>). <article-title>Genomic profiling of microRNAs in bladder cancer: miR‐129 is associated with poor outcome and promotes cell death in vitro</article-title>. <source xml:lang="en">Cancer Research</source>, <volume>69</volume>(<issue>11</issue>), <fpage>4851</fpage>–<lpage>4860</lpage>. <pub-id pub-id-type="doi">10.1158/0008-5472.CAN-08-4043</pub-id>
+<pub-id pub-id-type="pmid">19487295</pub-id></mixed-citation></ref><ref id="mgg31043-bib-0005"><mixed-citation publication-type="journal" id="mgg31043-cit-0005">
+<string-name name-style="western">
+<surname>Elebro</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Heby</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gaber</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nodin</surname>, <given-names>B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jonsson</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fristedt</surname>, <given-names>R.</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>Eberhard</surname>, <given-names>J.</given-names>
+</string-name> (<year>2014</year>). <article-title>Prognostic and treatment predictive significance of <italic toggle="yes">SATB1</italic> and SATB2 expression in pancreatic and periampullary adenocarcinoma</article-title>. <source xml:lang="en">Journal of Translational Medicine</source>, <volume>12</volume>, <fpage>289</fpage>
+<pub-id pub-id-type="doi">10.1186/s12967-014-0289-8</pub-id>
+<pub-id pub-id-type="pmid">25323550</pub-id><pub-id pub-id-type="pmcid">PMC4232660</pub-id></mixed-citation></ref><ref id="mgg31043-bib-0006"><mixed-citation publication-type="journal" id="mgg31043-cit-0006">
+<string-name name-style="western">
+<surname>Gattinoni</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ji</surname>, <given-names>Y.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Restifo</surname>, <given-names>N. P.</given-names>
+</string-name> (<year>2010</year>). <article-title>Wnt/beta‐catenin signaling in T‐cell immunity and cancer immunotherapy</article-title>. <source xml:lang="en">Clinical Cancer Research</source>, <volume>16</volume>(<issue>19</issue>), <fpage>4695</fpage>–<lpage>4701</lpage>. <pub-id pub-id-type="doi">10.1158/1078-0432.CCR-10-0356</pub-id>
+<pub-id pub-id-type="pmid">20688898</pub-id><pub-id pub-id-type="pmcid">PMC3393131</pub-id></mixed-citation></ref><ref id="mgg31043-bib-0007"><mixed-citation publication-type="journal" id="mgg31043-cit-0007">
+<string-name name-style="western">
+<surname>Goldstraw</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ball</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jett</surname>, <given-names>J. R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Le Chevalier</surname>, <given-names>T.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lim</surname>, <given-names>E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nicholson</surname>, <given-names>A. G.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Shepherd</surname>, <given-names>F. A.</given-names>
+</string-name> (<year>2011</year>). <article-title>Non‐small‐cell lung cancer</article-title>. <source xml:lang="en">Lancet</source>, <volume>378</volume>(<issue>9804</issue>), <fpage>1727</fpage>–<lpage>1740</lpage>. <pub-id pub-id-type="doi">10.1016/S0140-6736(10)62101-0</pub-id>
+<pub-id pub-id-type="pmid">21565398</pub-id></mixed-citation></ref><ref id="mgg31043-bib-0008"><mixed-citation publication-type="journal" id="mgg31043-cit-0008">
+<string-name name-style="western">
+<surname>Javed</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Muhammad Farooq</surname>, <given-names>H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ullah</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zaheer Iqbal</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Raza</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sadia</surname>, <given-names>H.</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>Cho</surname>, <given-names>W. C.</given-names>
+</string-name> (<year>2019</year>). <article-title>Wnt signaling: A potential therapeutic target in head and neck squamous cell carcinoma</article-title>. <source xml:lang="en">Asian Pacific Journal of Cancer Prevention</source>, <volume>20</volume>(<issue>4</issue>), <fpage>995</fpage>–<lpage>1003</lpage>. <pub-id pub-id-type="doi">10.31557/APJCP.2019.20.4.995</pub-id>
+<pub-id pub-id-type="pmid">31030466</pub-id><pub-id pub-id-type="pmcid">PMC6948882</pub-id></mixed-citation></ref><ref id="mgg31043-bib-0009"><mixed-citation publication-type="journal" id="mgg31043-cit-0009">
+<string-name name-style="western">
+<surname>Jemal</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bray</surname>, <given-names>F.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Center</surname>, <given-names>M. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ferlay</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ward</surname>, <given-names>E.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Forman</surname>, <given-names>D.</given-names>
+</string-name> (<year>2011</year>). <article-title>Global cancer statistics</article-title>. <source xml:lang="en">CA: A Cancer Journal for Clinicians</source>, <volume>61</volume>(<issue>2</issue>), <fpage>69</fpage>–<lpage>90</lpage>. <pub-id pub-id-type="doi">10.3322/caac.20107</pub-id>
+<pub-id pub-id-type="pmid">21296855</pub-id></mixed-citation></ref><ref id="mgg31043-bib-0010"><mixed-citation publication-type="journal" id="mgg31043-cit-0010">
+<string-name name-style="western">
+<surname>Kohwi‐Shigematsu</surname>, <given-names>T.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Poterlowicz</surname>, <given-names>K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ordinario</surname>, <given-names>E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Han</surname>, <given-names>H. J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Botchkarev</surname>, <given-names>V. A.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Kohwi</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2013</year>). <article-title>Genome organizing function of <italic toggle="yes">SATB1</italic> in tumor progression</article-title>. <source xml:lang="en">Seminars in Cancer Biology</source>, <volume>23</volume>(<issue>2</issue>), <fpage>72</fpage>–<lpage>79</lpage>. <pub-id pub-id-type="doi">10.1016/j.semcancer.2012.06.009</pub-id>
+<pub-id pub-id-type="pmid">22771615</pub-id><pub-id pub-id-type="pmcid">PMC4048061</pub-id></mixed-citation></ref><ref id="mgg31043-bib-0011"><mixed-citation publication-type="journal" id="mgg31043-cit-0011">
+<string-name name-style="western">
+<surname>Lau</surname>, <given-names>N. C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lim</surname>, <given-names>L. P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Weinstein</surname>, <given-names>E. G.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Bartel</surname>, <given-names>D. P.</given-names>
+</string-name> (<year>2001</year>). <article-title>An abundant class of tiny RNAs with probable regulatory roles in Caenorhabditis elegans</article-title>. <source xml:lang="en">Science</source>, <volume>294</volume>(<issue>5543</issue>), <fpage>858</fpage>–<lpage>862</lpage>. <pub-id pub-id-type="doi">10.1126/science.1065062</pub-id>
+<pub-id pub-id-type="pmid">11679671</pub-id></mixed-citation></ref><ref id="mgg31043-bib-0012"><mixed-citation publication-type="journal" id="mgg31043-cit-0012">
+<string-name name-style="western">
+<surname>Li</surname>, <given-names>H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhou</surname>, <given-names>Z.‐Q.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>, <given-names>Z.‐R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tong</surname>, <given-names>D.‐N.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guan</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shi</surname>, <given-names>B.‐J.</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>Zhang</surname>, <given-names>Z.‐Y.</given-names>
+</string-name> (<year>2017</year>). <article-title>MicroRNA‐191 acts as a tumor promoter by modulating the TET1‐p53 pathway in intrahepatic cholangiocarcinoma</article-title>. <source xml:lang="en">Hepatology</source>, <volume>66</volume>(<issue>1</issue>), <fpage>136</fpage>–<lpage>151</lpage>. <pub-id pub-id-type="doi">10.1002/hep.29116</pub-id>
+<pub-id pub-id-type="pmid">28194813</pub-id></mixed-citation></ref><ref id="mgg31043-bib-0013"><mixed-citation publication-type="journal" id="mgg31043-cit-0013">
+<string-name name-style="western">
+<surname>Liu</surname>, <given-names>Z.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Huang</surname>, <given-names>S.</given-names>
+</string-name> (<year>2015</year>). <article-title>Inhibition of miR‐191 contributes to radiation‐resistance of two lung cancer cell lines by altering autophagy activity</article-title>. <source xml:lang="en">Cancer Cell International</source>, <volume>15</volume>(<issue>1</issue>), <fpage>16</fpage>
+<pub-id pub-id-type="doi">10.1186/s12935-015-0165-5</pub-id>
+<pub-id pub-id-type="pmid">25685068</pub-id><pub-id pub-id-type="pmcid">PMC4326374</pub-id></mixed-citation></ref><ref id="mgg31043-bib-0014"><mixed-citation publication-type="journal" id="mgg31043-cit-0014">
+<string-name name-style="western">
+<surname>Mar‐Aguilar</surname>, <given-names>F.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Luna‐Aguirre</surname>, <given-names>C. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Moreno‐Rocha</surname>, <given-names>J. C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Araiza‐Chavez</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Trevino</surname>, <given-names>V.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rodriguez‐Padilla</surname>, <given-names>C.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Resendez‐Perez</surname>, <given-names>D.</given-names>
+</string-name> (<year>2013</year>). <article-title>Differential expression of miR‐21, miR‐125b and miR‐191 in breast cancer tissue</article-title>. <source xml:lang="en">Asia‐Pacific Journal of Clinical Oncology</source>, <volume>9</volume>(<issue>1</issue>), <fpage>53</fpage>–<lpage>59</lpage>. <pub-id pub-id-type="doi">10.1111/j.1743-7563.2012.01548.x</pub-id>
+<pub-id pub-id-type="pmid">22898264</pub-id></mixed-citation></ref><ref id="mgg31043-bib-0015"><mixed-citation publication-type="journal" id="mgg31043-cit-0015">
+<string-name name-style="western">
+<surname>Nodin</surname>, <given-names>B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Johannesson</surname>, <given-names>H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wangefjord</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>O’Connor</surname>, <given-names>D. P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lindquist</surname>, <given-names>K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Uhlén</surname>, <given-names>M.</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>Eberhard</surname>, <given-names>J.</given-names>
+</string-name> (<year>2012</year>). <article-title>Molecular correlates and prognostic significance of <italic toggle="yes">SATB1</italic> expression in colorectal cancer</article-title>. <source xml:lang="en">Diagn Pathol</source>, <volume>7</volume>, <fpage>115</fpage>
+<pub-id pub-id-type="doi">10.1186/1746-1596-7-115</pub-id>
+<pub-id pub-id-type="pmid">22935204</pub-id><pub-id pub-id-type="pmcid">PMC3523011</pub-id></mixed-citation></ref><ref id="mgg31043-bib-0016"><mixed-citation publication-type="journal" id="mgg31043-cit-0016">
+<string-name name-style="western">
+<surname>Patnaik</surname>, <given-names>S. K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kannisto</surname>, <given-names>E.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Yendamuri</surname>, <given-names>S.</given-names>
+</string-name> (<year>2010</year>). <article-title>Overexpression of microRNA miR‐30a or miR‐191 in A549 lung cancer or BEAS‐2B normal lung cell lines does not alter phenotype</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>5</volume>(<issue>2</issue>), <elocation-id>e9219</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0009219</pub-id>
+<pub-id pub-id-type="pmid">20169152</pub-id><pub-id pub-id-type="pmcid">PMC2821397</pub-id></mixed-citation></ref><ref id="mgg31043-bib-0017"><mixed-citation publication-type="journal" id="mgg31043-cit-0017">
+<collab collab-type="authors">Peters, S., Adjei, A. A., Gridelli, C., Reck, M., Kerr, K., Felip, E., &amp; Group, E. G. W</collab>
+(<year>2012</year>). <article-title>Metastatic non‐small‐cell lung cancer (NSCLC): ESMO clinical practice guidelines for diagnosis, treatment and follow‐up</article-title>. <source xml:lang="en">Ann Oncol, 23 Suppl</source>, <volume>7</volume>, <fpage>vii56‐64</fpage>
+<pub-id pub-id-type="doi">10.1093/annonc/mds226</pub-id>
+<pub-id pub-id-type="pmid">22997455</pub-id></mixed-citation></ref><ref id="mgg31043-bib-0018"><mixed-citation publication-type="journal" id="mgg31043-cit-0018">
+<string-name name-style="western">
+<surname>Pfeffer</surname>, <given-names>S. R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>, <given-names>C. H.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Pfeffer</surname>, <given-names>L. M.</given-names>
+</string-name> (<year>2015</year>). <article-title>The role of miR‐21 in Cancer</article-title>. <source xml:lang="en">Drug Development Research</source>, <volume>76</volume>(<issue>6</issue>), <fpage>270</fpage>–<lpage>277</lpage>. <pub-id pub-id-type="doi">10.1002/ddr.21257</pub-id>
+<pub-id pub-id-type="pmid">26082192</pub-id></mixed-citation></ref><ref id="mgg31043-bib-0019"><mixed-citation publication-type="journal" id="mgg31043-cit-0019">
+<string-name name-style="western">
+<surname>Puisségur</surname>, <given-names>M.‐P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mazure</surname>, <given-names>N. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bertero</surname>, <given-names>T.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pradelli</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Grosso</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Robbe‐Sermesant</surname>, <given-names>K.</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>Mari</surname>, <given-names>B.</given-names>
+</string-name> (<year>2011</year>). <article-title>miR‐210 is overexpressed in late stages of lung cancer and mediates mitochondrial alterations associated with modulation of HIF‐1 activity</article-title>. <source xml:lang="en">Cell Death and Differentiation</source>, <volume>18</volume>(<issue>3</issue>), <fpage>465</fpage>–<lpage>478</lpage>. <pub-id pub-id-type="doi">10.1038/cdd.2010.119</pub-id>
+<pub-id pub-id-type="pmid">20885442</pub-id><pub-id pub-id-type="pmcid">PMC3131992</pub-id></mixed-citation></ref><ref id="mgg31043-bib-0020"><mixed-citation publication-type="journal" id="mgg31043-cit-0020">
+<string-name name-style="western">
+<surname>Rosell</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bivona</surname>, <given-names>T. G.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Karachaliou</surname>, <given-names>N.</given-names>
+</string-name> (<year>2013</year>). <article-title>Genetics and biomarkers in personalisation of lung cancer treatment</article-title>. <source xml:lang="en">Lancet</source>, <volume>382</volume>(<issue>9893</issue>), <fpage>720</fpage>–<lpage>731</lpage>. <pub-id pub-id-type="doi">10.1016/S0140-6736(13)61715-8</pub-id>
+<pub-id pub-id-type="pmid">23972815</pub-id></mixed-citation></ref><ref id="mgg31043-bib-0021"><mixed-citation publication-type="journal" id="mgg31043-cit-0021">
+<string-name name-style="western">
+<surname>Rupaimoole</surname>, <given-names>R.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Slack</surname>, <given-names>F. J.</given-names>
+</string-name> (<year>2017</year>). <article-title>MicroRNA therapeutics: Towards a new era for the management of cancer and other diseases</article-title>. <source xml:lang="en">Nat Rev Drug Discov</source>, <volume>16</volume>(<issue>3</issue>), <fpage>203</fpage>–<lpage>222</lpage>. <pub-id pub-id-type="doi">10.1038/nrd.2016.246</pub-id>
+<pub-id pub-id-type="pmid">28209991</pub-id></mixed-citation></ref><ref id="mgg31043-bib-0022"><mixed-citation publication-type="journal" id="mgg31043-cit-0022">
+<string-name name-style="western">
+<surname>Selinger</surname>, <given-names>C. I.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cooper</surname>, <given-names>W. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Al‐Sohaily</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mladenova</surname>, <given-names>D. N.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pangon</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kennedy</surname>, <given-names>C. W.</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>Kohonen‐Corish</surname>, <given-names>M. R. J.</given-names>
+</string-name> (<year>2011</year>). <article-title>Loss of special AT‐rich binding protein 1 expression is a marker of poor survival in lung cancer</article-title>. <source xml:lang="en">Journal of Thoracic Oncology</source>, <volume>6</volume>(<issue>7</issue>), <fpage>1179</fpage>–<lpage>1189</lpage>. <pub-id pub-id-type="doi">10.1097/JTO.0b013e31821b4ce0</pub-id>
+<pub-id pub-id-type="pmid">21597389</pub-id></mixed-citation></ref><ref id="mgg31043-bib-0023"><mixed-citation publication-type="journal" id="mgg31043-cit-0023">
+<string-name name-style="western">
+<surname>Tian</surname>, <given-names>X.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>, <given-names>L.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Wang</surname>, <given-names>P.</given-names>
+</string-name> (<year>2015</year>). <article-title>MiR‐191 inhibits TNF‐alpha induced apoptosis of ovarian endometriosis and endometrioid carcinoma cells by targeting DAPK1</article-title>. <source xml:lang="en">International Journal of Clinical and Experimental Pathology</source>, <volume>8</volume>(<issue>5</issue>), <fpage>4933</fpage>–<lpage>4942</lpage>. Retrieved from <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/26191186">https://www.ncbi.nlm.nih.gov/pubmed/26191186</ext-link>.<pub-id pub-id-type="pmid">26191186</pub-id><pub-id pub-id-type="pmcid">PMC4503058</pub-id></mixed-citation></ref><ref id="mgg31043-bib-0024"><mixed-citation publication-type="journal" id="mgg31043-cit-0024">
+<string-name name-style="western">
+<surname>Wei</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tian</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Song</surname>, <given-names>X.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>, <given-names>B.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Liu</surname>, <given-names>L.</given-names>
+</string-name> (<year>2018</year>). <article-title>Causes of death and competing risk analysis of the associated factors for non‐small cell lung cancer using the Surveillance, Epidemiology, and End Results database</article-title>. <source xml:lang="en">Journal of Cancer Research and Clinical Oncology</source>, <volume>144</volume>(<issue>1</issue>), <fpage>145</fpage>–<lpage>155</lpage>. <pub-id pub-id-type="doi">10.1007/s00432-017-2522-3</pub-id>
+<pub-id pub-id-type="pmid">28980067</pub-id><pub-id pub-id-type="pmcid">PMC11813534</pub-id></mixed-citation></ref><ref id="mgg31043-bib-0025"><mixed-citation publication-type="journal" id="mgg31043-cit-0025">
+<string-name name-style="western">
+<surname>Zhan</surname>, <given-names>T.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rindtorff</surname>, <given-names>N.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Boutros</surname>, <given-names>M.</given-names>
+</string-name> (<year>2017</year>). <article-title>Wnt signaling in cancer</article-title>. <source xml:lang="en">Oncogene</source>, <volume>36</volume>(<issue>11</issue>), <fpage>1461</fpage>–<lpage>1473</lpage>. <pub-id pub-id-type="doi">10.1038/onc.2016.304</pub-id>
+<pub-id pub-id-type="pmid">27617575</pub-id><pub-id pub-id-type="pmcid">PMC5357762</pub-id></mixed-citation></ref><ref id="mgg31043-bib-0026"><mixed-citation publication-type="journal" id="mgg31043-cit-0026">
+<string-name name-style="western">
+<surname>Zhang</surname>, <given-names>T.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ma</surname>, <given-names>G.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huo</surname>, <given-names>H.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Zhao</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2017</year>). <article-title>miR‐599 inhibits proliferation and invasion of glioma by targeting periostin</article-title>. <source xml:lang="en">Biotechnology Letters</source>, <volume>39</volume>(<issue>9</issue>), <fpage>1325</fpage>–<lpage>1333</lpage>. <pub-id pub-id-type="doi">10.1007/s10529-017-2365-7</pub-id>
+<pub-id pub-id-type="pmid">28597372</pub-id></mixed-citation></ref><ref id="mgg31043-bib-0027"><mixed-citation publication-type="journal" id="mgg31043-cit-0027">
+<string-name name-style="western">
+<surname>Zhang</surname>, <given-names>X. F.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>, <given-names>K. K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gao</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>, <given-names>S. Z.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>, <given-names>K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>, <given-names>J. B.</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>Zhang</surname>, <given-names>X. D.</given-names>
+</string-name> (<year>2015</year>). <article-title>miR‐191 promotes tumorigenesis of human colorectal cancer through targeting C/EBPbeta</article-title>. <source xml:lang="en">Oncotarget</source>, <volume>6</volume>(<issue>6</issue>), <fpage>4144</fpage>–<lpage>4158</lpage>. <pub-id pub-id-type="doi">10.18632/oncotarget.2864</pub-id>
+<pub-id pub-id-type="pmid">25784653</pub-id><pub-id pub-id-type="pmcid">PMC4414178</pub-id></mixed-citation></ref></ref-list></back></article>

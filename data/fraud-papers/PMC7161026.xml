@@ -1,0 +1,678 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article article-type="research-article" xml:lang="EN" dtd-version="1.4"><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Omega</journal-id><journal-id journal-id-type="iso-abbrev">ACS Omega</journal-id><journal-id journal-id-type="pmc-domain-id">3686</journal-id><journal-id journal-id-type="pmc-domain">acsomega</journal-id><journal-id journal-id-type="nlm-id">101691658</journal-id><journal-id journal-id-type="publisher-id">ao</journal-id><journal-title-group><journal-title>ACS Omega</journal-title></journal-title-group><issn pub-type="epub">2470-1343</issn><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC7161026</article-id><article-id pub-id-type="pmcid-ver">PMC7161026.1</article-id><article-id pub-id-type="pmcaid">7161026</article-id><article-id pub-id-type="pmcaiid">7161026</article-id><article-id pub-id-type="pmid">32309723</article-id><article-id pub-id-type="doi">10.1021/acsomega.0c00376</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group><subject>Article</subject></subj-group></article-categories><title-group><article-title>Thiol-Poly(Sodium Styrene Sulfonate)
+(PolyNaSS-SH) Gold Complexes: From a Chemical Design to a One-Step
+Synthesis of Hybrid Gold Nanoparticles and Their Interaction with
+Human Proteins</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><name name-style="western"><surname>Falentin-Daudré</surname><given-names initials="C">Céline</given-names></name><xref rid="aff1" ref-type="aff">†</xref></contrib><contrib contrib-type="author" id="ath2"><name name-style="western"><surname>Aitouakli</surname><given-names initials="M">Mounia</given-names></name><xref rid="aff1" ref-type="aff">†</xref></contrib><contrib contrib-type="author" id="ath3"><name name-style="western"><surname>Baumann</surname><given-names initials="JS">Jean Sébastien</given-names></name><xref rid="aff1" ref-type="aff">†</xref></contrib><contrib contrib-type="author" id="ath4"><name name-style="western"><surname>Bouchemal</surname><given-names initials="N">Nadia</given-names></name><xref rid="aff1" ref-type="aff">†</xref></contrib><contrib contrib-type="author" id="ath5"><name name-style="western"><surname>Humblot</surname><given-names initials="V">Vincent</given-names></name><xref rid="aff2" ref-type="aff">‡</xref></contrib><contrib contrib-type="author" id="ath6"><name name-style="western"><surname>Migonney</surname><given-names initials="V">Véronique</given-names></name><xref rid="aff1" ref-type="aff">†</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath7"><name name-style="western"><surname>Spadavecchia</surname><given-names initials="J">Jolanda</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">†</xref></contrib><aff id="aff1"><label>†</label>CNRS, UMR 7244,
+NBD-LBPS-CSPBAT, <institution>Laboratoire de Chimie,
+Structures et Propriétés de Biomatériaux et d’Agents
+Thérapeutiques Université Paris 13</institution>, Sorbonne Paris Cité, 93000 Bobigny, <country>France</country></aff><aff id="aff2"><label>‡</label>FEMTO-ST Institute,
+UMR CNRS 6174, <institution>Université Bourgogne
+Franche-Comté</institution>, 15B avenue des Montboucons, 25030 Besançon Cedex, <country>France</country>.</aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Email: <email>jolanda.spadavecchia@univ-paris13.fr</email>.</corresp></author-notes><pub-date pub-type="epub"><day>02</day><month>04</month><year>2020</year></pub-date><pub-date pub-type="collection"><day>14</day><month>04</month><year>2020</year></pub-date><volume>5</volume><issue>14</issue><issue-id pub-id-type="pmc-issue-id">356068</issue-id><fpage>8137</fpage><lpage>8145</lpage><history><date date-type="received"><day>27</day><month>01</month><year>2020</year></date><date date-type="accepted"><day>12</day><month>03</month><year>2020</year></date></history><pub-history><event event-type="pmc-release"><date><day>02</day><month>04</month><year>2020</year></date></event><event event-type="pmc-live"><date><day>17</day><month>04</month><year>2020</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-08-26 21:25:29.157"><day>26</day><month>08</month><year>2025</year></date></event></pub-history><permissions><copyright-statement>Copyright © 2020 American Chemical Society</copyright-statement><copyright-year>2020</copyright-year><copyright-holder>American Chemical Society</copyright-holder><license><license-p>This is an open access article published under an ACS AuthorChoice <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/page/policy/authorchoice_termsofuse.html">License</ext-link>, which permits copying and redistribution of the article or any adaptations for non-commercial purposes.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="ao0c00376.pdf"/><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="correction-forward" xml:lang="en" xlink:title="correction" vol="7" journal-id="ACS Omega" journal-id-type="nlm-ta" ext-link-type="pmc" xlink:href="PMC9280967"><article-title>Correction to “Thiol-Poly(Sodium Styrenesulfonate)
+(PolyNaSS-SH) Gold Complexes: From a Chemical Design to a One-Step
+Synthesis of Hybrid Gold Nanoparticles and Their Interaction with
+Human Proteins”</article-title><volume>7</volume><issue>27</issue><date><day>24</day><month>6</month><year>2022</year></date><fpage>24040</fpage><lpage>24040</lpage><source>ACS Omega</source><pub-id pub-id-type="doi">10.1021/acsomega.2c03513</pub-id><pub-id pub-id-type="pmcid">PMC9280967</pub-id><pub-id pub-id-type="pmid">35847321</pub-id></related-article><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="retraction-forward" xml:lang="en" xlink:title="retraction" vol="10" journal-id="ACS Omega" journal-id-type="nlm-ta" ext-link-type="pmc" xlink:href="PMC12224108"><article-title>Retraction of “Thiol-Poly(Sodium
+Styrene Sulfonate)
+(PolyNaSS-SH) Gold Complexes: From a Chemical Design to a One-Step
+Synthesis of Hybrid Gold Nanoparticles and Their Interaction with
+Human Proteins”</article-title><volume>10</volume><issue>25</issue><date><day>17</day><month>6</month><year>2025</year></date><fpage>27650</fpage><lpage>27650</lpage><source>ACS Omega</source><pub-id pub-id-type="doi">10.1021/acsomega.5c05354</pub-id><pub-id pub-id-type="pmcid">PMC12224108</pub-id><pub-id pub-id-type="pmid">40621028</pub-id></related-article><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="ab-tgr1" position="float" orientation="portrait" xlink:href="ao0c00376_0002.jpg"/></p><p>This study highlights recent advances
+in the synthesis of nanoconjugates
+based on gold (Au(III)) complex with a bioactive polymer bearing sulfonate
+groups called thiol-poly(sodium styrene sulfonate) (PolyNaSS-SH) with
+various molecular weights (5, 10, and 35 kDa). The three nanomaterials
+differ substantially in shape and structure. In particular, for PolyNaSS-SH
+of 35 kDa, we obtained a characteristic core–shell flower shape
+after chelation of the Au(III) ions and successively reduction with
+sodium borohydride (NaBH<sub>4</sub>). The mechanism of formation
+of the hybrid nanoparticles (PolyNaSS-SH@AuNPs (35 kDa) and their
+interactions between plasmatic proteins (human serum albumin (HSA),
+collagen I (Col 1), and fibronectin (Fn)) were deeply studied from
+a chemical and physical point of view by using several analytical
+techniques such as Raman spectroscopy, UV–visible, transmission
+electron microscopy (TEM), <sup>1</sup>H NMR, and X-ray photoelectron
+spectroscopy (XPS).</p></abstract><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>ao0c00376</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>ao0c00376</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><label>1</label><title>Introduction</title><p>Hybrid gold nanomaterials have received more attention in several
+fields due to their (i) strong optical absorption in the visible region,<sup><xref ref-type="bibr" rid="ref1">1</xref></sup> (ii) catalytic properties,<sup><xref ref-type="bibr" rid="ref2">2</xref></sup> and (iii) enhanced sensitivity in surface-enhanced Raman
+scattering (SERS) studies.<sup><xref ref-type="bibr" rid="ref3">3</xref></sup> Despite the
+fact that gold nanoparticles (AuNPs) can be synthesized to assure
+functional properties, potential toxicity cannot be predicted by physicochemical
+properties. There are generally accepted tendencies, for example,
+that on polyhedral NPs, but are more toxic.<sup><xref ref-type="bibr" rid="ref4">4</xref></sup> Modification of the NP surface chemistry by coating
+may modify the effective size of NPs, particularly in case of agglomeration
+and also their biocompatibility.<sup><xref ref-type="bibr" rid="ref5">5</xref></sup> The environmentally
+friendly approach to synthesize AuNPs by using natural macromolecules
+and biopolymers has been attracting growing interest in the last few
+years.<sup><xref ref-type="bibr" rid="ref6">6</xref></sup> Recently, Spadavecchia <italic toggle="yes">et al</italic>. have pioneered a novel simple strategy to synthesize
+and scale-up hybrid nanoparticles based on biomolecules and/or polymer
+gold complex by an experimental approach named “Method IN”
+in which the polymer or biomolecules interact actively with gold salt
+(HAuCl<sub>4</sub>) by chelation bonding.<sup><xref ref-type="bibr" rid="ref7">7</xref></sup> This strategy can be applied to any active chemical group that possesses
+complexation ability, such as carboxylates, phosphonates, and biopolymers.<sup><xref ref-type="bibr" rid="ref8">8</xref>−<xref ref-type="bibr" rid="ref10">10</xref></sup> Among these, poly(sodium styrene
+sulfonate) (PolyNaSS) is considered as a bioactive polymer and was
+extensively demonstrated to enhance and modulate cell behavior and,
+more generally, host response. When grafted on implant surfaces, it
+was shown to substantially improve osteoblast cell adhesion and differentiation
+in vitro and in vivo, making it as an attractive candidate for application
+in regenerative medicine.<sup><xref ref-type="bibr" rid="ref11">11</xref></sup></p><p>The grafting
+of PolyNaSS can be carried out using radical polymerization from the
+surface (under heating<sup><xref ref-type="bibr" rid="ref12">12</xref></sup> and UV irradiation<sup><xref ref-type="bibr" rid="ref13">13</xref>,<xref ref-type="bibr" rid="ref14">14</xref></sup>) or by using reversible addition–fragmentation chain transfer
+(RAFT) polymerization onto titanium (Ti) surfaces.<sup><xref ref-type="bibr" rid="ref15">15</xref>,<xref ref-type="bibr" rid="ref16">16</xref></sup> For
+this purpose, Migonney <italic toggle="yes">et al</italic>. have grafted poly(sodium
+styrene sulfonate) (PolyNaSS) onto titanium surfaces and titanium
+dioxide nanoparticles (TiO<sub>2</sub>NPs) to improve their biological
+activity<sup><xref ref-type="bibr" rid="ref15">15</xref>,<xref ref-type="bibr" rid="ref17">17</xref></sup> In this work, for the first time, a thiol
+derivative of poly(sodium styrene sulfonate) (PolyNaSS-SH) was conjugated
+with AuNPs via the chelation method and investigated for two activities:
+(i) as a reagent precursor in the chemical synthesis and (ii) as a
+stabilizer of the AuNPs. In fact, the PolyNaSS-SH/Au interface of
+the AuNPs enhances the stabilization by steric effects and leads to
+the formation of a colloidal phase. In addition, the study of the
+effect of the PolyNaSS-SH molecular weight was accomplished. Indeed,
+the length of the macromolecular chain of PolyNaSS-SH induces the
+rapid formation of a core–shell flower AuNP, preventing several
+chemical step processes. This original core–shell flower shape
+was tested to check the ability of such nanoparticles to influence
+the protein interaction with the aim to develop them in the biological
+field.<sup><xref ref-type="bibr" rid="ref18">18</xref></sup> The understanding of the modulation
+of protein conformation in the presence of functionalized nanoparticles
+is a key point to target biomedical applications.<sup><xref ref-type="bibr" rid="ref19">19</xref></sup> Indeed, this was reported in the case of the blood compatibility
+of implant materials, which was directly associated with processes
+of serum protein adsorption–desorption on the implant material
+surface.<sup><xref ref-type="bibr" rid="ref20">20</xref></sup> For this purpose, we have investigated
+and characterized the interactions of PolyNaSS-SH@AuNPs (35 kDa) in
+the presence of three human proteins as collagen (Col), fibronectin
+(Fn), and human serum albumin (HSA) present in extracellular matrix
+(ECM) and blood.</p></sec><sec id="sec2"><label>2</label><title>Results
+and Discussion</title><sec id="sec2.1"><label>2.1</label><title>The
+Formation Mechanism of PolyNaSS-SH@AuNPs</title><p>The formation of
+hybrid gold NPs from PolyNaSS-SH included three steps summarized in <xref rid="sch1" ref-type="scheme">Scheme <xref rid="sch1" ref-type="scheme">1</xref></xref>:<list list-type="simple"><list-item><label>(1)</label><p>Formation of a PolyNaSS-SH-AuCl<sub>4</sub><sup>–</sup> mixture by gold salt complexation between
+the terminal
+carboxylate group (−COO<sup>–</sup>) and sulfonate groups
+(SO<sub>3</sub><sup>–</sup>) of PolyNaSS-SH.</p></list-item><list-item><label>(2)</label><p>First reduction of Au(III) ions by
+carboxylic acid-terminated PolyNaSS-SH to form Au clusters.</p></list-item><list-item><label>(3)</label><p>Complete reduction of
+metal ions and growth of hybrid gold nanoparticles (PolyNaSS-SH@AuNPs)
+followed by colloidal stabilization of molecules of PolyNaSS-SH.</p></list-item></list></p><fig id="sch1" position="float" orientation="portrait"><label>Scheme 1</label><caption><title>Schematic PolyNaSS-SH@AuNPs Reaction
+during the Growth Process and Zoom of TEM Images Relative to the Shape
+(Scale Bar, 50 nm)</title><p id="sch1-fn1">Please note that drawings are
+not in scale and are not intended
+to be representative of the full samples composition and stoichiometry.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr6" position="float" orientation="portrait" xlink:href="ao0c00376_0001.jpg"/></fig><p>Attractive ion–dipole interactions
+between AuCl<sub>4</sub><sup>–</sup> ions and a mixture of
+PolyNaSS-SH molecules (<italic toggle="yes">M</italic><sub>n</sub> = 5, 10, and
+35 kDa) play a key role during the competition process on the Au seed
+surface during the NP growth process. Based on previous studies,<sup><xref ref-type="bibr" rid="ref8">8</xref></sup> we assume that, when PolyNaSS-SH was added to
+the AuCl<sub>4</sub><sup>–</sup> solution, the PolyNaSS-SH
+at the molecular weight (<italic toggle="yes">M</italic><sub>n</sub> = 5 or 10
+kDa) was bound to a hybrid complex in a linear conformation followed
+by a chemical-steric change when the molecular weight increased (<italic toggle="yes">M</italic><sub>n</sub> = 35 kDa).</p><p>The main difference with
+previously reported synthetic procedures was that the carboxylic acid
+terminating PolyNaSS-SH (COOH-PolyNaSS-SH) and all the SO<sub>3</sub><sup>–</sup> groups exhibited along the macromolecular chains
+could coordinate Au<sup>3+</sup> and participate to the stabilization
+of AuNPs via electrostatic interactions between the terminal carboxylic
+groups and all the sulfonate groups with chloride auric ions. The
+final reduction by NaBH<sub>4</sub> completes the growth process to
+form PolyNaSS-SH@AuNPs with different shapes and sizes. This hypothesis
+will be explained thanks to the length of macromolecular chains and
+degree of polymerization in which, at <italic toggle="yes">M</italic><sub>n</sub> of 35 kDa (DP<sub>n</sub> = 170), the high number of sulfonate monomer
+units and the chemical competition between COO<sup>–</sup> and
+SO<sub>3</sub><sup>–</sup> in PolyNaSS-SH favored a growth
+on crystallographic facet Au [110] and the formation of core–shell
+of PolyNaSS-SH (35 kDa) onto gold core of nanoparticles (<xref rid="sch1" ref-type="scheme">Scheme <xref rid="sch1" ref-type="scheme">1</xref></xref>). The higher reactivity
+of the PolyNaSS-SH (35 kDa) allowed the formation of a slight cross-linked
+polymer shell embedded on the surface of the AuNPs before the growth
+of linear polymer chains from the shell.<sup><xref ref-type="bibr" rid="ref21">21</xref></sup></p></sec><sec id="sec2.2"><label>2.2</label><title>Comparative Physicochemical
+Characterization of PolyNaSS-SH@AuNPs</title><p>Three molecular weights
+of PolyNaSS were synthesized according to the same protocol.</p><p>RAFT polymerization allowed synthesizing PolyNaSS with a predetermined
+molecular weight (5, 10, and 35 kDa). PolyNaSS macromolecules were
+modified by cleaving the transfer agent to give PolyNaSS-SH. So, the
+thiol-PolyNaSS (PolyNaSS-SH) used in this study was produced following
+a two-step strategy. The first step involved the RAFT polymerization
+of NaSS in solution at 70 °C using 4,4′-azobis(4-cyanovaleric
+acid) (ACVA) as an initiator, 4-cyano-4-(phenylcarbonothioylthio)pentanoic
+acid as a chain transfer agent, and water as a solvent.<sup><xref ref-type="bibr" rid="ref14">14</xref></sup></p><p>The presence of PolyNaSS-SH chains of
+different molecular weights on the AuNPs was demonstrated by using
+Fourier transform infrared (FTIR). The peak’s assignments and
+corresponding positions are given as in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c00376/suppl_file/ao0c00376_si_001.pdf">Table S1 and Figure S2</ext-link>. The successful grafting of PolyNaSS was confirmed
+by typical peaks at 2900–3000, 1350–1460, 870, 1010,
+1038, and 1130 cm<sup>–1</sup>, corresponding to ν(CH)
+stretching, ν(CH) deformation, ν(C–C) stretching,
+ν(O–S–O) stretching, SO<sub>3</sub><sup>–</sup>, and aromatic ring, respectively. The presence of PolyNaSS-SH chains
+of different molecular weights on the AuNPs was also confirmed with<sup><xref ref-type="bibr" rid="ref1">1</xref></sup>H NMR analysis (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c00376/suppl_file/ao0c00376_si_001.pdf">Figure S3</ext-link>). The grafting of each size of the polymer (5, 10, and 35 kDa) onto
+AuNPs was observed by typical peaks of polymers at 7.78–7.23
+(m, 2H); 6.98–6.08 (m, 2H) corresponding to aromatic CH groups;
+and 1.99–1.02 (m, 3H), corresponding to −CH<sub>2</sub> and CH groups to the polymer chain (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c00376/suppl_file/ao0c00376_si_001.pdf">Figures S4 to S9</ext-link> in the Supporting Information). Several characterizations
+were carried out by chromatography analysis to confirm the cleavage
+of the thioester of the PolyNaSS-SH sample whatever its molecular
+weight (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c00376/suppl_file/ao0c00376_si_001.pdf">Figures S10 to S12</ext-link> and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c00376/suppl_file/ao0c00376_si_001.pdf">Table S2</ext-link>). TEM images corresponding to PolyNaSS-SH@AuNPs
+with PolyNaSS-SH at 5 and 10 kDa showed a polydispersity of the nanoparticles
+with an average size of 30 ± 2 nm for PolyNaSS-SH@AuNPs (5 kDa)
+and 35 nm ± 2 nm for PolyNaSS-SH@AuNPs (10 kDa) (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>a1,a2, respectively). At the
+opposite, nanostructures with an original core–shell flower-like
+shape were obtained with PolyNaSS-SH@AuNPs (35 kDa), showing a metal
+core of around 50 ± 2 nm embedded in a shell of polymer of ±20
+nm (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>a3).</p><fig id="fig1" position="float" orientation="portrait"><label>Figure 1</label><caption><p>(1) TEM images of PolyNaSS-SH@AuNPs
+at different molecular weights. (a1) 5, (a2) 10, and (a3) 35 kDa.
+Scale bars, 50 nm. Normalized UV–vis absorption spectra of
+PolyNaSS-SH@AuNPs at different molecular weights (5 kDa, black line;
+10 kDa, red line; 35 kDa, blue line). (2) Raman spectra of the same
+PolyNaSS-SH@AuNPs. Experimental conditions: λ<sub>exc</sub> =
+785 nm; laser power, 20 mW; accumulation time, 180 s.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr1" position="float" orientation="portrait" xlink:href="ao0c00376_0008.jpg"/></fig><p>The synthesis of flower core–shell gold nanostructures has
+been reported under specific experimental conditions (chemical reagents
+and high temperature) or by electrocatalytic methods.<sup><xref ref-type="bibr" rid="ref22">22</xref></sup> The stability of the Au–S bonding could be refined
+by the introduction of multiple thiol-anchoring groups at the polymer
+chain ends and/or shell cross-linking of polymeric micelles encapsulating
+AuNPs. Nevertheless, these methods showed several limitations and
+need a multiple-step organic synthesis.<sup><xref ref-type="bibr" rid="ref23">23</xref></sup> In our case, we demonstrated, for the first time, the possibility
+of the synthesis of flower-shaped Au core/shell nanoparticles by using
+PolyNaSS-SH as a stabilizer and complexing agent in aqueous solution
+and at room temperature. This chemical behavior is due to various
+interactions of PolyNaSS-SH with gold facets [110] based on their
+different degree of polymerization and their steric conformation of
+chemical groups during nucleation and growth process of AuNPs. Contrary
+to previous methods,<sup><xref ref-type="bibr" rid="ref21">21</xref></sup> the gold core was
+protected with a cross-linked polymer shell, inhibiting the dissociation
+of linear polymer brushes from the nanoparticles at room temperature.
+The absorption spectra of PolyNaSS-SH@AuNPs (5, 10, and 35 kDa) were
+characterized by a small peak at 310 nm, assigned to the PolyNaSS-SH
+absorption (5 and 10 kDa), and a surface plasmon band at 541 nm for
+PolyNaSS-SH@AuNPs (5 kDa) (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>, black line) and 546 nm for PolyNaSS-SH@AuNPs (10
+kDa) due to a major degree of polymerization onto gold nanoparticles
+(<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>, red line)
+in which we observed a disappearance of the peak at 310 nm due to
+a different steric conformation of the polymer onto AuNPs. The different
+spectroscopic behavior was observed in the presence of PolyNaSS-SH@AuNPs
+(35 kDa) in which we observed a decrease of the UV–vis spectrum
+intensity (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>, blue line) and a blue shift of around 10 nm of the LPS band (from
+541 to 534 nm). This phenomenon could be ascribed to the change of
+localized refractive index and morphology, indicating that the PolyNaSS-SH
+was differently coordinated to the AuNP surface. It is generally acknowledged
+that the peak intensity and position of the LPS band depend on the
+size and shape of AuNPs.<sup><xref ref-type="bibr" rid="ref8">8</xref></sup> Based on the
+UV–vis spectrum of PolyNaSS-SH@AuNPs, we assumed that such
+a spectroscopic behavior could be associated to the successful functionalization
+of the AuNP surface with PolyNaSS-SH. We assumed that, during the
+synthesis process, there are different collision rates of PolyNaSS-SH-Au
+micelles, which depend on the size of the macromolecular chains (<italic toggle="yes">M</italic><sub>n</sub> from 5 to 35 kDa). This effect is responsible
+of the variation of the NPs’ final shape due to a probable
+deposition of PolyNaSS-SH molecules onto Au facet [110]. Moreover,
+it is noteworthy that PolyNaSS-SH can be used as a stabilizing polymer
+for AuNPs due to the formation of coordination bands between the Au
+ions and the sulfonate and carboxylic groups of PolyNaSS-SH. This
+chelation provokes a better dispersion of the Au ions, which are more
+easily reduced to form single AuNPs of relatively uniform size. This
+behavior is associated to π–π* electronic transitions
+due to the interactions between the aromatic ring and AuCl<sub>4</sub><sup>–</sup> ions, giving clear evidence of the complex formation.<sup><xref ref-type="bibr" rid="ref7">7</xref></sup> In addition, the color bright pink violet of
+both nanoparticles and the UV–vis spectra remain unaltered
+after storage for more than 6 months at room temperature, suggesting
+the formation of stable particle suspension (test stability, see <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c00376/suppl_file/ao0c00376_si_001.pdf">Figure S1</ext-link>). DLS and zeta potential measurements
+show that PolyNaSS-SH@AuNPs were colloidally stable at physiological
+pH (ζ-potential = −25 ± 1 mV; ζ-potential
+= −27 ± 1 mV and – 30 ± 1 mV with PdI = 0.3)
+regardless of the molecular weights of 5, 10, or 35 kDa (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c00376/suppl_file/ao0c00376_si_001.pdf">Figure S13</ext-link> in the Supporting Information). This
+stability was enhanced with the presence of the PolyNaSS coating.
+The steric arrangement of PolyNaSS-SH during the synthetic process
+of gold nanoparticles was confirmed by Raman spectroscopic analysis
+(<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>). In detail,
+Raman spectra of PolyNaSS-SH@AuNPs exhibited several bands in the
+region of 200–1500 cm<sup>–1</sup> (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>-2). PolyNaSS-SH@AuNPs (5 kDa; <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>-2, black line) showed
+only a few bands at 796 and 623 cm<sup>–1</sup> due to C–H
+plane deformation and a broadened peak at 452 cm<sup>–1</sup> assigned to the vibrations δ (OH···O) and ν
+(OH···O) of the PolyNaSS-SH in aqueous solution. These
+bands were due to variation of the steric conformation of the PolyNaSS-SH
+and became more prominent upon complexation with AuCl<sub>2</sub><sup>–</sup>.</p><p>In fact, when C=O and hydroxyl groups
+of PolyNaSS-SH interact with a metal, the sterical conformation became
+more tilted with respect to the planar one. Indeed, in the case of
+PolyNaSS-SH@AuNPs (10 kDa (<italic toggle="yes">n</italic> = 48); <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>-2, red line), a new peak appeared
+at 232 cm<sup>–1</sup>, confirming a plane active deformation
+of the polymer. The gold chloride stretches ν (Au–Cl)
+and δ (O–Au–O), corroborating the formation of
+a complex between the AuCl<sub>2</sub><sup>–</sup> and COOH
+group of PolyNaSS-SH in the solution. Improving the number of polymerization,
+from <italic toggle="yes">n</italic> = 48 (10 kDa) to 170 (35 kDa), we observed
+an SERS effect and apportioned a double peak at 348–278 cm<sup>–1</sup>due to a different steric arrangement and complexation
+of PolyNaSS with AuCl<sub>4</sub><sup>–</sup> (PolyNaSS-SH@AuNPs
+(35 kDa); <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>-2,
+blue line). Based on the previous studies,<sup><xref ref-type="bibr" rid="ref7">7</xref></sup> we assumed that Au<sup>3+</sup> ions promoted the deprotonation
+of the carboxylic group.</p><sec id="sec2.2.1"><label>2.2.1</label><title>XPS Characterization
+of the PolyNaSS-SH Powder and PolyNaSS-SH@AuNPs</title><p>The first
+set of data presents the spectra acquired for the powder.
+One can see on the survey spectrum in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>(1) the presence of all features expected
+for the PolyNaSS-SH compound, namely, carbon (C 1s @ 285 eV), oxygen
+(O 1s @ 530 eV), sulfur (S 2p @ 170 eV), and the sodium counterion
+(Na 1s @ 1080 eV). Apart from qualitative analyses, XPS data can also
+be used for quantitative analyses. However, due to the high degree
+of polymerization (<italic toggle="yes">M</italic><sub>n</sub> = 35 kDa), only
+data from the polymeric part could be analyzed. <xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref>A summarizes the different atomic percentages
+obtained from XPS compared to the theoretical ones. Both sets of data
+are rather in good agreement, except for a slight overexpression of
+the carbon atomic percentage, which is usually observed when analyzing
+powder deposited on indium foil as it was the case here. Experimental
+O 1s and S 2p percentages were rather closed to the theoretical expected
+ones with nonetheless a huge difference for the Na 1s. This last point
+is observed quite often and could be explained by the fact that the
+complexation of the counterion in the PolyNaSS-SH molecule was not
+followed until the equilibrium and/or went away after the different
+rinsing procedures.<sup><xref ref-type="bibr" rid="ref24">24</xref></sup> When looking at the
+ratio S 2p/O 1s, the theoretical one is 0.33, while the calculated
+ratio is 0.21, as shown in <xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref>.</p><fig id="fig2" position="float" orientation="portrait"><label>Figure 2</label><caption><p>XPS survey
+spectra for (1) PolyNaSS-SH 35 kDa powder and (2) PolyNaSS-SH@AuNPs
+(35 kDa).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr2" position="float" orientation="portrait" xlink:href="ao0c00376_0007.jpg"/></fig><table-wrap id="tbl1" position="float" orientation="portrait"><label>Table 1</label><caption><title>(A) Atomic Percentages
+for both the PolyNaSS-SH Powder and PolyNaSS-SH@AuNPs. (B) O 1s Atomic
+Percentages for both the PolyNaSS-SH Powder and PolyNaSS-SH@AuNPs</title></caption><table frame="hsides" rules="groups" border="0"><colgroup span="1"><col align="left" span="1"/><col align="left" span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="left" span="1"/></colgroup><thead><tr><th style="border:none;" align="center" colspan="1" rowspan="1">A</th><th style="border:none;" align="center" colspan="1" rowspan="1">condition</th><th style="border:none;" align="center" char="." colspan="1" rowspan="1">C 1s (%)</th><th style="border:none;" align="center" char="." colspan="1" rowspan="1">O 1s (%)</th><th style="border:none;" align="center" char="." colspan="1" rowspan="1">S 2p (%)</th><th style="border:none;" align="center" char="." colspan="1" rowspan="1">Na 1s
+(%)</th><th style="border:none;" align="center" colspan="1" rowspan="1">Au 4f</th></tr></thead><tbody><tr><td style="border:none;" align="left" colspan="1" rowspan="1">PolyNaSS-SH Powder 35 kDa</td><td style="border:none;" align="left" colspan="1" rowspan="1">theoretical</td><td style="border:none;" align="char" char="." colspan="1" rowspan="1">61.5</td><td style="border:none;" align="char" char="." colspan="1" rowspan="1">23.1</td><td style="border:none;" align="char" char="." colspan="1" rowspan="1">7.7</td><td style="border:none;" align="char" char="." colspan="1" rowspan="1">7.7</td><td style="border:none;" align="left" colspan="1" rowspan="1"> </td></tr><tr><td style="border:none;" align="left" colspan="1" rowspan="1"> </td><td style="border:none;" align="left" colspan="1" rowspan="1">experimental</td><td style="border:none;" align="char" char="." colspan="1" rowspan="1">68.7</td><td style="border:none;" align="char" char="." colspan="1" rowspan="1">23.65</td><td style="border:none;" align="char" char="." colspan="1" rowspan="1">5.0</td><td style="border:none;" align="char" char="." colspan="1" rowspan="1">2.65</td><td style="border:none;" align="left" colspan="1" rowspan="1"> </td></tr><tr><td style="border:none;" align="left" colspan="1" rowspan="1">PolyNaSS-SH@AuNPs (35 kDa)</td><td style="border:none;" align="left" colspan="1" rowspan="1">theoretical</td><td style="border:none;" align="char" char="." colspan="1" rowspan="1">61.5</td><td style="border:none;" align="char" char="." colspan="1" rowspan="1">23.1</td><td style="border:none;" align="char" char="." colspan="1" rowspan="1">7.7</td><td style="border:none;" align="char" char="." colspan="1" rowspan="1">7.7</td><td style="border:none;" align="left" colspan="1" rowspan="1">N/A</td></tr><tr><td style="border:none;" align="left" colspan="1" rowspan="1"> </td><td style="border:none;" align="left" colspan="1" rowspan="1">experimental</td><td style="border:none;" align="char" char="." colspan="1" rowspan="1">66.55</td><td style="border:none;" align="char" char="." colspan="1" rowspan="1">22.4</td><td style="border:none;" align="char" char="." colspan="1" rowspan="1">4.3</td><td style="border:none;" align="char" char="." colspan="1" rowspan="1">6.55</td><td style="border:none;" align="left" colspan="1" rowspan="1">0.2</td></tr></tbody></table><table frame="hsides" rules="groups" border="0"><colgroup span="1"><col span="1"/><col span="1"/><col span="1"/><col span="1"/></colgroup><thead><tr><th style="border:none;" align="center" colspan="1" rowspan="1">B</th><th colspan="3" align="center" rowspan="1">O 1s (%)</th></tr></thead><tbody><tr><td style="border:none;" colspan="1" rowspan="1">BE</td><td style="border:none;" colspan="1" rowspan="1">535.8</td><td style="border:none;" colspan="1" rowspan="1">533.3</td><td style="border:none;" colspan="1" rowspan="1">531.6</td></tr><tr><td style="border:none;" colspan="1" rowspan="1">PolyNaSS-SH Powder 35 kDa</td><td style="border:none;" colspan="1" rowspan="1">1.12</td><td style="border:none;" colspan="1" rowspan="1">5.7</td><td style="border:none;" colspan="1" rowspan="1">16.6</td></tr><tr><td style="border:none;" colspan="1" rowspan="1">PolyNaSS-SH@AuNPs (35 kDa)</td><td style="border:none;" colspan="1" rowspan="1">2.0</td><td style="border:none;" colspan="1" rowspan="1">2.1</td><td style="border:none;" colspan="1" rowspan="1">18.9</td></tr></tbody></table></table-wrap><p>However, when looking at the different contributions
+used for the decomposition of the whole O 1s signal, one should take
+into account that only the low binding energy component at 531.4 eV
+(<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>) is assigned
+to the SO<sub>3</sub><sup>–</sup> moiety. Therefore, <xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref>B shows the percentage
+of the three O 1s components, and the ratio S 2p/O 1s<sub>531.4eV</sub> is 0.30, which correlates very well with the theoretical/expected
+one. The second set of experiments was performed on the gold nanoparticles
+synthesized using PolyNaSS-SH powder as a stabilizing agent. The survey
+spectrum is shown in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>(2) where one can see an additional feature at 84.0 eV corresponding
+to the Au 4f signal, together with the previous signal of PolyNaSS-SH
+observed previously in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>(1). Again, all experimental atomic percentages are shown
+in <xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref> and fit
+correctly with the expected theoretical values for PolyNaSS-SH. One
+can note the very small amount of gold detected, only 0.2%, but is
+explained again by the thickness of the outer shell of PolyNaSS-SH
+of the highest molecular weight. The S 2p/O 1s 531.4 eV ratio is even
+lower than the theoretical one of 0.22 in the case of PolyNaSS-SH-AuNPs,
+which could be due to an excess of an aqueous solvent when drying
+the AuNP solution for the XPS analyses. Finally, when looking more
+specifically to the Au 4f region in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>(3), one can see the presence of two sets
+of doubles, one centered at 84.0 eV for the Au 4f<sub>7/2</sub> (86.8%)
+assigned to metallic gold (Au<sup>0</sup>) and a second one at around
+86.0 eV (13.2%) assigned to Au<sup>3+</sup>. This result suggests
+that the reaction was not the total and that a small portion of ionic
+gold remained in the solution. It also confirmed by the presence of
+some Cl 2p signal at 200 eV (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>-2).</p><fig id="fig3" position="float" orientation="portrait"><label>Figure 3</label><caption><p>XPS O 1s high-resolution region spectra for
+(1) PolyNaSS-SH
+powder 35 kDa, (2) PolyNaSS-SH@AuNPs (35 kDa), and (3) XPS Au 4f high-resolution
+region spectrum for PolyNaSS-SH@AuNPs (35 kDa).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr3" position="float" orientation="portrait" xlink:href="ao0c00376_0006.jpg"/></fig></sec></sec><sec id="sec2.3"><label>2.3</label><title>Interactions of PolyNaSS-SH@AuNPs
+(35 kDa) with Human Proteins</title><p>Migonney <italic toggle="yes">et al</italic>. established that the distribution
+of the anionic groups along the macromolecular chains of PolyNaSS
+creates active sites, which can specifically interact with the extracellular
+matrix proteins (ECM) such as fibronectin (Fn) and collagen I (Col
+1) that are implicated in the cell response.<sup><xref ref-type="bibr" rid="ref12">12</xref>,<xref ref-type="bibr" rid="ref20">20</xref></sup> The
+mechanism at the origin of these activities comes from the presence
+of the sulfonate groups of PolyNaSS, which allows the mimicking of
+glycosaminoglycane and modulating protein adsorption.<sup><xref ref-type="bibr" rid="ref20">20</xref></sup> Here, we realized a preliminary study of the interaction
+between plasmatic proteins such as human serum albumin (HSA), Col
+1, and Fn with PolyNaSS-SH@AuNPs (35 kDa) (<xref rid="sch2" ref-type="scheme">Scheme <xref rid="sch2" ref-type="scheme">2</xref></xref>) by using UV–vis absorption and Raman
+spectroscopy (pH = 7.2, 20 °C, and 37 °C). All proteins
+were observed to adsorb onto PolyNaSS-SH-AuNPs (35 kDa) through van
+der Waals and electrostatic interactions. The time of corona formation
+was estimated at 24 h, and the protein concentration was around 1
+μM.</p><fig id="sch2" position="float" orientation="portrait"><label>Scheme 2</label><caption><title>Schematic Representation of the Interactions between
+the PolyNaSS-SH@AuNP (35 kDa) Flower core–shell and Human Proteins
+at Temperatures of 20 and 37 °C Conditions</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr7" position="float" orientation="portrait" xlink:href="ao0c00376_0003.jpg"/></fig><sec id="sec2.3.1"><label>2.3.1</label><title>Col 1 Adsorption</title><p>Col is an abundant
+natural protein with several applications in
+medicine mainly as a scaffold for tissue engineering applications.<sup><xref ref-type="bibr" rid="ref25">25</xref></sup><xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>A shows a localized plasmonic band (LPB) of PolyNaSS-SH@AuNPs
+(35 kDa) before and after Col adsorption at room temperature (RT)
+(20 °C). The observed decrease in the plasmonic band against
+Col concentration was attributed to the adsorption process of Col
+onto AuNPs at RT. This was confirmed by the Raman spectra (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>A1) in which we can
+observe a disappearance of the peak at 886 cm<sup>–1</sup> due
+to ν (C–C) (<sc>d</sc>-(+)-galactosamine) and the appearance
+of the peak at 1121 cm<sup>–1</sup>due to the C–H bending
+of proteins.<sup><xref ref-type="bibr" rid="ref26">26</xref></sup></p><fig id="fig4" position="float" orientation="portrait"><label>Figure 4</label><caption><p>(A, B) Normalized
+UV–vis
+absorption spectra of PolyNaSS-SH@AuNPs (35 kDa) before (purple line)
+and after interaction of collagen (Col I) (1 μM) (green cyan
+line) at (A) 20 and (B) 37 °C. (A1, B1) Raman spectra of PolyNaSS-SH@AuNPs
+before (purple line) and after interaction of collagen (Col) (1 μM)
+(green cyan line) at (A1) 20 and (B1) 37 °C PolyNaSS-SH (35KDa,
+black line) and Col I free (green line) was added as control. Experimental
+conditions: λ<sub>exc</sub> = 785 nm; laser power, 20 mW; accumulation
+time, 180 s.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr4" position="float" orientation="portrait" xlink:href="ao0c00376_0005.jpg"/></fig><p>The adsorption of
+Col onto PolyNaSS-SH@AuNPs (35 kDa) at 37 °C showed a similar
+behavior of the LPB band at 1 μM concentration (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>B). The major difference was
+observed in Raman spectra in which, at 1 μM collagen, a strong
+spectral modification appeared due to the peaks at 264, 324, 453,
+and 613 cm<sup>–1</sup> attributed to the vibrations δ(OH···O),
+ν(OH···O), ν<sub>4</sub> (δ) PO<sub>4</sub><sup>3–</sup>, and ν<sub>2</sub> (δ) PO<sub>4</sub><sup>3–</sup> doubly degenerate in-plane bending vibrations.
+The appearance of a double peak at 990–1030 cm<sup>–1</sup> and a peak at 1453 cm<sup>–1</sup> confirms a change of conformation
+of the protein onto PolyNaSS-SH@AuNPs (35 kDa) due to CH<sub>2</sub> deformation, carbohydrate phosphate, and phenylalanine ring breathing<sup><xref ref-type="bibr" rid="ref26">26</xref></sup> (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>B1). When comparing the collagen interaction in the presence
+of PolyNaSS-SH@AuNPs (5 kDa), we observed an identical spectroscopic
+behavior at the two T conditions (20 and 37 °C) (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c00376/suppl_file/ao0c00376_si_001.pdf">Figure S14</ext-link>A-A1,B-B1). After Col adsorption, the Raman spectroscopy
+displayed the appearances of novel peaks at 327, 445, and 620 cm<sup>–1</sup> due to the vibrations δ(OH···O),
+ν(OH···O), ν<sub>4</sub> (δ) PO<sub>4</sub><sup>3–</sup>, and ν<sub>2</sub> (δ) PO<sub>4</sub><sup>3–</sup> and a double peak at 1034–996
+cm<sup>–1</sup> due to CH<sub>2</sub> deformation. This demonstrates
+the difference of Col conformation when adsorbed on PolyNaSS-SH@AuNPs
+(35 kDa) compared to PolyNaSS-SH@AuNPs (5 kDa).</p></sec><sec id="sec2.3.2"><label>2.3.2</label><title>HSA Adsorption</title><p>In
+the case of HSA,<sup><xref ref-type="bibr" rid="ref18">18</xref></sup> the LPB band at room
+temperature showed a decrease of the absorption intensity from 530
+to 545 nm for 1 μM concentration with a decrease of the peak
+at 310 nm, confirming the partial interaction of the protein with
+the NPs (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c00376/suppl_file/ao0c00376_si_001.pdf">Figure S15</ext-link>A).</p><p>The Raman
+spectra of HSA free showed a peak at 437 cm<sup>–1</sup> and
+a double peak at 296–328 cm<sup>–1</sup> due to the
+plane active deformation of protein.<sup><xref ref-type="bibr" rid="ref27">27</xref></sup> In
+accordance with previous works,<sup><xref ref-type="bibr" rid="ref14">14</xref></sup> the spectra
+were dominated by amide II and III vibrations at 1559 and 1250 cm<sup>–1</sup>, respectively, and by the bands assigned to vibrations
+of aromatic amino acid side chains such as their ring vibrations at
+630 cm<sup>–1</sup>. In our case, the amide band of HSA was
+masked by water in a region of 1680 cm<sup>–1</sup>. The presence
+of the stretching vibrations of S–S bonds at 437 cm<sup>–1 28</sup> in HSA suggests that the protein molecules maintain their
+disulfide bridges as important elements of their secondary structure
+upon interaction with the nanoparticle surface.<sup><xref ref-type="bibr" rid="ref28">28</xref></sup></p><p>The Raman spectra double peak at 296–328 cm<sup>–1</sup> disappears, and a peak at 1080–1127 cm<sup>–1</sup> due to the ring stretching of tryptophan<sup><xref ref-type="bibr" rid="ref29">29</xref></sup> or the deformation vibrations of the −NH<sub>2</sub> group at 1512, 1058, and at 1070 cm <sup>–1</sup>(<xref ref-type="bibr" rid="ref30">30</xref>) appears (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c00376/suppl_file/ao0c00376_si_001.pdf">Figure S15</ext-link>B). The latter two bands also contained contributions of vibrations
+Cα–N and C–CH<sub>2</sub> bonds in the peptide
+backbone, in accordance with a distinct signal of the C–N stretching
+band at 1170 cm<sup>–1</sup>. The enhancement of the SERS signals
+from the −NH<sub>2</sub> groups and of the protein backbone
+indicates the proximity of the basic amino acid residues and of the
+peptide backbone, respectively, to the nanoparticle. The several bands
+of HSA in Raman spectra assigned to aromatic and aliphatic vibrations
+indicate their proximity to the nanoparticle surface, which could
+also point toward a hydrophobic interaction with the nanoparticles.
+The basic amino (NH<sub>2</sub>) groups can be expected to interact
+with the sulfonate (SO<sub>3</sub><sup>–</sup>) group in an
+acid–base equilibrium. After 24 h at 37 °C (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c00376/suppl_file/ao0c00376_si_001.pdf">Figure S15</ext-link>B1), a shoulder peak at 1620 cm<sup>–1</sup> was observed in the presence of nanoparticles. This
+peak was attributed to a local change of extended and side chains.
+In opposite of behavior at RT, the LPB band in UV–vis showed
+an increase of the absorption peak after the HSA interaction is proportional
+to protein concentration. Contrary to Col I, the interactions between
+HSA and PolyNaSS-SH@AuNPs (5 kDa) did not display any spectroscopic
+modification under experimental conditions. This observation was expected
+since HSA is a nonspecific protein that adsorbs onto all polymer surfaces
+without any specificity, which is not the case of Col I (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c00376/suppl_file/ao0c00376_si_001.pdf">Figure S16</ext-link>).</p><p>This different behavior of
+Col I is similar to HSA on two NP surfaces of different composition
+(35 vs 5 kDa), confirming the chemical relationship between specific
+protein and length of the grafted polymer onto AuNPs. On the basis
+of this result, we assume that the best candidate to control the interaction
+of proteins is PolyNaSS-SH@AuNPs (35 kDa).</p></sec><sec id="sec2.3.3"><label>2.3.3</label><title>Fn
+Adsorption</title><p>The study of the
+adsorption of Fn onto PolyNaSS-SH@AuNPs (35 kDa) was achieved at 37
+°C only due to the sensitivity of this large protein toward temperature
+and to prevent its precipitation.<sup><xref ref-type="bibr" rid="ref31">31</xref></sup> Fn
+is a high molecular weight adhesive glycoprotein, which is composed
+of two large macromolecular chains (250 kDa) that are linked by disulfide
+bonds at their carboxy-terminal ends.<sup><xref ref-type="bibr" rid="ref32">32</xref></sup><xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref> shows a weak blue shift of the LPB band from 540 to
+535 nm with a disappearance of the peak at 310 nm, attributed to Fn
+adsorption onto PolyNaSS-SH@AuNPs (35 kDa). The interaction of Fn
+onto PolyNaSS grafted onto surfaces was previously demonstrated to
+be specific, confirming that the observed interactions of Fn onto
+PolyNaSS-SH@AuNPs lead to a particular conformation/orientation of
+the protein. The adsorption of Fn on PolyNaSS-SH@AuNPs (35 kDa) was
+confirmed by Raman spectra in which we observed that, after the interaction
+with Fn (1 μM), a peak appeared at 437 cm<sup>–1</sup>due to the plane active deformation of protein and several peaks
+at 900, 1300, and 1490 cm<sup>–1</sup> corresponding to Fn.<sup><xref ref-type="bibr" rid="ref33">33</xref></sup> The peak at 1448 cm<sup>–1</sup> can
+be assigned to the deformation modes of both CH<sub>3</sub> and CH<sub>2</sub> vibrations. The 1424 cm<sup>–1</sup> band is a COO
+stretching mode where the amide III band occurs. The sharp band at
+1001 cm<sup>–1</sup> belongs to phenylalanine (ring breathing
+mode). Fn adsorbs specifically on PolyNaSS functionalized NPs.</p><fig id="fig5" position="float" orientation="portrait"><label>Figure 5</label><caption><p>(A, B) Normalized UV–vis absorption spectra
+of
+PolyNaSS-SH@AuNPs (35 kDa) before (purple line) and after interaction
+of fibronectin (Fn) (1 μM) (green cyan line) at 37 °C.
+(B) Raman spectra of PolyNaSS-SH@AuNPs before (purple line) and after
+interaction of fibronectin (Fn) (1 μM ) (green cyan line) PolyNaSS-SH
+(35 kDa, black line) and Fn free (green line) was added as control
+. Experimental conditions: λ<sub>exc</sub> = 785 nm; laser power,
+20 mW; accumulation time, 180 s.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr5" position="float" orientation="portrait" xlink:href="ao0c00376_0004.jpg"/></fig></sec></sec><sec id="sec2.4"><label>2.4</label><title>Selectivity of Proteins
+onto PolyNaSS-SH@AuNPs (35 kDa)</title><p>To confirm the selectivity
+of protein adsorption onto PolyNaSS-SH@AuNPs (35 kDa), a preliminary
+test was carried out in the presence of Col I and citrate AuNPs as
+a negative control. Col I solution (from 1 μM and 100 nM) was
+incubated with citrate AuNps at 37 °C, and the interaction/adsorption
+was monitored by UV–vis and Raman spectroscopy. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c00376/suppl_file/ao0c00376_si_001.pdf">Figure S17</ext-link> shows remarkable precipitation of colloidal
+solution (citrate AuNPs) after protein interaction without spectroscopical
+modification. This means that there was no capture of the Col I at
+the citrate AuNP surface even at a high concentration of protein.
+We thus conclude that the PolyNaSS-SH@AuNP surface selectively interacts
+with Col I under physiological conditions.</p></sec></sec><sec id="sec3"><label>3</label><title>Conclusions</title><p>This study could be employed
+in the field of regenerative nanomedicine to improve the osteointegration
+and hope that a novel view will be suggested for the development of
+hybrid nanomaterials. In summary, we conceive a fast original methodology
+to obtain core–shell flower shape hybrid nanoparticles in a
+one-step synthesis, tuning the degree of polymerization of PolyNaSS-SH
+with significantly improved stability. The hybrid nanomaterials obtained
+showed a different chemical behavior after interaction with human
+plasmatic proteins. Indeed, we assume that the nature of the protein
+as well as the temperature of the adsorption influences the interactions
+of proteins with PolyNaSS-SH@AuNPs. The better interactions between
+protein and NPs occur at 37 °C, which corresponds to the physiologic
+temperature. On the basis of these conclusions, we can provide further
+cytotoxicity assays and cell interaction studies as perspectives.
+To the best of our knowledge, these aspects have never been described
+before in published reports.</p></sec><sec id="sec4"><label>4</label><title>Experimental Section</title><p>All the reagents were provided
+by the Sigma-Aldrich chemical company and received unless otherwise
+specified. Sodium styrene sulfonate (NaSS) was recrystallized in an
+ethanol/water mixture (9/1, v/v).<sup><xref ref-type="bibr" rid="ref14">14</xref></sup><sup>1</sup>H NMR spectra were recorded on a Bruker Avance III (400 MHz)
+or a Bruker Avance III (500 MHz) spectrometer in D<sub>2</sub>O at
+300 K. The H<sub>2</sub>O signal (δ4.79 ppm) is used as the
+internal reference. The average molecular weight (<italic toggle="yes">M</italic><sub>n</sub>) of PolyNaSS was obtained by aqueous size exclusion
+chromatography (SEC), as previously described.<sup><xref ref-type="bibr" rid="ref16">16</xref></sup> Briefly, the mobile phase consisted of 0.1 mL min<sup>–1</sup>sodium nitrate aqueous solution. Analyses were carried out at 40
+°C with a flow rate of 0.5 mL min<sup>–1</sup>. Calibration
+was realized with a monodisperse PolyNaSS standard (MW 4800–75,600),
+purchased from Sigma-Aldrich.</p><sec id="sec4.1"><label>4.1</label><title>Determination of Monomer
+Conversion</title><p>Monomer conversion
+(<italic toggle="yes">x</italic>) was calculated from <sup>1</sup>H NMR data using
+the following equation<disp-formula id="eq1"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" orientation="portrait" xlink:href="ao0c00376_m001.jpg"/><label>1</label></disp-formula>∫<italic toggle="yes">Ht</italic> = 0 and∫<italic toggle="yes">Htf</italic> are the integration
+of one of vinyl proton from monomer at the beginning (<italic toggle="yes">t</italic><sub>0</sub>) and the end (<italic toggle="yes">t</italic><sub>f</sub>) of RAFT
+polymerization, respectively, by setting the integral of the solvent
+peak at 1.</p></sec><sec id="sec4.2"><label>4.2</label><title>Calculation
+of the Theoretical Molecular Weight of Polymer (<italic toggle="yes">M</italic><sub>nth</sub>)</title><p>The theoretical average molecular weight
+(<italic toggle="yes">M</italic><sub>nth</sub>) of PolyNaSS samples was determined
+using the following equation (<xref rid="eq2" ref-type="disp-formula">eq <xref rid="eq2" ref-type="disp-formula">2</xref></xref>)<disp-formula id="eq2"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" orientation="portrait" xlink:href="ao0c00376_m002.jpg"/><label>2</label></disp-formula>[monomer]<sub>0</sub> and
+[RAFT agent] are the initial monomer concentration and initial RAFT
+agent concentration, respectively. <italic toggle="yes">x</italic> is monomer
+the conversion, and <italic toggle="yes">Mmonomer</italic> and <italic toggle="yes">MRAFT</italic> are the molecular weight of monomer and RAFT agent, respectively.</p></sec><sec id="sec4.3"><label>4.3</label><title>RAFT Polymerization
+of NaSS</title><p>The synthesis of PolyNaSS by RAFT polymerization
+was carried out following the procedure previously described in the
+literature.<sup><xref ref-type="bibr" rid="ref16">16</xref></sup> For the general procedure
+for the polymerization in water, 4,4′-azobis(4-cyanovaleric
+acid) and 4-cyano-4-(phenylcarbonothioylthio)pentanoic acid were used
+as the initiator and transfer agent, respectively.
+NaSS (5 g, 2.43 10<sup>–2</sup> mol) was dissolved in 15 mL
+of water, and the amount of transfer agent was exactly adjusted to
+obtain the desired <italic toggle="yes">M</italic><sub>n</sub> of polymers. Solutions
+were degassed under argon at room temperature (RT) for 20 min. Polymerizations
+were carried at 70 °C for 5 h and stopped by rapid cooling. The
+product was precipitated into 350 mL of ice-cold methanol. After overnight
+drying under vacuum at 50 °C, PolyNaSS samples were analyzed
+by <sup>1</sup>H NMR.</p></sec><sec id="sec4.4"><label>4.4</label><title>SH End Group Formation
+of PolyNaSS-SH by Reduction Reaction</title><p>PolyNaSS (4 g) were
+dissolved in 10 mL of water and degassed under
+argon for 15 min. Then, 10 mL of deoxygenated sodium borohydride aqueous
+solution (NaBH<sub>4</sub>; 1 M) and 2 mL of tributylphosphine (PBu<sub>3</sub>) were added to the polymer solution and kept bubbling under
+argon for 15 min. The solution was stirred for at least 48 h at room
+temperature (RT) before the PolyNaSS-SH was precipitated in ice-cold
+methanol. After this time, PolyNaSS-SH was filtered and washed with
+methanol to remove residual NaBH<sub>4</sub>. After drying overnight
+under vacuum at 50 °C, the PolyNaSS-SH powder samples were dissolved
+in 600 μL of D<sub>2</sub>O and analyzed by <sup>1</sup>H NMR.
+The ratio of the thiol and carboxylic acid to styrene sulfonate is
+different: for the 5 kDa PolyNaSS, we obtained 24 sulfonate functions
+for 1 thiol function and 1 carboxylic acid, for the 10 kDa PolyNaSS,
+we obtained 48 sulfonate functions for 1 thiol and 1 carboxylic acid,
+and for the 35 kDa PolyNaSS, we obtained 169 sulfonate functions for
+1 thiol and 1 carboxylic acid.</p></sec><sec id="sec4.5"><label>4.5</label><title><sup>1</sup>H NMR Analysis of PolyNaSS and PolyNaSS-SH</title><p>PolyNaSS
+5 kDa, <sup>1</sup>H NMR (500 MHz, D<sub>2</sub>O) δ
+(ppm): 8.15–7.28 (m, 2H); 7.20–6.12 (m, 2H); 2.07–0.87
+(m, 3H); PolyNaSS 10 kDa, <sup>1</sup>H NMR (500 MHz, D<sub>2</sub>O) δ (ppm): 8.08–7.27 (m, 2H); 7.20–6.08 (m,
+2H); 2.07–0.83 (m, 3H); PolyNaSS 35 kDa, <sup>1</sup>H NMR
+(500 MHz, D<sub>2</sub>O) δ (ppm): 7.80–7.22 (m, 2H);
+7.0.8–6.12 (m, 2H); 2.07–0.877 (m, 3H); PolyNaSS-SH
+5 kDa,<sup>1</sup>H NMR (500 MHz, D<sub>2</sub>O) δ (ppm): 7.78–7.23
+(m, 2H); 6.98–6.08 (m, 2H); 1.99–1.02 (m, 3H); PolyNaSS-SH
+10 kDa, <sup>1</sup>H NMR (500 MHz, D<sub>2</sub>O) δ (ppm):
+7.78–7.23 (m, 2H); 6.98–6.08 (m, 2H); 1.99–1.02
+(m, 3H); PolyNaSS-SH 35 kDa, <sup>1</sup>H NMR (500 MHz, D<sub>2</sub>O) δ (ppm): 7.78–7.23 (m, 2H); 6.98–6.08 (m,
+2H); 1.99–1.02 (m, 3H); PolyNaSS-SH@AuNPs (5 kDa), <sup>1</sup>H NMR (500 MHz, D<sub>2</sub>O) δ (ppm): 7.88–7.14 (m,
+2H); 7.05–6.05 (m, 2H); 2.00–0.94 (m, 3H); PolyNaSS-SH@AuNPs
+(10 kDa), <sup>1</sup>H NMR (500 MHz, D<sub>2</sub>O) δ (ppm):
+7.88–7.14 (m, 2H); 7.05–6.05 (m, 2H); 2.00–0.94
+(m, 3H); PolyNaSS-SH@AuNPs (35 kDa), <sup>1</sup>H NMR (500 MHz, D<sub>2</sub>O) δ (ppm): 7.88–7.14 (m, 2H); 7.05–6.05
+(m, 2H); 2.00–0.94 (m, 3H).</p></sec><sec id="sec4.6"><label>4.6</label><title>Synthesis of PolyNaSS-SH@AuNPs
+(PolyNaSS-SH: 5 kDa; 10kDA; 35 kDa)</title><p>Aqueous HAuCl<sub>4</sub> solution (20 mL, 0.8 mM) was mixed with 5 mL of PolyNaSS-SH (5,
+10, and 5 kDa) solution (1 g/20 mL) at room temperature (RT) for 20
+min under stirring to form a Au-PolyNaSS-SH complex. Then, 1.5 mL
+of NaBH<sub>4</sub> (1 and 5 mM) was added, rapidly stirred and kept
+without agitation for 2 h. In the first step, the color of the dispersion
+changed from green yellow (HAuCl<sub>4</sub> solution) to pink red
+when PolyNaSS-SH (5, 10, and 35 kDa) was complexed with gold salt.
+Finally, when sodium borohydride was added to a solution of PolyNaSS-SH
+gold precursor, a reduction of metal ions confirms the formation of
+hybrid nanoparticles in the solution with a characteristic purple
+color. The as-prepared PolyNaSS-SH@AuNPs solution was purified by
+centrifugation and dialysis to remove excess of not-conjugated PolyNaSS-SH
+.</p></sec><sec id="sec4.7"><label>4.7</label><title>Interaction of
+PolyNaSS-SH@AuNPs (<italic toggle="yes">M</italic><sub>n</sub> 35 kDa) with Proteins</title><p>The interaction of PolyNaSS-SH@AuNPs (<italic toggle="yes">M</italic><sub>n</sub> 35 kDa) with human proteins (Col, HSA, Fn) were achieved following
+the procedures depicted in <xref rid="sch2" ref-type="scheme">Scheme <xref rid="sch2" ref-type="scheme">2</xref></xref>. Briefly, 900 μL of PolyNaSS-SH@AuNPs (35 kDa)
+(1 mM) were added into separate tubes containing 100 μL of each
+protein at three different concentrations (10–100 nM and 1
+μM, PBS pH 7, and NaCl 0.15 M). After 20 h of incubation, at
+20 or 37 °C, the NPs/protein suspension was centrifuged twice
+at 5000 rpm for 10 min to eliminate the nonadsorbed protein; then,
+the pellets were resuspended in 1 mL of Milli-Q water.</p></sec><sec id="sec4.8"><label>4.8</label><title>Determination of PolyNaSS-SH@AuNP
+Concentration</title><p>PolyNaSS-SH@AuNP concentration was established
+by mathematical calculations in colloidal solution. The Lambert–Beer
+law (<italic toggle="yes">A</italic> = εCl) was applied to define colloid
+concentration, as previously described.<sup><xref ref-type="bibr" rid="ref34">34</xref></sup></p></sec><sec id="sec4.9"><label>4.9</label><title>Physicochemical
+Characterization</title><p>All the measurements were performed in triplicate
+to validate the reproducibility of the synthetic and analytical procedures
+as described previously.<sup><xref ref-type="bibr" rid="ref8">8</xref>,<xref ref-type="bibr" rid="ref9">9</xref></sup></p><sec id="sec4.9.1"><label>4.9.1</label><title>XPS
+Analysis</title><p>XPS analyses were performed
+using an Omicron Argus X-ray photoelectron spectrometer, equipped
+with a monochromated Al Kα radiation source (<italic toggle="yes">h</italic>ν = 1486.6 eV) and a 300 W electron beam power. The emission
+of photoelectrons from the sample was analyzed at a takeoff angle
+of 90° under ultrahigh vacuum conditions (≤10<sup>–10</sup> Torr). Spectra were carried out with 100 eV pass energy for the
+survey scan and 20 eV pass energy for the C 1s, O 1s, Na 1s, S 2p,
+and Au 4f regions. Binding energies were calibrated against the C
+1s binding energy at 284.8 eV, and element peak intensities were corrected
+by Scofield factors.<sup><xref ref-type="bibr" rid="ref35">35</xref></sup> The spectra were
+fitted using the CasaXPS v.2.3.15 software (Casa Software Ltd., U.K.)
+and applying a Gaussian/Lorentzian ratio (G/L) equal to 70/30; otherwise
+stated, Shirley-type backgrounds were used.</p></sec></sec></sec></body><back><notes id="notes1" notes-type="si"><title>Supporting Information Available</title><p>The Supporting Information is available free of charge at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/10.1021/acsomega.0c00376?goto=supporting-info">https://pubs.acs.org/doi/10.1021/acsomega.0c00376</ext-link>.<list id="silist" list-type="simple"><list-item><p>Stability test (Figure S1); functional
+assignment of peaks and intensity of infrared spectra of PolyNaSS
+(Table S1); infrared spectra of PolyNaSS-SH (5, 10, 35 kDa) grafting
+onto AuNPs (Figure S2); H NMR analysis (Figure S3 to S9); GPC analysis
+(Figures S10 to S12 and Table S2); DLS analysis (Figure S13); interaction
+human proteins (Figures S14 to S17) (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c00376/suppl_file/ao0c00376_si_001.pdf">PDF</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1" position="float" orientation="portrait"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c00376_si_001.pdf" position="float" orientation="portrait"><caption><p>ao0c00376_si_001.pdf</p></caption></media></supplementary-material></sec><notes notes-type="COI-statement" id="NOTES-d7e1473-autogenerated"><p>The authors declare no competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>We acknowledge
+the NMR-PF facility (University Paris 13 France).</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name name-style="western"><surname>Gentile</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Ruffino</surname><given-names>F.</given-names></name>; <name name-style="western"><surname>Grimaldi</surname><given-names>M.</given-names></name>
+<article-title>Complex-Morphology Metal-Based Nanostructures:
+Fabrication, Characterization, and Applications</article-title>. <source>Nanomaterials</source>
+<year>2016</year>, <volume>6</volume>, <fpage>110</fpage><pub-id pub-id-type="doi">10.3390/nano6060110</pub-id>.<pub-id pub-id-type="pmcid">PMC5302633</pub-id><pub-id pub-id-type="pmid">28335236</pub-id></mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name name-style="western"><surname>Zhang</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Cui</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Shi</surname><given-names>F.</given-names></name>; <name name-style="western"><surname>Deng</surname><given-names>Y.</given-names></name>
+<article-title>Nano-Gold Catalysis in Fine Chemical
+Synthesis</article-title>. <source>Chem. Rev.</source>
+<year>2012</year>, <volume>112</volume>, <fpage>2467</fpage>–<lpage>2505</lpage>. <pub-id pub-id-type="doi">10.1021/cr200260m</pub-id>.<pub-id pub-id-type="pmid">22112240</pub-id></mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name name-style="western"><surname>Lee</surname><given-names>H. K.</given-names></name>; <name name-style="western"><surname>Lee</surname><given-names>Y. H.</given-names></name>; <name name-style="western"><surname>Koh</surname><given-names>C. S. L.</given-names></name>; <name name-style="western"><surname>Phan-Quang</surname><given-names>G. C.</given-names></name>; <name name-style="western"><surname>Han</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Lay</surname><given-names>C. L.</given-names></name>; <name name-style="western"><surname>Sim</surname><given-names>H. Y. F.</given-names></name>; <name name-style="western"><surname>Kao</surname><given-names>Y.-C.</given-names></name>; <name name-style="western"><surname>An</surname><given-names>Q.</given-names></name>; <name name-style="western"><surname>Ling</surname><given-names>X. Y.</given-names></name>
+<article-title>Designing
+surface-enhanced Raman scattering (SERS) platforms beyond hotspot
+engineering: emerging opportunities in analyte manipulations and hybrid
+materials</article-title>. <source>Chem. Soc. Rev.</source>
+<year>2019</year>, <volume>48</volume>, <fpage>731</fpage>–<lpage>756</lpage>. <pub-id pub-id-type="doi">10.1039/C7CS00786H</pub-id>.<pub-id pub-id-type="pmid">30475351</pub-id></mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name name-style="western"><surname>Sukhanova</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Bozrova</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Sokolov</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Berestovoy</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Karaulov</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Nabiev</surname><given-names>I.</given-names></name>
+<article-title>Dependence of Nanoparticle Toxicity
+on Their Physical and Chemical Properties</article-title>. <source>Nanoscale
+Res. Lett.</source>
+<year>2018</year>, <volume>13</volume>, <fpage>44</fpage>–<lpage>44</lpage>. <pub-id pub-id-type="doi">10.1186/s11671-018-2457-x</pub-id>.<pub-id pub-id-type="pmid">29417375</pub-id><pub-id pub-id-type="pmcid">PMC5803171</pub-id></mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name name-style="western"><surname>Lin</surname><given-names>Y. C.</given-names></name>; <name name-style="western"><surname>Tan</surname><given-names>F. J.</given-names></name>; <name name-style="western"><surname>Marra</surname><given-names>K. G.</given-names></name>; <name name-style="western"><surname>Jan</surname><given-names>S. S.</given-names></name>; <name name-style="western"><surname>Liu</surname><given-names>D. C.</given-names></name>
+<article-title>Synthesis and characterization of
+collagen/hyaluronan/chitosan composite sponges for potential biomedical
+applications</article-title>. <source>Acta Biomater.</source>
+<year>2009</year>, <volume>5</volume>, <fpage>2591</fpage><pub-id pub-id-type="doi">10.1016/j.actbio.2009.03.038</pub-id>.<pub-id pub-id-type="pmid">19427824</pub-id></mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name name-style="western"><surname>Dipankar</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Murugan</surname><given-names>S.</given-names></name>
+<article-title>The green synthesis,
+characterization and evaluation of the biological activities of silver
+nanoparticles synthesized from Iresine herbstii leaf aqueous extracts</article-title>. <source>Colloids Surf., B</source>
+<year>2012</year>, <volume>98</volume>, <fpage>112</fpage><pub-id pub-id-type="doi">10.1016/j.colsurfb.2012.04.006</pub-id>.<pub-id pub-id-type="pmid">22705935</pub-id></mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name name-style="western"><surname>Moustaoui</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Movia</surname><given-names>D.</given-names></name>; <name name-style="western"><surname>Dupont</surname><given-names>N.</given-names></name>; <name name-style="western"><surname>Bouchemal</surname><given-names>N.</given-names></name>; <name name-style="western"><surname>Casale</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Djaker</surname><given-names>N.</given-names></name>; <name name-style="western"><surname>Savarin</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Prina-Mello</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>de la Chapelle</surname><given-names>M. L.</given-names></name>; <name name-style="western"><surname>Spadavecchia</surname><given-names>J.</given-names></name>
+<article-title>Tunable Design of Gold(III)–Doxorubicin
+Complex–PEGylated Nanocarrier. The Golden Doxorubicin for Oncological
+Applications</article-title>. <source>ACS Appl. Mater. Interfaces</source>
+<year>2016</year>, <volume>8</volume>, <fpage>19946</fpage>–<lpage>19957</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.6b07250</pub-id>.<pub-id pub-id-type="pmid">27424920</pub-id></mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name name-style="western"><surname>Spadavecchia</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Apchain</surname><given-names>E.</given-names></name>; <name name-style="western"><surname>Albéric</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Fontan</surname><given-names>E.</given-names></name>; <name name-style="western"><surname>Reiche</surname><given-names>I.</given-names></name>
+<article-title>One-step synthesis
+of collagen hybrid gold nanoparticles and formation on Egyptian-like
+gold-plated archaeological ivory</article-title>. <source>Angew. Chem.,
+Int. Ed.</source>
+<year>2014</year>, <volume>53</volume>, <fpage>8363</fpage>–<lpage>8366</lpage>. <pub-id pub-id-type="doi">10.1002/anie.201403567</pub-id>.<pub-id pub-id-type="pmid">24966058</pub-id></mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name name-style="western"><surname>Spadavecchia</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Movia</surname><given-names>D.</given-names></name>; <name name-style="western"><surname>Moore</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Maguire</surname><given-names>C. M.</given-names></name>; <name name-style="western"><surname>Moustaoui</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Casale</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Volkov</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Prina-Mello</surname><given-names>A.</given-names></name>
+<article-title>Targeted polyethylene glycol gold nanoparticles for
+the treatment of pancreatic cancer: from synthesis to proof-of-concept
+in vitro studies</article-title>. <source>Int. J. Nanomed.</source>
+<year>2016</year>, <volume>11</volume>, <fpage>791</fpage>–<lpage>822</lpage>. <pub-id pub-id-type="doi">10.2147/IJN.S97476</pub-id>.<pub-id pub-id-type="pmcid">PMC4777276</pub-id><pub-id pub-id-type="pmid">27013874</pub-id></mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name name-style="western"><surname>Monteil</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Moustaoui</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Picardi</surname><given-names>G.</given-names></name>; <name name-style="western"><surname>Aouidat</surname><given-names>F.</given-names></name>; <name name-style="western"><surname>Djaker</surname><given-names>N.</given-names></name>; <name name-style="western"><surname>de La Chapelle</surname><given-names>M. L.</given-names></name>; <name name-style="western"><surname>Lecouvey</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Spadavecchia</surname><given-names>J.</given-names></name>
+<article-title>Polyphosphonate ligands: From synthesis
+to design of hybrid PEGylated nanoparticles toward phototherapy studies</article-title>. <source>J. Colloid Interface Sci.</source>
+<year>2018</year>, <volume>513</volume>, <fpage>205</fpage>–<lpage>213</lpage>. <pub-id pub-id-type="doi">10.1016/j.jcis.2017.10.055</pub-id>.<pub-id pub-id-type="pmid">29153714</pub-id></mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name name-style="western"><surname>Ding</surname><given-names>T.</given-names></name>; <name name-style="western"><surname>Lu</surname><given-names>W. W.</given-names></name>; <name name-style="western"><surname>Zheng</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Li</surname><given-names>Z. Y.</given-names></name>; <name name-style="western"><surname>Pan</surname><given-names>H. B.</given-names></name>; <name name-style="western"><surname>Luo</surname><given-names>Z.</given-names></name>
+<article-title>Rapid repair of rat
+sciatic nerve injury using a nanosilver-embedded collagen scaffold
+coated with laminin and fibronectin</article-title>. <source>Regener.
+Med.</source>
+<year>2011</year>, <volume>6</volume>, <fpage>437</fpage><pub-id pub-id-type="doi">10.2217/rme.11.39</pub-id>.<pub-id pub-id-type="pmid">21749202</pub-id></mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name name-style="western"><surname>Helary</surname><given-names>G.</given-names></name>; <name name-style="western"><surname>Noirclere</surname><given-names>F.</given-names></name>; <name name-style="western"><surname>Mayingi</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Migonney</surname><given-names>V.</given-names></name>
+<article-title>A new approach to graft bioactive
+polymer on titanium implants: Improvement of MG 63 cell differentiation
+onto this coating</article-title>. <source>Acta Biomater.</source>
+<year>2009</year>, <volume>5</volume>, <fpage>124</fpage>–<lpage>133</lpage>. <pub-id pub-id-type="doi">10.1016/j.actbio.2008.07.037</pub-id>.<pub-id pub-id-type="pmid">18809363</pub-id></mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name name-style="western"><surname>Felgueiras</surname><given-names>H. P.</given-names></name>; <name name-style="western"><surname>Decambron</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Manassero</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Tulasne</surname><given-names>L.</given-names></name>; <name name-style="western"><surname>Evans</surname><given-names>M. D. M.</given-names></name>; <name name-style="western"><surname>Viateau</surname><given-names>V.</given-names></name>; <name name-style="western"><surname>Migonney</surname><given-names>V.</given-names></name>
+<article-title>Bone tissue response induced by bioactive
+polymer functionalized Ti6Al4V surfaces: In vitro and in vivo study</article-title>. <source>J. Colloid Interface Sci.</source>
+<year>2017</year>, <volume>491</volume>, <fpage>44</fpage>–<lpage>54</lpage>. <pub-id pub-id-type="doi">10.1016/j.jcis.2016.12.023</pub-id>.<pub-id pub-id-type="pmid">28012912</pub-id></mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name name-style="western"><surname>Chouirfa</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Migonney</surname><given-names>V.</given-names></name>; <name name-style="western"><surname>Falentin-Daudré</surname><given-names>C.</given-names></name>
+<article-title>Grafting bioactive
+polymers onto titanium implants by UV irradiation</article-title>. <source>RSC Adv.</source>
+<year>2016</year>, <volume>6</volume>, <fpage>13766</fpage>–<lpage>13771</lpage>. <pub-id pub-id-type="doi">10.1039/C5RA24497H</pub-id>.</mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name name-style="western"><surname>Chouirfa</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Evans</surname><given-names>M. D. M.</given-names></name>; <name name-style="western"><surname>Bean</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Saleh-Mghir</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Crémieux</surname><given-names>A. C.</given-names></name>; <name name-style="western"><surname>Castner</surname><given-names>D. G.</given-names></name>; <name name-style="western"><surname>Falentin-Daudré</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Migonney</surname><given-names>V.</given-names></name>
+<article-title>Grafting of Bioactive Polymers with Various Architectures:
+A Versatile Tool for Preparing Antibacterial Infection and Biocompatible
+Surfaces</article-title>. <source>ACS Appl. Mater. Interfaces</source>
+<year>2018</year>, <volume>10</volume>, <fpage>1480</fpage>–<lpage>1491</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.7b14283</pub-id>.<pub-id pub-id-type="pmid">29266919</pub-id><pub-id pub-id-type="pmcid">PMC5800312</pub-id></mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name name-style="western"><surname>McCormick</surname><given-names>C. L.</given-names></name>; <name name-style="western"><surname>Lowe</surname><given-names>A. B.</given-names></name>
+<article-title>Aqueous RAFT polymerization: recent developments in
+synthesis of functional water-soluble (co)polymers with controlled
+structures</article-title>. <source>Acc. Chem. Res.</source>
+<year>2004</year>, <volume>37</volume>, <fpage>312</fpage>–<lpage>325</lpage>. <pub-id pub-id-type="doi">10.1021/ar0302484</pub-id>.<pub-id pub-id-type="pmid">15147172</pub-id></mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name name-style="western"><surname>Falentin-Daudré</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Baumann</surname><given-names>J.-S.</given-names></name>; <name name-style="western"><surname>Migonney</surname><given-names>V.</given-names></name>; <name name-style="western"><surname>Spadavecchia</surname><given-names>J.</given-names></name>
+<article-title>Highly crystalline
+sphere and rod-shaped TiO2 nanoparticles: A facile route to bio-polymer
+grafting</article-title>. <source>Front. Lab. Med.</source>
+<year>2017</year>, <volume>1</volume>, <fpage>217</fpage>–<lpage>223</lpage>. <pub-id pub-id-type="doi">10.1016/j.flm.2017.12.003</pub-id>.</mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name name-style="western"><surname>Shao</surname><given-names>Q.</given-names></name>; <name name-style="western"><surname>Hall</surname><given-names>C. K.</given-names></name>
+<article-title>Allosteric effects of gold nanoparticles on human serum
+albumin</article-title>. <source>Nanoscale</source>
+<year>2017</year>, <volume>9</volume>, <fpage>380</fpage>–<lpage>390</lpage>. <pub-id pub-id-type="doi">10.1039/C6NR07665C</pub-id>.<pub-id pub-id-type="pmid">27924337</pub-id><pub-id pub-id-type="pmcid">PMC5314867</pub-id></mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name name-style="western"><surname>Saptarshi</surname><given-names>S. R.</given-names></name>; <name name-style="western"><surname>Duschl</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Lopata</surname><given-names>A. L.</given-names></name>
+<article-title>Interaction of nanoparticles with
+proteins: relation to bio-reactivity of the nanoparticle</article-title>. <source>J. Nanobiotechnol.</source>
+<year>2013</year>, <volume>11</volume>, <fpage>26</fpage>–<lpage>26</lpage>. <pub-id pub-id-type="doi">10.1186/1477-3155-11-26</pub-id>.<pub-id pub-id-type="pmcid">PMC3720198</pub-id><pub-id pub-id-type="pmid">23870291</pub-id></mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name name-style="western"><surname>Chouirfa</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Evans</surname><given-names>M. D. M.</given-names></name>; <name name-style="western"><surname>Castner</surname><given-names>D. G.</given-names></name>; <name name-style="western"><surname>Bean</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Mercier</surname><given-names>D.</given-names></name>; <name name-style="western"><surname>Galtayries</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Falentin-Daudré</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Migonney</surname><given-names>V.</given-names></name>
+<article-title>Grafting of architecture
+controlled poly(styrene sodium sulfonate) onto titanium surfaces using
+bio-adhesive molecules: Surface characterization and biological properties</article-title>. <source>Biointerphases</source>
+<year>2017</year>, <volume>12</volume>, <elocation-id>02C418</elocation-id><pub-id pub-id-type="doi">10.1116/1.4985608</pub-id>.<pub-id pub-id-type="pmcid">PMC5599117</pub-id><pub-id pub-id-type="pmid">28614950</pub-id></mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name name-style="western"><surname>Dong</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Zhu</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Yoon</surname><given-names>J. A.</given-names></name>; <name name-style="western"><surname>Gao</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Jin</surname><given-names>R.</given-names></name>; <name name-style="western"><surname>Matyjaszewski</surname><given-names>K.</given-names></name>
+<article-title>One-Pot Synthesis of Robust Core/Shell
+Gold Nanoparticles</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2008</year>, <volume>130</volume>, <fpage>12852</fpage>–<lpage>12853</lpage>. <pub-id pub-id-type="doi">10.1021/ja8038097</pub-id>.<pub-id pub-id-type="pmid">18763773</pub-id></mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name name-style="western"><surname>Jena</surname><given-names>B. K.</given-names></name>; <name name-style="western"><surname>Raj</surname><given-names>C. R.</given-names></name>
+<article-title>Synthesis of Flower-like Gold Nanoparticles and Their
+Electrocatalytic Activity Towards the Oxidation of Methanol and the
+Reduction of Oxygen</article-title>. <source>Langmuir</source>
+<year>2007</year>, <volume>23</volume>, <fpage>4064</fpage>–<lpage>4070</lpage>. <pub-id pub-id-type="doi">10.1021/la063243z</pub-id>.<pub-id pub-id-type="pmid">17315899</pub-id></mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name name-style="western"><surname>Kang</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Taton</surname><given-names>T. A.</given-names></name>
+<article-title>Core/Shell Gold Nanoparticles by Self-Assembly and
+Crosslinking of Micellar, Block-Copolymer Shells</article-title>. <source>Angew. Chem., Int. Ed.</source>
+<year>2005</year>, <volume>44</volume>, <fpage>409</fpage>–<lpage>412</lpage>. <pub-id pub-id-type="doi">10.1002/anie.200461119</pub-id>.<pub-id pub-id-type="pmid">15624171</pub-id></mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name name-style="western"><surname>Amokrane</surname><given-names>G.</given-names></name>; <name name-style="western"><surname>Humblot</surname><given-names>V.</given-names></name>; <name name-style="western"><surname>Jubeli</surname><given-names>E.</given-names></name>; <name name-style="western"><surname>Yagoubi</surname><given-names>N.</given-names></name>; <name name-style="western"><surname>Ramtani</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Migonney</surname><given-names>V.</given-names></name>; <name name-style="western"><surname>Falentin-Daudré</surname><given-names>C.</given-names></name>
+<article-title>Electrospun
+Poly(ε-caprolactone) Fiber Scaffolds Functionalized by the Covalent
+Grafting of a Bioactive Polymer: Surface Characterization and Influence
+on in Vitro Biological Response</article-title>. <source>ACS Omega</source>
+<year>2019</year>, <volume>4</volume>, <fpage>17194</fpage>–<lpage>17208</lpage>. <pub-id pub-id-type="doi">10.1021/acsomega.9b01647</pub-id>.<pub-id pub-id-type="pmid">31656893</pub-id><pub-id pub-id-type="pmcid">PMC6811844</pub-id></mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name name-style="western"><surname>Chattopadhyay</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Raines</surname><given-names>R. T.</given-names></name>
+<article-title>Review collagen-based biomaterials
+for wound healing</article-title>. <source>Biopolymers</source>
+<year>2014</year>, <volume>101</volume>, <fpage>821</fpage>–<lpage>833</lpage>. <pub-id pub-id-type="doi">10.1002/bip.22486</pub-id>.<pub-id pub-id-type="pmid">24633807</pub-id><pub-id pub-id-type="pmcid">PMC4203321</pub-id></mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name name-style="western"><surname>Bakker
+Schut</surname><given-names>T. C.</given-names></name>; <name name-style="western"><surname>Caspers</surname><given-names>P. J.</given-names></name>; <name name-style="western"><surname>Puppels</surname><given-names>G. J.</given-names></name>; <name name-style="western"><surname>Nijssen</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Heule</surname><given-names>F.</given-names></name>; <name name-style="western"><surname>Neumann</surname><given-names>M. H. A.</given-names></name>; <name name-style="western"><surname>Hayes</surname><given-names>D. P.</given-names></name>
+<article-title>Discriminating Basal
+Cell Carcinoma from its Surrounding Tissue by Raman Spectroscopy</article-title>. <source>J. Invest. Dermatol.</source>
+<year>2002</year>, <volume>119</volume>, <fpage>64</fpage>–<lpage>69</lpage>. <pub-id pub-id-type="doi">10.1046/j.1523-1747.2002.01807.x</pub-id>.<pub-id pub-id-type="pmid">12164926</pub-id></mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name name-style="western"><surname>Plank</surname><given-names>J.</given-names></name>
+<article-title>Applications of biopolymers and other
+biotechnological products in building materials</article-title>. <source>Appl. Microbiol. Biotechnol.</source>
+<year>2004</year>, <volume>66</volume>, <fpage>1</fpage>–<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1007/s00253-004-1714-3</pub-id>.<pub-id pub-id-type="pmid">15459798</pub-id></mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name name-style="western"><surname>Rygula</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Majzner</surname><given-names>K.</given-names></name>; <name name-style="western"><surname>Marzec</surname><given-names>K. M.</given-names></name>; <name name-style="western"><surname>Kaczor</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Pilarczyk</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Baranska</surname><given-names>M.</given-names></name>
+<article-title>Raman spectroscopy
+of proteins: a review</article-title>. <source>J. Raman Spectrosc.</source>
+<year>2013</year>, <volume>44</volume>, <fpage>1061</fpage>–<lpage>1076</lpage>. <pub-id pub-id-type="doi">10.1002/jrs.4335</pub-id>.</mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name name-style="western"><surname>Madzharova</surname><given-names>F.</given-names></name>; <name name-style="western"><surname>Heiner</surname><given-names>Z.</given-names></name>; <name name-style="western"><surname>Kneipp</surname><given-names>J.</given-names></name>
+<article-title>Surface Enhanced Hyper-Raman Scattering
+of the Amino Acids Tryptophan, Histidine, Phenylalanine, and Tyrosine</article-title>. <source>J. Phys. Chem. C</source>
+<year>2017</year>, <volume>121</volume>, <fpage>1235</fpage>–<lpage>1242</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jpcc.6b10905</pub-id>.</mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name name-style="western"><surname>Lin</surname><given-names>V. J. C.</given-names></name>; <name name-style="western"><surname>Koenig</surname><given-names>J. L.</given-names></name>
+<article-title>Raman studies of
+bovine serum albumin</article-title>. <source>Biopolymers</source>
+<year>1976</year>, <volume>15</volume>, <fpage>203</fpage>–<lpage>218</lpage>. <pub-id pub-id-type="doi">10.1002/bip.1976.360150114</pub-id>.<pub-id pub-id-type="pmid">1119</pub-id></mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name name-style="western"><surname>Raoufi</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Hajipour</surname><given-names>M. J.</given-names></name>; <name name-style="western"><surname>Kamali Shahri</surname><given-names>S. M.</given-names></name>; <name name-style="western"><surname>Schoen</surname><given-names>I.</given-names></name>; <name name-style="western"><surname>Linn</surname><given-names>U.</given-names></name>; <name name-style="western"><surname>Mahmoudi</surname><given-names>M.</given-names></name>
+<article-title>Probing fibronectin conformation on a protein corona
+layer around nanoparticles</article-title>. <source>Nanoscale</source>
+<year>2018</year>, <volume>10</volume>, <fpage>1228</fpage>–<lpage>1233</lpage>. <pub-id pub-id-type="doi">10.1039/C7NR06970G</pub-id>.<pub-id pub-id-type="pmid">29292453</pub-id></mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name name-style="western"><surname>Pankov</surname><given-names>R.</given-names></name>; <name name-style="western"><surname>Yamada</surname><given-names>K. M.</given-names></name>
+<article-title>Fibronectin at a glance</article-title>. <source>J. Cell
+Sci.</source>
+<year>2002</year>, <volume>115</volume>, <fpage>3861</fpage>–<lpage>3863</lpage>. <pub-id pub-id-type="doi">10.1242/jcs.00059</pub-id>.<pub-id pub-id-type="pmid">12244123</pub-id></mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name name-style="western"><surname>Strehle</surname><given-names>M. A.</given-names></name>; <name name-style="western"><surname>Rösch</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Petry</surname><given-names>R.</given-names></name>; <name name-style="western"><surname>Hauck</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Thull</surname><given-names>R.</given-names></name>; <name name-style="western"><surname>Kiefer</surname><given-names>W.</given-names></name>; <name name-style="western"><surname>Popp</surname><given-names>J.</given-names></name>
+<article-title>A Raman spectroscopic study of the adsorption of fibronectin and
+fibrinogen on titanium dioxide nanoparticles</article-title>. <source>Phys. Chem. Chem. Phys.</source>
+<year>2004</year>, <volume>6</volume>, <fpage>5232</fpage>–<lpage>5236</lpage>. <pub-id pub-id-type="doi">10.1039/B406524G</pub-id>.</mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name name-style="western"><surname>Liu</surname><given-names>Q.</given-names></name>; <name name-style="western"><surname>Sacco</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Marsich</surname><given-names>E.</given-names></name>; <name name-style="western"><surname>Furlani</surname><given-names>F.</given-names></name>; <name name-style="western"><surname>Arib</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Djaker</surname><given-names>N.</given-names></name>; <name name-style="western"><surname>Lamy de
+la Chapelle</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Donati</surname><given-names>I.</given-names></name>; <name name-style="western"><surname>Spadavecchia</surname><given-names>J.</given-names></name>
+<article-title>Lactose-Modified
+Chitosan Gold(III)-PEGylated Complex-Bioconjugates: From Synthesis
+to Interaction with Targeted Galectin-1 Protein</article-title>. <source>Bioconjugate Chem.</source>
+<year>2018</year>, <volume>29</volume>, <fpage>3352</fpage>–<lpage>3361</lpage>. <pub-id pub-id-type="doi">10.1021/acs.bioconjchem.8b00520</pub-id>.<pub-id pub-id-type="pmid">30215508</pub-id></mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name name-style="western"><surname>Scofield</surname><given-names>J. H.</given-names></name>
+<article-title>Hartree-Slater subshell photoionization
+cross-sections at 1254 and 1487 eV</article-title>. <source>J. Electron
+Spectrosc. Relat. Phenom.</source>
+<year>1976</year>, <volume>8</volume>, <fpage>129</fpage>–<lpage>137</lpage>. <pub-id pub-id-type="doi">10.1016/0368-2048(76)80015-1</pub-id>.</mixed-citation></ref></ref-list></back></article>

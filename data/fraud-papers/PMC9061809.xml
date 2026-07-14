@@ -1,0 +1,621 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">RSC Adv</journal-id><journal-id journal-id-type="iso-abbrev">RSC Adv</journal-id><journal-id journal-id-type="pmc-domain-id">4079</journal-id><journal-id journal-id-type="pmc-domain">rscadv</journal-id><journal-id journal-id-type="nlm-id">101581657</journal-id><journal-id journal-id-type="publisher-id">RA</journal-id><journal-title-group><journal-title>RSC Advances</journal-title></journal-title-group><issn pub-type="epub">2046-2069</issn><publisher><publisher-name>Royal Society of Chemistry</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC9061809</article-id><article-id pub-id-type="pmcid-ver">PMC9061809.1</article-id><article-id pub-id-type="pmcaid">9061809</article-id><article-id pub-id-type="pmcaiid">9061809</article-id><article-id pub-id-type="pmid">35518702</article-id><article-id pub-id-type="doi">10.1039/c8ra10051a</article-id><article-id pub-id-type="publisher-id">c8ra10051a</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Chemistry</subject></subj-group></article-categories><title-group><article-title>
+<italic toggle="yes">Miscanthus</italic> grass-derived carbon dots to selectively detect Fe<sup>3+</sup> ions<xref rid="fn1" ref-type="fn">†</xref></article-title><fn-group><fn id="fn1"><label>†</label><p>Electronic supplementary information (ESI) available. See DOI: <uri>10.1039/c8ra10051a</uri></p></fn></fn-group></title-group><contrib-group><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-4746-9696</contrib-id><name name-style="western"><surname>Picard</surname><given-names initials="M">Maisyn</given-names></name><xref rid="affa" ref-type="aff"/><xref rid="affb" ref-type="aff"/></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-6660-442X</contrib-id><name name-style="western"><surname>Thakur</surname><given-names initials="S">Suman</given-names></name><xref rid="affa" ref-type="aff"/><xref rid="affb" ref-type="aff"/></contrib><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-2179-7699</contrib-id><name name-style="western"><surname>Misra</surname><given-names initials="M">Manjusri</given-names></name><xref rid="affa" ref-type="aff"/><xref rid="affb" ref-type="aff"/></contrib><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-1079-2481</contrib-id><name name-style="western"><surname>Mohanty</surname><given-names initials="AK">Amar K.</given-names></name><xref rid="affa" ref-type="aff"/><xref rid="affb" ref-type="aff"/></contrib><aff id="affa">
+<institution>Bioproducts Discovery and Development Centre, Department of Plant Agriculture, University of Guelph</institution>
+<addr-line>Crop Science Building</addr-line>
+<addr-line>50 Stone Road East</addr-line>
+<city>Guelph</city>
+<country>Canada</country>
+<email>mmisra@uoguelph.ca</email>
+<email>mohanty@uoguelph.ca</email>
+</aff><aff id="affb">
+<institution>School of Engineering, University of Guelph</institution>
+<addr-line>Thornbrough Building</addr-line>
+<addr-line>50 Stone Road East</addr-line>
+<city>Guelph</city>
+<country>Canada</country>
+</aff></contrib-group><pub-date publication-format="electronic" date-type="pub" iso-8601-date="2019-03-14"><day>14</day><month>3</month><year>2019</year></pub-date><pub-date publication-format="electronic" date-type="collection" iso-8601-date="2019-03-12"><day>12</day><month>3</month><year>2019</year></pub-date><volume>9</volume><issue>15</issue><issue-id pub-id-type="pmc-issue-id">406662</issue-id><fpage>8628</fpage><lpage>8637</lpage><history><date date-type="received" iso-8601-date="2018-12-06"><day>6</day><month>12</month><year>2018</year></date><date date-type="accepted" iso-8601-date="2019-01-23"><day>23</day><month>1</month><year>2019</year></date></history><pub-history><event event-type="pmc-release"><date><day>14</day><month>03</month><year>2019</year></date></event><event event-type="pmc-live"><date><day>04</day><month>05</month><year>2022</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2024-10-27 00:25:14.750"><day>27</day><month>10</month><year>2024</year></date></event></pub-history><permissions><copyright-statement>This journal is © The Royal Society of Chemistry</copyright-statement><copyright-year>2019</copyright-year><copyright-holder>The Royal Society of Chemistry</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense" start_date="2019-03-14">https://creativecommons.org/licenses/by-nc/3.0/</ali:license_ref></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="RA-009-C8RA10051A.pdf"/><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="retraction-forward" xml:lang="en" xlink:title="retraction" vol="14" journal-id="RSC Adv" journal-id-type="nlm-ta" ext-link-type="pmc" xlink:href="PMC11494913"><article-title>Retraction: <italic toggle="yes">Miscanthus</italic> grass-derived carbon dots to selectively detect Fe<sup>3+</sup> ions</article-title><volume>14</volume><issue>45</issue><date><day>22</day><month>10</month><year>2024</year></date><fpage>33311</fpage><lpage>33311</lpage><source>RSC Advances</source><pub-id pub-id-type="doi">10.1039/d4ra90126f</pub-id><pub-id pub-id-type="pmcid">PMC11494913</pub-id><pub-id pub-id-type="pmid">39439832</pub-id></related-article><abstract><p>Novel fluorescent carbon dots (CDs) were synthesized using an economically feasible and green one-step heating process. <italic toggle="yes">Miscanthus</italic>, a perennial grass and an inexpensive sustainable biomass, was utilized as the starting material to prepare CDs and doped CDs (nitrogen, phosphorous and nitrogen-phosphorous dual doped). The abundance of oxygen-containing functional groups in <italic toggle="yes">Miscanthus</italic>-derived CDs (MCD) and doped MCD was confirmed <italic toggle="yes">via</italic> Fourier-transform infrared (FTIR) and energy dispersive X-ray spectroscopy (EDS). The average size of MCD, N-doped MCD, P-doped MCD and dual-doped MCDs was found to be 7.87 ± 0.27, 4.6 ± 0.21, 6.7 ± 0.38 and 5.3 ± 0.32 nm, respectively. The synthesized MCD and doped MCD exhibited a quantum yield (QY) of 4.71, 11.65, 2.33 and 9.63% for the MCD, N-doped MCD, P-doped MCD and dual-doped MCD, respectively. MCD and doped MCD exhibited excellent excitation-dependent photoluminescence properties, with strong blue fluorescence upon irradiation with UV-light (365 nm). N-doped MCD exhibited superb selectivity towards Fe<sup>3+</sup> ions, with a detection limit of 20 nM and a detection range from 0.02 to 2000 μM. The normalized linear relationship between the intensity of fluorescence emission of the prepared N-doped MCD and the concentration of Fe<sup>3+</sup> ions was utilized to selectively and sensitively detect Fe<sup>3+</sup> ions.</p></abstract><abstract abstract-type="toc"><p>Fluorescent carbon dots for the selective and sensitive detection of Fe<sup>3+</sup> ions with a wide detection range and very low detection limit.<graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="ga" position="float" orientation="portrait" xlink:href="c8ra10051a-ga.jpg"/></p></abstract><funding-group><award-group><funding-source>
+<institution-wrap><institution>Ontario Ministry of Agriculture, Food and Rural Affairs</institution><institution-id institution-id-type="doi">10.13039/501100000094</institution-id></institution-wrap>
+</funding-source><award-id>030332</award-id></award-group><award-group><funding-source>
+<institution-wrap><institution>University of Guelph</institution><institution-id institution-id-type="doi">10.13039/100008986</institution-id></institution-wrap>
+</funding-source><award-id>030332</award-id></award-group><award-group><funding-source>
+<institution-wrap><institution>Natural Sciences and Engineering Research Council of Canada</institution><institution-id institution-id-type="doi">10.13039/501100000038</institution-id></institution-wrap>
+</funding-source><award-id>400320</award-id><award-id>401111</award-id></award-group><award-group><funding-source>
+<institution-wrap><institution>Ontario Ministry of Research, Innovation and Science</institution><institution-id institution-id-type="doi">10.13039/501100003400</institution-id></institution-wrap>
+</funding-source><award-id>052644</award-id><award-id>052665</award-id></award-group></funding-group><counts><page-count count="10"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC</meta-value></custom-meta><custom-meta><meta-name>pubstatus</meta-name><meta-value>Paginated Article</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec><label>1</label><title>Introduction</title><p>Fluorescent carbon dots (CDs) have generated attention in various fields such as optoelectronic devices,<sup><xref rid="cit1" ref-type="bibr">1</xref></sup> drug delivery,<sup><xref rid="cit2" ref-type="bibr">2</xref></sup> bioimaging,<sup><xref rid="cit3" ref-type="bibr">3,4</xref></sup> and biosensors,<sup><xref rid="cit5" ref-type="bibr">5</xref></sup><italic toggle="yes">etc.</italic> Their unique and fascinating properties, such as superb photostability, photoabsorption, photobleaching resistance, chemical resistance, biocompatibility, low toxicity, and excellent water solubility, make them appropriate for many advanced applications.<sup><xref rid="cit6" ref-type="bibr">6–9</xref></sup> Numerous top-down and bottom-up methods have been studied for CD synthesis.<sup><xref rid="cit4" ref-type="bibr">4,7</xref></sup> However, most of the top-down approaches are burdened by manufacturing difficulties, large-scale production expenses due to the use of costly equipment and tedious processes.<sup><xref rid="cit10" ref-type="bibr">10</xref></sup> In contrast, the bottom-up approaches are cost-effective, simple and environmentally friendly. Not only is the method of synthesis important, but the quantum yield (QY) of the CDs is also an important aspect of advanced applications of CDs. If proper functional groups are used for surface passivation and samples are doped with heteroatoms, then usually there is an enhancement in the QY of CDs.<sup><xref rid="cit11" ref-type="bibr">11,12</xref></sup> Of these two approaches, doping is the more promising technique, since it can efficiently tailor the inherent properties of CDs such as electronic properties, optical properties, <italic toggle="yes">etc.</italic> Recently, development of sustainable precursors for synthesis of nanomaterials has been of significant interest to replace conventional chemical feedstocks.</p><p>Many sustainable carbon-based starting materials have been investigated for CD synthesis because these feedstocks are environmentally friendly and economically feasible materials.<sup><xref rid="cit13" ref-type="bibr">13</xref></sup> In many cases, sustainable materials are derived from biobased precursors.<sup><xref rid="cit14" ref-type="bibr">14–19</xref></sup> Such carbon sources can be generalized under the following categories: fruits/vegetables, food/beverage wastes, animal/human derivatives and plant/agricultural biomass materials.<sup><xref rid="cit13" ref-type="bibr">13</xref></sup> The use of agricultural biomass and wastes has a positive impact on the environment as the materials repurpose waste into value-added products.<sup><xref rid="cit20" ref-type="bibr">20</xref></sup> Furthermore, the waste products can be obtained at little to no cost.<sup><xref rid="cit21" ref-type="bibr">21</xref></sup> Different wastes, such as used frying oil and kitchen waste, were used as potential precursor for CD synthesis, but the CDs obtained had a very low QY of 3.1%.<sup><xref rid="cit22" ref-type="bibr">22,23</xref></sup> Purkayastha <italic toggle="yes">et al.</italic><sup><xref rid="cit23" ref-type="bibr">23</xref></sup> and Park <italic toggle="yes">et al.</italic><sup><xref rid="cit24" ref-type="bibr">24</xref></sup> have used agricultural and food waste, respectively, to synthesize CDs. Park and his coworker successfully obtained 120 g of CD from 100 kg of food waste by a room temperature, ultrasonic-assisted method of synthesis.<sup><xref rid="cit24" ref-type="bibr">24</xref></sup> CDs were also synthesized from different vegetable wastes, like onion peel,<sup><xref rid="cit25" ref-type="bibr">25</xref></sup> cornstalks,<sup><xref rid="cit21" ref-type="bibr">21</xref></sup> pseudo banana stems,<sup><xref rid="cit26" ref-type="bibr">26</xref></sup><italic toggle="yes">etc.</italic> Paper wastes were also used to synthesize CDs <italic toggle="yes">via</italic> microwave-assisted pyrolysis, using ionic liquid as solvent.<sup><xref rid="cit27" ref-type="bibr">27</xref></sup> However, this work features the novel use of an agricultural residue.</p><p>
+<italic toggle="yes">Miscanthus</italic>, a perennial grass grown abundantly in Canada, is an environmentally sustainable carbon source.<sup><xref rid="cit28" ref-type="bibr">28</xref></sup><italic toggle="yes">Miscanthus</italic> is a biomass source which contains high-quality lignocellulosic material.<sup><xref rid="cit29" ref-type="bibr">29</xref></sup> To the best of our knowledge, there is no study on synthesis of CDs from <italic toggle="yes">Miscanthus</italic> grass. Furthermore, the material can be obtained cost effectively<sup><xref rid="cit28" ref-type="bibr">28</xref></sup> and would make a perfect starting material for the synthesis of CDs.</p><p>CDs have displayed good potential for use in metal ion sensing applications. Detection of Fe<sup>3+</sup> ions is vital from the viewpoint of clinical research and for environmental concerns.<sup><xref rid="cit30" ref-type="bibr">30,31</xref></sup> Fe<sup>3+</sup> ions serve a crucial role in biological systems as components of the cell metabolism, oxygen delivery systems, enzymatic co-factors, and electron transfer systems.<sup><xref rid="cit32" ref-type="bibr">32</xref></sup> In addition, iron is extensively used in industrial metal production, as it is one of the most abundant metals on the earth.<sup><xref rid="cit10" ref-type="bibr">10</xref></sup> Detection of metal ions <italic toggle="yes">via</italic> fluorescence probes possesses many advantages, including ease of operation, high selectivity and excellent sensitivity.<sup><xref rid="cit21" ref-type="bibr">21</xref></sup> In comparison to conventional fluorescent materials, which use a sensor probe, CDs demonstrate improved properties, including strong size and excitation-dependent photoluminescence (PL), excellent biocompatibility and low toxicity.<sup><xref rid="cit22" ref-type="bibr">22</xref></sup> Until now, many studies have been completed to explore the effective detection of Fe<sup>3+</sup> using CDs as a fluorescent material. For example, CDs made from citric acid and tris(hydroxymethyl)aminomethane (as starting material) were synthesized by a hydrothermal method and showed high sensitivity for Fe<sup>3+</sup> ions.<sup><xref rid="cit33" ref-type="bibr">33</xref></sup> In another study, folic acid-derived CDs also detected Fe<sup>3+</sup> ions and the samples possessed a detection limit of 0–7.16 mM L<sup>−1</sup>.<sup><xref rid="cit34" ref-type="bibr">34</xref></sup> Qu <italic toggle="yes">et al.</italic><sup><xref rid="cit35" ref-type="bibr">35</xref></sup> also found that dopamine-derived CDs had selective and sensitive detection towards Fe<sup>3+</sup> ions, and samples possessed a detection limit of 0.32 μM L<sup>−1</sup>. Nitrogen-doped <italic toggle="yes">Magnolia liliiflora</italic> flower-derived CDs,<sup><xref rid="cit36" ref-type="bibr">36</xref></sup> and <italic toggle="yes">Chionanthus retusus</italic> fruit-derived CDs<sup><xref rid="cit37" ref-type="bibr">37</xref></sup> also showed good sensitivity towards Fe<sup>3+</sup> ions. Even though extensive research has been conducted on CD synthesis, work is still required to make fluorescent probe materials with high photoluminescence QY and sensitivity for Fe<sup>3+</sup> ions. Moreover, there is an urgent need for fluorescent materials which can provide a wide detection range and a low limit of detection.</p><p>In this work, we synthesized <italic toggle="yes">Miscanthus</italic>-derived CDs (MCDs) and doped MCDs by conventional heating methods to achieve a fluorescent material which can address the existing limitations. The chemical structure, optical properties and morphology of MCDs and doped MCDs were investigated by spectroscopic and microscopic techniques. In addition, Fe<sup>3+</sup> detection efficiency and sensitivity of the as-synthesized MCDs and doped MCDs were evaluated and compared to find a suitable MCD-based fluorescent probe.</p></sec><sec><label>2</label><title>Methods and materials</title><sec><label>2.1</label><title>Materials</title><p>
+<italic toggle="yes">Miscanthus</italic> grass fibers (&lt;2 mm) were received from Competitive Green Technologies (Leamington, Ontario). Analytical grade chemicals: ethylenediamine (EDA, C<sub>2</sub>H<sub>4</sub>(NH<sub>2</sub>)<sub>2</sub>), <italic toggle="yes">ortho</italic>-phosphoric acid (PA, H<sub>3</sub>PO<sub>4</sub>), potassium hydroxide (KOH), iron(<sc>iii</sc>) chloride (FeCl<sub>3</sub>), nickel(<sc>ii</sc>) acetate tetrahydrate (Ni(CH<sub>3</sub>CO<sub>2</sub>)<sub>2</sub>·4H<sub>2</sub>O), cobalt(<sc>ii</sc>) acetate tetrahydrate (Co(CH<sub>3</sub>CO<sub>2</sub>)<sub>2</sub>·4H<sub>2</sub>O) and quinine sulfate (C<sub>40</sub>H<sub>54</sub>N<sub>4</sub>O<sub>10</sub>S) were purchased from Sigma-Aldrich (Ontario, Canada). Deionized water (DI) was provided from on-site facilities at the University of Guelph (Ontario, Canada).</p></sec><sec><label>2.2</label><title>Preparation of <italic toggle="yes">Miscanthus</italic> extract</title><p>
+<italic toggle="yes">Miscanthus</italic> extract was prepared by placing 50 g of <italic toggle="yes">Miscanthus</italic> fibers in 700 mL DI water. This ratio of <italic toggle="yes">Miscanthus</italic> to water was the minimum amount required to completely emerge the fiber and maintain a fluidic consistency for stirring. The mixture was covered with aluminum foil and placed on a hot plate which was then heated to 80 °C and stirred at 500 rotations per min (rpm). After 1 hour of heating, the solution was vacuum filtrated. The recovered filtrate was used as a precursor for the CD synthesis by conventional heating methods.</p></sec><sec><label>2.3</label><title>Synthesis of <italic toggle="yes">Miscanthus</italic>-derived CDs (MCDs) and doped MCDs</title><p>MCDs were synthesized <italic toggle="yes">via</italic> a conventional heating method. Approximately 100 mL of <italic toggle="yes">Miscanthus</italic> extract was transferred to an Erlenmeyer flask and pH of the solution was adjusted to 11 using KOH aqueous solution (1 N). The flask was capped with a cotton plug and placed in an oven at 180 °C for 4 hours. Then, the flask was allowed to cool down and the dark brown dispersion of MCD was collected by filtration. After that, samples were neutralized and centrifuged at high speed to remove the insoluble and large particles (8000 rpm) for 10 minutes. Nitrogen-doped samples were synthesized with 100 mL of <italic toggle="yes">Miscanthus</italic> extract combined with 6 mL of EDA. Phosphorus-doped MCDs were synthesized by combining 100 mL of <italic toggle="yes">Miscanthus</italic> extract and 2 mL of PA. Lastly, dual-doped MCDs were synthesized with 6 mL of EDA and 2 mL of PA added to approximately 600 mL of <italic toggle="yes">Miscanthus</italic> extract and synthesized <italic toggle="yes">via</italic> conventional heating methods. The amounts of EDA and PA chosen for this study were based upon previous work by Liu <italic toggle="yes">et al.</italic><sup><xref rid="cit38" ref-type="bibr">38</xref></sup> to prepare nitrogen- and phosphorous-doped CDs. The doped MCDs were also filtered, neutralized and centrifuged following the same method. A small amount of MCDs and doped MCDs were dried in the freeze drier for characterization with the remaining parts of the samples kept as aqueous dispersions.</p></sec><sec><label>2.4</label><title>Characterization of CDs</title><p>The ultraviolet-visible (UV-visible) spectra of MCDs and doped MCDs in aqueous solution were recorded on a Cary 300 spectrometer (Agilent Technologies, California, USA) over the range 200–500 nm. Fourier-transform infrared (FTIR) spectroscopy analysis was performed by a Nicolet 6700 (Thermo Scientific, Massachusetts, USA) over a small orbit diamond window with 164 scans and a resolution of 4 cm<sup>−1</sup>. A Phenom ProX scanning electron microscope (SEM) equipped with energy dispersive X-ray (EDS) was used to evaluate the elemental composition of MCDs and doped MCDs. The transmission electron microscopy (TEM) images were taken on a JEOL 2010F working at 200 keV. MCDs and doped MCDs were placed onto holey carbon TEM grids and dried at room temperature under vacuum before imaging. Furthermore, the Raman spectral analysis was performed <italic toggle="yes">via</italic> DXR™ 2 Raman microscope (Thermo Scientific, Massachusetts, USA) through a 50 μm pinhole at 10× magnification and laser wavelength of 532 nm. The X-ray diffraction (XRD) study was carried out at room temperature (<italic toggle="yes">ca.</italic> 25 °C) by a Rigaku Automated Powder X-ray Diffractometer with Cuκα irradiation (<italic toggle="yes">λ</italic> = 0.154 nm) over a range of 2<italic toggle="yes">θ</italic> = 10–70° at scan rate 1/min.</p><p>All fluorescent spectra were taken with a Cary Eclipse Spectrophotometer (Agilent Technologies, California, USA) at different excitation wavelengths (320, 350, 370, 390 and 410 nm) and varying pH values. Dilute 0.01 M KOH and 0.01 M PA were prepared and used to adjust the pH of MCD solutions. The QYs of MCD and doped MCD solutions were calculated using <xref rid="eqn1" ref-type="disp-formula">eqn (1)</xref>,<disp-formula id="eqn1"><label>1</label><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="ugt1" position="float" orientation="portrait" xlink:href="c8ra10051a-t1.jpg"/></disp-formula>where intensity of fluorescence spectra, optical density at excited wavelength, and the refractive index of the used solvent (water) are represented by <italic toggle="yes">I</italic>, <italic toggle="yes">A</italic> and <italic toggle="yes">η</italic>, respectively. Quinine sulfate in 0.1 M H<sub>2</sub>SO<sub>4</sub> solution was used as the reference material. The subscript ‘R’ in <xref rid="eqn1" ref-type="disp-formula">eqn (1)</xref> corresponds to quinine sulfate.</p><p>The detection of Fe<sup>3+</sup> ions was carried out in aqueous solution at room temperature by measuring the quenching of fluorescence spectra with different concentrations of Fe<sup>3+</sup> ions. The fluorescence spectra of other metal ion solutions (Co<sup>2+</sup>, Ni<sup>2+</sup> and Mn<sup>2+</sup>) were also recorded in a similar way to confirm the selectivity for Fe<sup>3+</sup> ions.</p></sec></sec><sec><label>3</label><title>Results and discussion</title><sec><label>3.1</label><title>Synthesis of MCD and doped MCDs</title><p>
+<italic toggle="yes">Miscanthus</italic> grass is a perennial herbaceous plant with lignocellulosic structure.<sup><xref rid="cit39" ref-type="bibr">39</xref></sup> Different-aged <italic toggle="yes">Miscanthus</italic> grasses contain cellulose (41.7–53.6%), lignin (20.1–23.8%), ash (3.57–6.30%), pentosans (20.0–25.3%), and extractives (2.8 to 5.7%).<sup><xref rid="cit39" ref-type="bibr">39,40</xref></sup> The aqueous extract of <italic toggle="yes">Miscanthus</italic> grass contained these extractives and soluble oligomers.<sup><xref rid="cit41" ref-type="bibr">41</xref></sup> The detailed possible mechanism for the formation of MCDs is shown in <xref rid="sch1" ref-type="fig">Scheme 1</xref>. The major steps during synthesis included polymerization, aromatization, nucleation, and growth of particles.<sup><xref rid="cit42" ref-type="bibr">42,43</xref></sup> Initially, the extractives and soluble oligomers reacted with each other through intermolecular dehydration under basic conditions. This aided in the formation of large-sized polymer nanoparticles. The polymer nanoparticles formed, continuously contracted due to further intramolecular dehydration. At this stage, aromatic clusters with a number of C<private-char name="DOUBLE BOND, LENGTH AS M-DASH" description="double bond, length as m-dash"><glyph-data id="z.dbd" format="SVG" resolution="300" x-size="8" y-size="10" xml:space="preserve">
+
+&lt;svg xmlns="http://www.w3.org/2000/svg" version="1.0" width="13.200000pt" height="16.000000pt" viewBox="0 0 13.200000 16.000000" preserveAspectRatio="xMidYMid meet"&gt;&lt;metadata&gt;
+Created by potrace 1.16, written by Peter Selinger 2001-2019
+&lt;/metadata&gt;&lt;g transform="translate(1.000000,15.000000) scale(0.017500,-0.017500)" fill="currentColor" stroke="none"&gt;&lt;path d="M0 440 l0 -40 320 0 320 0 0 40 0 40 -320 0 -320 0 0 -40z M0 280 l0 -40 320 0 320 0 0 40 0 40 -320 0 -320 0 0 -40z"/&gt;&lt;/g&gt;&lt;/svg&gt;
+
+</glyph-data></private-char>O and C<private-char name="DOUBLE BOND, LENGTH AS M-DASH" description="double bond, length as m-dash"><glyph-ref glyph-data="z.dbd"/></private-char>C groups formed inside the polymer nanoparticles. After reaching the critical supersaturation concentration, a nuclear burst of the aromatic clusters takes place to form the MCDs.<sup><xref rid="cit27" ref-type="bibr">27</xref></sup></p><fig position="float" id="sch1" fig-type="scheme" orientation="portrait"><label>Scheme 1</label><caption><title>A proposed mechanism for the formation of MCDs.</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="c8ra10051a-s1.jpg"/></fig></sec><sec><label>3.2</label><title>Characterization of MCD and doped MCDs</title><p>The UV-visible spectra of MCD and doped MCD solutions showed a maximum absorption peak at 277–284 nm, as well as a prolonged tail in the visible region (<xref rid="fig1" ref-type="fig">Fig. 1</xref>). De <italic toggle="yes">et al.</italic><sup><xref rid="cit42" ref-type="bibr">42</xref></sup> found a similar peak at 283 nm for banana extract-derived CDs. Peaks in this region occurred as a result of the n–π* transition of electrons for the C<private-char name="DOUBLE BOND, LENGTH AS M-DASH" description="double bond, length as m-dash"><glyph-ref glyph-data="z.dbd"/></private-char>O bond, in addition to the π–π* transition of electrons for C<private-char name="DOUBLE BOND, LENGTH AS M-DASH" description="double bond, length as m-dash"><glyph-ref glyph-data="z.dbd"/></private-char>C or C<private-char name="DOUBLE BOND, LENGTH AS M-DASH" description="double bond, length as m-dash"><glyph-ref glyph-data="z.dbd"/></private-char>N bonds, respectively.<sup><xref rid="cit42" ref-type="bibr">42</xref></sup> All the doped MCDs (N-doped, P-doped, and dual-doped) possessed two absorption peaks. The presence of a secondary peak was also found in N-doped samples prepared by Yuan <italic toggle="yes">et al.</italic><sup><xref rid="cit44" ref-type="bibr">44</xref></sup> The second peak most likely resulted from samples trapping energy in the excited states <italic toggle="yes">via</italic> the surface states;<sup><xref rid="cit45" ref-type="bibr">45</xref></sup> which was previously reported in the literature and assigned to the n–π* transition of electrons in the carbogenic core.<sup><xref rid="cit46" ref-type="bibr">46</xref></sup></p><fig position="float" id="fig1" orientation="portrait"><label>Fig. 1</label><caption><title>UV-visible spectra of MCDs and doped MCDs.</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="c8ra10051a-f1.jpg"/></fig><p>FTIR spectra were recorded to confirm the presence of specific functionality in the MCDs and doped MCDs (<xref rid="fig2" ref-type="fig">Fig. 2</xref>). The broad peak at 3274 cm<sup>−1</sup> was due to the N–H stretching<sup><xref rid="cit47" ref-type="bibr">47</xref></sup> and vibrations of O–H groups.<sup><xref rid="cit48" ref-type="bibr">48</xref></sup> The smaller peak at 2930 cm<sup>−1</sup> existed due to stretching of C–H groups.<sup><xref rid="cit48" ref-type="bibr">48</xref></sup> In the FTIR spectra obtained from MCDs, prominent peaks at 1683, 1126 and 1033 cm<sup>−1</sup> were found for carbonyl (C<private-char name="DOUBLE BOND, LENGTH AS M-DASH" description="double bond, length as m-dash"><glyph-ref glyph-data="z.dbd"/></private-char>O), C–N and C–O stretching, respectively. Shi <italic toggle="yes">et al.</italic><sup><xref rid="cit21" ref-type="bibr">21</xref></sup> also found similar kinds of FTIR peaks in cornstalk-based CDs. FTIR peaks for N-doped MCDs and dual-doped MCDs showed a strong NH<sub>2</sub> scissoring peak at 1582 cm<sup>−1</sup>.<sup><xref rid="cit44" ref-type="bibr">44</xref></sup> This indicated the presence of amine groups in N-doped MCDs and dual-doped MCDs. Yuan <italic toggle="yes">et al.</italic><sup><xref rid="cit44" ref-type="bibr">44</xref></sup> also noticed NH<sub>2</sub> scissoring peaks at the same position for citric acid-based N-doped CDs. P-doped MCDs demonstrated a characteristic peak for the P–O–H stretching bond at 944 cm<sup>−1</sup>.<sup><xref rid="cit38" ref-type="bibr">38</xref></sup> This suggests successful doping in MCDs. Based on the peaks observed on the FTIR spectra from the MCD aqueous solutions, it can be deduced that the samples possessed various surface functionalities, including amine groups, hydroxyl, carbonyl and carboxylate groups.</p><fig position="float" id="fig2" orientation="portrait"><label>Fig. 2</label><caption><title>FTIR spectral analysis of (a) MCDs, (b) N-doped MCDs, (c) P-doped MCDs and (d) dual-doped MCDs.</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="c8ra10051a-f2.jpg"/></fig><p>In order to find out the elemental composition of MCDs and doped MCDs, the weight of the elements and the atomic ratios of the elements were determined from SEM/EDS data and are displayed in <xref rid="tab1" ref-type="table">Table 1</xref>. The nitrogen content in N-doped MCDs was estimated to be <italic toggle="yes">ca.</italic> 28.8%, which indicated that N-doped MCDs were nitrogen rich in nature. The content of phosphorous in P-doped MCD was found to be <italic toggle="yes">ca.</italic> 7.4%. Also, significant amounts of phosphorous and nitrogen were found in dual-doped MCDs. This suggested successful doping of heteroatoms in the MCDs.</p><table-wrap position="float" id="tab1" orientation="portrait"><caption><title>EDS elemental compositions of MCDs (atomic%)</title></caption><table frame="hsides" rules="groups"><colgroup span="1"><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/></colgroup><thead><tr><th rowspan="1" colspan="1">Sample</th><th rowspan="1" colspan="1">Carbon</th><th rowspan="1" colspan="1">Nitrogen</th><th rowspan="1" colspan="1">Oxygen</th><th rowspan="1" colspan="1">Phosphorus</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">MCD</td><td align="char" char="xb1" rowspan="1" colspan="1">43.1 ± 1.0</td><td align="char" char="xb1" rowspan="1" colspan="1">8.4 ± 0.9</td><td align="char" char="xb1" rowspan="1" colspan="1">46.5 ± 1.7</td><td rowspan="1" colspan="1">—</td></tr><tr><td rowspan="1" colspan="1">N-doped MCD</td><td align="char" char="xb1" rowspan="1" colspan="1">33.9 ± 9.4</td><td align="char" char="xb1" rowspan="1" colspan="1">28.8 ± 4.5</td><td align="char" char="xb1" rowspan="1" colspan="1">38.4 ± 9.4</td><td rowspan="1" colspan="1">—</td></tr><tr><td rowspan="1" colspan="1">P-doped MCD</td><td align="char" char="xb1" rowspan="1" colspan="1">32.2 ± 3.6</td><td align="char" char="xb1" rowspan="1" colspan="1">10.4 ± 5.9</td><td align="char" char="xb1" rowspan="1" colspan="1">50.0 ± 7.6</td><td align="char" char="xb1" rowspan="1" colspan="1">7.4 ± 1.8</td></tr><tr><td rowspan="1" colspan="1">Dual-doped MCD</td><td align="char" char="xb1" rowspan="1" colspan="1">31.1 ± 2.5</td><td align="char" char="xb1" rowspan="1" colspan="1">18.2 ± 1.3</td><td align="char" char="xb1" rowspan="1" colspan="1">43.0 ± 1.6</td><td align="char" char="xb1" rowspan="1" colspan="1">7.7 ± 0.5</td></tr></tbody></table></table-wrap><p>The XRD patterns of MCDs and doped MCDs displayed a broad peak at 2<italic toggle="yes">θ</italic> = 21.7 with a lattice space of 0.41 nm, which corresponded to the graphite lattice spacing of (002) (see <xref rid="fig3" ref-type="fig">Fig. 3a</xref>). The larger lattice space in comparison to graphite (0.34 nm) may be caused by the presence of an enormous amount of functional groups.<sup><xref rid="cit15" ref-type="bibr">15</xref></sup> The broad peak suggests that the synthesized MCDs and doped MCDs were moderately crystalline in nature.<sup><xref rid="cit18" ref-type="bibr">18</xref></sup></p><fig position="float" id="fig3" orientation="portrait"><label>Fig. 3</label><caption><title>(a) XRD patterns and (b) Raman spectra of (i) MCDs, (ii) N-doped MCDs, (iii) P-doped MCDs and (iv) dual-doped MCDs.</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="c8ra10051a-f3.jpg"/></fig><p>Raman spectra of MCDs and doped MCDs are presented in <xref rid="fig3" ref-type="fig">Fig. 3b</xref>. Two Raman peaks were found at 1362 and 1598 cm<sup>−1</sup>, which were attributed to D- and G-band, respectively. The D-band and G-band correspond to defects and the E<sub>2g</sub> mode of graphitic structure, respectively.<sup><xref rid="cit10" ref-type="bibr">10</xref></sup> The position of the peak was unchanged after doping of MCDs; however, the intensity ratio (<italic toggle="yes">I</italic><sub>D</sub>/<italic toggle="yes">I</italic><sub>G</sub>) changed upon doping. The <italic toggle="yes">I</italic><sub>D</sub>/<italic toggle="yes">I</italic><sub>G</sub> for MCDs was measured and found to be 0.81; however, the value increased to 0.89 for N-doped MCDs. This indicated that the doping attached more functional groups and, hence, the defects in the structure increased.<sup><xref rid="cit14" ref-type="bibr">14,16</xref></sup></p></sec><sec><label>3.3</label><title>TEM analysis of MCDs and doped MCDs</title><p>The morphology and particle size of MCDs and doped MCDs were characterized and measured by TEM, as the photoluminescence (PL) properties of CDs are mostly dependent on particle size. The TEM images of MCDs and N-doped MCDs are shown in <xref rid="fig4" ref-type="fig">Fig. 4</xref>, which demonstrates that both MCDs and doped MCDs were mainly orbicular in their morphology and were distributed evenly without any agglomeration. The average size of MCDs, N-doped MCDs, P-doped MCDs and dual-doped MCDs was found to be 7.87 ± 0.27, 4.6 ± 0.21, 6.7 ± 0.38 and 5.3 ± 0.32 nm, respectively. This suggested that MCDs and N-doped MCDs may have wavelength-dependent PL properties. We further investigated the wavelength-dependent PL properties and these are discussed in the next section.</p><fig position="float" id="fig4" orientation="portrait"><label>Fig. 4</label><caption><title>TEM images of the as-prepared (a) MCDs, (b) N-doped MCDs (inset showing high resolution TEM image), (c) P-doped MCDs and (d) dual-doped MCDs.</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="c8ra10051a-f4.jpg"/></fig><p>In the high resolution TEM image of the N-doped MCDs, the lattice fringes were clearly observed (<xref rid="fig4" ref-type="fig">Fig. 4b</xref>, inset). This further indicated the presence of graphitic layers in the N-doped MCD structure.</p></sec><sec><label>3.4</label><title>Optical properties of MCD and doped MCD</title><p>A thorough study on the fluorescence properties of MCDs and doped MCDs was carried out at regular intervals from 320 nm to 410 nm (for excitation wavelengths). The excitation-dependent emission spectra of MCDs and doped MCDs are shown in <xref rid="fig5" ref-type="fig">Fig. 5</xref>. The strength of the PL emission was calculated by the intensity of the peaks. The intensity of the samples was strongly dependent on the number of excited particles at the excitation wavelength.<sup><xref rid="cit42" ref-type="bibr">42</xref></sup> The synthesized MCDs and doped MCDs experienced excitation-dependent emission and a red-shift in emission peak values with increased excitation wavelength. The maximum emission wavelengths were found at 431 nm, 512 nm, 455 nm and 485 nm for MCDs, N-doped MCDs, P-doped MCDs and dual-doped MCDs, respectively. The N-doped MCDs exhibited a unique and systematic increase in PL properties. As the excitation wavelength increased, both the intensity and emission wavelengths increased. According to previous work by Ding <italic toggle="yes">et al.</italic>,<sup><xref rid="cit48" ref-type="bibr">48</xref></sup> the improvement in fluorescence of the samples was most likely attributed to nitrogen doping.</p><fig position="float" id="fig5" orientation="portrait"><label>Fig. 5</label><caption><title>Photoluminescence (PL) spectra for: (a) MCDs; (b) N-doped MCDs; (c) P-doped MCDs; (d) dual-doped MCDs (insets showing excitation-dependent-normalized PL intensity).</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="c8ra10051a-f5.jpg"/></fig><p>P-doped MCDs experienced similar PL properties for excitation wavelengths of 350, 370 and 390 nm. The dual-doped MCDs also exhibited relatively similar intensities, with the strongest emission at 485 nm (390 nm excitation). Overall, these samples possessed good PL properties, especially N-doped MCDs which showed the strongest PL emission. According to literature, excitation-dependent PL properties are controlled by various factors, including: the carbogenic cores that are present in the samples, the surface states and the quantum effects possessed by all samples.<sup><xref rid="cit48" ref-type="bibr">48</xref></sup> The QYs of MCDs and doped MCDs were evaluated using a reference fluorescence material (quinine sulfate). QYs were found to be 4.71, 11.65, 2.33 and 9.63% for the MCDs, N-doped MCDs, P-doped MCDs and dual-doped MCDs, respectively. Since the N-doped MCDs demonstrated a high QY, it is suggested that there is potential use of these CDs as excellent fluorescent probe material.</p></sec><sec><label>3.5</label><title>pH-dependent PL properties</title><p>To investigate the pH-dependent PL emissions of the MCDs and doped MCDs, the fluorescence spectra of MCDs with different pH values, ranging from 1 to 12, were taken and are shown in <xref rid="fig6" ref-type="fig">Fig. 6</xref>. The excitation wavelength was chosen based on achieving optimal fluorescence during the previous analysis (<xref rid="fig6" ref-type="fig">Fig. 6</xref>). A full range of the pH scale was studied to determine the influence of acidic and basic environments on all the prepared samples. It is suggested that this work may increase the applications of MCDs in pH sensing applications. Furthermore, it was quite interesting to find that both acidic and basic environments resulted in fluorescence quenching. Fluorescence quenching has been used to describe the decrease in PL properties as a result of the changed environment for the CDs.<sup><xref rid="cit49" ref-type="bibr">49</xref></sup> The PL intensity was higher under neutral conditions, while decreasing significantly in either strongly acidic or basic solutions. This indicated that the MCDs and doped MCDs were sensitive to acid–base conditions. The PL spectra shifted towards higher wavelengths after changing the pH and this phenomenon was most pronounced under alkaline conditions (<xref rid="fig6" ref-type="fig">Fig. 6</xref>).</p><fig position="float" id="fig6" orientation="portrait"><label>Fig. 6</label><caption><title>pH-dependent photoluminescence spectra of: (a) MCDs; (b) N-doped MCDs; (c) P-doped MCDs; and (d) dual-doped MCDs.</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="c8ra10051a-f6.jpg"/></fig><p>The change in PL emission was attributed to protonation of functional groups (hydroxyl/carboxyl) in acidic conditions and deprotonation in basic conditions.<sup><xref rid="cit46" ref-type="bibr">46,49</xref></sup> According to research, under neutral conditions the carboxylic groups were more likely to exist without the hydrogen attached, since the p<italic toggle="yes">K</italic><sub>a</sub> is between 4 and 5, whereas the p<italic toggle="yes">K</italic><sub>a</sub> value for the hydroxyl group is between 8 and 10.<sup><xref rid="cit46" ref-type="bibr">46</xref></sup> Due to the newly generated surface state, MCDs displayed PL emissions at longer wavelengths under alkaline conditions. In doped MCD samples, it was found that significant quenching occurred in alkaline pH. The performance of these samples may be attributed to the different degrees of deprotonation in the doped MCDs at alkaline pH.</p></sec><sec><label>3.6</label><title>Application of the MCDs for Fe<sup>3+</sup> detection</title><p>To find the selective fluorescence-sensing efficiency of the synthesized MCDs and doped MCDs towards Fe<sup>3+</sup> ions, the quenching properties were obtained in the presence of different metal ions (Co<sup>2+</sup>, Ni<sup>2+</sup>, and Mn<sup>2+</sup>), each with a concentration of 100 μM (<xref rid="fig7" ref-type="fig">Fig. 7</xref>). In <xref rid="fig7" ref-type="fig">Fig. 7</xref>, it is clearly seen that the MCDs and N-doped MCDs possess excellent sensitivity and selectivity for Fe<sup>3+</sup> ions, especially N-doped MCDs. In the case of N-doped MCDs, the fluorescence intensity remained almost unchanged after the addition of other metal ions (Co<sup>2+</sup>, Ni<sup>2+</sup> and Mn<sup>2+</sup>).</p><fig position="float" id="fig7" orientation="portrait"><label>Fig. 7</label><caption><title>Selectivity of the MCDs and doped MCDs for Fe<sup>3+</sup> detection.</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="c8ra10051a-f7.jpg"/></fig><p>In contrast, the fluorescence intensity of the MCDs was slightly changed by the presence of Co<sup>2+</sup> and Ni<sup>2+</sup>. However, P-doped MCDs and dual-doped MCDs showed no significant influence on the PL properties after addition of metal ions. This indicated that N-doped MCDs were most suitable for sensing Fe<sup>3+</sup> ions over the other synthesized MCDs.</p><p>The PL intensity of the N-doped MCDs progressively reduced after addition of Fe<sup>3+</sup> ions over the concentration range of 10 μM to 2 mM (<xref rid="fig8" ref-type="fig">Fig. 8</xref>). The remarkable quenching of PL intensities of N-doped MCDs may have resulted from strong bonding affinity between Fe<sup>3+</sup> ions and N-doped MCDs. The Fe<sup>3+</sup> ions could coordinate with amino and carboxyl groups which are present in the N-doped MCDs (as confirmed in the FTIR spectra as well).<sup><xref rid="cit50" ref-type="bibr">50</xref></sup> The radiative transition was interrupted; and this led to quenching of fluorescence emission.</p><fig position="float" id="fig8" orientation="portrait"><label>Fig. 8</label><caption><title>The PL emission spectra of N-doped MCDs after the addition of Fe<sup>3+</sup> ions.</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="c8ra10051a-f8.jpg"/></fig><p>In <xref rid="fig9" ref-type="fig">Fig. 9a</xref>, the relationship between the Fe<sup>3+</sup> ion concentration and PL intensity is demonstrated. The fluorescence intensity was almost quenched (fluorescence change ratio ∼98%) after adding 1 mM Fe<sup>3+</sup> ions. The relationship between the Fe<sup>3+</sup> ion concentration and the (<italic toggle="yes">F</italic><sub>0</sub> − <italic toggle="yes">F</italic>)/<italic toggle="yes">F</italic><sub>0</sub> value (<italic toggle="yes">F</italic> is the fluorescence intensity after metal ions are added and <italic toggle="yes">F</italic><sub>0</sub> is the fluorescence intensity without metal ions) is shown in <xref rid="fig9" ref-type="fig">Fig. 9b</xref>. A linear correlation was found for the lower concentrations (&lt;200 μM), whereas the curve became saturated at high concentrations of Fe<sup>3+</sup> ions. Fluorescence emission of N-doped MCDs was completely quenched after adding 2 mM Fe<sup>3+</sup> ions. The results clearly reflect that N-doped MCDs possess a wide detection range which could be beneficial for selective Fe<sup>3+</sup> ion detection.</p><fig position="float" id="fig9" orientation="portrait"><label>Fig. 9</label><caption><title>(a) The relationship between Fe<sup>3+</sup> ion concentrations and fluorescence intensity, and (b) Stern–Volmer plot of fluorescence quenching for N-doped MCDs after addition of Fe<sup>3+</sup> ions.</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="c8ra10051a-f9.jpg"/></fig><p>The intensity of the fluorescence spectra for N-doped MCDs was measured in the presence of Fe<sup>3+</sup> concentrations over the range 10–100 μM to determine the limit of detection (LOD) (<xref rid="fig10" ref-type="fig">Fig. 10</xref>). The (<italic toggle="yes">F</italic><sub>0</sub> − <italic toggle="yes">F</italic>)/<italic toggle="yes">F</italic><sub>0</sub> value was plotted against Fe<sup>3+</sup> ion concentration; a good linear relationship was determined between both variables. The LOD was found to be 0.02 μM based on <xref rid="eqn2" ref-type="disp-formula">eqn (2)</xref>.<disp-formula id="eqn2"><label>2</label><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="ugt2" position="float" orientation="portrait" xlink:href="c8ra10051a-t2.jpg"/></disp-formula>where <italic toggle="yes">σ</italic> represents the standard deviation of the PL intensities and S represents the slope of the linear calibration plot shown.</p><fig position="float" id="fig10" orientation="portrait"><label>Fig. 10</label><caption><title>The linear calibration graph for (<italic toggle="yes">F</italic><sub>0</sub>/<italic toggle="yes">F</italic>)/<italic toggle="yes">F</italic><sub>0</sub> with different Fe<sup>3+</sup> ion concentrations.</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="c8ra10051a-f10.jpg"/></fig><p>The Stern–Volmer constant, <italic toggle="yes">K</italic>, was determined using <xref rid="eqn3" ref-type="disp-formula">eqn (3)</xref> and adapted from the literature.<sup><xref rid="cit51" ref-type="bibr">51,52</xref></sup><disp-formula id="eqn3"><label>3</label><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="ugt3" position="float" orientation="portrait" xlink:href="c8ra10051a-t3.jpg"/></disp-formula>where <italic toggle="yes">F</italic> and <italic toggle="yes">F</italic><sub>0</sub> are the fluorescence intensities without and with the presence of Fe<sup>3+</sup>, respectively. <italic toggle="yes">K</italic> is the quenching constant and [Q] is the concentration of the quencher. Due to the linear nature of <xref rid="fig10" ref-type="fig">Fig. 10</xref>, the literature suggested only one type of quenching occurred.<sup><xref rid="cit53" ref-type="bibr">53</xref></sup><italic toggle="yes">K</italic> was found to be 7.1 × 10<sup>4</sup> M<sup>−1</sup> which, according to literature, is attributed to static quenching.<sup><xref rid="cit54" ref-type="bibr">54</xref></sup></p><p>Static quenching was in response to the formation of a non-fluorescent fluorophore while the CDs were in their ground state.<sup><xref rid="cit51" ref-type="bibr">51</xref></sup> In fact, <xref rid="sch2" ref-type="fig">Scheme 2</xref> shows the possible fluorescence quenching mechanism of N-doped MCDs by Fe<sup>3+</sup> ions. The presence of polar functional groups, including hydroxyl, amine and carboxylic, in N-doped MCDs was confirmed by FTIR spectroscopy. These functional groups could form a complex with the Fe<sup>3+</sup> ions.<sup><xref rid="cit30" ref-type="bibr">30</xref></sup> Therefore, the electron or energy was transferred between Fe<sup>3+</sup> ions and N-doped MCDs.<sup><xref rid="cit11" ref-type="bibr">11</xref></sup> The non-radiative energy or electron transfer may be the reason for the quenched fluorescence of MCDs in the presence of Fe<sup>3+</sup>.</p><fig position="float" id="sch2" fig-type="scheme" orientation="portrait"><label>Scheme 2</label><caption><title>Schematic illustration of a possible fluorescence-quenching mechanism.</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="c8ra10051a-s2.jpg"/></fig><p>Furthermore, we compared the reported CDs and carbon-related materials for detection of Fe<sup>3+</sup> (Table S1 in ESI<xref rid="fn1" ref-type="fn">†</xref>). It was determined that the N-doped MCDs exhibited comparable or even better performance, including wider linear range and LOD (0.02 μM), than those previously reported materials for the detection of Fe<sup>3+</sup> ions.</p><p>The results clearly indicated that the N-doped MCDs possessed a wide range of detection capability of Fe<sup>3+</sup> ions which may be valuable for the sensitive, selective and label-free Fe<sup>3+</sup> ion detection from industrial waste and biological applications.</p></sec></sec><sec><label>4</label><title>Conclusions</title><p>A simple and scalable one-pot technique was adopted to synthesize highly fluorescent MCDs and doped MCDs using an inexpensive and readily available sustainable biomass (<italic toggle="yes">Miscanthus</italic> grass). Nitrogen and phosphorous were successfully doped into the MCD frameworks, as was revealed by FTIR spectroscopy. All the synthesized MCDs and doped MCDs exhibited excitation-dependent PL emission behavior, as well as stable and strong fluorescence, without any surface modification or passivation. N-doped MCDs demonstrated a high QY (11.65%) and excellent excitation-dependent and pH-dependent PL emission. The synthesized N-doped MCDs showed superb selectivity and sensitivity to detect low concentrations of Fe<sup>3+</sup> ions. In addition, the N-doped MCDs demonstrated a wide range of detection abilities (0.02 to 2000 μM) with a low limit of detection (20 nM), which could be valuable for the selective detection of Fe<sup>3+</sup> ions from biological systems as well as in industrial waste. We believe that the proposed MCD sensors will be more beneficial for further advances.</p></sec><sec sec-type="COI-statement"><title>Conflicts of interest</title><p>There are no conflicts to declare.</p></sec><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material id="RA-009-C8RA10051A-s001" position="float" content-type="local-data" orientation="portrait"><label>RA-009-C8RA10051A-s001</label><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="RA-009-C8RA10051A-s001.pdf" id="d64e1255" position="anchor" orientation="portrait"/></supplementary-material></sec></body><back><ack><p>The authors would like to thank the following for their financial support: Ontario Ministry of Agriculture, Food and Rural Affairs (OMAFRA)/University of Guelph – Bioeconomy for Industrial Uses Research Program (Project # 030332); Natural Sciences and Engineering Research Council (NSERC), Canada Discovery Grants Project # 400320 and 401111; and the Ontario Research Fund, Research Excellence Program; Round-7 (ORF-RE07) from the Ontario Ministry of Research, Innovation and Science (MRIS) (Project # 052644 and 052665).</p></ack><ref-list><title>Notes and references</title><ref id="cit1"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Li</surname><given-names>X. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Rui</surname><given-names>M. C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Song</surname><given-names>J. Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Shen</surname><given-names>Z. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Zeng</surname><given-names>H. B.</given-names></name>
+</person-group><source>Adv. Funct. Mater.</source><year>2015</year><volume>25</volume><fpage>4929</fpage><lpage>4947</lpage><pub-id pub-id-type="doi">10.1002/adfm.201501250</pub-id></element-citation></ref><ref id="cit2"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Chowdhuri</surname><given-names>A. R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Singh</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Ghosh</surname><given-names>S. K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Sahu</surname><given-names>S. K.</given-names></name>
+</person-group><source>ACS Appl. Mater. Interfaces</source><year>2016</year><volume>8</volume><fpage>16573</fpage><lpage>16583</lpage><pub-id pub-id-type="doi">10.1021/acsami.6b03988</pub-id><pub-id pub-id-type="pmid">27305490</pub-id></element-citation></ref><ref id="cit3"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Liao</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Cheng</surname><given-names>Z. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Zhou</surname><given-names>L.</given-names></name>
+</person-group><source>ACS Sustainable Chem. Eng.</source><year>2016</year><volume>4</volume><fpage>3053</fpage><lpage>3061</lpage><pub-id pub-id-type="doi">10.1021/acssuschemeng.6b00018</pub-id></element-citation></ref><ref id="cit4"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Miao</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Han</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Tang</surname><given-names>Y. G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>B. D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Lin</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Cheng</surname><given-names>W. B.</given-names></name>
+</person-group><source>Nanoscale</source><year>2015</year><volume>7</volume><fpage>1586</fpage><lpage>1595</lpage><pub-id pub-id-type="doi">10.1039/C4NR05712K</pub-id><pub-id pub-id-type="pmid">25510876</pub-id></element-citation></ref><ref id="cit5"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Liu</surname><given-names>Y. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Duan</surname><given-names>W. X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Song</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Liu</surname><given-names>J. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Ren</surname><given-names>C. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Wu</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Liu</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Chen</surname><given-names>H. L.</given-names></name>
+</person-group><source>ACS Appl. Mater. Interfaces</source><year>2017</year><volume>9</volume><fpage>12663</fpage><lpage>12672</lpage><pub-id pub-id-type="doi">10.1021/acsami.6b15746</pub-id><pub-id pub-id-type="pmid">28339185</pub-id></element-citation></ref><ref id="cit6"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Sarkar</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Das</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Das</surname><given-names>P. K.</given-names></name>
+</person-group><source>ACS Sustainable Chem. Eng.</source><year>2017</year><volume>5</volume><fpage>8356</fpage><lpage>8369</lpage><pub-id pub-id-type="doi">10.1021/acssuschemeng.7b02130</pub-id></element-citation></ref><ref id="cit7"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Li</surname><given-names>H. T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Kang</surname><given-names>Z. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Liu</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Lee</surname><given-names>S. T.</given-names></name>
+</person-group><source>J. Mater. Chem.</source><year>2012</year><volume>22</volume><fpage>24230</fpage><lpage>24253</lpage><pub-id pub-id-type="doi">10.1039/C2JM34690G</pub-id></element-citation></ref><ref id="cit8"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Park</surname><given-names>S. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Lee</surname><given-names>H. U.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Park</surname><given-names>E. S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Lee</surname><given-names>S. C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Lee</surname><given-names>J. W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Jeong</surname><given-names>S. W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Kim</surname><given-names>C. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Lee</surname><given-names>Y. C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Huh</surname><given-names>Y. S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Lee</surname><given-names>J.</given-names></name>
+</person-group><source>ACS Appl. Mater. Interfaces</source><year>2014</year><volume>6</volume><fpage>3365</fpage><lpage>3370</lpage><pub-id pub-id-type="doi">10.1021/am500159p</pub-id><pub-id pub-id-type="pmid">24512145</pub-id></element-citation></ref><ref id="cit9"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Roy</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Chen</surname><given-names>P. C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Periasamy</surname><given-names>A. P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Chen</surname><given-names>Y. N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Chang</surname><given-names>H. T.</given-names></name>
+</person-group><source>Mater. Today</source><year>2015</year><volume>18</volume><fpage>447</fpage><lpage>458</lpage><pub-id pub-id-type="doi">10.1016/j.mattod.2015.04.005</pub-id></element-citation></ref><ref id="cit10"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Atchudan</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Edison</surname><given-names>T. N. J. I.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Aseer</surname><given-names>K. R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Perumal</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Karthik</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Lee</surname><given-names>Y. R.</given-names></name>
+</person-group><source>Biosens. Bioelectron.</source><year>2018</year><volume>99</volume><fpage>303</fpage><lpage>311</lpage><pub-id pub-id-type="doi">10.1016/j.bios.2017.07.076</pub-id><pub-id pub-id-type="pmid">28780346</pub-id></element-citation></ref><ref id="cit11"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>Z. G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Long</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Feng</surname><given-names>Y. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Qin</surname><given-names>C. Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Feng</surname><given-names>W.</given-names></name>
+</person-group><source>RSC Adv.</source><year>2017</year><volume>7</volume><fpage>2810</fpage><lpage>2816</lpage><pub-id pub-id-type="doi">10.1039/C6RA25465A</pub-id></element-citation></ref><ref id="cit12"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Liu</surname><given-names>H. F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Li</surname><given-names>Z. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Sun</surname><given-names>Y. Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Geng</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Hu</surname><given-names>Y. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Meng</surname><given-names>H. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Ge</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Qu</surname><given-names>L. B.</given-names></name>
+</person-group><source>Sci. Rep.</source><year>2018</year><volume>8</volume><fpage>1086</fpage><pub-id pub-id-type="doi">10.1038/s41598-018-19373-3</pub-id><pub-id pub-id-type="pmid">29348413</pub-id><pub-id pub-id-type="pmcid">PMC5773692</pub-id></element-citation></ref><ref id="cit13"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Jiang</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Gao</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Cai</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Lin</surname><given-names>H.</given-names></name>
+</person-group><source>Angew. Chem.</source><year>2018</year><volume>57</volume><fpage>6216</fpage><lpage>6220</lpage><pub-id pub-id-type="doi">10.1002/anie.201802441</pub-id><pub-id pub-id-type="pmid">29637675</pub-id></element-citation></ref><ref id="cit14"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Edison</surname><given-names>T. N. J. I.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Atchudan</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Sethuraman</surname><given-names>M. G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Shim</surname><given-names>J. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Lee</surname><given-names>Y. R.</given-names></name>
+</person-group><source>J. Photochem. Photobiol., B</source><year>2016</year><volume>161</volume><fpage>154</fpage><lpage>161</lpage><pub-id pub-id-type="doi">10.1016/j.jphotobiol.2016.05.017</pub-id><pub-id pub-id-type="pmid">27236237</pub-id></element-citation></ref><ref id="cit15"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Atchudan</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Edison</surname><given-names>T. N. J. I.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Lee</surname><given-names>Y. R.</given-names></name>
+</person-group><source>J. Colloid Interface Sci.</source><year>2016</year><volume>482</volume><fpage>8</fpage><lpage>18</lpage><pub-id pub-id-type="doi">10.1016/j.jcis.2016.07.058</pub-id><pub-id pub-id-type="pmid">27479911</pub-id></element-citation></ref><ref id="cit16"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Atchudan</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Edison</surname><given-names>T. N. J. I.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Perumal</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Vinodh</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Lee</surname><given-names>Y. R.</given-names></name>
+</person-group><source>J. Alloys Compd.</source><year>2018</year><volume>766</volume><fpage>12</fpage><lpage>24</lpage><pub-id pub-id-type="doi">10.1016/j.jallcom.2018.06.272</pub-id></element-citation></ref><ref id="cit17"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Arul</surname><given-names>V.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Edison</surname><given-names>T. N. J. I.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Lee</surname><given-names>Y. R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Sethuraman</surname><given-names>M. G.</given-names></name>
+</person-group><source>J. Photochem. Photobiol., B</source><year>2017</year><volume>168</volume><fpage>142</fpage><lpage>148</lpage><pub-id pub-id-type="doi">10.1016/j.jphotobiol.2017.02.007</pub-id><pub-id pub-id-type="pmid">28222361</pub-id></element-citation></ref><ref id="cit18"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Edison</surname><given-names>T. N. J. I.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Atchudan</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Shim</surname><given-names>J. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Kalimuthu</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Ahn</surname><given-names>B. C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Lee</surname><given-names>Y. R.</given-names></name>
+</person-group><source>J. Photochem. Photobiol., B</source><year>2016</year><volume>158</volume><fpage>235</fpage><lpage>242</lpage><pub-id pub-id-type="doi">10.1016/j.jphotobiol.2016.03.010</pub-id><pub-id pub-id-type="pmid">26994332</pub-id></element-citation></ref><ref id="cit19"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Atchudan</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Jebakumar Immanuel Edison</surname><given-names>T. N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Perumal</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Lee</surname><given-names>Y. R.</given-names></name>
+</person-group><source>ACS Omega</source><year>2018</year><volume>3</volume><fpage>17590</fpage><lpage>17601</lpage><pub-id pub-id-type="doi">10.1021/acsomega.8b02463</pub-id></element-citation></ref><ref id="cit20"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Alam</surname><given-names>A.-M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Park</surname><given-names>B.-Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Ghouri</surname><given-names>Z. K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Park</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Kim</surname><given-names>H.-Y.</given-names></name>
+</person-group><source>Green Chem.</source><year>2015</year><volume>17</volume><fpage>3791</fpage><lpage>3797</lpage><pub-id pub-id-type="doi">10.1039/C5GC00686D</pub-id></element-citation></ref><ref id="cit21"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Shi</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Ni</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Tu</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Jin</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Peng</surname><given-names>J.</given-names></name>
+</person-group><source>J. Nanopart. Res.</source><year>2017</year><volume>19</volume><fpage>209</fpage><pub-id pub-id-type="doi">10.1007/s11051-017-3888-5</pub-id></element-citation></ref><ref id="cit22"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Xu</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Lai</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Feng</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Weng</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Huang</surname><given-names>C.</given-names></name>
+</person-group><source>Luminescence</source><year>2015</year><volume>30</volume><fpage>420</fpage><lpage>424</lpage><pub-id pub-id-type="doi">10.1002/bio.2754</pub-id><pub-id pub-id-type="pmid">25158918</pub-id></element-citation></ref><ref id="cit23"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Das Purkayastha</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Manhar</surname><given-names>A. K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Das</surname><given-names>V. K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Borah</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Mandal</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Thakur</surname><given-names>A. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Mahanta</surname><given-names>C. L.</given-names></name>
+</person-group><source>J. Agric. Food Chem.</source><year>2014</year><volume>62</volume><fpage>4509</fpage><lpage>4520</lpage><pub-id pub-id-type="doi">10.1021/jf500138f</pub-id><pub-id pub-id-type="pmid">24784501</pub-id></element-citation></ref><ref id="cit24"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Park</surname><given-names>S. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Lee</surname><given-names>H. U.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Park</surname><given-names>E. S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Lee</surname><given-names>S. C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Lee</surname><given-names>J.-W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Jeong</surname><given-names>S. W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Kim</surname><given-names>C. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Lee</surname><given-names>Y.-C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Huh</surname><given-names>Y. S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Lee</surname><given-names>J.</given-names></name>
+</person-group><source>ACS Appl. Mater. Interfaces</source><year>2014</year><volume>6</volume><fpage>3365</fpage><lpage>3370</lpage><pub-id pub-id-type="doi">10.1021/am500159p</pub-id><pub-id pub-id-type="pmid">24512145</pub-id></element-citation></ref><ref id="cit25"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Bankoti</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Rameshbabu</surname><given-names>A. P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Datta</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Das</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Mitra</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Dhara</surname><given-names>S.</given-names></name>
+</person-group><source>J. Mater. Chem. B</source><year>2017</year><volume>5</volume><fpage>6579</fpage><lpage>6592</lpage><pub-id pub-id-type="doi">10.1039/C7TB00869D</pub-id><pub-id pub-id-type="pmid">32264420</pub-id></element-citation></ref><ref id="cit26"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Vandarkuzhali</surname><given-names>S. A. A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Jeyalakshmi</surname><given-names>V.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Sivaraman</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Singaravadivel</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Krishnamurthy</surname><given-names>K. R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Viswanathan</surname><given-names>B.</given-names></name>
+</person-group><source>Sens. Actuators, B</source><year>2017</year><volume>252</volume><fpage>894</fpage><lpage>900</lpage><pub-id pub-id-type="doi">10.1016/j.snb.2017.06.088</pub-id></element-citation></ref><ref id="cit27"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Jeong</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Moon</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Jeong</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Koh</surname><given-names>W.-G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Lee</surname><given-names>K.</given-names></name>
+</person-group><source>ACS Sustainable Chem. Eng.</source><year>2018</year><volume>6</volume><fpage>4510</fpage><lpage>4515</lpage><pub-id pub-id-type="doi">10.1021/acssuschemeng.8b00353</pub-id></element-citation></ref><ref id="cit28"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Major</surname><given-names>I.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Pin</surname><given-names>J.-M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Behazin</surname><given-names>E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Rodriguez-Uribe</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Misra</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Mohanty</surname><given-names>A.</given-names></name>
+</person-group><source>Green Chem.</source><year>2018</year><volume>20</volume><fpage>2269</fpage><lpage>2278</lpage><pub-id pub-id-type="doi">10.1039/C7GC03457A</pub-id></element-citation></ref><ref id="cit29"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Behazin</surname><given-names>E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Misra</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Mohanty</surname><given-names>A. K.</given-names></name>
+</person-group><source>Composites, Part B</source><year>2017</year><volume>118</volume><fpage>116</fpage><lpage>124</lpage><pub-id pub-id-type="doi">10.1016/j.compositesb.2017.03.003</pub-id></element-citation></ref><ref id="cit30"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Cui</surname><given-names>X. B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>Y. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Liu</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Yang</surname><given-names>Q. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Zhang</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Gao</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Lu</surname><given-names>G. Y.</given-names></name>
+</person-group><source>Sens. Actuators, B</source><year>2017</year><volume>242</volume><fpage>1272</fpage><lpage>1280</lpage><pub-id pub-id-type="doi">10.1016/j.snb.2016.09.032</pub-id></element-citation></ref><ref id="cit31"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Yang</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Guo</surname><given-names>X. F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Jia</surname><given-names>L. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Zhang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Zhao</surname><given-names>Z. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Lonshakov</surname><given-names>F.</given-names></name>
+</person-group><source>Appl. Surf. Sci.</source><year>2017</year><volume>423</volume><fpage>426</fpage><lpage>432</lpage><pub-id pub-id-type="doi">10.1016/j.apsusc.2017.05.252</pub-id></element-citation></ref><ref id="cit32"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Li</surname><given-names>S. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Li</surname><given-names>Y. C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Cao</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Zhu</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Fan</surname><given-names>L. Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Li</surname><given-names>X. H.</given-names></name>
+</person-group><source>Anal. Chem.</source><year>2014</year><volume>86</volume><fpage>10201</fpage><lpage>10207</lpage><pub-id pub-id-type="doi">10.1021/ac503183y</pub-id><pub-id pub-id-type="pmid">25280346</pub-id></element-citation></ref><ref id="cit33"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Zhou</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Zhou</surname><given-names>Z. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Gong</surname><given-names>A. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Zhang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Li</surname><given-names>Q. J.</given-names></name>
+</person-group><source>Talanta</source><year>2015</year><volume>143</volume><fpage>107</fpage><lpage>113</lpage><pub-id pub-id-type="doi">10.1016/j.talanta.2015.04.015</pub-id><pub-id pub-id-type="pmid">26078136</pub-id></element-citation></ref><ref id="cit34"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Shen</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Sun</surname><given-names>Y. P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Lu</surname><given-names>Y.</given-names></name>
+</person-group><source>Nanoscale</source><year>2014</year><volume>6</volume><fpage>9139</fpage><lpage>9147</lpage><pub-id pub-id-type="doi">10.1039/C4NR02154A</pub-id><pub-id pub-id-type="pmid">24978846</pub-id></element-citation></ref><ref id="cit35"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Qu</surname><given-names>K. G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>J. S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Ren</surname><given-names>J. S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Qu</surname><given-names>X. G.</given-names></name>
+</person-group><source>Chem.–Eur. J.</source><year>2013</year><volume>19</volume><fpage>7243</fpage><lpage>7249</lpage><pub-id pub-id-type="doi">10.1002/chem.201300042</pub-id><pub-id pub-id-type="pmid">23576265</pub-id></element-citation></ref><ref id="cit36"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Atchudan</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Edison</surname><given-names>T. N. J. I.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Aseer</surname><given-names>K. R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Perumal</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Lee</surname><given-names>Y. R.</given-names></name>
+</person-group><source>Colloids Surf., B</source><year>2018</year><volume>169</volume><fpage>321</fpage><lpage>328</lpage><pub-id pub-id-type="doi">10.1016/j.colsurfb.2018.05.032</pub-id><pub-id pub-id-type="pmid">29800907</pub-id></element-citation></ref><ref id="cit37"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Atchudan</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Edison</surname><given-names>T. N. J. I.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Chakradhar</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Perumal</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Shim</surname><given-names>J. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Lee</surname><given-names>Y. R.</given-names></name>
+</person-group><source>Sens. Actuators, B</source><year>2017</year><volume>246</volume><fpage>497</fpage><lpage>509</lpage><pub-id pub-id-type="doi">10.1016/j.snb.2017.02.119</pub-id></element-citation></ref><ref id="cit38"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Liu</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Gong</surname><given-names>X. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Dong</surname><given-names>W. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Zhou</surname><given-names>R. X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Shuang</surname><given-names>S. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Dong</surname><given-names>C.</given-names></name>
+</person-group><source>Talanta</source><year>2018</year><volume>183</volume><fpage>61</fpage><lpage>69</lpage><pub-id pub-id-type="doi">10.1016/j.talanta.2018.02.060</pub-id><pub-id pub-id-type="pmid">29567190</pub-id></element-citation></ref><ref id="cit39"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Gismatulina</surname><given-names>Y. A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Budaeva</surname><given-names>V. V.</given-names></name>
+</person-group><source>Ind. Crops Prod.</source><year>2017</year><volume>109</volume><fpage>227</fpage><lpage>232</lpage><pub-id pub-id-type="doi">10.1016/j.indcrop.2017.08.026</pub-id></element-citation></ref><ref id="cit40"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Hodgson</surname><given-names>E. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Nowakowski</surname><given-names>D. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Shield</surname><given-names>I.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Riche</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Bridgwater</surname><given-names>A. V.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Clifton-Brown</surname><given-names>J. C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Donnisona</surname><given-names>I. S.</given-names></name>
+</person-group><source>Bioresour. Technol.</source><year>2011</year><volume>102</volume><fpage>3411</fpage><lpage>3418</lpage><pub-id pub-id-type="doi">10.1016/j.biortech.2010.10.017</pub-id><pub-id pub-id-type="pmid">21035327</pub-id></element-citation></ref><ref id="cit41"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>K. T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Jing</surname><given-names>C. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Wood</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Nagardeolekar</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Kohan</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Dongre</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Amidon</surname><given-names>T. E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Bujanovic</surname><given-names>B. M.</given-names></name>
+</person-group><source>Energies</source><year>2018</year><volume>11</volume><fpage>39</fpage><pub-id pub-id-type="doi">10.3390/en11010039</pub-id></element-citation></ref><ref id="cit42"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>De</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Karak</surname><given-names>N.</given-names></name>
+</person-group><source>RSC Adv.</source><year>2013</year><volume>3</volume><fpage>8286</fpage><lpage>8290</lpage><pub-id pub-id-type="doi">10.1039/C3RA00088E</pub-id></element-citation></ref><ref id="cit43"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Hu</surname><given-names>Y. P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Yang</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Tian</surname><given-names>J. W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Yu</surname><given-names>J. S.</given-names></name>
+</person-group><source>J. Mater. Chem. B</source><year>2015</year><volume>3</volume><fpage>5608</fpage><lpage>5614</lpage><pub-id pub-id-type="doi">10.1039/C5TB01005E</pub-id><pub-id pub-id-type="pmid">32262531</pub-id></element-citation></ref><ref id="cit44"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Yuan</surname><given-names>Y. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Liu</surname><given-names>Z. X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Li</surname><given-names>R. S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Zou</surname><given-names>H. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Lin</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Liu</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Huang</surname><given-names>C. Z.</given-names></name>
+</person-group><source>Nanoscale</source><year>2016</year><volume>8</volume><fpage>6770</fpage><lpage>6776</lpage><pub-id pub-id-type="doi">10.1039/C6NR00402D</pub-id><pub-id pub-id-type="pmid">26955862</pub-id></element-citation></ref><ref id="cit45"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Dong</surname><given-names>Y. Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Pang</surname><given-names>H. C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Yang</surname><given-names>H. B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Guo</surname><given-names>C. X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Shao</surname><given-names>J. W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Chi</surname><given-names>Y. W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Li</surname><given-names>C. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Yu</surname><given-names>T.</given-names></name>
+</person-group><source>Angew. Chem., Int. Ed.</source><year>2013</year><volume>52</volume><fpage>7800</fpage><lpage>7804</lpage><pub-id pub-id-type="doi">10.1002/anie.201301114</pub-id><pub-id pub-id-type="pmid">23761198</pub-id></element-citation></ref><ref id="cit46"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Choudhury</surname><given-names>S. D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Chethodil</surname><given-names>J. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Gharat</surname><given-names>P. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Praseetha</surname><given-names>P. K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Pal</surname><given-names>H.</given-names></name>
+</person-group><source>J. Phys. Chem. Lett.</source><year>2017</year><volume>8</volume><fpage>1389</fpage><lpage>1395</lpage><pub-id pub-id-type="doi">10.1021/acs.jpclett.7b00153</pub-id><pub-id pub-id-type="pmid">28287741</pub-id></element-citation></ref><ref id="cit47"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Liu</surname><given-names>W. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Li</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Sun</surname><given-names>X. B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Pan</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>J. P.</given-names></name>
+</person-group><source>Sens. Actuators, B</source><year>2017</year><volume>244</volume><fpage>441</fpage><lpage>449</lpage><pub-id pub-id-type="doi">10.1016/j.snb.2017.01.009</pub-id></element-citation></ref><ref id="cit48"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Ding</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Wei</surname><given-names>J. S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Xiong</surname><given-names>H. M.</given-names></name>
+</person-group><source>Nanoscale</source><year>2014</year><volume>6</volume><fpage>13817</fpage><lpage>13823</lpage><pub-id pub-id-type="doi">10.1039/C4NR04267K</pub-id><pub-id pub-id-type="pmid">25297983</pub-id></element-citation></ref><ref id="cit49"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Zhu</surname><given-names>S. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Song</surname><given-names>Y. B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Zhao</surname><given-names>X. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Shao</surname><given-names>J. R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Zhang</surname><given-names>J. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Yang</surname><given-names>B.</given-names></name>
+</person-group><source>Nano Res.</source><year>2015</year><volume>8</volume><fpage>355</fpage><lpage>381</lpage><pub-id pub-id-type="doi">10.1007/s12274-014-0644-3</pub-id></element-citation></ref><ref id="cit50"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Shamsipur</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Molaei</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Molaabasi</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Alipour</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Alizadeh</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Hosseinkhani</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Hosseini</surname><given-names>M.</given-names></name>
+</person-group><source>Talanta</source><year>2018</year><volume>183</volume><fpage>122</fpage><lpage>130</lpage><pub-id pub-id-type="doi">10.1016/j.talanta.2018.02.042</pub-id><pub-id pub-id-type="pmid">29567154</pub-id></element-citation></ref><ref id="cit51"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Fraiji</surname><given-names>L. K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Hayes</surname><given-names>D. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Werner</surname><given-names>T. C.</given-names></name>
+</person-group><source>J. Chem. Educ.</source><year>1992</year><volume>69</volume><fpage>424</fpage><lpage>428</lpage><pub-id pub-id-type="doi">10.1021/ed069p424</pub-id></element-citation></ref><ref id="cit52"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Song</surname><given-names>Y. B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Zhu</surname><given-names>S. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Xiang</surname><given-names>S. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Zhao</surname><given-names>X. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Zhang</surname><given-names>J. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Zhang</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Fu</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Yang</surname><given-names>B.</given-names></name>
+</person-group><source>Nanoscale</source><year>2014</year><volume>6</volume><fpage>4676</fpage><lpage>4682</lpage><pub-id pub-id-type="doi">10.1039/C4NR00029C</pub-id><pub-id pub-id-type="pmid">24647626</pub-id></element-citation></ref><ref id="cit53"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Teale</surname><given-names>F. W. J.</given-names></name>
+</person-group><source>Nature</source><year>1984</year><volume>307</volume><fpage>486</fpage><pub-id pub-id-type="doi">10.1038/307486b0</pub-id></element-citation></ref><ref id="cit54"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Shangguan</surname><given-names>J. F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Huang</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>He</surname><given-names>D. G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>He</surname><given-names>X. X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>K. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Ye</surname><given-names>R. Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Yang</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Qing</surname><given-names>T. P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Tang</surname><given-names>J. L.</given-names></name>
+</person-group><source>Anal. Chem.</source><year>2017</year><volume>89</volume><fpage>7477</fpage><lpage>7484</lpage><pub-id pub-id-type="doi">10.1021/acs.analchem.7b01053</pub-id><pub-id pub-id-type="pmid">28628302</pub-id></element-citation></ref></ref-list></back></article>

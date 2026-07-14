@@ -1,0 +1,574 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article article-type="research-article" xml:lang="en" dtd-version="1.4"><front><journal-meta><journal-id journal-id-type="nlm-ta">Int J Immunopathol Pharmacol</journal-id><journal-id journal-id-type="iso-abbrev">Int J Immunopathol Pharmacol</journal-id><journal-id journal-id-type="pmc-domain-id">3390</journal-id><journal-id journal-id-type="pmc-domain">ijip</journal-id><journal-id journal-id-type="nlm-id">8911335</journal-id><journal-id journal-id-type="publisher-id">IJI</journal-id><journal-title-group><journal-title>International Journal of Immunopathology and Pharmacology</journal-title></journal-title-group><issn pub-type="ppub">0394-6320</issn><issn pub-type="epub">2058-7384</issn><publisher><publisher-name>SAGE Publications</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC6259061</article-id><article-id pub-id-type="pmcid-ver">PMC6259061.1</article-id><article-id pub-id-type="pmcaid">6259061</article-id><article-id pub-id-type="pmcaiid">6259061</article-id><article-id pub-id-type="pmid">30477356</article-id><article-id pub-id-type="doi">10.1177/2058738418814341</article-id><article-id pub-id-type="publisher-id">10.1177_2058738418814341</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Original Research Article</subject></subj-group></article-categories><title-group><article-title>Kaempferol inhibits proliferation, migration, and invasion of liver
+cancer HepG2 cells by down-regulation of microRNA-21</article-title></title-group><contrib-group><contrib contrib-type="author"><name name-style="western"><surname>Zhu</surname><given-names initials="G">Genglong</given-names></name><xref ref-type="aff" rid="aff1-2058738418814341">1</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Liu</surname><given-names initials="X">Xialei</given-names></name><xref ref-type="aff" rid="aff1-2058738418814341">1</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Li</surname><given-names initials="H">Haijing</given-names></name><xref ref-type="aff" rid="aff2-2058738418814341">2</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Yan</surname><given-names initials="Y">Yang</given-names></name><xref ref-type="aff" rid="aff3-2058738418814341">3</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Hong</surname><given-names initials="X">Xiaopeng</given-names></name><xref ref-type="aff" rid="aff1-2058738418814341">1</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Lin</surname><given-names initials="Z">Zhidong</given-names></name><xref ref-type="aff" rid="aff4-2058738418814341">4</xref><xref ref-type="corresp" rid="corresp1-2058738418814341"/></contrib></contrib-group><aff id="aff1-2058738418814341"><label>1</label>Department of Hepatobiliary Surgery, The
+Fifth Affiliated Hospital of Sun Yat-Sen University, Zhuhai, China</aff><aff id="aff2-2058738418814341"><label>2</label>Department of Central Supply Service,
+The Fifth Affiliated Hospital of Sun Yat-Sen University, Zhuhai, China</aff><aff id="aff3-2058738418814341"><label>3</label>Department of Neurosurgery, The Fifth
+Affiliated Hospital of Sun Yat-Sen University, Zhuhai, China</aff><aff id="aff4-2058738418814341"><label>4</label>Department of General Surgery, The Fifth
+Affiliated Hospital of Sun Yat-Sen University, Zhuhai, China</aff><author-notes><corresp id="corresp1-2058738418814341">Zhidong Lin, Department of General Surgery,
+The Fifth Affiliated Hospital of Sun Yat-Sen University, No.52, Meihua East
+Road, Zhuhai 519000, Guangdong, China. Email:
+<email>zhidonglin32@sohu.com</email></corresp></author-notes><pub-date pub-type="epub"><day>26</day><month>11</month><year>2018</year></pub-date><pub-date pub-type="collection"><season>Mar-Dec</season><year>2018</year></pub-date><volume>32</volume><issue-id pub-id-type="pmc-issue-id">309246</issue-id><elocation-id>2058738418814341</elocation-id><history><date date-type="received"><day>6</day><month>8</month><year>2018</year></date><date date-type="accepted"><day>24</day><month>10</month><year>2018</year></date></history><pub-history><event event-type="pmc-release"><date><day>26</day><month>11</month><year>2018</year></date></event><event event-type="pmc-live"><date><day>30</day><month>11</month><year>2018</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2024-02-01 12:25:10.757"><day>01</day><month>02</month><year>2024</year></date></event></pub-history><permissions><copyright-statement>© The Author(s) 2018</copyright-statement><copyright-year>2018</copyright-year><copyright-holder content-type="sage">SAGE Publications Ltd unless otherwise noted.
+Manuscript content on this site is licensed under Creative Commons
+Licenses</copyright-holder><license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="creative-commons" xlink:href="http://www.creativecommons.org/licenses/by-nc/4.0/"><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>This article is distributed under the terms of the Creative Commons
+Attribution-NonCommercial 4.0 License (<ext-link ext-link-type="uri" xlink:href="http://www.creativecommons.org/licenses/by-nc/4.0/">http://www.creativecommons.org/licenses/by-nc/4.0/</ext-link>) which
+permits non-commercial use, reproduction and distribution of the work
+without further permission provided the original work is attributed as
+specified on the SAGE and Open Access pages (<ext-link ext-link-type="uri" xlink:href="https://us.sagepub.com/en-us/nam/open-access-at-sage">https://us.sagepub.com/en-us/nam/open-access-at-sage</ext-link>).</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="10.1177_2058738418814341.pdf"/><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="expression-of-concern" xml:lang="en" xlink:title="expression-of-concern" journal-id="Int J Immunopathol Pharmacol" journal-id-type="nlm-ta" ext-link-type="pmc" xlink:href="PMC7907935"><article-title>EXPRESSION OF CONCERN: ‘Kaempferol inhibits proliferation, migration and
+invasion of liver cancer HepG2 cells by down-regulation of microRNA-21’</article-title><volume>35</volume><date><day>24</day><month>2</month><year>2021</year></date><elocation-id>20587384211000844</elocation-id><source>International Journal of Immunopathology and Pharmacology</source><pub-id pub-id-type="doi">10.1177/20587384211000844</pub-id><pub-id pub-id-type="pmcid">PMC7907935</pub-id><pub-id pub-id-type="pmid">33625271</pub-id></related-article><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="retraction-forward" xml:lang="en" xlink:title="retraction" vol="35" journal-id="Int J Immunopathol Pharmacol" journal-id-type="nlm-ta" ext-link-type="pmc" xlink:href="PMC8419551"><article-title>RETRACTION NOTICE: Kaempferol inhibits proliferation, migration, and invasion of liver cancer HepG2 cells by down-regulation of microRNA-21</article-title><volume>35</volume><date><day>2</day><month>9</month><year>2021</year></date><elocation-id>20587384211040394</elocation-id><source>International Journal of Immunopathology and Pharmacology</source><pub-id pub-id-type="doi">10.1177/20587384211040394</pub-id><pub-id pub-id-type="pmcid">PMC8419551</pub-id><pub-id pub-id-type="pmid">34472411</pub-id></related-article><abstract><p>Liver cancer is one of the most common and lethal cancers in human digestive
+system, which kills more than half a million people every year worldwide. This
+study aimed to investigate the effects of kaempferol, a flavonoid compound
+isolated from vegetables and fruits, on hepatic cancer HepG2 cell proliferation,
+migration, invasion, and apoptosis, as well as microRNA-21 (miR-21) expression.
+Cell viability was detected using cell counting kit-8 (CCK-8) assay. Cell
+proliferation was measured using 5-bromo-2′-deoxyuridine (BrdU) incorporation
+assay. Cell apoptosis was assessed using Guava Nexin assay. Cell migration and
+invasion were determined using two-chamber migration (invasion) assay. Cell
+transfection was used to change the expression of miR-21. Quantitative reverse
+transcription polymerase chain reaction (qRT-PCR) was performed to analyze the
+expressions of miR-21 and phosphatase and tensin homologue (PTEN). Expression of
+key proteins involved in proliferation, apoptosis, migration, invasion, and
+phosphatidylinositol 3-kinase/protein kinase 3/mammalian target of rapamycin
+(PI3K/AKT/mTOR) pathway were evaluated using western blotting. Results showed
+that kaempferol significantly inhibited HepG2 cell proliferation, migration, and
+invasion, and induced cell apoptosis. Kaempferol remarkably reduce the
+expression of miR-21 in HepG2 cells. Overexpression of miR-21 obviously reversed
+the effects of kaempferol on HepG2 cell proliferation, migration, invasion, and
+apoptosis. Moreover, miR-21 negatively regulated the expression of PTEN in HepG2
+cells. Kaempferol enhanced the expression of PTEN and inactivated PI3K/AKT/mTOR
+signaling pathway in HepG2 cells. In conclusion, kaempferol inhibited
+proliferation, migration, and invasion of HepG2 cells by down-regulating miR-21
+and up-regulating PTEN, as well as inactivating PI3K/AKT/mTOR signaling
+pathway.</p></abstract><kwd-group><kwd>kaempferol</kwd><kwd>liver cancer</kwd><kwd>microRNA-21</kwd><kwd>phosphatase and tensin homologue</kwd><kwd>PI3K/AKT/mTOR signaling pathway</kwd></kwd-group><funding-group><award-group id="award1-2058738418814341"><funding-source id="funding1-2058738418814341"><institution-wrap><institution>Zhuhai Medical Science and Technology Project</institution><institution-id/></institution-wrap></funding-source><award-id rid="funding1-2058738418814341">20171009E030026</award-id></award-group></funding-group><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>March-December 2018</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="intro" id="section1-2058738418814341"><title>Introduction</title><p>Liver cancer is one of the most common and lethal cancers in human digestive system,
+which kills more than half a million people every year worldwide.<sup><xref rid="bibr1-2058738418814341" ref-type="bibr">1</xref>,<xref rid="bibr2-2058738418814341" ref-type="bibr">2</xref></sup> According to the different
+origins, liver cancer can be divided into two major categories: primary liver cancer
+and secondary liver cancer.<sup><xref rid="bibr3-2058738418814341" ref-type="bibr">3</xref></sup> Primary liver cancer originates from uncontrolled liver cell proliferation,
+which is often called as hepatocellular cancer.<sup><xref rid="bibr4-2058738418814341" ref-type="bibr">4</xref></sup> Secondary liver cancer originates from uncontrolled cell proliferation in
+other organs, such as lung, stomach, colon, and breast, and metastasizes to liver
+finally, which is often called as metastasis liver cancer.<sup><xref rid="bibr5-2058738418814341" ref-type="bibr">5</xref>,<xref rid="bibr6-2058738418814341" ref-type="bibr">6</xref></sup> The initial symptoms of liver
+cancer are not obvious, which limits the early diagnosis and treatment for liver cancer.<sup><xref rid="bibr7-2058738418814341" ref-type="bibr">7</xref></sup> The clinical symptoms of advanced liver cancer are liver pain, fatigue,
+weight loss, jaundice, and ascites.<sup><xref rid="bibr8-2058738418814341" ref-type="bibr">8</xref></sup> It is worthy believing that searching for more effective novel medicines for
+inhibiting liver cancer cell proliferation and metastasis will be helpful for liver
+cancer treatment.</p><p>As a flavonoid compound isolated from vegetables and fruits, kaempferol has aroused
+more and more attention worldwide due to its wide range of pharmacological
+activities, such as anti-inflammatory, anti-oxidant, anti-cancer, anti-diabetic, and
+cardio-protective activities.<sup><xref rid="bibr9-2058738418814341" ref-type="bibr">9</xref><xref rid="bibr10-2058738418814341" ref-type="bibr"/><xref rid="bibr11-2058738418814341" ref-type="bibr"/><xref rid="bibr12-2058738418814341" ref-type="bibr"/>–<xref rid="bibr13-2058738418814341" ref-type="bibr">13</xref></sup> For liver cancer, Guo et al.<sup><xref rid="bibr14-2058738418814341" ref-type="bibr">14</xref></sup> indicated that kaempferol induced liver cancer HepG2 and Huh7 cell death
+through endoplasmic reticulum stress-C/EBP homologous protein (CHOP)-autophagy
+signaling pathway. Mylonis et al.<sup><xref rid="bibr15-2058738418814341" ref-type="bibr">15</xref></sup> demonstrated that kaempferol suppressed hypoxia-inducible factor 1 (HIF-1)
+expression and liver cancer cell viability under hypoxia conditions. More
+experimental researches are still needed to further explore the effects of
+kaempferol on liver cancer.</p><p>MicroRNAs are a class of small single-stranded RNAs with around 22 nucleotides (nt)
+in eukaryotic cells.<sup><xref rid="bibr16-2058738418814341" ref-type="bibr">16</xref></sup> MicroRNA-21 (miR-21) has been found to participate in the proliferation and
+metastasis of many cancer cells.<sup><xref rid="bibr17-2058738418814341" ref-type="bibr">17</xref></sup> Pineau et al.<sup><xref rid="bibr18-2058738418814341" ref-type="bibr">18</xref></sup> proved that miR-21 overexpression contributed to liver tumorigenesis. Zhu et al.<sup><xref rid="bibr19-2058738418814341" ref-type="bibr">19</xref></sup> revealed that miR-21 played critical roles in the migration and invasion of
+hepatocellular cancer. Meng et al.<sup><xref rid="bibr20-2058738418814341" ref-type="bibr">20</xref></sup> indicated that miR-21 modulated the expression of phosphatase and tensin
+homologue (PTEN) in human hepatocellular cancer. Kim et al.<sup><xref rid="bibr21-2058738418814341" ref-type="bibr">21</xref></sup> demonstrated that kaempferol suppressed vascular smooth muscle cell migration
+by regulating bone morphogenetic protein (BMP)-mediated miR-21 expression. However,
+there is no information available about the effects of kaempferol on miR-21
+expression in liver cancer cells.</p><p>Therefore, in this research, the effects of kaempferol on liver cancer HepG2 cell
+proliferation, migration, invasion, and apoptosis, as well as miR-21 expression,
+were investigated. The possible molecular mechanism and signaling pathway were also
+elucidated. These findings will be helpful for further understanding the anti-cancer
+effects of kaempferol on liver cancer.</p></sec><sec sec-type="materials|methods" id="section2-2058738418814341"><title>Materials and methods</title><sec id="section3-2058738418814341"><title>Cell culture and treatment</title><p>Human liver cancer HepG2 cells were obtained from American Type Culture
+Collection (ATCC, Manassas, VA, USA) and cultured in Dulbecco’s modified Eagle’s
+medium (DMEM; Gibco, Life Technologies, Carlsbad, CA, USA) supplemented with 10%
+heat-inactivated fetal bovine serum (FBS; HyClone, Logan, UT, USA) and 1%
+Penicillin–Streptomycin solution (Gibco, Life Technologies). Cells were
+maintained in a humidified incubator (Thermo Fisher Scientific, Waltham, MA,
+USA) at 37°C with 5% CO<sub>2</sub>.</p></sec><sec id="section4-2058738418814341"><title>Preparation of kaempferol solution</title><p>Kaempferol was purchased from Sigma–Aldrich (St Louis, MO, USA; catalog number:
+K0133, isolated from the rhizome of <italic toggle="yes">Ginkgo biloba</italic> L. with
+purity &gt;90%) and dissolved in dimethyl sulfoxide (DMSO; Sigma–Aldrich) to a
+storage concentration of 100 mM according to the manufacturer’s instruction.
+Then, kaempferol solution was sterilized through 0.22 μm filter and stored at
+-4°C until use. Serum-free DMEM was used to dilute kaempferol solution to
+experimental concentration. Chemical structure of kaempferol is shown in <xref ref-type="fig" rid="fig1-2058738418814341">Figure 1(a)</xref>.</p><fig id="fig1-2058738418814341" orientation="portrait" position="float"><label>Figure 1.</label><caption><p>Kaempferol inhibits proliferation and induced apoptosis of HepG2 cells.
+(a) Chemical structure of kaempferol. (b) Viability of HepG2 cells after
+0, 25, 50, 75, or 100 μM kaempferol treatment were measured using cell
+counting kit-8 (CCK-8) assay. (c) Proliferation of HepG2 cells after 50
+μM kaempferol treatment was detected using 5-bromo-2′-deoxyuridine
+(BrdU) incorporation assay. (d) Expression of Cyclin D1 in HepG2 cells
+after 50 μM kaempferol treatment was assessed using western blotting.
+(e) Apoptosis of HepG2 cells after 50 μM kaempferol treatment was
+determined using Guava Nexin assay. (f) Western blotting was performed
+to analyze the expressions of pro-caspase 3, cleaved-caspase 3,
+pro-caspase 9, cleaved-caspase 9, Bcl-2, and Bax in HepG2 cells after 50
+μM kaempferol treatment.</p><p>*<italic toggle="yes">P</italic> &lt; 0.05; **<italic toggle="yes">P</italic> &lt; 0.01;
+***<italic toggle="yes">P</italic> &lt; 0.001.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_2058738418814341-fig1.jpg"/></fig></sec><sec id="section5-2058738418814341"><title>Cell viability assay</title><p>Cell counting kit-8 (CCK-8) assay was performed to detect the viability of HepG2
+cells after kaempferol treatment. Briefly, HepG2 cells were seeded, in
+triplicate, in 96-well plate (Thermo Fisher Scientific) with a density of 1 ×
+10<sup>4</sup> cells/well and treated by 25, 50, 75, or 100 μM kaempferol
+for 24 h. After treatment, 10 μL CCK-8 solution was added into each well of the
+plate and the cell plate was maintained in humidified incubator at 37°C for 1 h.
+Then, the absorbance at 450 nm of each well was recorded using microplate reader
+(BioTek Instruments, Winooski, VT, USA). Cell viability (%) was calculated as
+follows: average absorbance of kaempferol treatment group/average absorbance of
+control group × 100%.</p></sec><sec id="section6-2058738418814341"><title>Cell proliferation assay</title><p>Proliferation of HepG2 cells after kaempferol treatment and/or miR-21 mimic
+transfection were measured using 5-bromo-2′-deoxyuridine (BrdU) incorporation
+assay kit (Sigma–Aldrich) in line with the manufacturer’s protocol. Briefly,
+HepG2 cells were seeded, in triplicate, in 6-well plate (Thermo Fisher
+Scientific) with a density of 1 × 10<sup>5</sup> cells/well. BrdU solution was
+added into each well of the plate before 50 μM kaempferol treatment by 4 h.
+After kaempferol incubation for 24 h, BrdU positive(+) cells in each well was
+counted under microscope (Nikon, Japan), which was proportional to cell
+proliferation.</p></sec><sec id="section7-2058738418814341"><title>Cell apoptosis assay</title><p>Apoptosis of HepG2 cells after kaempferol treatment and/or miR-21 mimic
+transfection were determined using Guava Nexin Assay Kit (Guava Technologies,
+Hayward, CA, USA) following the manufacturer’s instruction. Briefly, HepG2 cells
+were seeded, in triplicate, in 24-well plate (Thermo Fisher Scientific) with a
+density of 3 × 10<sup>4</sup> cells/well. After 50 μM kaempferol treatment for
+24 h and/or miR-21 mimic transfection, cells were harvested, washed with
+phosphate-buffered saline (PBS), and stained with kit solution for 25 min at
+37°C in the dark. Cell apoptosis was recorded using Guava EasyCyte flow
+cytometer (Guava Technologies). Data were analyzed using FCS Express software
+(De Novo Software, Los Angeles, CA, USA).</p></sec><sec id="section8-2058738418814341"><title>Cell migration and invasion assay</title><p>Migration of HepG2 cells was assessed using a modified two-chamber migration
+assay (BD Pharmingen, San Diego, CA, USA) with a pore size of 8 mm. After 50 μM
+kaempferol treatment and/or miR-21 mimic transfection, 1 × 10<sup>3</sup> HepG2
+cells were suspended in 200 mL serum-free DMEM and seeded into top chamber.
+Complete DMEM (600 mL) was added into the lower chamber. After incubation for
+48 h, cells were fixed with methanol (Beyotime Biotechnology, Shanghai, China)
+immediately. Non-traversed cells in top chamber were moved using cotton swab
+carefully and traversed cells in lower chamber were counted under microscope
+(Nikon, Japan). Cell migration (%) was calculated as follows: average traversed
+cells in treatment (transfection) group/average traversed cells in control group
+× 100%.</p><p>Cell invasion was conducted similarly with the cell migration assay except that
+the polycarbonate filter was pre-coated with Matrigel (BD Biosciences, Franklin
+Lakes, NJ, USA) in line with the manufacturer’s instruction.</p></sec><sec id="section9-2058738418814341"><title>Quantitative reverse transcription polymerase chain reaction</title><p>The mRNA expressions of miR-21 and PTEN in HepG2 cells after relevant treatment
+or transfection were measured using quantitative reverse transcription
+polymerase chain reaction (qRT-PCR). Total RNA in HepG2 cells was extracted
+using TRIzol™ Plus RNA Purification Kit (Invitrogen, Carlsbad, CA, USA)
+according to the manufacturer’s instruction. cDNA was synthesized using
+High-Capacity cDNA Reverse Transcription Kit (Applied Biosystems, Cambridge, MA,
+USA). mirVana™ qRT-PCR miRNA Detection Kit (Invitrogen) was performed to detect
+the expression of miR-21 and the expression of U6 acted as the endogenous
+control. DyNAmo HS SYBR Green qPCR Kit (Thermo Fisher Scientific) was performed
+to detect the expression of PTEN and the expression of β-actin acted as the
+endogenous control. Data were quantified using 2<sup>−ΔΔCt</sup> method.<sup><xref rid="bibr22-2058738418814341" ref-type="bibr">22</xref></sup></p></sec><sec id="section10-2058738418814341"><title>Cell transfection</title><p>miR-21 mimic, miR-21 inhibitor, scramble, and negative control (NC) were all
+designed and synthesized by GenePharma (Shanghai, China). Sequences for miR-21
+mimic were as follows: 5′-UAGCUUAUCAGACUGAUGUUGA-3′ (sense) and
+5′-AACAUCAGUCUGAUAAGCUAUU-3′ (antisense). Sequence for miR-21 inhibitor was as
+follows: 5′-UCAACAUCAGUCUGAUAAGCUA-3′. Cell transfection was conducted using
+Lipofectamine 3000 (Invitrogen) in line with the manufacturer’s protocol. The
+stably transfected cells were selected using culture medium supplemented with
+0.5 mg/mL G418 (Sigma–Aldrich). qRT-PCR was performed to assess the transfection
+efficiency.</p></sec><sec id="section11-2058738418814341"><title>Western blotting</title><p>After relevant treatment or transfection, total proteins in HepG2 cells were
+isolated using M-PER™ Mammalian Protein Extraction Reagent (Thermo Fisher
+Scientific). BCA Protein Assay Kit (Beyotime Biotechnology) was used to
+calculate the concentrations of proteins. Western blotting system was
+established using Bio-Rad Bis-Tris Gel System (Bio-Rad Laboratories, Hercules,
+CA, USA) in line with the manufacturer’s instruction. Proteins (45 μL) were
+electrophoresed in polyacrylamide gels and transferred onto nitrocellulose (NC;
+Millipore, Burlington, MA, USA) membranes, which were incubated with relevant
+antibodies. All primary antibodies were diluted in 1% bovine serum albumin (BSA;
+Beyotime Biotechnology) at a dilution of 1:1000. Anti-Cyclin D1 antibody
+(ab21699), anti-pro-caspase 3 antibody (ab90437), anti-cleaved-caspase 3
+antibody (ab2302), anti-pro-caspase 9 antibody (ab32068), anti-cleaved-caspase 9
+antibody (ab2324), anti-Bcl-2 antibody (ab59348), anti-Bax antibody (ab182733),
+anti-matrix metalloproteinase 2 (MMP-2) antibody (ab37150), anti-MMP-9 antibody
+(ab73734), anti-Vimentin antibody (ab137321), anti-t-phosphatidylinositol
+3-kinase (PI3K) antibody (ab28356), anti-p-PI3K antibody (ab182651),
+anti-t-protein kinase 3 (AKT) antibody (ab8805), anti-p-AKT antibody (ab38449),
+anti-t-mechanistic target of rapamycin (mTOR) antibody (ab32028), anti-p-mTOR
+antibody (ab63552), anti-t-S6 K antibody (ab9366), anti-p-S6 K antibody
+(ab131459), and anti-β-actin antibody (ab8226) were all purchased from Abcam
+Biotechnology (Cambridge, MA, USA). After that, membranes were incubated with
+goat anti-rabbit (or anti-mouse) IgG H&amp;L (HRP) (ab205718, ab205719; Abcam
+Biotechnology) for 1 h at room temperature and transferred into Bio-Rad
+ChemiDoc™ XRS system (Bio-Rad Laboratories), supplemented with 200 μL of
+Immobilon Western Chemiluminescent HRP Substrate (Bio-Rad Laboratories) on the
+surface of membranes. The intensities of the bands were quantified using Image
+Lab™ Software (Bio-Rad Laboratories).<sup><xref rid="bibr23-2058738418814341" ref-type="bibr">23</xref></sup></p></sec><sec id="section12-2058738418814341"><title>Statistical analysis</title><p>All experiments were repeated at least three times in our research. Results of
+multiple experiments were presented as the mean ± standard deviation (SD).
+GraphPad 6.0 Software (GraphPad, San Diego, CA, USA) was used to statistical
+analysis. The statistical comparisons (<italic toggle="yes">P</italic>-values) between two
+groups were calculated using Student’s t-test and <italic toggle="yes">P</italic>-values
+between more than three groups were calculated using one-way analysis of
+variance (ANOVA). <italic toggle="yes">P</italic> &lt; 0.05 was considered to be a
+significant difference, and <italic toggle="yes">P</italic> &lt; 0.01 and
+<italic toggle="yes">P</italic> &lt; 0.001 were considered to be extremely significant
+difference.</p></sec></sec><sec sec-type="results" id="section13-2058738418814341"><title>Results</title><sec id="section14-2058738418814341"><title>Kaempferol inhibits proliferation and induced apoptosis of HepG2
+cells</title><p>Viability, proliferation, and apoptosis of HepG2 cells after kaempferol treatment
+were measured using CCK-8 assay, BrdU incorporation assay and Guava Nexin assay,
+respectively. <xref ref-type="fig" rid="fig1-2058738418814341">Figure
+1(b)</xref> shows that kaempferol inhibits the viability of HepG2 cells in a
+dose-dependent manner (<italic toggle="yes">P</italic> &lt; 0.05,
+<italic toggle="yes">P</italic> &lt; 0.01, or <italic toggle="yes">P</italic> &lt; 0.001). Considering
+that the IC50 value is calculated as 48.26 μM, 50 μM is chosen for further
+experiments. <xref ref-type="fig" rid="fig1-2058738418814341">Figure 1(c)</xref>
+displays that 50 μM kaempferol treatment significantly inhibits HepG2 cell
+proliferation (<italic toggle="yes">P</italic> &lt; 0.01). The protein expression of Cyclin
+D1 in HepG2 cells after 50 μM kaempferol treatment is also decreased (<xref ref-type="fig" rid="fig1-2058738418814341">Figure 1(d)</xref>,
+<italic toggle="yes">P</italic> &lt; 0.05). <xref ref-type="fig" rid="fig1-2058738418814341">Figure 1(e)</xref> shows that the rate of
+apoptotic cells after 50 μM kaempferol treatment is remarkably increased
+(<italic toggle="yes">P</italic> &lt; 0.001). Western blotting displays that kaempferol
+treatment up-regulates the expressions of cleaved-caspase 3, cleaved-caspase 9,
+and Bax, but down-regulates the expression of Bcl-2 in HepG2 cells (<xref ref-type="fig" rid="fig1-2058738418814341">Figure 1(f)</xref>). The above
+findings suggest that kaempferol inhibits HepG2 cell proliferation but induces
+cell apoptosis.</p></sec><sec id="section15-2058738418814341"><title>Kaempferol suppresses HepG2 cell migration and invasion</title><p>Migration and invasion of HepG2 cells after 50 μM kaempferol treatment are
+assessed using two-chamber migration (or invasion) assay, respectively. As
+present in <xref ref-type="fig" rid="fig2-2058738418814341">Figure 2(a)</xref>
+and (<xref ref-type="fig" rid="fig2-2058738418814341">b</xref>), both the
+relative migration and the invasion of HepG2 cells decreased after kaempferol
+treatment (<italic toggle="yes">P</italic> &lt; 0.01). Western blotting displays that the
+expressions of MMP-2, MMP-9, and Vimentin, which play critical roles in cancer
+cell migration and invasion,<sup><xref rid="bibr24-2058738418814341" ref-type="bibr">24</xref>,<xref rid="bibr25-2058738418814341" ref-type="bibr">25</xref></sup> all obviously decreased
+after kaempferol treatment (<xref ref-type="fig" rid="fig2-2058738418814341">Figure 2(c)</xref> and (<xref ref-type="fig" rid="fig2-2058738418814341">d</xref>), <italic toggle="yes">P</italic> &lt; 0.05). These results indicate that
+kaempferol suppresses the migration and invasion of HepG2 cells.</p><fig id="fig2-2058738418814341" orientation="portrait" position="float"><label>Figure 2.</label><caption><p>Kaempferol suppresses HepG2 cell migration and invasion. (a, b) Migration
+and invasion of HepG2 cells after 50 μM kaempferol treatment were
+detected using two-chamber migration (or invasion) assay, respectively.
+(c, d) Western blotting was conducted to analyze the expressions of
+MMP-2, MMP-9, and Vimentin in HepG2 cells after 50 μM kaempferol
+treatment.</p><p>MMP: matrix metalloproteinase.</p><p>*<italic toggle="yes">P</italic> &lt; 0.05; **<italic toggle="yes">P</italic> &lt; 0.01.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_2058738418814341-fig2.jpg"/></fig></sec><sec id="section16-2058738418814341"><title>Kaempferol down-regulates the expression of miR-21 in HepG2 cells</title><p>The effect of kaempferol on miR-21 expression in HepG2 cells is detected using
+qRT-PCR. As displayed in <xref ref-type="fig" rid="fig3-2058738418814341">Figure
+3</xref>, the expression of miR-21 in HepG2 cells significantly decreases
+after 50 μM kaempferol treatment (<italic toggle="yes">P</italic> &lt; 0.01). This result
+indicates that kaempferol down-regulates the expression of miR-21 in HepG2 cells
+and implies that miR-21 may be involved in the effects of kaempferol on HepG2
+cell proliferation, apoptosis, migration, and invasion.</p><fig id="fig3-2058738418814341" orientation="portrait" position="float"><label>Figure 3.</label><caption><p>Kaempferol reduces the expression of miR-21 in HepG2 cells. After 50 μM
+kaempferol treatment, the expression of miR-21 in HepG2 cells was
+determined using quantitative reverse transcription PCR (qRT-PCR).</p><p>miR-21: microRNA-21.</p><p>**<italic toggle="yes">P</italic> &lt; 0.01.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_2058738418814341-fig3.jpg"/></fig></sec><sec id="section17-2058738418814341"><title>Kaempferol inhibits proliferation and induced apoptosis of HepG2 cells by
+down-regulating miR-21</title><p>To analyze the roles of miR-21 in kaempferol-induced HepG2 cell proliferation
+inhibition and apoptosis enhancement, miR-21 mimic and miR-21 inhibitor are
+transfected into HepG2 cells, respectively. <xref ref-type="fig" rid="fig4-2058738418814341">Figure 4(a)</xref> shows that the expression of
+miR-21 is significantly enhanced after miR-21 mimic transfection
+(<italic toggle="yes">P</italic> &lt; 0.01) and dramatically reduced after miR-21
+inhibitor transfection (<italic toggle="yes">P</italic> &lt; 0.01). <xref ref-type="fig" rid="fig4-2058738418814341">Figure 4(b)</xref> displays that miR-21 mimic
+transfection remarkably alleviates the kaempferol-induced HepG2 cell
+proliferation inhibition (<italic toggle="yes">P</italic> &lt; 0.05). Compared to single
+kaempferol treatment group, the expression of Cyclin D1 in HepG2 cells is
+significantly increased in kaempferol treatment + miR-21 mimic transfection
+group (<xref ref-type="fig" rid="fig4-2058738418814341">Figure 4(c)</xref>,
+<italic toggle="yes">P</italic> &lt; 0.01). <xref ref-type="fig" rid="fig4-2058738418814341">Figure 4(d)</xref> shows that miR-21 mimic
+transfection obviously attenuates the kaempferol-induced HepG2 cell apoptosis
+(<italic toggle="yes">P</italic> &lt; 0.01). <xref ref-type="fig" rid="fig4-2058738418814341">Figure 4(e)</xref> displays that miR-21 mimic
+transfection alleviates the kaempferol-induced cleaved-caspase 3,
+cleaved-caspase 9, and Bax expressions increased, as well as Bcl-2 expression
+decreased. These findings suggest that miR-21 participates in the effects of
+kaempferol on HepG2 cells, and kaempferol inhibits HepG2 cell proliferation and
+induces cell apoptosis by down-regulating miR-21.</p><fig id="fig4-2058738418814341" orientation="portrait" position="float"><label>Figure 4.</label><caption><p>Kaempferol inhibits proliferation and induced apoptosis of HepG2 cells by
+down-regulating miR-21. (a) After miR-21 mimic or miR-21 inhibitor
+transfection, the expression of miR-21 in HepG2 cells was detected using
+quantitative reverse transcription PCR (qRT-PCR). (b) Proliferation of
+HepG2 cells after 50 μM kaempferol treatment and/or miR-21 mimic
+transfection were measured using 5-bromo-2′-deoxyuridine (BrdU)
+incorporation assay. (c) After 50 μM kaempferol treatment and/or miR-21
+mimic transfection, the expressions of Cyclin D1 in HepG2 cells were
+assessed using western blotting. (d) Apoptosis of HepG2 cells after 50
+μM kaempferol treatment and/or miR-21 mimic transfection were determined
+using Guava Nexin assay. (e) Western blotting was conducted to analyze
+the expressions of pro-caspase 3, cleaved-caspase 3, pro-caspase 9,
+cleaved-caspase 9, Bcl-2, and Bax in HepG2 cells after 50 μM kaempferol
+treatment and/or miR-21 mimic transfection.</p><p>miR-21: microRNA-21; NC: negative control.</p><p>*<italic toggle="yes">P</italic> &lt; 0.05; **<italic toggle="yes">P</italic> &lt; 0.01;
+***<italic toggle="yes">P</italic> &lt; 0.001.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_2058738418814341-fig4.jpg"/></fig></sec><sec id="section18-2058738418814341"><title>Kaempferol suppressed HepG2 cell migration and invasion by down-regulating
+miR-21</title><p><xref ref-type="fig" rid="fig5-2058738418814341">Figure 5(a)</xref> and (<xref ref-type="fig" rid="fig5-2058738418814341">b</xref>) displays that miR-21
+mimic transfection remarkably alleviates the kaempferol-induced HepG2 cell
+migration and invasion inhibition (<italic toggle="yes">P</italic> &lt; 0.05). Western
+blotting presents that the expressions of MMP-2, MMP-9, and Vimentin in HepG2
+cells are increased after kaempferol treatment + miR-21 mimic transfection
+compared to single kaempferol treatment (<xref ref-type="fig" rid="fig5-2058738418814341">Figure 5(c)</xref> and (<xref ref-type="fig" rid="fig5-2058738418814341">d</xref>), <italic toggle="yes">P</italic> &lt; 0.01). These
+above results further suggest that miR-21 is also involved in the
+kaempferol-induced HepG2 cell migration and invasion inhibition.</p><fig id="fig5-2058738418814341" orientation="portrait" position="float"><label>Figure 5.</label><caption><p>Kaempferol suppresses HepG2 cell migration and invasion by
+down-regulating miR-21. (a, b) Relative migration and invasion of HepG2
+cells after 50 μM kaempferol treatment and/or miR-21 mimic transfection
+were assessed using two-chamber migration (or invasion) assay,
+respectively. (c, d) Western blotting was used to analyze the
+expressions of MMP-2, MMP-9, and Vimentin in HepG2 cells after 50 μM
+kaempferol treatment and/or miR-21 mimic transfection.</p><p>miR-21: microRNA-21; MMP: matrix metalloproteinase; NC: negative
+control.</p><p>*<italic toggle="yes">P</italic> &lt; 0.05; **<italic toggle="yes">P</italic> &lt; 0.01.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_2058738418814341-fig5.jpg"/></fig></sec><sec id="section19-2058738418814341"><title>miR-21 negatively regulates the expression of PTEN in HepG2 cells</title><p>qRT-PCR is performed to detect the mRNA expression of PTEN in HepG2 cells after
+miR-21 mimic or miR-21 inhibitor transfection. As displayed in <xref ref-type="fig" rid="fig6-2058738418814341">Figure 6</xref>, the mRNA
+expression of PTEN is significantly reduced after miR-21 mimic transfection
+(<italic toggle="yes">P</italic> &lt; 0.05) and remarkably enhanced after miR-21
+inhibitor transfection (<italic toggle="yes">P</italic> &lt; 0.01). These findings imply that
+PTEN may participate in the regulatory effects of miR-21 on kaempferol-induced
+HepG2 cell proliferation, migration and invasion inhibition, as well as
+apoptosis enhancement.</p><fig id="fig6-2058738418814341" orientation="portrait" position="float"><label>Figure 6.</label><caption><p>miR-21 negatively regulates the expression of PTEN in HepG2 cells.
+Quantitative reverse transcription PCR (qRT-PCR) was performed to
+measure the expression of PTEN in HepG2 cells after miR-21 mimic or
+miR-21 inhibitor transfection.</p><p>miR-21: microRNA-21; PTEN: phosphatase and tensin homologue; NC: negative
+control.</p><p>*<italic toggle="yes">P</italic> &lt; 0.05; **<italic toggle="yes">P</italic> &lt; 0.01.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_2058738418814341-fig6.jpg"/></fig></sec><sec id="section20-2058738418814341"><title>Kaempferol inactivates PI3K/AKT/mTOR signaling pathway in HepG2 cells by
+down-regulating miR-21</title><p>The effects of kaempferol treatment and/or miR-21 mimic transfection on PTEN
+expression and activation of PI3K/AKT/mTOR in HepG2 cells are measured using
+qRT-PCR and western blotting, respectively. <xref ref-type="fig" rid="fig7-2058738418814341">Figure 7(a)</xref> shows that kaempferol
+treatment remarkably up-regulates the mRNA expression of PTEN in HepG2 cells
+(<italic toggle="yes">P</italic> &lt; 0.01) and miR-21 mimic transfection obviously
+reverses the kaempferol-induced PTEN expression increase
+(<italic toggle="yes">P</italic> &lt; 0.01). <xref ref-type="fig" rid="fig7-2058738418814341">Figure 7(b)</xref> displays that kaempferol treatment down-regulates the
+expressions of p-PI3K, p-AKT, p-mTOR, and p-S6 K in HepG2 cells
+(<italic toggle="yes">P</italic> &lt; 0.05 or <italic toggle="yes">P</italic> &lt; 0.01) and miR-21
+mimic transfection dramatically reverses the kaempferol-induced p-PI3K, p-AKT,
+p-mTOR, and p-S6 K expressions decrease (<italic toggle="yes">P</italic> &lt; 0.01). These
+above findings imply that kaempferol inactivates PI3K/AKT/mTOR signaling pathway
+in HepG2 cells by down-regulating miR-21.</p><fig id="fig7-2058738418814341" orientation="portrait" position="float"><label>Figure 7.</label><caption><p>Kaempferol inactivates PI3K/AKT/mTOR signaling pathway in HepG2 cells by
+down-regulating miR-21. (a) Relative expressions of PTEN in HepG2 cells
+after 50 μM kaempferol treatment and/or miR-21 mimic transfection were
+assessed using quantitative reverse transcription PCR (qRT-PCR). (b)
+Western blotting was conducted to analyze the expressions of t-PI3K,
+p-PI3K, t-AKT, p-AKT, t-mTOR, p-mTOR, t-S6 K, and p-S6 K in HepG2 cells
+after 50 μM kaempferol treatment and/or miR-21 mimic transfection.</p><p>miR-21: microRNA-21; PTEN: phosphatase and tensin homologue; NC: negative
+control; PI3K: phosphatidylinositol 3-kinase; AKT: protein kinase 3;
+mTOR: mechanistic target of rapamycin.</p><p>*<italic toggle="yes">P</italic> &lt; 0.05; **<italic toggle="yes">P</italic> &lt; 0.01.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_2058738418814341-fig7.jpg"/></fig></sec></sec><sec sec-type="discussion" id="section21-2058738418814341"><title>Discussion</title><p>Liver cancer has become the third leading cause of cancer-related death
+worldwide.<sup><xref rid="bibr2-2058738418814341" ref-type="bibr">2</xref>,<xref rid="bibr26-2058738418814341" ref-type="bibr">26</xref></sup> This study revealed that kaempferol, a flavonoid compound,
+significantly inhibited liver cancer HepG2 cell proliferation, migration, and
+invasion, and induced cell apoptosis. Moreover, kaempferol remarkably down-regulated
+the expression of miR-21 in HepG2 cells and miR-21 was involved in the effects of
+kaempferol on HepG2 cell proliferation, migration, invasion, and apoptosis.
+Furthermore, miR-21 negatively regulated the expression of PTEN in HepG2 cells.
+Kaempferol inactivated PI3K/AKT/mTOR signaling pathway by down-regulating
+miR-21.</p><p>Natural medicines in cancer therapy have gained wide attention all over the world due
+to their safety, efficiency, and mini side-effects.<sup><xref rid="bibr27-2058738418814341" ref-type="bibr">27</xref></sup> Epidemiological study demonstrated that there was a negative association
+between the consumption of foods containing kaempferol and the occurrences of cancers.<sup><xref rid="bibr28-2058738418814341" ref-type="bibr">28</xref></sup> This research found that kaempferol dramatically suppressed liver cancer
+HepG2 cell viability, proliferation, migration, and invasion. The expressions of
+Cyclin D1, MMP-2, MMP-9, and Vimentin, which play important regulatory roles in
+promoting cell proliferation, migration, and invasion, respectively,<sup><xref rid="bibr24-2058738418814341" ref-type="bibr">24</xref>,<xref rid="bibr25-2058738418814341" ref-type="bibr">25</xref>,<xref rid="bibr29-2058738418814341" ref-type="bibr">29</xref></sup> all
+significantly decreased after kaempferol treatment. Besides, kaempferol remarkably
+promoted HepG2 cell apoptosis. The expressions of cleaved-caspase 3, cleaved-caspase
+9, and Bax, which exert pro-apoptotic roles in cancer cells,<sup><xref rid="bibr30-2058738418814341" ref-type="bibr">30</xref></sup> increased and the expression of Bcl-2, which exerts anti-apoptotic role in
+cancer cells,<sup><xref rid="bibr31-2058738418814341" ref-type="bibr">31</xref></sup> decreased after kaempferol treatment. Considering that inhibiting tumor cell
+proliferation and metastasis, as well as inducing tumor cell apoptosis, were most
+effective ways to cancer treatment, the findings of this research further verified
+the effective anti-tumor effects of kaempferol on liver cancer. Moreover, these
+findings were consistent with the previous study, which indicated that kaempferol
+significantly suppressed the proliferation of HepG2 cells and induced cell death.<sup><xref rid="bibr14-2058738418814341" ref-type="bibr">14</xref></sup></p><p>A previous study has demonstrated that microRNAs participate in the pathogenesis of
+multiple diseases, including cancers.<sup><xref rid="bibr32-2058738418814341" ref-type="bibr">32</xref></sup> A variety of medicines can inhibit cancer cell proliferation and metastasis
+by modulating the expression of microRNA in cancer cells.<sup><xref rid="bibr33-2058738418814341" ref-type="bibr">33</xref></sup> Previous research revealed that kaempferol reduced vascular smooth muscle
+cell migration through modulating BMP-mediated miR-21 expression.<sup><xref rid="bibr21-2058738418814341" ref-type="bibr">21</xref></sup> This study found that kaempferol significantly down-regulated the miR-21
+expression in HepG2 cells. In addition, overexpression of miR-21 obviously
+alleviated the effects of kaempferol on HepG2 cell proliferation, migration,
+invasion, and apoptosis. These findings indicated that miR-21 was also involved in
+the effects of kaempferol on liver cancer cells and implied that kaempferol exerted
+anti-tumor effects on liver cancer at least partially via down-regulating
+miR-21.</p><p>PTEN is an important and famous tumor suppressor, which is inactivated in multiple
+cancer cells.<sup><xref rid="bibr34-2058738418814341" ref-type="bibr">34</xref></sup> Experimental researches have proved that PTEN is one of the direct target
+genes of miR-21.<sup><xref rid="bibr35-2058738418814341" ref-type="bibr">35</xref>,<xref rid="bibr36-2058738418814341" ref-type="bibr">36</xref></sup> This research found that the expression of PTEN significantly
+decreased after miR-21 overexpression and remarkably increased after miR-21
+suppression in HepG2 cells. These findings were consistent with the previous study,
+which indicated that miR-21 modulated the expression of PTEN in human hepatocellular
+cancer cells.<sup><xref rid="bibr20-2058738418814341" ref-type="bibr">20</xref></sup> Moreover, kaempferol remarkably enhanced the expression of PTEN in HepG2
+cells. miR-21 overexpression notably reversed the kaempferol-induced PTEN expression
+increase. Considering the fact that PTEN played critical roles in suppressing cancer
+cell proliferation, migration, and invasion,<sup><xref rid="bibr34-2058738418814341" ref-type="bibr">34</xref></sup> these results in our research implied that PTEN might participate in the
+regulatory effects of miR-21 on kaempferol-induced HepG2 cell proliferation,
+migration, and invasion inhibition, and apoptosis enhancement.</p><p>Kashafi et al.<sup><xref rid="bibr37-2058738418814341" ref-type="bibr">37</xref></sup> demonstrated that kaempferol promoted human cervical cancer HeLa cell
+apoptosis through inhibiting PI3K/AKT pathway. Gwak et al.<sup><xref rid="bibr38-2058738418814341" ref-type="bibr">38</xref></sup> indicated that silencing of miR-21 contributed to radio-sensitivity of
+malignant glioma cells by suppressing PI3K/AKT pathway. The activation of
+PI3K/AKT/mTOR signaling pathway participates in the occurrence of liver cancers.<sup><xref rid="bibr39-2058738418814341" ref-type="bibr">39</xref></sup> Thus, this research further investigated the effects of kaempferol and miR-21
+on PI3K/AKT/mTOR pathway in HepG2 cells. We found that kaempferol treatment
+significantly reduced the activation of PI3K/AKT/mTOR pathway in HepG2 cells.
+Overexpression of miR-21 dramatically reversed the effects of kaempferol on
+PI3K/AKT/mTOR pathway. These findings suggested that kaempferol inactivated
+PI3K/AKT/mTOR signaling pathway by down-regulating miR-21.</p><p>To sum up, this research verified that kaempferol inhibited proliferation, migration,
+and invasion of liver cancer HepG2 cells by down-regulation of miR-21 and
+up-regulation of PTEN, as well as inactivation of PI3K/AKT/mTOR signaling pathway.
+This study will be helpful for further understanding the anti-cancer effects of
+kaempferol on liver cancer and provides theoretical basis for deeply exploring the
+treatment of liver cancer using kaempferol.</p></sec></body><back><fn-group><fn fn-type="COI-statement"><p><bold>Declaration of conflicting interests:</bold> The author(s) declared no potential conflicts of interest with respect to the
+research, authorship, and/or publication of this article.</p></fn><fn fn-type="financial-disclosure"><p><bold>Funding:</bold> The author(s) disclosed receipt of the following financial support for the
+research, authorship and/or publication of this article: This work was supported
+by Zhuhai Science and Technology Project (No. 20171009E030026).</p></fn></fn-group><ref-list><title>References</title><ref id="bibr1-2058738418814341"><label>1</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Siegel</surname><given-names>RL</given-names></name><name name-style="western"><surname>Miller</surname><given-names>KD</given-names></name><name name-style="western"><surname>Jemal</surname><given-names>A</given-names></name></person-group> (<year>2016</year>) <article-title>Cancer statistics,
+2016</article-title>. <source>CA: A Cancer Journal for Clinicians</source>
+<volume>66</volume>(<issue>1</issue>):
+<fpage>7</fpage>–<lpage>30</lpage>.<pub-id pub-id-type="pmid">26742998</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3322/caac.21332</pub-id></mixed-citation></ref><ref id="bibr2-2058738418814341"><label>2</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Pan</surname><given-names>JJ</given-names></name><name name-style="western"><surname>Javle</surname><given-names>M</given-names></name><name name-style="western"><surname>Thinn</surname><given-names>MM</given-names></name><etal>et al</etal></person-group> (<year>2010</year>) <article-title>Critical appraisal of the
+role of sorafenib in the management of hepatocellular
+carcinoma</article-title>. <source>Hepatic Medicine: Evidence and
+Research</source>
+<volume>2</volume>: <fpage>147</fpage>–<lpage>155</lpage>.<pub-id pub-id-type="pmid">24367212</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.2147/HMER.S7123</pub-id><pub-id pub-id-type="pmcid">PMC3846497</pub-id></mixed-citation></ref><ref id="bibr3-2058738418814341"><label>3</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Poggi</surname><given-names>G</given-names></name><name name-style="western"><surname>Pozzi</surname><given-names>E</given-names></name><name name-style="western"><surname>Riccardi</surname><given-names>A</given-names></name><etal>et al</etal></person-group> (<year>2010</year>) <article-title>Complications of
+image-guided transcatheter hepatic chemoembolization of primary and
+secondary tumours of the liver</article-title>. <source>Anticancer
+Research</source>
+<volume>30</volume>(<issue>12</issue>):
+<fpage>5159</fpage>–<lpage>5164</lpage>.<pub-id pub-id-type="pmid">21187505</pub-id></mixed-citation></ref><ref id="bibr4-2058738418814341"><label>4</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Fuji</surname><given-names>N</given-names></name><name name-style="western"><surname>Taniguchi</surname><given-names>H</given-names></name><name name-style="western"><surname>Amaike</surname><given-names>H</given-names></name><etal>et al</etal></person-group> (<year>2005</year>) <article-title>Synchronously resected
+double primary hepatic cancer, hepatocellular carcinoma and
+cholangiocarcinoma</article-title>. <source>Journal of Gastroenterology and
+Hepatology</source>
+<volume>20</volume>(<issue>6</issue>):
+<fpage>967</fpage>–<lpage>969</lpage>.<pub-id pub-id-type="pmid">15946156</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1440-1746.2005.03806.x</pub-id></mixed-citation></ref><ref id="bibr5-2058738418814341"><label>5</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Golubnitschaja</surname><given-names>O</given-names></name><name name-style="western"><surname>Yeghiazaryan</surname><given-names>K</given-names></name><name name-style="western"><surname>Stricker</surname><given-names>H</given-names></name><etal>et al</etal></person-group> (<year>2016</year>) <article-title>Patients with hepatic breast
+cancer metastases demonstrate highly specific profiles of matrix
+metalloproteinases MMP-2 and MMP-9 after SIRT treatment as compared to other
+primary and secondary liver tumours</article-title>. <source>BMC
+Cancer</source>
+<volume>16</volume>: <fpage>357</fpage>.<pub-id pub-id-type="pmid">27277077</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12885-016-2382-2</pub-id><pub-id pub-id-type="pmcid">PMC4898377</pub-id></mixed-citation></ref><ref id="bibr6-2058738418814341"><label>6</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Adam</surname><given-names>R</given-names></name><name name-style="western"><surname>de Gramont</surname><given-names>A</given-names></name><name name-style="western"><surname>Figueras</surname><given-names>J</given-names></name><etal>et al</etal></person-group> (<year>2015</year>) <article-title>Managing synchronous liver
+metastases from colorectal cancer: A multidisciplinary international
+consensus</article-title>. <source>Cancer Treatment Reviews</source>
+<volume>41</volume>(<issue>9</issue>):
+<fpage>729</fpage>–<lpage>741</lpage>.<pub-id pub-id-type="pmid">26417845</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ctrv.2015.06.006</pub-id></mixed-citation></ref><ref id="bibr7-2058738418814341"><label>7</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Zheng</surname><given-names>Q</given-names></name><name name-style="western"><surname>Wu</surname><given-names>M</given-names></name></person-group> (<year>2015</year>) <article-title>Evaluation of therapeutic
+effect of contrast-enhanced ultrasonography in hepatic carcinoma
+radiofrequency ablation and comparison with conventional ultrasonography and
+enhanced computed tomography</article-title>. <source>Journal of Medical
+Ultrasound</source>
+<volume>23</volume>: <fpage>76</fpage>–<lpage>81</lpage>.</mixed-citation></ref><ref id="bibr8-2058738418814341"><label>8</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Saito</surname><given-names>H</given-names></name><name name-style="western"><surname>Goto</surname><given-names>T</given-names></name><name name-style="western"><surname>Inamura</surname><given-names>K</given-names></name><etal>et al</etal></person-group> (<year>2016</year>) <article-title>Detection of rapidly
+progressing hepatic angiosarcoma on autopsy that would have definitely been
+diagnosable on percutaneous liver biopsy</article-title>. <source>Nihon
+Shokakibyo Gakkai Zasshi = The Japanese Journal of
+Gastro-Enterology</source>
+<volume>113</volume>(<issue>5</issue>):
+<fpage>837</fpage>–<lpage>840</lpage>.<pub-id pub-id-type="pmid">27151481</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.11405/nisshoshi.113.837</pub-id></mixed-citation></ref><ref id="bibr9-2058738418814341"><label>9</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Huang</surname><given-names>YB</given-names></name><name name-style="western"><surname>Lin</surname><given-names>MW</given-names></name><name name-style="western"><surname>Chao</surname><given-names>Y</given-names></name><etal>et al</etal></person-group> (<year>2014</year>) <article-title>Anti-oxidant activity and
+attenuation of bladder hyperactivity by the flavonoid compound
+kaempferol</article-title>. <source>International Journal of
+Urology</source>
+<volume>21</volume>(<issue>1</issue>):
+<fpage>94</fpage>–<lpage>98</lpage>.<pub-id pub-id-type="pmid">23634640</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/iju.12179</pub-id></mixed-citation></ref><ref id="bibr10-2058738418814341"><label>10</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Yi</surname><given-names>X</given-names></name><name name-style="western"><surname>Zuo</surname><given-names>J</given-names></name><name name-style="western"><surname>Tan</surname><given-names>C</given-names></name><etal>et al</etal></person-group> (<year>2016</year>) <article-title>Kaempferol, a flavonoid
+compound from gynura medica induced apoptosis and growth inhibition in mcf-7
+breast cancer cell</article-title>. <source>African Journal of Traditional
+Complementary and Alternative Medicines</source>
+<volume>13</volume>(<issue>4</issue>):
+<fpage>210</fpage>–<lpage>215</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.21010/ajtcam.v13i4.27</pub-id><pub-id pub-id-type="pmcid">PMC5566146</pub-id><pub-id pub-id-type="pmid">28852738</pub-id></mixed-citation></ref><ref id="bibr11-2058738418814341"><label>11</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Garcia-Mediavilla</surname><given-names>V</given-names></name><name name-style="western"><surname>Crespo</surname><given-names>I</given-names></name><name name-style="western"><surname>Collado</surname><given-names>PS</given-names></name><etal>et al</etal></person-group> (<year>2007</year>) <article-title>The anti-inflammatory
+flavones quercetin and kaempferol cause inhibition of inducible nitric oxide
+synthase, cyclooxygenase-2 and reactive C-protein, and down-regulation of
+the nuclear factor kappaB pathway in Chang Liver cells</article-title>.
+<source>European Journal of Pharmacology</source>
+<volume>557</volume>(<issue>2–3</issue>):
+<fpage>221</fpage>–<lpage>229</lpage>.<pub-id pub-id-type="pmid">17184768</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ejphar.2006.11.014</pub-id></mixed-citation></ref><ref id="bibr12-2058738418814341"><label>12</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Zang</surname><given-names>Y</given-names></name><name name-style="western"><surname>Sato</surname><given-names>H</given-names></name><name name-style="western"><surname>Igarashi</surname><given-names>K</given-names></name></person-group> (<year>2011</year>) <article-title>Anti-diabetic effects of a
+kaempferol glycoside-rich fraction from unripe soybean (Edamame, Glycine max
+L. Merrill. “Jindai”) leaves on KK-A(y) mice</article-title>.
+<source>Bioscience Biotechnology and Biochemistry</source>
+<volume>75</volume>(<issue>9</issue>):
+<fpage>1677</fpage>–<lpage>1684</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1271/bbb.110168</pub-id><pub-id pub-id-type="pmid">21897048</pub-id></mixed-citation></ref><ref id="bibr13-2058738418814341"><label>13</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>An</surname><given-names>M</given-names></name><name name-style="western"><surname>Kim</surname><given-names>M</given-names></name></person-group> (<year>2015</year>) <article-title>Protective effects of
+kaempferol against cardiac sinus node dysfunction via CaMKII
+deoxidization</article-title>. <source>Anatomy &amp; Cell Biology</source>
+<volume>48</volume>(<issue>4</issue>):
+<fpage>235</fpage>–<lpage>243</lpage>.<pub-id pub-id-type="pmid">26770873</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.5115/acb.2015.48.4.235</pub-id><pub-id pub-id-type="pmcid">PMC4701696</pub-id></mixed-citation></ref><ref id="bibr14-2058738418814341"><label>14</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Guo</surname><given-names>H</given-names></name><name name-style="western"><surname>Lin</surname><given-names>W</given-names></name><name name-style="western"><surname>Zhang</surname><given-names>X</given-names></name><etal>et al</etal></person-group> (<year>2017</year>) <article-title>Kaempferol induces
+hepatocellular carcinoma cell death via endoplasmic reticulum
+stress-CHOP-autophagy signaling pathway</article-title>.
+<source>Oncotarget</source>
+<volume>8</volume>(<issue>47</issue>):
+<fpage>82207</fpage>–<lpage>82216</lpage>.<pub-id pub-id-type="pmid">29137257</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.18632/oncotarget.19200</pub-id><pub-id pub-id-type="pmcid">PMC5669883</pub-id></mixed-citation></ref><ref id="bibr15-2058738418814341"><label>15</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Mylonis</surname><given-names>I</given-names></name><name name-style="western"><surname>Lakka</surname><given-names>A</given-names></name><name name-style="western"><surname>Tsakalof</surname><given-names>A</given-names></name><etal>et al</etal></person-group> (<year>2010</year>) <article-title>The dietary flavonoid
+kaempferol effectively inhibits HIF-1 activity and hepatoma cancer cell
+viability under hypoxic conditions</article-title>. <source>Biochemical and
+Biophysical Research Communications</source>
+<volume>398</volume>(<issue>1</issue>):
+<fpage>74</fpage>–<lpage>78</lpage>.<pub-id pub-id-type="pmid">20558139</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bbrc.2010.06.038</pub-id></mixed-citation></ref><ref id="bibr16-2058738418814341"><label>16</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Betel</surname><given-names>D</given-names></name><name name-style="western"><surname>Wilson</surname><given-names>M</given-names></name><name name-style="western"><surname>Gabow</surname><given-names>A</given-names></name><etal>et al</etal></person-group> (<year>2008</year>) <article-title>The microRNA.org resource:
+Targets and expression</article-title>. <source>Nucleic Acids
+Research</source>
+<volume>36</volume>: D149–D153.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/nar/gkm995</pub-id><pub-id pub-id-type="pmcid">PMC2238905</pub-id><pub-id pub-id-type="pmid">18158296</pub-id></mixed-citation></ref><ref id="bibr17-2058738418814341"><label>17</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Pan</surname><given-names>X</given-names></name><name name-style="western"><surname>Wang</surname><given-names>ZX</given-names></name><name name-style="western"><surname>Wang</surname><given-names>R</given-names></name></person-group> (<year>2010</year>) <article-title>MicroRNA-21: A novel
+therapeutic target in human cancer</article-title>. <source>Cancer Biology
+&amp; Therapy</source>
+<volume>10</volume>(<issue>12</issue>):
+<fpage>1224</fpage>–<lpage>1232</lpage><pub-id pub-id-type="pmid">21139417</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.4161/cbt.10.12.14252</pub-id></mixed-citation></ref><ref id="bibr18-2058738418814341"><label>18</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Pineau</surname><given-names>P</given-names></name><name name-style="western"><surname>Volinia</surname><given-names>S</given-names></name><name name-style="western"><surname>McJunkin</surname><given-names>K</given-names></name><etal>et al</etal></person-group> (<year>2010</year>) <article-title>miR-221 overexpression
+contributes to liver tumorigenesis</article-title>. <source>Proceedings of
+the National Academy of Sciences of the United States of America</source>
+<volume>107</volume>(<issue>1</issue>):
+<fpage>264</fpage>–<lpage>269</lpage>.<pub-id pub-id-type="pmid">20018759</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.0907904107</pub-id><pub-id pub-id-type="pmcid">PMC2806773</pub-id></mixed-citation></ref><ref id="bibr19-2058738418814341"><label>19</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Zhu</surname><given-names>Q</given-names></name><name name-style="western"><surname>Wang</surname><given-names>Z</given-names></name><name name-style="western"><surname>Hu</surname><given-names>Y</given-names></name><etal>et al</etal></person-group> (<year>2012</year>) <article-title>miR-21 promotes migration
+and invasion by the miR-21-PDCD4-AP-1 feedback loop in human hepatocellular
+carcinoma</article-title>. <source>Oncology Reports</source>
+<volume>27</volume>(<issue>5</issue>):
+<fpage>1660</fpage>–<lpage>1668</lpage>.<pub-id pub-id-type="pmid">22322403</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3892/or.2012.1682</pub-id></mixed-citation></ref><ref id="bibr20-2058738418814341"><label>20</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Meng</surname><given-names>F</given-names></name><name name-style="western"><surname>Henson</surname><given-names>R</given-names></name><name name-style="western"><surname>Wehbe-Janek</surname><given-names>H</given-names></name><etal>et al</etal></person-group> (<year>2007</year>) <article-title>MicroRNA-21 regulates
+expression of the PTEN tumor suppressor gene in human hepatocellular
+cancer</article-title>. <source>Gastroenterology</source>
+<volume>133</volume>(<issue>2</issue>):
+<fpage>647</fpage>–<lpage>658</lpage>.<pub-id pub-id-type="pmid">17681183</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1053/j.gastro.2007.05.022</pub-id><pub-id pub-id-type="pmcid">PMC4285346</pub-id></mixed-citation></ref><ref id="bibr21-2058738418814341"><label>21</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Kim</surname><given-names>K</given-names></name><name name-style="western"><surname>Kim</surname><given-names>S</given-names></name><name name-style="western"><surname>Moh</surname><given-names>SH</given-names></name><etal>et al</etal></person-group> (<year>2015</year>) <article-title>Kaempferol inhibits vascular
+smooth muscle cell migration by modulating BMP-mediated miR-21
+expression</article-title>. <source>Molecular and Cellular
+Biochemistry</source>
+<volume>407</volume>(<issue>1–2</issue>):
+<fpage>143</fpage>–<lpage>149</lpage>.<pub-id pub-id-type="pmid">26048714</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s11010-015-2464-5</pub-id></mixed-citation></ref><ref id="bibr22-2058738418814341"><label>22</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Ish-Shalom</surname><given-names>S</given-names></name><name name-style="western"><surname>Lichter</surname><given-names>A</given-names></name></person-group> (<year>2010</year>) <article-title>Analysis of fungal gene
+expression by real time quantitative PCR</article-title>. <source>Methods in
+Molecular Biology</source>
+<volume>638</volume>: <fpage>103</fpage>–<lpage>114</lpage>.<pub-id pub-id-type="pmid">20238263</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/978-1-60761-611-5_7</pub-id></mixed-citation></ref><ref id="bibr23-2058738418814341"><label>23</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Mao</surname><given-names>QD</given-names></name><name name-style="western"><surname>Zhang</surname><given-names>W</given-names></name><name name-style="western"><surname>Zhao</surname><given-names>K</given-names></name><etal>et al</etal></person-group> (<year>2017</year>) <article-title>MicroRNA-455 suppresses the
+oncogenic function of HDAC2 in human colorectal cancer</article-title>.
+<source>Brazilian Journal of Medical and Biological Research</source>
+<volume>50</volume>(<issue>6</issue>): e6103.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1590/1414-431X20176103</pub-id><pub-id pub-id-type="pmcid">PMC5479389</pub-id><pub-id pub-id-type="pmid">28538837</pub-id></mixed-citation></ref><ref id="bibr24-2058738418814341"><label>24</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Herrera</surname><given-names>I</given-names></name><name name-style="western"><surname>Cisneros</surname><given-names>J</given-names></name><name name-style="western"><surname>Maldonado</surname><given-names>M</given-names></name><etal>et al</etal></person-group> (<year>2013</year>) <article-title>Matrix metalloproteinase
+(MMP)-1 induces lung alveolar epithelial cell migration and proliferation,
+protects from apoptosis, and represses mitochondrial oxygen
+consumption</article-title>. <source>The Journal of Biological
+Chemistry</source>
+<volume>288</volume>(<issue>36</issue>):
+<fpage>25964</fpage>–<lpage>25975</lpage>.<pub-id pub-id-type="pmid">23902766</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1074/jbc.M113.459784</pub-id><pub-id pub-id-type="pmcid">PMC3764801</pub-id></mixed-citation></ref><ref id="bibr25-2058738418814341"><label>25</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Sutoh Yoneyama</surname><given-names>M</given-names></name><name name-style="western"><surname>Hatakeyama</surname><given-names>S</given-names></name><name name-style="western"><surname>Habuchi</surname><given-names>T</given-names></name><etal>et al</etal></person-group> (<year>2014</year>) <article-title>Vimentin intermediate
+filament and plectin provide a scaffold for invadopodia, facilitating cancer
+cell invasion and extravasation for metastasis</article-title>.
+<source>European Journal of Cell Biology</source>
+<volume>93</volume>(<issue>4</issue>):
+<fpage>157</fpage>–<lpage>169</lpage>.<pub-id pub-id-type="pmid">24810881</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ejcb.2014.03.002</pub-id></mixed-citation></ref><ref id="bibr26-2058738418814341"><label>26</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Savic</surname><given-names>LJ</given-names></name><name name-style="western"><surname>Chapiro</surname><given-names>J</given-names></name><name name-style="western"><surname>Duwe</surname><given-names>G</given-names></name><etal>et al</etal></person-group> (<year>2016</year>) <article-title>Targeting glucose metabolism
+in cancer: New class of agents for loco-regional and systemic therapy of
+liver cancer and beyond?</article-title>
+<source>Hepatic Oncology</source>
+<volume>3</volume>(<issue>1</issue>):
+<fpage>19</fpage>–<lpage>28</lpage>.<pub-id pub-id-type="pmid">26989470</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.2217/hep.15.36</pub-id><pub-id pub-id-type="pmcid">PMC4792180</pub-id></mixed-citation></ref><ref id="bibr27-2058738418814341"><label>27</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Yan</surname><given-names>H</given-names></name><name name-style="western"><surname>Wang</surname><given-names>X</given-names></name><name name-style="western"><surname>Niu</surname><given-names>J</given-names></name><etal>et al</etal></person-group> (<year>2014</year>) <article-title>Anti-cancer effect and the
+underlying mechanisms of gypenosides on human colorectal cancer SW-480
+cells</article-title>. <source>PLoS ONE</source>
+<volume>9</volume>(<issue>4</issue>): e95609.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0095609</pub-id><pub-id pub-id-type="pmcid">PMC3994090</pub-id><pub-id pub-id-type="pmid">24752286</pub-id></mixed-citation></ref><ref id="bibr28-2058738418814341"><label>28</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Ozcan</surname><given-names>C</given-names></name><name name-style="western"><surname>Yaman</surname><given-names>M</given-names></name></person-group> (<year>2013</year>) <article-title>Determination of kaempferol
+in Rosa canina, Urtica dioica, Terebinthina chica and Portulace oleracea by
+HPLC-MS</article-title>. <source>Asian Journal of Chemistry</source>
+<volume>25</volume>: <fpage>9758</fpage>–<lpage>9762</lpage>.</mixed-citation></ref><ref id="bibr29-2058738418814341"><label>29</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Mukhopadhyay</surname><given-names>A</given-names></name><name name-style="western"><surname>Banerjee</surname><given-names>S</given-names></name><name name-style="western"><surname>Stafford</surname><given-names>LJ</given-names></name><etal>et al</etal></person-group> (<year>2002</year>) <article-title>Curcumin-induced suppression
+of cell proliferation correlates with down-regulation of cyclin D1
+expression and CDK4-mediated retinoblastoma protein
+phosphorylation</article-title>. <source>Oncogene</source>
+<volume>21</volume>(<issue>57</issue>):
+<fpage>8852</fpage>–<lpage>8861</lpage>.<pub-id pub-id-type="pmid">12483537</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/sj.onc.1206048</pub-id></mixed-citation></ref><ref id="bibr30-2058738418814341"><label>30</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Elmore</surname><given-names>S</given-names></name></person-group> (<year>2007</year>) <article-title>Apoptosis: A review of
+programmed cell death</article-title>. <source>Toxicologic
+Pathology</source>
+<volume>35</volume>(<issue>4</issue>):
+<fpage>495</fpage>–<lpage>516</lpage>.<pub-id pub-id-type="pmid">17562483</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/01926230701320337</pub-id><pub-id pub-id-type="pmcid">PMC2117903</pub-id></mixed-citation></ref><ref id="bibr31-2058738418814341"><label>31</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Cimmino</surname><given-names>A</given-names></name><name name-style="western"><surname>Calin</surname><given-names>GA</given-names></name><name name-style="western"><surname>Fabbri</surname><given-names>M</given-names></name><etal>et al</etal></person-group> (<year>2005</year>) <article-title>miR-15 and miR-16 induce
+apoptosis by targeting BCL2</article-title>. <source>Proceedings of the
+National Academy of Sciences of the United States of America</source>
+<volume>102</volume>(<issue>39</issue>):
+<fpage>13944</fpage>–<lpage>13949</lpage>.<pub-id pub-id-type="pmid">16166262</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.0506654102</pub-id><pub-id pub-id-type="pmcid">PMC1236577</pub-id></mixed-citation></ref><ref id="bibr32-2058738418814341"><label>32</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Kulkarni</surname><given-names>V</given-names></name><name name-style="western"><surname>Naqvi</surname><given-names>AR</given-names></name><name name-style="western"><surname>Uttamani</surname><given-names>JR</given-names></name><etal>et al</etal></person-group> (<year>2016</year>) <article-title>MiRNA-target interaction
+reveals cell-specific post-transcriptional regulation in mammalian cell
+lines</article-title>. <source>International Journal of Molecular
+Sciences</source>
+<volume>17</volume>(<issue>1</issue>): 72.<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ijms17010072</pub-id><pub-id pub-id-type="pmcid">PMC4730316</pub-id><pub-id pub-id-type="pmid">26761000</pub-id></mixed-citation></ref><ref id="bibr33-2058738418814341"><label>33</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Hong</surname><given-names>M</given-names></name><name name-style="western"><surname>Wang</surname><given-names>N</given-names></name><name name-style="western"><surname>Tan</surname><given-names>HY</given-names></name><etal>et al</etal></person-group> (<year>2015</year>) <article-title>MicroRNAs and Chinese
+medicinal herbs: New possibilities in cancer therapy</article-title>.
+<source>Cancers</source>
+<volume>7</volume>(<issue>3</issue>):
+<fpage>1643</fpage>–<lpage>1657</lpage>.<pub-id pub-id-type="pmid">26305257</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/cancers7030855</pub-id><pub-id pub-id-type="pmcid">PMC4586788</pub-id></mixed-citation></ref><ref id="bibr34-2058738418814341"><label>34</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Peng</surname><given-names>C</given-names></name><name name-style="western"><surname>Chen</surname><given-names>Y</given-names></name><name name-style="western"><surname>Yang</surname><given-names>Z</given-names></name><etal>et al</etal></person-group> (<year>2010</year>) <article-title>PTEN is a tumor suppressor
+in CML stem cells and BCR-ABL-induced leukemias in mice</article-title>.
+<source>Blood</source>
+<volume>115</volume>(<issue>3</issue>):
+<fpage>626</fpage>–<lpage>635</lpage>.<pub-id pub-id-type="pmid">19965668</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1182/blood-2009-06-228130</pub-id><pub-id pub-id-type="pmcid">PMC2810991</pub-id></mixed-citation></ref><ref id="bibr35-2058738418814341"><label>35</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Wu</surname><given-names>Z</given-names></name><name name-style="western"><surname>He</surname><given-names>Y</given-names></name><name name-style="western"><surname>Li</surname><given-names>D</given-names></name><etal>et al</etal></person-group> (<year>2017</year>) <article-title>Long noncoding RNA MEG3
+suppressed endothelial cell proliferation and migration through regulating
+miR-21</article-title>. <source>American Journal of Translational
+Research</source>
+<volume>9</volume>(<issue>7</issue>):
+<fpage>3326</fpage>–<lpage>3335</lpage>.<pub-id pub-id-type="pmid">28804550</pub-id><pub-id pub-id-type="pmcid">PMC5553882</pub-id></mixed-citation></ref><ref id="bibr36-2058738418814341"><label>36</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Zhang</surname><given-names>BG</given-names></name><name name-style="western"><surname>Li</surname><given-names>JF</given-names></name><name name-style="western"><surname>Yu</surname><given-names>BQ</given-names></name><etal>et al</etal></person-group> (<year>2012</year>) <article-title>microRNA-21 promotes tumor
+proliferation and invasion in gastric cancer by targeting
+PTEN</article-title>. <source>Oncology Reports</source>
+<volume>27</volume>(<issue>4</issue>):
+<fpage>1019</fpage>–<lpage>1026</lpage>.<pub-id pub-id-type="pmid">22267008</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3892/or.2012.1645</pub-id><pub-id pub-id-type="pmcid">PMC3583594</pub-id></mixed-citation></ref><ref id="bibr37-2058738418814341"><label>37</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Kashafi</surname><given-names>E</given-names></name><name name-style="western"><surname>Moradzadeh</surname><given-names>M</given-names></name><name name-style="western"><surname>Mohamadkhani</surname><given-names>A</given-names></name><etal>et al</etal></person-group> (<year>2017</year>) <article-title>Kaempferol increases
+apoptosis in human cervical cancer HeLa cells via PI3K/AKT and telomerase
+pathways</article-title>. <source>Biomedicine Pharmacotherapy</source>
+<volume>89</volume>: <fpage>573</fpage>–<lpage>577</lpage>.<pub-id pub-id-type="pmid">28258039</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.biopha.2017.02.061</pub-id></mixed-citation></ref><ref id="bibr38-2058738418814341"><label>38</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Gwak</surname><given-names>HS</given-names></name><name name-style="western"><surname>Kim</surname><given-names>TH</given-names></name><name name-style="western"><surname>Jo</surname><given-names>GH</given-names></name><etal>et al</etal></person-group> (<year>2012</year>) <article-title>Silencing of microRNA-21
+confers radio-sensitivity through inhibition of the PI3K/AKT pathway and
+enhancing autophagy in malignant glioma cell lines</article-title>.
+<source>PLoS ONE</source>
+<volume>7</volume>(<issue>10</issue>): e47449.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0047449</pub-id><pub-id pub-id-type="pmcid">PMC3471817</pub-id><pub-id pub-id-type="pmid">23077620</pub-id></mixed-citation></ref><ref id="bibr39-2058738418814341"><label>39</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Tang</surname><given-names>H</given-names></name><name name-style="western"><surname>Li</surname><given-names>RP</given-names></name><name name-style="western"><surname>Liang</surname><given-names>P</given-names></name><etal>et al</etal></person-group> (<year>2015</year>) <article-title>miR-125a inhibits the
+migration and invasion of liver cancer cells via suppression of the
+PI3K/AKT/mTOR signaling pathway</article-title>. <source>Oncology
+Letters</source>
+<volume>10</volume>(<issue>2</issue>):
+<fpage>681</fpage>–<lpage>686</lpage>.<pub-id pub-id-type="pmid">26622553</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3892/ol.2015.3264</pub-id><pub-id pub-id-type="pmcid">PMC4509408</pub-id></mixed-citation></ref></ref-list></back></article>

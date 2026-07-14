@@ -1,0 +1,416 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">RSC Adv</journal-id><journal-id journal-id-type="iso-abbrev">RSC Adv</journal-id><journal-id journal-id-type="pmc-domain-id">4079</journal-id><journal-id journal-id-type="pmc-domain">rscadv</journal-id><journal-id journal-id-type="nlm-id">101581657</journal-id><journal-id journal-id-type="publisher-id">RA</journal-id><journal-title-group><journal-title>RSC Advances</journal-title></journal-title-group><issn pub-type="epub">2046-2069</issn><publisher><publisher-name>Royal Society of Chemistry</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC9091567</article-id><article-id pub-id-type="pmcid-ver">PMC9091567.1</article-id><article-id pub-id-type="pmcaid">9091567</article-id><article-id pub-id-type="pmcaiid">9091567</article-id><article-id pub-id-type="pmid">35559288</article-id><article-id pub-id-type="doi">10.1039/c8ra06860g</article-id><article-id pub-id-type="publisher-id">c8ra06860g</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Chemistry</subject></subj-group></article-categories><title-group><article-title>Down-regulation of HOXB5 inhibits TGF-β-induced migration and invasion in hepatocellular carcinoma cells <italic toggle="yes">via</italic> inactivation of the PI3K/Akt pathway</article-title></title-group><contrib-group><contrib contrib-type="author"><name name-style="western"><surname>Sun</surname><given-names initials="JP">Jin-Ping</given-names></name><xref rid="affa" ref-type="aff"/><xref rid="fn1" ref-type="author-notes">†</xref></contrib><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-7443-0367</contrib-id><name name-style="western"><surname>Ge</surname><given-names initials="QX">Quan-Xing</given-names></name><xref rid="affa" ref-type="aff"/><xref rid="fn1" ref-type="author-notes">†</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Ren</surname><given-names initials="Z">Zheng</given-names></name><xref rid="affa" ref-type="aff"/></contrib><contrib contrib-type="author"><name name-style="western"><surname>Sun</surname><given-names initials="XF">Xin-Fang</given-names></name><xref rid="affa" ref-type="aff"/></contrib><contrib contrib-type="author"><name name-style="western"><surname>Xie</surname><given-names initials="SP">Shu-Ping</given-names></name><xref rid="affa" ref-type="aff"/></contrib><aff id="affa">
+<institution>Department of Gastroenterology, Huaihe Hospital of Henan University</institution>
+<addr-line>No. 115 Ximen Street, Longting District</addr-line>
+<city>Kaifeng 475000</city>
+<country>China</country>
+<email>gequanxing_ga@126.com</email>
+<fax>+86-371-23906892</fax>
+<phone>+86-371-23906892</phone>
+</aff></contrib-group><author-notes><fn id="fn1"><label>†</label><p>These authors contributed equally to this work.</p></fn></author-notes><pub-date publication-format="electronic" date-type="pub" iso-8601-date="2018-12-11"><day>11</day><month>12</month><year>2018</year></pub-date><pub-date publication-format="electronic" date-type="collection" iso-8601-date="2018-12-07"><day>7</day><month>12</month><year>2018</year></pub-date><volume>8</volume><issue>72</issue><issue-id pub-id-type="pmc-issue-id">407511</issue-id><fpage>41415</fpage><lpage>41421</lpage><history><date date-type="received" iso-8601-date="2018-08-16"><day>16</day><month>8</month><year>2018</year></date><date date-type="accepted" iso-8601-date="2018-11-22"><day>22</day><month>11</month><year>2018</year></date></history><pub-history><event event-type="pmc-release"><date><day>11</day><month>12</month><year>2018</year></date></event><event event-type="pmc-live"><date><day>11</day><month>05</month><year>2022</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2024-08-27 04:25:38.613"><day>27</day><month>08</month><year>2024</year></date></event></pub-history><permissions><copyright-statement>This journal is © The Royal Society of Chemistry</copyright-statement><copyright-year>2018</copyright-year><copyright-holder>The Royal Society of Chemistry</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense" start_date="2018-12-11">https://creativecommons.org/licenses/by-nc/3.0/</ali:license_ref></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="RA-008-C8RA06860G.pdf"/><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="retraction-forward" xml:lang="en" xlink:title="retraction" vol="12" journal-id="RSC Adv" journal-id-type="nlm-ta" ext-link-type="pmc" xlink:href="PMC9523760"><article-title>Retraction: Down-regulation of HOXB5 inhibits TGF-β-induced migration and invasion in hepatocellular carcinoma cells <italic toggle="yes">via</italic> inactivation of the PI3K/Akt pathway</article-title><volume>12</volume><issue>43</issue><date><day>30</day><month>9</month><year>2022</year></date><fpage>27996</fpage><lpage>27996</lpage><source>RSC Advances</source><pub-id pub-id-type="doi">10.1039/d2ra90097a</pub-id><pub-id pub-id-type="pmcid">PMC9523760</pub-id><pub-id pub-id-type="pmid">36320248</pub-id></related-article><abstract><p>HOXB5, a member of the HOX gene family, is a developmental gene which encodes homeoproteins and is known to be a crucial player in development of enteric nervous systems. Recently, HOXB5 was reported to be associated with cancer progression. However, the specific effect of HOXB5 in hepatocellular carcinoma (HCC) remains unclear. In this study, we demonstrated the important role of HOXB5 in HCC. We showed that HOXB5 was up-regulated in HCC tissues and cell lines. Furthermore, down-regulation of HOXB5 inhibited TGF-β-induced HCC cell migration and invasion <italic toggle="yes">in vitro</italic> and suppressed tumor metastasis <italic toggle="yes">in vivo</italic>. We also found that the PI3K/Akt pathway partly accounted for the mechanisms underlying the inhibitory effect of HOXB5 down-regulation on TGF-β-induced HCC progression. Taken together, these findings demonstrated that down-regulation of HOXB5 inhibits TGF-β-induced migration and invasion in HCC cells <italic toggle="yes">via</italic> inactivation of the PI3K/Akt pathway. Thus, HOXB5 may be a novel therapeutic target for HCC treatment.</p></abstract><abstract abstract-type="toc"><p>HOXB5, a member of the HOX gene family, is a developmental gene which encodes homeoproteins and is known to be a crucial player in development of enteric nervous systems.<graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="ga" position="float" orientation="portrait" xlink:href="c8ra06860g-ga.jpg"/></p></abstract><counts><page-count count="7"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC</meta-value></custom-meta><custom-meta><meta-name>pubstatus</meta-name><meta-value>Paginated Article</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec><label>I.</label><title>Introduction</title><p>Hepatocellular carcinoma (HCC), one of the most prevalent malignancies, features high aggressiveness and invasiveness.<sup><xref rid="cit1" ref-type="bibr">1,2</xref></sup> Ranking the second among all leading causes of cancer-related deaths, HCC results in over half a million deaths every year in the world.<sup><xref rid="cit3" ref-type="bibr">3</xref></sup> For early-stage HCC, radical resection and liver transplantation are available therapeutic approaches.<sup><xref rid="cit4" ref-type="bibr">4,5</xref></sup> Unfortunately, most HCC patients are diagnosed at an advanced stage and the prognosis of these patients remains poor due to a high probability of intrahepatic spread and extrahepatic metastasis.<sup><xref rid="cit6" ref-type="bibr">6,7</xref></sup> Therefore, there is an urgent need to identify metastasis-associated factors and explore molecular mechanisms underlying HCC metastasis.</p><p>TGF-β, a multifunctional cytokine, is implicated in a variety of cellular processes.<sup><xref rid="cit8" ref-type="bibr">8,9</xref></sup> Many studies have reported overexpression of TGF-β in different types of cancer cells.<sup><xref rid="cit10" ref-type="bibr">10</xref></sup> In addition, TGF-β has been demonstrated to function as a positive mediator of tumor metastasis.<sup><xref rid="cit11" ref-type="bibr">11–13</xref></sup> Thus, it may be a beneficial method to suppress or reverse the TGF-β-induced progression during treatment of cancer patients.</p><p>Homeobox genes, termed “HOX” genes, are a group of developmental genes which encode homeoproteins, small proteins functioning as transcriptional factors during the embryonic development.<sup><xref rid="cit14" ref-type="bibr">14–16</xref></sup> So far, 39 HOX genes have been identified in the human genome.<sup><xref rid="cit17" ref-type="bibr">17</xref></sup> These genes are located on four different chromosomes and are the homologue of homeotic complexes of <italic toggle="yes">Drosophila</italic> at both structural and functional levels.<sup><xref rid="cit18" ref-type="bibr">18</xref></sup> More importantly, it has been found that the protein products of these genes serve as transcriptional activators or repressors during cancer development.<sup><xref rid="cit19" ref-type="bibr">19</xref></sup> For example, HOXB5, a member of the HOX family, was demonstrated to be overexpressed in breast cancer tissues and promote cell growth and invasion.<sup><xref rid="cit20" ref-type="bibr">20</xref></sup> Similarly, HOXB5 expression was up-regulated in non-small cell lung cancer (NSCLC) tissues and HOXB5 down-regulation suppressed proliferation, migration, and invasion in NSCLC cells.<sup><xref rid="cit21" ref-type="bibr">21</xref></sup> These findings showed the critical role of HOXB5 in carcinogenesis. However, the specific effect of HOXB5 in HCC remains unclear.</p><p>In this study, we investigated the biological functions of HOXB5 in HCC cell migration and invasion as well as the molecular mechanisms underlying these processes. We found that HOXB5 was overexpressed in HCC tissues and cell lines. Moreover, down-regulation of HOXB5 inhibited TGF-β-induced HCC cell migration and invasion <italic toggle="yes">in vitro</italic> and suppressed tumor metastasis <italic toggle="yes">in vivo</italic>. We also demonstrated that the PI3K/Akt pathway may be part of the underlying mechanisms.</p></sec><sec><label>II.</label><title>Results</title><sec><title>Expression of HOXB5 is up-regulated in HCC tissues and cell lines</title><p>To examine the effect of HOXB5 on HCC, we measured its expression in 98 pairs of HCC tissues and matched non-cancerous tissues by RT-qPCR and western blot analysis. The results showed that the level of HOXB5 mRNA and protein expression in HCC tissues was remarkably higher than that in the normal tissues (<xref rid="fig1" ref-type="fig">Fig. 1A and B</xref>). We also detected the expression of HOXB5 in HCC cell lines. As shown in <xref rid="fig1" ref-type="fig">Fig. 1C and D</xref>, HOXB5 mRNA and protein expression were significantly up-regulated in Huh-7 and HepG2 cells in comparison with the normal liver cell line MIHA.</p><fig position="float" id="fig1" orientation="portrait"><label>Fig. 1</label><caption><title>Expression of HOXB5 is up-regulated in HCC tissues and cell lines. (A and B) RT-qPCR and western blot analysis of HOXB5 expression in HCC tissues and matched normal tissues. (<italic toggle="yes">n</italic> = 98). (C and D) RT-qPCR and western blot analysis of HOXB5 expression in HCC cell lines (Huh-7 and HepG2) and the normal liver cell line MIHA. *<italic toggle="yes">p</italic> &lt; 0.05.</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="c8ra06860g-f1.jpg"/></fig></sec><sec><title>Down-regulation of HOXB5 inhibits TGF-β-induced HCC cell migration and invasion <italic toggle="yes">in vitro</italic></title><p>TGF-β is known as a promoter of cancer cell migration and invasion.<sup><xref rid="cit22" ref-type="bibr">22,23</xref></sup> To investigate whether HOXB5 was involved in TGF-β-induced HCC cell migration and invasion, the expression of HOXB5 was reduced by shRNA transfection in HCC cells. Knockdown of HOXB5 was verified by western blot analysis (<xref rid="fig2" ref-type="fig">Fig. 2A and B</xref>). Transwell assays were performed to examine cell migration and invasion. The results showed that HOXB5 knockdown inhibited Huh-7 cell migration and invasion and abrogated TGF-β-promoted cell migration and invasion (<xref rid="fig2" ref-type="fig">Fig. 2C and D</xref>). Similar effects were observed in HepG2 cells (<xref rid="fig2" ref-type="fig">Fig. 2E and F</xref>).</p><fig position="float" id="fig2" orientation="portrait"><label>Fig. 2</label><caption><title>Down-regulation of HOXB5 inhibits TGF-β-induced HCC cell migration and invasion <italic toggle="yes">in vitro</italic>. (A and B) HOXB5 expression in Huh-7 and HepG2 cells were measured by western blot analysis after transfection of shHOXB5 or shControl. (C–F) Huh-7 and HepG2 cell migration and invasion were determined using the transwell assay after treatment with or without TGF-β (10 ng mL<sup>−1</sup>). *<italic toggle="yes">p</italic> &lt; 0.05.</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="c8ra06860g-f2.jpg"/></fig></sec><sec><title>Down-regulation of HOXB5 inhibits TGF-β-induced HCC cell metastasis <italic toggle="yes">in vivo</italic></title><p>To determine whether HOXB5 down-regulation could inhibit TGF-β-induced HCC cell metastasis <italic toggle="yes">in vivo</italic>, Huh-7 cells transfected with shHOXB5 or shControl with or without treatment of TGF-β (10 ng mL<sup>−1</sup>) were injected into the tail vein of nude mice. 30 days later, less metastatic nodules were found in shHOXB5 group while more metastatic nodules were detected in TGF-β1-treated group, in comparison with the control group (<xref rid="fig3" ref-type="fig">Fig. 3A and B</xref>).</p><fig position="float" id="fig3" orientation="portrait"><label>Fig. 3</label><caption><title>Down-regulation of HOXB5 inhibits TGF-β-induced HCC cell metastasis <italic toggle="yes">in vivo</italic>. (A) Representative images of lungs in nude mice were presented. (B) Quantification of metastatic lung nodules of nude mice in different groups. *<italic toggle="yes">p</italic> &lt; 0.05.</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="c8ra06860g-f3.jpg"/></fig></sec><sec><title>Down-regulation of HOXB5 abrogates TGF-β-induced activation of the PI3K/Akt pathway in HCC cells</title><p>Previous studies have indicated that TGF-β could activate the PI3K/Akt pathway,<sup><xref rid="cit24" ref-type="bibr">24,25</xref></sup> so we investigated whether HOXB5 down-regulation inhibited TGF-β-induced PI3K/Akt pathway. As expected, TGF-β effectively increased phosphorylation of PI3K and Akt while HOXB5 down-regulation significantly blocked TGF-β-induced activation of the PI3K/Akt pathway in Huh-7 cells (<xref rid="fig4" ref-type="fig">Fig. 4A</xref>). To further confirm involvement of the PI3K/Akt pathway in the inhibitory effect of HOXB5 down-regulation on TGF-β-induced HCC cell migration and invasion, LY294002 (PI3K/Akt inhibitor) was used to treat Huh-7 cells. The results indicated that LY294002 obviously prevented TGF-β-induced HCC cell migration and invasion and this reversal effect was enhanced by HOXB5 down-regulation (<xref rid="fig4" ref-type="fig">Fig. 4B and C</xref>).</p><fig position="float" id="fig4" orientation="portrait"><label>Fig. 4</label><caption><title>Down-regulation of HOXB5 abrogates TGF-β-induced activation of the PI3K/Akt pathway in HCC cells. (A) Western blot analysis of p-PI3K, PI3K, p-Akt and Akt in Huh-7 cells. (B and C) Huh-7 cell migration and invasion were determined using the transwell assay after treatment with TGF-β (10 ng mL<sup>−1</sup>) or LY294002 (20 μM). *<italic toggle="yes">p</italic> &lt; 0.05 <italic toggle="yes">vs.</italic> shControl; <sup>#</sup><italic toggle="yes">p</italic> &lt; 0.05 <italic toggle="yes">vs.</italic> shControl + TGF-β.</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="c8ra06860g-f4.jpg"/></fig></sec></sec><sec><label>III.</label><title>Discussion</title><p>According to statistics, there has been an increasing incidence of HCC in the last two decades, but the prognosis remains unsatisfactory.<sup><xref rid="cit3" ref-type="bibr">3,5</xref></sup> Among HCC patients, tumor metastasis is ubiquitous, resulting in death of 90% of the patients.<sup><xref rid="cit26" ref-type="bibr">26</xref></sup> Thus, we need to make a maximum effort to explore novel therapeutic approaches targeting HCC metastasis.</p><p>HOXB5, a member of the HOX gene family, is known as a crucial player in development of the enteric nervous system.<sup><xref rid="cit27" ref-type="bibr">27,28</xref></sup> In addition, abnormalities in HOXB5 functions may cause Hirschsprung's disease.<sup><xref rid="cit29" ref-type="bibr">29,30</xref></sup> Recently, HOXB5 was reported to be associated with cancer progression. For example, Hong <italic toggle="yes">et al.</italic> reported that HOXB5 was overexpressed in gastric cancer tissues and induced cell migration and invasion.<sup><xref rid="cit31" ref-type="bibr">31</xref></sup> In a study on NSCLC, HOXB5 was targeted to regulate cell migration.<sup><xref rid="cit32" ref-type="bibr">32</xref></sup> All these observations indicated the tumor-promoting effect of HOXB5 in cancer progression. Consistently, our study found that HOXB5 was highly expressed in HCC tissues and cell lines. In addition, down-regulation of HOXB5 inhibited HCC cell migration and invasion <italic toggle="yes">in vitro</italic>. This result was further confirmed by our xenograft tumor assay which showed that HOXB5 down-regulation suppressed HCC cell metastasis <italic toggle="yes">in vivo</italic>.</p><p>TGF-β, a multifunctional cytokine, is a member of transforming growth factors.<sup><xref rid="cit8" ref-type="bibr">8,33</xref></sup> It has been demonstrated that TGF-β is capable of eliciting cellular phenotypic changes and acts as a tumor promoter or suppressor in a context-dependent manner.<sup><xref rid="cit13" ref-type="bibr">13</xref></sup> In the TGF-β pathway, inactivating mutation represents a mechanism underlying the evasion of tumor-inhibitory functions.<sup><xref rid="cit34" ref-type="bibr">34</xref></sup> But core aspects of the TGF-β signaling, in many types of cancers, are intact with amputated tumor-suppressive arms.<sup><xref rid="cit35" ref-type="bibr">35,36</xref></sup> In addition, TGF-β is able to enhance migratory and invasive capabilities of cancer cells, representing one of its tumor-promoting arms.<sup><xref rid="cit37" ref-type="bibr">37–39</xref></sup> It is a complex mechanism how TGF-β switches from a tumor promoter to a tumor suppressor.<sup><xref rid="cit40" ref-type="bibr">40</xref></sup> So far, many signaling pathways have been demonstrated to promote oncogenicity of the TGF-β signaling.<sup><xref rid="cit41" ref-type="bibr">41,42</xref></sup> In the present study, we found that TGF-β induced HCC cell migration and invasion while HOXB5 down-regulation abrogated the promoting effect, suggesting HOXB5 as a contributor to the oncogenic TGF-β. Given that HOXB5 is frequently up-regulated in various cancers, it may be another contextual cue promoting cancer progression driven by TGF-β.</p><p>The PI3K/Akt signaling pathway plays an important role in cancer migration and invasion.<sup><xref rid="cit43" ref-type="bibr">43–45</xref></sup> More importantly, the pathway could be activated or inhibited by TGF-β depending on cell types.<sup><xref rid="cit46" ref-type="bibr">46</xref></sup> In this study, we showed that TGF-β promoted HCC cell migration and invasion and this effect was mediated by the PI3K/Akt pathway. In addition, LY294002 (PI3K/Akt inhibitor) blocked TGF-β-induced cell migration and invasion in HCC cells and this reversal effect was potentiated after HOXB5 down-regulation. These results suggested that the PI3K/Akt pathway is essential for the inhibitory effect of HOXB5 down-regulation on TGF-β-induced HCC cell migration and invasion.</p><p>In conclusion, this study demonstrated the important role of HOXB5 in HCC. We found that HOXB5 was up-regulated in HCC tissues and cell lines. Furthermore, down-regulation of HOXB5 inhibited TGF-β-induced HCC progression partly through the PI3K/Akt pathway. Taken together, this study may provide a novel therapeutic target for HCC treatment.</p></sec><sec><label>IV.</label><title>Materials and methods</title><sec><title>Patients and tissue samples</title><p>Human HCC and matched non-cancerous tissues were obtained from 98 patients at Huaihe Hospital of Henan University (Kaifeng, China). Each patient received no adjuvant therapies before surgery. After collection, tissue samples were frozen in liquid nitrogen and stored at −80 °C. The study complied with all institutional and national guidelines, as per the Chinese Research Policy Statement: Ethical Conduct for Research Involving Humans, the protocol was approved by the Human Research Ethics Board of Huaihe Hospital (#47), and all participants provided written informed consent.</p></sec><sec><title>Cell lines and cell culture</title><p>Human HCC cell lines (Huh-7 and HepG2) and an immortalized normal liver cell line MIHA were purchased from the American Type Culture Collection (ATCC, Manassas, VA, USA). All cell lines were cultured in Dulbecco's modified Eagle's medium (DMEM; Sigma, St. Louis, MO, USA) supplemented with 10% fetal bovine serum (FBS; Sigma), 100 μg mL<sup>−1</sup> streptomycin and 100 U mL<sup>−1</sup> penicillin. The incubation condition was 37 °C in a humidified atmosphere with 5% CO<sub>2</sub>.</p></sec><sec><title>Quantitative real-time polymerase chain reaction (RT-qPCR)</title><p>The total RNA of tissues or cells was isolated using TRIzol reagent (Invitrogen, Carlsbad, CA, USA). The reverse transcription was performed using a reverse transcription kit (Takara, Tokyo, Japan) and RT-qPCR was performed using a LightCycler 96 Instrument (Roche, Basel, Switzerland). The following primers were used: HOXB5, 5′-CCAATTTCACCGAAATAGACG-3′ (forward) and 5′-CGGTCATATCATGGCTGATG-3′ (reverse); β-actin, 5′-CTTCTTGGGTATGGAATCCTG-3′ (forward) and 5′-TCAGGAGGAGCAATGATCTTG-3′ (reverse). The reaction conditions were as follows: 35 cycles of 95 °C for 30 s, 62 °C for 30 s and 72 °C for 1 min. Relative gene expression was normalized to β-actin and calculated using the 2<sup>−ΔΔ<italic toggle="yes">C</italic><sub>t</sub></sup> method.</p></sec><sec><title>Western blot analysis</title><p>Tissues or cells were lysed in lysis buffer and centrifuged at 12 000 × <italic toggle="yes">g</italic> for 15 min. The supernatant was extracted, separated by 10% SDS-PAGE and transferred onto PVDF membranes (Millipore, Billerica, MA, USA). The membranes were blocked with 5% skimmed milk for 2 h and incubated overnight at 4 °C with primary antibodies against HOXB5, p-PI3K, PI3K, p-Akt, Akt and β-actin. Subsequently, the membranes were washed three times with TBST and then incubated with appropriate secondary antibodies. All antibodies were purchased from Santa Cruz Biotechnology (Santa Cruz, CA, USA). Protein bands were visualized using the ECL reagent (Pierce, Rockford, IL, USA) and the density was quantified by the ImageJ software (NIH, Bethesda, MD, USA).</p></sec><sec><title>Cell transfection</title><p>Lentiviral packaging of recombinant vectors of lenti-shHOXB5-LV3 or lenti-shControl-LV3 was produced in 293T cells and HCC cells were transfected with these lentivirus. 48 h later, the cells were treated with puromycin. After 2 weeks, stably transfected clones were selected. Transfection efficiency was confirmed by western blot analysis.</p></sec><sec><title>Transwell assay</title><p>Transwell chambers with polycarbonate membrane filters (8 μm pore) were used for cell migration and invasion assays. For the migration assay, 1 × 10<sup>4</sup> cells were resuspended in serum-free DMEM and added to the upper chamber. The lower chamber was filled with culture media containing 10% FBS. After incubation for 48 h, cells remaining on the upper surface of the filter were scraped away with a cotton swab and cells migrating to the lower surface of the filter were fixed and stained with 0.1% crystal violet. The number of migrating cells in four random fields was counted under a microscope (200×). The invasion assay was performed according to steps similar to those for the migration assay, except that Matrigel-coated filters were used.</p></sec><sec><title>
+<italic toggle="yes">In vivo</italic> tumor metastasis assay</title><p>Four-week-old male nude mice were obtained from Shanghai Laboratory Animal Center (Shanghai, China). Mice were randomly divided into four groups (<italic toggle="yes">n</italic> = 5) and handled with approval of the Animal Care and Use Committee of Henan University. 2 × 10<sup>6</sup> Huh-7 cells transfected with shHOXB5 or shControl with or without treatment of TGF-β (10 ng mL<sup>−1</sup>) were resuspended in PBS and then injected into the tail vein of nude mice. 30 days later, mice were killed and their lungs were removed. The metastatic lung nodules were counted under a microscope. This study was performed in strict accordance with the NIH guidelines for the care and use of laboratory animals (NIH Publication no. 85-23 Rev. 1985) and was approved by the Institutional Animal Care and Use Committee of Huaihe Hospital of Henan University (Kaifeng, China).</p></sec><sec><title>Statistical analysis</title><p>Data were collected from three independent experiments and shown as means ± standard deviation (SD). Statistical analysis was performed using SPSS 13.0 software. Student's <italic toggle="yes">t</italic>-test was used for comparisons between two groups and one-way ANOVA was used for comparisons between three or more groups. <italic toggle="yes">P</italic> &lt; 0.05 was considered statistically significant.</p></sec></sec><sec sec-type="COI-statement"><title>Conflicts of interest</title><p>The authors declare that they have no conflicts of interest.</p></sec><sec sec-type="supplementary-material"><title>Supplementary Material</title></sec></body><back><ack><p>This study was supported by the Scientific and Technological Project of Henan Province in China (No. 182102310367).</p></ack><ref-list><title>References</title><ref id="cit1"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Ananthakrishnan</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Gogineni</surname><given-names>V.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Saeian</surname><given-names>K.</given-names></name>
+</person-group><article-title>Epidemiology of Primary and Secondary Liver Cancers</article-title><source>Semin. Intervent. Radiol.</source><year>2006</year><volume>23</volume><fpage>47</fpage><lpage>63</lpage><pub-id pub-id-type="doi">10.1055/s-2006-939841</pub-id><pub-id pub-id-type="pmid">21326720</pub-id><pub-id pub-id-type="pmcid">PMC3036307</pub-id></element-citation></ref><ref id="cit2"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Sahasrabuddhe</surname><given-names>V. V.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Gunja</surname><given-names>M. Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Graubard</surname><given-names>B. I.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Trabert</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Schwartz</surname><given-names>L. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Park</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Hollenbeck</surname><given-names>A. R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Freedman</surname><given-names>N. D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Mcglynn</surname><given-names>K. A.</given-names></name>
+</person-group><article-title>Nonsteroidal Anti-inflammatory Drug Use, Chronic Liver Disease, and Hepatocellular Carcinoma</article-title><source>J. Natl. Cancer Inst.</source><year>2012</year><volume>104</volume><fpage>1808</fpage><lpage>1814</lpage><pub-id pub-id-type="doi">10.1093/jnci/djs452</pub-id><pub-id pub-id-type="pmid">23197492</pub-id><pub-id pub-id-type="pmcid">PMC3514167</pub-id></element-citation></ref><ref id="cit3"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Jemal</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Bray</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Center</surname><given-names>M. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Ferlay</surname><given-names>J. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Ward</surname><given-names>E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Forman</surname><given-names>D.</given-names></name>
+</person-group><article-title>Global cancer statistics</article-title><source>Ca-Cancer J. Clin.</source><year>2011</year><volume>61</volume><fpage>69</fpage><lpage>90</lpage><pub-id pub-id-type="doi">10.3322/caac.20107</pub-id><pub-id pub-id-type="pmid">21296855</pub-id></element-citation></ref><ref id="cit4"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Villanueva</surname><given-names>A.</given-names></name>
+</person-group><article-title>New strategies in hepatocellular carcinoma: genomic prognostic markers</article-title><source>Clin. Cancer Res.</source><year>2010</year><volume>16</volume><fpage>4688</fpage><lpage>4694</lpage><pub-id pub-id-type="doi">10.1158/1078-0432.CCR-09-1811</pub-id><pub-id pub-id-type="pmid">20713493</pub-id><pub-id pub-id-type="pmcid">PMC3395071</pub-id></element-citation></ref><ref id="cit5"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Belghiti</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Fuks</surname><given-names>D.</given-names></name>
+</person-group><article-title>Liver resection and transplantation in hepatocellular carcinoma</article-title><source>Liver Cancer</source><year>2012</year><volume>1</volume><fpage>71</fpage><lpage>82</lpage><pub-id pub-id-type="doi">10.1159/000342403</pub-id><pub-id pub-id-type="pmid">24159575</pub-id><pub-id pub-id-type="pmcid">PMC3747544</pub-id></element-citation></ref><ref id="cit6"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Zhang</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Xu</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Zang</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Ning</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Feng</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Chi</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Zhu</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Meng</surname><given-names>Z.</given-names></name>
+</person-group><article-title>Bufalin suppresses hepatocellular carcinoma invasion and metastasis by targeting HIF-1α <italic toggle="yes">via</italic> the PI3K/AKT/mTOR pathway</article-title><source>Oncotarget</source><year>2016</year><volume>7</volume><fpage>20193</fpage><lpage>20208</lpage><pub-id pub-id-type="pmid">26958938</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.18632/oncotarget.7935</pub-id><pub-id pub-id-type="pmcid">PMC4991447</pub-id></element-citation></ref><ref id="cit7"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Chaffer</surname><given-names>C. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Weinberg</surname><given-names>R. A.</given-names></name>
+</person-group><article-title>A perspective on cancer cell metastasis</article-title><source>Science</source><year>2011</year><volume>331</volume><fpage>1559</fpage><lpage>1564</lpage><pub-id pub-id-type="doi">10.1126/science.1203543</pub-id><pub-id pub-id-type="pmid">21436443</pub-id></element-citation></ref><ref id="cit8"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Lawrence</surname><given-names>D. A.</given-names></name>
+</person-group><article-title>Transforming growth factor-beta: a general review</article-title><source>Eur. Cytokine Network</source><year>1996</year><volume>7</volume><fpage>363</fpage><lpage>374</lpage><pub-id pub-id-type="pmid">8954178</pub-id></element-citation></ref><ref id="cit9"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Ying</surname><given-names>E. Z.</given-names></name>
+</person-group><article-title>A special issue on TGF-β signaling and biology</article-title><source>Cell Biosci.</source><year>2011</year><volume>1</volume><fpage>1</fpage><pub-id pub-id-type="doi">10.1186/2045-3701-1-1</pub-id><pub-id pub-id-type="pmid">22204389</pub-id><pub-id pub-id-type="pmcid">PMC3275483</pub-id></element-citation></ref><ref id="cit10"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Barcelloshoff</surname><given-names>M. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Akhurst</surname><given-names>R. J.</given-names></name>
+</person-group><article-title>Transforming growth factor-β in breast cancer: too much, too late</article-title><source>Breast Cancer Res.</source><year>2009</year><volume>11</volume><fpage>202</fpage><pub-id pub-id-type="doi">10.1186/bcr2224</pub-id><pub-id pub-id-type="pmid">19291273</pub-id><pub-id pub-id-type="pmcid">PMC2687712</pub-id></element-citation></ref><ref id="cit11"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Hata</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Shi</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Massagué</surname><given-names>J.</given-names></name>
+</person-group><article-title>TGF-beta signaling and cancer: structural and functional consequences of mutations in Smads</article-title><source>Mol. Med. Today</source><year>1998</year><volume>4</volume><fpage>257</fpage><lpage>262</lpage><pub-id pub-id-type="doi">10.1016/S1357-4310(98)01247-7</pub-id><pub-id pub-id-type="pmid">9679244</pub-id></element-citation></ref><ref id="cit12"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Oft</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Heider</surname><given-names>K. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Beug</surname><given-names>H.</given-names></name>
+</person-group><article-title>TGF-β signaling is necessary for carcinoma cell invasiveness and metastasis</article-title><source>Curr. Biol.</source><year>1998</year><volume>8</volume><fpage>1243</fpage><lpage>1252</lpage><pub-id pub-id-type="doi">10.1016/S0960-9822(07)00533-7</pub-id><pub-id pub-id-type="pmid">9822576</pub-id></element-citation></ref><ref id="cit13"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Bierie</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Moses</surname><given-names>H. L.</given-names></name>
+</person-group><article-title>TGF beta: the molecular Jekyll and Hyde of cancer</article-title><source>Nat. Rev. Cancer</source><year>2006</year><volume>6</volume><fpage>506</fpage><lpage>520</lpage><pub-id pub-id-type="doi">10.1038/nrc1926</pub-id><pub-id pub-id-type="pmid">16794634</pub-id></element-citation></ref><ref id="cit14"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Nourse</surname><given-names>J.</given-names></name>
+</person-group><article-title>Chromosomal translocation t(1;19) results in synthesis of a homeobox fusion mRNA that codes for a potential chimeric transcription factor</article-title><source>Cell</source><year>1990</year><volume>60</volume><fpage>535</fpage><lpage>545</lpage><pub-id pub-id-type="doi">10.1016/0092-8674(90)90657-Z</pub-id><pub-id pub-id-type="pmid">1967982</pub-id></element-citation></ref><ref id="cit15"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Kamps</surname><given-names>M. P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Murre</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Sun</surname><given-names>X. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Baltimore</surname><given-names>D.</given-names></name>
+</person-group><article-title>A new homeobox gene contributes the DNA binding domain of the t(1;19) translocation protein in pre-B ALL</article-title><source>Cell</source><year>1990</year><volume>60</volume><fpage>547</fpage><lpage>555</lpage><pub-id pub-id-type="doi">10.1016/0092-8674(90)90658-2</pub-id><pub-id pub-id-type="pmid">1967983</pub-id></element-citation></ref><ref id="cit16"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Gehring</surname><given-names>W. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Hiromi</surname><given-names>Y.</given-names></name>
+</person-group><article-title>Homeotic genes and the homeobox</article-title><source>Annu. Rev. Genet.</source><year>1986</year><volume>20</volume><fpage>147</fpage><lpage>173</lpage><pub-id pub-id-type="doi">10.1146/annurev.ge.20.120186.001051</pub-id><pub-id pub-id-type="pmid">2880555</pub-id></element-citation></ref><ref id="cit17"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Ruddle</surname><given-names>F. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Bartels</surname><given-names>J. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Bentley</surname><given-names>K. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Kappen</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Murtha</surname><given-names>M. T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Pendleton</surname><given-names>J. W.</given-names></name>
+</person-group><article-title>Evolution of Hox Genes</article-title><source>Annu. Rev. Genet.</source><year>1994</year><volume>28</volume><fpage>423</fpage><lpage>442</lpage><pub-id pub-id-type="doi">10.1146/annurev.ge.28.120194.002231</pub-id><pub-id pub-id-type="pmid">7893134</pub-id></element-citation></ref><ref id="cit18"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Scott</surname><given-names>M. P.</given-names></name>
+</person-group><article-title>Vertebrate homeobox gene nomenclature</article-title><source>Cell</source><year>1992</year><volume>71</volume><fpage>551</fpage><lpage>553</lpage><pub-id pub-id-type="doi">10.1016/0092-8674(92)90588-4</pub-id><pub-id pub-id-type="pmid">1358459</pub-id></element-citation></ref><ref id="cit19"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Bhatlekar</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Fields</surname><given-names>J. Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Boman</surname><given-names>B. M.</given-names></name>
+</person-group><article-title>HOX genes and their role in the development of human cancers</article-title><source>J. Mol. Med.</source><year>2014</year><volume>92</volume><fpage>811</fpage><lpage>823</lpage><pub-id pub-id-type="doi">10.1007/s00109-014-1181-y</pub-id><pub-id pub-id-type="pmid">24996520</pub-id></element-citation></ref><ref id="cit20"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Lee</surname><given-names>J. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Hur</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Yun</surname><given-names>H. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Kim</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Yang</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Kim</surname><given-names>S. I.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Kim</surname><given-names>M. H.</given-names></name>
+</person-group><article-title>HOXB5 Promotes the Proliferation and Invasion of Breast Cancer Cells</article-title><source>Int. J. Biol. Sci.</source><year>2015</year><volume>11</volume><fpage>701</fpage><lpage>711</lpage><pub-id pub-id-type="doi">10.7150/ijbs.11431</pub-id><pub-id pub-id-type="pmid">25999793</pub-id><pub-id pub-id-type="pmcid">PMC4440260</pub-id></element-citation></ref><ref id="cit21"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Zhang</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Li</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Zhang</surname><given-names>H.</given-names></name>
+</person-group><article-title>Knockdown of Homeobox B5 (HOXB5) Inhibits Cell Proliferation, Migration, and Invasion in Non-Small Cell Lung Cancer Cells Through Inactivation of the Wnt/β-Catenin Pathway</article-title><source>Oncol. Res.</source><year>2017</year><volume>26</volume><fpage>37</fpage><lpage>44</lpage><pub-id pub-id-type="doi">10.3727/096504017X14900530835262</pub-id><pub-id pub-id-type="pmid">28337958</pub-id><pub-id pub-id-type="pmcid">PMC7844563</pub-id></element-citation></ref><ref id="cit22"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Fransvea</surname><given-names>E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Angelotti</surname><given-names>U.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Antonaci</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Giannelli</surname><given-names>G.</given-names></name>
+</person-group><article-title>Blocking transforming growth factor-beta up-regulates E-cadherin and reduces migration and invasion of hepatocellular carcinoma cells</article-title><source>Hepatology</source><year>2008</year><volume>47</volume><fpage>1557</fpage><lpage>1566</lpage><pub-id pub-id-type="doi">10.1002/hep.22201</pub-id><pub-id pub-id-type="pmid">18318443</pub-id></element-citation></ref><ref id="cit23"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Wrighton</surname><given-names>K. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Lin</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Feng</surname><given-names>X.</given-names></name>
+</person-group><article-title>Phospho-control of TGF-β superfamily signaling</article-title><source>Cell Res.</source><year>2009</year><volume>19</volume><fpage>8</fpage><lpage>20</lpage><pub-id pub-id-type="doi">10.1038/cr.2008.327</pub-id><pub-id pub-id-type="pmid">19114991</pub-id><pub-id pub-id-type="pmcid">PMC2929013</pub-id></element-citation></ref><ref id="cit24"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Mitsuo</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Sumanth</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Mei</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Hang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Linda</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Indu</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Amanda</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Yoshimi</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Hitoshi</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Ivan</surname><given-names>T.</given-names></name>
+</person-group><article-title>TGF-β activates Akt kinase <italic toggle="yes">via</italic> a microRNA-dependent amplifying circuit targeting PTEN</article-title><source>Nat. Cell Biol.</source><year>2009</year><volume>11</volume><fpage>881</fpage><lpage>889</lpage><pub-id pub-id-type="doi">10.1038/ncb1897</pub-id><pub-id pub-id-type="pmid">19543271</pub-id><pub-id pub-id-type="pmcid">PMC2744130</pub-id></element-citation></ref><ref id="cit25"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Chen</surname><given-names>K. C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Chen</surname><given-names>C. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Lin</surname><given-names>C. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Yang</surname><given-names>T. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Chen</surname><given-names>T. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Wu</surname><given-names>L. C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Wu</surname><given-names>C. C.</given-names></name>
+</person-group><article-title>Luteolin attenuates TGF-β1-induced epithelial–mesenchymal transition of lung cancer cells by interfering in the PI3K/Akt–NF-κB–Snail pathway</article-title><source>Life Sci.</source><year>2013</year><volume>93</volume><fpage>924</fpage><lpage>933</lpage><pub-id pub-id-type="doi">10.1016/j.lfs.2013.10.004</pub-id><pub-id pub-id-type="pmid">24140887</pub-id></element-citation></ref><ref id="cit26"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Sheng</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Qiao</surname><given-names>M.</given-names></name>
+</person-group><article-title>Ab, metastasis and AKT activation</article-title><source>J. Cell. Physiol.</source><year>2009</year><volume>7</volume><fpage>2991</fpage><lpage>2996</lpage><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/jcp.21616</pub-id><pub-id pub-id-type="pmid">18988188</pub-id></element-citation></ref><ref id="cit27"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Lui</surname><given-names>V. C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Cheng</surname><given-names>W. W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Leon</surname><given-names>T. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Lau</surname><given-names>D. K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Garcia-Barcelo</surname><given-names>M. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Miao</surname><given-names>X. P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Kam</surname><given-names>M. K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>So</surname><given-names>M. T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Chen</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Wall</surname><given-names>N. A.</given-names></name>
+</person-group><article-title>Perturbation of hoxb5 signaling in vagal neural crests down-regulates ret leading to intestinal hypoganglionosis in mice</article-title><source>Gastroenterology</source><year>2008</year><volume>134</volume><fpage>1104</fpage><lpage>1115</lpage><pub-id pub-id-type="doi">10.1053/j.gastro.2008.01.028</pub-id><pub-id pub-id-type="pmid">18395091</pub-id></element-citation></ref><ref id="cit28"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Lizen</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Hutlet</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Bissen</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Sauvegarde</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Hermant</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Ahn</surname><given-names>M.T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Gofflot</surname><given-names>F.</given-names></name>
+</person-group><source>J. Comp. Neurol.</source><year>2017</year><volume>525</volume><fpage>1155</fpage><lpage>1175</lpage><pub-id pub-id-type="doi">10.1002/cne.24123</pub-id><pub-id pub-id-type="pmid">27650319</pub-id></element-citation></ref><ref id="cit29"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Zhu</surname><given-names>J. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Kam</surname><given-names>M. K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Garcia-Barceló</surname><given-names>M. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Tam</surname><given-names>P. K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Lui</surname><given-names>V. C.</given-names></name>
+</person-group><article-title>HOXB5 binds to multi-species conserved sequence (MCS+9.7) of RET gene and regulates RET expression</article-title><source>Int. J. Biochem. Cell Biol.</source><year>2014</year><volume>51</volume><fpage>142</fpage><lpage>149</lpage><pub-id pub-id-type="doi">10.1016/j.biocel.2014.04.013</pub-id><pub-id pub-id-type="pmid">24794774</pub-id></element-citation></ref><ref id="cit30"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Zhu</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Garcia-Barcelo</surname><given-names>M. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Tam</surname><given-names>P. K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Lui</surname><given-names>V. C.</given-names></name>
+</person-group><article-title>HOXB5 cooperates with NKX2-1 in the transcription of human RET</article-title><source>PLoS One</source><year>2011</year><volume>6</volume><fpage>e20815</fpage><pub-id pub-id-type="doi">10.1371/journal.pone.0020815</pub-id><pub-id pub-id-type="pmid">21677782</pub-id><pub-id pub-id-type="pmcid">PMC3108997</pub-id></element-citation></ref><ref id="cit31"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Hong</surname><given-names>C. S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Jeong</surname><given-names>O.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Piao</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Guo</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Jung</surname><given-names>M. R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Choi</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Park</surname><given-names>Y. K.</given-names></name>
+</person-group><article-title>HOXB5 induces invasion and migration through direct transcriptional upregulation of β-catenin in human gastric carcinoma</article-title><source>Biochem. J.</source><year>2015</year><volume>472</volume><fpage>393</fpage><lpage>403</lpage><pub-id pub-id-type="doi">10.1042/BJ20150213</pub-id><pub-id pub-id-type="pmid">26467157</pub-id></element-citation></ref><ref id="cit32"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Gao</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Zhao</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Diao</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Xie</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Liu</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Han</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Zhang</surname><given-names>M.</given-names></name>
+</person-group><article-title>miR-455-3p serves as prognostic factor and regulates the proliferation and migration of non-small cell lung cancer through targeting HOXB5</article-title><source>Biochem. Biophys. Res. Commun.</source><year>2017</year><fpage>1074</fpage><lpage>1080</lpage><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bbrc.2017.11.123</pub-id><pub-id pub-id-type="pmid">29170127</pub-id></element-citation></ref><ref id="cit33"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Chambaz</surname><given-names>E. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Souchelnitskiy</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Pellerin</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Defaye</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Cochet</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Feige</surname><given-names>J. J.</given-names></name>
+</person-group><article-title>Transforming Growth Factor-βs: A Multifunctional Cytokine Family</article-title><source>Horm. Res. Paediatr.</source><year>1996</year><volume>45</volume><fpage>222</fpage><lpage>226</lpage><pub-id pub-id-type="doi">10.1159/000184792</pub-id><pub-id pub-id-type="pmid">8964588</pub-id></element-citation></ref><ref id="cit34"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Guasch</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Schober</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Pasolli</surname><given-names>H. A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Conn</surname><given-names>E. B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Polak</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Fuchs</surname><given-names>E.</given-names></name>
+</person-group><article-title>Loss of TGFbeta signaling destabilizes homeostasis and promotes squamous cell carcinomas in stratified epithelia</article-title><source>Cancer Cell</source><year>2007</year><volume>12</volume><fpage>313</fpage><lpage>327</lpage><pub-id pub-id-type="doi">10.1016/j.ccr.2007.08.020</pub-id><pub-id pub-id-type="pmid">17936557</pub-id><pub-id pub-id-type="pmcid">PMC2424201</pub-id></element-citation></ref><ref id="cit35"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Joan</surname><given-names>M.</given-names></name>
+</person-group><article-title>TGFbeta in Cancer</article-title><source>Cell</source><year>2008</year><volume>134</volume><fpage>215</fpage><lpage>230</lpage><pub-id pub-id-type="doi">10.1016/j.cell.2008.07.001</pub-id><pub-id pub-id-type="pmid">18662538</pub-id><pub-id pub-id-type="pmcid">PMC3512574</pub-id></element-citation></ref><ref id="cit36"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Sun</surname><given-names>L.</given-names></name>
+</person-group><article-title>Tumor-suppressive and promoting function of transforming growth factor beta</article-title><source>Front. Biosci.</source><year>2004</year><volume>9</volume><fpage>1925</fpage><lpage>1935</lpage><pub-id pub-id-type="doi">10.2741/1382</pub-id><pub-id pub-id-type="pmid">14977598</pub-id></element-citation></ref><ref id="cit37"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Matsuura</surname><given-names>I.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Chiang</surname><given-names>K. N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Lai</surname><given-names>C. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>He</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Ramkumar</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Uchida</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Ryo</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Lu</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Liu</surname><given-names>F.</given-names></name>
+</person-group><article-title>Pin1 Promotes Transforming Growth Factor-β-induced Migration and Invasion</article-title><source>J. Biol. Chem.</source><year>2010</year><volume>285</volume><fpage>1754</fpage><lpage>1764</lpage><pub-id pub-id-type="doi">10.1074/jbc.M109.063826</pub-id><pub-id pub-id-type="pmid">19920136</pub-id><pub-id pub-id-type="pmcid">PMC2804333</pub-id></element-citation></ref><ref id="cit38"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Northey</surname><given-names>J. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Dong</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Ngan</surname><given-names>E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Kaplan</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Hardy</surname><given-names>W. R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Pawson</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Siegel</surname><given-names>P. M.</given-names></name>
+</person-group><article-title>Distinct Phosphotyrosine-dependent Functions of the ShcA Adaptor Protein are Required for Transforming Growth Factor β (TGFβ)-induced Breast Cancer Cell Migration, Invasion, and Metastasis</article-title><source>J. Biol. Chem.</source><year>2013</year><volume>288</volume><fpage>5210</fpage><lpage>5222</lpage><pub-id pub-id-type="doi">10.1074/jbc.M112.424804</pub-id><pub-id pub-id-type="pmid">23277357</pub-id><pub-id pub-id-type="pmcid">PMC3576125</pub-id></element-citation></ref><ref id="cit39"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Kong</surname><given-names>D. B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Chen</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Sima</surname><given-names>N.</given-names></name>
+</person-group><article-title>Focal adhesion kinases crucially regulate TGFβ-induced migration and invasion of bladder cancer cells <italic toggle="yes">via</italic> Src kinase and E-cadherin</article-title><source>OncoTargets Ther.</source><year>2017</year><volume>10</volume><fpage>1783</fpage><lpage>1792</lpage><pub-id pub-id-type="doi">10.2147/OTT.S122463</pub-id><pub-id pub-id-type="pmid">28367061</pub-id><pub-id pub-id-type="pmcid">PMC5370070</pub-id></element-citation></ref><ref id="cit40"><mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Lin</surname><given-names>S.</given-names></name>
+</person-group>, <article-title>A mechanism for the switch of transforming growth factorbeta from a tumor suppressor to a tumor promoter in cancer progression</article-title>, Dissertations &amp; theses, <publisher-name>Gradworks</publisher-name>, <year>2012</year></mixed-citation></ref><ref id="cit41"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Piek</surname><given-names>E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Roberts</surname><given-names>A. B.</given-names></name>
+</person-group><article-title>Suppressor and oncogenic roles of transforming growth factor-β and its signaling pathways in tumorigenesis</article-title><source>Adv. Cancer Res.</source><year>2001</year><volume>83</volume><fpage>1</fpage><lpage>54</lpage><pub-id pub-id-type="doi">10.1016/S0065-230X(01)83001-3</pub-id><pub-id pub-id-type="pmid">11665716</pub-id></element-citation></ref><ref id="cit42"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Chapnick</surname><given-names>D. A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Warner</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Bernet</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Rao</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Liu</surname><given-names>X.</given-names></name>
+</person-group><article-title>Partners in crime: the TGFβ and MAPK pathways in cancer progression</article-title><source>Cell Biosci.</source><year>2011</year><volume>1</volume><fpage>42</fpage><pub-id pub-id-type="doi">10.1186/2045-3701-1-42</pub-id><pub-id pub-id-type="pmid">22204556</pub-id><pub-id pub-id-type="pmcid">PMC3275500</pub-id></element-citation></ref><ref id="cit43"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Zhang</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Shi</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Tang</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Fang</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Cui</surname><given-names>S.</given-names></name>
+</person-group><article-title>miR-218 inhibits the invasion and migration of colon cancer cells by targeting the PI3K/Akt/mTOR signaling pathway</article-title><source>Int. J. Mol. Med.</source><year>2015</year><volume>35</volume><fpage>1301</fpage><lpage>1308</lpage><pub-id pub-id-type="doi">10.3892/ijmm.2015.2126</pub-id><pub-id pub-id-type="pmid">25760926</pub-id></element-citation></ref><ref id="cit44"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Zhou</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Xu</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Ye</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Liao</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Du</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Chen</surname><given-names>H.</given-names></name>
+</person-group><article-title>Formononetin inhibits migration and invasion of MDA-MB-231 and 4T1 breast cancer cells by suppressing MMP-2 and MMP-9 through PI3K/AKT signaling pathways</article-title><source>Horm. Metab. Res.</source><year>2014</year><volume>46</volume><fpage>753</fpage><pub-id pub-id-type="doi">10.1055/s-0034-1376977</pub-id><pub-id pub-id-type="pmid">24977660</pub-id></element-citation></ref><ref id="cit45"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Niu</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Wu</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Peng</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Jiang</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Zhang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>He</surname><given-names>P.</given-names></name>
+</person-group><article-title>RNA interference-mediated knockdown of RhoGDI2 induces the migration and invasion of human lung cancer A549 cells <italic toggle="yes">via</italic> activating the PI3K/Akt pathway</article-title><source>Tumor Biol.</source><year>2015</year><volume>36</volume><fpage>409</fpage><lpage>419</lpage><pub-id pub-id-type="doi">10.1007/s13277-014-2671-9</pub-id><pub-id pub-id-type="pmid">25266803</pub-id></element-citation></ref><ref id="cit46"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Lamouille</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name name-style="western"><surname>Derynck</surname><given-names>R.</given-names></name>
+</person-group><article-title>Cell size and invasion in TGF-β–induced epithelial to mesenchymal transition is regulated by activation of the mTOR pathway</article-title><source>J. Cell Biol.</source><year>2007</year><volume>178</volume><fpage>437</fpage><lpage>451</lpage><pub-id pub-id-type="doi">10.1083/jcb.200611146</pub-id><pub-id pub-id-type="pmid">17646396</pub-id><pub-id pub-id-type="pmcid">PMC2064840</pub-id></element-citation></ref></ref-list></back></article>

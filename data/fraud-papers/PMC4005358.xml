@@ -1,0 +1,648 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article article-type="research-article" xml:lang="en" dtd-version="1.4"><front><journal-meta><journal-id journal-id-type="nlm-ta">Cell Metab</journal-id><journal-id journal-id-type="iso-abbrev">Cell Metab.</journal-id><journal-id journal-id-type="pmc-domain-id">319</journal-id><journal-id journal-id-type="pmc-domain">nihpa</journal-id><journal-id journal-id-type="nlm-id">101233170</journal-id><journal-title-group><journal-title>Cell metabolism</journal-title></journal-title-group><issn pub-type="ppub">1550-4131</issn><issn pub-type="epub">1932-7420</issn><custom-meta-group><custom-meta><meta-name>pmc-is-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-collection-title</meta-name><meta-value>NIHPA Author Manuscripts</meta-value></custom-meta></custom-meta-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC4005358</article-id><article-id pub-id-type="pmcid-ver">PMC4005358.1</article-id><article-id pub-id-type="pmcaid">4005358</article-id><article-id pub-id-type="pmcaiid">4005358</article-id><article-id pub-id-type="manuscript-id">NIHMS565364</article-id><article-id pub-id-type="pmid">23747250</article-id><article-id pub-id-type="doi">10.1016/j.cmet.2013.05.002</article-id><article-id pub-id-type="manuscript-id-alternative">NIHMS565364</article-id><article-id pub-id-type="manuscript-id-alternative">NIHPA565364</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>The Cancer Associated FGFR4-G388R Polymorphism Enhances Pancreatic
+Insulin Secretion and Modifies the Risk of Diabetes</article-title></title-group><contrib-group><contrib contrib-type="author"><name name-style="western"><surname>Ezzat</surname><given-names initials="S">Shereen</given-names></name><xref ref-type="aff" rid="A1">1</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Zheng</surname><given-names initials="L">Lei</given-names></name><xref ref-type="aff" rid="A1">1</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Florez</surname><given-names initials="JC">Jose C.</given-names></name><xref ref-type="aff" rid="A2">2</xref><xref ref-type="aff" rid="A3">3</xref><xref ref-type="aff" rid="A4">4</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Stefan</surname><given-names initials="N">Norbert</given-names></name><xref ref-type="aff" rid="A5">5</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Mayr</surname><given-names initials="T">Thomas</given-names></name><xref ref-type="aff" rid="A6">6</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Hliang</surname><given-names initials="MM">Maw Maw</given-names></name><xref ref-type="aff" rid="A1">1</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Jablonski</surname><given-names initials="K">Kathleen</given-names></name><xref ref-type="aff" rid="A7">7</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Harden</surname><given-names initials="M">Maegan</given-names></name><xref ref-type="aff" rid="A3">3</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Stančaáková</surname><given-names initials="A">Alena</given-names></name><xref ref-type="aff" rid="A8">8</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Laakso</surname><given-names initials="M">Markku</given-names></name><xref ref-type="aff" rid="A8">8</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Haring</surname><given-names initials="HU">Hans-Ulrich</given-names></name><xref ref-type="aff" rid="A5">5</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Ullrich</surname><given-names initials="A">Axel</given-names></name><xref ref-type="aff" rid="A6">6</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Asa</surname><given-names initials="SL">Sylvia L.</given-names></name><xref ref-type="aff" rid="A1">1</xref></contrib></contrib-group><aff id="A1"><label>1</label>Ontario Cancer Institute, University Health Network,
+Toronto, Ontario, Canada M5G-2M9</aff><aff id="A2"><label>2</label>Center for Human Genetic Research and Diabetes Research
+Center (Diabetes Unit), Massachusetts General Hospital, Boston, MA 02114, USA</aff><aff id="A3"><label>3</label>Program in Medical and Population Genetics, Broad Institute
+of MIT and Harvard, Cambridge, MA 02142, USA</aff><aff id="A4"><label>4</label>Department of Medicine, Harvard Medical School, Boston, MA
+02142, USA</aff><aff id="A5"><label>5</label>University of Tübingen, 72076 Tübingen,
+Germany</aff><aff id="A6"><label>6</label>Department of Molecular Biology, Max Planck Institute of
+Biochemistry, 82152 Martinsried, Germany</aff><aff id="A7"><label>7</label>The Biostatistics Center, George Washington University,
+Rockville, MD 20852, USA</aff><aff id="A8"><label>8</label>Department of Medicine, University of Eastern Finland,
+70210 Kuopio, Finland</aff><author-notes><corresp id="cor1">Correspondence: Dr. Shereen Ezzat, Ontario Cancer Institute, 610
+University Ave. #8-327, Toronto, Ontario, Canada, M5G-2M9, Phone: (416)
+946-4501 x 2815, Fax: (416) 340-4565,
+<email>shereen.ezzat@utoronto.ca</email></corresp></author-notes><pub-date pub-type="ppub"><day>4</day><month>6</month><year>2013</year></pub-date><volume>17</volume><issue>6</issue><issue-id pub-id-type="pmc-issue-id">237027</issue-id><fpage>929</fpage><lpage>940</lpage><pub-history><event event-type="nihms-submitted"><date><day>08</day><month>04</month><year>2014</year></date></event><event event-type="pmc-release"><date><day>04</day><month>06</month><year>2014</year></date></event><event event-type="pmc-live"><date><day>04</day><month>06</month><year>2014</year></date></event><event event-type="pmc-released-under-embargo"><date><day>20</day><month>05</month><year>2014</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2024-06-05 22:06:41.443"><day>05</day><month>06</month><year>2024</year></date></event></pub-history><permissions><license><license-p>This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="nihms565364a.pdf"/><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="retraction-forward" xml:lang="en" xlink:title="retraction" vol="32" page="691" journal-id="Cell Metab" journal-id-type="nlm-ta" ext-link-type="pmc" xlink:href="PMC7751615"><article-title>Retraction Notice to: The Cancer-Associated
+<italic toggle="yes">FGFR4-G388R</italic> Polymorphism Enhances Pancreatic Insulin
+Secretion and Modifies the Risk of Diabetes</article-title><volume>32</volume><issue>4</issue><date><day>6</day><month>10</month><year>2020</year></date><fpage>691</fpage><lpage>691</lpage><source>Cell metabolism</source><pub-id pub-id-type="pmcid">PMC7751615</pub-id><pub-id pub-id-type="pmid">33027678</pub-id></related-article><abstract><title>Summary</title><p id="P1">The fibroblast growth factor receptor 4 (FGFR4)-R388 single nucleotide
+polymorphism has been associated with cancer risk and prognosis. Here we show
+that the FGFR4-R388 allele yields a receptor variant which preferentially
+promotes STAT3/5 signaling. This STAT activation induces Grb14 transcription in
+pancreatic endocrine cells to modulate insulin receptor (IR) signaling and
+enhance insulin secretion. Knock-in mice with the FGFR4 variant allele develop
+pancreatic islets that secrete more insulin, a feature that is reversed through
+Grb14 deletion. We also show in humans that the FGFR4-R388 allele enhances islet
+function and may protect against type 2 diabetes. These data support a common
+genetic link between cancer and hyperinsulinemia.</p></abstract><kwd-group><kwd>FGF receptors</kwd><kwd>FGFR4</kwd><kwd>Grb14</kwd><kwd>insulin receptor</kwd><kwd>diabetes</kwd><kwd>breast cancer</kwd></kwd-group><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-manuscript</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="intro" id="S1"><title>Introduction</title><p id="P2">Type 2 diabetes is an increasingly prevalent metabolic disorder characterized
+by hyperinsulinemia. This disease is associated with many complications, including a
+well-established increasedrisk of cancer (<xref rid="R41" ref-type="bibr">Rose et
+al., 2007</xref>). A prototypic example is the association between breast cancer
+and diabetes as noted inseveral epidemiologic studies (<xref rid="R30" ref-type="bibr">Lawlor et al., 2004</xref>; <xref rid="R28" ref-type="bibr">Lann and
+LeRoith, 2008</xref>). Nevertheless, the mechanisms underlying this association
+remain controversial. In particular, the role of insulin underpinning this
+cancer-diabetes connection is unclear (<xref rid="R32" ref-type="bibr">LeRoith,
+2010</xref>). The contribution from insulin, rather than diabetes per se, is
+supported by epidemiologic studies (<xref rid="R28" ref-type="bibr">Lann and
+LeRoith, 2008</xref>) and by the mitogenic actions of insulin-like growth
+factors on breast tissue (<xref rid="R11" ref-type="bibr">Ferguson et al.,
+2012</xref>). Furthermore, the insulin receptor (IR) is frequently overexpressed
+in breast cancer cells (<xref rid="R4" ref-type="bibr">Belfiore et al., 1996</xref>;
+<xref rid="R30" ref-type="bibr">Lawlor et al., 2004</xref>; <xref rid="R29" ref-type="bibr">Larsson et al., 2007</xref>). Elevated insulin
+concentrations may also stimulate tumor growth by increasing bioavailable
+insulin-like growth factor (IGF-1) (<xref rid="R29" ref-type="bibr">Larsson et al.,
+2007</xref>), which in turn has been shown to predict premenopausal breast
+cancer risk. Insulin also inhibits the production of sex-hormone-binding globulin,
+leading to increased bioavailable sex steroids (<xref rid="R29" ref-type="bibr">Larsson et al., 2007</xref>; <xref rid="R19" ref-type="bibr">Kahn et al.,
+2002</xref>).</p><p id="P3">In this work we report a genetic link between cancer and hyperinsulinemia
+through a pancreatic islet pathway. We examined a single-nucleotide polymorphism
+(SNP) in the fourth member of the fibroblast growth factor receptor family, FGFR4,
+which has been implicated in cancer risk and progression. In particular, the common
+R388 allele of this receptor (FGFR4-R388) has been associated with breast cancer
+progression and treatment resistance (<xref rid="R2" ref-type="bibr">Bange et al.,
+2002</xref>; <xref rid="R48" ref-type="bibr">Thussbas et al., 2006</xref>).
+Meta-analyses have supported an increased risk of cancers associated with this
+polymorphism (<xref rid="R53" ref-type="bibr">Xu et al., 2011</xref>; <xref rid="R54" ref-type="bibr">Xu et al., 2010</xref>). This SNP replaces a neutral
+glycine (G388) with a charged arginine (R388) in the transmembrane domain, a general
+hot spot in receptor tyrosine kinases for diseaserelated sequence variations;
+however, its mechanism of action remains unclear. Here we show that this
+cancer-associated FGFR4 variant signals in a tissue-specific manner to enhance
+pancreatic insulin secretion.</p></sec><sec sec-type="results" id="S2"><title>Results</title><sec id="S3"><title>The Cancer-Associated FGFR4-R388 Allele Promotes Pancreatic Insulin
+Secretion</title><p id="P4">While multiple FGFRs, including FGFR4, are expressed in adult pancreatic
+islets (<xref rid="R39" ref-type="bibr">Oberg-Welsh and Welsh, 1996</xref>;
+<xref rid="R18" ref-type="bibr">Hughes, 1997</xref>; <xref rid="R31" ref-type="bibr">Le Bras et al., 1998</xref>; Dichmann et al., 2003; <xref rid="R46" ref-type="bibr">Takaishi et al., 2000</xref>), their actions in
+modulating beta islet cell signaling and physiologic functions remain unclear.
+To specifically examine functional differences between prototypic FGFR4
+(FGFR4-G388) and the cancer-associated FGFR4-R388 variant, we initially
+expressed these isoforms in pancreatic islet RINm5F cells that endogenously
+express FGFR4 and its coreceptor, klotho beta (KLB). Cells were stimulated with
+FGF1, which stimulates all FGFR isotypes, the FGFR2-selective ligand FGF7, or
+the FGFR4-selective ligand FGF19. FGFR responses confirmed the anticipated
+activation of the immediate FGFR substrate 2 (FRS2) and pErk1/2 MAPK in
+wild-type RINm5F cells (<xref ref-type="supplementary-material" rid="SD1">Figure
+S1A</xref> available online). Cells expressing FGFR4-G388 similarly
+exhibited the predicted FGFR signaling responses (<xref ref-type="fig" rid="F1">Figure 1A</xref>). In contrast, FGFR4-R388-expressing cells failed to
+activate FRS2 in response to FGF stimulation. Nevertheless,
+FGFR4-R388-expressing islet cells secreted nearly twice as much insulin as cells
+expressing the wild-type (FGFR4-G388) receptor (p &lt; 0.01) (<xref ref-type="fig" rid="F1">Figure 1B</xref>). These functional changes were
+reflected in ultrastructural parameters of secretory activity; electron
+microscopy revealed that islet cells expressing FGFR4-G388 had well-developed
+rough endoplasmic reticulum, large Golgi complexes, and numerous secretory
+granules (<xref ref-type="fig" rid="F1">Figure 1C</xref>), whereas islet cells
+expressing FGFR4-R388 had evidence of active synthesis but very few stored
+secretory granules, consistent with increased secretion (<xref ref-type="fig" rid="F1">Figure 1C</xref>). The increased insulin secretion by FGFR4-R388
+cells was sensitive to diazoxide inhibition but not to enhancement by
+tolbutamide treatment (<xref ref-type="supplementary-material" rid="SD1">Figure
+S1B</xref>). Additionally, expression of glucose-sensing genes including
+hexokinase 1 (HK1) and K<sup>+</sup>ATP channel subunits, KCNJ11, KCNJ15, and
+ABCC8 were not measurably influenced by the two FGFR4 isoforms (data not
+shown).</p></sec><sec id="S4"><title>Gene Profiling Identifies Grb14 Induction by FGFR4-R388</title><p id="P5">To identify genes involved in the divergent signaling and actions
+displayed by the FGFR4 isoforms, we performed microarray gene expression
+profiling comparing pancreatic insulin-producing cells expressing empty vector,
+FGFR4-G388, or FGFR4-R388. We sought to identify a target that can potentially
+attenuate wild-type FGFR signaling by FGFR4-R388 (<xref ref-type="supplementary-material" rid="SD1">Table S1</xref>). This candidate
+proved to be the adaptor protein Grb14 (accession number NM_03162) as determined
+by quantitative real-time PCR and western blotting. <xref ref-type="fig" rid="F2">Figure 2</xref> depicts representative findings from these studies,
+confirming that islet cells expressing FGFR4-R388 have increased levels of
+insulin messenger RNA (mRNA) (<xref ref-type="fig" rid="F2">Figure 2B</xref>)
+accompanied by a nearly 4-fold and 10-fold induction in Grb14 mRNA (<xref ref-type="fig" rid="F2">Figures 2A and 2B</xref>) and protein (<xref ref-type="fig" rid="F2">Figure 2C</xref>) compared with cells expressing
+FGFR4-G388. The functional role of Grb14 in modulating FGFR4 signaling in these
+cells was demonstrated by small interfering RNA (siRNA) downregulation of the
+adaptor which restored FRS2a responsiveness to FGF stimulation in FGFR4-R388 RIN
+cells (<xref ref-type="fig" rid="F2">Figure 2D</xref>). Of note, Grb7 and Grb10,
+the two other related members of the Grb7/10/14 family, were not altered by
+FGFR4-G388 or its cancer-associated variant, FGFR4-R388 (<xref ref-type="fig" rid="F2">Figure 2A</xref> and data not shown).</p></sec><sec id="S5"><title>STAT3/5 Activation by the Cancer FGFR4-R388 Allele Induces Pancreatic Grb14
+Transcription</title><p id="P6">To determine mediators responsible for Grb14 induction by FGFR4-R388, we
+examined the impact of candidate FGFR signaling effectors. FGFR mutations
+associated with thanatophoric dysplasia result in constitutive STAT activation
+(<xref rid="R14" ref-type="bibr">Hart et al., 2000b</xref>). This prompted
+us to compare the ability of the two FGFR4 isoforms to activate STAT signaling.
+<xref ref-type="fig" rid="F3">Figure 3A</xref> demonstrates the sustained
+impact of FGFR4-R388 compared with FGFR4-G388 on STAT3 and STAT5
+phosphorylation. To examine the involvement of STAT activation in Grb14
+induction, we knocked down STAT3 or STAT5 in FGFR4-R388 cells (<xref ref-type="fig" rid="F3">Figure 3B</xref>). This reduction of STAT3 or STAT5
+was associated with diminished Grb14 protein (<xref ref-type="fig" rid="F3">Figure 3B</xref>) and mRNA levels (<xref ref-type="fig" rid="F3">Figure
+3C</xref>). Furthermore, chromatin immunoprecipitation (ChIP) demonstrated
+enhanced pSTAT3 and pSTAT5 binding to two regions (504/495; 21/12) harboring
+STAT binding sites in the 50 Grb14 promoter (<xref ref-type="fig" rid="F3">Figure 3D</xref>) in FGFR4-R388 compared to FGFR4-G388 cells (<xref ref-type="fig" rid="F3">Figure 3E</xref>). Conversely, knockdown of Grb14
+resulted in STAT3 upregulation (<xref ref-type="supplementary-material" rid="SD1">Figure S2A</xref>), suggesting an interregulatory feedback loop
+between STAT3 and Grb14 regulation. Moreover, forced expression of STAT3 or
+STAT5 in MIN6 cells resulted in enhanced glucose-stimulated insulin secretion
+(<xref ref-type="supplementary-material" rid="SD1">Figure S2B</xref>).</p></sec><sec id="S6"><title>FGFR4-R388-Mediated Grb14 Induction Alters Insulin Receptor Signaling</title><p id="P7">Given the ability of FGFR4-R388 to induce Grb14, we next examined the
+impact of this adaptor protein in mediating FGFR4 isoform signaling in
+pancreatic insulin-producing cells. Grb14 is recognized for its ability to
+potently bind the autophosphorylated IR and inhibit its activity on other
+substrates (<xref rid="R16" ref-type="bibr">Holt and Siddle, 2005</xref>). Thus,
+we examined the ability of FGFR4-R388 to interrupt IR signaling in pancreatic
+insulin-producing cells. RIN cells expressing FGFR4-R388 demonstrated increased
+IR phosphorylation compared with FGFR4-G388-expressing cells (<xref ref-type="fig" rid="F4">Figure 4A</xref>). To better define the impact of
+FGFR4-R388, we used antibodies directed at specific IR phosphorylation sites
+(<xref ref-type="fig" rid="F4">Figure 4B</xref>). FGFR4-R388 cells displayed
+increased phosphorylation of IR-Y1158/1162 within the kinase pocket compared
+with FGFR4-G388 cells. In contrast, the IR juxtamembrane Y972 site showed
+reduced phosphorylation in FGFR4-R388 cells. Consistent with the diminished
+IR-Y972 phosphorylation at the IRS1-docking site, total IRS1 levels were reduced
+in FGFR4-R388 cells compared to FGFR4-G388 cells (<xref ref-type="fig" rid="F4">Figure 4B</xref>). Further, the reduction in IRS1 was associated with
+diminished pY-IRS1 in FGFR4-R388 versus FGFR4-G388 cells (<xref ref-type="fig" rid="F4">Figure 4B</xref>). Proteasomal inhibition with LLNL restored IRS1
+levels in FGFR4-R388-expressing cells (<xref ref-type="fig" rid="F4">Figure
+4B</xref>, right), consistent with increased degradation as an underlying
+mechanism for reduced levels of this IR substrate in these cells. These
+sitespecific reciprocal changes imposed by FGFR4-R388 are consistent with
+protection against dephosphorylation by PTP1b at IR-1158/1162 and result in
+enhanced dephosphorylation at IR-Y972 (<xref rid="R38" ref-type="bibr">Nouaille
+et al., 2006</xref>). Consistent with this model, pervandate abrogated the
+differential effects of FGFR4-R388 on IR-Y972 to restore IRS1 and reduce IRS2
+levels (<xref ref-type="fig" rid="F4">Figure 4B</xref>, right).</p></sec><sec id="S7"><title>FGFR4-R388 Modulates Insulin Autoregulation to Enhance Pancreatic Islet
+Function</title><p id="P8">To determine whether the induction of Grb14 by FGFR4-R388 is involved in
+mediating the effects on increased insulin secretion, we used siRNA to target
+this adaptor protein. <xref ref-type="fig" rid="F4">Figure 4C</xref> reveals
+effective Grb14 knockdown in FGFR4-R388-expressing RIN islet cells (upper panel)
+and demonstrates the corresponding impact on insulin secretion (lower panel).
+FGFR4-R388 cells showed reduced insulin secretion in response to Grb14
+knockdown, consistent with Grb14 involvement in mediating enhanced insulin
+secretion by FGFR4-R388 RIN cells. Conversely, forced Grb14 expression in mouse
+MIN6 islet cells promoted glucose-stimulated insulin secretion (<xref ref-type="supplementary-material" rid="SD1">Figure S2B</xref>). To determine
+whether the IR represents a target of Grb14 in mediating insulin secretion, we
+downregulated the IR (<xref ref-type="fig" rid="F4">Figure 4D</xref>). IR
+knockdown in FGFR4-G388 cells recapitulated the effect of FGFR4-R388 on insulin
+secretion (<xref ref-type="fig" rid="F4">Figure 4D</xref>), consistent with an
+IR autofeedback effect.</p></sec><sec id="S8"><title>Pancreatic Islet Morphology in FGFR4-R385 Knockin Mice</title><p id="P9">To determine the impact of FGFR4-R388 on pancreatic islet function in a
+physiologic system, we examined mice with knockin (KI) of the mouse homolog,
+FGFR4-R385, at different ages. Importantly, this mouse model does not alter
+FGFR4 expression levels in the pancreatic islets (<xref ref-type="fig" rid="F5">Figure 5A</xref>) or other tissues (<xref rid="R42" ref-type="bibr">Seitzer
+et al., 2010</xref>) in which this receptor is normally expressed including
+liver and muscle. Systematic examination of the pancreas of FGFR4-R385 KI mice
+identified normal pancreatic exocrine elements including ducts and acini, and
+endocrine islets scattered with the usual distribution (<xref ref-type="fig" rid="F5">Figure 5</xref>). Immunohistochemical stains to localize insulin
+showed a reduction in insulin-containing B cells in mice harboring the
+FGFR4-R385 allele (<xref ref-type="fig" rid="F5">Figure 5B</xref>). In contrast,
+there was a relative increase in the population of glucagon-expressing A cells
+(<xref ref-type="fig" rid="F5">Figure 5C</xref>).</p><p id="P10">To determine whether the signaling differences identified in pancreatic
+islet cells are evident in vivo, we examined Grb14 expression in pancreatic
+islets. Grb14 displayed preferential expression in glucagon-containing A cells,
+but the intensity of Grb14 staining was increased in B cells of FGFR4-R385 KI
+mice compared with wild-type controls (<xref ref-type="fig" rid="F5">Figure
+5D</xref>). A similar increase in Grb14 staining in B cells was also noted
+in primary human islets harboring the FGFR4-R388 variant (<xref ref-type="supplementary-material" rid="SD1">Figure S3A</xref>). Reminiscent
+of the in vitro effects of FGFR4-R388, the B cells of the pancreatic islets of
+FGFR4-R385 KI mice showed diminished pFRS2 (<xref ref-type="fig" rid="F5">Figure
+5E</xref>) and reduced IRS1 expression (<xref ref-type="fig" rid="F5">Figure
+5F</xref>) compared to those of FGFR4-G385 littermates. Moreover, expression
+of HK1, KCNJ11, and KCNJ15 was not significantly altered across FGFR4 genotypes
+(data not shown). Additionally, Grb14 levels were not altered in other surveyed
+tissues including liver and skeletal muscle tissue across FGFR4 genotypes (data
+not shown).</p><p id="P11">To quantify pancreatic islets across FGFR4 genotypes, we performed
+detailed histomorphometric analyses on 6-month-old mice. These analyses
+confirmed that the endocrine islet area as a proportion of overall pancreatic
+area was not increased and indeed was modestly reduced from 0.0090 ±
+0.0023 in FGFR4-G385 mice (n = 8) to 0.0062 ± 0.0027 in
+FGFR4-R385<sup>+/−</sup> (n = 10) and 0.0062± 0.0018 in
+FGFR4-R385<sup>+/+</sup> (n = 10) mice (<xref ref-type="supplementary-material" rid="SD1">Figure S3B</xref>). Moreover,
+pancreatic islet number was not significantly different across FGFR4 genotypes
+(data not shown). Additionally, measures of apoptosis and proliferation showed
+no significant differences between islets derived from mice of different FGFR4
+genotypes on regular (<xref ref-type="supplementary-material" rid="SD1">Figure
+S3C</xref>) or high-fat diet (<xref ref-type="supplementary-material" rid="SD1">Figure S3D</xref>).</p></sec><sec id="S9"><title>The Cancer-Associated FGFR4-R385 Allele Enhances Insulin Secretion In
+Vivo</title><p id="P12">To determine the impact of the FGFR4-R385 allele on insulin secretion in
+vivo, we performed glucose tolerance testing on mice with knockin of this
+allele. Initial examinations were performed on mice fed regular diet and
+exhibiting no significant differences in body weight across FGFR4 genotypes.
+Moreover, indirect calorimetric measurements demonstrated no measureable
+differences in oxygen consumption, carbon dioxide production, respiratory
+quotients, or heat production across FGFR4 genotypes (<xref ref-type="supplementary-material" rid="SD1">Figure S4A</xref>).
+Nevertheless, FGFR4-R385<sup>+/−</sup> and FGFR4-R385<sup>+/+</sup> mice
+showed modest improvement of glucose tolerance even when maintained on regular
+diet compared with their FGFR4-G385 littermates (<xref ref-type="fig" rid="F6">Figures 6A and 6B</xref>). These FGFR4-R385 KI mice also showed enhanced
+insulin secretion (<xref ref-type="fig" rid="F6">Figures 6C and 6D</xref>), a
+feature noted as early as 6 weeks of age (data not shown). Additionally, insulin
+administration showed no signs of systemic (<xref ref-type="supplementary-material" rid="SD1">Figure S4B</xref>) or tissue
+insulin resistance (<xref ref-type="supplementary-material" rid="SD1">Figure
+S4C</xref>), further excluding peripheral resistance as a cause of the
+hyperinsulinemia. Circulating glucagon levels were reduced in FGFR4-R385 KI mice
+compared to FGFR4-G385 littermates (<xref ref-type="supplementary-material" rid="SD1">Figure S4D</xref>).</p><p id="P13">We next examined animals maintained on a high-fat diet (HFD). <xref ref-type="fig" rid="F6">Figure 6E</xref> demonstrates that compared to
+FGFR4-G385 animals, FGFR4-R385 KI mice can better tolerate HFD-induced
+hyperglycemia. Moreover, administration of the FGFR4 ligand FGF19 resulted in
+further improvement in glucose tolerance (<xref ref-type="fig" rid="F6">Figures
+6F and 6G</xref>) accompanied by significantly enhanced insulin secretion
+(<xref ref-type="fig" rid="F6">Figure 6H</xref>).</p></sec><sec id="S10"><title>The Grb14 Adaptor Mediates Pancreatic Hyperinsulinemia in FGFR4-R385 Knockin
+Mice</title><p id="P14">Having demonstrated an in vitro role for Grb14 in mediating FGFR4-R388
+action and for the FGFR4 variant in mediating enhanced insulin secretion in
+vivo, we focused on the extent to which the Grb14 adaptor contributes to islet
+insulin secretion in vivo. To this end, we generated double-mutant
+FGFR4-R385<sup>+/−</sup>/Grb14<sup>−/−</sup> mice.
+These studies confirmed that loss of Grb14 reverses the enhanced insulin
+secretion by FGFR4-R385 KI mice (<xref ref-type="fig" rid="F7">Figures 7A and
+7B</xref>).</p><p id="P15">To further delineate the functional role of Grb14 in mediating
+pancreatic insulin secretion by the FGFR4 variant allele, we isolated primary
+islets for assessment of insulin secretion ex vivo. These studies demonstrated
+enhanced insulin secretion by primary islets from
+FGFR4-R385<sup>+/−</sup> KI mice compared with those from FGFR4-G385
+littermates (<xref ref-type="fig" rid="F7">Figure 7C</xref>). Importantly, loss
+of Grb14 reversed the impact of FGFR4-R385 on insulin secretion:
+FGFR4-R385<sup>+/−</sup>/Grb14<sup>−/−</sup> islets
+secrete less insulin than those from FGFR4-R385<sup>+/−</sup> animals.
+Taken together, these findings provide strong evidence for Grb14 involvement in
+modulating FGFR4-R385 pancreatic insulin secretion.</p></sec><sec id="S11"><title>The FGFR4-R388 Allele and Glycemic Traits in Humans</title><p id="P16">To examine the functional consequences of our experimental findings and
+the metabolic effects of the FGFR4-R388 polymorphic allele in humans, we
+examined the relationship between this variant, quantitative glycemic traits
+related to insulin secretion, and type 2 diabetes in different populations. In a
+crosssectional examination of 1990 German nondiabetic participants (Kantartzis
+et al., 2011), the FGFR4-R388 allele was associated with lower fasting glycemia
+in 1,310 women (p = 0.054 in the additive model, p = 0.27 in the dominant model)
+but not in the 680 males (p = 0.92 in the additive mode, p = 0.74 in the
+dominant model). In agreement with these cross-sectional data from the German
+study, in the Finnish cross-sectional metabolic syndrome in men (METSIM) study
+(<xref rid="R44" ref-type="bibr">Stancákovaáet al.,
+2009</xref>), the FGFR4-R388 allele was not associated with age, body mass
+index (BMI), the insulinogenic index, HOMA-B, or glucose tolerance (all p
+&gt; 0.05; <xref ref-type="supplementary-material" rid="SD1">Table
+S2</xref>).</p><p id="P17">To ensure that sample size and ethnicity were not limiting in detecting
+potential associations, we mined available genomewide meta-analysis data sets
+generated by the Meta-analysis of Glucose and Insulin-Related Traits Consortium
+(MAGIC), accessed at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.magicinvestigators.org">http://www.magicinvestigators.org</ext-link>. The FGFR4-R388 allele was
+associated with lower fasting glucose (p = 0.03) in 12,713 individuals and lower
+insulin resistance by homeostasis model assessment (HOMA-IR) (<xref rid="R35" ref-type="bibr">Matthews et al., 1985</xref>) in 11,163
+individuals (p = 0.0004). Additionally, the FGFR4-R388 allele was nominally
+associated with higher fasting proinsulin levels, adjusted for concomitant
+fasting insulin (p = 0.01) providing supportive evidence for the
+cancer-associated FGFR4 variant in human insulin secretion.</p><p id="P18">Finally, we turned to the Diabetes Prevention Program (DPP), a
+multiethnic clinical trial conducted in the United States in which an intensive
+lifestyle intervention or metformin were compared with placebo for diabetes
+prevention (<xref rid="R24" ref-type="bibr">Knowler et al., 2002</xref>). In
+this cohort of 3,453 overweight participants with elevated fasting glucose and
+impaired glucose tolerance, there were no associations of genotype at FGFR4-R388
+with baseline insulinogenic index or HOMA-IR, nor were there significant
+interactions between genotype and intervention on 1-year outcomes for these
+traits. However, the FGFR4-R388 allele was associated with a greater decrease in
+HOMA-IR at 1 year (p = 0.009); analyses stratified by treatment group showed a
+significant decrease in the metformin arm only (p = 0.001), though there was no
+significant interaction. There was an association of the FGFR4-R388 allele with
+lower diabetes incidence in the overall cohort (hazard ratio per allele, 0.87
+[95% confidence interval, 0.76–1.00], p = 0.048), after
+adjustment for treatment group, sex, age at randomization, and self-reported
+ethnicity. Sex-specific analyses revealed that most of the diabetes preventive
+effect in the DPP occurred in men treated with metformin (<xref ref-type="supplementary-material" rid="SD1">Table S3</xref>; p for SNP 3
+treatment interaction = 0.03). This was correlated with a significant reduction
+in HOMA-IR in this subgroup at 1 year (p &lt; 0.001).</p></sec></sec><sec sec-type="discussion" id="S12"><title>Discussion</title><p id="P19">The current study demonstrates that the same FGFR4-R388 polymorphic allele
+recognized for its cancer actions in mouse (<xref rid="R42" ref-type="bibr">Seitzer
+et al., 2010</xref>) and in man (<xref rid="R53" ref-type="bibr">Xu et al.,
+2011</xref>; <xref rid="R54" ref-type="bibr">Xu et al., 2010</xref>; <xref rid="R2" ref-type="bibr">Bange et al., 2002</xref>; <xref rid="R48" ref-type="bibr">Thussbas et al., 2006</xref>; <xref rid="R51" ref-type="bibr">Wang et
+al., 2004</xref>; <xref rid="R36" ref-type="bibr">Morimoto et al., 2003</xref>;
+<xref rid="R45" ref-type="bibr">Streit et al., 2004</xref>) also modulates
+insulin production. Compared with FGFR4-G388, the FGFR4-R388 variant enhances islet
+insulin production. Importantly, these receptor isoforms have divergent signaling
+properties in different tissues as demonstrated in breast (<xref rid="R43" ref-type="bibr">Stadler et al., 2006</xref>) and pituitary cells (<xref rid="R47" ref-type="bibr">Tateno et al., 2011</xref>). In pancreatic
+insulin-producing cells, the FGFR4 variant signals in a distinct manner to promote
+insulin secretion.</p><p id="P20">Our study identifies the Grb14 adaptor protein as a critical mediator
+linking the cancer-associated FGFR4 variant with insulin production. Grb14 induction
+by FGFR4-R388 was identified in the endocrine pancreas but not in peripheral
+tissues, including liver and skeletal muscle. Forced downregulation of Grb14 in
+islet cells expressing FGFR4-R388 resulted in restoration of FGFR and IR signaling.
+Given the interruptive functions of Grb14 on IR in peripheral tissues (<xref rid="R8" ref-type="bibr">Depetris et al., 2005</xref>; <xref rid="R7" ref-type="bibr">Cooney et al., 2004</xref>), we examined whether the IR in pancreatic
+insulinproducing cells is similarly targeted by Grb14-induced antagonism. Indeed,
+Grb14 induction by FGFR4-R388 resulted in site-selective defects in IR
+phosphorylation in islet cells. This was supported by the ability of
+FGFR4-R388-induced Grb14 to protect the IR kinase loop (Y1158) from
+dephosphorylation. This effect was associated with enhanced dephosphorylation of
+IR-Y972, thus diminishing IRS-1 recruitment. These findings are consistent with
+earlier data demonstrating effective Grb14 displacement of PTP1b away from the IR
+kinase (<xref rid="R38" ref-type="bibr">Nouaille et al., 2006</xref>). That the
+pancreatic IR is a functional target of FGFR4-R388-mediated Grb14 induction was
+suggested from downregulation of the IR in cells expressing FGFR4-R388, resulting in
+reduction of insulin secretion. These data point to the importance of the pancreatic
+IR as a target of FGFR4-R388 action. Further, they uncover Grb14 as an important
+mediator of FGFR and IR crosstalk and downstream signaling to modulate pancreatic
+endocrine function.</p><p id="P21">To explore the impact of the FGFR4-R388 allele and its associated signaling
+dysregulation in vivo, we examined mice with knockin of the FGFR4-R385 allele. In
+contrast to the increased insulin production and enhanced glucose tolerance in
+FGFR4-R385 mice, islet IR-deleted mice (<xref rid="R26" ref-type="bibr">Kulkarni et
+al., 1999a</xref>) and IRS1-deficient mice show impaired glucose tolerance
+(<xref rid="R27" ref-type="bibr">Kulkarni et al., 1999b</xref>). These
+differences can be accounted for, at least in part, by the diminished pancreatic
+islet size noted in IRS1/ mice (<xref rid="R27" ref-type="bibr">Kulkarni et al.,
+1999b</xref>), which was not observed in our FGFR4-R385 knockin mice. FGFR4-R385
+knockin animals displayed normal pancreatic endocrine cell development and
+differentiation. In particular, islet mass was not adversely affected in animals
+carrying the FGFR4-R385 variant allele. Additionally, measures of cell proliferation
+and apoptosis demonstrated no significant differences across FGFR4 genotypes.
+However, pancreatic islets from FGFR4-R385 KI mice revealed induction of Grb14 with
+diminished FRS2 and IRS1 activation, consistent with altered FGFR and IR signaling,
+respectively. Additionally, primary islets derived from FGFR4-R385 KI mice showed
+increased insulin secretion when examined ex vivo. Moreover, the impact on insulin
+secretion was ameliorated by loss of Grb14, highlighting the importance of FGFR4 and
+Grb14 in modulating differentiated islet function.</p><p id="P22">Grb14 displays a restricted binding profile compared with the related Grb
+family members, Grb7 and Grb10 (<xref rid="R12" ref-type="bibr">Han et al.,
+2001</xref>). All Grb7/10/14 family members bind the activated kinase domain of
+the IR as pseudosubstrates. Grb7 and Grb10 associate with the IR via their BPS and
+SH2 domains (<xref rid="R15" ref-type="bibr">He et al., 1998</xref>; <xref rid="R22" ref-type="bibr">Kasus-Jacobi et al., 1998</xref>), whereas at least
+one report suggested that Grb14 binds mainly through its BPS domain (<xref rid="R21" ref-type="bibr">Kasus-Jacobi et al., 2000</xref>). Grb14 may be more
+potent than Grb10 at directly inhibiting the catalytic activity of the IR (<xref rid="R5" ref-type="bibr">Béreéziat et al., 2002</xref>). While
+Grb14 has been implicated in peripheral insulin resistance, we provide here evidence
+that FGFR4-R388-mediated Grb14 induction can impair IR and FGFR signaling at the
+level of pancreatic insulin-producing cells. Grb14 overexpression inhibits FGFR
+actions, including fibroblast proliferation (<xref rid="R40" ref-type="bibr">Reilly
+et al., 2000</xref>), as well as IR actions, such as insulin-stimulated glycogen
+synthesis, mitogenesis, and IRS-1 phosphorylation (<xref rid="R22" ref-type="bibr">Kasus-Jacobi et al., 1998</xref>). Consistent with the ability of Grb14
+deficiency to restore insulin levels in FGFR4-R385 KI mice, Grb14-null mice have
+been previously shown to display improved insulin signaling and glucose tolerance
+(<xref rid="R7" ref-type="bibr">Cooney et al., 2004</xref>). Nevertheless,
+several receptor tyrosine kinases (RTKs) have also been shown to interact with Grb14
+but less avidly than the IR (<xref rid="R6" ref-type="bibr">Cariou et al.,
+2004</xref>). Moreover, Grb14/ mouse studies have since unmasked tissue-specific
+effects for this adaptor protein including heart (<xref rid="R33" ref-type="bibr">Lin et al., 2010</xref>) and retina (<xref rid="R3" ref-type="bibr">Basavarajappa et al., 2011</xref>). Thus, we cannot exclude the involvement of
+other RTKs and their signaling components in mediating FGFR4-R388 actions in
+pancreatic islet function. The emerging repertoire of Grb14 actions likely predicts
+a distinct phenotype from those observed strictly with IR-deficient pancreatic islet
+models.</p><p id="P23">Relatively little is known about how Grb14 is regulated. Here, we show that
+preferential signaling by FGFR4-R388 through STAT3/5 targets transcriptional
+induction of Grb14. Interestingly, loss of Grb14 also influenced STAT3 levels,
+suggesting an interregulatory loop between this STAT and the Grb adaptor. Given the
+prominent effector functions of STAT3 in mediating oncogenic signals (<xref rid="R56" ref-type="bibr">Yu et al., 2009</xref>), our data predict that other
+STAT targets may emerge as important mediators underlying the molecular basis of
+cancer-associated hyperinsulinemia.</p><p id="P24">The putative functions of FGFRs in endocrine homeostasis have emerged
+principally from mouse genetic models. In particular, mice with genetic attenuation
+of the FGFR1c isoform develop diabetes mellitus with age and exhibit decreased B
+cell islet mass (<xref rid="R13" ref-type="bibr">Hart et al., 2000a</xref>).
+FGFR4-deficient mice develop elevated bile acid pools and increased excretion of
+bile acids (<xref rid="R56" ref-type="bibr">Yu et al., 2000</xref>; <xref rid="R49" ref-type="bibr">Tomlinson et al., 2002</xref>; <xref rid="R17" ref-type="bibr">Huang et al., 2007</xref>). Hepatic restoration of wild-type FGFR4 in
+these animals failed to influence glucose tolerance (<xref rid="R56" ref-type="bibr">Yu et al., 2000</xref>; <xref rid="R49" ref-type="bibr">Tomlinson et al.,
+2002</xref>; <xref rid="R17" ref-type="bibr">Huang et al., 2007</xref>).
+Nevertheless, FGF pharmacotherapy is gaining momentum with earlier demonstration of
+FGF21 beneficial effects on islet B cell function (<xref rid="R23" ref-type="bibr">Kharitonenkov et al., 2005</xref>; <xref rid="R52" ref-type="bibr">Wente et
+al., 2006</xref>). More recently, administration of the FGFR4-selective ligand
+FGF19 was shown to be equally as effective as FGF21 in improving peripheral glucose
+uptake (<xref rid="R1" ref-type="bibr">Adams et al., 2012</xref>). Our current data
+demonstrating improved glucose tolerance in FGFR4-R385 KI mice extend this model by
+highlighting the biological importance of FGFR4 polymorphic variants in modulating
+pharmacologic effects of FGF19. We speculate that acting through a distinct pathway
+the FGFR4-R388 variant allele adds to the pharmacologic actions of FGF19.</p><p id="P25">Our data in humans provide early evidence for the role of the FGFR4-R388
+allele in altering glucose levels and the risk of type 2 diabetes, putatively via
+altered insulin secretion. Our data are also interesting in light of recent
+genome-wide association studies implicating the GRB14 locus in type 2 diabetes in
+South Asians (<xref rid="R25" ref-type="bibr">Kooner et al., 2011</xref>).
+Additionally, common variations near GRB14 have also been associated with insulin
+secretion at genome-wide statistical significance when adjusted for BMI, which also
+modulates the magnitude of the genetic effect (<xref rid="R34" ref-type="bibr">Manning et al., 2012</xref>; <xref rid="R37" ref-type="bibr">Morris et al.,
+2012</xref>). The gender differences we noted across populations, however, raise
+caution in interpreting these findings and suggest the possibility of a potential
+contribution from parental gene imprinting in directing Grb14 actions. Moreover, the
+protective role of the FGFR4-R388 allele against diabetes stands in contrast to the
+epidemiologic data linking cancer and diabetes (<xref rid="R30" ref-type="bibr">Lawlor et al., 2004</xref>; <xref rid="R28" ref-type="bibr">Lann and LeRoith,
+2008</xref>). Instead, the enhancing effect on insulin secretion suggests that
+the FGFR4-R388 allele represents an example of a shared common program between
+cancer and insulin production but not systemic insulin resistance.</p><p id="P26">In summary, we show that the heritable transmembrane FGFR4-R388 polymorphic
+allele yields a functional receptor isotype with distinct signaling properties.
+Through its preferential ability to sustain STAT activation, it transcriptionally
+induces Grb14 in the endocrine pancreas to modulate insulin secretion. Given the
+recognized impact of the FGFR4-R388 allele on cancer (<xref rid="R2" ref-type="bibr">Bange et al., 2002</xref>; <xref rid="R48" ref-type="bibr">Thussbas et al.,
+2006</xref>), our findings unmask this polymorphic receptor variant as a common
+candidate factor linking pancreatic islet function with cancer risk and
+progression.</p></sec><sec sec-type="methods" id="S13"><title>Experimental Procedures</title><sec id="S14"><title>Cells and Primary Mouse Islets</title><p id="P27">Pancreatic islet rat RINm5F cells were cultured in RPMI 1640, MIN6 cells
+were grown in Dulbecco’s modified Eagle’s medium both
+supplemented with 10% fetal calf serum. Primary pancreatic islets were
+isolated after intraductal collagenase injection. Phase-contrast light
+microscopy identified purified islets to allow examination of an equal number of
+islets for overnight cultures in RPMI 1640 media. For measurement of insulin
+secretion, cells were cultured in the absence and presence of glucose
+stimulation as indicated.</p></sec><sec id="S15"><title>Plasmids</title><p id="P28">Prototypic FGFR4-G388 or the polymorphic FGFR4-R388 variant was
+introduced as described (<xref rid="R10" ref-type="bibr">Ezzat et al.,
+2002</xref>; <xref rid="R43" ref-type="bibr">Stadler et al., 2006</xref>).
+Pools of three to four clones of each transfectant were selected for further
+analyses. The Grb14 vector was generously provided by R. Daly (Australia) and
+those encoding STAT3 and STAT5 were provided by M. Minden (Ontario Cancer
+Institute). All cDNAs were subjected to sequence fidelity verification. siRNA
+Knockdown Oligonucleotides complementary to target genes were synthesized by
+Ambion (<xref ref-type="supplementary-material" rid="SD1">Table S4</xref>).
+Scrambled sequences of equal size were used as controls.</p></sec><sec id="S16"><title>Pharmacologic Treatments</title><p id="P29">FGF stimulation was performed with the non-FGFR-isotype-selective FGF-1
+(Sigma, 10 ng/ml), the FGFR2-selective FGF7 (10 ng/ml, Sigma), or the
+FGFR4-selective FGF19 (10 ng/ml; R&amp;D Systems) in serum-free defined
+media containing 10 U/ml heparin. For phosphatase inhibition, cells were serum
+deprived overnight and subsequently treated with pervanadate (0.1 mM) for 15
+min. For proteasomal inhibition, cells were serum deprived overnight and
+subsequently treated with Calpain inhibitor I (LLnL; 50 mM) for the indicated
+times. For probing of ATP-sensitive K<sup>+</sup> channel activity, cells were
+treated with diazoxide or tolbutamide (Sigma) for 20 min. followed by glucose
+exposure for 30 min.</p></sec><sec id="S17"><title>RNA Extraction and RT-PCR Analysis</title><p id="P30">RNA was isolated using TRIzol reagents. Primers and probes are listed in
+<xref ref-type="supplementary-material" rid="SD1">Table S4</xref>.</p></sec><sec id="S18"><title>Western Blotting</title><p id="P31">A complete list of primary antibodies and reaction conditions is shown
+in <xref ref-type="supplementary-material" rid="SD1">Table S5</xref>.</p></sec><sec id="S19"><title>Oligonucleotide Microarray Analysis</title><p id="P32">RNA extraction and array hybridization with Affymetrix U133Plus2
+GeneChip was conducted at The Centre of Applied Genomics (Hospital for Sick
+Children, Toronto, Canada). Data analysis and results are shown in <xref ref-type="supplementary-material" rid="SD1">Table S1</xref>.</p></sec><sec id="S20"><title>Chromatin Immunoprecipitation</title><p id="P33">Chromatin immunoprecipitation assays were performed in accordance with
+the manufacturer’s recommendations (UBI) and as previously described
+(<xref rid="R9" ref-type="bibr">Ezzat et al., 2003</xref>). Experiments were
+performed on three independent occasions and quantified by scanning densitometry
+(Quantity One Software; BIO-RAD).</p></sec><sec id="S21"><title>FGFR4 Knockin and Grb14 Knockout mice</title><p id="P34">FGFR4-R385 knockin mice were generated using standard approaches as
+described previously (<xref rid="R42" ref-type="bibr">Seitzer et al.,
+2010</xref>). Grb14-deficient mice were generously provided by R. Daly and
+colleagues as previously described (<xref rid="R7" ref-type="bibr">Cooney et
+al., 2004</xref>). Mouse genotyping was performed by PCR and Southern
+blotting. Animals were maintained on regular or high-fat (60%) diet for
+6 weeks prior to sacrificing as indicated. Mice were also examined without and
+with FGF19 (Creative Biomart) administration for 7 days. The care of animals was
+approved by the Institutional Animal Care facilities at the Ontario Cancer
+Institute (Toronto).</p></sec><sec id="S22"><title>Glucose Tolerance, Insulin Tolerance, and Energy Homeostasis Testing</title><p id="P35">Fasting blood glucose from tail veins was measured after an overnight
+fast with a glucose meter. Insulin was measured by an ultrasensitive ELISA
+(Crystal Chem) and glucagon by the Quantikine ELISA (R&amp;D). For glucose
+tolerance, 20% D-glucose was injected into the peritoneal cavity at a
+dose of 1.5 g/kg for 2 hr testing. For insulin tolerance testing, insulin
+(0.5–1 U/kg) was injected into the peritoneal cavity. For tissue
+phosphorylation studies, animals were sacrificed within 7 min after insulin
+administration. To measure energy homeostasis, animals were monitored for
+various parameters of energy expenditure over a 24 hr period in an indirect
+calorimeter chamber (Columbus Instruments). At least six to 12 mice were
+included in each experiment as indicated.</p></sec><sec id="S23"><title>Statistical analyses</title><p id="P36">Data are shown as mean + SEM with comparisons with t tests. Multiple
+group comparisons were performed by ANOVA with a statistical threshold of
+0.05.</p></sec></sec><sec sec-type="supplementary-material" id="SM"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="SD1" position="float" orientation="portrait"><label>Figures, Tables, Other Information</label><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="NIHMS565364-supplement-Figures__Tables__Other_Information.pdf" orientation="portrait" id="d36e828" position="anchor"/></supplementary-material></sec></body><back><ack id="S24"><title>Acknowledgements</title><p id="P37">The authors would like to thank Anastasia Diamandis for technical assistance
+and Vuk Stambolic for helpful discussions. This work was supported by the Canadian
+Institutes of Health Research (CIHR-MOP-125981), the Raymond and Beverly Sackler
+Foundation, and the Ontario Ministry of Health and Long-Term Care (OMHLTC). The
+views expressed do not necessarily reflect those of the OMHLTC. N.S. is supported by
+a Heisenberg-Grant from the Deutsche Forschungsgemeinschaft (STE 1096/1-1). M.L. is
+supported by the Academy of Finland, the Finnish Diabetes Research Foundation, The
+Finnish Cardiovascular Research Foundation, and an EVO grant from the Kuopio
+University Hospital (5263). Genetic studies in the DPP are funded by R01 DK072041 to
+J.C.F. J.C.F. has received consulting honoraria from Novartis, Lilly, and
+Pfizer.</p></ack><ref-list><title>References</title><ref id="R1"><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Adams</surname><given-names>AC</given-names></name><name name-style="western"><surname>Coskun</surname><given-names>T</given-names></name><name name-style="western"><surname>Rovira</surname><given-names>AR</given-names></name><name name-style="western"><surname>Schneider</surname><given-names>MA</given-names></name><name name-style="western"><surname>Raches</surname><given-names>DW</given-names></name><name name-style="western"><surname>Micanovic</surname><given-names>R</given-names></name><name name-style="western"><surname>Bina</surname><given-names>HA</given-names></name><name name-style="western"><surname>Dunbar</surname><given-names>JD</given-names></name><name name-style="western"><surname>Kharitonenkov</surname><given-names>A</given-names></name></person-group><article-title>Fundamentals of FGF19 &amp; FGF21 action in vitro and in
+vivo</article-title><source>PLoS ONE</source><year>2012</year><volume>7</volume><fpage>e38438</fpage><pub-id pub-id-type="pmid">22675463</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0038438</pub-id><pub-id pub-id-type="pmcid">PMC3365001</pub-id></element-citation></ref><ref id="R2"><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Bange</surname><given-names>J</given-names></name><name name-style="western"><surname>Prechtl</surname><given-names>D</given-names></name><name name-style="western"><surname>Cheburkin</surname><given-names>Y</given-names></name><name name-style="western"><surname>Specht</surname><given-names>K</given-names></name><name name-style="western"><surname>Harbeck</surname><given-names>N</given-names></name><name name-style="western"><surname>Schmitt</surname><given-names>M</given-names></name><name name-style="western"><surname>Knyazeva</surname><given-names>T</given-names></name><name name-style="western"><surname>Muller</surname><given-names>S</given-names></name><name name-style="western"><surname>Gartner</surname><given-names>S</given-names></name><name name-style="western"><surname>Sures</surname><given-names>I</given-names></name><name name-style="western"><surname>Wang</surname><given-names>H</given-names></name><name name-style="western"><surname>Imyanitov</surname><given-names>E</given-names></name><name name-style="western"><surname>Haring</surname><given-names>HU</given-names></name><name name-style="western"><surname>Knayzev</surname><given-names>P</given-names></name><name name-style="western"><surname>Iacobelli</surname><given-names>S</given-names></name><name name-style="western"><surname>Hofler</surname><given-names>H</given-names></name><name name-style="western"><surname>Ullrich</surname><given-names>A</given-names></name></person-group><article-title>Cancer progression and tumor cell motility are associated with
+the FGFR4 Arg(388) allele</article-title><source>Cancer Res</source><year>2002</year><volume>62</volume><fpage>840</fpage><lpage>847</lpage><pub-id pub-id-type="pmid">11830541</pub-id></element-citation></ref><ref id="R3"><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Basavarajappa</surname><given-names>DK</given-names></name><name name-style="western"><surname>Gupta</surname><given-names>VK</given-names></name><name name-style="western"><surname>Dighe</surname><given-names>R</given-names></name><name name-style="western"><surname>Rajala</surname><given-names>A</given-names></name><name name-style="western"><surname>Rajala</surname><given-names>RV</given-names></name></person-group><article-title>Phosphorylated Grb14 is an endogenous inhibitor of retinal
+protein tyrosine phosphatase 1B, and light-dependent activation of Src
+phosphorylates Grb14</article-title><source>Mol. Cell. Biol</source><year>2011</year><volume>31</volume><fpage>3975</fpage><lpage>3987</lpage><pub-id pub-id-type="pmid">21791607</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1128/MCB.05659-11</pub-id><pub-id pub-id-type="pmcid">PMC3187357</pub-id></element-citation></ref><ref id="R4"><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Belfiore</surname><given-names>A</given-names></name><name name-style="western"><surname>Frittitta</surname><given-names>L</given-names></name><name name-style="western"><surname>Costantino</surname><given-names>A</given-names></name><name name-style="western"><surname>Frasca</surname><given-names>F</given-names></name><name name-style="western"><surname>Pandini</surname><given-names>G</given-names></name><name name-style="western"><surname>Sciacca</surname><given-names>L</given-names></name><name name-style="western"><surname>Goldfine</surname><given-names>ID</given-names></name><name name-style="western"><surname>Vigneri</surname><given-names>R</given-names></name></person-group><article-title>Insulin receptors in breast cancer</article-title><source>Ann. N. Y. Acad. Sci</source><year>1996</year><volume>784</volume><fpage>173</fpage><lpage>188</lpage><pub-id pub-id-type="pmid">8651567</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1749-6632.1996.tb16235.x</pub-id></element-citation></ref><ref id="R5"><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Bereziat</surname><given-names>V</given-names></name><name name-style="western"><surname>Kasus-Jacobi</surname><given-names>A</given-names></name><name name-style="western"><surname>Perdereau</surname><given-names>D</given-names></name><name name-style="western"><surname>Cariou</surname><given-names>B</given-names></name><name name-style="western"><surname>Girard</surname><given-names>J</given-names></name><name name-style="western"><surname>Burnol</surname><given-names>AF</given-names></name></person-group><article-title>Inhibition of insulin receptor catalytic activity by the
+molecular adapter Grb14</article-title><source>J. Biol. Chem</source><year>2002</year><volume>277</volume><fpage>4845</fpage><lpage>4852</lpage><pub-id pub-id-type="pmid">11726652</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1074/jbc.M106574200</pub-id></element-citation></ref><ref id="R6"><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Cariou</surname><given-names>B</given-names></name><name name-style="western"><surname>Bereziat</surname><given-names>V</given-names></name><name name-style="western"><surname>Moncoq</surname><given-names>K</given-names></name><name name-style="western"><surname>Kasus-Jacobi</surname><given-names>A</given-names></name><name name-style="western"><surname>Perdereau</surname><given-names>D</given-names></name><name name-style="western"><surname>Le</surname><given-names>MV</given-names></name><name name-style="western"><surname>Burnol</surname><given-names>AF</given-names></name></person-group><article-title>Regulation and functional roles of Grb14</article-title><source>Front Biosci</source><year>2004</year><volume>9</volume><fpage>1626</fpage><lpage>1636</lpage><pub-id pub-id-type="pmid">14977573</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.2741/1228</pub-id></element-citation></ref><ref id="R7"><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Cooney</surname><given-names>GJ</given-names></name><name name-style="western"><surname>Lyons</surname><given-names>RJ</given-names></name><name name-style="western"><surname>Crew</surname><given-names>AJ</given-names></name><name name-style="western"><surname>Jensen</surname><given-names>TE</given-names></name><name name-style="western"><surname>Molero</surname><given-names>JC</given-names></name><name name-style="western"><surname>Mitchell</surname><given-names>CJ</given-names></name><name name-style="western"><surname>Biden</surname><given-names>TJ</given-names></name><name name-style="western"><surname>Ormandy</surname><given-names>CJ</given-names></name><name name-style="western"><surname>James</surname><given-names>DE</given-names></name><name name-style="western"><surname>Daly</surname><given-names>RJ</given-names></name></person-group><article-title>Improved glucose homeostasis and enhanced insulin signalling in
+Grb14-deficient mice</article-title><source>EMBO J</source><year>2004</year><volume>23</volume><fpage>582</fpage><lpage>593</lpage><pub-id pub-id-type="pmid">14749734</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/sj.emboj.7600082</pub-id><pub-id pub-id-type="pmcid">PMC1271812</pub-id></element-citation></ref><ref id="R8"><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Depetris</surname><given-names>RS</given-names></name><name name-style="western"><surname>Hu</surname><given-names>J</given-names></name><name name-style="western"><surname>Gimpelevich</surname><given-names>I</given-names></name><name name-style="western"><surname>Holt</surname><given-names>LJ</given-names></name><name name-style="western"><surname>Daly</surname><given-names>RJ</given-names></name><name name-style="western"><surname>Hubbard</surname><given-names>SR</given-names></name></person-group><article-title>Structural basis for inhibition of the insulin receptor by the
+adaptor protein Grb14</article-title><source>Mol. Cell</source><year>2005</year><volume>20</volume><fpage>325</fpage><lpage>333</lpage><pub-id pub-id-type="pmid">16246733</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.molcel.2005.09.001</pub-id><pub-id pub-id-type="pmcid">PMC4526137</pub-id></element-citation></ref><ref id="R9"><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Ezzat</surname><given-names>S</given-names></name><name name-style="western"><surname>Yu</surname><given-names>S</given-names></name><name name-style="western"><surname>Asa</surname><given-names>SL</given-names></name></person-group><article-title>Ikaros isoforms in human pituitary tumors: distinct localization,
+histone acetylation, and activation of the 5' fibroblast growth
+factor receptor-4 promoter</article-title><source>Am. J. Pathol</source><year>2003</year><volume>163</volume><fpage>1177</fpage><lpage>1184</lpage><pub-id pub-id-type="pmid">12937159</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S0002-9440(10)63477-3</pub-id><pub-id pub-id-type="pmcid">PMC1868268</pub-id></element-citation></ref><ref id="R10"><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Ezzat</surname><given-names>S</given-names></name><name name-style="western"><surname>Zheng</surname><given-names>L</given-names></name><name name-style="western"><surname>Zhu</surname><given-names>XF</given-names></name><name name-style="western"><surname>Wu</surname><given-names>GE</given-names></name><name name-style="western"><surname>Asa</surname><given-names>SL</given-names></name></person-group><article-title>Targeted expression of a human pituitary tumor-derived isoform of
+FGF receptor-4 recapitulates pituitary tumorigenesis</article-title><source>J. Clin. Invest</source><year>2002</year><volume>109</volume><fpage>69</fpage><lpage>78</lpage><pub-id pub-id-type="pmid">11781352</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1172/JCI14036</pub-id><pub-id pub-id-type="pmcid">PMC150823</pub-id><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="retraction-forward" ext-link-type="pmc" xlink:href="PMC4563772"/></element-citation></ref><ref id="R11"><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Ferguson</surname><given-names>RD</given-names></name><name name-style="western"><surname>Novosyadlyy</surname><given-names>R</given-names></name><name name-style="western"><surname>Fierz</surname><given-names>Y</given-names></name><name name-style="western"><surname>Alikhani</surname><given-names>N</given-names></name><name name-style="western"><surname>Sun</surname><given-names>H</given-names></name><name name-style="western"><surname>Yakar</surname><given-names>S</given-names></name><name name-style="western"><surname>Leroith</surname><given-names>D</given-names></name></person-group><article-title>Hyperinsulinemia enhances c-Myc-mediated mammary tumor
+development and advances metastatic progression to the lung in a mouse model
+of type 2 diabetes</article-title><source>Breast Cancer Res</source><year>2012</year><volume>14</volume><fpage>R8</fpage><pub-id pub-id-type="pmid">22226054</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/bcr3089</pub-id><pub-id pub-id-type="pmcid">PMC3496123</pub-id></element-citation></ref><ref id="R12"><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Han</surname><given-names>DC</given-names></name><name name-style="western"><surname>Shen</surname><given-names>TL</given-names></name><name name-style="western"><surname>Guan</surname><given-names>JL</given-names></name></person-group><article-title>The Grb7 family proteins: structure, interactions with other
+signaling molecules and potential cellular functions</article-title><source>Oncogene</source><year>2001</year><volume>20</volume><fpage>6315</fpage><lpage>6321</lpage><pub-id pub-id-type="pmid">11607834</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/sj.onc.1204775</pub-id></element-citation></ref><ref id="R13"><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Hart</surname><given-names>AW</given-names></name><name name-style="western"><surname>Baeza</surname><given-names>N</given-names></name><name name-style="western"><surname>Apelqvist</surname><given-names>A</given-names></name><name name-style="western"><surname>Edlund</surname><given-names>H</given-names></name></person-group><article-title>Attenuation of FGF signalling in mouse beta-cells leads to
+diabetes</article-title><source>Nature</source><year>2000a</year><volume>408</volume><fpage>864</fpage><lpage>868</lpage><pub-id pub-id-type="pmid">11130726</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/35048589</pub-id></element-citation></ref><ref id="R14"><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Hart</surname><given-names>KC</given-names></name><name name-style="western"><surname>Robertson</surname><given-names>SC</given-names></name><name name-style="western"><surname>Kanemitsu</surname><given-names>MY</given-names></name><name name-style="western"><surname>Meyer</surname><given-names>AN</given-names></name><name name-style="western"><surname>Tynan</surname><given-names>JA</given-names></name><name name-style="western"><surname>Donoghue</surname><given-names>JA</given-names></name></person-group><article-title>Transformation and Stat activation by derivatives of FGFR1,
+FGFR3, and FGFR4</article-title><source>Oncogene</source><year>2000b</year><volume>29</volume><fpage>3309</fpage><lpage>3320</lpage><pub-id pub-id-type="pmid">10918587</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/sj.onc.1203650</pub-id></element-citation></ref><ref id="R15"><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>He</surname><given-names>W</given-names></name><name name-style="western"><surname>Rose</surname><given-names>DW</given-names></name><name name-style="western"><surname>Olefsky</surname><given-names>JM</given-names></name><name name-style="western"><surname>Gustafson</surname><given-names>TA</given-names></name></person-group><article-title>Grb10 interacts differentially with the insulin receptor,
+insulin-like growth factor I receptor, and epidermal growth factor receptor
+via the Grb10 Src homology 2 (SH2) domain and a second novel domain located
+between the pleckstrin homology and SH2 domains</article-title><source>J. Biol. Chem</source><year>1998</year><volume>273</volume><fpage>6860</fpage><lpage>6867</lpage><pub-id pub-id-type="pmid">9506989</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1074/jbc.273.12.6860</pub-id></element-citation></ref><ref id="R16"><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Holt</surname><given-names>LJ</given-names></name><name name-style="western"><surname>Siddle</surname><given-names>K</given-names></name></person-group><article-title>Grb10 and Grb14: enigmatic regulators of insulin action--and
+more?</article-title><source>Biochem. J</source><year>2005</year><volume>388</volume><fpage>393</fpage><lpage>406</lpage><pub-id pub-id-type="pmid">15901248</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1042/BJ20050216</pub-id><pub-id pub-id-type="pmcid">PMC1138946</pub-id></element-citation></ref><ref id="R17"><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Huang</surname><given-names>X</given-names></name><name name-style="western"><surname>Yang</surname><given-names>C</given-names></name><name name-style="western"><surname>Luo</surname><given-names>Y</given-names></name><name name-style="western"><surname>Jin</surname><given-names>C</given-names></name><name name-style="western"><surname>Wang</surname><given-names>F</given-names></name><name name-style="western"><surname>McKeehan</surname><given-names>WL</given-names></name></person-group><article-title>FGFR4 prevents hyperlipidemia and insulin resistance but
+underlies high-fat diet induced fatty liver</article-title><source>Diabetes</source><year>2007</year><volume>56</volume><fpage>2501</fpage><lpage>2510</lpage><pub-id pub-id-type="pmid">17664243</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.2337/db07-0648</pub-id></element-citation></ref><ref id="R18"><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Hughes</surname><given-names>SE</given-names></name></person-group><article-title>Differential expression of the fibroblast growth factor receptor
+(FGFR) multigene family in normal human adult tissues</article-title><source>J. Histochem. Cytochem</source><year>1997</year><volume>45</volume><fpage>1005</fpage><lpage>1019</lpage><pub-id pub-id-type="pmid">9212826</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/002215549704500710</pub-id></element-citation></ref><ref id="R19"><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Kahn</surname><given-names>SM</given-names></name><name name-style="western"><surname>Hryb</surname><given-names>DJ</given-names></name><name name-style="western"><surname>Nakhla</surname><given-names>AM</given-names></name><name name-style="western"><surname>Romas</surname><given-names>NA</given-names></name><name name-style="western"><surname>Rosner</surname><given-names>W</given-names></name></person-group><article-title>Sex hormone-binding globulin is synthesized in target
+cells</article-title><source>J. Endocrinol</source><year>2002</year><volume>175</volume><fpage>113</fpage><lpage>120</lpage><pub-id pub-id-type="pmid">12379495</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1677/joe.0.1750113</pub-id></element-citation></ref><ref id="R20"><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Kantartzis</surname><given-names>K</given-names></name><name name-style="western"><surname>Machann</surname><given-names>J</given-names></name><name name-style="western"><surname>Schick</surname><given-names>F</given-names></name><name name-style="western"><surname>Rittig</surname><given-names>K</given-names></name><name name-style="western"><surname>Machicao</surname><given-names>F</given-names></name><name name-style="western"><surname>Fritsche</surname><given-names>A</given-names></name><name name-style="western"><surname>Haring</surname><given-names>HU</given-names></name><name name-style="western"><surname>Stefan</surname><given-names>N</given-names></name></person-group><article-title>Effects of a lifestyle intervention in metabolically benign and
+malign obesity</article-title><source>Diabetologia</source><year>2010</year><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00125-010-2006-3</pub-id><pub-id pub-id-type="pmid">21174075</pub-id></element-citation></ref><ref id="R21"><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Kasus-Jacobi</surname><given-names>A</given-names></name><name name-style="western"><surname>Bereziat</surname><given-names>V</given-names></name><name name-style="western"><surname>Perdereau</surname><given-names>D</given-names></name><name name-style="western"><surname>Girard</surname><given-names>J</given-names></name><name name-style="western"><surname>Burnol</surname><given-names>AF</given-names></name></person-group><article-title>Evidence for an interaction between the insulin receptor and
+Grb7. A role for two of its binding domains, PIR and SH2</article-title><source>Oncogene</source><year>2000</year><volume>19</volume><fpage>2052</fpage><lpage>2059</lpage><pub-id pub-id-type="pmid">10803466</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/sj.onc.1203469</pub-id></element-citation></ref><ref id="R22"><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Kasus-Jacobi</surname><given-names>A</given-names></name><name name-style="western"><surname>Perdereau</surname><given-names>D</given-names></name><name name-style="western"><surname>Auzan</surname><given-names>C</given-names></name><name name-style="western"><surname>Clauser</surname><given-names>E</given-names></name><name name-style="western"><surname>Van Obberghen</surname><given-names>E</given-names></name><name name-style="western"><surname>Mauvais-Jarvis</surname><given-names>F</given-names></name><name name-style="western"><surname>Girard</surname><given-names>J</given-names></name><name name-style="western"><surname>Burnol</surname><given-names>AF</given-names></name></person-group><article-title>Identification of the rat adapter Grb14 as an inhibitor of
+insulin actions</article-title><source>J. Biol. Chem</source><year>1998</year><volume>273</volume><fpage>26026</fpage><lpage>26035</lpage><pub-id pub-id-type="pmid">9748281</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1074/jbc.273.40.26026</pub-id></element-citation></ref><ref id="R23"><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Kharitonenkov</surname><given-names>A</given-names></name><name name-style="western"><surname>Shiyanova</surname><given-names>TL</given-names></name><name name-style="western"><surname>Koester</surname><given-names>A</given-names></name><name name-style="western"><surname>Ford</surname><given-names>AM</given-names></name><name name-style="western"><surname>Micanovic</surname><given-names>R</given-names></name><name name-style="western"><surname>Galbreath</surname><given-names>EJ</given-names></name><name name-style="western"><surname>Sandusky</surname><given-names>GE</given-names></name><name name-style="western"><surname>Hammond</surname><given-names>LJ</given-names></name><name name-style="western"><surname>Moyers</surname><given-names>JS</given-names></name><name name-style="western"><surname>Owens</surname><given-names>RA</given-names></name><name name-style="western"><surname>Gromada</surname><given-names>J</given-names></name><name name-style="western"><surname>Brozinick</surname><given-names>JT</given-names></name><name name-style="western"><surname>Hawkins</surname><given-names>ED</given-names></name><name name-style="western"><surname>Wroblewski</surname><given-names>VJ</given-names></name><name name-style="western"><surname>Li</surname><given-names>DS</given-names></name><name name-style="western"><surname>Mehrbod</surname><given-names>F</given-names></name><name name-style="western"><surname>Jaskunas</surname><given-names>SR</given-names></name><name name-style="western"><surname>Shanafelt</surname><given-names>AB</given-names></name></person-group><article-title>FGF-21 as a novel metabolic regulator</article-title><source>J. Clin. Invest</source><year>2005</year><volume>115</volume><fpage>1627</fpage><lpage>1635</lpage><pub-id pub-id-type="pmid">15902306</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1172/JCI23606</pub-id><pub-id pub-id-type="pmcid">PMC1088017</pub-id></element-citation></ref><ref id="R24"><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Knowler</surname><given-names>WC</given-names></name><name name-style="western"><surname>Barrett-Connor</surname><given-names>E</given-names></name><name name-style="western"><surname>Fowler</surname><given-names>SE</given-names></name><name name-style="western"><surname>Hamman</surname><given-names>RF</given-names></name><name name-style="western"><surname>Lachin</surname><given-names>JM</given-names></name><name name-style="western"><surname>Walker</surname><given-names>EA</given-names></name><name name-style="western"><surname>Nathan</surname><given-names>DM</given-names></name></person-group><article-title>Reduction in the incidence of type 2 diabetes with lifestyle
+intervention or metformin</article-title><source>N. Engl. J. Med</source><year>2002</year><volume>346</volume><fpage>393</fpage><lpage>403</lpage><pub-id pub-id-type="pmid">11832527</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa012512</pub-id><pub-id pub-id-type="pmcid">PMC1370926</pub-id></element-citation></ref><ref id="R25"><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Kooner</surname><given-names>JS</given-names></name><name name-style="western"><surname>Saleheen</surname><given-names>D</given-names></name><name name-style="western"><surname>Sim</surname><given-names>X</given-names></name><name name-style="western"><surname>Sehmi</surname><given-names>J</given-names></name><name name-style="western"><surname>Zhang</surname><given-names>W</given-names></name><name name-style="western"><surname>Frossard</surname><given-names>P</given-names></name><name name-style="western"><surname>Been</surname><given-names>LF</given-names></name><name name-style="western"><surname>Chia</surname><given-names>KS</given-names></name><name name-style="western"><surname>Dimas</surname><given-names>AS</given-names></name><name name-style="western"><surname>Hassanali</surname><given-names>N</given-names></name><name name-style="western"><surname>Jafar</surname><given-names>T</given-names></name><name name-style="western"><surname>Jowett</surname><given-names>JB</given-names></name><name name-style="western"><surname>Li</surname><given-names>X</given-names></name><name name-style="western"><surname>Radha</surname><given-names>V</given-names></name><name name-style="western"><surname>Rees</surname><given-names>SD</given-names></name><name name-style="western"><surname>Takeuchi</surname><given-names>F</given-names></name><name name-style="western"><surname>Young</surname><given-names>R</given-names></name><name name-style="western"><surname>Aung</surname><given-names>T</given-names></name><name name-style="western"><surname>Basit</surname><given-names>A</given-names></name><name name-style="western"><surname>Chidambaram</surname><given-names>M</given-names></name><name name-style="western"><surname>Das</surname><given-names>D</given-names></name><name name-style="western"><surname>Grundberg</surname><given-names>E</given-names></name><name name-style="western"><surname>Hedman</surname><given-names>AK</given-names></name><name name-style="western"><surname>Hydrie</surname><given-names>ZI</given-names></name><name name-style="western"><surname>Islam</surname><given-names>M</given-names></name><name name-style="western"><surname>Khor</surname><given-names>CC</given-names></name><name name-style="western"><surname>Kowlessur</surname><given-names>S</given-names></name><name name-style="western"><surname>Kristensen</surname><given-names>MM</given-names></name><name name-style="western"><surname>Liju</surname><given-names>S</given-names></name><name name-style="western"><surname>Lim</surname><given-names>WY</given-names></name><name name-style="western"><surname>Matthews</surname><given-names>DR</given-names></name><name name-style="western"><surname>Liu</surname><given-names>J</given-names></name><name name-style="western"><surname>Morris</surname><given-names>AP</given-names></name><name name-style="western"><surname>Nica</surname><given-names>AC</given-names></name><name name-style="western"><surname>Pinidiyapathirage</surname><given-names>JM</given-names></name><name name-style="western"><surname>Prokopenko</surname><given-names>I</given-names></name><name name-style="western"><surname>Rasheed</surname><given-names>A</given-names></name><name name-style="western"><surname>Samuel</surname><given-names>M</given-names></name><name name-style="western"><surname>Shah</surname><given-names>N</given-names></name><name name-style="western"><surname>Shera</surname><given-names>AS</given-names></name><name name-style="western"><surname>Small</surname><given-names>KS</given-names></name><name name-style="western"><surname>Suo</surname><given-names>C</given-names></name><name name-style="western"><surname>Wickremasinghe</surname><given-names>AR</given-names></name><name name-style="western"><surname>Wong</surname><given-names>TY</given-names></name><name name-style="western"><surname>Yang</surname><given-names>M</given-names></name><name name-style="western"><surname>Zhang</surname><given-names>F</given-names></name><name name-style="western"><surname>Abecasis</surname><given-names>GR</given-names></name><name name-style="western"><surname>Barnett</surname><given-names>AH</given-names></name><name name-style="western"><surname>Caulfield</surname><given-names>M</given-names></name><name name-style="western"><surname>Deloukas</surname><given-names>P</given-names></name><name name-style="western"><surname>Frayling</surname><given-names>TM</given-names></name><name name-style="western"><surname>Froguel</surname><given-names>P</given-names></name><name name-style="western"><surname>Kato</surname><given-names>N</given-names></name><name name-style="western"><surname>Katulanda</surname><given-names>P</given-names></name><name name-style="western"><surname>Kelly</surname><given-names>MA</given-names></name><name name-style="western"><surname>Liang</surname><given-names>J</given-names></name><name name-style="western"><surname>Mohan</surname><given-names>V</given-names></name><name name-style="western"><surname>Sanghera</surname><given-names>DK</given-names></name><name name-style="western"><surname>Scott</surname><given-names>J</given-names></name><name name-style="western"><surname>Seielstad</surname><given-names>M</given-names></name><name name-style="western"><surname>Zimmet</surname><given-names>PZ</given-names></name><name name-style="western"><surname>Elliott</surname><given-names>P</given-names></name><name name-style="western"><surname>Teo</surname><given-names>YY</given-names></name><name name-style="western"><surname>McCarthy</surname><given-names>MI</given-names></name><name name-style="western"><surname>Danesh</surname><given-names>J</given-names></name><name name-style="western"><surname>Tai</surname><given-names>ES</given-names></name><name name-style="western"><surname>Chambers</surname><given-names>JC</given-names></name></person-group><article-title>Genome-wide association study in individuals of South Asian
+ancestry identifies six new type 2 diabetes susceptibility
+loci</article-title><source>Nat. Genet</source><year>2011</year><volume>43</volume><fpage>984</fpage><lpage>989</lpage><pub-id pub-id-type="pmid">21874001</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/ng.921</pub-id><pub-id pub-id-type="pmcid">PMC3773920</pub-id></element-citation></ref><ref id="R26"><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Kulkarni</surname><given-names>RN</given-names></name><name name-style="western"><surname>Brüning</surname><given-names>JC</given-names></name><name name-style="western"><surname>Winnay</surname><given-names>JN</given-names></name><name name-style="western"><surname>Postic</surname><given-names>C</given-names></name><name name-style="western"><surname>Magnuson</surname><given-names>MA</given-names></name><name name-style="western"><surname>Kahn</surname><given-names>CR</given-names></name></person-group><article-title>Tissue-specific knockout of the insulin receptor in pancreatic
+beta cells creates an insulin secretory defect similar to that in type 2
+diabetes</article-title><source>Cell</source><year>1999a</year><volume>96</volume><fpage>329</fpage><lpage>339</lpage><pub-id pub-id-type="pmid">10025399</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0092-8674(00)80546-2</pub-id></element-citation></ref><ref id="R27"><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Kulkarni</surname><given-names>RN</given-names></name><name name-style="western"><surname>Winnay</surname><given-names>JN</given-names></name><name name-style="western"><surname>Daniels</surname><given-names>M</given-names></name><name name-style="western"><surname>Brüning</surname><given-names>JC</given-names></name><name name-style="western"><surname>Flier</surname><given-names>SN</given-names></name><name name-style="western"><surname>Hanahan</surname><given-names>D</given-names></name><name name-style="western"><surname>Kahn</surname><given-names>CR</given-names></name></person-group><article-title>Altered function of insulin receptor substrate-1-deficient mouse
+islets and cultured beta-cell lines</article-title><source>J. Clin. Invest</source><year>1999b</year><volume>104</volume><fpage>R69</fpage><lpage>R75</lpage><pub-id pub-id-type="pmid">10606633</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1172/JCI8339</pub-id><pub-id pub-id-type="pmcid">PMC409887</pub-id></element-citation></ref><ref id="R28"><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Lann</surname><given-names>D</given-names></name><name name-style="western"><surname>LeRoith</surname><given-names>D</given-names></name></person-group><article-title>The role of endocrine insulin-like growth factor-I and insulin in
+breast cancer</article-title><source>J. Mammary Gland Biol. Neoplasia</source><year>2008</year><volume>13</volume><fpage>371</fpage><lpage>379</lpage><pub-id pub-id-type="pmid">19030972</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s10911-008-9100-x</pub-id></element-citation></ref><ref id="R29"><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Larsson</surname><given-names>SC</given-names></name><name name-style="western"><surname>Mantzoros</surname><given-names>CS</given-names></name><name name-style="western"><surname>Wolk</surname><given-names>A</given-names></name></person-group><article-title>Diabetes mellitus and risk of breast cancer: a
+meta-analysis</article-title><source>Int. J. Cancer</source><year>2007</year><volume>121</volume><fpage>856</fpage><lpage>862</lpage><pub-id pub-id-type="pmid">17397032</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ijc.22717</pub-id></element-citation></ref><ref id="R30"><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Lawlor</surname><given-names>DA</given-names></name><name name-style="western"><surname>Smith</surname><given-names>GD</given-names></name><name name-style="western"><surname>Ebrahim</surname><given-names>S</given-names></name></person-group><article-title>Hyperinsulinaemia and increased risk of breast cancer: findings
+from the British Women's Heart and Health Study</article-title><source>Cancer Causes Control</source><year>2004</year><volume>15</volume><fpage>267</fpage><lpage>275</lpage><pub-id pub-id-type="pmid">15090721</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1023/B:CACO.0000024225.14618.a8</pub-id></element-citation></ref><ref id="R31"><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Le Bras</surname><given-names>S</given-names></name><name name-style="western"><surname>Miralles</surname><given-names>F</given-names></name><name name-style="western"><surname>Basmaciogullari</surname><given-names>A</given-names></name><name name-style="western"><surname>Czernichow</surname><given-names>P</given-names></name><name name-style="western"><surname>Scharfmann</surname><given-names>R</given-names></name></person-group><article-title>Fibroblast growth factor 2 promotes pancreatic epithelial cell
+proliferation via functional fibroblast growth factor receptors during
+embryonic life</article-title><source>Diabetes</source><year>1998</year><volume>47</volume><fpage>1236</fpage><lpage>1242</lpage><pub-id pub-id-type="pmid">9703323</pub-id></element-citation></ref><ref id="R32"><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>LeRoith</surname><given-names>D</given-names></name></person-group><article-title>Can endogenous hyperinsulinaemia explain the increased risk of
+cancer development and mortality in type 2 diabetes: evidence from mouse
+models</article-title><source>Diabetes Metab. Res. Rev</source><year>2010</year><volume>26</volume><fpage>599</fpage><lpage>601</lpage><pub-id pub-id-type="pmid">20941806</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/dmrr.1139</pub-id></element-citation></ref><ref id="R33"><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Lin</surname><given-names>RC</given-names></name><name name-style="western"><surname>Weeks</surname><given-names>KL</given-names></name><name name-style="western"><surname>Gao</surname><given-names>XM</given-names></name><name name-style="western"><surname>Williams</surname><given-names>RB</given-names></name><name name-style="western"><surname>Bernardo</surname><given-names>BC</given-names></name><name name-style="western"><surname>Kiriazis</surname><given-names>H</given-names></name><name name-style="western"><surname>Matthews</surname><given-names>VB</given-names></name><name name-style="western"><surname>Woodcock</surname><given-names>EA</given-names></name><name name-style="western"><surname>Bouwman</surname><given-names>RD</given-names></name><name name-style="western"><surname>Mollica</surname><given-names>JP</given-names></name><etal/></person-group><article-title>PI3K(p110 alpha) protects against myocardial infarction-induced
+heart failure: identification of PI3K-regulated miRNA and
+mRNA</article-title><source>Arterioscler. Thromb. Vasc. Biol</source><year>2010</year><volume>30</volume><fpage>724</fpage><lpage>732</lpage><pub-id pub-id-type="pmid">20237330</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/ATVBAHA.109.201988</pub-id></element-citation></ref><ref id="R34"><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Manning</surname><given-names>AK</given-names></name><name name-style="western"><surname>Hivert</surname><given-names>MF</given-names></name><name name-style="western"><surname>Scott</surname><given-names>RA</given-names></name><name name-style="western"><surname>Grimsby</surname><given-names>JL</given-names></name><name name-style="western"><surname>Bouatia-Naji</surname><given-names>N</given-names></name><name name-style="western"><surname>Chen</surname><given-names>H</given-names></name><name name-style="western"><surname>Rybin</surname><given-names>D</given-names></name><name name-style="western"><surname>Liu</surname><given-names>CT</given-names></name><name name-style="western"><surname>Bielak</surname><given-names>LF</given-names></name><name name-style="western"><surname>Prokopenko</surname><given-names>I</given-names></name><etal/></person-group><collab>DIAbetes Genetics Replication And Meta-analysis (DIAGRAM)
+Consortium</collab><collab>Multiple Tissue Human Expression Resource (MUTHER) Consortium</collab><article-title>A genomewide approach accounting for body mass index identifies
+genetic variants influencing fasting glycemic traits and insulin
+resistance</article-title><source>Nat. Genet</source><year>2012</year><volume>44</volume><fpage>659</fpage><lpage>669</lpage><pub-id pub-id-type="pmid">22581228</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/ng.2274</pub-id><pub-id pub-id-type="pmcid">PMC3613127</pub-id></element-citation></ref><ref id="R35"><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Matthews</surname><given-names>DR</given-names></name><name name-style="western"><surname>Hosker</surname><given-names>JP</given-names></name><name name-style="western"><surname>Rudenski</surname><given-names>AS</given-names></name><name name-style="western"><surname>Naylor</surname><given-names>BA</given-names></name><name name-style="western"><surname>Treacher</surname><given-names>DF</given-names></name><name name-style="western"><surname>Turner</surname><given-names>RC</given-names></name></person-group><article-title>Homeostasis model assessment: insulin resistance and beta-cell
+function from fasting plasma glucose and insulin concentrations in
+man</article-title><source>Diabetologia</source><year>1985</year><volume>28</volume><fpage>412</fpage><lpage>419</lpage><pub-id pub-id-type="pmid">3899825</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/BF00280883</pub-id></element-citation></ref><ref id="R36"><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Morimoto</surname><given-names>Y</given-names></name><name name-style="western"><surname>Ozaki</surname><given-names>T</given-names></name><name name-style="western"><surname>Ouchida</surname><given-names>M</given-names></name><name name-style="western"><surname>Umehara</surname><given-names>N</given-names></name><name name-style="western"><surname>Ohata</surname><given-names>N</given-names></name><name name-style="western"><surname>Yoshida</surname><given-names>A</given-names></name><name name-style="western"><surname>Shimizu</surname><given-names>K</given-names></name><name name-style="western"><surname>Inoue</surname><given-names>H</given-names></name></person-group><article-title>Single nucleotide polymorphism in fibroblast growth factor
+receptor 4 at codon 388 is associated with prognosis in high-grade soft
+tissue sarcoma</article-title><source>Cancer</source><year>2003</year><volume>98</volume><fpage>2245</fpage><lpage>2250</lpage><pub-id pub-id-type="pmid">14601095</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/cncr.11778</pub-id></element-citation></ref><ref id="R37"><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Morris</surname><given-names>AP</given-names></name><name name-style="western"><surname>Voight</surname><given-names>BF</given-names></name><name name-style="western"><surname>Teslovich</surname><given-names>TM</given-names></name><name name-style="western"><surname>Ferreira</surname><given-names>T</given-names></name><name name-style="western"><surname>Segrè</surname><given-names>AV</given-names></name><name name-style="western"><surname>Steinthorsdottir</surname><given-names>V</given-names></name><name name-style="western"><surname>Strawbridge</surname><given-names>RJ</given-names></name><name name-style="western"><surname>Khan</surname><given-names>H</given-names></name><name name-style="western"><surname>Grallert</surname><given-names>H</given-names></name><name name-style="western"><surname>Mahajan</surname><given-names>A</given-names></name><etal/></person-group><collab>Wellcome Trust Case Control Consortium</collab><collab>Meta-Analyses of Glucose and Insulin-related traits Consortium (MAGIC)
+Investigators</collab><collab>Genetic Investigation of ANthropometric Traits (GIANT)
+Consortium</collab><collab>Asian Genetic Epidemiology Network–Type 2 Diabetes (AGEN-T2D)
+Consortium</collab><collab>South Asian Type 2 Diabetes (SAT2D) Consortium</collab><collab>DIAbetes Genetics Replication And Meta-analysis (DIAGRAM)
+Consortium</collab><article-title>Large-scale association analysis provides insights into the
+genetic architecture and pathophysiology of type 2 diabetes</article-title><source>Nat. Genet</source><year>2012</year><volume>44</volume><fpage>981</fpage><lpage>990</lpage><pub-id pub-id-type="pmid">22885922</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/ng.2383</pub-id><pub-id pub-id-type="pmcid">PMC3442244</pub-id></element-citation></ref><ref id="R38"><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Nouaille</surname><given-names>S</given-names></name><name name-style="western"><surname>Blanquart</surname><given-names>C</given-names></name><name name-style="western"><surname>Zilberfarb</surname><given-names>V</given-names></name><name name-style="western"><surname>Boute</surname><given-names>N</given-names></name><name name-style="western"><surname>Perdereau</surname><given-names>D</given-names></name><name name-style="western"><surname>Roix</surname><given-names>J</given-names></name><name name-style="western"><surname>Burnol</surname><given-names>AF</given-names></name><name name-style="western"><surname>Issad</surname><given-names>T</given-names></name></person-group><article-title>Interaction with Grb14 results in site-specific regulation of
+tyrosine phosphorylation of the insulin receptor</article-title><source>EMBO Rep</source><year>2006</year><volume>7</volume><fpage>512</fpage><lpage>518</lpage><pub-id pub-id-type="pmid">16582879</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/sj.embor.7400668</pub-id><pub-id pub-id-type="pmcid">PMC1479551</pub-id></element-citation></ref><ref id="R39"><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Oberg-Welsh</surname><given-names>C</given-names></name><name name-style="western"><surname>Welsh</surname><given-names>M</given-names></name></person-group><article-title>Effects of certain growth factors on in vitro maturation of rat
+fetal islet-like structures</article-title><source>Pancreas</source><year>1996</year><volume>12</volume><fpage>334</fpage><lpage>339</lpage><pub-id pub-id-type="pmid">8740398</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/00006676-199605000-00002</pub-id></element-citation></ref><ref id="R40"><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Reilly</surname><given-names>JF</given-names></name><name name-style="western"><surname>Mickey</surname><given-names>G</given-names></name><name name-style="western"><surname>Maher</surname><given-names>PA</given-names></name></person-group><article-title>Association of fibroblast growth factor receptor 1 with the
+adaptor protein Grb14. Characterization of a new receptor binding
+partner</article-title><source>J. Biol. Chem</source><year>2000</year><volume>275</volume><fpage>7771</fpage><lpage>7778</lpage><pub-id pub-id-type="pmid">10713090</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1074/jbc.275.11.7771</pub-id></element-citation></ref><ref id="R41"><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Rose</surname><given-names>DP</given-names></name><name name-style="western"><surname>Haffner</surname><given-names>SM</given-names></name><name name-style="western"><surname>Baillargeon</surname><given-names>J</given-names></name></person-group><article-title>Adiposity, the metabolic syndrome, and breast cancer in
+african-american and white american women</article-title><source>Endocr. Rev</source><year>2007</year><volume>28</volume><fpage>763</fpage><lpage>777</lpage><pub-id pub-id-type="pmid">17981890</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1210/er.2006-0019</pub-id></element-citation></ref><ref id="R42"><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Seitzer</surname><given-names>N</given-names></name><name name-style="western"><surname>Mayr</surname><given-names>T</given-names></name><name name-style="western"><surname>Streit</surname><given-names>S</given-names></name><name name-style="western"><surname>Ullrich</surname><given-names>A</given-names></name></person-group><article-title>A single nucleotide change in the mouse genome accelerates breast
+cancer progression</article-title><source>Cancer Res</source><year>2010</year><volume>70</volume><fpage>802</fpage><lpage>812</lpage><pub-id pub-id-type="pmid">20068154</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/0008-5472.CAN-09-3239</pub-id></element-citation></ref><ref id="R43"><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Stadler</surname><given-names>CR</given-names></name><name name-style="western"><surname>Knyazev</surname><given-names>P</given-names></name><name name-style="western"><surname>Bange</surname><given-names>J</given-names></name><name name-style="western"><surname>Ullrich</surname><given-names>A</given-names></name></person-group><article-title>FGFR4 GLY388 isotype suppresses motility of MDA-MB-231 breast
+cancer cells by EDG-2 gene repression</article-title><source>Cell Signal</source><year>2006</year><volume>18</volume><fpage>783</fpage><lpage>794</lpage><pub-id pub-id-type="pmid">16109476</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cellsig.2005.07.002</pub-id></element-citation></ref><ref id="R44"><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Stancakova</surname><given-names>A</given-names></name><name name-style="western"><surname>Kuulasmaa</surname><given-names>T</given-names></name><name name-style="western"><surname>Paananen</surname><given-names>J</given-names></name><name name-style="western"><surname>Jackson</surname><given-names>AU</given-names></name><name name-style="western"><surname>Bonnycastle</surname><given-names>LL</given-names></name><name name-style="western"><surname>Collins</surname><given-names>FS</given-names></name><name name-style="western"><surname>Boehnke</surname><given-names>M</given-names></name><name name-style="western"><surname>Kuusisto</surname><given-names>J</given-names></name><name name-style="western"><surname>Laakso</surname><given-names>M</given-names></name></person-group><article-title>Association of 18 confirmed susceptibility loci for type 2
+diabetes with indices of insulin release, proinsulin conversion, and insulin
+sensitivity in 5,327 nondiabetic Finnish men</article-title><source>Diabetes</source><year>2009</year><volume>58</volume><fpage>2129</fpage><lpage>2136</lpage><pub-id pub-id-type="pmid">19502414</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.2337/db09-0117</pub-id><pub-id pub-id-type="pmcid">PMC2731523</pub-id></element-citation></ref><ref id="R45"><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Streit</surname><given-names>S</given-names></name><name name-style="western"><surname>Bange</surname><given-names>J</given-names></name><name name-style="western"><surname>Fichtner</surname><given-names>A</given-names></name><name name-style="western"><surname>Ihrler</surname><given-names>S</given-names></name><name name-style="western"><surname>Issing</surname><given-names>W</given-names></name><name name-style="western"><surname>Ullrich</surname><given-names>A</given-names></name></person-group><article-title>Involvement of the FGFR4 Arg388 allele in head and neck squamous
+cell carcinoma</article-title><source>Int. J. Cancer</source><year>2004</year><volume>111</volume><fpage>213</fpage><lpage>217</lpage><pub-id pub-id-type="pmid">15197773</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ijc.20204</pub-id></element-citation></ref><ref id="R46"><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Takaishi</surname><given-names>S</given-names></name><name name-style="western"><surname>Sawada</surname><given-names>M</given-names></name><name name-style="western"><surname>Morita</surname><given-names>Y</given-names></name><name name-style="western"><surname>Seno</surname><given-names>H</given-names></name><name name-style="western"><surname>Fukuzawa</surname><given-names>H</given-names></name><name name-style="western"><surname>Chiba</surname><given-names>T</given-names></name></person-group><article-title>Identification of a novel alternative splicing of human FGF
+receptor 4: soluble-form splice variant expressed in human gastrointestinal
+epithelial cells</article-title><source>Biochem. Biophys. Res. Commun</source><year>2000</year><volume>267</volume><fpage>658</fpage><lpage>662</lpage><pub-id pub-id-type="pmid">10631118</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1006/bbrc.1999.2010</pub-id></element-citation></ref><ref id="R47"><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Tateno</surname><given-names>T</given-names></name><name name-style="western"><surname>Asa</surname><given-names>SL</given-names></name><name name-style="western"><surname>Zheng</surname><given-names>L</given-names></name><name name-style="western"><surname>Mayr</surname><given-names>T</given-names></name><name name-style="western"><surname>Ullrich</surname><given-names>A</given-names></name><name name-style="western"><surname>Ezzat</surname><given-names>S</given-names></name></person-group><article-title>The FGFR4-G388R polymorphism promotes mitochondrial STAT3 serine
+phosphorylation to facilitate pituitary growth hormone cell
+tumorigenesis</article-title><source>PLoS Genet</source><year>2011</year><volume>7</volume><fpage>e1002400</fpage><pub-id pub-id-type="pmid">22174695</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pgen.1002400</pub-id><pub-id pub-id-type="pmcid">PMC3234213</pub-id></element-citation></ref><ref id="R48"><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Thussbas</surname><given-names>C</given-names></name><name name-style="western"><surname>Nahrig</surname><given-names>J</given-names></name><name name-style="western"><surname>Streit</surname><given-names>S</given-names></name><name name-style="western"><surname>Bange</surname><given-names>J</given-names></name><name name-style="western"><surname>Kriner</surname><given-names>M</given-names></name><name name-style="western"><surname>Kates</surname><given-names>R</given-names></name><name name-style="western"><surname>Ulm</surname><given-names>K</given-names></name><name name-style="western"><surname>Kiechle</surname><given-names>M</given-names></name><name name-style="western"><surname>Hoefler</surname><given-names>H</given-names></name><name name-style="western"><surname>Ullrich</surname><given-names>A</given-names></name><name name-style="western"><surname>Harbeck</surname><given-names>N</given-names></name></person-group><article-title>FGFR4 Arg388 allele is associated with resistance to adjuvant
+therapy in primary breast cancer</article-title><source>J. Clin. Oncol</source><year>2006</year><volume>24</volume><fpage>3747</fpage><lpage>3755</lpage><pub-id pub-id-type="pmid">16822847</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1200/JCO.2005.04.8587</pub-id></element-citation></ref><ref id="R49"><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Tomlinson</surname><given-names>E</given-names></name><name name-style="western"><surname>Fu</surname><given-names>L</given-names></name><name name-style="western"><surname>John</surname><given-names>L</given-names></name><name name-style="western"><surname>Hultgren</surname><given-names>B</given-names></name><name name-style="western"><surname>Huang</surname><given-names>X</given-names></name><name name-style="western"><surname>Renz</surname><given-names>M</given-names></name><name name-style="western"><surname>Stephan</surname><given-names>JP</given-names></name><name name-style="western"><surname>Tsai</surname><given-names>SP</given-names></name><name name-style="western"><surname>Powell-Braxton</surname><given-names>L</given-names></name><name name-style="western"><surname>French</surname><given-names>D</given-names></name><name name-style="western"><surname>Stewart</surname><given-names>TA</given-names></name></person-group><article-title>Transgenic mice expressing human fibroblast growth factor-19
+display increased metabolic rate and decreased adiposity</article-title><source>Endocrinology</source><year>2002</year><volume>143</volume><fpage>1741</fpage><lpage>1747</lpage><pub-id pub-id-type="pmid">11956156</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1210/endo.143.5.8850</pub-id></element-citation></ref><ref id="R50"><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Vainikka</surname><given-names>S</given-names></name><name name-style="western"><surname>Joukov</surname><given-names>V</given-names></name><name name-style="western"><surname>Wennstrom</surname><given-names>S</given-names></name><name name-style="western"><surname>Bergman</surname><given-names>M</given-names></name><name name-style="western"><surname>Pelicci</surname><given-names>PG</given-names></name><name name-style="western"><surname>Alitalo</surname><given-names>K</given-names></name></person-group><article-title>Signal transduction by fibroblast growth factor receptor-4
+(FGFR-4). Comparison with FGFR-1</article-title><source>J. Biol. Chem</source><year>1994</year><volume>269</volume><fpage>18320</fpage><lpage>18326</lpage><pub-id pub-id-type="pmid">7518429</pub-id></element-citation></ref><ref id="R51"><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Wang</surname><given-names>J</given-names></name><name name-style="western"><surname>Stockton</surname><given-names>DW</given-names></name><name name-style="western"><surname>Ittmann</surname><given-names>M</given-names></name></person-group><article-title>The fibroblast growth factor receptor-4 Arg388 allele is
+associated with prostate cancer initiation and progression</article-title><source>Clin. Cancer Res</source><year>2004</year><volume>10</volume><fpage>6169</fpage><lpage>6178</lpage><pub-id pub-id-type="pmid">15448004</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/1078-0432.CCR-04-0408</pub-id></element-citation></ref><ref id="R52"><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Wente</surname><given-names>W</given-names></name><name name-style="western"><surname>Efanov</surname><given-names>AM</given-names></name><name name-style="western"><surname>Brenner</surname><given-names>M</given-names></name><name name-style="western"><surname>Kharitonenkov</surname><given-names>A</given-names></name><name name-style="western"><surname>Koster</surname><given-names>A</given-names></name><name name-style="western"><surname>Sandusky</surname><given-names>GE</given-names></name><name name-style="western"><surname>Sewing</surname><given-names>S</given-names></name><name name-style="western"><surname>Treinies</surname><given-names>I</given-names></name><name name-style="western"><surname>Zitzer</surname><given-names>H</given-names></name><name name-style="western"><surname>Gromada</surname><given-names>J</given-names></name></person-group><article-title>Fibroblast growth factor-21 improves pancreatic beta-cell
+function and survival by activation of extracellular signal-regulated kinase
+1/2 and Akt signaling pathways</article-title><source>Diabetes</source><year>2006</year><volume>55</volume><fpage>2470</fpage><lpage>2478</lpage><pub-id pub-id-type="pmid">16936195</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.2337/db05-1435</pub-id></element-citation></ref><ref id="R53"><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Xu</surname><given-names>B</given-names></name><name name-style="western"><surname>Tong</surname><given-names>N</given-names></name><name name-style="western"><surname>Chen</surname><given-names>SQ</given-names></name><name name-style="western"><surname>Hua</surname><given-names>LX</given-names></name><name name-style="western"><surname>Wang</surname><given-names>ZJ</given-names></name><name name-style="western"><surname>Zhang</surname><given-names>ZD</given-names></name><name name-style="western"><surname>Chen</surname><given-names>M</given-names></name></person-group><article-title>FGFR4 Gly388Arg polymorphism contributes to prostate cancer
+development and progression: a meta-analysis of 2618 cases and 2305
+controls</article-title><source>BMC Cancer</source><year>2011</year><volume>11</volume><fpage>84</fpage><pub-id pub-id-type="pmid">21349172</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/1471-2407-11-84</pub-id><pub-id pub-id-type="pmcid">PMC3049742</pub-id></element-citation></ref><ref id="R54"><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Xu</surname><given-names>W</given-names></name><name name-style="western"><surname>Li</surname><given-names>Y</given-names></name><name name-style="western"><surname>Wang</surname><given-names>X</given-names></name><name name-style="western"><surname>Chen</surname><given-names>B</given-names></name><name name-style="western"><surname>Wang</surname><given-names>Y</given-names></name><name name-style="western"><surname>Liu</surname><given-names>S</given-names></name><name name-style="western"><surname>Xu</surname><given-names>J</given-names></name><name name-style="western"><surname>Zhao</surname><given-names>W</given-names></name><name name-style="western"><surname>Wu</surname><given-names>J</given-names></name></person-group><article-title>FGFR4 transmembrane domain polymorphism and cancer risk: A
+meta-analysis including 8555 subjects</article-title><source>Eur. J. Cancer</source><year>2010</year><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ejca.2010.06.017</pub-id><pub-id pub-id-type="pmid">20638838</pub-id></element-citation></ref><ref id="R55"><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Yu</surname><given-names>C</given-names></name><name name-style="western"><surname>Wang</surname><given-names>F</given-names></name><name name-style="western"><surname>Kan</surname><given-names>M</given-names></name><name name-style="western"><surname>Jin</surname><given-names>C</given-names></name><name name-style="western"><surname>Jones</surname><given-names>RB</given-names></name><name name-style="western"><surname>Weinstein</surname><given-names>M</given-names></name><name name-style="western"><surname>Deng</surname><given-names>CX</given-names></name><name name-style="western"><surname>McKeehan</surname><given-names>WL</given-names></name></person-group><article-title>Elevated cholesterol metabolism and bile acid synthesis in mice
+lacking membrane tyrosine kinase receptor FGFR4</article-title><source>J. Biol. Chem</source><year>2000</year><volume>275</volume><fpage>15482</fpage><lpage>15489</lpage><pub-id pub-id-type="pmid">10809780</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1074/jbc.275.20.15482</pub-id></element-citation></ref><ref id="R56"><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Yu</surname><given-names>H</given-names></name><name name-style="western"><surname>Pardoll</surname><given-names>D</given-names></name><name name-style="western"><surname>Jove</surname><given-names>R</given-names></name></person-group><article-title>STATs in cancer inflammation and immunity: a leading role for
+STAT3</article-title><source>Nat. Rev. Cancer</source><year>2009</year><volume>9</volume><fpage>798</fpage><lpage>809</lpage><pub-id pub-id-type="pmid">19851315</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nrc2734</pub-id><pub-id pub-id-type="pmcid">PMC4856025</pub-id></element-citation></ref></ref-list></back><floats-group><fig id="F1" orientation="portrait" position="float"><label>Figure 1</label><caption><title>FGFR4-G388 and FGFR4-R388 Promote Distinct Signals in Pancreatic Islet
+Cells</title><p id="P38">(A) Pancreatic islet RIN cells expressing prototypic FGFR4-G388 (left)
+or the polymorphic variant FGFR4-R388 (right) were treated under serum-free
+conditions with the non-FGFR-selective ligand FGF1, the FGFR2-selective ligand
+FGF7, or the FGFR4-selective ligand FGF19. Responses were monitored with
+antibodies to phosphorylated FGFR (pFGFR), the immediate FGFR substrate (pFRS2),
+phospholipase-C g (pPLC-g), or pErk1/2 (MAPK) as indicated. Other than PLC-g
+which weakly associates with FGFR4 (<xref rid="R50" ref-type="bibr">Vainikka et
+al., 1994</xref>), cells expressing FGFR4-G388 exhibit intact responses. In
+contrast, FGFR4-R388 cells fail to show measureable FRS2 activation. (B)
+FGFR4-R388-expressing cells secrete significantly (p &lt; 0.01) more
+insulin than FGFR4-G388 cells in the presence of glucose (left panel). (C)
+Electron microscopic examination reveals that RIN cells with empty vector
+(pcDNA) or FGFR4-G388 have well-developed rough endoplasmic reticulum (*), large
+Golgi complexes (G), and numerous secretory granules (arrows). In contrast, and
+consistent with the increase in insulin secretion but reduced storage induced by
+FGFR4-R388, cells expressing this FGFR4 variant have very few stored granules.
+See also <xref ref-type="supplementary-material" rid="SD1">Figure S1</xref>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="nihms565364f1.jpg"/></fig><fig id="F2" orientation="portrait" position="float"><label>Figure 2</label><caption><title>The Grb14 Adaptor Protein Is a Target of FGFR4-R388</title><p id="P39">(A) RT-PCR examination of RNA from pancreatic RINm5F cells reveals
+upregulation of the adaptor protein Grb14 in cells expressing FGFR4-R388. In
+contrast, Grb7 and total IR are unchanged. (B) Real-time PCR confirms
+significant (p &lt; 0.01) induction of Grb14 and insulin mRNA expression by
+FGFR4-R388 cells. (C) Cells expressing FGFR4-G388, FGFR4-R388, or empty vector
+(pcDNA) were examined without and with glucose in each lane respectively. Grb14
+is induced by FGFR4-R388 even when expressed at lower levels than FGFR4-G388.
+(D) Downregulation of Grb14 in FGFR4-R388 cells restores FRS2a responsiveness to
+FGF stimulation. See also <xref ref-type="supplementary-material" rid="SD1">Table S1</xref>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="nihms565364f2.jpg"/></fig><fig id="F3" orientation="portrait" position="float"><label>Figure 3</label><caption><title>FGFR4-R388 Preferentially Signals through STAT3/5 to Induce Grb14</title><p id="P40">(A) Pancreatic islet RINm5F cells expressing FGFR4-G388 or FGFR4-R388
+were compared for their ability to signal through STAT3 or STAT5 during a
+time-course reflecting the duration of exposure to 8 mmol/liter glucose. Note
+pY-STAT3 and pY-STAT5 responses by FGFR4-R388 cells, which are appreciably
+greater and more sustained than in FGFR4-G388 cells. (B) FGFR4-R388 cells were
+transfected with siRNA oligonucleotides to knock down STAT3 or STAT5 as
+indicated. Western blotting demonstrates STAT3 or STAT5 reduction and associated
+diminished Grb14 expression. For each knockdown, three independent siRNA
+oligonucleotides were used yielding similar results (data not shown). (C)
+Quantitative real-time PCR of STAT3/5 downregulated cells from panel b show
+corresponding reduction in Grb14 mRNA expression. (D) The 50 Grb14 region
+contains two putative STAT binding sites as indicated. The highlighted regions
+were targeted for chromatin immunoprecipitation (ChIP) examination. (E) ChIP
+assays show enhanced pY-STAT3 and pY-STAT5 binding to the Grb14 promoter in
+cells expressing FGFR4-R388 compared to FGFR4-G388. Densitometric values from
+three independent experiments are shown immediately below. See also <xref ref-type="supplementary-material" rid="SD1">Figure S2 and Table
+S4</xref>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="nihms565364f3.jpg"/></fig><fig id="F4" orientation="portrait" position="float"><label>Figure 4</label><caption><title>FGFR4-R388-Mediated Grb14 Induction Impairs Insulin Receptor
+Signaling</title><p id="P41">(A) Pancreatic RINm5F cells expressing empty vector (pcDNA), FGFR4-G388,
+or FGFR4-R388 were serum-deprived overnight (−) then exposed to glucose
+for 15 min (+). Total cell lysates were immunoprecipitated (IP) with an antibody
+to insulin receptor (IR) and blotted with an antibody to phospho-tyrosine (pY20)
+or to IR as indicated. FGFR4-R388 cells show increased IR phosphorylation. (B)
+Experiments were performed as in (A) with site-specific anti-phospho-IR
+antibodies. FGFR4-R388 cells show increased pY-IR 1158/1162 within the kinase
+pocket. In contrast, the IR juxtamembrane Y972 site shows diminished
+phosphorylation in response to glucose stimulation. Consistent with the
+diminished IR-Y972 phosphorylation at the IRS1 docking site, IRS1 levels are
+lower in FGFR4-R388 cells compared to FGFR4-G388 cells. Levels of IRS1 tyrosyl
+phosphorylation in response to glucose are also impaired in FGFR4-R388 cells.
+These cells were also examined in the absence (−) or presence (+) of the
+proteasomal inhibitor LLnL, which restores IRS1 levels in FGFR4-R388 cells
+(right upper panel) and pervandate (right lower panel). The reciprocal effect of
+FGFR4-R388 on site-specific IR phosphorylation and diminished IRS1 is again
+noted. Pervanadate restores IRS1 in FGFR4-R388 cells to levels resembling those
+of FGFR4-G388 cells. Data shown are representative of three independent
+experiments. (C) So that the impact of Grb14 on insulin secretion could be
+determined, FGFR4-R388 cells were transfected with siRNA targeting this adaptor
+protein. The upper panel confirms effective Grb14 knockdown in siRNA-transfected
+cells (+) compared to scrambled-sequence controls (−). The lower panel
+depicts the impact on insulin secretion in corresponding conditioned media.
+Cells downregulated for Grb14 show reduced insulin secretion. Two additional
+siRNA oligonucleotides yielded similar results (data not shown). (D) Impact of
+insulin receptor downregulation on insulin secretion in FGFR4-tranfected cells.
+Cells expressingFGFR4-G388, FGFR4-R388, or their empty vector pcDNA were
+transfected with siRNAtargeting the IR. The upper panel demonstrates the
+effectiveness of the siRNA (+) versus scrambled-sequence controls (−) in
+downregulating the IR in each of the FGFR isotypes. The lower panel demonstrates
+the rise in insulin secretion in response to IR downregulation. Values reflect
+the mean + SEM obtained in two independent experiments each performed in
+triplicate treatments. See also <xref ref-type="supplementary-material" rid="SD1">Table S5</xref>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="nihms565364f4.jpg"/></fig><fig id="F5" orientation="portrait" position="float"><label>Figure 5</label><caption><title>Pancreatic Islet Morphology in FGFR4-R385 Knockin mice</title><p id="P42">To determine the in vivo impact of FGFR4 isoforms on pancreatic
+endocrine morphology, we examined pancreatic tissues of mice with knockin of the
+FGFR4-R385 allele compared with FGFR4-G385 littermate controls. FGFR4 staining
+demonstrates comparable expression of the receptor across genotypes (A). The
+islets of mice carrying an FGFR4-R385 allele were of comparable size but
+exhibited reduced insulin content (B), whereas glucagonpositive cells were not
+reduced (C). Grb14 shows preferential expression in glucagon-containing A cells,
+but the intensity of Grb14 staining was increased in B cells of
+FGFR4-R385<sup>+/−</sup> and FGFR4-R385<sup>+/+</sup> KI mice
+compared with their littermate controls (D). Impaired FGFR signaling in the
+endocrine pancreas is supported by diminished pFRS2 (E) and attenuated IR
+signaling evidenced by reduced IRS1 (F). See also <xref ref-type="supplementary-material" rid="SD1">Figure S3</xref>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="nihms565364f5.jpg"/></fig><fig id="F6" orientation="portrait" position="float"><label>Figure 6</label><caption><title>FGFR4-R385 KI Mice Display Enhanced Insulin Secretion and Glucose
+Tolerance</title><p id="P43">(A) To determine the in vivo impact of FGFR4 isoforms on insulin
+secretion 12-month-old FGFR4 knockin mice of the indicated genotypes were
+compared following glucose tolerance testing on regular diet at 12 months (n =
+12–15 mice/group). (B) Glucose area under the curve (AUC) reveal
+tendency toward improved glucose tolerance. (C) FGFR4-R385 KI mice display
+increased insulin secretion. (D) Corresponding insulin areas under the curve
+AUC. (E) Animals fed a high-fat diet (n = 15–18 mice/group) show
+hyperglycemia that is less evident in mice carrying an FGFR4-R385 allele. (F)
+Animals fed a high fat diet as in (E) were treated with FGF19, resulting in
+improvement of hyperglycemia with a more protective effect in mice carrying an
+FGFR4-R385 allele. (G and H) Corresponding glucose AUC are shown in (G) and
+insulin levels in (H). Values represent mean + SEM where group comparisons were
+performed by ANOVA and significant differences indicated by *p &lt; 0.05
+and **p &lt; 0.01. See also <xref ref-type="supplementary-material" rid="SD1">Figure S4</xref>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="nihms565364f6.jpg"/></fig><fig id="F7" orientation="portrait" position="float"><label>Figure 7</label><caption><title>Loss of the Grb14 Adaptor Reverses the Effect of FGFR4-R385 on Insulin
+Secretion</title><p id="P44">(A and B) To determine the involvement of Grb14 in mediating FGFR4-R388
+action, we generated double-mutant
+FGFR4-R385<sup>+/−</sup>/Grb14<sup>−/−</sup> mice (n
+= 12–15 mice/group; A). Six-month-old mice reveal that loss of Grb14
+reverses the enhanced insulin secretion by FGFR4-R385 KI mice. Corresponding
+insulin areas under the curve are shown in (B). (C) To exclude extrapancreatic
+factors in mediating insulin hypersecretion, primary islets were isolated for
+assessment of insulin secretion ex vivo each in triplicate wells from FGFR4
+knockin mice (n = 6–7 mice/group) in the absence (0) or presence (8
+mmol/liter) of glucose, respectively. Pancreatic islets from
+FGFR4-R385<sup>+/−</sup> mice show significantly increased insulin
+secretion compared with those from their FGFR4-G385 littermates.
+FGFR4-R385<sup>+/−</sup>/Grb14<sup>−/−</sup> islets
+secrete less insulin than those from FGFR4-R385<sup>+/−</sup> animals.
+Values represent mean + SEM of insulin secreted over 1 hr expressed per islet.
+Group comparisons were evaluated by ANOVA with levels of significance as
+indicated. See also <xref ref-type="supplementary-material" rid="SD1">Tables S2
+and S3</xref>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="nihms565364f7.jpg"/></fig></floats-group></article>

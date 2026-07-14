@@ -1,0 +1,724 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article article-type="research-article" xml:lang="en" dtd-version="1.4"><front><journal-meta><journal-id journal-id-type="nlm-ta">FEBS Open Bio</journal-id><journal-id journal-id-type="iso-abbrev">FEBS Open Bio</journal-id><journal-id journal-id-type="pmc-domain-id">2013</journal-id><journal-id journal-id-type="pmc-domain">febsopenbio</journal-id><journal-id journal-id-type="nlm-id">101580716</journal-id><journal-id journal-id-type="publisher-id">FEB4</journal-id><journal-title-group><journal-title>FEBS Open Bio</journal-title></journal-title-group><issn pub-type="epub">2211-5463</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC6070650</article-id><article-id pub-id-type="pmcid-ver">PMC6070650.1</article-id><article-id pub-id-type="pmcaid">6070650</article-id><article-id pub-id-type="pmcaiid">6070650</article-id><article-id pub-id-type="pmid">30087833</article-id><article-id pub-id-type="doi">10.1002/2211-5463.12479</article-id><article-id pub-id-type="publisher-id">FEB412479</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group></article-categories><title-group><article-title>IFITM3 promotes hepatocellular carcinoma invasion and metastasis by regulating MMP9 through p38/MAPK signaling</article-title><alt-title alt-title-type="left-running-head">J. Min <italic toggle="yes">et al</italic>.</alt-title></title-group><contrib-group><contrib id="feb412479-cr-0001" contrib-type="author"><name name-style="western"><surname>Min</surname><given-names initials="J">Jiaqi</given-names></name><xref ref-type="aff" rid="feb412479-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="feb412479-cr-0002" contrib-type="author"><name name-style="western"><surname>Feng</surname><given-names initials="Q">Qian</given-names></name><xref ref-type="aff" rid="feb412479-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="feb412479-cr-0003" contrib-type="author"><name name-style="western"><surname>Liao</surname><given-names initials="W">Wenjun</given-names></name><xref ref-type="aff" rid="feb412479-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="feb412479-cr-0004" contrib-type="author"><name name-style="western"><surname>Liang</surname><given-names initials="Y">Yiming</given-names></name><xref ref-type="aff" rid="feb412479-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="feb412479-cr-0005" contrib-type="author"><name name-style="western"><surname>Gong</surname><given-names initials="C">Chengwu</given-names></name><xref ref-type="aff" rid="feb412479-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="feb412479-cr-0006" contrib-type="author"><name name-style="western"><surname>Li</surname><given-names initials="E">Enliang</given-names></name><xref ref-type="aff" rid="feb412479-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="feb412479-cr-0007" contrib-type="author"><name name-style="western"><surname>He</surname><given-names initials="W">Wenfeng</given-names></name><xref ref-type="aff" rid="feb412479-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="feb412479-cr-0008" contrib-type="author" corresp="yes"><name name-style="western"><surname>Yuan</surname><given-names initials="R">Rongfa</given-names></name><address><email>yuanrf7788@163.com</email></address><xref ref-type="aff" rid="feb412479-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="feb412479-cr-0009" contrib-type="author" corresp="yes"><name name-style="western"><surname>Wu</surname><given-names initials="L">Linquan</given-names></name><address><email>wulqnc@163.com</email></address><xref ref-type="aff" rid="feb412479-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="feb412479-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of General Surgery</named-content>
+<institution>the Second Affiliated Hospital of Nanchang University</institution>
+<country country="CN">China</country>
+</aff><aff id="feb412479-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Emergency and Critical Care Medicine</named-content>
+<institution>the Second Affiliated Hospital of Nanchang University</institution>
+<country country="CN">China</country>
+</aff><aff id="feb412479-aff-0003">
+<label><sup>3</sup></label>
+<institution>Jiangxi Province Key Laboratory of Molecular Medicine</institution>
+<named-content content-type="city">Nanchang</named-content>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+L. Wu and R. Yuan, the Second Affiliated Hospital of Nanchang University, No. 1, Minde Road, Nanchang 330006, China<break/>
+Fax: +86 791 86262262<break/>
+Tel: +86 791 86311529<break/>
+E‐mails: <email>wulqnc@163.com</email> (L.W.); <email>yuanrf7788@163.com</email> (R.Y.)<break/></corresp></author-notes><pub-date pub-type="epub"><day>28</day><month>6</month><year>2018</year></pub-date><pub-date pub-type="collection"><month>8</month><year>2018</year></pub-date><volume>8</volume><issue>8</issue><issue-id pub-id-type="pmc-issue-id">318002</issue-id><issue-id pub-id-type="doi">10.1002/feb4.2018.8.issue-8</issue-id><fpage>1299</fpage><lpage>1311</lpage><history><date date-type="received"><day>20</day><month>2</month><year>2018</year></date><date date-type="rev-recd"><day>25</day><month>4</month><year>2018</year></date><date date-type="accepted"><day>11</day><month>6</month><year>2018</year></date></history><pub-history><event event-type="pmc-release"><date><day>28</day><month>06</month><year>2018</year></date></event><event event-type="pmc-live"><date><day>07</day><month>08</month><year>2018</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2024-03-05 00:25:09.867"><day>05</day><month>03</month><year>2024</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2018 The Authors. Published by FEBS Press and John Wiley &amp; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="FEB4-8-1299.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:FEB4-8-1299.pdf"/><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="retraction-forward" xml:lang="en" xlink:title="retraction" vol="14" journal-id="FEBS Open Bio" journal-id-type="nlm-ta" ext-link-type="pmc" xlink:href="PMC10909964"><article-title>Retraction: IFITM3 promotes hepatocellular carcinoma invasion and metastasis by regulating MMP9 through p38/MAPK signaling</article-title><volume>14</volume><issue seq="170">3</issue><date><day>27</day><month>12</month><year>2023</year></date><fpage>527</fpage><lpage>527</lpage><source>FEBS Open Bio</source><pub-id pub-id-type="doi">10.1002/2211-5463.13751</pub-id><pub-id pub-id-type="pmcid">PMC10909964</pub-id><pub-id pub-id-type="pmid">38149381</pub-id></related-article><abstract id="feb412479-abs-0001"><p>Interferon‐induced transmembrane protein 3 (IFITM3) has been shown to be overexpressed in multiple cancers. However, the role of IFITM3 in metastasis of hepatocellular carcinoma (HCC) is still poorly understood. In this study, we showed that IFITM3 was frequently overexpressed in HCC tissues compared with adjacent nontumor tissues. Overexpression of IFITM3 was significantly correlated with tumor metastasis and poor prognosis in HCC. Knockdown of IFITM3 dramatically decreased MMP9 expression and inhibited the invasion and metastasis of HCC <italic toggle="yes">in vitro and in vivo</italic>. Moreover, the upregulation of MMP9 rescued the decreased migration and invasion induced by the knockdown of IFITM3, whereas the knockdown of MMP9 decreased IFITM3‐enhanced HCC migration and invasion. Mechanistically, we found that IFITM3 regulates MMP9 expression through the p38/MAPK pathway. Taken together, we identified a novel IFITM3–p38/MAPK–MMP9 regulatory circuitry, the dysfunction of which drives invasive and metastatic character in HCC.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="feb412479-kwd-0001">hepatocellular carcinoma</kwd><kwd id="feb412479-kwd-0002"><styled-content style="fixed-case">IFITM</styled-content>3</kwd><kwd id="feb412479-kwd-0003">metastasis</kwd><kwd id="feb412479-kwd-0004"><styled-content style="fixed-case">MMP</styled-content>9</kwd><kwd id="feb412479-kwd-0005">p38/<styled-content style="fixed-case">MAPK</styled-content> pathway</kwd></kwd-group><funding-group><award-group><funding-source>National Natural Science Foundation of China</funding-source><award-id>81560396</award-id></award-group><award-group><funding-source>Project of Jiangxi Provincial Department of Science and Technology</funding-source><award-id>20171BAB205060</award-id><award-id>20151BAB205101</award-id></award-group><award-group><funding-source>Project of Jiangxi Provincial Department of Education</funding-source><award-id>GJJ150142</award-id></award-group><award-group><funding-source>Project of Second Affiliated Hospital of Nanchang University</funding-source><award-id>2014YNQN12017</award-id><award-id>cx2016394</award-id></award-group></funding-group><counts><fig-count count="5"/><table-count count="3"/><page-count count="13"/><word-count count="7083"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>feb412479</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>August 2018</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:version=5.4.4 mode:remove_FC converted:02.08.2018</meta-value></custom-meta></custom-meta-group></article-meta><notes><fn-group id="feb412479-ntgp-0001"><fn fn-type="equal" id="feb412479-note-1001"><p>Jiaqi Min and Qian Feng contributed equally to this work.</p></fn></fn-group></notes></front><body><def-list list-content="abbreviations" id="feb412479-dl-0001"><title>Abbreviations</title><def-item><term>DFS</term><def><p>disease‐free survival</p></def></def-item><def-item><term>HCC</term><def><p>Hepatocellular carcinoma</p></def></def-item><def-item><term>IFITM3</term><def><p>Interferon‐induced transmembrane protein 3</p></def></def-item><def-item><term>IHC</term><def><p>immunohistochemistry</p></def></def-item><def-item><term>MMPs</term><def><p>matrix metalloproteinases</p></def></def-item><def-item><term>OS</term><def><p>overall survival</p></def></def-item><def-item><term>qRT‐PCR</term><def><p>quantitative real‐time polymerase chain reaction</p></def></def-item><def-item><term>TNM</term><def><p>tumor node metastasis</p></def></def-item></def-list><p>Hepatocellular carcinoma (HCC) is the third leading cause of cancer‐related mortality worldwide <xref rid="feb412479-bib-0001" ref-type="ref">1</xref>. The poor prognosis of HCC is due to lack of effective treatment methods and high rates of metastasis and recurrence after radical resection <xref rid="feb412479-bib-0002" ref-type="ref">2</xref>. Moreover, the molecular mechanisms underlying HCC metastasis are poorly characterized. Thus, elucidating the mechanisms that promote HCC metastasis is critical for developing newer therapeutic avenues and improving prognosis.</p><p>Interferon‐induced transmembrane protein 3 (IFITM3), also known as 1–8 U, is a member of the interferon‐inducible transmembrane protein family <xref rid="feb412479-bib-0003" ref-type="ref">3</xref>. IFITM3 is transcribed in most tissues and is implicated in many cellular processes such as cell adhesion, immune cell regulation, germ cell development and maturation, and bone mineralization <xref rid="feb412479-bib-0004" ref-type="ref">4</xref>, <xref rid="feb412479-bib-0005" ref-type="ref">5</xref>, <xref rid="feb412479-bib-0006" ref-type="ref">6</xref>, <xref rid="feb412479-bib-0007" ref-type="ref">7</xref>, <xref rid="feb412479-bib-0008" ref-type="ref">8</xref>. IFITM3 is overexpressed in many tumors such as colon cancer, astrocytoma, human glioma, breast cancer, and esophageal squamous cell carcinoma <xref rid="feb412479-bib-0009" ref-type="ref">9</xref>, <xref rid="feb412479-bib-0010" ref-type="ref">10</xref>, <xref rid="feb412479-bib-0011" ref-type="ref">11</xref>, <xref rid="feb412479-bib-0012" ref-type="ref">12</xref>, <xref rid="feb412479-bib-0013" ref-type="ref">13</xref>. Moreover, knockdown of IFITM3 inhibits growth and metastasis of colon cancer cells <xref rid="feb412479-bib-0014" ref-type="ref">14</xref>. IFITM3 knockdown decreases glioma cell proliferation, migration, and invasiveness <xref rid="feb412479-bib-0011" ref-type="ref">11</xref>. Moreover, knockdown of IFITM3 expression suppresses breast cancer and gastric cancer cell growth <xref rid="feb412479-bib-0015" ref-type="ref">15</xref>. These data indicate that IFITM3 promotes tumor progression.</p><p>Matrix metalloproteinases (MMPs) are zinc‐dependent endopeptidases that play key roles in the progression and dissemination of cancer <xref rid="feb412479-bib-0016" ref-type="ref">16</xref>, <xref rid="feb412479-bib-0017" ref-type="ref">17</xref>, <xref rid="feb412479-bib-0018" ref-type="ref">18</xref>. As a member of MMPs, MMP9 could not only destroy type IV collagen, which leads to the degradation of the extracellular matrix proteins, but also contribute to the formation of metastatic lesion sites in remote organs <xref rid="feb412479-bib-0019" ref-type="ref">19</xref>, <xref rid="feb412479-bib-0020" ref-type="ref">20</xref>. The reports have shown that MMP9 is overexpressed in HCC and is critical for HCC metastasis and poor prognosis <xref rid="feb412479-bib-0021" ref-type="ref">21</xref>, <xref rid="feb412479-bib-0022" ref-type="ref">22</xref>, <xref rid="feb412479-bib-0023" ref-type="ref">23</xref>. A recent study found that the knockdown of Barx1 can promote MMP9 expression and indicates poor prognosis in HCC <xref rid="feb412479-bib-0024" ref-type="ref">24</xref>. However, the expression and regulatory mechanisms of MMP9 in HCC are not yet clear. Because HCC is a tumor with strong metastasis abilities, we speculated that IFITM3 could affect HCC metastasis through the regulation of MMP9 expression.</p><p>In this study, we first demonstrated that IFITM3 is overexpressed in HCC tissues compared with nontumor tissues and that the high expression of IFITM3 is associated with poor survival and metastasis in HCC patients. Moreover, we also provided the first evidence that IFITM3 promotes invasion and metastasis of HCC <italic toggle="yes">in vitro</italic> and <italic toggle="yes">in vivo</italic> by upregulating MMP9 expression. Further investigations indicated that IFITM3 regulated MMP9 through the p38/MAPK signaling pathway.</p><sec id="feb412479-sec-0002"><title>Materials and methods</title><sec id="feb412479-sec-0003"><title>Human tissue specimens</title><p>The study was conducted according to the protocol approved by the Ethics Committee of the Second Affiliated Hospital of Nanchang University. We collected tumor and adjacent tissue specimens from 128 patients that underwent HCC resection at the Second Affiliated Hospital of Nanchang University between January 2011 and December 2016. Informed consent was obtained from all patients.</p></sec><sec id="feb412479-sec-0004"><title>Plasmids, shRNA, and reagents</title><p>Based on the IFITM3 and MMP9 sequences, four short hairpin RNAs (shRNAs) were designed using the siRNA Target Finder (InvivoGen, Hong Kong, China). The target sites of shRNA are detailed in Table <xref rid="feb412479-sup-0002" ref-type="supplementary-material">S1</xref>. The shRNA sequences were cloned to pSIREN‐RetroQ‐TetH vector. The interference effects were confirmed by real‐time quantitative polymerase chain reaction (qRT‐PCR) and western blotting (Fig. <xref rid="feb412479-sup-0001" ref-type="supplementary-material">S1</xref>).</p><p>The shIFITM3 and shMMP9 vectors that produced the most significant knockdown effect were used to transduce HCC cells. In the stable transfection, the shIFITM3 of HCC cells was selected based on resistance to hygromycin (600 μg·mL<sup>−1</sup>, Invitrogen, Carlsbad, CA, USA), and HCC cells transfected with a negative control vector (shNC) were included as a control. The pcDNA3.1(+)‐IFITM3‐expressing HCC cells were selected using G418 (700 μg·mL<sup>−1</sup>, Invitrogen), and an empty vector was used as the negative control. After 4 weeks of selection, individual colonies were isolated and expanded.</p><p>pcDNA3.1(+)‐IFITM3 and pcDNA3.1(+)‐MMP9 were constructed in our laboratory as previously described <xref rid="feb412479-bib-0025" ref-type="ref">25</xref>. All the primers are shown in Table <xref rid="feb412479-sup-0002" ref-type="supplementary-material">S1</xref>. The following antibodies and reagents were used: IFITM3, MMP9, ELK1,Stat1,p38, p‐p38 (phosphor T180 + Y182), tubulin antibody (Abcam, Cambridge, MA, USA); Lipofectamine<sup>®</sup> 3000 (Invitrogen); Total Protein Extraction Kit (Applygen, Beijing, China); BCA Protein Quantitation Kit (Beyotime, Jiangsu, China); TNF‐α (Invitrogen); and SB203580 (Sigma Chemical Co., St. Louis, MO, USA).</p></sec><sec id="feb412479-sec-0005"><title>HCC cell lines and culture conditions</title><p>The human HCC cell lines, Hep3B, SMCC7721, Huh‐7, HCCLM3, and MHCC97H, were purchased from the Shanghai Institute of Cell Biology, China. They were cultured in DMEM (Thermo Fisher Scientific, Shanghai, China) supplemented with 10% FBS (Thermo Fisher Scientific) and 1% penicillin–streptomycin at 37 °C and 5% CO2.</p></sec><sec id="feb412479-sec-0006"><title>Real‐time quantitative PCR (qRT‐PCR), western blotting, wound‐healing assays, and H&amp;E staining</title><p>Total RNA was isolated from cell strains and frozen tissue samples using Total RNA Kit II (OMEGA, Norcross, GA, USA) according to the manufacturer's instructions and treated with DNase to remove any possible residual genomic DNA. The purity of RNA was measured by UV spectrophotometer (NanoDrop 2000), and the OD 260/280 value ranging from 1.80 to 2.00 was available for reverse transcription. Reverse transcription was performed with 2 μg total RNA treated with PrimeScript™ RT reagent Kit (RR047A, TaKaRa Biotechnology, Dalian, China), according to the instructions. The qRT‐PCR was performed following the instruction of SYBR<sup>®</sup> Premix Ex Taq™ II Kit (RR820A, TaKaRa Biotechnology). GADPH was used as internal control. The primers used for qRT‐PCR are shown in Table <xref rid="feb412479-sup-0002" ref-type="supplementary-material">S1</xref>.</p><p>Cell strains and frozen tissue samples were extracted by Total Protein Extraction Kit, and then dissolved in 2× loading buffer diluting by 3% SDS and heated at 95 °C for 10 min. The total protein concentration with BCA method was measured. It was made sure that equal amount of total protein was added to each hole. After electrophoresis, proteins were transferred onto polyvinylidene difluoride membranes for 90 min at 260 mA. The membrane was blocked with 5% skimmed milk in Tris‐buffered saline containing 0.1% Tween‐20 (TBST) for 2 h at room temperature. For immunoblotting, the membrane was incubated overnight at 4 °C with antibody in blocking solution, according to the manufacturer's instructions. After washing 3 times with TBST to remove unbound antibody, the membrane was then incubated for 90 min with goat anti‐rabbit IgG conjugated with horseradish peroxidase diluted 1/10 000 in the blocking solution described above. The membrane was washed and then drained to remove excess liquid. Detection of the protein of interest was obtained by chemiluminescence detection using the ECL kit (CWBIO, Beijing, China). To control the background emission and the possible nonspecific bands, a parallel membrane was incubated with the secondary antibody only. Exposured and processed in the darkroom.</p><p>Moreover, we performed wound‐healing assays and H&amp;E staining of tissue sections as described previously <xref rid="feb412479-bib-0025" ref-type="ref">25</xref>, <xref rid="feb412479-bib-0026" ref-type="ref">26</xref>, <xref rid="feb412479-bib-0027" ref-type="ref">27</xref>. The primers used for qRT‐PCR are shown in Table <xref rid="feb412479-sup-0002" ref-type="supplementary-material">S1</xref>.</p></sec><sec id="feb412479-sec-0007"><title>Immunohistochemical staining (IHC)</title><p>The HCC patient tissue sections were incubated with xylene and graded concentrations of ethanol (30–100%). Then, we performed antigen retrieval in 0.01 <sc>m</sc> citrate buffer and quenched the peroxidase activity by treatment with 3% hydrogen peroxide. After treating the tissue sections with goat serum for 30 min, the slides were incubated overnight with anti‐IFITM3 antibody (1 : 100, Abcam) at 4 °C. Immunostaining was performed by the two‐step immunohistochemical method (PV‐9000; ZSGB‐BIO Co., Ltd., Beijing, China). Three pathologists that were blinded to the clinical parameters scored the staining intensity and percentage of positive cells in each patient tissue section. The following scoring system was used for IFITM3 staining intensity: 0 (negative), 1 (weak staining), and 2 (strong staining). Therefore, each sample was scored in regard to percent positive staining cells as follows: 0 (0%), 1 (1–25%), 2 (26–50%), 3 (51–75%), and 4 (76–100%). Both staining intensity scores and the positive staining scores were multiplied to obtain the final score, which was between 0 and 8. Scores below 4 correlated with low IFITM3 expression, whereas scores between 4 and 8 were considered high.</p></sec><sec id="feb412479-sec-0008"><title>Transwell migration and invasion assays</title><p>Migration assays were performed in a 24‐well Transwell chamber with 8.0‐mm pore polycarbonate membranes (Corning, NY, USA). For cell invasion assay, the same membranes in the upper chamber were precoated with 100 μL of 1 mg·mL<sup>−1</sup> Matrigel solution (BD Biosciences, San Jose, CA, USA) at 37 °C for 30 min in an incubator. For both migration and invasion assays, 5 × 10<sup>4</sup> cells in serum‐free medium were placed in the upper Transwell chamber. After 24 h, the cells on the upper surface of the membrane were removed, and the cells on the lower surface were fixed and stained with 0.1% crystal violet. The cells in three random microscopic fields were counted and imaged in a light microscope with a DP70 CCD system (Olympus Corporation, Shanghai, China).</p></sec><sec id="feb412479-sec-0009"><title>Orthotopic liver implantation in nude mice</title><p>The animal protocol was approved by the Ethics Committee for Animal Experiments of the Second Affiliated Hospital of Nanchang University and was performed according to the guidelines by the U.K. Animals (Scientific Procedures) Act, 1986, and EU Directive 2010/63/EU. For <italic toggle="yes">in vivo</italic> metastasis assays, 1 × 10<sup>7</sup> cells in 100 μL PBS were injected subcutaneously into the flanks of 6‐ to 8‐week‐old male BALB/c‐nu/nu mice (SLAC Laboratory Animal Co., Ltd., Shanghai, China). Once the subcutaneous tumors reached 1–2 cm in diameter, they were removed and cut into 1‐mm<sup>3</sup> pieces and implanted into the livers of nude mice (eight mice in each group). The mice were sacrificed 6 weeks after tumor implantation. The livers and lungs were harvested from the mice, fixed in 4% paraformaldehyde, and embedded in paraffin.</p></sec><sec id="feb412479-sec-0010"><title>Statistical analysis</title><p>All statistical analysis was performed with the <sc>spss</sc> 17.0 software (SPSS, Inc., Chicago, IL, USA). The results were presented as the mean ± SD of three independent experiments. The differences between the groups were analyzed by Student's <italic toggle="yes">t</italic>‐test for two groups and by one‐way ANOVA for more than two groups. Pearson's chi‐square test was used to analyze the correlation between IFITM3 expression and clinicopathological variables. Furthermore, Kaplan–Meier analysis was performed to estimate OS and disease‐free survival (DFS). Multivariate analysis was performed with the Cox regression model to test the factors that were significant in the univariate analysis. <italic toggle="yes">P</italic> value &lt; 0.05 was considered statistically significant.</p></sec></sec><sec id="feb412479-sec-0011"><title>Results</title><sec id="feb412479-sec-0012"><title>IFITM3 expression was upregulated in HCC tissues</title><p>We examined IFITM3 expression in 128 HCC and the corresponding adjacent tissues by qRT‐PCR, IHC, and western blotting. IFITM3 mRNA levels were higher in HCC tumor tissues than corresponding adjacent normal tissues (Fig. <xref rid="feb412479-fig-0001" ref-type="fig">1</xref>A). Immunohistochemical analysis demonstrated high expression of IFITM3 protein in 64.1% (82 of 128) of HCC tissue samples and 22.7% (29 of 128) of the adjacent normal tissues (Fig. <xref rid="feb412479-fig-0001" ref-type="fig">1</xref>B). We further found that there are four subcellular distribution patterns of IFITM3: (a) both nucleus‐ and cytoplasm‐positive (N+C+; 16.4%, 21/128); (b) only nucleus‐positive (N+; 21.9%, 28/128); (c) only cytoplasm‐positive (C+; 36.7%, 47/128); and (d) both negative (‐; 25%, 32/128).</p><fig fig-type="Figure" xml:lang="en" id="feb412479-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>IFITM3 overexpression correlates with reduced survival in HCC patients. (A) Relative expression of IFITM3 mRNA in 128 HCC tumors and adjacent normal tissues as determined by qRT‐PCR. (***<italic toggle="yes">P</italic> &lt; 0.001, paired Student's <italic toggle="yes">t</italic>‐test). (B) Representative IHC staining of IFITM3 in HCC tissues. Magnification: a and b, 100×; c and d, 400×. (C) Representative western blot analysis of IFITM3 protein expression (T: tumor, NT: nontumor tissues). (D) Quantification of IFITM3 protein expression using western blot analyses in 128 paired HCC and their adjacent nontumor tissues. Tubulin protein expression was used as an internal control (***<italic toggle="yes">P</italic> &lt; 0.001, paired Student's <italic toggle="yes">t</italic>‐test). (E) Scatter plots show a positively correlation between IFITM3 mRNA and protein expression levels from the same patient (cancer tissues, left, <italic toggle="yes">r</italic> = 0.8978, <italic toggle="yes">P</italic> &lt; 0.001; adjacent noncancer tissues, right, <italic toggle="yes">r</italic> = 0.907, <italic toggle="yes">P</italic> &lt; 0.001). (F) Kaplan–Meier survival curves showing analysis of overall survival and disease‐free survival of high‐ and low‐IFITM3‐expressing HCC patients (both <italic toggle="yes">P</italic> &lt; 0.001, log‐rank test). (G) Chi‐square analysis was used to detect the correlation between subcellular distribution patterns of IFITM3 and the clinicopathological features of 128 HCC patients (*<italic toggle="yes">P</italic> &lt; 0.05, ***<italic toggle="yes">P</italic> &lt; 0.001). (H) Kaplan–Meier survival analysis of 128 HCC patients with different expression patterns of IFITM3. (<italic toggle="yes">P</italic> &lt; 0.001, log‐rank test).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-3" position="float" orientation="portrait" xlink:href="FEB4-8-1299-g001.jpg"/></fig><p>Western blot analysis also confirmed that IFITM3 protein levels were higher in the HCC tissues than the adjacent normal tissues (<italic toggle="yes">P</italic> &lt; 0.001, Fig. <xref rid="feb412479-fig-0001" ref-type="fig">1</xref>C–D). Moreover, the scatter plots showed that IFITM3 mRNA and protein expression levels were positively correlated in cancer and adjacent noncancer tissues from the same patient (<italic toggle="yes">r</italic> = 0.8978, <italic toggle="yes">P</italic> &lt; 0.001 and <italic toggle="yes">r</italic> = 0.907, <italic toggle="yes">P</italic> &lt; 0.001, Fig. <xref rid="feb412479-fig-0001" ref-type="fig">1</xref>E). These results showed that IFITM3 was overexpressed in HCC tissues.</p></sec><sec id="feb412479-sec-0013"><title>IFITM3 overexpression is closely related to HCC progression</title><p>Next, we analyzed the association between IFITM3 expression and clinicopathological parameters in HCC patients. IFITM3 overexpression correlated with tumor microsatellite formation, tumor encapsulation, venous invasion, and tumor node metastasis (TNM) stage (<italic toggle="yes">P</italic> &lt; 0.05; Table <xref rid="feb412479-tbl-0001" ref-type="table">1</xref>). This suggested that IFITM3 overexpression promoted HCC invasion and metastasis. We divided the 128 patients into two groups based on IFITM3 expression. Thus, the low expression group had 46 patients and the high expression group had 82 patients. We observed that HCC patients with high IFITM3 expression showed shorter median survival time than HCC patients with low IFITM3 expression (<italic toggle="yes">P</italic> &lt; 0.001; Fig. <xref rid="feb412479-fig-0001" ref-type="fig">1</xref>F). Moreover, univariate and multivariate analyses using the Cox regression model showed that IFITM3 levels, tumor size, tumor microsatellite formation, tumor encapsulation, and venous invasion were independent prognostic factors that predicted HCC survival (<italic toggle="yes">P</italic> &lt; 0.05; Tables <xref rid="feb412479-tbl-0002" ref-type="table">2</xref> and <xref rid="feb412479-tbl-0003" ref-type="table">3</xref>).</p><table-wrap id="feb412479-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Correlation between the expression of IFITM3 in 128 HCC tissues and their clinicopathological characteristics</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="top" colspan="1">Characteristics</th><th align="center" rowspan="2" valign="top" colspan="1">No. of cases</th><th align="center" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">IFITM3 expression</th><th align="center" rowspan="2" valign="top" colspan="1">χ<sup>2</sup>
+</th><th align="center" rowspan="2" valign="top" colspan="1">
+<italic toggle="yes">P</italic>
+</th></tr><tr style="border-bottom:solid 1px #000000"><th align="center" valign="top" rowspan="1" colspan="1">Low</th><th align="center" valign="top" rowspan="1" colspan="1">High</th></tr></thead><tbody><tr><td align="left" colspan="6" rowspan="1">Age (year)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&gt; 50</td><td align="char" char="." rowspan="1" colspan="1">75</td><td align="char" char="." rowspan="1" colspan="1">28</td><td align="char" char="." rowspan="1" colspan="1">47</td><td align="char" char="." rowspan="1" colspan="1">0.153</td><td align="char" char="." rowspan="1" colspan="1">0.420</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">≤ 50</td><td align="char" char="." rowspan="1" colspan="1">53</td><td align="char" char="." rowspan="1" colspan="1">18</td><td align="char" char="." rowspan="1" colspan="1">35</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" colspan="6" rowspan="1">Gender</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Male</td><td align="char" char="." rowspan="1" colspan="1">97</td><td align="char" char="." rowspan="1" colspan="1">32</td><td align="char" char="." rowspan="1" colspan="1">65</td><td align="char" char="." rowspan="1" colspan="1">1.512</td><td align="char" char="." rowspan="1" colspan="1">0.155</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Female</td><td align="char" char="." rowspan="1" colspan="1">31</td><td align="char" char="." rowspan="1" colspan="1">14</td><td align="char" char="." rowspan="1" colspan="1">17</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" colspan="6" rowspan="1">AFP (ng·mL<sup>−1</sup>)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&gt; 400</td><td align="char" char="." rowspan="1" colspan="1">73</td><td align="char" char="." rowspan="1" colspan="1">27</td><td align="char" char="." rowspan="1" colspan="1">46</td><td align="char" char="." rowspan="1" colspan="1">0.081</td><td align="char" char="." rowspan="1" colspan="1">0.462</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">≤ 400</td><td align="char" char="." rowspan="1" colspan="1">55</td><td align="char" char="." rowspan="1" colspan="1">19</td><td align="char" char="." rowspan="1" colspan="1">36</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" colspan="6" rowspan="1">HBsAg</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Positive</td><td align="char" char="." rowspan="1" colspan="1">93</td><td align="char" char="." rowspan="1" colspan="1">34</td><td align="char" char="." rowspan="1" colspan="1">60</td><td align="char" char="." rowspan="1" colspan="1">0.030</td><td align="char" char="." rowspan="1" colspan="1">0.509</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Negative</td><td align="char" char="." rowspan="1" colspan="1">35</td><td align="char" char="." rowspan="1" colspan="1">12</td><td align="char" char="." rowspan="1" colspan="1">22</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" colspan="6" rowspan="1">Liver cirrhosis</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Presence</td><td align="char" char="." rowspan="1" colspan="1">39</td><td align="char" char="." rowspan="1" colspan="1">12</td><td align="char" char="." rowspan="1" colspan="1">17</td><td align="char" char="." rowspan="1" colspan="1">0.587</td><td align="char" char="." rowspan="1" colspan="1">0.290</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Absence</td><td align="char" char="." rowspan="1" colspan="1">89</td><td align="char" char="." rowspan="1" colspan="1">34</td><td align="char" char="." rowspan="1" colspan="1">67</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" colspan="6" rowspan="1">Liver function</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Child–Pugh class B</td><td align="char" char="." rowspan="1" colspan="1">21</td><td align="char" char="." rowspan="1" colspan="1">6</td><td align="char" char="." rowspan="1" colspan="1">15</td><td align="char" char="." rowspan="1" colspan="1">0.592</td><td align="char" char="." rowspan="1" colspan="1">0.306</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Child–Pugh class A</td><td align="char" char="." rowspan="1" colspan="1">107</td><td align="char" char="." rowspan="1" colspan="1">40</td><td align="char" char="." rowspan="1" colspan="1">67</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" colspan="6" rowspan="1">Tumor size (cm)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&gt; 5</td><td align="char" char="." rowspan="1" colspan="1">65</td><td align="char" char="." rowspan="1" colspan="1">21</td><td align="char" char="." rowspan="1" colspan="1">44</td><td align="char" char="." rowspan="1" colspan="1">0.756</td><td align="char" char="." rowspan="1" colspan="1">0.247</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">≤ 5</td><td align="char" char="." rowspan="1" colspan="1">63</td><td align="char" char="." rowspan="1" colspan="1">25</td><td align="char" char="." rowspan="1" colspan="1">38</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" colspan="6" rowspan="1">Tumor microsatellite formation</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Presence</td><td align="char" char="." rowspan="1" colspan="1">70</td><td align="char" char="." rowspan="1" colspan="1">17</td><td align="char" char="." rowspan="1" colspan="1">53</td><td align="char" char="." rowspan="1" colspan="1">9.110</td><td align="char" char="." rowspan="1" colspan="1">0.002</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Absence</td><td align="char" char="." rowspan="1" colspan="1">58</td><td align="char" char="." rowspan="1" colspan="1">29</td><td align="char" char="." rowspan="1" colspan="1">29</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" colspan="6" rowspan="1">Tumor encapsulation</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Presence</td><td align="char" char="." rowspan="1" colspan="1">62</td><td align="char" char="." rowspan="1" colspan="1">31</td><td align="char" char="." rowspan="1" colspan="1">31</td><td align="char" char="." rowspan="1" colspan="1">10.328</td><td align="char" char="." rowspan="1" colspan="1">0.001</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Absence</td><td align="char" char="." rowspan="1" colspan="1">66</td><td align="char" char="." rowspan="1" colspan="1">15</td><td align="char" char="." rowspan="1" colspan="1">51</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" colspan="6" rowspan="1">Venous invasion</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Presence</td><td align="char" char="." rowspan="1" colspan="1">73</td><td align="char" char="." rowspan="1" colspan="1">15</td><td align="char" char="." rowspan="1" colspan="1">58</td><td align="char" char="." rowspan="1" colspan="1">17.477</td><td align="char" char="." rowspan="1" colspan="1">&lt; 0.001</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Absence</td><td align="char" char="." rowspan="1" colspan="1">55</td><td align="char" char="." rowspan="1" colspan="1">31</td><td align="char" char="." rowspan="1" colspan="1">24</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" colspan="6" rowspan="1">TNM stage</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">I/II</td><td align="char" char="." rowspan="1" colspan="1">100</td><td align="char" char="." rowspan="1" colspan="1">42</td><td align="char" char="." rowspan="1" colspan="1">58</td><td align="char" char="." rowspan="1" colspan="1">7.298</td><td align="char" char="." rowspan="1" colspan="1">0.005</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">III/IV</td><td align="char" char="." rowspan="1" colspan="1">28</td><td align="char" char="." rowspan="1" colspan="1">4</td><td align="char" char="." rowspan="1" colspan="1">24</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr></tbody></table><table-wrap-foot><fn id="feb412479-note-0002"><p>
+<italic toggle="yes">P</italic> value was generated by comparing all subgroups and analyzed by the chi‐square test. <italic toggle="yes">P</italic> &lt; 0.05 was considered as statistically significant.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder></permissions></table-wrap><table-wrap id="feb412479-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Univariate survival analysis of OS and DFS in 128 patients with HCC</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="top" colspan="1">Characteristics</th><th align="left" colspan="3" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">OS</th><th align="left" colspan="3" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">DFS</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">HR</th><th align="left" valign="top" rowspan="1" colspan="1">95% CI</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">P</italic>
+</th><th align="left" valign="top" rowspan="1" colspan="1">HR</th><th align="left" valign="top" rowspan="1" colspan="1">95% CI</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">P</italic>
+</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Age (&gt; 50 vs ≤ 50 years)</td><td align="char" char="." rowspan="1" colspan="1">1.077</td><td align="char" char="." rowspan="1" colspan="1">0.697–1.666</td><td align="char" char="." rowspan="1" colspan="1">0.738</td><td align="char" char="." rowspan="1" colspan="1">0.998</td><td align="char" char="." rowspan="1" colspan="1">0.666–1.494</td><td align="char" char="." rowspan="1" colspan="1">0.991</td></tr><tr><td align="left" rowspan="1" colspan="1">Gender (male vs female)</td><td align="char" char="." rowspan="1" colspan="1">1.529</td><td align="char" char="." rowspan="1" colspan="1">0.886–2.640</td><td align="char" char="." rowspan="1" colspan="1">0.127</td><td align="char" char="." rowspan="1" colspan="1">1.443</td><td align="char" char="." rowspan="1" colspan="1">0.881–2.363</td><td align="char" char="." rowspan="1" colspan="1">0.145</td></tr><tr><td align="char" char=" " rowspan="1" colspan="1">AFP (&gt; 400 vs ≤ 400 ng·mL<sup>−1</sup>)</td><td align="char" char="." rowspan="1" colspan="1">1.048</td><td align="char" char="." rowspan="1" colspan="1">0.678–1.621</td><td align="char" char="." rowspan="1" colspan="1">0.833</td><td align="char" char="." rowspan="1" colspan="1">0.961</td><td align="char" char="." rowspan="1" colspan="1">0.642–1.438</td><td align="char" char="." rowspan="1" colspan="1">0.846</td></tr><tr><td align="left" rowspan="1" colspan="1">HBsAg (positive vs negative)</td><td align="char" char="." rowspan="1" colspan="1">1.355</td><td align="char" char="." rowspan="1" colspan="1">0.827–2.222</td><td align="char" char="." rowspan="1" colspan="1">0.228</td><td align="char" char="." rowspan="1" colspan="1">1.104</td><td align="char" char="." rowspan="1" colspan="1">0.711–1.715</td><td align="char" char="." rowspan="1" colspan="1">0.659</td></tr><tr><td align="left" rowspan="1" colspan="1">Liver cirrhosis (present vs absent)</td><td align="char" char="." rowspan="1" colspan="1">0.967</td><td align="char" char="." rowspan="1" colspan="1">0.580–1.612</td><td align="char" char="." rowspan="1" colspan="1">0.897</td><td align="char" char="." rowspan="1" colspan="1">1.012</td><td align="char" char="." rowspan="1" colspan="1">0.633–1.616</td><td align="char" char="." rowspan="1" colspan="1">0.962</td></tr><tr><td align="left" rowspan="1" colspan="1">Liver function Child–Pugh class (B vs A)</td><td align="char" char="." rowspan="1" colspan="1">1.011</td><td align="char" char="." rowspan="1" colspan="1">0.569–1.795</td><td align="char" char="." rowspan="1" colspan="1">0.971</td><td align="char" char="." rowspan="1" colspan="1">1.086</td><td align="char" char="." rowspan="1" colspan="1">0.643–1.833</td><td align="char" char="." rowspan="1" colspan="1">0.757</td></tr><tr><td align="left" rowspan="1" colspan="1">Tumor size (&gt; 5 vs ≤ 5 cm)</td><td align="char" char="." rowspan="1" colspan="1">2.084</td><td align="char" char="." rowspan="1" colspan="1">1.333–3.258</td><td align="char" char="." rowspan="1" colspan="1">0.001</td><td align="char" char="." rowspan="1" colspan="1">1.784</td><td align="char" char="." rowspan="1" colspan="1">1.185–2.685</td><td align="char" char="." rowspan="1" colspan="1">0.006</td></tr><tr><td align="left" rowspan="1" colspan="1">Tumor microsatellite formation (present vs absent)</td><td align="char" char="." rowspan="1" colspan="1">1.990</td><td align="char" char="." rowspan="1" colspan="1">1.229–3.222</td><td align="char" char="." rowspan="1" colspan="1">0.005</td><td align="char" char="." rowspan="1" colspan="1">1.792</td><td align="char" char="." rowspan="1" colspan="1">1.160–2.767</td><td align="char" char="." rowspan="1" colspan="1">0.009</td></tr><tr><td align="left" rowspan="1" colspan="1">Tumor encapsulation (present vs absent)</td><td align="char" char="." rowspan="1" colspan="1">0.472</td><td align="char" char="." rowspan="1" colspan="1">0.302–0.738</td><td align="char" char="." rowspan="1" colspan="1">0.001</td><td align="char" char="." rowspan="1" colspan="1">0.531</td><td align="char" char="." rowspan="1" colspan="1">0.354–0.798</td><td align="char" char="." rowspan="1" colspan="1">0.002</td></tr><tr><td align="left" rowspan="1" colspan="1">Venous invasion (present vs absent)</td><td align="char" char="." rowspan="1" colspan="1">2.300</td><td align="char" char="." rowspan="1" colspan="1">1.449–3.649</td><td align="char" char="." rowspan="1" colspan="1">&lt; 0.001</td><td align="char" char="." rowspan="1" colspan="1">2.273</td><td align="char" char="." rowspan="1" colspan="1">1.489–3.468</td><td align="char" char="." rowspan="1" colspan="1">&lt; 0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">TNM stage (III/IV vs I/II)</td><td align="char" char="." rowspan="1" colspan="1">1.667</td><td align="char" char="." rowspan="1" colspan="1">1.023–2.716</td><td align="char" char="." rowspan="1" colspan="1">0.040</td><td align="char" char="." rowspan="1" colspan="1">1.843</td><td align="char" char="." rowspan="1" colspan="1">1.172–2.899</td><td align="char" char="." rowspan="1" colspan="1">0.008</td></tr><tr><td align="left" rowspan="1" colspan="1">IFITM3 (high expression vs low expression)</td><td align="char" char="." rowspan="1" colspan="1">2.874</td><td align="char" char="." rowspan="1" colspan="1">1.734–4.763</td><td align="char" char="." rowspan="1" colspan="1">&lt; 0.001</td><td align="char" char="." rowspan="1" colspan="1">2.811</td><td align="char" char="." rowspan="1" colspan="1">1.784–4.430</td><td align="char" char="." rowspan="1" colspan="1">&lt; 0.001</td></tr></tbody></table><table-wrap-foot><fn id="feb412479-note-0003"><p>
+<italic toggle="yes">P</italic> value was generated by univariate analyses using the Cox regression model. <italic toggle="yes">P</italic> &lt; 0.05 was considered as statistically significant.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder></permissions></table-wrap><table-wrap id="feb412479-tbl-0003" xml:lang="en" orientation="portrait" position="float"><label>Table 3</label><caption><p>Variate survival analysis of OS and DFS in 128 patients with HCC</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="top" colspan="1">Characteristics</th><th align="left" colspan="3" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">OS</th><th align="left" colspan="3" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">DFS</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">HR</th><th align="left" valign="top" rowspan="1" colspan="1">95% CI</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">P</italic>
+</th><th align="left" valign="top" rowspan="1" colspan="1">HR</th><th align="left" valign="top" rowspan="1" colspan="1">95% CI</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">P</italic>
+</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Tumor size (&gt; 5 vs ≤ 5 cm)</td><td align="char" char="." rowspan="1" colspan="1">1.936</td><td align="char" char="." rowspan="1" colspan="1">1.217–3.080</td><td align="char" char="." rowspan="1" colspan="1">0.005</td><td align="char" char="." rowspan="1" colspan="1">1.648</td><td align="char" char="." rowspan="1" colspan="1">1.073–2.532</td><td align="char" char="." rowspan="1" colspan="1">0.023</td></tr><tr><td align="left" rowspan="1" colspan="1">Tumor microsatellite formation (present vs Absent)</td><td align="char" char="." rowspan="1" colspan="1">2.266</td><td align="char" char="." rowspan="1" colspan="1">1.385–3.708</td><td align="char" char="." rowspan="1" colspan="1">0.001</td><td align="char" char="." rowspan="1" colspan="1">2.342</td><td align="char" char="." rowspan="1" colspan="1">1.481–3.703</td><td align="char" char="." rowspan="1" colspan="1">&lt; 0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">Tumor encapsulation (present vs absent)</td><td align="char" char="." rowspan="1" colspan="1">0.595</td><td align="char" char="." rowspan="1" colspan="1">0.368–0.962</td><td align="char" char="." rowspan="1" colspan="1">0.034</td><td align="char" char="." rowspan="1" colspan="1">0.550</td><td align="char" char="." rowspan="1" colspan="1">0.352–0.861</td><td align="char" char="." rowspan="1" colspan="1">0.009</td></tr><tr><td align="left" rowspan="1" colspan="1">Venous invasion (present vs absent)</td><td align="char" char="." rowspan="1" colspan="1">1.814</td><td align="char" char="." rowspan="1" colspan="1">1.087–3.027</td><td align="char" char="." rowspan="1" colspan="1">0.023</td><td align="char" char="." rowspan="1" colspan="1">2.114</td><td align="char" char="." rowspan="1" colspan="1">1.295–3.452</td><td align="char" char="." rowspan="1" colspan="1">0.003</td></tr><tr><td align="left" rowspan="1" colspan="1">IFITM3 (positive vs negative)</td><td align="char" char="." rowspan="1" colspan="1">1.799</td><td align="char" char="." rowspan="1" colspan="1">1.004–3.224</td><td align="char" char="." rowspan="1" colspan="1">0.048</td><td align="char" char="." rowspan="1" colspan="1">1.724</td><td align="char" char="." rowspan="1" colspan="1">1.019–2.917</td><td align="char" char="." rowspan="1" colspan="1">0.042</td></tr></tbody></table><table-wrap-foot><fn id="feb412479-note-0004"><p>
+<italic toggle="yes">P</italic> value was generated by multivariate survival analysis performed for all parameters that were significant in the univariate analyses using the Cox regression model. <italic toggle="yes">P</italic> &lt; 0.05 was considered as statistically significant.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder></permissions></table-wrap><p>Next, chi‐square analysis was used to detect the correlation between subcellular distribution patterns of IFITM3 and the clinicopathological features of 128 HCC patients. The IFITM3 N+C+ and C+ cases were significantly associated with the tumor size, tumor microsatellite formation, and venous invasion (Fig. <xref rid="feb412479-fig-0001" ref-type="fig">1</xref>G). Moreover, the IFITM3 N+C+ and C+ cases showed shorter survival rate in 128 HCC patients (<italic toggle="yes">P</italic> &lt; 0.001; Fig. <xref rid="feb412479-fig-0001" ref-type="fig">1</xref>H). Overall, our data demonstrated that IFITM3 is a potential prognostic biomarker for HCC patient outcomes.</p></sec><sec id="feb412479-sec-0014"><title>Knockdown of IFITM3 represses MMP9 expression and inhibits HCC invasion and metastasis <italic toggle="yes">in vitro and in vivo</italic>
+</title><p>To investigate the relationship between IFITM3 and MMP9 expression in HCC cells, we examined the levels of IFITM3 and MMP9 in a variety of HCC cells by qRT‐PCR and Western blotting. The results indicated that the expression of IFITM3 and MMP9 in HCC cells was higher than that in normal liver cells, and the IFITM3 levels correlated with levels of MMP9 (Fig. <xref rid="feb412479-fig-0002" ref-type="fig">2</xref>A). Then, we stably transfected HCCLM3 and MHCC97H cell lines that highly express IFITM3 protein with IFITM3‐specific short hairpin RNAs, shIFITM3‐c and shIFITM3‐d. The results of qRT‐PCR and western blotting assays showed that the downregulation of IFITM3 could decrease MMP9 expression levels in the HCCLM3 and MHCC97H cells (<italic toggle="yes">P</italic> &lt; 0.01, Fig. <xref rid="feb412479-fig-0002" ref-type="fig">2</xref>B). Moreover, we observed that cell migration was significantly decreased in the shIFITM3‐c and shIFITM3‐d groups (<italic toggle="yes">P</italic> &lt; 0.01, Fig. <xref rid="feb412479-fig-0002" ref-type="fig">2</xref>C–D). In addition, we found that the stable IFITM3 knockdown HCCLM3 and MHCC97H cells invaded through the matrix slower than that in the control group (<italic toggle="yes">P</italic> &lt; 0.01, Fig. <xref rid="feb412479-fig-0002" ref-type="fig">2</xref>E). Moreover, nude mice xenografted with HCCLM3‐shIFITM3‐d cells showed decreased intrahepatic and lung metastasis than controls (Fig. <xref rid="feb412479-fig-0002" ref-type="fig">2</xref>F‐G).</p><fig fig-type="Figure" xml:lang="en" id="feb412479-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Stable knockdown of IFITM3 reduced MMP9 expression and inhibited HCC invasion and metastasis <italic toggle="yes">in vitro</italic> and <italic toggle="yes">in vivo</italic>. (A) qRT‐PCR and western blot analyses of IFITM3 and MMP9 expression in the indicated HCC cell lines. Data were described as means ± SD. (B) qRT‐PCR and western blot analyses were used to detect IFITM3 and MMP9 expression in HCCLM3 and MHCC97H cells stably transfected with shNC, shIFITM3‐c, and shIFITM3‐d (**<italic toggle="yes">P</italic> &lt; 0.01). Data were described as means ± SD. (C) Wound‐healing assay. Wound closure was delayed in stable IFITM3‐knockdown cells compared with the shNC control at both the 24‐ and 36‐h time points. Magnification, 100×. (D) Transwell migration assays of HCCLM3 and MHCC97H cells with IFITM3 expression stably inhibited (**<italic toggle="yes">P</italic> &lt; 0.01). Magnification, 100×. Data were described as means ± SD. (E) Transwell invasion assays of HCCLM3 and MHCC97H cells transfected with shNC, shIFITM3‐c, and shIFITM3‐d. Magnification, 100×. Data were described as means ± SD. (F) Representative images showing H&amp;E‐stained orthotopic primary liver tumors derived from control (shNC) or IFITM3 knockdown (shIFITM3‐d) HCCLM3 cells (left). Magnification: a and b, 100×; c and d, 400×. The summary of the pathologic analysis of the orthotopic primary liver tumors from the two groups of nude mice is shown (right). (G) Representative images showing H&amp;E‐stained lung tissue sections derived from control (shNC) or IFITM3‐knockdown (shIFITM3‐d) HCCLM3 cells (left). Magnification: a and b, 100×; c and d, 400×. The incidence of lung metastases in the two groups of nude mice is shown (right).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-5" position="float" orientation="portrait" xlink:href="FEB4-8-1299-g002.jpg"/></fig><p>To verify the characteristic of this tumor‐promoting effect, we developed stable clones with IFITM3 overexpression from Hep3B and SMCC7721 cells. The results showed that the upregulation of IFITM3 expression significantly increased the MMP9 expression levels (Fig. <xref rid="feb412479-fig-0003" ref-type="fig">3</xref>A). The overexpression of IFITM3 enhanced <italic toggle="yes">in vitro</italic> HCC cell migration and invasion, obviously (Fig. <xref rid="feb412479-fig-0003" ref-type="fig">3</xref>B–D). Similar to the <italic toggle="yes">in vitro</italic> results, IFITM3 overexpression increased intrahepatic and lung metastasis in nude mice compared to control groups (Fig. <xref rid="feb412479-fig-0003" ref-type="fig">3</xref>E–F). In conclusion, the results showed that the stable knockdown of IFITM3 reduces MMP9 expression and inhibits HCC invasion and metastasis.</p><fig fig-type="Figure" xml:lang="en" id="feb412479-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Overexpression of IFITM3 increased MMP9 expression and enhanced HCC invasion and metastasis <italic toggle="yes">in vitro</italic> and <italic toggle="yes">in vivo</italic>. (A) qRT‐PCR and western blot analyses were used to detect IFITM3 and MMP9 expression in Hep3B and SMCC7721 cells stably transfected with pcDNA3.1(+)‐Vector and pcDNA3.1(+)‐IFITM3. Data were described as means ± SD. (B) Wound‐healing assay. Wound closure was delayed in stable IFITM3‐overexpression cells compared with the pcDNA3.1(+)‐Vector control at both the 24‐ and 36‐h time points. Magnification, ×100. (C–D) Transwell assays of Hep3B and SMCC7721 cells with IFITM3 overexpression (**<italic toggle="yes">P</italic> &lt; 0.01). Data were described as means ± SD. (E) Representative images showing H&amp;E‐stained orthotopic primary liver tumors derived from control (pcDNA3.1(+)‐Vector) or IFITM3 overexpression (pcDNA3.1(+)‐IFITM3) SMCC7721 cells (left). Magnification: a and b, 100×; c and d, 400×. The summary of the pathologic analysis of the orthotopic primary liver tumors from the two groups of nude mice is shown (right). (F) Representative images showing H&amp;E‐stained lung tissue sections derived from control (pcDNA3.1(+)‐Vector) or IFITM3 overexpression (pcDNA3.1(+)‐IFITM3) SMCC7721 cells (left). Magnification: a and b, 100×; c and d, 400×. The incidence of lung metastases in the two groups of nude mice is shown (right).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-7" position="float" orientation="portrait" xlink:href="FEB4-8-1299-g003.jpg"/></fig></sec><sec id="feb412479-sec-0015"><title>MMP9 is essential for IFITM3‐mediated HCC migration and invasion</title><p>To further validate that IFITM3 mediated HCC migration and invasion by regulating MMP9, we increased the MMP9 in IFITM3‐low‐expressing HCC cells and then examined the expression levels of the IFITM3 and MMP9 proteins and the cell migration and invasion abilities by western blot and transwell assays. The western blot results showed that the knockdown of IFITM3 decreased MMP9 expression, whereas the upregulation of MMP9 attenuated the loss of MMP9 expression in IFITM3‐knockdown HCCLM3 and MHCC97H cells (Fig. <xref rid="feb412479-fig-0004" ref-type="fig">4</xref>A). We also found that the knockdown of IFITM3 dramatically reduced the migration and invasion abilities of HCCLM3 and MHCC97H, whereas the upregulation of MMP9 rescued the decreased migration and invasion abilities induced by IFITM3 knockdown (Fig. <xref rid="feb412479-fig-0004" ref-type="fig">4</xref>B).</p><fig fig-type="Figure" xml:lang="en" id="feb412479-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>MMP9 is essential for IFITM3‐mediated HCC migration and invasion. (A) The upregulation of MMP9 attenuated the loss of MMP9 expression in HCCLM3‐ and MHCC97H‐shIFITM3‐d cells. (B) Transwell assays showed that the upregulation of MMP9 significantly rescued cell migration and invasion in HCCLM3‐ and MHCC97H‐shIFITM3‐d cells (**<italic toggle="yes">P</italic> &lt; 0.01). Data were described as means ± SD. (C) Protein levels of IFITM3 and MMP9 were detected by western blot analysis. The knockdown of MMP9 expression dramatically inhibited the increase in MMP9 expression in Hep3B‐ and SMCC7721‐IFITM3 cells. (D) Transwell assays showed that MMP9 inhibition reduced IFITM3‐enhanced cell migration and invasion (**<italic toggle="yes">P</italic> &lt; 0.01). Data were described as means ± SD.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-9" position="float" orientation="portrait" xlink:href="FEB4-8-1299-g004.jpg"/></fig><p>Moreover, we decreased the expression of MMP9 in IFITM3‐high‐expressing HCC cells and then examined the IFITM3 and MMP9 protein expression and cell migration and invasion abilities. The western blotting results showed that the overexpression of IFITM3 significantly upregulated MMP9 expression, whereas the downregulation of MMP9 could inhibit the increased MMP9 expression induced by IFITM3 in Hep3B and SMCC7721 cells (Fig. <xref rid="feb412479-fig-0004" ref-type="fig">4</xref>C). In addition, the downregulation of MMP9 significantly reduced the IFITM3‐upregulated cell migration and invasion (Fig. <xref rid="feb412479-fig-0004" ref-type="fig">4</xref>D). Thus, these results confirm that MMP9 is essential for IFITM3‐mediated HCC metastasis.</p></sec><sec id="feb412479-sec-0016"><title>IFITM3 regulates MMP9 expression through the p38/MAPK pathway in HCC cells</title><p>Next, we investigated the molecular mechanism that IFITM3 regulates MMP9 in HCC cells. We hypothesized that IFITM3 regulates MMP9 via the p38/MAPK signaling in HCC cells. First, we measured the changes in phosphorylated p38 (p‐p38) and total p38 expression in IFITM3 knockdown HCCLM3 and MHCC97H cells. The results showed that the knockdown of IFITM3 significantly decreased p‐p38/MAPK levels in HCCLM3 and MHCC97H cells (Fig. <xref rid="feb412479-fig-0005" ref-type="fig">5</xref>A). Second, we also found that the knockdown of IFITM3 decreased other downstream genes in the p38/MAPK pathway, including ELK1 and Stat1 in HCCLM3 and MHCC97H cells. However, the activation of p38/MAPK signaling by treatment with TNF‐α (10 ng·mL<sup>−1</sup>) attenuated the loss of this protein expression in IFITM3‐knockdown HCCLM3 and MHCC97H cells (Fig. <xref rid="feb412479-fig-0005" ref-type="fig">5</xref>B). Further experiments revealed that the activation of p38/MAPK signaling rescued the decreased cell migration and invasion induced by the knockdown of IFITM3 (Fig. <xref rid="feb412479-fig-0005" ref-type="fig">5</xref>C).</p><fig fig-type="Figure" xml:lang="en" id="feb412479-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>IFITM3 regulates MMP9 expression through the p38/MAPK pathway. (A) The protein expression levels of IFITM3, p38, p‐p38, and MMP9 were assessed by western blotting in IFITM3‐silenced HCCLM3 and MHCC97H cells. (B) Western blot analysis showing the levels of IFITM3 silencing and activation of the p38/MAPK pathway (treatment with 10 ng·mL<sup>−1</sup> tumor necrosis factor) and their effects on p‐p38, MMP9, ELK1, and Stat1 in HCCLM3 and MHCC97H cells. (C) Activation of the p38/MAPK pathway rescued cell migration and invasion in HCCLM3‐ and MHCC97H‐shIFITM3‐d cells (**<italic toggle="yes">P</italic> &lt; 0.01). Data were described as means ± SD. (D) Protein expression levels of IFITM3, p38, p‐p38, and MMP9 in Hep3B and SMCC7721 cells transfected with pcDNA3.1(+)‐vector and pcDNA3.1(+)‐IFITM3. (E) Western blot analysis showing the levels of IFITM3 overexpression and p38/MAPK signaling inhibition (SB203580, 20 μ<sc>m</sc>) and their effects on p‐p38, MMP9, ELK1, and Stat1 in Hep3B and SMCC7721 cells. (F) Blockade of the p38/MAPK pathway reduced migration and invasion in Hep3B‐ and SMCC7721‐pcDNA3.1(+)‐IFITM3 cells (**<italic toggle="yes">P</italic> &lt; 0.01). Data were described as means ± SD.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-11" position="float" orientation="portrait" xlink:href="FEB4-8-1299-g005.jpg"/></fig><p>To further verify that IFITM3 regulates MMP9 expression through the p38/MAPK pathway, we investigated the effect of IFITM3 overexpression on the p38/MAPK pathway. The results showed that the upregulation of IFITM3 expression significantly increased p‐p38/MAPK levels (Fig. <xref rid="feb412479-fig-0005" ref-type="fig">5</xref>D). We then detected the expression of MMP9, ELK1, and Stat1 in Hep3B‐ and SMCC7721‐IFITM3 cells treated with the p38/MAPK inhibitor SB203580 (20 μ<sc>m</sc>). The results showed that the overexpression of IFITM3 increased the expression of MMP9, ELK1, and Stat1 proteins. However, blockade of p38/MAPK signaling dramatically inhibited the increase in MMP9, ELK1, and Stat1 expression in Hep3B‐ and SMCC7721‐pcDNA3.1(+)‐IFITM3 cells (Fig. <xref rid="feb412479-fig-0005" ref-type="fig">5</xref>E). Meanwhile, the transwell assay showed that blockade of p38/MAPK signaling dramatically decreased IFITM3‐induced cell migration and invasion (Fig. <xref rid="feb412479-fig-0005" ref-type="fig">5</xref>F). These studies confirmed that IFITM3 regulates MMP9‐induced HCC migration and invasion through the p38/MAPK pathway.</p></sec></sec><sec id="feb412479-sec-0017"><title>Discussion</title><p>Metastasis is the leading cause of treatment failure and poor prognosis in hepatocellular carcinoma (HCC) patients. It is a complex and multistage process whereby tumor cells acquire properties that enables cellular proteolysis, motility, and migration to new tissues, where the tumor cells proliferate and promote neoangiogenesis <xref rid="feb412479-bib-0028" ref-type="ref">28</xref>. Therefore, understanding the mechanisms of HCC metastasis is necessary to develop newer and better therapeutic strategies to improve the survival rate of HCC patients.</p><p>IFITM3 belongs to the IFITM family, which is involved in regulating antiviral signaling, inflammation, and somatogenesis <xref rid="feb412479-bib-0029" ref-type="ref">29</xref>, <xref rid="feb412479-bib-0030" ref-type="ref">30</xref>. IFITM3 is upregulated in various human malignant tumors. IFITM3 is upregulated in colorectal cancer and plays a critical role in regulating tumor cell migration and invasion <xref rid="feb412479-bib-0009" ref-type="ref">9</xref>, <xref rid="feb412479-bib-0014" ref-type="ref">14</xref>. IFITM3 is also highly expressed in invasive breast cancer tissues, and knockdown of IFITM3 reduced tumor cell viability, growth and colony formation, and resulted in G0/G1 cell cycle arrest <xref rid="feb412479-bib-0012" ref-type="ref">12</xref>. IFITM3 was overexpressed in gastric cancer tissues and cell lines <xref rid="feb412479-bib-0015" ref-type="ref">15</xref>. However, the expression and function of IFITM3 in HCC progression are not known.</p><p>In this study, we demonstrated that IFITM3 was overexpressed in HCC tissues. Moreover, IFITM3 protein expression correlated with tumor microsatellite formation, tumor encapsulation, venous invasion, and TNM stage. HCC patients with high IFITM3 expression showed poor clinical outcomes than HCC patients with low IFITM3 expression. Multivariate analysis showed that high IFITM3 expression in HCC tissues was an independent prognosis factor for overall survival (OS) and DFS. Furthermore, we also demonstrated that IFITM3 promoted HCC cell invasion and metastasis both <italic toggle="yes">in vitro</italic> and <italic toggle="yes">in vivo</italic> and investigated the mechanism by which IFITM3 affects invasion and metastasis in HCC cells.</p><p>MMP9 is a type IV collagenase that contributes to the degradation and damage of the extracellular matrix and basement membrane <xref rid="feb412479-bib-0019" ref-type="ref">19</xref>, <xref rid="feb412479-bib-0020" ref-type="ref">20</xref>, <xref rid="feb412479-bib-0027" ref-type="ref">27</xref>. The studies have investigated that MMP9 is overexpressed in HCC and is a main regulator of HCC invasion and metastasis <xref rid="feb412479-bib-0021" ref-type="ref">21</xref>, <xref rid="feb412479-bib-0022" ref-type="ref">22</xref>, <xref rid="feb412479-bib-0023" ref-type="ref">23</xref>. In this study, we identified IFITM3 as a novel regulator of MMP9. Our data indicate that IFITM3 inhibition can downregulate the expression of MMP9 and decrease the invasion and metastasis of HCC. Moreover, the increase in MMP9 rescued the decreased migration and invasion induced by IFITM3 knockdown, whereas MMP9 inhibition significantly decreased the IFITM3‐induced migration and invasiveness. These results indicate that one of the mechanisms by which IFITM3 promotes HCC metastasis involves the upregulation of MMP9.</p><p>The mechanism by which IFITM3 regulates MMP9 was further investigated. Because the study reported that the p38 mitogen‐activated protein kinase (MAPK) signaling pathway played an important role in solid tumor metastasis <xref rid="feb412479-bib-0031" ref-type="ref">31</xref>, <xref rid="feb412479-bib-0032" ref-type="ref">32</xref>. In addition, previous work demonstrated that IFITM2 could activate the p38/MAPK signaling pathway <xref rid="feb412479-bib-0033" ref-type="ref">33</xref>. As IFITM3 is a functional homologue of IFITM2, we speculated that IFITM3 regulated HCC invasion and metastasis via the p38/MAPK pathway. We determined that the knockdown of IFITM3 decreased p‐p38/MAPK levels. This ultimately leads to the downregulation of its target genes, such as ELK1 and Stat1, whereas activation of p38/MAPK signaling could rescue the down expression of MMP9 and other p38/MAPK signaling components induced by knockdown of IFITM3. Furthermore, the transwell assays indicated that the activation of p38/MAPK signaling rescued the decreased cell migration and invasion induced by the IFITM3 knockdown, significantly. Taken together, these studies demonstrated that IFITM3 regulates MMP9‐mediated HCC migration and invasion via the p38/MAPK pathway.</p><p>In summary, we demonstrated that IFITM3 expression is a prognostic indicator of clinical outcomes in HCC patients. We also found that IFITM3 promotes HCC metastasis and invasion by regulating MMP9 expression via the p38/MAPK signaling pathway. The newly identified IFITM3–p38/MAPK–MMP9 axis is a potential target for HCC therapy.</p></sec><sec id="feb412479-sec-0019"><title>Author contributions</title><p>LW and RY designed research; JM, QF, WL, YL, CG, and EL performed experiments; LW and QF collected clinical data; JM and WH analyzed data; LW, RY, and JM wrote the manuscript.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="feb412479-sup-0001" position="float" orientation="portrait"><caption><p>
+<bold>Fig. S1.</bold> The IFITM3 and MMP9 expression levels were decreased after transfection with the corresponding shRNA plasmids.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="FEB4-8-1299-s001.tif" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="feb412479-sup-0002" position="float" orientation="portrait"><caption><p>
+<bold>Table S1.</bold> Primers, plasmid and sh‐RNA target sequences.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="FEB4-8-1299-s002.docx" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="feb412479-sec-0018"><title>Acknowledgments</title><p>We thank Elsevier's English Language Editing service for editing the manuscript. This study was supported by grants from the National Natural Science Foundation of China (no. 81560396), the Project of Jiangxi Provincial Department of Science and Technology (nos. 20171BAB205060 and 20151BAB205101), the Project of Jiangxi Provincial Department of Education (no. GJJ150142), the Project of Second Affiliated Hospital of Nanchang University (no. 2014YNQN12017), and the Nanchang University Postgraduate Innovation Special Fund under Grant (no. cx2016394).</p></ack><ref-list content-type="cited-references" id="feb412479-bibl-0001"><title>References</title><ref id="feb412479-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="feb412479-cit-0001">
+<string-name name-style="western">
+<surname>Torre</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bray</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Siegel</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ferlay</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lortet‐Tieulent</surname>
+<given-names>J</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Jemal</surname>
+<given-names>A</given-names>
+</string-name> (<year>2015</year>) <article-title>Global cancer statistics, 2012</article-title>. <source xml:lang="en">CA Cancer J Clin</source>
+<volume>65</volume>, <fpage>87</fpage>–<lpage>108</lpage>.<pub-id pub-id-type="pmid">25651787</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3322/caac.21262</pub-id></mixed-citation></ref><ref id="feb412479-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="feb412479-cit-0002">
+<string-name name-style="western">
+<surname>Llovet</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Villanueva</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lachenmayer</surname>
+<given-names>A</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Finn</surname>
+<given-names>RS</given-names>
+</string-name> (<year>2015</year>) <article-title>Advances in targeted therapies for hepatocellular carcinoma in the genomic era</article-title>. <source xml:lang="en">Nat Rev Clin Oncol</source>
+<volume>12</volume>, <fpage>436</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nrclinonc.2015.121</pub-id><pub-id pub-id-type="pmid">26099984</pub-id></mixed-citation></ref><ref id="feb412479-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="feb412479-cit-0003">
+<string-name name-style="western">
+<surname>Bailey</surname>
+<given-names>CC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kondur</surname>
+<given-names>HR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huang</surname>
+<given-names>IC</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Farzan</surname>
+<given-names>M</given-names>
+</string-name> (<year>2013</year>) <article-title>Interferon‐induced transmembrane protein 3 is a type II transmembrane protein</article-title>. <source xml:lang="en">J Biol Chem</source>
+<volume>288</volume>, <fpage>32184</fpage>–<lpage>32193</lpage>.<pub-id pub-id-type="pmid">24067232</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1074/jbc.M113.514356</pub-id><pub-id pub-id-type="pmcid">PMC3820858</pub-id></mixed-citation></ref><ref id="feb412479-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="feb412479-cit-0004">
+<string-name name-style="western">
+<surname>Tanaka</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yamaguchi</surname>
+<given-names>YL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tsoi</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lickert</surname>
+<given-names>H</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Tam</surname>
+<given-names>PP</given-names>
+</string-name> (<year>2005</year>) <article-title>IFITM/Mil/fragilis family proteins IFITM1 and IFITM3 play distinct roles in mouse primordial germ cell homing and repulsion</article-title>. <source xml:lang="en">Dev Cell</source>
+<volume>9</volume>, <fpage>745</fpage>–<lpage>756</lpage>.<pub-id pub-id-type="pmid">16326387</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.devcel.2005.10.010</pub-id></mixed-citation></ref><ref id="feb412479-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="feb412479-cit-0005">
+<string-name name-style="western">
+<surname>Smith</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Young</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Weis</surname>
+<given-names>JJ</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Weis</surname>
+<given-names>JH</given-names>
+</string-name> (<year>2006</year>) <article-title>Expression of the mouse fragilis gene products in immune cells and association with receptor signaling complexes</article-title>. <source xml:lang="en">Genes Immun</source>
+<volume>7</volume>, <fpage>113</fpage>–<lpage>121</lpage>.<pub-id pub-id-type="pmid">16395393</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/sj.gene.6364278</pub-id></mixed-citation></ref><ref id="feb412479-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="feb412479-cit-0006">
+<string-name name-style="western">
+<surname>Saitou</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barton</surname>
+<given-names>SC</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Surani</surname>
+<given-names>MA</given-names>
+</string-name> (<year>2002</year>) <article-title>A molecular programme for the specification of germ cell fate in mice</article-title>. <source xml:lang="en">Nature</source>
+<volume>418</volume>, <fpage>293</fpage>–<lpage>300</lpage>.<pub-id pub-id-type="pmid">12124616</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nature00927</pub-id></mixed-citation></ref><ref id="feb412479-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="feb412479-cit-0007">
+<string-name name-style="western">
+<surname>Tanaka</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nagamatsu</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tokitake</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kasa</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tam</surname>
+<given-names>PP</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Matsui</surname>
+<given-names>Y</given-names>
+</string-name> (<year>2004</year>) <article-title>Regulation of expression of mouse interferon‐induced transmembrane protein like gene‐3, Ifitm3 (mil‐1, fragilis), in germ cells</article-title>. <source xml:lang="en">Dev Dyn</source>
+<volume>230</volume>, <fpage>651</fpage>–<lpage>659</lpage>.<pub-id pub-id-type="pmid">15254899</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/dvdy.20085</pub-id></mixed-citation></ref><ref id="feb412479-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="feb412479-cit-0008">
+<string-name name-style="western">
+<surname>Yount</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Moltedo</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>
+<given-names>YY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Charron</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Moran</surname>
+<given-names>TM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lopez</surname>
+<given-names>CB</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Hang</surname>
+<given-names>HC</given-names>
+</string-name> (<year>2010</year>) <article-title>Palmitoylome profiling reveals S‐palmitoylation‐dependent antiviral activity of IFITM3</article-title>. <source xml:lang="en">Nat Chem Biol</source>
+<volume>6</volume>, <fpage>610</fpage>–<lpage>614</lpage>.<pub-id pub-id-type="pmid">20601941</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nchembio.405</pub-id><pub-id pub-id-type="pmcid">PMC2928251</pub-id></mixed-citation></ref><ref id="feb412479-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="feb412479-cit-0009">
+<string-name name-style="western">
+<surname>Cui</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zai</surname>
+<given-names>S</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Feng</surname>
+<given-names>Y</given-names>
+</string-name> (<year>2015</year>) <article-title>Expression of IFITM3 in colorectal carcinoma and its clinical significance</article-title>. <source xml:lang="en">Zhonghua Zhong Liu Za Zhi</source>
+<volume>37</volume>, <fpage>352</fpage>–<lpage>355</lpage>.<pub-id pub-id-type="pmid">26463025</pub-id></mixed-citation></ref><ref id="feb412479-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="feb412479-cit-0010">
+<string-name name-style="western">
+<surname>Seyfried</surname>
+<given-names>NT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huysentruyt</surname>
+<given-names>LC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Atwood</surname>
+<given-names>JA</given-names>
+<suffix>3rd</suffix>
+</string-name>, <string-name name-style="western">
+<surname>Xia</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Seyfried</surname>
+<given-names>TN</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Orlando</surname>
+<given-names>R</given-names>
+</string-name> (<year>2008</year>) <article-title>Up‐regulation of NG2 proteoglycan and interferon‐induced transmembrane proteins 1 and 3 in mouse astrocytoma: a membrane proteomics approach</article-title>. <source xml:lang="en">Cancer Lett</source>
+<volume>263</volume>, <fpage>243</fpage>–<lpage>252</lpage>.<pub-id pub-id-type="pmid">18281150</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.canlet.2008.01.007</pub-id><pub-id pub-id-type="pmcid">PMC2726046</pub-id></mixed-citation></ref><ref id="feb412479-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="feb412479-cit-0011">
+<string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zong</surname>
+<given-names>G</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Li</surname>
+<given-names>P</given-names>
+</string-name> (<year>2013</year>) <article-title>The role of IFITM3 in the growth and migration of human glioma cells</article-title>. <source xml:lang="en">BMC Neurol</source>
+<volume>13</volume>, <fpage>210</fpage>.<pub-id pub-id-type="pmid">24370119</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/1471-2377-13-210</pub-id><pub-id pub-id-type="pmcid">PMC3883121</pub-id></mixed-citation></ref><ref id="feb412479-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="feb412479-cit-0012">
+<string-name name-style="western">
+<surname>Yang</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gao</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jia</surname>
+<given-names>J</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>S</given-names>
+</string-name> (<year>2013</year>) <article-title>Knockdown of interferon‐induced transmembrane protein 3 expression suppresses breast cancer cell growth and colony formation and affects the cell cycle</article-title>. <source xml:lang="en">Oncol Rep</source>
+<volume>30</volume>, <fpage>171</fpage>–<lpage>178</lpage>.<pub-id pub-id-type="pmid">23624618</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3892/or.2013.2428</pub-id></mixed-citation></ref><ref id="feb412479-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="feb412479-cit-0013">
+<string-name name-style="western">
+<surname>Jia</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jiang</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huang</surname>
+<given-names>S</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>Z</given-names>
+</string-name> (<year>2015</year>) <article-title>Overexpression of IFITM3 predicts the high risk of lymphatic metastatic recurrence in pN0 esophageal squamous cell carcinoma after Ivor‐Lewis esophagectomy</article-title>. <source xml:lang="en">PeerJ</source>
+<volume>3</volume>, <fpage>e1355</fpage>.<pub-id pub-id-type="pmid">26539332</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.7717/peerj.1355</pub-id><pub-id pub-id-type="pmcid">PMC4631461</pub-id></mixed-citation></ref><ref id="feb412479-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="feb412479-cit-0014">
+<string-name name-style="western">
+<surname>Li</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Peng</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wei</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wei</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yan</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yan</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Le</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>Q</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2011</year>) <article-title>KLF4‐mediated negative regulation of IFITM3 expression plays a critical role in colon cancer pathogenesis</article-title>. <source xml:lang="en">Clin Cancer Res</source>
+<volume>17</volume>, <fpage>3558</fpage>–<lpage>3568</lpage>.<pub-id pub-id-type="pmid">21531817</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/1078-0432.CCR-10-2729</pub-id><pub-id pub-id-type="pmcid">PMC3107880</pub-id></mixed-citation></ref><ref id="feb412479-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="feb412479-cit-0015">
+<string-name name-style="western">
+<surname>Hu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guo</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fei</surname>
+<given-names>Q</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Sun</surname>
+<given-names>Y</given-names>
+</string-name> (<year>2014</year>) <article-title>Mechanism and biological significance of the overexpression of IFITM3 in gastric cancer</article-title>. <source xml:lang="en">Oncol Rep</source>
+<volume>32</volume>, <fpage>2648</fpage>–<lpage>2656</lpage>.<pub-id pub-id-type="pmid">25270246</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3892/or.2014.3522</pub-id></mixed-citation></ref><ref id="feb412479-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="feb412479-cit-0016">
+<string-name name-style="western">
+<surname>Leeman</surname>
+<given-names>MF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Curran</surname>
+<given-names>S</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Murray</surname>
+<given-names>GI</given-names>
+</string-name> (<year>2003</year>) <article-title>New insights into the roles of matrix metalloproteinases in colorectal cancer development and progression</article-title>. <source xml:lang="en">J Pathol</source>
+<volume>201</volume>, <fpage>528</fpage>–<lpage>534</lpage>.<pub-id pub-id-type="pmid">14648655</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/path.1466</pub-id></mixed-citation></ref><ref id="feb412479-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="feb412479-cit-0017">
+<string-name name-style="western">
+<surname>Yamamoto</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Murphy</surname>
+<given-names>G</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Troeberg</surname>
+<given-names>L</given-names>
+</string-name> (<year>2015</year>) <article-title>Extracellular regulation of metalloproteinases</article-title>. <source xml:lang="en">Matrix Biol</source>
+<volume>44–46</volume>, <fpage>255</fpage>–<lpage>263</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.matbio.2015.02.007</pub-id><pub-id pub-id-type="pmid">25701651</pub-id></mixed-citation></ref><ref id="feb412479-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="feb412479-cit-0018">
+<string-name name-style="western">
+<surname>Deryugina</surname>
+<given-names>EI</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Quigley</surname>
+<given-names>JP</given-names>
+</string-name> (<year>2015</year>) <article-title>Tumor angiogenesis: MMP‐mediated induction of intravasation‐ and metastasis‐sustaining neovasculature</article-title>. <source xml:lang="en">Matrix Biol</source>
+<volume>44–46</volume>, <fpage>94</fpage>–<lpage>112</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.matbio.2015.04.004</pub-id><pub-id pub-id-type="pmcid">PMC5079283</pub-id><pub-id pub-id-type="pmid">25912949</pub-id></mixed-citation></ref><ref id="feb412479-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="feb412479-cit-0019">
+<string-name name-style="western">
+<surname>Kessenbrock</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Plaks</surname>
+<given-names>V</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Werb</surname>
+<given-names>Z</given-names>
+</string-name> (<year>2010</year>) <article-title>Matrix metalloproteinases: regulators of the tumor microenvironment</article-title>. <source xml:lang="en">Cell</source>
+<volume>141</volume>, <fpage>52</fpage>–<lpage>67</lpage>.<pub-id pub-id-type="pmid">20371345</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cell.2010.03.015</pub-id><pub-id pub-id-type="pmcid">PMC2862057</pub-id></mixed-citation></ref><ref id="feb412479-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="feb412479-cit-0020">
+<string-name name-style="western">
+<surname>Zitka</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kukacka</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Krizkova</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huska</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Adam</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Masarik</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Prusa</surname>
+<given-names>R</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Kizek</surname>
+<given-names>R</given-names>
+</string-name> (<year>2010</year>) <article-title>Matrix metalloproteinases</article-title>. <source xml:lang="en">Curr Med Chem</source>
+<volume>17</volume>, <fpage>3751</fpage>–<lpage>3768</lpage>.<pub-id pub-id-type="pmid">20846107</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.2174/092986710793213724</pub-id></mixed-citation></ref><ref id="feb412479-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="feb412479-cit-0021">
+<string-name name-style="western">
+<surname>Roy</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>
+<given-names>J</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Moses</surname>
+<given-names>MA</given-names>
+</string-name> (<year>2009</year>) <article-title>Matrix metalloproteinases as novel biomarkers and potential therapeutic targets in human cancer</article-title>. <source xml:lang="en">J Clin Oncol</source>
+<volume>27</volume>, <fpage>5287</fpage>–<lpage>5297</lpage>.<pub-id pub-id-type="pmid">19738110</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1200/JCO.2009.23.5556</pub-id><pub-id pub-id-type="pmcid">PMC2773480</pub-id></mixed-citation></ref><ref id="feb412479-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="feb412479-cit-0022">
+<string-name name-style="western">
+<surname>Maatta</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Soini</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liakka</surname>
+<given-names>A</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Autio‐Harmainen</surname>
+<given-names>H</given-names>
+</string-name> (<year>2000</year>) <article-title>Differential expression of matrix metalloproteinase (MMP)‐2, MMP‐9, and membrane type 1‐MMP in hepatocellular and pancreatic adenocarcinoma: implications for tumor progression and clinical prognosis</article-title>. <source xml:lang="en">Clin Cancer Res</source>
+<volume>6</volume>, <fpage>2726</fpage>–<lpage>2734</lpage>.<pub-id pub-id-type="pmid">10914717</pub-id></mixed-citation></ref><ref id="feb412479-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="feb412479-cit-0023">
+<string-name name-style="western">
+<surname>Nart</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yaman</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yilmaz</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zeytunlu</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Karasu</surname>
+<given-names>Z</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Kilic</surname>
+<given-names>M</given-names>
+</string-name> (<year>2010</year>) <article-title>Expression of matrix metalloproteinase‐9 in predicting prognosis of hepatocellular carcinoma after liver transplantation</article-title>. <source xml:lang="en">Liver Transpl</source>
+<volume>16</volume>, <fpage>621</fpage>–<lpage>630</lpage>.<pub-id pub-id-type="pmid">20440771</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/lt.22028</pub-id></mixed-citation></ref><ref id="feb412479-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="feb412479-cit-0024">
+<string-name name-style="western">
+<surname>Wang</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cai</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xie</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kong</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huang</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guo</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lu</surname>
+<given-names>Y</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2017</year>) <article-title>Loss of Barx1 promotes hepatocellular carcinoma metastasis through up‐regulating MGAT5 and MMP9 expression and indicates poor prognosis</article-title>. <source xml:lang="en">Oncotarget</source>
+<volume>8</volume>, <fpage>71867</fpage>–<lpage>71880</lpage>.<pub-id pub-id-type="pmid">29069753</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.18632/oncotarget.18288</pub-id><pub-id pub-id-type="pmcid">PMC5641096</pub-id></mixed-citation></ref><ref id="feb412479-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="feb412479-cit-0025">
+<string-name name-style="western">
+<surname>Yuan</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yan</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lei</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guo</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>L</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2014</year>) <article-title>Ubiquitin‐like protein FAT10 promotes the invasion and metastasis of hepatocellular carcinoma by modifying beta‐catenin degradation</article-title>. <source xml:lang="en">Can Res</source>
+<volume>74</volume>, <fpage>5287</fpage>–<lpage>5300</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/0008-5472.CAN-14-0284</pub-id><pub-id pub-id-type="pmid">25056121</pub-id></mixed-citation></ref><ref id="feb412479-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="feb412479-cit-0026">
+<string-name name-style="western">
+<surname>Luo</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yuan</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shen</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Qiu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shao</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yan</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shao</surname>
+<given-names>J</given-names>
+</string-name> (<year>2017</year>) <article-title>TAB 3 upregulates Survivin expression to promote colorectal cancer invasion and metastasis by binding to the TAK1‐TRAF6 complex</article-title>. <source xml:lang="en">Oncotarget</source>
+<volume>8</volume>, <fpage>106565</fpage>–<lpage>106576</lpage>.<pub-id pub-id-type="pmid">29290971</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.18632/oncotarget.22497</pub-id><pub-id pub-id-type="pmcid">PMC5739756</pub-id></mixed-citation></ref><ref id="feb412479-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="feb412479-cit-0027">
+<string-name name-style="western">
+<surname>Huang</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Du</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yuan</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wen</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wen</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hao</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shao</surname>
+<given-names>J</given-names>
+</string-name> (<year>2014</year>) <article-title>Rock2 promotes the invasion and metastasis of hepatocellular carcinoma by modifying MMP2 ubiquitination and degradation</article-title>. <source xml:lang="en">Biochem Biophys Res Comm</source>
+<volume>453</volume>, <fpage>49</fpage>–<lpage>56</lpage>.<pub-id pub-id-type="pmid">25251472</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bbrc.2014.09.061</pub-id></mixed-citation></ref><ref id="feb412479-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="feb412479-cit-0028">
+<string-name name-style="western">
+<surname>Crissien</surname>
+<given-names>AM</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Frenette</surname>
+<given-names>C</given-names>
+</string-name> (<year>2014</year>) <article-title>Current management of hepatocellular carcinoma</article-title>. <source xml:lang="en">Gastroenterol Hepatol (N Y)</source>
+<volume>10</volume>, <fpage>153</fpage>–<lpage>161</lpage>.<pub-id pub-id-type="pmid">24829542</pub-id><pub-id pub-id-type="pmcid">PMC4014047</pub-id></mixed-citation></ref><ref id="feb412479-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="feb412479-cit-0029">
+<string-name name-style="western">
+<surname>Friedman</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Manly</surname>
+<given-names>SP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McMahon</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kerr</surname>
+<given-names>IM</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Stark</surname>
+<given-names>GR</given-names>
+</string-name> (<year>1984</year>) <article-title>Transcriptional and posttranscriptional regulation of interferon‐induced gene expression in human cells</article-title>. <source xml:lang="en">Cell</source>
+<volume>38</volume>, <fpage>745</fpage>–<lpage>755</lpage>.<pub-id pub-id-type="pmid">6548414</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/0092-8674(84)90270-8</pub-id></mixed-citation></ref><ref id="feb412479-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="feb412479-cit-0030">
+<string-name name-style="western">
+<surname>Reid</surname>
+<given-names>LE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brasnett</surname>
+<given-names>AH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gilbert</surname>
+<given-names>CS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Porter</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gewert</surname>
+<given-names>DR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stark</surname>
+<given-names>GR</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Kerr</surname>
+<given-names>IM</given-names>
+</string-name> (<year>1989</year>) <article-title>A single DNA response element can confer inducibility by both alpha‐ and gamma‐interferons</article-title>. <source xml:lang="en">Proc Natl Acad Sci USA</source>
+<volume>86</volume>, <fpage>840</fpage>–<lpage>844</lpage>.<pub-id pub-id-type="pmid">2492664</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.86.3.840</pub-id><pub-id pub-id-type="pmcid">PMC286573</pub-id></mixed-citation></ref><ref id="feb412479-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="feb412479-cit-0031">
+<string-name name-style="western">
+<surname>Alspach</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Flanagan</surname>
+<given-names>KC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Luo</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ruhland</surname>
+<given-names>MK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pazolli</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Donlin</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marsh</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Piwnica‐Worms</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Monahan</surname>
+<given-names>J</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2014</year>) <article-title>p38MAPK plays a crucial role in stromal‐mediated tumorigenesis</article-title>. <source xml:lang="en">Cancer Discov</source>
+<volume>4</volume>, <fpage>716</fpage>–<lpage>729</lpage>.<pub-id pub-id-type="pmid">24670723</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/2159-8290.CD-13-0743</pub-id><pub-id pub-id-type="pmcid">PMC4049323</pub-id></mixed-citation></ref><ref id="feb412479-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="feb412479-cit-0032">
+<string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xiang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xiang</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gong</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yao</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bian</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>JM</given-names>
+</string-name> (<year>2014</year>) <article-title>The role of chemoattractant receptors in shaping the tumor microenvironment</article-title>. <source xml:lang="en">Biomed Res Int</source>
+<volume>2014</volume>, <fpage>1</fpage>–<lpage>33</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1155/2014/751392</pub-id><pub-id pub-id-type="pmcid">PMC4119707</pub-id><pub-id pub-id-type="pmid">25110692</pub-id></mixed-citation></ref><ref id="feb412479-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="feb412479-cit-0033">
+<string-name name-style="western">
+<surname>Rosati</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Basile</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>D'Auria</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>d'Avenia</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>De Marco</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Falco</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Festa</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guerriero</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Iorio</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Parente</surname>
+<given-names>R</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2015</year>) <article-title>BAG3 promotes pancreatic ductal adenocarcinoma growth by activating stromal macrophages</article-title>. <source xml:lang="en">Nat Commun</source>
+<volume>6</volume>, <fpage>8695</fpage>.<pub-id pub-id-type="pmid">26522614</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/ncomms9695</pub-id><pub-id pub-id-type="pmcid">PMC4659838</pub-id></mixed-citation></ref></ref-list></back></article>

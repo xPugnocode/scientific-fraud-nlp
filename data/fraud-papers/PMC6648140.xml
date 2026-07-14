@@ -1,0 +1,861 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article article-type="research-article" xml:lang="EN" dtd-version="1.4"><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Omega</journal-id><journal-id journal-id-type="iso-abbrev">ACS Omega</journal-id><journal-id journal-id-type="pmc-domain-id">3686</journal-id><journal-id journal-id-type="pmc-domain">acsomega</journal-id><journal-id journal-id-type="nlm-id">101691658</journal-id><journal-id journal-id-type="publisher-id">ao</journal-id><journal-title-group><journal-title>ACS Omega</journal-title></journal-title-group><issn pub-type="epub">2470-1343</issn><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC6648140</article-id><article-id pub-id-type="pmcid-ver">PMC6648140.1</article-id><article-id pub-id-type="pmcaid">6648140</article-id><article-id pub-id-type="pmcaiid">6648140</article-id><article-id pub-id-type="pmid">31459841</article-id><article-id pub-id-type="doi">10.1021/acsomega.8b03473</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group><subject>Article</subject></subj-group></article-categories><title-group><article-title>Fabrication of Graphene Nanoplatelet-Incorporated
+Porous Hydroxyapatite Composites: Improved Mechanical and in Vivo
+Imaging Performances for Emerging Biomedical Applications</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><name name-style="western"><surname>Kumar</surname><given-names initials="S">Sunil</given-names></name><xref rid="aff1" ref-type="aff">†</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath2"><name name-style="western"><surname>Gautam</surname><given-names initials="C">Chandkiram</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">†</xref></contrib><contrib contrib-type="author" id="ath3"><name name-style="western"><surname>Mishra</surname><given-names initials="VK">Vijay Kumar</given-names></name><xref rid="aff2" ref-type="aff">‡</xref></contrib><contrib contrib-type="author" id="ath4"><name name-style="western"><surname>Chauhan</surname><given-names initials="BS">Brijesh Singh</given-names></name><xref rid="aff3" ref-type="aff">§</xref></contrib><contrib contrib-type="author" id="ath5"><name name-style="western"><surname>Srikrishna</surname><given-names initials="S">Saripella</given-names></name><xref rid="aff3" ref-type="aff">§</xref></contrib><contrib contrib-type="author" id="ath6"><name name-style="western"><surname>Yadav</surname><given-names initials="RS">Ram Sagar</given-names></name><xref rid="aff3" ref-type="aff">∥</xref></contrib><contrib contrib-type="author" id="ath7"><name name-style="western"><surname>Trivedi</surname><given-names initials="R">Ritu</given-names></name><xref rid="aff2" ref-type="aff">‡</xref></contrib><contrib contrib-type="author" id="ath8"><name name-style="western"><surname>Rai</surname><given-names initials="SB">Shyam Bahadur</given-names></name><xref rid="aff3" ref-type="aff">∥</xref></contrib><aff id="aff1"><label>†</label>Advanced
+Glass and Glass Ceramics Research Laboratory, Department of Physics, <institution>University of Lucknow</institution>, Lucknow 226027, Uttar Pradesh, <country>India</country></aff><aff id="aff2"><label>‡</label>LSS-101
+Laboratory, Endocrinology Division, <institution>CSIR-Central
+Drug Research Institute</institution>, Lucknow 226031, Uttar Pradesh, <country>India</country></aff><aff id="aff3"><sup>§</sup>Cell and Neurobiology Laboratory,
+Department of Biochemistry, and <sup>∥</sup>Department of
+Physics, <institution>Banaras Hindu University</institution>, Varanasi 221005, Uttar Pradesh, <country>India</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>E-mail: <email>gautam_ceramic@yahoo.com</email>. Phone: <phone>+918840389015</phone>.</corresp></author-notes><pub-date pub-type="epub"><day>24</day><month>04</month><year>2019</year></pub-date><pub-date pub-type="collection"><day>30</day><month>04</month><year>2019</year></pub-date><volume>4</volume><issue>4</issue><issue-id pub-id-type="pmc-issue-id">338787</issue-id><fpage>7448</fpage><lpage>7458</lpage><history><date date-type="received"><day>29</day><month>12</month><year>2018</year></date><date date-type="accepted"><day>05</day><month>04</month><year>2019</year></date></history><pub-history><event event-type="pmc-release"><date><day>24</day><month>04</month><year>2019</year></date></event><event event-type="pmc-live"><date><day>27</day><month>08</month><year>2019</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2023-10-12 11:25:19.340"><day>12</day><month>10</month><year>2023</year></date></event></pub-history><permissions><copyright-statement>Copyright © 2019 American Chemical Society</copyright-statement><copyright-year>2019</copyright-year><copyright-holder>American Chemical Society</copyright-holder><license><license-p>This is an open access article published under an ACS AuthorChoice <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/page/policy/authorchoice_termsofuse.html">License</ext-link>, which permits copying and redistribution of the article or any adaptations for non-commercial purposes.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="ao8b03473.pdf"/><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="retraction-forward" xml:lang="en" xlink:title="retraction" journal-id="ACS Omega" journal-id-type="nlm-ta" ext-link-type="pmc" xlink:href="PMC7581312"><article-title>Retraction of “Fabrication of Graphene Nanoplatelet-Incorporated
+Porous Hydroxyapatite Composites: Improved Mechanical and in Vivo
+Imaging Performances for Emerging Biomedical Applications”</article-title><volume>5</volume><issue>41</issue><date><day>12</day><month>10</month><year>2020</year></date><fpage>26956</fpage><lpage>26956</lpage><source>ACS Omega</source><pub-id pub-id-type="doi">10.1021/acsomega.0c04401</pub-id><pub-id pub-id-type="pmcid">PMC7581312</pub-id><pub-id pub-id-type="pmid">33111025</pub-id></related-article><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="ab-tgr1" position="float" orientation="portrait" xlink:href="ao-2018-03473u_0005.jpg"/></p><p>Three-dimensional nanocomposites exhibit unexpected mechanical and biological
+properties that are produced from two-dimensional graphene nanoplatelets
+and oxide materials. In the present study, various composites of microwave-synthesized
+nanohydroxyapatite (nHAp) and graphene nanoparticles (GNPs), (100
+– <italic toggle="yes">x</italic>)HAp–<italic toggle="yes">x</italic>GNPs (<italic toggle="yes">x</italic> = 0, 0.1, 0.2, 0.3, and 0.5 wt %), were successfully synthesized
+using a scalable bottom-up approach, that is, a solid-state reaction
+method. The structural, morphological and mechanical properties were
+studied using various characterization techniques such as X-ray diffraction
+(XRD), scanning electron microscopy (SEM), transmission electron microscopy
+(TEM), and universal testing machine (UTM). XRD studies revealed that
+the prepared composites have high-order crystallinity. Addition of
+GNPs into nHAp significantly improved the mechanical properties. Three-dimensional
+nanocomposite 99.5HAp–0.5GNPs exhibited exceptionally high
+mechanical properties, for example, a fracture toughness of ∼116
+MJ/m<sup>3</sup>, Young’s modulus of ∼98 GPa, and compressive
+strength of 96.04 MPa, which were noticed to be much greater than
+in the pure nHAp. The MTT assay and cell imaging behaviors were carried
+out on the gut tissues of <italic toggle="yes">Drosophila</italic> third instars
+larvae and on primary rat osteoblast cells for the sample 99.5HAp–0.5GNPs
+that have achieved the highest mechanical properties. The treatment
+with lower concentrations of 10 μg/mL on the gut tissues of <italic toggle="yes">Drosophila</italic> and 1 and 5 μg/mL of this composite sample
+showed favorable cell viability. Therefore, owing to the excellent
+porous nature, interconnected surface morphology, and mechanical and
+biological properties, the prepared composite sample 99.5HAp–0.5GNPs
+stood as a promising biomaterial for bone implant applications.</p></abstract><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>ao8b03473</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>ao-2018-03473u</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><label>1</label><title>Introduction</title><p>Nanohydroxyapatite
+(nHAp) is an advanced bioceramic nanocrystalline
+material suitable for designing artificial bone or implants. Bone
+engineering is a clinical procedure that replaces missing bone and
+repairs the bone fracture.<sup><xref ref-type="bibr" rid="ref1">1</xref></sup> The living
+bone has the ability to regenerate the hard and soft tissues but requires
+a porous scaffold for providing mechanical support to it.<sup><xref ref-type="bibr" rid="ref2">2</xref></sup> The biocompatibility, osteoconductivity, high
+porosity, and mechanical strength are the fundamental criteria for
+designing a bone substitute material.<sup><xref ref-type="bibr" rid="ref3">3</xref></sup> Due
+to the limited number of donor autograft, allograft does not fulfill
+the requirement of the implantations; synthetic materials are widely
+being used as a bone substitute material.<sup><xref ref-type="bibr" rid="ref4">4</xref></sup> The synthetic bone material obtained from nHAp and its composite
+possess a chemical and structural composition similar to the natural
+bone.<sup><xref ref-type="bibr" rid="ref5">5</xref></sup> However, nHAp has been widely used
+in bone, drug delivery, sensor, and environmental engineering.<sup><xref ref-type="bibr" rid="ref6">6</xref></sup> Recently, researchers pay much attention to the
+fabrication and designing of nHAp nanocomposites with sufficient mechanical
+properties for biomedical applications. However, the main features
+of bone implantation materials are 3D porous microstructures with
+a high amount of nHAp and low secondary phases as an additive.<sup><xref ref-type="bibr" rid="ref7">7</xref></sup> It is well reported that the porous scaffolds
+must have a mechanical strength as close as possible to that of the
+substituted bone; otherwise, this porous structure is to be destroyed
+during tissue regeneration and load applications.<sup><xref ref-type="bibr" rid="ref8">8</xref></sup> The unadulterated nHAp material cannot fulfill the prerequisites
+of the embedded bone because of its fragile nature and low mechanical
+properties which limit their applications.<sup><xref ref-type="bibr" rid="ref9">9</xref></sup> Therefore, with the aim of improving the mechanical properties,
+the various nHAp composites have been developed to enhance the mechanical
+strength of the pure nHAp, such as HAp–MgO,<sup><xref ref-type="bibr" rid="ref10">10</xref></sup> HAp–SrCO<sub>3</sub>,<sup><xref ref-type="bibr" rid="ref11">11</xref></sup> HAp–La<sub>2</sub>O<sub>3</sub>,<sup><xref ref-type="bibr" rid="ref12">12</xref></sup> HAp–Al<sub>2</sub>O<sub>3</sub>,<sup><xref ref-type="bibr" rid="ref13">13</xref></sup> and HAp–GO.<sup><xref ref-type="bibr" rid="ref14">14</xref></sup> Furthermore, it
+is also reported that the addition of Fe<sub>2</sub>O<sub>3</sub> into
+the nHAp considerably improves the mechanical strength.<sup><xref ref-type="bibr" rid="ref15">15</xref></sup> The TiO<sub>2</sub>-added nHAp nanocomposites
+present improved fracture toughness and mechanical strength than the
+pure HAp.<sup><xref ref-type="bibr" rid="ref16">16</xref>,<xref ref-type="bibr" rid="ref17">17</xref></sup> The 1.0 wt % CNT-added nHAp composite displays
+a 120% enhancement in toughness.<sup><xref ref-type="bibr" rid="ref18">18</xref></sup> However,
+the glass-added nHAp composite remarkably enhanced the density and
+compressive strength of the nHAp that was sintered at 1200 °C.<sup><xref ref-type="bibr" rid="ref19">19</xref></sup> Although, nHAp composites with metals, ceramic
+oxides, and polymers showed not only promising results for enhanced
+mechanical properties but also the reverse effect toward the biological
+properties.<sup><xref ref-type="bibr" rid="ref20">20</xref>,<xref ref-type="bibr" rid="ref21">21</xref></sup> The incorporation of the second
+phase of carbon nonmaterials such as CNT and graphene are thought
+suitable in a ceramic matrix due to excellent mechanical and biological
+properties such as a high Young’s modulus and compressive strength
+along with adequate bioactivity.<sup><xref ref-type="bibr" rid="ref22">22</xref>,<xref ref-type="bibr" rid="ref23">23</xref></sup> The graphene
+has been frequently used in various biological applications such as
+biosensing,<sup><xref ref-type="bibr" rid="ref24">24</xref>,<xref ref-type="bibr" rid="ref25">25</xref></sup> drug delivery,<sup><xref ref-type="bibr" rid="ref26">26</xref></sup> tissue engineering,<sup><xref ref-type="bibr" rid="ref27">27</xref>,<xref ref-type="bibr" rid="ref28">28</xref></sup> and cell modulating
+interfaces and cell scaffolds to control the cell growth.<sup><xref ref-type="bibr" rid="ref29">29</xref></sup> The high surface area and low density of graphene
+act in applications as a mechanical and biological modifier.<sup><xref ref-type="bibr" rid="ref30">30</xref>−<xref ref-type="bibr" rid="ref32">32</xref></sup> The graphene combined with nHAp makes low-density nanocomposites
+that possess high mechanical strength, high surface area, biostability,
+and excellent biocompatibility.<sup><xref ref-type="bibr" rid="ref33">33</xref></sup> The addition
+of graphene into nHAp could be promising for maintaining the nHAp
+bioactivity.<sup><xref ref-type="bibr" rid="ref34">34</xref></sup> The mechanical strength
+and biological properties of nHAp–GNP composites have already
+been widely studied and have been found to be mechanically strong
+compared to pure nHAp.<sup><xref ref-type="bibr" rid="ref35">35</xref>,<xref ref-type="bibr" rid="ref36">36</xref></sup> Various studies have been carried
+out on graphene nanoplatelets added to composites, silicon nitride,<sup><xref ref-type="bibr" rid="ref33">33</xref></sup> and aluminum<sup><xref ref-type="bibr" rid="ref37">37</xref></sup> on
+enhanced mechanical and biological properties. Recently, graphene is added as an effective additive for toughening
+the nHAp composite. The HAp–GNP composite prepared by an additive
+manufacturing technique showed excellent improvement in compressive
+strength.<sup><xref ref-type="bibr" rid="ref38">38</xref></sup> It is all around detailed that
+the graphene-included nHAp composite upgraded a few mechanical and
+natural parameters, for example, the versatile modulus, crack sturdiness,
+and osteoblast cell bond and their expansion.<sup><xref ref-type="bibr" rid="ref39">39</xref>−<xref ref-type="bibr" rid="ref41">41</xref></sup></p><p>The nanocomposites
+with high porosity and interconnectivity of
+porous structure are essential to enhance the restorability and provide
+mechanical support to tissue growth.<sup><xref ref-type="bibr" rid="ref42">42</xref></sup> The
+mechanical property of the composites strictly depend on microstructure,
+porosity, pore size, and formation of secondary phases.<sup><xref ref-type="bibr" rid="ref5">5</xref></sup> The incorporation of graphene into the pure nHAp
+enhanced its mechanical properties significantly and showed a reverse
+effect for their densities.<sup><xref ref-type="bibr" rid="ref43">43</xref></sup> Recently,
+biocompatibility of graphene and its composites were successfully
+evaluated on mouse embryonic fibroblast cells as well as on human
+lung cells.<sup><xref ref-type="bibr" rid="ref44">44</xref>,<xref ref-type="bibr" rid="ref45">45</xref></sup> It is previously reported that
+the addition of GNPs into the nHAp matrix is promising for improving
+the mechanical strength and cell imaging.<sup><xref ref-type="bibr" rid="ref46">46</xref>,<xref ref-type="bibr" rid="ref47">47</xref></sup> The nHAp composites coadded with graphene and gold nanoparticles
+showed more favorable differentiation important in bone regeneration
+and remodeling of the bone tissue.<sup><xref ref-type="bibr" rid="ref48">48</xref>,<xref ref-type="bibr" rid="ref49">49</xref></sup> The imaging
+of intracellular structure is an important matter in the biomedical
+field.<sup><xref ref-type="bibr" rid="ref50">50</xref></sup> The fluorescent nanoparticles
+are more stable in the biological and excellent tissue imaging applications.
+The nHAp is a nontoxic, self-activated fluorescent material and becomes
+an excellent bioimaging material that retains their fluorescing nature
+in a biological environment.<sup><xref ref-type="bibr" rid="ref51">51</xref></sup> Comparatively,
+to develop the better nHAp-based composite, the optimized strategy
+has been adopted using different concentrations of the GNPs to synthesize
+various nanocomposites with improved performances.</p><p>Current efforts
+have been made to synthesize highly porous crystalline
+nHAp and its composites, which can be used for bone implant applications.
+Thus, highly efficient biocompatible nHAp has been successfully prepared
+via a microwave irradiation technique. However, nHAp–GNP composites
+were synthesized by using a simple solid-state reaction method. In
+order to improve the mechanical properties by maintaining the biological
+properties; different concentrations of GNPs were used as an additive.
+However, GNPs may have a more exploitable porous structure than other
+additives. In the previously reported studies, most of the researchers
+have been focused only on the structural properties of such types
+of composite materials and did not have a detailed study on their
+biological properties.</p><p>In the present study, we propose the
+synthesis of porous nHAp and
+its composites with improved mechanical and in vivo imaging performances
+for biomedical applications using a simple and scalable bottom-up
+approach, that is, a solid-state reaction method. Enhancement in the
+mechanical strength, in vivo imaging, and biocompatibility without
+changing the other properties by standard sintering etiquette was
+for the first time reported.</p></sec><sec id="sec2"><label>2</label><title>Results and Discussions</title><sec id="sec2.1"><label>2.1</label><title>X-ray Diffraction</title><p>The crystallographic
+nature, phase formation, and phase stability of the GNP-reinforced
+nHAp composites sintered at 1200 °C for 3 h were analyzed using
+a powder XRD method. All the XRD patterns were matched with standard
+stoichiometric HAp (JCPDS file no. 240033) and were not found of any
+peak of the impurities and their byproducts. These XRD patterns also
+indicate the presence of the utmost of high intensity peaks, which
+are lying between the 2θ ranges of 25°–45°.
+The XRD pattern of pure GNPs is shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.8b03473/suppl_file/ao8b03473_si_001.pdf">Figure S1</ext-link>. Three different characteristic peaks were observed at different
+2θ angles, 26.66°, 44.64°, and 54.74°, corresponding
+to their lattice planes, (002), (100), and (004), which confirmed
+the purity of the utilized GNPs (JCPDS file no. 030401). The X-ray
+diffraction patterns of all the biocomposite samples are shown in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>a–e. The various
+diffraction peaks in the XRD patterns of composite samples are well
+matched with the pure hexagonal HAp phase and the pure GNPs. The characteristic
+X-ray diffraction peaks corresponding to planes (002), (100), and
+(004) of GNPs were observed at different 2θ angles, 26.1°,
+42.24°, and 53.14°, which clearly showed the presence of
+GNPs in nHAp.<sup><xref ref-type="bibr" rid="ref6">6</xref></sup> The XRD patterns also revealed
+that the addition of GNPs does not alter the phase stability of nHAp;
+however, minor peaks due to GNPs themselves have been altered slightly.
+Thus, XRD patterns of the nHAp–GNP composites are almost similar.
+The sharp and highly diffracted peaks revealed a good crystalline
+nature of the nHAp–GNPs composites.<sup><xref ref-type="bibr" rid="ref9">9</xref></sup> The average crystallite size of the composite samples was determined
+from the XRD pattern and was found to be in the range of 411 to 479
+nm with ±0.003 accuracies. Thus the calculated average crystallite
+sizes of all the samples are enlisted in <xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref>. These results were also correlated with
+the results of the TEM and shown in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>.</p><fig id="fig1" position="float" orientation="portrait"><label>Figure 1</label><caption><p>X-ray diffraction patterns of (a) 99.9HAp–0.1GNP,
+(b) 99.8HAp–0.2GNP,
+(c) 99.7HAp–0.3GNP, (d) 99.5HAp–0.4GNP and (e) 99.5HAp–0.5GNP
+composites sintered at 1200 °C for 3 h.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr1" position="float" orientation="portrait" xlink:href="ao-2018-03473u_0011.jpg"/></fig><fig id="fig2" position="float" orientation="portrait"><label>Figure 2</label><caption><p>Variations of (a) density with different doping concentrations
+of GNPs in the composite system (100 – <italic toggle="yes">x</italic>)HAp–<italic toggle="yes">x</italic>GNPs (<italic toggle="yes">x</italic> = 0.1, 0.2, 0.3, 0.5 wt %). (b)
+Variation of percentage of porosity with increasing doping concentrations
+of GNPs in the composite system (100 – <italic toggle="yes">x</italic>)HAp–<italic toggle="yes">x</italic>GNPs (<italic toggle="yes">x</italic> = 0.1, 0.2, 0.3, 0.5 wt %). (c)
+Variations of density and percentage of porosity in the composite
+system (100 – <italic toggle="yes">x</italic>)HAp–<italic toggle="yes">x</italic>GNPs (<italic toggle="yes">x</italic> = 0.1, 0.2, 0.3, 0.5 wt %).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr2" position="float" orientation="portrait" xlink:href="ao-2018-03473u_0010.jpg"/></fig><table-wrap id="tbl1" position="float" orientation="portrait"><label>Table 1</label><caption><title>Mechanical Properties of Crystalline
+Nano HAp and nHAp–GNP Composite Samples Sintered at 1200 °C
+for 3h</title></caption><table frame="hsides" rules="groups" border="0"><colgroup span="1"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/></colgroup><thead><tr><th style="border:none;" align="center" colspan="1" rowspan="1">samples</th><th style="border:none;" align="center" colspan="1" rowspan="1">density (g/cm<sup>3</sup>)</th><th style="border:none;" align="center" colspan="1" rowspan="1">average
+particle size (nm)</th><th style="border:none;" align="center" colspan="1" rowspan="1">compressive strength
+(MPa)</th><th style="border:none;" align="center" colspan="1" rowspan="1">Young’s modulus (GPa)</th><th style="border:none;" align="center" colspan="1" rowspan="1">fracture toughness(MJ/m<sup>3</sup>)</th><th style="border:none;" align="center" colspan="1" rowspan="1">percentage of porosity</th></tr></thead><tbody><tr><td style="border:none;" align="left" colspan="1" rowspan="1">nHAp</td><td style="border:none;" align="left" colspan="1" rowspan="1">2.87 ± 0.087</td><td style="border:none;" align="left" colspan="1" rowspan="1">411 ± 12</td><td style="border:none;" align="left" colspan="1" rowspan="1">87 ± 5</td><td style="border:none;" align="left" colspan="1" rowspan="1">89 ± 5</td><td style="border:none;" align="left" colspan="1" rowspan="1">104 ± 5</td><td style="border:none;" align="left" colspan="1" rowspan="1">8.97 ± 0.15</td></tr><tr><td style="border:none;" align="left" colspan="1" rowspan="1">99.9HAp–0.1GNPs</td><td style="border:none;" align="left" colspan="1" rowspan="1">2.79 ± 0.085</td><td style="border:none;" align="left" colspan="1" rowspan="1">432 ± 9</td><td style="border:none;" align="left" colspan="1" rowspan="1">87 ± 5</td><td style="border:none;" align="left" colspan="1" rowspan="1">89 ± 5</td><td style="border:none;" align="left" colspan="1" rowspan="1">105 ± 6</td><td style="border:none;" align="left" colspan="1" rowspan="1">11.43 ± 0.17</td></tr><tr><td style="border:none;" align="left" colspan="1" rowspan="1">99.8HAp–0.2GNPs</td><td style="border:none;" align="left" colspan="1" rowspan="1">2.72 ± 0.088</td><td style="border:none;" align="left" colspan="1" rowspan="1">479 ± 8</td><td style="border:none;" align="left" colspan="1" rowspan="1">91 ± 7</td><td style="border:none;" align="left" colspan="1" rowspan="1">93 ± 6</td><td style="border:none;" align="left" colspan="1" rowspan="1">110 ± 8</td><td style="border:none;" align="left" colspan="1" rowspan="1">13.87 ± 0.25</td></tr><tr><td style="border:none;" align="left" colspan="1" rowspan="1">99.7HAp–0.3GNPs</td><td style="border:none;" align="left" colspan="1" rowspan="1">2.65 ± 0.070</td><td style="border:none;" align="left" colspan="1" rowspan="1">431 ± 6</td><td style="border:none;" align="left" colspan="1" rowspan="1">93 ± 8</td><td style="border:none;" align="left" colspan="1" rowspan="1">95 ± 6</td><td style="border:none;" align="left" colspan="1" rowspan="1">112 ± 5</td><td style="border:none;" align="left" colspan="1" rowspan="1">15.98 ± 0.24</td></tr><tr><td style="border:none;" align="left" colspan="1" rowspan="1">99.5HAp–0.5GNPs</td><td style="border:none;" align="left" colspan="1" rowspan="1">2.50 ± 0.075</td><td style="border:none;" align="left" colspan="1" rowspan="1">454 ± 5</td><td style="border:none;" align="left" colspan="1" rowspan="1">97 ± 7</td><td style="border:none;" align="left" colspan="1" rowspan="1">98 ± 8</td><td style="border:none;" align="left" colspan="1" rowspan="1">116 ± 9</td><td style="border:none;" align="left" colspan="1" rowspan="1">20.87 ± 0.41</td></tr><tr><td style="border:none;" align="left" colspan="1" rowspan="1">natural
+bone(human cancellous)<sup><xref ref-type="bibr" rid="ref57">57</xref>−<xref ref-type="bibr" rid="ref62">62</xref></sup></td><td style="border:none;" align="left" colspan="1" rowspan="1">1.8–2.54</td><td style="border:none;" align="left" colspan="1" rowspan="1"> </td><td style="border:none;" align="left" colspan="1" rowspan="1">5–10</td><td style="border:none;" align="left" colspan="1" rowspan="1">0.05–0.1</td><td style="border:none;" align="left" colspan="1" rowspan="1"> </td><td style="border:none;" align="left" colspan="1" rowspan="1"> </td></tr></tbody></table></table-wrap></sec><sec id="sec2.2"><label>2.2</label><title>Density and Porosity Analysis</title><p>The
+calculated values of the density of nHAp and its composites 99.9HAp–0.1GNPs,
+99.8HAp–0.2GNPs, 99.7HAp–0.3GNPs, and 99.5HAp–0.5GNPs
+are listed in <xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref>. The variations in the density and percentage of GNPs for all the
+composite samples are shown in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>a. From a minuscule point of view, a decrease in the
+density of the fabricated composite samples with increasing concentrations
+of GNPs may be due to the incorporation of a low density (GNPs, 0.4
+g/cm<sup>3</sup>) by a high density (without sintering nHAp, 2.95
+g/cm<sup>3</sup>). Therefore, the density of the composite sample
+99.5HAp–0.5GNPs, <italic toggle="yes">x</italic> = 0.5 was found to be a
+minimum of 2.83 g/cm<sup>3</sup>, while it was found to be a maximum
+of 3.01 g/cm<sup>3</sup> for sintered nHAp, <italic toggle="yes">x</italic> = 0.0.</p><p>The porous structure of nHAp samples was affected by a microstructural
+parameter, such as grain size, grain packing, particle shape, and
+distribution of grain size, and the amount of additive. Thus, the
+pore size, fraction, and architectures of the composites were also
+strongly affected by the mechanical properties of the nHAp. The variations
+in the percentage of porosity and different concentrations of GNPs
+are shown in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>b. The increasing concentrations of GNPs for nHAp reduced the densification
+significantly. Thus; the porosity of the composites is increased by
+increasing the concentration of GNPs from 8.97 to 20.87%. The variations
+of density and percentage of porosity with different doping concentrations
+of GNPs in the composite system (100 – <italic toggle="yes">x</italic>)nHAp–<italic toggle="yes">x</italic>GNPs (<italic toggle="yes">x</italic> = 0.1, 0.2, 0.3, 0.5 wt %) is
+shown in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>c.
+The density versus percentage porosity bar graph shows a reverse effect,
+that is, density is increasing with a decreasing percentage of porosity.
+Moreover, the addition of GNPs into an nHAp matrix creates a 3D porous
+structure and exhibits a random grain growth by preventing the grain
+boundaries.<sup><xref ref-type="bibr" rid="ref45">45</xref></sup> Therefore, the high mechanical
+strength, high fracture toughness, and high 3D porous nature of the
+composite 99.5HAp–0.5GNPs could suggest the required fluid
+hauling by this sample and offer superior biological activities.</p></sec><sec id="sec2.3"><label>2.3</label><title>Morphological Analysis</title><p>The surface
+morphology and porous structure of nHAp and composites of HAp–GNPs,
+as well as the fractured samples, were analyzed by field emission
+scanning electron microscopy (FE-SEM). The SEM images of the pure
+nHAp and composite samples are shown in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>a–e. According to the microstructures,
+significant changes were observed in the surface morphology with the
+addition of GNPs. From the SEM images, a more obvious restricted effect
+was observed for composite 99.8nHAp–0.2GNPs as compared to
+the composite 99.7nHAp–0.3GNPs. It is observed that the nHAp–GNP
+composite had open pores on the surfaces as well as inside the material
+(disc) with a high degree of interconnectivity. The porosity and pore
+diameter increased with the increasing amount of GNPs because GNPs
+reduce the agglomeration of nHAp particles during sintering. The overlapping,
+interconnectivity of the pores, enhanced the porosity of the nHAp–GNP
+composites. Moreover, as the concentration of GNPs was increased,
+the grain boundaries and their separation with the pores were seen
+clearly. The SEM images of the nHAp and its composite samples are
+shown in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>a–e. <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>a reveals a dense
+surface morphology of nHAp in comparison to the nHAp–GNP composite
+samples. It also exhibits a uniform grain growth of nHAp along with
+an average pore size of ∼5 μm; the pores are marked by
+yellow arrows throughout the SEM image. This nHAp–GNP composite
+is predictable for the grains growing at a high rate along the path
+where no GNPs are present. It is also observed that the composite
+surfaces are highly porous in nature with the increased pore size
+interconnectivity between GNPs and nHAp. The highly porous nature
+and interconnectivity between GNPs and nHAp are attributed to a homogeneous
+dispersion of GNPs into the nHAp matrix (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>b–e).</p><fig id="fig3" position="float" orientation="portrait"><label>Figure 3</label><caption><p>Scanning electron microscopy images of
+(a) nHAp, (b) 99.9HAp–0.1GNP,
+(c) 99.8HAp–0.2GNP, (d) 99.7HAp–0.3GNP and (e) 99.5HAp–0.5GNP
+composites sintered at 1200 °C for 3 h. The different pores are
+presented by yellow arrows while blue arrows present the mixed and
+large grains of HAp–GNPs.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr3" position="float" orientation="portrait" xlink:href="ao-2018-03473u_0009.jpg"/></fig><p>The elemental analysis was done using EDAX results and is
+shown
+in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>a,b. The
+tentative chemical compositions of nHAp and the 99.5HAp–0.5GNP
+composite sintered at 1200 °C for 3 h are selected for the recording
+of the EDAX spectrum. The EDAX recorded grains, as well as the elemental,
+were marked by the red arrow. The EDAX spectra revealed the presence
+of different elements of HAp as Ca, P, C, and O peaks; however, a
+low intensity peak of Na impurity was observed, which might be due
+to the precursor impurity (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>a). Hence, the incorporation of GNPs into the nHAp
+was observed in the form of carbon (i.e. “C”) for the
+composite sample 99.5HAp–0.5GNPs. Thus, an EDAX spectrum clearly
+confirmed the presence of the used additive.</p><fig id="fig4" position="float" orientation="portrait"><label>Figure 4</label><caption><p>Energy dispersive X-ray
+analysis spectrums of (a) pure nHAp and
+(b) 99.5HAp–0.5GNP composites sintered at 1200 °C for
+3 h. The insets along with red arrows reveal the selected area of
+the SEM at which EDAX spectrum was recorded and also present the weight
+and atomic percentage of different elements.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr4" position="float" orientation="portrait" xlink:href="ao-2018-03473u_0008.jpg"/></fig></sec><sec id="sec2.4"><label>2.4</label><title>Fractured SEM Analysis</title><p>The fractured
+SEM images of the samples nHAp, 99.9nHAp–0.1GNPs, 99.8nHAp–0.2GNPs,
+99.7nHAp–0.3GNPs, and 99.5nHAp–0.5GNPs are shown in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>a–e and exhibited
+similar interconnected porous morphology. Moreover, SEM images of
+the fractured samples show the irregular shape and size of the pores.
+The addition of GNP content into the nHAp matrix improved the porous
+microstructures significantly (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>e).<sup><xref ref-type="bibr" rid="ref5">5</xref></sup></p><fig id="fig5" position="float" orientation="portrait"><label>Figure 5</label><caption><p>Scanning electron microscopy
+images of fractured samples (a) nHAp,
+(b) 99.9HAp–0.1GNP, (c) 99.8HAp–0.2GNP, (d) 99.7HAp–0.3GNP
+and (e) 99.5HAp-0.5GNP composites sintered at 1200 °C for 3 h.
+The red dashed lines show randomly oriented crack lines.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr5" position="float" orientation="portrait" xlink:href="ao-2018-03473u_0007.jpg"/></fig><p>When the compressive load is applied to the samples,
+a random fractured
+debonding morphology of the composite was observed. Due to the compression
+load, debonding persuaded the surface roughness of the fractured samples.
+Thus, there is no straight crack propagation presented in the fractured
+SEM images. However, the microstructure of these composites showed
+some randomly oriented grain and grain boundaries, which are found
+to be prevented by GNP nanosheets that acted as a bridge while initially
+fine cracks are propagated. It is well reported that the load bearing
+applications of pure nHAp are limited due to its inherently low mechanical
+strength and high brittleness as compared to graphene and natural
+bones.<sup><xref ref-type="bibr" rid="ref52">52</xref>−<xref ref-type="bibr" rid="ref54">54</xref></sup> Thus, the grain boundaries of nHAp are weaker than
+those of GNPs that randomly overlap each other and make them stronger.<sup><xref ref-type="bibr" rid="ref55">55</xref></sup> As 0.1 and 0.2 wt % of GNPs was added to the
+nHAp, the grain boundaries appeared blurred as shown in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>b,c. The further the relatively
+large amount of GNPs was increased, the agglomeration of the GNPs
+particles was observed and was reducing its density (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>e). The observed rough surfaces
+of the porous composite bodies may favor the cellular adhesion that
+induces the new bone formation activity.<sup><xref ref-type="bibr" rid="ref6">6</xref>,<xref ref-type="bibr" rid="ref16">16</xref></sup></p></sec><sec id="sec2.5"><label>2.5</label><title>Transmission Electron Microscopic (TEM) Analysis</title><p>The
+structural and morphological analyses were confirmed on the
+basis of the TEM results. <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>a–c shows the low and high magnification TEM
+images of the composite sample 99.5HAp–0.5GNPs sintered at
+1200 °C for 3 h soaking time with heating at 5 °C/min. <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>a presents a low
+magnification image of the composite 99.5HAp–0.5GNPs and shows
+a well-interconnected porous network between nHAp and GNPs. The calculated
+average pore size of ∼4 nm was observed, and the graphene nanoparticles
+are well dispersed in the nHAp matrix, which is indicated by the dark
+region specified by yellow arrows. The nanoparticles of the GNPs are
+uniformly distributed into the porous network of nHAp; the dense nHAp
+matrix formed a big cluster that enhanced the strength of these composites.
+The high resolution TEM images are shown in <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>b,c. The porous structure of the composite
+can be seen clearly in these micrographs. However, the agglomeration
+of the nHAp particles was observed over large nanosheets of GNPs,
+which makes them very dense in nature (<xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>b,c).<sup><xref ref-type="bibr" rid="ref9">9</xref>,<xref ref-type="bibr" rid="ref10">10</xref></sup> The high-magnification
+bright field TEM image shows the large HAp sheets in which GNPs are
+uniformly embedded with adequate porosity (<xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>d). The selected area electron diffraction
+pattern (SAED) is shown in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>e. This pattern clearly exhibits the three different
+characteristics of diffraction rings corresponding to the lattice
+planes (000), (002), and (211) of nHAp, which confirmed the highly
+crystalline nature and are very close to the [11̅00] zone axis
+of the composite.<sup><xref ref-type="bibr" rid="ref12">12</xref></sup> Thus, the obtained
+results are well consistent with the results of the XRD and SEM.</p><fig id="fig6" position="float" orientation="portrait"><label>Figure 6</label><caption><p>TEM images
+of the composite sample 99.5HAp–0.5GNPs sintered
+at 1200 °C for 3 h: (a) low-magnification bright field image,
+(b) low-magnification bright field image showing the porous interconnected
+network between HAp and GNPs, (c, d) High-magnification images containing
+fine grains of HAp with dispersed GNPs, and (e) SAED pattern of 99.5HAp–0.5GNPs.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr6" position="float" orientation="portrait" xlink:href="ao-2018-03473u_0006.jpg"/></fig></sec><sec id="sec2.6"><label>2.6</label><title>Mechanical
+Behavior</title><p>After a structural
+characterization of the synthesized composites, we performed the mechanical
+tests. For this purpose, samples were subjected to compression by
+an Instron universal testing machine. The compressive load–displacement
+curves are shown in <xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>a–e. The curves show the load bearing capability and
+were linearly increased with the increasing concentrations of GNPs.<sup><xref ref-type="bibr" rid="ref10">10</xref></sup> The load bearing capability of the 0.5 wt %
+composite sample 99.5HAp–0.5GNPs was found to be ∼3.41
+kN, which is almost 3-fold of the pure nHAp (1.33 kN).<sup><xref ref-type="bibr" rid="ref11">11</xref></sup> Moreover, in load versus displacement plots,
+the displacement decreased with the increase of the amount of GNPs,
+and it was found to be 0.45 mm for the composite 99.5HAp–0.5GNPs
+instead of 0.60 mm for pure nHAp.<sup><xref ref-type="bibr" rid="ref12">12</xref></sup> Thus,
+a reduction in displacement shows an improvement in the strength of
+nHAp as well as an enhancement in the load bearing capability of nHAp
+that resulted from the addition of GNPs into nHAp. The GNPs enhanced
+the interlocking and resisted crack propagation for these composites.<sup><xref ref-type="bibr" rid="ref13">13</xref></sup> Being 2D in nature, graphene can bear the maximum
+load in both directions, that is, longitudinal and lateral, and therefore,
+enhanced the load transfer efficiency significantly. The reduced extensibility
+with improved brittleness may sometime facilitate the material into
+confined bone defects or enable hard tissue engineering applications.<sup><xref ref-type="bibr" rid="ref2">2</xref>,<xref ref-type="bibr" rid="ref5">5</xref>,<xref ref-type="bibr" rid="ref15">15</xref>,<xref ref-type="bibr" rid="ref23">23</xref></sup> The increasing compressive strength of a material revealed that
+the mechanical strength was significantly enhanced by increasing the
+concentration of GNPs into the nHAp during sintering.<sup><xref ref-type="bibr" rid="ref14">14</xref></sup> The composite 99.5HAp–0.5GNPs achieves the highest
+value of compressive strength ∼97 MPa, while it is ∼87
+MPa for pure nHAp. However, the compressive strength value of the
+0.1 wt % GNPs–HAp composite is ∼87 MPa, which is very
+close to the pure nHAp.<sup><xref ref-type="bibr" rid="ref15">15</xref></sup> The compressive
+strength and elastic modulus of the nHAp–GNPs composites are
+significantly higher than that of the compressive strength and elastic
+modulus of the pure nHAp.<sup><xref ref-type="bibr" rid="ref16">16</xref></sup> The improvement
+in mechanical properties suggests the role of the bonding interface
+between nHAp and GNPs.<sup><xref ref-type="bibr" rid="ref18">18</xref></sup></p><fig id="fig7" position="float" orientation="portrait"><label>Figure 7</label><caption><p>The mechanical characteristics
+of nHAp and its composites: (a)
+nHAp, 99.9nHAp–0.1GNPs, 99.8nHAp–0.2GNPs, 99.7nHAp–0.3GNPs,
+and 99.5nHAp–0.5GNPs. (b) Variations of Young’s modulus
+with increasing weight percentage of GNPs. (c) Variations of fracture
+toughness with increasing weight percentage of GNPs. (d) Bar graph
+showing the variation of compressive strength with increasing weight
+percentage of GNPs sintered at 1200 °C for 3 h.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr7" position="float" orientation="portrait" xlink:href="ao-2018-03473u_0001.jpg"/></fig><p>The homogeneous dispersion of GNPs in the HAp matrix
+improves the
+mechanical properties of the composites in different ways. Graphene
+prevented the migration of the grain boundaries of nHAp that ultimately
+enhance the compressive strength by decreasing the defect size and
+increasing the interface area between GNPs and nHAp.<sup><xref ref-type="bibr" rid="ref19">19</xref></sup> The interaction between the fine grains of HAp and nanosheets
+of the GNPs improved the binding strength that enhanced mechanical
+strength, interlocking, and load transfer capability between nHAp
+and GNPs.<sup><xref ref-type="bibr" rid="ref20">20</xref></sup> The variation of Young’s
+modulus with the increasing concentration of GNPs is shown in <xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>b. The increasing
+weight percent of GNPs in the nHAp matrix enhanced the Young’s
+modulus value up to ∼98 GPa for the composite sample 99.5HAp–0.5GNPs.<sup><xref ref-type="bibr" rid="ref21">21</xref></sup> For the fracture toughness as shown in <xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>c, the highest value
+of 116 MJ/m<sup>3</sup> was observed for the same composite sample.
+The incorporation of GNP particles are seen inside the intergranular
+region that provides a high resistance to crack propagation.<sup><xref ref-type="bibr" rid="ref22">22</xref></sup> The values of both fracture toughnesses and
+Young’s modulus increased with the increasing concentrations
+of GNPs in the nHAp matrix (<xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref>). The compressive strength of the prepared nHAp and
+its composites are shown in <xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>d. As increasing the weight percentage of GNPs, the
+compressive strength was also found to have increased from 87 to 96
+MPa. Thus, the overall study concluded that the addition of 0.5 wt
+% GNPs significantly enhanced the mechanical properties of the nHAp.<sup><xref ref-type="bibr" rid="ref23">23</xref></sup> The incorporation of GNPs has the ability to
+tune the mechanical properties of the different composite materials
+that were demonstrated for useful applications of bone implants.</p></sec><sec id="sec2.7"><label>2.7</label><title>Cell Viability Behavior</title><p>Qualification
+of the cell viability examination is necessary for a biomaterial to
+be considered as an implant/scaffold material. Therefore, among all
+compositions, the 99.5HAp–0.5GNPs that has achieved the best
+mechanical properties was examined through this cell viability test.
+In this test known as the MTT assay, the MTT metabolic activity is
+measured by using a specific cell type. In the present study, the
+gut tissues of <italic toggle="yes">Drosophila</italic> larvae and primary osteoblast
+cells of a rat are individually used, and cytotoxicity/cell viability
+results were measured by using MTT [3-(4, 5-dimethyl thiazolyl-2)-2,5-diphenyltetrazolium
+bromide] for both types of cells. In the case of the toxicity measurement
+on the gut tissues of <italic toggle="yes">Drosophila</italic> larvae, various
+increasing concentrations (10, 30, 50, 100, 500, and 1000 μg/mL)
+of nHAp and the 99.5HAp–0.5GNP composite were used, as shown
+in <xref rid="fig8" ref-type="fig">Figure <xref rid="fig8" ref-type="fig">8</xref></xref>a,b. Treatments
+with 10 μg/mL of nHAp, as well as composite powder samples,
+exhibited maximum cell viability in their respective groups; however,
+treatments with the highest concentrations of 500 and 1000 μg/mL
+of the composite sample and 30 μg/mL of nHAp showed the least
+cell viability, that is, the highest cytotoxicity.</p><fig id="fig8" position="float" orientation="portrait"><label>Figure 8</label><caption><p>MTT assay of the (a)
+nHAp and (b) 99.5HAp–0.5GNP composite
+in gut tissues of <italic toggle="yes">Drosophila</italic> larvae for a 1 h incubation
+period at different concentrations.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr8" position="float" orientation="portrait" xlink:href="ao-2018-03473u_0002.jpg"/></fig><p><xref rid="fig9" ref-type="fig">Figure <xref rid="fig9" ref-type="fig">9</xref></xref>a,b
+presents
+the rat osteoblast (ROB) cells obtained from calvaria and the cell
+viability (in terms of optical density, i.e., O.D.) of ROB cells after
+24 h of treatment with different concentrations (0, 1, 5, 25, 50,
+and 100 μg/mL) of the 99.5nHAp–0.5GNP composite. The
+material’s exposure with lower concentrations of 1 and 5 μg/mL
+significantly enhanced the cell proliferation as compared to the control.
+However, higher concentrations 25–100 μg/mL were nonsignificant.
+It is interesting to note that the exposure with each concentration
+of the composite 99.5nHAp–0.5GNPs rather than pure nHAp exhibits
+improved cell viability of the gut tissues of <italic toggle="yes">Drosophila</italic> larvae. Therefore, the overall cell viability studies demonstrated
+that there is no cytotoxic effect of the 99.5HAp–0.5GNP composite
+on any cell type, which may offer the synthesized composite sample
+for bone implant application.</p><fig id="fig9" position="float" orientation="portrait"><label>Figure 9</label><caption><p>(a) Rat osteoblast (ROB) cells obtained from
+calvaria and (b) cell
+viability (in terms of optical density, O.D.) of ROB cells after 24
+h of treatment with different concentrations (0, 1, 5, 25, 50, and
+100 μg/mL) of the 99.5HAp–0.5GNP composite. The material’s
+exposure with lower concentrations 1 and 5 μg/mL significantly
+enhanced the cell proliferation as compared to the control.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr9" position="float" orientation="portrait" xlink:href="ao-2018-03473u_0003.jpg"/></fig><p>Recently, it has been reported
+that the nHAp composites are bioactive
+fluorescent materials that can be used for bioimaging diagnosis.<sup><xref ref-type="bibr" rid="ref48">48</xref></sup> The micrographs that present the fluorescence
+activities of nHAp and the composite 99.5nHAp–0.5GNP sample
+in the gut tissues of <italic toggle="yes">Drosophila</italic> larvae are shown
+in <xref rid="fig10" ref-type="fig">Figure <xref rid="fig10" ref-type="fig">10</xref></xref>. For
+the control, the untreated gut tissue facilitates no fluorescence
+as compared to nHAp-treated tissues.<sup><xref ref-type="bibr" rid="ref49">49</xref></sup> However,
+composite 99.5nHAp–0.5GNPs showed a maximum emission spectrum
+at the green filter (465–495 nm). The gut tissues also exhibited
+red fluorescence at the red filter (540–625 nm) with a predominant
+emission in the green range. Further, there was no clear mechanism
+that existed regarding the fluorescence of newly synthesized composite
+99.5HAp–0.5GNPs, because there was neither Ca<sup>2+</sup> nor
+PO<sub>4</sub><sup>3–</sup> that exhibited any known fluorescence
+in the living cells.<sup><xref ref-type="bibr" rid="ref50">50</xref></sup> Hence, the nHAp
+composite could be attributed to self-activated fluorescing behavior
+named as “fluorescent HAp” (fHAp).<sup><xref ref-type="bibr" rid="ref51">51</xref></sup> In the present study, pure nHAp and composite 99.5HAp–0.5GNPs
+present improved fluorescence activities in gut tissues of <italic toggle="yes">Drosophila</italic> larvae as compared to the control. Fluorescence
+emission in the green channel was found to be stronger in comparison
+to the red and bright field filters. In the merged channel, the 99.5HAp–0.5GNP
+composite also shows an improved fluorescence. Moreover, the 99.5nHAp–0.5GNP
+composite displays a better fluorescence behavior as compared to the
+pure nHAp. The results demonstrate that the biocompatible HAp–GNPs
+were performed successfully by in vivo imaging. Thus, nHAp and the
+HAp–GNP composite have promising fluorescence and wide range
+applicability for optimization and designing in the research of bioimaging.</p><fig id="fig10" position="float" orientation="portrait"><label>Figure 10</label><caption><p>In vivo
+fluorescence micrographs present the fluorescence activities
+of nHAp and the 99.5HAp–0.5GNP composite in gut tissues of <italic toggle="yes">Drosophila</italic> larvae.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr10" position="float" orientation="portrait" xlink:href="ao-2018-03473u_0004.jpg"/></fig></sec></sec><sec id="sec3"><label>3</label><title>Conclusions</title><p>Highly porous nHAp and
+its nanocomposites have been successfully
+synthesized via microwave irradiation and a scalable solid-state reaction
+method. The maintained structure of the nHAp–GNP composite
+revealed a strong bonding between nHAp and GNPs in the composite.
+The strong interaction between nHAp and GNPs is due to the increased
+interfacial area between these nanoparticles. The GNPs are well distributed
+into the nHAp matrix, which enhanced the mechanical properties of
+the composite. The addition of a relatively large concentration of
+GNPs into the nHAp matrix prevents the nHAp grain growth during sintering
+of the composites at 1200 °C. All the synthesized composites
+possess a porous 3D interconnected structure with low density. At
+this high sintering temperature, the mechanical properties of nHAp
+were significantly improved by the incorporation of GNPs. The enhanced
+mechanical properties were observed for the composite sample 99.5HAp–0.5GNPs.
+It is concluded that only a 0.5 wt % amount of GNPs highly modified
+the surface morphology and mechanical properties. The biological tests
+of the nHAp and composite 99.5nHAp–0.5GNPs showed good biocompatibility
+and cell viability with gut tissues of <italic toggle="yes">Drosophila</italic> third instar larvae as well as with ROB cells. Therefore, the fabricated
+composite may have great potential for load bearing and bioimaging
+applications in bone engineering.</p></sec><sec id="sec4"><label>4</label><title>Methods
+and Materials</title><sec id="sec4.1"><label>4.1</label><title>Materials Synthesis</title><p>In the synthesis
+of nHAp, calcium nitrate tetrahydrate (Ca(NO<sub>3</sub>)<sub>2</sub>·4H<sub>2</sub>O), disodium hydrogen phosphate (Na<sub>2</sub>HPO<sub>4</sub>), and sodium hydroxide (NaOH) pellets were purchased
+from Merck (Merck Pvt. Ltd., Mumbai, India) and used as starting raw
+materials. To adjust the pH value of the solution, sodium hydroxide
+pellets were used with continuous stirring. The synthesis of nHAp
+follows the given chemical reaction below:<disp-formula id="ueq1"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" orientation="portrait" xlink:href="ao-2018-03473u_m001.jpg"/></disp-formula></p><p>To synthesize
+the nHAp, the amount
+of reactant in the molar ratio of Ca<sup>2+</sup>/PO<sub>4</sub><sup>3–</sup> was adjusted to 1.67. However, Ca(NO<sub>3</sub>)<sub>2</sub>·H<sub>2</sub>O:Na<sub>2</sub>HPO<sub>4</sub> were taken
+in the molar ratio of 5:3; Ca(NO<sub>3</sub>)<sub>2</sub>·H<sub>2</sub>O (1.0 M) and Na<sub>2</sub>HPO<sub>4</sub> (0.6 M) were separately
+dissolved in 100 mL of double-distilled water. The Ca(NO<sub>3</sub>)<sub>2</sub>·4H<sub>2</sub>O solution was stirred by a magnetic
+stirrer; after 45 min of stirring, the Na<sub>2</sub>HPO<sub>4</sub> solution was added to the calcium nitrate solution and continuously
+stirred for 60 min. Further, the pH value of the solution was adjusted
+to 12 by adding a suitable amount of sodium hydroxide (NaOH) pellets.
+The suspension with a certain pH value was kept to a household microwave
+oven of 600 W with a refluxing system for 15 min; the microwave oven
+followed a working cycle of 5 s on and 10 s off. After microwave irradiation,
+the sample was cooled to room temperature.<sup><xref ref-type="bibr" rid="ref9">9</xref></sup> The obtained material contained a milky suspension, which was centrifuged
+and washed with deionized water for several times to remove the NH<sup>4+</sup>, NO<sup>3–</sup> ions and other volatile impurities.
+The white precipitate was dried at 100 °C for 20 h in a hot air
+oven. The dried HAp slurry was crushed by mortar and pestle to convert
+the crushed material into a fine powder form. Finally, the dried nHAp
+powder was calcined at 800 °C for 2 h with a heating and cooling
+rate of 5 °C/min.<sup><xref ref-type="bibr" rid="ref10">10</xref></sup></p></sec><sec id="sec4.2"><label>4.2</label><title>Synthesis of nHAp–GNP Composites</title><p>To synthesize
+the nHAp–GNP composites, different concentrations
+of GNP powders (0.1, 0.2, 0.3, and 0.5 wt %) were mixed by dissolving
+into 200 mL of ethanol. The dissolved mixture was stirred by a magnetic
+stirrer using zirconia beads for 4 h to produce a homogeneous composite
+of nHAp–GNPs.<sup><xref ref-type="bibr" rid="ref11">11</xref></sup> The obtained slurry
+was dried in a hot air oven at 80 °C for 6 h. The dried slurry
+was crushed and sieved, then ball-milled for 10 h to make fine powder
+for compaction. The nHAp–GNP composite fine powder was then
+cold-compressed using a hydraulic press machine at 2 ton and was held
+for 60 s to obtain a cylindrical shape of dimensions (height ×
+diameter) 20 mm × 13 mm.<sup><xref ref-type="bibr" rid="ref12">12</xref></sup> The compact
+green samples were sintered at 1200 °C with a heating and cooling
+rate of 3 °C/min for 3 h to achieve desired densification.</p></sec><sec id="sec4.3"><label>4.3</label><title>Material Characterizations</title><p>In order
+to confirm the phase formation of pure nHAp and nHAp–GNP composite
+powders, the various X-ray diffraction (XRD) patterns were recorded
+using a Rigaku Miniflex II X-ray diffractometer equipped with a monochromatic
+Cu-Kα radiation (λ = 0.15418 nm) operated at 40 kV and
+40 mA. Data were recorded in the 2θ range from 20°–60°
+with fixed scanning at 3°/min. XRD patterns of the sintered nHAp
+and nHAp–GNP composite samples were then compared with standard
+JCPDS files no. 24–0033 for the determination of different
+phases and formation of the reaction product as new phases. The crystallite
+size (<italic toggle="yes">d</italic> in nanometers) was calculated with the help
+of Scherrer’s formula<disp-formula id="eq1"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" orientation="portrait" xlink:href="ao-2018-03473u_m002.jpg"/><label>1</label></disp-formula>where <italic toggle="yes">k</italic> is
+a Scherrer constant (<italic toggle="yes">k</italic> = 0.94), β is the peak
+width of the diffraction peak profile at full width half maximum (FWHM)
+in radians, λ is the X-ray wavelength of Cu-Kα radiation
+(λ = 1.54 nm), and θ denotes the Bragg’s angle
+in degrees. The densification behavior of pure HAp, as well as nHAp–GNP
+composite samples, was measured using the Archimedes method. Distilled
+water was used as a substituting material because it can easily penetrate
+into the pores of the nHAp–GNP composite samples. The sintered
+porous pellets of nHAp and nHAp–GNP composite samples were
+immersed in double-distilled water, and no vapors were seen coming
+out from them. Then, the dry, soaked, and hanging weights of the pellets
+were measured using a Shimadzu-made weighing digital balance having
+readability up to 0.0001 mg. By using the formula below, the density
+of the sintered samples was calculated<disp-formula id="eq2"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" orientation="portrait" xlink:href="ao-2018-03473u_m003.jpg"/><label>2</label></disp-formula>where ρ (water) is the
+density of distilled water (1 g/cm<sup>3</sup>), Wt (air) is the weight
+of the specific gravity bottle with the sample in air, and Wt (water)
+is the weight of the specific gravity bottle with sample and water.</p><p>The percentage porosity of the HAp samples was measured using the
+Archimedes principle according to the equation below<disp-formula id="eq3"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" orientation="portrait" xlink:href="ao-2018-03473u_m004.jpg"/><label>3</label></disp-formula>where the apparent density
+was calculated by mass per unit volume of the composite samples in
+g/cm<sup>3</sup>. The standard theoretical density of pure nHAp was
+3.156 g/cm<sup>3</sup>.,<sup><xref ref-type="bibr" rid="ref56">56</xref>,<xref ref-type="bibr" rid="ref57">57</xref></sup></p><p>The surface morphology of the nHAp and nHAp–GNP composite
+samples, as well as the fractured samples, were recorded using a scanning
+electron microscope (SEM) attached with an FE-SEM detector (JEOL JSM-6400,
+Japan). The energy dispersive X-ray analyses (EDS) were also carried
+out to investigate the elemental composition of the nHAp and HAp–GNP
+composites.</p><p>JEOL 2100 field emission gun transmission electron
+microscope was
+used to record the TEM images and diffraction patterns. To record
+the images, a small amount of the composite particle was diluted with
+isopropyl alcohol. The diluted particle was dropped onto a carbon-coated
+copper grid and allowed to dry in vacuum for the duration of 30 min.
+Then TEM samples were placed in the vacuum for 12 h. TEM images were
+analyzed through the Image J software to determine the size and shape
+of the particles.</p><p>The mechanical behavior of the nHAp and HAp–GNP
+composites
+were measured using a universal testing machine (UTM Instron 3639)
+in compression mode at a crosshead speed of 5 mm/min. The samples’
+size of 1.3 cm in diameter and 2.0 cm in length was used for mechanical
+testing on cylindrical pellet samples. The mechanical characterizations
+were also carried out at 23 °C temperature and 20% humidity atmospheric
+conditions. The load bearing behavior of the composites was studied
+by plots of the load–displacement curve until failure. The
+Young’s modulus was obtained from the slope of the stress–strain
+curve for each sample. The fracture toughness of the sintered nHAp–GNP
+composites was measured as the area under the stress–strain
+curve within the limit of an initial point to the elastic limit.</p><sec id="sec4.3.1"><label>4.3.1</label><title>MTT Assay of HAp and nHAp–GNP Composites</title><sec id="sec4.3.1.1"><label>4.3.1.1</label><title>On Larval Tissues of <italic toggle="yes">Drosophila</italic></title><p><italic toggle="yes">Drosophila</italic> (Oregon R<sup>+</sup>) obtained
+from the Bloomington stock center, Indiana, USA, was used in this
+study. An MTT [3-(4,5-dimethyl thiazolyl-2)-2,5-diphenyltetrazolium
+bromide] assay was performed to test the cytotoxicity of the nHAp–GNP
+composite in gut tissues of <italic toggle="yes">Drosophila</italic> third instar
+larvae. The nHAp–GNP composites were dissolved in 2% dimethyl
+sulfa-oxide (DMSO) with increasing concentrations (10, 30, 50, 100,
+500, and 1000 μg/mL) in fresh Eppendorf tubes. For cytotoxicity
+experiment, initially, 10 larvae were teased out in 1× PBS (pH
+7.4) and incubated with each composite for 1 h at room temperature.
+However, for the control, the gut tissues were incubated for 1 h in
+DMSO only. After the end of incubation, the tissues were washed twice
+with 1× PBS and incubated with 0.6 mg/mL MTT for 2 h at 37 °C
+in the dark. After incubation, the tissue was washed twice with 1×
+PBS and incubated with 200 μL DMSO for another 1 h at 37 °C
+to dissolve the purple-colored formazan crystal, and the colored solutions
+were transferred into the distinct wells of a 96-well culture plate.
+The absorbance intensity was analyzed by the microplate reader (Auto
+Reader 4011, SPAN Diagnostics Ltd.) at 492 nm with a reference wavelength
+of 630 nm. All experiments were performed in triplicate, and the cell
+viability was expressed in percentage in relation to the control.
+The cells’ viability was determined by the absorption at 570
+nm. The absorption of the wells without the sample was considered
+as blanks. The adsorption of HAp resulted in the highest absorption,
+which reflected the best cell viability. The effect of the samples
+on the cell proliferation can be written as the cell viability using
+the following formula<disp-formula id="eq4"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" orientation="portrait" xlink:href="ao-2018-03473u_m005.jpg"/><label>4</label></disp-formula>where <italic toggle="yes">A</italic><sub>t</sub> is the absorbance of the test sample, and <italic toggle="yes">A</italic><sub>c</sub> is the absorbance of the cells without HAp
+treatment.</p></sec><sec id="sec4.3.1.2"><label>4.3.1.2</label><title>On Rat Osteoblast Cells
+Drawn from Calvaria</title><p>The experimental protocol for studying
+the cell viability of rat
+osteoblast calvarial cells due to the exposure of prepared materials
+was adopted exactly from our previously reported studies.<sup><xref ref-type="bibr" rid="ref12">12</xref>,<xref ref-type="bibr" rid="ref63">63</xref></sup></p></sec><sec id="sec4.3.1.3"><label>4.3.1.3</label><title>Statistical Analysis of the MTT Test</title><p>For the analysis of biological data, the following statistics were
+used. The biological data are represented as mean ± standard
+error of the mean (mean ± S.E.M). The group differences were
+determined using a one-way analysis of variance (ANOVA) with a Neuman–Keuls
+post hoc test by Prism version 5.0 software. Moreover, probability
+values of <italic toggle="yes">p</italic> &lt; 0.05 are taken to be statistically
+significant (*<italic toggle="yes">P</italic> &lt; 0.05), when compared with the
+control, that is, without the treated cells.</p></sec></sec><sec id="sec4.3.2"><label>4.3.2</label><title>Treatment of nHAp–GNP Composites
+in Gut Tissues of <italic toggle="yes">Drosophila</italic> Larvae</title><p>The
+gut tissues of <italic toggle="yes">Drosophila</italic> third instar larvae were
+dissected in 1× PBS (pH 7.4), and for the control, 10 dissected
+gut tissues were incubated in 2% DMSO for 2 h at room temperature;
+the same number of gut tissues was also incubated separately with
+each nHAp composite concentration 100 μg/mL for 2 h in Maximo
+slides. The 2% DMSO solvent was used for each of the HAp composites.
+After the end of incubation, the gut tissues were washed twice with
+1× PBS solution for 5 min, and we captured the HAp composite
+treated with gut tissues fluorescence images of <italic toggle="yes">Drosophila</italic> using a Nikon Niu upright fluorescence microscope.</p></sec></sec></sec></body><back><notes id="notes3" notes-type="si"><title>Supporting Information Available</title><p>The Supporting Information
+is
+available free of charge on the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org">ACS Publications website</ext-link> at DOI: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/abs/10.1021/acsomega.8b03473">10.1021/acsomega.8b03473</ext-link>.<list list-type="simple"><list-item><p>Synthesis of nanohydroxyapatite
+(nHAp), details on the
+synthesis of nanocomposites via a solid-state route, and XRD analysis
+of pure graphene nanoplatelets (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.8b03473/suppl_file/ao8b03473_si_001.pdf">PDF</ext-link>)</p></list-item></list><list id="silist" list-type="simple"><list-item><p>(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.8b03473/suppl_file/ao8b03473_si_001.pdf">PDF</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1" position="float" orientation="portrait"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao8b03473_si_001.pdf" position="float" orientation="portrait"><caption><p>ao8b03473_si_001.pdf</p></caption></media></supplementary-material></sec><notes notes-type="" id="notes1"><title>Author Contributions</title><p>The present
+research work was conceived and supervised by C.R.G., and materials
+synthesis, fabrication, and manuscript writing were performed by C.R.G.,
+S.K., and V.K.M. Biological testing was performed and analyzed by
+B.S.C., S.S., R.S.Y., S.B.R., V.K.M. and R.T.</p></notes><notes notes-type="COI-statement" id="NOTES-d7e1621-autogenerated"><p>The authors declare no
+competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>C.G. would like to thank the University Grant Commission,
+New Delhi, India for providing the financial support under Raman Post-Doctoral
+Research Award Fellowship (Award no. F5-65/2014 (IC)) and also appreciatively
+acknowledges the Science and Engineering Research Board, Department
+of Science and Technology (SERB-DST), New Delhi, Government of India
+for giving the financial support under Empowerment and Equity Opportunities
+for Excellence in Science (file no. EEO/2018/000647). Authors highly
+acknowledge Prof. P.M. Ajayan and Prof. Robert Vajtai, Department
+of Materials Science and NanoEngineering, Rice University, Houston,
+Texas, U.S.A. for managing the required facilities to carry out this
+research work. V.K.M. is thankful to SERB, Government of India for
+providing financial aid in form of N-PDF (file no. PDF/2015/000915).</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name name-style="western"><surname>Bhatt</surname><given-names>R. A.</given-names></name>; <name name-style="western"><surname>Rozental</surname><given-names>T. D.</given-names></name>
+<article-title>Bone graft substitutes</article-title>. <source>Hand
+Clin.</source>
+<year>2012</year>, <volume>28</volume>, <fpage>457</fpage>–<lpage>468</lpage>. <pub-id pub-id-type="doi">10.1016/j.hcl.2012.08.001</pub-id>.<pub-id pub-id-type="pmid">23101596</pub-id></mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name name-style="western"><surname>Athanasiou</surname><given-names>K. A.</given-names></name>; <name name-style="western"><surname>Zhu</surname><given-names>C.-F.</given-names></name>; <name name-style="western"><surname>Lanctot</surname><given-names>D. R.</given-names></name>; <name name-style="western"><surname>Agrawal</surname><given-names>C. M.</given-names></name>; <name name-style="western"><surname>Wang</surname><given-names>X.</given-names></name>
+<article-title>Fundamentals
+of biomechanics in tissue engineering of bone</article-title>. <source>Tissue Eng.</source>
+<year>2000</year>, <volume>6</volume>, <fpage>361</fpage>–<lpage>381</lpage>. <pub-id pub-id-type="doi">10.1089/107632700418083</pub-id>.<pub-id pub-id-type="pmid">10992433</pub-id></mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name name-style="western"><surname>Xiong</surname><given-names>Z.</given-names></name>; <name name-style="western"><surname>Yan</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Zhang</surname><given-names>R.</given-names></name>; <name name-style="western"><surname>Sun</surname><given-names>L.</given-names></name>
+<article-title>Fabrication of porous poly(l-lactic
+acid) scaffolds for bone tissue engineering via precise extrusion</article-title>. <source>Scr. Mater.</source>
+<year>2001</year>, <volume>45</volume>, <fpage>773</fpage>–<lpage>779</lpage>. <pub-id pub-id-type="doi">10.1016/S1359-6462(01)01094-6</pub-id>.</mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name name-style="western"><surname>Campana</surname><given-names>V.</given-names></name>; <name name-style="western"><surname>Milano</surname><given-names>G.</given-names></name>; <name name-style="western"><surname>Pagano</surname><given-names>E.</given-names></name>; <name name-style="western"><surname>Barba</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Cicione</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Salonna</surname><given-names>G.</given-names></name>; <name name-style="western"><surname>Lattanzi</surname><given-names>W.</given-names></name>; <name name-style="western"><surname>Logroscino</surname><given-names>G.</given-names></name>
+<article-title>Bone substitutes
+in orthopaedic surgery: from basic science to clinical practice</article-title>. <source>J. Mater. Sci.: Mater. Med.</source>
+<year>2014</year>, <volume>25</volume>, <fpage>2445</fpage>–<lpage>2461</lpage>. <pub-id pub-id-type="doi">10.1007/s10856-014-5240-2</pub-id>.<pub-id pub-id-type="pmid">24865980</pub-id><pub-id pub-id-type="pmcid">PMC4169585</pub-id></mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name name-style="western"><surname>Jang</surname><given-names>H. L.</given-names></name>; <name name-style="western"><surname>Zheng</surname><given-names>G. B.</given-names></name>; <name name-style="western"><surname>Park</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Kim</surname><given-names>H. D.</given-names></name>; <name name-style="western"><surname>Baek</surname><given-names>H.-R.</given-names></name>; <name name-style="western"><surname>Lee</surname><given-names>H. K.</given-names></name>; <name name-style="western"><surname>Lee</surname><given-names>K.</given-names></name>; <name name-style="western"><surname>Han</surname><given-names>H. N.</given-names></name>; <name name-style="western"><surname>Lee</surname><given-names>C.-K.</given-names></name>; <name name-style="western"><surname>Hwang</surname><given-names>N. S.</given-names></name>; <name name-style="western"><surname>Lee</surname><given-names>J. H.</given-names></name>; <name name-style="western"><surname>Nam</surname><given-names>K. T.</given-names></name>
+<article-title>In Vitro
+and In
+Vivo Evaluation of Whitlockite Biocompatibility: Comparative Study
+with Hydroxyapatite and <italic toggle="yes">β</italic>-Tricalcium Phosphate</article-title>. <source>Adv. Healthcare Mater.</source>
+<year>2016</year>, <volume>5</volume>, <fpage>128</fpage>–<lpage>136</lpage>. <pub-id pub-id-type="doi">10.1002/adhm.201400824</pub-id>.<pub-id pub-id-type="pmid">25963732</pub-id></mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name name-style="western"><surname>Wu</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Wang</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Zou</surname><given-names>L.</given-names></name>; <name name-style="western"><surname>Jin</surname><given-names>L.</given-names></name>; <name name-style="western"><surname>Wang</surname><given-names>Z.</given-names></name>; <name name-style="western"><surname>Li</surname><given-names>Y.</given-names></name>
+<article-title>A three-dimensional hydroxyapatite/polyacrylonitrile
+composite scaffold
+designed for bone tissue engineering</article-title>. <source>RSC Adv.</source>
+<year>2018</year>, <volume>8</volume>, <fpage>1730</fpage><pub-id pub-id-type="doi">10.1039/C7RA12449J</pub-id>.<pub-id pub-id-type="pmcid">PMC9077050</pub-id><pub-id pub-id-type="pmid">35542578</pub-id></mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name name-style="western"><surname>Li</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Xiong</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Yan</surname><given-names>F.</given-names></name>; <name name-style="western"><surname>Li</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Ren</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Yin</surname><given-names>Z.</given-names></name>; <name name-style="western"><surname>Li</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Li</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Ji</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Zheng</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Cheng</surname><given-names>Y.</given-names></name>
+<article-title>An overview of graphene-based hydroxyapatite composites for orthopedic
+applications</article-title>. <source>Bioact. Mater.</source>
+<year>2018</year>, <volume>3</volume>, <fpage>1</fpage>–<lpage>18</lpage>. <pub-id pub-id-type="doi">10.1016/j.bioactmat.2018.01.001</pub-id>.<pub-id pub-id-type="pmid">29744438</pub-id><pub-id pub-id-type="pmcid">PMC5935763</pub-id></mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name name-style="western"><surname>Mishra</surname><given-names>V. K.</given-names></name>; <name name-style="western"><surname>Bhattacharjee</surname><given-names>B. N.</given-names></name>; <name name-style="western"><surname>Parkash</surname><given-names>O.</given-names></name>; <name name-style="western"><surname>Kumar</surname><given-names>D.</given-names></name>; <name name-style="western"><surname>Rai</surname><given-names>S. B.</given-names></name>
+<article-title>Mg-doped
+hydroxyapatite nanoplates for biomedical applications: a surfactant
+assisted microwave synthesis and spectroscopic investigations</article-title>. <source>J. Alloys Compd.</source>
+<year>2014</year>, <volume>614</volume>, <fpage>283</fpage>–<lpage>288</lpage>. <pub-id pub-id-type="doi">10.1016/j.jallcom.2014.06.082</pub-id>.</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name name-style="western"><surname>Mishra</surname><given-names>V. K.</given-names></name>; <name name-style="western"><surname>Bhattacharjee</surname><given-names>B. N.</given-names></name>; <name name-style="western"><surname>Kumar</surname><given-names>D.</given-names></name>; <name name-style="western"><surname>Rai</surname><given-names>S. B.</given-names></name>; <name name-style="western"><surname>Parkash</surname><given-names>O.</given-names></name>
+<article-title>Effect of
+a chelating agent at different pH on the spectroscopic and structural
+properties of microwave derived hydroxyapatite nanoparticles: a bone
+mimetic material</article-title>. <source>New J. Chem.</source>
+<year>2016</year>, <volume>40</volume>, <fpage>5432</fpage>–<lpage>5441</lpage>. <pub-id pub-id-type="doi">10.1039/C5NJ03322E</pub-id>.</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name name-style="western"><surname>Gautam</surname><given-names>C. R.</given-names></name>; <name name-style="western"><surname>Kumar</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Biradar</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Jose</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Mishra</surname><given-names>V. K.</given-names></name>
+<article-title>Synthesis
+and enhanced mechanical properties of MgO substituted hydroxyapatite:
+a bone substitute material</article-title>. <source>RSC Adv.</source>
+<year>2016</year>, <volume>6</volume>, <fpage>67565</fpage><pub-id pub-id-type="doi">10.1039/C6RA10839C</pub-id>.</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name name-style="western"><surname>Gautam</surname><given-names>C. R.</given-names></name>; <name name-style="western"><surname>Tamuk</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Manpoong</surname><given-names>C. W.</given-names></name>; <name name-style="western"><surname>Gautam</surname><given-names>S. S.</given-names></name>; <name name-style="western"><surname>Kumar</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Singh</surname><given-names>A. K.</given-names></name>; <name name-style="western"><surname>Mishra</surname><given-names>V. K.</given-names></name>
+<article-title>Microwave synthesis of hydroxyapatite
+bioceramic and tribological studies of its composites with SrCO<sub>3</sub> and ZrO<sub>2</sub></article-title>. <source>J. Mater. Sci.</source>
+<year>2016</year>, <volume>51</volume>, <fpage>4973</fpage>–<lpage>4983</lpage>. <pub-id pub-id-type="doi">10.1007/s10853-016-9802-1</pub-id>.</mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name name-style="western"><surname>Gautam</surname><given-names>C. R.</given-names></name>; <name name-style="western"><surname>Kumar</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Mishra</surname><given-names>V. K.</given-names></name>; <name name-style="western"><surname>Biradar</surname><given-names>S.</given-names></name>
+<article-title>Synthesis, structural
+and 3-D architecture of lanthanum oxide added hydroxyapatite composites
+for bone implant applications: Enhanced microstructural and mechanical
+properties</article-title>. <source>Ceram. Int.</source>
+<year>2017</year>, <volume>43</volume>, <fpage>14114</fpage>–<lpage>14121</lpage>. <pub-id pub-id-type="doi">10.1016/j.ceramint.2017.07.150</pub-id>.</mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name name-style="western"><surname>Mukherjee</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Sen</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Chanda</surname><given-names>A.</given-names></name>
+<article-title>Mechanical
+and In-vitro Performance of CNT Reinforced
+Hydroxyapatite Prepared by a Shear Mixing Method</article-title>. <source>J. Nanomed. Nanotechnol.</source>
+<year>2013</year>, <volume>04</volume>, <fpage>169</fpage><pub-id pub-id-type="doi">10.4172/2157-7439.1000169</pub-id>.</mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name name-style="western"><surname>Baradaran</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Moghaddam</surname><given-names>E.</given-names></name>; <name name-style="western"><surname>Basirun</surname><given-names>W. J.</given-names></name>; <name name-style="western"><surname>Mehrali</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Sookhakian</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Hamdi</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Nakhaei Moghaddam</surname><given-names>M.
+R.</given-names></name>; <name name-style="western"><surname>Alias</surname><given-names>Y.</given-names></name>
+<article-title>Mechanical
+properties and biomedical applications of a nanotube hydroxyapatite-reduced
+graphene oxide composite</article-title>. <source>Carbon</source>
+<year>2014</year>, <volume>69</volume>, <fpage>32</fpage>–<lpage>45</lpage>. <pub-id pub-id-type="doi">10.1016/j.carbon.2013.11.054</pub-id>.</mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name name-style="western"><surname>Kumar</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Biswas</surname><given-names>K.</given-names></name>; <name name-style="western"><surname>Basu</surname><given-names>B.</given-names></name>
+<article-title>Hydroxyapatite-titanium
+bulk composites
+for bone tissue engineering applications</article-title>. <source>J.
+Biomed. Mater. Res., Part A</source>
+<year>2015</year>, <volume>103</volume>, <fpage>791</fpage>–<lpage>806</lpage>. <pub-id pub-id-type="doi">10.1002/jbm.a.35198</pub-id>.<pub-id pub-id-type="pmid">24737723</pub-id></mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name name-style="western"><surname>Zhao</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Dong</surname><given-names>W.</given-names></name>; <name name-style="western"><surname>Zheng</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Liu</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Yao</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Li</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Tang</surname><given-names>W.</given-names></name>; <name name-style="western"><surname>Chen</surname><given-names>B.</given-names></name>; <name name-style="western"><surname>Wang</surname><given-names>G.</given-names></name>; <name name-style="western"><surname>Shi</surname><given-names>Z.</given-names></name>
+<article-title>The structural
+and biological properties of hydroxyapatite-modified titanate nanowire
+scaffolds</article-title>. <source>Biomaterials</source>
+<year>2011</year>, <volume>32</volume>, <fpage>5837</fpage>–<lpage>5846</lpage>. <pub-id pub-id-type="doi">10.1016/j.biomaterials.2011.04.083</pub-id>.<pub-id pub-id-type="pmid">21605896</pub-id></mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name name-style="western"><surname>Rezvani</surname><given-names>Z.</given-names></name>; <name name-style="western"><surname>Akbari</surname><given-names>M.</given-names></name>
+<article-title>Surface modification
+of hydroxyapatite crystals by
+Mg–Al–CO3-layered double hydroxides in HA/Mg–Al–CO3–LDH
+nanocomposite</article-title>. <source>New J. Chem.</source>
+<year>2015</year>, <volume>39</volume>, <fpage>189</fpage>–<lpage>5196</lpage>. <pub-id pub-id-type="doi">10.1039/C5NJ00664C</pub-id>.</mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name name-style="western"><surname>Stout</surname><given-names>D. A.</given-names></name>; <name name-style="western"><surname>Webster</surname><given-names>T. J.</given-names></name>
+<article-title>Carbon nanotubes for stem cell control</article-title>. <source>Mater. Today</source>
+<year>2012</year>, <volume>15</volume>, <fpage>312</fpage>–<lpage>318</lpage>. <pub-id pub-id-type="doi">10.1016/S1369-7021(12)70136-0</pub-id>.</mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name name-style="western"><surname>Nordin</surname><given-names>J. A.</given-names></name>; <name name-style="western"><surname>Prajitno</surname><given-names>D. H.</given-names></name>; <name name-style="western"><surname>Saidin</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Nur</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Hermawan</surname><given-names>H.</given-names></name>
+<article-title>Structure–property
+relationships of iron–hydroxyapatite ceramic matrix nanocomposite
+fabricated using mechanosynthesis method</article-title>. <source>Mater.
+Sci. Eng. C</source>
+<year>2015</year>, <volume>51</volume>, <fpage>294</fpage>–<lpage>299</lpage>. <pub-id pub-id-type="doi">10.1016/j.msec.2015.03.019</pub-id>.<pub-id pub-id-type="pmid">25842138</pub-id></mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name name-style="western"><surname>Azhari</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Toyserkani</surname><given-names>E.</given-names></name>; <name name-style="western"><surname>Villain</surname><given-names>C.</given-names></name>
+<article-title>Additive manufacturing of graphene-hydroxyapatite
+nanocomposite structures</article-title>. <source>Int. J. Appl. Ceram.
+Technol.</source>
+<year>2015</year>, <volume>12</volume>, <fpage>8</fpage>–<lpage>17</lpage>. <pub-id pub-id-type="doi">10.1111/ijac.12309</pub-id>.</mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name name-style="western"><surname>Zhang</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Pan</surname><given-names>C.</given-names></name>
+<article-title>Measurements of mechanical
+properties and number of layers of graphene
+from nano-indentation</article-title>. <source>Diamond Relat. Mater.</source>
+<year>2012</year>, <volume>24</volume>, <fpage>1</fpage>–<lpage>5</lpage>. <pub-id pub-id-type="doi">10.1016/j.diamond.2012.01.033</pub-id>.</mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name name-style="western"><surname>Suk</surname><given-names>J. W.</given-names></name>; <name name-style="western"><surname>Piner</surname><given-names>R. D.</given-names></name>; <name name-style="western"><surname>An</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Ruoff</surname><given-names>R. S.</given-names></name>
+<article-title>Mechanical properties
+of monolayer graphene oxide</article-title>. <source>ACS Nano</source>
+<year>2010</year>, <volume>4</volume>, <fpage>6557</fpage>–<lpage>6564</lpage>. <pub-id pub-id-type="doi">10.1021/nn101781v</pub-id>.<pub-id pub-id-type="pmid">20942443</pub-id></mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name name-style="western"><surname>Akhavan</surname><given-names>O.</given-names></name>
+<article-title>Graphene scaffolds
+in progressive nanotechnology/stem cell-based tissue engineering of
+the nervous system</article-title>. <source>J. Mater. Chem. B</source>
+<year>2016</year>, <volume>4</volume>, <fpage>3169</fpage>–<lpage>3190</lpage>. <pub-id pub-id-type="doi">10.1039/C6TB00152A</pub-id>.<pub-id pub-id-type="pmid">32263253</pub-id></mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name name-style="western"><surname>Paul</surname><given-names>W.</given-names></name>; <name name-style="western"><surname>Sharma</surname><given-names>C. P.</given-names></name>
+<article-title>Blood Compatibility and Biomedical Applications of
+Graphene</article-title>. <source>Trends Biomater. Artif. Organs.</source>
+<year>2011</year>, <volume>25</volume>, <fpage>91</fpage>–<lpage>94</lpage>.</mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name name-style="western"><surname>Zhang</surname><given-names>L.</given-names></name>; <name name-style="western"><surname>Xia</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Zhao</surname><given-names>Q.</given-names></name>; <name name-style="western"><surname>Liu</surname><given-names>L.</given-names></name>; <name name-style="western"><surname>Zhang</surname><given-names>Z.</given-names></name>
+<article-title>Functional graphene
+Oxide as a nanocarrier for controlled loading and targeted delivery
+of mixed anticancer drugs</article-title>. <source>Small</source>
+<year>2010</year>, <volume>6</volume>, <fpage>537</fpage>–<lpage>544</lpage>. <pub-id pub-id-type="doi">10.1002/smll.200901680</pub-id>.<pub-id pub-id-type="pmid">20033930</pub-id></mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name name-style="western"><surname>Park</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Suk</surname><given-names>J. W.</given-names></name>; <name name-style="western"><surname>An</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Oh</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Lee</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Lee</surname><given-names>W.</given-names></name>; <name name-style="western"><surname>Potts</surname><given-names>J. R.</given-names></name>; <name name-style="western"><surname>Byun</surname><given-names>J.-H.</given-names></name>; <name name-style="western"><surname>Ruoff</surname><given-names>R. S.</given-names></name>
+<article-title>The effect of concentration
+of graphene nanoplatelets on mechanical and electrical properties
+of reduced graphene oxide papers</article-title>. <source>Carbon</source>
+<year>2012</year>, <volume>50</volume>, <fpage>4573</fpage>–<lpage>4578</lpage>. <pub-id pub-id-type="doi">10.1016/j.carbon.2012.05.042</pub-id>.</mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name name-style="western"><surname>Zhou</surname><given-names>K.</given-names></name>; <name name-style="western"><surname>Thouas</surname><given-names>G. A.</given-names></name>; <name name-style="western"><surname>Bernard</surname><given-names>C. C.</given-names></name>; <name name-style="western"><surname>Nisbet</surname><given-names>D. R.</given-names></name>; <name name-style="western"><surname>Finkelstein</surname><given-names>D. I.</given-names></name>; <name name-style="western"><surname>Li</surname><given-names>D.</given-names></name>; <name name-style="western"><surname>Forsythe</surname><given-names>J. S.</given-names></name>
+<article-title>Method
+to impart electro- and biofunctionality to neural
+scaffolds using Graphene–Polyelectrolyte Multilayers</article-title>. <source>ACS Appl. Mater. Interfaces</source>
+<year>2012</year>, <volume>4</volume>, <fpage>4524</fpage>–<lpage>4531</lpage>. <pub-id pub-id-type="doi">10.1021/am3007565</pub-id>.<pub-id pub-id-type="pmid">22809168</pub-id></mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name name-style="western"><surname>Liao</surname><given-names>K. H.</given-names></name>; <name name-style="western"><surname>Lin</surname><given-names>Y. S.</given-names></name>; <name name-style="western"><surname>Macosko</surname><given-names>C. W.</given-names></name>; <name name-style="western"><surname>Haynes</surname><given-names>C. L.</given-names></name>
+<article-title>Cytotoxicity of
+graphene oxide and graphene in human erythrocytes and skin fibroblasts</article-title>. <source>ACS Appl. Mater. Interfaces</source>
+<year>2011</year>, <volume>3</volume>, <fpage>2607</fpage>–<lpage>2615</lpage>. <pub-id pub-id-type="doi">10.1021/am200428v</pub-id>.<pub-id pub-id-type="pmid">21650218</pub-id></mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name name-style="western"><surname>Lee</surname><given-names>S. K.</given-names></name>; <name name-style="western"><surname>Kim</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Shim</surname><given-names>B. S.</given-names></name>
+<article-title>Graphene: an emerging material for Biological tissue
+Engineering</article-title>. <source>Carbon Letters</source>
+<year>2013</year>, <volume>14</volume>, <fpage>63</fpage>–<lpage>75</lpage>. <pub-id pub-id-type="doi">10.5714/CL.2013.14.2.063</pub-id>.</mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name name-style="western"><surname>Geim</surname><given-names>A. K.</given-names></name>; <name name-style="western"><surname>Novoselov</surname><given-names>K. S.</given-names></name>
+<article-title>The rise of graphene</article-title>. <source>Nat. Mater.</source>
+<year>2007</year>, <volume>6</volume>, <fpage>183</fpage>–<lpage>191</lpage>. <pub-id pub-id-type="doi">10.1038/nmat1849</pub-id>.<pub-id pub-id-type="pmid">17330084</pub-id></mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name name-style="western"><surname>Park</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Ruoff</surname><given-names>R. S.</given-names></name>
+<article-title>Chemical methods
+for the production of graphenes</article-title>. <source>Nat. Nanotechnol.</source>
+<year>2009</year>, <volume>4</volume>, <fpage>217</fpage>–<lpage>224</lpage>. <pub-id pub-id-type="doi">10.1038/nnano.2009.58</pub-id>.<pub-id pub-id-type="pmid">19350030</pub-id></mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name name-style="western"><surname>Ferrari</surname><given-names>A. C.</given-names></name>; <name name-style="western"><surname>Basko</surname><given-names>D. M.</given-names></name>
+<article-title>Raman spectroscopy as a versatile
+tool for studying
+the properties of graphene</article-title>. <source>Nat. Nanotechnol.</source>
+<year>2013</year>, <volume>8</volume>, <fpage>235</fpage>–<lpage>246</lpage>. <pub-id pub-id-type="doi">10.1038/nnano.2013.46</pub-id>.<pub-id pub-id-type="pmid">23552117</pub-id></mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name name-style="western"><surname>Walker</surname><given-names>L. S.</given-names></name>; <name name-style="western"><surname>Marotto</surname><given-names>V. R.</given-names></name>; <name name-style="western"><surname>Rafiee</surname><given-names>M. A.</given-names></name>; <name name-style="western"><surname>Koratkar</surname><given-names>N.</given-names></name>; <name name-style="western"><surname>Corral</surname><given-names>E. L.</given-names></name>
+<article-title>Toughening
+in Graphene ceramic composites</article-title>. <source>ACS Nano</source>
+<year>2011</year>, <volume>5</volume>, <fpage>3182</fpage>–<lpage>3190</lpage>. <pub-id pub-id-type="doi">10.1021/nn200319d</pub-id>.<pub-id pub-id-type="pmid">21443241</pub-id></mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name name-style="western"><surname>Hasanzadeh</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Shadjou</surname><given-names>N.</given-names></name>
+<article-title>(Fe<sub>3</sub>O<sub>4</sub>)–graphene oxide–SO<sub>3</sub>H as a new magnetic nanocatalyst for electro-oxidation and
+determination of selected parabens</article-title>. <source>J. Nanosci.
+Nanotechnol.</source>
+<year>2013</year>, <volume>13</volume>, <fpage>4909</fpage>–<lpage>4916</lpage>. <pub-id pub-id-type="doi">10.1166/jnn.2013.7605</pub-id>.<pub-id pub-id-type="pmid">23901510</pub-id></mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name name-style="western"><surname>Wang</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Shen</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Tian</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Xie</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Li</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Ji</surname><given-names>L.</given-names></name>; <name name-style="western"><surname>Niu</surname><given-names>Z.</given-names></name>; <name name-style="western"><surname>Wu</surname><given-names>D.</given-names></name>; <name name-style="western"><surname>Qiu</surname><given-names>D.</given-names></name>
+<article-title>Bioactive nanoparticle–gelatin
+composite scaffold with mechanical performance comparable to cancellous
+bones</article-title>. <source>ACS Appl. Mater. Interfaces</source>
+<year>2014</year>, <volume>6</volume>, <fpage>13061</fpage>–<lpage>13068</lpage>. <pub-id pub-id-type="doi">10.1021/am5029582</pub-id>.<pub-id pub-id-type="pmid">25046034</pub-id></mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name name-style="western"><surname>Nathanael</surname><given-names>A. J.</given-names></name>; <name name-style="western"><surname>Lee</surname><given-names>J. H.</given-names></name>; <name name-style="western"><surname>Mangalaraj</surname><given-names>D.</given-names></name>; <name name-style="western"><surname>Hong</surname><given-names>S. I.</given-names></name>; <name name-style="western"><surname>Rhee</surname><given-names>Y. H.</given-names></name>
+<article-title>Multifunctional
+properties of hydroxyapatite/titania bio-nano-composites: Bioactivity
+and antimicrobial studies</article-title>. <source>Powder Technol.</source>
+<year>2012</year>, <volume>228</volume>, <fpage>410</fpage>–<lpage>415</lpage>. <pub-id pub-id-type="doi">10.1016/j.powtec.2012.06.001</pub-id>.</mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="journal" id="cit37"><name name-style="western"><surname>Wang</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Li</surname><given-names>Z.</given-names></name>; <name name-style="western"><surname>Fan</surname><given-names>G.</given-names></name>; <name name-style="western"><surname>Pan</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Chen</surname><given-names>Z.</given-names></name>; <name name-style="western"><surname>Zhang</surname><given-names>D.</given-names></name>
+<article-title>Reinforcement
+with graphene nanosheets in aluminum matrix composites</article-title>. <source>Scr. Mater.</source>
+<year>2012</year>, <volume>66</volume>, <fpage>594</fpage>–<lpage>597</lpage>. <pub-id pub-id-type="doi">10.1016/j.scriptamat.2012.01.012</pub-id>.</mixed-citation></ref><ref id="ref38"><mixed-citation publication-type="journal" id="cit38"><name name-style="western"><surname>Fan</surname><given-names>Z.</given-names></name>; <name name-style="western"><surname>Wang</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Wang</surname><given-names>Z.</given-names></name>; <name name-style="western"><surname>Ran</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Li</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Niu</surname><given-names>L.</given-names></name>; <name name-style="western"><surname>Gong</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Liu</surname><given-names>B</given-names></name>; <name name-style="western"><surname>Yang</surname><given-names>S.</given-names></name>
+<article-title>One-pot synthesis of
+graphene/hydroxyapatite nanorod composite for tissue engineering</article-title>. <source>Carbon</source>
+<year>2014</year>, <volume>66</volume>, <fpage>407</fpage>–<lpage>416</lpage>. <pub-id pub-id-type="doi">10.1016/j.carbon.2013.09.016</pub-id>.</mixed-citation></ref><ref id="ref39"><mixed-citation publication-type="journal" id="cit39"><name name-style="western"><surname>Bellucci</surname><given-names>D.</given-names></name>; <name name-style="western"><surname>Sola</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Cannillo</surname><given-names>V.</given-names></name>
+<article-title>Hydroxyapatite
+and tricalcium phosphate
+composites with bioactive glass as second phase: State of the art
+and current applications</article-title>. <source>J. Biomed. Mater.
+Res., Part A</source>
+<year>2016</year>, <volume>104</volume>, <fpage>1030</fpage>–<lpage>1056</lpage>. <pub-id pub-id-type="doi">10.1002/jbm.a.35619</pub-id>.<pub-id pub-id-type="pmid">26646669</pub-id></mixed-citation></ref><ref id="ref40"><mixed-citation publication-type="journal" id="cit40"><name name-style="western"><surname>Liu</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Huang</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Niinomi</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Li</surname><given-names>H.</given-names></name>
+<article-title>Inhibited grain growth
+in hydroxyapatite-graphene nanocomposites during high temperature
+treatment and their enhanced mechanical properties</article-title>. <source>Ceram. Int.</source>
+<year>2016</year>, <volume>42</volume>, <fpage>11248</fpage>–<lpage>11255</lpage>. <pub-id pub-id-type="doi">10.1016/j.ceramint.2016.04.038</pub-id>.</mixed-citation></ref><ref id="ref41"><mixed-citation publication-type="journal" id="cit41"><name name-style="western"><surname>Guazzo</surname><given-names>R.</given-names></name>; <name name-style="western"><surname>Gardin</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Bellin</surname><given-names>G.</given-names></name>; <name name-style="western"><surname>Sbricoli</surname><given-names>L.</given-names></name>; <name name-style="western"><surname>Ferroni</surname><given-names>L.</given-names></name>; <name name-style="western"><surname>Ludovichetti</surname><given-names>F.</given-names></name>; <name name-style="western"><surname>Piattelli</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Antoniac</surname><given-names>I.</given-names></name>; <name name-style="western"><surname>Bressan</surname><given-names>E.</given-names></name>; <name name-style="western"><surname>Zavan</surname><given-names>B.</given-names></name>
+<article-title>Graphene-Based
+Nanomaterials for Tissue Engineering in the Dental
+Field</article-title>. <source>Nanomaterials</source>
+<year>2018</year>, <volume>8</volume>, <fpage>349</fpage><pub-id pub-id-type="doi">10.3390/nano8050349</pub-id>.<pub-id pub-id-type="pmcid">PMC5977363</pub-id><pub-id pub-id-type="pmid">29783786</pub-id></mixed-citation></ref><ref id="ref42"><mixed-citation publication-type="journal" id="cit42"><name name-style="western"><surname>Zhang</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Liu</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Ding</surname><given-names>J.-X.</given-names></name>; <name name-style="western"><surname>Wu</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Zhuang</surname><given-names>X.-L.</given-names></name>; <name name-style="western"><surname>Chen</surname><given-names>X.-S.</given-names></name>; <name name-style="western"><surname>Wang</surname><given-names>J.-C.</given-names></name>; <name name-style="western"><surname>Yin</surname><given-names>J.-B.</given-names></name>; <name name-style="western"><surname>Li</surname><given-names>Z.-M.</given-names></name>
+<article-title>High-pressure compression-molded
+porous resorbable polymer/hydroxyapatite composite scaffold for cranial
+bone regeneration</article-title>. <source>ACS Biomater. Sci. Eng.</source>
+<year>2016</year>, <volume>2</volume>, <fpage>1471</fpage>–<lpage>1482</lpage>. <pub-id pub-id-type="doi">10.1021/acsbiomaterials.6b00202</pub-id>.<pub-id pub-id-type="pmid">33440585</pub-id></mixed-citation></ref><ref id="ref43"><mixed-citation publication-type="journal" id="cit43"><name name-style="western"><surname>O’Brien</surname><given-names>F. J.</given-names></name>
+<article-title>Biomaterials
+&amp; scaffolds for tissue engineering</article-title>. <source>Mater.
+Today</source>
+<year>2011</year>, <volume>14</volume>, <fpage>88</fpage>–<lpage>95</lpage>. <pub-id pub-id-type="doi">10.1016/S1369-7021(11)70058-X</pub-id>.</mixed-citation></ref><ref id="ref44"><mixed-citation publication-type="journal" id="cit44"><name name-style="western"><surname>Gurunathan</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Han</surname><given-names>J. W.</given-names></name>; <name name-style="western"><surname>Eppakayala</surname><given-names>V.</given-names></name>; <name name-style="western"><surname>Dayem</surname><given-names>A. A.</given-names></name>; <name name-style="western"><surname>Kwon</surname><given-names>D.-N.</given-names></name>; <name name-style="western"><surname>Kim</surname><given-names>J.-H.</given-names></name>
+<article-title>Biocompatibility
+effects of biologically synthesized
+graphene in primary mouse embryonic fibroblast cells</article-title>. <source>Nanoscale Res. Lett.</source>
+<year>2013</year>, <volume>8</volume>, <fpage>393</fpage><pub-id pub-id-type="doi">10.1186/1556-276X-8-393</pub-id>.<pub-id pub-id-type="pmid">24059222</pub-id><pub-id pub-id-type="pmcid">PMC3850464</pub-id></mixed-citation></ref><ref id="ref45"><mixed-citation publication-type="journal" id="cit45"><name name-style="western"><surname>Polini</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Wang</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Bai</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Zhu</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Tomsia</surname><given-names>A. P.</given-names></name>; <name name-style="western"><surname>Mao</surname><given-names>C.</given-names></name>
+<article-title>Stable biofunctionalization of hydroxyapatite
+(HA) surfaces by HA-binding/osteogenic
+modular peptides for inducing osteogenic differentiation of mesenchymal
+stem cells</article-title>. <source>Biomater. Sci.</source>
+<year>2014</year>, <volume>2</volume>, <fpage>1779</fpage><pub-id pub-id-type="doi">10.1039/C4BM00164H</pub-id>.<pub-id pub-id-type="pmid">25642327</pub-id><pub-id pub-id-type="pmcid">PMC4307953</pub-id></mixed-citation></ref><ref id="ref46"><mixed-citation publication-type="journal" id="cit46"><name name-style="western"><surname>Yang</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Tu</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Li</surname><given-names>L.</given-names></name>; <name name-style="western"><surname>Shang</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Tao</surname><given-names>X.-M.</given-names></name>
+<article-title>Well-dispersed chitosan/graphene
+oxide nanocomposites</article-title>. <source>ACS Appl. Mater. Interfaces</source>
+<year>2010</year>, <volume>2</volume>, <fpage>1707</fpage>–<lpage>1713</lpage>. <pub-id pub-id-type="doi">10.1021/am100222m</pub-id>.<pub-id pub-id-type="pmid">20527778</pub-id></mixed-citation></ref><ref id="ref47"><mixed-citation publication-type="journal" id="cit47"><name name-style="western"><surname>Peng</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Hu</surname><given-names>W.</given-names></name>; <name name-style="western"><surname>Zhou</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Fan</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Huang</surname><given-names>Q.</given-names></name>
+<article-title>Intracellular imaging
+with a graphene-based fluorescent probe</article-title>. <source>Small</source>
+<year>2010</year>, <volume>6</volume>, <fpage>1686</fpage>–<lpage>1692</lpage>. <pub-id pub-id-type="doi">10.1002/smll.201000560</pub-id>.<pub-id pub-id-type="pmid">20602429</pub-id></mixed-citation></ref><ref id="ref48"><mixed-citation publication-type="journal" id="cit48"><name name-style="western"><surname>Zhang</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Zhang</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Liu</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Sun</surname><given-names>K.</given-names></name>; <name name-style="western"><surname>Yuan</surname><given-names>J.</given-names></name>
+<article-title>Nano-alumina/hydroxyapatite
+composite powders prepared by in-situ chemical precipitation</article-title>. <source>Ceram. Int.</source>
+<year>2016</year>, <volume>42</volume>, <fpage>279</fpage>–<lpage>285</lpage>. <pub-id pub-id-type="doi">10.1016/j.ceramint.2015.08.106</pub-id>.</mixed-citation></ref><ref id="ref49"><mixed-citation publication-type="journal" id="cit49"><name name-style="western"><surname>Liu</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Cheng</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Chen</surname><given-names>F.</given-names></name>; <name name-style="western"><surname>Hou</surname><given-names>F.</given-names></name>; <name name-style="western"><surname>Bai</surname><given-names>D.</given-names></name>; <name name-style="western"><surname>Xi</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Zeng</surname><given-names>Z.</given-names></name>
+<article-title>Biomimetic and cell-mediated
+mineralization of hydroxyapatite
+by carrageenan functionalized graphene oxide</article-title>. <source>ACS Appl. Mater. Interfaces</source>
+<year>2014</year>, <volume>6</volume>, <fpage>3132</fpage>–<lpage>3140</lpage>. <pub-id pub-id-type="doi">10.1021/am4057826</pub-id>.<pub-id pub-id-type="pmid">24527702</pub-id></mixed-citation></ref><ref id="ref50"><mixed-citation publication-type="journal" id="cit50"><name name-style="western"><surname>Lee</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Xie</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Chen</surname><given-names>X.</given-names></name>
+<article-title>Peptide-based
+probes for targeted molecular imaging</article-title>. <source>Biochemistry</source>
+<year>2010</year>, <volume>49</volume>, <fpage>1364</fpage>–<lpage>1376</lpage>. <pub-id pub-id-type="doi">10.1021/bi901135x</pub-id>.<pub-id pub-id-type="pmid">20102226</pub-id><pub-id pub-id-type="pmcid">PMC2829605</pub-id></mixed-citation></ref><ref id="ref51"><mixed-citation publication-type="journal" id="cit51"><name name-style="western"><surname>Deshmukh</surname><given-names>K.</given-names></name>; <name name-style="western"><surname>Shaik</surname><given-names>M. M.</given-names></name>; <name name-style="western"><surname>Ramanan</surname><given-names>S. R.</given-names></name>; <name name-style="western"><surname>Kowshik</surname><given-names>M.</given-names></name>
+<article-title>Self-activated fluorescent
+hydroxyapatite nanoparticles: a promising agent for bioimaging and
+biolabeling</article-title>. <source>ACS Biomater. Sci. Eng.</source>
+<year>2016</year>, <volume>2</volume>, <fpage>1257</fpage>–<lpage>1264</lpage>. <pub-id pub-id-type="doi">10.1021/acsbiomaterials.6b00169</pub-id>.<pub-id pub-id-type="pmid">33434979</pub-id></mixed-citation></ref><ref id="ref52"><mixed-citation publication-type="journal" id="cit52"><name name-style="western"><surname>Gbureck</surname><given-names>U.</given-names></name>; <name name-style="western"><surname>Hölzel</surname><given-names>T.</given-names></name>; <name name-style="western"><surname>Klammert</surname><given-names>U.</given-names></name>; <name name-style="western"><surname>Würzler</surname><given-names>K.</given-names></name>; <name name-style="western"><surname>Müller</surname><given-names>F. A.</given-names></name>; <name name-style="western"><surname>Barralet</surname><given-names>J. E.</given-names></name>
+<article-title>Resorbable dicalcium phosphate bone
+substitutes prepared by 3-D powder printing</article-title>. <source>Adv. Funct. Mater.</source>
+<year>2007</year>, <volume>17</volume>, <fpage>3940</fpage>–<lpage>3945</lpage>. <pub-id pub-id-type="doi">10.1002/adfm.200700019</pub-id>.</mixed-citation></ref><ref id="ref53"><mixed-citation publication-type="journal" id="cit53"><name name-style="western"><surname>Cho</surname><given-names>J. S.</given-names></name>; <name name-style="western"><surname>Yoo</surname><given-names>D. S.</given-names></name>; <name name-style="western"><surname>Chung</surname><given-names>Y.-C.</given-names></name>; <name name-style="western"><surname>Rhee</surname><given-names>S.-H.</given-names></name>
+<article-title>Enhanced bioactivity
+and osteoconductivity of hydroxyapatite through chloride substitution</article-title>. <source>J. Biomed. Mater. Res., Part A</source>
+<year>2014</year>, <volume>102</volume>, <fpage>455</fpage>–<lpage>469</lpage>. <pub-id pub-id-type="doi">10.1002/jbm.a.34722</pub-id>.<pub-id pub-id-type="pmid">23533198</pub-id></mixed-citation></ref><ref id="ref54"><mixed-citation publication-type="journal" id="cit54"><name name-style="western"><surname>Haugen</surname><given-names>H. J.</given-names></name>; <name name-style="western"><surname>Monjo</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Rubert</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Verket</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Lyngstadaas</surname><given-names>S. P.</given-names></name>; <name name-style="western"><surname>Ellingsen</surname><given-names>J. E.</given-names></name>; <name name-style="western"><surname>Rønold</surname><given-names>J. H.</given-names></name>; <name name-style="western"><surname>Wohlfahrt</surname><given-names>J. C.</given-names></name>
+<article-title>Porous
+ceramic titanium dioxide scaffolds promote bone formation in rabbit
+peri-implant cortical defect model</article-title>. <source>Acta Biomater.</source>
+<year>2013</year>, <volume>9</volume>, <fpage>5390</fpage>–<lpage>5399</lpage>. <pub-id pub-id-type="doi">10.1016/j.actbio.2012.09.009</pub-id>.<pub-id pub-id-type="pmid">22985740</pub-id></mixed-citation></ref><ref id="ref55"><mixed-citation publication-type="journal" id="cit55"><name name-style="western"><surname>Janković</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Eraković</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Mitrić</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Matić</surname><given-names>I. Z.</given-names></name>; <name name-style="western"><surname>Juranić</surname><given-names>Z. D.</given-names></name>; <name name-style="western"><surname>Tsui</surname><given-names>G. C. P.</given-names></name>; <name name-style="western"><surname>Tang</surname><given-names>C.-y.</given-names></name>; <name name-style="western"><surname>Mišković-Stanković</surname><given-names>V.</given-names></name>; <name name-style="western"><surname>Rhee</surname><given-names>K. Y.</given-names></name>; <name name-style="western"><surname>Park</surname><given-names>S. J.</given-names></name>
+<article-title>Bioactive hydroxyapatite/graphene
+composite coating and its corrosion stability in simulated body fluid</article-title>. <source>J. Alloys Compd.</source>
+<year>2015</year>, <volume>624</volume>, <fpage>148</fpage>–<lpage>157</lpage>. <pub-id pub-id-type="doi">10.1016/j.jallcom.2014.11.078</pub-id>.</mixed-citation></ref><ref id="ref56"><mixed-citation publication-type="journal" id="cit56"><name name-style="western"><surname>Peón</surname><given-names>E.</given-names></name>; <name name-style="western"><surname>Fuentes</surname><given-names>G.</given-names></name>; <name name-style="western"><surname>Morejón</surname><given-names>L.</given-names></name>; <name name-style="western"><surname>Almirall</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Garcia</surname><given-names>R.</given-names></name>
+<article-title>Preparation
+and characterization of porous blocks of synthetic hydroxyapatite</article-title>. <source>Lat. Am. Appl. Res.</source>
+<year>2004</year>, <volume>34</volume>, <fpage>225</fpage>–<lpage>228</lpage>.</mixed-citation></ref><ref id="ref57"><mixed-citation publication-type="journal" id="cit57"><name name-style="western"><surname>Tan</surname><given-names>L.</given-names></name>; <name name-style="western"><surname>Yu</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Wan</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Yang</surname><given-names>K.</given-names></name>
+<article-title>Biodegradable materials for bone
+repairs: A review</article-title>. <source>J. Mater. Sci. Technol.</source>
+<year>2013</year>, <volume>29</volume>, <fpage>503</fpage>–<lpage>513</lpage>. <pub-id pub-id-type="doi">10.1016/j.jmst.2013.03.002</pub-id>.</mixed-citation></ref><ref id="ref58"><mixed-citation publication-type="journal" id="cit58"><name name-style="western"><surname>Block</surname><given-names>M. S.</given-names></name>; <name name-style="western"><surname>Degen</surname><given-names>M.</given-names></name>
+<article-title>Horizontal ridge augmentation
+using human mineralized particulate
+bone: Preliminary results</article-title>. <source>J. Oral Maxillofac.
+Surg.</source>
+<year>2004</year>, <volume>62</volume>, <fpage>67</fpage>–<lpage>72</lpage>. <pub-id pub-id-type="doi">10.1016/j.joms.2004.05.209</pub-id>.<pub-id pub-id-type="pmid">15332183</pub-id></mixed-citation></ref><ref id="ref59"><mixed-citation publication-type="journal" id="cit59"><name name-style="western"><surname>Bolander</surname><given-names>M. E.</given-names></name>; <name name-style="western"><surname>Balian</surname><given-names>G.</given-names></name>
+<article-title>The use of demineralized
+bone matrix in the repair
+of segmental defects. Augmentation with extracted matrix proteins
+and a comparison with autologous grafts</article-title>. <source>J.
+Bone Jt. Surg.</source>
+<year>1986</year>, <volume>68</volume>, <fpage>1264</fpage>–<lpage>1274</lpage>. <pub-id pub-id-type="doi">10.2106/00004623-198668080-00018</pub-id>.<pub-id pub-id-type="pmid">3533947</pub-id></mixed-citation></ref><ref id="ref60"><mixed-citation publication-type="journal" id="cit60"><name name-style="western"><surname>Araújo</surname><given-names>P. P. T</given-names></name>; <name name-style="western"><surname>Oliveira</surname><given-names>K. P.</given-names></name>; <name name-style="western"><surname>Montenegro</surname><given-names>S. C. L.</given-names></name>; <name name-style="western"><surname>Carreiro</surname><given-names>A. F. P.</given-names></name>; <name name-style="western"><surname>Silva</surname><given-names>J. S. P.</given-names></name>; <name name-style="western"><surname>Germano</surname><given-names>A. R.</given-names></name>
+<article-title>Block allograft
+for reconstruction of alveolar bone
+ridge in implantology: A systematic review</article-title>. <source>Implant Dent.</source>
+<year>2013</year>, <volume>22</volume>, <fpage>304</fpage>–<lpage>308</lpage>. <pub-id pub-id-type="doi">10.1097/ID.0b013e318289e311</pub-id>.<pub-id pub-id-type="pmid">23680976</pub-id></mixed-citation></ref><ref id="ref61"><mixed-citation publication-type="journal" id="cit61"><name name-style="western"><surname>Sterio</surname><given-names>T. W.</given-names></name>; <name name-style="western"><surname>Katancik</surname><given-names>J. A.</given-names></name>; <name name-style="western"><surname>Blanchard</surname><given-names>S. B.</given-names></name>; <name name-style="western"><surname>Xenoudi</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Mealey</surname><given-names>B. L.</given-names></name>
+<article-title>A prospective,
+multicenter study of bovine pericardium membrane with cancellous particulate
+allograft for localized alveolar ridge augmentation</article-title>. <source>Int. J. Periodontics Restorative Dent.</source>
+<year>2013</year>, <volume>33</volume>, <fpage>499</fpage>–<lpage>507</lpage>. <pub-id pub-id-type="doi">10.11607/prd.1704</pub-id>.<pub-id pub-id-type="pmid">23820710</pub-id></mixed-citation></ref><ref id="ref62"><mixed-citation publication-type="journal" id="cit62"><name name-style="western"><surname>Gautam</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Gautam</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Mishra</surname><given-names>V. K.</given-names></name>; <name name-style="western"><surname>Ahmad</surname><given-names>N.</given-names></name>; <name name-style="western"><surname>Trivedi</surname><given-names>R.</given-names></name>; <name name-style="western"><surname>Biradar</surname><given-names>S.</given-names></name>
+<article-title>interconnected architecture of h-BN reinforced ZrO<sub>2</sub> composites: structural evolution and enhanced mechanical
+properties for bone implant applications</article-title>. <source>Ceram.
+Int.</source>
+<year>2019</year>, <volume>45</volume>, <fpage>1037</fpage>–<lpage>1048</lpage>. <pub-id pub-id-type="doi">10.1016/j.ceramint.2018.09.283</pub-id>.</mixed-citation></ref><ref id="ref63"><mixed-citation publication-type="journal" id="cit63"><name name-style="western"><surname>Gautam</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Chakravarty</surname><given-names>D.</given-names></name>; <name name-style="western"><surname>Gautam</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Tiwary</surname><given-names>C. S.</given-names></name>; <name name-style="western"><surname>Woellner</surname><given-names>C. F.</given-names></name>; <name name-style="western"><surname>Mishra</surname><given-names>V. K.</given-names></name>; <name name-style="western"><surname>Ahmad</surname><given-names>N.</given-names></name>; <name name-style="western"><surname>Ozden</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Jose</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Biradar</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Vajtai</surname><given-names>R.</given-names></name>; <name name-style="western"><surname>Trivedi</surname><given-names>R.</given-names></name>; <name name-style="western"><surname>Galvao</surname><given-names>D. S.</given-names></name>; <name name-style="western"><surname>Ajayan</surname><given-names>P. M.</given-names></name>
+<article-title>Synthesis
+and 3D interconnected nanostructured h-BN-based
+biocomposites by Low-Temperature plasma sintering: bone regeneration
+applications</article-title>. <source>ACS Omega</source>
+<year>2018</year>, <volume>3</volume>, <fpage>6013</fpage>–<lpage>6021</lpage>. <pub-id pub-id-type="doi">10.1021/acsomega.8b00707</pub-id>.<pub-id pub-id-type="pmid">30023937</pub-id><pub-id pub-id-type="pmcid">PMC6045471</pub-id></mixed-citation></ref></ref-list></back></article>

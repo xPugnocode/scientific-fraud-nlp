@@ -1,0 +1,404 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article article-type="research-article" xml:lang="en" dtd-version="1.4"><front><journal-meta><journal-id journal-id-type="nlm-ta">Cancer Med</journal-id><journal-id journal-id-type="iso-abbrev">Cancer Med</journal-id><journal-id journal-id-type="pmc-domain-id">1974</journal-id><journal-id journal-id-type="pmc-domain">canmed</journal-id><journal-id journal-id-type="nlm-id">101595310</journal-id><journal-id journal-id-type="publisher-id">CAM4</journal-id><journal-title-group><journal-title>Cancer Medicine</journal-title></journal-title-group><issn pub-type="epub">2045-7634</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC6382719</article-id><article-id pub-id-type="pmcid-ver">PMC6382719.1</article-id><article-id pub-id-type="pmcaid">6382719</article-id><article-id pub-id-type="pmcaiid">6382719</article-id><article-id pub-id-type="pmid">30656846</article-id><article-id pub-id-type="doi">10.1002/cam4.1951</article-id><article-id pub-id-type="publisher-id">CAM41951</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Cancer Biology</subject><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></subj-group></article-categories><title-group><article-title>MCCK1 enhances the anticancer effect of temozolomide in attenuating the invasion, migration and epithelial‐mesenchymal transition of glioblastoma cells in vitro and in vivo</article-title><alt-title alt-title-type="left-running-head">LIU et al.</alt-title></title-group><contrib-group><contrib id="cam41951-cr-0001" contrib-type="author"><name name-style="western"><surname>Liu</surname><given-names initials="T">Tie</given-names></name><xref ref-type="aff" rid="cam41951-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cam41951-cr-0002" contrib-type="author"><name name-style="western"><surname>Li</surname><given-names initials="A">Anqi</given-names></name><xref ref-type="aff" rid="cam41951-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cam41951-cr-0003" contrib-type="author" corresp="yes"><name name-style="western"><surname>Xu</surname><given-names initials="Y">Yulun</given-names></name><address><email>xuhuxi@sina.com</email></address><xref ref-type="aff" rid="cam41951-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cam41951-cr-0004" contrib-type="author" corresp="yes"><name name-style="western"><surname>Xin</surname><given-names initials="Y">Yu</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-5734-1656</contrib-id><address><email>yuxin_new@163.com</email></address><xref ref-type="aff" rid="cam41951-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="cam41951-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Neurosurgery</named-content>
+<institution>Beijing Tiantan Hospital, Capital Medical University</institution>
+<named-content content-type="city">Beijing</named-content>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Yu Xin and Yulun Xu, Beijing Tiantan Hospital, Capital Medical University, Beijing, China.<break/>
+Email: <email>yuxin_new@163.com</email> and <email>xuhuxi@sina.com</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>18</day><month>1</month><year>2019</year></pub-date><pub-date pub-type="collection"><month>2</month><year>2019</year></pub-date><volume>8</volume><issue>2</issue><issue-id pub-id-type="pmc-issue-id">329848</issue-id><issue-id pub-id-type="doi">10.1002/cam4.2019.8.issue-2</issue-id><fpage>751</fpage><lpage>760</lpage><history><date date-type="received"><day>28</day><month>6</month><year>2018</year></date><date date-type="rev-recd"><day>27</day><month>9</month><year>2018</year></date><date date-type="accepted"><day>27</day><month>9</month><year>2018</year></date></history><pub-history><event event-type="pmc-release"><date><day>18</day><month>01</month><year>2019</year></date></event><event event-type="pmc-live"><date><day>01</day><month>03</month><year>2019</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-02-07 17:25:15.753"><day>07</day><month>02</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2019 The Authors. <italic toggle="yes">Cancer Medicine</italic> published by John Wiley &amp; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="CAM4-8-751.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:CAM4-8-751.pdf"/><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="retraction-forward" xml:lang="en" xlink:title="retraction" vol="13" journal-id="Cancer Med" journal-id-type="nlm-ta" ext-link-type="pmc" xlink:href="PMC11465276"><article-title>
+<styled-content style="fixed-case" toggle="no">RETRACTION</styled-content>: <styled-content style="fixed-case" toggle="no">MCCK1</styled-content> enhances the anticancer effect of temozolomide in attenuating the invasion, migration and epithelial‐mesenchymal transition of glioblastoma cells in vitro and in vivo</article-title><volume>13</volume><issue seq="190">19</issue><date><day>10</day><month>10</month><year>2024</year></date><elocation-id>e70300</elocation-id><source>Cancer Medicine</source><pub-id pub-id-type="doi">10.1002/cam4.70300</pub-id><pub-id pub-id-type="pmcid">PMC11465276</pub-id><pub-id pub-id-type="pmid">39387476</pub-id></related-article><abstract id="cam41951-abs-0001"><title>Abstract</title><p>Chemotherapy with temozolomide (TMZ) is the traditional treatment for glioblastoma (GBM). Nevertheless, majority of GBM patients have recurrence from resistance to the chemotherapy. Herein, we examined combinational effects of MCCK1 (a specific and effective IKKε inhibitor) with TMZ in GBM U251MG and U‐87MG cell lines as well as U251MG xenograft models to overcome the therapeutic limitation of chemotherapy for GBM. Although MCCK1 alone showed inhibitory effects on in vitro proliferation, migration, invasion, and EMT of U251MG and U‐87MG cells, combination of MCCK1 and TMZ showed enhanced inhibitory effects. In the U251MG GBM xenograft models, MCCK1 showed synergistic therapeutic effects in combination with TMZ to reduce tumor volumes significantly. These data indicated that MCCK1 could be a candidate sensitizer to potentiate therapeutic effects of conventional cytotoxic treatment for GBM.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="cam41951-kwd-0001">epithelial‐mesenchymal transition</kwd><kwd id="cam41951-kwd-0002">glioblastoma therapy</kwd><kwd id="cam41951-kwd-0003">IKKε inhibitor</kwd><kwd id="cam41951-kwd-0004">MCCK1</kwd><kwd id="cam41951-kwd-0005">temozolomide</kwd></kwd-group><funding-group><award-group><funding-source>National Natural Science Foundation of China</funding-source><award-id>81672481</award-id></award-group></funding-group><counts><fig-count count="5"/><table-count count="0"/><page-count count="10"/><word-count count="11445"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>cam41951</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>February 2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.5.9 mode:remove_FC converted:20.02.2019</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="cam41951-cit-1001">
+<string-name name-style="western">
+<surname>Liu</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xin</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>MCCK1 enhances the anticancer effect of temozolomide in attenuating the invasion, migration and epithelial‐mesenchymal transition of glioblastoma cells in vitro and in vivo</article-title>. <source xml:lang="en">Cancer Med</source>. <year>2019</year>;<volume>8</volume>:<fpage>751</fpage>–<lpage>760</lpage>. <pub-id pub-id-type="doi">10.1002/cam4.1951</pub-id>
+<pub-id pub-id-type="pmcid">PMC6382719</pub-id><pub-id pub-id-type="pmid">30656846</pub-id><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="retraction-forward" ext-link-type="pmc" xlink:href="PMC11465276"/></mixed-citation>
+</p></notes></front><body><sec id="cam41951-sec-0001"><label>1</label><title>INTRODUCTION</title><p>Glioblastoma (GBM) is one of the most malignant and aggressive form of primary brain tumors.<xref rid="cam41951-bib-0001" ref-type="ref">1</xref> The clinical application of alkylating agent temozolomide (TMZ) is the biggest highlight of malignant GBM chemotherapy in nearly 10 years, and TMZ combined with radiotherapy has become the standard treatment for newly diagnosed GBM.<xref rid="cam41951-bib-0002" ref-type="ref">2</xref>
+</p><p>Inhibitor of nuclear factor kappa‐B kinase subunit epsilon (IKKε, also called IKBKE) is a noncanonical member of the IκB kinase (IKK) family containing a series of serine/threonine kinases that include IKKα, IKKβ, TBK1, and the adaptor protein IKKγ.<xref rid="cam41951-bib-0003" ref-type="ref">3</xref>, <xref rid="cam41951-bib-0004" ref-type="ref">4</xref> It is worth noting that IKKε has been identified as an oncogenic protein in Ref. <xref rid="cam41951-bib-0005" ref-type="ref">5</xref>. IKKε was found to be upregulated aberrantly in breast cancer,<xref rid="cam41951-bib-0006" ref-type="ref">6</xref> ovarian cancer,<xref rid="cam41951-bib-0007" ref-type="ref">7</xref> and GBM.<xref rid="cam41951-bib-0003" ref-type="ref">3</xref>, <xref rid="cam41951-bib-0008" ref-type="ref">8</xref>, <xref rid="cam41951-bib-0009" ref-type="ref">9</xref> Therefore, IKKε inhibition is a desirable GBM therapeutic strategy as evidenced by abundance of researches.<xref rid="cam41951-bib-0010" ref-type="ref">10</xref>, <xref rid="cam41951-bib-0011" ref-type="ref">11</xref>, <xref rid="cam41951-bib-0012" ref-type="ref">12</xref> For example, Liu <italic toggle="yes">et al </italic>reported that a selective inhibitor of IKKε (Amlexanox) had anticancer effect in human GBM cell lines.<xref rid="cam41951-bib-0005" ref-type="ref">5</xref> Another study showed that IKKε silence contributed to proliferation‐ and invasion‐inhibition of GBM cells.<xref rid="cam41951-bib-0013" ref-type="ref">13</xref> Collectively, these data strongly support the role of IKKε in tumorigenesis.</p><p>So far, only a few small molecular inhibitors of IKKε are available. Bx‐795 was the first IKK active inhibitor on the market, which inhibits TBK1 and IKKε in vitro at the level of nmol concentration.<xref rid="cam41951-bib-0014" ref-type="ref">14</xref> However, the poor specificity of Bx‐795 limits the application. Bx‐795 was originally developed as an inhibitor of 3‐phosphoinositol dependent protein kinase 1 and was found to inhibit IKKε later.<xref rid="cam41951-bib-0015" ref-type="ref">15</xref> Moreover, Bx‐795 showed off‐target effect on several other kinases, including JNK and p38MAP kinases.<xref rid="cam41951-bib-0016" ref-type="ref">16</xref> MRT67307 is an improved version of Bx‐795 without inhibition on JNK or p38MAP kinases. However, MRT67307 still interferes with the activities of TBK1 and PDK1.<xref rid="cam41951-bib-0016" ref-type="ref">16</xref> Therefore, it is necessary to develop a specific and effective IKKε inhibitor.<xref rid="cam41951-bib-0017" ref-type="ref">17</xref>
+</p><p>In our previous study (in press), we screened a specific and effective IKKε inhibitor, named MCCK1 (Malachite Green Oxalate), which was found to inhibit IKKε and the downstream factors such as IkBa, p65, and IRF3. MCCK1 was identified to reduce the resistance of GBM cells to TMZ, and significantly enhance the efficiency of TMZ to inhibit cell proliferation and induce apoptosis. In the present study, we aim to explore the effect of MCCK1 on invasion, migration, and epithelial‐mesenchymal transition (EMT) of GBM U251MG and U‐87MG. Meanwhile, the synergistic effects of MCCK1 and TMZ were studied.</p></sec><sec id="cam41951-sec-0002"><label>2</label><title>METHODS AND MATERIALS</title><sec id="cam41951-sec-0003"><label>2.1</label><title>Cell culture and reagents</title><p>The human GBM cell lines U‐251MG and U‐87MG (American Type Culture Collection) were separately cultured in Dulbecco's modified essential medium (DMEM; Gibco, Rockville, MD) and Eagle's Minimum Essential Medium (EMEM; Gibco) supplemented with 10% fetal bovine serum (FBS; Gibco), penicillin (100 units/mL; Gibco), and streptomycin (100 g/mL; Gibco). These cells were maintained at 37°C in an incubator with 5% CO<sub>2</sub>. MCCK1 was purchased from Sigma‐Aldrich and dissolved in 10% dimethyl sulphoxide (DMSO; Sigma‐Aldrich) to create a stock solution (100 mg/mL). Working concentrations were freshly prepared daily by diluting the stock with PBS. TMZ was purchased from Sigma‐Aldrich and dissolved in 10% DMSO (Sigma‐Aldrich) to create a stock solution (TMZ: 100 mg/mL).</p></sec><sec id="cam41951-sec-0004"><label>2.2</label><title>Cells and animals grouping</title><p>U‐251MG and U‐87MG cells were treated with NC (Ctrl), 2.5 μmol/L MCCK1 (MCCK1), 100 μmol/L TMZ (TMZ), and MCCK1 (2.5 μmol/L) + TMZ (100 μmol/L). The orthotopic xenograft models were established using female BALB/c athymic nude mice (6‐week‐old), and divided into four group with treatment of (a) cTRL (normal saline, every day from 1 day after tumor cell implantation), (b) MCCK1 (15 mg/kg, every day from 1 day after tumor cell implantation), (c) TMZ (2 mg/kg, every day from 1 day after tumor cell implantation), or (d) MCCK1 (15 mg/kg)+ TMZ (2 mg/kg).</p></sec><sec id="cam41951-sec-0005"><label>2.3</label><title>Cell counting kit‐8 cell viability assay</title><p>Cell counting kit‐8 (CCK‐8) assay was performed to test cell toxicity of MCCK1 and proliferation of U‐251MG and U‐87MG cells in this study. For toxicity test, the U‐251MG and U‐87MG cells treated with MCCK1 (0, 0.1, 0.25, 0.5, 1.0, 2.5, 5, 10, 25, 50, 100 μmol/L) for 48 hours, cells were collected to detect the OD490. For proliferation determination, U‐251MG and U‐87MG cells were pretreated with NC, 2.5 μmol/L MCCK1, 100 μmol/L TMZ and MCCK1 (2.5 μmol/L) + TMZ (100 μmol/L) for 24 hours, then cells were trypsinized and seeded into 96‐well plates at a density of 1.5 × 10<sup>3</sup> cells in 200 μL of full medium each well. After this, the plate was incubated at 37°C with 5% CO<sub>2</sub>. CCK‐8 assay was performed using CCK‐8 kit as the manufacturer's instructions for the next continuous 4 days. Absorbance at 490 nm (OD490) was detected by using a microplate reader (BioTek Instruments, Inc, Winooski, VT).</p></sec><sec id="cam41951-sec-0006"><label>2.4</label><title>Hoechst 33342 staining</title><p>U‐251MG and U‐87MG cells were detached from the culture dish and resuspended in DMEM medium containing 2% FBS at a density of 1 × 10<sup>6</sup> cells/mL. Then, cells were incubated with Hoechst 33342 staining solution (Sigma‐Aldrich) for 60 minutes at 37°C according to the manufacturer's instruction. Finally, cells were observed under a fluorescence microscopy. Apoptotic cell death was determined by counting the number of cells with condensed nuclei in six randomly selected areas.</p></sec><sec id="cam41951-sec-0007"><label>2.5</label><title>Western blotting analysis</title><p>U‐251MG and U‐87MG cells were treated with MCCK1 (2.5 μmol/L) or TMZ (100 μmol/L) for 48 hours. Cells were collected and tumors tissues were homogenized. Protein was extracted with RIPA lysis buffer adding cocktail (Sigma‐Aldrich) and phenylmethanesulfonyl fluoride (PMSF; Sigma‐Aldrich). Equal amounts of protein (40 µg) were resolved on (6%‐12%) SDS‐PAGE, transferred onto PVDF membranes (Millipore, Billerica, MA), probed with primary antibodies. Antibodies were as follows: antiVimentin (Abcam, Cambridge, MA), antiGAPDH (Abcam), antiKi67 (Abcam), antiCaspase‐3 (Abcam), antiVEGF (Abcam), antiMMP‐14 (Abcam), antiEcadherin (Abcam), antiTwist1 (Abcam), antizeb1 (Abcam), antizeb2 (Abcam), antiNcadherin (Abcam), antiSnail1 (Cell Signaling Technology, Beverly, MA). After incubation with the proper horseradish peroxidase (HRP)‐conjugated secondary antibody (Santa Cruz Biotechnology, Santa Cruz, CA), proteins were detected using a ChemiDoc xRS imaging system and Quantity One analysis software (Bio‐Rad Laboratories, San Francisco, CA). Antibodies were visualized the Amersham ECL Prime Western Blotting Detection Reagent (GE Healthcare, UK).</p></sec><sec id="cam41951-sec-0008"><label>2.6</label><title>Xenograft tumor model</title><p>For efficacy test of MCCK1 combined TMZ in vivo, we established the orthotopic xenograft models by intracranial injection using 6‐week‐old female athymic nude mice. To establish the orthotopic xenograft models, U‐251MG cells (2 × 10<sup>5</sup>/5 L Hank's balanced salt solution [HBSS], Gibco) were stereotypically injected into the left striata of mice. Animals were divided into four groups: NC (cTRL), MCCK1, TMZ, MCCK1+TMZ. Each group had eight mice, and mice were medicated by MCCK1 (5 mg/kg for every day via per oral) at 1 day after tumor cells injection. TMZ (2 mg/kg × 5 via per oral) 30 days after tumor cells injection. All animals were sacrificed at 30 days, median survival of the orthotopic xenograft model using U‐251MG a cells. Tumor diameter was measured using vernier caliper, and tumor volume determined by calculating the volume of an ellipsoid using the formula: (length × width<sup>2</sup> × 0.5).</p></sec><sec id="cam41951-sec-0009"><label>2.7</label><title>TUNEL</title><p>Terminal deoxynucleotidyl transferase‐mediated dUTP‐biotin nick end labeling (TUNEL) staining was performed to detect apoptosis in situ cell death according to the manufacturer's instructions (TUNEL Apoptosis detection kit: UPSTATE, Lake Placid, NY). TUNEL‐positive cells displayed brown staining within the nucleus of apoptotic cells. The extent of apoptosis was calculated and expressed as a number of TUNEL‐positive cells from the same field.</p></sec><sec id="cam41951-sec-0010"><label>2.8</label><title>Immunohistochemistry</title><p>The paraffin‐embedded tumor sections were stained for antiKi67, antiCaspase‐3, and antiVEGF (Abcam, Cambridge, UK). Sections (2 μm) were deparaffinized and pretreated with citrate buffer using a heat‐induced epitope retrieval protocol. Endogenous peroxidase was blocked with 20% hydrogen peroxide for 15 minutes at room temperature followed by incubation with antiKi67, antiCaspase‐3, and antiVEGF for 30 minutes, respectively. A biotinylated goat antimouse immunoglobulin G secondary antibody (Dako, Denmark) was then applied to each slide for 30 minutes. After washing in Tris‐hydrochloric acid buffer (TBS), the slides were incubated with peroxidase‐conjugated streptavidin complex reagent (Dako) and developed with 3,3′‐diaminobenzidine for 5 minutes. The slides were counterstained and dehydrated.</p></sec><sec id="cam41951-sec-0011"><label>2.9</label><title>Statistics analysis</title><p>The results were expressed as mean values ± standard deviation (SD) or standard effort (SE). Statistical comparisons were analyzed by one‐way analysis of variance (ANOVA) followed by the least significant difference (LSD) test. A significant level of &lt;0.05 was used for all tests. SPSS‐PASW statics software version 18.0 was used for all the statistical analyses.</p></sec></sec><sec id="cam41951-sec-0012"><label>3</label><title>RESULTS</title><sec id="cam41951-sec-0013"><label>3.1</label><title>MCCK1 enhanced the proliferation‐inhibiting and apoptosis‐promoting effect of TMZ</title><p>To clarify the influence of MCCK1 on GBM cells, we first performed a CCK‐8 assay using U‐251MG GBM cells treated with MCCK1 at concentrations of 0‐100 μmol/L for 24 hours, respectively. The result (Additional file 1) showed that MCCK1 exerted an inhibitory effect on GBM cells in a dose‐dependent manner (<italic toggle="yes">P</italic> &lt; 0.05; compared to 0 hour). The concentration of inhibited cell viability was at 2.5 μmol/L in U‐251MG cells. In addition, treatment with MCCK1 at 2.5 μmol/L did not induce significant cytotoxicity of U‐251MG cells. Thus, 2.5 μmol/L of MCCK1 was used for subsequent experiments. About 100 μmol/L TMZ was used as previous study.<xref rid="cam41951-bib-0018" ref-type="ref">18</xref> As shown in Figure <xref rid="cam41951-fig-0001" ref-type="fig">1</xref>A,B, both MCCK1 and TMZ suppressed the growth of U‐251MG and U‐87MG cells compared with the control (<italic toggle="yes">P &lt; </italic>0.05). However, the combination of MCCK1 and TMZ enhanced the proliferation‐inhibiting effect compared with the TMZ group (<italic toggle="yes">P &lt; </italic>0.05). As shown in Figure <xref rid="cam41951-fig-0001" ref-type="fig">1</xref>C‐H, both MCCK1 and TMZ promoted the apoptosis of U‐251MG and U‐87MG cells compared with the control (<italic toggle="yes">P &lt; </italic>0.05). In addition, the combination of MCCK1 and TMZ enhanced the apoptosis‐promoting effect compared with the TMZ used alone at the same dose (<italic toggle="yes">P &lt;</italic> 0.05). The present results were verified by western blot analysis of Ki67 and Caspase‐3 exhibited in Figure <xref rid="cam41951-fig-0001" ref-type="fig">1</xref>I,J. The relative expression of Ki67 was significantly reduced by MCCK1 and TMZ, and combination therapy (<italic toggle="yes">P &lt; </italic>0.05), while the expression of caspase‐3 exhibited reversed results.</p><fig fig-type="Figure" xml:lang="en" id="cam41951-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>MCCK1 enhanced the proliferation‐inhibiting and apoptosis‐promoting effect of TMZ. (A) U‐251MG and (B) U‐87MG cells were cultured in 96‐well plates and then treated with solvent only (Ctrl) or 100 μmol/L TMZ with 2.5 μmol/L MCCK1 for 48 h. OD490 of U‐251MG and U‐87MG cells were determined by CCK‐8. (C) Apoptosis of U‐251MG cells was detected by Hoechst 33258 staining. (D) The representative column diagrams showing results of apoptosis rate of U‐251MG cells. (E) Apoptosis of U‐87MG cells was detected by Hoechst 33258 staining. (F) The representative column diagrams showing results of apoptosis rate of U‐87MG cells. (G) Apoptosis of U‐87MG cells was detected by flow cytometry.(H) The representative column diagrams showing results of ratios of Q2 + Q4 in Figure <xref rid="cam41951-fig-0001" ref-type="fig">1</xref>G. (I) The protein expression was detected by western blot. GAPDH was used as the loading control. (J) The representative column diagrams showing results of relative protein expression. <italic toggle="yes">*P &lt; </italic>0.05, compared with Ctrl, <italic toggle="yes">#P &lt; </italic>0.05, compared with TMZ. Data are mean ± SEM for the three replicates</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-3" position="float" orientation="portrait" xlink:href="CAM4-8-751-g001.jpg"/></fig></sec><sec id="cam41951-sec-0014"><label>3.2</label><title>MCCK1 enhanced the invasion‐inhibiting and migration‐inhibiting effect of TMZ</title><p>U‐251MG and U‐87MG cells were treated as previous described. Wound healing assay and transwell assay were carried out separately for migration and invasion testing. As shown in Figure <xref rid="cam41951-fig-0002" ref-type="fig">2</xref>A and C, both MCCK1 and TMZ suppressed the numbers of invasive U‐251MG and U‐87MG cells compared with the control (<italic toggle="yes">P &lt;</italic> 0.05). Expectedly, the combination of MCCK1 and TMZ enhanced the invasion‐inhibiting effect compared with the TMZ group (<italic toggle="yes">P &lt; </italic>0.05). Similarly, both MCCK1 and TMZ suppressed the wound closure rate of U‐251MG and U‐87MG cells compared with the control (<italic toggle="yes">P &lt; </italic>0.05). Meanwhile, the combination of MCCK1 and TMZ enhanced the migration‐inhibiting effect compared with the TMZ used alone at the same dose (Figure <xref rid="cam41951-fig-0002" ref-type="fig">2</xref>B and D, <italic toggle="yes">P &lt;</italic> 0.05). The expression of metastasis‐related maker VEGF and MMP‐14 were conducted by western blot assay, the result demonstrated that the relative expression of VEGF and MMP‐14 were significantly reduced by combination therapy compared with the TMZ used alone at the same dose (Figure <xref rid="cam41951-fig-0002" ref-type="fig">2</xref>E‐J, <italic toggle="yes">P &lt; </italic>0.05).</p><fig fig-type="Figure" xml:lang="en" id="cam41951-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>MCCK1 enhanced the invasion‐inhibiting and migration‐inhibiting effect of TMZ. A, Cell invasion of U‐251MG was analyzed by Transwell assay (magnification, ×400). B, Cell migration of U‐251MG was analyzed by wound healing assay. The upper figures showed the four groups of U‐251MG cells scraped by a pipette tip at zero time, wound width = a. The lower figures showed the morphology at 24 h, wound width = b. Wound closure rate = (a−b)/a*%, (magnification, ×200). C, Cell invasion of U‐87MG was analyzed by Transwell assay (magnification, ×400). D, Cell migration of U‐87MG was analyzed by wound healing assay. E, The protein expression was detected by western blot. GAPDH was used as the loading control. F‐G, The representative column diagrams showing results of relative protein expression. <italic toggle="yes">*P &lt; </italic>0.05, compared with Ctrl<italic toggle="yes">, #P &lt;</italic> 0.05, compared with TMZ. Data are mean ± SEM for the three replicates</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-5" position="float" orientation="portrait" xlink:href="CAM4-8-751-g002.jpg"/></fig></sec><sec id="cam41951-sec-0015"><label>3.3</label><title>Combining MCCK1 and TMZ treatment reduced EMT of U‐251MG and U‐87MG cells</title><p>To clarify the mechanism of metastasis‐inhibiting effect of MCCK1 cooperating with TMZ, U‐251MG, and U‐87MG cells were treated as previous described and observed under a phase contrast microscope. As shown in Figure <xref rid="cam41951-fig-0003" ref-type="fig">3</xref>A, spindle‐shaped like cells were significantly reduced and flat cells were increased in MCCK1+TMZ group, this morphological feature indicated that cell adhesion was attenuated by combination therapy. We next detected the expression of EMT maker protein, including E‐cadherin, Twist1, zeb1, zeb2, N‐cadherin, Vimentin, and Snail. As a result, except E‐cadherin, the expression of Twist1, zeb1, zeb2, N‐cadherin, Vimentin, Snail were all inhibited by MCCK1, TMZ, or combination therapy (Figure <xref rid="cam41951-fig-0003" ref-type="fig">3</xref>B,C, <italic toggle="yes">P &lt; </italic>0.05). Moreover, we checked the expression of Vimentin by immunofluorescence. Green fluorescence represented the existence of Vimentin. MCCK1 and TMZ combination therapy obviously reduced green fluorescence (Figure <xref rid="cam41951-fig-0003" ref-type="fig">3</xref>D,E<italic toggle="yes">, P </italic>&lt; 0.05). These results indicated that combining MCCK1 and TMZ treatment significantly reduced EMT of U‐251MG and U‐87MG cells.</p><fig fig-type="Figure" xml:lang="en" id="cam41951-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Combining MCCK1 and TMZ treatment reversed EMT of GBM cells. A, Morphological changes in U‐251MG and U‐87MG cells (magnification, ×100). B, The protein expression was detected by western blot. GAPDH was used as the loading control. C, The representative column diagrams showing results of relative protein expression. D, Vimentin (green) in U‐251MG and U‐87MG cells was detected by immunocytochemistry. DAPI (blue) = nuclei. E, The representative column diagrams showing the Vimentin‐positive cells ratio. <italic toggle="yes">*P &lt; </italic>0.05, compared with Ctrl<italic toggle="yes">, #P &lt; </italic>0.05, compared with TMZ. Data are mean ± SEM for the three replicates</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-7" position="float" orientation="portrait" xlink:href="CAM4-8-751-g003.jpg"/></fig></sec><sec id="cam41951-sec-0016"><label>3.4</label><title>MCCK1 enhanced the growth‐inhibiting effect of TMZ in U‐251MG and U‐87MG orthotopic xenograft models</title><p>We employed U‐251MG and U‐87MG orthotopic xenograft models to confirm the in vitro combinational treatment result of MCCK1 in vivo. Node mice were treated with NC (cTRL), MCCK1 (15 mg/kg BW), TMZ (2 mg/kg BW), or MCCK1 (15 mg/kg BW) + TMZ (2 mg/kg BW) combination. Tumor volume and survival were analyzed for 30 days after tumor cell implantation. At the 30th day, mice were sacrificed for immunohistochemistry, TUNEL, and western blot assay. As shown in Figure <xref rid="cam41951-fig-0004" ref-type="fig">4</xref>A, the combination treatment with MCCK1 and TMZ significantly decreased xenograft tumor volume, while the single treatments of MCCK1 or TMZ slightly decreased tumors size. In addition, combination therapy dramatically increased the survival of nude mice (Figure <xref rid="cam41951-fig-0004" ref-type="fig">4</xref>B). The TUNEL result combined with immunohistochemistry result demonstrated that combination treatment with MCCK1 and TMZ significantly promoted apoptosis of xenograft tumor cells, immunohistochemistry of Caspase‐3 confirmed the elevated apoptosis (Figure <xref rid="cam41951-fig-0004" ref-type="fig">4</xref>C,D). Meanwhile, the low expression of Ki67 and VEGF indicated a suppression of invasion and proliferation by combination of MCCK1 and TMZ (Figure <xref rid="cam41951-fig-0004" ref-type="fig">4</xref>E,F). The EMT markers were detected in tumor tissues (Figure <xref rid="cam41951-fig-0005" ref-type="fig">5</xref>). Combination therapy significantly increased the E‐cadherin level and reduced the Twist1, zeb1, zeb2, vimentin, N‐cadherin, and Snail level (<italic toggle="yes">P &lt; </italic>0.05). The in vivo results were consistent with those in vitro<italic toggle="yes">.</italic>
+</p><fig fig-type="Figure" xml:lang="en" id="cam41951-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>MCCK1 enhanced the growth‐inhibiting effect of TMZ in vivo. A, Nude mice bearing subcutaneous xenograft GBMs were treated with cTRL, MCCK1, TMZ, and MCCK1+TMZ. The volume of tumor was determined every 5 days for 30 days. B, The survival of mice was determined every 3 days for 30 days. C, TUNEL assay was used to determine the apoptosis in MCCK1, TMZ, and combination therapy treated tumors compared with NC‐treated tumors (magnification, ×200). D, The representative column diagrams showing results of apoptosis rate. E, Immunohistochemistry analysis of expression of Ki67, Caspase‐3, and VEGF (magnification, ×200). F, The representative column diagrams showing results of positive cells (brown). <italic toggle="yes">*P &lt; </italic>0.05, compared with cTRL<italic toggle="yes">, #P &lt; </italic>0.05, compared with TMZ. The results were analyzed by one‐way ANOVA followed by the least significant difference (LSD) test</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-9" position="float" orientation="portrait" xlink:href="CAM4-8-751-g004.jpg"/></fig><fig fig-type="Figure" xml:lang="en" id="cam41951-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>MCCK1 enhanced the EMT‐inhibiting effect of TMZ in vivo. Western blot analysis showed that the protein expression of N‐cadherin, Vimentin, and Snail decreased, and the protein expression of E‐cadherin increased in tumors, especially in the MCCK1+ TMZ group. <italic toggle="yes">*P &lt; </italic>0.05, compared with cTRL<italic toggle="yes">, #P &lt; </italic>0.05, compared with TMZ. Data are mean ± SEM for the three replicates</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-11" position="float" orientation="portrait" xlink:href="CAM4-8-751-g005.jpg"/></fig></sec></sec><sec id="cam41951-sec-0017"><label>4</label><title>DISCUSSION</title><p>Glioblastoma is a malignant tumor characterized by high proliferative and invasive capability.<xref rid="cam41951-bib-0019" ref-type="ref">19</xref> Meanwhile, GBM is one of the most resistant tumors to conventional chemotherapy, which results in poor survival from traditional surgical tumor resection supplemented with chemotherapy or radiotherapy.<xref rid="cam41951-bib-0020" ref-type="ref">20</xref>, <xref rid="cam41951-bib-0021" ref-type="ref">21</xref> To overcome the barrier, current studies concentrate on combinations with other agents and on development of novel molecular targeting agents.<xref rid="cam41951-bib-0022" ref-type="ref">22</xref>, <xref rid="cam41951-bib-0023" ref-type="ref">23</xref>, <xref rid="cam41951-bib-0024" ref-type="ref">24</xref> Recently, improvement of TMZ resistance on GMB was reported largely.<xref rid="cam41951-bib-0018" ref-type="ref">18</xref>, <xref rid="cam41951-bib-0025" ref-type="ref">25</xref>, <xref rid="cam41951-bib-0026" ref-type="ref">26</xref>, <xref rid="cam41951-bib-0027" ref-type="ref">27</xref> For example, a varies of microRNAs and agents were found to enhance the sensitivity of GBM to TMZ.<xref rid="cam41951-bib-0018" ref-type="ref">18</xref>, <xref rid="cam41951-bib-0025" ref-type="ref">25</xref>, <xref rid="cam41951-bib-0026" ref-type="ref">26</xref>, <xref rid="cam41951-bib-0027" ref-type="ref">27</xref> In present study, we confirmed that MCCK1 enhanced proliferation‐inhibiting and apoptosis‐promoting effects of TMZ. We also demonstrated that MCCK1 enhanced the antimigratory and antiinvasive effects of TMZ.</p><p>MCCK1 is an oxalate form of malachite green (MG) oxalate form. MG, as a triphenylmethane dye, is used to control parasitic infections in aquaculture. Though previous study demonstrated that treatment with MG does not reduce reproductive potential of zebrafish fish, MG was reported to be a teratogenic or carcinogenic compound.<xref rid="cam41951-bib-0028" ref-type="ref">28</xref> As far as I know, this is the first time we point out MG has the anticancer property. In the present study, we determined the toxicity of MCCK1 on U‐251MG (see <xref rid="cam41951-sup-0001" ref-type="supplementary-material">Supporting Information</xref>). The treatment concentration more than 5 μmol/L of MCCK1 significantly reduced the cell viability<italic toggle="yes">. </italic>In vitro, treatment with doses (2.5 μmol/L) for 48 hours does not cause significant damage to U‐251MG cells, which suggests appropriate doses for studying in vitro experiments. We determined the influence of MCCK1 and TMZ on proliferation and apoptosis in U‐251MG and U‐87MG cells. In vivo, the decreased volume of xenograft tumor and increased the survival of xenograft tumor model mice confirmed the proliferation‐inhibiting effect of MCCK1. Collectedly, the results indicated that MCCK1 enhanced the proliferation‐inhibiting and apoptosis‐promoting effects of TMZ on U‐251MG and U‐87MG cells and xenograft tumor model mice.</p><p>Epithelial‐mesenchymal transition is a reversible biological process involved in embryogenesis, tissue regeneration and cancer progression.<xref rid="cam41951-bib-0029" ref-type="ref">29</xref> In primary tumors, the decreased epithelial markers such as E‐cadherin and the increased mesenchymal markers including N‐cadherin, vimentin, and Snail can promote the tumor invasion and metastasis.<xref rid="cam41951-bib-0003" ref-type="ref">3</xref>, <xref rid="cam41951-bib-0030" ref-type="ref">30</xref> Whether EMT has a real association with malignant GBM invasion remains controversial.<xref rid="cam41951-bib-0031" ref-type="ref">31</xref> Previous studies highlighted numerous EMT markers that play an important role in GBM malignancy.<xref rid="cam41951-bib-0032" ref-type="ref">32</xref> Myung <italic toggle="yes">et al</italic> demonstrated that Snail promoted EMT, cell proliferation, migration, and invasion in GBM.<xref rid="cam41951-bib-0033" ref-type="ref">33</xref> In the present study, both MCCK1 and TMZ suppressed the EMT of GBM in vitro, evidenced by decreased E‐cadherin and increased N‐cadherin, vimentin, and Snail as well as the morphological change. Compared with single MCCK1 or TMZ, the stronger inhibitory effect on EMT was observed in MCCK1 and TMZ combination. Further, in vivo study showed that nude mice treated with either MCCK1/TMZ or combination therapy attenuated the EMT. Our study indicated that MCCK1 enhanced the anticancer effect of TMZ in attenuating the invasion, migration, and EMT of GBM cells in vitro and in vivo.</p><p>Since the mechanism of how MCCK1 regulated invasion, migration, and EMT is not studied, it is reasonable to speculated that MCCK1 played antiGBM role via targeting IKKε. As evidenced by our previous study (in press), MCCK1 is a specific and effective IKKε inhibitor. Pervious study showed that IKKε could regulate GBM cell proliferation, migration, and invasion abilities in vitro and in vivo via the Hippo pathway.<xref rid="cam41951-bib-0003" ref-type="ref">3</xref> The research also revealed that IKKε could accelerate EMT of GBM cells.<xref rid="cam41951-bib-0003" ref-type="ref">3</xref> Another IKKε selective inhibitor, amlexanox was reported to generate antitumor effects by disrupting the Hippo pathway in human GBM cell lines.<xref rid="cam41951-bib-0005" ref-type="ref">5</xref> We guess that MCCK1 may inhibit IKKε to play anticancer role, but the regulatory mechanism of MCCK1 need to be further explored.</p><p>In summary, as a selective IKKε inhibitor, MCCK1 is proved to enhance the anticancer effect of TMZ in attenuating the invasion, migration, and EMT of GBM cells in vitro and in vivo<italic toggle="yes">.</italic> MCCK1 has the potential to become a novel chemical for GBM therapy combined with TMZ.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="cam41951-sup-0001" position="float" orientation="portrait"><caption><p> </p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CAM4-8-751-s001.tif" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="cam41951-sec-0018"><title>ACKNOWLEDGMENTS</title><p>This work was supported by the National Natural Science Foundation of China, Grant No. 81672481.</p></ack><ref-list content-type="cited-references" id="cam41951-bibl-0001"><title>REFERENCES</title><ref id="cam41951-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="cam41951-cit-0001">
+<string-name name-style="western">
+<surname>Golebiewska</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bougnaud</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stieber</surname>
+<given-names>NH</given-names>
+</string-name>, et al. <article-title>Side population in human glioblastoma is non‐tumorigenic and characterizes brain endothelial cells</article-title>. <source xml:lang="en">Brain</source>. <year>2013</year>;<volume>136</volume>:<fpage>1462</fpage>‐<lpage>1475</lpage>.<pub-id pub-id-type="pmid">23460667</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/brain/awt025</pub-id><pub-id pub-id-type="pmcid">PMC3634193</pub-id></mixed-citation></ref><ref id="cam41951-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="cam41951-cit-0002">
+<string-name name-style="western">
+<surname>Chen</surname>
+<given-names>CC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Taniguchi</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>D'Andrea</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>The Fanconi anemia (FA) pathway confers glioma resistance to DNA alkylating agents</article-title>. <source xml:lang="en">J Mol Med</source>. <year>2007</year>;<volume>85</volume>:<fpage>497</fpage>‐<lpage>509</lpage>.<pub-id pub-id-type="pmid">17221219</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00109-006-0153-2</pub-id></mixed-citation></ref><ref id="cam41951-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="cam41951-cit-0003">
+<string-name name-style="western">
+<surname>Lu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guo</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>IKBKE regulates cell proliferation and epithelial‐mesenchymal transition of human malignant glioma via the Hippo pathway</article-title>. <source xml:lang="en">Oncotarget</source>. <year>2017</year>;<volume>8</volume>:<fpage>49502</fpage>‐<lpage>49514</lpage>.<pub-id pub-id-type="pmid">28548934</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.18632/oncotarget.17738</pub-id><pub-id pub-id-type="pmcid">PMC5564784</pub-id></mixed-citation></ref><ref id="cam41951-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="cam41951-cit-0004">
+<string-name name-style="western">
+<surname>Yu</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yi</surname>
+<given-names>YS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Oh</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jeong</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cho</surname>
+<given-names>JY</given-names>
+</string-name>. <article-title>The pivotal role of TBK1 in inflammatory responses mediated by macrophages</article-title>. <source xml:lang="en">Mediators Inflamm</source>. <year>2012</year>;<volume>2012</volume>:<fpage>979105</fpage>.<pub-id pub-id-type="pmid">23304064</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1155/2012/979105</pub-id><pub-id pub-id-type="pmcid">PMC3523167</pub-id></mixed-citation></ref><ref id="cam41951-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="cam41951-cit-0005">
+<string-name name-style="western">
+<surname>Liu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>Z</given-names>
+</string-name>, et al. <article-title>Amlexanox, a selective inhibitor of IKBKE, generates anti‐tumoral effects by disrupting the Hippo pathway in human glioblastoma cell lines</article-title>. <source xml:lang="en">Cell Death Dis</source>. <year>2017</year>;<volume>8</volume>:<fpage>e3022</fpage>.<pub-id pub-id-type="pmid">29048430</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/cddis.2017.396</pub-id><pub-id pub-id-type="pmcid">PMC5596579</pub-id></mixed-citation></ref><ref id="cam41951-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="cam41951-cit-0006">
+<string-name name-style="western">
+<surname>Boehm</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yao</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Integrative genomic approaches identify IKBKE as a breast cancer oncogene</article-title>. <source xml:lang="en">Cell</source>. <year>2007</year>;<volume>129</volume>:<fpage>1065</fpage>‐<lpage>1079</lpage>.<pub-id pub-id-type="pmid">17574021</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cell.2007.03.052</pub-id></mixed-citation></ref><ref id="cam41951-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="cam41951-cit-0007">
+<string-name name-style="western">
+<surname>Guo</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shu</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>He</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Deregulation of IKBKE is associated with tumor progression, poor prognosis, and cisplatin resistance in ovarian cancer</article-title>. <source xml:lang="en">Am J Pathol</source>. <year>2009</year>;<volume>175</volume>:<fpage>324</fpage>‐<lpage>333</lpage>.<pub-id pub-id-type="pmid">19497997</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.2353/ajpath.2009.080767</pub-id><pub-id pub-id-type="pmcid">PMC2708818</pub-id></mixed-citation></ref><ref id="cam41951-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="cam41951-cit-0008">
+<string-name name-style="western">
+<surname>Guan</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cai</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>IKBKE is over‐expressed in glioma and contributes to resistance of glioma cells to apoptosis via activating NF‐kappaB</article-title>. <source xml:lang="en">J Pathol</source>. <year>2011</year>;<volume>223</volume>:<fpage>436</fpage>‐<lpage>445</lpage>.<pub-id pub-id-type="pmid">21171089</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/path.2815</pub-id></mixed-citation></ref><ref id="cam41951-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="cam41951-cit-0009">
+<string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guo</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>IKBKE promotes glioblastoma progression by establishing the regulatory feedback loop of IKBKE/YAP1/miR‐Let‐7b/i</article-title>. <source xml:lang="en">Tumour Biol</source>. <year>2017</year>;<volume>39</volume>:<fpage>1010428317705575</fpage>.<pub-id pub-id-type="pmid">28677425</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/1010428317705575</pub-id></mixed-citation></ref><ref id="cam41951-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="cam41951-cit-0010">
+<string-name name-style="western">
+<surname>Wang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guo</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>MiR‐98 promotes apoptosis of glioma cells via suppressing IKBKE/NF‐kappaB pathway</article-title>. <source xml:lang="en">Technol Cancer Res Treat</source>. <year>2017</year>;<volume>16</volume>:<fpage>1226</fpage>‐<lpage>1234</lpage>.<pub-id pub-id-type="pmid">29333957</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/1533034617745761</pub-id><pub-id pub-id-type="pmcid">PMC5762096</pub-id></mixed-citation></ref><ref id="cam41951-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="cam41951-cit-0011">
+<string-name name-style="western">
+<surname>Tian</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hao</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ye</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>MicroRNAs let‐7b/i suppress human glioma cell invasion and migration by targeting IKBKE directly</article-title>. <source xml:lang="en">Biochem Biophys Res Comm</source>. <year>2015</year>;<volume>458</volume>:<fpage>307</fpage>‐<lpage>312</lpage>.<pub-id pub-id-type="pmid">25656572</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bbrc.2015.01.105</pub-id></mixed-citation></ref><ref id="cam41951-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="cam41951-cit-0012">
+<string-name name-style="western">
+<surname>Fan</surname>
+<given-names>YH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ye</surname>
+<given-names>MH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Overexpression of miR‐98 inhibits cell invasion in glioma cell lines via downregulation of IKKepsilon</article-title>. <source xml:lang="en">Eur Rev Med Pharmacol Sci</source>. <year>2015</year>;<volume>19</volume>:<fpage>3593</fpage>‐<lpage>3604</lpage>.<pub-id pub-id-type="pmid">26502849</pub-id></mixed-citation></ref><ref id="cam41951-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="cam41951-cit-0013">
+<string-name name-style="western">
+<surname>Li</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Silencing of IKKepsilon using siRNA inhibits proliferation and invasion of glioma cells in vitro and in vivo</article-title>. <source xml:lang="en">Int J Oncol</source>. <year>2012</year>;<volume>41</volume>:<fpage>169</fpage>‐<lpage>178</lpage>.<pub-id pub-id-type="pmid">22552702</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3892/ijo.2012.1452</pub-id></mixed-citation></ref><ref id="cam41951-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="cam41951-cit-0014">
+<string-name name-style="western">
+<surname>Clark</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Plater</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Peggie</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cohen</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Use of the pharmacological inhibitor BX795 to study the regulation and physiological roles of TBK1 and IkappaB kinase epsilon: a distinct upstream kinase mediates Ser‐172 phosphorylation and activation</article-title>. <source xml:lang="en">J Biol Chem</source>. <year>2009</year>;<volume>284</volume>:<fpage>14136</fpage>‐<lpage>14146</lpage>.<pub-id pub-id-type="pmid">19307177</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1074/jbc.M109.000414</pub-id><pub-id pub-id-type="pmcid">PMC2682862</pub-id></mixed-citation></ref><ref id="cam41951-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="cam41951-cit-0015">
+<string-name name-style="western">
+<surname>Wang</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Block</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cowen</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Discovery of azabenzimidazole derivatives as potent, selective inhibitors of TBK1/IKKepsilon kinases</article-title>. <source xml:lang="en">Bioorg Med Chem Lett</source>. <year>2012</year>;<volume>22</volume>:<fpage>2063</fpage>‐<lpage>2069</lpage>.<pub-id pub-id-type="pmid">22305584</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bmcl.2012.01.018</pub-id></mixed-citation></ref><ref id="cam41951-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="cam41951-cit-0016">
+<string-name name-style="western">
+<surname>Clark</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Peggie</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Plater</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Novel cross‐talk within the IKK family controls innate immunity</article-title>. <source xml:lang="en">Biochem J</source>. <year>2011</year>;<volume>434</volume>:<fpage>93</fpage>‐<lpage>104</lpage>.<pub-id pub-id-type="pmid">21138416</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1042/BJ20101701</pub-id></mixed-citation></ref><ref id="cam41951-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="cam41951-cit-0017">
+<string-name name-style="western">
+<surname>McIver</surname>
+<given-names>EG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bryans</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Birchall</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Synthesis and structure‐activity relationships of a novel series of pyrimidines as potent inhibitors of TBK1/IKKepsilon kinases</article-title>. <source xml:lang="en">Bioorg Med Chem Lett</source>. <year>2012</year>;<volume>22</volume>:<fpage>7169</fpage>‐<lpage>7173</lpage>.<pub-id pub-id-type="pmid">23099093</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bmcl.2012.09.063</pub-id></mixed-citation></ref><ref id="cam41951-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="cam41951-cit-0018">
+<string-name name-style="western">
+<surname>Li</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cai</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>GANT61, a GLI inhibitor, sensitizes glioma cells to the temozolomide treatment</article-title>. <source xml:lang="en">J Exp Clin Cancer Res</source>. <year>2016</year>;<volume>35</volume>:<fpage>184</fpage>.<pub-id pub-id-type="pmid">27894350</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13046-016-0463-3</pub-id><pub-id pub-id-type="pmcid">PMC5127098</pub-id></mixed-citation></ref><ref id="cam41951-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="cam41951-cit-0019">
+<string-name name-style="western">
+<surname>Garcia</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Perez‐Caro</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gomez‐Moreta</surname>
+<given-names>JA</given-names>
+</string-name>, et al. <article-title>Molecular analysis of ex‐vivo CD133+ GBM cells revealed a common invasive and angiogenic profile but different proliferative signatures among high grade gliomas</article-title>. <source xml:lang="en">BMC Cancer</source>. <year>2010</year>;<volume>10</volume>:<fpage>454</fpage>.<pub-id pub-id-type="pmid">20735813</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/1471-2407-10-454</pub-id><pub-id pub-id-type="pmcid">PMC2939550</pub-id></mixed-citation></ref><ref id="cam41951-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="cam41951-cit-0020">
+<string-name name-style="western">
+<surname>Tobias</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ahmed</surname>
+<given-names>KS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Moon</surname>
+<given-names>MS</given-names>
+</string-name>. <article-title>Lesniak, The art of gene therapy for glioma: a review of the challenging road to the bedside</article-title>. <source xml:lang="en">J Neurol Neurosurg Psychiatry</source>. <year>2013</year>;<volume>84</volume>:<fpage>213</fpage>‐<lpage>222</lpage>.<pub-id pub-id-type="pmid">22993449</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/jnnp-2012-302946</pub-id><pub-id pub-id-type="pmcid">PMC3543505</pub-id></mixed-citation></ref><ref id="cam41951-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="cam41951-cit-0021">
+<string-name name-style="western">
+<surname>Chen</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Song</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mohamad</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yu</surname>
+<given-names>SP</given-names>
+</string-name>. <article-title>Inhibition of Na+/K+‐ATPase induces hybrid cell death and enhanced sensitivity to chemotherapy in human glioblastoma cells</article-title>. <source xml:lang="en">BMC Cancer</source>. <year>2014</year>;<volume>14</volume>:<fpage>716</fpage>.<pub-id pub-id-type="pmid">25255962</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/1471-2407-14-716</pub-id><pub-id pub-id-type="pmcid">PMC4190379</pub-id></mixed-citation></ref><ref id="cam41951-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="cam41951-cit-0022">
+<string-name name-style="western">
+<surname>Ohka</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Natsume</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wakabayashi</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Current trends in targeted therapies for glioblastoma multiforme</article-title>. <source xml:lang="en">Neurol Res Int</source>. <year>2012</year>;<volume>2012</volume>:<fpage>878425</fpage>.<pub-id pub-id-type="pmid">22530127</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1155/2012/878425</pub-id><pub-id pub-id-type="pmcid">PMC3317017</pub-id></mixed-citation></ref><ref id="cam41951-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="cam41951-cit-0023">
+<string-name name-style="western">
+<surname>Kahn</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hayman</surname>
+<given-names>TJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jamal</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>The mTORC1/mTORC2 inhibitor AZD2014 enhances the radiosensitivity of glioblastoma stem‐like cells</article-title>. <source xml:lang="en">Neuro‐Oncology</source>. <year>2014</year>;<volume>16</volume>:<fpage>29</fpage>‐<lpage>37</lpage>.<pub-id pub-id-type="pmid">24311635</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/neuonc/not139</pub-id><pub-id pub-id-type="pmcid">PMC3870843</pub-id></mixed-citation></ref><ref id="cam41951-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="cam41951-cit-0024">
+<string-name name-style="western">
+<surname>Kuger</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Graus</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brendtke</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Radiosensitization of glioblastoma cell lines by the dual PI3K and mTOR inhibitor NVP‐BEZ235 depends on drug‐irradiation schedule</article-title>. <source xml:lang="en">Transl Oncol</source>. <year>2013</year>;<volume>6</volume>:<fpage>169</fpage>‐<lpage>179</lpage>.<pub-id pub-id-type="pmid">23544169</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1593/tlo.12364</pub-id><pub-id pub-id-type="pmcid">PMC3610553</pub-id></mixed-citation></ref><ref id="cam41951-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="cam41951-cit-0025">
+<string-name name-style="western">
+<surname>Shi</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wan</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sun</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zeng</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>miR‐125b inhibitor may enhance the invasion‐prevention activity of temozolomide in glioblastoma stem cells by targeting PIAS3</article-title>. <source xml:lang="en">BioDrugs</source>. <year>2014</year>;<volume>28</volume>:<fpage>41</fpage>‐<lpage>54</lpage>.<pub-id pub-id-type="pmid">23857508</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s40259-013-0053-2</pub-id></mixed-citation></ref><ref id="cam41951-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="cam41951-cit-0026">
+<string-name name-style="western">
+<surname>She</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yu</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cui</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>miR‐128 and miR‐149 enhance the chemosensitivity of temozolomide by Rap1B‐mediated cytoskeletal remodeling in glioblastoma</article-title>. <source xml:lang="en">Oncol Rep</source>. <year>2014</year>;<volume>32</volume>:<fpage>957</fpage>‐<lpage>964</lpage>.<pub-id pub-id-type="pmid">25017996</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3892/or.2014.3318</pub-id></mixed-citation></ref><ref id="cam41951-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="cam41951-cit-0027">
+<string-name name-style="western">
+<surname>Woo</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ham</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kang</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>KML001, a telomere‐targeting drug, sensitizes glioblastoma cells to temozolomide chemotherapy and radiotherapy through DNA damage and apoptosis</article-title>. <source xml:lang="en">Biomed Res Int</source>. <year>2014</year>;<volume>2014</volume>:<fpage>747415</fpage>.<pub-id pub-id-type="pmid">25295271</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1155/2014/747415</pub-id><pub-id pub-id-type="pmcid">PMC4176651</pub-id></mixed-citation></ref><ref id="cam41951-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="cam41951-cit-0028">
+<string-name name-style="western">
+<surname>White</surname>
+<given-names>CR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Davies</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Henry</surname>
+<given-names>TB</given-names>
+</string-name>. <article-title>Malachite green toxicity and effects on reproductive success in zebrafish <italic toggle="yes">Danio rerio</italic>
+</article-title>. <source xml:lang="en">Zebrafish</source>. <year>2012</year>;<volume>9</volume>:<fpage>135</fpage>‐<lpage>139</lpage>.<pub-id pub-id-type="pmid">22849548</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1089/zeb.2012.0762</pub-id></mixed-citation></ref><ref id="cam41951-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="cam41951-cit-0029">
+<string-name name-style="western">
+<surname>Li</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>IKBKE upregulation is positively associated with squamous cell carcinoma of the lung in vivo and malignant transformation of human bronchial epithelial cells in vitro</article-title>. <source xml:lang="en">Med Sci Monit</source>. <year>2015</year>;<volume>21</volume>:<fpage>1577</fpage>‐<lpage>1586</lpage>.<pub-id pub-id-type="pmid">26025939</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.12659/MSM.893815</pub-id><pub-id pub-id-type="pmcid">PMC4461048</pub-id></mixed-citation></ref><ref id="cam41951-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="cam41951-cit-0030">
+<string-name name-style="western">
+<surname>Malik</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Villanova</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tanaka</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>SIRT7 inactivation reverses metastatic phenotypes in epithelial and mesenchymal tumors</article-title>. <source xml:lang="en">Sci Rep</source>. <year>2015</year>;<volume>5</volume>:<fpage>9841</fpage>.<pub-id pub-id-type="pmid">25923013</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/srep09841</pub-id><pub-id pub-id-type="pmcid">PMC4413894</pub-id></mixed-citation></ref><ref id="cam41951-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="cam41951-cit-0031">
+<string-name name-style="western">
+<surname>Han</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Six‐transmembrane epithelial antigen of prostate 3 predicts poor prognosis and promotes glioblastoma growth and invasion</article-title>. <source xml:lang="en">Neoplasia</source>. <year>2018</year>;<volume>20</volume>:<fpage>543</fpage>‐<lpage>554</lpage>.<pub-id pub-id-type="pmid">29730475</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neo.2018.04.002</pub-id><pub-id pub-id-type="pmcid">PMC5994776</pub-id></mixed-citation></ref><ref id="cam41951-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="cam41951-cit-0032">
+<string-name name-style="western">
+<surname>Zeng</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yan</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>YW</given-names>
+</string-name>, et al. <article-title>Tumour exosomes from cells harbouring PTPRZ1‐MET fusion contribute to a malignant phenotype and temozolomide chemoresistance in glioblastoma</article-title>. <source xml:lang="en">Oncogene</source>. <year>2017</year>;<volume>36</volume>:<fpage>5369</fpage>‐<lpage>5381</lpage>.<pub-id pub-id-type="pmid">28504721</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/onc.2017.134</pub-id><pub-id pub-id-type="pmcid">PMC5611480</pub-id></mixed-citation></ref><ref id="cam41951-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="cam41951-cit-0033">
+<string-name name-style="western">
+<surname>Myung</surname>
+<given-names>JK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Choi</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kim</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>KC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Park</surname>
+<given-names>SH</given-names>
+</string-name>. <article-title>Snail plays an oncogenic role in glioblastoma by promoting epithelial mesenchymal transition</article-title>. <source xml:lang="en">Int J Clin Exp Pathol</source>. <year>2014</year>;<volume>7</volume>:<fpage>1977</fpage>‐<lpage>1987</lpage>.<pub-id pub-id-type="pmid">24966907</pub-id><pub-id pub-id-type="pmcid">PMC4069885</pub-id></mixed-citation></ref></ref-list></back></article>

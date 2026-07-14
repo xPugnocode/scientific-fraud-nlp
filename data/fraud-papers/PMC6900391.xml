@@ -1,0 +1,522 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article article-type="research-article" xml:lang="en" dtd-version="1.4"><front><journal-meta><journal-id journal-id-type="nlm-ta">Mol Genet Genomic Med</journal-id><journal-id journal-id-type="iso-abbrev">Mol Genet Genomic Med</journal-id><journal-id journal-id-type="pmc-domain-id">2232</journal-id><journal-id journal-id-type="pmc-domain">mggmopen</journal-id><journal-id journal-id-type="nlm-id">101603758</journal-id><journal-id journal-id-type="publisher-id">MGG3</journal-id><journal-title-group><journal-title>Molecular Genetics &amp; Genomic Medicine</journal-title></journal-title-group><issn pub-type="epub">2324-9269</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC6900391</article-id><article-id pub-id-type="pmcid-ver">PMC6900391.1</article-id><article-id pub-id-type="pmcaid">6900391</article-id><article-id pub-id-type="pmcaiid">6900391</article-id><article-id pub-id-type="pmid">31573758</article-id><article-id pub-id-type="doi">10.1002/mgg3.991</article-id><article-id pub-id-type="publisher-id">MGG3991</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Articles</subject></subj-group></article-categories><title-group><article-title>Circular RNA circ‐TSPAN4 promotes lung adenocarcinoma metastasis by upregulating <italic toggle="yes">ZEB1</italic> via sponging miR‐665</article-title><alt-title alt-title-type="left-running-head">YING et al.</alt-title></title-group><contrib-group><contrib id="mgg3991-cr-0001" contrib-type="author"><name name-style="western"><surname>Ying</surname><given-names initials="X">Xiwang</given-names></name><xref ref-type="aff" rid="mgg3991-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="mgg3991-cr-0002" contrib-type="author"><name name-style="western"><surname>Zhu</surname><given-names initials="J">Jianwei</given-names></name><xref ref-type="aff" rid="mgg3991-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="mgg3991-cr-0003" contrib-type="author" corresp="yes"><name name-style="western"><surname>Zhang</surname><given-names initials="Y">Yuanhui</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-2189-128X</contrib-id><xref ref-type="aff" rid="mgg3991-aff-0002">
+<sup>2</sup>
+</xref><address><email>tangjiahl@163.com</email></address></contrib></contrib-group><aff id="mgg3991-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Respiratory Medicine</named-content>
+<institution>Hangzhou Third People's Hospital</institution>
+<city>Hangzhou</city>
+<named-content content-type="country-part">Zhejiang</named-content>
+<country country="CN">China</country>
+</aff><aff id="mgg3991-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Medical Oncology</named-content>
+<institution>Hangzhou Cancer Hospital</institution>
+<city>Hangzhou</city>
+<named-content content-type="country-part">Zhejiang</named-content>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Yuanhui Zhang, Department of Medical Oncology, Hangzhou Cancer Hospital, Hangzhou, Zhejiang 310002, China.<break/>
+Email: <email>tangjiahl@163.com</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>01</day><month>10</month><year>2019</year></pub-date><pub-date pub-type="collection"><month>12</month><year>2019</year></pub-date><volume>7</volume><issue>12</issue><issue-id pub-id-type="pmc-issue-id">347328</issue-id><issue-id pub-id-type="doi">10.1002/mgg3.v7.12</issue-id><elocation-id>e991</elocation-id><history><date date-type="received"><day>06</day><month>5</month><year>2019</year></date><date date-type="rev-recd"><day>31</day><month>8</month><year>2019</year></date><date date-type="accepted"><day>03</day><month>9</month><year>2019</year></date></history><pub-history><event event-type="pmc-release"><date><day>01</day><month>10</month><year>2019</year></date></event><event event-type="pmc-live"><date><day>20</day><month>12</month><year>2019</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2023-10-02 17:25:25.297"><day>02</day><month>10</month><year>2023</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2019 Hangzhou Cancer Hospital. <italic toggle="yes">Molecular Genetics &amp; Genomic Medicine</italic> published by Wiley Periodicals, Inc.</copyright-statement><license license-type="creativeCommonsBy"><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="MGG3-7-e991.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:MGG3-7-e991.pdf"/><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="retraction-forward" xml:lang="en" xlink:title="retraction" elocation-id="e2165" journal-id="Mol Genet Genomic Med" journal-id-type="nlm-ta" ext-link-type="pmc" xlink:href="PMC10178787"><article-title>Circular RNA circ‐TSPAN4 promotes lung adenocarcinoma metastasis by upregulating ZEB1 via sponging miR‐665</article-title><volume>11</volume><issue seq="170">5</issue><date><day>12</day><month>4</month><year>2023</year></date><elocation-id>e2165</elocation-id><source>Molecular Genetics &amp; Genomic Medicine</source><pub-id pub-id-type="pmcid">PMC10178787</pub-id><pub-id pub-id-type="pmid">37051642</pub-id></related-article><abstract id="mgg3991-abs-0001"><title>Abstract</title><sec id="mgg3991-sec-0001"><title>Background</title><p>Cancer metastasis is responsible for 90% of cancer‐related deaths. Recently, circular RNA (circRNA) is deemed to be an important regulator of cancer progression. However, little is known about the role of circRNA in the metastasis of lung adenocarcinoma (LUAD). Herein, we investigated the clinical implication and regulatory effect of circ‐TSPAN4 (hsa_circ_0020732) in LUAD.</p></sec><sec id="mgg3991-sec-0002"><title>Methods</title><p>Gene Expression Omnibus (GEO) database (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE104854">http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE104854</ext-link>) was used to identify the aberrantly expressed circRNAs in LUAD. The expression levels of circ‐TSPAN4, miR‐4731‐5p, miR‐665, and <italic toggle="yes">ZEB1</italic> were determined by quantitative reverse transcription PCR (qRT‐PCR). The functional experiments were carried out with wound healing and transwell assays. And, the luciferase reporter and RNA pull‐down assays were employed to examine the crosstalk between circ‐TSPAN4, miR‐665, and <italic toggle="yes">ZEB1</italic>. In vivo metastasis experiment was tested by the lung metastasis model.</p></sec><sec id="mgg3991-sec-0003"><title>Results</title><p>Circ‐TSPAN4 was significantly upregulated in LUAD tissues and cell lines. The increased circ‐TSPAN4 was linked to advanced tumor‐node‐metastasis stage, lymph node and distant metastasis, and poor outcome. Lentivirus‐mediated stably circ‐TSPAN4 knockdown dramatically attenuated the metastatic ability of LUAD cells both in vitro and in vivo. Mechanistically, circ‐TSPAN4 directly interacted with miR‐665, but not miR‐4731‐5p, to increase the expression of <italic toggle="yes">ZEB1</italic>, which is a well‐known metastasis trigger. Importantly, the reduced metastatic capacity caused by circ‐TSPAN4 depletion was partially rescued by miR‐665 silencing or <italic toggle="yes">ZEB1</italic> overexpression.</p></sec><sec id="mgg3991-sec-0004"><title>Conclusions</title><p>Circ‐TSPAN4 plays a pivotal metastasis‐promoting role in LUAD through acting as a sponge for miR‐665 and upregulating <italic toggle="yes">ZEB1</italic>.</p></sec></abstract><abstract abstract-type="graphical" id="mgg3991-abs-0002"><p>We identified a novel circRNA, circ‐TSPAN4, which was significantly upregulated in LUAD and predicted poor outcome. Stably knockdown of circ‐TSPAN4 inhibited LUAD cell metastasis both in vitro and in vivo. Circ‐TSPAN4 acted as an effective sponge for miR‐665. Circ‐TSPAN4 promoted LUAD metastasis by regulating miR‐665/ZEB1 axis.<boxed-text position="anchor" content-type="graphic" id="mgg3991-blkfxd-0001" orientation="portrait"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="nlm-graphic-1" orientation="portrait" xlink:href="MGG3-7-e991-g005.jpg"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="mgg3991-kwd-0001">circular RNA</kwd><kwd id="mgg3991-kwd-0002">lung adenocarcinoma</kwd><kwd id="mgg3991-kwd-0003">metastasis</kwd><kwd id="mgg3991-kwd-0004">microRNA</kwd><kwd id="mgg3991-kwd-0005">prognosis</kwd></kwd-group><counts><fig-count count="4"/><table-count count="1"/><page-count count="10"/><word-count count="5054"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>December 2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.2 mode:remove_FC converted:08.12.2019</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="mgg3991-cit-1001">
+<string-name name-style="western">
+<surname>Ying</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>Circular RNA circ‐TSPAN4 promotes lung adenocarcinoma metastasis by upregulating <italic toggle="yes">ZEB1</italic> via sponging miR‐665</article-title>. <source xml:lang="en">Mol Genet Genomic Med</source>. <year>2019</year>;<volume>7</volume>:<elocation-id>e991</elocation-id>
+<pub-id pub-id-type="doi">10.1002/mgg3.991</pub-id>
+<pub-id pub-id-type="pmcid">PMC6900391</pub-id><pub-id pub-id-type="pmid">31573758</pub-id><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="retraction-forward" ext-link-type="pmc" xlink:href="PMC10178787"/></mixed-citation>
+</p></notes></front><body id="mgg3991-body-0001"><sec id="mgg3991-sec-0005"><label>1</label><title>INTRODUCTION</title><p>Lung adenocarcinoma (LUAD), the most common type of primary lung cancer (accounting for approximately 40%), is the leading cause of cancer‐related mortality worldwide (Myers &amp; Wallen, <xref rid="mgg3991-bib-0015" ref-type="ref">2019</xref>). Despite the considerable sustained efforts have been paid in the diagnosis and treatment of LUAD, it is still the most aggressive and rapidly fatal disease with a 5‐year survival rate of less than 15%, especially in patients with metastasis (Kolomeyer, Brucker, &amp; O'Brien, <xref rid="mgg3991-bib-0010" ref-type="ref">2017</xref>). Therefore, it is urgent to elucidate the mechanism of LUAD metastasis to improve this dismal prognosis.</p><p>Circular RNA (circRNA) is a special type of endogenous noncoding RNA that harbors a covalent closed‐loop structure with high stability and conservativeness (Ebbesen, Kjems, &amp; Hansen, <xref rid="mgg3991-bib-0006" ref-type="ref">2016</xref>). Although the first circRNA was identified in the early 1990s (Nigro et al., <xref rid="mgg3991-bib-0016" ref-type="ref">1991</xref>), this transcript has long been considered as a by‐product of splicing. Nevertheless, with the advent of next‐generation sequencing (NGS), a large number of circRNAs have been found among various species, especially in eukaryotes, and they are expressed in a tissue‐ and developmental stage‐ specific manner (Holdt, Kohlmaier, &amp; Teupser, <xref rid="mgg3991-bib-0008" ref-type="ref">2018</xref>). Multiple lines of evidence show that circRNA is closely related to human diseases, including cancer (Kristensen, Hansen, Veno, &amp; Kjems, <xref rid="mgg3991-bib-0011" ref-type="ref">2018</xref>; Rong et al., <xref rid="mgg3991-bib-0021" ref-type="ref">2017</xref>). Currently, several functions of circRNA have been proposed, such as acting as a molecular sponge of microRNAs (miRNAs), interacting with proteins, regulating host gene, and even translating proteins, and the most widely known of which is its role as a miRNA sponge (Shang, Yang, Jia, &amp; Ge, <xref rid="mgg3991-bib-0022" ref-type="ref">2019</xref>; Zhong et al., <xref rid="mgg3991-bib-0032" ref-type="ref">2018</xref>). Five years ago, two different research groups simultaneously reported a novel circRNA, CDR1as, with more than 70 selectively conserved miR‐7 binding sites (Hansen et al., <xref rid="mgg3991-bib-0007" ref-type="ref">2013</xref>; Memczak et al., <xref rid="mgg3991-bib-0014" ref-type="ref">2013</xref>). Subsequent numerous studies confirmed the miRNA sponge function of circRNA and found that circRNA was capable of tightly controlling cancer progression through this mechanism (Panda, <xref rid="mgg3991-bib-0018" ref-type="ref">2018</xref>). For instance, circ‐MYLK (Zhong et al., <xref rid="mgg3991-bib-0033" ref-type="ref">2017</xref>), circ‐SMAD2 (Zhang et al., <xref rid="mgg3991-bib-0029" ref-type="ref">2018</xref>), circ‐HIPK3 (Zeng, Chen, et al., <xref rid="mgg3991-bib-0027" ref-type="ref">2018</xref>; Zeng, He, et al., <xref rid="mgg3991-bib-0028" ref-type="ref">2018</xref>), circTADA2As (Xu et al., <xref rid="mgg3991-bib-0025" ref-type="ref">2019</xref>), and circNRIP1 (Zhang, Wang, Wang, et al., <xref rid="mgg3991-bib-0030" ref-type="ref">2019</xref>; Zhang, Wang, Zhu, et al., <xref rid="mgg3991-bib-0031" ref-type="ref">2019</xref>) have recently been shown to be the key regulator in bladder cancer, hepatocellular carcinoma, colorectal cancer, breast cancer, and gastric cancer by sponging miR‐29a, miR‐629, miR‐7, miR‐203a‐3p, and miR‐149‐5p, respectively. However, the regulatory role of circRNA in LUAD progression, especially in metastasis, remains largely unknown.</p><p>In the current study, we identified a novel circRNA, circ‐TSPAN4 (hsa_circ_0020732), which was highly expressed in LUAD tissues and cells and linked to the metastatic clinical characteristics. Further, we also addressed the underlying mechanism through which circ‐TSPAN4 facilitated LUAD metastasis.</p></sec><sec sec-type="materials-and-methods" id="mgg3991-sec-0006"><label>2</label><title>MATERIALS AND METHODS</title><sec id="mgg3991-sec-0007"><label>2.1</label><title>Ethical compliance</title><p>All procedures in the present study were approved by the Ethics Committee and the Institutional Animal Care and Use Committee review board of Hangzhou Cancer Hospital.</p></sec><sec id="mgg3991-sec-0008"><label>2.2</label><title>Patient tissues</title><p>A total of 78 pairs of fresh frozen LUAD and paracancerous normal tissues were collected from patients diagnosed with LUAD who underwent surgical resection in Hangzhou Cancer Hospital. The samples were immediately placed into liquid nitrogen to preserve RNA integrity. All patients enrolled in this study provided the written informed consent and we followed them up after surgery. The procedures were approved by the Ethics Committee of Hangzhou Cancer Hospital.</p></sec><sec id="mgg3991-sec-0009"><label>2.3</label><title>Quantitative reverse transcription PCR (qRT‐PCR)</title><p>Trizol reagent (Invitrogen) was utilized to isolate the total RNA in LUAD tissues and cell lines. Then, the cDNA was synthesized and RNA quantification was tested by SYBR Green Master kit (Takara). RNA expression levels were determined by 2<sup>−ΔΔCt</sup> method and normalized to β‐actin and U6 for circ‐TSPAN4/<italic toggle="yes">ZEB1</italic> (Gene ID: 6935) and miR‐4731‐5p/miR‐665, respectively. The primers used in this study were as follows:</p><p>circ‐TSPAN4: 5′‐TGGACCCCTCACCTACATTC‐3′ (Forward), 5′‐TGGACCCCTCACCTACATTC‐3′ (Reverse);</p><p>miR‐4731‐5p: 5′‐GGGGGCCACATGAGT‐3′ (Forward), 5′‐GGTCCAGTTTTTTTTTTTTTTTCACA‐3′ (Reverse);</p><p>miR‐665‐5p: 5′‐CAGACCAGGAGGCTGAG‐3′ (Forward), 5′‐GGTCCAGTTTTTTTTTTTTTTTAGGG‐3′ (Reverse);</p><p>
+<italic toggle="yes">ZEB1</italic>: 5′‐CACCAGATGCATTTTCACAA‐3′ (Forward), 5′‐GTGTAACTGCACAGGGAGCA‐3′ (Reverse).</p></sec><sec id="mgg3991-sec-0010"><label>2.4</label><title>Cell lines and transfection</title><p>The normal human bronchial epithelial cell line (HBE) and five LUAD cell lines, including A549, H1975, H1993, PC9, and H1299, were all purchased from American Type Culture Collection (ATCC) and routinely maintained in DMEM or RPMI1640 medium supplemented with 10% fetal bovine serum. H1975 and H1993 cells with relatively high endogenous circ‐TSPAN4 expression were selected to establish stably circ‐TSPAN4 knockdown cell lines. The pLV‐hU6‐MCS‐CMV‐Puromycin lentiviral vector (Biosettia) was infected into H1975 and H1993 cells with infection enhancer 6 μg/ml polybrene, then the stable cell lines were obtained by selection with puromycin for 10 days. The infection efficiency was verified by qRT‐PCR analysis. The sequences of two shRNAs against circ‐TSPAN4 were as follows: sh‐circ‐TSPAN4#1:5′‐AGCAACCTTGCCGTGCTACGA‐3′; sh‐circ‐TSPAN4#2:5′‐CAACCTTGCCGTGCTACGAGA‐3′;</p><p>Besides, miR‐4731‐5p mimics, miR‐665 mimics and inhibitors (Gene‐Pharma, Shanghai, China) and the pCMVp‐NEO‐BAN plasmid vector (Addgene) containing full‐length cDNA of human <italic toggle="yes">ZEB1</italic> were transfected into H1975 and H1993 cells using Lipofectamine 2000 (Invitrogen) according to the manufacturer's protocol, followed by qRT‐PCR analysis for the transfection efficiency.</p></sec><sec id="mgg3991-sec-0011"><label>2.5</label><title>Cell wound scratch and transwell assays</title><p>The migratory and invasive abilities of LUAD H1975 and H1993 cells were determined by cell wound scratch and transwell assays, respectively. The protocol was described previously (Wang et al., <xref rid="mgg3991-bib-0024" ref-type="ref">2019</xref>).</p></sec><sec id="mgg3991-sec-0012"><label>2.6</label><title>Establishment of lung metastasis model</title><p>A total of 10 BALB/c nude mice were purchased from Model Animal Research Center of Nanjing University (Nanjing, China). 2 × 10<sup>6</sup> stably circ‐TSPAN4 knockdown H1993 cells and control cells were tail vein injected into nude mice, respectively. Lung metastasis was monitored by the IVIS Lumina II system. After 6 weeks, all mice were sacrificed and the lung tissues were collected for Haematoxylin‐eosin staining. All protocols were approved by the Institutional Animal Care and Use Committee review board of Hangzhou Cancer Hospital.</p></sec><sec id="mgg3991-sec-0013"><label>2.7</label><title>Luciferase reporter assay</title><p>The full‐length sequences of circ‐TSPAN4 and <italic toggle="yes">ZEB1</italic> 3′‐UTR comprising miR‐4731‐5p or miR‐665 binding site were synthesized and, respectively, inserted into pMIR‐REPORT™ vector (Ambion) to construct luciferase vector. Next, miR‐4731‐5p or miR‐665 mimics and above luciferase vector were cotransfected into H1975 and H1993 cells using Lipofectamine 2000 (Invitrogen) according to the manufacturer's protocol, followed by detection of luciferase activity with Luciferase Reporter Assay System (Promega) 48 hr after cotransfection.</p></sec><sec id="mgg3991-sec-0014"><label>2.8</label><title>RNA pull‐down assay</title><p>The circ‐TSPAN4 probe labeled with biotin was commercially purchased from Sangon Biotech (Shanghai, China) and then incubated with streptavidin magnetic beads (Invitrogen) for 1.5 hr at 37°C, followed by incubation with the lysates from H1975 and H1993 cells at 4°C overnight. Lastly, the RNA enriched by circ‐TSPAN4 probe was extracted using Trizol reagent and was subjected to qRT‐PCR analysis.</p></sec><sec id="mgg3991-sec-0015"><label>2.9</label><title>Western blot</title><p>The stably circ‐TSPAN4‐depleted H1975 and H1993 cells were transfected with miR‐665 inhibitors. After 48 hr, total protein was extracted by RAPI lysis buffer and boiled for 5 min at 100°C, followed by transfer and incubation with anti‐<italic toggle="yes">ZEB1</italic> primary antibody (Cell Signaling Technology#3396, 1:1,000) at 4°C overnight with gentle shaking. The next day, the membrane was incubated with secondary antibody labeled with horseradish peroxidase and chemiluminescence detection was conducted with the New Super ECL Detection Solution (KeyGEN BioTECH).</p></sec><sec id="mgg3991-sec-0016"><label>2.10</label><title>Statistical analysis</title><p>All data are presented as mean ± <italic toggle="yes">SD</italic> of at least three independent experiments. Differences between two groups were calculated using Student's <italic toggle="yes">t</italic> or Chi‐square test. The correlation between circ‐TSPAN4 and LUAD clinicopathological features or miR‐665 expression was analyzed using Chi‐square test or Pearson's correlation test. The survival curves of LUAD patients were drawn by Kaplan–Meier plot and calculated by Log‐rank test. *<italic toggle="yes">p</italic> &lt; .05.</p></sec></sec><sec sec-type="results" id="mgg3991-sec-0017"><label>3</label><title>RESULTS</title><sec id="mgg3991-sec-0018"><label>3.1</label><title>Circ‐TSPAN4 is overexpressed in LUAD and predicts unfavorable prognosis</title><p>To identify the aberrantly expressed circRNAs LUAD, we first analyzed the Gene Expression Omnibus (GEO) database (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE104854">http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE104854</ext-link>) containing three pairs of LUAD and adjacent normal tissues. The greatest fold change in expression of an unreported circRNA, circ‐TSPAN4, has attracted our attention (Figure <xref rid="mgg3991-fig-0001" ref-type="fig">1</xref>a). We then collected 78 pairs of LUAD and paracancerous tissues to validate this result. As shown in Figure <xref rid="mgg3991-fig-0001" ref-type="fig">1</xref>b, the expression level of circ‐TSPAN4 was averagely fourfold increased in LUAD as compared to adjacent normal tissues. Likewise, circ‐TSPAN4 was uniformly upregulated in five LUAD cell lines (Figure <xref rid="mgg3991-fig-0001" ref-type="fig">1</xref>c). Moreover, we found that high circ‐TSPAN4 expression was closely associated with early tumor‐node‐metastasis stage, lymph node, and distant metastasis (Table <xref rid="mgg3991-tbl-0001" ref-type="table">1</xref>). And, the area under the receiver operating characteristic curve (AUC) value of circ‐TSPAN4 expression levels for metastatic versus nonmetastatic LUAD patients was 0.912 (95% CI 0.8363–0.9883) (Figure <xref rid="mgg3991-fig-0001" ref-type="fig">1</xref>d). More importantly, the overall survival time of patients with high circ‐TSPAN4 expression was significantly shorter than patients with low circ‐TSPAN4 expression (Figure <xref rid="mgg3991-fig-0001" ref-type="fig">1</xref>e), and the prognostic utility of circ‐TSPAN4 for LUAD patients was highly considerable with an AUC value of 0.907 (95% CI 0.8662–0.9482) (Figure <xref rid="mgg3991-fig-0001" ref-type="fig">1</xref>f). Collectively, these data suggest that circ‐TSPAN4 is remarkably increased in LUAD and may serve as a promising prognostic biomarker for LUAD patients.</p><fig fig-type="Figure" xml:lang="en" id="mgg3991-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Circ‐TSPAN4 is highly expressed in LUAD. (a) The top five differentially expressed circRNAs in GEO database (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE104854">http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE104854</ext-link>) containing three pairs of LUAD and adjacent normal tissues. (b, c) qRT‐PCR analysis for circ‐TSPAN4 expression in LUAD tissues and cell lines. (d) The receiver operating characteristic (ROC) curve of circ‐TSPAN4 expression levels in metastatic versus nonmetastatic LUAD patients. (e) The overall survival curve of LUAD patients with high and low circ‐TSPAN4 expression. (f) The ROC curve of circ‐TSPAN4 expression levels in alive versus dead LUAD patients. All data are presented as mean ± <italic toggle="yes">SD</italic> of at least three independent experiments</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-3" position="float" orientation="portrait" xlink:href="MGG3-7-e991-g001.jpg"/></fig><table-wrap id="mgg3991-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>The correlation between circ‐TSPAN4 expression and clinicopathological features in LUAD patients</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="bottom" colspan="1">Parameters</th><th align="left" rowspan="2" valign="bottom" colspan="1">All cases</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">circ‐TSPAN4 expression</th><th align="left" rowspan="2" valign="bottom" colspan="1">
+<italic toggle="yes">P</italic> value</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Low</th><th align="left" valign="bottom" rowspan="1" colspan="1">High</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Gender</td><td align="char" char="." rowspan="1" colspan="1"> </td><td align="char" char="." rowspan="1" colspan="1"> </td><td align="char" char="." rowspan="1" colspan="1"> </td><td align="left" rowspan="1" colspan="1"> </td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Male</td><td align="char" char="." rowspan="1" colspan="1">48</td><td align="char" char="." rowspan="1" colspan="1">22</td><td align="char" char="." rowspan="1" colspan="1">26</td><td align="char" char="." rowspan="2" colspan="1">.352</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Female</td><td align="char" char="." rowspan="1" colspan="1">30</td><td align="char" char="." rowspan="1" colspan="1">17</td><td align="char" char="." rowspan="1" colspan="1">13</td></tr><tr><td align="left" rowspan="1" colspan="1">Age (years)</td><td align="char" char="." rowspan="1" colspan="1"> </td><td align="char" char="." rowspan="1" colspan="1"> </td><td align="char" char="." rowspan="1" colspan="1"> </td><td align="char" char="." rowspan="1" colspan="1"> </td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">≤65</td><td align="char" char="." rowspan="1" colspan="1">44</td><td align="char" char="." rowspan="1" colspan="1">21</td><td align="char" char="." rowspan="1" colspan="1">23</td><td align="char" char="." rowspan="2" colspan="1">.842</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&gt;65</td><td align="char" char="." rowspan="1" colspan="1">34</td><td align="char" char="." rowspan="1" colspan="1">17</td><td align="char" char="." rowspan="1" colspan="1">17</td></tr><tr><td align="left" rowspan="1" colspan="1">Tumor size</td><td align="char" char="." rowspan="1" colspan="1"> </td><td align="char" char="." rowspan="1" colspan="1"> </td><td align="char" char="." rowspan="1" colspan="1"> </td><td align="char" char="." rowspan="1" colspan="1"> </td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">≤3</td><td align="char" char="." rowspan="1" colspan="1">36</td><td align="char" char="." rowspan="1" colspan="1">21</td><td align="char" char="." rowspan="1" colspan="1">15</td><td align="char" char="." rowspan="2" colspan="1">.173</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&gt;3</td><td align="char" char="." rowspan="1" colspan="1">42</td><td align="char" char="." rowspan="1" colspan="1">18</td><td align="char" char="." rowspan="1" colspan="1">24</td></tr><tr><td align="left" rowspan="1" colspan="1">Lymph node metastasis</td><td align="char" char="." rowspan="1" colspan="1"> </td><td align="char" char="." rowspan="1" colspan="1"> </td><td align="char" char="." rowspan="1" colspan="1"> </td><td align="char" char="." rowspan="1" colspan="1"> </td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">No</td><td align="char" char="." rowspan="1" colspan="1">38</td><td align="char" char="." rowspan="1" colspan="1">26</td><td align="char" char="." rowspan="1" colspan="1">12</td><td align="char" char="." rowspan="2" colspan="1">.002</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Yes</td><td align="char" char="." rowspan="1" colspan="1">40</td><td align="char" char="." rowspan="1" colspan="1">13</td><td align="char" char="." rowspan="1" colspan="1">27</td></tr><tr><td align="left" rowspan="1" colspan="1">TNM stage</td><td align="char" char="." rowspan="1" colspan="1"> </td><td align="char" char="." rowspan="1" colspan="1"> </td><td align="char" char="." rowspan="1" colspan="1"> </td><td align="char" char="." rowspan="1" colspan="1"> </td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">I‐II</td><td align="char" char="." rowspan="1" colspan="1">41</td><td align="char" char="." rowspan="1" colspan="1">26</td><td align="char" char="." rowspan="1" colspan="1">15</td><td align="char" char="." rowspan="2" colspan="1">.013</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">III‐IV</td><td align="char" char="." rowspan="1" colspan="1">37</td><td align="char" char="." rowspan="1" colspan="1">13</td><td align="char" char="." rowspan="1" colspan="1">24</td></tr><tr><td align="left" rowspan="1" colspan="1">Distant metastasis</td><td align="char" char="." rowspan="1" colspan="1"> </td><td align="char" char="." rowspan="1" colspan="1"> </td><td align="char" char="." rowspan="1" colspan="1"> </td><td align="char" char="." rowspan="1" colspan="1"> </td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">No</td><td align="char" char="." rowspan="1" colspan="1">62</td><td align="char" char="." rowspan="1" colspan="1">35</td><td align="char" char="." rowspan="1" colspan="1">27</td><td align="char" char="." rowspan="2" colspan="1">.025</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Yes</td><td align="char" char="." rowspan="1" colspan="1">16</td><td align="char" char="." rowspan="1" colspan="1">4</td><td align="char" char="." rowspan="1" colspan="1">12</td></tr></tbody></table><table-wrap-foot id="mgg3991-ntgp-1000"><fn id="mgg3991-note-1001"><p>Abbreviation: TNM, tumor‐node‐metastasis.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="mgg3991-sec-0019"><label>3.2</label><title>Depletion of circ‐TSPAN4 suppresses LUAD cell metastasis both in vitro and in vivo</title><p>To determine the biological function of circ‐TSPAN4 in LUAD, we used the lentiviral vectors to stably knockdown circ‐TSPAN4 in H1975 and H1993 cells with relatively high expression of endogenous circ‐TSPAN4, and the knockdown efficiency was confirmed by qRT‐PCR (Figure <xref rid="mgg3991-fig-0002" ref-type="fig">2</xref>a). The wound healing and transwell assays showed that the knockdown of circ‐TSPAN4 led to a nearly twofold decrease in the migratory and invasive capacities of H1975 and H1993 cells when compared to control cells (Figure <xref rid="mgg3991-fig-0002" ref-type="fig">2</xref>b–d). In addition, the lung metastasis model was established to evaluate whether circ‐TSPAN4 also functioned in vivo. Consistently, less lung metastasis nodules were observed in nude mice injected with circ‐TSPAN4‐depleted H1993 cells compared with those injected with control cells (Figure <xref rid="mgg3991-fig-0002" ref-type="fig">2</xref>e,f). Overall, these results indicate that circ‐TSPAN4 is a pro‐metastasis circRNA in LUAD.</p><fig fig-type="Figure" xml:lang="en" id="mgg3991-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Knockdown of circ‐TSPAN4 inhibits LUAD metastasis. (a) qRT‐PCR analysis for circ‐TSPAN4 expression in stably circ‐TSPAN4‐depleted H1975 and H1993 cell lines. (b‐d) Cell wound scratch and transwell assays in stably circ‐TSPAN4‐depleted H1975 and H1993 cells. (e, f) Lung metastasis model was established by tail vein injection of circ‐TSPAN4‐depleted H1993 cells, the lung metastasis was monitored by the IVIS Lumina II system and Haematoxylin‐eosin staining. <bold>*</bold>
+<italic toggle="yes">p</italic> &lt; .05. All data are presented as mean ± <italic toggle="yes">SD</italic> of at least three independent experiments</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-5" position="float" orientation="portrait" xlink:href="MGG3-7-e991-g002.jpg"/></fig></sec><sec id="mgg3991-sec-0020"><label>3.3</label><title>Circ‐TSPAN4 directly interacts with miR‐665 in LUAD cells</title><p>Next, we found that circ‐TSPAN4 was mainly located in the cytoplasm (Figure <xref rid="mgg3991-fig-0003" ref-type="fig">3</xref>a). Given that cytoplasmic circRNA mainly functions by acting as an effective molecular sponge for miRNAs, we thus searched for miRNAs that might be adsorbed by circ‐TSPAN4 via using the RegRNA 2.0 online software (Chang et al., <xref rid="mgg3991-bib-0003" ref-type="ref">2013</xref>). Only two miRNAs, miR‐4731‐5p and miR‐665, were predicted to harbor circ‐TSPAN4 binding site (score ≥170 &amp; free_energy ≤−25) (Figure <xref rid="mgg3991-fig-0003" ref-type="fig">3</xref>b). To confirm this prediction, we performed the luciferase reporter assay in H1975 and H1993 cells, the results showed that enforced expression of miR‐665, but not miR‐4731‐5p, could dramatically reduce the luciferase activity of wild‐type circ‐TSPAN4 luciferase vector, whereas did not affect the luciferase activity of mutant one (Figure <xref rid="mgg3991-fig-0003" ref-type="fig">3</xref>c,d). Subsequently, biotinylated RNA pull‐down assay was carried out to investigate whether circ‐TSPAN4 could directly bind miR‐665. As shown in Figure <xref rid="mgg3991-fig-0003" ref-type="fig">3</xref>e, an approximately 3.8‐fold enrichment of miR‐665 rather than miR‐4731‐5p by circ‐TSPAN4 probe was observed in H1975 and H1993 cells as compared with control probe. Moreover, circ‐TSPAN4 depletion notably elevated miR‐665 expression in LUAD cells (Figure <xref rid="mgg3991-fig-0003" ref-type="fig">3</xref>f). Clinically, miR‐665 was significantly decreased in LUAD tissues compared with paired normal tissues (Figure <xref rid="mgg3991-fig-0003" ref-type="fig">3</xref>g). And, LUAD patients with low miR‐665 expression displayed shorter overall survival time than patients with high miR‐665 expression (survival data from Kaplan–Meier plotter (Lanczky et al., <xref rid="mgg3991-bib-0012" ref-type="ref">2016</xref>)) (Figure <xref rid="mgg3991-fig-0003" ref-type="fig">3</xref>h). Taken together, these reveal that circ‐TSPAN4 is capable to serve as an efficacious sponge for miR‐665 in LUAD.</p><fig fig-type="Figure" xml:lang="en" id="mgg3991-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Circ‐TSPAN4 acts as a sponge for miR‐665. (a) qRT‐PCR analysis of the location of circ‐TSPAN4 in H1975 and H1993 cells. (b) The predicted circ‐TSPAN4 binding RNA secondary structure of miR‐4731‐5p and miR‐665. (c, d) The luciferase reporter assays in H1975 and H1993 cells cotransfected with wild‐type or mutant circ‐TSPAN4 luciferase vector and control or miR‐4731‐5p/miR‐665 mimics. (e) RNA pull‐down assays in H1975 and H1993 cells with biotin‐labeled control or circ‐TSPAN4 probe, followed by qRT‐PCR analysis for the expression of miR‐4731‐5p and miR‐665. (f) qRT‐PCR analysis for miR‐665 expression in stably circ‐TSPAN4‐depleted H1975 and H1993 cells. (g) qRT‐PCR analysis for miR‐665 expression in LUAD and paired normal tissues. (h) The overall survival curve of LUAD patients with high and low miR‐665 expression. <bold>*</bold>
+<italic toggle="yes">p</italic> &lt; .05. All data are presented as mean ± <italic toggle="yes">SD</italic> of at least three independent experiments</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-7" position="float" orientation="portrait" xlink:href="MGG3-7-e991-g003.jpg"/></fig></sec><sec id="mgg3991-sec-0021"><label>3.4</label><title>Circ‐TSPAN4 contributes to LUAD cell migration and invasion through regulating miR‐665/<italic toggle="yes">ZEB1</italic> axis</title><p>By the prediction of miR‐665 targets using TargetScan online database (Agarwal, Bell, Nam, &amp; Bartel, <xref rid="mgg3991-bib-0001" ref-type="ref">2015</xref>), we found that the well‐known pro‐metastasis gene <italic toggle="yes">ZEB1</italic> might be a downstream target of miR‐665 (Figure <xref rid="mgg3991-fig-0004" ref-type="fig">4</xref>a). This finding was confirmed by luciferase reporter assay in which overexpression of miR‐665 significantly decreased the luciferase activity of wild‐type <italic toggle="yes">ZEB1</italic> 3′‐UTR luciferase vector, but not the mutant one (Figure <xref rid="mgg3991-fig-0004" ref-type="fig">4</xref>b,c). In light of the interaction between circ‐TSPAN4 and miR‐665, we reasoned that circ‐TSPAN4 might indirectly alter the expression of <italic toggle="yes">ZEB1</italic> via miR‐665. As expected, circ‐TSPAN4 knockdown dramatically downregulated <italic toggle="yes">ZEB1</italic> and <italic toggle="yes">N‐cadherin</italic> expression, while upregulated <italic toggle="yes">E‐cadherin</italic> expression, and these effects were partly blocked after silencing of miR‐665 in both H1975 and H1993 cells (Figure <xref rid="mgg3991-fig-0004" ref-type="fig">4</xref>d,e, Figure <xref rid="mgg3991-sup-0001" ref-type="supplementary-material">S1</xref>). In addition, we found that <italic toggle="yes">ZEB1</italic> was highly expressed in LUAD (Figure <xref rid="mgg3991-fig-0004" ref-type="fig">4</xref>f) and there was a strong positive correlation between circ‐TSPAN4 and <italic toggle="yes">ZEB1</italic> expression in LUAD tissues (<italic toggle="yes">r</italic> = 0.736, <italic toggle="yes">p</italic> &lt; .001) (Figure <xref rid="mgg3991-fig-0004" ref-type="fig">4</xref>g). Of note, the reduced migratory and invasive capabilities caused by circ‐TSPAN4 depletion were partially rescued by miR‐665 silencing or <italic toggle="yes">ZEB1</italic> overexpression (Figure <xref rid="mgg3991-fig-0004" ref-type="fig">4</xref>h,i). In all, these above findings demonstrate that circ‐TSPAN4 can upregulate <italic toggle="yes">ZEB1</italic> expression via sponging and inhibiting miR‐665 in LUAD.</p><fig fig-type="Figure" xml:lang="en" id="mgg3991-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Circ‐TSPAN4 promotes LUAD metastasis by elevating <italic toggle="yes">ZEB1</italic> via sponging miR‐665. (a) The predicted miR‐665 binding site on the 3′‐UTR of <italic toggle="yes">ZEB1</italic>. (b, c) The luciferase reporter assays in H1975 and H1993 cells cotransfected with wild‐type or mutant <italic toggle="yes">ZEB1</italic> 3′‐UTR luciferase vector and control or miR‐665 mimics. (d, e) Western blot analysis for <italic toggle="yes">ZEB1</italic> protein expression in stably circ‐TSPAN4‐depleted H1975 and H1993 cells transfected with miR‐665 inhibitors. (f) qRT‐PCR analysis for <italic toggle="yes">ZEB1</italic> expression in LUAD and paired normal tissues. (g) The correlation between circ‐TSPAN4 and <italic toggle="yes">ZEB1</italic> expression in LUAD tissues. (h, i) Cell wound scratch and transwell assays in stably circ‐TSPAN4‐depleted H1975 and H1993 cells transfected with miR‐665 inhibitors or <italic toggle="yes">ZEB1</italic> expression vector. <bold>*</bold>
+<italic toggle="yes">p</italic> &lt; .05. All data are presented as mean ± <italic toggle="yes">SD</italic> of at least three independent experiments</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-9" position="float" orientation="portrait" xlink:href="MGG3-7-e991-g004.jpg"/></fig></sec></sec><sec sec-type="discussion" id="mgg3991-sec-0022"><label>4</label><title>DISCUSSION</title><p>A growing body of evidence shows that circRNA is frequently dysregulated in human cancer and plays an essential role through various biological functions. Here, we identified a novel dysregulated circRNA, circ‐TSPAN4, which was markedly increased in LUAD and closely related to metastatic properties and poor survival. Subsequent mechanism studies revealed that circ‐TSPAN4 could densely sponge miR‐665 and elevate <italic toggle="yes">ZEB1</italic> expression, thereby promoting LUAD metastasis. Therefore, our data advance the understanding of circRNA in LUAD and provide robust evidence for the key role of circ‐TSPAN4/miR‐665/<italic toggle="yes">ZEB1</italic> pathway in LUAD metastasis.</p><p>Due to the high stability and abundance of circRNA, it may serve as a promising biomarker for human cancer. Indeed, numerous studies have confirmed this point.(Cui et al., <xref rid="mgg3991-bib-0005" ref-type="ref">2018</xref>) For example, circ‐SMARCA5 (Li et al., <xref rid="mgg3991-bib-0013" ref-type="ref">2019</xref>), circ‐PRMT5 (Chen et al., <xref rid="mgg3991-bib-0004" ref-type="ref">2018</xref>), circ‐ADAMTS9 (Rong et al., <xref rid="mgg3991-bib-0020" ref-type="ref">2018</xref>), circ‐ANKS1B (Zeng, Chen, et al., <xref rid="mgg3991-bib-0027" ref-type="ref">2018</xref>; Zeng, He, et al., <xref rid="mgg3991-bib-0028" ref-type="ref">2018</xref>), and circ‐SMAD7 (Zhang, Wang, Wang, et al., <xref rid="mgg3991-bib-0030" ref-type="ref">2019</xref>; Zhang, Wang, Zhu, et al., <xref rid="mgg3991-bib-0031" ref-type="ref">2019</xref>) were proved to be the diagnostic or prognostic biomarkers for hepatocellular carcinoma, bladder cancer, gastric cancer, breast cancer, and esophageal squamous cell carcinoma, respectively. Likewise, several circRNAs were also identified as the potential biomarkers for LUAD, such as circ‐PRKCI (Qiu et al., <xref rid="mgg3991-bib-0019" ref-type="ref">2018</xref>), circ‐ARFGEF2 (Yu, Jiang, Zhang, &amp; Li, <xref rid="mgg3991-bib-0026" ref-type="ref">2018</xref>), and circ‐ACP6 (Zhu et al., <xref rid="mgg3991-bib-0035" ref-type="ref">2017</xref>). In this study, we found that circ‐TSPAN4, a previously unreported circRNA, was significantly overexpressed in LUAD, and patients with high circ‐TSPAN4 expression exhibited shorter survival time than patients with low circ‐TSPAN4 expression, suggesting that circ‐TSPAN4 may be used as a promising prognostic biomarker for LUAD. A large number of additional specimens are required to verify this finding, and whether circ‐TSPAN4 combined with the aforementioned LUAD‐associated circRNAs will yield better diagnostic or prognostic effect is worthy of further study.</p><p>Numerous studies demonstrate that circRNA is involved in tumorigenesis and aggressiveness mainly via abundantly sponging miRNAs (Shang et al., <xref rid="mgg3991-bib-0022" ref-type="ref">2019</xref>; Zhong et al., <xref rid="mgg3991-bib-0032" ref-type="ref">2018</xref>). Herein, by luciferase reporter and RNA pull‐down assays, we found that circ‐TSPAN4 was capable of directly interacting with miR‐665 rather than miR‐4731‐5p in LUAD cells. miR‐665 has been reported as a tumor suppressor in cervical cancer (Cao et al., <xref rid="mgg3991-bib-0002" ref-type="ref">2019</xref>), pancreatic cancer (Zhou, Guo, Sun, Zhang, &amp; Zheng, <xref rid="mgg3991-bib-0034" ref-type="ref">2018</xref>), and breast cancer (Nygren et al., <xref rid="mgg3991-bib-0017" ref-type="ref">2014</xref>), while as an oncogene in hepatocellular carcinoma (Hu et al., <xref rid="mgg3991-bib-0009" ref-type="ref">2018</xref>), implying the cell‐ or disease‐context‐dependent function of miR‐665. However, its role in LUAD is still uncharacterized. In the present study, we found that miR‐665 was dramatically decreased in LUAD tissues and its downregulation predicted dismal prognosis, suggesting that miR‐665 is a tumor‐inhibiting gene in LUAD. Stepwise research showed that miR‐665 could target <italic toggle="yes">ZEB1</italic> 3′‐UTR to inhibit the expression level of <italic toggle="yes">ZEB1</italic>, which is a well‐known driver of LUAD metastasis that can trigger the process of epithelial‐mesenchymal transition (EMT) (Tan et al., <xref rid="mgg3991-bib-0023" ref-type="ref">2018</xref>). Importantly, we found that miR‐665 silencing or <italic toggle="yes">ZEB1</italic> overexpression was able to rescue the decreased migration and invasion of LUAD cells caused by circ‐TSPAN4 depletion. These results indicate that miR‐665 serves as a link between circ‐TSPAN4 and <italic toggle="yes">ZEB1</italic>, also known as the competing endogenous RNA (ceRNA) mechanism. Further study is warranted to explore the regulatory role of circ‐TSPAN4/miR‐665/<italic toggle="yes">ZEB1</italic> signaling in other malignancies.</p><p>In summary, our data clearly suggest that circ‐TSPAN4 is a novel driver of LUAD metastasis through upregulating <italic toggle="yes">ZEB1</italic> via effectively sponging miR‐665. Targeting circ‐TSPAN4 may be considered as a feasible and efficacious treatment for LUAD patients with metastasis.</p></sec><sec sec-type="COI-statement" id="mgg3991-sec-0023"><title>CONFLICT OF INTEREST</title><p>No authors report any conflict of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="mgg3991-sup-0001" position="float" orientation="portrait"><caption><p> </p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="MGG3-7-e991-s001.doc" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="mgg3991-sec-0024"><title>ACKNOWLEDGMENTS</title><p>None.</p></ack><ref-list content-type="cited-references" id="mgg3991-bibl-0001"><title>REFERENCES</title><ref id="mgg3991-bib-0001"><mixed-citation publication-type="journal" id="mgg3991-cit-0001">
+<string-name name-style="western">
+<surname>Agarwal</surname>, <given-names>V.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bell</surname>, <given-names>G. W.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nam</surname>, <given-names>J. W.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Bartel</surname>, <given-names>D. P.</given-names>
+</string-name> (<year>2015</year>). <article-title>Predicting effective microRNA target sites in mammalian mRNAs</article-title>. <source xml:lang="en">eLife</source>, <volume>4</volume>, <pub-id pub-id-type="doi">10.7554/eLife.05005</pub-id>
+<pub-id pub-id-type="pmcid">PMC4532895</pub-id><pub-id pub-id-type="pmid">26267216</pub-id></mixed-citation></ref><ref id="mgg3991-bib-0002"><mixed-citation publication-type="journal" id="mgg3991-cit-0002">
+<string-name name-style="western">
+<surname>Cao</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jin</surname>, <given-names>H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zheng</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mao</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fu</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>, <given-names>X.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Dong</surname>, <given-names>L.</given-names>
+</string-name> (<year>2019</year>). <article-title>DANCR‐mediated microRNA‐665 regulates proliferation and metastasis of cervical cancer through the ERK/SMAD pathway</article-title>. <source xml:lang="en">Cancer Science</source>, <volume>110</volume>, <fpage>913</fpage>–<lpage>925</lpage>. <pub-id pub-id-type="doi">10.1111/cas.13921</pub-id>
+<pub-id pub-id-type="pmid">30582654</pub-id><pub-id pub-id-type="pmcid">PMC6398927</pub-id></mixed-citation></ref><ref id="mgg3991-bib-0003"><mixed-citation publication-type="journal" id="mgg3991-cit-0003">
+<string-name name-style="western">
+<surname>Chang</surname>, <given-names>T. H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huang</surname>, <given-names>H. Y.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hsu</surname>, <given-names>J. B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Weng</surname>, <given-names>S. L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Horng</surname>, <given-names>J. T.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Huang</surname>, <given-names>H. D.</given-names>
+</string-name> (<year>2013</year>). <article-title>An enhanced computational platform for investigating the roles of regulatory RNA and for identifying functional RNA motifs</article-title>. <source xml:lang="en">BMC Bioinformatics</source>, <volume>14</volume>(<issue>Suppl 2</issue>), <fpage>S4</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/1471-2105-14-S2-S4</pub-id><pub-id pub-id-type="pmcid">PMC3549854</pub-id><pub-id pub-id-type="pmid">23369107</pub-id></mixed-citation></ref><ref id="mgg3991-bib-0004"><mixed-citation publication-type="journal" id="mgg3991-cit-0004">
+<string-name name-style="western">
+<surname>Chen</surname>, <given-names>X.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>, <given-names>R.‐X.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wei</surname>, <given-names>W.‐S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>, <given-names>Y.‐H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Feng</surname>, <given-names>Z.‐H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tan</surname>, <given-names>L.</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>Xie</surname>, <given-names>D.</given-names>
+</string-name> (<year>2018</year>). <article-title>PRMT5 circular RNA promotes metastasis of urothelial carcinoma of the bladder through sponging miR‐30c to induce epithelial‐mesenchymal transition</article-title>. <source xml:lang="en">Clinical Cancer Research</source>, <volume>24</volume>, <fpage>6319</fpage>–<lpage>6330</lpage>. <pub-id pub-id-type="doi">10.1158/1078-0432.CCR-18-1270</pub-id>
+<pub-id pub-id-type="pmid">30305293</pub-id></mixed-citation></ref><ref id="mgg3991-bib-0005"><mixed-citation publication-type="journal" id="mgg3991-cit-0005">
+<string-name name-style="western">
+<surname>Cui</surname>, <given-names>X.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guo</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>, <given-names>S. I.</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>Xu</surname>, <given-names>W.</given-names>
+</string-name> (<year>2018</year>). <article-title>Emerging function and potential diagnostic value of circular RNAs in cancer</article-title>. <source xml:lang="en">Molecular Cancer</source>, <volume>17</volume>, <fpage>123</fpage>
+<pub-id pub-id-type="doi">10.1186/s12943-018-0877-y</pub-id>
+<pub-id pub-id-type="pmid">30111313</pub-id><pub-id pub-id-type="pmcid">PMC6094918</pub-id></mixed-citation></ref><ref id="mgg3991-bib-0006"><mixed-citation publication-type="journal" id="mgg3991-cit-0006">
+<string-name name-style="western">
+<surname>Ebbesen</surname>, <given-names>K. K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kjems</surname>, <given-names>J.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Hansen</surname>, <given-names>T. B.</given-names>
+</string-name> (<year>2016</year>). <article-title>Circular RNAs: Identification, biogenesis and function</article-title>. <source xml:lang="en">Biochimica et Biophysica Acta</source>, <volume>1859</volume>, <fpage>163</fpage>–<lpage>168</lpage>. <pub-id pub-id-type="doi">10.1016/j.bbagrm.2015.07.007</pub-id>
+<pub-id pub-id-type="pmid">26171810</pub-id></mixed-citation></ref><ref id="mgg3991-bib-0007"><mixed-citation publication-type="journal" id="mgg3991-cit-0007">
+<string-name name-style="western">
+<surname>Hansen</surname>, <given-names>T. B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jensen</surname>, <given-names>T. I.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Clausen</surname>, <given-names>B. H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bramsen</surname>, <given-names>J. B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Finsen</surname>, <given-names>B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Damgaard</surname>, <given-names>C. K.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Kjems</surname>, <given-names>J.</given-names>
+</string-name> (<year>2013</year>). <article-title>Natural RNA circles function as efficient microRNA sponges</article-title>. <source xml:lang="en">Nature</source>, <volume>495</volume>, <fpage>384</fpage>–<lpage>388</lpage>. <pub-id pub-id-type="doi">10.1038/nature11993</pub-id>
+<pub-id pub-id-type="pmid">23446346</pub-id></mixed-citation></ref><ref id="mgg3991-bib-0008"><mixed-citation publication-type="journal" id="mgg3991-cit-0008">
+<string-name name-style="western">
+<surname>Holdt</surname>, <given-names>L. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kohlmaier</surname>, <given-names>A.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Teupser</surname>, <given-names>D.</given-names>
+</string-name> (<year>2018</year>). <article-title>Molecular roles and function of circular RNAs in eukaryotic cells</article-title>. <source xml:lang="en">Cellular and Molecular Life Sciences</source>, <volume>75</volume>, <fpage>1071</fpage>–<lpage>1098</lpage>. <pub-id pub-id-type="doi">10.1007/s00018-017-2688-5</pub-id>
+<pub-id pub-id-type="pmid">29116363</pub-id><pub-id pub-id-type="pmcid">PMC5814467</pub-id></mixed-citation></ref><ref id="mgg3991-bib-0009"><mixed-citation publication-type="journal" id="mgg3991-cit-0009">
+<string-name name-style="western">
+<surname>Hu</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cheng</surname>, <given-names>F.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rao</surname>, <given-names>J.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Wang</surname>, <given-names>X.</given-names>
+</string-name> (<year>2018</year>). <article-title>miR‐665 promotes hepatocellular carcinoma cell migration, invasion, and proliferation by decreasing Hippo signaling through targeting PTPRB</article-title>. <source xml:lang="en">Cell Death and Disease</source>, <volume>9</volume>, <fpage>954</fpage>
+<pub-id pub-id-type="doi">10.1038/s41419-018-0978-y</pub-id>
+<pub-id pub-id-type="pmid">30237408</pub-id><pub-id pub-id-type="pmcid">PMC6148030</pub-id><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="retraction-forward" ext-link-type="pmc" xlink:href="PMC9911765"/></mixed-citation></ref><ref id="mgg3991-bib-0010"><mixed-citation publication-type="journal" id="mgg3991-cit-0010">
+<string-name name-style="western">
+<surname>Kolomeyer</surname>, <given-names>A. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brucker</surname>, <given-names>A. J.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>O'Brien</surname>, <given-names>J. M.</given-names>
+</string-name> (<year>2017</year>). <article-title>Metastatic Lung Adenocarcinoma</article-title>. <source xml:lang="en">Ophthalmology</source>, <volume>124</volume>, <fpage>969</fpage>
+<pub-id pub-id-type="doi">10.1016/j.ophtha.2016.12.036</pub-id>
+<pub-id pub-id-type="pmid">28645343</pub-id></mixed-citation></ref><ref id="mgg3991-bib-0011"><mixed-citation publication-type="journal" id="mgg3991-cit-0011">
+<string-name name-style="western">
+<surname>Kristensen</surname>, <given-names>L. S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hansen</surname>, <given-names>T. B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Veno</surname>, <given-names>M. T.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Kjems</surname>, <given-names>J.</given-names>
+</string-name> (<year>2018</year>). <article-title>Circular RNAs in cancer: Opportunities and challenges in the field</article-title>. <source xml:lang="en">Oncogene</source>, <volume>37</volume>, <fpage>555</fpage>–<lpage>565</lpage>. <pub-id pub-id-type="doi">10.1038/onc.2017.361</pub-id>
+<pub-id pub-id-type="pmid">28991235</pub-id><pub-id pub-id-type="pmcid">PMC5799710</pub-id></mixed-citation></ref><ref id="mgg3991-bib-0012"><mixed-citation publication-type="journal" id="mgg3991-cit-0012">
+<string-name name-style="western">
+<surname>Lanczky</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nagy</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bottai</surname>, <given-names>G.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Munkacsy</surname>, <given-names>G.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Szabo</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Santarpia</surname>, <given-names>L.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Gyorffy</surname>, <given-names>B.</given-names>
+</string-name> (<year>2016</year>). <article-title>miRpower: A web‐tool to validate survival‐associated miRNAs utilizing expression data from 2178 breast cancer patients</article-title>. <source xml:lang="en">Breast Cancer Research and Treatment</source>, <volume>160</volume>, <fpage>439</fpage>–<lpage>446</lpage>. <pub-id pub-id-type="doi">10.1007/s10549-016-4013-7</pub-id>
+<pub-id pub-id-type="pmid">27744485</pub-id></mixed-citation></ref><ref id="mgg3991-bib-0013"><mixed-citation publication-type="journal" id="mgg3991-cit-0013">
+<string-name name-style="western">
+<surname>Li</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhou</surname>, <given-names>Y. E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>, <given-names>G.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>He</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Qiu</surname>, <given-names>X.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>, <given-names>L.</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>Zheng</surname>, <given-names>F.</given-names>
+</string-name> (<year>2019</year>). <article-title>Using circular RNA SMARCA5 as a potential novel biomarker for hepatocellular carcinoma</article-title>. <source xml:lang="en">Clinica Chimica Acta</source>, <volume>492</volume>, <fpage>37</fpage>–<lpage>44</lpage>. <pub-id pub-id-type="doi">10.1016/j.cca.2019.02.001</pub-id>
+<pub-id pub-id-type="pmid">30716279</pub-id></mixed-citation></ref><ref id="mgg3991-bib-0014"><mixed-citation publication-type="journal" id="mgg3991-cit-0014">
+<string-name name-style="western">
+<surname>Memczak</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jens</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Elefsinioti</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Torti</surname>, <given-names>F.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Krueger</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rybak</surname>, <given-names>A.</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>Rajewsky</surname>, <given-names>N.</given-names>
+</string-name> (<year>2013</year>). <article-title>Circular RNAs are a large class of animal RNAs with regulatory potency</article-title>. <source xml:lang="en">Nature</source>, <volume>495</volume>, <fpage>333</fpage>–<lpage>338</lpage>. <pub-id pub-id-type="doi">10.1038/nature11928</pub-id>
+<pub-id pub-id-type="pmid">23446348</pub-id></mixed-citation></ref><ref id="mgg3991-bib-0015"><mixed-citation publication-type="book" id="mgg3991-cit-0015">
+<string-name name-style="western">
+<surname>Myers</surname>, <given-names>D. J.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Wallen</surname>, <given-names>J. M.</given-names>
+</string-name> (<year>2019</year>). <source xml:lang="en">Cancer, Lung Adenocarcinoma. StatPearls [Internet]</source>. <publisher-loc>Treasure Island, FL</publisher-loc>: <publisher-name>StatPearls Publishing</publisher-name>. </mixed-citation></ref><ref id="mgg3991-bib-0016"><mixed-citation publication-type="journal" id="mgg3991-cit-0016">
+<string-name name-style="western">
+<surname>Nigro</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cho</surname>, <given-names>K. R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fearon</surname>, <given-names>E. R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kern</surname>, <given-names>S. E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ruppert</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Oliner</surname>, <given-names>J. D.</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>Vogelstein</surname>, <given-names>B.</given-names>
+</string-name> (<year>1991</year>). <article-title>Scrambled exons</article-title>. <source xml:lang="en">Cell</source>, <volume>64</volume>, <fpage>607</fpage>–<lpage>613</lpage>. <pub-id pub-id-type="doi">10.1016/0092-8674(91)90244-S</pub-id>
+<pub-id pub-id-type="pmid">1991322</pub-id></mixed-citation></ref><ref id="mgg3991-bib-0017"><mixed-citation publication-type="journal" id="mgg3991-cit-0017">
+<string-name name-style="western">
+<surname>Nygren</surname>, <given-names>M. K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tekle</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ingebrigtsen</surname>, <given-names>V. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mäkelä</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Krohn</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aure</surname>, <given-names>M. R.</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>Leivonen</surname>, <given-names>S.‐K.</given-names>
+</string-name> (<year>2014</year>). <article-title>Identifying microRNAs regulating B7–H3 in breast cancer: The clinical impact of microRNA‐29c</article-title>. <source xml:lang="en">British Journal of Cancer</source>, <volume>110</volume>, <fpage>2072</fpage>–<lpage>2080</lpage>. <pub-id pub-id-type="doi">10.1038/bjc.2014.113</pub-id>
+<pub-id pub-id-type="pmid">24577056</pub-id><pub-id pub-id-type="pmcid">PMC3992492</pub-id></mixed-citation></ref><ref id="mgg3991-bib-0018"><mixed-citation publication-type="journal" id="mgg3991-cit-0018">
+<string-name name-style="western">
+<surname>Panda</surname>, <given-names>A. C.</given-names>
+</string-name> (<year>2018</year>). <article-title>Circular RNAs act as miRNA sponges</article-title>. <source xml:lang="en">Advances in Experimental Medicine and Biology</source>, <volume>1087</volume>, <fpage>67</fpage>–<lpage>79</lpage>.<pub-id pub-id-type="pmid">30259358</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/978-981-13-1426-1_6</pub-id></mixed-citation></ref><ref id="mgg3991-bib-0019"><mixed-citation publication-type="journal" id="mgg3991-cit-0019">
+<string-name name-style="western">
+<surname>Qiu</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xia</surname>, <given-names>W.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ma</surname>, <given-names>Z.</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>Xu</surname>, <given-names>L.</given-names>
+</string-name> (<year>2018</year>). <article-title>The circular RNA circPRKCI promotes tumor growth in lung adenocarcinoma</article-title>. <source xml:lang="en">Cancer Research</source>, <volume>78</volume>, <fpage>2839</fpage>–<lpage>2851</lpage>. <pub-id pub-id-type="doi">10.1158/0008-5472.CAN-17-2808</pub-id>
+<pub-id pub-id-type="pmid">29588350</pub-id></mixed-citation></ref><ref id="mgg3991-bib-0020"><mixed-citation publication-type="journal" id="mgg3991-cit-0020">
+<string-name name-style="western">
+<surname>Rong</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dong</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fu</surname>, <given-names>K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>, <given-names>H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tang</surname>, <given-names>W.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Cao</surname>, <given-names>H.</given-names>
+</string-name> (<year>2018</year>). <article-title>Upregulation of circ_0066444 promotes the proliferation, invasion, and migration of gastric cancer cells</article-title>. <source xml:lang="en">OncoTargets and Therapy</source>, <volume>11</volume>, <fpage>2753</fpage>–<lpage>2761</lpage>.<pub-id pub-id-type="pmid">29785124</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.2147/OTT.S156516</pub-id><pub-id pub-id-type="pmcid">PMC5955026</pub-id></mixed-citation></ref><ref id="mgg3991-bib-0021"><mixed-citation publication-type="journal" id="mgg3991-cit-0021">
+<string-name name-style="western">
+<surname>Rong</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tang</surname>, <given-names>W.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhou</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shi</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>, <given-names>H.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Cao</surname>, <given-names>H.</given-names>
+</string-name> (<year>2017</year>). <article-title>Novel insights into circular RNAs in clinical application of carcinomas</article-title>. <source xml:lang="en">OncoTargets and Therapy</source>, <volume>10</volume>, <fpage>2183</fpage>–<lpage>2188</lpage>.<pub-id pub-id-type="pmid">28458561</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.2147/OTT.S134403</pub-id><pub-id pub-id-type="pmcid">PMC5403007</pub-id></mixed-citation></ref><ref id="mgg3991-bib-0022"><mixed-citation publication-type="journal" id="mgg3991-cit-0022">
+<string-name name-style="western">
+<surname>Shang</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jia</surname>, <given-names>R.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Ge</surname>, <given-names>S.</given-names>
+</string-name> (<year>2019</year>). <article-title>The novel roles of circRNAs in human cancer</article-title>. <source xml:lang="en">Molecular Cancer</source>, <volume>18</volume>, <fpage>6</fpage>
+<pub-id pub-id-type="doi">10.1186/s12943-018-0934-6</pub-id>
+<pub-id pub-id-type="pmid">30626395</pub-id><pub-id pub-id-type="pmcid">PMC6325800</pub-id></mixed-citation></ref><ref id="mgg3991-bib-0023"><mixed-citation publication-type="journal" id="mgg3991-cit-0023">
+<string-name name-style="western">
+<surname>Tan</surname>, <given-names>X.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Banerjee</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>, <given-names>X.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yu</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gibbons</surname>, <given-names>D. L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>, <given-names>P.</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>Kurie</surname>, <given-names>J. M.</given-names>
+</string-name> (<year>2018</year>). <article-title>The epithelial‐to‐mesenchymal transition activator <italic toggle="yes">ZEB1</italic> initiates a prometastatic competing endogenous RNA network</article-title>. <source xml:lang="en">Journal of Clinical Investigation</source>, <volume>128</volume>, <fpage>1267</fpage>–<lpage>1282</lpage>. <pub-id pub-id-type="doi">10.1172/JCI97225</pub-id>
+<pub-id pub-id-type="pmid">29324442</pub-id><pub-id pub-id-type="pmcid">PMC5873879</pub-id></mixed-citation></ref><ref id="mgg3991-bib-0024"><mixed-citation publication-type="journal" id="mgg3991-cit-0024">
+<string-name name-style="western">
+<surname>Wang</surname>, <given-names>T.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nie</surname>, <given-names>H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhao</surname>, <given-names>Y.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Yang</surname>, <given-names>J.</given-names>
+</string-name> (<year>2019</year>). <article-title>IL‐27 inhibits non‐small‐cell lung cancer cell metastasis by miR‐935 in vitro</article-title>. <source xml:lang="en">OncoTargets and Therapy</source>, <volume>12</volume>, <fpage>1447</fpage>–<lpage>1454</lpage>.<pub-id pub-id-type="pmid">30863112</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.2147/OTT.S173207</pub-id><pub-id pub-id-type="pmcid">PMC6391126</pub-id></mixed-citation></ref><ref id="mgg3991-bib-0025"><mixed-citation publication-type="journal" id="mgg3991-cit-0025">
+<string-name name-style="western">
+<surname>Xu</surname>, <given-names>J.‐Z.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shao</surname>, <given-names>C.‐C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>, <given-names>X.‐J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhao</surname>, <given-names>X.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>, <given-names>J.‐Q.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ouyang</surname>, <given-names>Y.‐X.</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>Chen</surname>, <given-names>M.</given-names>
+</string-name> (<year>2019</year>). <article-title>circTADA2As suppress breast cancer progression and metastasis via targeting miR‐203a‐3p/SOCS3 axis</article-title>. <source xml:lang="en">Cell Death and Disease</source>, <volume>10</volume>, <fpage>175</fpage>
+<pub-id pub-id-type="doi">10.1038/s41419-019-1382-y</pub-id>
+<pub-id pub-id-type="pmid">30787278</pub-id><pub-id pub-id-type="pmcid">PMC6382814</pub-id></mixed-citation></ref><ref id="mgg3991-bib-0026"><mixed-citation publication-type="journal" id="mgg3991-cit-0026">
+<string-name name-style="western">
+<surname>Yu</surname>, <given-names>W.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jiang</surname>, <given-names>H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>, <given-names>H.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Li</surname>, <given-names>J.</given-names>
+</string-name> (<year>2018</year>). <article-title>Hsa_circ_0003998 promotes cell proliferation and invasion by targeting miR‐326 in non‐small cell lung cancer</article-title>. <source xml:lang="en">OncoTargets and Therapy</source>, <volume>11</volume>, <fpage>5569</fpage>–<lpage>5577</lpage>.<pub-id pub-id-type="pmid">30237723</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.2147/OTT.S174750</pub-id><pub-id pub-id-type="pmcid">PMC6135432</pub-id></mixed-citation></ref><ref id="mgg3991-bib-0027"><mixed-citation publication-type="journal" id="mgg3991-cit-0027">
+<string-name name-style="western">
+<surname>Zeng</surname>, <given-names>K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>, <given-names>X.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>, <given-names>M. U.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>, <given-names>X.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hu</surname>, <given-names>X.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>, <given-names>T.</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>Wang</surname>, <given-names>S.</given-names>
+</string-name> (<year>2018</year>). <article-title>CircHIPK3 promotes colorectal cancer growth and metastasis by sponging miR‐7</article-title>. <source xml:lang="en">Cell Death and Disease</source>, <volume>9</volume>, <fpage>417</fpage>
+<pub-id pub-id-type="doi">10.1038/s41419-018-0454-8</pub-id>
+<pub-id pub-id-type="pmid">29549306</pub-id><pub-id pub-id-type="pmcid">PMC5856798</pub-id><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="retraction-forward" ext-link-type="pmc" xlink:href="PMC11137134"/></mixed-citation></ref><ref id="mgg3991-bib-0028"><mixed-citation publication-type="journal" id="mgg3991-cit-0028">
+<string-name name-style="western">
+<surname>Zeng</surname>, <given-names>K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>He</surname>, <given-names>B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>, <given-names>B. B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>, <given-names>T.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>, <given-names>X.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>, <given-names>M. U.</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>Wang</surname>, <given-names>S.</given-names>
+</string-name> (<year>2018</year>). <article-title>The pro‐metastasis effect of circANKS1B in breast cancer</article-title>. <source xml:lang="en">Molecular Cancer</source>, <volume>17</volume>, <fpage>160</fpage>
+<pub-id pub-id-type="doi">10.1186/s12943-018-0914-x</pub-id>
+<pub-id pub-id-type="pmid">30454010</pub-id><pub-id pub-id-type="pmcid">PMC6240936</pub-id></mixed-citation></ref><ref id="mgg3991-bib-0029"><mixed-citation publication-type="journal" id="mgg3991-cit-0029">
+<string-name name-style="western">
+<surname>Zhang</surname>, <given-names>X.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Luo</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jing</surname>, <given-names>W.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhou</surname>, <given-names>H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liang</surname>, <given-names>C.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Tu</surname>, <given-names>J.</given-names>
+</string-name> (<year>2018</year>). <article-title>circSMAD2 inhibits the epithelial‐mesenchymal transition by targeting miR‐629 in hepatocellular carcinoma</article-title>. <source xml:lang="en">OncoTargets and Therapy</source>, <volume>11</volume>, <fpage>2853</fpage>–<lpage>2863</lpage>.<pub-id pub-id-type="pmid">29844683</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.2147/OTT.S158008</pub-id><pub-id pub-id-type="pmcid">PMC5962255</pub-id></mixed-citation></ref><ref id="mgg3991-bib-0030"><mixed-citation publication-type="journal" id="mgg3991-cit-0030">
+<string-name name-style="western">
+<surname>Zhang</surname>, <given-names>X.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>, <given-names>H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cao</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huang</surname>, <given-names>X.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>, <given-names>Z.</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>Xu</surname>, <given-names>Z.</given-names>
+</string-name> (<year>2019</year>). <article-title>Circular RNA circNRIP1 acts as a microRNA‐149‐5p sponge to promote gastric cancer progression via the AKT1/mTOR pathway</article-title>. <source xml:lang="en">Molecular Cancer</source>, <volume>18</volume>, <fpage>20</fpage>
+<pub-id pub-id-type="doi">10.1186/s12943-018-0935-5</pub-id>
+<pub-id pub-id-type="pmid">30717751</pub-id><pub-id pub-id-type="pmcid">PMC6360801</pub-id></mixed-citation></ref><ref id="mgg3991-bib-0031"><mixed-citation publication-type="journal" id="mgg3991-cit-0031">
+<string-name name-style="western">
+<surname>Zhang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhu</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rong</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shi</surname>, <given-names>W.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Cao</surname>, <given-names>X.</given-names>
+</string-name> (<year>2019</year>). <article-title>Up‐regulation of circ‐SMAD7 inhibits tumor proliferation and migration in esophageal squamous cell carcinoma</article-title>. <source xml:lang="en">Biomedicine and Pharmacotherapy</source>, <volume>111</volume>, <fpage>596</fpage>–<lpage>601</lpage>. <pub-id pub-id-type="doi">10.1016/j.biopha.2018.12.116</pub-id>
+<pub-id pub-id-type="pmid">30611100</pub-id></mixed-citation></ref><ref id="mgg3991-bib-0032"><mixed-citation publication-type="journal" id="mgg3991-cit-0032">
+<string-name name-style="western">
+<surname>Zhong</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Du</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>, <given-names>X.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mo</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fan</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xiong</surname>, <given-names>F.</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>Xiong</surname>, <given-names>W.</given-names>
+</string-name> (<year>2018</year>). <article-title>Circular RNAs function as ceRNAs to regulate and control human cancer progression</article-title>. <source xml:lang="en">Molecular Cancer</source>, <volume>17</volume>, <fpage>79</fpage>
+<pub-id pub-id-type="doi">10.1186/s12943-018-0827-8</pub-id>
+<pub-id pub-id-type="pmid">29626935</pub-id><pub-id pub-id-type="pmcid">PMC5889847</pub-id></mixed-citation></ref><ref id="mgg3991-bib-0033"><mixed-citation publication-type="journal" id="mgg3991-cit-0033">
+<string-name name-style="western">
+<surname>Zhong</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huang</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lv</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>He</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Duan</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>, <given-names>L.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Chen</surname>, <given-names>J.</given-names>
+</string-name> (<year>2017</year>). <article-title>Circular RNA MYLK as a competing endogenous RNA promotes bladder cancer progression through modulating VEGFA/VEGFR2 signaling pathway</article-title>. <source xml:lang="en">Cancer Letters</source>, <volume>403</volume>, <fpage>305</fpage>–<lpage>317</lpage>. <pub-id pub-id-type="doi">10.1016/j.canlet.2017.06.027</pub-id>
+<pub-id pub-id-type="pmid">28687357</pub-id></mixed-citation></ref><ref id="mgg3991-bib-0034"><mixed-citation publication-type="journal" id="mgg3991-cit-0034">
+<string-name name-style="western">
+<surname>Zhou</surname>, <given-names>B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guo</surname>, <given-names>W.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sun</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>, <given-names>B.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Zheng</surname>, <given-names>F.</given-names>
+</string-name> (<year>2018</year>). <article-title>Linc00462 promotes pancreatic cancer invasiveness through the miR‐665/TGFBR1‐TGFBR2/SMAD2/3 pathway</article-title>. <source xml:lang="en">Cell Death and Disease</source>, <volume>9</volume>, <fpage>706</fpage>
+<pub-id pub-id-type="doi">10.1038/s41419-018-0724-5</pub-id>
+<pub-id pub-id-type="pmid">29899418</pub-id><pub-id pub-id-type="pmcid">PMC5999603</pub-id></mixed-citation></ref><ref id="mgg3991-bib-0035"><mixed-citation publication-type="journal" id="mgg3991-cit-0035">
+<string-name name-style="western">
+<surname>Zhu</surname>, <given-names>X.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>, <given-names>X.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wei</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fan</surname>, <given-names>X.</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>Wu</surname>, <given-names>G.</given-names>
+</string-name> (<year>2017</year>). <article-title>hsa_circ_0013958: A circular RNA and potential novel biomarker for lung adenocarcinoma</article-title>. <source xml:lang="en">FEBS Journal</source>, <volume>284</volume>, <fpage>2170</fpage>–<lpage>2182</lpage>. <pub-id pub-id-type="doi">10.1111/febs.14132</pub-id>
+<pub-id pub-id-type="pmid">28685964</pub-id></mixed-citation></ref></ref-list></back></article>

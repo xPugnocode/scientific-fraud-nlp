@@ -1,0 +1,965 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article article-type="research-article" xml:lang="en" dtd-version="1.4"><front><journal-meta><journal-id journal-id-type="nlm-ta">PLoS One</journal-id><journal-id journal-id-type="iso-abbrev">PLoS ONE</journal-id><journal-id journal-id-type="pmc-domain-id">440</journal-id><journal-id journal-id-type="pmc-domain">plosone</journal-id><journal-id journal-id-type="nlm-id">101285081</journal-id><journal-id journal-id-type="publisher-id">plos</journal-id><journal-title-group><journal-title>PLoS ONE</journal-title></journal-title-group><issn pub-type="epub">1932-6203</issn><publisher><publisher-name>PLOS</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC2852499</article-id><article-id pub-id-type="pmcid-ver">PMC2852499.1</article-id><article-id pub-id-type="pmcaid">2852499</article-id><article-id pub-id-type="pmcaiid">2852499</article-id><article-id pub-id-type="pmid">20396382</article-id><article-id pub-id-type="doi">10.1371/journal.pone.0010085</article-id><article-id pub-id-type="publisher-id">09-PONE-RA-10669R2</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group><subj-group subj-group-type="Discipline"><subject>Cardiovascular Disorders/Myopathies</subject><subject>Diabetes and Endocrinology/Obesity</subject><subject>Geriatrics/Geriatric Cardiology</subject></subj-group></article-categories><title-group><article-title>Interaction between Age and Obesity on Cardiomyocyte Contractile
+Function: Role of Leptin and Stress Signaling</article-title><alt-title alt-title-type="running-head">Obesity, Age, Cardiac Function</alt-title></title-group><contrib-group><contrib contrib-type="author"><name name-style="western"><surname>Ren</surname><given-names initials="J">Jun</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="aff3">
+<sup>3</sup>
+</xref><xref ref-type="corresp" rid="cor1">
+<sup>*</sup>
+</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Dong</surname><given-names initials="F">Feng</given-names></name><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Cai</surname><given-names initials="GJ">Guo-Jun</given-names></name><xref ref-type="aff" rid="aff3">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Zhao</surname><given-names initials="P">Peng</given-names></name><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Nunn</surname><given-names initials="JM">Jennifer M.</given-names></name><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Wold</surname><given-names initials="LE">Loren E.</given-names></name><xref ref-type="aff" rid="aff4">
+<sup>4</sup>
+</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Pei</surname><given-names initials="J">Jianming</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref><xref ref-type="corresp" rid="cor1">
+<sup>*</sup>
+</xref></contrib></contrib-group><aff id="aff1">
+<label>1</label>
+<addr-line>Department of Physiology, Fourth Military Medical University,
+Xi'an, China</addr-line>
+</aff><aff id="aff2">
+<label>2</label>
+<addr-line>University of Wyoming College of Health Sciences, Laramie, Wyoming,
+United States of America</addr-line>
+</aff><aff id="aff3">
+<label>3</label>
+<addr-line>School of Pharmacy, Second Military Medical University, Shanghai,
+China</addr-line>
+</aff><aff id="aff4">
+<label>4</label>
+<addr-line>Center for Cardiovascular and Pulmonary Research, The Research Institute
+at Nationwide Children's Hospital and the Department of Pediatrics, The
+Ohio State University, Columbus, Ohio, United States of America</addr-line>
+</aff><contrib-group><contrib contrib-type="editor"><name name-style="western"><surname>Calbet</surname><given-names initials="JAL">Jose A. L.</given-names></name><role>Editor</role><xref ref-type="aff" rid="edit1"/></contrib></contrib-group><aff id="edit1">University of Las Palmas de Gran Canaria, Spain</aff><author-notes><corresp id="cor1">* E-mail: <email>jren@uwyo.edu</email> (JR); <email>jmpei8@fmmu.edu.cn</email> (JP)</corresp><fn fn-type="con"><p>Conceived and designed the experiments: JR FD GJC JP. Performed the
+experiments: JR FD PZ JMN. Analyzed the data: JR FD GJC PZ JMN. Wrote the
+paper: JR LEW. Conducted the statistical analysis: JR FD.</p></fn></author-notes><pub-date pub-type="collection"><year>2010</year></pub-date><pub-date pub-type="epub"><day>9</day><month>4</month><year>2010</year></pub-date><volume>5</volume><issue>4</issue><issue-id pub-id-type="pmc-issue-id">186074</issue-id><elocation-id>e10085</elocation-id><history><date date-type="received"><day>28</day><month>5</month><year>2009</year></date><date date-type="accepted"><day>17</day><month>3</month><year>2010</year></date></history><pub-history><event event-type="pmc-release"><date><day>09</day><month>04</month><year>2010</year></date></event><event event-type="pmc-live"><date><day>14</day><month>04</month><year>2010</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2024-07-23 15:25:14.093"><day>23</day><month>07</month><year>2024</year></date></event></pub-history><permissions><copyright-statement>Ren et al.</copyright-statement><copyright-year>2010</copyright-year><license xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://creativecommons.org/licenses/by/4.0/"><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are properly credited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="pone.0010085.pdf"/><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="correction-forward" xml:lang="en" xlink:title="correction" journal-id="PLoS One" journal-id-type="nlm-ta" ext-link-type="pmc" xlink:href="PMC4128778"><article-title>Correction: Interaction between Age and Obesity on Cardiomyocyte Contractile Function: Role of Leptin and Stress Signaling</article-title><volume>9</volume><issue>8</issue><date><day>11</day><month>8</month><year>2014</year></date><elocation-id>e105650</elocation-id><source>PLoS ONE</source><pub-id pub-id-type="pmcid">PMC4128778</pub-id></related-article><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="retraction-forward" xml:lang="en" xlink:title="retraction" vol="17" journal-id="PLoS One" journal-id-type="nlm-ta" ext-link-type="pmc" xlink:href="PMC9275708"><article-title>Retraction: Interaction between Age and Obesity on Cardiomyocyte Contractile Function: Role of Leptin and Stress Signaling</article-title><volume>17</volume><issue>7</issue><date><day>12</day><month>7</month><year>2022</year></date><elocation-id>e0271530</elocation-id><source>PLoS ONE</source><pub-id pub-id-type="doi">10.1371/journal.pone.0271530</pub-id><pub-id pub-id-type="pmcid">PMC9275708</pub-id><pub-id pub-id-type="pmid">35819974</pub-id></related-article><abstract><sec><title>Objectives</title><p>This study was designed to evaluate the interaction between aging and obesity
+on cardiac contractile and intracellular Ca<sup>2+</sup>
+properties.</p></sec><sec><title>Methods</title><p>Cardiomyocytes from young (4-mo) and aging (12- and 18-mo) male lean and the
+leptin deficient <italic toggle="yes">ob/ob</italic> obese mice were treated with leptin
+(0.5, 1.0 and 50 nM) for 4 hrs <italic toggle="yes">in vitro</italic>. High fat diet
+(45% calorie from fat) and the leptin receptor mutant
+<italic toggle="yes">db/db</italic> obesity models at young and older age were used
+for comparison. Cardiomyocyte contractile and intracellular
+Ca<sup>2+</sup> properties were evaluated including peak
+shortening (PS), maximal velocity of shortening/relengthening (±
+dL/dt), time-to-PS (TPS), time-to-90% relengthening
+(TR<sub>90</sub>), intracellular Ca<sup>2+</sup> levels and
+decay. O<sub>2</sub>
+<sup>−</sup> levels were measured by
+dihydroethidium fluorescence.</p></sec><sec><title>Results</title><p>Our results revealed reduced survival in <italic toggle="yes">ob/ob</italic> mice. Aging
+and obesity reduced PS, ± dL/dt, intracellular
+Ca<sup>2+</sup> rise, prolonged TR<sub>90</sub> and
+intracellular Ca<sup>2+</sup> decay, enhanced
+O<sub>2</sub>
+<sup>−</sup> production and
+<italic toggle="yes">p</italic>
+<sup>47<italic toggle="yes">phox</italic></sup> expression
+without an additive effect of the two, with the exception of intracellular
+Ca<sup>2+</sup> rise. Western blot analysis exhibited reduced
+Ob-R expression and STAT-3 phosphorylation in both young and aging
+<italic toggle="yes">ob/ob</italic> mice, which was restored by leptin. Aging and
+obesity reduced phosphorylation of Akt, eNOS and p38 while promoting pJNK
+and pIκB. Low levels of leptin reconciled contractile, intracellular
+Ca<sup>2+</sup> and cell signaling defects as well as
+O<sub>2</sub>
+<sup>−</sup> production and
+<italic toggle="yes">p</italic>
+<sup>47<italic toggle="yes">phox</italic></sup> upregulation in
+young but not aging <italic toggle="yes">ob/ob</italic> mice. High level of leptin (50
+nM) compromised contractile and intracellular Ca<sup>2+</sup>
+response as well as O<sub>2</sub>
+<sup>−</sup> production and
+stress signaling in all groups. High fat diet-induced and
+<italic toggle="yes">db/db</italic> obesity displayed somewhat comparable
+aging-induced mechanical but not leptin response.</p></sec><sec><title>Conclusions</title><p>Taken together, our data suggest that aging and obesity compromise cardiac
+contractile function possibly via phosphorylation of Akt, eNOS and stress
+signaling-associated O<sub>2</sub>
+<sup>−</sup> release.</p></sec></abstract><counts><page-count count="15"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="s1"><title>Introduction</title><p>Obesity is a devastating health problem afflicting all ages, races and socioeconomic
+classes in both genders. Over the past decade, only modest success has been achieved
+in combating the escalating prevalence of obesity and metabolic syndrome <xref rid="pone.0010085-Cope1" ref-type="bibr">[1]</xref>, <xref rid="pone.0010085-Ren1" ref-type="bibr">[2]</xref>. The
+current obesity epidemic may be attributed to many factors including environmental
+(e.g., caloric and nutrient intake), genetic and even evolutionary (e.g.,
+interaction between human biology and human culture over the long period of human
+evolution) <xref rid="pone.0010085-Cope1" ref-type="bibr">[1]</xref>, <xref rid="pone.0010085-Bellisari1" ref-type="bibr">[3]</xref>. With
+today's prolonged human lifespan, aging has also been considered as an
+obesogenic factor given the increased visceral fat associated with aging <xref rid="pone.0010085-Miard1" ref-type="bibr">[4]</xref>.
+Paradoxically, visceral fat accumulation may in turn influence longevity, thus
+prompting the speculation that obesity could be a condition of premature aging <xref rid="pone.0010085-Miard1" ref-type="bibr">[4]</xref>. Although
+effective physiological adjustments are present to counterbalance the potentially
+detrimental health outcome of obesity such as altered respiratory
+mechanical/muscular function peculiar to the aging condition <xref rid="pone.0010085-Jensen1" ref-type="bibr">[5]</xref>, a number of
+obesity-associated comorbidities such as cancer, endocrine, cardiovascular and
+immune disorders may ultimately contribute to premature aging and the shortened
+lifespan. Therefore, the concept of health promotion, especially on nutrition and
+life style, has become an important part of health care in older adults <xref rid="pone.0010085-Chernoff1" ref-type="bibr">[6]</xref>.</p><p>Among a wide array of comorbidities associated with obesity including type 2
+diabetes, hypertension, cancer and sleep apnea <xref rid="pone.0010085-Cope1" ref-type="bibr">[1]</xref>, heart disease, which is
+mainly manifested by cardiac hypertrophy and compromised ventricular function, may
+lead to heart failure or premature death <xref rid="pone.0010085-Eckel1" ref-type="bibr">[7]</xref>–<xref rid="pone.0010085-Sowers1" ref-type="bibr">[9]</xref>. The
+pathophysiological alterations associated with establishing and perpetuating
+obesity-induced heart disease are complex but are becoming more clear, including the
+interaction of sympathetic overactivation and endothelial dysfunction <xref rid="pone.0010085-Kuo1" ref-type="bibr">[10]</xref>. In an
+effort to better understand the pathophysiology of human obesity, several rodent
+models of obesity have been developed and implemented including high fat diet
+feeding and spontaneous mutants of the 16 KD obesity gene product leptin or its
+receptor such as <italic toggle="yes">ob</italic>/<italic toggle="yes">ob</italic> and
+<italic toggle="yes">db</italic>/<italic toggle="yes">db</italic> mice. A common feature of these obese
+animal models is the overtly compromised cardiac contractile function associated
+with a marked increase in visceral fat and hyperinsulinemia <xref rid="pone.0010085-Dobrian1" ref-type="bibr">[11]</xref>–<xref rid="pone.0010085-Dong3" ref-type="bibr">[14]</xref>, similar
+to human obesity. Accumulating evidence has also implicated a role of the obese gene
+product leptin, which regulates food intake and energy expenditure, in the
+regulation of cardiac function, while the disruption of which contributes to
+obesity-associated cardiac contractile and morphometric defects <xref rid="pone.0010085-Minhas1" ref-type="bibr">[15]</xref>, <xref rid="pone.0010085-Ren3" ref-type="bibr">[16]</xref>. Human
+circulating leptin levels are elevated in obesity, vascular and coronary heart
+diseases, favoring a contemporary perception of hyperleptinemia being an independent
+risk factor for cardiovascular diseases <xref rid="pone.0010085-Ren3" ref-type="bibr">[16]</xref>, <xref rid="pone.0010085-Sattar1" ref-type="bibr">[17]</xref>. This notion is further
+supported by the experimental evidence that leptin may contribute to cardiac
+hypertrophy, atherosclerosis and thrombosis possibly through accumulation of
+reactive oxygen species <xref rid="pone.0010085-Ren3" ref-type="bibr">[16]</xref>, <xref rid="pone.0010085-Sweeney1" ref-type="bibr">[18]</xref>, <xref rid="pone.0010085-Xu1" ref-type="bibr">[19]</xref>. Elevated leptin level or
+hyperleptinemia is correlated with hyperphagia, insulin resistance, hyperlipidemia
+and hypertension, independent of total adiposity <xref rid="pone.0010085-Ren3" ref-type="bibr">[16]</xref>. Data from our lab
+revealed that leptin directly suppresses cardiomyocyte contraction and intracellular
+Ca<sup>2+</sup> handling through mechanism(s) related to endothelial
+nitric oxide synthase (eNOS), superoxide (O<sub>2</sub>
+<sup>−</sup>)
+production, activation of Janus kinase (JAK)/signal transducer and activator of
+transcription (STAT) and stress signaling pathways including Jun N-terminal kinase
+(JNK) and p38 mitogen-activated protein (MAP) kinase <xref rid="pone.0010085-Nickola1" ref-type="bibr">[20]</xref>–<xref rid="pone.0010085-Dong4" ref-type="bibr">[22]</xref>. Further
+evidence from our lab as well as others also indicated that leptin deficiency
+paradoxically triggers cardiac hypertrophy and contractile dysfunction in
+<italic toggle="yes">ob/ob</italic> obese mice with a mutant leptin gene, the effect of which
+is reconciled by leptin supplementation <xref rid="pone.0010085-Dong1" ref-type="bibr">[12]</xref>, <xref rid="pone.0010085-Minhas1" ref-type="bibr">[15]</xref>. Both hyperleptinemia
+and leptin-deficiency have been shown to be associated with increased apoptosis, DNA
+damage and mortality, suggesting a potential association between leptin signaling
+and aging-related DNA damage and premature death <xref rid="pone.0010085-Barouch1" ref-type="bibr">[23]</xref>. Nevertheless, the
+interaction between obesity and aging on cardiac function, with a focus on leptin
+signaling, has not been elaborated. Given the prevalence of metabolic syndrome in
+older adults and the detrimental impact of metabolic syndrome especially obesity on
+life expectancy and comorbidity in the elderly <xref rid="pone.0010085-Denys1" ref-type="bibr">[24]</xref>, the present study was
+designed to evaluate the influence of aging on basal and leptin-elicited cardiac
+contractile response in the leptin-deficient <italic toggle="yes">ob/ob</italic> mice. Expression
+and activation of the leptin receptor Ob-R and post-receptor signaling STAT-3,
+O<sub>2</sub>
+<sup>−</sup> producing enzyme NADPH oxidase
+(<italic toggle="yes">p</italic>
+<sup>47<italic toggle="yes">phox</italic></sup> subunit) <xref rid="pone.0010085-Murdoch1" ref-type="bibr">[25]</xref>, Akt,
+eNOS, AMP-activated kinase (AMPK) and the stress signaling molecules p38 MAP kinase,
+JNK, extracellular signaling regulated kinase (ERK) and NFκB were also
+examined in young and aging lean C57 and <italic toggle="yes">ob/ob</italic> leptin deficient
+obese mice. Twelve- and eighteen-month-old mice were chosen for the aging group
+largely due to the reduced lifespan and high mortality seen after one year of age in
+<italic toggle="yes">ob/ob</italic> mice <xref rid="pone.0010085-Harrison1" ref-type="bibr">[26]</xref>. Cardiomyocyte contractile function was also
+examined in the high fat diet-induced and the leptin receptor mutant hyperleptinemic
+<italic toggle="yes">db/db</italic> obesity models for comparison.</p></sec><sec sec-type="materials|methods" id="s2"><title>Materials and Methods</title><sec id="s2a"><title>Experimental animals and high fat diet feeding</title><p>All animal procedures were conducted in accordance with humane animal care
+standards outlined in NIH Guide for the Care and Use of Experimental and were
+approved by the University of Wyoming and University of North Dakota Animal Care
+and Use Committees. In brief, young (4-month-old) and aging (12- or
+18-month-old) male homozygous B6.V-lep&lt;ob&gt;/J leptin deficient
+<italic toggle="yes">ob/ob</italic> and B6.Cg-m +/+ Leprdb/J leptin
+receptor mutant <italic toggle="yes">db/db</italic> obese mice were housed in our
+institutional animal facilities. Age- and gender-matched wild-type C57BL/6J mice
+were used as lean controls. All animals were allowed free access to standard lab
+chow and tap water. For high fat diet-induced obesity model, 4- and 12-month-old
+male C57BL/6J mice (4 per group) were randomly assigned to a low fat
+(10% of total calorie) or a high fat (45% of total
+calorie) diet (Research Diets Inc., New Brunswick, NJ, USA) for 16 weeks <xref rid="pone.0010085-Dong2" ref-type="bibr">[13]</xref>.
+Blood glucose was monitored with a glucometer (Accu-ChekII, model 792,
+Boehringer Mannheim Diagnostics, Indianapolis, IN, USA). All mice used for
+lifespan analysis (the Kaplan-Meier survival curve and log-rank test) were
+assigned to a longevity cohort at birth and were not used for any biochemical,
+immunoblotting or mechanical function tests. Only male mice were used for this
+study.</p></sec><sec id="s2b"><title>Body fat composition measurement</title><p>Body composition was measured using Dual Energy X-ray Absorptiometry (DEXA),
+which is a clinical measure of lean tissue mass, adipose tissue mass, and bone
+mineral mass and density. A low level pencil-beam x-ray moved transversely from
+the head to the tail across the sedated mouse. Difference in absorbance of the
+X-ray was detected according to tissue density. Percent fat was calculated using
+fat and body mass <xref rid="pone.0010085-Leung1" ref-type="bibr">[27]</xref>.</p></sec><sec id="s2c"><title>Cardiomyocyte isolation and <italic toggle="yes">in vitro</italic> leptin
+treatment</title><p>Mouse hearts were removed under anesthesia (ketamine/xylazine at 3∶1,
+1.32 mg/kg) and were perfused with oxygenated (5%
+CO<sub>2</sub>–95% O<sub>2</sub>) Krebs-Henseleit
+bicarbonate (KHB) buffer containing (in mmol/L) 118 NaCl, 4.7 KCl, 1.25
+CaCl<sub>2</sub>, 1.2 MgSO<sub>4</sub>, 1.2 KH<sub>2</sub>PO<sub>4</sub>, 25
+NaHCO<sub>3</sub>, 10 HEPES, and 11.1 glucose. Hearts were perfused with a
+Ca<sup>2+</sup>-free KHB containing Liberase Blendzyme 4
+(Hoffmann-La Roche Inc., Indianapolis, IN, USA) for 20 min. After perfusion,
+left ventricles were removed and minced to disperse cardiomyocytes in
+Ca<sup>2+</sup>-free KHB buffer. Extracellular
+Ca<sup>2+</sup> was added incrementally back up to 1.25 mM <xref rid="pone.0010085-Dong1" ref-type="bibr">[12]</xref>.
+Myocyte yield was ∼75% which was not affected by obesity or
+age. Cohorts of cardiomyocytes were incubated with leptin (0.5, 1.0 and 50 nM)
+for 4 hrs in a serum-free defined medium consisting of Medium 199 (Sigma) with
+Earle's salts. The concentrations of leptin were chosen to cover
+physiological (0.5 and 1.0 nM) as well as pharmacological levels <xref rid="pone.0010085-Ren3" ref-type="bibr">[16]</xref>, <xref rid="pone.0010085-Dong4" ref-type="bibr">[22]</xref>,
+<xref rid="pone.0010085-Ceddia1" ref-type="bibr">[28]</xref>. Cardiomyocytes with obvious sarcolemmal
+blebs or spontaneous contractions were not used for mechanical recording.</p></sec><sec id="s2d"><title>Cell shortening/relengthening</title><p>Mechanical properties of cardiomyocytes were assessed using a SoftEdge
+MyoCam® system (IonOptix Corporation, Milton, MA, USA) <xref rid="pone.0010085-Dong1" ref-type="bibr">[12]</xref>. In
+brief, cardiomyocytes were placed in a chamber mounted on the stage of an
+inverted microscope (Olympus Incorporation, Model IX-70, Tokyo, Japan) and
+superfused at 25°C with a buffer containing (in mM): 131 NaCl, 4 KCl, 1
+CaCl<sub>2</sub>, 1 MgCl<sub>2</sub>, 10 glucose, 10 HEPES, at pH 7.4. The
+cells were field stimulated with suprathreshold voltage (150% of the
+threshold voltage of cell contraction) at a frequency of 0.5 Hz, 3 msec
+duration, using a pair of platinum wires placed on opposite sides of the chamber
+connected to a FHC stimulator (Brunswick, NE, USA). The myocyte being studied
+was displayed on a computer monitor using an IonOptix MyoCam camera. An IonOptix
+SoftEdge software was used to capture changes in cell length during shortening
+and relengthening. Cell shortening and relengthening were assessed using the
+following indices: peak shortening (PS), the amplitude myocytes shortened upon
+electrical stimulation, an indicative of peak ventricular contractility;
+time-to-PS (TPS), the duration of myocyte shortening, an indicative of systolic
+duration; time-to-90% relengthening (TR<sub>90</sub>), the duration
+to reach 90% relengthening, an indicative of diastolic duration
+(90% rather 100% relengthening was used to avoid noisy
+signal at baseline level); and maximal velocities of shortening/relengthening,
+maximal slope (derivative) of shortening and relengthening phases, indicatives
+of maximal velocities of ventricular pressure increase/decrease.</p></sec><sec id="s2e"><title>Intracellular Ca<sup>2+</sup> transient measurement</title><p>Intracellular Ca<sup>2+</sup> was measured using a dual-excitation,
+single-emission photomultiplier system (IonOptix) in myocytes loaded with
+Fura-2-AM (0.5 µM). Myocytes were placed on an inverted microscope and
+imaged through an Olympus (IX-70) Fluor ×40 oil objective. Myocytes
+were exposed to light emitted by a 75-W halogen lamp through either a 360- or
+380-nm filter while being stimulated to contract at 0.5 Hz. Fluorescence
+emissions were detected between 480 and 520 nm by a photomultiplier tube after
+initial illumination at 360 nm for 0.5 s and then at 380 nm for the duration of
+the recording protocol. The 360-nm excitation reading was repeated at the end of
+the protocol. Qualitative evaluation of intracellular Ca<sup>2+</sup>
+was inferred from fluorescence intensity changes. Myocyte shortening was also
+evaluated in a cohort of the fura-2-loaded ventricular myocytes simultaneously
+to compare their temporal relationship with the fluorescence signal. However,
+their mechanical properties were not used for data summary due to the apparent
+Ca<sup>2+</sup> buffering effect of fura-2 <xref rid="pone.0010085-Dong1" ref-type="bibr">[12]</xref>.</p></sec><sec id="s2f"><title>Western blot analysis</title><p>Following leptin treatment, cardiomyocytes from young and aging C57 and
+<italic toggle="yes">ob/ob</italic> mice were collected and sonicated in a lysis buffer
+containing 20 mM Tris (pH 7.4), 150 mM NaCl, 1 mM EDTA, 1 mM EGTA, 1%
+Triton, 0.1% SDS and protease inhibitor cocktail. The protein
+concentration of the supernatant was evaluated using the protein assay reagent
+(Bio-Rad, Hercules, CA, USA). Equal-amounts (30 µg) of protein and
+prestained molecular weight marker (GIBCO, Gaithersburg, MD, USA) were loaded
+onto 7%∼10% SDS-polyacrylamide gels in a minigel
+apparatus (Mini-PROTEAN II, Bio-Rad), separated, and transferred to
+nitrocellulose membranes (0.2 µm pore size, Bio-Rad). Membranes were
+incubated for 1 hr in a blocking solution containing 5% nonfat milk
+in TBS-T before being washed in TBS-T. Membranes were then incubated overnight
+at 4°C with anti-p47<italic toggle="yes"><sup>phox</sup></italic> (1∶1000, kindly provided by Dr. Mark T. Quinn from Montana
+State University, Bozeman, MT), anti-p38 MAP kinase and anti-phospho-p38 MAP
+kinase (pp38, 1∶1,000), anti-ERK (1∶1,000;),
+anti-phospho-ERK (pERK; 1∶1,000), anti-SAPK/JNK (1∶1,000),
+anti-phospho-SAPK/JNK (pJNK, 1∶1,000), anti-IκB
+(1∶1,000), anti-phospho-IκB (pIκB, 1∶1,000),
+anti-Akt (1∶1,000), anti-phospho-Akt (pAkt, 1∶1,000),
+anti-eNOS, anti-phospho-eNOS (peNOS, 1∶1000), anti-STAT3
+(1∶1,000), anti-phospho-STAT3 (pSTAT3, 1∶1,000), anti-Ob-R
+(long form isoform Ob-Rb, 1∶1000), anti-AMPK (1∶1000) and
+anti-phospho-AMPK (pAMPK,1∶1000) antibodies. GAPDH was used as the
+internal loading control (1∶5,000). All antibodies were obtained from
+Cell Signaling Technology (Beverly, MA, USA) or Santa Cruz Biotechnology (Santa
+Cruz, CA, USA) unless otherwise specified. After incubation with the primary
+antibodies, blots were incubated with either anti-mouse or anti-rabbit IgG
+horseradish peroxidase-linked antibodies at a dilution of 1∶5,000 for
+60 min at room temperature. Immunoreactive bands were detected using the Super
+Signal West Dura Extended Duration Substrate (Pierce, Milwaukee, WI). Intensity
+of the bands was measured with a scanning densitometer (model GS-800; Bio-Rad)
+coupled with Bio-Rad personal computer analysis software.</p></sec><sec id="s2g"><title>Intracellular fluorescence measurement of superoxide
+(O<sub>2</sub>
+<sup>−</sup>)</title><p>Intracellular superoxide were monitored by changes in fluorescence intensity
+resulting from intracellular probe oxidation according to a previously described
+method <xref rid="pone.0010085-Dong4" ref-type="bibr">[22]</xref>. Following leptin (0.5, 1.0 and 50 nM)
+treatment, cardiomyocytes from young and aging C57 lean and
+<italic toggle="yes">ob/ob</italic> mice were loaded with 5 µM dihydroethidium
+(DHE) (Molecular Probes, Eugene, OR, USA) for 30 min at 37°C and washed
+with PBS buffer. Cells were sampled randomly using an Olympus BX-51 microscope
+equipped with an Olympus MagnaFire™ SP digital camera and ImagePro
+image analysis software (Media Cybernetics, Silver Spring, MD). Fluorescence was
+calibrated with InSpeck microspheres (Molecular Probes). More than 150 cells per
+group were evaluated using the grid crossing method for cell selection in more
+than 15 visual fields per experiment.</p></sec><sec id="s2h"><title>Statistical analysis</title><p>Data are presented as mean ± SEM. Statistical significance
+(p&lt;0.05) was determined by a one- or two-way analysis of variance (ANOVA)
+followed by a Tukey's <italic toggle="yes">post hoc</italic> analysis.</p></sec></sec><sec id="s3"><title>Results</title><sec id="s3a"><title>General features of experimental animals</title><p>As expected, young <italic toggle="yes">ob/ob</italic> mice displayed significantly greater
+body, heart, liver and kidney weights compared with age-matched young C57 mice.
+The organ size (when normalized to tibial length) was also significantly greater
+in young <italic toggle="yes">ob/ob</italic> mice compared with the young C57 group. Body and
+organ (except kidney in aging <italic toggle="yes">ob/ob</italic> mice) weights were
+significantly heavier in aging (12-month-old) C57 or <italic toggle="yes">ob/ob</italic> mice
+compared with respective young groups, as expected. Consistently, the organ size
+(normalized to tibial length) was significantly greater in the 12-month-old
+aging C57 mice compared with young C57 mice. Nonetheless, liver size but not
+that of heart and kidney was significantly enhanced with aging in
+<italic toggle="yes">ob/ob</italic> mice. Body fat composition was significantly elevated
+with aging and obesity, with an additive effect between the two. There were no
+significant differences in tibial length and fasting glucose levels among the
+four mouse groups, excluding growth-related factor and the presence of
+full-blown diabetes mellitus (<xref ref-type="table" rid="pone-0010085-t001">Table 1</xref>). The 18-month-old C57 and <italic toggle="yes">ob/ob</italic> mice
+displayed a comparable biometric profile somewhat similar to their 12-month-old
+counterparts (data not shown). The Kaplan-Meier survival curve comparison
+depicts that <italic toggle="yes">ob/ob</italic> mice display significantly reduced survival
+rates when compared to C57 lean mice. The median lifespan was 27.0 and 18.0
+months for C57 and <italic toggle="yes">ob/ob</italic> mice, respectively
+(p = 0.0007). Survival curves of the two mouse
+groups began to separate after ∼6 months of age with
+<italic toggle="yes">ob/ob</italic> mice exhibiting a greater mortality rate (<xref ref-type="fig" rid="pone-0010085-g001">Fig. 1</xref>).</p><fig id="pone-0010085-g001" position="float" orientation="portrait"><object-id pub-id-type="doi">10.1371/journal.pone.0010085.g001</object-id><label>Figure 1</label><caption><title>Cumulative survival curve (Kaplan-Meier survival plot) of male C57
+lean and <italic toggle="yes">ob/ob</italic> obese mice.</title><p>The cumulative survival rate was plotted against age in months. The Log
+rank test was performed to compare the two mouse groups
+(p = 0.0007).
+n = 26 and 16 mice for C57 and
+<italic toggle="yes">ob/ob</italic> mice, respectively.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="pone.0010085.g001.jpg"/></fig><table-wrap id="pone-0010085-t001" position="float" orientation="portrait"><object-id pub-id-type="doi">10.1371/journal.pone.0010085.t001</object-id><label>Table 1</label><caption><title>General features of young (4-month-old) or aging (12-month-old) lean
+C57 and <italic toggle="yes">ob/ob</italic> mice.</title></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="pone-0010085-t001-1" position="float" orientation="portrait" xlink:href="pone.0010085.t001.jpg"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">C57-young</td><td align="left" rowspan="1" colspan="1">C57-aging</td><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">ob/ob</italic>-young</td><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">ob/ob</italic>-aging</td></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Body Weight (g)</td><td align="left" rowspan="1" colspan="1">24.0±0.5</td><td align="left" rowspan="1" colspan="1">29.0±0.5*</td><td align="left" rowspan="1" colspan="1">54.3±0.9**</td><td align="left" rowspan="1" colspan="1">63.6±2.9*,**</td></tr><tr><td align="left" rowspan="1" colspan="1">Heart Weight (mg)</td><td align="left" rowspan="1" colspan="1">144±3</td><td align="left" rowspan="1" colspan="1">178±3*</td><td align="left" rowspan="1" colspan="1">316±5**</td><td align="left" rowspan="1" colspan="1">350±8*,**</td></tr><tr><td align="left" rowspan="1" colspan="1">Tibial Length (mm)</td><td align="left" rowspan="1" colspan="1">16.6±0.2</td><td align="left" rowspan="1" colspan="1">17.0±0.2</td><td align="left" rowspan="1" colspan="1">16.5±0.2</td><td align="left" rowspan="1" colspan="1">17.1±0.3</td></tr><tr><td align="left" rowspan="1" colspan="1">HW/TL (mg/mm)</td><td align="left" rowspan="1" colspan="1">8.66±0.19</td><td align="left" rowspan="1" colspan="1">10.4±0.2*</td><td align="left" rowspan="1" colspan="1">19.1±0.3**</td><td align="left" rowspan="1" colspan="1">20.5±0.5**</td></tr><tr><td align="left" rowspan="1" colspan="1">Liver Weight (g)</td><td align="left" rowspan="1" colspan="1">1.28±0.08</td><td align="left" rowspan="1" colspan="1">1.58±0.07*</td><td align="left" rowspan="1" colspan="1">3.12±0.13**</td><td align="left" rowspan="1" colspan="1">4.58±0.17*,**</td></tr><tr><td align="left" rowspan="1" colspan="1">LW/TL (mg/mm)</td><td align="left" rowspan="1" colspan="1">77.2±4.8</td><td align="left" rowspan="1" colspan="1">92.5±4.2*</td><td align="left" rowspan="1" colspan="1">189.3±7.6**</td><td align="left" rowspan="1" colspan="1">267.8±9.9*,**</td></tr><tr><td align="left" rowspan="1" colspan="1">Kidney Weight (g)</td><td align="left" rowspan="1" colspan="1">0.27±0.02</td><td align="left" rowspan="1" colspan="1">0.37±0.02*</td><td align="left" rowspan="1" colspan="1">0.46±0.02**</td><td align="left" rowspan="1" colspan="1">0.49±0.02**</td></tr><tr><td align="left" rowspan="1" colspan="1">KW/TL (mg/mm)</td><td align="left" rowspan="1" colspan="1">16.1±0.6</td><td align="left" rowspan="1" colspan="1">21.8±1.1*</td><td align="left" rowspan="1" colspan="1">28.1±1.0**</td><td align="left" rowspan="1" colspan="1">28.9±0.9**</td></tr><tr><td align="left" rowspan="1" colspan="1">Body Fat Composition (%)</td><td align="left" rowspan="1" colspan="1">18.2±1.2</td><td align="left" rowspan="1" colspan="1">26.5±1.2*</td><td align="left" rowspan="1" colspan="1">69.1±2.1**</td><td align="left" rowspan="1" colspan="1">78.6±1.7*,**</td></tr><tr><td align="left" rowspan="1" colspan="1">Blood Glucose (mM)</td><td align="left" rowspan="1" colspan="1">5.50±0.12</td><td align="left" rowspan="1" colspan="1">5.60±0.21</td><td align="left" rowspan="1" colspan="1">5.79±0.13</td><td align="left" rowspan="1" colspan="1">5.79±0.20</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="nt101"><label/><p>HW  =  heart weight; LW
+ =  liver weight; KW
+ =  kidney weight; TL
+ =  tibial length; Mean
+± SEM, * p&lt;0.05 <italic toggle="yes">vs.</italic>
+corresponding young group, ** p&lt;0.05
+<italic toggle="yes">vs.</italic> corresponding C57 group,
+n = 13 and 14 mice for C57 and
+<italic toggle="yes">ob/ob</italic> groups, respectively.</p></fn></table-wrap-foot></table-wrap></sec><sec id="s3b"><title>Mechanical and intracellular Ca<sup>2+</sup> properties of
+cardiomyocytes in <italic toggle="yes">ob/ob</italic> obesity</title><p>Neither obesity nor aging significantly affected the myocyte yield or overall
+appearance (<xref ref-type="fig" rid="pone-0010085-g002">Fig. 2</xref>). The
+resting cell length was significantly greater in young <italic toggle="yes">ob/ob</italic>
+and aging (both 12 and 18 months of age) C57 mice compared with young C57 mice.
+Obesity further augmented aging-elicited elongation in cardiomyocyte resting
+cell length at both 12 and 18 months of age. Short-term leptin treatment did not
+affect resting cell length in either young or aging C57 and
+<italic toggle="yes">ob/ob</italic> mice (<xref ref-type="fig" rid="pone-0010085-g003">Fig. 3A</xref>). Both obesity and aging (12 and 18 months) significantly
+reduced peak shortening (PS) amplitude and maximal velocity of
+shortening/relengthening (± dL/dt), prolonged time-to-90%
+relengthening (TR<sub>90</sub>) without affecting time-to-peak shortening (TPS).
+There was little difference in the aging-induced change in mechanical parameters
+between 12 and 18 months of age. In addition, there was no discernible
+synergistic effect between obesity and age on these mechanical indices. Leptin
+supplementation at physiological levels (0.5 and 1.0 nM) effectively nullified
+obesity-induced mechanical deficiencies (PS, ± dL/dt and
+TR<sub>90</sub>) in young but not aging (12-month) mouse groups. However,
+leptin treatment (0.5 and 1.0 nM) did not alter aging-induced mechanical changes
+in PS, ± dL/dt and TR<sub>90</sub> (<xref ref-type="fig" rid="pone-0010085-g003">Fig. 3B-3F</xref>). Consistent with our previous
+report <xref rid="pone.0010085-Dong4" ref-type="bibr">[22]</xref>, pharmacological level of leptin (50 nM)
+overtly impaired cardiomyocyte mechanical function including depressed PS and
+± dL/dt as well as prolonged TPS and TR<sub>90</sub> in both young
+and aging C57 or <italic toggle="yes">ob/ob</italic> mouse groups (<xref ref-type="fig" rid="pone-0010085-g003">Fig. 3A–3F</xref>). To explore the
+possible role of intracellular Ca<sup>2+</sup> homeostasis in obesity
+and/or aging-induced mechanical responses, we evaluated intracellular
+Ca<sup>2+</sup> transients using the Fura-2 fluorescence
+measurement. Our results indicated that both obesity and aging enhanced resting
+intracellular Ca<sup>2+</sup> levels without any additive effects. The
+rise of intracellular Ca<sup>2+</sup> in response to electrical stimuli
+was significantly reduced by either obesity or aging (12- and 18-month) with an
+overt additive effective between the two. Both obesity and aging reduced the
+intracellular Ca<sup>2+</sup> clearing rate (single and bi-exponential
+decay) with no additive effect. Consistent with its effect on cardiomyocyte
+shortening, there was little difference in the aging-induced change in
+intracellular Ca<sup>2+</sup> property between 12 and 18 months of age.
+Furthermore, short-term leptin supplementation at physiological levels (0.5 and
+1.0 nM) significantly attenuated or ablated intracellular
+Ca<sup>2+</sup> abnormalities in young but not aging
+<italic toggle="yes">ob/ob</italic> mice. Consistent with its response in cardiomyocyte
+shortening, short-term leptin treatment at physiological levels (0.5 and 1.0 nM)
+failed to affect aging-induced changes in intracellular Ca<sup>2+</sup>
+handling although pharmacological level of leptin (50 nM) drastically
+interrupted cardiomyocyte intracellular Ca<sup>2+</sup> homeostasis
+including elevated resting intracellular Ca<sup>2+</sup> levels,
+depressed intracellular Ca<sup>2+</sup> rise in response to electrical
+stimuli and prolonged intracellular Ca<sup>2+</sup> decay in both young
+and aging C57 or <italic toggle="yes">ob/ob</italic> mouse groups (<xref ref-type="fig" rid="pone-0010085-g004">Fig. 4</xref>). Given that 12 and 18 months of age
+produced reminiscent mechanical changes in C57 lean and <italic toggle="yes">ob/ob</italic>
+mice, 12 months of age was chosen as the only aging group the remaining of
+<italic toggle="yes">ob/ob</italic> study.</p><fig id="pone-0010085-g002" position="float" orientation="portrait"><object-id pub-id-type="doi">10.1371/journal.pone.0010085.g002</object-id><label>Figure 2</label><caption><title>Light microscopic images of cardiomyocytes freshly isolated from
+young (4-month-old) and aging (12- or 18-month-old) lean (C57) and
+<italic toggle="yes">ob/ob</italic> mice.</title><p>200x, scale bar  = 100 µm.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="pone.0010085.g002.jpg"/></fig><fig id="pone-0010085-g003" position="float" orientation="portrait"><object-id pub-id-type="doi">10.1371/journal.pone.0010085.g003</object-id><label>Figure 3</label><caption><title>Contractile properties of cardiomyocytes freshly isolated from young
+(4-month-old) and aging (12- or 18-month-old) lean (C57) and
+<italic toggle="yes">ob/ob</italic> mice treated with or without leptin (0.5, 1.0
+and 50 nM) for 4 hrs.</title><p>A: Resting cell length; B: Peak shortening (PS, normalized to cell
+length); C: Maximal velocity of shortening (+ dL/dt); D:
+Maximal velocity of relengthening (- dL/dt); E: Time-to-peak shortening
+(TPS); F: Time-to-90% relengthening (TR<sub>90</sub>); Mean
+± SEM, n = 50–53
+cells from 3 mice per group, * p&lt;0.05
+<italic toggle="yes">vs.</italic> respective C57 group, **
+p&lt;0.05 <italic toggle="yes">vs.</italic> young C57 group, # p&lt;0.05
+<italic toggle="yes">vs.</italic> respective <italic toggle="yes">ob/ob</italic> group.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="pone.0010085.g003.jpg"/></fig><fig id="pone-0010085-g004" position="float" orientation="portrait"><object-id pub-id-type="doi">10.1371/journal.pone.0010085.g004</object-id><label>Figure 4</label><caption><title>Intracellular Ca<sup>2+</sup> transient properties of
+cardiomyocytes freshly isolated from young (4-month-old) and aging (12-
+or 18-month-old) lean (C57) and <italic toggle="yes">ob/ob</italic> mice treated with
+or without leptin (0.5, 1.0 and 50 nM) for 4 hrs.</title><p>A: Resting intracellular Ca<sup>2+</sup> fluorescence intensity;
+B: Rise in intracellular Ca<sup>2+</sup> fluorescence intensity
+in response to electrical stimuli; C: Single-exponential
+Ca<sup>2+</sup> transient decay rate and D: Bi-exponential
+Ca<sup>2+</sup> transient decay rate. Mean ±
+SEM, n = 36–38 cells from 3
+mice per group, * p&lt;0.05 <italic toggle="yes">vs.</italic> respective
+C57 group, ** p&lt;0.05 <italic toggle="yes">vs.</italic> young
+C57 group, # p&lt;0.05 <italic toggle="yes">vs.</italic> respective
+<italic toggle="yes">ob/ob</italic> group.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="pone.0010085.g004.jpg"/></fig></sec><sec id="s3c"><title>Influence of age and <italic toggle="yes">ob/ob</italic> obesity on
+O<sub>2</sub>
+<sup>−</sup> production and NADPH oxidase
+(<italic toggle="yes">p<sup>47phox</sup></italic> subunit) expression</title><p>Depending on the level of exposure, leptin is known to elicit a paradoxical
+effect on cardiomyocyte contractile function through either inhibition or
+stimulation of O<sub>2</sub>
+<sup>−</sup> production <xref rid="pone.0010085-Dong4" ref-type="bibr">[22,22]</xref>.
+To determine whether O<sub>2</sub>
+<sup>−</sup> production plays a role
+in the disparate leptin effects between young and aging <italic toggle="yes">ob/ob</italic>
+mice, we evaluated O<sub>2</sub>
+<sup>−</sup> production and expression
+of the rate-limiting enzyme for O<sub>2</sub>
+<sup>−</sup> production
+NADPH oxidase (<italic toggle="yes">p</italic>
+<sup>47<italic toggle="yes">phox</italic></sup> subunit)
+<xref rid="pone.0010085-Murdoch1" ref-type="bibr">[25]</xref> using DHE fluorescence and Western blot
+analysis, respectively. Our data suggested that obesity and aging (12-month)
+significantly enhanced O<sub>2</sub>
+<sup>−</sup> production and
+upregulated expression of <italic toggle="yes">p</italic>
+<sup>47<italic toggle="yes">phox</italic></sup>
+NADPH oxidase without an additive effect of the two. Leptin supplementation at
+physiological levels (0.5 and 1.0 nM) ablated obesity-induced
+O<sub>2</sub>
+<sup>−</sup> production and
+<italic toggle="yes">p</italic>
+<sup>47<italic toggle="yes">phox</italic></sup> NADPH oxidase
+expression in young but not aging <italic toggle="yes">ob/ob</italic> mice. Nonetheless,
+leptin treatment at 0.5 and 1.0 nM failed to reconcile aging-induced effects on
+O<sub>2</sub>
+<sup>−</sup> production and
+<italic toggle="yes">p</italic>
+<sup>47<italic toggle="yes">phox</italic></sup> NADPH oxidase
+expression. Consistent with the mechanical and intracellular
+Ca<sup>2+</sup> response, pharmacological level of leptin (50 nM)
+directly enhanced O<sub>2</sub>
+<sup>−</sup> production and upregulated
+expression of <italic toggle="yes">p</italic>
+<sup>47<italic toggle="yes">phox</italic></sup> NADPH oxidase
+in both young and aging C57 or <italic toggle="yes">ob/ob</italic> mouse groups (<xref ref-type="fig" rid="pone-0010085-g005">Fig. 5</xref>).</p><fig id="pone-0010085-g005" position="float" orientation="portrait"><object-id pub-id-type="doi">10.1371/journal.pone.0010085.g005</object-id><label>Figure 5</label><caption><title>O<sub>2</sub>
+<sup>−</sup> production (Panel A) and
+<italic toggle="yes">p</italic>
+<sup>47</sup>
+<sup><bold><italic toggle="yes">phox</italic></bold></sup>
+<bold> NADPH oxidase subunit expression (Panel B) measured by DHE
+fluorescence and immunoblotting, respectively, in cardiomyocytes
+freshly isolated from young (4-month-old) or aging (12-month-old)
+lean (C57) and </bold>
+<bold><italic toggle="yes">ob/ob</italic></bold>
+<bold> mice treated with or without leptin (0.5, 1.0 and 50 nM)
+for 4 hrs.</bold>
+</title><p>Insets: Representative gel blots of
+<italic toggle="yes">p</italic>
+<sup>47<italic toggle="yes">phox</italic></sup> NADPH oxidase
+subunit using specific
+anti-<italic toggle="yes">p</italic>
+<sup>47<italic toggle="yes">phox</italic></sup>
+antibody. GAPDH was used as the loading control. Mean ± SEM,
+n = 12–14 (Panel A) and
+9–11 (Panel B) per group, * p&lt;0.05
+<italic toggle="yes">vs.</italic> respective C57 group, **
+p&lt;0.05 <italic toggle="yes">vs.</italic> young C57 group, # p&lt;0.05
+<italic toggle="yes">vs.</italic> respective <italic toggle="yes">ob/ob</italic> group.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="pone.0010085.g005.jpg"/></fig></sec><sec id="s3d"><title>Influence of age and <italic toggle="yes">ob/ob</italic> obesity on leptin receptor (Ob-R)
+and STAT3 activation</title><p>To determine the potential involvement of leptin signaling in obesity and/or
+age-induced effects on cardiomyocyte contractile function, intracellular
+Ca<sup>2+</sup> homeostasis and O<sub>2</sub>
+<sup>−</sup>
+production, we evaluated the leptin receptor Ob-R, the post-leptin receptor
+signaling molecule STAT-3 and STAT-3 phosphorylation. Our results shown in <xref ref-type="fig" rid="pone-0010085-g006">Fig. 6</xref> revealed that obesity,
+but not aging (12-month), significantly reduced Ob-R protein expression and its
+post-receptor signaling STAT-3 phosphorylation without affecting the total
+STAT-3 expression. Interestingly, short-term leptin supplementation at both 1.0
+nM and 50 nM significantly upregulated Ob-R expression in young but not aging
+<italic toggle="yes">ob/ob</italic> mice and stimulated STAT-3 phosphorylation in both
+young and aging <italic toggle="yes">ob/ob</italic> groups. Leptin treatment at 1.0 and 50 nM
+did not alter the expression of Ob-R and STAT-3 in lean mice although the high
+but not the low concentration of leptin directly stimulated STAT-3
+phosphorylation in lean mice.</p><fig id="pone-0010085-g006" position="float" orientation="portrait"><object-id pub-id-type="doi">10.1371/journal.pone.0010085.g006</object-id><label>Figure 6</label><caption><title>The leptin receptor Ob-R expression (Panel A) and phosphorylation of
+the leptin receptor downstream signaling molecule STAT-3 (pSTAT3, Panel
+B) in cardiomyocytes freshly isolated from young (4-month-old) or aging
+(12-month-old) lean (C57) and <italic toggle="yes">ob/ob</italic> mice treated with
+or without leptin (1.0 and 50 nM) for 4 hrs.</title><p>Protein expression of Ob-R and pSTAT-3 was normalized to the loading
+control GAPDH or total STAT-3, respectively. Insets: Representative gel
+blots of Ob-R, pSTAT-3 and STAT-3 proteins using specific antibodies.
+Mean ± SEM, n = 3
+– 6 isolations, * p&lt;0.05 <italic toggle="yes">vs.</italic>
+respective C57 group, # p&lt;0.05 <italic toggle="yes">vs.</italic> respective
+<italic toggle="yes">ob/ob</italic> group.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="pone.0010085.g006.jpg"/></fig></sec><sec id="s3e"><title>Influence of age and <italic toggle="yes">ob/ob</italic> obesity on Akt, eNOS and
+AMPK</title><p>A number of signaling molecules have been shown to participate in obesity and
+aging-induced biological responses and regulation of cardiac function, including
+Akt, the Akt downstream signal eNOS and the cellular fuel AMPK <xref rid="pone.0010085-Hutchinson1" ref-type="bibr">[29]</xref>, <xref rid="pone.0010085-Matsui1" ref-type="bibr">[30]</xref>. We examined the expression of Akt, eNOS,
+AMPK and their phosphorylation in young and aging (12-month) C57 lean and
+<italic toggle="yes">ob/ob</italic> mouse cardiomyocytes. Our results revealed that
+either obesity or age independently dampened the phosphorylation of Akt and its
+downstream signaling molecule eNOS without affecting expression of Akt and eNOS.
+There was no interaction between obesity and age on the phosphorylation of Akt
+and eNOS. Short-term leptin treatment at physiological level (1.0 nM) reconciled
+the reduced phosphorylation of Akt and eNOS in young <italic toggle="yes">ob/ob</italic>, but
+not the aging mice. While obesity and age alone failed to affect AMPK and its
+phosphorylation, the combination of the two significantly attenuated AMPK
+phosphorylation but not total AMPK expression. Short-term leptin treatment at
+physiological level (1.0 nM) reduced AMPK phosphorylation in young
+<italic toggle="yes">ob/ob</italic> mice but not other groups. Short-term leptin
+treatment at physiological level did not affect the expression of
+non-phosphorylated Akt, eNOS and AMPK. Interestingly, short-term treatment of
+leptin at pharmacological level (50 nM) significantly suppressed the
+phosphorylation of Akt, eNOS and AMPK in all mouse groups (with the exception of
+AMPK phosphorylation in aging ob/ob group) without affecting the expression of
+non-phosphorylated Akt, eNOS and AMPK (<xref ref-type="fig" rid="pone-0010085-g007">Fig. 7</xref>).</p><fig id="pone-0010085-g007" position="float" orientation="portrait"><object-id pub-id-type="doi">10.1371/journal.pone.0010085.g007</object-id><label>Figure 7</label><caption><title>Panel A: Representative gel blots of total and phosphorylated Akt,
+eNOS and AMPK in cardiomyocytes freshly isolated from young
+(4-month-old) or aging (12-month-old) lean (C57) and
+<italic toggle="yes">ob/ob</italic> mice treated with or without leptin (1.0 and
+50 nM) for 4 hrs using specific antibodies; Panel B: Phosphorylation of
+Akt expressed as pAkt-to-Akt ratio; Panel C: Phosphorylation of eNOS
+expressed as peNOS-to-eNOS ratio; and Panel D: Phosphorylation of AMPK
+expressed as pAMPK-to-AMPK ratio.</title><p>Mean ± SEM, n = 4 –
+6 isolations, * p&lt;0.05 <italic toggle="yes">vs.</italic> respective
+C57 group, ** p&lt;0.05 <italic toggle="yes">vs.</italic> young
+C57 group, # p&lt;0.05 <italic toggle="yes">vs.</italic> respective
+<italic toggle="yes">ob/ob</italic> group.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="pone.0010085.g007.jpg"/></fig></sec><sec id="s3f"><title>Influence of age and <italic toggle="yes">ob/ob</italic> obesity on p38 MAP kinase, JNK,
+ERK and IκB</title><p>To further examine the possible role of stress signaling pathways in obesity,
+aging and leptin-induced cardiac responses, expression of p38 MAP kinase, JNK,
+ERK and the NFκB inhibitor IκB as well as their phosphorylation
+were examined in young and aging C57 lean and <italic toggle="yes">ob/ob</italic> mouse
+cardiomyocytes. Our results revealed that both obesity and age significantly
+inhibited and stimulated phosphorylation of p38 MAP kinase and JNK,
+respectively, without affecting expression of total p38 MAP kinase or JNK. There
+was no additive effect between obesity and age on the phosphorylation of p38 MAP
+kinase and JNK. Short-term leptin supplementation at physiological level (1.0
+nM) restored obesity-induced changes in the phosphorylation of p38 MAP kinase
+and JNK in young mice without affecting that in aging mice. Neither obesity nor
+age affected expression of total and phosphorylated ERK, although the
+combination of the two significantly reduced ERK phosphorylation. Leptin at 1.0
+nM reconciled the reduced ERK phosphorylation in aging <italic toggle="yes">ob/ob</italic>
+mice without affecting any other mouse groups. Expression of non-phosphorylated
+ERK was unaffected by short-term leptin treatment at 1.0 nM. Our data further
+revealed that either obesity or aging significantly enhanced phosphorylation of
+IκB with no additive effect between the two. IκB is an inhibitor
+of NFκB where enhanced IκB phosphorylation removes its
+inhibition on NFκB). Similar to its effect on other stress signaling
+molecules, short-term leptin treatment at physiological level (1.0 nM) removed
+obesity-induced phosphorylation of IκB in young but not aging mice. Last
+but not the least, short-term treatment of leptin at pharmacological level (50
+nM) significantly activated the stress signaling molecules p38, JNK, ERK and
+NFκB (via enhanced phosphorylation of IκB) in all mouse groups
+without affecting the expression of non-phosphorylated proteins (<xref ref-type="fig" rid="pone-0010085-g008">Fig. 8</xref>).</p><fig id="pone-0010085-g008" position="float" orientation="portrait"><object-id pub-id-type="doi">10.1371/journal.pone.0010085.g008</object-id><label>Figure 8</label><caption><title>Total and phosphorylated protein expression of p38 MAP kinase, JNK,
+ERK and IκB in cardiomyocytes isolated from young (4-month-old)
+or aging (12-month-old) lean (C57) and <italic toggle="yes">ob/ob</italic> mice
+treated with or without leptin (1.0 and 50 nM) for 4 hrs.</title><p>Panel A: Phosphorylation of p38 expressed as pp38-to-p38 ratio; Panel B:
+Phosphorylation of JNK expressed as pJNK-to-JNK ratio; Panel C:
+Phosphorylation of ERK expressed as pERK-to-ERK ratio; and Panel D:
+Phosphorylation of IκB expressed as p IκB-to-IκB
+ratio. Insets: Representative gel blots of total and phosphorylated p38,
+JNK, ERK and IκB proteins using specific antibodies. Mean
+± SEM, n = 4–8
+isolations, * p&lt;0.05 <italic toggle="yes">vs.</italic> respective C57
+group, ** p&lt;0.05 <italic toggle="yes">vs.</italic> young C57
+group, # p&lt;0.05 <italic toggle="yes">vs.</italic> respective
+<italic toggle="yes">ob/ob</italic> group.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="pone.0010085.g008.jpg"/></fig></sec><sec id="s3g"><title>Influence of age and obesity on cardiomyocyte function in high fat-induced
+and <italic toggle="yes">db/db</italic> obesity</title><p>To further elucidate the interaction between aging and obesity on cardiac
+contractile function, we went on to examine the high fat diet-induced and the
+leptin receptor mutant <italic toggle="yes">db/db</italic> obesity models. A 16-week high fat
+diet feeding regimen was applied to young (4-month-old) and aging (12-month-old)
+C57 mice. Both young and aging mice were euglycemic (data not shown) and
+displayed a comparable separation in body weight in response to low and high fat
+diet feeding (Young: Low fat: 26.6±0.6 g <italic toggle="yes">vs.</italic> High
+fat: 30.6±0.6 g; Aging: Low fat: 28.8±0.4 g
+<italic toggle="yes">vs.</italic> High fat: 32.7±0.4 g,
+n = 4 mice per group). The resting cell length
+was significantly greater in high fat diet and aging groups without any additive
+effect between the two. Short-term leptin treatment (1.0 nM) failed to affect
+resting cell length in either low or high fat diet groups at both ages. Both
+high fat diet feeding and aging independently and significantly reduced PS and
+± dL/dt, prolonged TR<sub>90</sub> without affecting TPS. There was
+no additive or synergistic effect between the two on the mechanical responses.
+Leptin supplementation (1.0 nM) failed to reconcile high fat diet or
+aging-induced mechanical alteration in PS, ± dL/dt and
+TR<sub>90</sub>. Furthermore, leptin treatment (1.0 nM) did not alter any of
+the mechanical indices tested (<xref ref-type="fig" rid="pone-0010085-g009">Fig.
+9</xref>). Our further study using the <italic toggle="yes">db/db</italic> obese model
+revealed a somewhat comparable euglycemic (data not shown) body weight gain
+between C57 (4-month: 24.0±0.8 g; 12-month: 28.0±0.9 g;
+18-month: 30.2±0.8 g) and <italic toggle="yes">db/db</italic> (4-month:
+48.2±2.0; 12-month: 56.7±2.3; 18-month:
+59.9±2.9%, n = 4 mice per
+group, p&lt;0.05 <italic toggle="yes">vs.</italic> corresponding C57 group) mice. The
+resting cell length was significantly greater in <italic toggle="yes">db/db</italic> and
+aging groups without any additive effect between the two. Both
+<italic toggle="yes">db/db</italic> obesity and aging significantly reduced PS and
+± dL/dt, prolonged TR<sub>90</sub> without affecting TPS.
+Interestingly, aging and <italic toggle="yes">db/db</italic> obesity exerted an additive
+inhibitory effect on PS and ± dL/dt without affecting TR<sub>90</sub>
+at 18 but not 12 months of age (<xref ref-type="fig" rid="pone-0010085-g010">Fig. 10</xref>).</p><fig id="pone-0010085-g009" position="float" orientation="portrait"><object-id pub-id-type="doi">10.1371/journal.pone.0010085.g009</object-id><label>Figure 9</label><caption><title>Contractile properties of cardiomyocytes isolated from young
+(4-month-old) and aging (12-month-old) male C57 mice fed a low
+(10%) or high (45%) fat diet for 16 weeks.</title><p>Cohorts of cardiomyocytes were treated with or without leptin (1.0 nM)
+for 4 hrs prior to mechanical study. A: Resting cell length; B: Peak
+shortening (PS, normalized to cell length); C: Maximal velocity of
+shortening (+ dL/dt); D: Maximal velocity of relengthening (-
+dL/dt); E: Time-to-peak shortening (TPS); F: Time-to-90%
+relengthening (TR<sub>90</sub>); Mean ± SEM,
+n = 50–51 cells from 3 mice
+per group, * p&lt;0.05 <italic toggle="yes">vs.</italic> respective low
+fat group, ** p&lt;0.05 <italic toggle="yes">vs.</italic> young
+low fat group.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="pone.0010085.g009.jpg"/></fig><fig id="pone-0010085-g010" position="float" orientation="portrait"><object-id pub-id-type="doi">10.1371/journal.pone.0010085.g010</object-id><label>Figure 10</label><caption><title>Contractile properties of cardiomyocytes isolated from young
+(4-month-old) and aging (12- or 18-month-old) male C57 lean and the
+leptin receptor-deficient <italic toggle="yes">db/db</italic> obese mice.</title><p>A: Resting cell length; B: Peak shortening (PS, normalized to cell
+length); C: Maximal velocity of shortening (+ dL/dt); D:
+Maximal velocity of relengthening (- dL/dt); E: Time-to-peak shortening
+(TPS); F: Time-to-90% relengthening (TR<sub>90</sub>); Mean
+± SEM, n = 102–103
+cells from 3 mice per group, * p&lt;0.05
+<italic toggle="yes">vs.</italic> respective C57 group, **
+p&lt;0.05 <italic toggle="yes">vs.</italic> young C57 (4-month) group, #
+p&lt;0.05 <italic toggle="yes">vs.</italic> young <italic toggle="yes">db/db</italic>
+(4-month) group.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="pone.0010085.g010.jpg"/></fig></sec></sec><sec id="s4"><title>Discussion</title><p>The major findings of our current study revealed that increased age mimicked
+leptin-deficient <italic toggle="yes">ob/ob</italic> obesity-induced changes in cardiomyocyte
+contractile function, intracellular Ca<sup>2+</sup> homeostasis, NADPH
+oxidase expression, O<sub>2</sub>
+<sup>−</sup> accumulation, Akt/eNOS and
+stress signaling (p38, JNK and NFκB). Little additive or synergistic actions
+were noted between aging and <italic toggle="yes">ob/ob</italic> obesity on the above-mentioned
+parameters, with the exception of a rise in intracellular Ca<sup>2+</sup>.
+Short-term treatment of leptin at physiological levels (0.5 and 1.0 nM) elicited a
+beneficial effect on cardiomyocyte contractile and intracellular
+Ca<sup>2+</sup> responses in young but not aging <italic toggle="yes">ob/ob</italic>
+mice whereas pharmacological level of leptin (50 nM) compromised cardiomyocyte
+contractile function, intracellular Ca<sup>2+</sup> handling, NADPH oxidase
+expression, O<sub>2</sub>
+<sup>−</sup> accumulation, Akt/eNOS and stress
+signaling. The disparity between young and aging mice in physiological leptin
+level-induced mechanical responses was closely mirrored by an accumulation of
+O<sub>2</sub>
+<sup>−</sup> and expression of NADPH oxidase
+(<italic toggle="yes">p</italic>
+<sup>47<italic toggle="yes">phox</italic></sup>), the enzyme responsible
+for O<sub>2</sub>
+<sup>−</sup> production. Further scrutiny depicted that
+aging and obesity independently decreased the phosphorylation of Akt and its
+downstream signaling molecule eNOS, stimulated JNK and IκB phosphorylation
+as well as inhibited p38 phosphorylation without overt interactions between the two.
+Consistent with its responsiveness to mechanical function,
+O<sub>2</sub>
+<sup>−</sup> production and
+<italic toggle="yes">p</italic>
+<sup>47<italic toggle="yes">phox</italic></sup> expression,
+physiological levels of leptin effectively restored leptin deficiency-induced
+changes in the phosphorylation of Akt, eNOS, JNK, IκB and p38 in young but
+not aging <italic toggle="yes">ob/ob</italic> mice. These data favor a role of post-insulin
+receptor signaling and stress signaling in obesity-associated cardiac mechanical
+defects and O<sub>2</sub>
+<sup>−</sup> accumulation. Our data did not favor
+a major role for the leptin receptor (Ob-R), its post-receptor signal STAT-3, ERK or
+AMPK in leptin-elicited beneficial effects in <italic toggle="yes">ob/ob</italic> obese mice.
+Given that leptin (at physiological levels) failed to reconcile aging-induced
+detrimental effects in cardiomyocytes, it appears that aging may produce cardiac
+contractile and intracellular Ca<sup>2+</sup> defects associated with
+O<sub>2</sub>
+<sup>−</sup> accumulation reminiscent of leptin-deficient
+obesity through a mechanism(s) independent of interrupted leptin signaling.</p><p>Development of obesity and its associated complications may be attributed to multiple
+factors including genetic, dietary, environmental and evolutionary components,
+although pinpointing each specific influence has been rather difficult <xref rid="pone.0010085-Cope1" ref-type="bibr">[1]</xref>, <xref rid="pone.0010085-Bellisari1" ref-type="bibr">[3]</xref>.
+Although human obesity is usually accompanied by hyperleptinemia <xref rid="pone.0010085-Ren3" ref-type="bibr">[16]</xref>, both
+hypo- and hyper-leptinemia have been shown to induce obesity due to interrupted
+leptin signaling and energy expenditure <xref rid="pone.0010085-Ross1" ref-type="bibr">[31]</xref>. Sustained obesity
+(diet-induced or genetically predisposed) impairs cardiac contractile function in a
+manner reminiscent of pre-diabetic insulin resistance and full-blown diabetes <xref rid="pone.0010085-Dong5" ref-type="bibr">[32]</xref>–<xref rid="pone.0010085-Relling1" ref-type="bibr">[35]</xref>, indicating a role for
+insulin resistance in obesity-induced cardiac contractile dysfunction. This is
+supported by our current observation of dephosphorylated Akt and eNOS in young and
+aging <italic toggle="yes">ob/ob</italic> mice. In our study, the leptin deficient
+<italic toggle="yes">ob/ob</italic> mice were euglycemic at both ages, thus excluding
+possible contribution from full-blown diabetes to the cardiac anomalies of the
+<italic toggle="yes">ob/ob</italic> mice. Our data revealed a somewhat similar tibial length
+among young and aging C57 or <italic toggle="yes">ob/ob</italic> mice, excluding the possible
+contribution of disparate growth and development in these mice. These data are in
+line with the notion that tibial length reached plateau when body growth slowed down
+after postnatal day 70 in mice <xref rid="pone.0010085-Tiemann1" ref-type="bibr">[36]</xref>. Nonetheless, these <italic toggle="yes">ob/ob</italic> mice
+were hyperinsulinemic, hypertriglyceridemic and glucose intolerant based on our
+earlier studies <xref rid="pone.0010085-Dong1" ref-type="bibr">[12]</xref>, <xref rid="pone.0010085-Dong3" ref-type="bibr">[14]</xref>, indicating the presence of insulin resistance.
+More importantly, our DEXA study depicted an age-dependent increase in body fat
+composition in both C57 lean and <italic toggle="yes">ob/ob</italic> obese mice, favoring aging
+itself as an independent obesogenic factor <xref rid="pone.0010085-Miard1" ref-type="bibr">[4]</xref>. Data from our study
+indicated that aging itself produced a cascade of cardiomyocyte mechanical defects
+reminiscent of young <italic toggle="yes">ob/ob</italic> or <italic toggle="yes">db/db</italic> as well as
+high fat diet-induced obese mice. In all three murine obesity models used in our
+study, both aging and obesity independently triggered an elongation in resting cell
+length, depression in peak shortening (PS) amplitude and maximal velocity of
+shortening/relengthening amplitude (± dL/dt), as well as prolongation in
+relengthening duration (TR<sub>90</sub>) but not duration of shortening (TPS). These
+data are consistent with our previous observations from aged or obese mice <xref rid="pone.0010085-Dong3" ref-type="bibr">[14]</xref>, <xref rid="pone.0010085-Li1" ref-type="bibr">[37]</xref>, <xref rid="pone.0010085-Yang1" ref-type="bibr">[38]</xref>.
+Interestingly, there was little interaction between aging and obesity on
+cardiomyocyte contractile parameters with the exception of further depressed PS and
+± dL/dt in 18-month-old <italic toggle="yes">db/db</italic> mice. These data seem to
+favor the notion that aging and obesity may share somewhat similar cellular
+mechanisms <italic toggle="yes">en route</italic> to cardiomyocyte mechanical dysfunction. The
+apparent disparity between <italic toggle="yes">ob/ob</italic> and <italic toggle="yes">db/db</italic> mice on
+the synergistic effect of aging (18 months) and obesity depicts presence of an overt
+age-related difference between the two leptin mutant murine obesity models. Thus
+caution should be taken to derive experimental conclusions using various rodent
+obesity models. Given our further observation that physiological leptin treatment
+failed to reconcile high fat diet- or age-induced detrimental effects in
+cardiomyocytes, the convergence between aging and obesity in cardiac contractile and
+intracellular Ca<sup>2+</sup> defects as well as
+O<sub>2</sub>
+<sup>−</sup> accumulation likely occurs at a point
+downstream of or independent of leptin signaling.</p><p>The Kaplan-Meier survival curve (<xref ref-type="fig" rid="pone-0010085-g001">Fig.
+1</xref>) revealed a greatly elevated mortality in <italic toggle="yes">ob/ob</italic> mice,
+supporting the hypothesis that obesity may be considered a status of premature aging
+<xref rid="pone.0010085-Miard1" ref-type="bibr">[4]</xref>. It
+is worth mentioning that the 12 or 18 months of age selected for our
+“aging” mice was not as old as other studies have used. However
+the mortality rate of <italic toggle="yes">ob/ob</italic> mice after one year of life is much
+higher than other mouse types <xref rid="pone.0010085-Harrison1" ref-type="bibr">[26]</xref>, <xref rid="pone.0010085-Yang1" ref-type="bibr">[38]</xref>. Although limited information is available for
+the precise cause of death for these <italic toggle="yes">ob/ob</italic> obese mice, it may be
+speculated that obesity-associated tumorigenesis (e.g., colon and skin cancer),
+chronic inflammation, immune deficiency and cardiovascular complications are among
+the leading causes of death in these mice <xref rid="pone.0010085-GatYablonski1" ref-type="bibr">[39]</xref>. In our study,
+the young and aging <italic toggle="yes">ob/ob</italic> mice exhibited significantly greater fat
+composition, heavier body and heart weights compared with the age-matched lean
+control group. Moreover, the aging <italic toggle="yes">ob/ob</italic> mice displayed an
+additional increase in body weight compared with the young <italic toggle="yes">ob/ob</italic>
+mice. Considering the comparable cardiomyocyte functional profiles between young and
+aging <italic toggle="yes">ob/ob</italic> mice, it appears that the extra body weight gain and
+body fat composition in aging <italic toggle="yes">ob/ob</italic> mice had little effect on
+cardiac dysfunction associated with obesity. Nonetheless, the additional increase in
+body and fat mass was mirrored by a drop in the rise of intracellular
+Ca<sup>2+</sup> seen with aging. The greater cardiomyocyte cell length
+in <italic toggle="yes">ob/ob</italic> mice at both ages was not affected by short-term
+physiological leptin treatment, likely due to the fact that cardiac hypertrophy
+resulting from interrupted leptin signaling in <italic toggle="yes">ob/ob</italic> mice is a
+chronic process <xref rid="pone.0010085-Barouch1" ref-type="bibr">[23]</xref>, <xref rid="pone.0010085-Barouch2" ref-type="bibr">[40]</xref>. During the chronic
+cardiac remodeling process with interrupted leptin signaling, the heart transforms
+from compensated to decompensated states accompanied by deteriorated cardiac
+function.</p><p>Our study revealed that both aging and obesity impaired intracellular
+Ca<sup>2+</sup> handling shown as delayed intracellular
+Ca<sup>2+</sup> clearance and reduced intracellular
+Ca<sup>2+</sup> rise, consistent with our previous studies <xref rid="pone.0010085-Dong3" ref-type="bibr">[14]</xref>, <xref rid="pone.0010085-Li1" ref-type="bibr">[37]</xref>, <xref rid="pone.0010085-Yang1" ref-type="bibr">[38]</xref>. Unlike
+the observation from cardiomyocyte mechanical assessment, the obesity-induced
+decline in intracellular Ca<sup>2+</sup> release was further accentuated
+with aging, indicating a possible change in myofilament Ca<sup>2+</sup>
+sensitivity in the aging <italic toggle="yes">ob/ob</italic> murine cardiomyocytes. These
+observations favor the idea that dysregulated intracellular Ca<sup>2+</sup>
+regulation may contribute to cardiomyocyte contractile dysfunction (prolonged
+TR<sub>90</sub>, reduced PS and ± dL/dt) under aging, obesity or
+both. Our data further revealed that physiological leptin reconciled intracellular
+Ca<sup>2+</sup> mishandling in young but not aging
+<italic toggle="yes">ob/ob</italic> mice, indicating that intracellular
+Ca<sup>2+</sup> handling may contribute to the beneficial mechanical
+response of leptin in young <italic toggle="yes">ob/ob</italic> mice. Our observation of elevated
+O<sub>2</sub>
+<sup>-</sup> production and upregulated
+<italic toggle="yes">p</italic>
+<sup>47<italic toggle="yes">phox</italic></sup> subunit of NADPH
+oxidase in both aging and obese groups (without interaction between the two)
+suggests a likely role of NADPH oxidase-dependent
+O<sub>2</sub>
+<sup>−</sup> release in aging and/or obesity-elicited
+cardiomyocyte intracellular Ca<sup>2+</sup> handling and contractile
+dysfunction. The NADPH oxidase-dependent O<sub>2</sub>
+<sup>−</sup>
+production and other reactive oxygen species are known to cause cardiomyocyte
+mechanical dysfunction <xref rid="pone.0010085-Dong4" ref-type="bibr">[22]</xref>, <xref rid="pone.0010085-Murdoch1" ref-type="bibr">[25]</xref>. The fact that
+physiological leptin alleviated obesity-elicited increases in
+O<sub>2</sub>
+<sup>−</sup> production and
+<italic toggle="yes">p</italic>
+<sup>47<italic toggle="yes">phox</italic></sup> expression in young but
+not aging <italic toggle="yes">ob/ob</italic> mice favors a role for NADPH oxidase-dependent
+O<sub>2</sub>
+<sup>−</sup> production in the disparate cardiac response
+of short-term leptin treatment. Our further observation in Ob-R expression and
+STAT-3 phosphorylation depicted reduced Ob-R expression and STAT-3 phosphorylation
+in both <italic toggle="yes">ob/ob</italic> age groups. To our surprise, unlike its effect on
+cardiomyocyte contractile function, intracellular Ca<sup>2+</sup>
+homeostasis and O<sub>2</sub>
+<sup>−</sup> production, leptin treatment
+restored downregulated Ob-R expression and STAT-3 activation in both
+<italic toggle="yes">ob/ob</italic> age groups without any effect in lean groups. These data
+indicate that the likely mechanism responsible for the age-dependent disparity of
+cardiac leptin responses may not reside at the levels of the Ob-R or STAT-3. This
+notion received further support from our observation that the pharmacological
+concentration of leptin (50 nM) promoted Ob-R/STAT-3 signaling while compromising
+cardiomyocyte contractile function, intracellular Ca<sup>2+</sup> handling,
+NADPH oxidase expression, O<sub>2</sub>
+<sup>−</sup> accumulation, Akt/eNOS
+and stress signaling. Data from our previous study revealed that pharmacological
+levels of leptin (50 and 100 nM) compromised cardiac contractile function and
+intracellular Ca<sup>2+</sup> homeostasis through an ET-1 receptor-/NADPH
+oxidase-dependent accumulation of reactive oxygen species <xref rid="pone.0010085-Dong4" ref-type="bibr">[22]</xref>. Our current data
+revealed unchanged Ob-R (long form) expression and reduced STAT-3 activation in
+murine hearts at 12 months of age. Limited information is available with regards to
+aging-induced changes in Ob-R expression and STAT-3 activation. The leptin-induced
+STAT-3 phosphorylation was found to be higher along with an upregulated hypothalamic
+expression of the Ob-R at 14 - 18 months of mouse age compared with 2 months of age
+<xref rid="pone.0010085-Hosoi1" ref-type="bibr">[41]</xref>,
+indicating increased leptin sensitivity with aging in the mouse brain. However,
+little information is available on the heart with regards to the impact of aging on
+leptin sensitivity.</p><p>Our results showed that aging and obesity independently depressed the phosphorylation
+of Akt and eNOS, stimulated JNK and IκB phosphorylation as well as inhibited
+p38 phosphorylation without overt interaction between the two. Meanwhile, leptin
+supplementation at physiological levels rescued the dampened Akt/eNOS/p38
+phosphorylation in young <italic toggle="yes">ob/ob</italic> mice, the effect of which was
+obliterated by aging. These data are consistent with the basal and leptin-elicited
+responses on cardiomyocyte contractile function, intracellular
+Ca<sup>2+</sup> handling, O<sub>2</sub>
+<sup>−</sup>
+production and NADPH oxidase expression. Under-activation of the key cardiac
+survival factor Akt and its downstream signaling molecule eNOS has been demonstrated
+in various models of cardiac dysfunction and heart failure <xref rid="pone.0010085-Dong3" ref-type="bibr">[14]</xref>, <xref rid="pone.0010085-Fang1" ref-type="bibr">[34]</xref>, suggesting a crucial
+role of Akt/eNOS in the maintenance of cardiac function. It is noteworthy that the
+dampened Akt/eNOS phosphorylation observed in our <italic toggle="yes">ob/ob</italic> mice may
+contribute to enhanced cardiac oxidative stress and compromised cardiac function
+since the Akt-eNOS cascade is known for its role in cardiac survival, glucose uptake
+and maintenance of cardiac contractile function <xref rid="pone.0010085-Matsui1" ref-type="bibr">[30]</xref>. In our hands, both
+obesity and aging independently decreased the phosphorylation of Akt and eNOS
+without any additive effects between the two, consistent with our data on
+mechanical, intracellular Ca<sup>2+</sup> and
+O<sub>2</sub>
+<sup>−</sup> production. These observations favor a key
+role for Akt/eNOS signaling in leptin-deficient obesity and age-induced cardiac
+dysfunction. Our data revealed reduced p38 MAP kinase phosphorylation in aged and
+obese mice, while leptin effectively restored p38 phosphorylation in young
+<italic toggle="yes">ob/ob</italic> but not aging mice. These results favor a beneficial role
+of p38 phosphorylation in the maintenance of cardiomyocyte function, which is
+supported by the previous finding that inhibition of p38 MAP kinase reduces insulin
+sensitivity and glucose uptake in human myotubes <xref rid="pone.0010085-Kramer1" ref-type="bibr">[42]</xref>. This is also in line
+with the finding that leptin directly stimulates p38 MAP kinase phosphorylation
+<xref rid="pone.0010085-Zeidan1" ref-type="bibr">[43]</xref>,
+<xref rid="pone.0010085-Ren4" ref-type="bibr">[44]</xref>. JNK
+and NFκB may be turned on by pro-inflammatory cytokines and free fatty acids
+in aging and obesity, resulting in interrupted insulin signaling and development of
+cardiac dysfunction <xref rid="pone.0010085-Hirosumi1" ref-type="bibr">[45]</xref>. Our observation of enhanced phosphorylation of
+JNK and IκB (which removes its inhibition on NFκB) in aging and
+obesity are consistent with the reduced phosphorylation of Akt and eNOS. In
+addition, our results revealed that neither obesity nor age significantly affected
+the total expression and phosphorylation of ERK and AMPK. Interestingly, combining
+obesity and age significantly attenuated phosphorylation of ERK and AMPK, the
+effects of which were ablated and unaffected, respectively, by leptin treatment.
+Although we are unable to offer any precise explanation for the combined effect
+between age and obesity on ERK and AMPK at this time, our data do not favor a
+significant role for ERK and AMPK in the reminiscent cardiac defects between aging
+and obesity as well as the disparity in the leptin cardiac responsiveness. Further
+study is warranted to better address the interplay among various cell signaling
+pathways such as sirtuin, a key signaling molecule in longevity and lifespan <xref rid="pone.0010085-Borradaile1" ref-type="bibr">[46]</xref>, or
+RAGE, which plays a key role in aging-associated cardiomyocyte dysfunction via
+NFκB activation <xref rid="pone.0010085-Gao1" ref-type="bibr">[47]</xref>, in the aging- and obesity-associated cardiac
+contractile dysfunction.</p><p>Experimental limitations: Although our study provided a likely causal relationship
+among cardiac mechanical function, intracellular Ca<sup>2+</sup>
+homeostasis, NADPH oxidase, O<sub>2</sub>
+<sup>−</sup> accumulation,
+Akt/eNOS and stress signaling activation between aging and obesity, caution should
+be taken for the interpretation of the precise interaction between aging and obesity
+in cardiac dysfunction in the human setting. First and foremost, the short-term
+<italic toggle="yes">in vitro</italic> leptin incubation used in our study may not best
+represent the <italic toggle="yes">in vivo</italic> longer term effect of leptin on phenotypic
+changes in obesity. Oxidative modification of intracellular Ca<sup>2+</sup>
+handling proteins is known to contribute to altered cardiomyocyte mechanics such as
+prolonged relaxation in obesity <xref rid="pone.0010085-Li1" ref-type="bibr">[37]</xref>. It may be speculated that short-term incubation
+of physiological levels of leptin may interrupt the oxidative processes (i.e.
+scavenging reactive oxygen species) thus shifting the redox balance towards reducing
+processes and promoting reactions to temporarily reverse oxidative modification of
+Ca<sup>2+</sup> handling proteins. Nonetheless, this may not truly
+reflect the physiological setting <italic toggle="yes">in vivo</italic>. In our study, only male
+mice were used which ignored the important gender disparity in obesity and aging
+<xref rid="pone.0010085-Ren1" ref-type="bibr">[2]</xref>. In
+our cell isolation procedure, butanedione monoxime was used to uncouple
+cardiomyocyte contractile elements and maintain cell viability for a prolonged
+period of time, which may unevenly alter the true <italic toggle="yes">in vivo</italic>
+cardiomyocyte mechanics and thus bias cardiomyocyte function from lean and
+<italic toggle="yes">ob/ob</italic> groups. Measurement of contractile performance in
+isolated cardiomyocytes has been established to provide a fundamental assessment of
+cardiac contractile function in pathological states. However, as in any study of
+this nature, caution needs to be taken when correlating our present cellular
+findings to whole heart function, as the latter is composed of heterogeneous cell
+types, including nerve terminals and fibroblasts, as well as the connective tissue
+alluded to above. Furthermore, cardiomyocytes beat at a high frequency <italic toggle="yes">in
+vivo</italic> as opposed to the non-physiological slow pace (0.5 Hz) used in our
+study despite the fact that a low frequency contraction is deemed as a
+“slow motion” to maximally reveal the cell mechanical defect.
+Last but not least, the long–form Ob-Rb receptor monoclonal antibody used
+in our study may cross-act with the short-form leptin receptors although the latter
+cannot turn on the full JAK-STAT leptin signaling due to the absence of the
+essential box-2 motif.</p><p>In summary, data from our present study suggested that aging and the leptin deficient
+<italic toggle="yes">ob/ob</italic> obesity compromise cardiac contractile function and
+intracellular Ca<sup>2+</sup> homeostasis via comparable mechanisms
+involving NADPH oxidase-dependent O<sub>2</sub>
+<sup>−</sup> production,
+phosphorylation of Akt, eNOS as well as the stress signaling molecules p38, JNK and
+NFκB. Our study further revealed an age-associated disparity in
+physiological leptin level-elicited responsiveness in cardiomyocyte contraction,
+intracellular Ca<sup>2+</sup> handling and
+O<sub>2</sub>
+<sup>−</sup> production. Collectively, these data favor a
+role for NADPH oxidase, O<sub>2</sub>
+<sup>−</sup> generation, Akt, eNOS
+and the stress signaling molecules p38, JNK and NFκB, rather than Ob-R and
+STAT-3, in the basal and leptin-elicited cardiac response during aging and obesity.
+Our data further revealed both similarity and disparity in aging-associated
+cardiomyocyte mechanical response between <italic toggle="yes">ob/ob</italic> obesity and high
+fat diet-induced or the hyperleptinemic <italic toggle="yes">db/db</italic> obesity. Given the
+lack of knowledge of aging-induced changes in adiposity and leptin signaling, the
+precise interplay between aging and obesity, and contribution of leptin signaling
+and downstream stress signaling activation, if any, to the cardiac contractile
+dysfunction in the state of concurrent aging and obesity warrant further
+research.</p></sec></body><back><ack><p>The authors wish to express our appreciation to Dr. Derek Smith and Mr. Christopher
+Dorozynski from University of Wyoming College of Health Sciences for their
+assistance in Dual Energy X-ray Absorptiometry.</p></ack><fn-group><fn fn-type="COI-statement"><p><bold>Competing Interests: </bold>The authors have declared that no competing interests exist.</p></fn><fn fn-type="financial-disclosure"><p><bold>Funding: </bold>This work was supported in part by grants from the American Heart Association
+Pacific Mountain Affiliate (#0355521Z), American Diabetes Association
+(7-08-RA-130) and National Institutes of Health/National Center for Research
+Resources (NIH/NCRR) North Rockies Regional INBRE (P20 RR 016474) to J.R. The
+funders had no role in study design, data collection and analysis, decision to
+publish, or preparation of the manuscript.</p></fn></fn-group><ref-list><title>References</title><ref id="pone.0010085-Cope1"><label>1</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Cope</surname><given-names>MB</given-names></name><name name-style="western"><surname>Allison</surname><given-names>DB</given-names></name></person-group><year>2006</year><article-title>Obesity: person and population.</article-title><source>Obesity (Silver Spring)</source><volume>14</volume><issue>Suppl 4</issue><fpage>156S</fpage><lpage>159S</lpage><pub-id pub-id-type="pmid">16931498</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/oby.2006.297</pub-id></element-citation></ref><ref id="pone.0010085-Ren1"><label>2</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Ren</surname><given-names>J</given-names></name><name name-style="western"><surname>Kelley</surname><given-names>RO</given-names></name></person-group><year>2009</year><article-title>Cardiac health in women with metabolic syndrome: clinical aspects
+and pathophysiology.</article-title><source>Obesity (Silver Spring)</source><volume>17</volume><fpage>1114</fpage><lpage>1123</lpage><pub-id pub-id-type="pmid">19214173</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/oby.2009.8</pub-id></element-citation></ref><ref id="pone.0010085-Bellisari1"><label>3</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Bellisari</surname><given-names>A</given-names></name></person-group><year>2008</year><article-title>Evolutionary origins of obesity.</article-title><source>Obes Rev</source><volume>9</volume><fpage>165</fpage><lpage>180</lpage><pub-id pub-id-type="pmid">18257754</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1467-789X.2007.00392.x</pub-id></element-citation></ref><ref id="pone.0010085-Miard1"><label>4</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Miard</surname><given-names>S</given-names></name><name name-style="western"><surname>Picard</surname><given-names>F</given-names></name></person-group><year>2008</year><article-title>Obesity and aging have divergent genomic
+fingerprints.</article-title><source>Int J Obes (Lond)</source><volume>32</volume><fpage>1873</fpage><lpage>1874</lpage><pub-id pub-id-type="pmid">18982010</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/ijo.2008.214</pub-id></element-citation></ref><ref id="pone.0010085-Jensen1"><label>5</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Jensen</surname><given-names>D</given-names></name><name name-style="western"><surname>Ofir</surname><given-names>D</given-names></name><name name-style="western"><surname>O'Donnell</surname><given-names>DE</given-names></name></person-group><year>2009</year><article-title>Effects of pregnancy, obesity and aging on the intensity of
+perceived breathlessness during exercise in healthy humans.</article-title><source>Respir Physiol Neurobiol</source><volume>167</volume><fpage>87</fpage><lpage>100</lpage><pub-id pub-id-type="pmid">19450766</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.resp.2009.01.011</pub-id></element-citation></ref><ref id="pone.0010085-Chernoff1"><label>6</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Chernoff</surname><given-names>R</given-names></name></person-group><year>2001</year><article-title>Nutrition and health promotion in older adults.</article-title><source>J Gerontol A Biol Sci Med Sci</source><volume>56 Spec No 2</volume><fpage>47</fpage><lpage>53</lpage><pub-id pub-id-type="pmid">11730237</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/gerona/56.suppl_2.47</pub-id></element-citation></ref><ref id="pone.0010085-Eckel1"><label>7</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Eckel</surname><given-names>RH</given-names></name><name name-style="western"><surname>Barouch</surname><given-names>WW</given-names></name><name name-style="western"><surname>Ershow</surname><given-names>AG</given-names></name></person-group><year>2002</year><article-title>Report of the National Heart, Lung, and Blood Institute-National
+Institute of Diabetes and Digestive and Kidney Diseases Working Group on the
+pathophysiology of obesity-associated cardiovascular
+disease.</article-title><source>Circulation</source><volume>105</volume><fpage>2923</fpage><lpage>2928</lpage><pub-id pub-id-type="pmid">12070124</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/01.cir.0000017823.53114.4c</pub-id></element-citation></ref><ref id="pone.0010085-Ren2"><label>8</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Ren</surname><given-names>J</given-names></name><name name-style="western"><surname>Sowers</surname><given-names>JR</given-names></name><name name-style="western"><surname>Walsh</surname><given-names>MF</given-names></name><name name-style="western"><surname>Brown</surname><given-names>RA</given-names></name></person-group><year>2000</year><article-title>Reduced contractile response to insulin and IGF-I in ventricular
+myocytes from genetically obese Zucker rats.</article-title><source>Am J Physiol Heart Circ Physiol</source><volume>279</volume><fpage>H1708</fpage><lpage>H1714</lpage><pub-id pub-id-type="pmid">11009458</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1152/ajpheart.2000.279.4.H1708</pub-id></element-citation></ref><ref id="pone.0010085-Sowers1"><label>9</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Sowers</surname><given-names>JR</given-names></name></person-group><year>1998</year><article-title>Obesity and cardiovascular disease.</article-title><source>Clin Chem</source><volume>44</volume><fpage>1821</fpage><lpage>1825</lpage><pub-id pub-id-type="pmid">9702991</pub-id></element-citation></ref><ref id="pone.0010085-Kuo1"><label>10</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Kuo</surname><given-names>JJ</given-names></name><name name-style="western"><surname>Jones</surname><given-names>OB</given-names></name><name name-style="western"><surname>Hall</surname><given-names>JE</given-names></name></person-group><year>2003</year><article-title>Chronic cardiovascular and renal actions of leptin during
+hyperinsulinemia.</article-title><source>Am J Physiol Regul Integr Comp Physiol</source><volume>284</volume><fpage>R1037</fpage><lpage>R1042</lpage><pub-id pub-id-type="pmid">12521924</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1152/ajpregu.00480.2002</pub-id></element-citation></ref><ref id="pone.0010085-Dobrian1"><label>11</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Dobrian</surname><given-names>AD</given-names></name><name name-style="western"><surname>Davies</surname><given-names>MJ</given-names></name><name name-style="western"><surname>Prewitt</surname><given-names>RL</given-names></name><name name-style="western"><surname>Lauterio</surname><given-names>TJ</given-names></name></person-group><year>2000</year><article-title>Development of hypertension in a rat model of diet-induced
+obesity.</article-title><source>Hypertension</source><volume>35</volume><fpage>1009</fpage><lpage>1015</lpage><pub-id pub-id-type="pmid">10775577</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/01.hyp.35.4.1009</pub-id></element-citation></ref><ref id="pone.0010085-Dong1"><label>12</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Dong</surname><given-names>F</given-names></name><name name-style="western"><surname>Zhang</surname><given-names>X</given-names></name><name name-style="western"><surname>Yang</surname><given-names>X</given-names></name><name name-style="western"><surname>Esberg</surname><given-names>LB</given-names></name><name name-style="western"><surname>Yang</surname><given-names>H</given-names></name><etal/></person-group><year>2006</year><article-title>Impaired cardiac contractile function in ventricular myocytes
+from leptin-deficient ob/ob obese mice.</article-title><source>J Endocrinol</source><volume>188</volume><fpage>25</fpage><lpage>36</lpage><pub-id pub-id-type="pmid">16394172</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1677/joe.1.06241</pub-id></element-citation></ref><ref id="pone.0010085-Dong2"><label>13</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Dong</surname><given-names>F</given-names></name><name name-style="western"><surname>Li</surname><given-names>Q</given-names></name><name name-style="western"><surname>Sreejayan</surname><given-names>N</given-names></name><name name-style="western"><surname>Nunn</surname><given-names>JM</given-names></name><name name-style="western"><surname>Ren</surname><given-names>J</given-names></name></person-group><year>2007</year><article-title>Metallothionein prevents high-fat diet induced cardiac
+contractile dysfunction: role of peroxisome proliferator activated receptor
+gamma coactivator 1alpha and mitochondrial biogenesis.</article-title><source>Diabetes</source><volume>56</volume><fpage>2201</fpage><lpage>2212</lpage><pub-id pub-id-type="pmid">17575086</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.2337/db06-1596</pub-id></element-citation></ref><ref id="pone.0010085-Dong3"><label>14</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Dong</surname><given-names>F</given-names></name><name name-style="western"><surname>Yang</surname><given-names>X</given-names></name><name name-style="western"><surname>Sreejayan</surname><given-names>N</given-names></name><name name-style="western"><surname>Ren</surname><given-names>J</given-names></name></person-group><year>2007</year><article-title>Chromium (D-phenylalanine)3 improves obesity-induced cardiac
+contractile defect in ob/ob mice.</article-title><source>Obesity (Silver Spring)</source><volume>15</volume><fpage>2699</fpage><lpage>2711</lpage><pub-id pub-id-type="pmid">18070761</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/oby.2007.322</pub-id></element-citation></ref><ref id="pone.0010085-Minhas1"><label>15</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Minhas</surname><given-names>KM</given-names></name><name name-style="western"><surname>Khan</surname><given-names>SA</given-names></name><name name-style="western"><surname>Raju</surname><given-names>SV</given-names></name><name name-style="western"><surname>Phan</surname><given-names>AC</given-names></name><name name-style="western"><surname>Gonzalez</surname><given-names>DR</given-names></name><etal/></person-group><year>2005</year><article-title>Leptin repletion restores depressed {beta}-adrenergic
+contractility in ob/ob mice independently of cardiac
+hypertrophy.</article-title><source>J Physiol</source><volume>565</volume><fpage>463</fpage><lpage>474</lpage><pub-id pub-id-type="pmid">15760936</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1113/jphysiol.2005.084566</pub-id><pub-id pub-id-type="pmcid">PMC1464532</pub-id></element-citation></ref><ref id="pone.0010085-Ren3"><label>16</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Ren</surname><given-names>J</given-names></name></person-group><year>2004</year><article-title>Leptin and hyperleptinemia - from friend to foe for
+cardiovascular function.</article-title><source>J Endocrinol</source><volume>181</volume><fpage>1</fpage><lpage>10</lpage><pub-id pub-id-type="pmid">15072562</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1677/joe.0.1810001</pub-id></element-citation></ref><ref id="pone.0010085-Sattar1"><label>17</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Sattar</surname><given-names>N</given-names></name><name name-style="western"><surname>Wannamethee</surname><given-names>G</given-names></name><name name-style="western"><surname>Sarwar</surname><given-names>N</given-names></name><name name-style="western"><surname>Chernova</surname><given-names>J</given-names></name><name name-style="western"><surname>Lawlor</surname><given-names>DA</given-names></name><etal/></person-group><year>2009</year><article-title>Leptin and coronary heart disease: prospective study and
+systematic review.</article-title><source>J Am Coll Cardiol</source><volume>53</volume><fpage>167</fpage><lpage>175</lpage><pub-id pub-id-type="pmid">19130985</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jacc.2008.09.035</pub-id></element-citation></ref><ref id="pone.0010085-Sweeney1"><label>18</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Sweeney</surname><given-names>G</given-names></name></person-group><year>2010</year><article-title>Cardiovascular effects of leptin.</article-title><source>Nat Rev Cardiol</source><volume>7</volume><fpage>22</fpage><lpage>29</lpage><pub-id pub-id-type="pmid">19949425</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nrcardio.2009.224</pub-id></element-citation></ref><ref id="pone.0010085-Xu1"><label>19</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Xu</surname><given-names>FP</given-names></name><name name-style="western"><surname>Chen</surname><given-names>MS</given-names></name><name name-style="western"><surname>Wang</surname><given-names>YZ</given-names></name><name name-style="western"><surname>Yi</surname><given-names>Q</given-names></name><name name-style="western"><surname>Lin</surname><given-names>SB</given-names></name><etal/></person-group><year>2004</year><article-title>Leptin induces hypertrophy via endothelin-1-reactive oxygen
+species pathway in cultured neonatal rat cardiomyocytes.</article-title><source>Circulation</source><volume>110</volume><fpage>1269</fpage><lpage>1275</lpage><pub-id pub-id-type="pmid">15313952</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/01.CIR.0000140766.52771.6D</pub-id></element-citation></ref><ref id="pone.0010085-Nickola1"><label>20</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Nickola</surname><given-names>MW</given-names></name><name name-style="western"><surname>Wold</surname><given-names>LE</given-names></name><name name-style="western"><surname>Colligan</surname><given-names>PB</given-names></name><name name-style="western"><surname>Wang</surname><given-names>GJ</given-names></name><name name-style="western"><surname>Samson</surname><given-names>WK</given-names></name><etal/></person-group><year>2000</year><article-title>Leptin attenuates cardiac contraction in rat ventricular
+myocytes.</article-title><source>Role of NO. Hypertension</source><volume>36</volume><fpage>501</fpage><lpage>505</lpage><pub-id pub-id-type="pmid">11040226</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/01.hyp.36.4.501</pub-id></element-citation></ref><ref id="pone.0010085-Wold1"><label>21</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Wold</surname><given-names>LE</given-names></name><name name-style="western"><surname>Relling</surname><given-names>DP</given-names></name><name name-style="western"><surname>Duan</surname><given-names>J</given-names></name><name name-style="western"><surname>Norby</surname><given-names>FL</given-names></name><name name-style="western"><surname>Ren</surname><given-names>J</given-names></name></person-group><year>2002</year><article-title>Abrogated leptin-induced cardiac contractile response in
+ventricular myocytes under spontaneous hypertension: role of Jak/STAT
+pathway.</article-title><source>Hypertension</source><volume>39</volume><fpage>69</fpage><lpage>74</lpage><pub-id pub-id-type="pmid">11799081</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/hy0102.100777</pub-id></element-citation></ref><ref id="pone.0010085-Dong4"><label>22</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Dong</surname><given-names>F</given-names></name><name name-style="western"><surname>Zhang</surname><given-names>X</given-names></name><name name-style="western"><surname>Ren</surname><given-names>J</given-names></name></person-group><year>2006</year><article-title>Leptin regulates cardiomyocyte contractile function through
+endothelin-1 receptor-NADPH oxidase pathway.</article-title><source>Hypertension</source><volume>47</volume><fpage>222</fpage><lpage>229</lpage><pub-id pub-id-type="pmid">16380530</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/01.HYP.0000198555.51645.f1</pub-id></element-citation></ref><ref id="pone.0010085-Barouch1"><label>23</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Barouch</surname><given-names>LA</given-names></name><name name-style="western"><surname>Gao</surname><given-names>D</given-names></name><name name-style="western"><surname>Chen</surname><given-names>L</given-names></name><name name-style="western"><surname>Miller</surname><given-names>KL</given-names></name><name name-style="western"><surname>Xu</surname><given-names>W</given-names></name><etal/></person-group><year>2006</year><article-title>Cardiac myocyte apoptosis is associated with increased DNA damage
+and decreased survival in murine models of obesity.</article-title><source>Circ Res</source><volume>98</volume><fpage>119</fpage><lpage>124</lpage><pub-id pub-id-type="pmid">16339484</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/01.RES.0000199348.10580.1d</pub-id></element-citation></ref><ref id="pone.0010085-Denys1"><label>24</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Denys</surname><given-names>K</given-names></name><name name-style="western"><surname>Cankurtaran</surname><given-names>M</given-names></name><name name-style="western"><surname>Janssens</surname><given-names>W</given-names></name><name name-style="western"><surname>Petrovic</surname><given-names>M</given-names></name></person-group><year>2009</year><article-title>Metabolic syndrome in the elderly: an overview of the
+evidence.</article-title><source>Acta Clin Belg</source><volume>64</volume><fpage>23</fpage><lpage>34</lpage><pub-id pub-id-type="pmid">19317238</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1179/acb.2009.006</pub-id></element-citation></ref><ref id="pone.0010085-Murdoch1"><label>25</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Murdoch</surname><given-names>CE</given-names></name><name name-style="western"><surname>Zhang</surname><given-names>M</given-names></name><name name-style="western"><surname>Cave</surname><given-names>AC</given-names></name><name name-style="western"><surname>Shah</surname><given-names>AM</given-names></name></person-group><year>2006</year><article-title>NADPH oxidase-dependent redox signalling in cardiac hypertrophy,
+remodelling and failure.</article-title><source>Cardiovasc Res</source><volume>71</volume><fpage>208</fpage><lpage>215</lpage><pub-id pub-id-type="pmid">16631149</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cardiores.2006.03.016</pub-id></element-citation></ref><ref id="pone.0010085-Harrison1"><label>26</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Harrison</surname><given-names>DE</given-names></name><name name-style="western"><surname>Archer</surname><given-names>JR</given-names></name></person-group><year>1987</year><article-title>Genetic differences in effects of food restriction on aging in
+mice.</article-title><source>J Nutr</source><volume>117</volume><fpage>376</fpage><lpage>382</lpage><pub-id pub-id-type="pmid">3559752</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/jn/117.2.376</pub-id></element-citation></ref><ref id="pone.0010085-Leung1"><label>27</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Leung</surname><given-names>FW</given-names></name><name name-style="western"><surname>Murray</surname><given-names>S</given-names></name><name name-style="western"><surname>Murray</surname><given-names>E</given-names></name><name name-style="western"><surname>Go</surname><given-names>VL</given-names></name></person-group><year>2008</year><article-title>Determination of body fat distribution by dual-energy X-ray
+absorptiometry and attenuation of visceral fat vasoconstriction by
+enalapril.</article-title><source>Dig Dis Sci</source><volume>53</volume><fpage>1084</fpage><lpage>1087</lpage><pub-id pub-id-type="pmid">17939045</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s10620-007-9972-4</pub-id></element-citation></ref><ref id="pone.0010085-Ceddia1"><label>28</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Ceddia</surname><given-names>RB</given-names></name><name name-style="western"><surname>William</surname><given-names>WN</given-names><suffix>Jr</suffix></name><name name-style="western"><surname>Curi</surname><given-names>R</given-names></name></person-group><year>1999</year><article-title>Comparing effects of leptin and insulin on glucose metabolism in
+skeletal muscle: evidence for an effect of leptin on glucose uptake and
+decarboxylation.</article-title><source>Int J Obes Relat Metab Disord</source><volume>23</volume><fpage>75</fpage><lpage>82</lpage><pub-id pub-id-type="pmid">10094581</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/sj.ijo.0800762</pub-id></element-citation></ref><ref id="pone.0010085-Hutchinson1"><label>29</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Hutchinson</surname><given-names>DS</given-names></name><name name-style="western"><surname>Summers</surname><given-names>RJ</given-names></name><name name-style="western"><surname>Bengtsson</surname><given-names>T</given-names></name></person-group><year>2008</year><article-title>Regulation of AMP-activated protein kinase activity by G-protein
+coupled receptors: potential utility in treatment of diabetes and heart
+disease.</article-title><source>Pharmacol Ther</source><volume>119</volume><fpage>291</fpage><lpage>310</lpage><pub-id pub-id-type="pmid">18606183</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.pharmthera.2008.05.008</pub-id></element-citation></ref><ref id="pone.0010085-Matsui1"><label>30</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Matsui</surname><given-names>T</given-names></name><name name-style="western"><surname>Nagoshi</surname><given-names>T</given-names></name><name name-style="western"><surname>Rosenzweig</surname><given-names>A</given-names></name></person-group><year>2003</year><article-title>Akt and PI 3-kinase signaling in cardiomyocyte hypertrophy and
+survival.</article-title><source>Cell Cycle</source><volume>2</volume><fpage>220</fpage><lpage>223</lpage><pub-id pub-id-type="pmid">12734428</pub-id></element-citation></ref><ref id="pone.0010085-Ross1"><label>31</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Ross</surname><given-names>SA</given-names></name><name name-style="western"><surname>Gulve</surname><given-names>EA</given-names></name><name name-style="western"><surname>Wang</surname><given-names>M</given-names></name></person-group><year>2004</year><article-title>Chemistry and biochemistry of type 2 diabetes.</article-title><source>Chem Rev</source><volume>104</volume><fpage>1255</fpage><lpage>1282</lpage><pub-id pub-id-type="pmid">15008623</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/cr0204653</pub-id></element-citation></ref><ref id="pone.0010085-Dong5"><label>32</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Dong</surname><given-names>F</given-names></name><name name-style="western"><surname>Fang</surname><given-names>CX</given-names></name><name name-style="western"><surname>Yang</surname><given-names>X</given-names></name><name name-style="western"><surname>Zhang</surname><given-names>X</given-names></name><name name-style="western"><surname>Lopez</surname><given-names>FL</given-names></name><etal/></person-group><year>2006</year><article-title>Cardiac overexpression of catalase rescues cardiac contractile
+dysfunction induced by insulin resistance: Role of oxidative stress, protein
+carbonyl formation and insulin sensitivity.</article-title><source>Diabetologia</source><volume>49</volume><fpage>1421</fpage><lpage>1433</lpage><pub-id pub-id-type="pmid">16586065</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00125-006-0230-7</pub-id></element-citation></ref><ref id="pone.0010085-Duan1"><label>33</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Duan</surname><given-names>J</given-names></name><name name-style="western"><surname>Zhang</surname><given-names>HY</given-names></name><name name-style="western"><surname>Adkins</surname><given-names>SD</given-names></name><name name-style="western"><surname>Ren</surname><given-names>BH</given-names></name><name name-style="western"><surname>Norby</surname><given-names>FL</given-names></name><etal/></person-group><year>2003</year><article-title>Impaired cardiac function and IGF-I response in myocytes from
+calmodulin-diabetic mice: role of Akt and RhoA.</article-title><source>Am J Physiol Endocrinol Metab</source><volume>284</volume><fpage>E366</fpage><lpage>E376</lpage><pub-id pub-id-type="pmid">12531745</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1152/ajpendo.00254.2002</pub-id></element-citation></ref><ref id="pone.0010085-Fang1"><label>34</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Fang</surname><given-names>CX</given-names></name><name name-style="western"><surname>Dong</surname><given-names>F</given-names></name><name name-style="western"><surname>Ren</surname><given-names>BH</given-names></name><name name-style="western"><surname>Epstein</surname><given-names>PN</given-names></name><name name-style="western"><surname>Ren</surname><given-names>J</given-names></name></person-group><year>2005</year><article-title>Metallothionein alleviates cardiac contractile dysfunction
+induced by insulin resistance: role of Akt phosphorylation, PTB1B, PPARgamma
+and c-Jun.</article-title><source>Diabetologia</source><volume>48</volume><fpage>2412</fpage><lpage>2421</lpage><pub-id pub-id-type="pmid">16172869</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00125-005-1940-y</pub-id></element-citation></ref><ref id="pone.0010085-Relling1"><label>35</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Relling</surname><given-names>DP</given-names></name><name name-style="western"><surname>Esberg</surname><given-names>LB</given-names></name><name name-style="western"><surname>Fang</surname><given-names>CX</given-names></name><name name-style="western"><surname>Johnson</surname><given-names>WT</given-names></name><name name-style="western"><surname>Murphy</surname><given-names>EJ</given-names></name><etal/></person-group><year>2006</year><article-title>High-fat diet-induced juvenile obesity leads to cardiomyocyte
+dysfunction and upregulation of Foxo3a transcription factor independent of
+lipotoxicity and apoptosis.</article-title><source>J Hypertens</source><volume>24</volume><fpage>549</fpage><lpage>561</lpage><pub-id pub-id-type="pmid">16467659</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/01.hjh.0000203846.34314.94</pub-id></element-citation></ref><ref id="pone.0010085-Tiemann1"><label>36</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Tiemann</surname><given-names>K</given-names></name><name name-style="western"><surname>Weyer</surname><given-names>D</given-names></name><name name-style="western"><surname>Djoufack</surname><given-names>PC</given-names></name><name name-style="western"><surname>Ghanem</surname><given-names>A</given-names></name><name name-style="western"><surname>Lewalter</surname><given-names>T</given-names></name><etal/></person-group><year>2003</year><article-title>Increasing myocardial contraction and blood pressure in C57BL/6
+mice during early postnatal development.</article-title><source>Am J Physiol Heart Circ Physiol</source><volume>284</volume><fpage>H464</fpage><lpage>H474</lpage><pub-id pub-id-type="pmid">12414444</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1152/ajpheart.00540.2002</pub-id></element-citation></ref><ref id="pone.0010085-Li1"><label>37</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Li</surname><given-names>SY</given-names></name><name name-style="western"><surname>Yang</surname><given-names>X</given-names></name><name name-style="western"><surname>Ceylan-Isik</surname><given-names>AF</given-names></name><name name-style="western"><surname>Du</surname><given-names>M</given-names></name><name name-style="western"><surname>Sreejayan</surname><given-names>N</given-names></name><etal/></person-group><year>2006</year><article-title>Cardiac contractile dysfunction in Lep/Lep obesity is accompanied
+by NADPH oxidase activation, oxidative modification of sarco(endo)plasmic
+reticulum Ca2+-ATPase and myosin heavy chain isozyme
+switch.</article-title><source>Diabetologia</source><volume>49</volume><fpage>1434</fpage><lpage>1446</lpage><pub-id pub-id-type="pmid">16612592</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00125-006-0229-0</pub-id></element-citation></ref><ref id="pone.0010085-Yang1"><label>38</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Yang</surname><given-names>X</given-names></name><name name-style="western"><surname>Doser</surname><given-names>TA</given-names></name><name name-style="western"><surname>Fang</surname><given-names>CX</given-names></name><name name-style="western"><surname>Nunn</surname><given-names>JM</given-names></name><name name-style="western"><surname>Janardhanan</surname><given-names>R</given-names></name><etal/></person-group><year>2006</year><article-title>Metallothionein prolongs survival and antagonizes
+senescence-associated cardiomyocyte diastolic dysfunction: role of oxidative
+stress.</article-title><source>FASEB J</source><volume>20</volume><fpage>1024</fpage><lpage>1026</lpage><pub-id pub-id-type="pmid">16585059</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1096/fj.05-5288fje</pub-id></element-citation></ref><ref id="pone.0010085-GatYablonski1"><label>39</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Gat-Yablonski</surname><given-names>G</given-names></name><name name-style="western"><surname>Phillip</surname><given-names>M</given-names></name></person-group><year>2008</year><article-title>Leptin and regulation of linear growth.</article-title><source>Curr Opin Clin Nutr Metab Care</source><volume>11</volume><fpage>303</fpage><lpage>308</lpage><pub-id pub-id-type="pmid">18403928</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/MCO.0b013e3282f795cf</pub-id></element-citation></ref><ref id="pone.0010085-Barouch2"><label>40</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Barouch</surname><given-names>LA</given-names></name><name name-style="western"><surname>Berkowitz</surname><given-names>DE</given-names></name><name name-style="western"><surname>Harrison</surname><given-names>RW</given-names></name><name name-style="western"><surname>O'Donnell</surname><given-names>CP</given-names></name><name name-style="western"><surname>Hare</surname><given-names>JM</given-names></name></person-group><year>2003</year><article-title>Disruption of leptin signaling contributes to cardiac hypertrophy
+independently of body weight in mice.</article-title><source>Circulation</source><volume>108</volume><fpage>754</fpage><lpage>759</lpage><pub-id pub-id-type="pmid">12885755</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/01.CIR.0000083716.82622.FD</pub-id></element-citation></ref><ref id="pone.0010085-Hosoi1"><label>41</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Hosoi</surname><given-names>T</given-names></name><name name-style="western"><surname>Okuma</surname><given-names>Y</given-names></name><name name-style="western"><surname>Ono</surname><given-names>A</given-names></name><name name-style="western"><surname>Nomura</surname><given-names>Y</given-names></name></person-group><year>2005</year><article-title>Alteration of leptin-induced STAT3 activation in the brain of
+senescence-accelerated mouse (SAM) P8.</article-title><source>Biol Pharm Bull</source><volume>28</volume><fpage>1514</fpage><lpage>1516</lpage><pub-id pub-id-type="pmid">16079504</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1248/bpb.28.1514</pub-id></element-citation></ref><ref id="pone.0010085-Kramer1"><label>42</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Kramer</surname><given-names>DK</given-names></name><name name-style="western"><surname>Al-Khalili</surname><given-names>L</given-names></name><name name-style="western"><surname>Perrini</surname><given-names>S</given-names></name><name name-style="western"><surname>Skogsberg</surname><given-names>J</given-names></name><name name-style="western"><surname>Wretenberg</surname><given-names>P</given-names></name><etal/></person-group><year>2005</year><article-title>Direct activation of glucose transport in primary human myotubes
+after activation of peroxisome proliferator-activated receptor
+delta.</article-title><source>Diabetes</source><volume>54</volume><fpage>1157</fpage><lpage>1163</lpage><pub-id pub-id-type="pmid">15793256</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.2337/diabetes.54.4.1157</pub-id></element-citation></ref><ref id="pone.0010085-Zeidan1"><label>43</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Zeidan</surname><given-names>A</given-names></name><name name-style="western"><surname>Javadov</surname><given-names>S</given-names></name><name name-style="western"><surname>Karmazyn</surname><given-names>M</given-names></name></person-group><year>2006</year><article-title>Essential role of Rho/ROCK-dependent processes and actin dynamics
+in mediating leptin-induced hypertrophy in rat neonatal ventricular
+myocytes.</article-title><source>Cardiovasc Res</source><volume>72</volume><fpage>101</fpage><lpage>111</lpage><pub-id pub-id-type="pmid">16901475</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cardiores.2006.06.024</pub-id></element-citation></ref><ref id="pone.0010085-Ren4"><label>44</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Ren</surname><given-names>J</given-names></name><name name-style="western"><surname>Ma</surname><given-names>H</given-names></name></person-group><year>2008</year><article-title>Impaired cardiac function in leptin-deficient
+mice.</article-title><source>Curr Hypertens Rep</source><volume>10</volume><fpage>448</fpage><lpage>453</lpage><pub-id pub-id-type="pmid">18959830</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s11906-008-0084-0</pub-id></element-citation></ref><ref id="pone.0010085-Hirosumi1"><label>45</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Hirosumi</surname><given-names>J</given-names></name><name name-style="western"><surname>Tuncman</surname><given-names>G</given-names></name><name name-style="western"><surname>Chang</surname><given-names>L</given-names></name><name name-style="western"><surname>Gorgun</surname><given-names>CZ</given-names></name><name name-style="western"><surname>Uysal</surname><given-names>KT</given-names></name><etal/></person-group><year>2002</year><article-title>A central role for JNK in obesity and insulin
+resistance.</article-title><source>Nature</source><volume>420</volume><fpage>333</fpage><lpage>336</lpage><pub-id pub-id-type="pmid">12447443</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nature01137</pub-id></element-citation></ref><ref id="pone.0010085-Borradaile1"><label>46</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Borradaile</surname><given-names>NM</given-names></name><name name-style="western"><surname>Pickering</surname><given-names>JG</given-names></name></person-group><year>2009</year><article-title>NAD(+), sirtuins, and cardiovascular
+disease.</article-title><source>Curr Pharm Des</source><volume>15</volume><fpage>110</fpage><lpage>117</lpage><pub-id pub-id-type="pmid">19149606</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.2174/138161209787185742</pub-id></element-citation></ref><ref id="pone.0010085-Gao1"><label>47</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Gao</surname><given-names>ZQ</given-names></name><name name-style="western"><surname>Yang</surname><given-names>C</given-names></name><name name-style="western"><surname>Wang</surname><given-names>YY</given-names></name><name name-style="western"><surname>Wang</surname><given-names>P</given-names></name><name name-style="western"><surname>Chen</surname><given-names>HL</given-names></name><etal/></person-group><year>2008</year><article-title>RAGE upregulation and nuclear factor-kappaB activation associated
+with ageing rat cardiomyocyte dysfunction.</article-title><source>Gen Physiol Biophys</source><volume>27</volume><fpage>152</fpage><lpage>158</lpage><pub-id pub-id-type="pmid">18981529</pub-id></element-citation></ref></ref-list></back></article>

@@ -1,0 +1,1128 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article article-type="research-article" xml:lang="EN" dtd-version="1.4"><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Cent Sci</journal-id><journal-id journal-id-type="iso-abbrev">ACS Cent Sci</journal-id><journal-id journal-id-type="pmc-domain-id">2967</journal-id><journal-id journal-id-type="pmc-domain">acscentsci</journal-id><journal-id journal-id-type="nlm-id">101660035</journal-id><journal-id journal-id-type="publisher-id">oc</journal-id><journal-title-group><journal-title>ACS Central Science</journal-title></journal-title-group><issn pub-type="ppub">2374-7943</issn><issn pub-type="epub">2374-7951</issn><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC5968444</article-id><article-id pub-id-type="pmcid-ver">PMC5968444.1</article-id><article-id pub-id-type="pmcaid">5968444</article-id><article-id pub-id-type="pmcaiid">5968444</article-id><article-id pub-id-type="pmid">29806003</article-id><article-id pub-id-type="doi">10.1021/acscentsci.8b00050</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Overcoming Ovarian Cancer Drug Resistance with a Cold
+Responsive Nanomaterial</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><name name-style="western"><surname>Wang</surname><given-names initials="H">Hai</given-names></name><xref rid="aff11" ref-type="aff">†</xref><xref rid="aff22" ref-type="aff">‡</xref><xref rid="aff22" ref-type="aff">§</xref></contrib><contrib contrib-type="author" id="ath2"><name name-style="western"><surname>Agarwal</surname><given-names initials="P">Pranay</given-names></name><xref rid="aff22" ref-type="aff">‡</xref><xref rid="aff22" ref-type="aff">§</xref></contrib><contrib contrib-type="author" id="ath3"><name name-style="western"><surname>Zhao</surname><given-names initials="G">Gang</given-names></name><xref rid="aff4" ref-type="aff">∥</xref></contrib><contrib contrib-type="author" id="ath4"><name name-style="western"><surname>Ji</surname><given-names initials="G">Guang</given-names></name><xref rid="aff5" ref-type="aff">⊥</xref></contrib><contrib contrib-type="author" id="ath5"><name name-style="western"><surname>Jewell</surname><given-names initials="CM">Christopher M.</given-names></name><xref rid="aff11" ref-type="aff">†</xref><xref rid="aff11" ref-type="aff">#</xref><xref rid="aff7" ref-type="aff">∇</xref><xref rid="aff8" ref-type="aff">○</xref><xref rid="aff9" ref-type="aff">◆</xref></contrib><contrib contrib-type="author" id="ath6"><name name-style="western"><surname>Fisher</surname><given-names initials="JP">John P.</given-names></name><xref rid="aff11" ref-type="aff">†</xref></contrib><contrib contrib-type="author" id="ath7"><name name-style="western"><surname>Lu</surname><given-names initials="X">Xiongbin</given-names></name><xref rid="aff10" ref-type="aff">●</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath8"><name name-style="western"><surname>He</surname><given-names initials="X">Xiaoming</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff11" ref-type="aff">†</xref><xref rid="aff22" ref-type="aff">‡</xref><xref rid="aff22" ref-type="aff">§</xref><xref rid="aff11" ref-type="aff">#</xref><xref rid="aff7" ref-type="aff">∇</xref></contrib><aff id="aff11"><sup>†</sup>Fischell Department of Bioengineering and <sup>#</sup>Robert E. Fischell Institute for Biomedical
+Devices, <institution>University of Maryland</institution>, College Park, Maryland 20742, <country>United States</country></aff><aff id="aff22"><sup>‡</sup>Department of Biomedical Engineering and <sup>§</sup>Comprehensive Cancer
+Center, <institution>The Ohio State University</institution>, Columbus, Ohio 43210, <country>United States</country></aff><aff id="aff4"><label>∥</label>Center
+for Biomedical Engineering, Department of Electronic Science and Technology, <institution>University of Science and Technology of China</institution>, Hefei, Anhui 230027, <country>China</country></aff><aff id="aff5"><label>⊥</label>Institute
+of Digestive Diseases, Longhua Hospital, <institution>Shanghai University of Traditional Chinese Medicine</institution>, Shanghai 200032, <country>China</country></aff><aff id="aff7"><label>∇</label>Marlene
+and Stewart Greenebaum Comprehensive Cancer Center, <institution>University of Maryland</institution>, Baltimore, Maryland 21201, <country>United States</country></aff><aff id="aff8"><label>○</label>Department
+of Microbiology and Immunology, <institution>University
+of Maryland School of Medicine</institution>, Baltimore, Maryland 21201, <country>United States</country></aff><aff id="aff9"><label>◆</label>United
+States Department of Veterans Affairs, <institution>Maryland
+VA Health Care System</institution>, Baltimore, Maryland 21201, <country>United States</country></aff><aff id="aff10"><label>●</label>Department
+of Medical and Molecular Genetics and Melvin and Bren Simon Cancer
+Center, <institution>Indiana University School of Medicine</institution>, Indianapolis, Indiana 46202, <country>United States</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>E-mail: <email>shawnhe@umd.edu</email>.</corresp></author-notes><pub-date pub-type="epub"><day>17</day><month>04</month><year>2018</year></pub-date><pub-date pub-type="ppub"><day>23</day><month>05</month><year>2018</year></pub-date><volume>4</volume><issue>5</issue><issue-id pub-id-type="pmc-issue-id">313561</issue-id><fpage>567</fpage><lpage>581</lpage><history><date date-type="received"><day>18</day><month>01</month><year>2018</year></date></history><pub-history><event event-type="pmc-release"><date><day>17</day><month>04</month><year>2018</year></date></event><event event-type="pmc-live"><date><day>27</day><month>05</month><year>2018</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2023-10-02 17:25:25.297"><day>02</day><month>10</month><year>2023</year></date></event></pub-history><permissions><copyright-statement>Copyright © 2018 American Chemical Society</copyright-statement><copyright-year>2018</copyright-year><copyright-holder>American Chemical Society</copyright-holder><license><license-p>This is an open access article published under an ACS AuthorChoice <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/page/policy/authorchoice_termsofuse.html">License</ext-link>, which permits copying and redistribution of the article or any adaptations for non-commercial purposes.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="oc8b00050.pdf"/><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="correction-forward" xml:lang="en" xlink:title="correction" vol="7" journal-id="ACS Cent Sci" journal-id-type="nlm-ta" ext-link-type="pmc" xlink:href="PMC8161482"><article-title>Correction to Overcoming Ovarian Cancer Drug Resistance
+with a Cold Responsive Nanomaterial</article-title><volume>7</volume><issue>5</issue><date><day>17</day><month>5</month><year>2021</year></date><fpage>909</fpage><lpage>909</lpage><source>ACS Central Science</source><pub-id pub-id-type="doi">10.1021/acscentsci.1c00530</pub-id><pub-id pub-id-type="pmcid">PMC8161482</pub-id><pub-id pub-id-type="pmid">34079906</pub-id></related-article><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="retraction-forward" xml:lang="en" xlink:title="retraction" vol="9" journal-id="ACS Cent Sci" journal-id-type="nlm-ta" ext-link-type="pmc" xlink:href="PMC10141583"><article-title>Retraction of
+“Overcoming Ovarian Cancer Drug
+Resistance with a Cold Responsive Nanomaterial”</article-title><volume>9</volume><issue>4</issue><date><day>11</day><month>4</month><year>2023</year></date><fpage>844</fpage><lpage>844</lpage><source>ACS Central Science</source><pub-id pub-id-type="doi">10.1021/acscentsci.3c00335</pub-id><pub-id pub-id-type="pmcid">PMC10141583</pub-id><pub-id pub-id-type="pmid">37122466</pub-id></related-article><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="ab-tgr1" position="float" orientation="portrait" xlink:href="oc-2018-00050h_0009.jpg"/></p><p>Drug
+resistance due to overexpression of membrane transporters
+in cancer cells and the existence of cancer stem cells (CSCs) is a
+major hurdle to effective and safe cancer chemotherapy. Nanoparticles
+have been explored to overcome cancer drug resistance. However, drug
+slowly released from nanoparticles can still be efficiently pumped
+out of drug-resistant cells. Here, a hybrid nanoparticle of phospholipid
+and polymers is developed to achieve cold-triggered burst release
+of encapsulated drug. With ice cooling to below ∼12 °C
+for both burst drug release and reduced membrane transporter activity,
+binding of the drug with its target in drug-resistant cells is evident,
+while it is minimal in the cells kept at 37 °C. Moreover, targeted
+drug delivery with the cold-responsive nanoparticles in combination
+with ice cooling not only can effectively kill drug-resistant ovarian
+cancer cells and their CSCs <italic toggle="yes">in vitro</italic> but also destroy
+both subcutaneous and orthotopic ovarian tumors <italic toggle="yes">in vivo</italic> with no evident systemic toxicity.</p></abstract><abstract abstract-type="short"><p>A cold-responsive hybrid
+nanoparticle of phospholipid and
+polymers is developed to overcome the multidrug resistance of cancer
+stem cells with ice cooling.</p></abstract><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>oc8b00050</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>oc-2018-00050h</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><title>Introduction</title><p>Development of drug
+resistance in cancer cells is a major challenge
+to cancer chemotherapy.<sup><xref ref-type="bibr" rid="ref1">1</xref>−<xref ref-type="bibr" rid="ref3">3</xref></sup> Research on the mechanisms of drug resistance is
+usually focused on drug metabolism including its uptake, efflux, and
+detoxification.<sup><xref ref-type="bibr" rid="ref1">1</xref>,<xref ref-type="bibr" rid="ref4">4</xref></sup> A major advance in the understanding
+of drug metabolism is the identification of the membrane transporter
+P-glycoprotein (P-gp) that could pump free drug out of cancer cells.<sup><xref ref-type="bibr" rid="ref5">5</xref>−<xref ref-type="bibr" rid="ref7">7</xref></sup> However, it is worth noting that multiple mechanisms contribute
+to cancer drug resistance.<sup><xref ref-type="bibr" rid="ref8">8</xref>,<xref ref-type="bibr" rid="ref9">9</xref></sup> A critical advance in
+this aspect is the finding of the subpopulations of cancer cells that
+are highly tumorigenic and drug resistant. These cancer cells are
+usually referred to as cancer stem cells (CSCs) or tumor initiating/reinitiating
+cells.<sup><xref ref-type="bibr" rid="ref10">10</xref>−<xref ref-type="bibr" rid="ref12">12</xref></sup> There is mounting evidence showing that the CSCs
+are responsible for cancer metastasis and tumor recurrence or relapse
+associated with conventional chemo-, radio-, and hormone therapies.<sup><xref ref-type="bibr" rid="ref13">13</xref>−<xref ref-type="bibr" rid="ref15">15</xref></sup> Several properties of the CSCs contribute to their high resistance
+to chemotherapeutic drugs including the overexpression of drug efflux
+pumps, enhanced DNA repair ability, overexpressed antiapoptotic proteins,
+and dormancy.<sup><xref ref-type="bibr" rid="ref11">11</xref>,<xref ref-type="bibr" rid="ref16">16</xref>,<xref ref-type="bibr" rid="ref17">17</xref></sup> Therefore, it is important to account for the multiple mechanisms
+responsible for the drug resistance of cancer when developing strategies
+for effective cancer therapy.</p><p>Nanoparticle-based drug delivery
+systems have been explored for
+reducing the side effect of chemotherapeutic drugs as well as overcoming
+drug efflux pump-associated drug resistance.<sup><xref ref-type="bibr" rid="ref18">18</xref>−<xref ref-type="bibr" rid="ref22">22</xref></sup> The latter is because nanoparticles can be actively
+taken up by drug-resistant cancer cells via endocytosis instead of
+passive diffusion across the plasma membrane. Consequently, the drug
+encapsulated in nanoparticles can bypass the efflux pumps on the cell
+plasma membrane and enter the inner cytoplasm.<sup><xref ref-type="bibr" rid="ref23">23</xref></sup> However, the function of the drug efflux pumps is not compromised
+during the uptake of the nanoparticles, and they can still pump out
+the drug slowly released from the nanoparticles in cells. Therefore,
+it may be important to achieve burst release (i.e., release in a short
+time of seconds or minutes) of a large amount of free drug inside
+cancer cells, so that a significant amount of free drug could bind
+with its target (e.g., DNA, RNA, or proteins) before its depletion
+by the efflux pumps, for overcoming drug resistance.</p><p>Stimuli-responsive
+nanoparticles hold great promise for controlling
+drug release inside cells.<sup><xref ref-type="bibr" rid="ref24">24</xref>,<xref ref-type="bibr" rid="ref25">25</xref></sup> However, drug release
+from most existing stimuli-responsive nanoparticles (mainly pH- and
+heat-responsive ones) may still occur over hours to days.<sup><xref ref-type="bibr" rid="ref26">26</xref>,<xref ref-type="bibr" rid="ref27">27</xref></sup> This slowly released drug could be easily depleted by the efflux
+pumps before it binds with its target in cells. Moreover, no study
+has been conducted to test the existing stimuli-responsive nanoparticles
+for overcoming drug resistance using CSCs. More recently, cold and
+freezing-temperature treatments (e.g., cryosurgery, cryotherapy, cryoablation,
+and hypothermia) have been widely studied and used for treating various
+diseases including cancer.<sup><xref ref-type="bibr" rid="ref28">28</xref>−<xref ref-type="bibr" rid="ref34">34</xref></sup> Nonetheless, nanoparticles that are responsive to cold (i.e., lower
+than room temperatures) have never been reported, although there are
+studies on nanoparticles responsive to temperatures higher than room
+temperature but blow body temperature.<sup><xref ref-type="bibr" rid="ref35">35</xref>−<xref ref-type="bibr" rid="ref37">37</xref></sup> Furthermore, the use
+of cold and nanoparticle drug delivery for overcoming cancer drug
+resistance has never been explored in the literature.</p><p>In this
+work, we developed a cold-responsive nanoparticle that
+quickly disassembles upon ice cooling, leading to burst release of
+most of the encapsulated chemotherapeutic drug (doxorubicin hydrochloride
+or DOX) in seconds. Moreover, the NCI/RES-ADR multidrug-resistant
+cancer cells (human ovarian cancer cells that were called MCF-7/ADR
+cells in early studies) and their CSCs together with A2780ADR drug
+resistant ovarian cancer cells, were used in this study to demonstrate
+the capability of overcoming cancer drug resistance with the cold-responsive
+nanoparticle <italic toggle="yes">in vitro</italic> and <italic toggle="yes">in vivo</italic>.</p></sec><sec id="sec2"><title>Results</title><sec id="sec2.1"><title>Preparation and Characterization of Nanoparticles</title><p>As
+shown in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>a,
+the cold-responsive nanoparticles were prepared with the double-emulsion
+method using dipalmitoylphosphatidylcholine (DPPC) and four different
+polymers including Pluronic F127 (PF127), poly(<italic toggle="yes">N</italic>-isopropylacrylamide-<italic toggle="yes">co</italic>-butyl acrylate) (PNIPAM-B, NIPAM:B = 8:1, <italic toggle="yes">M</italic><sub>n</sub> = 30,000), chitosan-modified PF127 (PF127-chitosan),
+and hyaluronic acid (HA). All four polymers have been widely used
+for various biomedical applications and are considered as biocompatible
+biomaterials, and PF127, chitosan, and HA have been approved by the
+Food and Drug Administration (FDA) for medical use.<sup><xref ref-type="bibr" rid="ref38">38</xref>−<xref ref-type="bibr" rid="ref41">41</xref></sup> PF127 is an amphiphilic polymer
+consisting of hydrophilic polyethylene glycol (PEG) blocks and more-hydrophobic
+polypropylene glycol (PPG) blocks.<sup><xref ref-type="bibr" rid="ref35">35</xref></sup> The
+PNIPAM-B is a thermally responsive polymer with a lower critical solution
+temperature (LCST) of 14–16 °C, which means the polymer
+is insoluble in water (hydrophobic) at room temperature (∼22
+°C), while it is highly soluble in water (hydrophilic) at or
+below 14 °C.<sup><xref ref-type="bibr" rid="ref42">42</xref></sup> DPPC is used to improve
+the biocompatibility of the nanoparticles.<sup><xref ref-type="bibr" rid="ref43">43</xref>,<xref ref-type="bibr" rid="ref44">44</xref></sup> First, aqueous solution containing DOX was emulsified with organic
+solvent containing PF127, PNIPAM-B, and DPPC. This leads to the formation
+of a water-in-oil structure to encapsulate DOX in the hydrophilic
+core dispersed in organic solvent (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>a). For second emulsion, the product of the
+first emulsion is emulsified with the aqueous solution of chitosan-PF127
+and HA. The hydrophobic part of chitosan-PF127 could integrate into
+the hydrophobic inner layer, while the hydrophilic part of chitosan-PF127
+could bind with HA at the outermost layer of the resultant nanoparticles.<sup><xref ref-type="bibr" rid="ref43">43</xref>,<xref ref-type="bibr" rid="ref45">45</xref></sup> The reason to decorate HA on the surface of the nanoparticles is
+that HA is a natural ligand of the variant CD44 commonly overexpressed
+on many types of cancer cells and particularly CSCs.<sup><xref ref-type="bibr" rid="ref46">46</xref>−<xref ref-type="bibr" rid="ref48">48</xref></sup> Therefore, the surface of the nanoparticles consists mainly of PEG
+and HA, which makes the nanoparticles highly dispersible in aqueous
+solutions as both PEG and HA are hydrophilic. The nanoparticles can
+be collected by centrifugation after removing organic solvent by rotary
+evaporation under a vacuum.</p><fig id="fig1" position="float" orientation="portrait"><label>Figure 1</label><caption><p>Synthesis and characterization of cold-responsive
+nanoparticle.
+(a) Hyaluronic acid (HA or H), lipid (dipalmitoylphosphatidylcholine
+or DPPC in this study, L), Pluronic F127 (PF127, P), poly(<italic toggle="yes">N</italic>-isopropylacrylamide-<italic toggle="yes">co</italic>-butyl acrylate)
+(PNIPAM-B or N), and chitosan (C)-modified Pluronic F127 (PF127-chitosan)
+were used to prepare the doxorubicin (DOX, D) laden HCLPN-D nanoparticles
+using the double-emulsion method. (b) TEM images showing the HCLPN-D
+nanoparticles are spherical with a multicore–shell configuration.
+(c) The thermally induced phase transition behavior of PNIPAM-B from
+being water-insoluble to highly water-soluble, which can cause disassembly
+of the HCLPN-D nanoparticles upon cooling to below room temperature.
+This can result in burst release of the encapsulated drug. (d) TEM
+images showing the HCLPN-D nanoparticles become completely disassembled
+after 3 min incubation at 10 °C. (e) An extensive network of
+polymer fibers rather than nanoparticles is observable after warming
+back to 22 °C. (f) Photographs of the aqueous samples of HCLPN-D
+nanoparticles at various temperatures before and after shining a red
+laser beam through them in the dark. As a result of the Tyndall effect
+(i.e., scattering of laser beam by nanoparticles in solution), a bright
+white track of light is visible in the dark in the solutions of HCLPN-D
+nanoparticles above 10 °C. However, it is not clearly observable
+at or below 10 °C and after warming back to 22 or 37 °C,
+indicating the HCLPN-D nanoparticles disassemble upon cooling to 10
+°C (or a lower temperature), and the disassembling process is
+not reversible. (g) Size distribution of HCLPN-D nanoparticles measured
+by dynamic light scattering (DLS) at different temperatures. The results
+show a narrow size distribution of the HCLPN-D nanoparticles at 37,
+22, and 15 °C. An additional peak of large particles is seen
+at 12 °C, probably due to aggregation of polymers. No stable
+peak of nanoparticles can be detected when the temperature is decreased
+to 10 and 6 °C.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr1" position="float" orientation="portrait" xlink:href="oc-2018-00050h_0001.jpg"/></fig><p>Typical transmission electron microscopy (TEM) image of the
+resultant
+nanoparticles (HCLPN-D, H for HA, C for chitosan, L for the lipid
+DPPC, P for PF127, N for PNIPAM-B, and D for DOX) is shown in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>b. The nanoparticles
+are ∼100 nm in diameter with a spherical morphology, and interestingly,
+they have a multicore–shell structure. The multicore–shell
+structure is probably mainly due to the presence of lipid during the
+first emulsion when the lipid together with PNIPAM-B and PF127 may
+form small sized water-in-oil (W-in-O) structures. A few of them together
+may form the final nanoparticles after the second (W-in-O)-in-W emulsion.
+This is because the multicore–shell structure is not obvious
+for nanoparticles prepared in the same way without lipid (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">Figure S1</ext-link>). Moreover, few nanoparticles could
+be collected by centrifugation if PF127 and DPPC (PF127 + DPPC) were
+used for synthesizing nanoparticles using the same procedure (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">Figure S2a</ext-link>). Although more nanoparticles could
+be collected if PNIPAM-B and DPPC (PNIPAM-B+DPPC) were used, the drug
+encapsulation efficiency (EE) is lower than that of HCLPN nanoparticles
+(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">Figure S2b</ext-link>, 4.7 ± 2.5% for PF127
++ DPPC, 14.5 ± 2.2% for PNIPAM-B+DPPC, and 59.7 ± 4.3% for
+HCLPN nanoparticles). This can be confirmed visually by the redness
+(the color of DOX) of the three different samples after removing nonencapsulated
+DOX by centrifugation and resuspending in deionized (DI) water (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">Figure S3a</ext-link>). When a red laser beam was shined
+through the three samples, the light track is weak in the PF127 +
+DPPC sample while it is evident in the PNIPAM-B + DPPC and HCLPN-D
+samples (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">Figure S3b</ext-link>) as a result of the
+Tyndall effect due to light scattering by nanoparticles. The TEM image
+of the PF127+DPPC sample shows that most of the DPPC form liposomes
+during the preparing process (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">Figure S3c</ext-link>). Although core–shell nanoparticles are formed in the PNIPAM-B
++ DPPC sample, their size is not uniform, and some can be as big as
+∼400 nm in diameter (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">Figure S3d</ext-link>).</p></sec><sec id="sec2.2"><title>Cold-Responsiveness of HCLPN-D Nanoparticles</title><p>We next
+investigated the cold-responsive property of the HCLPN-D nanoparticles.
+As aforementioned, the PNIPAM-B polymer for making the nanoparticles
+is hydrophobic at room temperature and has an LCST of 14–16
+°C. Once the temperature is lower than the LCST, the PNIPAM-B
+polymer becomes water-soluble. This may cause disassembly of the nanoparticles
+in aqueous solutions (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>c). Indeed, almost all the HCLPN-D nanoparticles were disassembled
+after incubating at 10 °C for 3 min (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>d). Extensive polymer aggregates formed when
+the temperature was increased back to room temperature (22 °C, <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>e). This is further
+confirmed by shining a red laser beam through the aqueous samples
+of the HCLPN-D nanoparticles at different temperatures. A light track
+in the sample indicates the presence of nanoparticles. As shown in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>f, the aqueous solution
+of the nanoparticles appears homogeneous at both 37 and 22 °C
+before cooling. This is attributed to the high dispensability of the
+nanoparticles in aqueous solutions. When the temperature decreases
+to 10 or 6 °C, the solution of HCLPN-D nanoparticles becomes
+transparent, and no evident light track could be observed, suggesting
+disassembly of the nanoparticles and dissolution of polymers in the
+nanoparticles in the aqueous solution. More importantly, many visible
+polymer aggregates formed when the temperature was increased back
+to room or body temperatures (22 and 37 °C respectively, <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>f), suggesting the
+disassembly is irreversible. We further checked the size distribution
+of HCLPN-D nanoparticles at different temperatures by dynamic light
+scattering (DLS). The HCLPN-D nanoparticles have a narrow size distribution
+with one single peak at temperatures of 37, 22, and 15 °C (82.3
+± 4.6, 96.7 ± 3.4, and 110.3 ± 2.5 nm in diameter,
+respectively), but a second peak of much larger particles/aggregates
+appears at 12 °C (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>g). Moreover, no stable measurement could be made at 10 and
+6 °C, probably because nearly all the nanoparticles are dissembled
+at the cold temperatures. The stability of HCLPN-D nanoparticles in
+acidic solution (pH 6.5) was further checked as the tumor microenvironment
+is often acidic with a pH value of ∼6.5.<sup><xref ref-type="bibr" rid="ref49">49</xref></sup> As shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">Figure S4</ext-link>, the size
+distribution measured by DLS suggested the HCLPN-D nanoparticles are
+stable at pH 6.5. However, the nanoparticles are not stable at pH
+5.0 (the pH value of late endosomes and lysosomes) as their size increases
+and even form some aggregates of ∼2.5 μm in pH 5.0 solution.
+Lastly, the HCLPN-D nanoparticles are stable at room temperature for
+at least 49 days according to the DLS size analyses (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">Figure S5</ext-link>).</p><p>We further checked the ultraviolet–visible
+(UV–vis) absorbance of the HCLPN-D nanoparticles at different
+temperatures. As shown in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>a, the absorbance peak (arrow) of DOX at 486 nm is
+not obvious at or above 12 °C due to the strong absorbance of
+the HCLPN nanoparticles at the same wavelength. However, it shows
+up more clearly at 10 or 6 °C because of dissolution of polymers
+in the nanoparticles. When the temperature increased back to 22 °C,
+the absorbance is strong at all wavelength. This suggests the
+polymer aggregates may block the light to result in the strong absorbance.
+To confirm this, the drug release profile of HCLPN-D nanoparticles
+was determined by using ice to cool the samples. The drug release
+from HCLPN nanoparticles is slow at 37 °C (∼2.2% in 5
+h), while more than 70% of DOX can be released from the nanoparticles
+after cooling on ice for 5 min (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>b). In contrast, the drug release is less than 5% if
+the nanoparticles are kept at low pH (5.0) for 5 min. These drug release
+data indicate that cold is an effective stimulus for triggering drug
+release from the HCLPN nanoparticles, and it is much more efficient
+than pH excursion.</p><fig id="fig2" position="float" orientation="portrait"><label>Figure 2</label><caption><p>Cold-triggered burst drug release from HCLPN-D nanoparticles.
+(a)
+UV–vis absorbance of HCLPN-D nanoparticles at different temperatures
+showing the cold-responsiveness of HCLPN-D nanoparticles. Arrows indicate
+the absorbance peaks of DOX. (b) A comparison of the release of DOX
+from HCLPN-D nanoparticles under pH 7.4, acidic pH (5.0, 5 min), and
+ice cooling (5 min), showing the cold temperature is much more effective
+than low pH in triggering drug release from the HCLPN-D nanoparticles.
+Error bars represent ± standard deviation (SD, <italic toggle="yes">n</italic> = 3).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr2" position="float" orientation="portrait" xlink:href="oc-2018-00050h_0002.jpg"/></fig></sec><sec id="sec2.3"><title>Overcoming Drug Resistance
+and Cancer Targeting <italic toggle="yes">in Vitro</italic></title><p>Both two-dimensional
+(2D) cultured NCI/RES-ADR multidrug-resistant
+cancer cells and three-dimensional (3D)-cultured CSC-enriched spheres
+(obtained by suspension culture of the NCI/RES-ADR cells in CSC medium
+in ultralow attachment plates) were used in this study. We confirmed
+the resistance to free DOX of the 2D cultured NCI/RES-ADR cells by
+incubating the cells with free DOX (10 μg/mL) for 3 h. As shown
+in the first row of <xref rid="fig3" ref-type="fig">Figures <xref rid="fig3" ref-type="fig">3</xref></xref>a and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">S6</ext-link>, no red fluorescence of
+DOX is observable in the 2D cultured NCI/RES-ADR cells. In stark contrast,
+red fluorescence of DOX is observable in the cells when they are incubated
+with the HCLPN-D nanoparticles (<xref rid="fig3" ref-type="fig">Figures <xref rid="fig3" ref-type="fig">3</xref></xref>a and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">S7</ext-link>). However,
+DOX is predominantly distributed in the cytosol, and it is barely
+observable in the nuclei of the NCI/RES-ADR cells incubated with the
+HCLPN-D nanoparticles. Since DOX has to enter the nuclei for cytotoxicity,
+the data suggest that simply using nanoparticles for uncontrolled
+drug release may not be able to efficiently overcome the drug resistance
+of the NCI/RES-ADR cells. To check if cold-triggered burst drug release
+could overcome the drug resistance, the cells treated with free DOX
+or HCLPN-D nanoparticles for 3 h were further cooled with ice for
+5 or 10 min. For the cells treated with free DOX, the red fluorescence
+is still not observable (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>a and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">Figure S6</ext-link>). Interestingly,
+DOX is located in part of the nuclei of the cells treated with HCLPN-D
+nanoparticles after cooling for 5 min, and DOX overlaps with nearly
+all the nuclei after 10 min of cooling (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>a and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">Figure S7</ext-link>). In contrast, almost all DOX is still distributed in the cytosol
+if the cells are continuously cultured at 37 °C, indicating the
+cold-triggered burst drug release indeed can overcome the drug-resistant
+capacity of the NCI/RES-ADR cancer cells.</p><fig id="fig3" position="float" orientation="portrait"><label>Figure 3</label><caption><p>Overcoming cancer drug
+resistance with cold-triggered burst drug
+release form HCLPN-D nanoparticles. (a) Confocal micrographs of 2D
+cultured NCI/RES-ADR multidrug-resistant cancer cells after incubating
+them with either free DOX or HCLPN-D nanoparticles for 3 h at 37 °C,
+followed by either continued culturing in incubator (37 °C) or
+ice cooling (+I) for 5 or 10 min. (b) Confocal images of CSC-enriched
+spheres derived from the multidrug-resistant cancer cells after incubating
+them with HCLPN-D nanoparticles for 3 h at 37 °C, followed by
+either continued culturing in incubator (37 °C) or ice cooling
+(+I) for 5 or 10 min. DOX could enter the cell nuclei only when treated
+with both HCLPN-D nanoparticles and ice cooling, indicating the cold-triggered
+burst drug release from the HCLPN-D nanoparticles could be used to
+overcome the drug resistance of the 2D cultured cancer cells and their
+CSCs.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr3" position="float" orientation="portrait" xlink:href="oc-2018-00050h_0003.jpg"/></fig><p>In order to confirm the temperature
+drop to below 12 °C in
+the cells with ice cooling, FLIR (Wilsonville, Oregon, USA) near-infrared
+thermography was used to determine the temperature of the samples.
+As illustrated in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">Figure S8</ext-link>, the temperature
+of samples treated with free DOX or HCLPN-D nanoparticles is ∼37
+°C in incubator, decreases to ∼4–0 °C (within
+∼3 min) after ice cooling for 5 or 10 min, and returns to ∼37
+°C after warming in incubator for 5 min. This is consistent with
+the medium temperature in the sample measured with thermocouples (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">Figure S9</ext-link>).</p><p>It is also noticeable that
+the overall fluorescence intensity of
+DOX inside cells after ice cooling increases compared with cells kept
+at 37 °C, probably due to the following three reasons. First,
+the fluorescence intensity of DOX decreases after encapsulated inside
+the nanoparticles due to self-quenching (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">Figure S10</ext-link>). After ice cooling, the free DOX released from the HCLPN-D
+nanoparticles results in higher fluorescence intensity. Second, the
+fluorescence intensity of DOX decreases slightly in acidic solution
+(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">Figure S10</ext-link>). HCLPN-D nanoparticles are
+taken up by cells via endocytosis and locate inside the endo-/lysosomes
+(pH ≈ 5.0). The fluorescence intensity of DOX should increase
+after the DOX is released from the nanoparticles and enter the nuclei
+with a pH value of ∼7.0. Third, the high binding affinity of
+DOX with cell nuclei may lead to accumulation of DOX in the cell nuclei,
+which should result in increased fluorescence.<sup><xref ref-type="bibr" rid="ref50">50</xref></sup></p><p>CSC-enriched spheres were also treated in the same
+way as that
+aforementioned for 2D cultured cells. Similarly, the CSC-enriched
+spheres are resistant to free DOX, but can take up the HCLPN-D nanoparticles
+(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">Figures S11</ext-link> and <xref rid="fig3" ref-type="fig">3</xref>b). Importantly, most of the DOX can enter the cell nuclei after
+cooling the spheres with ice for 5 or 10 min. Further quantitative
+analyses show that the intensity of DOX in cell nuclei is significantly
+increased after ice-cooling (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">Figure S12</ext-link>). Next,  we investigated the cellular uptake of different
+concentration (5, 10, and 25 μg/mL) of free DOX or HCLPN-D nanoparticles
+with or without ice cooling for 10 min. As shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">Figures S13–16</ext-link> (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">Figures S13–14</ext-link> for free DOX and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">Figures S15–16</ext-link> for HCLPN-D nanoparticles), no red fluorescence of DOX is observable
+in the multidrug-resistant cells treated with free DOX, while more
+DOX could be observed in cells treated with high concentration of
+HCLPN-D nanoparticles. After ice cooling, stronger fluorescence is
+observable in the cells treated with HCLPN-D nanoparticles, particularly
+at high concentrations. This is not observable for free DOX treated
+cells. Similarly, quantitative analysis of DOX in the cell nuclei
+reveals that cells treated with HCLPN-D nanoparticles and ice cooling
+have higher DOX concentration in their nuclei (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">Figure S17</ext-link>). Since the pH value of the tumor microenvironment
+is ∼6.5, we checked the capacity of overcoming drug resistance
+by the HCLPN-D nanoparticles at pH 6.5. As shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">Figure S18</ext-link>, most of the DOX released from the HCLPN-D nanoparticles
+as a result of ice cooling enters the nuclei of cancer cells both
+under 2D culture and in CSC-enriched spheres, suggesting the HCLPN-D
+nanoparticles can still be used to overcome cancer drug resistance
+in the acidic tumor microenvironment.</p><p>As the HA modified on
+the surface of HCLPN-D nanoparticles is used
+to target CD44, we first studied the expression of CD44 on the 2D
+cultured NCI/RES-ADR cells and cells in the CSC-enriched spheres by
+using flow cytometry. As shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">Figure S19a,b</ext-link>, the expression of CD44 on the NCI/RES-ADR cells is positive, and
+it is similar to that on MDA-MB-231 cancer cells that are considered
+as CD44 positive.<sup><xref ref-type="bibr" rid="ref51">51</xref>,<xref ref-type="bibr" rid="ref52">52</xref></sup> Moreover, the expression of CD44
+on cells in the CSC-enriched spheres is significantly higher than
+that on the 2D cultured NCI/RES-ADR cells, suggesting the HCLPN-D
+nanoparticles can be used for targeting both the drug-resistant cancer
+cells and their CSCs. The data also demonstrate that CSCs are enriched
+in the 3D cultured NCI/RES-ADR spheres because CD44 is a common CSC
+marker.<sup><xref ref-type="bibr" rid="ref47">47</xref>,<xref ref-type="bibr" rid="ref48">48</xref>,<xref ref-type="bibr" rid="ref53">53</xref></sup> Furthermore,
+the binding between the nanoparticles with HA on their surface and
+CD44 is confirmed using confocal fluorescence microscopy. As shown
+in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">Figure S20</ext-link>, most of the CD44 in control
+group is located on the surface of the cell membrane. Moreover, many
+of them are internalized into the cytoplasm after incubated with the
+HCLPN-D nanoparticles, suggesting the nanoparticles bind with CD44
+and are then taken up by the cells. Interestingly, some line structures
+with CD44 are observable after ice cooling. This is probably because
+polymers bound with CD44 on the surface of the HCLPN-D nanoparticles
+could form fibers after cooling-induced disassembly of the nanoparticles
+(<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>e). The targeting
+capability of HCLPN-D nanoparticles was further confirmed by treating
+the drug resistance cells using nanoparticles without HA modification
+on their surface (LPN-D). As shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">Figure S21a</ext-link>, more DOX could be delivered inside the cells with HCLPN than LPN
+nanoparticles due to the targeting capability of HA on the HCLPN nanoparticles.
+Therefore, after cooling with ice, the HCLPN-D nanoparticles can be
+used to deliver more DOX into the nuclei than LPN-D nanoparticles
+(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">Figure S21b</ext-link>).</p></sec><sec id="sec2.4"><title>Enhanced Anticancer Capacity <italic toggle="yes">in Vitro</italic> via Overcoming
+Drug Resistance</title><p>To investigate the anticancer capacity of
+HCLPN-D nanoparticles, both the 2D drug-resistant cancer cells and
+3D CSC-enriched spheres were treated with HCLPN nanoparticles (without
+DOX), free DOX, and HCLPN-D nanoparticles at various concentrations
+without or with ice (+I) cooling for 5 or 10 min. The total treatment
+time for all the drug formulations is either 24 or 48 h. For treatments
+with ice cooling, it was conducted after incubating cells with the
+various formulations at 37 °C for 12 h, and the cells were put
+back in 37 °C incubator after the cooling treatment to further
+culture for 12 or 36 h. FLIR thermographs indicate that cells cultured
+in a 96-well plate can be efficiently cooled to ∼4–0
+°C with ice for 5 or 10 min (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">Figure S22a</ext-link>), which is consistent with the medium temperature in the sample
+measured with thermocouples (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">Figure S22b</ext-link>). The safety of ice treatment is confirmed by checking the viability
+of cells incubated with ice for 5 or 10 min. As shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">Figure S23</ext-link>, the ice treatment alone has no effects
+on the cell viability at both 24 and 48 h. According to the viability
+data of both 2D cultured NCI/RES-ADR cells (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>a) and CSC-enriched spheres (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>b), blank HCLPN nanoparticles
+with or without ice cooling are also not harmful to the cells for
+both the 24 and 48-h treatments. Interestingly, HCLPN-D nanoparticles
+show higher cytotoxicity than free DOX only at high drug concentrations
+(50, 25, and 10 μg/mL for 2D cells; 50 μg/mL for CSC-enriched
+spheres, <italic toggle="yes">p</italic> &lt; 0.05), probably due to the capability
+of the membrane transporter to pump out drug slowly released from
+the nanoparticles. However, the cytotoxicity of DOX is not significantly
+affected if it is simply mixed with blank HCLPN nanoparticles with
+or without ice cooling. In addition, ice cooling for 10 min could
+further significantly decrease the viability of 2D cells or spheres
+treated with free DOX at 50 μg/mL (<italic toggle="yes">p</italic> &lt; 0.05,
+for both 2D cultured NCI/RES-ADR cells and CSC-enriched spheres).
+This is probably due to the reduced activity of membrane transporters
+in the cells cooled with ice for 10 min, which may allow some free
+DOX to enter the cells treated with free DOX at the high concentration.
+To confirm this, we further checked the uptake of free DOX at high
+concentrations (50, 80, and 160 μg/mL) under the same thermal
+treatments for obtaining the data in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>. As shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">Figure S24</ext-link>, although some free DOX could enter the drug-resistant
+cells at 50 μg/mL, it is minimal in the cell nuclei. This may
+explain the high viability of the cells treated with 50 μg/mL
+free DOX (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>a).
+The fluorescence intensity gradually increases at higher drug concentrations.
+Although ice cooling for 5 min does not seem to significantly improve
+the intracellular DOX at all the three concentrations (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">Figure S24</ext-link>), significantly more DOX could enter
+the cells with ice cooling for 10 min. The latter is probably because
+the membrane transporter activity of the cells is significantly decreased
+after 10 min of ice cooling.</p><fig id="fig4" position="float" orientation="portrait"><label>Figure 4</label><caption><p>Enhanced <italic toggle="yes">in vitro</italic> anticancer
+capacity by HCLPN-D
+nanoparticles with ice cooling for overcoming drug resistance. Viability
+of (a) 2D cultured NCI/RES-ADR multidrug-resistant cancer cells and
+(b) CSC-enriched spheres derived from the multidrug-resistant cancer
+cells after treating them with blank nanoparticles (HCLPN), free DOX,
+and HCLPN-D nanoparticles without or with ice cooling for 5 or 10
+min. The viability of control cells cultured in pure medium is 100%.
+Error bars represent SD (<italic toggle="yes">n</italic> = 3). *: <italic toggle="yes">p</italic> &lt; 0.05 (Kruskal–Wallis <italic toggle="yes">H</italic> test), which
+indicates cells treated with HCLPN-D nanoparticles and ice cooling
+for 10 min is significantly lower than other treatments with the same
+drug concentration. (c) TEM images of the NCI/RES-ADR cancer cells
+treated with saline, HCLPN-D nanoparticles with or without ice cooling
+for 10 min. The endo-/lysosomes in HCLPN-D treated cells light up
+due to the existence of intact (without ice cooling) or disassembled
+(with ice cooling) HCLPN-D nanoparticles. The insets are the endo-/lysosomes
+indicated by the arrows with either intact or disassembled HCPN-CG
+nanoparticles. (d) A schematic illustration of the combination of
+the HCLPN-D nanoparticle and ice cooling for overcoming the multidrug
+resistance to enhance cancer destruction, in comparison to the HCLPN-D
+nanoparticle alone and free drug. The combination can overcome the
+drug resistance in cancer cells by (1) cold-triggered burst drug release
+from the HCLPN-D nanoparticles and (2) the cold-induced low activity
+of the membrane transporters to pump out the released drug.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr4" position="float" orientation="portrait" xlink:href="oc-2018-00050h_0004.jpg"/></fig><p>It is worth noting that most of
+the DOX remains in the cytoplasm
+after entering the drug-resistant cells incubated with the free DOX
+at the usually high concentrations, although free DOX usually enter
+the nuclei of non-drug-resistant cancer cells. This is further confirmed
+by incubating the cancer cells with free DOX on ice for 1 h. As shown
+in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">Figure S25</ext-link>, more free DOX could enter
+the cells compared to 5 or 10 min of ice cooling (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>a). This suggests cold could
+decrease the activity of the efflux pump (i.e., temperature-dependent
+activity of the pump), but it requires more than 10 min for the activity
+to be sufficiently compromised for free DOX to enter the drug-resistant
+cells. Nonetheless, most of the free DOX stays in the cytoplasm after
+the 1 h of ice cooling, which is similar to the observation after
+incubating the cells with free DOX at high concentrations (50–160
+μg/mL) on ice for 5–10 min (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">Figure S24</ext-link>). This may explain the cell viability data shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">Figure S26</ext-link> because DOX must enter the cell nuclei
+to induce cytotoxicity. Although the toxicity of free DOX at 160 μg/mL
+to the drug-resistant cells with 10 min of ice cooling is significantly
+higher than that to the cells kept at 37 °C or with 5 min of
+ice cooling, more than 60% of the cells could still survive at such
+an unusually high concentration. These observations suggest the diffusion
+of free DOX through the plasma membrane into the drug-resistant cells
+may activate some protective mechanism to prevent the drug from entering
+the nuclei, in addition to trying to pump out the free drug with the
+membrane transporters.</p><p>In stark contrast, the cytotoxicity of
+HCLPN-D nanoparticles can
+be significantly enhanced after ice cooling (particularly for 10 min)
+at both low and high concentrations (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>a,b), which is in accordance with the data
+on cellular uptake and DOX distribution in the cells (<xref rid="fig3" ref-type="fig">Figures <xref rid="fig3" ref-type="fig">3</xref></xref> and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">S12</ext-link>). A higher cytotoxicity (∼40 versus ∼60%) could be
+achieved by using HCLPN-D+I (10 min) treatment with very low drug
+concentration compared with free DOX treatment (32 times lower, 5
+versus 160 μg/mL). The cold-responsive capacity of HCLPN-D nanoparticles
+inside cells is further confirmed by cell TEM imaging. As shown in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>c, although endo-/lysosomes
+are not easily identifiable in saline treated cells, they are lit
+up as white dots in cancer cells treated with the HCLPN-D nanoparticles.
+This is probably a result of the white core–shell structure
+of the nanoparticles under TEM (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>b). Moreover, almost all the HCLPN-D nanoparticles
+in the endo-/lysosomes become disassembled after ice cooling, suggesting
+the cold-responsive capacity of the HCLPN-D nanoparticles retains
+inside cells. It is worth noting that disassembly of HCLPN-D nanoparticles
+with ice cooling partially disrupts the structure of endo-/lysosomes
+according to the TEM images. This could facilitate the DOX released
+from the nanoparticles to further escape from the endo-/lysosomes
+into the cytoplasm. These data indicate that the aforementioned challenges
+associated with free DOX can be efficiently resolved by using the
+cold-responsive HCLPN-D nanoparticles for intracellular delivery of
+the drug (<xref rid="fig3" ref-type="fig">Figures <xref rid="fig3" ref-type="fig">3</xref></xref> and <xref rid="fig4" ref-type="fig">4</xref>).</p><p>We also incubated both 2D cultured
+cells and 3D CSC-enriched spheres
+with free DOX and loperamide, a substrate of P-gp and can be used
+as the P-gp inhibitor.<sup><xref ref-type="bibr" rid="ref54">54</xref></sup> As shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">Figure S27</ext-link>, by mixing with P-gp inhibitor, free
+DOX indeed is significantly more toxic than the free drug alone (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>a) to the 2D cultured
+cells after 24 h of incubation, and the cytotoxicity further increases
+at 48 h. For 3D CSC-enriched spheres, free DOX mixed with loperamide
+shows higher cytotoxicity than the free drug alone (see <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>b) only after 48 h of incubation.
+Moreover, the overall cytotoxicity of free DOX mixed with loperamide
+is still less than that of HCLPN-D nanoparticles with ice cooling
+(<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>a,b). This
+is probably because most of the free DOX and sustained/slowly released
+DOX from HCLPN-D nanoparticles (without ice cooling) may still stay
+in the cytoplasm after entering the cancer cells in the presence of
+loperamide to block the efflux pump. This hypothesis is confirmed
+with confocal images of cells treated with free DOX and HCLPN-D nanoparticles
+in the absence or presence of loperamide, as shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">Figure S28</ext-link>.</p><p>A schematic illustration of
+the combination of the HCLPN-D nanoparticles
+and ice cooling for overcoming the drug resistance to enhance cancer
+destruction, in comparison to the HCLPN-D nanoparticle alone and free
+drug, is given in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>d. Free drug can be quickly pumped out of cells after its
+diffusion into cells due to its close proximity to the membrane transporters
+(or immobilized in the cytoplasm by possible additional mechanism
+when the drug concentration is unusually high). Using nanoparticles
+alone for slow drug release, the nanoparticles may be taken up by
+cancer cells via CD44 receptor-mediated endocytosis (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">Figure S20</ext-link>), which may also be mediated by clathrin or caveolin.<sup><xref ref-type="bibr" rid="ref55">55</xref>,<xref ref-type="bibr" rid="ref56">56</xref></sup> However, most of the slowly released drug may be still pumped out
+of the cells before it binds with its targets in the cells. This is
+because the activity of transmembrane transporters is intact, and
+the concentration of drug in cells is not high enough to outperform
+the pumping capacity of the transporters. Importantly, the HCLPN-D
+nanoparticles could quickly disassemble to release most of the encapsulated
+drug when cooled with ice and disrupt the structure of endo/lysosomes.
+Due to its small size, the released free DOX can diffuse out of the
+damaged endo-/lysosomes driven by its concentration gradient without
+the need of any metabolic energy. Although some of the released drug
+may be pumped out of cells during the cooling process, most of the
+drug can enter and bind with the nuclei due to the burst release-induced
+high drug concentration in the cytoplasm and the compromised pumping
+capacity of the transporters at cold temperature (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>d).</p></sec><sec id="sec2.5"><title><italic toggle="yes">In Vivo</italic> Tumor Targeting and Enhanced Capacity
+of Destroying Drug Resistant Tumors</title><p>Next, we investigated
+the biodistribution of the HCLPN nanoparticles in drug-resistant tumor-bearing
+mice by encapsulating indocyanine green (ICG or G) to obtain ICG-laden
+nanoparticles (HCLPN-G). Tumors were produced by subcutaneous injection
+into the upper hindlimb of 20, 000 CSC-enriched sphere cells
+per animal (7 week-old female nude mouse). As shown in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>a, the ICG fluorescence was
+detectable over almost the whole animal body for both HCLPN nanoparticles
+and free ICG at 1 h after intravenous injection. More importantly,
+the HCLPN-G nanoparticles treated mice have stronger fluorescence
+in their tumors, suggesting preferential accumulation of the HCLPN
+nanoparticles in the tumors. The accumulation of HCLPN-G nanoparticles
+in tumor further increases after 3 and 6 h of injection. In contrast,
+the fluorescence in free ICG-treated mice decreases at 3 h and almost
+disappears at 6 h after injection (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>a). To confirm the observations from whole
+animal imaging, various organs were harvested for <italic toggle="yes">ex vivo</italic> imaging to check the distribution of ICG fluorescence after sacrificing
+the mice at 9 h. As shown in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>b, only the tumors from mice treated with HCLPN-G nanoparticles
+has ICG fluorescence with an exposure time of 3 s, which is consistent
+with the whole-animal imaging data. This is probably due to the enhanced
+permeability and retention (EPR) effect of tumor vasculature compared
+to that of normal organs, together with the capability of HA on the
+surface of the HCLPN-D nanoparticles in targeting CD44 overexpressed
+on the cancer cells and CSCs.<sup><xref ref-type="bibr" rid="ref57">57</xref>,<xref ref-type="bibr" rid="ref58">58</xref></sup></p><fig id="fig5" position="float" orientation="portrait"><label>Figure 5</label><caption><p><italic toggle="yes">In viv</italic>o tumor targeting capacity of HCLPN-D nanoparticles.
+(a) <italic toggle="yes">In vivo</italic> whole animal imaging of ICG fluorescence
+at different times after intravenous injection of free ICG and ICG-laden
+HCLPN-G nanoparticles via the tail vein. Arrows indicate the locations
+of tumors in mice. (b) <italic toggle="yes">Ex vivo</italic> imaging of ICG fluorescence
+in tumor and five critical organs collected after sacrificing the
+mice at 9 h. (c) Imaging of total ICG fluorescence of free ICG and
+ICG-laden HCLPN-G nanoparticles in three samples prepared in the same
+way as the solutions used for injection into mice. The images were
+taken under the same condition as that for both the <italic toggle="yes">in vivo</italic> and <italic toggle="yes">ex vivo</italic> imaging. (d) Quantitative analysis
+of the distribution of HCLPN-G and free ICG in tumor and five critical
+organs collected from free ICG and HCLPN-D nanoparticles treated mice.
+The data show that the HCLPN-G nanoparticles could accumulate in tumor
+much more efficiently than free ICG. NCI/RES-ADR cells detached (with
+trypsin) from CSC-enriched spheres were used to obtain xenografts
+of multidrug-resistant tumors for imaging.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr5" position="float" orientation="portrait" xlink:href="oc-2018-00050h_0005.jpg"/></fig><p>To quantify the biodistribution of ICG fluorescence in the
+various
+organs including tumors, the total ICG fluorescence of free ICG and
+ICG-laden HCLPN-G nanoparticles used for injection into each mouse
+were obtained. This was done by diluting the 100 μL of free
+ICG and ICG-laden HCLPN-G nanoparticles (prepared in the same way
+as the 100 μL of samples used for injection into each mouse)
+into 400 μL (to prevent fluorescence overflow) in a centrifuge
+tube and imaging in the same way as that for both <italic toggle="yes">in vivo</italic> and <italic toggle="yes">ex vivo</italic> imaging. This experiment was conducted
+in triplicates (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>c). Interestingly, the average total fluorescence of HCLPN-G nanoparticles
+used for injection into each animal is ∼99% of that of free
+ICG, indicating minimal quenching of the ICG fluorescence in the nanoparticles.
+The total fluorescence in each organ shown in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>b was subtracted with the total fluorescence
+of the corresponding organ from the saline group (to correct any auto
+fluorescence from tissue). The corrected total fluorescence of ICG
+in each organ from the free ICG (or HCLPN-G nanoparticles) group shown
+in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>b was then
+divided by the average total fluorescence of free ICG (or HCLPN-G
+nanoparticles) used for injection into each animal (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>c) and averaged, to obtain
+the percentage of ICG distribution in each organ. As shown in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>d, the accumulation
+of ICG in tumors is significantly improved by ∼50 times (∼15%
+versus ∼0.3%) with the nanoparticle encapsulation. This further
+confirms the observations from the qualitative <italic toggle="yes">in vivo</italic> and <italic toggle="yes">ex vivo</italic> imaging.</p><p>Lastly, we treated the
+drug-resistant tumor-bearing mice with different
+drug formulations to understand the safety and efficacy of the HCLPN-D
+nanoparticles in combination with 10 min of ice cooling for overcoming
+cancer drug resistance. To assess the cooling effect <italic toggle="yes">in vivo</italic>, ice was applied through the skin over the tumor area. FLIR near-infrared
+thermography was used to determine the temperature immediately after
+ice cooling (<xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>a). After 10 min of cooling, the temperature in the tumor area decreases
+to 4–7 °C. The ice cooling treatment is also efficient
+on human (hand, <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>a). The drug-resistant tumor-bearing mice were randomly divided into
+six groups: saline, blank nanoparticles (HCLPN), free DOX without
+or with ice cooling (DOX or DOX+I), and HCLPN-D nanoparticles without
+or with ice treatment (HCLPN-D or HCLPN-D+I). Mice were treated with
+the various formations at a total DOX dose of 3 mg/kg body weight
+via intravenous injection when the tumor reached ∼100 mm<sup>3</sup> on day 1, 8, 15, 22, and 29. After 12 h of each of the injections,
+tumors were cooled with ice for 10 min. No mice died during the course
+of the 59 days of treatment and observation.</p><fig id="fig6" position="float" orientation="portrait"><label>Figure 6</label><caption><p><italic toggle="yes">In viv</italic>o antitumor capacity of HCLPN-D nanoparticles
+with ice cooling studied using subcutaneous tumor model. (a) Near
+infrared thermographs of whole animal and human hand before and after
+ice cooling for 10 min (+I), showing temperature in the region with
+cooling can be effectively decreased to ∼0 °C. (b) Typical
+photographs showing the size of tumors (indicated by arrows) on day
+59 in mice with six different treatments. (c) Tumor growth curves
+for the six different treatments. Error bars represent SD (<italic toggle="yes">n</italic> = 5). The red arrow heads indicate the times of conducting
+injections. *: <italic toggle="yes">p</italic> &lt; 0.05, **: <italic toggle="yes">p</italic> &lt; 0.01 (Kruskal–Wallis <italic toggle="yes">H</italic> test). (d) Weight
+of the tumors collected after sacrificing the mice on day 59. Error
+bars represent SD (<italic toggle="yes">n</italic> = 5). **: <italic toggle="yes">p</italic> &lt; 0.01 (Kruskal–Wallis <italic toggle="yes">H</italic> test). (e) Representative
+histology (H&amp;E) images of the tumors collected on day 59. The
+HCLPN-D+I treated tumors are more necrotic than tumors with the other
+five treatments. (f) Immunofluorescent staining of CD44 and CD133
+in tumor showing diminished expression of both CD44 and CD133 after
+the treatment with HCLPN-D+I. (g) Body weight and (h) representative
+micrographs of H&amp;E staining of four important organs with various
+treatments showing the minimized systemic toxicity of HCLPN-D+I compared
+to treatments with free DOX (DOX and DOX+I).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr6" position="float" orientation="portrait" xlink:href="oc-2018-00050h_0006.jpg"/></fig><p>As shown in <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>b,c, tumor growth for treatments with blank HCLPN nanoparticles
+and
+free DOX is similar to that of saline control. This is not surprising
+as the tumors are generated with multidrug-resistant and CSC-enriched
+cancer cells. In addition, ice cooling does not affect the antitumor
+ability of free DOX. The tumor volume for the treatment with HCLPN-D
+is slightly reduced compared to saline control although the difference
+is not significant. Importantly, the HCLPN-D nanoparticles with ice
+cooling (HCLPN-D+I) exhibit excellent antitumor capacity and significantly
+inhibit the tumor growth compared to all the other five treatments.
+The size and weight of the tumors for the HCLPN-D+I treatment are
+significantly less than that from all the other five treatments (<xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>d and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">Figure S29</ext-link>). Moreover, histological examination
+(hematoxylin&amp;eosin or H&amp;E stain) reveals extensive necrosis
+in the tumors from the HCLPN-D+I treatment group while tumors from
+all the other groups are more viable (<xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>e and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">Figure S30</ext-link>).</p><p>CD44 and CD133 are two surface markers involved in many
+cell functions
+and believed to be associated with tumorigenicity.<sup><xref ref-type="bibr" rid="ref47">47</xref>,<xref ref-type="bibr" rid="ref48">48</xref>,<xref ref-type="bibr" rid="ref53">53</xref></sup> Both have been commonly used as the surface
+markers of various CSCs.<sup><xref ref-type="bibr" rid="ref47">47</xref>,<xref ref-type="bibr" rid="ref48">48</xref>,<xref ref-type="bibr" rid="ref53">53</xref></sup> We checked the expression of both markers in 2D cultured NCI/RES-ADR
+cells and 3D-cultured CSC-enriched spheres first. As shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">Figures S31</ext-link> (for 2D cultured NCI/RES-ADR cells)
+and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">S32</ext-link> (for the CSC-enriched spheres),
+the expression of CD44 and CD133 in the CSC-enriched spheres is increased
+compared with 2D cultured NCI/RES-ADR cells. After treatment with
+HCLPN-D nanoparticles for 12 h without ice cooling, the expression
+of CD44 and CD 133 is decreased only slightly. Importantly, after
+ice cooling and further incubation for 12 h at 37 °C, the expression
+of both markers is minimized in both 2D cultured NCI/RES-ADR cells
+and 3D cultured CSC-enriched spheres (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">Figure S31–32</ext-link>). In order to check the anti-CSC ability of the HCLPN-D nanoparticles
+with 10 min of ice cooling <italic toggle="yes">in vivo</italic>, the expression
+of the variant CD44 and CD133 was further studied in the <italic toggle="yes">in
+vivo</italic> tumors after the various treatments. Typical micrographs
+of immunofluorescent staining of the two CSC markers are shown in <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>f. The expression
+of the two markers in tumors treated with saline, HCLPN nanoparticles,
+DOX, DOX+I, and HCLPN-D nanoparticles is high. In contrast, their
+expression in tumors with the HCLPN-D+I treatment is negligible. These
+observations from the immunofluorescent staining were further confirmed
+by immunohistochemistry staining of the two markers in tumors from
+the various treatments (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">Figure S33</ext-link>), which
+suggests that the HCLPN-D nanoparticles combined with 10 min of ice
+cooling are effective to kill the CSCs <italic toggle="yes">in vivo</italic>. Collectively,
+these data demonstrate the enhanced <italic toggle="yes">in vivo</italic> antitumor
+efficacy of the HCLPN-D nanoparticles combined with ice cooling.</p><p>Equally important, we did not notice any obvious sign of side effects
+for the HCLPN-D+I treatment. Although during the ice treatment, normal
+tissue around tumor might be affected by ice cooling and DOX released
+from nanoparticles, neither death nor significant drop of body weight
+was noted for saline, HCLPN nanoparticles, HCLPN-D, and HCLPN-D+I
+treatments (<xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>g). In contrast, the body weight of mice treated with free DOX and
+DOX+I were significantly reduced during the treatments, indicating
+significant systemic toxicity of the treatments with the free drug.
+To further confirm this, various critical organs including liver,
+kidney, heart, and lung from saline, DOX, and HCLPN-D+I treatments
+were harvested, fixed, and assessed by histology (H&amp;E stain).
+As shown in <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>h and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">Figure S34</ext-link>, free DOX treatment results
+in hepatic damage including macro- and microvesicular steatosis and
+bile stasis. Slight nephrotoxicity and cellular damage (vacuolization)
+of cardiac muscle were also observable for the free DOX treatment.
+Severe pulmonary damage with markedly reduced alveolar surface area
+(honeycomb lung) was obvious in the lung of mice with free DOX treatment.
+However, no obvious damage to these organs was observable in the H&amp;E
+stained tissue slices for the mice with HCLPN-D+I treatment (<xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>h and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">Figure S34</ext-link>).</p><p>In order to further confirm
+the antitumor capacity and safety of
+the HCLPN-D nanoparticles with ice cooling, an orthotopic metastasis
+model of ovarian cancer was established by intraperitoneal injection
+of the NCI/RES-ADR cells into the peritoneal cavity of mice. The mice
+were then treated with saline, free DOX, and HCLPN-D nanoparticles
+at a total DOX dose of 3 mg/kg body weight via intraperitoneal injection
+on day 7, 14, and 21. After 12 h of each of the injections, tumors
+(if any) were cooled by applying ice for 10 min on the skin outside
+the peritoneal cavity on the ventral side. As shown in <xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>a, the temperature decreased
+to 6–10 °C at the ice treated area after the 10 min of
+ice cooling. All the mice were sacrificed on day 32, and tumors can
+only be found in the saline and free DOX treated mice (<xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>b-d). The tumors are further
+confirmed by H&amp;E staining data (<xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>e). This is not surprising as the NCI/RES-ADR
+cells are resistant to free DOX, which can be overcome by using HCLPN-D
+nanoparticles with ice cooling. The body weight of mice treated with
+free DOX is also reduced and significantly different from that of
+mice in the saline and HCLPN-D groups on day 21 (<xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>f).</p><fig id="fig7" position="float" orientation="portrait"><label>Figure 7</label><caption><p><italic toggle="yes">In viv</italic>o antitumor capacity of HCLPN-D nanoparticles
+with ice cooling studied using orthotopic metastasis model of ovarian
+cancer. (a) Near infrared thermographs of whole animal on the ventral
+side before and after ice cooling for 10 min. The data show that temperature
+on the skin with cooling on the ventral side of the peritoneal cavity
+can be effectively decreased to ∼6–10 °C. (b) Photographs
+showing the typical <italic toggle="yes">in situ</italic> locations of tumors (indicated
+by arrows and circles) from mice treated with saline and free DOX.
+(c) Photograph showing the size of tumors collected after sacrificing
+the mice on day 32 with three different treatments. (d) Weight of
+the tumors collected on day 32. Error bars represent SD (<italic toggle="yes">n</italic> = 3). (e) Representative histology (H&amp;E) images of the tumors
+collected on day 32. (f–g) Body weight (f) and representative
+micrographs of H&amp;E staining of five critical organs (g) with various
+treatments. The data show reduced systemic toxicity of the treatment
+of HCLPN-D nanoparticles with ice cooling for 10 min (HCLPN-D+I) compared
+with the free DOX+I treatment. *: <italic toggle="yes">p</italic> &lt; 0.05 (Kruskal–Wallis <italic toggle="yes">H</italic> test).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr7" position="float" orientation="portrait" xlink:href="oc-2018-00050h_0007.jpg"/></fig><p>H&amp;E staining of various
+critical organs (kidney, spleen, liver,
+heart, and lung) indicates that the free DOX treatment causes severe
+kidney injury together with some hepatic and cardiac damage (<xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>g and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">Figure S35</ext-link>). The severe renal injury may be because
+of the intraperitoneal injection free DOX that could diffuse into
+the organ. Importantly, these side effects of free DOX can be minimized
+by encapsulating the drug inside HCLPN nanoparticles for delivery
+via intraperitoneal injection. To further support this, we incubated
+noncancerous human umbilical vein endothelial cells (HUVECs) with
+both free DOX and HCLPN-D nanoparticles. As shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">Figure S36</ext-link>, free DOX can easily enter HUVECs but not the NCI/RES-ADR
+cells (top panels). In contrast, uptake of HCLPN-D nanoparticles by
+the HUVECs is minimal compared to the NCI/RES-ADR cells either without
+(middle panels) or with (bottom panels) ice cooling. These data indicate
+the HCLPN nanoparticles are capable of not only significantly enhancing
+the efficacy of DOX in destroying drug-resistant tumors when combined
+with ice cooling, but also minimizing its systemic toxicity via intraperitoneal
+or intravenous injection.</p></sec></sec><sec id="sec3"><title>Discussion</title><p>In
+this study, we developed a cold responsive nanoparticle for
+overcoming the drug resistance of NCI/RES-ADR cells and reducing the
+potential side effects associated with chemotherapy drug (DOX). As
+schematically illustrated in <xref rid="fig8" ref-type="fig">Figure <xref rid="fig8" ref-type="fig">8</xref></xref>, there are two possible mechanisms for this strategy
+to overcome cancer drug resistance. The first mechanism is the ice
+cooling induced burst release of drug from the HCLPN-D nanoparticles.
+As shown in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>b, more than 70% of DOX can be released from the HCLPN-D nanoparticles
+during ice cooling for 5 min. The released free DOX can diffuse out
+of the endo-/lysosomes driven by its concentration gradient without
+the need of any metabolic energy. At the same time, the structure
+of endo-/lysosomes may be damaged during the disassembly of the HCLPN-D
+nanoparticles as a result of ice cooling (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>c), to further facilitate the escape of the
+released DOX from the endo/lysosomes. With a large amount of free
+DOX being released into cytoplasm in a short time, a significant amount
+of free DOX could bind with its target before being pumped out of
+the cells by the efflux pumps on the cell membrane (<xref rid="fig3" ref-type="fig">Figures <xref rid="fig3" ref-type="fig">3</xref></xref>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">S7, S12, S15–S18, S21, S31, and S32</ext-link>). In contrast, only
+∼2.2% of the drug encapsulated in the nanoparticles could be
+released in 5 h at 37 °C (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>b). This slowly released drug from the nanoparticles
+could be easily pumped out of the cells by the efflux pump before
+entering the nuclei (<xref rid="fig3" ref-type="fig">Figures <xref rid="fig3" ref-type="fig">3</xref></xref>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">S7, S12, S15–S18, S21, S31, and S32</ext-link>). This mechanism is further supported by the cell viability
+data showing that ice cooling could greatly and significantly improve
+the toxicity of the HCLPN-D nanoparticles to the multidrug-resistant
+NCI/RES-ADR cells (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>a,b). The second mechanism is that the activity of efflux
+pumps can be reduced during the ice cooling process. This is supported
+by the data on cell uptake of free DOX without and with ice cooling
+(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">Figures S24 and S25</ext-link>) and the viability
+data of cells treated by free DOX at high concentrations (50–160
+μg/mL) without and with ice cooling (<xref rid="fig4" ref-type="fig">Figures <xref rid="fig4" ref-type="fig">4</xref></xref>a,b and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">S26</ext-link>).
+These high concentrations of DOX are relevant because the intracellular
+concentration of DOX delivered with the HCLPN-D nanoparticles (extracellular
+DOX: 10 μg/mL) could be this high according to the intracellular
+fluorescence intensity of DOX (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">Figure S24</ext-link> versus <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>a).
+This mechanism is due to the minimized metabolic activity of cells
+at ice-cold temperature to deprive the energy supply to the efflux
+pumps that work against the concentration gradient of the chemotherapy
+drug across the cell membrane (i.e., the drug concentration outside
+the multidrug-resistant cells is higher than that inside the cells).
+Furthermore, the HCLPN-D nanoparticles could efficiently and selectively
+accumulate in tumors compared with free drug (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>), which could carry the chemotherapy drug
+selectively into tumor. This together with the minimal release of
+drug from the nanoparticles in normal tissue (always at 37 °C, <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>b) can reduce the
+potential side effects of chemotherapy drug to normal organs <italic toggle="yes">in vivo</italic> (<xref rid="fig6" ref-type="fig">Figures <xref rid="fig6" ref-type="fig">6</xref></xref> and <xref rid="fig7" ref-type="fig">7</xref>). We tested this strategy for
+overcoming cancer multidrug resistance using both the 2D cultured
+NCI/RES-ADR multidrug-resistant cancer cells and their spheres enriched
+with CSCs.</p><fig id="fig8" position="float" orientation="portrait"><label>Figure 8</label><caption><p>A Schematic illustration of overcoming drug resistance with HCLPN-D
+nanoparticles and ice cooling for enhanced cancer therapy. <italic toggle="yes">In vivo</italic> accumulation of HCLPN-D nanoparticles in tumor through
+the enhanced permeability and retention (EPR) effect of tumor vasculature
+could minimize the side effects associated with free DOX. Moreover,
+the HCLPN-D nanoparticles can specifically target cancer stem cells
+(CSCs) via the HA-CD44 interaction to facilitate their uptake by the
+CSCs. Although drug slowly released from nanoparticles at 37 °C
+(or mild hyperthermic temperatures) could be still pumped out of the
+multidrug-resistant cancer cells, the cold-triggered burst drug release
+together with the compromised pumping activity of membrane transporters
+in the multidrug-resistant cancer cells under cold temperature could
+efficiently overcome their drug-resistant capacity. As a result, the
+cold-responsive nanoparticle in combination with ice cooling could
+efficiently inhibit the growth of multidrug-resistant tumor <italic toggle="yes">in vivo</italic>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr8" position="float" orientation="portrait" xlink:href="oc-2018-00050h_0008.jpg"/></fig><p>The aforementioned two
+mechanisms for overcoming cancer drug resistance
+with the HCLPN-D nanoparticles and ice cooling are further supported
+by data obtained with the drug-resistant A2780ADR ovarian cancer cells.
+As shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">Figure S37</ext-link>, no red fluorescence
+of DOX is observable in the A2780ADR cells after incubating them with
+free DOX (10 μg/mL) at 37 °C for 3 h, followed by either
+continuously incubating at 37 °C or cooling with ice for 10 min.
+In stark contrast, red fluorescence of DOX is observable in the cells
+incubated with the HCLPN-D nanoparticles (containing 10 μg/mL
+DOX) at 37 °C for 3 h, although the DOX fluorescence is predominantly
+distributed in the cytosol. Importantly, DOX is located in the nuclei
+of the cells treated with HCLPN-D nanoparticles with 10 min of cooling
+with ice after the 3 h of incubation at 37 °C, while almost all
+DOX is still distributed in the cytosol if the cells are continuously
+cultured at 37 °C for 10 min more. Quantitative analyses indicate
+that the intensity of DOX in the cell nuclei is significantly increased
+after ice cooling, as shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">Figure S38</ext-link>. We further investigated the cell viability of the A2780ADR cells
+treated with free DOX and HCLPN-D nanoparticles with or without ice
+cooling for 10 min. As shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">Figure S39</ext-link>, the cytotoxicity of HCLPN-D nanoparticles is significantly enhanced
+after ice cooling, which is in accordance with the data on cellular
+uptake shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">Figures S37 and S38</ext-link> and
+discussed above. We also noticed that ice cooling for 10 min could
+further significantly decrease the viability of A2780ADR cells treated
+with free DOX at 50 μg/mL (<italic toggle="yes">p</italic> &lt; 0.05), which
+is consistent with the viability data of the NCI/RES-ADR cells with
+the same treatment (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>a). This is probably due to the second mechanism via reducing
+the activity of the membrane transporters, as aforementioned for the
+NCI/RES-ADR cells (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">Figures S24–S26</ext-link>). This is further confirmed by incubating the A2780ADR cells with
+free DOX (10 μg/mL) on ice for 1 h. As shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">Figure S40</ext-link>, more free DOX could enter the cells
+compared with 10 min of ice cooling (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">Figure S37</ext-link>). This supports that ice cooling could decrease the activity of
+the efflux pump (i.e., temperature-dependent activity of the pump),
+which could minimize the amount of drug (burst-released from the HCLPN-D
+nanoparticles inside the drug-resistant cells in response to ice cooling)
+to be pumped out of the cells before it enters the cell nuclei.</p><p>Since the HCLPN-D nanoparticles disassemble at ∼10 °C,
+and biological tissues and cells may become frozen (i.e., form solid
+ice) with minimized diffusion coefficient for small molecules including
+chemotherapy drugs below ∼0 °C, the therapeutic temperature
+with the HCLPN-D nanoparticles for burst drug release to destroy tumors
+is suggested to be ∼0–10 °C. This can be conveniently
+achieved by cooling with ice that is readily available in nearly all
+clinic settings, without the need of a complex refrigeration system
+to achieve subzero or freezing temperatures. It is worth noting the
+HCLPN-D nanoparticles are also applicable for applications requiring
+subzero temperatures. This is because they may disassemble to induce
+burst drug release during cooling or warming between the subzero temperatures
+and 37 °C (body temperature). In fact, the temperature is not
+constant (i.e., decreases with time from 37 °C to ∼4–0
+°C) during ice cooling in this study (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">Figures S8, S9, and S22</ext-link>). Therefore, we compared the viability and
+DOX distribution in cells treated with free DOX and HCLPN-D nanoparticles
+under two conditions: at body temperature (37 °C) and with ice
+cooling to cold temperature (below 10 °C). Our data show the
+combination of the HCLPN-D nanoparticles and ice cooling could overcome
+cancer resistance (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>) to effectively kill the multidrug-resistant cells <italic toggle="yes">in vitro</italic> (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>) and <italic toggle="yes">in vivo</italic> (<xref rid="fig6" ref-type="fig">Figures <xref rid="fig6" ref-type="fig">6</xref></xref> and <xref rid="fig7" ref-type="fig">7</xref>).</p><p>It
+is worth noting that the CSC-enriched spheres are derived from
+NCI/RES-ADR cells and can be maintained only in <italic toggle="yes">in vitro</italic> culture using ultra low attachment plate and CSC medium. After injection <italic toggle="yes">in vivo</italic>, some of the cells from the spheres may differentiate,
+and some of them may remain undifferentiated. In other words, we have
+no control of the stemness of the cells from the CSC-enriched spheres <italic toggle="yes">in vivo</italic>. Therefore, the difference between NCI/RES-ADR cells
+and CSC-enriched spheres with different treatments was studied <italic toggle="yes">in vitro</italic>, and overall the CSC-enriched spheres are more
+resistant to drug than 2D cultured NCI/RES-ADR cells (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>a,b). In view of the latter,
+we used cells from the CSC-enriched spheres to produce tumors for
+our <italic toggle="yes">in vivo</italic> studies to investigate if the HCLPN-D
+nanoparticles with ice cooling could overcome cancer drug resistance <italic toggle="yes">in vivo</italic>. We do not intend to compare the NCI/RES-ADR cells
+and CSC-enriched spheres <italic toggle="yes">in vivo</italic> since we could not
+control the stemness of the cells <italic toggle="yes">in vivo</italic>.</p><p>We tested the strategy of overcoming cancer drug resistance with
+the HCLPN-D nanoparticles and ice cooling using both subcutaneous
+and orthotopic metastasis model of ovarian cancer. For the orthotopic
+metastasis model, the cells from the CSC-enriched spheres were injected
+into the peritoneal cavity (where ovarian cancer cells usually metastasize
+to)<sup><xref ref-type="bibr" rid="ref59">59</xref></sup> of mice via intraperitoneal injection.
+Consistent with the clinical practice of treating ovarian cancer metastasis,<sup><xref ref-type="bibr" rid="ref60">60</xref></sup> we used intraperitoneal injection to deliver
+the HCLPN-D nanoparticles for treating the orthotopic metastasis model
+in this study. In other words, the nanoparticles are delivered into
+the peritoneal cavity where the tumors are. This may be the major
+factor that contributes to the excellent therapeutic outcome of the
+treatment with the HCLPN-D nanoparticles and ice cooling for the orthotopic
+metastasis model (no tumor was identifiable, <xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>c), compared with the subcutaneous model
+(small tumors could be seen, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">Figure S29</ext-link>). For the latter, the nanoparticles are injected intravenously through
+the tail vein that is away from the subcutaneous tumors and the nanoparticles
+are diluted in blood before reaching the subcutaneous tumors.</p><p>In this study, the potential of the proposed strategy of using
+the cold-responsive nanoparticles for overcoming cancer drug resistance
+is demonstrated by ice cooling of subcutaneous and intraperitoneal
+tumors in small animals. Admittedly, ice cooling may be difficult
+to apply for tumors in deep internal organs (e.g., kidney and liver).
+Nonetheless, catheters with lumens perfused with cold saline have
+been widely used for local delivery of cold into deep organs to achieve
+local hypothermia with the aid of minimally invasive surgical technologies
+such as thoracoscopy, laparoscopy, and endoscopy.<sup><xref ref-type="bibr" rid="ref61">61</xref>−<xref ref-type="bibr" rid="ref63">63</xref></sup> Therefore,
+the local delivery of cold required for the nanoparticle system developed
+in this study is not a hurdle to its future potential applications
+for destroying tumors in deep organs. Since techniques using cold
+and freezing temperatures have been widely studied and used for treating
+various diseases including cancer in the clinic (known as cryosurgery,
+cryotherapy, cryoablation, and hypothermia),<sup><xref ref-type="bibr" rid="ref28">28</xref>−<xref ref-type="bibr" rid="ref34">34</xref></sup> our cold responsive nanoparticle-mediated drug delivery may be combined
+with these techniques to further improve their safety and efficacy
+of treating various diseases including cancer.</p></sec><sec id="sec4"><title>Conclusions</title><p>We
+developed a cold-responsive hybrid HCLPN-D nanoparticle composed
+of HA, chitosan, DPPC, PNIPAM-B, and PF127 for targeted delivery of
+chemotherapeutics (DOX) into multidrug-resistant cancer cells and
+their CSCs <italic toggle="yes">in vitro</italic> and multidrug-resistant tumors <italic toggle="yes">in vivo</italic>. The HCLPN-D nanoparticles could significantly improve
+drug delivery into tumors through the EPR effect of tumor vasculature
+after intravenous injection into the tail vein (<xref rid="fig8" ref-type="fig">Figure <xref rid="fig8" ref-type="fig">8</xref></xref>). Moreover, the HCLPN-D nanoparticles could
+quickly and irreversibly disassemble at cold temperatures (&lt;12
+°C), which can induce burst release of most encapsulated drug
+from the nanoparticles. Moreover, the cold-triggered burst release
+of DOX together with the cold temperature per se (to reduce the activity
+of membrane transporters) can efficiently overcome the multidrug-resistant
+capacity of NCI/RES-ADR cells (<xref rid="fig8" ref-type="fig">Figure <xref rid="fig8" ref-type="fig">8</xref></xref>). Furthermore, CSCs enriched spheres derived from
+the multidrug-resistant cancer cells were used to account for the
+multifaceted mechanisms of cancer drug resistance. Our extensive <italic toggle="yes">in vitro</italic> studies with both 2D cultured multidrug-resistant
+cells and 3D microscale tumors (i.e., spheres) enriched with multidrug-resistant
+CSCs as well as <italic toggle="yes">in vivo</italic> studies using the CSC-derived
+tumors grown in mice, demonstrate the great potential of the HCLPN-D
+nanoparticles with ice cooling for overcoming different mechanisms
+associated with cancer multidrug resistance for effective and safe
+cancer therapy.</p></sec></body><back><notes id="notes-1" notes-type="si"><title>Supporting Information Available</title><p>The Supporting
+Information
+is available free of charge on the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org">ACS Publications website</ext-link> at DOI: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/abs/10.1021/acscentsci.8b00050">10.1021/acscentsci.8b00050</ext-link>.<list id="silist" list-type="simple"><list-item><p>Experimental details
+of preparation of nanoparticles,
+drug encapsulation and release, <italic toggle="yes">in vitro</italic> cell imaging
+and cell viability, flow cytometry, TEM imaging of cell, <italic toggle="yes">in
+vivo</italic> animal study and immunohistochemical staining. Supporting
+Figures S1–S40 (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.8b00050/suppl_file/oc8b00050_si_001.pdf">PDF</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1" position="float" orientation="portrait"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="oc8b00050_si_001.pdf" position="float" orientation="portrait"><caption><p>oc8b00050_si_001.pdf</p></caption></media></supplementary-material></sec><notes notes-type="funding-statement" id="notes-2"><p>This work was
+partially supported by American Cancer Society (#120936-RSG-11-109-01-CDD)
+and NIH (R01CA206366).</p></notes><notes notes-type="disclosure" id="NOTES-d221e1370-autogenerated"><p>CMJ is an employee of the Maryland
+Veterans Affairs (VA) Health Care Systems at the Baltimore VA Medcial
+Center.</p></notes><notes notes-type="COI-statement" id="notes-3"><p>The authors
+declare the following competing financial interest(s): The views reported
+in this paper do not reflect the views of the Department of Veterans
+Affairs or the United States Government. CMJ has an equity position
+in Cellth LLC. All other authors declare no competing financial interest.</p></notes><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name name-style="western"><surname>Gottesman</surname><given-names>M. M.</given-names></name>; <name name-style="western"><surname>Fojo</surname><given-names>T.</given-names></name>; <name name-style="western"><surname>Bates</surname><given-names>S. E.</given-names></name>
+<article-title>Multidrug resistance in cancer: role
+of ATP-dependent transporters</article-title>. <source>Nat. Rev. Cancer</source>
+<year>2002</year>, <volume>2</volume>, <fpage>48</fpage>–<lpage>58</lpage>. <pub-id pub-id-type="doi">10.1038/nrc706</pub-id>.<pub-id pub-id-type="pmid">11902585</pub-id></mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name name-style="western"><surname>Szakács</surname><given-names>G.</given-names></name>; <name name-style="western"><surname>Paterson</surname><given-names>J. K.</given-names></name>; <name name-style="western"><surname>Ludwig</surname><given-names>J. A.</given-names></name>; <name name-style="western"><surname>Booth-Genthe</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Gottesman</surname><given-names>M. M.</given-names></name>
+<article-title>Targeting multidrug resistance in
+cancer</article-title>. <source>Nat. Rev. Drug Discovery</source>
+<year>2006</year>, <volume>5</volume>, <fpage>219</fpage>–<lpage>234</lpage>. <pub-id pub-id-type="doi">10.1038/nrd1984</pub-id>.<pub-id pub-id-type="pmid">16518375</pub-id></mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name name-style="western"><surname>Rubbia-Brandt</surname><given-names>L.</given-names></name>; <name name-style="western"><surname>Audard</surname><given-names>V.</given-names></name>; <name name-style="western"><surname>Sartoretti</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Roth</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Brezault</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Le Charpentier</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Dousset</surname><given-names>B.</given-names></name>; <name name-style="western"><surname>Morel</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Soubrane</surname><given-names>O.</given-names></name>; <name name-style="western"><surname>Chaussade</surname><given-names>S.</given-names></name>
+<article-title>Severe hepatic
+sinusoidal obstruction associated with
+oxaliplatin-based chemotherapy in patients with metastatic colorectal
+cancer</article-title>. <source>Ann. Oncol.</source>
+<year>2004</year>, <volume>15</volume>, <fpage>460</fpage>–<lpage>466</lpage>. <pub-id pub-id-type="doi">10.1093/annonc/mdh095</pub-id>.<pub-id pub-id-type="pmid">14998849</pub-id></mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name name-style="western"><surname>Modok</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Mellor</surname><given-names>H. R.</given-names></name>; <name name-style="western"><surname>Callaghan</surname><given-names>R.</given-names></name>
+<article-title>Modulation
+of multidrug resistance
+efflux pump activity to overcome chemoresistance in cancer</article-title>. <source>Curr. Opin. Pharmacol.</source>
+<year>2006</year>, <volume>6</volume>, <fpage>350</fpage>–<lpage>354</lpage>. <pub-id pub-id-type="doi">10.1016/j.coph.2006.01.009</pub-id>.<pub-id pub-id-type="pmid">16690355</pub-id></mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name name-style="western"><surname>Aller</surname><given-names>S. G.</given-names></name>; <name name-style="western"><surname>Yu</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Ward</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Weng</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Chittaboina</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Zhuo</surname><given-names>R.</given-names></name>; <name name-style="western"><surname>Harrell</surname><given-names>P. M.</given-names></name>; <name name-style="western"><surname>Trinh</surname><given-names>Y. T.</given-names></name>; <name name-style="western"><surname>Zhang</surname><given-names>Q.</given-names></name>; <name name-style="western"><surname>Urbatsch</surname><given-names>I. L.</given-names></name>; <name name-style="western"><surname>Chang</surname><given-names>G.</given-names></name>
+<article-title>Structure of P-glycoprotein
+reveals
+a molecular basis for poly-specific drug binding</article-title>. <source>Science</source>
+<year>2009</year>, <volume>323</volume>, <fpage>1718</fpage>–<lpage>1722</lpage>. <pub-id pub-id-type="doi">10.1126/science.1168750</pub-id>.<pub-id pub-id-type="pmid">19325113</pub-id><pub-id pub-id-type="pmcid">PMC2720052</pub-id></mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name name-style="western"><surname>Kabanov</surname><given-names>A. V.</given-names></name>; <name name-style="western"><surname>Batrakova</surname><given-names>E. V.</given-names></name>; <name name-style="western"><surname>Alakhov</surname><given-names>V. Y.</given-names></name>
+<article-title>Pluronic block copolymers for overcoming
+drug resistance in cancer</article-title>. <source>Adv. Drug Delivery
+Rev.</source>
+<year>2002</year>, <volume>54</volume>, <fpage>759</fpage>–<lpage>779</lpage>. <pub-id pub-id-type="doi">10.1016/S0169-409X(02)00047-9</pub-id>.<pub-id pub-id-type="pmid">12204601</pub-id></mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name name-style="western"><surname>Wang</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Gao</surname><given-names>Z.</given-names></name>; <name name-style="western"><surname>Liu</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Agarwal</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Zhao</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Conroy</surname><given-names>D. W.</given-names></name>; <name name-style="western"><surname>Ji</surname><given-names>G.</given-names></name>; <name name-style="western"><surname>Yu</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Jaroniec</surname><given-names>C. P.</given-names></name>; <name name-style="western"><surname>Liu</surname><given-names>Z.</given-names></name>; <name name-style="western"><surname>Lu</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Li</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>He</surname><given-names>X.</given-names></name>
+<article-title>Targeted production of reactive oxygen species in mitochondria
+to overcome cancer drug resistance</article-title>. <source>Nat. Commun.</source>
+<year>2018</year>, <volume>9</volume>, <fpage>562</fpage><pub-id pub-id-type="doi">10.1038/s41467-018-02915-8</pub-id>.<pub-id pub-id-type="pmid">29422620</pub-id><pub-id pub-id-type="pmcid">PMC5805731</pub-id><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="retraction-forward" ext-link-type="pmc" xlink:href="PMC13309521"/></mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name name-style="western"><surname>Gottesman</surname><given-names>M. M.</given-names></name>
+<article-title>Mechanisms
+of cancer drug resistance</article-title>. <source>Annu. Rev. Med.</source>
+<year>2002</year>, <volume>53</volume>, <fpage>615</fpage>–<lpage>627</lpage>. <pub-id pub-id-type="doi">10.1146/annurev.med.53.082901.103929</pub-id>.<pub-id pub-id-type="pmid">11818492</pub-id></mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name name-style="western"><surname>Donnenberg</surname><given-names>V. S.</given-names></name>; <name name-style="western"><surname>Donnenberg</surname><given-names>A. D.</given-names></name>
+<article-title>Multiple
+drug resistance in cancer revisited: the cancer
+stem cell hypothesis</article-title>. <source>J. Clin. Pharmacol.</source>
+<year>2005</year>, <volume>45</volume>, <fpage>872</fpage>–<lpage>877</lpage>. <pub-id pub-id-type="doi">10.1177/0091270005276905</pub-id>.<pub-id pub-id-type="pmid">16027397</pub-id></mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name name-style="western"><surname>Singh</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Settleman</surname><given-names>J.</given-names></name>
+<article-title>EMT, cancer
+stem cells and drug resistance: an emerging
+axis of evil in the war on cancer</article-title>. <source>Oncogene</source>
+<year>2010</year>, <volume>29</volume>, <fpage>4741</fpage>–<lpage>4751</lpage>. <pub-id pub-id-type="doi">10.1038/onc.2010.215</pub-id>.<pub-id pub-id-type="pmid">20531305</pub-id><pub-id pub-id-type="pmcid">PMC3176718</pub-id></mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name name-style="western"><surname>Dean</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Fojo</surname><given-names>T.</given-names></name>; <name name-style="western"><surname>Bates</surname><given-names>S.</given-names></name>
+<article-title>Tumour stem
+cells and drug resistance</article-title>. <source>Nat. Rev. Cancer</source>
+<year>2005</year>, <volume>5</volume>, <fpage>275</fpage>–<lpage>284</lpage>. <pub-id pub-id-type="doi">10.1038/nrc1590</pub-id>.<pub-id pub-id-type="pmid">15803154</pub-id></mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name name-style="western"><surname>Dallas</surname><given-names>N. A.</given-names></name>; <name name-style="western"><surname>Xia</surname><given-names>L.</given-names></name>; <name name-style="western"><surname>Fan</surname><given-names>F.</given-names></name>; <name name-style="western"><surname>Gray</surname><given-names>M. J.</given-names></name>; <name name-style="western"><surname>Gaur</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>van Buren</surname><given-names>G.</given-names><suffix>2nd</suffix></name>; <name name-style="western"><surname>Samuel</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Kim</surname><given-names>M. P.</given-names></name>; <name name-style="western"><surname>Lim</surname><given-names>S. J.</given-names></name>; <name name-style="western"><surname>Ellis</surname><given-names>L. M.</given-names></name>
+<article-title>Chemoresistant colorectal cancer cells, the cancer
+stem cell phenotype, and increased sensitivity to insulin-like growth
+factor-I receptor inhibition</article-title>. <source>Cancer Res.</source>
+<year>2009</year>, <volume>69</volume>, <fpage>1951</fpage>–<lpage>1957</lpage>. <pub-id pub-id-type="doi">10.1158/0008-5472.CAN-08-2023</pub-id>.<pub-id pub-id-type="pmid">19244128</pub-id><pub-id pub-id-type="pmcid">PMC3198868</pub-id></mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name name-style="western"><surname>Clarke</surname><given-names>M. F.</given-names></name>; <name name-style="western"><surname>Dick</surname><given-names>J. E.</given-names></name>; <name name-style="western"><surname>Dirks</surname><given-names>P. B.</given-names></name>; <name name-style="western"><surname>Eaves</surname><given-names>C. J.</given-names></name>; <name name-style="western"><surname>Jamieson</surname><given-names>C. H.</given-names></name>; <name name-style="western"><surname>Jones</surname><given-names>D. L.</given-names></name>; <name name-style="western"><surname>Visvader</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Weissman</surname><given-names>I. L.</given-names></name>; <name name-style="western"><surname>Wahl</surname><given-names>G. M.</given-names></name>
+<article-title>Cancer
+stem cells—perspectives on current status and future directions:
+AACR Workshop on cancer stem cells</article-title>. <source>Cancer Res.</source>
+<year>2006</year>, <volume>66</volume>, <fpage>9339</fpage>–<lpage>9344</lpage>. <pub-id pub-id-type="doi">10.1158/0008-5472.CAN-06-3126</pub-id>.<pub-id pub-id-type="pmid">16990346</pub-id></mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name name-style="western"><surname>Clevers</surname><given-names>H.</given-names></name>
+<article-title>The cancer
+stem cell: premises, promises and challenges</article-title>. <source>Nat. Med.</source>
+<year>2011</year>, <fpage>313</fpage>–<lpage>319</lpage>. <pub-id pub-id-type="doi">10.1038/nm.2304</pub-id>.<pub-id pub-id-type="pmid">21386835</pub-id></mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name name-style="western"><surname>Zhou</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Zhang</surname><given-names>Y.</given-names></name>
+<article-title>Preclinical development
+of cancer stem cell drugs</article-title>. <source>Expert Opin. Drug
+Discovery</source>
+<year>2009</year>, <volume>4</volume>, <fpage>741</fpage>–<lpage>752</lpage>. <pub-id pub-id-type="doi">10.1517/17460440903002059</pub-id>.<pub-id pub-id-type="pmid">23489167</pub-id></mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name name-style="western"><surname>Lou</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Dean</surname><given-names>M.</given-names></name>
+<article-title>Targeted therapy
+for cancer stem cells: the patched pathway and ABC
+transporters</article-title>. <source>Oncogene</source>
+<year>2007</year>, <volume>26</volume>, <fpage>1357</fpage>–<lpage>1360</lpage>. <pub-id pub-id-type="doi">10.1038/sj.onc.1210200</pub-id>.<pub-id pub-id-type="pmid">17322922</pub-id></mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name name-style="western"><surname>Maugeri-Saccà</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Vigneri</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>De Maria</surname><given-names>R.</given-names></name>
+<article-title>Cancer stem cells and chemosensitivity</article-title>. <source>Clin. Cancer Res.</source>
+<year>2011</year>, <volume>17</volume>, <fpage>4942</fpage>–<lpage>4947</lpage>. <pub-id pub-id-type="doi">10.1158/1078-0432.CCR-10-2538</pub-id>.<pub-id pub-id-type="pmid">21622723</pub-id></mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name name-style="western"><surname>Peer</surname><given-names>D.</given-names></name>; <name name-style="western"><surname>Karp</surname><given-names>J. M.</given-names></name>; <name name-style="western"><surname>Hong</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Farokhzad</surname><given-names>O. C.</given-names></name>; <name name-style="western"><surname>Margalit</surname><given-names>R.</given-names></name>; <name name-style="western"><surname>Langer</surname><given-names>R.</given-names></name>
+<article-title>Nanocarriers as an emerging platform
+for cancer therapy</article-title>. <source>Nat. Nanotechnol.</source>
+<year>2007</year>, <volume>2</volume>, <fpage>751</fpage>–<lpage>760</lpage>. <pub-id pub-id-type="doi">10.1038/nnano.2007.387</pub-id>.<pub-id pub-id-type="pmid">18654426</pub-id></mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name name-style="western"><surname>Cho</surname><given-names>K.</given-names></name>; <name name-style="western"><surname>Wang</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Nie</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Shin</surname><given-names>D. M.</given-names></name>; <name name-style="western"><surname>Chen</surname><given-names>Z.</given-names></name>
+<article-title>Therapeutic
+nanoparticles for drug delivery in cancer</article-title>. <source>Clin.
+Cancer Res.</source>
+<year>2008</year>, <volume>14</volume>, <fpage>1310</fpage>–<lpage>1316</lpage>. <pub-id pub-id-type="doi">10.1158/1078-0432.CCR-07-1441</pub-id>.<pub-id pub-id-type="pmid">18316549</pub-id></mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name name-style="western"><surname>Allen</surname><given-names>T. M.</given-names></name>; <name name-style="western"><surname>Cullis</surname><given-names>P. R.</given-names></name>
+<article-title>Drug delivery systems: entering the mainstream</article-title>. <source>Science</source>
+<year>2004</year>, <volume>303</volume>, <fpage>1818</fpage>–<lpage>1822</lpage>. <pub-id pub-id-type="doi">10.1126/science.1095833</pub-id>.<pub-id pub-id-type="pmid">15031496</pub-id></mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name name-style="western"><surname>Sykes</surname><given-names>E. A.</given-names></name>; <name name-style="western"><surname>Chen</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Zheng</surname><given-names>G.</given-names></name>; <name name-style="western"><surname>Chan</surname><given-names>W. C.</given-names></name>
+<article-title>Investigating the
+impact of nanoparticle size on active and passive tumor targeting
+efficiency</article-title>. <source>ACS Nano</source>
+<year>2014</year>, <volume>8</volume>, <fpage>5696</fpage>–<lpage>5706</lpage>. <pub-id pub-id-type="doi">10.1021/nn500299p</pub-id>.<pub-id pub-id-type="pmid">24821383</pub-id></mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name name-style="western"><surname>Nguyen</surname><given-names>H. V.-T.</given-names></name>; <name name-style="western"><surname>Chen</surname><given-names>Q.</given-names></name>; <name name-style="western"><surname>Paletta</surname><given-names>J. T.</given-names></name>; <name name-style="western"><surname>Harvey</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Jiang</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Zhang</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Boska</surname><given-names>M. D.</given-names></name>; <name name-style="western"><surname>Ottaviani</surname><given-names>M. F.</given-names></name>; <name name-style="western"><surname>Jasanoff</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Rajca</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Johnson</surname><given-names>J.</given-names></name>
+<article-title>Nitroxide-Based
+Macromolecular
+Contrast Agents with Unprecedented Transverse Relaxivity and Stability
+for Magnetic Resonance Imaging of Tumors</article-title>. <source>ACS
+Cent. Sci.</source>
+<year>2017</year>, <volume>3</volume>, <fpage>800</fpage>–<lpage>811</lpage>. <pub-id pub-id-type="doi">10.1021/acscentsci.7b00253</pub-id>.<pub-id pub-id-type="pmid">28776023</pub-id><pub-id pub-id-type="pmcid">PMC5532724</pub-id></mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name name-style="western"><surname>Davis</surname><given-names>M. E.</given-names></name>; <name name-style="western"><surname>Shin</surname><given-names>D. M.</given-names></name>; <name name-style="western"><surname>Chen</surname><given-names>Z.</given-names></name>
+<article-title>Nanoparticle therapeutics: an emerging
+treatment modality for cancer</article-title>. <source>Nat. Rev. Drug
+Discovery</source>
+<year>2008</year>, <volume>7</volume>, <fpage>771</fpage>–<lpage>782</lpage>. <pub-id pub-id-type="doi">10.1038/nrd2614</pub-id>.<pub-id pub-id-type="pmid">18758474</pub-id></mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name name-style="western"><surname>Motornov</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Roiter</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Tokarev</surname><given-names>I.</given-names></name>; <name name-style="western"><surname>Minko</surname><given-names>S.</given-names></name>
+<article-title>Stimuli-responsive
+nanoparticles, nanogels and capsules for integrated multifunctional
+intelligent systems</article-title>. <source>Prog. Polym. Sci.</source>
+<year>2010</year>, <volume>35</volume>, <fpage>174</fpage>–<lpage>211</lpage>. <pub-id pub-id-type="doi">10.1016/j.progpolymsci.2009.10.004</pub-id>.</mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name name-style="western"><surname>Xia</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Li</surname><given-names>F.</given-names></name>; <name name-style="western"><surname>Hu</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Park</surname><given-names>W.</given-names></name>; <name name-style="western"><surname>Wang</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Jang</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Du</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Baik</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Cho</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Kang</surname><given-names>T.</given-names></name>; <name name-style="western"><surname>Kim</surname><given-names>D.-H.</given-names></name>; <name name-style="western"><surname>Ling</surname><given-names>D.</given-names></name>; <name name-style="western"><surname>Hui</surname><given-names>K. M.</given-names></name>; <name name-style="western"><surname>Hyeon</surname><given-names>T.</given-names></name>
+<article-title>pH-Sensitive Pt Nanocluster
+Assembly Overcomes Cisplatin Resistance and Heterogeneous Stemness
+of Hepatocellular Carcinoma</article-title>. <source>ACS Cent. Sci.</source>
+<year>2016</year>, <volume>2</volume>, <fpage>802</fpage>–<lpage>811</lpage>. <pub-id pub-id-type="doi">10.1021/acscentsci.6b00197</pub-id>.<pub-id pub-id-type="pmid">27924308</pub-id><pub-id pub-id-type="pmcid">PMC5126722</pub-id></mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name name-style="western"><surname>Schmaljohann</surname><given-names>D.</given-names></name>
+<article-title>Thermo-and
+pH-responsive polymers in drug delivery</article-title>. <source>Adv.
+Drug Delivery Rev.</source>
+<year>2006</year>, <volume>58</volume>, <fpage>1655</fpage>–<lpage>1670</lpage>. <pub-id pub-id-type="doi">10.1016/j.addr.2006.09.020</pub-id>.<pub-id pub-id-type="pmid">17125884</pub-id></mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name name-style="western"><surname>Gao</surname><given-names>W.</given-names></name>; <name name-style="western"><surname>Chan</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Farokhzad</surname><given-names>O. C.</given-names></name>
+<article-title>pH-responsive nanoparticles for drug
+delivery</article-title>. <source>Mol. Pharmaceutics</source>
+<year>2010</year>, <volume>7</volume>, <fpage>1913</fpage>–<lpage>1920</lpage>. <pub-id pub-id-type="doi">10.1021/mp100253e</pub-id>.<pub-id pub-id-type="pmcid">PMC3379544</pub-id><pub-id pub-id-type="pmid">20836539</pub-id></mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name name-style="western"><surname>Rubinsky</surname><given-names>B.</given-names></name>
+<article-title>Cryosurgery</article-title>. <source>Annu. Rev. Biomed. Eng.</source>
+<year>2000</year>, <volume>2</volume>, <fpage>157</fpage>–<lpage>187</lpage>. <pub-id pub-id-type="doi">10.1146/annurev.bioeng.2.1.157</pub-id>.<pub-id pub-id-type="pmid">11701510</pub-id></mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name name-style="western"><surname>Gage</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Baust</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Baust</surname><given-names>J.</given-names></name>
+<article-title>Experimental
+cryosurgery investigations <italic toggle="yes">in vivo</italic></article-title>. <source>Cryobiology</source>
+<year>2009</year>, <volume>59</volume>, <fpage>229</fpage>–<lpage>243</lpage>. <pub-id pub-id-type="doi">10.1016/j.cryobiol.2009.10.001</pub-id>.<pub-id pub-id-type="pmid">19833119</pub-id><pub-id pub-id-type="pmcid">PMC2821701</pub-id></mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name name-style="western"><surname>Gage</surname><given-names>A. A.</given-names></name>
+<article-title>Cryosurgery
+in the treatment of cancer</article-title>. <source>Surg. Gynecol. Obstet.</source>
+<year>1992</year>, <volume>174</volume>, <fpage>73</fpage>–<lpage>92</lpage>.<pub-id pub-id-type="pmid">1729758</pub-id></mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name name-style="western"><surname>Avitall</surname><given-names>B.</given-names></name>; <name name-style="western"><surname>Kalinski</surname><given-names>A.</given-names></name>
+<article-title>Cryotherapy of cardiac
+arrhythmia: From basic science
+to the bedside</article-title>. <source>Heart Rhythm</source>
+<year>2015</year>, <volume>12</volume>, <fpage>2195</fpage>–<lpage>2203</lpage>. <pub-id pub-id-type="doi">10.1016/j.hrthm.2015.05.034</pub-id>.<pub-id pub-id-type="pmid">26031374</pub-id></mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name name-style="western"><surname>Villablanca</surname><given-names>P. A.</given-names></name>; <name name-style="western"><surname>Rao</surname><given-names>G.</given-names></name>; <name name-style="western"><surname>Briceno</surname><given-names>D. F.</given-names></name>; <name name-style="western"><surname>Lombardo</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Ramakrishna</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Bortnick</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Garcia</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Menegus</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Sims</surname><given-names>D.</given-names></name>; <name name-style="western"><surname>Makkiya</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Mookadam</surname><given-names>F.</given-names></name>
+<article-title>Therapeutic
+hypothermia in ST elevation
+myocardial infarction: a systematic review and meta-analysis of randomised
+control trials</article-title>. <source>Heart</source>
+<year>2016</year>, <volume>102</volume>, <fpage>712</fpage>–<lpage>719</lpage>. <pub-id pub-id-type="doi">10.1136/heartjnl-2015-308559</pub-id>.<pub-id pub-id-type="pmid">26864673</pub-id></mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name name-style="western"><surname>Hoffmann</surname><given-names>N. E.</given-names></name>; <name name-style="western"><surname>Bischof</surname><given-names>J. C.</given-names></name>
+<article-title>The cryobiology
+of cryosurgical injury</article-title>. <source>Urology</source>
+<year>2002</year>, <volume>60</volume>, <fpage>40</fpage>–<lpage>49</lpage>. <pub-id pub-id-type="doi">10.1016/S0090-4295(02)01683-7</pub-id>.<pub-id pub-id-type="pmid">12206847</pub-id></mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name name-style="western"><surname>Pilcher</surname><given-names>T. A.</given-names></name>; <name name-style="western"><surname>Saul</surname><given-names>J. P.</given-names></name>; <name name-style="western"><surname>Hlavacek</surname><given-names>A. M.</given-names></name>; <name name-style="western"><surname>Haemmerich</surname><given-names>D.</given-names></name>
+<article-title>Contrasting
+effects of convective flow on catheter ablation lesion size: cryo
+versus radiofrequency energy</article-title>. <source>Pacing Clin. Electrophysiol.</source>
+<year>2008</year>, <volume>31</volume>, <fpage>300</fpage>–<lpage>307</lpage>. <pub-id pub-id-type="doi">10.1111/j.1540-8159.2008.00989.x</pub-id>.<pub-id pub-id-type="pmid">18307624</pub-id></mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name name-style="western"><surname>Zhang</surname><given-names>W.</given-names></name>; <name name-style="western"><surname>Gilstrap</surname><given-names>K.</given-names></name>; <name name-style="western"><surname>Wu</surname><given-names>L.</given-names></name>; <name name-style="western"><surname>Bahadur K. C.</surname><given-names>R.</given-names></name>; <name name-style="western"><surname>Moss</surname><given-names>M. A.</given-names></name>; <name name-style="western"><surname>Wang</surname><given-names>Q.</given-names></name>; <name name-style="western"><surname>Lu</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>He</surname><given-names>X.</given-names></name>
+<article-title>Synthesis
+and characterization of thermally responsive
+Pluronic F127-chitosan nanocapsules for controlled release and intracellular
+delivery of small molecules</article-title>. <source>ACS Nano</source>
+<year>2010</year>, <volume>4</volume>, <fpage>6747</fpage>–<lpage>6759</lpage>. <pub-id pub-id-type="doi">10.1021/nn101617n</pub-id>.<pub-id pub-id-type="pmid">21038924</pub-id></mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name name-style="western"><surname>Lee</surname><given-names>S. H.</given-names></name>; <name name-style="western"><surname>Choi</surname><given-names>S. H.</given-names></name>; <name name-style="western"><surname>Kim</surname><given-names>S. H.</given-names></name>; <name name-style="western"><surname>Park</surname><given-names>T. G.</given-names></name>
+<article-title>Thermally sensitive
+cationic polymer nanocapsules for specific cytosolic delivery and
+efficient gene silencing of siRNA: swelling induced physical disruption
+of endosome by cold shock</article-title>. <source>J. Controlled Release</source>
+<year>2008</year>, <volume>125</volume>, <fpage>25</fpage>–<lpage>32</lpage>. <pub-id pub-id-type="doi">10.1016/j.jconrel.2007.09.011</pub-id>.<pub-id pub-id-type="pmid">17976853</pub-id></mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="journal" id="cit37"><name name-style="western"><surname>Yang</surname><given-names>Z.</given-names></name>; <name name-style="western"><surname>Cheng</surname><given-names>Q.</given-names></name>; <name name-style="western"><surname>Jiang</surname><given-names>Q.</given-names></name>; <name name-style="western"><surname>Deng</surname><given-names>L.</given-names></name>; <name name-style="western"><surname>Liang</surname><given-names>Z.</given-names></name>; <name name-style="western"><surname>Dong</surname><given-names>A.</given-names></name>
+<article-title>Thermo-sensitive nanoparticles
+for triggered release of siRNA</article-title>. <source>J. Biomater.
+Sci., Polym. Ed.</source>
+<year>2015</year>, <volume>26</volume>, <fpage>264</fpage>–<lpage>276</lpage>. <pub-id pub-id-type="doi">10.1080/09205063.2014.997559</pub-id>.<pub-id pub-id-type="pmid">25566877</pub-id></mixed-citation></ref><ref id="ref38"><mixed-citation publication-type="journal" id="cit38"><name name-style="western"><surname>Ward</surname><given-names>M. A.</given-names></name>; <name name-style="western"><surname>Georgiou</surname><given-names>T. K.</given-names></name>
+<article-title>Thermoresponsive polymers for biomedical
+applications</article-title>. <source>Polymers</source>
+<year>2011</year>, <volume>3</volume>, <fpage>1215</fpage>–<lpage>1242</lpage>. <pub-id pub-id-type="doi">10.3390/polym3031215</pub-id>.</mixed-citation></ref><ref id="ref39"><mixed-citation publication-type="journal" id="cit39"><name name-style="western"><surname>Gan</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Guan</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Zheng</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Guo</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Wu</surname><given-names>K.</given-names></name>; <name name-style="western"><surname>Liang</surname><given-names>L.</given-names></name>; <name name-style="western"><surname>Lu</surname><given-names>M.</given-names></name>
+<article-title>Biodegradable, thermoresponsive
+PNIPAM-based
+hydrogel scaffolds for the sustained release of levofloxacin</article-title>. <source>RSC Adv.</source>
+<year>2016</year>, <volume>6</volume>, <fpage>32967</fpage>–<lpage>32978</lpage>. <pub-id pub-id-type="doi">10.1039/C6RA03045A</pub-id>.</mixed-citation></ref><ref id="ref40"><mixed-citation publication-type="journal" id="cit40"><name name-style="western"><surname>Lima</surname><given-names>L. H.</given-names></name>; <name name-style="western"><surname>Morales</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Cabral</surname><given-names>T.</given-names></name>
+<article-title>Ocular Biocompatibility of Poly-N-Isopropylacrylamide
+(pNIPAM)</article-title>. <source>J. Ophthalmol.</source>
+<year>2016</year>, <volume>2016</volume>, <fpage>1</fpage>–<lpage>6</lpage>. <pub-id pub-id-type="doi">10.1155/2016/5356371</pub-id>.<pub-id pub-id-type="pmcid">PMC5108863</pub-id><pub-id pub-id-type="pmid">27882245</pub-id></mixed-citation></ref><ref id="ref41"><mixed-citation publication-type="journal" id="cit41"><name name-style="western"><surname>Jung</surname><given-names>H. H.</given-names></name>; <name name-style="western"><surname>Park</surname><given-names>K.</given-names></name>; <name name-style="western"><surname>Han</surname><given-names>D. K.</given-names></name>
+<article-title>Preparation
+of TGF-β1-conjugated
+biodegradable pluronic F127 hydrogel and its application with adipose-derived
+stem cells</article-title>. <source>J. Controlled Release</source>
+<year>2010</year>, <volume>147</volume>, <fpage>84</fpage>–<lpage>91</lpage>. <pub-id pub-id-type="doi">10.1016/j.jconrel.2010.06.020</pub-id>.<pub-id pub-id-type="pmid">20599451</pub-id></mixed-citation></ref><ref id="ref42"><mixed-citation publication-type="journal" id="cit42"><name name-style="western"><surname>Dimitrov</surname><given-names>I.</given-names></name>; <name name-style="western"><surname>Trzebicka</surname><given-names>B.</given-names></name>; <name name-style="western"><surname>Müller</surname><given-names>A. H.</given-names></name>; <name name-style="western"><surname>Dworak</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Tsvetanov</surname><given-names>C. B.</given-names></name>
+<article-title>Thermosensitive
+water-soluble copolymers with doubly responsive reversibly interacting
+entities</article-title>. <source>Prog. Polym. Sci.</source>
+<year>2007</year>, <volume>32</volume>, <fpage>1275</fpage>–<lpage>1343</lpage>. <pub-id pub-id-type="doi">10.1016/j.progpolymsci.2007.07.001</pub-id>.</mixed-citation></ref><ref id="ref43"><mixed-citation publication-type="journal" id="cit43"><name name-style="western"><surname>Wang</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Agarwal</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Zhao</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Yu</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Lu</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>He</surname><given-names>X.</given-names></name>
+<article-title>A Near-Infrared Laser-Activated “Nanobomb”
+for Breaking
+the Barriers to MicroRNA Delivery</article-title>. <source>Adv. Mater.</source>
+<year>2016</year>, <volume>28</volume>, <fpage>347</fpage>–<lpage>355</lpage>. <pub-id pub-id-type="doi">10.1002/adma.201504263</pub-id>.<pub-id pub-id-type="pmid">26567892</pub-id></mixed-citation></ref><ref id="ref44"><mixed-citation publication-type="journal" id="cit44"><name name-style="western"><surname>Zheng</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Yue</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Ma</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Gong</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Zhao</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Zheng</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Sheng</surname><given-names>Z.</given-names></name>; <name name-style="western"><surname>Zhang</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Wang</surname><given-names>Z.</given-names></name>; <name name-style="western"><surname>Cai</surname><given-names>L.</given-names></name>
+<article-title>Single-step
+assembly of DOX/ICG loaded lipid–polymer nanoparticles for
+highly effective chemo-photothermal combination therapy</article-title>. <source>ACS Nano</source>
+<year>2013</year>, <volume>7</volume>, <fpage>2056</fpage>–<lpage>2067</lpage>. <pub-id pub-id-type="doi">10.1021/nn400334y</pub-id>.<pub-id pub-id-type="pmid">23413798</pub-id></mixed-citation></ref><ref id="ref45"><mixed-citation publication-type="journal" id="cit45"><name name-style="western"><surname>Wang</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Agarwal</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Zhao</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Xu</surname><given-names>R. X.</given-names></name>; <name name-style="western"><surname>Yu</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Lu</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>He</surname><given-names>X.</given-names></name>
+<article-title>Hyaluronic acid-decorated dual responsive nanoparticles
+of Pluronic F127, PLGA, and chitosan for targeted co-delivery of doxorubicin
+and irinotecan to eliminate cancer stem-like cells</article-title>. <source>Biomaterials</source>
+<year>2015</year>, <volume>72</volume>, <fpage>74</fpage>–<lpage>89</lpage>. <pub-id pub-id-type="doi">10.1016/j.biomaterials.2015.08.048</pub-id>.<pub-id pub-id-type="pmid">26344365</pub-id><pub-id pub-id-type="pmcid">PMC5003084</pub-id></mixed-citation></ref><ref id="ref46"><mixed-citation publication-type="journal" id="cit46"><name name-style="western"><surname>Lu</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Hu</surname><given-names>Q.</given-names></name>; <name name-style="western"><surname>Lin</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Pacardo</surname><given-names>D. B.</given-names></name>; <name name-style="western"><surname>Wang</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Sun</surname><given-names>W.</given-names></name>; <name name-style="western"><surname>Ligler</surname><given-names>F. S.</given-names></name>; <name name-style="western"><surname>Dickey</surname><given-names>M. D.</given-names></name>; <name name-style="western"><surname>Gu</surname><given-names>Z.</given-names></name>
+<article-title>Transformable liquid-metal
+nanomedicine</article-title>. <source>Nat. Commun.</source>
+<year>2015</year>, <volume>6</volume>, <fpage>10066</fpage><pub-id pub-id-type="doi">10.1038/ncomms10066</pub-id>.<pub-id pub-id-type="pmid">26625944</pub-id><pub-id pub-id-type="pmcid">PMC4686762</pub-id></mixed-citation></ref><ref id="ref47"><mixed-citation publication-type="journal" id="cit47"><name name-style="western"><surname>Wang</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Agarwal</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Zhao</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Yu</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Lu</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>He</surname><given-names>X.</given-names></name>
+<article-title>Combined cancer therapy with hyaluronan-decorated fullerene-silica
+multifunctional nanoparticles to target cancer stem-like cells</article-title>. <source>Biomaterials</source>
+<year>2016</year>, <volume>97</volume>, <fpage>62</fpage>–<lpage>73</lpage>. <pub-id pub-id-type="doi">10.1016/j.biomaterials.2016.04.030</pub-id>.<pub-id pub-id-type="pmid">27162075</pub-id><pub-id pub-id-type="pmcid">PMC4957695</pub-id></mixed-citation></ref><ref id="ref48"><mixed-citation publication-type="journal" id="cit48"><name name-style="western"><surname>Collins</surname><given-names>A. T.</given-names></name>; <name name-style="western"><surname>Berry</surname><given-names>P. A.</given-names></name>; <name name-style="western"><surname>Hyde</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Stower</surname><given-names>M. J.</given-names></name>; <name name-style="western"><surname>Maitland</surname><given-names>N. J.</given-names></name>
+<article-title>Prospective
+identification of tumorigenic prostate cancer stem cells</article-title>. <source>Cancer Res.</source>
+<year>2005</year>, <volume>65</volume>, <fpage>10946</fpage>–<lpage>10951</lpage>. <pub-id pub-id-type="doi">10.1158/0008-5472.CAN-05-2018</pub-id>.<pub-id pub-id-type="pmid">16322242</pub-id></mixed-citation></ref><ref id="ref49"><mixed-citation publication-type="journal" id="cit49"><name name-style="western"><surname>Trédan</surname><given-names>O.</given-names></name>; <name name-style="western"><surname>Galmarini</surname><given-names>C. M.</given-names></name>; <name name-style="western"><surname>Patel</surname><given-names>K.</given-names></name>; <name name-style="western"><surname>Tannock</surname><given-names>I. F.</given-names></name>
+<article-title>Drug resistance
+and the solid tumor microenvironment</article-title>. <source>J. Natl.
+Cancer. Inst.</source>
+<year>2007</year>, <volume>99</volume>, <fpage>1441</fpage>–<lpage>1454</lpage>. <pub-id pub-id-type="doi">10.1093/jnci/djm135</pub-id>.<pub-id pub-id-type="pmid">17895480</pub-id></mixed-citation></ref><ref id="ref50"><mixed-citation publication-type="journal" id="cit50"><name name-style="western"><surname>Wang</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Agarwal</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Zhao</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Yu</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Lu</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>He</surname><given-names>X.</given-names></name>
+<article-title>A biomimetic hybrid nanoplatform for encapsulation and precisely
+controlled delivery of theranostic agents</article-title>. <source>Nat.
+Commun.</source>
+<year>2015</year>, <volume>6</volume>, <fpage>10081</fpage><pub-id pub-id-type="doi">10.1038/ncomms10081</pub-id>.<pub-id pub-id-type="pmid">26621191</pub-id><pub-id pub-id-type="pmcid">PMC4686774</pub-id><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="retraction-forward" ext-link-type="pmc" xlink:href="PMC13309538"/></mixed-citation></ref><ref id="ref51"><mixed-citation publication-type="journal" id="cit51"><name name-style="western"><surname>Draffin</surname><given-names>J. E.</given-names></name>; <name name-style="western"><surname>McFarlane</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Hill</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Johnston</surname><given-names>P. G.</given-names></name>; <name name-style="western"><surname>Waugh</surname><given-names>D. J.</given-names></name>
+<article-title>CD44 potentiates
+the adherence of metastatic prostate and breast cancer cells to bone
+marrow endothelial cells</article-title>. <source>Cancer Res.</source>
+<year>2004</year>, <volume>64</volume>, <fpage>5702</fpage>–<lpage>5711</lpage>. <pub-id pub-id-type="doi">10.1158/0008-5472.CAN-04-0389</pub-id>.<pub-id pub-id-type="pmid">15313910</pub-id></mixed-citation></ref><ref id="ref52"><mixed-citation publication-type="journal" id="cit52"><name name-style="western"><surname>Bourguignon</surname><given-names>L. Y.</given-names></name>; <name name-style="western"><surname>Singleton</surname><given-names>P. A.</given-names></name>; <name name-style="western"><surname>Zhu</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Zhou</surname><given-names>B.</given-names></name>
+<article-title>Hyaluronan promotes
+signaling interaction between CD44 and the transforming growth factor
+beta receptor I in metastatic breast tumor cells</article-title>. <source>J. Biol. Chem.</source>
+<year>2002</year>, <volume>277</volume>, <fpage>39703</fpage>–<lpage>39712</lpage>. <pub-id pub-id-type="doi">10.1074/jbc.M204320200</pub-id>.<pub-id pub-id-type="pmid">12145287</pub-id></mixed-citation></ref><ref id="ref53"><mixed-citation publication-type="journal" id="cit53"><name name-style="western"><surname>Rao</surname><given-names>W.</given-names></name>; <name name-style="western"><surname>Wang</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Han</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Zhao</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Dumbleton</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Agarwal</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Zhang</surname><given-names>W.</given-names></name>; <name name-style="western"><surname>Zhao</surname><given-names>G.</given-names></name>; <name name-style="western"><surname>Yu</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Zynger</surname><given-names>D. L.</given-names></name>; <name name-style="western"><surname>Lu</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>He</surname><given-names>X.</given-names></name>
+<article-title>Chitosan-Decorated
+Doxorubicin-Encapsulated Nanoparticle Targets and Eliminates Tumor
+Reinitiating Cancer Stem-Like Cells</article-title>. <source>ACS Nano</source>
+<year>2015</year>, <volume>9</volume>, <fpage>5725</fpage>–<lpage>5740</lpage>. <pub-id pub-id-type="doi">10.1021/nn506928p</pub-id>.<pub-id pub-id-type="pmid">26004286</pub-id></mixed-citation></ref><ref id="ref54"><mixed-citation publication-type="journal" id="cit54"><name name-style="western"><surname>Schinkel</surname><given-names>A. H.</given-names></name>; <name name-style="western"><surname>Wagenaar</surname><given-names>E.</given-names></name>; <name name-style="western"><surname>Mol</surname><given-names>C. A.</given-names></name>; <name name-style="western"><surname>van Deemter</surname><given-names>L.</given-names></name>
+<article-title>P-glycoprotein
+in the blood-brain barrier of mice influences the brain penetration
+and pharmacological activity of many drugs</article-title>. <source>J. Clin. Invest.</source>
+<year>1996</year>, <volume>97</volume>, <fpage>2517</fpage>–<lpage>2524</lpage>. <pub-id pub-id-type="doi">10.1172/JCI118699</pub-id>.<pub-id pub-id-type="pmid">8647944</pub-id><pub-id pub-id-type="pmcid">PMC507337</pub-id></mixed-citation></ref><ref id="ref55"><mixed-citation publication-type="journal" id="cit55"><name name-style="western"><surname>Oh</surname><given-names>N.</given-names></name>; <name name-style="western"><surname>Park</surname><given-names>J.-H.</given-names></name>
+<article-title>Endocytosis and exocytosis of nanoparticles in mammalian
+cells</article-title>. <source>Int. J. Nanomed.</source>
+<year>2014</year>, <volume>9</volume>, <fpage>51</fpage>–<lpage>63</lpage>. <pub-id pub-id-type="doi">10.2147/IJN.S26592</pub-id>.<pub-id pub-id-type="pmcid">PMC4024976</pub-id><pub-id pub-id-type="pmid">24872703</pub-id></mixed-citation></ref><ref id="ref56"><mixed-citation publication-type="journal" id="cit56"><name name-style="western"><surname>Maxfield</surname><given-names>F. R.</given-names></name>; <name name-style="western"><surname>McGraw</surname><given-names>T. E.</given-names></name>
+<article-title>Endocytic recycling</article-title>. <source>Nat. Rev.
+Mol. Cell Biol.</source>
+<year>2004</year>, <volume>5</volume>, <fpage>121</fpage>–<lpage>132</lpage>. <pub-id pub-id-type="doi">10.1038/nrm1315</pub-id>.<pub-id pub-id-type="pmid">15040445</pub-id></mixed-citation></ref><ref id="ref57"><mixed-citation publication-type="journal" id="cit57"><name name-style="western"><surname>Maruyama</surname><given-names>K.</given-names></name>
+<article-title>Intracellular
+targeting delivery of liposomal drugs to solid tumors based on EPR
+effects</article-title>. <source>Adv. Drug Delivery Rev.</source>
+<year>2011</year>, <volume>63</volume>, <fpage>161</fpage>–<lpage>169</lpage>. <pub-id pub-id-type="doi">10.1016/j.addr.2010.09.003</pub-id>.<pub-id pub-id-type="pmid">20869415</pub-id></mixed-citation></ref><ref id="ref58"><mixed-citation publication-type="journal" id="cit58"><name name-style="western"><surname>Huo</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Wang</surname><given-names>L.</given-names></name>; <name name-style="western"><surname>Chen</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Shi</surname><given-names>J.</given-names></name>
+<article-title>Tumor-selective catalytic
+nanomedicine by nanocatalyst delivery</article-title>. <source>Nat.
+Commun.</source>
+<year>2017</year>, <volume>8</volume>, <fpage>357</fpage><pub-id pub-id-type="doi">10.1038/s41467-017-00424-8</pub-id>.<pub-id pub-id-type="pmid">28842577</pub-id><pub-id pub-id-type="pmcid">PMC5572465</pub-id></mixed-citation></ref><ref id="ref59"><mixed-citation publication-type="journal" id="cit59"><name name-style="western"><surname>Manzotti</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Audisio</surname><given-names>R. A.</given-names></name>; <name name-style="western"><surname>Pratesi</surname><given-names>G.</given-names></name>
+<article-title>Importance
+of orthotopic implantation
+for human tumors as model systems: relevance to metastasis and invasion</article-title>. <source>Clin. Exp. Metastasis</source>
+<year>1993</year>, <volume>11</volume>, <fpage>5</fpage>–<lpage>14</lpage>. <pub-id pub-id-type="doi">10.1007/BF00880061</pub-id>.<pub-id pub-id-type="pmid">8422706</pub-id></mixed-citation></ref><ref id="ref60"><mixed-citation publication-type="journal" id="cit60"><name name-style="western"><surname>Agarwal</surname><given-names>R.</given-names></name>; <name name-style="western"><surname>Kaye</surname><given-names>S. B.</given-names></name>
+<article-title>Ovarian cancer: strategies for overcoming resistance
+to chemotherapy</article-title>. <source>Nat. Rev. Cancer</source>
+<year>2003</year>, <volume>3</volume>, <fpage>502</fpage>–<lpage>516</lpage>. <pub-id pub-id-type="doi">10.1038/nrc1123</pub-id>.<pub-id pub-id-type="pmid">12835670</pub-id></mixed-citation></ref><ref id="ref61"><mixed-citation publication-type="journal" id="cit61"><name name-style="western"><surname>Cattaneo</surname><given-names>G.</given-names></name>; <name name-style="western"><surname>Schumacher</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Maurer</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Wolfertz</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Jost</surname><given-names>T.</given-names></name>; <name name-style="western"><surname>Büchert</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Keuler</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Boos</surname><given-names>L.</given-names></name>; <name name-style="western"><surname>Shah</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Foerster</surname><given-names>K.</given-names></name>; <name name-style="western"><surname>Niesen</surname><given-names>W.-D.</given-names></name>; <name name-style="western"><surname>Ihorst</surname><given-names>G.</given-names></name>; <name name-style="western"><surname>Urbach</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Meckel</surname><given-names>S.</given-names></name>
+<article-title>Endovascular
+cooling catheter for selective brain hypothermia:
+an animal feasibility study of cooling performance</article-title>. <source>Am. J. Neuroradiol.</source>
+<year>2016</year>, <volume>37</volume>, <fpage>885</fpage>–<lpage>891</lpage>. <pub-id pub-id-type="doi">10.3174/ajnr.A4625</pub-id>.<pub-id pub-id-type="pmid">26705319</pub-id><pub-id pub-id-type="pmcid">PMC7960302</pub-id></mixed-citation></ref><ref id="ref62"><mixed-citation publication-type="journal" id="cit62"><name name-style="western"><surname>Inoue</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Mori</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Shimizu</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Yoshitake</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Tashiro</surname><given-names>R.</given-names></name>; <name name-style="western"><surname>Kabei</surname><given-names>N.</given-names></name>; <name name-style="western"><surname>Yozu</surname><given-names>R.</given-names></name>
+<article-title>Combined use of an
+epidural cooling catheter and systemic moderate hypothermia enhances
+spinal cord protection against ischemic injury in rabbits</article-title>. <source>J. Thorac. Cardiovasc. Surg.</source>
+<year>2013</year>, <volume>146</volume>, <fpage>696</fpage>–<lpage>701</lpage>. <pub-id pub-id-type="doi">10.1016/j.jtcvs.2012.11.040</pub-id>.<pub-id pub-id-type="pmid">23246054</pub-id></mixed-citation></ref><ref id="ref63"><mixed-citation publication-type="journal" id="cit63"><name name-style="western"><surname>Crain</surname><given-names>D. S.</given-names></name>; <name name-style="western"><surname>Spencer</surname><given-names>C. R.</given-names></name>; <name name-style="western"><surname>Favata</surname><given-names>M. A.</given-names></name>; <name name-style="western"><surname>Amling</surname><given-names>C. L.</given-names></name>
+<article-title>Transureteral saline
+perfusion to obtain renal hypothermia: potential application in laparoscopic
+partial nephrectomy</article-title>. <source>JSLS</source>
+<year>2004</year>, <volume>8</volume>, <fpage>217</fpage>–<lpage>222</lpage>.<pub-id pub-id-type="pmid">15347107</pub-id><pub-id pub-id-type="pmcid">PMC3016806</pub-id></mixed-citation></ref></ref-list></back></article>

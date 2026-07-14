@@ -1,0 +1,1336 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article article-type="research-article" xml:lang="en" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Commun Biol</journal-id><journal-id journal-id-type="iso-abbrev">Commun Biol</journal-id><journal-id journal-id-type="pmc-domain-id">3495</journal-id><journal-id journal-id-type="pmc-domain">commbiol</journal-id><journal-id journal-id-type="nlm-id">101719179</journal-id><journal-title-group><journal-title>Communications Biology</journal-title></journal-title-group><issn pub-type="epub">2399-3642</issn><publisher><publisher-name>Nature Publishing Group</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC8505486</article-id><article-id pub-id-type="pmcid-ver">PMC8505486.1</article-id><article-id pub-id-type="pmcaid">8505486</article-id><article-id pub-id-type="pmcaiid">8505486</article-id><article-id pub-id-type="pmid">34635782</article-id><article-id pub-id-type="doi">10.1038/s42003-021-02668-z</article-id><article-id pub-id-type="publisher-id">2668</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>RETRACTED ARTICLE: Phosphor-IWS1-dependent <italic toggle="yes">U2AF2</italic>
+splicing regulates trafficking of CAR-E-positive intronless gene mRNAs and sensitivity
+to viral infection</article-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0001-9205-8258</contrib-id><name name-style="western"><surname>Laliotis</surname><given-names initials="GI">Georgios I.</given-names></name><address><email>glaliot1@jhmi.edu</email></address><xref ref-type="aff" rid="Aff1">1</xref><xref ref-type="aff" rid="Aff2">2</xref><xref ref-type="aff" rid="Aff3">3</xref><xref ref-type="aff" rid="Aff10">10</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Kenney</surname><given-names initials="AD">Adam D.</given-names></name><xref ref-type="aff" rid="Aff2">2</xref><xref ref-type="aff" rid="Aff4">4</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Chavdoula</surname><given-names initials="E">Evangelia</given-names></name><xref ref-type="aff" rid="Aff1">1</xref><xref ref-type="aff" rid="Aff2">2</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Orlacchio</surname><given-names initials="A">Arturo</given-names></name><xref ref-type="aff" rid="Aff1">1</xref><xref ref-type="aff" rid="Aff2">2</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Kaba</surname><given-names initials="A">Abdul</given-names></name><xref ref-type="aff" rid="Aff1">1</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>La Ferlita</surname><given-names initials="A">Alessandro</given-names></name><xref ref-type="aff" rid="Aff1">1</xref><xref ref-type="aff" rid="Aff2">2</xref><xref ref-type="aff" rid="Aff5">5</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0001-5078-2838</contrib-id><name name-style="western"><surname>Anastas</surname><given-names initials="V">Vollter</given-names></name><xref ref-type="aff" rid="Aff1">1</xref><xref ref-type="aff" rid="Aff2">2</xref><xref ref-type="aff" rid="Aff6">6</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0003-1214-4151</contrib-id><name name-style="western"><surname>Tsatsanis</surname><given-names initials="C">Christos</given-names></name><xref ref-type="aff" rid="Aff3">3</xref><xref ref-type="aff" rid="Aff7">7</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Beane</surname><given-names initials="JD">Joal D.</given-names></name><xref ref-type="aff" rid="Aff2">2</xref><xref ref-type="aff" rid="Aff8">8</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-1151-5427</contrib-id><name name-style="western"><surname>Sehgal</surname><given-names initials="L">Lalit</given-names></name><xref ref-type="aff" rid="Aff2">2</xref><xref ref-type="aff" rid="Aff9">9</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0001-6163-1779</contrib-id><name name-style="western"><surname>Coppola</surname><given-names initials="V">Vincenzo</given-names></name><xref ref-type="aff" rid="Aff1">1</xref><xref ref-type="aff" rid="Aff2">2</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Yount</surname><given-names initials="JS">Jacob S.</given-names></name><xref ref-type="aff" rid="Aff2">2</xref><xref ref-type="aff" rid="Aff4">4</xref></contrib><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-5300-0448</contrib-id><name name-style="western"><surname>Tsichlis</surname><given-names initials="PN">Philip N.</given-names></name><address><email>Philip.tsichlis@osumc.edu</email></address><xref ref-type="aff" rid="Aff1">1</xref><xref ref-type="aff" rid="Aff2">2</xref><xref ref-type="aff" rid="Aff6">6</xref></contrib><aff id="Aff1"><label>1</label><institution-wrap><institution-id institution-id-type="GRID">grid.261331.4</institution-id><institution-id institution-id-type="ISNI">0000 0001 2285 7943</institution-id><institution>Department of Cancer Biology and Genetics, </institution><institution>The Ohio State University College of Medicine Columbus, </institution></institution-wrap>Columbus, OH 43210 USA </aff><aff id="Aff2"><label>2</label><institution-wrap><institution-id institution-id-type="GRID">grid.261331.4</institution-id><institution-id institution-id-type="ISNI">0000 0001 2285 7943</institution-id><institution>The Ohio State University Comprehensive Cancer Center, </institution></institution-wrap>Columbus, OH 43210 USA </aff><aff id="Aff3"><label>3</label><institution-wrap><institution-id institution-id-type="GRID">grid.8127.c</institution-id><institution-id institution-id-type="ISNI">0000 0004 0576 3437</institution-id><institution>University of Crete, School of Medicine, </institution></institution-wrap>Heraklion Crete, 71500 Greece </aff><aff id="Aff4"><label>4</label><institution-wrap><institution-id institution-id-type="GRID">grid.261331.4</institution-id><institution-id institution-id-type="ISNI">0000 0001 2285 7943</institution-id><institution>Department of Microbial Infection and Immunity and Infectious Diseases
+Institute, </institution><institution>The Ohio State University, </institution></institution-wrap>Columbus, OH 43210 USA </aff><aff id="Aff5"><label>5</label><institution-wrap><institution-id institution-id-type="GRID">grid.8158.4</institution-id><institution-id institution-id-type="ISNI">0000 0004 1757 1969</institution-id><institution>Department of Clinical and Experimental Medicine, </institution><institution>Bioinformatics Unit, University of Catania, </institution></institution-wrap>Catania, 95131 Italy </aff><aff id="Aff6"><label>6</label>Tufts Graduate School of Biomedical Sciences, Program in Genetics, Boston, MA 02111 USA </aff><aff id="Aff7"><label>7</label><institution-wrap><institution-id institution-id-type="GRID">grid.511959.0</institution-id><institution-id institution-id-type="ISNI">0000 0004 0622 9623</institution-id><institution>Institute of Molecular Biology and Biotechnology, Heraklion, </institution></institution-wrap>Crete, 70013 Greece </aff><aff id="Aff8"><label>8</label>Department of Surgery, Division of Surgical Oncology, Columbus, OH 43210 USA </aff><aff id="Aff9"><label>9</label><institution-wrap><institution-id institution-id-type="GRID">grid.261331.4</institution-id><institution-id institution-id-type="ISNI">0000 0001 2285 7943</institution-id><institution>Department of Medicine, Division of Hematology, </institution><institution>The Ohio State University, </institution></institution-wrap>Columbus, OH 43210 USA </aff><aff id="Aff10"><label>10</label><institution-wrap><institution-id institution-id-type="GRID">grid.21107.35</institution-id><institution-id institution-id-type="ISNI">0000 0001 2171 9311</institution-id><institution>Present Address: Sidney Kimmel Comprehensive Cancer Center and Department of
+Oncology, </institution><institution>Johns Hopkins School of Medicine, </institution></institution-wrap>Baltimore, MD 21205 USA </aff></contrib-group><pub-date pub-type="epub"><day>11</day><month>10</month><year>2021</year></pub-date><pub-date pub-type="collection"><year>2021</year></pub-date><volume>4</volume><issue-id pub-id-type="pmc-issue-id">372027</issue-id><elocation-id>1179</elocation-id><history><date date-type="received"><day>25</day><month>1</month><year>2021</year></date><date date-type="accepted"><day>24</day><month>8</month><year>2021</year></date></history><pub-history><event event-type="pmc-release"><date><day>11</day><month>10</month><year>2021</year></date></event><event event-type="pmc-live"><date><day>29</day><month>10</month><year>2021</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2024-02-01 13:25:10.283"><day>01</day><month>02</month><year>2024</year></date></event></pub-history><permissions><copyright-statement>© The Author(s) 2021</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p><bold>Open Access</bold> This article is licensed
+under a Creative Commons Attribution 4.0 International License, which permits
+use, sharing, adaptation, distribution and reproduction in any medium or format,
+as long as you give appropriate credit to the original author(s) and the source,
+provide a link to the Creative Commons license, and indicate if changes were
+made. The images or other third party material in this article are included in
+the article’s Creative Commons license, unless indicated otherwise in a credit
+line to the material. If material is not included in the article’s Creative
+Commons license and your intended use is not permitted by statutory regulation
+or exceeds the permitted use, you will need to obtain permission directly from
+the copyright holder. To view a copy of this license, visit <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="42003_2021_Article_2668.pdf"/><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="retraction-forward" xml:lang="en" xlink:title="retraction" journal-id="Commun Biol" journal-id-type="nlm-ta" ext-link-type="pmc" xlink:href="PMC8674245"><article-title>Retraction Note: Phosphor-IWS1-dependent <italic toggle="yes">U2AF2</italic> splicing regulates trafficking of CAR-E-positive intronless gene mRNAs and sensitivity to viral infection</article-title><volume>4</volume><date><day>15</day><month>12</month><year>2021</year></date><elocation-id>1419</elocation-id><source>Communications Biology</source><pub-id pub-id-type="pmcid">PMC8674245</pub-id><pub-id pub-id-type="pmid">34912055</pub-id></related-article><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="commentary" xml:lang="en" xlink:title="article-commentary" journal-id="Fed Regist" journal-id-type="nlm-ta" ext-link-type="pmc" xlink:href="PMC10310531"><article-title>Findings of Research Misconduct</article-title><volume>88</volume><issue>124</issue><date><day>29</day><month>6</month><year>2023</year></date><fpage>42087</fpage><lpage>42088</lpage><source>Federal Register</source><pub-id pub-id-type="pmcid">PMC10310531</pub-id><pub-id pub-id-type="pmid">37404331</pub-id></related-article><abstract id="Abs1"><p id="Par1">AKT-phosphorylated IWS1 promotes Histone H3K36 trimethylation and
+alternative RNA splicing of target genes, including the U2AF65 splicing
+factor-encoding <italic toggle="yes">U2AF2</italic>. The predominant <italic toggle="yes">U2AF2</italic> transcript, upon IWS1 phosphorylation block,
+lacks the RS-domain-encoding exon 2, and encodes a protein which fails to bind
+Prp19. Here we show that although both U2AF65 isoforms bind intronless mRNAs
+containing cytoplasmic accumulation region elements (CAR-E), only the RS
+domain-containing U2AF65 recruits Prp19 and promotes their nuclear export. The
+loading of U2AF65 to CAR-Elements was RS domain-independent, but RNA
+PolII-dependent. Virus- or poly(I:C)-induced type I IFNs are encoded by genes
+targeted by the pathway. IWS1 phosphorylation-deficient cells therefore, express
+reduced levels of IFNα1/IFNβ1 proteins, and exhibit enhanced sensitivity to
+infection by multiple cytolytic viruses. Enhanced sensitivity of IWS1-deficient
+cells to Vesicular Stomatitis Virus and Reovirus resulted in enhanced apoptotic cell
+death via caspase activation. Inhibition of this pathway may therefore sensitize
+cancer cells to oncolytic viruses.</p></abstract><abstract id="Abs2" abstract-type="web-summary"><p id="Par2">Laliotis et al. examine the role of the AKT3-phoshorylated RNA
+processing factor IWS1  and the IWS1 phosphorylation-dependent  alternative splicing
+of U2AF2 in lung adenocarcinoma cells. The alternatively spliced variant of
+<italic toggle="yes">U2AF2</italic> regulates the nuclear export of
+CAR-Epositive intronless mRNAs, including those encoding Type I interferons.</p></abstract><kwd-group kwd-group-type="npg-subject"><title>Subject terms</title><kwd>Non-small-cell lung cancer</kwd><kwd>RNA transport</kwd></kwd-group><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>issue-copyright-statement</meta-name><meta-value>© The Author(s) 2021</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="Sec1" sec-type="introduction"><title>Introduction</title><p id="Par3">AKT regulates alternative RNA splicing<sup><xref ref-type="bibr" rid="CR1">1</xref>,<xref ref-type="bibr" rid="CR2">2</xref></sup>. Our earlier studies addressing this critical
+AKT function, identified a pathway that plays a major role in its regulation. The
+first step in this pathway is the phosphorylation of IWS1 at Ser720/Thr721 by AKT3
+and AKT1, but not by AKT2. Following phosphorylation, IWS1 recruits the Histone
+methyltransferase SETD2 to an SPT6/IWS1/ALY-REF complex, which assembles on the
+Ser2-phosphorylated C-terminal domain (CTD) of RNA Pol II. During transcription,
+SETD2 trimethylates Histone H3 on K36 in the body of transcribed target genes, and
+this is recognized by several H3K36me3 readers, which initiate the process of
+alternative RNA splicing<sup><xref ref-type="bibr" rid="CR1">1</xref>,<xref ref-type="bibr" rid="CR3">3</xref></sup>). One of the genes whose alternative RNA splicing is
+regulated by this pathway is <italic toggle="yes">U2AF2</italic>, which encodes
+the core RNA splicing factor, U2AF65. Phosphorylation of IWS1 by AKT3 and AKT1
+promotes the inclusion of this exon 2 in the mature <italic toggle="yes">U2AF2</italic> mRNA transcript. This exon encodes part of the RS domain of
+U2AF65, which is required for U2AF65 binding to Prp19, a member of a seven-member
+protein complex (PRP19C), with ubiquitin ligase activity, which is also involved in
+RNA splicing. Importantly, this pathway is cell cycle regulated and some of its
+target genes are regulators of the cell cycle. As a result, it promotes cell
+proliferation and tumor growth<sup><xref ref-type="bibr" rid="CR3">3</xref></sup>.</p><p id="Par4">Earlier studies had shown that U2AF65 and Prp19 also regulate the
+nuclear export of the mRNAs of a set of intronless genes<sup><xref ref-type="bibr" rid="CR4">4</xref></sup>. The common feature of these
+mRNAs is that they all possess one or more 10 nucleotide long motifs, which are
+involved in their nuclear export and are known as Cytoplasmic Accumulation Region
+Elements (CAR-E)<sup><xref ref-type="bibr" rid="CR5">5</xref></sup>. The functional activity of these elements
+depends on the binding of the Transcription-Export (TREX) complex, the U2
+Associated-Factor 2 (<italic toggle="yes">U2AF2</italic>)-encoded splicing
+factor U2AF65, and the pre-mRNA Processing Factor 19 complex
+(Prp19C)<sup><xref ref-type="bibr" rid="CR4">4</xref></sup>. Given that this process depends on U2AF65 and
+Prp19, whose interaction depends on the activity of the AKT/IWS1 axis, we
+hypothesized that the nuclear export of the mRNAs of these intronless genes will
+depend on IWS1 and its phosphorylation by AKT.</p><p id="Par5">Prominent among the CAR-E-positive intronless genes are the genes
+encoding type I Interferons (IFNs)<sup><xref ref-type="bibr" rid="CR5">5</xref></sup>. We therefore reasoned that the expression of
+type I IFNs may also be regulated by this AKT-dependent pathway. Type I IFNs are
+members of a large family of cytokines, known for their role in the regulation of
+innate and adaptive immunity and the antiviral response. They include <italic toggle="yes">IFNA</italic>, with 13 members and <italic toggle="yes">IFNB</italic>, with only one member<sup><xref ref-type="bibr" rid="CR6">6</xref></sup> and they engage the heterodimeric receptor
+IFNAR1/IFNAR2, which is widely expressed<sup><xref ref-type="bibr" rid="CR7">7</xref></sup>. The genes encoding type I IFNs are induced
+by signals initiated through the activation of Pattern Recognition Receptors (PRRs),
+the sensors of innate immunity<sup><xref ref-type="bibr" rid="CR8">8</xref></sup>. These receptors recognize molecules
+presented by pathogens (pathogen-associated molecular patterns, PAMPs), such as
+bacterial lipopolysaccharides, flagellin, bacterial lipoproteins, double-stranded
+RNA (dsRNA) and cytosolic DNA<sup><xref ref-type="bibr" rid="CR9">9</xref></sup>. PRR signals regulate multiple signaling
+pathways, including the IκB Kinase (IKK) pathway, which phosphorylates and activates
+the transcription factors IRF3 and NF-κB. These factors transactivate the <italic toggle="yes">IFNB1</italic> gene<sup><xref ref-type="bibr" rid="CR10">10</xref></sup> and induce the expression of IFNβ. The
+latter acts in an autocrine or paracrine manner to activate JAK1 and TYK2, which
+phosphorylate STAT1 and STAT2 and promote the formation of the trimeric complex
+STAT1-STAT2-IRF9, known as the Interferon Stimulated Gene Factor 3 (ISGF3). This
+complex binds palindromic DNA sequences, known as IFN-stimulated Response Elements
+(ISREs) in the promoters of interferon-stimulated genes (ISGs) and promotes their
+expression<sup><xref ref-type="bibr" rid="CR11">11</xref></sup>. One of these genes is the gene encoding the
+transcription factor IRF7, which along with the transcription factors IRF3 and IRF5,
+is required for the induction of <italic toggle="yes">IFNA</italic> and the
+full type I IFN response<sup><xref ref-type="bibr" rid="CR12">12</xref>–<xref ref-type="bibr" rid="CR14">14</xref></sup>.</p><p id="Par6">The regulation of type I IFN signaling has important implications in the
+regulation of innate and adaptive immunity, along with the control of viral
+infection and replication. The pathways regulating type I IFN signaling are
+receiving added attention in recent years, due to the emergence of cytotoxic
+oncolytic viruses (OVs) as a new class of anticancer
+therapeutics<sup><xref ref-type="bibr" rid="CR15">15</xref></sup>. The first clinically approved OV, Talimogene
+laherparepvec (TVEC), is a genetically modified type I herpes simplex virus (HSV)
+that expresses granulocyte-macrophage colony-stimulating factor
+(GM-CSF)<sup><xref ref-type="bibr" rid="CR16">16</xref></sup> and is now incorporated in the treatment
+protocols of a select group of patients with melanoma. However, most OVs exhibit
+only weak antitumor activity, especially when used as
+monotherapy<sup><xref ref-type="bibr" rid="CR17">17</xref></sup>. This could potentially change by targeting type
+I IFN signaling and altering the sensitivity of the tumor cells to infection by such
+viruses.</p><p id="Par7">Earlier studies had shown that the type I IFN response is regulated by
+multiple signaling pathways. Among them, the AKT pathway regulates the IFN response
+at multiple levels. By activating the mechanistic target of rapamycin (mTOR), AKT
+promotes the translation of Interferon-stimulated genes
+(ISGs)<sup><xref ref-type="bibr" rid="CR18">18</xref></sup>. Subsequent studies revealed that AKT1 activates
+β-catenin by phosphorylation at Ser552 and that the activated β-catenin promotes the
+transcriptional activation of <italic toggle="yes">IFNB</italic><sup><xref ref-type="bibr" rid="CR19">19</xref></sup>. In addition, we have also shown that AKT1
+selectively phosphorylates EMSY at Ser209, relieving the EMSY-mediated repression of
+IFN-stimulated genes (ISGs)<sup><xref ref-type="bibr" rid="CR20">20</xref></sup>.</p><p id="Par8">Data presented in this report fully support the hypothesis that the
+AKT/IWS1/U2AF2 axis regulates the nuclear export and expression of type I IFN genes,
+and by doing so, they identify yet another pathway by which AKT regulates IFN gene
+expression. They also show that this pathway plays a critical role in the regulation
+of type I IFN gene expression, because inhibiting this pathway essentially blocks
+the IFN response and dramatically increases the sensitivity of the cells to
+infection by cytolytic viruses and virus-induced cell death.</p></sec><sec id="Sec2" sec-type="results"><title>Results</title><sec id="Sec3"><title>IWS1 phosphorylation regulates the nucleocytoplasmic transport of mRNAs
+transcribed from a set of intronless genes, via a process that depends on the
+alternative splicing of <italic toggle="yes">U2AF2</italic></title><p id="Par9">Our earlier studies had shown that the knockdown of IWS1 and its
+replacement by the non-phosphorylatable mutant IWS1 S720A/T721A alter the RNA
+splicing pattern of <italic toggle="yes">U2AF2</italic> giving rise to a
+mature mRNA that lacks exon 2. The <italic toggle="yes">U2AF2</italic>
+splicing variant lacking exon 2 encodes a variant of the U2AF65 core splicing
+factor with a partial deletion of the RS domain<sup><xref ref-type="bibr" rid="CR3">3</xref></sup>. Importantly, whereas the
+RS domain-containing U2AF65 binds Prp19, a component of a seven-member complex
+with ubiquitin ligase activity, which is also involved in the regulation of RNA
+splicing, the RS domain-deficient U2AF65 does not<sup><xref ref-type="bibr" rid="CR21">21</xref>,<xref ref-type="bibr" rid="CR22">22</xref></sup>. More important, U2AF65 and Prp19, along
+with the TREX complex, bind RNA motifs, designated as cytoplasmic accumulation
+region elements (CAR-E), which are present in, and promote the nucleocytoplasmic
+transport of most mRNAs transcribed from naturally intronless
+genes<sup><xref ref-type="bibr" rid="CR4">4</xref></sup>.</p><p id="Par10">mRNAs whose nucleocytoplasmic transport is regulated by this
+mechanism include those transcribed from <italic toggle="yes">IFNA1</italic> (encoding IFNα1), <italic toggle="yes">IFNB1</italic>
+(encoding IFNβ1), <italic toggle="yes">HSPB3</italic> (encoding Hsp27) and
+<italic toggle="yes">JUN</italic><sup><xref ref-type="bibr" rid="CR4">4</xref></sup>. We therefore asked
+whether <italic toggle="yes">U2AF2</italic> alternative RNA splicing
+downstream of IWS1 phosphorylation, regulates the nuclear export of the mRNAs
+transcribed from these genes. To address this question, we first engineered
+shControl, shIWS1, shIWS1/wild type IWS1-rescue (shIWS1/WT-R),
+shIWS1/IWS1-S720A/T721A-rescue (shIWS1/MT-R) and shIWS1/U2AF65α-rescue or
+shIWS1/U2AF65β-rescue NCI-H522 and NCI-H1299 lung adenocarcinoma cells. Notably,
+the IWS1 rescue clones were engineered to be shIWS1
+resistant<sup><xref ref-type="bibr" rid="CR1">1</xref>,<xref ref-type="bibr" rid="CR3">3</xref></sup>. U2AF65α and U2AF65β are encoded by the exon
+2 containing, and the exon 2-deficient <italic toggle="yes">U2AF2</italic>
+splice forms, respectively. To validate these cell lines, we analyzed them for
+the expression of IWS1, phospho-IWS1 and U2AF65 by western blotting, and for the
+alternative RNA splicing of <italic toggle="yes">U2AF2</italic> by RT-PCR
+(Fig. <xref rid="Fig1" ref-type="fig">1a</xref>).<fig id="Fig1" position="float" orientation="portrait"><label>Fig. 1</label><caption><title>IWS1 phosphorylation regulates the nucleocytoplasmic
+transport of mRNAs transcribed from a set of intronless genes,
+via a process depending on the alternative RNA splicing
+<italic toggle="yes">of U2AF2</italic>.</title><p><bold>a</bold> Western blots of
+lysates of NCI-H522 and NCI-H1299 cells, transduced with the
+indicated constructs and probed with anti-IWS1,
+anti-phosphor-IWS1, anti-U2AF65 and anti-β-actin antibodies.
+RT-PCR of <italic toggle="yes">U2AF2</italic>, using
+oligonucleotide primers that map in exons 1 and 3 (fifth row).
+<bold>b</bold>
+<italic toggle="yes">IWS1 phosphorylation regulates the
+nuclear export of intronless mRNAs</italic>. Cells were
+fractionated into cytoplasmic and nuclear fractions. The
+abundance of the RNAs of <italic toggle="yes">IFNA1, IFNB1,
+JUN, HSPB3 and GAPDH</italic> in each fraction was
+determined using qRT-PCR and it was normalized relative to the
+18S rRNA. Type I IFNs were induced by SeV-GFP infection (MOI
+0.5) and cells were harvested at 24 h from the start of the
+exposure to the virus. Bars show the mean normalized
+Cytoplasmic/Nuclear RNA ratio ±SD. To validate the
+fractionation, we measured the Cytoplasmic/Nuclear ratio of the
+<italic toggle="yes">GAPDH</italic> RNA (see
+supplementary Table <xref rid="MOESM1" ref-type="media">4</xref>). <bold>c</bold> Motif
+analysis of intronless genes identified sets of CAR-E-positive
+and CAR-E-negative genes. Using q-RT-PCR, we measured the
+abundance of the RNAs of 25 CAR-E-positive and 24 CAR-E-negative
+genes in the cytoplasmic and nuclear RNA fractions described in
+b. The heatmaps were generated from the z-score of
+Cytosolic/Nuclear RNA ratios. <bold>d</bold>
+Total RNA was harvested from the NCI-H522 and NCI-H1299 cells in
+a, and b. The expression of the indicated mRNAs was measured by
+qRT-PCR, and was normalized to 18S rRNA. Heatmaps were generated
+from the z scores of the abundance of the indicated RNAs. Type I
+IFNs were induced by infection with SeV-GFP. <bold>e</bold> (Left panel) Western blots of
+lysates of the NCI-H522 and NCI-H1299 cells in (<bold>a</bold>, <bold>b</bold>) were probed with the indicated antibodies. Type I
+IFNs were induced by infection with SeV-GFP or by treatment with
+Poly (I:C) {5 μg/mL for 6 h (NCI-H522) or 12 h (NCI-H1299)}.
+(Right panel) Quantification of the relative abundance of the
+indicated proteins in the experiment on the left. Bars show
+relative expression normalized to loading control±SD. All
+experiments in this figure were done in triplicate, on three
+biological replicates. n.s: non-significant *<italic toggle="yes">p</italic> &lt; 0.05, **<italic toggle="yes">p</italic> &lt; 0.01, ***<italic toggle="yes">p</italic> &lt; 0.001, ****<italic toggle="yes">p</italic> &lt; 0.0001 (one-side
+unpaired t-test).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="d32e753" position="float" orientation="portrait" xlink:href="42003_2021_2668_Fig1_HTML.jpg"/></fig></p><p id="Par11">Following validation, type I IFNs were induced in these cells via
+infection with a GFP-expressing Sendai virus, (SeV-GFP)<sup><xref ref-type="bibr" rid="CR23">23</xref>,<xref ref-type="bibr" rid="CR24">24</xref></sup>. Twenty-four hours later, and before the
+emergence of virus-induced cytotoxicity, we fractionated the cells into nuclear
+and cytoplasmic fractions and we examined the mRNA levels of <italic toggle="yes">IFNA1</italic>, <italic toggle="yes">IFNB1</italic>, in
+the fractions by quantitative RT-PCR. The expression of <italic toggle="yes">HSPB3</italic> and <italic toggle="yes">JUN</italic> was measured,
+also with qRT-PCR, in the nuclear and cytoplasmic fractions of similarly
+fractionated uninfected cells. The total mRNA levels of these genes were also
+measured in unfractionated lysates of the same cells. The results showed that
+whereas the mRNAs of all four genes are primarily cytoplasmic in the shControl
+and WT-R cells, they are primarily nuclear in the shIWS1 and MT-R cells. More
+important, whereas U2AF65α rescued the nuclear retention of these mRNAs in
+shIWS1 cells, U2AF65β did not (Fig. <xref rid="Fig1" ref-type="fig">1b</xref>,
+left panel).</p><p id="Par12">The preceding data suggested that IWS1 phosphorylation promotes the
+nuclear export of RNAs transcribed from CAR-Element-positive intronless genes
+and raised the question whether the RNAs of CAR-Element-negative intronless
+genes are also targets of this pathway. To address this question, we first used
+FIMO motif analysis<sup><xref ref-type="bibr" rid="CR25">25</xref></sup> to show that among 1724 intronless genes,
+928 (53.38%) are CAR-E-positive and 796 (46.1%) are CAR-E-negative (<italic toggle="yes">p</italic> &lt; 0.05, <italic toggle="yes">q</italic> &lt; 0.1) (Supplementary Fig. <xref rid="MOESM1" ref-type="media">1a</xref>, Supplementary Data <xref rid="MOESM3" ref-type="media">1</xref>). Following this, we examined the nucleocytoplasmic RNA
+ratio of 25 CAR-Element-positive and 24 CAR-Element-negative genes in shControl,
+shIWS1, shIWS1/WT-R and shIWS1/MT-R, as well as in shIWS1/U2AF65α and
+shIWS1/U2AF65β NCI-H522 and NCI-H1299 cells. The results showed that the export
+of the RNAs of all these genes was impaired in shIWS1 cells and that the RNA
+export defect was rescued by wild type IWS1. However, the phosphorylation site
+mutant of IWS1 rescued the export of only the RNAs of the CAR-Element-negative
+genes. The shIWS1-induced RNA export defect of only the CAR-Element positive
+RNAs was also rescued by U2AF65α, but not U2AF65β. These data combined, show
+that the nuclear RNA export of intronless genes described in the report, is
+specific for the RNAs of genes that are CAR-Element-positive (Fig. <xref rid="Fig1" ref-type="fig">1c</xref>).</p><p id="Par13">Although the cytoplasmic mRNA levels of <italic toggle="yes">IFNA1</italic>, <italic toggle="yes">IFNB1</italic>, <italic toggle="yes">HSPB3</italic> and <italic toggle="yes">JUN</italic>
+were decreased in shIWS1 cells, their total RNA levels were increased. Moreover,
+their increased expression was rescued by wild type IWS1, but not by the
+phosphorylation site IWS1 mutant (Fig. <xref rid="Fig1" ref-type="fig">1d</xref>). We conclude that IWS1 normally inhibits the expression
+of these genes at the RNA level via a pathway that depends on its
+phosphorylation by AKT. Importantly, these results were in agreement with
+RNA-Seq data derived from 516 lung adenocarcinoma patients in The Cancer Genome
+Atlas (TCGA) LUAD database, which revealed negative correlations between the
+expression of <italic toggle="yes">IWS1</italic> and <italic toggle="yes">JUN</italic>, <italic toggle="yes">HSPB3</italic> and
+<italic toggle="yes">IFNA1</italic> (Supplementary Fig. <xref rid="MOESM1" ref-type="media">1b</xref>). Although the rescue of the shIWS1-induced
+phenotype by wild type IWS1 and the IWS1 phosphorylation site mutant gave the
+expected results, the outcomes of its rescue by U2AF65α and U2AF65β were
+unexpected. U2AF65α rescued the upregulation of type I IFNs, as expected, while
+U2AF65β did not. However, both failed to rescue the upregulation of <italic toggle="yes">JUN</italic> and <italic toggle="yes">HSPB3</italic>.
+We interpret these data to suggest that the upregulation of the mRNAs of IFN
+genes in shIWS1 cells may be due to different mechanisms than the upregulation
+of the mRNAs of other intronless genes. We hypothesize that the upregulation of
+type I IFNs may be due to genomic instability, caused by the downregulation of
+Sororin, downstream of the exclusion of exon 2 from the <italic toggle="yes">U2AF2</italic> mRNA<sup><xref ref-type="bibr" rid="CR3">3</xref></sup>. Genomic instability is known to activate
+the cGAS/STING pathway. Rescue of the shIWS1 phenotype with U2AF65α prevents the
+downregulation of Sororin<sup><xref ref-type="bibr" rid="CR3">3</xref></sup> and as a result, it is expected to
+prevent genomic instability and the induction of the type I IFN genes. However,
+it is unlikely to regulate the expression of other intronless genes.</p><p id="Par14">mRNAs sequestered in the nucleus cannot be translated. The
+preceding data therefore suggest that in the absence of IWS1 phosphorylation,
+the abundance of the proteins encoded by all four intronless genes in
+Fig. <xref rid="Fig1" ref-type="fig">1b</xref> would be decreased. This was
+addressed by probing western blots of total cell lysates with antibodies to the
+proteins encoded by these genes. The expression of IFNβ1 was examined in cells
+infected with SeV-GFP, or treated with poly (I:C), both of which induce the
+expression of type I IFNs, and the expression of c-JUN and HSP27 was examined in
+uninfected cells growing under normal culture conditions. The results confirmed
+that shIWS1 downregulates the proteins encoded by these genes and that the
+downregulation is rescued as by wild type IWS1, but not by the phosphorylation
+site IWS1 mutant, as expected (Fig. <xref rid="Fig1" ref-type="fig">1e</xref>).
+Importantly, the downregulation was also rescued by U2AF65α, but not U2AF65β
+(Fig. <xref rid="Fig1" ref-type="fig">1e</xref>), suggesting that it is due
+to the effects of the loss of IWS1 phosphorylation on the alternative RNA
+splicing of <italic toggle="yes">U2AF2</italic>. Consistent with these
+findings were the results of Reverse Phase Protein Assay (RPPA) experiments in
+human lung adenocarcinomas, which showed that although the expression of
+intronless genes at the RNA level exhibits a negative correlation with the
+expression of IWS1 (Fig. <xref rid="Fig1" ref-type="fig">1d</xref> and
+Supplementary Fig. <xref rid="MOESM1" ref-type="media">1b</xref>) their
+expression at the protein level, and IWS1, exhibit a significant positive
+correlation (Supplementary Fig. <xref rid="MOESM1" ref-type="media">1c</xref>).</p></sec><sec id="Sec4"><title>The phosphorylation of IWS1 by AKT3 is required for the nuclear export of
+intronless gene mRNAs via <italic toggle="yes">U2AF2</italic> RNA
+splicing</title><p id="Par15">The preceding data show that the AKT-dependent phosphorylation of
+IWS1 is required for the nuclear export and translation of the mRNAs of
+naturally intronless genes via a U2AF2/Prp19-dependent pathway. This raised the
+question whether AKT, which phosphorylates IWS1 at
+Ser720/Thr721<sup><xref ref-type="bibr" rid="CR1">1</xref></sup>, is required for the activation of the
+pathway. To address this question, we first infected NCI-H522 and NCI-H1299
+cells with SeV-GFP to induce the expression of type I IFNs. Infected cells (24 h
+after the infection) and uninfected cells were then treated with 5 μM of the AKT
+inhibitor MK2206, a dose that fully inhibits all AKT
+isoforms<sup><xref ref-type="bibr" rid="CR1">1</xref>,<xref ref-type="bibr" rid="CR3">3</xref></sup>. Western blotting of cell lysates harvested
+24 h after the start of exposure to MK2206, confirmed the strong inhibition of
+AKT and the complete block of IWS1 phosphorylation (Fig. <xref rid="Fig2" ref-type="fig">2a</xref>). Moreover, RT-PCR using RNA isolated from the
+same cell lysates, confirmed that AKT inhibition results in the exclusion of
+exon 2 from the mature <italic toggle="yes">U2AF2</italic> mRNA
+(Fig. <xref rid="Fig2" ref-type="fig">2a</xref>). Lysates of the same
+cells, before and after treatment with MK2206, were fractionated into nuclear
+and cytoplasmic fractions. Quantitative RT-PCR, addressing the abundance of the
+RNAs of <italic toggle="yes">IFNA1</italic>, <italic toggle="yes">IFNB1</italic>, <italic toggle="yes">JUN</italic> and <italic toggle="yes">HSPB3</italic> in these fractions, confirmed that the AKT
+activity is required for the nuclear export of the mRNAs of all four intronless
+genes (Fig. <xref rid="Fig2" ref-type="fig">2b</xref>). We conclude that the
+phosphorylation of IWS1 at Ser720/Thr721 is indeed required for the nuclear
+export of these mRNAs and that AKT is the main kinase responsible for the
+phosphorylation. Probing western blots of total cell lysates of the same cells
+with antibodies to c-JUN, phosphor-c-JUN (Ser73), HSP27 and IFNβ, revealed that
+their abundance is dramatically downregulated following AKT inhibition, as
+expected (Fig. <xref rid="Fig2" ref-type="fig">2c</xref>).<fig id="Fig2" position="float" orientation="portrait"><label>Fig. 2</label><caption><title>The phosphorylation of IWS1 by AKT3 is required for the
+<italic toggle="yes">U2AF2</italic> RNA
+splicing-dependent nuclear export of intronless gene
+mRNAs.</title><p><bold>a</bold>
+<italic toggle="yes">Inhibiting AKT interferes with the
+inclusion of exon 2 in mature U2AF2 mRNA
+transcripts.</italic> NCI-H522 and NCI-H1299 cells were
+treated with MK2206 (5 μM) or DMSO. Lysates of these cells
+harvested 4 h later, were probed with the indicated antibodies.
+Total RNA isolated from the same cells was also analyzed by
+RT-PCR, using oligonucleotide primers mapping in <italic toggle="yes">U2AF2</italic> exons 1 and 3. <bold>b</bold>
+<italic toggle="yes">The AKT kinase regulates the
+nucleocytoplasmic export of intronless mRNAs, through IWS1
+phosphorylation</italic>. Cells in a were infected with
+SeV-GFP (MOI 0.25), to induce type I IFN gene expression.
+Infected and uninfected cell lysates harvested 24 h later, were
+fractionated into cytoplasmic and nuclear fractions, and mRNA
+levels of the indicated genes in each fraction were measured,
+using qRT-PCR. RNA levels for each transcript, were normalized
+to 18S rRNA. Bars show the mean normalized Cytosolic/Nuclear RNA
+ratio±SD. <bold>c</bold> NCI-H522 and
+NCI-H1299 lysates of the cells in (<bold>a</bold>), were probed with the indicated antibodies.
+Type I IFNs were induced again by SeV-GFP infection, as in 2b.
+<bold>d</bold> The NCI-H522 and
+NCI-H1299 cells were transduced with lentiviral shAKT3 or
+shControl constructs. Lysates of these cells were probed with
+the indicated antibodies. Total RNA was also analyzed by RT-PCR,
+using primers mapping in <italic toggle="yes">U2AF2</italic> exons 1 and 3. <bold>e</bold> Cells in d were infected with SeV-GFP (MOI
+0.5), to induce type I IFN expression. Infected and uninfected
+cell lysates harvested 24 h later, were fractionated into
+cytoplasmic and nuclear fractions, and the abundance of the
+indicated mRNAs in each fraction was determined, using qRT-PCR.
+RNA levels, were normalized to 18S rRNA. Bars show the mean
+normalized Cytosolic/Nuclear RNA ratio ±SD. <bold>f</bold> NCI-H522 and NCI-H1299 lysates of
+cells in (<bold>d</bold>), were probed with
+the indicated antibodies. Type I IFNs were induced again by
+SeV-GFP infection. To validate the cellular fractionation in the
+experiments in b and e we measured the Cytoplasmic/Nuclear ratio
+of the <italic toggle="yes">GAPDH</italic> RNA, as in
+Fig. <xref rid="Fig1" ref-type="fig">1b</xref> (see
+supplementary Table <xref rid="MOESM1" ref-type="media">4</xref>). Experiments in (<bold>b</bold>) and (<bold>e</bold>) were
+done on three biological replicates, in triplicate. n.s:
+non-significant *<italic toggle="yes">p</italic> &lt; 0.05, **<italic toggle="yes">p</italic> &lt; 0.01, ***<italic toggle="yes">p</italic> &lt; 0.001, ****<italic toggle="yes">p</italic> &lt; 0.0001 (one-side unpaired
+t-test).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="d32e1002" position="float" orientation="portrait" xlink:href="42003_2021_2668_Fig2_HTML.jpg"/></fig></p><p id="Par16">To determine whether it is the AKT3 isoform, which is responsible
+for the observed effects of AKT on RNA transport and translation, we transduced
+NCI-H522 and NCI-H1299 cells with shAKT3 or shControl lentiviral constructs.
+Following confirmation of the AKT3 knockdown (Fig. <xref rid="Fig2" ref-type="fig">2d</xref>), the cells were infected with SeV-GFP. Measuring the
+abundance of the <italic toggle="yes">IFNA1</italic> and <italic toggle="yes">IFNB1</italic> mRNAs in the two fractions of the infected
+cells and the <italic toggle="yes">JUN</italic> and <italic toggle="yes">HSPB3</italic> mRNAs in the two fractions of the non-infected cells,
+confirmed that the knockdown of AKT3 profoundly inhibits the nuclear export of
+these mRNAs (Fig. <xref rid="Fig2" ref-type="fig">2e</xref>). Western blotting
+of total lysates of the same cells confirmed that the knockdown of AKT3 is
+sufficient to significantly lower the abundance of the proteins encoded by these
+mRNAs (Fig. <xref rid="Fig2" ref-type="fig">2f</xref>), as expected. We
+conclude that AKT3 is the main kinase responsible for the phosphorylation of
+IWS1 at Ser720/Thr721.</p></sec><sec id="Sec5"><title>IWS1 phosphorylation drives the recruitment of Prp19 to mRNA CAR-Elements,
+by promoting the inclusion of exon 2 in the mature <italic toggle="yes">U2AF2</italic> mRNA transcripts</title><p id="Par17">Previous studies had shown that the nuclear export of the mRNA of
+intronless genes depends on the recruitment of U2AF65 and Prp19 to
+CAR-Elements<sup><xref ref-type="bibr" rid="CR4">4</xref></sup>. In addition, they had shown that U2AF65
+interacts directly with Prp19 via its exon 2-encoded RS
+domain<sup><xref ref-type="bibr" rid="CR3">3</xref>,<xref ref-type="bibr" rid="CR26">26</xref></sup>, suggesting that the recruitment of Prp19 to
+these complexes may depend on the alternative splicing of <italic toggle="yes">U2AF2</italic>. Based on these considerations, we reasoned
+that the IWS1 phosphorylation-dependent inclusion of exon 2 in the <italic toggle="yes">U2AF2</italic> mRNA, might promote the nuclear export of
+these mRNAs by regulating the recruitment of Prp19 to CAR-Elements. This
+hypothesis was addressed by RNA Immunoprecipitation (RIP) with anti-U2AF65 and
+anti-Prp19 antibodies in shControl, shIWS1, shIWS1/WT-R, shIWS1/MT-R,
+shIWS1/U2AF65α and shIWS1/U2AF65β NCI-H522 and NCI-H1299 cells.
+Immunoprecipitated RNA was detected by qRT-PCR, using sets of primers designed
+to amplify the CAR-Elements or control regions of the <italic toggle="yes">IFNA1, IFNB1, JUN and HSPB3</italic> mRNAs (Supplementary
+Fig. <xref rid="MOESM1" ref-type="media">2a</xref>). The results showed that
+whereas neither of the U2AF65 splice variants binds the control sequences, both
+bind the CAR-Elements with equal efficiency (Figs. <xref rid="Fig3" ref-type="fig">3</xref>a, <xref rid="Fig3" ref-type="fig">b</xref> upper panels).
+However, Prp19 binding to the same CAR-Elements, was significantly impaired in
+shIWS1 and shIWS1/MT-R cells, which predominantly express the RS
+domain-deficient U2AF65β isoform (Fig. <xref rid="Fig3" ref-type="fig">3a</xref> lower panels). More important, the impaired Prp19 binding
+to the CAR-Elements was rescued by U2AF65α, but not U2AF65β (Figs. <xref rid="Fig3" ref-type="fig">3</xref>a, <xref rid="Fig3" ref-type="fig">b</xref>
+lower panels). We conclude that the recruitment of Prp19 to the
+CAR-Element-associated complexes and the nuclear export of the mRNA of
+CAR-Element-containing intronless genes, is regulated by IWS1 phosphorylation
+via the alternative RNA splicing of <italic toggle="yes">U2AF2</italic>.<fig id="Fig3" position="float" orientation="portrait"><label>Fig. 3</label><caption><title>IWS1 phosphorylation controls the recruitment of Prp19 to
+mRNA CAR-Elements, by promoting the inclusion of exon 2 in the
+<italic toggle="yes">U2AF2</italic> mRNA, in both
+cultured cells and primary human LUADs.</title><p><bold>a</bold>, <bold>b</bold><italic toggle="yes">. IWS1
+phosphorylation controls the recruitment of Prp19 to
+CAR-Elements, by regulating U2AF2 alternative RNA
+splicing</italic>. NCI-H522 and NCI-H1299 cells transduced
+with the indicated constructs, were infected with SeV-GFP (MOI
+0.5). 24 h later, infected cells and parallel cultures of
+uninfected cells, were used for RIP assays addressing the
+binding of U2AF65 (upper panels) and Prp19 (lower panels) to
+CAR-Elements or to sequences without CAR-Elements in the
+indicated RNAs. The bars show the mean fold enrichment in U2AF65
+and Prp19 binding (anti-U2AF65 or anti-Prp19-IP, vs IgG
+control-IP) ± SD. Data were normalized relative to the input
+(2%). The map location of the PCR primers used to amplify the
+binding regions is shown in Supplementary Fig. 2a. <bold>c</bold> The <italic toggle="yes">IWS1
+phosphorylation-dependent nuclear export of the mRNAs of
+intronless genes is active in human Lung Adenocarcinomas.
+(</italic>Upper panel) Western blots of lysates of 6 human
+LUAD samples (3 with high and 3 with low IWS1 expression),
+randomly selected out of LUAD samples previously
+analyzed<sup><xref ref-type="bibr" rid="CR3">3</xref></sup>, were probed with the
+indicated antibodies (top three rows). RT-PCR, using primers
+mapping in <italic toggle="yes">U2AF2</italic> exons 1 and
+3 (bottom row) (Lower Panel) LUAD tumor samples were
+fractionated into cytoplasmic and nuclear fractions. mRNA levels
+of the indicated genes were determined in each fraction, using
+qRT-PCR. Fractionation was validated as in Figs. <xref rid="Fig1" ref-type="fig">1b</xref>, c and <xref rid="Fig2" ref-type="fig">2</xref>b, e (Supplementary
+Table <xref rid="MOESM1" ref-type="media">4</xref>). Swarm
+plots  show the individual Cytoplasmic/Nuclear RNA ratios,
+normalized to the 18S ribosomal RNA. They also show the mean C/N
+value ± SD. <bold>d</bold>
+<italic toggle="yes">IWS1 phosphorylation controls the
+recruitment of Prp19 to CAR-Elements in the mRNAs of
+CAR-Element-positive intronless genes, in human Lung
+Adenocarcinomas</italic>. RIP assays in the high and
+low-IWS1 LUADs, shown in c. The bars show the mean fold
+enrichment in U2AF65 (upper panel) and Prp19 (lower panel)
+binding to the same CAR-Element-positive and
+CAR-Element-negative regions as in (<bold>a</bold>) and (<bold>b</bold>)
+(anti-U2AF65 or anti-Prp19-IP, vs IgG control-IP) ± SD. Data
+were normalized relative to the input (2%). All experiment in
+this figure were done in triplicate, on three biological
+replicates. n.s: non-significant *<italic toggle="yes">p</italic> &lt; 0.05, **<italic toggle="yes">p</italic> &lt; 0.01, ***<italic toggle="yes">p</italic> &lt; 0.001, ****<italic toggle="yes">p</italic> &lt; 0.0001 (one-side unpaired
+t-test).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="d32e1146" position="float" orientation="portrait" xlink:href="42003_2021_2668_Fig3_HTML.jpg"/></fig></p><p id="Par18">The preceding data raised the question whether the expression and
+phosphorylation of IWS1 regulates the nuclear export of the mRNAs of
+CAR-Element-containing intronless genes in human cancer. To address this
+question, we used qRT-PCR to measure the abundance of the <italic toggle="yes">IFNA1</italic>, <italic toggle="yes">IFNB1</italic>,
+<italic toggle="yes">JUN</italic> and <italic toggle="yes">HSPB3</italic> mRNAs in nuclear and cytoplasmic fractions of tumor cell
+lysates of three lung adenocarcinomas expressing high and three expressing low
+levels of IWS1/p-IWS1 (Fig. <xref rid="Fig3" ref-type="fig">3c</xref> Upper
+panel). The results confirmed that the Cytoplasmic/Nuclear ratio of the RNAs
+transcribed from the <italic toggle="yes">IFNA1</italic>, <italic toggle="yes">IFNB1</italic>, <italic toggle="yes">JUN</italic> and
+<italic toggle="yes">HSPB3</italic> genes in Human Lung
+Adenocarcinomas, correlates with the expression and phosphorylation of IWS1 and
+with the inclusion of exon 2 in the mature <italic toggle="yes">U2AF2</italic> mRNA (Fig. <xref rid="Fig3" ref-type="fig">3c</xref>
+Lower panel). Next, we carried out RIP assays for U2AF65 and Prp19, using total
+cell lysates of the same lung adenocarcinomas. The results confirmed that
+whereas U2AF65 binds equally well the CAR-Elements in the mRNAs of all four
+genes in both the high and the low p-IWS1 tumors, Prp19 binds efficiently the
+CAR-Elements of these mRNAs only in the high p-IWS1 tumors. Given that the
+predominant U2AF65 isoform in high p-IWS1 tumors is the U2AF65α isoform, which
+binds Prp19, while the predominant isoform in the low p-IWS1 tumors is U2AF65β,
+which does not interact with Prp19, these data indicate that in lung
+adenocarcinoma patients, as in cultured tumor cells, the recruitment of Prp19 to
+the CAR-Elements is mediated by U2AF65. We conclude that the IWS1
+phosphorylation-dependent pathway regulating the nuclear export of RNAs
+transcribed from CAR-Element-containing intronless genes is active in human lung
+adenocarcinomas.</p></sec><sec id="Sec6"><title>The RNA Pol II promoter of type I IFN genes, plays an essential role in the
+IWS1 phosphorylation-dependent mRNA nuclear export</title><p id="Par19">Earlier studies had shown that U2AF65 binds RNA Pol II and recruits
+Prp19. During transcriptional elongation, both U2AF65 and Prp19 are loaded to
+the newly synthesized pre-mRNA, promoting RNA splicing
+co-transcriptionally<sup><xref ref-type="bibr" rid="CR26">26</xref></sup>. This suggested that U2AF65 and Prp19
+might be loaded to the CAR-Elements of the RNAs transcribed from naturally
+intronless genes, via a similar mechanism. To address this hypothesis, we
+expressed <italic toggle="yes">IFNA1</italic> and <italic toggle="yes">IFNB1</italic> from RNA Pol II, or RNA Pol III constructs and we asked
+whether the mRNAs transcribed from the two different promoters are transported
+to the cytoplasm with equal efficiency. We reasoned that if U2AF65 and Prp19 are
+loaded to the CAR-Elements by RNA Pol II during transcriptional elongation, they
+will probably fail to load to the RNA Pol III transcripts, because U2AF65 and
+Prp19 do not bind RNA Pol III. As a result, RNA Pol III transcripts will stay in
+the nucleus, and they will not be translated into protein. To carry out this
+experiment, we cloned the <italic toggle="yes">IFNA1</italic> and <italic toggle="yes">IFNB1</italic> cDNAs in the lentiviral vectors pLx304 and
+pLKO.1, which drive expression through CMV (RNA Pol II-dependent) or U6 (RNA Pol
+III-dependent) promoters, respectively<sup><xref ref-type="bibr" rid="CR27">27</xref></sup> (Supplementary
+Fig. <xref rid="MOESM1" ref-type="media">3a</xref>). We then transduced
+NCI-H522 and NCI-H1299 cells with shIFNA1 or shIFNB1 <italic toggle="yes">lentiviral</italic> constructs, and we rescued the <italic toggle="yes">IFNA1</italic> and <italic toggle="yes">IFNB1</italic>
+knockdown with the RNA Pol II-driven (pLx304-R) or RNA Pol III-driven (pLKO.1-R)
+lentiviral constructs of these genes. Following this, the cells were infected
+with SeV-GFP and the expression of <italic toggle="yes">IFNA1</italic> or
+<italic toggle="yes">IFNB1</italic> was measured by qRT-PCR, 24 h
+later. The results showed that <italic toggle="yes">IFNA1</italic> or
+<italic toggle="yes">IFNB1</italic> were transcribed efficiently from
+both the RNA Pol II and the RNA Pol III promoters (Fig. <xref rid="Fig4" ref-type="fig">4a</xref> Upper panel). However, measuring the abundance
+of the <italic toggle="yes">IFNA1</italic> or <italic toggle="yes">IFNB1</italic> mRNAs in the nuclear and cytoplasmic fractions of the same
+cells by qRT-PCR, revealed that only the mRNAs transcribed from the RNA Pol II
+promoter were efficiently transported to the cytoplasm (Fig. <xref rid="Fig4" ref-type="fig">4a</xref> Lower panel). Western blots of total cell
+lysates from the <italic toggle="yes">IFNB1-</italic>transduced NCI-H522
+and NCI-H1299 cells, confirmed that only the cells rescued with the RNA Pol II
+construct (pLx304 IFNβ) express IFNβ (Fig. <xref rid="Fig4" ref-type="fig">4b</xref>). We interpret these data to suggest that U2AF65 and
+Prp19, which bind RNA Pol II but not RNA Pol III, are likely loaded to the
+CAR-Elements co-transcriptionally via RNA Pol II, and that the
+co-transcriptional RNA loading of these molecules’ controls mRNA nuclear export
+and translation.<fig id="Fig4" position="float" orientation="portrait"><label>Fig. 4</label><caption><title>Type I IFN mRNAs transcribed from an RNA Pol III promoter,
+fail to exit the nucleus.</title><p><bold>a</bold>
+<italic toggle="yes">Type I IFN mRNAs are transcribed equally
+well from an RNA Pol II and an RNA Pol III promoter, but
+only the mRNAs transcribed from the RNA Pol II promoter are
+exported efficiently to the cytoplasm</italic>. (Upper
+panel) Total RNA was harvested from shControl, sh<italic toggle="yes">IFNA1 (</italic>or sh<italic toggle="yes">IFNB1)</italic>, sh<italic toggle="yes">IFNA1</italic>/<italic toggle="yes">pLx304-IFNα1</italic> (or sh<italic toggle="yes">IFNB1/pLx304-IFNβ1</italic>) and sh<italic toggle="yes">IFNA1</italic>/<italic toggle="yes">pLKO.1-IFNα1</italic> (or sh<italic toggle="yes">IFNB1/pLKO.1-IFNβ1</italic>) NCI-H522 and NCI-H1299
+cells. <italic toggle="yes">pLx304-IFNA1</italic> and
+<italic toggle="yes">pLx304-IFNB1</italic> drive IFNα1
+and IFNβ1 expression respectively, from the CMV (RNA Pol II)
+promoter, while <italic toggle="yes">pLKO.1-IFNA1</italic>
+and <italic toggle="yes">pLKO.1-IFNB1</italic> drive IFNα1
+and IFNβ1 expression respectively, from the U6 (RNA Pol III)
+promoter. The maps of the pLX304 and pLKO.1 constructs are shown
+in Supplementary Fig. <xref rid="MOESM1" ref-type="media">3</xref>. The abundance of the mRNAs of <italic toggle="yes">IFNA1 and IFNB1</italic>, was determined by
+qRT-PCR and was normalized to the abundance of 18S rRNA.
+Heatmaps were generated, based on the z scores of the abundance
+of the mRNAs of <italic toggle="yes">IFNA1</italic> and
+I<italic toggle="yes">FNB1</italic>. Type I IFNs were
+induced by infection with SeV. (Lower panel) The cells in the
+upper panel were fractionated into cytoplasmic and nuclear
+fractions and the abundance of <italic toggle="yes">IFNA1,
+IFNB1</italic> and <italic toggle="yes">GAPDH
+mRNAs</italic> in each fraction was determined with
+qRT-PCR Bars show the mean Cytoplasmic/Nuclear ratio of the
+<italic toggle="yes">IFNA1</italic> and <italic toggle="yes">IFNB1</italic> mRNAs, normalized to 18S
+rRNA. ±SD. All assays were done on three biological replicates,
+in triplicate for each replicate. ***<italic toggle="yes">p</italic> &lt; 0.001, ****<italic toggle="yes">p</italic> &lt; 0.0001. (one-sided unpaired t-test).
+Cell fractionation was validated as in Figs. <xref rid="Fig1" ref-type="fig">1b</xref>, c, <xref rid="Fig2" ref-type="fig">2b</xref>, e,  <xref rid="Fig3" ref-type="fig">3c</xref> (Supplementary Table <xref rid="MOESM1" ref-type="media">4</xref>). <bold>b</bold> Western blots of lysates of the shControl,
+sh<italic toggle="yes">IFNB1</italic>, sh<italic toggle="yes">IFNB1/pLx304-IFNB1</italic> and sh<italic toggle="yes">IFNB1/pLKO.1-IFNB1</italic> NCI-H522 and
+NCI-H1299 cells in (<bold>a</bold>) were
+probed with anti-IFNβ1 and anti-β-actin (control) antibodies.
+Cells were harvested 24 h after infection with SeV-GFP
+(MOI = 0.5).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="d32e1366" position="float" orientation="portrait" xlink:href="42003_2021_2668_Fig4_HTML.jpg"/></fig></p></sec><sec id="Sec7"><title>The IWS1 phosphorylation-dependent <italic toggle="yes">U2AF2</italic>
+alternative RNA spicing is required for the RNA nuclear export function of the
+Cytoplasmic Accumulation Region Elements (CAR-E)</title><p id="Par20">The preceding data suggest that the nuclear export of the mRNAs of
+CAR-E-positive intronless genes, depends on IWS1 phosphorylation by AKT, which
+regulates the loading of U2AF65/Prp19 complexes to CAR-Elements in these mRNAs.
+To confirm that IWS1 phosphorylation and <italic toggle="yes">U2AF2</italic> alternative RNA splicing regulate CAR-E function, we
+employed previously described pCMV promoter β-globin constructs, in which 16
+tandem copies of the most conserved CAR-Element (CCAGTTCCTG element of <italic toggle="yes">JUN</italic>) or its mutated inactive version
+(CAR-E<sub>mut</sub>), were inserted in the 5′ UTR of the
+β-globin cDNA (Fig. <xref rid="Fig5" ref-type="fig">5a</xref>)<sup><xref ref-type="bibr" rid="CR4">4</xref></sup>. As controls, we used a pCMV
+promoter/β-globin cDNA construct and a pCMV promoter/β-globin gene construct.
+All constructs were transiently transfected in shControl, shIWS1, shIWS1/WT-R,
+shIWS1/MT-R, shIWS1/U2AF65α-R, and shIWS1/U2AF65β-R NCI-H522 and NCI-H1299 cells
+and the expression of globin in the transfected cells was monitored by Western
+blotting. Earlier studies had shown that whereas the β-globin mRNA transcribed
+from the wild type β-globin gene, efficiently accumulates in the cytoplasm, the
+β-globin mRNA transcribed from the cDNA, is degraded in the
+nucleus<sup><xref ref-type="bibr" rid="CR28">28</xref>–<xref ref-type="bibr" rid="CR30">30</xref></sup>. In agreement with the
+results of these studies, our data showed that whereas shControl cells
+transduced with the cDNA construct do not express β-globin, shControl cells
+transduced with the wild type β-globin gene construct, do (Fig. <xref rid="Fig5" ref-type="fig">5b</xref>, Supplementary Fig. <xref rid="MOESM1" ref-type="media">4</xref>). More importantly, the failure of the cDNA
+construct to direct the expression of β-globin was rescued with the insertion of
+the array of wild type, but not the mutant CAR-Elements in its 5′ UTR
+(Fig. <xref rid="Fig5" ref-type="fig">5b</xref>, Supplementary
+Fig. <xref rid="MOESM1" ref-type="media">4</xref> upper panels). Since
+expression of the β-globin gene depends on the ability of its mRNA to exit the
+nucleus, the data in shControl cells, confirm the earlier observations on the
+function of CAR-Elements. The experiment in shIWS1, shIWS1/WT-R and shIWS1/MT-R
+cells showed the CAR-Element array is not functional in shIWS1 cells and that
+whereas rescue with wild type IWS1 restores its function, rescue with the
+phosphorylation site mutant of IWS1 does not (Fig. <xref rid="Fig5" ref-type="fig">5b</xref>, Supplementary Fig. <xref rid="MOESM1" ref-type="media">4</xref> upper and middle panes). Moreover, the shIWS1-induced
+defect in the CAR-Element function was rescued by the RS domain-containing
+U2AF65α, but not by the RS domain-deficient U2AF65β (Fig. <xref rid="Fig5" ref-type="fig">5b</xref>, Supplementary Fig. <xref rid="MOESM1" ref-type="media">4</xref> lower panels). We conclude that the function
+of the CAR-Elements depends on IWS1 phosphorylation, which controls the function
+of the CAR-Elements, by regulating the alternative splicing of <italic toggle="yes">U2AF2</italic>.<fig id="Fig5" position="float" orientation="portrait"><label>Fig. 5</label><caption><title>The RNA nuclear export function of the cytoplasmic
+accumulation region elements (CAR-Elements) is under the control
+of IWS1 phosphorylation and the alternative RNA splicing of
+<italic toggle="yes">U2AF2</italic>.</title><p><bold>a</bold>
+<italic toggle="yes">Schematic of the pCMV-HA-β-globin cDNA
+construct</italic>. The sequences of the CAR-E and
+CAR-E<sub>mut</sub> are shown and the map
+position of their insertion is indicated with a solid
+arrow<sup><xref ref-type="bibr" rid="CR4">4</xref></sup>. The transcription
+initiation site, the translation initiation codon (ATG), the HA
+epitope tag, the bovine growth hormone (BGH) polyA signal (pA)
+and the sizes of the exons in base pairs are also shown. The
+schematic for β-globin CAR-E reporter was created with
+Biorender.com under the third-party publication license
+permission OO22MW9YPA. <bold>b</bold>
+<italic toggle="yes">IWS1 phosphorylation is required for
+CAR-E function</italic>. shControl, shIWS1, shIWS1/WT-R,
+shIWS1/MT-R, shIWS1/U2AF65α-R and shIWS1/U2AF65β-R NCI-H522
+cells, were transfected transiently with pCMV-based constructs
+of HA-β-globin cDNA, HA-β-globin Gene, HA-β-globin cDNA-CAR-E
+and HA-β-globin cDNA-CAR-E<sub>mut</sub>.
+Transfected cells were harvested 48 h later, and their lysates
+were probed with the indicated antibodies.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="d32e1462" position="float" orientation="portrait" xlink:href="42003_2021_2668_Fig5_HTML.jpg"/></fig></p></sec><sec id="Sec8"><title>The low expression of type I IFNs in shIWS1 and shIWS1/MT-R cells enhances
+their sensitivity to viral infection</title><p id="Par21">Type I IFNs regulate innate and adaptive immunity and orchestrate
+the cellular antiviral response<sup><xref ref-type="bibr" rid="CR31">31</xref></sup>. Cells failing to induce type I IFNs in
+response to viral infection and cells, which fail to respond to type I IFNs are
+more sensitive to infection. Given that the IWS1 phosphorylation-dependent
+alternative RNA splicing of <italic toggle="yes">U2AF2</italic> regulates
+the nuclear export and translation of type I IFN genes, we hypothesized that
+cells in which IWS1 was knocked down and cells in which the IWS1 knockdown was
+rescued with the phosphorylation site mutant of IWS1 will be more sensitive to
+viral infection. To address this hypothesis, we infected shControl, shIWS1,
+shIWS1/WT-R and shIWS1/MT-R NCI-H522 and NCI-H1299 cells with Vesicular
+Stomatitis Virus (MOI = 0.5) or Influenza A virus (MOI = 0.5), engineered to
+express GFP (VSV-GFP and IAV-GFP). NCI-H522 cells, but not NCI-H1299 cells, were
+also infected with the Reovirus (MOI = 1). Finally, shControl and shIWS1
+NCI-H522 and NCI-H1299 cells were infected with GFP-expressing Sendai virus
+(SeV-GFP) (MOI = 0.5), Twenty-four hours later, cells were harvested and the
+percentage of infected cells was determined by flow
+cytometry<sup><xref ref-type="bibr" rid="CR32">32</xref>,<xref ref-type="bibr" rid="CR33">33</xref></sup>). The results showed that the percentage of
+infected cells with all four viruses was higher in shIWS1 than in shControl
+cells and that the shIWS1 phenotype was rescued with WT IWS1 (shIWS1/WT-R
+cells), but not with the phosphorylation site mutant of IWS1 (shIWS1/MT-R
+cells), as expected (Fig. <xref rid="Fig6" ref-type="fig">6a</xref>,
+Supplementary Fig. <xref rid="MOESM1" ref-type="media">5a</xref>). To assess
+viral replication changes in the shIWS1 and shIWS1/MT-R NCI-H522 and NCI-H1299
+cells, we employed qRT-PCR, using the viral oligonucleotide primers listed in
+the methods section. The results showed that the knockdown of IWS1, and its
+rescue with the phosphorylation site IWS1 mutant, resulted in a significant
+increase of the abundance of replicating viral genomes in virus-infected cells
+(Fig. <xref rid="Fig6" ref-type="fig">6a</xref> Right panels, Supplementary
+Fig. <xref rid="MOESM1" ref-type="media">5a</xref>, Supplementary
+Data <xref rid="MOESM4" ref-type="media">2</xref>). These results confirmed
+that the loss of phosphorylated IWS1 increases the sensitivity of the cells to
+virus infection and they were fully consistent with the results of the
+flow-cytometry experiments. The IWS1 knockdown in the experiments in this
+section was carried out with short hairpin RNA constructs in a pGIPZ vector, we
+modified by deleting the GFP cassette, as described in the “Methods”
+section.<fig id="Fig6" position="float" orientation="portrait"><label>Fig. 6</label><caption><title>The low expression of type I IFNs in shIWS1 and shIWS1/MT-R
+cells enhances their sensitivity to viral infection.</title><p><bold>a</bold>
+<italic toggle="yes">Loss of IWS1 expression and
+phosphorylation, enhance the sensitivity of cells to viral
+infection</italic>. shControl, shIWS1, shIWS1/WT-R and
+shIWS1/MT-R NCI-H522 cells were infected with VSV-GFP, Influenza
+A-GFP (IAV-GFP) or Reovirus. In addition, shControl and shIWS1
+NCI-H522 cells were infected with SeV-GFP. All infections and
+analyses were carried out as described in the methods. (Left
+panels) Flow-cytometric analyses, representative of three
+independent experiments. (Middle panels) Quantification of the
+data from all three experiments. Bars show the percentage of
+infected cells ±SD. (Right panels) The expression of viral genes
+in cells infected with the same viruses was quantified by
+qRT-PCR, as described in the methods. Bars show the relative
+expression of viral genes ±SD. <bold>b</bold>
+<italic toggle="yes">Design of the experiment in c and
+d</italic>. The indicated cells were infected with VSV-GFP
+(MOI = 0.5). 16 h later, total RNA was harvested and analyzed by
+qRT-PCR for the expression of the mRNAs of 20 ISGs. In parallel,
+the supernatants of shControl and shIWS1 cultures were harvested
+and used in a bioassay for the abundance of biologically active
+IFN-type-I. Naïve NCI-H522 cells were treated with the
+supernatants and examined for STAT1-phosphorylation and the
+binding of phosphor-STAT1 to the ISREs of four ISGs. The
+schematic was created with Biorender.com under the third-party
+publication license permission UR22MWA47E. <bold>c</bold> Heatmaps showing the relative expression of 20
+ISGs in the indicated cells, as determined by qRT-PCR. ISG
+expression was normalized to 18 S rRNA. Heatmaps were based on z
+scores, derived from experiments on three biological replicates,
+done in triplicate. <bold>d</bold> (Upper
+panel). Naïve NCI-H522 cells were treated with culture
+supernatants as described in 6b. Cell lysates were harvested at
+the indicated time points and probed with the indicated
+antibodies. (Lower panel) The cells in the upper panel were
+harvested at 30’ from the start of the exposure to the
+supernatants, and the lysates, were used to carry out ChIC
+assays for p-STAT1 binding. The bars show the mean fold
+enrichment in p-STAT1 binding to the ISREs of four ISGs±SD,
+(anti-p-STAT1 IP vs IgG-IP). All assays were done on three
+biological replicates. *<italic toggle="yes">p</italic> &lt; 0.05, **<italic toggle="yes">p</italic> &lt; 0.01, ***<italic toggle="yes">p</italic> &lt; 0.001, ****<italic toggle="yes">p</italic> &lt; 0.0001 (one-side unpaired
+t-test).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="d32e1538" position="float" orientation="portrait" xlink:href="42003_2021_2668_Fig6_HTML.jpg"/></fig></p><p id="Par22">The data presented in this report collectively suggest that the
+increased sensitivity of shIWS1 and shIWS1/MT-R cells to viral infection, is due
+to the impaired induction of type I IFNs. To address this question, we infected
+shControl, shIWS1, shIWS1/WT-R and shIWS1/MT-R NCI-H522 cells with VSV-GFP.
+Sixteen hours later, the cells and their culture supernatants were harvested
+(Fig. <xref rid="Fig6" ref-type="fig">6b</xref>). Quantitative RT-PCR
+addressing the abundance of a set of IFN-stimulated genes (ISGs) in RNA isolated
+from lysates of these cells, revealed robust induction in shControl, but not in
+shIWS1 cells. Moreover, the defect in ISG induction in shIWS1 cells was rescued
+by wild type IWS1, but not by the phosphorylation site IWS1 mutant
+(Fig. <xref rid="Fig6" ref-type="fig">6c</xref>). These findings and the
+results of the preceding experiments are in full agreement, and they
+collectively suggest that IWS1 phosphorylation is required for the induction of
+type I IFNs in virus-infected cells.</p><p id="Par23">To confirm the failure of VSV-GFP to induce biologically active
+type I IFNs in IWS1 knockdown cells, we used the culture supernatants harvested
+from shControl and shIWS1 NCI-H522 cells to stimulate naïve NCI-H522 parental
+cells (Fig. <xref rid="Fig6" ref-type="fig">6b</xref>). Immunoblotting of
+protein lysates harvested at multiple time points from the start of the
+stimulation, revealed rapid robust phosphorylation of STAT1 (Y701) and rapid
+increase in the expression of IFNβ1 in the lysates of cells stimulated with the
+shControl, but not the shIWS1 culture supernatants (Fig. <xref rid="Fig6" ref-type="fig">6d</xref> Upper panel). The phosphorylation of STAT1, a
+known target of type I IFNs, combined with the data in Fig. <xref rid="Fig5" ref-type="fig">5c</xref>, further support the selective induction of
+type I IFNs in virus-infected, IWS1 phosphorylation proficient cells. The
+increase in the abundance of IFNβ1, within 10 m from the start of the
+stimulation, was surprising because it was too rapid to be due to the induction
+of the <italic toggle="yes">IFNB1</italic> gene. Previous studies had shown
+that IFNβ1 undergoes endocytosis and that it can be siloed in endosomes, where
+it can be detected for days following IFN treatment<sup><xref ref-type="bibr" rid="CR34">34</xref></sup>. Based on this
+information, we hypothesized that IFNβ1 detected in this experiment was
+endocytosed from the culture supernatants of shControl cells. To address this
+hypothesis, we treated the parental NCI-H522 cells with recombinant human IFNβ1,
+and we probed the cell lysates harvested at sequential time points from the
+start of the treatment with antibodies to IFNβ1. The results confirmed the rapid
+accumulation of the recombinant IFNβ1 in the harvested cell lysates
+(Supplementary Fig. <xref rid="MOESM1" ref-type="media">5a</xref>).</p><p id="Par24">Phosphorylated STAT1 and STAT2, in combination with IRF9, form a
+trimeric complex known as Interferon Stimulated Gene Factor 3 (ISGF3), which is
+required for the induction of ISGs<sup><xref ref-type="bibr" rid="CR35">35</xref></sup>. This suggests that the phosphorylation
+of STAT1 in cells treated with the culture supernatants of VSV-GFP-infected
+shControl NCI-H522 cells is critical for the induction of type I IFNs. To
+determine whether the phosphorylated STAT1 indeed contributes to ISG induction
+in these cells, we performed Chromatin ImmunoCleavage (ChIC) assays in NCI-H522
+cells in the upper panel, harvested at 30 m from the start of the stimulation.
+Unstimulated cells were used as controls. Consistent with the
+STAT1-phosphorylation pattern, the results showed increased binding of p-STAT1
+(Y701) to the ISREs of the ISGs <italic toggle="yes">IRF1, IRF9,
+STAT1</italic>, and <italic toggle="yes">STAT2</italic>, only in
+cells stimulated with the culture supernatants of the VSV-GFP-infected shControl
+cells (Fig. <xref rid="Fig6" ref-type="fig">6d</xref>, lower panel).</p><p id="Par25">If the phosphorylation of IWS1 by AKT3 is required for the
+induction of type I IFNs, as the data presented in this report indicate,
+inhibition of AKT prior to viral infection should block the induction of ISGs.
+To address this hypothesis, we treated NCI-H522 cells with 5 μM MK2206, or with
+the vehicle (DMSO). 4 h later, cells were infected with VSV-GFP (MOI = 1), and
+they were harvested 16 h later. Using RNA isolated from the harvested cell
+lysates and qRT-PCR, we examined the expression of the same set of 20 ISGs as in
+the experiment in Fig. <xref rid="Fig5" ref-type="fig">5c</xref>. The results
+confirmed that AKT inhibition, similarly to the knockdown of IWS1 blocks the
+induction of ISGs in virus-infected cells (Supplementary Fig. <xref rid="MOESM1" ref-type="media">5a</xref>), as expected. These data collectively show
+that by regulating the expression of type I IFNs, IWS1 phosphorylation by AKT
+enhances the resistance to viral infection</p></sec><sec id="Sec9"><title>Inhibition of the AKT/p-IWS1 axis sensitizes lung adenocarcinoma cells to
+cytolytic virus-induced apoptotic cell death</title><p id="Par26">Data presented in this report show that the knockdown of IWS1 or
+the inhibition of its phosphorylation, interferes with the expression of type I
+IFNs by virus-infected cells and enhances the sensitivity of the cells to viral
+infection. Given that infection by cytolytic viruses induces cell death,
+infection of human tumors with engineered strains of “oncolytic viruses” emerged
+in recent years as a new therapeutic tool in Oncology. Such viruses not only
+kill tumor cells, but they also alter the relative abundance and function of
+different types of immune cells in the tumor microenvironment. As a result, they
+can be effective either as a monotherapy, or in combination with other
+anticancer therapeutics.</p><p id="Par27">Variants of two of the viruses we used in the preceding
+experiments, VSV-GFP and Reovirus, are evaluated as potential virotherapy agents
+in a variety of solid tumors, including lung cancer<sup><xref ref-type="bibr" rid="CR36">36</xref>,<xref ref-type="bibr" rid="CR37">37</xref></sup>. We therefore tested whether inhibition
+of the AKT/p-IWS1 axis enhances their cytolytic activity against tumor cells. In
+addition, we examined the mechanism by which they induce cell death. To address
+these questions, we first infected shControl, shIWS1, shIWS1/WT-R, and
+shIWS1/MT-R NCI-H522 and NCI-H1299 cells, with VSV-GFP or Reovirus, at
+logarithmically increasing multiplicities of infection (MOI), and we monitored
+the percentage of surviving cells at 16 h (VSV-GFP) or at 48 h (Reovirus) after
+infection. The results revealed that both the knockdown of IWS1 and its rescue
+with the phosphorylation site IWS1 mutant, dramatically enhance cell death by
+both VSV-GFP and Reovirus (Fig. <xref rid="Fig7" ref-type="fig">7a</xref>,
+Supplementary Fig. <xref rid="MOESM1" ref-type="media">7a</xref>). A repeat of
+the experiment in naive parental NCI-H522 and NCI-H1299 cells, pretreated with
+the AKT inhibitor MK2206, gave similar results (Fig. <xref rid="Fig7" ref-type="fig">7b</xref>, Supplementary Fig. <xref rid="MOESM1" ref-type="media">7b</xref>), as expected. We conclude that blocking the IWS1
+phosphorylation pathway by inhibiting AKT, can be used as a tool to increase the
+killing efficiency of oncolytic viruses.<fig id="Fig7" position="float" orientation="portrait"><label>Fig. 7</label><caption><title>Inhibition of the AKT/p-IWS1 axis sensitizes lung
+adenocarcinoma cells to virus-induced apoptotic cell
+death.</title><p><bold>a</bold>
+<italic toggle="yes">The knockdown of IWS1 and its rescue
+with the phosphorylation site IWS1 mutant sensitizes lung
+adenocarcinoma cell lines to virus-induced cell
+death</italic>. ShControl, shIWS1, shIWS1/WT-R and
+shIWS1/MT-R NCI-H522 cells were infected with VSV-GFP or
+Reovirus at the indicated MOIs. The percentage of surviving
+cells was measured 16 h later (for VSV-GFP) and 48 h later (for
+Reovirus), using the resazurin reduction protocol described in
+the methods section under “virus-induced cell death”. The cell
+survival curves show the mean percent survival values at each
+MOI ± SD (<italic toggle="yes">n</italic> = 3) and they are
+representative of two independent experiments. <bold>b</bold>
+<italic toggle="yes">The inhibition of AKT, which is required
+for the phosphorylation of IWS1, sensitizes lung
+adenocarcinoma cells to virus-induced cell death</italic>.
+Parental NCI-H522 cells were treated with DMSO or with the AKT
+inhibitor MK2206 (5 μΜ) and they were infected with VSV-GFP or
+Reovirus at the indicated MOIs. Infected and uninfected cells
+were harvested 16 h later (VSV-GFP), or 48 h later (Reovirus)
+and their survival was measured as in a. The cell survival
+curves show the mean percent survival values at each MOI ± SD
+(<italic toggle="yes">n</italic> = 3) and they are
+representative of two independent experiments.<bold>c</bold>
+<italic toggle="yes">The knockdown of IWS1 accelerates the
+caspase-dependent cleavage of PARP1 in virus-infected lung
+adenocarcinoma cell lines</italic>. ShControl and
+shIWS1-transduced NCI-H522 cells were infected with VSV-GFP (MOI
+1) and they were harvested at the indicated time points. Western
+blots of the harvested cell lysates were probed with antibodies
+to IWS1, cleaved PARP, or α-tubulin.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="d32e1653" position="float" orientation="portrait" xlink:href="42003_2021_2668_Fig7_HTML.jpg"/></fig></p><p id="Par28">To address the mechanism of cell death following infection with
+cytolytic viruses, we infected shControl and shIWS1 NCI-H522 and NCI-H1299 cells
+with VSV-GFP (MOI = 1). Cells were harvested before and at different time points
+from the start of the infection and the cleavage of PARP along with the
+abundance of IWS1 was monitored in the cell lysates by Western blotting. The
+results showed a dramatic upregulation of cleaved PARP in the lysates of the
+shIWS1 cells, starting at 2 h (NCI-H522 cells) or 6 h (NCI-H1299 cells) from the
+start of the infection (Fig. <xref rid="Fig7" ref-type="fig">7c</xref>,
+Supplementary Fig. <xref rid="MOESM1" ref-type="media">7c</xref>). Given that the
+cleavage of PARP, is a hallmark of Caspase-mediated cell
+death<sup><xref ref-type="bibr" rid="CR38">38</xref></sup>, we conclude that cell death induced by
+these cytolytic viruses is due to caspase activation-induced apoptosis.</p></sec><sec id="Sec10"><title>Model of the pathway by which the AKT3/IWS1/<italic toggle="yes">U2AF2</italic> axis promotes nuclear export of CAR-Element-containing
+intronless gene mRNAs, and resistance to viral infection</title><p id="Par29">The phosphorylation of IWS1 at S720/T721 by AKT controls the
+epigenetic regulation of the alternative RNA splicing of <italic toggle="yes">U2AF2</italic>, promoting the inclusion of exon 2 in the mature <italic toggle="yes">U2AF2</italic> mRNA. The RS domain-containing U2AF65α
+isoform encoded by the exon 2 containing <italic toggle="yes">U2AF2</italic> mRNA, binds CAR-Elements in the mRNA of type I IFN, and
+other intronless genes, and recruits Prp19. The U2AF65/Prp19 complex assembled
+on the CAR-Elements is required for the nuclear export and translation of these
+mRNAs. Overall, IWS1 expression and phosphorylation by AKT, promotes the
+expression of intronless genes, including type I IFNs and increases the
+resistance of the cells to infection by cytolytic viruses (Fig. <xref rid="Fig8" ref-type="fig">8</xref>).<fig id="Fig8" position="float" orientation="portrait"><label>Fig. 8</label><caption><title>The AKT3/IWS1/<italic toggle="yes">U2AF2</italic> axis
+promotes the nuclear export of the mRNAs of
+CAR-Element-containing intronless genes and inhibits infection
+of cancer cell lines by cytolytic viruses.</title><p>The phosphorylation of IWS1 at S720/T721 by AKT controls
+the epigenetic regulation of the alternative RNA splicing of
+<italic toggle="yes">U2AF2</italic>, promoting the
+inclusion of exon 2 in the mature <italic toggle="yes">U2AF2</italic> mRNA. The RS domain-containing U2AF65α
+encoded by the exon 2 containing <italic toggle="yes">U2AF2</italic> mRNA, is loaded to CAR-Elements in the
+mRNA of type I IFNs, and other CAR-Element-positive intronless
+genes via RNA Pol II, and recruits Prp19. The U2AF65/Prp19
+complex assembled on the CAR-Elements is required for the
+nuclear export of these mRNAs. Overall, IWS1 expression and
+phosphorylation by AKT, enhances the abundance of the proteins
+encoded by CAR-Element-positive intronless genes, including type
+I IFN genes and increases the resistance of the cells to
+infection by cytolytic viruses. The schematic was created with
+Biorender.com under the third-party publication license
+permission SC22PV8Z05.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="d32e1708" position="float" orientation="portrait" xlink:href="42003_2021_2668_Fig8_HTML.jpg"/></fig></p></sec></sec><sec id="Sec11" sec-type="discussion"><title>Discussion</title><p id="Par30">Data presented in this report show that a pathway initiated by the
+AKT3-mediated phosphorylation of IWS1 promotes the nucleocytoplasmic export of the
+mRNAs of a set of intronless genes and controls the expression of the proteins
+encoded by these mRNAs. Genes regulated by this pathway include the type I
+IFN-encoding genes <italic toggle="yes">IFNA1</italic> and <italic toggle="yes">IFNB</italic>. Inhibition of the pathway by knocking down IWS1,
+or by rescuing the IWS1 knockdown with the IWS1 mutant IWS1-S720A/T721A, resulted in
+low expression of type I IFNs and in cellular sensitization to viral infection and
+replication and virus-induced, caspase-mediated cell death. As expected, inhibition
+of the pathway sensitized the cells to a broad array of viruses, including Vesicular
+Stomatitis Virus (VSV), Influenza virus, Sendai virus and Reovirus. In addition to
+the type I IFN genes, other genes also regulated by this mechanism, include
+<italic toggle="yes">JUN</italic> and the HSP27-encoding <italic toggle="yes">HSPB3</italic>.</p><p id="Par31">The rationale of the experiments linking the IWS1 phosphorylation
+pathway to the nucleocytoplasmic export of the mRNAs of intronless genes and the
+sensitization to viral infection, was based on the integration of two earlier
+observations. First, it had been shown that the mRNAs of the majority of naturally
+intronless genes, including type I IFNs, <italic toggle="yes">JUN</italic> and
+<italic toggle="yes">HSPB3</italic>, contain 10 nucleotide consensus
+CAR-Elements, which provide the docking site for the assembly of nucleocytoplasmic
+export complexes, containing members of the TREX complex, U2AF65 and Prp19. Second,
+we had shown previously that IWS1 phosphorylation by AKT3 promotes
+transcription-coupled chromatin modifications, which regulate the alternative RNA
+splicing of <italic toggle="yes">U2AF2</italic>. The predominant <italic toggle="yes">U2AF2</italic> transcript in the absence of IWS1
+phosphorylation, is exon 2-deficient. Given that <italic toggle="yes">U2AF2</italic> exon 2 encodes the RS domain of U2AF65, which is the domain of
+interaction between U2AF65 and Prp19, we hypothesized that in the absence of
+phosphorylated IWS1, the interaction between U2AF65 and Prp19 would be impaired, and
+this would affect the binding of Prp19 to CAR-Elements in naturally intronless
+mRNAs. In addition, if this interaction plays a critical role in the
+nucleocytoplasmic export of the mRNAs of intronless genes harboring CAR-Elements,
+the partial loss of phosphorylated IWS1 would also impair the nuclear export of
+these mRNAs. The data in this report fully support this hypothesis.</p><p id="Par32">In the experiments presented in this report, we show that the RS
+domain-deficient U2AF65β, which is encoded by exon 2-deficient <italic toggle="yes">U2AF2</italic>, continues to bind the CAR-Elements in the mRNAs
+of type I IFNs. However, Prp19, whose recruitment is required for the nuclear export
+of these mRNAs<sup><xref ref-type="bibr" rid="CR4">4</xref></sup>, failed to bind RNA CAR-Elements in cells
+expressing U2AF65β, indicating that its recruitment to these elements depends on its
+interaction with U2AF65α. These findings strongly suggest that the IWS1
+phosphorylation-dependent alternative RNA splicing of <italic toggle="yes">U2AF2</italic> is a direct regulator of the nuclear export phenotype of the
+mRNAs of CAR-E-positive intronless genes. These findings make it unlikely that the
+RNA nuclear export phenotype is due to the secondary effects of IWS1 on RNA
+splicing.</p><p id="Par33">Given that the recruitment of the TREX complex to CAR-Elements is
+U2AF65 independent<sup><xref ref-type="bibr" rid="CR4">4</xref></sup>, the changing pattern of <italic toggle="yes">U2AF2</italic> mRNA splicing in cells deficient in phosphorylated IWS1,
+should only affect the binding of Prp19, which should be responsible for the
+defective nuclear export of intronless CAR-Element-containing mRNAs in these cells.
+Prp19 may ultimately be affecting the composition and/or the functionality of the
+complex. The exact mechanism by which it is regulating the nuclear export of this
+class of mRNAs will be addressed in future studies.</p><p id="Par34">The loading of the TREX complex to RNA is
+co-transcriptional<sup><xref ref-type="bibr" rid="CR39">39</xref></sup>, RNA Pol II-dependent and RNA splicing
+independent and as a result, it contributes to the nuclear export of the mRNA of
+naturally intronless genes. To address the mechanism of U2AF65 and Prp19 loading to
+the RNAs of naturally intronless genes we hypothesized that U2AF65 is also loaded
+co-transcriptionally and, given that U2AF65 binds RNA Pol II, its loading may also
+be RNA Pol II-dependent. We therefore placed <italic toggle="yes">IFNB1</italic> under the control of an RNA Pol III promoter, and we examined
+its expression at the RNA and protein levels. The results showed that although RNA
+Pol III efficiently transcribed <italic toggle="yes">IFNB1</italic>, mRNA
+transcribed from the RNA Pol III promoter was not exported efficiently from the
+nucleus, and failed to be translated, as evidenced by the fact that the expression
+of <italic toggle="yes">IFNB1</italic> at the protein level did not parallel
+its expression at the RNA level. Given that RNA Pol III is not known to bind U2AF65,
+we interpret these data to suggest that the loading of the U2AF65/Prp19 complex to
+CAR-Elements in the mRNA of naturally intronless genes is also co-transcriptional
+and RNA Pol II-dependent.</p><p id="Par35">In the preceding paragraphs we pointed out that the downregulation of
+IWS1 and the block of IWS1 phosphorylation inhibit the expression of intronless
+genes that harbor CAR-Elements, because IWS1 phosphorylation is required for the
+nuclear export and translation of their mRNAs. However, the abundance of RNA
+transcripts of these genes is increased, perhaps because of a feedback mechanism
+activated by sensing the downregulation of their protein products. This finding is
+also in agreement with the RNA-Seq data of lung adenocarcinoma patients in the TCGA
+database, which show that the expression of IWS1 exhibits a negative correlation
+with the expression of type I IFN genes. A potential mechanism by which AKT
+inhibition may promote the transcriptional activation of type I IFNs was suggested
+by recent studies showing that AKT phosphorylates the human cyclic GMP-AMP synthase
+(cGAS) on Ser305, inhibiting its activity and the induction of type I
+IFNs<sup><xref ref-type="bibr" rid="CR40">40</xref></sup>. If inhibition of AKT induces partial G2/M
+arrest and genomic instability, as suggested by our earlier studies, it would also
+activate the cGAS/STING pathway and the transcriptional activation of the type I IFN
+genes and this may be facilitated by the absence of cGAS phosphorylation. An
+apparent paradox in these data is the observation that despite the downregulation of
+expression of type I IFNs at the protein level in cells with low abundance of
+phosphorylated IWS1, the expression of a set of IFN-stimulated genes (ISGs) is
+increased. We propose here that the paradox is due to the PRR-mediated activation of
+IRF3 and NF-κB, which promote the expression of IFN-independent ISGs.</p><p id="Par36">AKT kinase may regulate the expression of and the response to type I
+IFNs by multiple mechanisms. Specifically, it may stimulate the expression of ISGs
+by promoting the translation of their mRNAs downstream of mTOR activation. In
+addition, AKT1 may stimulate the expression of <italic toggle="yes">IFNB</italic> downstream of β-catenin phosphorylation and the expression of
+ISGs via phosphorylation of EMSY, which relieves the EMSY-mediated ISG
+repression<sup><xref ref-type="bibr" rid="CR20">20</xref></sup>. Moreover, a recent report provided evidence
+that AKT may be activated in Reovirus-infected cells via Clathrin-mediated
+endocytosis and that this activates the PI3K/AKT1/EMSY pathway and inhibits viral
+replication<sup><xref ref-type="bibr" rid="CR41">41</xref></sup>. The data in this report identify yet another
+pathway by which AKT1 and AKT3 regulates the IFN response and the sensitivity to
+viral infection and replication. The fact that the selective inhibition of some of
+these pathways, such as the EMSY or the IWS1 pathway, had profound effects on the
+sensitivity of the cells to viral infection, suggests that these pathways may not
+function independently of each other and that their roles may not be additive, but
+synergistic. The potential crosstalk between these AKT-regulated pathways will be
+addressed in future studies.</p><p id="Par37">The data in this report may have significant implications in cancer
+treatment. First and foremost, they show that inhibition of the IWS1 phosphorylation
+pathway enhances the sensitivity to viral infection and replication and promotes
+virus-induced, caspase-mediated apoptosis. We interpret these data to suggest that
+inhibition of the pathway will enhance the therapeutic potential of oncolytic
+viruses. Oncolytic viruses may have direct antitumor activity, because of their
+ability to kill tumor cells, which tend to be more sensitive to viral infection than
+normal cells<sup><xref ref-type="bibr" rid="CR42">42</xref>,<xref ref-type="bibr" rid="CR43">43</xref></sup>. In addition, they may modulate innate immunity
+in the tumor microenvironment, enhancing the antitumor immune response, or the
+antitumor effects of cancer immunotherapies. For example, intratumoral reovirus
+administration enhanced the effects of PD-1 blockade in mice inoculated
+subcutaneously with B16 melanoma cells, by promoting tumor infiltration with CD8+ T
+cells and by increasing the ability of NK cells to kill reovirus-infected tumor
+cells<sup><xref ref-type="bibr" rid="CR44">44</xref></sup>. Immunomodulation by oncolytic viruses may be
+enhanced by using viruses engineered to deliver immunomodulatory molecules to the
+tumor microenvironment. For example, the first approved oncolytic virus TVEC, is an
+HSV1, which was genetically modified to express GM-CSF<sup><xref ref-type="bibr" rid="CR16">16</xref></sup>. Another HSV-based
+oncolytic virus οHSV G47Δ, engineered to deliver IL-12, induced long-term durable
+cures in two syngeneic mouse models of GBM, when combined with anti-CTLA-4 and
+anti-PD-1 treatment. Anti-tumor effects were mediated by a profound increase in the
+ratio of T effector to Tregs in the tumor microenvironment<sup><xref ref-type="bibr" rid="CR45">45</xref></sup>. Multiple clinical trials
+addressing the effectiveness of oncolytic viruses or combinations of oncolytic
+viruses with immunomodulatory treatments are currently in progress with promising
+results, in patients with lung cancer (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT03029871">NCT03029871</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT00861627">NCT00861627</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT02263508">NCT02263508</ext-link>,
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT02307149">NCT02307149</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT03153085">NCT03153085</ext-link>)<sup><xref ref-type="bibr" rid="CR46">46</xref></sup>. Based on the data presented in this report,
+we propose that all oncolytic virus-based anticancer treatments could potentially
+benefit by the inhibition of the IWS1 phosphorylation pathway.</p><p id="Par38">The data in this report may also be relevant for the design of
+strategies to prevent or overcome the resistance of EGFR mutant lung adenocarcinomas
+to EGFR inhibitors. Our earlier studies had shown that the IWS1 phosphorylation
+pathway is active in human lung adenocarcinomas<sup><xref ref-type="bibr" rid="CR1">1</xref>,<xref ref-type="bibr" rid="CR3">3</xref></sup>. Moreover, IWS1 phosphorylation and exon 2
+inclusion in the <italic toggle="yes">U2AF2</italic> mRNA were shown to
+correlate positively with tumor stage, histologic grade, and metastasis, and to
+predict poor survival in patients with <italic toggle="yes">EGFR</italic>
+mutant, but not <italic toggle="yes">KRAS</italic> mutant tumors. More
+important, a recent publication provided evidence, linking resistance to EGFR
+inhibitors to the upregulation of type I IFN signaling<sup><xref ref-type="bibr" rid="CR47">47</xref></sup>. This suggests that by
+promoting IFN signaling, the IWS1 phosphorylation pathway may promote resistance to
+EGFR inhibitors, contributing to the poor prognosis of these tumors. Inhibition of
+the IWS1 phosphorylation pathway for all the preceding anticancer applications can
+be achieved by inhibiting selectively AKT1 and AKT3, by blocking the interaction
+between phosphorylated IWS1 and SETD2 and by using antisense oligonucleotides or
+pharmacologic modulators of the splicing machinery<sup><xref ref-type="bibr" rid="CR48">48</xref></sup>, to modulate the
+alternative RNA splicing of <italic toggle="yes">U2AF2</italic>.</p><p id="Par39">In conclusion, data presented in this report describe a novel pathway
+by which AKT regulates the nucleocytoplasmic transport of the mRNAs of intronless
+genes harboring CAR-Elements and the effects of this process on the translation of
+these mRNAs. Type I IFNs are encoded by genes that belong to this gene set. By
+regulating their expression via this pathway, AKT regulates the sensitivity of the
+cells to viral infection and replication. The data presented in this report, may
+have significant implications in cancer therapeutics.</p></sec><sec id="Sec12"><title>Methods</title><sec id="Sec13"><title>Cells, culture conditions, stimulation, and inhibitors</title><p id="Par40">NCI-H522, NCI-H1299 cells were grown in RPMI-1640 medium
+(Sigma-Millipore, Cat No. D8758). HEK-293T cells were grown in Dulbecco’s
+modified Eagle’s medium (Sigma-Millipore, Cat No. D5796). Both types of media
+were supplemented with penicillin and streptomycin (Corning, Cat No. 30-002-CI),
+nonessential amino acids (Corning, Cat No. 25-025-CI), glutamine (Corning, Cat
+No. 25-005-CI), plasmocin 2.5 ng/μL (Invivogen, Cat No. ant-mpp) and 10% fetal
+bovine serum. Cells were used for up to 5 passages. The human NCI-H522
+non–small cell lung cancer adenocarcinoma cell line originated from an
+NCI-60 cell line panel obtained from Daniel Haber at Massachusetts General
+Hospital. The NCI-H1299 non–small cell lung cancer adenocarcinoma cell
+line originated from Dr Carbone’s Lab at the Ohio State University. The HEK-293T
+human embryonic kidney cell line originated from Richard Van Etten’s laboratory
+at Tufts Molecular Oncology Research Institute. The MDCK, HeLa and Vero cells
+were purchased from American Type Culture Collection (ATCC) (Cat No. CCL-34,
+CCL2 and CCL81 respectively). Cell lines were also periodically checked for
+mycoplasma, using the PCR mycoplasma detection kit (ABM, Cat No. G238). All
+experiments were carried out in mycoplasma-free cultures. To inhibit AKT, cells
+growing in complete media were treated with the AKT inhibitor MK2206 (MERCK)
+(5 μM) for 4 h. At this concentration, MK2206 inhibits all three AKT isoforms.
+For stimulation of NCI-H522 and NCI-H1299 cells, 1000 μg/mL hIFNβ1 (Bio-Rad Cat
+No. OBT1547) was used. For adequate expression of type I IFNs, NCI-H522 and
+NCI-H1299 cells were treated with 5 μg/mL Poly I:C sodium salt (Cell Signaling
+Technologies Cat No. 61401) for 6 and 12 h, respectively.</p></sec><sec id="Sec14"><title>shRNA and expression constructs</title><p id="Par41">shRNAs and expression constructs are listed in Supplementary
+Table <xref rid="MOESM1" ref-type="media">3</xref>. The pLx304 IFNα1-V5 and
+pLx304 IFNβ1-V5 constructs were obtained by the DNAsu Plasmid Repository (DNAsu
+Plasmid Repository Clone: HsCD00436920 and HsCD00436917). To transfer IFNβ1-V5
+and IFNα1-V5 from the pLx304 to the pLKO.1 lentiviral vector, we amplified the
+pLx304 inserts, using oligonucleotide primers flanked by AgeI and EcoR1
+restriction endonuclease sites. Amplified DNA fragments were separated in 1%
+agarose gels, and they were gel-purified using the NucleoSpin Gel and PCR
+Clean-Up kit (M&amp;N, Cat. No. 740609.50). Following purification, they were
+recombined into the AgeI-EcoRI-digested pLKO.1-TRC cloning vector (Addgene
+#10878), using T4 DNA ligase (Thermofisher, Cat No EL0011). To remove the GFP
+casette from the pGIPZ shIWS1 construct, we initially amplified the CMV
+Promoter/Enhancer region (Vector map position 2707-3385) by PCR. Following gel
+purification, we inserted NotI sites to the ends of the amplified DNA fragment
+using a PCR-based strategy, and following a second purification, we digested it
+with XbaI and NotI. In parallel, we treated the full pGIPZ shIWS1 construct also
+with XbaI-NotI, to remove the DNA fragment from map position 2707 to map
+position 4100 and following gel purification we recombined the two DNA fragments
+together, using T4 DNA ligase. The pGIZP GFP vector map used to design the
+vector modification strategy described above, can be downloaded from: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.snapgene.com/resources/plasmid-files/?set=viral_expression_and_packaging_vectors&amp;plasmid=pGIPZ">https://www.snapgene.com/resources/plasmid-files/?set=viral_expression_and_packaging_vectors&amp;plasmid=pGIPZ</ext-link>. The primers used for the cloning strategies described above, are
+listed in Supplementary Table <xref rid="MOESM1" ref-type="media">2</xref>. All
+the constructs were sequenced in the Genomics Shared Resource (GSR) of OSUCCC. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://cancer.osu.edu/for-cancer-researchers/resources-for-cancer-researchers/shared-resources/genomics">https://cancer.osu.edu/for-cancer-researchers/resources-for-cancer-researchers/shared-resources/genomics</ext-link>, prior to use.</p></sec><sec id="Sec15"><title>Transfections and retroviral/lentiviral infections</title><p id="Par42">Lentiviral constructs were also packaged in HEK-293T cells by
+transient co-transfection with the packaging constructs psPax2 (Addgene #12260)
+and pMΔ2.G (Addgene #12259). Transfections were carried out using 2x HEPES
+Buffered Saline (Sigma, Cat. No 51558) and CaCl2 precipitation. Forty-eight
+hours later, culture supernatant was collected and filtered. Infections were
+carried out in the presence of 8 μg/ml polybrene (Sigma, Cat. No. 107689). At
+48 h, cells were selected for resistance to puromycin (Gibco, Cat. No. A11138)
+(10 μg/mL, or blasticidin (Gibco, Cat. No A1113903) (5 μg/mL), depending on the
+selection marker in the vector. Cells infected with multiple constructs, were
+selected for infection with the first construct, prior to the next infection.
+Transfection of lung adenocarcinoma cell lines with the pCMV HA-β-globin
+constructs were carried out, using the Lipofectamine 3000 Transfection Reagent
+(Invitrogen, Cat. No. 13778) and Opti-MEM Reduced Serum Medium (Gibco, Cat. no.
+11058021), according to the manufacturer’s protocol.</p></sec><sec id="Sec16"><title>Viruses, virus propagation, and titration</title><p id="Par43">Vesicular stomatitis virus<sup><xref ref-type="bibr" rid="CR33">33</xref></sup>, expressing GFP
+(VSV-GFP) was propagated and tittered in HeLa cells. Sendai
+virus<sup><xref ref-type="bibr" rid="CR23">23</xref>,<xref ref-type="bibr" rid="CR24">24</xref></sup>, expressing GFP (SeV-GFP) was propagated in
+10-day-old embryonated chicken eggs at 37 °C for 40 h and tittered on Vero
+cells. Influenza virus A/PR/8/1934 (H1N1) expressing GFP from promoter ×
+(PR8-GFP) was propagated in 10-day-old embryonated chicken eggs (Charles River
+Laboratories) for 48 h at 37 °C and tittered in MDCK cells.
+Reovirus<sup><xref ref-type="bibr" rid="CR49">49</xref></sup>, was propagated in Vero cells for 16 h and
+tittered also in Vero cells.</p></sec><sec id="Sec17"><title>Virus infection and detection of infected cells by flow cytometry</title><p id="Par44">NCI-H522 cells were infected with VSV-GFP or SeV-GFP (MOI 0.5) and
+they were harvested 16 h later. Alternatively, they were infected with the
+Influenza A, PR8-GFP strain or the Reovirus (MOI 1.0) and they were harvested
+24 h later. NCI-H1299 cells were infected with VSV-GFP or SeV-GFP at an (MOI
+0.25), or with the Influenza A, PR8-GFP strain (MOI 1.0) and they were harvested
+24 h later. Harvested cells infected with VSV-GFP, SeV-GFP and Influenza
+PR8-GFP, were fixed in 4% paraformaldehyde (Thermo Scientific), permeabilized
+with 0.1% Triton X-100 in PBS, and resuspended in 2% fetal bovine serum in PBS.
+Following permeabilization, reovirus-infected cells were stained with the T3D
+sigma 3 anti-reovirus antibody (DSHB Cat No. 10G10), followed by staining with
+an anti-mouse Alexa488-conjugated secondary antibody (Thermo Scientific,
+A-11029). VSV, SeV, and Influenza A-PR8, infection rates were measured by
+counting cells expressing virus-encoded GFP. Flow cytometry was performed, using
+a FACSCanto II cell analyzer v2.3 (BD Biosciences) (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.bdbiosciences.com/eu/instruments/clinical/cell-analyzers/bd-facscanto-ii/m/744689/overview">https://www.bdbiosciences.com/eu/instruments/clinical/cell-analyzers/bd-facscanto-ii/m/744689/overview</ext-link>). Data were analyzed using the FlowJo software v9.3.3 (DB,
+Ashland, OR). The gating strategy is provided in Supplementary Fig. <xref rid="MOESM1" ref-type="media">6</xref>.</p></sec><sec id="Sec18"><title>Analysis of viral genome</title><p id="Par45">Virus-infected shControl, shIWS1, shIWS1/WT-R and shIWS1/MT-R
+NCI-H522 and NCI-H1299 cells were lysed and total RNA was extracted. Using these
+RNAs and virus genome-specific oligonucleotide primers, we carried out qRT-PCR
+assays, as described in the corresponding sections. The virus-specific primers
+are listed in Supplementary Table <xref rid="MOESM1" ref-type="media">2</xref>.
+The sequences and genomic coordinates of the viral genes whose abundance was
+monitored by these assays are provided as Supplementary Data <xref rid="MOESM4" ref-type="media">2</xref>.</p></sec><sec id="Sec19"><title>Subcellular fractionation</title><p id="Par46">5 × 10<sup>6</sup> cells were trypsinized,
+following 2 washes with ice-cold 1 × PBS. The cell pellet obtained by a 5 min
+centrifugation at 12,000 × <italic toggle="yes">g</italic>, was resuspended
+in 1 mL 1 × PBS. Following this, the cells were washed twice with TD buffer
+(135 mM NaCl, 5 mM KCl, 0.7 mM Na2HPO4, 25 mM Tris-HCl) and then lysed using
+TD/1% NP-40/RVC (Ribonucleoside-Vanadyl Complex, NEB, Cat. No. S1402) in the
+presence of RNaseOUT™ Recombinant Ribonuclease Inhibitor (Thermo Fisher, Cat.
+No. 10777019). Following 10 m incubation on ice and centrifugation at 21,000 ×
+<italic toggle="yes">g</italic> for 1 m, the supernatant, which
+contains the cytosolic fraction, was aspirated, and kept on ice. The nuclear
+fraction was washed with TD/0.5% NP-40/RVC twice. Then, we used Trizol and a
+mixture of phenol-chloroform-isoamyl alcohol to isolate the RNA from both
+fractions. Isolated RNA was ethanol precipitated overnight in −80 °C. cDNA was
+synthesized from 1.0 μg of total RNA, using oligo-dT priming and the QuantiTect
+Rev. Transcription Kit. Cytosolic and nuclear RNAs were measured by quantitative
+RT-PCR performed in triplicate, using the iTaq™ Universal
+SYBR<sup>®</sup> Green Super mix and a StepOne Plus qRT-PCR
+instrument. To validate the fractionation, we calculated the cytoplasmic/nuclear
+ratio of the <italic toggle="yes">GAPDH</italic> RNA. The exact values can
+be found in Supplementary Table <xref rid="MOESM1" ref-type="media">4</xref>.
+Data were normalized to 18S ribosomal RNA, which was used as an internal
+control. The primer sets used for all the all the quantitative RT-PCR assays are
+listed in Supplementary Table <xref rid="MOESM1" ref-type="media">2</xref>.</p></sec><sec id="Sec20"><title>RT-PCR and qRT-PCR</title><p id="Par47">Total cell RNA was extracted using the PureLink RNA Kit
+(Invitrogen, Cat. No 12183018 A). cDNA was synthesized from 1.0 μg of total RNA,
+using oligo-dT priming and the QuantiTect Rev. Transcription Kit (QIAGEN, Cat
+No. 205310). To monitor the RNA splicing of <italic toggle="yes">U2AF2</italic>, cDNA was used for RT-PCR. The abundance of RNA
+transcribed from a given gene, or from a given exon that may be alternatively
+spliced, was measured by quantitative RT-PCR. PCR reactions were performed in
+triplicate, using the iTaq™ Universal SYBR® Green Super mix (Biorad, Cat No.
+1725121) and a StepOne Plus qRT-PCR instrument (Thermofisher), as described
+above. Data were normalized to hGAPDH or human 18 S rRNA, which were used as
+internal controls. The primer sets used are listed in Supplemental
+Table <xref rid="MOESM1" ref-type="media">2</xref>.</p></sec><sec id="Sec21"><title>Immunoblotting</title><p id="Par48">Cells were lysed in RIPA lysis buffer {50 mM Tris (pH 7.5), 0.1%
+SDS, 150 mM NaCl, 5 mM EDTA, 0.5% Sodium deoxycholate, 1% NP-40 and fresh 1x
+Halt™ Protease and Phosphatase Inhibitor Cocktails (Thermofisher, Cat. No
+78444)}. Lysates were sonicated twice for 30 s and clarified by centrifugation
+at 18,000 × <italic toggle="yes">g</italic> for 15 min at
+4 <sup>o</sup>C. The clarified lysates were electrophoresed
+(20 μg protein per lane) in SDS-PAGE. Electrophoresed lysates were transferred
+to polyvinylidene difluoride (PVDF) membranes (EMD Millipore Cat No. IPVH00010)
+in 25 mM Tris and 192 mM glycine. Following blocking with 5% nonfat dry milk in
+TBS and 0.1% Tween-20, the membranes were probed with antibodies (at the
+recommended dilution), followed by horseradish peroxidase-labeled secondary
+antibodies (1:2500), and they were developed with Pierce ECL Western Blotting
+Substrate (Thermo Scientific, cat. no 32106). Antibodies we used for western
+blotting and chromatin immunocleavage (see below) are listed in Supplemental
+Table <xref rid="MOESM1" ref-type="media">1</xref>.</p></sec><sec id="Sec22"><title>RNA Immunoprecipitation</title><p id="Par49">Cell monolayers in 10 cm plates were treated 1% formaldehyde
+(Sigma, Cat. No. F8775) at 37oC for 15 m, to cross-link RNA to associated
+proteins. The cross-linking reaction was stopped by treatment with 0.125 M
+Glycine for 5 m at room temperature. Cells were then scraped in 1 ml of a buffer
+consisting of 1x Phosphate Buffered Saline (PBS)/Nuclear Isolation Buffer
+(1.28 M sucrose, 40 mM Tris-HCl, 20 mM MgCl<sub>2</sub>, 4% Triton-X
+100)/H<sub>2</sub>O (1:1:3 ratio). Following two additional
+washes, cell were lysed with RIP buffer 150 mM KCl, 25 mM Tris-HCl, 5 mM EDTA,
+0.5 mM DTT, 0.5% NP-40, supplemented with fresh 1x Halt™ Protease and
+Phosphatase Inhibitor Cocktails (Thermofisher, Cat. No 78444) and RNaseOUT™
+Recombinant Ribonuclease Inhibitor (Thermo Fisher, Cat. No. 10777019) and the
+lysates were incubated on ice for 10 m. The lysates were clarified by
+centrifugation at 14,000 rpm, for 30 m at 4 °C. A fraction of each sample was
+then precleared by incubation with protein A and salmon sperm DNA-bound agarose
+beads (Cell Signaling, Cat. No 9863), for 1 h in 4 °C. The precleared lysates
+were then incubated at 40 °C overnight with the immunoprecipitating antibody
+(Supplementary Table <xref rid="MOESM1" ref-type="media">1</xref>) or with the
+IgG isotype control {Rabbit Isotype Control (Thermofisher, Cat. No 10500 C or
+Mouse Isotype Control (Thermofisher, Cat. No 10400C) and for 4 additional hours
+with Pierce™ Protein A/G Magnetic Beads (Thermofisher, Cat. No. 88803). Beads
+were then washed four times with the RIP buffer and resuspended in 100uL RIP
+buffer. Next, the protein-RNA cross-linking was reversed by incubating the
+samples for 60 m at 70 °C and following this, the RNA-protein complexes were
+eluted by treatment with 0.1% SDS 100 μL RIP buffer and treatment with
+proteinase K for 60 m at 55 °C. The RNA was then extracted using a
+phenol-chloroform-isoamyl alcohol mixture and it was ethanol precipitated at
+−80 °C overnight, in the presence of yeast tRNA (10 mg/mL). The recovered RNA
+was reverse-transcribed with random hexamers and the abundance of cDNA
+corresponding to the RNA of specific target genes (IFNA1, IFNB, c-JUN and HSPB3)
+was measured by quantitative PCR using different sets of primers (Supplementary
+Table <xref rid="MOESM1" ref-type="media">2</xref>). PCR reactions in the RNA
+recovered from the immunoprecipitates and in 2% input RNA were carried out in
+triplicate, using the iTaq™ Universal SYBR<sup>®</sup> Green
+Super mix (Bio-Rad, Cat No. 1725121) and a StepOne Plus qRT-PCR instrument
+(Thermofisher). The data were analyzed the analysis file provided online by
+Sigma-Aldrich. (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.sigmaaldrich.com/technical-documents/articles/biology/chip-qpcr-data-analysis.html">https://www.sigmaaldrich.com/technical-documents/articles/biology/chip-qpcr-data-analysis.html</ext-link>). SNRNP-70 binding in the human U1 snRNP gene, using the primers
+F: 5′-GGG AGA TAC CAT GAT CAC GAA GGT-3′, R: 5′-CCA CAA ATT ATG CAG TCG AGT TTC
+CC-3′, was used as the control for RNA IPs. The detailed protocol and buffer
+preparation can be found in the online protocols’
+depository<sup><xref ref-type="bibr" rid="CR50">50</xref></sup>.</p></sec><sec id="Sec23"><title>Chromatin ImmunoCleavage (ChIC)</title><p id="Par50">The binding of p-STAT1 on the ISREs in the promoters of the
+IFN-stimulated genes <italic toggle="yes">IRF1</italic>, <italic toggle="yes">IRF9</italic>, <italic toggle="yes">STAT1</italic> and
+<italic toggle="yes">STAT2</italic>, was addressed by chromatin
+Immunocleavage<sup><xref ref-type="bibr" rid="CR3">3</xref>,<xref ref-type="bibr" rid="CR51">51</xref> [51]</sup>. 2.5×10<sup>5</sup>
+cells were washed several times with wash buffer (20 mM HEPES (pH 7.5), 150 mM
+NaCl, 0.5 mM Spermidine) in the presence of fresh 1x Halt™ Protease and
+Phosphatase Inhibitor Cocktails. Magnetic Biomag Plus Concanavalin A Beads
+(Bangs Laboratories, Cat. No. BP531) were activated with multiple washes using a
+binding buffer (20 mM HEPES-KOH (pH 7.9), 10 mM KCl, 1 mM
+CaCl<sub>2</sub>, 1 mM MnCl<sub>2</sub>). Prior to
+use, the immunoprecipitation antibodies (Supplementary Table <xref rid="MOESM1" ref-type="media">1</xref>) or the Rabbit Isotype Control (Thermofisher,
+Cat. No 10500C), were diluted in 1:50 dilution in 50 μL antibody buffer (2 mM
+EDTA (pH 8.0), 0.1% (wt/vol) digitonin diluted in wash buffer). Then, the
+activated beads were resuspended with the antibody buffer, containing the
+immunoprecipitated antibody, and mixed with the cell fraction. Following
+overnight incubation at 4 °C, the immunoprecipitated were subjected to multiple
+washes with the wash buffer. Similarly, to the primary immunoprecipitating
+antibody, the Guinea Pig anti-Rabbit IgG (Heavy &amp; Light Chain) secondary
+antibody (Antibodies-Online, Cat. No. ABIN101961) was diluted in 1:50 dilution
+in 50 μL antibody buffer, was mixed with the immunoprecipitates and incubated
+for 4 h at 4 °C. Subsequently, the immunoprecipitates were subjected to multiple
+washes with the wash buffer and mixed with the CUTANA™ pAG-MNase (EpiCypher, Cat
+No. SKU: 15-1116) at 700 ng/mL. The targeted digestion was activated with 100 mM
+CaCl<sub>2</sub> and occurred by incubation on ice for 30 m. The
+reaction was terminated with addition of 2x stop buffer (340 mM NaCl, 20 mM EDTA
+(pH 8.0), 4 mM EGTA, 0.1% (wt/vol) digitonin, 0.2 mg RNAse A, 0.02 mg Glycogen)
+and the chromatin fragments were released by incubation at 37 °C for 10 m.
+Subsequently, the chromatin fragments were extracted with DNA Purification
+Buffers and Spin Columns (Cell Signaling Technologies, Cat. No 14209). Real-time
+PCR using different sets of primers (Supplementary Table <xref rid="MOESM1" ref-type="media">2</xref>) to amplify the <italic toggle="yes">ISRE</italic> genomic loci of several ISGs was carried out in the
+immunoprecipitated DNA, as well as in the IgG-immunoprecipitated DNA, by using
+the iTaq™ Universal SYBR<sup>®</sup> Green Super mix (Bio-Rad,
+Cat No. 1725121) and a StepOne Plus qRT-PCR machine (Thermofisher). The data
+were analyzed using the analysis substrate file provided online by
+Sigma-Aldrich, calculating the fold enrichment. (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.sigmaaldrich.com/technical-documents/articles/biology/chip-qpcr-data-analysis.html">https://www.sigmaaldrich.com/technical-documents/articles/biology/chip-qpcr-data-analysis.html</ext-link>). This is based on the previously published protocol of ChIC
+assays.</p></sec><sec id="Sec24"><title>Virus-induced cell death</title><p id="Par51">To quantitatively measure virus-induced cell death, NCI-H522 and
+NC-H1299 cells were plated in 24-well plates and they were infected with
+VSV-GFP, or Reovirus at increasing MOI. Sixteen hours later (VSV-GFP), or 48 h
+later (Reovirus), infected cells, and control uninfected cells were treated with
+resazurin, which is reduced to resorufin in viable cells, in a reaction that can
+be easily monitored because resorufin is fluorescent
+(λ<sub>abs</sub>/λ<sub>em</sub> = 571/585 nm).
+Control virus-infected and uninfected cells were treated with DMSO and their
+cell viability was measured with alamarBlue™ HS Cell Viability Reagent (Thermo
+Fisher Cat. No A50100). Cell death measured, based on the fluorescence emitted
+following the reduction of resazurin, in virus-infected and uninfected cells was
+normalized, relative to the cell death detected in DMSO-treated control cells.
+The acquisition was performed at 570 nm using a SpectraMax iD5 v1.6 (Molecular
+Devices San Jose, CA). The percentage of surviving cells, following virus
+infection with different MOI was determined based on the comparison of the
+normalized values in virus infected and uninfected cells. The results were
+plotted using non-linear regression in GraphPad Prism 8.4</p></sec><sec id="Sec25"><title>Intronless genes and motif analysis</title><p id="Par52">The sequences of all human intronless genes were retrieved from
+Ensembl<sup><xref ref-type="bibr" rid="CR52">52</xref></sup> using biomaRt R<sup><xref ref-type="bibr" rid="CR53">53</xref></sup>. Precisely, by using
+biomaRt, we selected all human genes which had a single exon reported on
+Ensembl. Then, we annotated all these genes by using org.Hs.eg.db R
+package<sup><xref ref-type="bibr" rid="CR54">54</xref></sup>. All the non-annotated genes and low count
+genes in lung epithelial cells derived from ENCODE were filtered. Finally, we
+made a custom FASTA file containing the exon sequence of all annotated
+intronless genes by using an ad hoc R script. For the motif analysis, the FASTA
+file was analyzed with the FIMO algorithm of the MEME suite (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://meme-suite.org/meme/tools/fimo">https://meme-suite.org/meme/tools/fimo</ext-link>)<sup><xref ref-type="bibr" rid="CR25">25</xref></sup> for the identification of CAR-E, using the
+known motif: [B][CA][AT]GH[AT][CG][CG][AT][CG], following standard parameters.
+The results of the motif analysis are available as Supplementary
+Data <xref rid="MOESM3" ref-type="media">1</xref>.</p></sec><sec id="Sec26"><title>Image acquisition and figure preparation</title><p id="Par53">Western blot images were acquired, using the Li-Cor Fc Odyssey
+Imaging System (LI-COR Biosciences, Lincoln, NE). Using a linear acquisition
+detection method, images were acquired in the 700 nm channel (protein ladder),
+in the 800 nm channel reduced background and increased sensitivity) and
+chemiluminescent channel (protein bands). For the DNA agarose gels, images were
+acquired using again the Li-Cor Fc Odyssey Imaging System and a linear image
+acquisition method in the 600 nm channel. All the images in this report were
+similarly acquired to ensure that the analysis is unbiased. The images were
+exported in high-quality image files (600 dpi png files), which were imported in
+Adobe Illustrator 2021 (Adobe, San Jose, CA) for the preparation of the
+figures.</p></sec><sec id="Sec27"><title>Human tumor samples</title><p id="Par54">The 6 Lung Adenocarcinoma samples used in this report have been
+previously described in our earlier studies for the role of IWS1 in lung
+cancer<sup><xref ref-type="bibr" rid="CR1">1</xref>,<xref ref-type="bibr" rid="CR3">3</xref></sup>). The tissues were obtained from the Tissue
+Bank of The Ohio State University, under the universal consenting and biobanking
+protocol, Total Cancer Care (TCC) and from the tissue bank of Tufts Medical
+Center, after written consent and review of the bioethics board committee. TCC
+is the single protocol used by the Oncology Research Information Exchange
+Network (ORIEN), which was formed through a partnership between the OSUCCC
+– James and Moffitt Cancer Center in Tampa, FL. For more information,
+please advise the Biospecimen Core Services facility of The Ohio State
+university Comprehensive Cancer Center (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://cancer.osu.edu/for-cancer-researchers/resources-for-cancer-researchers/shared-resources/biospecimen-services">https://cancer.osu.edu/for-cancer-researchers/resources-for-cancer-researchers/shared-resources/biospecimen-services</ext-link>) and ORIEN project (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://cancer.osu.edu/for-cancer-researchers/resources-for-cancer-researchers/orien">https://cancer.osu.edu/for-cancer-researchers/resources-for-cancer-researchers/orien</ext-link>). The tumor samples in this study were provided as unidentified
+samples.</p></sec><sec id="Sec28"><title>TCGA/RPPA analysis</title><p id="Par55">TCGA data were downloaded from <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://portal.gdc.cancer.gov/">https://portal.gdc.cancer.gov/</ext-link>. Overall 658 TCGA-LUAD patients (all stages) were available. In
+addition to the RNASeq data, 516 of the 658 patients also had RPPA data on
+p-c-JUN S73 and IWS1. Heatmaps showing the distribution of the relative
+abundance of <italic toggle="yes">IWS1, IFNA1, IFNB1, JUN</italic> and
+<italic toggle="yes">HSPB3</italic> and correlation co-efficience
+graphs were generated using the visualization tools of the Xena browser (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://xena.ucsc.edu">http://xena.ucsc.edu</ext-link>) and GraphPad Prism 8.4.</p></sec><sec id="Sec29"><title>Statistical analyses</title><p id="Par56">All the statistical analysis were performed, using GraphPad Prism.
+Details on the statistical tests used, can be found in the corresponding figure
+legend. All the statistical analyses reports can be found in the Mendeley
+dataset where the source data of this report were
+deposited<sup><xref ref-type="bibr" rid="CR55">55</xref></sup> (10.17632/853gfbbx7m.3).</p></sec><sec id="Sec30"><title>Third party images</title><p id="Par57">The schematic for β-globin CAR-E reporter (Fig. <xref rid="Fig5" ref-type="fig">5</xref>), the cartoon outlining the experiment of ISG
+induction by infection of NCI-H522 cells with VSV-GFP and the effect of the
+treatment of naïve NCI-H522 cells with culture supernatants of the
+VSV-GFP-infected NCI-H522 cells (Fig. <xref rid="Fig6" ref-type="fig">6b</xref>), as well as the cartoon summarizing the data in this report
+(Fig. <xref rid="Fig8" ref-type="fig">8</xref>), were created with Bio
+Render.com (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://biorender.com">https://biorender.com</ext-link>). Georgios I. Laliotis created the images. Philip N. Tsichlis and
+Georgios I. Laliotis edited them in their final version. The authors used a paid
+student plan promo (legacy) with the Agreement Numbers OO22MW9YPA, UR22MWA47E,
+<italic toggle="yes">SC22PV8Z05</italic> for Figs. <xref rid="Fig5" ref-type="fig">5</xref>, <xref rid="Fig6" ref-type="fig">6</xref> and
+<xref rid="Fig8" ref-type="fig">8</xref>, respectively, for granted
+publication access.</p></sec><sec id="Sec31"><title>Statistics and reproducibility</title><p id="Par58">The experiments in Figs. <xref rid="Fig1" ref-type="fig">1</xref>a–d, <xref rid="Fig2" ref-type="fig">2</xref>a–f, <xref rid="Fig3" ref-type="fig">3</xref>a, b,
+<xref rid="Fig4" ref-type="fig">4</xref>a, b, <xref rid="Fig6" ref-type="fig">6a–d</xref>, Supplementary Figs. <xref rid="MOESM1" ref-type="media">5a–c</xref>, <xref rid="MOESM1" ref-type="media">7a,
+b</xref>, Supplementary Fig. 7a–c, were performed at least in 3
+independent biological experiments. The data in Fig. <xref rid="Fig4" ref-type="fig">4b</xref> (patients’ data) were performed once, using 3
+patients/group. The human β-globin CAR-E reporter transient transfection in
+Fig. <xref rid="Fig5" ref-type="fig">5</xref> and Supplementary
+Fig. <xref rid="MOESM1" ref-type="media">4</xref> and the Poly (I:C) and
+IFNβ1 stimulation in Fig. <xref rid="Fig1" ref-type="fig">1d</xref> and
+Supplementary Fig. <xref rid="MOESM1" ref-type="media">5</xref>, respectively,
+were performed twice. All the attempts at replications were successful. All the
+statistical analysis was performed in GraphPad Prism, as described in the
+corresponding section. All the statistical analysis reports can be found in the
+Mendeley dataset<sup><xref ref-type="bibr" rid="CR55">55</xref></sup> (10.17632/853gfbbx7m.3).</p></sec><sec id="Sec32"><title>Reporting summary</title><p id="Par59">Further information on research design is available in
+the <xref rid="MOESM7" ref-type="media">Nature Research Reporting
+Summary</xref> linked to this article.</p></sec></sec><sec sec-type="supplementary-material"><title>Supplementary information</title><sec id="Sec33"><p>
+<supplementary-material content-type="local-data" id="MOESM1" position="float" orientation="portrait"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="42003_2021_2668_MOESM1_ESM.pdf" position="float" orientation="portrait"><caption><p>Supplementary Information</p></caption></media></supplementary-material>
+<supplementary-material content-type="local-data" id="MOESM2" position="float" orientation="portrait"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="42003_2021_2668_MOESM2_ESM.pdf" position="float" orientation="portrait"><caption><p>Description of Additional Supplementary
+Files</p></caption></media></supplementary-material>
+<supplementary-material content-type="local-data" id="MOESM3" position="float" orientation="portrait"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="42003_2021_2668_MOESM3_ESM.xlsx" position="float" orientation="portrait"><caption><p>Supplementary Data 1</p></caption></media></supplementary-material>
+<supplementary-material content-type="local-data" id="MOESM4" position="float" orientation="portrait"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="42003_2021_2668_MOESM4_ESM.txt" position="float" orientation="portrait"><caption><p>Supplementary Data 2</p></caption></media></supplementary-material>
+<supplementary-material content-type="local-data" id="MOESM5" position="float" orientation="portrait"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="42003_2021_2668_MOESM5_ESM.zip" position="float" orientation="portrait"><caption><p>Supplementary Data 3</p></caption></media></supplementary-material>
+<supplementary-material content-type="local-data" id="MOESM6" position="float" orientation="portrait"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="42003_2021_2668_MOESM6_ESM.xlsx" position="float" orientation="portrait"><caption><p>Supplementary Data 4</p></caption></media></supplementary-material>
+<supplementary-material content-type="local-data" id="MOESM7" position="float" orientation="portrait"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="42003_2021_2668_MOESM7_ESM.pdf" position="float" orientation="portrait"><caption><p>Reporting Summary</p></caption></media></supplementary-material>
+</p></sec></sec></body><back><fn-group><fn><p>This article has been retracted. Please see the retraction notice for more detail:<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://doi.org/10.1038/s42003-021-02941-1">https://doi.org/10.1038/s42003-021-02941-1</ext-link></p></fn><fn><p><bold>Peer review information</bold>
+<italic toggle="yes">Communications Biology</italic> thanks Sheila Graham, and
+the other, anonymous, reviewers for their contribution to the peer review of this
+work. Primary Handling Editors: Jun Wei Pek and Eve Rogers.</p></fn><fn><p><bold>Publisher’s note</bold> Springer Nature remains
+neutral with regard to jurisdictional claims in published maps and institutional
+affiliations.</p></fn><fn><p><bold>Change history</bold></p><p>12/15/2021</p><p>This article has been retracted. Please see the Retraction Notice for more detail: 10.1038/s42003-021-02941-1</p></fn></fn-group><sec><title>Supplementary information</title><p>The online version contains supplementary material available at 10.1038/s42003-021-02668-z.</p></sec><ack><title>Acknowledgements</title><p>The authors wish to thank all the members of the Tsichlis Lab for helpful
+discussions. We also thank Dr Samir Achaya for reviewing the manuscript before the
+submission. This work was supported by the NIH grant R01 CA186729 to P.N.T., the NIH
+grant R01 CA198117 to P.N.T. and V.C., by start-up funds from the OSUCCC to P.N.T.,
+from the National Center for Advancing Translational Sciences grant KL2TR002734 to
+L.S. G.I.L. was supported by the Pelotonia Post-Doctoral fellowship from
+OSUCCC.</p></ack><notes notes-type="author-contribution"><title>Author contributions</title><p>G.I.L.: Conceptualization, overall experimental design. Performed
+experiments, analyzed the data, prepared figures and wrote the manuscript. A.D.K.:
+Designed and performed all the infections with viral strains, optimized, performed
+and analyzed the flow cytometry experiments and edited the manuscript. E.C.:
+Designed and performed with G.I.L. the time point interval experiment for p-STAT1
+activation and Caspase-mediated death in Figs. <xref rid="Fig6" ref-type="fig">6</xref>, <xref rid="Fig7" ref-type="fig">7</xref>, edited the
+manuscript. A.O.: Assisted in the time point interval experiment for
+Caspase-mediated death and edited the manuscript. A.K.K: Performed the cloning of
+the type I IFN vectors for RNA Pol II and III promoter expression, performed RT-PCR
+experiments. A.L.F.: Bioinformatics analyses of TCGA data and intronless genes
+mining, edited the manuscript. V.A.: Assisted in the time point interval experiment
+for p-STAT1 activation and edited the manuscript. J.D.B.: Advised on the design of
+experiments and edited the manuscript. C.T.: Advised on the design of experiments
+and edited the manuscript. L.S.: Advised on the design of experiments and edited the
+manuscript. V.C.: Contributed to overall experimental design, edited the manuscript.
+J.S.Y.: Designed the viral infection experiments and contributed to overall
+experimental design, edited the manuscript. P.N.T.: Conceptualization, overall
+experimental design, project supervision, manuscript writing and
+editing.</p></notes><notes notes-type="data-availability"><title>Code availability</title><p>All the code used for the analysis in this report is derived from previously
+published reports. It is also explained and cited in the appropriate methods
+section.</p></notes><notes notes-type="data-availability"><title>Data availability</title><p>All the raw data underlying Figs. <xref rid="Fig1" ref-type="fig">1</xref>–<xref rid="Fig8" ref-type="fig">8</xref> (uncropped
+gel images, chart and bar data, qPCR, Flow Cytometry and plate reader data), derived
+from this report have been deposited in a publicly available Mendeley dataset
+(Laliotis et al. <sup><xref ref-type="bibr" rid="CR55">55</xref></sup>, 10.17632/853gfbbx7m.3). Specific <italic toggle="yes">P</italic> values are also
+included in this dataset. The list of human intronless transcripts, along with the
+results of the FIMO motif analysis for the position of CAR-E in each gene, are
+provided as Supplementary Data <xref rid="MOESM3" ref-type="media">1</xref>. The
+FASTA file of all the selected human intronless genes for the motif analysis are
+provided in the Mendeley dataset (Laliotis et al. <sup><xref ref-type="bibr" rid="CR55">55</xref></sup>, 10.17632/853gfbbx7m.3). The latest version of Ensembl database can be downloaded through
+the Ensembl project (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://useast.ensembl.org/info/data/ftp/index.html">http://useast.ensembl.org/info/data/ftp/index.html</ext-link>) or github (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://github.com/Ensembl/ensembl-hive">https://github.com/Ensembl/ensembl-hive</ext-link>). All the uncropped WB and PCR gels are provided as Supplementary
+Data <xref rid="MOESM5" ref-type="media">3</xref>. All the chart and bar data are
+provided as Supplementary Data <xref rid="MOESM6" ref-type="media">4</xref>.</p></notes><notes id="FPar1" notes-type="COI-statement"><title>Competing interests</title><p id="Par60">The authors declare no competing interests.</p></notes><ref-list id="Bib1"><title>References</title><ref id="CR1"><label>1.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Sanidas</surname><given-names>I</given-names></name><etal/></person-group><article-title>Phosphoproteomics screen reveals akt
+isoform-specific signals linking RNA processing to lung
+cancer</article-title><source>Mol. Cell</source><year>2014</year><volume>53</volume><fpage>577</fpage><lpage>590</lpage><pub-id pub-id-type="pmid">24462114</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.molcel.2013.12.018</pub-id><pub-id pub-id-type="pmcid">PMC3947584</pub-id></element-citation></ref><ref id="CR2"><label>2.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Zhou</surname><given-names>Z</given-names></name><etal/></person-group><article-title>The Akt-SRPK-SR axis constitutes a major pathway in
+transducing EGF signaling to regulate alternative splicing in the
+nucleus</article-title><source>Mol. Cell</source><year>2012</year><volume>47</volume><fpage>422</fpage><lpage>433</lpage><pub-id pub-id-type="pmid">22727668</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.molcel.2012.05.014</pub-id><pub-id pub-id-type="pmcid">PMC3418396</pub-id></element-citation></ref><ref id="CR3"><label>3.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Laliotis</surname><given-names>GI</given-names></name><etal/></person-group><article-title>AKT3-mediated IWS1 phosphorylation promotes the
+proliferation of EGFR-mutant lung adenocarcinomas through cell
+cycle-regulated <italic toggle="yes">U2AF2</italic> RNA
+splicing</article-title><source>Nat. Commun.</source><year>2021</year><volume>12</volume><fpage>4624</fpage><pub-id pub-id-type="pmid">34330897</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41467-021-24795-1</pub-id><pub-id pub-id-type="pmcid">PMC8324843</pub-id><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="retraction-forward" ext-link-type="pmc" xlink:href="PMC9245574"/><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="statement-of-misconduct" ext-link-type="pmc" xlink:href="PMC10310531"/></element-citation></ref><ref id="CR4"><label>4.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Lei</surname><given-names>H</given-names></name><name name-style="western"><surname>Zhai</surname><given-names>B</given-names></name><name name-style="western"><surname>Yin</surname><given-names>S</given-names></name><name name-style="western"><surname>Gygi</surname><given-names>S</given-names></name><name name-style="western"><surname>Reed</surname><given-names>R</given-names></name></person-group><article-title>Evidence that a consensus element found in naturally
+intronless mRNAs promotes mRNA export</article-title><source>Nucleic Acids Res.</source><year>2013</year><volume>41</volume><fpage>2517</fpage><lpage>2525</lpage><pub-id pub-id-type="pmid">23275560</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/nar/gks1314</pub-id><pub-id pub-id-type="pmcid">PMC3575797</pub-id></element-citation></ref><ref id="CR5"><label>5.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>de Padilla</surname><given-names>CML</given-names></name><name name-style="western"><surname>Niewold</surname><given-names>TB</given-names></name></person-group><article-title>The type I interferons: Basic concepts and clinical
+relevance in immune-mediated inflammatory diseases</article-title><source>Gene</source><year>2016</year><volume>576</volume><fpage>14</fpage><lpage>21</lpage><pub-id pub-id-type="pmid">26410416</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.gene.2015.09.058</pub-id><pub-id pub-id-type="pmcid">PMC4666791</pub-id></element-citation></ref><ref id="CR6"><label>6.</label><mixed-citation publication-type="other">Frisch, S. M. and MacFawn, I. P. Type I interferons and related
+pathways in cell senescence. <italic toggle="yes">Aging Cell</italic><bold>19</bold>, e13234. (2020)<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/acel.13234</pub-id><pub-id pub-id-type="pmcid">PMC7576263</pub-id><pub-id pub-id-type="pmid">32918364</pub-id></mixed-citation></ref><ref id="CR7"><label>7.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Schreiber</surname><given-names>G</given-names></name></person-group><article-title>The molecular basis for differential type I
+interferon signaling</article-title><source>J. Biol. Chem.</source><year>2017</year><volume>292</volume><fpage>7285</fpage><lpage>7294</lpage><pub-id pub-id-type="pmid">28289098</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1074/jbc.R116.774562</pub-id><pub-id pub-id-type="pmcid">PMC5418031</pub-id></element-citation></ref><ref id="CR8"><label>8.</label><mixed-citation publication-type="other">Acosta, P. L., Byrne, A. B., Hijano, D. R. &amp; Talarico, L. B.
+Human type I interferon antiviral effects in respiratory and re emerging viral
+infections. <italic toggle="yes">J. Immunol. Res.</italic><bold>2020</bold>, 1372494 (2020).<pub-id pub-id-type="doi" assigning-authority="pmc">10.1155/2020/1372494</pub-id><pub-id pub-id-type="pmcid">PMC7231083</pub-id><pub-id pub-id-type="pmid">32455136</pub-id></mixed-citation></ref><ref id="CR9"><label>9.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Amarante-Mendes</surname><given-names>GP</given-names></name><etal/></person-group><article-title>Pattern recognition receptors and the host cell
+death molecular machinery</article-title><source>Front. Immunol.</source><year>2018</year><volume>9</volume><fpage>2379</fpage><pub-id pub-id-type="pmid">30459758</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fimmu.2018.02379</pub-id><pub-id pub-id-type="pmcid">PMC6232773</pub-id></element-citation></ref><ref id="CR10"><label>10.</label><mixed-citation publication-type="other">Ablasser, A. and Hur, S. Regulation of cGAS-and RLR-mediated
+immunity to nucleic acids. <italic toggle="yes">Nat. Immunol.</italic><bold>21</bold>, 17–29 (2019).<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41590-019-0556-1</pub-id><pub-id pub-id-type="pmid">31819255</pub-id></mixed-citation></ref><ref id="CR11"><label>11.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Aleynick</surname><given-names>M</given-names></name><name name-style="western"><surname>Svensson-Arvelund</surname><given-names>J</given-names></name><name name-style="western"><surname>Flowers</surname><given-names>CR</given-names></name><name name-style="western"><surname>Marabelle</surname><given-names>A</given-names></name><name name-style="western"><surname>Brody</surname><given-names>JD</given-names></name></person-group><article-title>Pathogen molecular pattern receptor agonists:
+treating cancer by mimicking infection</article-title><source>Clin. Cancer Res.</source><year>2019</year><volume>25</volume><fpage>6283</fpage><lpage>6294</lpage><pub-id pub-id-type="pmid">31123052</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/1078-0432.CCR-18-1800</pub-id><pub-id pub-id-type="pmcid">PMC11734666</pub-id></element-citation></ref><ref id="CR12"><label>12.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Lu</surname><given-names>R</given-names></name><name name-style="western"><surname>Au</surname><given-names>WC</given-names></name><name name-style="western"><surname>Yeow</surname><given-names>WS</given-names></name><name name-style="western"><surname>Hageman</surname><given-names>N</given-names></name><name name-style="western"><surname>Pitha</surname><given-names>PM</given-names></name></person-group><article-title>Regulation of the promoter activity of interferon
+regulatory factor-7 gene activation by interferon and silencing by
+hypermethylation</article-title><source>J. Biol. Chem.</source><year>2000</year><volume>275</volume><fpage>31805</fpage><lpage>31812</lpage><pub-id pub-id-type="pmid">10924517</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1074/jbc.M005288200</pub-id></element-citation></ref><ref id="CR13"><label>13.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Conzelmann</surname><given-names>KK</given-names></name></person-group><article-title>Transcriptional activation of alpha/beta interferon
+genes: interference by nonsegmented negative-strand RNA
+viruses</article-title><source>J. Virol.</source><year>2005</year><volume>79</volume><fpage>5241</fpage><lpage>5248</lpage><pub-id pub-id-type="pmid">15827138</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1128/JVI.79.9.5241-5248.2005</pub-id><pub-id pub-id-type="pmcid">PMC1082782</pub-id></element-citation></ref><ref id="CR14"><label>14.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Lazear</surname><given-names>HM</given-names></name><etal/></person-group><article-title>IRF-3, IRF-5, and IRF-7 coordinately regulate the
+type I IFN response in myeloid dendritic cells downstream of MAVS
+signaling</article-title><source>PLoS Pathog.</source><year>2013</year><volume>9</volume><fpage>e1003118</fpage><pub-id pub-id-type="pmid">23300459</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.ppat.1003118</pub-id><pub-id pub-id-type="pmcid">PMC3536698</pub-id></element-citation></ref><ref id="CR15"><label>15.</label><mixed-citation publication-type="other">Park, A. K. et al. Effective combination immunotherapy using
+oncolytic viruses to deliver CAR targets to solid tumors. <italic toggle="yes">Sci. Transl. Med.</italic><bold>12</bold>, eaaz1863 (2020).<pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/scitranslmed.aaz1863</pub-id><pub-id pub-id-type="pmcid">PMC9126033</pub-id><pub-id pub-id-type="pmid">32878978</pub-id></mixed-citation></ref><ref id="CR16"><label>16.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Rehman</surname><given-names>H</given-names></name><name name-style="western"><surname>Silk</surname><given-names>AW</given-names></name><name name-style="western"><surname>Kane</surname><given-names>MP</given-names></name><name name-style="western"><surname>Kaufman</surname><given-names>HL</given-names></name></person-group><article-title>Into the clinic: talimogene laherparepvec (T-VEC), a
+first-in-class intratumoral oncolytic viral therapy</article-title><source>J. Immunother. Cancer</source><year>2016</year><volume>4</volume><fpage>1</fpage><lpage>8</lpage><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s40425-016-0158-5</pub-id><pub-id pub-id-type="pmcid">PMC5029010</pub-id><pub-id pub-id-type="pmid">27660707</pub-id></element-citation></ref><ref id="CR17"><label>17.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Martinez-Quintanilla</surname><given-names>J</given-names></name><name name-style="western"><surname>Seah</surname><given-names>I</given-names></name><name name-style="western"><surname>Chua</surname><given-names>M</given-names></name><name name-style="western"><surname>Shah</surname><given-names>K</given-names></name></person-group><article-title>Oncolytic viruses: overcoming translational
+challenges</article-title><source>J. Clin. Investig.</source><year>2019</year><volume>129</volume><fpage>1407</fpage><lpage>1418</lpage><pub-id pub-id-type="pmid">30829653</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1172/JCI122287</pub-id><pub-id pub-id-type="pmcid">PMC6436848</pub-id></element-citation></ref><ref id="CR18"><label>18.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Kroczynska</surname><given-names>B</given-names></name><name name-style="western"><surname>Mehrotra</surname><given-names>S</given-names></name><name name-style="western"><surname>Arslan</surname><given-names>AD</given-names></name><name name-style="western"><surname>Kaur</surname><given-names>S</given-names></name><name name-style="western"><surname>Platanias</surname><given-names>LC</given-names></name></person-group><article-title>Regulation of interferon-dependent mRNA translation
+of target genes</article-title><source>J. Interferon Cytokine Res.</source><year>2014</year><volume>34</volume><fpage>289</fpage><lpage>296</lpage><pub-id pub-id-type="pmid">24559173</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1089/jir.2013.0148</pub-id><pub-id pub-id-type="pmcid">PMC3976582</pub-id></element-citation></ref><ref id="CR19"><label>19.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Gantner</surname><given-names>BN</given-names></name><etal/></person-group><article-title>The Akt1 isoform is required for optimal IFN-β
+transcription through direct phosphorylation of β-catenin</article-title><source>J. Immunol.</source><year>2012</year><volume>189</volume><fpage>3104</fpage><lpage>3111</lpage><pub-id pub-id-type="pmid">22904301</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.4049/jimmunol.1201669</pub-id><pub-id pub-id-type="pmcid">PMC3658160</pub-id></element-citation></ref><ref id="CR20"><label>20.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Ezell</surname><given-names>SA</given-names></name><etal/></person-group><article-title>The protein kinase Akt1 regulates the interferon
+response through phosphorylation of the transcriptional repressor
+EMSY</article-title><source>Proc. Natl Acad. Sci.</source><year>2012</year><volume>109</volume><fpage>E613</fpage><lpage>E621</lpage><pub-id pub-id-type="pmid">22315412</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.1115029109</pub-id><pub-id pub-id-type="pmcid">PMC3309773</pub-id></element-citation></ref><ref id="CR21"><label>21.</label><mixed-citation publication-type="other">Hogg, R., McGrail, J. C. &amp; O’Keefe, R. T. The function of the
+NineTeen Complex (NTC) in regulating spliceosome conformations and fidelity
+during pre-mRNA splicing. <italic toggle="yes">Biochem. Soc.
+Trans.</italic><bold>38</bold>, 1110–1115 (2010).<pub-id pub-id-type="doi" assigning-authority="pmc">10.1042/BST0381110</pub-id><pub-id pub-id-type="pmcid">PMC4234902</pub-id><pub-id pub-id-type="pmid">20659013</pub-id></mixed-citation></ref><ref id="CR22"><label>22.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Chanarat</surname><given-names>S</given-names></name><name name-style="western"><surname>Sträßer</surname><given-names>K</given-names></name></person-group><article-title>Splicing and beyond: the many faces of the Prp19
+complex</article-title><source>Biochim. Biophys. Acta (BBA)—Mol. Cell Res.</source><year>2013</year><volume>1833</volume><fpage>2126</fpage><lpage>2134</lpage><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bbamcr.2013.05.023</pub-id><pub-id pub-id-type="pmid">23742842</pub-id></element-citation></ref><ref id="CR23"><label>23.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Yount</surname><given-names>JS</given-names></name><name name-style="western"><surname>Kraus</surname><given-names>TA</given-names></name><name name-style="western"><surname>Horvath</surname><given-names>CM</given-names></name><name name-style="western"><surname>Moran</surname><given-names>TM</given-names></name><name name-style="western"><surname>López</surname><given-names>CB</given-names></name></person-group><article-title>A novel role for viral-defective interfering
+particles in enhancing dendritic cell maturation</article-title><source>J. Immunol.</source><year>2006</year><volume>177</volume><fpage>4503</fpage><lpage>4513</lpage><pub-id pub-id-type="pmid">16982887</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.4049/jimmunol.177.7.4503</pub-id></element-citation></ref><ref id="CR24"><label>24.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Bedsaul</surname><given-names>JR</given-names></name><name name-style="western"><surname>Zaritsky</surname><given-names>LA</given-names></name><name name-style="western"><surname>Zoon</surname><given-names>KC</given-names></name></person-group><article-title>Type I interferon-mediated induction of antiviral
+genes and proteins fails to protect cells from the cytopathic effects of
+Sendai virus infection</article-title><source>J. Interferon Cytokine Res.</source><year>2016</year><volume>36</volume><fpage>652</fpage><lpage>665</lpage><pub-id pub-id-type="pmid">27508859</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1089/jir.2016.0051</pub-id><pub-id pub-id-type="pmcid">PMC5105340</pub-id></element-citation></ref><ref id="CR25"><label>25.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Grant</surname><given-names>CE</given-names></name><name name-style="western"><surname>Bailey</surname><given-names>TL</given-names></name><name name-style="western"><surname>Noble</surname><given-names>WS</given-names></name></person-group><article-title>FIMO: scanning for occurrences of a given
+motif</article-title><source>Bioinformatics</source><year>2011</year><volume>27</volume><fpage>1017</fpage><lpage>1018</lpage><pub-id pub-id-type="pmid">21330290</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/bioinformatics/btr064</pub-id><pub-id pub-id-type="pmcid">PMC3065696</pub-id></element-citation></ref><ref id="CR26"><label>26.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>David</surname><given-names>CJ</given-names></name><name name-style="western"><surname>Boyne</surname><given-names>AR</given-names></name><name name-style="western"><surname>Millhouse</surname><given-names>SR</given-names></name><name name-style="western"><surname>Manley</surname><given-names>JL</given-names></name></person-group><article-title>The RNA polymerase II C-terminal domain promotes
+splicing activation through recruitment of a U2AF65–Prp19
+complex</article-title><source>Genes Dev.</source><year>2011</year><volume>25</volume><fpage>972</fpage><lpage>983</lpage><pub-id pub-id-type="pmid">21536736</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1101/gad.2038011</pub-id><pub-id pub-id-type="pmcid">PMC3084030</pub-id></element-citation></ref><ref id="CR27"><label>27.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Schramm</surname><given-names>L</given-names></name><name name-style="western"><surname>Hernandez</surname><given-names>N</given-names></name></person-group><article-title>Recruitment of RNA polymerase III to its target
+promoters</article-title><source>Genes Dev.</source><year>2002</year><volume>16</volume><fpage>2593</fpage><lpage>2620</lpage><pub-id pub-id-type="pmid">12381659</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1101/gad.1018902</pub-id></element-citation></ref><ref id="CR28"><label>28.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Dias</surname><given-names>AP</given-names></name><name name-style="western"><surname>Dufu</surname><given-names>K</given-names></name><name name-style="western"><surname>Lei</surname><given-names>H</given-names></name><name name-style="western"><surname>Reed</surname><given-names>R</given-names></name></person-group><article-title>A role for TREX components in the release of spliced
+mRNA from nuclear speckle domains</article-title><source>Nat. Commun.</source><year>2010</year><volume>1</volume><fpage>1</fpage><lpage>10</lpage><pub-id pub-id-type="pmid">20981025</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/ncomms1103</pub-id><pub-id pub-id-type="pmcid">PMC3793428</pub-id></element-citation></ref><ref id="CR29"><label>29.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Lei</surname><given-names>H</given-names></name><name name-style="western"><surname>Dias</surname><given-names>AP</given-names></name><name name-style="western"><surname>Reed</surname><given-names>R</given-names></name></person-group><article-title>Export and stability of naturally intronless mRNAs
+require specific coding region sequences and the TREX mRNA export
+complex</article-title><source>Proc. Natl Acad. Sci.</source><year>2011</year><volume>108</volume><fpage>17985</fpage><lpage>17990</lpage><pub-id pub-id-type="pmid">22010220</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.1113076108</pub-id><pub-id pub-id-type="pmcid">PMC3207654</pub-id></element-citation></ref><ref id="CR30"><label>30.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Valencia</surname><given-names>P</given-names></name><name name-style="western"><surname>Dias</surname><given-names>AP</given-names></name><name name-style="western"><surname>Reed</surname><given-names>R</given-names></name></person-group><article-title>Splicing promotes rapid and efficient mRNA export in
+mammalian cells</article-title><source>Proc. Natl Acad. Sci.</source><year>2008</year><volume>105</volume><fpage>3386</fpage><lpage>3391</lpage><pub-id pub-id-type="pmid">18287003</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.0800250105</pub-id><pub-id pub-id-type="pmcid">PMC2265164</pub-id></element-citation></ref><ref id="CR31"><label>31.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Lazear</surname><given-names>HM</given-names></name><name name-style="western"><surname>Schoggins</surname><given-names>JW</given-names></name><name name-style="western"><surname>Diamond</surname><given-names>MS</given-names></name></person-group><article-title>Shared and distinct functions of type I and type III
+interferons</article-title><source>Immunity</source><year>2019</year><volume>50</volume><fpage>907</fpage><lpage>923</lpage><pub-id pub-id-type="pmid">30995506</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.immuni.2019.03.025</pub-id><pub-id pub-id-type="pmcid">PMC6839410</pub-id></element-citation></ref><ref id="CR32"><label>32.</label><mixed-citation publication-type="other">Chesarino, N. M., McMichael, T. M. &amp; Yount, J. S., E3 ubiquitin
+ligase NEDD4 promotes influenza virus infection by decreasing levels of the
+antiviral protein IFITM3. <italic toggle="yes">PLoS Pathog</italic>.
+<bold>11</bold>, e1005095 (2015).<pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.ppat.1005095</pub-id><pub-id pub-id-type="pmcid">PMC4532365</pub-id><pub-id pub-id-type="pmid">26263374</pub-id></mixed-citation></ref><ref id="CR33"><label>33.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Kenney</surname><given-names>AD</given-names></name><etal/></person-group><article-title>IFITM3 protects the heart during influenza virus
+infection</article-title><source>Proc. Natl Acad. Sci.</source><year>2019</year><volume>116</volume><fpage>18607</fpage><lpage>18612</lpage><pub-id pub-id-type="pmid">31451661</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.1900784116</pub-id><pub-id pub-id-type="pmcid">PMC6744864</pub-id></element-citation></ref><ref id="CR34"><label>34.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Altman</surname><given-names>JB</given-names></name><etal/></person-group><article-title>Type I IFN is siloed in endosomes</article-title><source>Proc. Natl Acad. Sci.</source><year>2020</year><volume>117</volume><fpage>17510</fpage><lpage>17512</lpage><pub-id pub-id-type="pmid">32665439</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.1921324117</pub-id><pub-id pub-id-type="pmcid">PMC7395562</pub-id></element-citation></ref><ref id="CR35"><label>35.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Wang</surname><given-names>W</given-names></name><name name-style="western"><surname>Xu</surname><given-names>L</given-names></name><name name-style="western"><surname>Su</surname><given-names>J</given-names></name><name name-style="western"><surname>Peppelenbosch</surname><given-names>MP</given-names></name><name name-style="western"><surname>Pan</surname><given-names>Q</given-names></name></person-group><article-title>Transcriptional regulation of antiviral
+interferon-stimulated genes</article-title><source>Trends Microbiol.</source><year>2017</year><volume>25</volume><fpage>573</fpage><lpage>584</lpage><pub-id pub-id-type="pmid">28139375</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.tim.2017.01.001</pub-id><pub-id pub-id-type="pmcid">PMC7127685</pub-id></element-citation></ref><ref id="CR36"><label>36.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Schreiber</surname><given-names>LM</given-names></name><etal/></person-group><article-title>The lytic activity of VSV-GP treatment dominates the
+therapeutic effects in a syngeneic model of lung cancer</article-title><source>Br. J. Cancer</source><year>2019</year><volume>121</volume><fpage>647</fpage><lpage>658</lpage><pub-id pub-id-type="pmid">31530903</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41416-019-0574-7</pub-id><pub-id pub-id-type="pmcid">PMC6889376</pub-id></element-citation></ref><ref id="CR37"><label>37.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Villalona‐Calero</surname><given-names>MA</given-names></name><etal/></person-group><article-title>Oncolytic reovirus in combination with chemotherapy
+in metastatic or recurrent non–small cell lung cancer patients with
+K RAS‐activated tumors</article-title><source>Cancer</source><year>2016</year><volume>122</volume><fpage>875</fpage><lpage>883</lpage><pub-id pub-id-type="pmid">26709987</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/cncr.29856</pub-id><pub-id pub-id-type="pmcid">PMC5068485</pub-id></element-citation></ref><ref id="CR38"><label>38.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Chaitanya</surname><given-names>GV</given-names></name><name name-style="western"><surname>Alexander</surname><given-names>JS</given-names></name><name name-style="western"><surname>Babu</surname><given-names>PP</given-names></name></person-group><article-title>PARP-1 cleavage fragments: signatures of cell-death
+proteases in neurodegeneration</article-title><source>Cell Commun. Signal.</source><year>2010</year><volume>8</volume><fpage>31</fpage><pub-id pub-id-type="pmid">21176168</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/1478-811X-8-31</pub-id><pub-id pub-id-type="pmcid">PMC3022541</pub-id></element-citation></ref><ref id="CR39"><label>39.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Sträßer</surname><given-names>K</given-names></name><etal/></person-group><article-title>TREX is a conserved complex coupling transcription
+with messenger RNA export</article-title><source>Nature</source><year>2002</year><volume>417</volume><fpage>304</fpage><lpage>308</lpage><pub-id pub-id-type="pmid">11979277</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nature746</pub-id></element-citation></ref><ref id="CR40"><label>40.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Seo</surname><given-names>GJ</given-names></name><etal/></person-group><article-title>Akt kinase-mediated checkpoint of cGAS DNA sensing
+pathway</article-title><source>Cell Rep.</source><year>2015</year><volume>13</volume><fpage>440</fpage><lpage>449</lpage><pub-id pub-id-type="pmid">26440888</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.celrep.2015.09.007</pub-id><pub-id pub-id-type="pmcid">PMC4607670</pub-id></element-citation></ref><ref id="CR41"><label>41.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Tian</surname><given-names>J</given-names></name><etal/></person-group><article-title>Blocking the PI3K/AKT pathway enhances mammalian
+reovirus replication by repressing IFN-stimulated genes</article-title><source>Front. Microbiol.</source><year>2015</year><volume>6</volume><fpage>886</fpage><pub-id pub-id-type="pmid">26388843</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fmicb.2015.00886</pub-id><pub-id pub-id-type="pmcid">PMC4557281</pub-id></element-citation></ref><ref id="CR42"><label>42.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Xia</surname><given-names>T</given-names></name><name name-style="western"><surname>Konno</surname><given-names>H</given-names></name><name name-style="western"><surname>Ahn</surname><given-names>J</given-names></name><name name-style="western"><surname>Barber</surname><given-names>GN</given-names></name></person-group><article-title>Deregulation of STING signaling in colorectal
+carcinoma constrains DNA damage responses and correlates with
+tumorigenesis</article-title><source>Cell Rep.</source><year>2016</year><volume>14</volume><fpage>282</fpage><lpage>297</lpage><pub-id pub-id-type="pmid">26748708</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.celrep.2015.12.029</pub-id><pub-id pub-id-type="pmcid">PMC4845097</pub-id></element-citation></ref><ref id="CR43"><label>43.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Bommareddy</surname><given-names>PK</given-names></name><name name-style="western"><surname>Shettigar</surname><given-names>M</given-names></name><name name-style="western"><surname>Kaufman</surname><given-names>HL</given-names></name></person-group><article-title>Integrating oncolytic viruses in combination cancer
+immunotherapy</article-title><source>Nat. Rev. Immunol.</source><year>2018</year><volume>18</volume><fpage>498</fpage><pub-id pub-id-type="pmid">29743717</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41577-018-0014-6</pub-id></element-citation></ref><ref id="CR44"><label>44.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Rajani</surname><given-names>K</given-names></name><etal/></person-group><article-title>Combination therapy with reovirus and anti-PD-1
+blockade controls tumor growth through innate and adaptive immune
+responses</article-title><source>Mol. Ther.</source><year>2016</year><volume>24</volume><fpage>166</fpage><lpage>174</lpage><pub-id pub-id-type="pmid">26310630</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/mt.2015.156</pub-id><pub-id pub-id-type="pmcid">PMC4754544</pub-id></element-citation></ref><ref id="CR45"><label>45.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Saha</surname><given-names>D</given-names></name><name name-style="western"><surname>Martuza</surname><given-names>RL</given-names></name><name name-style="western"><surname>Rabkin</surname><given-names>SD</given-names></name></person-group><article-title>Macrophage polarization contributes to glioblastoma
+eradication by combination immunovirotherapy and immune checkpoint
+blockade</article-title><source>Cancer Cell</source><year>2017</year><volume>32</volume><fpage>253</fpage><lpage>267</lpage><pub-id pub-id-type="pmid">28810147</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ccell.2017.07.006</pub-id><pub-id pub-id-type="pmcid">PMC5568814</pub-id></element-citation></ref><ref id="CR46"><label>46.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Bishnoi</surname><given-names>S</given-names></name><name name-style="western"><surname>Tiwari</surname><given-names>R</given-names></name><name name-style="western"><surname>Gupta</surname><given-names>S</given-names></name><name name-style="western"><surname>Byrareddy</surname><given-names>SN</given-names></name><name name-style="western"><surname>Nayak</surname><given-names>D</given-names></name></person-group><article-title>Oncotargeting by vesicular stomatitis virus (VSV):
+advances in cancer therapy</article-title><source>Viruses</source><year>2018</year><volume>10</volume><fpage>90</fpage><pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/v10020090</pub-id><pub-id pub-id-type="pmcid">PMC5850397</pub-id><pub-id pub-id-type="pmid">29473868</pub-id></element-citation></ref><ref id="CR47"><label>47.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Gong</surname><given-names>K</given-names></name><etal/></person-group><article-title>EGFR inhibition triggers an adaptive response by
+co-opting antiviral signaling pathways in lung cancer</article-title><source>Nat. Cancer</source><year>2020</year><volume>1</volume><fpage>394</fpage><lpage>409</lpage><pub-id pub-id-type="pmid">33269343</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s43018-020-0048-0</pub-id><pub-id pub-id-type="pmcid">PMC7706867</pub-id></element-citation></ref><ref id="CR48"><label>48.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Obeng</surname><given-names>EA</given-names></name><name name-style="western"><surname>Stewart</surname><given-names>C</given-names></name><name name-style="western"><surname>Abdel-Wahab</surname><given-names>O</given-names></name></person-group><article-title>Altered RNA processing in cancer pathogenesis and
+therapy</article-title><source>Cancer Discov.</source><year>2019</year><volume>9</volume><fpage>1493</fpage><lpage>1510</lpage><pub-id pub-id-type="pmid">31611195</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/2159-8290.CD-19-0399</pub-id><pub-id pub-id-type="pmcid">PMC6825565</pub-id></element-citation></ref><ref id="CR49"><label>49.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Chemudupati</surname><given-names>M</given-names></name><etal/></person-group><article-title>Butyrate reprograms expression of specific
+interferon-stimulated genes</article-title><source>J. Virol</source><year>2020</year><volume>94</volume><fpage>e00326</fpage><lpage>20</lpage><pub-id pub-id-type="pmid">32461320</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1128/JVI.00326-20</pub-id><pub-id pub-id-type="pmcid">PMC7394905</pub-id></element-citation></ref><ref id="CR50"><label>50.</label><mixed-citation publication-type="other">Laliotis, G. I. &amp; Tsichlis, P. N. Effective identification of
+RNA-binding proteins using RNA Immunoprecipitation. Protocols.io, dx. 10.17504/protocols.io.bjpbkmin (2020).</mixed-citation></ref><ref id="CR51"><label>51.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Skene</surname><given-names>PJ</given-names></name><name name-style="western"><surname>Henikoff</surname><given-names>S</given-names></name></person-group><article-title>An efficient targeted nuclease strategy for
+high-resolution mapping of DNA binding sites</article-title><source>Elife</source><year>2017</year><volume>6</volume><fpage>e21856</fpage><pub-id pub-id-type="pmid">28079019</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.7554/eLife.21856</pub-id><pub-id pub-id-type="pmcid">PMC5310842</pub-id></element-citation></ref><ref id="CR52"><label>52.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Howe</surname><given-names>KL</given-names></name><etal/></person-group><article-title>Ensembl 2021</article-title><source>Nucleic Acids Res.</source><year>2021</year><volume>49</volume><fpage>D884</fpage><lpage>D891</lpage><pub-id pub-id-type="pmid">33137190</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/nar/gkaa942</pub-id><pub-id pub-id-type="pmcid">PMC7778975</pub-id></element-citation></ref><ref id="CR53"><label>53.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Durinck</surname><given-names>S</given-names></name><name name-style="western"><surname>Spellman</surname><given-names>PT</given-names></name><name name-style="western"><surname>Birney</surname><given-names>E</given-names></name><name name-style="western"><surname>Huber</surname><given-names>W</given-names></name></person-group><article-title>Mapping identifiers for the integration of genomic
+datasets with the R/Bioconductor package biomaRt</article-title><source>Nat. Protoc.</source><year>2009</year><volume>4</volume><fpage>1184</fpage><lpage>1191</lpage><pub-id pub-id-type="pmid">19617889</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nprot.2009.97</pub-id><pub-id pub-id-type="pmcid">PMC3159387</pub-id></element-citation></ref><ref id="CR54"><label>54.</label><mixed-citation publication-type="other">Carlson, M., Falcon, S., Pages, H. &amp; Li, N. org. Hs. eg. db:
+Genome wide annotation for Human. <italic toggle="yes">R package
+version</italic><bold>3</bold>, (2019).</mixed-citation></ref><ref id="CR55"><label>55.</label><mixed-citation publication-type="other">Laliotis, G. I., Kenney, A., Chavdoula, E., La Ferlita, A.,
+Anastas, V. et al. IWS1 phosphorylation controls nucleocytoplasmic export of
+type I IFNs and the sensitivity to oncolytic viruses, through U2AF2 RNA
+splicing, Mendeley Data, V1, 10.17632/853gfbbx7m.3 (2021).</mixed-citation></ref></ref-list></back></article>

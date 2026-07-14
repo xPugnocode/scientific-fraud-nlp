@@ -1,0 +1,668 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article article-type="research-article" xml:lang="en" dtd-version="1.4"><front><journal-meta><journal-id journal-id-type="nlm-ta">Neuropharmacology</journal-id><journal-id journal-id-type="iso-abbrev">Neuropharmacology</journal-id><journal-id journal-id-type="pmc-domain-id">319</journal-id><journal-id journal-id-type="pmc-domain">nihpa</journal-id><journal-id journal-id-type="nlm-id">0236217</journal-id><journal-title-group><journal-title>Neuropharmacology</journal-title></journal-title-group><issn pub-type="ppub">0028-3908</issn><issn pub-type="epub">1873-7064</issn><custom-meta-group><custom-meta><meta-name>pmc-is-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-collection-title</meta-name><meta-value>NIHPA Author Manuscripts</meta-value></custom-meta></custom-meta-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC6475886</article-id><article-id pub-id-type="pmcid-ver">PMC6475886.1</article-id><article-id pub-id-type="pmcaid">6475886</article-id><article-id pub-id-type="pmcaiid">6475886</article-id><article-id pub-id-type="manuscript-id">NIHMS1524051</article-id><article-id pub-id-type="pmid">30851310</article-id><article-id pub-id-type="doi">10.1016/j.neuropharm.2019.03.005</article-id><article-id pub-id-type="manuscript-id-alternative">NIHMS1524051</article-id><article-id pub-id-type="manuscript-id-alternative">NIHPA1524051</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>Chronic Fluoxetine Treatment <italic toggle="yes">in vivo</italic> Enhances
+Excitatory Synaptic Transmission in the Hippocampus</article-title></title-group><contrib-group><contrib contrib-type="author"><name name-style="western"><surname>Van Dyke</surname><given-names initials="AM">Adam M.</given-names></name><xref ref-type="aff" rid="A1">1</xref><xref ref-type="aff" rid="A2">2</xref><xref ref-type="aff" rid="A3">3</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Chase Francis</surname><given-names initials="T">T.</given-names></name><xref ref-type="aff" rid="A1">1</xref><xref ref-type="aff" rid="A2">2</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Chen</surname><given-names initials="H">Haiwen</given-names></name><xref ref-type="aff" rid="A1">1</xref><xref ref-type="aff" rid="A2">2</xref><xref ref-type="aff" rid="A3">3</xref><xref ref-type="aff" rid="A4">4</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Bailey</surname><given-names initials="AM">Aileen M.</given-names></name><xref ref-type="aff" rid="A5">5</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Thompson</surname><given-names initials="SM">Scott M.</given-names></name><xref ref-type="aff" rid="A1">1</xref><xref rid="CR1" ref-type="corresp">6</xref></contrib></contrib-group><aff id="A1"><label>1</label>Department of Physiology, University of Maryland School of
+Medicine, 655 West Baltimore Street, Baltimore, MD 21201</aff><aff id="A2"><label>2</label>Training Programs in Neuroscience, University of Maryland
+School of Medicine, 655 West Baltimore Street, Baltimore, MD 21201</aff><aff id="A3"><label>3</label>Membrane Biology, University of Maryland School of
+Medicine, 655 West Baltimore Street, Baltimore, MD 21201</aff><aff id="A4"><label>4</label>Medical Scientist Training Program, University of Maryland
+School of Medicine, 655 West Baltimore Street, Baltimore, MD 21201</aff><aff id="A5"><label>5</label>Department of Psychology, Saint Mary’s College of
+Maryland, St. Mary’s City, MD, USA</aff><author-notes><corresp id="CR1"><label>6</label>To whom correspondence should be addressed:
+Department of Physiology, BRB 5-007, University of Maryland School of Medicine,
+655 W. Baltimore St., Baltimore, MD 21201,
+<email>sthom003@umaryland.edu</email>, Tel: (410) 706-5817, Fax: (410)
+706-8341</corresp></author-notes><pub-date pub-type="epub"><day>06</day><month>3</month><year>2019</year></pub-date><pub-date pub-type="ppub"><day>15</day><month>5</month><year>2019</year></pub-date><volume>150</volume><issue-id pub-id-type="pmc-issue-id">333074</issue-id><fpage>38</fpage><lpage>45</lpage><pub-history><event event-type="nihms-submitted"><date><day>19</day><month>03</month><year>2019</year></date></event><event event-type="pmc-release"><date><day>15</day><month>05</month><year>2020</year></date></event><event event-type="pmc-live"><date><day>15</day><month>05</month><year>2020</year></date></event><event event-type="pmc-released-under-embargo"><date><day>23</day><month>04</month><year>2019</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2024-06-15 23:25:33.200"><day>15</day><month>06</month><year>2024</year></date></event></pub-history><permissions><license><license-p>This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="nihms-1524051.pdf"/><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="retraction-forward" xml:lang="en" xlink:title="retraction" vol="216" page="109188" journal-id="Neuropharmacology" journal-id-type="nlm-ta" ext-link-type="pmc" xlink:href="PMC9377285"><article-title>Retraction notice to “Chronic fluoxetine treatment in vivo
+enhances excitatory synaptic transmission in the hippocampus”
+[Neuropharmacology, 150 (15th May 2019) 38–45]</article-title><volume>216</volume><date><day>13</day><month>7</month><year>2022</year></date><fpage>109188</fpage><lpage>109188</lpage><source>Neuropharmacology</source><pub-id pub-id-type="pmcid">PMC9377285</pub-id><pub-id pub-id-type="pmid">35842328</pub-id></related-article><abstract id="ABS1"><p id="P1">Depression is a leading cause of mortality and morbidity. Selective
+serotonin reuptake inhibitors, such as fluoxetine, are the most commonly
+prescribed antidepressant medication. SSRIs produce their therapeutic effects by
+elevating extracellular concentrations of serotonin. Although this elevation
+occurs rapidly, there is a paradoxical delay of weeks-to-months of continuous
+treatment before most patients experience meaningful relief of their depressive
+symptoms. Here, we address the effects of chronic fluoxetine treatment and
+prolonged elevation of serotonin in the rat hippocampus. Previous work has shown
+that acute administration of fluoxetine rapidly potentiates the excitatory
+temporoammonic synapse onto CA1 pyramidal cells in the hippocampus via
+activation of serotonin 1B receptor in brain slices. In contrast to observations
+in brain slices, we report here that prolonged administration of fluoxetine was
+required to produce significant changes in temporoammonic-CA1 synaptic strength
+in <italic toggle="yes">ex vivo</italic> brain slices. Evidence of potentiation included
+increases in the ratio of AMPA receptor- to NMDA receptor-mediated
+temporoammonic-CA1 synaptic responses, occlusion of electrically evoked
+long-term potentiation, enhanced long-term depression, impaired
+anpirtoline-mediated potentiation, and impaired memory recall in the Morris
+water maze task. These synaptic and behavioral changes coincided with the
+alleviation of anhedonic behavioral state. We conclude that the effects of
+elevated serotonin accumulate slowly <italic toggle="yes">in vivo</italic> and may account
+for the delay to relief of depressive symptoms by selective serotonin reuptake
+inhibitors. Acceleration of this process should lead to faster therapeutic
+responses to antidepressants.</p></abstract><kwd-group><kwd>depression</kwd><kwd>fluoxetine</kwd><kwd>serotonin</kwd><kwd>plasticity</kwd><kwd>antidepressant</kwd></kwd-group><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-manuscript</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="S1"><label>1.</label><title>Introduction</title><p id="P2">Major depressive disorder (MDD) is one of the most common and costly of
+neuropsychiatric syndromes (<xref rid="R3" ref-type="bibr">Belmaker and Agam,
+2008</xref>; <xref rid="R16" ref-type="bibr">Kessler et al., 2005</xref>, <xref rid="R15" ref-type="bibr">2003</xref>). The current standard-of-care for the
+treatment of MDD are antidepressant compounds known as selective serotonin reuptake
+inhibitors (SSRIs). In addition to being ineffective in about 30% of patients, a
+significant complication of SSRI therapy in those that do respond is a delay of
+several weeks before patients begin to experience relief from their depressive
+symptoms, and many more months before achieving remission (<xref rid="R10" ref-type="bibr">Gaynes et al., 2009</xref>).</p><p id="P3">SSRIs increase extracellular serotonin levels by blocking the reuptake of
+serotonin through inhibition of the serotonin transporter (SERT) (<xref rid="R12" ref-type="bibr">Haenisch and Bönisch, 2011</xref>; <xref rid="R30" ref-type="bibr">Shelton et al., 2001</xref>). The elevation of serotonin
+presumably increases the activation of serotonin receptors wherever serotonin is
+released and reabsorbed. The delay to therapeutic efficacy is paradoxical because
+SSRIs rapidly elevate serotonin levels following a single administration (<xref rid="R12" ref-type="bibr">Haenisch and Bönisch, 2011</xref>; <xref rid="R30" ref-type="bibr">Shelton et al., 2001</xref>).</p><p id="P4">It remains uncertain how serotonin elevation alleviates depressive symptoms.
+Serotonin can regulate neuronal excitability and synaptic plasticity through actions
+at some glutamatergic synapses. For example, acute application of SSRIs to
+hippocampal brain slices produces a potentiation of the excitatory synapses formed
+by temporoammonic (TA) inputs from the entorhinal cortex to CA1 cell distal
+dendrites within tens of minutes (<xref rid="R4" ref-type="bibr">Cai et al.,
+2013</xref>). This potentiation is initiated by activation of 5-HT<sub>1B</sub>
+receptors and is mediated postsynaptically by a localized increase in the number
+and/or conductance of α-amino-3-hydroxy-5-methyl-4-isoxazolepropionic
+acid-type (AMPA) glutamate receptors as a consequence of
+Ca<sup>2+</sup>/calmodulin-dependent protein kinase (CaMKII) activation (<xref rid="R4" ref-type="bibr">Cai et al., 2013</xref>). Serotonin-induced
+potentiation thus shares the same expression mechanism as canonical long-term
+potentiation (LTP) (<xref rid="R22" ref-type="bibr">Malenka and Bear, 2004</xref>).
+Indeed, serotonin-induced potentiation and LTP mutually occlude each other (<xref rid="R4" ref-type="bibr">Cai et al., 2013</xref>). We have demonstrated that
+transgenic and knockout mice with defective serotonin-induced potentiation lack
+antidepressant-like responses to SSRIs, suggesting that this potentiation is
+required for the therapeutic actions of SSRIs (<xref rid="R4" ref-type="bibr">Cai et
+al., 2013</xref>). If the serotonin-mediated potentiation occurs within minutes
+<italic toggle="yes">in vitro</italic>, then why do the therapeutic actions of SSRIs take
+weeks?</p><p id="P5">Here, we test the hypothesis that the fast and slow actions of SSRIs are
+mediated by the same synapse strengthening processes but that they occur at
+different rates <italic toggle="yes">in vitro</italic> and <italic toggle="yes">in vivo.</italic> The
+hypothesis predicts that chronic administration of the SSRI fluoxetine <italic toggle="yes">in
+vivo</italic> should alter TA-CA1 synapses by increasing their strength, thereby
+impairing LTP, enhancing LTD, and increasing GluA1 phosphorylation. This altered
+transmission and plasticity would impair long-term memory recall in a hippocampal
+dependent task, such as the Morris water maze. Our results confirm these predictions
+and reveal that this serotonin-mediated increase occurs slowly over the course of
+several weeks <italic toggle="yes">in vivo.</italic></p></sec><sec id="S2"><label>2.</label><title>Materials and Methods</title><p id="P6">All protocols and procedures were approved by the University of Maryland
+School of Medicine and St. Mary’s College of Maryland Institutional Animal
+Care and Use Committees.</p><sec id="S3"><label>2.1</label><title>Animals</title><p id="P7">Male Sprague-Dawley rats from Charles River Laboratories (Gaithersburg,
+Maryland) were used in these experiments. All animals were housed in triads with
+access to food and water <italic toggle="yes">ad libitum</italic> and kept on a normal
+12-hour light/dark cycle (7am lights on, 7pm lights off). Unless otherwise
+stated, all <italic toggle="yes">in vitro</italic> electrophysiology and molecular biology
+experiments were performed on animals between 6-8 weeks of age.</p></sec><sec id="S4"><label>2.2</label><title>Antidepressant treatment</title><p id="P8">Animals were group housed and administered fluoxetine (80mg/L; NIMH
+Chemical Synthesis and Drug Supply Program) for the amount of time specified (up
+to four weeks) via their drinking water in order to minimize the effects of
+stress. Drinking water was changed every three days with control animals
+receiving fresh water only. In a separate cohort, we observed that rats consume
+15-20 ml of fluid per day, resulting a consumption of 1.2 – 1.6 mg of
+fluoxetine per day. For a typical 250 gm rat, we therefore estimate the daily
+intake of fluoxetine to be ca. 4.8 – 6.4 mg/kg. Fluoxetine was withdrawn
+for one week prior to the final probe trial. The electrophysiological
+experiments in Figure 3 were performed
+without washout prior to euthanasia.</p></sec><sec id="S5"><label>2.3</label><title>Memory recall</title><p id="P9">Rats were trained and tested in the Morris water maze as described
+previously ( <xref rid="R28" ref-type="bibr">Remondes and Schuman, 2004</xref>;
+<xref rid="R4" ref-type="bibr">Cai et al., 2013</xref>; <xref rid="R14" ref-type="bibr">Kallarackal et al., 2013</xref>). Briefly, animals received
+10 blocks of training (four trials/block) over 6 days with the platform
+remaining in a fixed location throughout. Day 1 and day 6 of training contained
+only one training block, whereas days 2-5 contained two training blocks
+separated by a minimum of two hours. Twenty-four hours following the 10th block
+of training, the platform was removed, and the animals completed a probe trial.
+Fluoxetine or its vehicle was administered via the drinking water (80mg/l) in
+the animals’ home cage for three weeks after training. Long-term
+consolidation was tested with probe trial 1 and 28 days after completing the
+10th block of training. Latency to the target, time spent in the target quadrant
+and swim speed were recorded by HVS Image software.</p></sec><sec id="S6"><label>2.4</label><title>Acute hippocampal slice preparation</title><p id="P10">Standard methods were used to prepare 400-μm-thick transverse
+hippocampal slices from 6-8-week-old male Sprague-Dawley rats as described
+previously (<xref rid="R4" ref-type="bibr">Cai et al., 2013</xref>; <xref rid="R14" ref-type="bibr">Kallarackal et al., 2013</xref>). Briefly,
+dissection was done in ice-cold artificial cerebrospinal fluid (ACSF) containing
+the following: 120mM NaCl, 3mM KCl, 1mM NaH<sub>2</sub>PO<sub>4</sub>, 2mM
+MgSO<sub>4</sub>, 2.5mM CaCl<sub>2</sub>, 25mM NaHCO<sub>3</sub>, and 20mM
+glucose, bubbled with 95% O<sub>2</sub>/5% CO<sub>2</sub>. Slices were allowed
+to recover for a minimum of 1 hour at room temperature (20-22°C).</p></sec><sec id="S7"><label>2.5</label><title>Field excitatory post synaptic potentials (fEPSPs)</title><p id="P11">Because TA-CA1 synapses are electrotonically remote from CA1 cell
+somata, we used extracellular recording of local field EPSPs (fEPSPs) to measure
+ion flow at the distal dendrites. Slices were transferred to a submersion-type
+recording chamber that was perfused at room temperature with ACSF
+(~1mL/min) that was continuously bubbled with oxygenated air. Picrotoxin
+(100μM, Tocris) and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-protein" xlink:href="CGP52432">CGP52432</ext-link> (2μM, Tocris) were included to block
+GABA<sub>A</sub> and GABA<sub>B</sub> receptors, respectively, and the CA3
+region was removed to prevent spontaneous epileptiform discharge. All compounds
+were dissolved in ASCF and bath applied via the perfusion system.</p><p id="P12">Capillary glass recording pipettes filled with bath ACSF (3-5MΩ)
+were placed in Stratum lacunosum-moleculare (Str. LM) in area CA1. Concentric
+bipolar tungsten electrodes were placed &gt;500μm away from the
+recording electrodes in the Str. LM to stimulate TA afferents originating from
+the superficial layers of entorhinal cortex. fEPSPs were recorded using n.p.i.
+(NPI) amplifiers amplified 1000×, filtered at 3kHz, and digitized at
+10kHz. Stimuli (100μs) were delivered at 0.05Hz with the stimulus
+intensity was set at 150% of threshold intensity, resulting in a fEPSP of
+0.1–0.2mV. Three consecutive responses were averaged and fEPSP slope was
+calculated over a 1.5-2ms window. All compounds were applied by bath
+perfusion.</p><p id="P13">The amplitude of the fiber volley (FV) was used as an indicator of
+stimulus intensity and the initial slope of the first 2ms of the fEPSP was used
+an indicator of the strength of the AMPA receptor-mediated component of the
+evoked response. fEPSPs were elicited for a &gt;30min baseline period prior
+to any manipulation to ensure stable responses. When implemented, electrical LTP
+was induced using a high frequency stimulation protocol (HFS; 4 trains of 100
+pulses delivered at 100Hz; 1min inter-train interval) and electrical LTD was
+induced using a low frequency stimulation protocol (LFS; 900 pulses, 3 Hz).
+Stimulation was then resumed at 0.05Hz. For quantification of pooled data, fEPSP
+slope values were averaged and quantified over a 3min period preceding a
+manipulation (e.g. application of a substance, HFS, LFS, etc.) and a 3min period
+at the end of the manipulation.</p></sec><sec id="S8"><label>2.6</label><title>AMPA:NMDA ratio</title><p id="P14">As in our previous work (<xref rid="R14" ref-type="bibr">Kallarackal et
+al., 2013</xref>), for experiments in which we measured the relative
+contribution of AMPA receptor- and NMDA receptor-mediated current at TA-CA1
+synapses, MgCl<sub>2</sub> was omitted from the ACSF during fEPSP recording.
+Stimulus intensity was varied to elicit fEPSPs with fiber volleys from
+0.05-0.5mV. At each intensity, 6-10 responses were recorded and averaged,
+post-hoc, prior to analysis. The AMPA receptor antagonist DNQX (50μM;
+Tocris) was then bath applied and fEPSPs recorded at 0.5Hz until the response
+stabilized (ca. 10mins). Once the response stabilized, the same intensity of
+stimuli was again delivered to elicit fEPSPs. After completion of the
+experiment, the competitive NMDA receptor antagonist
+2-Amino-5-phosphonopentanoic acid (APV; 80μM; Tocris) was washed in to
+verify that final synaptic responses were NMDA receptor-mediated.</p><p id="P15">For analysis purposes, we first compared responses across slices by
+normalizing them to the amplitude of the FV. The AMPA receptor-mediated
+component of the fEPSP was determined from the first 2ms of the initial slope.
+The NMDA receptor-mediated component was determined from the slope of the fEPSP
+in the presence of DNQX between 2 and 5 ms after the start of the response, due
+to the slower kinetics of the NMDA receptor. The linear portion of the
+relationship between response slope and FV amplitude was fit with a straight
+line and the slopes of the fitted lines were compared across conditions, as we
+have done previously.(<xref rid="R4" ref-type="bibr">Cai et al.,
+2013</xref>)</p></sec><sec id="S9"><label>2.7</label><title>Western blotting</title><p id="P16">Area Str. LM was dissected out of 2-4 hippocampal slices, pooled, and
+homogenized in ice-cold lysis buffer containing phosphatase and protease
+inhibitor cocktails (PPI; Sigma). Samples (5-7 μg) were loaded in sample
+buffer (Laemmli; Sigma), boiled, and run on Bis-Tris gels (4-12% gradient;
+Invitrogen). Following electrophoresis, proteins were transferred to PVDF
+membranes, blocked and probed with the following antibodies: phosphorylated
+CaMKII (1:3000; Abcam); phosphorylated serine-831 GluAl (1:1000; Sigma);
+β-actin (1:5000; Cell Signaling). Membranes were incubated for 1hr at
+room temperature in appropriate HRP-conjugated IgG antibodies (1:1000; Cell
+Signaling) and imaged with enhanced chemiluminescence using the ChemiDoc XRS
+system (BIORAD. Membranes were then stripped using Restore Western Blot
+Stripping Buffer (15min; ThermoScientific), blocked, and re-probed with the
+following antibodies: CaMKII (1:1000; Abcam); GluA1 (1:1000; Pierce)</p><p id="P17">Western blot images were analyzed using the ImageJ densitometry analysis
+software (NIH; version 1.49). To determine the phosphorylation states of
+proteins, protein bands were analyzed based on the ratio of phosphorylated
+protein signal to total protein.</p></sec><sec id="S10"><label>2.8</label><title>Data analysis</title><p id="P18">Experiments were performed with the investigators blinded to the
+condition of the animal and the identity of the compounds being applied whenever
+possible. The blind was not broken until data analysis was complete.</p><p id="P19">Data are presented as mean ± s.e.m. Statistics were calculated
+using Graphpad (Graphpad Software, Inc.; La Jolla, CA). All data were analyzed
+using the appropriate statistical test for each experiment (noted below) and
+were normally distributed and homoscedastic.</p></sec></sec><sec id="S11"><label>3.</label><title>Results</title><sec id="S12"><label>3.1</label><title>Chronic fluoxetine treatment alters synaptic plasticity</title><p id="P20">If fluoxetine produces the same synapse strengthening processes
+<italic toggle="yes">in vivo</italic> as it does <italic toggle="yes">in vitro</italic>, then we would
+predict that excitatory synapses in brain slices prepared from animals
+chronically treated with fluoxetine would be maximally strengthened and hence
+exhibit altered synaptic plasticity. Specifically, long-term potentiation (LTP)
+should be occluded, whereas long-term depression (LTD) should be retained. We
+therefore recorded fEPSPs in Str. LM in area CA1 in response to stimulation of
+TA afferents (<xref rid="R4" ref-type="bibr">Cai et al., 2013</xref>; <xref rid="R14" ref-type="bibr">Kallarackal et al., 2013</xref>) and compared
+responses in slices from control rats with those in slices taken from rats
+treated with fluoxetine in their drinking water for 4 weeks.</p><p id="P21">We first attempted to induce LTP electrically at TA-CA1 synapses using a
+high frequency stimulation protocol (HFS; 4 trains x 100 pulses, 100Hz).
+Following HFS, a stable synaptic potentiation lasting for &gt;60 min was
+observed in slices from control rats, but no significant potentiation was
+elicited in slices from rats treated chronically with fluoxetine (t(10) = 10.61;
+p &lt; 0.0001; <xref rid="F1" ref-type="fig">Fig. 1A</xref>).</p><p id="P22">If the lack of HFS-induced potentiation in slices from fluoxetine
+treated rats is due to a saturation of synaptic strength, then delivery of a low
+frequency stimulation protocol (LFS; 900 pulses, 3 Hz) should de-potentiate the
+synapses (<xref rid="R8" ref-type="bibr">Dudek and Bear, 1992</xref>) and reveal
+a previously occluded HFS-induced LTP. Indeed, we observed that LFS elicited a
+robust and persistent depression of fEPSP slope in slices taken from
+fluoxetine-treated rats (F(1, 32) = 4.653; p = 0.0386; <xref rid="F1" ref-type="fig">Fig. 1B</xref>). In these slices, delivery of HFS after
+eliciting LTD induced a statistically significant increase in fEPSP slope,
+compared to the pre-HFS baseline slope. Delivery of LFS to control slices failed
+to elicit LTD and had no apparent effect on the ability of subsequent HFS to
+induce a potentiation above baseline in untreated slices. Taken together, these
+results are consistent with the hypothesis that chronic fluoxetine treatment
+<italic toggle="yes">in vivo</italic> potentiates TA-CA1 synapses to near their maximal
+strength, thereby occluding LTP and enhancing LTD.</p></sec><sec id="S13"><label>3.2</label><title>Chronic fluoxetine treatment occludes 5-HT<sub>1B</sub>R-mediated synaptic
+potentiation</title><p id="P23">LTP and 5-HT<sub>1B</sub>R-dependent serotonin-induced potentiation
+occlude each other because they converge on a common effector mechanism –
+CaMKII-mediated phosphorylation of GluAl receptor subunits at the serine in
+position 831 (<xref rid="R4" ref-type="bibr">Cai et al., 2013</xref>). If
+chronic fluoxetine treatment <italic toggle="yes">in vivo</italic> potentiates TA-CA1
+synapses at their maximal strength, then 5-HT<sub>1B</sub>R-induced potentiation
+should be occluded. We tested this prediction using anpirtoline – a
+serotoninergic agonist known to potentiate TA-CA1 synapses via postsynaptic
+5-HT<sub>1B</sub>R activation (<xref rid="R4" ref-type="bibr">Cai et al.,
+2013</xref>). Anpirtoline-induced potentiation of TA-CA1 synapses is absent
+in the presence of 5HT<sub>1B</sub>R antagonists or in slices from
+<italic toggle="yes">HTR1B</italic> knock-out mice, and is unaffected by
+5HT<sub>1A</sub>R antagonists (<xref rid="R4" ref-type="bibr">Cai et al.,
+2013</xref>). Bath application of anpirtoline (50μM; 60mins) produced
+a robust increase in fEPSP slope in slices derived from untreated control rats,
+but failed to elicit a significant change in fEPSP slope in slices taken from
+fluoxetine-treated rats (t(10) =8.761; p &lt; 0.0001; <xref rid="F2" ref-type="fig">Fig. 2A</xref>), confirming our earlier observations (<xref rid="R4" ref-type="bibr">Cai et al., 2013</xref>). These results are
+consistent with the hypothesis that chronic fluoxetine treatment <italic toggle="yes">in
+vivo</italic> potentiates TA-CA1 synapses to their maximal strength, thereby
+occluding 5-HT<sub>1B</sub>R-induced potentiation.</p><p id="P24">We next used Western blotting to compare changes in the levels of
+phosphorylated CaMKII (an indicator of activation) and its substrate (the GluA1
+subunit of the AMPA receptor), before and after application of anpirtoline in
+Str. LM of hippocampal brain slices from fluoxetine-treated and -untreated rats.
+Incubation of control slices for 60 min with anpirtoline produced an increase in
+the ratio of activated pCaMKII (F(3,12) = 4.585; p = 0.0232; <xref rid="F2" ref-type="fig">Fig 2C</xref>) and phosphorylated GluA1 at residue S831
+(F(3,20) = 6.261; p = 0.0036; <xref rid="F2" ref-type="fig">Fig 2C</xref>), as
+reported previously (<xref rid="R4" ref-type="bibr">Cai et al., 2013</xref>).
+Additional analyses revealed that tissue from chronic fluoxetine-treated rats
+displayed a significant increase in the levels of total CaMKII (F(3,12) = 17.53;
+p = 0.0001), and GluA1 (F(3, 20) = 20.94; p &lt; 0.0001) when compared to
+control animals (<xref rid="F2" ref-type="fig">Fig 2E</xref>). Subsequent
+application of anpirtoline in chronically treated animals failed to produce an
+increase in the ratio of pCaMKII or phosphorylated GluA1 at S831. These results
+are consistent with the induction of potentiation <italic toggle="yes">in vivo</italic> by
+chronically administered fluoxetine and account for the occlusion of further
+5-HT<sub>1B</sub>R-mediated synaptic potentiation.</p></sec><sec id="S14"><label>3.3</label><title>Chronic fluoxetine potentiates TA-CA1 synapses slowly in vivo</title><p id="P25">A corollary of our hypothesis is that the induction of potentiation at
+TA-CA1 synapses after chronic fluoxetine administration <italic toggle="yes">in vivo</italic>
+should be apparent as an increase in the AMPA receptor-mediated component of the
+fEPSP at TA-CA1 synapses. We therefore asked whether this potentiation occurs
+<italic toggle="yes">in vivo</italic> and, if so, over what time-course, by preparing
+<italic toggle="yes">ex vivo</italic> brain slices from rats that had been administered
+fluoxetine for various amounts of time. Responses were normalized to the slope
+of NMDA receptor-mediated responses or the fiber volley amplitude in order to
+control for differences in stimulation efficacy across slices.</p><p id="P26">Significant increases in the AMPA:NMDA ratio of TA-CA1 synapses in
+slices from animals treated chronically with fluoxetine, compared to untreated
+controls, were observed, as predicted, but only starting only 3-4 weeks after
+beginning fluoxetine administration (F(5,46) = 4.173, p = 0.0033; <xref ref-type="fig" rid="F3">Fig; 3A,B</xref>). This was also true when AMPA
+receptor-mediated responses were normalized to the fiber volley (F(5,46) =
+16.10, p &lt; 0.0001; <xref rid="F3" ref-type="fig">Fig. 3C</xref>). There
+was no significant difference in NMDA receptor-mediated responses as normalized
+to the fiber volley (F(5,46) = 0.1729, p &gt; 0.05; <xref ref-type="fig" rid="F3">Fig; 3C</xref>). We conclude that fluoxetine does induce
+potentiation of TA-CA1 synapses <italic toggle="yes">in vivo</italic>, as it does <italic toggle="yes">in
+vitro</italic>, but this potentiation occurs much more slowly <italic toggle="yes">in
+vivo.</italic></p></sec><sec id="S15"><label>3.4</label><title>Chronic fluoxetine treatment impairs a hippocampal-dependent memory recall
+task</title><p id="P27">Do the strong potentiation and occlusion of LTP produced by chronic
+fluoxetine treatment have behavioral consequences? TA-CA1 synapses are required
+for the long-term recall of spatially cued memory (<xref rid="R29" ref-type="bibr">Remondes and Schuman, 2002</xref>). We therefore tested the
+consequences of three weeks of chronic fluoxetine administration on long-term
+recall of spatial memory using the Morris water maze.</p><p id="P28">Rats learned to identify the escape platform over 6 training days. One
+day after completion of training, rats were subjected to a probe trial (Day 1)
+to establish a baseline and show that they had learned the task. Rats were then
+split randomly into two balanced groups of equivalent performance, one received
+fluoxetine in its drinking water and the other received tap water. After 28
+days, the rats were re-tested in a consolidation probe trial (Day 28).</p><p id="P29">Analysis of latency to the platform target area using a 2×2 ANOVA
+indicated a significant interaction between the two probe trials and drug given
+(F(1,11) = 7.45, p = 0.02). Post-hoc analyses indicated that control rats found
+the platform as quickly at Day 28 as they did after the Day 1 probe trial (t(6)
+= 2.3, p &gt; 0.05) whereas rats treated with fluoxetine had significantly
+longer latencies on Day 28 (t(5) = 3.49, p = .02; <xref rid="F4" ref-type="fig">Fig 4A,B</xref>). Similarly, analysis of the percentage of time spent in
+the target quadrant during the probe trials indicated an overall significant
+different between the two treatment groups (F(1,11) = 5.78, p = 0.035) with the
+control rats spending an equivalent percentage of time in the target area
+between Day 1 and Day 28 (t(6) = 0.84, p &gt; 0.05), whereas the animals
+treated with fluoxetine had a significantly lower percentage on Day 28 (t(5) =
+3.57, p = 0.016; <xref rid="F4" ref-type="fig">Fig 4A,C</xref>). There were no
+differences in swim speed between the groups [F(1,11) = .37, p &gt; .05].
+These results indicate a successful recall of memory of the location of the
+platform in control animals and are also consistent with the hypothesis that
+chronic fluoxetine impaired the ability to recall long-term spatial memory.</p></sec></sec><sec id="S16"><label>4.</label><title>Discussion</title><p id="P30">More than 60 years ago, drugs that alter serotoninergic function were
+observed to affect mood, leading to the influential hypothesis that a deficit in
+serotonin levels causes depression. Although little evidence of decreased serotonin
+levels in human MDD was subsequently found, the serotonin hypothesis has led to the
+development of compounds that elevate serotonin levels by reducing its breakdown
+(monoamine oxidase inhibitors) and reuptake (SSRIs) and have proven to be effective,
+albeit slowly acting, antidepressants (<xref rid="R10" ref-type="bibr">Gaynes et
+al., 2009</xref>). Despite over half a century of availability and study, there
+is still little consensus about why elevation of serotonin levels by these compounds
+exerts therapeutic antidepressant actions. Furthermore, extensive investigation has
+implicated numerous serotonin receptor subtypes in the antidepressant actions of
+SSRIs (<xref rid="R5" ref-type="bibr">Carr and Lucki, 2011</xref>; <xref rid="R26" ref-type="bibr">Nautiyal and Hen, 2017</xref>).</p><p id="P31">We have observed that elevation of serotonin in hippocampal brain slices
+potentiates TA-CA1 synapses via activation of 5-HT<sub>1B</sub>Rs, which recruit the
+same molecular pathways as canonical activity-dependent LTP to produce a
+postsynaptically expressed form of synaptic potentiation (<xref rid="R4" ref-type="bibr">Cai et al., 2013</xref>). As in LTP, activation of
+5-HT<sub>1B</sub>Rs triggers activation of CaMKII and phosphorylation of GluA1
+at serine 831. In hippocampal slices, this process takes place within minutes (<xref rid="R4" ref-type="bibr">Cai et al., 2013</xref>). All of our our <italic toggle="yes">ex
+vivo</italic> experiments were performed with inhibition blocked so that we
+could study excitatory transmission in isolation. Rapid disinhibition in response to
+fluoxetine in hippocampal brain slices has also been described previously (<xref rid="R23" ref-type="bibr">Mendez et al., 2012</xref>) and could contribute to an
+overall increase in excitation <italic toggle="yes">in vivo</italic>, as well. Can this rapid
+serotonin-induced synaptic potentiation account for the slowly developing
+therapeutic actions of SSRIs?</p><p id="P32">To answer this question, we asked whether, and if so, how quickly, chronic
+SSRI administration <italic toggle="yes">in vivo</italic> could also induce potentiation of
+TA-CA1 synapses in <italic toggle="yes">ex vivo</italic> brain slices. We found strong evidence
+that chronic fluoxetine administration does indeed strengthen TA-CA1 synapses
+<italic toggle="yes">in vivo</italic>, including occlusion of conventional,
+electrically-evoked LTP and enhancement of electrically-evoked LTD. We note that
+<xref rid="R27" ref-type="bibr">Popova et al. (2017)</xref> observed a modest
+enhancement of LTP at Schaffer collateral – CA1 synapses after three weeks of
+chronic fluoxetine in mice, however, there was no apparent change in synaptic
+strength in their experiments. Chronic fluoxetine administration also occluded
+anpirtoline-induced potentiation of synaptic transmission, as well as the
+5-HT<sub>1B</sub>R-mediated postsynaptic activation of the second messenger
+CaMKII and the subsequent increase in phosphorylation of its substrate, the GluAl
+receptor subunit at S831, although 5-HT<sub>1B</sub>R desensitization cannot be
+excluded. Consistent with these observations, there was a significant increase in
+total CaMKII and GluAl in Str. LM, proteins known to be up-regulated in parallel
+with synaptic potentiation. Our results further reveal that this potentiation is
+elicited slowly <italic toggle="yes">in vivo</italic>, requiring more than two weeks to become
+detectable in <italic toggle="yes">ex vivo</italic> brain slices, as measured by an increase
+AMPA:NMDA ratio. Finally, consolidation and recall of long-term memory, a function
+of TA-CA1 synapses that probably involves activity-dependent synaptic potentiation
+(<xref rid="R31" ref-type="bibr">Shimizu et al., 2000</xref>), was impaired
+following chronic fluoxetine administration.</p><p id="P33">These results can be most easily explained by an SSRI-induced and,
+presumably, serotonin-dependent, increase in the strength of the TA-CA1 synapses to
+their maximal strength, preventing any further activity- or anpirtoline-induced
+potentiation. Indeed, induction of LTD to reduce synaptic strength restored the
+ability of the synapses to display an activity-dependent potentiation. This
+reinforces previous work demonstrating that a normal dynamic range is required for
+TA-CA1 synapses to carry out their functional role (<xref rid="R4" ref-type="bibr">Cai et al., 2013</xref>; <xref rid="R14" ref-type="bibr">Kallarackal et al.,
+2013</xref>). We therefore conclude that chronic SSRI administration does indeed
+induce a persistent potentiation of TA-CA1 synapses <italic toggle="yes">in vivo</italic>, as it
+does following acute administration <italic toggle="yes">in vitro.</italic> We presume, but have
+no evidence, that this fluoxetine-induced potentiation is serotonin-mediated.</p><p id="P34">Chronic fluoxetine administration impaired memory consolidation and/or
+recall in the Morris water maze. These results are consistent with earlier
+demonstrations of impairments in hippocampal dependent learning tasks (<xref rid="R1" ref-type="bibr">Ampuero et al., 2013</xref>) when fluoxetine was
+administered chronically prior to and after training. Our observation of altered
+synaptic strength and plasticity offers a potential explanation for these
+findings.</p><p id="P35">There is increasing evidence that a weakening of excitatory synaptic
+transmission at several sites within the cortico-mesolimbic reward circuits
+contributes to the pathology of MDD (<xref rid="R32" ref-type="bibr">Thompson et
+al., 2015</xref>). For example, we have observed that depression-like signs of
+anhedonia in chronically stressed rodents are accompanied by depressed synaptic
+excitation at TA-CA1 synapses in the hippocampus (<xref rid="R14" ref-type="bibr">Kallarackal et al., 2013</xref>). Similar deficits in excitation are observed
+in the prefrontal cortex (<xref rid="R33" ref-type="bibr">Yuen et al., 2012</xref>)
+and nucleus accumbens (<xref rid="R21" ref-type="bibr">Lim et al., 2012</xref>;
+<xref rid="R18" ref-type="bibr">LeGates et al., 2018</xref>). Chronic, but not
+acute, SSRI administration restores both hedonic behavior and TA-CA1 synaptic
+strength. The 5-HT<sub>1B</sub>R-mediated activation of CaMKII and subsequent
+phosphorylation of GluA1 are required for both the slow (3-4 weeks)
+antidepressant-like responses to SSRIs <italic toggle="yes">in vivo</italic> and fast
+serotonin-induced potentiation of TA-CA1 synapses <italic toggle="yes">in vitro</italic> (<xref rid="R4" ref-type="bibr">Cai et al., 2013</xref>), suggesting that this
+potentiation is required for the therapeutic actions of SSRIs. Why, then, are the
+therapeutic actions of SSRIs slower?</p><p id="P36">If strengthening of pathologically weakened excitatory synapses is indeed a
+critical mechanism in the antidepressant action of SSRIs (<xref rid="R4" ref-type="bibr">Cai et al., 2013</xref>; <xref rid="R32" ref-type="bibr">Thompson et al., 2015</xref>; <xref rid="R18" ref-type="bibr">LeGates et al.,
+2018</xref>), then this slow time course of potentiation could account for the
+delayed therapeutic response to SSRIs. But why do SSRIs induce immediate elevation
+of serotonin levels (<xref rid="R11" ref-type="bibr">Guan and McBride, 1988</xref>)
+<italic toggle="yes">in vitro</italic> and <italic toggle="yes">in vivo</italic>, and an increase in
+serotonin receptor activation that results in a rapid potentiation of excitatory
+synapses <italic toggle="yes">in vitro</italic> (<xref rid="R4" ref-type="bibr">Cai et al.,
+2013</xref>), but slow effects <italic toggle="yes">in vivo?</italic> In principle, two
+hypotheses can be proposed to account for the slow effects of SSRIs in vivo: a slow
+induction of potentiation or an ongoing reversal of serotonin’s actions.</p><p id="P37">Slow induction of potentiation might occur if there are relatively low
+rates, or only brief periods, of on-going serotonin release, rendering inhibition of
+uptake capable of producing serotonin elevations that are relatively ineffective at
+activating postsynaptic 5-HT<sub>1B</sub>Rs. Recording <italic toggle="yes">in vivo</italic>
+during reward and non-reward behaviors indicates that serotonergic neurons in the
+dorsal raphe nucleus fire action potentials at 1 – 10 Hz and that their
+firing is elicited by rewarding and aversive sensory cues (<xref rid="R6" ref-type="bibr">Cohen et al., 2015</xref>). This level of activity seems
+sufficient to produce a level of serotonin that could be affected by SSRIs, although
+the degree of activity in animals in their stimulus-poor home cages remains unknown.
+Furthermore, their firing decreases during sleep (<xref rid="R13" ref-type="bibr">Jacobs and Fornal, 1991</xref>). It is also possible that ongoing regulation of
+presynaptic inhibitory autoreceptors on DRN nerve terminals serves to limit the
+ability of SSRIs to elevate serotonin levels. It has been suggested that slow
+downregulation of these autoreceptors contributes to the slow time course of
+therapeutic SSRI effects (<xref rid="R7" ref-type="bibr">Davidson and Stamford,
+2000</xref>). Postsynaptic serotonin receptor subtypes are also known to change
+following prolonged antidepressant treatment but often in region- and
+subtype-specific manners that have seemingly contradictory effects (for review see
+(<xref rid="R2" ref-type="bibr">Artigas, 2012</xref>)). A slow increase in the
+rate of serotonin release may allow SSRIs to become increasingly effective at
+raising serotonin levels, activating postsynaptic 5-HT<sub>1B</sub>Rs, and thereby
+inducing potentiation, over time. If so, then selective pharmacological targeting of
+presynaptic autoreceptors can be predicted to result in faster potentiation of
+excitatory synapses <italic toggle="yes">in vivo</italic> and faster SSRI relief of depressive
+symptoms.</p><p id="P38">Unfortunately, less is known about the reversal of serotonin-induced
+potentiation. Because this potentiation and LTP are both produced by the same
+protein kinase-mediated phosphorylation events, it is reasonable to predict that
+serotonin-mediated potentiation can be reversed by the same molecular machinery by
+which LTP is reversed; the process of de-potentiation. De-potentiation is induced
+when low frequency stimulation triggers activation of a protein phosphatase cascade
+that reverses the phosphorylation of key substrates that are phosphorylated by
+LTP-triggered kinases (<xref rid="R24" ref-type="bibr">Mulkey et al., 1994</xref>;
+<xref rid="R25" ref-type="bibr">1993</xref>). Specifically, CaMKII-mediated
+phosphorylation of AMPA receptors is critical to induction of both LTP and
+serotonin-induced potentiation (<xref rid="R17" ref-type="bibr">Lee et al.,
+2000</xref>). Ongoing de-phosphorylation during times of low serotonin release,
+such as during sleep, may partially reverse the potentiation promoted by SSRIs
+during the active phase of the day. Selective pharmacological targeting of
+phosphatases mediating de-potentiation can also be predicted to speed both synaptic
+potentiation <italic toggle="yes">in vivo</italic> and beneficial SSRI actions.</p><p id="P39">Taken together these data suggest that chronic treatment with fluoxetine
+strengthens synaptic connections <italic toggle="yes">in vitro</italic> and <italic toggle="yes">in
+vivo</italic> by increasing AMPA receptor expression and signaling. Potentiation
+of excitatory synapses at multiple sites within the cortico-mesolimbic reward
+circuits appears to be a common effector mechanism of both slowly acting SSRIs and
+novel fast acting antidepressants (<xref rid="R9" ref-type="bibr">Fischell et al.,
+2015</xref>; <xref rid="R20" ref-type="bibr">Li et al., 2011</xref>, <xref rid="R19" ref-type="bibr">2010</xref>; <xref rid="R34" ref-type="bibr">Zanos et
+al., 2016</xref>).</p></sec><sec sec-type="supplementary-material" id="SM1"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="SD1" position="float" orientation="portrait"><label>1</label><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="NIHMS1524051-supplement-1.tif" orientation="portrait" id="d36e761" position="anchor"/></supplementary-material></sec></body><back><ack id="S17"><title>Acknowledgments</title><p id="P40">We thank Erin Cammarata for her contributions to the water maze
+experiments.</p><p id="P41">Funding and Disclosure</p><p id="P42">Funding: This work was supported by the National Institutes of Health grant
+R01 MH086828 to SMT and grant F30 MH105111 to HC. The authors have no conflicts of
+interest to declare.</p></ack><fn-group><fn id="FN1"><p id="P43" content-type="publisher-disclaimer">This is a PDF file of an unedited
+manuscript that has been accepted for publication. As a service to our customers
+we are providing this early version of the manuscript. The manuscript will
+undergo copyediting, typesetting, and review of the resulting proof before it is
+published in its final citable form. Please note that during the production
+process errors may be discovered which could affect the content, and all legal
+disclaimers that apply to the journal pertain.</p></fn></fn-group><ref-list><title>References</title><ref id="R1"><mixed-citation publication-type="journal"><name name-style="western"><surname>Ampuero</surname><given-names>E</given-names></name>, <name name-style="western"><surname>Stehberg</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Gonzalez</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Besser</surname><given-names>N</given-names></name>, <name name-style="western"><surname>Ferrero</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Diaz-Veliz</surname><given-names>G</given-names></name>, <name name-style="western"><surname>Wyneken</surname><given-names>U</given-names></name>, <name name-style="western"><surname>Rubio</surname><given-names>FJ</given-names></name>, <year>2013</year>
+<article-title>Repetitive fluoxetine treatment
+affects long-term memories but not learning</article-title>. <source>Behav
+Brain Res</source>. <volume>247</volume>,
+<fpage>92</fpage>–<lpage>100</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.bbr.2013.03.011</pub-id><pub-id pub-id-type="pmid">23511254</pub-id></mixed-citation></ref><ref id="R2"><mixed-citation publication-type="journal"><name name-style="western"><surname>Artigas</surname><given-names>F</given-names></name>, <article-title>2012. Serotonin receptors involved in antidepressant
+effects</article-title>. <source>Pharmacol. Ther</source>.
+<volume>137</volume>, <fpage>119</fpage>–<lpage>131</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.pharmthera.2012.09.006</pub-id><pub-id pub-id-type="pmid">23022360</pub-id></mixed-citation></ref><ref id="R3"><mixed-citation publication-type="journal"><name name-style="western"><surname>Belmaker</surname><given-names>RH</given-names></name>, <name name-style="western"><surname>Agam</surname><given-names>G</given-names></name>, <year>2008</year>
+<article-title>Major Depressive
+Disorder</article-title>. <source>N. Engl. J. Med</source>.
+<volume>358</volume>, <fpage>55</fpage>–<lpage>68</lpage>.
+<pub-id pub-id-type="doi">10.1056/NEJMra073096</pub-id><pub-id pub-id-type="pmid">18172175</pub-id></mixed-citation></ref><ref id="R4"><mixed-citation publication-type="journal"><name name-style="western"><surname>Cai</surname><given-names>X</given-names></name>, <name name-style="western"><surname>Kallarackal</surname><given-names>AJ</given-names></name>, <name name-style="western"><surname>Kvarta</surname><given-names>MD</given-names></name>, <name name-style="western"><surname>Goluskin</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Gaylor</surname><given-names>K</given-names></name>, <name name-style="western"><surname>Bailey</surname><given-names>AM</given-names></name>, <name name-style="western"><surname>Lee</surname><given-names>H-K</given-names></name>, <name name-style="western"><surname>Huganir</surname><given-names>RL</given-names></name>, <name name-style="western"><surname>Thompson</surname><given-names>SM</given-names></name>, <year>2013</year>
+<article-title>Local potentiation of excitatory
+synapses by serotonin and its alteration in rodent models of
+depression</article-title>. <source>Nat. Neurosci</source>.
+<volume>16</volume>, <fpage>464</fpage>–<lpage>72</lpage>.
+<pub-id pub-id-type="doi">10.1038/nn.3355</pub-id><pub-id pub-id-type="pmid">23502536</pub-id><pub-id pub-id-type="pmcid">PMC3609911</pub-id></mixed-citation></ref><ref id="R5"><mixed-citation publication-type="journal"><name name-style="western"><surname>Carr</surname><given-names>GV</given-names></name>, <name name-style="western"><surname>Lucki</surname><given-names>I</given-names></name>, <year>2011</year>
+<article-title>The role of serotonin receptor
+subtypes in treating depression: a review of animal studies</article-title>.
+<source>Psychopharmacology (Berl)</source>. <volume>213</volume>,
+<fpage>265</fpage>–<lpage>87</lpage>. <pub-id pub-id-type="doi">10.1007/s00213-010-2097-z</pub-id><pub-id pub-id-type="pmid">21107537</pub-id><pub-id pub-id-type="pmcid">PMC3374933</pub-id></mixed-citation></ref><ref id="R6"><mixed-citation publication-type="journal"><name name-style="western"><surname>Cohen</surname><given-names>JY</given-names></name>, <name name-style="western"><surname>Amoroso</surname><given-names>MW</given-names></name>, <name name-style="western"><surname>Uchida</surname><given-names>N</given-names></name>, <year>2015</year>
+<article-title>Serotonergic neurons signal reward
+and punishment on multiple timescales</article-title>.
+<source>Elife</source>
+<fpage>4</fpage>
+<pub-id pub-id-type="doi">10.7554/eLife.06346</pub-id><pub-id pub-id-type="pmcid">PMC4389268</pub-id><pub-id pub-id-type="pmid">25714923</pub-id></mixed-citation></ref><ref id="R7"><mixed-citation publication-type="journal"><name name-style="western"><surname>Davidson</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Stamford</surname><given-names>JA</given-names></name>, <year>2000</year>
+<article-title>Effect of chronic paroxetine
+treatment on 5-HT1B and 5-HT1D autoreceptors in rat dorsal raphe
+nucleus</article-title>. <source>Neurochem. Int</source>.
+<volume>36</volume>,
+<fpage>91</fpage>–<lpage>6</lpage>.<pub-id pub-id-type="pmid">10676872</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0197-0186(99)00115-1</pub-id></mixed-citation></ref><ref id="R8"><mixed-citation publication-type="journal"><name name-style="western"><surname>Dudek</surname><given-names>SM</given-names></name>, <name name-style="western"><surname>Bear</surname><given-names>MF</given-names></name>, <year>1992</year>
+<article-title>Homosynaptic long-term depression in
+area CA1 of hippocampus and effects of N-methyl-D-aspartate receptor
+blockade</article-title>. <source>Proc. Natl. Acad. Sci. U. S. A</source>.
+<volume>89</volume>,
+<fpage>4363</fpage>–<lpage>7</lpage>.<pub-id pub-id-type="pmid">1350090</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.89.10.4363</pub-id><pub-id pub-id-type="pmcid">PMC49082</pub-id></mixed-citation></ref><ref id="R9"><mixed-citation publication-type="journal"><name name-style="western"><surname>Fischell</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Van Dyke</surname><given-names>AM</given-names></name>, <name name-style="western"><surname>Kvarta</surname><given-names>MD</given-names></name>, <name name-style="western"><surname>Legates</surname><given-names>TA</given-names></name>, <name name-style="western"><surname>Thompson</surname><given-names>SM</given-names></name>, <year>2015</year>
+<source>Rapid Antidepressant Action and Restoration
+of Excitatory Synaptic Strength After Chronic Stress by Negative Modulators
+of Alpha5-Containing GABA A Receptors</source>
+<fpage>1</fpage>–<lpage>11</lpage>. <pub-id pub-id-type="doi">10.1038/npp.2015.112</pub-id><pub-id pub-id-type="pmcid">PMC4569955</pub-id><pub-id pub-id-type="pmid">25900119</pub-id></mixed-citation></ref><ref id="R10"><mixed-citation publication-type="journal"><name name-style="western"><surname>Gaynes</surname><given-names>BNB</given-names></name>, <name name-style="western"><surname>Warden</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Trivedi</surname><given-names>MH</given-names></name>, <name name-style="western"><surname>Wisniewski</surname><given-names>SR</given-names></name>, <name name-style="western"><surname>Fava</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Rush</surname><given-names>AJ</given-names></name>, <year>2009</year>
+<article-title>What did STAR*D teach us? Results
+from a large-scale, practical, clinical trial for patients with
+depression</article-title>. <source>Psychiatr. Serv</source>.
+<volume>60</volume>, <fpage>1439</fpage>–<lpage>45</lpage>.
+<pub-id pub-id-type="doi">10.1176/ps.2009.60.11.1439</pub-id><pub-id pub-id-type="pmid">19880458</pub-id></mixed-citation></ref><ref id="R11"><mixed-citation publication-type="journal"><name name-style="western"><surname>Guan</surname><given-names>X-MM</given-names></name>, <name name-style="western"><surname>McBride</surname><given-names>WJJ</given-names></name>, <year>1988</year>
+<article-title>Fluoxetine increases the
+extracellular levels of serotonin in the nucleus accumbens</article-title>.
+<source>Brain Res. Bull</source>. <volume>21</volume>,
+<fpage>43</fpage>–<lpage>6</lpage>. <pub-id pub-id-type="doi">10.1016/0361-9230(88)90118-9</pub-id><pub-id pub-id-type="pmid">2464422</pub-id></mixed-citation></ref><ref id="R12"><mixed-citation publication-type="journal"><name name-style="western"><surname>Haenisch</surname><given-names>B</given-names></name>, <name name-style="western"><surname>Bönisch</surname><given-names>H</given-names></name>, <year>2011</year>
+<article-title>Depression and antidepressants:
+insights from knockout of dopamine, serotonin or noradrenaline re-uptake
+transporters</article-title>. <source>Pharmacol. Ther</source>.
+<volume>129</volume>, <fpage>352</fpage>–<lpage>68</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.pharmthera.2010.12.002</pub-id><pub-id pub-id-type="pmid">21147164</pub-id></mixed-citation></ref><ref id="R13"><mixed-citation publication-type="journal"><name name-style="western"><surname>Jacobs</surname><given-names>BL</given-names></name>, <name name-style="western"><surname>Fornal</surname><given-names>CA</given-names></name>, <year>1991</year>
+<article-title>Activity of brain serotonergic
+neurons in the behaving animal</article-title>. <source>Pharmacol.
+Rev</source>. <volume>43</volume>,
+<fpage>563</fpage>–<lpage>78</lpage>.<pub-id pub-id-type="pmid">1775508</pub-id></mixed-citation></ref><ref id="R14"><mixed-citation publication-type="journal"><name name-style="western"><surname>Kallarackal</surname><given-names>AJ</given-names></name>, <name name-style="western"><surname>Kvarta</surname><given-names>MD</given-names></name>, <name name-style="western"><surname>Cammarata</surname><given-names>E</given-names></name>, <name name-style="western"><surname>Jaberi</surname><given-names>L</given-names></name>, <name name-style="western"><surname>Cai</surname><given-names>X</given-names></name>, <name name-style="western"><surname>Bailey</surname><given-names>AM</given-names></name>, <name name-style="western"><surname>Thompson</surname><given-names>SM</given-names></name>, <year>2013</year>
+<article-title>Chronic stress induces a selective
+decrease in AMPA receptor-mediated synaptic excitation at hippocampal
+temporoammonic-CA1 synapses</article-title>. <source>J. Neurosci</source>.
+<volume>33</volume>, <fpage>15669</fpage>–<lpage>74</lpage>.
+<pub-id pub-id-type="doi">10.1523/JNeuroSci.2588-13.2013</pub-id><pub-id pub-id-type="pmid">24089474</pub-id><pub-id pub-id-type="pmcid">PMC3787493</pub-id></mixed-citation></ref><ref id="R15"><mixed-citation publication-type="journal"><name name-style="western"><surname>Kessler</surname><given-names>RC</given-names></name>, <name name-style="western"><surname>Berglund</surname><given-names>P</given-names></name>, <name name-style="western"><surname>Demler</surname><given-names>O</given-names></name>, <name name-style="western"><surname>Jin</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Koretz</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Merikangas</surname><given-names>KR</given-names></name>, <name name-style="western"><surname>Rush</surname><given-names>AJ</given-names></name>, <name name-style="western"><surname>Walters</surname><given-names>EE</given-names></name>, <name name-style="western"><surname>Wang</surname><given-names>PS</given-names></name>, <year>2003</year>
+<article-title>The Epidemiology of Major Depressive
+Disorder</article-title>. <source>JAMA</source>
+<volume>289</volume>, <fpage>3095</fpage>.<pub-id pub-id-type="pmid">12813115</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jama.289.23.3095</pub-id></mixed-citation></ref><ref id="R16"><mixed-citation publication-type="journal"><name name-style="western"><surname>Kessler</surname><given-names>RC</given-names></name>, <name name-style="western"><surname>Berglund</surname><given-names>P</given-names></name>, <name name-style="western"><surname>Demler</surname><given-names>O</given-names></name>, <name name-style="western"><surname>Jin</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Merikangas</surname><given-names>KR</given-names></name>, <name name-style="western"><surname>Walters</surname><given-names>EE</given-names></name>, <year>2005</year>
+<article-title>Lifetime Prevalence and Age-of-Onset
+Distributions of DSM-IV Disorders in the National Comorbidity Survey
+Replication</article-title>. <source>Arch. Gen. Psychiatry</source>
+<volume>62</volume>, <fpage>593</fpage>
+<pub-id pub-id-type="doi">10.1001/archpsyc.62.6.593</pub-id><pub-id pub-id-type="pmid">15939837</pub-id></mixed-citation></ref><ref id="R17"><mixed-citation publication-type="journal"><name name-style="western"><surname>Lee</surname><given-names>H-K</given-names></name>, <name name-style="western"><surname>Barbarosie</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Kameyama</surname><given-names>K</given-names></name>, <name name-style="western"><surname>Bear</surname><given-names>MF</given-names></name>, <name name-style="western"><surname>Huganir</surname><given-names>RL</given-names></name>, <year>2000</year>
+<article-title>Regulation of distinct AMPA receptor
+phosphorylation sites during bidirectional synaptic
+plasticity</article-title>. <source>Nature</source>
+<volume>405</volume>, <fpage>955</fpage>–<lpage>9</lpage>.
+<pub-id pub-id-type="doi">10.1038/35016089</pub-id><pub-id pub-id-type="pmid">10879537</pub-id></mixed-citation></ref><ref id="R18"><mixed-citation publication-type="journal"><name name-style="western"><surname>LeGates</surname><given-names>TA</given-names></name>, <name name-style="western"><surname>Kvarta</surname><given-names>MD</given-names></name>, <name name-style="western"><surname>Tooley</surname><given-names>JR</given-names></name>, <name name-style="western"><surname>Francis</surname><given-names>TC</given-names></name>, <name name-style="western"><surname>Lobo</surname><given-names>MK</given-names></name>, <name name-style="western"><surname>Creed</surname><given-names>MC</given-names></name>, <name name-style="western"><surname>Thompson</surname><given-names>SM</given-names></name>, <year>2018</year>
+<article-title>Reward behavior is regulated by the
+strength of hippocampus-nucleus accumbens. synapses</article-title>.
+<source>Nature</source>, <comment>in press. NIHMSID:
+NIHMS1508676</comment><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41586-018-0740-8</pub-id><pub-id pub-id-type="pmcid">PMC6292781</pub-id><pub-id pub-id-type="pmid">30478293</pub-id></mixed-citation></ref><ref id="R19"><mixed-citation publication-type="journal"><name name-style="western"><surname>Li</surname><given-names>N</given-names></name>, <name name-style="western"><surname>Lee</surname><given-names>B</given-names></name>, <name name-style="western"><surname>Liu</surname><given-names>R-J</given-names></name>, <name name-style="western"><surname>Banasr</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Dwyer</surname><given-names>JM</given-names></name>, <name name-style="western"><surname>Iwata</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Li</surname><given-names>X-Y</given-names></name>, <name name-style="western"><surname>Aghajanian</surname><given-names>G</given-names></name>, <name name-style="western"><surname>Duman</surname><given-names>RS</given-names></name>, <year>2010</year>
+<article-title>mTOR-dependent synapse formation underlies the rapid
+antidepressant effects of NMDA antagonists</article-title>.
+<source>Science</source>
+<volume>329</volume>, <fpage>959</fpage>–<lpage>64</lpage>.
+<pub-id pub-id-type="doi">10.1126/science.1190287</pub-id><pub-id pub-id-type="pmid">20724638</pub-id><pub-id pub-id-type="pmcid">PMC3116441</pub-id></mixed-citation></ref><ref id="R20"><mixed-citation publication-type="journal"><name name-style="western"><surname>Li</surname><given-names>N</given-names></name>, <name name-style="western"><surname>Liu</surname><given-names>R-J</given-names></name>, <name name-style="western"><surname>Dwyer</surname><given-names>JM</given-names></name>, <name name-style="western"><surname>Banasr</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Lee</surname><given-names>B</given-names></name>, <name name-style="western"><surname>Son</surname><given-names>H</given-names></name>, <name name-style="western"><surname>Li</surname><given-names>X-Y</given-names></name>, <name name-style="western"><surname>Aghajanian</surname><given-names>G</given-names></name>, <name name-style="western"><surname>Duman</surname><given-names>RS</given-names></name>, <year>2011</year>
+<article-title>Glutamate N-methyl-D-aspartate receptor antagonists rapidly
+reverse behavioral and synaptic deficits caused by chronic stress
+exposure</article-title>. <source>Biol. Psychiatry</source>
+<volume>69</volume>, <fpage>754</fpage>–<lpage>61</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.biopsych.2010.12.015</pub-id><pub-id pub-id-type="pmid">21292242</pub-id><pub-id pub-id-type="pmcid">PMC3068225</pub-id></mixed-citation></ref><ref id="R21"><mixed-citation publication-type="journal"><name name-style="western"><surname>Lim</surname><given-names>BK</given-names></name>, <name name-style="western"><surname>Huang</surname><given-names>KW</given-names></name>, <name name-style="western"><surname>Grueter</surname><given-names>B. a</given-names></name>, <name name-style="western"><surname>Rothwell</surname><given-names>PE</given-names></name>, <name name-style="western"><surname>Malenka</surname><given-names>RC</given-names></name>, <year>2012</year>
+<article-title>Anhedonia requires MC4R-mediated
+synaptic adaptations in nucleus accumbens</article-title>.
+<source>Nature</source>
+<volume>487</volume>, <fpage>183</fpage>–<lpage>9</lpage>.
+<pub-id pub-id-type="doi">10.1038/nature11160</pub-id><pub-id pub-id-type="pmid">22785313</pub-id><pub-id pub-id-type="pmcid">PMC3397405</pub-id></mixed-citation></ref><ref id="R22"><mixed-citation publication-type="journal"><name name-style="western"><surname>Malenka</surname><given-names>RC</given-names></name>, <name name-style="western"><surname>Bear</surname><given-names>MF</given-names></name>, <year>2004</year>
+<article-title>LTP and LTD: an embarrassment of
+riches</article-title>. <source>Neuron</source>
+<volume>44</volume>, <fpage>5</fpage>–<lpage>21</lpage>.<pub-id pub-id-type="pmid">15450156</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neuron.2004.09.012</pub-id></mixed-citation></ref><ref id="R23"><mixed-citation publication-type="journal"><name name-style="western"><surname>Mendez</surname><given-names>P</given-names></name>, <name name-style="western"><surname>Pazienti</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Szab0</surname><given-names>G</given-names></name>, <name name-style="western"><surname>Bacci</surname><given-names>A</given-names></name>, <year>2012</year>
+<article-title>Direct alteration of a specific
+inhibitory circuit of the hippocampus by antidepressants</article-title>.
+<source>J Neurosci</source>. <volume>32</volume>,
+<fpage>16616</fpage>–<lpage>16628</lpage>. doi: <pub-id pub-id-type="doi">10.1523/JNEUROSCI.1720-12.2012</pub-id><comment>.</comment><pub-id pub-id-type="pmid">23175817</pub-id><pub-id pub-id-type="pmcid">PMC6621787</pub-id></mixed-citation></ref><ref id="R24"><mixed-citation publication-type="journal"><name name-style="western"><surname>Mulkey</surname><given-names>RM</given-names></name>, <name name-style="western"><surname>Endo</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Shenolikar</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Malenka</surname><given-names>RC</given-names></name>, <year>1994</year>
+<article-title>Involvement of a
+calcineurin/inhibitor-1 phosphatase cascade in hippocampal long-term
+depression</article-title>. <source>Nature</source>
+<volume>369</volume>, <fpage>486</fpage>–<lpage>8</lpage>.
+<pub-id pub-id-type="doi">10.1038/369486a0</pub-id><pub-id pub-id-type="pmid">7515479</pub-id></mixed-citation></ref><ref id="R25"><mixed-citation publication-type="journal"><name name-style="western"><surname>Mulkey</surname><given-names>RM</given-names></name>, <name name-style="western"><surname>Herron</surname><given-names>CE</given-names></name>, <name name-style="western"><surname>Malenka</surname><given-names>RC</given-names></name>, <year>1993</year>
+<article-title>An essential role for protein
+phosphatases in hippocampal long-term depression</article-title>.
+<source>Science</source>
+<volume>261</volume>,
+<fpage>1051</fpage>–<lpage>5</lpage>.<pub-id pub-id-type="pmid">8394601</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/science.8394601</pub-id></mixed-citation></ref><ref id="R26"><mixed-citation publication-type="journal"><name name-style="western"><surname>Nautiyal</surname><given-names>KM</given-names></name>, <name name-style="western"><surname>Hen</surname><given-names>R</given-names></name>, <year>2017</year>
+<article-title>Serotonin receptors in depression:
+from A to B</article-title>. <source>F1000Research</source>
+<volume>6</volume>, <fpage>123</fpage>
+<comment><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://doi.Org/10.12688/f1000research.9736.1">https://doi.Org/10.12688/f1000research.9736.1</ext-link></comment><pub-id pub-id-type="pmid">28232871</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.12688/f1000research.9736.1</pub-id><pub-id pub-id-type="pmcid">PMC5302148</pub-id></mixed-citation></ref><ref id="R27"><mixed-citation publication-type="journal"><name name-style="western"><surname>Popova</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Castren</surname><given-names>E</given-names></name>, <name name-style="western"><surname>Taira</surname><given-names>T</given-names></name>, <year>2017</year>
+<article-title>Chronic fluoxetine administration
+enhances synaptic plasticity and increases functional dynamics in
+hippocampal CA3-CA1 synapses</article-title>.
+<source>Neuropharmacology</source>
+<volume>126</volume>, <fpage>250</fpage>–<lpage>256</lpage>. doi:
+<pub-id pub-id-type="doi">10.1016/j.neuropharm.2017.09.003</pub-id><comment>.</comment><pub-id pub-id-type="pmid">28887184</pub-id></mixed-citation></ref><ref id="R28"><mixed-citation publication-type="journal"><name name-style="western"><surname>Remondes</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Schuman</surname><given-names>EM</given-names></name>, <year>2004</year>
+<article-title>Role for a cortical input to
+hippocampal area CA1 in the consolidation of a long-term
+memory</article-title>. <source>Nature</source>
+<volume>431</volume>, <fpage>699</fpage>–<lpage>703</lpage>.
+<pub-id pub-id-type="doi">10.1038/nature02965</pub-id><pub-id pub-id-type="pmid">15470431</pub-id></mixed-citation></ref><ref id="R29"><mixed-citation publication-type="journal"><name name-style="western"><surname>Remondes</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Schuman</surname><given-names>EM</given-names></name>, <year>2002</year>
+<article-title>Direct cortical input modulates
+plasticity and spiking in CA1 pyramidal neurons</article-title>.
+<source>Nature</source>
+<volume>416</volume>, <fpage>736</fpage>–<lpage>740</lpage>.
+<pub-id pub-id-type="doi">10.1038/416736a</pub-id><pub-id pub-id-type="pmid">11961555</pub-id></mixed-citation></ref><ref id="R30"><mixed-citation publication-type="journal"><name name-style="western"><surname>Shelton</surname><given-names>RC</given-names></name>, <name name-style="western"><surname>Tollefson</surname><given-names>GD</given-names></name>, <name name-style="western"><surname>Tohen</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Stahl</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Gannon</surname><given-names>KS</given-names></name>, <name name-style="western"><surname>Jacobs</surname><given-names>TG</given-names></name>, <name name-style="western"><surname>Buras</surname><given-names>WR</given-names></name>, <name name-style="western"><surname>Bymaster</surname><given-names>FP</given-names></name>, <name name-style="western"><surname>Zhang</surname><given-names>W</given-names></name>, <name name-style="western"><surname>Spencer</surname><given-names>KA</given-names></name>, <name name-style="western"><surname>Feldman</surname><given-names>PD</given-names></name>, <name name-style="western"><surname>Meltzer</surname><given-names>HY</given-names></name>, <year>2001</year>
+<article-title>A novel augmentation strategy for
+treating resistant major depression</article-title>. <source>Am. J.
+Psychiatry</source>
+<volume>158</volume>, <fpage>131</fpage>–<lpage>4</lpage>.
+<pub-id pub-id-type="doi">10.1176/appi.ajp.158.1.131</pub-id><pub-id pub-id-type="pmid">11136647</pub-id></mixed-citation></ref><ref id="R31"><mixed-citation publication-type="journal"><name name-style="western"><surname>Shimizu</surname><given-names>E</given-names></name>, <name name-style="western"><surname>Tang</surname><given-names>YP</given-names></name>, <name name-style="western"><surname>Rampon</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Tsien</surname><given-names>JZ</given-names></name>, <year>2000</year>
+<article-title>NMDA receptor-dependent synaptic
+reinforcement as a crucial process for memory consolidation</article-title>.
+<source>Science</source>
+<volume>290</volume>,
+<fpage>1170</fpage>–<lpage>4</lpage>.<pub-id pub-id-type="pmid">11073458</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/science.290.5494.1170</pub-id></mixed-citation></ref><ref id="R32"><mixed-citation publication-type="journal"><name name-style="western"><surname>Thompson</surname><given-names>SM</given-names></name>, <name name-style="western"><surname>Kallarackal</surname><given-names>AJ</given-names></name>, <name name-style="western"><surname>Kvarta</surname><given-names>MD</given-names></name>, <name name-style="western"><surname>Van Dyke</surname><given-names>AM</given-names></name>, <name name-style="western"><surname>LeGates</surname><given-names>TA</given-names></name>, <name name-style="western"><surname>Cai</surname><given-names>X</given-names></name>, <year>2015</year><article-title>. An excitatory synapse hypothesis of
+depression</article-title>. <source>Trends Neurosci</source>.
+<volume>38</volume>, <fpage>279</fpage>–<lpage>94</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.tins.2015.03.003</pub-id><pub-id pub-id-type="pmid">25887240</pub-id><pub-id pub-id-type="pmcid">PMC4417609</pub-id></mixed-citation></ref><ref id="R33"><mixed-citation publication-type="journal"><name name-style="western"><surname>Yuen</surname><given-names>EY</given-names></name>, <name name-style="western"><surname>Wei</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Liu</surname><given-names>W</given-names></name>, <name name-style="western"><surname>Zhong</surname><given-names>P</given-names></name>, <name name-style="western"><surname>Li</surname><given-names>X</given-names></name>, <name name-style="western"><surname>Yan</surname><given-names>Z</given-names></name>, <year>2012</year>
+<article-title>Repeated stress causes cognitive
+impairment by suppressing glutamate receptor expression and function in
+prefrontal cortex</article-title>. <source>Neuron</source>
+<volume>73</volume>, <fpage>962</fpage>–<lpage>77</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.neuron.2011.12.033</pub-id><pub-id pub-id-type="pmid">22405206</pub-id><pub-id pub-id-type="pmcid">PMC3302010</pub-id></mixed-citation></ref><ref id="R34"><mixed-citation publication-type="journal"><name name-style="western"><surname>Zanos</surname><given-names>P</given-names></name>, <name name-style="western"><surname>Moaddel</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Morris</surname><given-names>PJ</given-names></name>, <name name-style="western"><surname>Georgiou</surname><given-names>P</given-names></name>, <name name-style="western"><surname>Fischell</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Elmer</surname><given-names>GI</given-names></name>, <name name-style="western"><surname>Alkondon</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Yuan</surname><given-names>P</given-names></name>, <name name-style="western"><surname>Pribut</surname><given-names>HJ</given-names></name>, <name name-style="western"><surname>Singh</surname><given-names>NS</given-names></name>, <name name-style="western"><surname>Dossou</surname><given-names>KSS</given-names></name>, <name name-style="western"><surname>Fang</surname><given-names>Y</given-names></name>, <name name-style="western"><surname>Huang</surname><given-names>X</given-names></name>, <name name-style="western"><surname>Mayo</surname><given-names>CL</given-names></name>, <name name-style="western"><surname>Wainer</surname><given-names>IW</given-names></name>, <name name-style="western"><surname>Albuquerque</surname><given-names>EX</given-names></name>, <name name-style="western"><surname>Thompson</surname><given-names>SM</given-names></name>, <name name-style="western"><surname>Thomas</surname><given-names>CJ</given-names></name>, <name name-style="western"><surname>Gould</surname><given-names>TD</given-names></name>, <year>2016</year>
+<article-title>NMDAR inhibition-independent
+antidepressant actions of ketamine metabolites</article-title>.
+<source>Nature</source>
+<volume>533</volume>, <fpage>481</fpage>–<lpage>486</lpage>.
+<pub-id pub-id-type="doi">10.1038/nature17998.NMDAR</pub-id><pub-id pub-id-type="pmid">27144355</pub-id><pub-id pub-id-type="pmcid">PMC4922311</pub-id></mixed-citation></ref></ref-list></back><floats-group><fig id="F1" orientation="portrait" position="float"><label>Figure 1.</label><caption><title>Chronic fluoxetine treatment impairs LTP and enhances LTD.</title><p id="P44">Activity-dependent synaptic plasticity at TA-CA1 fEPSPs in Str. LM is
+compared in acute hippocampal slices prepared from rats treated for 4 weeks with
+fluoxetine (80mg/L) in their drinking water or untreated controls.
+<bold>(A)</bold> High frequency stimulation (HFS) failed to induce long-term
+potentiation (LTP) of TA-CA1 fEPSPs in slices taken from rats subjected to
+chronic fluoxetine (filled symbols; n = 5) but induced robust LTP in slices from
+control rats (open symbols; n = 7). Student’s t-test revealed a
+significant difference after 60 mins [t(10) = 10.61; p &lt; 0.0001].
+<bold>(B)</bold> The effect of sequential low frequency stimulation (LFS)
+and high frequency stimulation (HFS) on fEPSPs recorded from slices taken from
+controls (open symbols; n = 11) and rats subjected to 4 weeks of chronic
+fluoxetine (filled symbols; n = 7). A two-way ANOVA revealed a significant
+interaction between fluoxetine treatment and electrical manipulations [F(1, 32)
+= 4.653; p = 0.0386]. Post hoc analysis revealed a significant difference
+between treatments following LFS [q(32) = 3.921; p &lt; 0.05] and following
+HFS [q(32) = 8.235; p &lt; 0.0001] with LFS decreasing fEPSP slope in
+fluoxetine treated animals and HFS increasing fEPSP slope in control treated
+animals. * = p &lt; 0.05 compared to baseline; # = p &lt; 0.05 compared
+to vehicle control; data are expressed as the mean ± SEM.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="nihms-1524051-f0001.jpg"/></fig><fig id="F2" orientation="portrait" position="float"><label>Figure 2.</label><caption><title>Chronic fluoxetine prevents acute 5-HT<sub>1B</sub>R-mediated potentiation
+and activation of second messenger cascade.</title><p id="P45">The effect of acute anpirtoline treatment (60min; 50 μM) on
+TA-CA1 fEPSPs in slices taken from untreated controls and rats subjected to 4
+weeks of chronic fluoxetine. <bold>(A)</bold> Student’s t-test revealed
+anpirtoline failed to induce a significant increase in fEPSP slope after
+fluoxetine treatment (black; n = 6) but did in slices derived from control
+animals (white; n = 6; t(10) =8.761; p &lt; 0.0001). <bold>(B)</bold>
+Example Western blots for various proteins across the different treatment
+conditions. <bold>(C)</bold> One-way ANOVA and post hoc analysis revealed that
+anpirtoline significantly increased the levels of phosphorylated CaMKII (white;
+[F(3,12) = 18.95; p &lt; 0.0001]) and phosphorylated S831 of GluA1 (grey;
+[F(3,20) = 13.73; p &lt; 0.0001]) at the 60min time point in control slices.
+Following fluoxetine treatment, levels of phosphorylated CaMKII and S831 were
+higher than in control slices, but anpirtoline did not further increase them.
+<bold>(D)</bold> One-way ANOVA and post hoc analysis revealed that
+expression of CaMKII (white; [F(3,12) = 17.53; p = 0.0001]) and GluA1 (grey;
+[F(3,20) = 20.94; p &lt; 0.0001)] were significantly elevated following
+chronic fluoxetine treatment, compared to untreated controls, but expression was
+not further increased by anpirtoline. (E) The ratio of phosphorylated CaMKII and
+S831 to total CaMKII (white; [F(3,12) = 4.585; p = 0.0232]) and GluA1 (grey;
+[F(3,20) = 6.261; p = 0.0036]) at protein were significantly elevated following
+chronic fluoxetine treatment in control slices but not in slices treated with
+fluoxetine. * = p &lt; 0.05 compared to untreated vehicle control; Western
+blot group data represents the average of a minimum of 3 replicates; data are
+expressed as the mean ± SEM and normalized to vehicle treated control
+tissue.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="nihms-1524051-f0002.jpg"/></fig><fig id="F3" orientation="portrait" position="float"><label>Figure 3.</label><caption><title>Chronic fluoxetine treatment in vivo increases AMPA receptor-mediated
+synaptic excitation.</title><p id="P46"><bold>(A)</bold> Representative traces showing the AMPA receptor- and
+NMDA receptor-mediated components of the fEPSP, recorded extracellularly in Str.
+LM of area CA1 in response to simulation of TA afferents in saline lacking
+Mg<sup>2+</sup> before and after application of DNQX (50μM). Traces
+were recorded from slices taken from an untreated controls (left) and rats
+subjected to 28 days of chronic fluoxetine in the drinking water (80mg/L;
+right). <bold>(B)</bold> Mean AMPA:NMDA ratios were computed from the initial
+slopes of the responses in each slice before and after application of DNQX
+(indicated by dashed lines in <bold>A</bold>). A one-way ANOVA [F(5,46) = 16.10,
+p &lt; 0.0001] showed a significant increase in AMPA:NMDA ratio over time
+(n/group: 0hr = 8, 24hr = 11, 1Wk = 6, 2Wk = 11, 3Wk = 5, 4Wk = 11). Post hoc
+analysis revealed there was a significant increase in AMPA signaling between
+baseline and the 3-week [q(46) = 6.085; p &lt; 0.001] and 4-week [q(46) =
+9.550; p &lt; 0.0001] time points. <bold>(C)</bold> A one-way ANOVA [F(5,46)
+= 4.173, p &lt; 0.0033] showed a significant increase in AMPA-mediated
+signaling normalized to FV over time. Post hoc analysis revealed there was a
+significant increase in AMPA signaling between baseline and the 4-week time
+point [q(46) = 5.131; p &lt; 0.001]. In contrast, a one-way ANOVA [F(5,46) =
+0.1488, p &gt; 0.05] showed no difference in NMDA mediated signaling
+normalized to FV over time. * p &lt; 0.05 compared with controls. * = p
+&lt; 0.05 compared to vehicle control; data are expressed as the mean
+± SEM.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="nihms-1524051-f0003.jpg"/></fig><fig id="F4" orientation="portrait" position="float"><label>Figure 4.</label><caption><title><italic toggle="yes">Chronic fluoxetine treatment</italic> in vivo <italic toggle="yes">impairs recall
+of spatial memory</italic>.</title><p id="P47"><bold>(A)</bold> Example diagrams of the two probe trials, with start
+(open circle), platform location (closed circle), and path taken (connecting
+line) for control rats (n = 7) and rats treated with fluoxetine for 28 days (n =
+6). Examples are shown for probe trials at 1 and 28 days after completion of
+training. (B) Latency to platform location for each group at 1- and 28-days
+post-training. A 2×2 ANOVA revealed that fluoxetine-treated rats
+performed significantly worse after the 28 day consolidation period, with
+significantly greater latency to target [F(1,11) = 14.03; p = 0.003]. Control
+rats performed as well after 28 days as after the initial probe trial on Day 1
+(p &gt; 0.05). <bold>(C)</bold> Percentage of time spent in the target
+quadrant for each group. A 2×2 ANOVA indicated that animals treated with
+chronic fluoxetine spent significantly less time in the target quadrant at day
+28 compared to day 1 [F(1,11) = 5.78, p = 0.035]. Control animals did not differ
+in the percentage of time spent in the target quadrant between day 1 and day 28
+(p &gt; 0.05). * = p &lt; 0.05 compared to vehicle control. Data are
+expressed as the mean ± SEM.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="nihms-1524051-f0004.jpg"/></fig><boxed-text id="BX1" position="float" orientation="portrait"><caption><title>Highlights</title></caption><list list-type="bullet" id="L1"><list-item><p id="P48">Fluoxetine potentiates hippocampal excitatory synapses in brain
+slices rapidly</p></list-item><list-item><p id="P49">Chronic fluoxetine in vivo increases synaptic strength in ex vivo
+slices slowly</p></list-item><list-item><p id="P50">Chronic fluoxetine occludes long-term potentiation and favors
+long-term depression</p></list-item><list-item><p id="P51">Chronic fluoxetine occludes serotonin-dependent potentiation</p></list-item><list-item><p id="P52">Chronic fluoxetine impairs long-term memory consolidation in the
+Morris water maze</p></list-item><list-item><p id="P53">Serotonin’s synaptic effects are slow, contributing to slow
+therapeutic benefits</p></list-item></list></boxed-text></floats-group></article>

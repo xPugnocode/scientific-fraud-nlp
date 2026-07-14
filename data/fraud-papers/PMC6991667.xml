@@ -1,0 +1,590 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article article-type="research-article" xml:lang="en" dtd-version="1.4"><front><journal-meta><journal-id journal-id-type="nlm-ta">J Cell Mol Med</journal-id><journal-id journal-id-type="iso-abbrev">J. Cell. Mol. Med</journal-id><journal-id journal-id-type="pmc-domain-id">2233</journal-id><journal-id journal-id-type="pmc-domain">jcmmopen</journal-id><journal-id journal-id-type="nlm-id">101083777</journal-id><journal-id journal-id-type="publisher-id">JCMM</journal-id><journal-title-group><journal-title>Journal of Cellular and Molecular Medicine</journal-title></journal-title-group><issn pub-type="ppub">1582-1838</issn><issn pub-type="epub">1582-4934</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC6991667</article-id><article-id pub-id-type="pmcid-ver">PMC6991667.1</article-id><article-id pub-id-type="pmcaid">6991667</article-id><article-id pub-id-type="pmcaiid">6991667</article-id><article-id pub-id-type="pmid">31769187</article-id><article-id pub-id-type="doi">10.1111/jcmm.14826</article-id><article-id pub-id-type="publisher-id">JCMM14826</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Articles</subject></subj-group></article-categories><title-group><article-title>Gastrodin relieves inflammation injury induced by lipopolysaccharides in MRC‐5 cells by up‐regulation of miR‐103</article-title><alt-title alt-title-type="left-running-head">XI et al.</alt-title></title-group><contrib-group><contrib id="jcmm14826-cr-0001" contrib-type="author"><name name-style="western"><surname>Xi</surname><given-names initials="Z">Zhuona</given-names></name><xref ref-type="aff" rid="jcmm14826-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jcmm14826-cr-0002" contrib-type="author"><name name-style="western"><surname>Qiao</surname><given-names initials="Y">Yahong</given-names></name><xref ref-type="aff" rid="jcmm14826-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jcmm14826-cr-0003" contrib-type="author"><name name-style="western"><surname>Wang</surname><given-names initials="J">Jifang</given-names></name><xref ref-type="aff" rid="jcmm14826-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jcmm14826-cr-0004" contrib-type="author"><name name-style="western"><surname>Su</surname><given-names initials="H">Hongjian</given-names></name><xref ref-type="aff" rid="jcmm14826-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jcmm14826-cr-0005" contrib-type="author"><name name-style="western"><surname>Bao</surname><given-names initials="Z">Zhen</given-names></name><xref ref-type="aff" rid="jcmm14826-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jcmm14826-cr-0006" contrib-type="author"><name name-style="western"><surname>Li</surname><given-names initials="H">Hongyan</given-names></name><xref ref-type="aff" rid="jcmm14826-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="jcmm14826-cr-0007" contrib-type="author" corresp="yes"><name name-style="western"><surname>Liao</surname><given-names initials="X">Xiaoming</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-2674-0149</contrib-id><xref ref-type="aff" rid="jcmm14826-aff-0003">
+<sup>3</sup>
+</xref><address><email>liao52xm@126.com</email></address></contrib><contrib id="jcmm14826-cr-0008" contrib-type="author" corresp="yes"><name name-style="western"><surname>Zhong</surname><given-names initials="X">Xiaolan</given-names></name><xref ref-type="aff" rid="jcmm14826-aff-0004">
+<sup>4</sup>
+</xref><address><email>lirong888265@126.com</email></address></contrib></contrib-group><aff id="jcmm14826-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Respiration Ward II</named-content>
+<institution>Henan Provincial Chest Hospital</institution>
+<city>Zhengzhou</city>
+<country country="CN">China</country>
+</aff><aff id="jcmm14826-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Internal Medicine</named-content>
+<institution>Huadu District People's Hospital of Guangzhou</institution>
+<city>Guangzhou</city>
+<country country="CN">China</country>
+</aff><aff id="jcmm14826-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Department of Integrated Chinese and Western Internal Medicine</named-content>
+<institution>Huadu District People's Hospital of Guangzhou</institution>
+<city>Guangzhou</city>
+<country country="CN">China</country>
+</aff><aff id="jcmm14826-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Department of Quality Control</named-content>
+<institution>Huadu District People's Hospital of Guangzhou</institution>
+<city>Guangzhou</city>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Xiaoming Liao, Department of Integrated Chinese and Western Internal Medicine, Huadu District People's Hospital of Guangzhou, No. 48, Xinhua Road, Huadu District, Guangzhou 510800, Guangdong, China.<break/>
+Email: <email>liao52xm@126.com</email><break/>
+Xiaolan Zhong, Department of Quality Control, Huadu District People's Hospital of Guangzhou, No. 48, Xinhua Road, Huadu District, Guangzhou 510800, Guangdong, China.<break/>
+Email: <email>lirong888265@126.com</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>25</day><month>11</month><year>2019</year></pub-date><pub-date pub-type="ppub"><month>1</month><year>2020</year></pub-date><volume>24</volume><issue>2</issue><issue-id pub-id-type="pmc-issue-id">351287</issue-id><issue-id pub-id-type="doi">10.1111/jcmm.v24.2</issue-id><fpage>1451</fpage><lpage>1459</lpage><history><date date-type="received"><day>24</day><month>6</month><year>2019</year></date><date date-type="rev-recd"><day>14</day><month>10</month><year>2019</year></date><date date-type="accepted"><day>06</day><month>11</month><year>2019</year></date></history><pub-history><event event-type="pmc-release"><date><day>01</day><month>01</month><year>2020</year></date></event><event event-type="pmc-live"><date><day>03</day><month>02</month><year>2020</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2024-07-24 13:25:13.230"><day>24</day><month>07</month><year>2024</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2019 The Authors. <italic toggle="yes">Journal of Cellular and Molecular Medicine</italic> published by Foundation for Cellular and Molecular Medicine and John Wiley &amp; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="JCMM-24-1451.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:JCMM-24-1451.pdf"/><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="retraction-forward" xml:lang="en" xlink:title="retraction" journal-id="J Cell Mol Med" journal-id-type="nlm-ta" ext-link-type="pmc" xlink:href="PMC7882962"><article-title>Retraction</article-title><volume>25</volume><issue>4</issue><date><day>21</day><month>1</month><year>2021</year></date><fpage>2286</fpage><lpage>2286</lpage><source>Journal of Cellular and Molecular Medicine</source><pub-id pub-id-type="doi">10.1111/jcmm.15988</pub-id><pub-id pub-id-type="pmcid">PMC7882962</pub-id><pub-id pub-id-type="pmid">33586365</pub-id></related-article><abstract id="jcmm14826-abs-0001"><title>Abstract</title><p>The beneficial function of gastrodin towards many inflammatory diseases has been identified. This study designed to see the influence of gastrodin in a cell model of chronic obstructive pulmonary disease (COPD). MRC‐5 cells were treated by LPS, before which gastrodin was administrated. The effects of gastrodin were evaluated by conducting CCK‐8, FITC‐PI double staining, Western blot, qRT‐PCR and ELISA. Besides this, the downstream effector and signalling were studied to decode how gastrodin exerted its function. And dual‐luciferase assay was used to detect the targeting link between miR‐103 and lipoprotein receptor‐related protein 1 (LRP1). LPS induced apoptosis and the release of MCP‐1, IL‐6 and TNF‐α in MRC‐5 cells. Pre‐treating MRC‐5 cells with gastrodin attenuated LPS‐induced cell damage. Meanwhile, p38/JNK and NF‐κB pathways induced by LPS were repressed by gastrodin. miR‐103 expression was elevated by gastrodin. Further, the protective functions of gastrodin were attenuated by miR‐103 silencing. And LRP1 was a target of miR‐103 and negatively regulated by miR‐103. The in vitro data illustrated the protective function of gastrodin in LPS‐injured MRC‐5 cells. Gastrodin exerted its function possibly by up‐regulating miR‐103 and modulating p38/JNK and NF‐κB pathways.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="jcmm14826-kwd-0001">apoptosis</kwd><kwd id="jcmm14826-kwd-0002">chronic obstructive pulmonary disease (COPD)</kwd><kwd id="jcmm14826-kwd-0003">NF‐κB</kwd><kwd id="jcmm14826-kwd-0004">p38/JNK</kwd></kwd-group><counts><fig-count count="6"/><table-count count="0"/><page-count count="9"/><word-count count="4500"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.5 mode:remove_FC converted:30.01.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="jcmm14826-cit-1001">
+<string-name name-style="western">
+<surname>Xi</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Qiao</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Gastrodin relieves inflammation injury induced by lipopolysaccharides in MRC‐5 cells by up‐regulation of miR‐103</article-title>. <source xml:lang="en">J Cell Mol Med</source>. <year>2020</year>;<volume>24</volume>:<fpage>1451</fpage>–<lpage>1459</lpage>. <pub-id pub-id-type="doi">10.1111/jcmm.14826</pub-id>
+<pub-id pub-id-type="pmcid">PMC6991667</pub-id><pub-id pub-id-type="pmid">31769187</pub-id><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="retraction-forward" ext-link-type="pmc" xlink:href="PMC7882962"/></mixed-citation>
+</p></notes></front><body id="jcmm14826-body-0001"><sec id="jcmm14826-sec-0002"><label>1</label><title>INTRODUCTION</title><p>Chronic obstructive pulmonary disease (COPD) is a complex systemic disorder characterized by both local pulmonary inflammation and systemic inflammation.<xref rid="jcmm14826-bib-0001" ref-type="ref">1</xref> This disease mainly manifests by chronic and progressive cough, sputum production and dyspnoea after exercise<xref rid="jcmm14826-bib-0002" ref-type="ref">2</xref> which significantly affects the quality of life and exercise endurance of patients.<xref rid="jcmm14826-bib-0003" ref-type="ref">3</xref> Until now, no reliable information suggests that the present pharmacotherapy of modern medicine can reverse the progressive decline of pulmonary function in the natural course of COPD.<xref rid="jcmm14826-bib-0004" ref-type="ref">4</xref> So, preventing COPD is one of the major options of management of this illness.</p><p>
+<italic toggle="yes">Gastrodia eleta</italic> is one of the traditional Chinese herbal medicines that is used in ancient time to treat many diseases, including migraines, dizziness, tetanus, epilepsy, infantile convulsions, rheumatism and numbness of the limbs. Gastrodin (4‐hydroxybenzyl alcohol 4‐O‐beta‐<sc>d</sc>‐glucopyranoside) is a major active constituent of <italic toggle="yes">Gastrodia eleta</italic>. Recent decades, various pharmacological functions of gastrodin have been reported, including anti‐apoptosis, anti‐inflammation, antioxidant activity, lipid regulation<xref rid="jcmm14826-bib-0005" ref-type="ref">5</xref>, <xref rid="jcmm14826-bib-0006" ref-type="ref">6</xref> and so forth. Thereby, gastrodin has been considered as a potential therapeutic agent for diverse diseases such as Tourette syndrome,<xref rid="jcmm14826-bib-0007" ref-type="ref">7</xref> myocardial infarction,<xref rid="jcmm14826-bib-0008" ref-type="ref">8</xref> alcoholic liver disease<xref rid="jcmm14826-bib-0006" ref-type="ref">6</xref>, <xref rid="jcmm14826-bib-0009" ref-type="ref">9</xref> and acute lung injury.<xref rid="jcmm14826-bib-0010" ref-type="ref">10</xref> However, the effects of gastrodin on COPD were not studied previously.</p><p>microRNAs (miRNAs) are a sort of small non‐coding RNAs that are latterly discovered. They constitute approximately 1% of the total coding genes, and regulate more than 1/3 of protein‐coding genes post‐transcriptionally, which form the largest molecule regulation network. Because of this, miRNAs can participate in various physiological and pathological processes, including the onset and development of COPD.<xref rid="jcmm14826-bib-0011" ref-type="ref">11</xref>, <xref rid="jcmm14826-bib-0012" ref-type="ref">12</xref>, <xref rid="jcmm14826-bib-0013" ref-type="ref">13</xref> For instance, in vivo and in vitro data demonstrated that miR‐3202 could protect smokers from COPD.<xref rid="jcmm14826-bib-0014" ref-type="ref">14</xref> Likewise, miR‐181c was able to inhibit COPD which was induced by smoke.<xref rid="jcmm14826-bib-0015" ref-type="ref">15</xref> In COPD, miR‐103 was reported to be one of the aberrantly expressed miRNAs.<xref rid="jcmm14826-bib-0016" ref-type="ref">16</xref> Besides that, miR‐103 could participate in the regulation of inflammation in many aspects of human body, such as vasculature,<xref rid="jcmm14826-bib-0017" ref-type="ref">17</xref> adipose tissue<xref rid="jcmm14826-bib-0018" ref-type="ref">18</xref> and epicardial adipose tissue.<xref rid="jcmm14826-bib-0019" ref-type="ref">19</xref> However, the functional impacts of miR‐103 in COPD have not been studied before.</p><p>This study attempted to investigate the effect of gastrodin on a cell model of COPD, which was constructed by stimulating human lung fibroblast MRC‐5 cells with lipopolysaccharides (LPSs). The expression change in miR‐103 was also studied to decode the mechanism of which gastrodin exerted its function.</p></sec><sec sec-type="materials-and-methods" id="jcmm14826-sec-0003"><label>2</label><title>MATERIALS AND METHODS</title><sec id="jcmm14826-sec-0004"><label>2.1</label><title>Cell treatment</title><p>MRC‐5 cells (ATCC) were cultured in EMEM (ATCC) which supplemented with 10% foetal bovine serum (Gibco). The cells were subcultured in 75‐cm<sup>2</sup> flask and maintained at 37°C in humidified atmosphere with 5% CO<sub>2</sub>.</p><p>Cells were treated by 10 μg/mL LPS (Sigma‐Aldrich) for 6 hours as described elsewhere.<xref rid="jcmm14826-bib-0020" ref-type="ref">20</xref>
+</p><p>Gastrodin (≥98% (HPLC), Sigma‐Aldrich) was dissolved in DMSO (Sigma‐Aldrich) to make a storage solution. Before use, the solution was diluted with EMEM to final concentrations of 50‐300 μg/mL. The cells were treated by gastrodin for 24 hours before LPS stimulation.</p></sec><sec id="jcmm14826-sec-0005"><label>2.2</label><title>Transfection</title><p>miR‐103 mimic, miR‐103 inhibitor (anti–miR‐103) and the negative control (NC) were synthesized by GenePharma. Before transfection, cells were seeded into 6‐well plates at the density of 5 × 10<sup>5</sup>/well. Cells were transfected with a final concentration of 5 nmol/L for miRNA mimic and 50 nmol/L for miRNA inhibitor through Lipofectamine 3000 (Invitrogen) following the producer's instructions. Transfection complexes were formed as follows: 100 pmoles miR‐103–related sequences and 5 μL lipofectamine 3000 were blended, respectively, with 125 μL Opti‐MEM (Invitrogen), keeping them in the room for 10 minutes under serum‐free conditions. Cells were washed twice with PBS, and relative transfection complexes were put into every well. After 48 hours, the stably transfected cells were chosen for about 4 weeks through the culture medium with 0.5 mg/mL G418 (Sigma‐Aldrich). G418‐resistant cells were directly gathered latter.</p></sec><sec id="jcmm14826-sec-0006"><label>2.3</label><title>Cell viability</title><p>5000 cells in 96‐well plates were treated as indicated. Cell viability was tested by adding 20 μL CCK‐8 solution (Sangon Biotech). 4 hours later, the optical density (OD) at 450 nm was analysed by a microplate reader (Bio‐Rad).</p></sec><sec id="jcmm14826-sec-0007"><label>2.4</label><title>Apoptosis</title><p>5 × 10<sup>5</sup> cells in 6‐well plates were treated as indicated, after which 1 × 10<sup>5</sup> cells of each sample were stained by using Annexin V‐FITC Apoptosis Detection Kit (Yeasen). FACS can (Beckman Coulter) was utilized to analyse apoptosis rate.</p></sec><sec id="jcmm14826-sec-0008"><label>2.5</label><title>ELISA</title><p>Cells in 6‐well plates were treated as indicated, and thereafter, the culture supernatant was collected. Concentrations of MCP‐1, IL‐6 and TNF‐α were tested by ELISA Kits purchased from Abcam.</p></sec><sec id="jcmm14826-sec-0009"><label>2.6</label><title>qRT‐PCR</title><p>Cells in 6‐well plates were treated as indicated. RNA extraction was done by using TRIzol (Invitrogen), and the purity was verified by testing the OD values at 260 and 280 nm. To analyse MCP‐1, IL‐6 and TNF‐α levels, PrimeScript™ RT Master Mix and TB Green Fast qPCR Mix (Takara) were utilized and β‐actin acted as an internal control. To analyse the expression of miR‐103, Mir‐X™ miRNA First‐Strand Synthesis Kit and Mir‐X™ miRNA qRT‐PCR TB Green™ Kit (Takara) were utilized and U6 acted as reference controls.</p></sec><sec id="jcmm14826-sec-0010"><label>2.7</label><title>Western blot</title><p>The proteins in the pre‐treated cells were isolated by using RIPA buffer (Beyotime). The proteins was separated and probed by the primary antibodies, including anti–Bcl‐2 (sc‐509), anti‐Bax (sc‐20067), anti–cleaved Caspase 3 (sc‐373730), anti–cleaved PARP (sc‐56196), anti–MCP‐1 (sc‐130328), anti–IL‐6 (sc‐57315), anti–TNF‐α (sc‐52746), anti‐p38 (sc‐136210), anti–p‐p38 (sc‐7973), anti–c‐Jun (sc‐376488), anti–p‐c‐Jun (sc‐53182), anti‐JNK (sc‐136533), anti–p‐JNK (sc‐293137), anti‐p65 (sc‐514451), anti–p‐p65 (sc‐136548) and anti–β‐actin (sc‐517582, Santa Cruz Biotechnology). Followed by incubation with the secondary antibodies, the positive bands were developed by BeyoECL Star Kit (Beyotime).</p></sec><sec id="jcmm14826-sec-0011"><label>2.8</label><title>Dual‐luciferase assays</title><p>3′‐UTR of lipoprotein receptor–related protein 1 (LRP1) was amplified through PCR and inserted into pmiR‐Report vector (Promega), indicating LRP1 wild type (WT). GeneTailor Site‐Directed Mutagenesis System (Invitrogen) was employed to get LRP1‐mutated type (MUT), which was amplified via PCR and inserted into the same vector. The vectors were cotransfected with miR‐103 mimic and its related control into cells. Dual‐luciferase experiment system (Promega) was employed to get results.</p></sec><sec id="jcmm14826-sec-0012"><label>2.9</label><title>Statistics</title><p>Data presented as mean ± SD. Statistical difference was tested by SPSS 19.0 software (Chicago, IL) and presented as asterisk. Student's <italic toggle="yes">t</italic> test and ANOVA with Tukey post hoc analysis were conducted to compare the significant difference. <italic toggle="yes">P</italic> &lt; .05 was considered as significant difference.</p></sec></sec><sec sec-type="results" id="jcmm14826-sec-0013"><label>3</label><title>RESULTS</title><sec id="jcmm14826-sec-0014"><label>3.1</label><title>LPS injured MRC‐5 cells</title><p>MRC‐5 cells were stimulated by 10 μg/mL LPS for 6 hours. As expected, cell viability was repressed (<italic toggle="yes">P</italic> &lt; .05, Figure <xref rid="jcmm14826-fig-0001" ref-type="fig">1</xref>A), whereas apoptosis rate was increased (<italic toggle="yes">P</italic> &lt; .05, Figure <xref rid="jcmm14826-fig-0001" ref-type="fig">1</xref>B) by LPS. These phenomena were accompanied by the down‐regulation of Bcl‐2, the up‐regulation of Bax and the cleavage of Caspase 3 and PARP (all <italic toggle="yes">P</italic> &lt; .05, Figure <xref rid="jcmm14826-fig-0001" ref-type="fig">1</xref>C,D). Meanwhile, the expression and release of MCP‐1, IL‐6 and TNF‐α in MRC‐5 cells were promoted by LPS (all <italic toggle="yes">P</italic> &lt; .05, Figure <xref rid="jcmm14826-fig-0001" ref-type="fig">1</xref>E‐G). All these demonstrated the inflammatory injury in MRC‐5 cells induced by LPS.</p><fig fig-type="Figure" xml:lang="en" id="jcmm14826-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>LPS injured MRC‐5 cells. MRC‐5 cells were stimulated by 10 μg/mL LPS for 6 h. (A) Viability, (B) apoptosis rate, (C‐D) apoptosis‐related proteins' expression, and (E) mRNA level, (F) protein level and (G) release of MCP‐1, IL‐6 and TNF‐α were analysed by CCK‐8, FITC‐PI double staining, Western blot, qRT‐PCR and ELISA. * indicates <italic toggle="yes">P</italic> &lt; .05, n = 3</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-1" position="float" orientation="portrait" xlink:href="JCMM-24-1451-g001.jpg"/></fig></sec><sec id="jcmm14826-sec-0015"><label>3.2</label><title>Gastrodin prevents LPS‐induced injury in MRC‐5 cells</title><p>Various concentrations of gastrodin were utilized to treat MRC‐5 cells for 24 hours. As result shown in Figure <xref rid="jcmm14826-fig-0002" ref-type="fig">2</xref>A, no significant changes were observed in cell viability, indicating gastrodin with concentrations ranged from 50 to 300 μg/mL had no cytotoxicity. However, gastrodin could significantly increase cell viability in LPS‐induced cells in a dose‐dependent way (<italic toggle="yes">P</italic> &lt; .05, Figure <xref rid="jcmm14826-fig-0002" ref-type="fig">2</xref>B). As 200 μg/mL gastrodin led to the highest viability in LPS‐induced cells, it was selected as an optimum concentration used in the following. We found that pre‐treating MRC‐5 cells with gastrodin attenuated LPS‐induced apoptosis, as apoptosis rate was decreased (<italic toggle="yes">P</italic> &lt; .05, Figure <xref rid="jcmm14826-fig-0002" ref-type="fig">2</xref>C), Bcl‐2 was up‐regulated, Bax was down‐regulated, and the cleavage of Caspase 3 and PARP was repressed (all <italic toggle="yes">P</italic> &lt; .05, Figure <xref rid="jcmm14826-fig-0002" ref-type="fig">2</xref>D,E). Not surprisingly, the expression and release induced by LPS were attenuated when pre‐treating with gastrodin (all <italic toggle="yes">P</italic> &lt; .05, Figure <xref rid="jcmm14826-fig-0002" ref-type="fig">2</xref>F‐H).</p><fig fig-type="Figure" xml:lang="en" id="jcmm14826-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Gastrodin prevents LPS‐induced injury in MRC‐5 cells. (A) The viability of MRC‐5 cells was analysed by CCK‐8, following by administration with various concentrations of gastrodin for 24 h. (B) MRC‐5 cell viability was analysed after treating with the indicated concentration of gastrodin for 24 h and then LPS. MRC‐5 cells were treated by 200 μg/mL gastrodin for 24 h and then LPS. (C) Apoptosis rate, (D‐E) apoptosis‐related proteins' expression, and (F) mRNA level, (G) protein level and (H) release of MCP‐1, IL‐6 and TNF‐α were analysed by FITC‐PI double staining, Western blot, qRT‐PCR and ELISA. * indicates <italic toggle="yes">P</italic> &lt; .05, n = 3</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-3" position="float" orientation="portrait" xlink:href="JCMM-24-1451-g002.jpg"/></fig></sec><sec id="jcmm14826-sec-0016"><label>3.3</label><title>Gastrodin inhibits p38/JNK and NF‐κB pathways</title><p>The effects of gastrodin on p38/JNK and NF‐κB pathways were investigated. As seen in Figure <xref rid="jcmm14826-fig-0003" ref-type="fig">3</xref>A‐D, phosphorylation of p38, c‐Jun, JNK and NF‐κB p65 was significantly induced by LPS (all <italic toggle="yes">P</italic> &lt; .05). However, pre‐treatment of gastrodin ameliorated the phosphorylation induced by LPS (<italic toggle="yes">P</italic> &lt; .05). It seems that gastrodin could impede the inductive impacts of LPS on p38/JNK and NF‐κB pathways.</p><fig fig-type="Figure" xml:lang="en" id="jcmm14826-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Gastrodin inhibits p38/JNK and NF‐κB pathways. MRC‐5 cells were treated by 200 μg/mL gastrodin for 24 h and 10 μg/mL LPS for 6 h. Expression of (A‐B) p38, Jun and JNK, and (C‐D) NF‐κB p65 was analysed by Western blot. * indicates <italic toggle="yes">P</italic> &lt; .05, n = 3</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-5" position="float" orientation="portrait" xlink:href="JCMM-24-1451-g003.jpg"/></fig></sec><sec id="jcmm14826-sec-0017"><label>3.4</label><title>Gastrodin up‐regulates miR‐103 expression</title><p>Next, miR‐103 expression was analysed following LPS and gastrodin treatment. Data in Figure <xref rid="jcmm14826-fig-0004" ref-type="fig">4</xref> displayed that miR‐103 was low expressed in LPS‐induced cell (<italic toggle="yes">P</italic> &lt; .05), whereas was highly expressed in gastrodin‐treated cell even under LPS conditions (<italic toggle="yes">P</italic> &lt; .05).</p><fig fig-type="Figure" xml:lang="en" id="jcmm14826-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Gastrodin up‐regulates miR‐103 expression. MRC‐5 cells were treated by gastrodin plus LPS. miR‐103 expression was analysed by qRT‐PCR. * indicates <italic toggle="yes">P</italic> &lt; .05, n = 3</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-7" position="float" orientation="portrait" xlink:href="JCMM-24-1451-g004.jpg"/></fig></sec><sec id="jcmm14826-sec-0018"><label>3.5</label><title>Gastrodin prevents LPS‐induced injury via miR‐103</title><p>Finally, miR‐103 expression in MRC‐5 cells was silenced by transfection to decode the importance of miR‐103 in gastrodin's protective action. Data in Figure <xref rid="jcmm14826-fig-0005" ref-type="fig">5</xref>A displayed the significant down‐regulation of miR‐103 by transfection with specific inhibitor (<italic toggle="yes">P</italic> &lt; .05), indicating miR‐103 expression in MRC‐5 cells was successfully silenced. Post‐transfection, cells were treated by gastrodin and then LPS. Results in Figure <xref rid="jcmm14826-fig-0005" ref-type="fig">5</xref>B‐E showed that gastrodin's effect on MRC‐5 cells viability and apoptosis were flattened when miR‐103 was silenced (<italic toggle="yes">P</italic> &lt; .05). Also, gastrodin did not repress LPS‐induced release of pro‐inflammatory cytokines when miR‐103 was silenced (<italic toggle="yes">P</italic> &lt; .05, Figure <xref rid="jcmm14826-fig-0005" ref-type="fig">5</xref>F‐H).</p><fig fig-type="Figure" xml:lang="en" id="jcmm14826-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Gastrodin prevents LPS‐induced injury via miR‐103. (A) miR‐103 expression was analysed by qRT‐PCR, after MRC‐5 cells were transfected with miR‐103 inhibitor (anti–miR‐103) or the negative control (NC). The transfected cells were treated by gastrodin plus LPS. (B) Viability, (C) apoptosis rate, (D‐E) apoptosis‐related proteins' expression, and (F) mRNA level, (G) protein level and (H) release of MCP‐1, IL‐6 and TNF‐α were analysed by CCK‐8, FITC‐PI double staining, Western blot, qRT‐PCR and ELISA. * indicates <italic toggle="yes">P</italic> &lt; .05, n = 3</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-9" position="float" orientation="portrait" xlink:href="JCMM-24-1451-g005.jpg"/></fig></sec><sec id="jcmm14826-sec-0019"><label>3.6</label><title>LRP1 was a target of miR‐103</title><p>To investigate the target of miR‐103, TargetScan (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.targetscan.org">http://www.targetscan.org</ext-link>) and microRNA database (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.microrna.org">http://www.microrna.org</ext-link>) were employed to predict the binding site between LRP1 and miR‐103 (Figure <xref rid="jcmm14826-fig-0006" ref-type="fig">6</xref>A). Besides, the overexpression of miR‐103 was achieved through transfection with miR‐103 mimic (<italic toggle="yes">P</italic> &lt; .001, Figure <xref rid="jcmm14826-fig-0006" ref-type="fig">6</xref>B). And Figure <xref rid="jcmm14826-fig-0006" ref-type="fig">6</xref>C,D revealed that the mRNA and protein levels of LRP1 were notably reduced by miR‐103 overexpression (<italic toggle="yes">P</italic> &lt; .05), while were notably increased by the inhibition of miR‐103 (<italic toggle="yes">P</italic> &lt; .01). Meanwhile, dual‐luciferase assay revealed that luciferase activity of miR‐103 mimic + LRP1‐WT group was greatly reduced (<italic toggle="yes">P</italic> &lt; .05), whereas that of miR‐103 mimic + LRP1‐MUT group was no changed (Figure <xref rid="jcmm14826-fig-0006" ref-type="fig">6</xref>E). Thus, LRP1 was a target gene of miR‐103 and was down‐regulated by miR‐103.</p><fig fig-type="Figure" xml:lang="en" id="jcmm14826-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>LRP1 was a target of miR‐103. (A) The binding site of miR‐103 and LRP1 was analysed through TargetScan and microRNA database. (B) Expression of miR‐103 was examined through qRT‐PCR after transfection with miR‐103 mimic. Expression of LRP1 was examined through qRT‐PCR (C) and Western blot (D) after transfection with miR‐103 mimic and anti–miR‐103. (E) The target relationship between miR‐103 and LRP1 was examined by dual‐luciferase reporter assay. * indicates <italic toggle="yes">P</italic> &lt; .05, ** indicates <italic toggle="yes">P</italic> &lt; .01 and *** indicates <italic toggle="yes">P</italic> &lt; .001, n = 3</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-11" position="float" orientation="portrait" xlink:href="JCMM-24-1451-g006.jpg"/></fig></sec></sec><sec sec-type="discussion" id="jcmm14826-sec-0020"><label>4</label><title>DISCUSSION</title><p>Considering COPD is a progressive disease, the damaged pulmonary function is hard to be reversed. Thus, preventing COPD has become a promising method for COPD management and a small fraction of researches have focused on the beneficial effects of traditional Chinese herbal medicine on this disease.<xref rid="jcmm14826-bib-0021" ref-type="ref">21</xref> This study attempted to investigate the potential of gastrodin for COPD management. To this end, LPS was applied to treat MRC‐5 cells to construct a cell model of COPD. Much was known that LPS is effective in inducing inflammatory response.<xref rid="jcmm14826-bib-0022" ref-type="ref">22</xref>, <xref rid="jcmm14826-bib-0023" ref-type="ref">23</xref> This phenomenon was also appended in this study that LPS induced apoptosis and the release of MCP‐1, IL‐6 and TNF‐α in MRC‐5 cells. Interestingly, pre‐treating MRC‐5 cells with gastrodin attenuated LPS‐induced apoptosis and pro‐inflammatory cytokines release. Further studies found that gastrodin exerted protective functions possibly be associated with the up‐regulated miR‐103 expression and the inhibited p38/JNK and NF‐κB pathways.</p><p>Despite the functional effects of gastrodin on COPD are unstudied before, its effects on other types of inflammatory diseases have been previously reported. For the selected examples, gastrodin is capable of relieving chronic inflammatory pain<xref rid="jcmm14826-bib-0024" ref-type="ref">24</xref> and neuroinflammation.<xref rid="jcmm14826-bib-0025" ref-type="ref">25</xref> gastrodin may even attenuate LPS‐induced acute lung injury.<xref rid="jcmm14826-bib-0010" ref-type="ref">10</xref> Thus, it seems rationality that gastrodin could also protect MRC‐5 cells against LPS‐induced inflammatory injury. Besides that, gastrodin is reported to be an effective agent in resisting apoptosis made by various stimulations, such as hypoxic ischaemia,<xref rid="jcmm14826-bib-0026" ref-type="ref">26</xref> ethanol,<xref rid="jcmm14826-bib-0009" ref-type="ref">9</xref> high glucose<xref rid="jcmm14826-bib-0027" ref-type="ref">27</xref> and LPS.<xref rid="jcmm14826-bib-0028" ref-type="ref">28</xref> Consistently, gastrodin exhibited anti‐apoptosis effect in our experimental system. Moreover, gastrodin prevented MRC‐5 cell apoptosis possibly via a mitochondrial‐dependent way, as the expression of main regulators Bcl‐2 and Bax of this process was altered.</p><p>Much was known about the inductive impacts of LPS on various signalling pathways, such as JNK, NF‐κB and p38MAPK.<xref rid="jcmm14826-bib-0029" ref-type="ref">29</xref> These three pathways can be activated under cigarette stimulation, which can induce inflammatory response and drive the initiation of COPD.<xref rid="jcmm14826-bib-0030" ref-type="ref">30</xref>, <xref rid="jcmm14826-bib-0031" ref-type="ref">31</xref>, <xref rid="jcmm14826-bib-0032" ref-type="ref">32</xref> Thus, inhibition of p38/JNK and NF‐κB pathways has been considered as effective strategy for treating COPD. Herein, gastrodin was found to be effective in inhibiting LPS‐induced p38/JNK and NF‐κB pathways, which were in line with the findings reported elsewhere.<xref rid="jcmm14826-bib-0033" ref-type="ref">33</xref>, <xref rid="jcmm14826-bib-0034" ref-type="ref">34</xref> The results indicated that gastrodin prevented LPS‐induced injury in MRC‐5 cells through these two signalling.</p><p>Despite the underlying mechanisms of which herbal medicines exert their beneficial function are still unclear, scientists believed that miRNAs are main targets of them.<xref rid="jcmm14826-bib-0035" ref-type="ref">35</xref> In regard to gastrodin, less was known about its regulation on miRNA expression. To date, only one report demonstrated that gastrodin could protect cardiomyocytes through up‐regulating miR‐21.<xref rid="jcmm14826-bib-0008" ref-type="ref">8</xref> In the current study, we for the first time illustrated that gastrodin could elevate miR‐103 expression. And the protective effects of gastrodin towards MRC‐5 cells were partially flattened by miR‐103 silence. Altogether, gastrodin prevented LPS‐induced injury in MRC‐5 cells possibly by up‐regulating miR‐103. Additionally, miR‐103's expression was reported to be low in hypoxic pulmonary hypertension.<xref rid="jcmm14826-bib-0036" ref-type="ref">36</xref> Besides, it was proved to promote LPS‐induced inflammatory damage in HK‐2 cells.<xref rid="jcmm14826-bib-0037" ref-type="ref">37</xref> However, other studies found that miR‐103 reduced apoptosis in LPS‐caused PC12 cell injury to play protective roles.<xref rid="jcmm14826-bib-0038" ref-type="ref">38</xref> This contradiction may due to the different cell lines or different irritations used in experimental system. In the future, it will be interesting to explore the functional mechanism of miR‐103 in different cell situations.</p><p>Further, LRP1, a member of LDLR superfamily,<xref rid="jcmm14826-bib-0039" ref-type="ref">39</xref> was reported to be a modulator of the inflammatory response in lung.<xref rid="jcmm14826-bib-0040" ref-type="ref">40</xref> It controls the recruitment of inflammatory lung cells and triggers pulmonary inflammation. Leslie et al<xref rid="jcmm14826-bib-0041" ref-type="ref">41</xref> found that the up‐regulation of miR‐103 mediated by p53 could lead to the suppression of LRP1 translation and cell death. Consistently, our study also found that anti–miR‐103's transfection raised apoptosis in LPS and gastrodin‐treated MRC‐5 cells, indicating that apoptosis was reduced by miR‐103. Besides, it is worth noting that LRP1 was a target of miR‐103 and was down‐regulated by miR‐103. This finding demonstrated the molecular mechanism downstream to the gastrodin ‐induced miR‐103 up‐regulation. Further work is needed to explore whether miR‐103 participates in anti‐inflammatory effects of gastrodin by regulating LRP1.</p><p>To conclude, we offered a new feasible molecular explanation of gastrodin in protecting MRC‐5 cells from LPS‐caused damage. The in vitro data illustrated that the apoptosis and pro‐inflammatory cytokines release were repressed by gastrodin. Moreover, gastrodin exerted its function possibly via up‐regulating miR‐103 and inhibiting p38/JNK and NF‐κB pathways. Our findings suggested that the beneficial effects of gastrodin may be developed as a new therapeutic approach in the treatment of COPD. Actually, gastrodin used as a traditional Chinese herbal medicine for many years, and this is the first report of studying the effects of gastrodin on COPD. It has important clinical significance for the treatment of COPD. More efforts, especially in vivo experiments, are required to further define gastrodin's effect in COPD.</p></sec><sec sec-type="COI-statement" id="jcmm14826-sec-0021"><title>CONFLICT OF INTEREST</title><p>The authors declare that they have no competing interests.</p></sec><sec id="jcmm14826-sec-0022"><title>AUTHORS' CONTRIBUTIONS</title><p>Zhuona Xi, Xiaoming Liao and Xiaolan Zhong conceived and designed the experiments. Yahong Qiao, Jifang Wang, Hongjian Su, Zhen Bao and Hongyan Li performed the experiments and analysed the data. Zhuona Xi, Xiaoming Liao and Xiaolan Zhong wrote the manuscript.</p></sec></body><back><sec sec-type="data-availability" id="jcmm14826-sec-0024"><title>DATA AVAILABILITY STATEMENT</title><p>The data sets used and/or analysed during the current study are available from the corresponding author on reasonable request.</p></sec><ref-list content-type="cited-references" id="jcmm14826-bibl-0001"><title>REFERENCES</title><ref id="jcmm14826-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jcmm14826-cit-0001">
+<string-name name-style="western">
+<surname>Moermans</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Heinen</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nguyen</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Local and systemic cellular inflammation and cytokine release in chronic obstructive pulmonary disease</article-title>. <source xml:lang="en">Cytokine</source>. <year>2011</year>;<volume>56</volume>:<fpage>298</fpage>‐<lpage>304</lpage>.<pub-id pub-id-type="pmid">21880505</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cyto.2011.07.010</pub-id></mixed-citation></ref><ref id="jcmm14826-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="jcmm14826-cit-0002">
+<string-name name-style="western">
+<surname>Shute</surname>
+<given-names>JK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Calzetta</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cardaci</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Di Toro</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Page</surname>
+<given-names>CP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cazzola</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Inhaled nebulised unfractionated heparin improves lung function in moderate to very severe COPD: a pilot study</article-title>. <source xml:lang="en">Pulmonary pharmacology &amp; therapeutics</source>. <year>2018</year>;<volume>48</volume>:<fpage>88</fpage>–<lpage>96</lpage>.<pub-id pub-id-type="pmid">28986203</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.pupt.2017.10.001</pub-id></mixed-citation></ref><ref id="jcmm14826-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jcmm14826-cit-0003">
+<string-name name-style="western">
+<surname>Sampaio</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vieira</surname>
+<given-names>WA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bernardino</surname>
+<given-names>IM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Herval</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Flores‐Mir</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Paranhos</surname>
+<given-names>LR</given-names>
+</string-name>. <article-title>Chronic obstructive pulmonary disease as a risk factor for suicide: a systematic review and meta‐analysis</article-title>. <source xml:lang="en">Respir Med</source>. <year>2019</year>;<volume>151</volume>:<fpage>11</fpage>‐<lpage>18</lpage>.<pub-id pub-id-type="pmid">31047105</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.rmed.2019.03.018</pub-id></mixed-citation></ref><ref id="jcmm14826-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jcmm14826-cit-0004">
+<string-name name-style="western">
+<surname>Vestbo</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hurd</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Agusti</surname>
+<given-names>AG</given-names>
+</string-name>, et al. <article-title>Global strategy for the diagnosis, management, and prevention of chronic obstructive pulmonary disease: GOLD executive summary</article-title>. <source xml:lang="en">Am J Respir Crit Care Med</source>. <year>2013</year>;<volume>187</volume>:<fpage>347</fpage>‐<lpage>365</lpage>.<pub-id pub-id-type="pmid">22878278</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1164/rccm.201204-0596PP</pub-id></mixed-citation></ref><ref id="jcmm14826-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="jcmm14826-cit-0005">
+<string-name name-style="western">
+<surname>Chen</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gu</surname>
+<given-names>YT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xie</surname>
+<given-names>JJ</given-names>
+</string-name>, et al. <article-title>Gastrodin reduces IL‐1beta‐induced apoptosis, inflammation, and matrix catabolism in osteoarthritis chondrocytes and attenuates rat cartilage degeneration in vivo</article-title>. <source xml:lang="en">Biomedi Pharmacother = Biomedicine &amp; pharmacotherapies</source>. <year>2018</year>;<volume>97</volume>:<fpage>642</fpage>‐<lpage>651</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.biopha.2017.10.067</pub-id><pub-id pub-id-type="pmid">29101808</pub-id></mixed-citation></ref><ref id="jcmm14826-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jcmm14826-cit-0006">
+<string-name name-style="western">
+<surname>Ahmad</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ma</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Lipid modulating anti‐oxidant stress activity of gastrodin on nonalcoholic fatty liver disease larval Zebrafish model</article-title>. <source xml:lang="en">Int J Mol Sci</source>. <year>2019</year>;<volume>20</volume>(<issue>8</issue>):<fpage>1984</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ijms20081984</pub-id><pub-id pub-id-type="pmcid">PMC6515101</pub-id><pub-id pub-id-type="pmid">31018538</pub-id></mixed-citation></ref><ref id="jcmm14826-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jcmm14826-cit-0007">
+<string-name name-style="western">
+<surname>Long</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ruan</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huang</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>Gastrodin attenuates neuroinflammation in DOI‐induce Tourette syndrome in rats</article-title>. <source xml:lang="en">J Biochem Mol Toxicol</source>. <year>2019</year>;<volume>33</volume>:<elocation-id>e22302</elocation-id>.<pub-id pub-id-type="pmid">30790395</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/jbt.22302</pub-id></mixed-citation></ref><ref id="jcmm14826-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jcmm14826-cit-0008">
+<string-name name-style="western">
+<surname>Xing</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Gastrodin protects rat cardiomyocytes H9c2 from hypoxia‐induced injury by up‐regulation of microRNA‐21</article-title>. <source xml:lang="en">Int J Biochem Cell Biol</source>. <year>2019</year>;<volume>109</volume>:<fpage>8</fpage>‐<lpage>16</lpage>.<pub-id pub-id-type="pmid">30684569</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.biocel.2019.01.013</pub-id></mixed-citation></ref><ref id="jcmm14826-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jcmm14826-cit-0009">
+<string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yu</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jiang</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kong</surname>
+<given-names>WJ</given-names>
+</string-name>. <article-title>Gastrodin protects against ethanol‐induced liver injury and apoptosis in HepG2 cells and animal models of alcoholic liver disease</article-title>. <source xml:lang="en">Biol Pharm Bull</source>. <year>2018</year>;<volume>41</volume>:<fpage>670</fpage>‐<lpage>679</lpage>.<pub-id pub-id-type="pmid">29709905</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1248/bpb.b17-00825</pub-id></mixed-citation></ref><ref id="jcmm14826-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="jcmm14826-cit-0010">
+<string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Song</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sun</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liao</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jiang</surname>
+<given-names>X</given-names>
+</string-name>. <article-title>Gastrodin protects against LPS‐induced acute lung injury by activating Nrf2 signaling pathway</article-title>. <source xml:lang="en">Oncotarget</source>. <year>2017</year>;<volume>8</volume>:<fpage>32147</fpage>‐<lpage>32156</lpage>.<pub-id pub-id-type="pmid">28389632</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.18632/oncotarget.16740</pub-id><pub-id pub-id-type="pmcid">PMC5458274</pub-id></mixed-citation></ref><ref id="jcmm14826-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="jcmm14826-cit-0011">
+<string-name name-style="western">
+<surname>Tsai</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tsai</surname>
+<given-names>YC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chang</surname>
+<given-names>WA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lin</surname>
+<given-names>YS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tsai</surname>
+<given-names>PH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sheu</surname>
+<given-names>CC</given-names>
+</string-name>. <article-title>Deducting MicroRNA‐mediated changes common in bronchial epithelial cells of asthma and chronic obstructive pulmonary disease‐a next‐generation sequencing‐guided bioinformatic approach</article-title>. <source xml:lang="en">Int J Mol Sci</source>. <year>2019</year>;<volume>20</volume>(<issue>3</issue>):<fpage>553</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ijms20030553</pub-id><pub-id pub-id-type="pmcid">PMC6386886</pub-id><pub-id pub-id-type="pmid">30696075</pub-id></mixed-citation></ref><ref id="jcmm14826-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jcmm14826-cit-0012">
+<string-name name-style="western">
+<surname>Tasena</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Faiz</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Timens</surname>
+<given-names>W</given-names>
+</string-name>, et al. <article-title>microRNA–mRNA regulatory networks underlying chronic mucus hypersecretion in COPD</article-title>. <source xml:lang="en">Eur Respirat J</source>. <year>2018</year>;<volume>52</volume>(<issue>3</issue>):<fpage>1701556</fpage>.<pub-id pub-id-type="pmid">30072506</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1183/13993003.01556-2017</pub-id></mixed-citation></ref><ref id="jcmm14826-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="jcmm14826-cit-0013">
+<string-name name-style="western">
+<surname>Musri</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Coll‐Bonfill</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maron</surname>
+<given-names>BA</given-names>
+</string-name>, et al. <article-title>MicroRNA dysregulation in pulmonary arteries from chronic obstructive pulmonary disease relationships with vascular remodeling</article-title>. <source xml:lang="en">Am J Respir Cell Mol Biol</source>. <year>2018</year>;<volume>59</volume>:<fpage>490</fpage>‐<lpage>499</lpage>.<pub-id pub-id-type="pmid">29757677</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1165/rcmb.2017-0040OC</pub-id><pub-id pub-id-type="pmcid">PMC6178157</pub-id></mixed-citation></ref><ref id="jcmm14826-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="jcmm14826-cit-0014">
+<string-name name-style="western">
+<surname>Shen</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fan</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>MiR‐3202 protects smokers from chronic obstructive pulmonary disease through inhibiting FAIM2: an in vivo and in vitro study</article-title>. <source xml:lang="en">Exp Cell Res</source>. <year>2018</year>;<volume>362</volume>:<fpage>370</fpage>‐<lpage>377</lpage>.<pub-id pub-id-type="pmid">29208459</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.yexcr.2017.11.038</pub-id></mixed-citation></ref><ref id="jcmm14826-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="jcmm14826-cit-0015">
+<string-name name-style="western">
+<surname>Du</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ding</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>X</given-names>
+</string-name>, et al. <article-title>MicroRNA‐181c inhibits cigarette smoke‐induced chronic obstructive pulmonary disease by regulating CCN1 expression</article-title>. <source xml:lang="en">Respir Res</source>. <year>2017</year>;<volume>18</volume>:<fpage>155</fpage>.<pub-id pub-id-type="pmid">28806967</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12931-017-0639-1</pub-id><pub-id pub-id-type="pmcid">PMC5557525</pub-id></mixed-citation></ref><ref id="jcmm14826-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="jcmm14826-cit-0016">
+<string-name name-style="western">
+<surname>Ellis</surname>
+<given-names>KL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cameron</surname>
+<given-names>VA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Troughton</surname>
+<given-names>RW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Frampton</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ellmers</surname>
+<given-names>LJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Richards</surname>
+<given-names>AM</given-names>
+</string-name>. <article-title>Circulating microRNAs as candidate markers to distinguish heart failure in breathless patients</article-title>. <source xml:lang="en">Eur J Heart Fail</source>. <year>2013</year>;<volume>15</volume>:<fpage>1138</fpage>‐<lpage>1147</lpage>.<pub-id pub-id-type="pmid">23696613</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/eurjhf/hft078</pub-id></mixed-citation></ref><ref id="jcmm14826-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="jcmm14826-cit-0017">
+<string-name name-style="western">
+<surname>Hartmann</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Natarelli</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Endothelial Dicer promotes atherosclerosis and vascular inflammation by miRNA‐103‐mediated suppression of KLF4</article-title>. <source xml:lang="en">Nat Commun</source>. <year>2016</year>;<volume>7</volume>:<fpage>10521</fpage>.<pub-id pub-id-type="pmid">26837267</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/ncomms10521</pub-id><pub-id pub-id-type="pmcid">PMC4742841</pub-id></mixed-citation></ref><ref id="jcmm14826-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="jcmm14826-cit-0018">
+<string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Feng</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xia</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sun</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>circARF3 alleviates mitophagy‐mediated inflammation by targeting miR‐103/TRAF3 in mouse adipose tissue</article-title>. <source xml:lang="en">Mol Therapy Nucl Acids</source>. <year>2019</year>;<volume>14</volume>:<fpage>192</fpage>‐<lpage>203</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.omtn.2018.11.014</pub-id><pub-id pub-id-type="pmcid">PMC6325073</pub-id><pub-id pub-id-type="pmid">30623853</pub-id></mixed-citation></ref><ref id="jcmm14826-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="jcmm14826-cit-0019">
+<string-name name-style="western">
+<surname>Vacca</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Di Eusanio</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cariello</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Integrative miRNA and whole‐genome analyses of epicardial adipose tissue in patients with coronary atherosclerosis</article-title>. <source xml:lang="en">Cardiovasc Res</source>. <year>2016</year>;<volume>109</volume>:<fpage>228</fpage>‐<lpage>239</lpage>.<pub-id pub-id-type="pmid">26645979</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/cvr/cvv266</pub-id></mixed-citation></ref><ref id="jcmm14826-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="jcmm14826-cit-0020">
+<string-name name-style="western">
+<surname>Cong</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xiang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yuan</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bai</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>X</given-names>
+</string-name>. <article-title>Notoginsenoside R1 up‐regulates microRNA‐132 to protect human lung fibroblast MRC‐5 cells from lipopolysaccharide‐caused injury</article-title>. <source xml:lang="en">Int Immunopharmacol</source>. <year>2019</year>;<volume>68</volume>:<fpage>137</fpage>‐<lpage>144</lpage>.<pub-id pub-id-type="pmid">30622031</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.intimp.2018.12.065</pub-id></mixed-citation></ref><ref id="jcmm14826-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="jcmm14826-cit-0021">
+<string-name name-style="western">
+<surname>Liu</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>X</given-names>
+</string-name>. <article-title>Adjuvant therapy efficacy of Chinese drugs pharmaceutics for COPD patients with respiratory failure: a meta‐analysis</article-title>. <source xml:lang="en">Biosci Rep</source>. <year>2019</year>;<volume>39</volume>(<issue>4</issue>):<fpage>BSR20182279</fpage>
+<pub-id pub-id-type="doi">10.1042/BSR20182279</pub-id>
+<pub-id pub-id-type="pmid">30792261</pub-id><pub-id pub-id-type="pmcid">PMC6449520</pub-id></mixed-citation></ref><ref id="jcmm14826-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="jcmm14826-cit-0022">
+<string-name name-style="western">
+<surname>Lee</surname>
+<given-names>SY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cho</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cho</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bae</surname>
+<given-names>CS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kim</surname>
+<given-names>GY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Park</surname>
+<given-names>DH</given-names>
+</string-name>. <article-title>Establishment of a chronic obstructive pulmonary disease mouse model based on the elapsed time after LPS intranasal instillation</article-title>. <source xml:lang="en">Lab Anim Res</source>. <year>2018</year>;<volume>34</volume>:<fpage>1</fpage>‐<lpage>10</lpage>.<pub-id pub-id-type="pmid">29628971</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.5625/lar.2018.34.1.1</pub-id><pub-id pub-id-type="pmcid">PMC5876158</pub-id></mixed-citation></ref><ref id="jcmm14826-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="jcmm14826-cit-0023">
+<string-name name-style="western">
+<surname>Liu</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Therapeutic effects of <italic toggle="yes">Hedyotis diffusa</italic> Willd in a COPD mouse model challenged with LPS and smoke</article-title>. <source xml:lang="en">Exp Therap Med</source>. <year>2018</year>;<volume>15</volume>:<fpage>3385</fpage>‐<lpage>3391</lpage>.<pub-id pub-id-type="pmid">29545859</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3892/etm.2018.5851</pub-id><pub-id pub-id-type="pmcid">PMC5840915</pub-id></mixed-citation></ref><ref id="jcmm14826-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="jcmm14826-cit-0024">
+<string-name name-style="western">
+<surname>Xiao</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>YQ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>WT</given-names>
+</string-name>, et al. <article-title>Gastrodin protects against chronic inflammatory pain by inhibiting spinal synaptic potentiation</article-title>. <source xml:lang="en">Sci Rep</source>. <year>2016</year>;<volume>6</volume>:<fpage>37251</fpage>.<pub-id pub-id-type="pmid">27853254</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/srep37251</pub-id><pub-id pub-id-type="pmcid">PMC5112517</pub-id></mixed-citation></ref><ref id="jcmm14826-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="jcmm14826-cit-0025">
+<string-name name-style="western">
+<surname>Li</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Song</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mu</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>Gastrodin inhibits neuroinflammation in rotenone‐induced Parkinson's disease model rats</article-title>. <source xml:lang="en">Neural Regen Res</source>. <year>2012</year>;<volume>7</volume>:<fpage>325</fpage>‐<lpage>331</lpage>.<pub-id pub-id-type="pmid">25774170</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3969/j.issn.1673-5374.2012.05.001</pub-id><pub-id pub-id-type="pmcid">PMC4350113</pub-id></mixed-citation></ref><ref id="jcmm14826-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="jcmm14826-cit-0026">
+<string-name name-style="western">
+<surname>Liu</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gao</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gong</surname>
+<given-names>QH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shi</surname>
+<given-names>JS</given-names>
+</string-name>. <article-title>Gastrodin attenuates bilateral common carotid artery occlusion‐induced cognitive deficits via regulating abeta‐related proteins and reducing autophagy and apoptosis in rats</article-title>. <source xml:lang="en">Front Pharmacol</source>. <year>2018</year>;<volume>9</volume>:<fpage>405</fpage>.<pub-id pub-id-type="pmid">29755351</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fphar.2018.00405</pub-id><pub-id pub-id-type="pmcid">PMC5932202</pub-id></mixed-citation></ref><ref id="jcmm14826-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="jcmm14826-cit-0027">
+<string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>TH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huang</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gao</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hao</surname>
+<given-names>LL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ji</surname>
+<given-names>Q</given-names>
+</string-name>. <article-title>Gastrodin inhibits high glucose‐induced human retinal endothelial cell apoptosis by regulating the SIRT1/TLR4/NFkappaBp65 signaling pathway</article-title>. <source xml:lang="en">Mol Med Rep</source>. <year>2018</year>;<volume>17</volume>:<fpage>7774</fpage>‐<lpage>7780</lpage>.<pub-id pub-id-type="pmid">29620267</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3892/mmr.2018.8841</pub-id></mixed-citation></ref><ref id="jcmm14826-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="jcmm14826-cit-0028">
+<string-name name-style="western">
+<surname>Wang</surname>
+<given-names>XS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tian</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>Protective effects of gastrodin against autophagy‐mediated astrocyte death</article-title>. <source xml:lang="en">Phytother Res: PTR</source>. <year>2016</year>;<volume>30</volume>:<fpage>386</fpage>‐<lpage>396</lpage>.<pub-id pub-id-type="pmid">26643508</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ptr.5538</pub-id></mixed-citation></ref><ref id="jcmm14826-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="jcmm14826-cit-0029">
+<string-name name-style="western">
+<surname>Youssef</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ibrahim</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Akashi</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hossain</surname>
+<given-names>MS</given-names>
+</string-name>. <article-title>PUFA‐plasmalogens attenuate the LPS‐induced nitric oxide production by inhibiting the NF‐kB, p38 MAPK and JNK pathways in microglial cells</article-title>. <source xml:lang="en">Neuroscience</source>. <year>2019</year>;<volume>397</volume>:<fpage>18</fpage>‐<lpage>30</lpage>.<pub-id pub-id-type="pmid">30496826</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neuroscience.2018.11.030</pub-id></mixed-citation></ref><ref id="jcmm14826-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="jcmm14826-cit-0030">
+<string-name name-style="western">
+<surname>Chung</surname>
+<given-names>KF</given-names>
+</string-name>. <article-title>p38 mitogen‐activated protein kinase pathways in asthma and COPD</article-title>. <source xml:lang="en">Chest</source>. <year>2011</year>;<volume>139</volume>:<fpage>1470</fpage>‐<lpage>1479</lpage>.<pub-id pub-id-type="pmid">21652557</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1378/chest.10-1914</pub-id></mixed-citation></ref><ref id="jcmm14826-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="jcmm14826-cit-0031">
+<string-name name-style="western">
+<surname>Hulina‐Tomaskovic</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Heijink</surname>
+<given-names>IH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jonker</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Somborac‐Bacura</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Grdic Rajkovic</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rumora</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Pro‐inflammatory effects of extracellular Hsp70 and cigarette smoke in primary airway epithelial cells from COPD patients</article-title>. <source xml:lang="en">Biochimie</source>. <year>2019</year>;<volume>156</volume>:<fpage>47</fpage>‐<lpage>58</lpage>.<pub-id pub-id-type="pmid">30268700</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.biochi.2018.09.010</pub-id></mixed-citation></ref><ref id="jcmm14826-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="jcmm14826-cit-0032">
+<string-name name-style="western">
+<surname>Liu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yao</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Naringenin attenuates inflammation in chronic obstructive pulmonary disease in cigarette smoke induced mouse model and involves suppression of NF‐kappaB</article-title>. <source xml:lang="en">J Microbiol Biotechnol</source>. <year>2018</year>
+<pub-id pub-id-type="doi">10.4014/jmb.1810.10061</pub-id>. [Epub ahead of print]<pub-id pub-id-type="pmid">30609878</pub-id></mixed-citation></ref><ref id="jcmm14826-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="jcmm14826-cit-0033">
+<string-name name-style="western">
+<surname>Yang</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Han</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gui</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Gastrodin attenuation of the inflammatory response in H9c2 cardiomyocytes involves inhibition of NF‐kappaB and MAPKs activation via the phosphatidylinositol 3‐kinase signaling</article-title>. <source xml:lang="en">Biochem Pharmacol</source>. <year>2013</year>;<volume>85</volume>:<fpage>1124</fpage>‐<lpage>1133</lpage>.<pub-id pub-id-type="pmid">23376120</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bcp.2013.01.020</pub-id></mixed-citation></ref><ref id="jcmm14826-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="jcmm14826-cit-0034">
+<string-name name-style="western">
+<surname>Li</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Qian</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Gastrodin protects neural progenitor cells against amyloid beta (1–42)‐induced neurotoxicity and improves hippocampal neurogenesis in amyloid beta (1–42)‐injected mice</article-title>. <source xml:lang="en">J Mol Neurosci: MN</source>. <year>2016</year>;<volume>60</volume>:<fpage>21</fpage>‐<lpage>32</lpage>.<pub-id pub-id-type="pmid">27112440</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s12031-016-0758-z</pub-id></mixed-citation></ref><ref id="jcmm14826-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="jcmm14826-cit-0035">
+<string-name name-style="western">
+<surname>Mirzaei</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Masoudifar</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sahebkar</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>MicroRNA: a novel target of curcumin in cancer therapy</article-title>. <source xml:lang="en">J Cell Physiol</source>. <year>2018</year>;<volume>233</volume>:<fpage>3004</fpage>‐<lpage>3015</lpage>.<pub-id pub-id-type="pmid">28617957</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/jcp.26055</pub-id></mixed-citation></ref><ref id="jcmm14826-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="jcmm14826-cit-0036">
+<string-name name-style="western">
+<surname>Deng</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Du</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hu</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>MicroRNA‐103/107 is involved in hypoxia‐induced proliferation of pulmonary arterial smooth muscle cells by targeting HIF‐1beta</article-title>. <source xml:lang="en">Life Sci</source>. <year>2016</year>;<volume>147</volume>:<fpage>117</fpage>‐<lpage>124</lpage>.<pub-id pub-id-type="pmid">26827991</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.lfs.2016.01.043</pub-id></mixed-citation></ref><ref id="jcmm14826-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="jcmm14826-cit-0037">
+<string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Deng</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>microRNA‐103 promotes LPS‐induced inflammatory injury by targeting c‐Myc in HK‐2 cells</article-title>. <source xml:lang="en">Artif Cells Nanomed Biotechnol</source>. <year>2019</year>;<volume>47</volume>(<issue>1</issue>):<fpage>2791</fpage>‐<lpage>2799</lpage>.<pub-id pub-id-type="pmid">31284776</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/21691401.2019.1636806</pub-id></mixed-citation></ref><ref id="jcmm14826-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="jcmm14826-cit-0038">
+<string-name name-style="western">
+<surname>Li</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xiao</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huang</surname>
+<given-names>Z</given-names>
+</string-name>. <article-title>MiR‐103 alleviates autophagy and apoptosis by regulating SOX2 in LPS‐injured PC12 cells and SCI rats</article-title>. <source xml:lang="en">Iran J Basic Med Sci</source>. <year>2018</year>;<volume>21</volume>:<fpage>292</fpage>‐<lpage>300</lpage>.<pub-id pub-id-type="pmid">29511496</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.22038/ijbms.2018.25980.6392</pub-id><pub-id pub-id-type="pmcid">PMC5817173</pub-id></mixed-citation></ref><ref id="jcmm14826-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="jcmm14826-cit-0039">
+<string-name name-style="western">
+<surname>Herz</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Strickland</surname>
+<given-names>DK</given-names>
+</string-name>. <article-title>LRP: a multifunctional scavenger and signaling receptor</article-title>. <source xml:lang="en">J Clin Investig</source>. <year>2001</year>;<volume>108</volume>:<fpage>779</fpage>‐<lpage>784</lpage>.<pub-id pub-id-type="pmid">11560943</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1172/JCI13992</pub-id><pub-id pub-id-type="pmcid">PMC200939</pub-id></mixed-citation></ref><ref id="jcmm14826-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="jcmm14826-cit-0040">
+<string-name name-style="western">
+<surname>Wujak</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schnieder</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schaefer</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wygrecka</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>LRP1: a chameleon receptor of lung inflammation and repair</article-title>. <source xml:lang="en">Matrix Biol</source>. <year>2018</year>;<volume>68‐69</volume>:<fpage>366</fpage>‐<lpage>381</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.matbio.2017.12.007</pub-id><pub-id pub-id-type="pmid">29262309</pub-id></mixed-citation></ref><ref id="jcmm14826-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="jcmm14826-cit-0041">
+<string-name name-style="western">
+<surname>Leslie</surname>
+<given-names>PL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Franklin</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>p53 regulates the expression of LRP1 and apoptosis through a stress intensity‐dependent MicroRNA feedback loop</article-title>. <source xml:lang="en">Cell Rep</source>. <year>2018</year>;<volume>24</volume>:<fpage>1484</fpage>‐<lpage>1495</lpage>.<pub-id pub-id-type="pmid">30089260</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.celrep.2018.07.010</pub-id><pub-id pub-id-type="pmcid">PMC6289054</pub-id></mixed-citation></ref></ref-list></back></article>

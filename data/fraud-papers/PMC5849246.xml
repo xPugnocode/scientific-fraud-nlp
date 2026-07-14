@@ -1,0 +1,516 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article article-type="research-article" xml:lang="en" dtd-version="1.4"><front><journal-meta><journal-id journal-id-type="nlm-ta">Int J Immunopathol Pharmacol</journal-id><journal-id journal-id-type="iso-abbrev">Int J Immunopathol Pharmacol</journal-id><journal-id journal-id-type="pmc-domain-id">3390</journal-id><journal-id journal-id-type="pmc-domain">ijip</journal-id><journal-id journal-id-type="nlm-id">8911335</journal-id><journal-id journal-id-type="publisher-id">IJI</journal-id><journal-title-group><journal-title>International Journal of Immunopathology and Pharmacology</journal-title></journal-title-group><issn pub-type="ppub">0394-6320</issn><issn pub-type="epub">2058-7384</issn><publisher><publisher-name>SAGE Publications</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC5849246</article-id><article-id pub-id-type="pmcid-ver">PMC5849246.1</article-id><article-id pub-id-type="pmcaid">5849246</article-id><article-id pub-id-type="pmcaiid">5849246</article-id><article-id pub-id-type="pmid">29451405</article-id><article-id pub-id-type="doi">10.1177/2058738418759180</article-id><article-id pub-id-type="publisher-id">10.1177_2058738418759180</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Original Research Article</subject></subj-group></article-categories><title-group><article-title>Astragalus polysaccharide alleviates LPS-induced inflammation injury
+by regulating miR-127 in H9c2 cardiomyoblasts</article-title></title-group><contrib-group><contrib contrib-type="author"><name name-style="western"><surname>Ren</surname><given-names initials="Q">Qi</given-names></name></contrib><contrib contrib-type="author"><name name-style="western"><surname>Zhao</surname><given-names initials="S">Shaojun</given-names></name><xref ref-type="corresp" rid="corresp1-2058738418759180"/></contrib><contrib contrib-type="author"><name name-style="western"><surname>Ren</surname><given-names initials="C">Changjie</given-names></name></contrib><contrib contrib-type="author"><name name-style="western"><surname>Ma</surname><given-names initials="Z">Zhen</given-names></name></contrib><aff id="aff1-2058738418759180">Department of Cardiology, Jining No.1 People’s
+Hospital, Jining, China</aff></contrib-group><author-notes><corresp id="corresp1-2058738418759180">Shaojun Zhao, Department of Cardiology,
+Jining No.1 People’s Hospital, No. 6 Jiankang Road, Jining 272011, Shandong,
+China. Email: <email>sjzhao82@126.com</email></corresp></author-notes><pub-date pub-type="epub"><day>16</day><month>2</month><year>2018</year></pub-date><pub-date pub-type="collection"><season>Jan-Feb</season><year>2018</year></pub-date><volume>31</volume><issue-id pub-id-type="pmc-issue-id">308281</issue-id><elocation-id>2058738418759180</elocation-id><history><date date-type="received"><day>19</day><month>10</month><year>2017</year></date><date date-type="accepted"><day>15</day><month>1</month><year>2018</year></date></history><pub-history><event event-type="pmc-release"><date><day>16</day><month>02</month><year>2018</year></date></event><event event-type="pmc-live"><date><day>05</day><month>11</month><year>2018</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2024-03-26 22:25:14.500"><day>26</day><month>03</month><year>2024</year></date></event></pub-history><permissions><copyright-statement>© The Author(s) 2018</copyright-statement><copyright-year>2018</copyright-year><copyright-holder content-type="sage">SAGE Publications Ltd unless otherwise noted.
+Manuscript content on this site is licensed under Creative Commons
+Licenses</copyright-holder><license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="creative-commons" xlink:href="http://www.creativecommons.org/licenses/by-nc/4.0/"><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>This article is distributed under the terms of the Creative Commons
+Attribution-NonCommercial 4.0 License (<ext-link ext-link-type="uri" xlink:href="http://www.creativecommons.org/licenses/by-nc/4.0/">http://www.creativecommons.org/licenses/by-nc/4.0/</ext-link>) which
+permits non-commercial use, reproduction and distribution of the work
+without further permission provided the original work is attributed as
+specified on the SAGE and Open Access pages (<ext-link ext-link-type="uri" xlink:href="https://us.sagepub.com/en-us/nam/open-access-at-sage">https://us.sagepub.com/en-us/nam/open-access-at-sage</ext-link>).</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="10.1177_2058738418759180.pdf"/><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="expression-of-concern" xml:lang="en" xlink:title="expression-of-concern" journal-id="Int J Immunopathol Pharmacol" journal-id-type="nlm-ta" ext-link-type="pmc" xlink:href="PMC7907928"><article-title>EXPRESSION OF CONCERN: ‘Astragalus polysaccharide alleviates LPS-induced
+inflammation injury by regulating miR-127 in H9c2 cardiomyoblasts’</article-title><volume>35</volume><date><day>24</day><month>2</month><year>2021</year></date><elocation-id>20587384211000841</elocation-id><source>International Journal of Immunopathology and Pharmacology</source><pub-id pub-id-type="doi">10.1177/20587384211000841</pub-id><pub-id pub-id-type="pmcid">PMC7907928</pub-id><pub-id pub-id-type="pmid">33625256</pub-id></related-article><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="retraction-forward" xml:lang="en" xlink:title="retraction" vol="35" journal-id="Int J Immunopathol Pharmacol" journal-id-type="nlm-ta" ext-link-type="pmc" xlink:href="PMC8419535"><article-title>RETRACTION NOTICE: Astragalus polysaccharide alleviates LPS-induced inflammation injury by regulating miR-127 in H9c2 cardiomyoblasts</article-title><volume>35</volume><date><day>2</day><month>9</month><year>2021</year></date><elocation-id>20587384211040390</elocation-id><source>International Journal of Immunopathology and Pharmacology</source><pub-id pub-id-type="doi">10.1177/20587384211040390</pub-id><pub-id pub-id-type="pmcid">PMC8419535</pub-id><pub-id pub-id-type="pmid">34472402</pub-id></related-article><abstract><p>Astragalus polysaccharide (APS) has been widely reported to play an important
+role in inflammatory response. In this study, we aimed to explore the effects
+and underlying mechanisms of APS on lipopolysaccharide (LPS)-induced
+inflammation injury in H9c2 cardiomyoblasts. H9c2 cells were treated with
+different concentrations of APS, and cell viability was detected by the Cell
+Counting Kit-8 (CCK-8) assay. Then, the effect of APS on cell viability and
+apoptosis induced by LPS was determined by CCK-8, flow cytometry, and western
+blot. The expression and release of inflammatory cytokines were evaluated by
+quantitative real-time polymerase chain reaction (qRT-PCR), western blot, and
+enzyme-linked immunosorbent assay (ELISA). Furthermore, expression of miR-127 in
+H9c2 cells was analyzed by qRT-PCR, and knocked down by transfection with
+miR-127 inhibitor. Western blot was used to analyze signaling pathway molecules.
+APS had no effect on H9c2 cells viability. However, APS could alleviate
+LPS-induced inflammation injury by increasing cell viability, reducing
+apoptosis, and inhibiting release of inflammatory cytokines in H9c2 cells
+(<italic toggle="yes">P</italic> &lt; 0.05). Additionally, we found that APS
+increased toll-like receptor 4 (TLR4) expressions in LPS-treated H9c2 cells.
+Mechanistically, we found that APS exerted the protective effect by
+down-regulating LPS-increased expression of miR-127 (<italic toggle="yes">P</italic> &lt; 0.05), inhibiting nuclear factor kappa B (NF-κB), JNK and
+promoting phosphoinositide 3-kinase/protein kinase B (PI3K/AKT) signaling
+pathways in LPS-treated H9c2 cells. The results demonstrated that APS could
+protect H9c2 cells against LPS-induced inflammation injury, which might be
+partially due to miR-127 down-regulation and regulation of NF-κB, JNK, and
+PI3K/AKT signaling pathways. These findings indicated that APS might be a
+potential therapeutic drug for treatment of myocarditis.</p></abstract><kwd-group><kwd>Astragalus polysaccharide</kwd><kwd>inflammation</kwd><kwd>JNK</kwd><kwd>microRNA-127</kwd><kwd>NF-κB</kwd><kwd>PI3K/AKT</kwd></kwd-group><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January-February 2018</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="intro" id="section1-2058738418759180"><title>Introduction</title><p>Myocarditis, also known as inflammatory cardiomyopathy, is a kind of limited or
+diffused inflammatory lesion of the myocardium with a wide range of symptoms in
+children and adults.<sup><xref rid="bibr1-2058738418759180" ref-type="bibr">1</xref></sup> Viral infection is the most common cause of myocarditis in developed
+countries, and other etiologies include bacterial infections, toxins, drug
+reactions, and autoimmune diseases.<sup><xref rid="bibr2-2058738418759180" ref-type="bibr">2</xref></sup> Clinically, the mild patients have no obvious symptoms; however, severe
+patients may suffer from heart failure or even sudden death.<sup><xref rid="bibr3-2058738418759180" ref-type="bibr">3</xref></sup> Currently, medications, intravenous immunoglobulin, implantable cardiac
+defibrillator, and heart transplant were used for treatment of myocarditis in the
+different phases.<sup><xref rid="bibr4-2058738418759180" ref-type="bibr">4</xref></sup> More importantly, recent studies have reported that several herbal medicines
+could improve symptoms, ventricular premature beat, level of myocardial enzymes, and
+cardiac function in myocarditis.<sup><xref rid="bibr5-2058738418759180" ref-type="bibr">5</xref>,<xref rid="bibr6-2058738418759180" ref-type="bibr">6</xref></sup> These findings have aroused
+strong interest to explore the effect of traditional herbal medicine on
+myocarditis.</p><p>Traditional herbal medicine as an alternative and supplemental medicine has been
+widely used to treat various diseases in China, Japan, and other Asian countries.<sup><xref rid="bibr7-2058738418759180" ref-type="bibr">7</xref></sup>
+<italic toggle="yes">Astragalus membranaceus</italic>, a commonly used Chinese
+medicinal plant, contains polysaccharides, saponins, flavonoids, amino acids, and
+other components to promote antibody production and immune response.<sup><xref rid="bibr8-2058738418759180" ref-type="bibr">8</xref></sup> Astragalus polysaccharide (APS) is one of the components derived from <italic toggle="yes">Astragalus membranaceus</italic>. It has been reported to exert
+anti-tumor immune response and confer sensitivity of tumor cells to chemotherapy
+with fewer side effects.<sup><xref rid="bibr9-2058738418759180" ref-type="bibr">9</xref></sup> Additionally, APS could ameliorate muscle wasting and increase the expression
+of phosphorylated protein kinase B (AKT) in insulin-resistant skeletal muscle.<sup><xref rid="bibr10-2058738418759180" ref-type="bibr">10</xref></sup> Recently, accumulating evidences indicate that APS has anti-viral and
+anti-bacterial properties which enable to be used as an immune booster.<sup><xref rid="bibr11-2058738418759180" ref-type="bibr">11</xref></sup> Furthermore, several studies demonstrated that APS could inhibit the
+expression of inflammatory factors and inflammation injury. For example, Lu et al.<sup><xref rid="bibr12-2058738418759180" ref-type="bibr">12</xref></sup> reported that APS effectively ameliorated palmitate-induced pro-inflammatory
+responses through AMP-activated protein kinase (AMPK) activity. Wang et al.<sup><xref rid="bibr13-2058738418759180" ref-type="bibr">13</xref></sup> showed that APS had anti-inflammatory and structure protective properties for
+lipopolysaccharide (LPS)-infected Caco2 cells. However, the effects and underlying
+mechanisms of APS on LPS-induced inflammation injury in H9c2 cardiomyoblasts remain
+elusive.</p><p>In this study, we aimed to explore the effect of APS on myocarditis. A model of
+LPS-induced inflammation injury in H9c2 cells was constructed. We found that APS had
+no effect on H9c2 cells viability. However, APS could attenuate LPS-induced
+impairment of H9c2 cells. The protective functions of APS on H9c2 cells might be
+through suppressing miR-127 expression and regulating nuclear factor kappa B
+(NF-κB), c-Jun NH2-terminal protein kinase (JNK), and phosphoinositide 3-kinase
+(PI3K)/AKT signaling pathways. The findings suggested that APS possibly acted as a
+potential therapeutic drug for treatment of myocarditis.</p></sec><sec sec-type="methods" id="section2-2058738418759180"><title>Material and methods</title><sec id="section3-2058738418759180"><title>Cell culture and treatment</title><p>A rat embryonic-heart derived cell line H9c2 obtained from the American Type
+Culture Collection (ATCC, Rockville, MD, USA) was cultured in Dulbecco’s
+Modified Eagle medium (DMEM; Gibco BRL, Gaithersburg, MD, USA) containing 10%
+(v/v) fetal bovine serum (FBS, Gibco BRL) at 37°C in a humidified 5%
+CO<sub>2</sub> atmosphere. APS and LPS were purchased from Sigma-Aldrich (St
+Louis, MO, USA). H9c2 cells were first treated with 10 µM of LPS for 12 h to
+construct the inflammation injury model. Then, different concentrations (0, 50,
+100, 150, and 200 µg/mL) of APS were used to treat H9c2 cells for 24 h
+again.</p></sec><sec id="section4-2058738418759180"><title>Cell viability assay</title><p>H9c2 cells were seeded in a 96-well plate with 5000 cells/well, and treated with
+the following conditions: fresh culture medium alone (control), fresh culture
+medium with different concentrations (0–200 µg/mL) of APS (Sigma-Aldrich),
+and/or fresh culture medium with 10 µM LPS (Sigma-Aldrich). Cell viability was
+assessed by a Cell Counting Kit-8 (CCK-8; Dojindo Molecular Technologies,
+Gaithersburg, MD, USA) according to manufacturer’s instructions. Briefly, after
+treatment, the CCK-8 solution was added to the culture medium and incubated at
+37°C for 1 h. The absorbance was read at 450 nm with a microplate reader
+(Bio-Rad, Hercules, CA, USA). Cell viability was calculated by (experimental
+group absorbance value/control group absorbance value) × 100%.</p></sec><sec id="section5-2058738418759180"><title>Apoptosis assay</title><p>The apoptosis ratios of H9c2 cells undergoing various treatments were measured
+using Annexin V-fluorescein (AV) and propidium iodide (PI) apoptosis detection
+kit (Invitrogen, Carlsbad, CA, USA) by flow cytometry. Briefly, after
+stimulation, cells were washed with PBS and incubated with 10 µL of Annexin
+V-FITC and 5 µL of PI for 15 min at room temperature in the dark. Flow cytometry
+analysis was done by a FACScan flow cytometer (Beckman Coulter, Fullerton, CA,
+USA), and the data were analyzed by using FlowJo software (Tree Star, Ashland,
+OR, USA).</p></sec><sec id="section6-2058738418759180"><title>Cell transfection</title><p>MiR-127 inhibitor and negative control (NC) were designed and synthesized by
+GenePharma (Shanghai, China). Cell transfection was performed using
+Lipofectamine 3000 (Invitrogen) according to the manufacturer’s instructions.
+After transfection for 48 h, the efficiency of transfection was monitored by
+quantitative real-time polymerase chain reaction (qRT-PCR).</p></sec><sec id="section7-2058738418759180"><title>Enzyme-linked immunosorbent assay</title><p>H9c2 cells were seeded in a 24-well plate and exposed to various treatments for
+24 h. After incubation, culture supernatants were collected and concentrations
+of inflammatory cytokines interleukin-6 (IL-6), interleukin-8 (IL-8), and tumor
+necrosis factor-alpha (TNF-α) were measured by rat ELISA kits (TaKaRa, Dalian,
+China) according to manufacturer’s instructions, respectively.</p></sec><sec id="section8-2058738418759180"><title>qRT-PCR</title><p>Total RNA was isolated from H9c2 cells using TRIzol reagent (Invitrogen)
+according to manufacturer’s instructions. Reverse transcription was performed by
+the Multiscribe RT kit (Applied Biosystems, Foster, CA, USA). Expression levels
+of miR-127 were amplified using a TaqMan microRNA assay (Applied Biosystems) by
+normalizing to U6. For analysis of IL-6, IL-8, and TNF-α, a SYBR Green PCR kit
+(TaKaRa) was used to quantify the messenger RNA (mRNA) levels of IL-6, IL-8, and
+TNF-α. β-actin was amplified as control. The relative expression levels of
+miR-127, IL-6, IL-8, and TNF-α were calculated using the 2<sup>−ΔΔCT</sup> method.<sup><xref rid="bibr14-2058738418759180" ref-type="bibr">14</xref></sup></p></sec><sec id="section9-2058738418759180"><title>Western blot</title><p>Protein used for western blot was extracted from H9c2 cells using RIPA lysis
+buffer (Beyotime Biotechnology, Shanghai, China) and quantified using the
+Bicinchoninic Acid (BCA) Protein Assay Kit (Pierce, Appleton, WI, USA). Equal
+amount of protein was separated by sodium dodecyl sulfate-polyacrylamide gel
+electrophoresis (SDS-PAGE) and then transferred onto polyvinylidene fluoride
+(PVDF) membranes (Millipore, Billerica, MA, USA). The membranes were incubated
+with the indicated primary and secondary antibodies. The primary antibodies used
+in this study included anti-Bax (ab32503, 1:1000), anti-pro-Caspase3 (ab44976,
+1:500), anti-cleaved-Caspase3 (ab13847, 1:500), anti-Caspase9 (ab25758, 1:200),
+anti-IL-6 (ab9770, 1:5000), anti-IL-8 (ab7747, 1:10), anti-TNF-α (ab6671,
+1:1000), anti-p65 (ab16502, 1:2000), anti-toll-like receptor 4 (anti-TLR4,
+ab13556, 1:500), anti-p-p65 (ab86299, 1:2000), anti-IκBα (ab7217, 1:2000),
+anti-JNK (ab179461, 1:1000), anti-p-JNK (ab124956, 1:5000), anti-c-Jun (ab32137,
+1:1000) and anti-p-c-Jun (ab32385, 1:1000), anti-PI3K (ab191606, 1:1000),
+anti-p-PI3K (ab182651, 1:1000), anti-AKT (ab32505, 1:2000), anti-p-AKT
+(ab131443, 1:1000), all purchased from Abcam (Cambridge, UK). Anti-p-IκBα
+(#5209, 1:1000) was purchased from Cell Signaling Technology (Boston, USA).
+β-actin (ab8226, 1:1000; Abcam) was used as the loading control. Immunoreactive
+bands were visualized using ECL detection reagent (Millipore). The intensity of
+the bands was quantified by using Image LabTM Software (Bio-Rad, Shanghai,
+China).</p></sec><sec id="section10-2058738418759180"><title>Statistical analysis</title><p>Data from this study were presented as mean ± standard deviation (SD) and
+statistically analyzed by one-way analysis of variance (ANOVA) using SPSS 19.0
+statistical software (IBM Analytics, New York, USA). A <italic toggle="yes">P</italic>-value of &lt;0.05 was considered to indicate a statistically
+significant result. All experiments were repeated at least three times.</p></sec></sec><sec sec-type="results" id="section11-2058738418759180"><title>Results</title><sec id="section12-2058738418759180"><title>APS had no effect on H9c2 cells viability</title><p>H9c2 cells were first treated with different concentrations (0–200 µg/mL) of APS
+for 24 h, and then the effect of APS on cell viability was examined using the
+CCK-8 assay. As shown in <xref ref-type="fig" rid="fig1-2058738418759180">Figure
+1</xref>, cell viability of H9c2 cells treated with various concentrations
+of APS had no significant difference compared with control group. The results
+indicated that APS had no effect on H9c2 cells viability.</p><fig id="fig1-2058738418759180" orientation="portrait" position="float"><label>Figure 1.</label><caption><p>Effect of APS on the cell viability of H9c2 cardiomyoblasts. H9c2 cells
+were treated with different doses (0, 50, 100, 150, and 200 µg/mL) of
+APS for 24 h. After treatment, cell viability of H9c2 cells was detected
+by CCK-8 assay. Each experiment was repeated at least three times.</p><p>APS: Astragalus polysaccharide; CCK-8: Cell Counting Kit-8.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_2058738418759180-fig1.jpg"/></fig></sec><sec id="section13-2058738418759180"><title>APS alleviated LPS-induced impairment of H9c2 cells</title><p>In order to explore the effect of APS on LPS-induced inflammation injury in H9c2
+cells, we observed cell viability by CCK-8 assay, and determined the rate of
+apoptotic cells by flow cytometry in the presence or absence of APS treatment.
+Consistent to previous findings,<sup><xref rid="bibr15-2058738418759180" ref-type="bibr">15</xref>,<xref rid="bibr16-2058738418759180" ref-type="bibr">16</xref></sup> our results demonstrated
+that LPS could inhibit H9c2 cells viability. However, the inhibitory effect of
+LPS on cell viability of H9c2 cells was markedly elevated by APS in
+dose-dependent manner (<italic toggle="yes">P</italic> &lt; 0.05, <xref ref-type="fig" rid="fig2-2058738418759180">Figure 2(a)</xref>). In addition,
+significant increases in the percentage of apoptotic cells were observed in
+LPS-treated group compared with control group, but the promoting effect was
+significantly declined by APS in a dose-dependent manner (<italic toggle="yes">P</italic> &lt; 0.05, <xref ref-type="fig" rid="fig2-2058738418759180">Figure 2(b)</xref>). To further confirm our results, we performed western
+blot to detect the protein expression levels of specific markers of apoptosis
+(Bax, Caspase-3, and Caspase-9). As shown in <xref ref-type="fig" rid="fig2-2058738418759180">Figure 2(c)</xref> and <xref ref-type="fig" rid="fig2-2058738418759180">(d)</xref>, the protein levels of Bax,
+cleaved-Caspase-3, and cleaved-Caspase-9 in the LPS-treated group were
+drastically up-regulated compared with control group, but the promoting effect
+was markedly decreased in the co-treatment with LPS and APS groups. Taken
+together, these data indicated that APS alleviated LPS-induced impairment of
+H9c2 cells by increasing cell viability and reducing apoptosis in a
+dose-dependent manner.</p><fig id="fig2-2058738418759180" orientation="portrait" position="float"><label>Figure 2.</label><caption><p>Effects of APS on LPS-induced inflammation injury in H9c2 cells. H9c2
+cells were treated with LPS or co-treated with APS and LPS for 24 h. (a)
+Cell viability was evaluated by CCK-8 assay. (b) Cell apoptosis of H9c2
+cells was detected by flow cytometry. (c and d) The apoptosis-related
+protein levels were examined by western blot. Different letters above
+the bars (a, b, c, d) indicate that the means of different groups were
+significantly different (<italic toggle="yes">P</italic> &lt; 0.05) by
+ANOVA. Each experiment was repeated at least three times.</p><p>APS: Astragalus polysaccharide; LPS: lipopolysaccharide; CCK-8:Cell
+Counting Kit-8; ANOVA: one-way analysis of variance.</p><p>***<italic toggle="yes">P</italic> &lt; 0.001 vs control group;
+<sup>#</sup><italic toggle="yes">P</italic> &lt; 0.05,
+<sup>##</sup><italic toggle="yes">P</italic> &lt; 0.01,
+<sup>###</sup><italic toggle="yes">P</italic> &lt; 0.001 vs LPS
+group.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_2058738418759180-fig2.jpg"/></fig></sec><sec id="section14-2058738418759180"><title>APS inhibited LPS-induced inflammatory cytokines production in H9c2
+cells</title><p>The effects of APS on the production of inflammatory cytokines IL-6, IL-8, and
+TNF-α induced by LPS in H9c2 cells were evaluated by qRT-PCR, western blot, and
+ELISA. qRT-PCR and western blot analysis revealed that the mRNA and protein
+levels of IL-6, IL-8, and TNF-α were markedly elevated in LPS-treated H9c2 cells
+compared with control group (<italic toggle="yes">P</italic> &lt; 0.05).
+However, the increased expression levels of IL-6, IL-8, and TNF-α induced by LPS
+decreased in the presence of APS in a dose-dependent manner (<italic toggle="yes">P</italic> &lt; 0.05, <xref ref-type="fig" rid="fig3-2058738418759180">Figure 3(a)</xref> and <xref ref-type="fig" rid="fig3-2058738418759180">(b)</xref>). These results were consistent with
+data obtained from ELISA assay; significant increases in the release of IL-6,
+IL-8, and TNF-α were observed in LPS-treated group, but the promoting effects of
+LPS-induced IL-6, IL-8, and TNF-α releases decreased in the co-treatment with
+LPS and APS groups (<italic toggle="yes">P</italic> &lt; 0.05), and the release
+of inflammatory cytokines was reduced as the concentration of APS increased,
+except the slight up-regulation of IL-6 at 50 µg/mL APS (<xref ref-type="fig" rid="fig3-2058738418759180">Figure 3(c)–(e)</xref>). These data suggested
+that APS could inhibit LPS-induced overproduction of IL-6, IL-8, and TNF-α in
+H9c2 cells in a dose-dependent manner.</p><fig id="fig3-2058738418759180" orientation="portrait" position="float"><label>Figure 3.</label><caption><p>Effects of APS on LPS-induced the expression and release of inflammatory
+cytokines in H9c2 cells. (a)–(b) The mRNA and protein expression levels
+of IL-6, IL-8, and TNF-α in H9c2 cells were measured by qRT-PCR and
+western blot after treatment with LPS or co-treatment with APS and LPS.
+(c)–(e) The release of IL-6, IL-8, and TNF-α was measured by ELISA assay
+in H9c2 cells. Different letters above the bars (a, b, c, d, e) indicate
+that the means of different groups were significantly different (<italic toggle="yes">P</italic> &lt; 0.05) by ANOVA. Each experiment was
+repeated at least three times.</p><p>APS: Astragalus polysaccharide; LPS: lipopolysaccharide; IL-6:
+interleukin-6; IL-8: interleukin-8; TNF-α: tumor necrosis factor-alpha;
+qRT-PCR: quantitative real-time polymerase chain reaction; ELISA:
+enzyme-linked immunosorbent assay; ANOVA: one-way analysis of
+variance.</p><p>***<italic toggle="yes">P</italic> &lt; 0.001 vs control group;
+<sup>#</sup><italic toggle="yes">P</italic> &lt; 0.05,
+<sup>##</sup><italic toggle="yes">P</italic> &lt; 0.01,
+<sup>###</sup><italic toggle="yes">P</italic> &lt; 0.001 vs LPS
+group.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_2058738418759180-fig3.jpg"/></fig></sec><sec id="section15-2058738418759180"><title>APS increased TLR4 expression in LPS-treated H9c2 cells</title><p>To explore the effect of APS on TLR4 expression, H9c2 cells were treated with LPS
+or co-treated with APS (50, 100, 150, and 200 µM) and LPS for 24 h. The protein
+level of TLR4 was examined by western blot. As shown in <xref ref-type="fig" rid="fig4-2058738418759180">Figure 4</xref>, the result revealed that LPS
+notably reduced the expression level of TLR4 in H9c2 cells (<italic toggle="yes">P</italic> &lt; 0.001). However, APS remarkably induced TLR4 expression
+(<italic toggle="yes">P</italic> &lt; 0.05, <italic toggle="yes">P</italic>
+&lt; 0.01 or <italic toggle="yes">P</italic> &lt; 0.001). These data
+demonstrated that APS could induce TLR4 expression in H9c2 cells. It indicated
+that TLR4 might play a vital role in APS regulating LPS-induced cell injury.</p><fig id="fig4-2058738418759180" orientation="portrait" position="float"><label>Figure 4.</label><caption><p>APS increased TLR4 expression in LPS-treated H9c2 cells. H9c2 cells were
+treated with LPS or co-treated with APS and LPS for 24 h. Then, the
+protein level of TLR4 was examined by western blot assay. Each
+experiment was repeated at least three times.</p><p>APS: Astragalus polysaccharide; TLR4: toll-like receptor 4; LPS:
+lipopolysaccharide.</p><p>***<italic toggle="yes">P</italic> &lt; 0.001 vs control group;
+<sup>#</sup><italic toggle="yes">P</italic> &lt; 0.05,
+<sup>##</sup><italic toggle="yes">P</italic> &lt; 0.01,
+<sup>###</sup><italic toggle="yes">P</italic> &lt; 0.001 vs LPS
+group.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_2058738418759180-fig4.jpg"/></fig></sec><sec id="section16-2058738418759180"><title>LPS activated NF-κB and JNK signaling pathways via regulation of
+miR-127</title><p>Recently, the importance of microRNAs (miRNAs) in determining inflammatory
+disorders has been increasingly appreciated.<sup><xref rid="bibr17-2058738418759180" ref-type="bibr">17</xref>,<xref rid="bibr18-2058738418759180" ref-type="bibr">18</xref></sup> MiR-127 is found to be
+highly expressed in embryos and implicated in the cellular apoptosis and inflammation.<sup><xref rid="bibr19-2058738418759180" ref-type="bibr">19</xref></sup> NF-κB and JNK signaling pathways are known to play important roles in
+many physiological functions.<sup><xref rid="bibr20-2058738418759180" ref-type="bibr">20</xref>,<xref rid="bibr21-2058738418759180" ref-type="bibr">21</xref></sup> Based on these previous
+studies, we further investigated the effect of miR-127 on LPS-affected NF-κB and
+JNK signaling pathways in H9c2 cells. First, we analyzed expression levels of
+miR-127 in the presence or absence of LPS by qRT-PCR and we found that the
+expression of miR-127 in H9c2 cells treated with LPS was higher than in control
+group (<italic toggle="yes">P</italic> &lt; 0.05, <xref ref-type="fig" rid="fig5-2058738418759180">Figure 5(a)</xref>). To examine whether LPS was
+involved in regulation of NF-κB and JNK signaling pathways, the expression
+levels of p-p65, p-IκBα, p-JNK, and p-c-Jun were detected by western blot assay.
+As shown in <xref ref-type="fig" rid="fig5-2058738418759180">Figure 5(b)</xref>
+and <xref ref-type="fig" rid="fig5-2058738418759180">(c)</xref>, treatment with
+LPS caused a moderate increase in the expression levels of p-p65, p-lκBα, p-JNK,
+and p-c-Jun, indicating a promoting effect of LPS on NF-κB and JNK signaling
+pathways. To demonstrate whether LPS promoted NF-κB and JNK signaling pathways
+by regulation of miR-127, the expression of miR-127 in H9c2 cells was knocked
+down by transfection with miR-127 inhibitor, and the efficiency of transfection
+was confirmed by qRT-PCR (<italic toggle="yes">P</italic> &lt; 0.01, <xref ref-type="fig" rid="fig5-2058738418759180">Figure 5(d)</xref>). Then, we
+performed western blot assay after H9c2 cells were treated with LPS and miR-127
+inhibitor. We found that the significant up-regulations of p-p65, p-lκBα, p-JNK,
+and p-c-Jun induced by LPS were reduced by miR-127 suppression (<xref ref-type="fig" rid="fig5-2058738418759180">Figure 5(e)</xref> and <xref ref-type="fig" rid="fig5-2058738418759180">(f)</xref>). Taken together,
+these data suggested that LPS promoted NF-κB and JNK signaling pathways by
+regulation of miR-127.</p><fig id="fig5-2058738418759180" orientation="portrait" position="float"><label>Figure 5.</label><caption><p>LPS promoted NF-κB and JNK signaling pathways by regulation of miR-127.
+(a) Expression levels of miR-127 in H9c2 cells were measured by qRT-PCR
+after treatment with LPS. (b)–(c) Protein levels of the main factors of
+NF-κB and JNK signaling pathways were detected by western blot after
+treatment with LPS. (d) The expression of miR-127 knocked down by
+miR-127 inhibitor was examined by qRT-PCR. (e)–(f) Protein levels of the
+main factors of NF-κB and JNK signaling pathways were examined by
+western blot again after being treated with LPS or co-treated with LPS
+and miR-127 inhibitor. Each experiment was repeated at least three
+times.</p><p>LPS: lipopolysaccharide; NF-κB: nuclear factor kappa B; JNK: c-Jun
+NH2-terminal protein kinase; miR: microRNA; qRT-PCR: quantitative
+real-time polymerase chain reaction.</p><p><italic toggle="yes">*P</italic> &lt; 0.05, <italic toggle="yes">**P</italic> &lt; 0.01, ***<italic toggle="yes">P</italic> &lt;
+0.001 vs control group; <sup>##</sup><italic toggle="yes">P</italic>
+&lt; 0.01 vs LPS + NC group.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_2058738418759180-fig5.jpg"/></fig></sec><sec id="section17-2058738418759180"><title>APS reduced LPS-induced inflammation injury by down-regulating miR-127 and
+inhibiting NF-κB and JNK and promoting PI3K/AKT signaling pathways in H9c2
+cells</title><p>Having determined that LPS was able to promote NF-κB and JNK signaling pathways
+by regulating miR-127, we further studied whether APS exerted its relieving
+effects on LPS-induced inflammation injury through inhibiting these ways. As
+shown in <xref ref-type="fig" rid="fig6-2058738418759180">Figure 6(a)</xref>,
+qRT-PCR analysis revealed that the elevated expressions of miR-127 induced by
+LPS were markedly decreased in the co-treatment with LPS and APS groups (<italic toggle="yes">P</italic> &lt; 0.05). In addition, APS reversed the
+up-regulations of p-p65, p-lκBα, p-JNK, and p-c-Jun induced by LPS (<xref ref-type="fig" rid="fig6-2058738418759180">Figure 6(b)</xref> and <xref ref-type="fig" rid="fig6-2058738418759180">(c)</xref>). Furthermore, the
+protein levels of p-PI3K and p-AKT were down-regulated by LPS, whereas the
+inhibitory effect of LPS on PI3K/AKT was abolished by APS in H9c2 cells (<xref ref-type="fig" rid="fig6-2058738418759180">Figure 6(d)</xref>). These data
+indicated that the relieving effects of APS on LPS-induced inflammation injury
+might be through down-regulating miR-127, inhibiting NF-κB and JNK, and
+promoting PI3K/AKT signaling pathways in H9c2 cells.</p><fig id="fig6-2058738418759180" orientation="portrait" position="float"><label>Figure 6.</label><caption><p>APS reduced LPS-induced inflammation injury by down-regulating miR-127
+and inhibiting NF-κB and JNK and promoting PI3K/AKT signaling pathways
+in H9c2 cells. (a) H9c2 cells were treated with LPS or co-treated with
+APS and LPS, and then expression levels of miR-127 in H9c2 cells were
+measured by qRT-PCR. (b)–(d) Protein expression levels of p65/p-p65,
+lκBα/p-lκBα JNK/p-JNK, c-Jun/p-c-Jun, PI3K/p-PI3K, and AKT/p-AKT were
+detected by western blot. Different letters above the bars (a, b, c)
+indicate that the means of different groups were significantly different
+(<italic toggle="yes">P</italic> &lt; 0.05) by ANOVA. Each
+experiment was repeated at least three times.</p><p>APS: Astragalus polysaccharide; miR: microRNA; NF-κB: nuclear factor
+kappa B; JNK: c-Jun NH2-terminal protein kinase; PI3K: phosphoinositide
+3-kinase; AKT: protein kinase B; qRT-PCR: quantitative real-time
+polymerase chain reaction; ANOVA: one-way analysis of variance.</p><p>***<italic toggle="yes">P</italic> &lt; 0.001 vs control group;
+<sup>#</sup><italic toggle="yes">P</italic> &lt; 0.05,
+<sup>##</sup><italic toggle="yes">P</italic> &lt; 0.01,
+<sup>###</sup><italic toggle="yes">P</italic> &lt; 0.001 vs LPS
+group.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_2058738418759180-fig6.jpg"/></fig></sec></sec><sec sec-type="discussion" id="section18-2058738418759180"><title>Discussion</title><p>Majority of cases of myocarditis were caused by viral infection, bacterial infection,
+drug reaction, and autoimmune disease.<sup><xref rid="bibr22-2058738418759180" ref-type="bibr">22</xref></sup> Persistent myocardial inflammation leads to myocyte damage and eventually
+leads to heart failure or death. Therefore, it is important to find an efficient
+drug for treatment of myocarditis by inhibition of inflammation injury. In this
+study, LPS was used to induce inflammation injury in H9c2 cardiomyocytes to simulate
+a model of myocarditis <italic toggle="yes">in vitro</italic>. Consistent with
+previous findings, our results demonstrated that LPS significantly inhibited cell
+viability, enhanced apoptosis, and led to the overproduction of inflammatory
+cytokines IL-6, IL-8, and TNF-α in H9c2 cells, indicating the model of myocarditis
+was successfully established.</p><p>More and more studies have demonstrated that traditional herbal medicine has become
+an effective and alternative approach for clinical treatment of various diseases.<sup><xref rid="bibr23-2058738418759180" ref-type="bibr">23</xref></sup> APS extracted from the root of <italic toggle="yes">Astragalus
+membranaceus</italic> is a water-soluble macromolecular compound with various
+biological effects.<sup><xref rid="bibr24-2058738418759180" ref-type="bibr">24</xref></sup> A recent study revealed that APS could inhibit cell viability of C2C12
+myoblasts in a dose-dependent manner.<sup><xref rid="bibr25-2058738418759180" ref-type="bibr">25</xref></sup> Additionally, it has been reported that APS exerted inhibitory effects on
+apoptosis and inflammation injury.<sup><xref rid="bibr26-2058738418759180" ref-type="bibr">26</xref></sup> Interestingly, the result in our study showed that APS had no effect on H9c2
+cells viability, but it could dramatically increase cell viability, decrease
+apoptosis, and reduce the release of inflammatory cytokines in LPS-damaged H9c2
+cells. It seems that APS had no impact on normal cardiomyocytes, but exerted
+protective functions on LPS-damaged cardiomyocytes. In recent years, accumulated
+evidences indicated that APS could increase TLR4 expression, and TLR4 could
+recognize LPS and induce related signaling pathways to play important roles in host
+defense against LPS.<sup><xref rid="bibr27-2058738418759180" ref-type="bibr">27</xref>,<xref rid="bibr28-2058738418759180" ref-type="bibr">28</xref></sup> Thus, we further explore the effect of APS on TLR4 expression.
+We found that the expression level of TLR4 was remarkably promoted by APS in
+LPS-treated H9c2 cells. These data indicated that APS exhibited selectivity for
+LPS-induced cell damage might be due to the increased expression level of TLR4.</p><p>It is well known that miRNAs are small endogenous single-stranded non-coding RNAs,
+which completely or incompletely bind to target mRNAs, block translation, or lead to
+degradation of mRNAs.<sup><xref rid="bibr29-2058738418759180" ref-type="bibr">29</xref></sup> It has been proved that miRNAs function as oncogenes or tumor suppressors and
+play an essential role in the initiation and progression of certain cancer types.<sup><xref rid="bibr30-2058738418759180" ref-type="bibr">30</xref></sup> Recent studies have begun to unravel the roles of miRNAs in regulation of the
+inflammatory factors.<sup><xref rid="bibr17-2058738418759180" ref-type="bibr">17</xref>,<xref rid="bibr31-2058738418759180" ref-type="bibr">31</xref></sup> MiR-127 is previously found to be involved in cell
+proliferation, migration, and apoptosis.<sup><xref rid="bibr32-2058738418759180" ref-type="bibr">32</xref></sup> Famously, one study indicated that miR-127 was a key mediator in the
+inflammation-related disorders, such as bleomycin, or immunocomplex-induced lung
+injury and inflammation,<sup><xref rid="bibr33-2058738418759180" ref-type="bibr">33</xref></sup> suggesting the regulatory role of miR-127 in inflammatory response. Here, we
+found that LPS could increase miR-127 expression, but the elevated expression level
+of miR-127 induced by LPS was markedly decreased in the presence of APS. These data
+suggested that APS might decrease LPS-induced inflammation injury by down-regulating
+miR-127.</p><p>Furthermore, we investigated the related signaling pathways to reveal the potential
+mechanisms. NF-κB, an important signaling pathway, is known to be associated with
+many physiological functions, including cellular proliferation, malignant
+transformation, and inflammation.<sup><xref rid="bibr34-2058738418759180" ref-type="bibr">34</xref></sup> Inhibition of this pathway might increase cell viability and decrease
+apoptosis and inflammation injury. Phosphorylation of p65 and lκBα, which are key
+molecules of NF-κB signaling pathway, usually increases apoptosis and inflammatory
+response. Here, we found that the elevated expression levels of p-p65 and p-lκBα
+induced by LPS were suppressed by miR-127 suppression, as well as suppressed by APS.
+Therefore, these data indicated that the relieving effects of APS on LPS-induced
+inflammation injury might be through down-regulating miR-127 and inhibiting NF-κB
+signaling pathway in H9c2 cells.</p><p>Recent evidences have demonstrated that JNK signaling pathway, is also linked to cell
+proliferation, apoptosis, and inflammation.<sup><xref rid="bibr35-2058738418759180" ref-type="bibr">35</xref>,<xref rid="bibr36-2058738418759180" ref-type="bibr">36</xref></sup> Here, we investigated whether
+APS could also decrease LPS-induced inflammation injury by regulating miR-127 and
+inhibiting JNK signaling pathway in H9c2 cells. JNK and its downstream molecule
+c-Jun (key molecules in JNK pathway) are proved to be activated after injury.<sup><xref rid="bibr37-2058738418759180" ref-type="bibr">37</xref></sup> In this study, western blot analysis indicated that the expressions of p-JNK
+and p-c-Jun were increased in LPS-treated group, but the increases were reversed
+after transfection with miR-127 inhibitor, as well as after APS treatment. Overall,
+these data indicated that APS could inhibit JNK signaling pathway in H9c2 cells by
+down-regulating miR-127.</p><p>PI3K/AKT is an important signaling pathway, which participates in various cell
+biological processes such as proliferation, apoptosis and transformation, and
+inflammation.<sup><xref rid="bibr38-2058738418759180" ref-type="bibr">38</xref>,<xref rid="bibr39-2058738418759180" ref-type="bibr">39</xref></sup> In our study, we further investigated the effect of APS on
+PI3K/AKT in LPS-treated H9c2 cells. The results revealed that APS remarkably
+reversed the down-regulations of p-PI3K and p-AKT reduced by LPS in H9c2 cells.
+These data suggested that APS could promote PI3K/AKT signaling pathway in H9c2 cells
+by down-regulating miR-127.</p><p>In summary, APS could protect H9c2 cells against LPS-induced inflammation injury by
+increasing cell viability, reducing apoptosis, and suppressing the production of
+inflammatory cytokines. APS exerted protective functions maybe through
+down-regulation of miR-127 and inhibition of NF-κB and JNK pathways. These findings
+provide evidences that APS might be a potential therapeutic drug for the treatment
+of myocarditis <italic toggle="yes">in vitro</italic>. Further study still needs to
+clarify the hypothesis.</p></sec></body><back><fn-group><fn fn-type="COI-statement"><p><bold>Declaration of conflicting interests:</bold> The author(s) declared no potential conflicts of interest with respect to the
+research, authorship, and/or publication of this article.</p></fn><fn fn-type="financial-disclosure"><p><bold>Funding:</bold> The author(s) received no financial support for the research, authorship, and/or
+publication of this article.</p></fn></fn-group><ref-list><title>References</title><ref id="bibr1-2058738418759180"><label>1</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Zhang</surname><given-names>Y</given-names></name><name name-style="western"><surname>Zhuang</surname><given-names>R</given-names></name><name name-style="western"><surname>Geng</surname><given-names>C</given-names></name><etal>et al</etal></person-group> (<year>2013</year>) <article-title>Insulin promotes T cell
+recovery in a murine model of autoimmune myocarditis</article-title>.
+<source>Clinical and Experimental Immunology</source>
+<volume>171</volume>: <fpage>46</fpage>–<lpage>53</lpage>.<pub-id pub-id-type="pmid">23199322</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1365-2249.2012.04662.x</pub-id><pub-id pub-id-type="pmcid">PMC3530094</pub-id></mixed-citation></ref><ref id="bibr2-2058738418759180"><label>2</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Blauwet</surname><given-names>LA</given-names></name><name name-style="western"><surname>Cooper</surname><given-names>LT</given-names></name></person-group> (<year>2010</year>) <article-title>Myocarditis</article-title>.
+<source>Progress in Cardiovascular Diseases</source>
+<volume>52</volume>: <fpage>274</fpage>–<lpage>288</lpage>.<pub-id pub-id-type="pmid">20109598</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.pcad.2009.11.006</pub-id><pub-id pub-id-type="pmcid">PMC5951175</pub-id></mixed-citation></ref><ref id="bibr3-2058738418759180"><label>3</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Zhang</surname><given-names>W</given-names></name><name name-style="western"><surname>Shan</surname><given-names>L</given-names></name><name name-style="western"><surname>Jin</surname><given-names>H</given-names></name><etal>et al</etal></person-group> (<year>2016</year>) <source>Line leaf inula flower lactone A
+and methods for preparing and using the same for treating
+myocarditis</source>. US9303006 B2 Patent.</mixed-citation></ref><ref id="bibr4-2058738418759180"><label>4</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Klingel</surname><given-names>K</given-names></name><name name-style="western"><surname>Kandolf</surname><given-names>R</given-names></name></person-group> (<year>2012</year>) <article-title>Update on
+myocarditis</article-title>. <source>Journal of the American College of
+Cardiology</source>
+<volume>59</volume>: <fpage>779</fpage>–<lpage>792</lpage>.<pub-id pub-id-type="pmid">22361396</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jacc.2011.09.074</pub-id></mixed-citation></ref><ref id="bibr5-2058738418759180"><label>5</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Zhao</surname><given-names>LL</given-names></name><name name-style="western"><surname>Zhi</surname><given-names>JL</given-names></name><name name-style="western"><surname>Jian</surname><given-names>PL</given-names></name><etal>et al</etal></person-group> (<year>2013</year>) <article-title>Herbal medicines for viral
+myocarditis</article-title>. <source>Cochrane Database of Systematic
+Reviews</source>
+<volume>8</volume>: <fpage>CD003711</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/14651858.CD003711.pub5</pub-id><pub-id pub-id-type="pmid">23986406</pub-id></mixed-citation></ref><ref id="bibr6-2058738418759180"><label>6</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Xie</surname><given-names>BX</given-names></name><name name-style="western"><surname>Shu-Bin</surname><given-names>LI</given-names></name><name name-style="western"><surname>Qin</surname><given-names>LI</given-names></name><etal>et al</etal></person-group> (<year>2016</year>) <article-title>Randomized controlled trials
+of oral Chinese herbal medicine used alone in treatment of adult viral
+myocarditis: A meta-analysis</article-title>. <source>Journal of Anhui
+University of Chinese Medicine</source>
+<volume>35</volume>: <fpage>14</fpage>–<lpage>17</lpage>.</mixed-citation></ref><ref id="bibr7-2058738418759180"><label>7</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Cheng</surname><given-names>XD</given-names></name><name name-style="western"><surname>Jia</surname><given-names>XB</given-names></name><name name-style="western"><surname>Feng</surname><given-names>L</given-names></name><etal>et al</etal></person-group> (<year>2013</year>) <article-title>Study thought of material
+basis of secondary development of major traditional Chinese medicine
+varieties on basis of combination of in vivo and <italic toggle="yes">in
+vitro</italic> experiments</article-title>. <source>Zhongguo Zhong Yao
+Za Zhi</source>
+<volume>38</volume>:
+<fpage>384174</fpage>–<lpage>384180</lpage>.<pub-id pub-id-type="pmid">24791512</pub-id></mixed-citation></ref><ref id="bibr8-2058738418759180"><label>8</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Lan</surname><given-names>RX</given-names></name><name name-style="western"><surname>Park</surname><given-names>JW</given-names></name><name name-style="western"><surname>Lee</surname><given-names>DW</given-names></name><etal>et al</etal></person-group> (<year>2016</year>) <article-title>Effects of <italic toggle="yes">Astragalus membranaceus, Codonopsis pilosula</italic> and
+allicin mixture on growth performance, nutrient digestibility, faecal
+microbial shedding, immune response and meat quality in finishing
+pigs</article-title>. <source>Journal of Animal Physiology and Animal
+Nutrition</source>
+<volume>101</volume>: <fpage>1122</fpage>–<lpage>1129</lpage>.<pub-id pub-id-type="pmid">27868250</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/jpn.12625</pub-id></mixed-citation></ref><ref id="bibr9-2058738418759180"><label>9</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Guo</surname><given-names>L</given-names></name><name name-style="western"><surname>Bai</surname><given-names>SP</given-names></name><name name-style="western"><surname>Zhao</surname><given-names>L</given-names></name><etal>et al</etal></person-group> (<year>2012</year>) <article-title>Astragalus polysaccharide
+injection integrated with vinorelbine and cisplatin for patients with
+advanced non-small cell lung cancer: Effects on quality of life and
+survival</article-title>. <source>Medical Oncology</source>
+<volume>29</volume>: <fpage>1656</fpage>–<lpage>1662</lpage>.<pub-id pub-id-type="pmid">21928106</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s12032-011-0068-9</pub-id></mixed-citation></ref><ref id="bibr10-2058738418759180"><label>10</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Liu</surname><given-names>M</given-names></name><name name-style="western"><surname>Wu</surname><given-names>K</given-names></name><name name-style="western"><surname>Mao</surname><given-names>X</given-names></name><etal>et al</etal></person-group> (<year>2010</year>) <article-title>Astragalus polysaccharide
+improves insulin sensitivity in KKAy mice: Regulation of PKB/GLUT4 signaling
+in skeletal muscle</article-title>. <source>Journal of
+Ethnopharmacology</source>
+<volume>127</volume>: <fpage>32</fpage>–<lpage>37</lpage>.<pub-id pub-id-type="pmid">19800959</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jep.2009.09.055</pub-id></mixed-citation></ref><ref id="bibr11-2058738418759180"><label>11</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Dang</surname><given-names>SS</given-names></name><name name-style="western"><surname>Jia</surname><given-names>XL</given-names></name><name name-style="western"><surname>Song</surname><given-names>P</given-names></name><etal>et al</etal></person-group> (<year>2009</year>) <article-title>Inhibitory effect of emodin
+and Astragalus polysaccharide on the replication of HBV</article-title>.
+<source>World Journal of Gastroenterology</source>
+<volume>15</volume>: <fpage>5669</fpage>–<lpage>5673</lpage>.<pub-id pub-id-type="pmid">19960563</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3748/wjg.15.5669</pub-id><pub-id pub-id-type="pmcid">PMC2789219</pub-id></mixed-citation></ref><ref id="bibr12-2058738418759180"><label>12</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Lu</surname><given-names>J</given-names></name><name name-style="western"><surname>Chen</surname><given-names>X</given-names></name><name name-style="western"><surname>Zhang</surname><given-names>Y</given-names></name><etal>et al</etal></person-group> (<year>2013</year>) <article-title>Astragalus polysaccharide
+induces anti-inflammatory effects dependent on AMPK activity in
+palmitate-treated RAW264.7 cells</article-title>. <source>International
+Journal of Molecular Medicine</source>
+<volume>31</volume>: <fpage>1463</fpage>–<lpage>1470</lpage>.<pub-id pub-id-type="pmid">23563695</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3892/ijmm.2013.1335</pub-id></mixed-citation></ref><ref id="bibr13-2058738418759180"><label>13</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Wang</surname><given-names>X</given-names></name><name name-style="western"><surname>Li</surname><given-names>Y</given-names></name><name name-style="western"><surname>Yang</surname><given-names>X</given-names></name><etal>et al</etal></person-group> (<year>2013</year>) <article-title>Astragalus polysaccharide
+reduces inflammatory response by decreasing permeability of LPS-infected
+Caco2 cells</article-title>. <source>International Journal of Biological
+Macromolecules</source>
+<volume>61</volume>: <fpage>347</fpage>–<lpage>352</lpage>.<pub-id pub-id-type="pmid">23916649</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ijbiomac.2013.07.013</pub-id></mixed-citation></ref><ref id="bibr14-2058738418759180"><label>14</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Livak</surname><given-names>KJ</given-names></name><name name-style="western"><surname>Schmittgen</surname><given-names>TD</given-names></name></person-group> (<year>2012</year>) <article-title>Analysis of relative gene
+expression data using real-time quantitative PCR and the 2 (−ΔΔ C(T))
+method</article-title>. <source>Methods</source>
+<volume>25</volume>: <fpage>402</fpage>–<lpage>408</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1006/meth.2001.1262</pub-id><pub-id pub-id-type="pmid">11846609</pub-id></mixed-citation></ref><ref id="bibr15-2058738418759180"><label>15</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Basso</surname><given-names>FG</given-names></name><name name-style="western"><surname>Soares</surname><given-names>DG</given-names></name><name name-style="western"><surname>Pansani</surname><given-names>TN</given-names></name><etal>et al</etal></person-group> (<year>2015</year>) <article-title>Effect of LPS treatment on
+the viability and chemokine synthesis by epithelial cells and gingival
+fibroblasts</article-title>. <source>Archives of Oral Biology</source>
+<volume>60</volume>: <fpage>1117</fpage>–<lpage>1121</lpage>.<pub-id pub-id-type="pmid">26042620</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.archoralbio.2015.04.010</pub-id></mixed-citation></ref><ref id="bibr16-2058738418759180"><label>16</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Schweikl</surname><given-names>H</given-names></name><name name-style="western"><surname>Widbiller</surname><given-names>M</given-names></name><name name-style="western"><surname>Krifka</surname><given-names>S</given-names></name><etal>et al</etal></person-group> (<year>2016</year>) <article-title>Interaction between LPS and
+a dental resin monomer on cell viability in mouse
+macrophages</article-title>. <source>Dental Materials</source>
+<volume>32</volume>: <fpage>1492</fpage>–<lpage>1503</lpage>.<pub-id pub-id-type="pmid">27671463</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.dental.2016.09.009</pub-id></mixed-citation></ref><ref id="bibr17-2058738418759180"><label>17</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>O’Connell</surname><given-names>RM</given-names></name><name name-style="western"><surname>Taganov</surname><given-names>KD</given-names></name><name name-style="western"><surname>Boldin</surname><given-names>MP</given-names></name><etal>et al</etal></person-group> (<year>2007</year>) <article-title>MicroRNA-155 is induced
+during the macrophage inflammatory response</article-title>.
+<source>Proceedings of the National Academy of Sciences of the United States
+of America</source>
+<volume>104</volume>: <fpage>1604</fpage>–<lpage>1609</lpage>.<pub-id pub-id-type="pmid">17242365</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.0610731104</pub-id><pub-id pub-id-type="pmcid">PMC1780072</pub-id></mixed-citation></ref><ref id="bibr18-2058738418759180"><label>18</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>O’Connell</surname><given-names>RM</given-names></name><name name-style="western"><surname>Rao</surname><given-names>DS</given-names></name><name name-style="western"><surname>Baltimore</surname><given-names>D</given-names></name></person-group> (<year>2012</year>) <article-title>microRNA regulation of
+inflammatory responses</article-title>. <source>Annual Review of
+Immunology</source>
+<volume>30</volume>: <fpage>295</fpage>–<lpage>312</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1146/annurev-immunol-020711-075013</pub-id><pub-id pub-id-type="pmid">22224773</pub-id></mixed-citation></ref><ref id="bibr19-2058738418759180"><label>19</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Xie</surname><given-names>T</given-names></name><name name-style="western"><surname>Liang</surname><given-names>J</given-names></name><name name-style="western"><surname>Liu</surname><given-names>N</given-names></name><etal>et al</etal></person-group> (<year>2012</year>) <article-title>MicroRNA-127 inhibits lung
+inflammation by targeting IgG Fcgamma receptor I</article-title>.
+<source>Journal of Immunology Baltimore</source>
+<volume>188</volume>: <fpage>2437</fpage>–<lpage>2444</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.4049/jimmunol.1101070</pub-id><pub-id pub-id-type="pmcid">PMC3288289</pub-id><pub-id pub-id-type="pmid">22287715</pub-id></mixed-citation></ref><ref id="bibr20-2058738418759180"><label>20</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Li</surname><given-names>Q</given-names></name><name name-style="western"><surname>Verma</surname><given-names>IM</given-names></name></person-group> (<year>2002</year>) <article-title>NF-kappaB regulation in the
+immune system</article-title>. <source>Nature Reviews Immunology</source>
+<volume>2</volume>: <fpage>725</fpage>–<lpage>734</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nri910</pub-id><pub-id pub-id-type="pmid">12360211</pub-id></mixed-citation></ref><ref id="bibr21-2058738418759180"><label>21</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Weston</surname><given-names>CR</given-names></name><name name-style="western"><surname>Davis</surname><given-names>RJ</given-names></name></person-group> (<year>2002</year>) <article-title>The JNK signal transduction
+pathway</article-title>. <source>Current Opinion in Genetics &amp;
+Development</source>
+<volume>12</volume>: <fpage>14</fpage>–<lpage>21</lpage>.<pub-id pub-id-type="pmid">11790549</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0959-437x(01)00258-1</pub-id></mixed-citation></ref><ref id="bibr22-2058738418759180"><label>22</label><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name name-style="western"><surname>Morentin</surname><given-names>B</given-names></name><name name-style="western"><surname>Aguilera</surname><given-names>B</given-names></name><name name-style="western"><surname>Alonso-Pulpón</surname><given-names>LA</given-names></name></person-group> (<year>2015</year>) <source>Myocarditis</source>.
+<publisher-loc>Berlin</publisher-loc>:
+<publisher-name>Springer</publisher-name>.</mixed-citation></ref><ref id="bibr23-2058738418759180"><label>23</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Lee</surname><given-names>JW</given-names></name><name name-style="western"><surname>Lee</surname><given-names>WB</given-names></name><name name-style="western"><surname>Kim</surname><given-names>W</given-names></name><etal>et al</etal></person-group> (<year>2015</year>) <article-title>Traditional herbal medicine
+for cancer pain: A systematic review and meta-analysis</article-title>.
+<source>Complementary Therapies in Medicine</source>
+<volume>23</volume>: <fpage>265</fpage>–<lpage>274</lpage>.<pub-id pub-id-type="pmid">25847565</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ctim.2015.02.003</pub-id></mixed-citation></ref><ref id="bibr24-2058738418759180"><label>24</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Kuang</surname><given-names>Z</given-names></name><name name-style="western"><surname>Wang</surname><given-names>L</given-names></name><name name-style="western"><surname>Wu</surname><given-names>B</given-names></name><etal>et al</etal></person-group> (<year>2017</year>) <article-title>Effect of Astragalus
+polysaccharide on the disease resistance of chicken</article-title>.
+<source>Guangdong Journal of Animal and Veterinary Science</source>
+<volume>42</volume>: <fpage>8</fpage>–<lpage>11</lpage>.</mixed-citation></ref><ref id="bibr25-2058738418759180"><label>25</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Yin</surname><given-names>Y</given-names></name><name name-style="western"><surname>Lu</surname><given-names>L</given-names></name><name name-style="western"><surname>Wang</surname><given-names>D</given-names></name><etal>et al</etal></person-group> (<year>2015</year>) <article-title>Astragalus polysaccharide
+inhibits autophagy and apoptosis from peroxide-induced injury in C2C12
+myoblasts</article-title>. <source>Cell Biochemistry and Biophysics</source>
+<volume>73</volume>: <fpage>433</fpage>–<lpage>439</lpage>.<pub-id pub-id-type="pmid">27352334</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s12013-015-0659-8</pub-id></mixed-citation></ref><ref id="bibr26-2058738418759180"><label>26</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Yang</surname><given-names>M</given-names></name><name name-style="western"><surname>Lin</surname><given-names>HB</given-names></name><name name-style="western"><surname>Gong</surname><given-names>S</given-names></name><etal>et al</etal></person-group> (<year>2014</year>) <article-title>Effect of Astragalus
+polysaccharides on expression of TNF-α, IL-1 beta and NFATc4 in a rat model
+of experimental colitis</article-title>. <source>Cytokine</source>
+<volume>70</volume>: <fpage>81</fpage>–<lpage>86</lpage>.<pub-id pub-id-type="pmid">25132256</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cyto.2014.07.250</pub-id></mixed-citation></ref><ref id="bibr27-2058738418759180"><label>27</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Yin</surname><given-names>X</given-names></name><name name-style="western"><surname>Chen</surname><given-names>L</given-names></name><name name-style="western"><surname>Liu</surname><given-names>Y</given-names></name><etal>et al</etal></person-group> (<year>2010</year>) <article-title>Enhancement of the innate
+immune response of bladder epithelial cells by Astragalus polysaccharides
+through upregulation of TLR4 expression</article-title>. <source>Biochemical
+and Biophysical Research Communications</source>
+<volume>397</volume>: <fpage>232</fpage>–<lpage>238</lpage>.<pub-id pub-id-type="pmid">20546703</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bbrc.2010.05.090</pub-id></mixed-citation></ref><ref id="bibr28-2058738418759180"><label>28</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Kayagaki</surname><given-names>N</given-names></name><name name-style="western"><surname>Wong</surname><given-names>MT</given-names></name><name name-style="western"><surname>Stowe</surname><given-names>IB</given-names></name><etal>et al</etal></person-group> (<year>2013</year>) <article-title>Noncanonical inflammasome
+activation by intracellular LPS independent of TLR4</article-title>.
+<source>Science</source>
+<volume>341</volume>: <fpage>1246</fpage>–<lpage>1249</lpage>.<pub-id pub-id-type="pmid">23887873</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/science.1240248</pub-id></mixed-citation></ref><ref id="bibr29-2058738418759180"><label>29</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Huang</surname><given-names>D</given-names></name><name name-style="western"><surname>Koh</surname><given-names>C</given-names></name><name name-style="western"><surname>Feurtado</surname><given-names>JA</given-names></name><etal>et al</etal></person-group> (<year>2013</year>) <article-title>MicroRNAs and their putative
+targets in Brassica napus seed maturation</article-title>. <source>BMC
+Genomics</source>
+<volume>14</volume>: <fpage>140</fpage>.<pub-id pub-id-type="pmid">23448243</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/1471-2164-14-140</pub-id><pub-id pub-id-type="pmcid">PMC3602245</pub-id></mixed-citation></ref><ref id="bibr30-2058738418759180"><label>30</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Fassan</surname><given-names>M</given-names></name><name name-style="western"><surname>Baffa</surname><given-names>R</given-names></name><name name-style="western"><surname>Palazzo</surname><given-names>JP</given-names></name><etal>et al</etal></person-group> (<year>2009</year>) <article-title>MicroRNA expression
+profiling of male breast cancer</article-title>. <source>Breast Cancer
+Research</source>
+<volume>11</volume>: <fpage>R58</fpage>.<pub-id pub-id-type="pmid">19664288</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/bcr2348</pub-id><pub-id pub-id-type="pmcid">PMC2750120</pub-id></mixed-citation></ref><ref id="bibr31-2058738418759180"><label>31</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Asirvatham</surname><given-names>AJ</given-names></name><name name-style="western"><surname>Magner</surname><given-names>WJ</given-names></name><name name-style="western"><surname>Tomasi</surname><given-names>TB</given-names></name></person-group> (<year>2009</year>) <article-title>miRNA regulation of cytokine
+genes</article-title>. <source>Cytokine</source>
+<volume>45</volume>: <fpage>58</fpage>–<lpage>69</lpage>.<pub-id pub-id-type="pmid">19121586</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cyto.2008.11.010</pub-id><pub-id pub-id-type="pmcid">PMC3129852</pub-id></mixed-citation></ref><ref id="bibr32-2058738418759180"><label>32</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Yao</surname><given-names>K</given-names></name><name name-style="western"><surname>Wang</surname><given-names>Q</given-names></name><name name-style="western"><surname>Jia</surname><given-names>J</given-names></name><etal>et al</etal></person-group> (<year>2017</year>) <article-title>A competing endogenous RNA
+network identifies novel mRNA, miRNA and lncRNA markers for the prognosis of
+diabetic pancreatic cancer</article-title>. <source>Tumour Biology</source>
+<volume>39</volume>: <fpage>1010428317707882</fpage>.<pub-id pub-id-type="pmid">28639886</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/1010428317707882</pub-id></mixed-citation></ref><ref id="bibr33-2058738418759180"><label>33</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Ying</surname><given-names>H</given-names></name><name name-style="western"><surname>Kang</surname><given-names>Y</given-names></name><name name-style="western"><surname>Zhang</surname><given-names>H</given-names></name><etal>et al</etal></person-group> (<year>2015</year>) <article-title>MiR-127 modulates macrophage
+polarization and promotes lung inflammation and injury by activating the JNK
+pathway</article-title>. <source>Journal of Immunology Baltimore</source>
+<volume>194</volume>: <fpage>1239</fpage>–<lpage>1251</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.4049/jimmunol.1402088</pub-id><pub-id pub-id-type="pmid">25520401</pub-id></mixed-citation></ref><ref id="bibr34-2058738418759180"><label>34</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Li</surname><given-names>YJ</given-names></name><name name-style="western"><surname>Wu</surname><given-names>SL</given-names></name><name name-style="western"><surname>Lu</surname><given-names>SM</given-names></name><etal>et al</etal></person-group> (<year>2015</year>)
+<article-title>(-)-Epigallocatechin-3-gallate inhibits nasopharyngeal cancer
+stem cell self-renewal and migration and reverses the epithelial-mesenchymal
+transition via NF-αB p65 inactivation</article-title>. <source>Tumour
+Biology</source>
+<volume>36</volume>: <fpage>2747</fpage>–<lpage>2761</lpage>.<pub-id pub-id-type="pmid">25487615</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s13277-014-2899-4</pub-id></mixed-citation></ref><ref id="bibr35-2058738418759180"><label>35</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Hwang</surname><given-names>J</given-names></name><name name-style="western"><surname>Joo</surname><given-names>JC</given-names></name><name name-style="western"><surname>Kim</surname><given-names>DJ</given-names></name><etal>et al</etal></person-group> (<year>2016</year>) <article-title>Cordycepin promotes
+apoptosis by modulating the ERK-JNK signaling pathway via DUSP5 in renal
+cancer cells</article-title>. <source>American Journal of Cancer
+Research</source>
+<volume>6</volume>: <fpage>1758</fpage>–<lpage>1771</lpage>.<pub-id pub-id-type="pmid">27648363</pub-id><pub-id pub-id-type="pmcid">PMC5004077</pub-id></mixed-citation></ref><ref id="bibr36-2058738418759180"><label>36</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Fang</surname><given-names>L</given-names></name><name name-style="western"><surname>Liu</surname><given-names>R</given-names></name></person-group> (<year>2016</year>) <article-title>TLR2 promotes allergic airway
+inflammation through JNK signaling pathway with activation of
+autophagy</article-title>. <source>Chest</source>
+<volume>149</volume>: <fpage>A28</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.lfs.2020.117896</pub-id><pub-id pub-id-type="pmid">32504758</pub-id></mixed-citation></ref><ref id="bibr37-2058738418759180"><label>37</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Zhao</surname><given-names>J</given-names></name><name name-style="western"><surname>Wang</surname><given-names>L</given-names></name><name name-style="western"><surname>Dong</surname><given-names>X</given-names></name><etal>et al</etal></person-group> (<year>2016</year>) <article-title>The c-Jun N-terminal kinase
+(JNK) pathway is activated in human interstitial cystitis (IC) and rat
+protamine sulfate induced cystitis</article-title>. <source>Scientific
+Reports</source>
+<volume>6</volume>: <fpage>19670</fpage>.<pub-id pub-id-type="pmid">26883396</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/srep19670</pub-id><pub-id pub-id-type="pmcid">PMC4756293</pub-id></mixed-citation></ref><ref id="bibr38-2058738418759180"><label>38</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Cai</surname><given-names>N</given-names></name><name name-style="western"><surname>Dai</surname><given-names>SD</given-names></name><name name-style="western"><surname>Liu</surname><given-names>NN</given-names></name><etal>et al</etal></person-group> (<year>2012</year>) <article-title>PI3K/AKT/mTOR signaling
+pathway inhibitors in proliferation of retinal pigment epithelial
+cells</article-title>. <source>International Journal of
+Ophthalmology</source>
+<volume>5</volume>: <fpage>675</fpage>–<lpage>680</lpage>.<pub-id pub-id-type="pmid">23275900</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3980/j.issn.2222-3959.2012.06.05</pub-id><pub-id pub-id-type="pmcid">PMC3530807</pub-id></mixed-citation></ref><ref id="bibr39-2058738418759180"><label>39</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Xu</surname><given-names>CQ</given-names></name><name name-style="western"><surname>Liu</surname><given-names>BJ</given-names></name><name name-style="western"><surname>Wu</surname><given-names>JF</given-names></name><etal>et al</etal></person-group> (<year>2010</year>) <article-title>Icariin attenuates
+LPS-induced acute inflammatory responses: Involvement of PI3K/AKT and NF-κB
+signaling pathway</article-title>. <source>European Journal of
+Pharmacology</source>
+<volume>642</volume>: <fpage>146</fpage>–<lpage>153</lpage>.<pub-id pub-id-type="pmid">20519138</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ejphar.2010.05.012</pub-id></mixed-citation></ref></ref-list></back></article>

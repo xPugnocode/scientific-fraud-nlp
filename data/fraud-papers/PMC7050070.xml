@@ -1,0 +1,541 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article article-type="research-article" xml:lang="en" dtd-version="1.4"><front><journal-meta><journal-id journal-id-type="nlm-ta">Cancer Med</journal-id><journal-id journal-id-type="iso-abbrev">Cancer Med</journal-id><journal-id journal-id-type="pmc-domain-id">1974</journal-id><journal-id journal-id-type="pmc-domain">canmed</journal-id><journal-id journal-id-type="nlm-id">101595310</journal-id><journal-id journal-id-type="publisher-id">CAM4</journal-id><journal-title-group><journal-title>Cancer Medicine</journal-title></journal-title-group><issn pub-type="epub">2045-7634</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC7050070</article-id><article-id pub-id-type="pmcid-ver">PMC7050070.1</article-id><article-id pub-id-type="pmcaid">7050070</article-id><article-id pub-id-type="pmcaiid">7050070</article-id><article-id pub-id-type="pmid">31943867</article-id><article-id pub-id-type="doi">10.1002/cam4.2839</article-id><article-id pub-id-type="publisher-id">CAM42839</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Cancer Biology</subject><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></subj-group></article-categories><title-group><article-title>Long noncoding RNA CASC9 promotes the proliferation and metastasis of papillary thyroid cancer via sponging miR‐488‐3p</article-title><alt-title alt-title-type="left-running-head">CHEN et al.</alt-title></title-group><contrib-group><contrib id="cam42839-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Chen</surname><given-names initials="Y">Yonghui</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-0179-2372</contrib-id><xref ref-type="aff" rid="cam42839-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="cam42839-aff-0002">
+<sup>2</sup>
+</xref><address><email>chenyufirst@sina.com</email><email>chenyonghui_c@sina.com</email></address></contrib><contrib id="cam42839-cr-0002" contrib-type="author"><name name-style="western"><surname>Li</surname><given-names initials="Y">Yaomei</given-names></name><xref ref-type="aff" rid="cam42839-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="cam42839-cr-0003" contrib-type="author"><name name-style="western"><surname>Gao</surname><given-names initials="H">Hongbo</given-names></name><xref ref-type="aff" rid="cam42839-aff-0004">
+<sup>4</sup>
+</xref></contrib></contrib-group><aff id="cam42839-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Nuclear Medicine</named-content>
+<named-content content-type="organisation-division">Peking Union Medical College Hospital</named-content>
+<institution>Chinese Academy of Medical Sciences and Peking Union Medical College</institution>
+<city>Beijing</city>
+<country country="CN">China</country>
+</aff><aff id="cam42839-aff-0002">
+<label><sup>2</sup></label>
+<institution>Beijing Key Laboratory of Molecular Targeted Diagnosis and Therapy in Nuclear Medicine</institution>
+<city>Beijing</city>
+<country country="CN">China</country>
+</aff><aff id="cam42839-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Department of Nuclear Medicine</named-content>
+<institution>The Mine Hospital of Xuzhou</institution>
+<city>Xuzhou</city>
+<country country="CN">China</country>
+</aff><aff id="cam42839-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Department of Radionuclide Treatment Center</named-content>
+<institution>Beijing Nuclear Industry Hospital</institution>
+<city>Beijing</city>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Yonghui Chen, Department of Nuclear Medicine, Peking Union Medical College Hospital, No. 1 Shuaifuyuan, Dongcheng District, Beijing 100730, China.<break/>
+Email: <email>chenyufirst@sina.com</email> or <email>chenyonghui_c@sina.com</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>13</day><month>1</month><year>2020</year></pub-date><pub-date pub-type="collection"><month>3</month><year>2020</year></pub-date><volume>9</volume><issue>5</issue><issue-id pub-id-type="pmc-issue-id">353515</issue-id><issue-id pub-id-type="doi">10.1002/cam4.v9.5</issue-id><fpage>1830</fpage><lpage>1841</lpage><history><date date-type="received"><day>08</day><month>10</month><year>2019</year></date><date date-type="rev-recd"><day>15</day><month>12</month><year>2019</year></date><date date-type="accepted"><day>24</day><month>12</month><year>2019</year></date></history><pub-history><event event-type="pmc-release"><date><day>13</day><month>01</month><year>2020</year></date></event><event event-type="pmc-live"><date><day>05</day><month>03</month><year>2020</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-02-07 17:25:15.753"><day>07</day><month>02</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2020 The Authors. <italic toggle="yes">Cancer Medicine</italic> published by John Wiley &amp; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="CAM4-9-1830.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:CAM4-9-1830.pdf"/><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="retraction-forward" xml:lang="en" xlink:title="retraction" vol="13" journal-id="Cancer Med" journal-id-type="nlm-ta" ext-link-type="pmc" xlink:href="PMC11465288"><article-title>
+<styled-content style="fixed-case" toggle="no">RETRACTION</styled-content>: Long noncoding <styled-content style="fixed-case" toggle="no">RNA CASC9</styled-content> promotes the proliferation and metastasis of papillary thyroid cancer via sponging <styled-content style="fixed-case" toggle="no">miR</styled-content>‐488‐3p</article-title><volume>13</volume><issue seq="80">19</issue><date><day>10</day><month>10</month><year>2024</year></date><elocation-id>e70302</elocation-id><source>Cancer Medicine</source><pub-id pub-id-type="doi">10.1002/cam4.70302</pub-id><pub-id pub-id-type="pmcid">PMC11465288</pub-id><pub-id pub-id-type="pmid">39387533</pub-id></related-article><abstract id="cam42839-abs-0001"><title>Abstract</title><p>Cancer susceptibility candidate 9 (CASC9) is a recently identified lncRNA that acted as a tumor promotor in diversified cancer types. However, its role in papillary thyroid cancer (PTC) remains unknown. The expression of CASC9 was measured in 52 human PTC tissues and PTC cell lines as well as their controls. The proliferation, migration, and invasion of PTC cells were determined after knockdown or overexpression of CASC9 to evaluate the effect of CASC9 on PTC cells. Also, the role of PTC tumorigenesis was confirmed in mice xenograft models. Additionally, the underlying mechanisms of CASC9 were further researched. We found that CASC9 expression was augmented in human PTC tissues and cells. Higher CASC9 expression was associated with large tumor size, advanced stage, or lymph node metastasis. Downregulation of CASC9 significantly attenuated the proliferative, migrative, and invasive abilities of PTC cells, and suppressed tumorigenesis in vivo. While overexpression of CASC9 elevated the proliferation, migration, and invasion of PTC cells. miR‐488‐3p expression was decreased, and ADAM9 level was increased in PTC tissues and cells. CASC9 expression was negatively related to miR‐488‐3p, but positively associated with ADAM9 expression in PTC tissues. Molecular mechanism analysis revealed that CASC9 functioned via sponging miR‐488‐3p to regulate ADAM9 expression, followed by activation of EGFR‐Akt signaling. In conclusion, lncRNA CASC9 promoted the malignant phenotypes of PTC via modulating miR‐488‐3p/ADAM9 pathway. This study may provide a novel therapeutic target for the treatment of PTC.</p></abstract><abstract abstract-type="graphical" id="cam42839-abs-0002"><p>LncRNA CASC9 promoted the malignant phenotypes of PTC via modulating miR‐488‐3p/ADAM9 pathway. This study may provide a novel therapeutic target for the treatment of PTC.<boxed-text position="anchor" content-type="graphic" id="cam42839-blkfxd-0001" orientation="portrait"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="nlm-graphic-1" orientation="portrait" xlink:href="CAM4-9-1830-g008.jpg"/></boxed-text>
+</p></abstract><kwd-group><kwd id="cam42839-kwd-0001">long noncoding RNA CASC9</kwd><kwd id="cam42839-kwd-0002">metastasis</kwd><kwd id="cam42839-kwd-0003">miR‐488‐3p/ADAM9</kwd><kwd id="cam42839-kwd-0004">papillary thyroid cancer</kwd><kwd id="cam42839-kwd-0005">proliferation</kwd></kwd-group><counts><fig-count count="7"/><table-count count="1"/><page-count count="12"/><word-count count="6065"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>March 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.6.1 mode:remove_FC converted:02.03.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="cam42839-cit-1001">
+<string-name name-style="western">
+<surname>Chen</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gao</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Long noncoding RNA CASC9 promotes the proliferation and metastasis of papillary thyroid cancer via sponging miR‐488‐3p</article-title>. <source xml:lang="en">Cancer Med</source>. <year>2020</year>;<volume>9</volume>:<fpage>1830</fpage>–<lpage>1841</lpage>. <pub-id pub-id-type="doi">10.1002/cam4.2839</pub-id>
+<pub-id pub-id-type="pmcid">PMC7050070</pub-id><pub-id pub-id-type="pmid">31943867</pub-id><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="retraction-forward" ext-link-type="pmc" xlink:href="PMC11465288"/></mixed-citation>
+</p><fn-group id="cam42839-ntgp-0001"><fn fn-type="equal" id="cam42839-note-0001"><p>Yonghui Chen and Yaomei Li Contributed equally</p></fn></fn-group></notes></front><body id="cam42839-body-0001"><sec id="cam42839-sec-0001"><label>1</label><title>INTRODUCTION</title><p>Thyroid cancer is the most frequent endocrine malignancy. Its incidence is increasing all over the world. About 567 000 new cases were reported worldwide both in men and women in 2018.<xref rid="cam42839-bib-0001" ref-type="ref">1</xref> Thyroid cancer mostly occurs in women and the global incidence in women is three times higher than in men.<xref rid="cam42839-bib-0001" ref-type="ref">1</xref> Although the diagnosis and treatment approaches have improved greatly, mortality rates from thyroid cancer have changed minimally.<xref rid="cam42839-bib-0001" ref-type="ref">1</xref>, <xref rid="cam42839-bib-0002" ref-type="ref">2</xref> Papillary thyroid cancer (PTC) is the major subtype of this cancer, accounting for over 80% of all thyroid cancer.<xref rid="cam42839-bib-0003" ref-type="ref">3</xref>, <xref rid="cam42839-bib-0004" ref-type="ref">4</xref> Patients with PTC carried a relatively favorable prognosis; however, a certain part of PTC patients suffered from metastasis to lymph nodes and lungs, leading to the poor clinical outcomes.<xref rid="cam42839-bib-0002" ref-type="ref">2</xref>, <xref rid="cam42839-bib-0005" ref-type="ref">5</xref>, <xref rid="cam42839-bib-0006" ref-type="ref">6</xref>, <xref rid="cam42839-bib-0007" ref-type="ref">7</xref> Studies have demonstrated that genetic and epigenetic alterations play important roles in the development of PTC.<xref rid="cam42839-bib-0008" ref-type="ref">8</xref>, <xref rid="cam42839-bib-0009" ref-type="ref">9</xref> However, the underlying molecular mechanisms remain poorly characterized. Therefore, clarifying the mechanisms associated with the pathogenesis of PTC may help to improve the therapeutic strategies for this cancer.</p><p>Long noncoding RNAs (lncRNAs) are one important member of noncoding RNAs. They are longer than 200 nucleotides that have limited protein‐coding functions. Accumulating evidences indicated that lncRNAs display diverse roles in modulating gene transcription, posttranscription, translation, and epigenetic regulation.<xref rid="cam42839-bib-0010" ref-type="ref">10</xref>, <xref rid="cam42839-bib-0011" ref-type="ref">11</xref> LncRNAs are abnormally expressed or dysregulated to mediate multiple human diseases, including cancers.<xref rid="cam42839-bib-0011" ref-type="ref">11</xref>, <xref rid="cam42839-bib-0012" ref-type="ref">12</xref>, <xref rid="cam42839-bib-0013" ref-type="ref">13</xref>, <xref rid="cam42839-bib-0014" ref-type="ref">14</xref> LncRNAs have been demonstrated to participate in the development of PTC. For example, lncRNA ABHD11‐AS1 was elevated in PTC, and it augmented the proliferation, migration, and invasion, and suppressed apoptosis of PTC cells by miR‐199a‐5p/SLC1A5 axis.<xref rid="cam42839-bib-0015" ref-type="ref">15</xref> The expression of lncRNA <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="AB074169">AB074169</ext-link> was decreased in PTC, and overexpression of <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="AB074169">AB074169</ext-link> caused cell cycle arrest and inhibited tumor growth.<xref rid="cam42839-bib-0016" ref-type="ref">16</xref> LncRNA <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="AB074169">AB074169</ext-link> acted as a tumor suppressor in PTC via modulating KHSRP‐mediated CDKN1a expression.<xref rid="cam42839-bib-0016" ref-type="ref">16</xref>
+</p><p>Cancer susceptibility candidate 9 (CASC9) is located on human chromosome 8q21.11.<xref rid="cam42839-bib-0017" ref-type="ref">17</xref> It was originally identified as a lncRNA related to esophageal squamous cell carcinoma (ESCC).<xref rid="cam42839-bib-0017" ref-type="ref">17</xref> CASC9 expression was increased in ESCC clinical samples and cells. Downregulation of CASC9 inhibited migration and invasion of ESCC cells.<xref rid="cam42839-bib-0017" ref-type="ref">17</xref> Subsequently, the roles of CASC9 in other cancer types were demonstrated. Studies have found that CASC9 expression was elevated in breast cancer,<xref rid="cam42839-bib-0018" ref-type="ref">18</xref> colorectal cancer,<xref rid="cam42839-bib-0019" ref-type="ref">19</xref> oral squamous cell carcinoma,<xref rid="cam42839-bib-0020" ref-type="ref">20</xref> ovarian cancer,<xref rid="cam42839-bib-0021" ref-type="ref">21</xref> lung adenocarcinoma,<xref rid="cam42839-bib-0022" ref-type="ref">22</xref> gastric cancer,<xref rid="cam42839-bib-0023" ref-type="ref">23</xref> and glioma,<xref rid="cam42839-bib-0024" ref-type="ref">24</xref> and CASC9 functioned as a tumor promotor in these cancers. However, the expression pattern and role of CASC9 in PTC remain unrevealed. In the current study, the expression of CASC9 was examined in human PTC tissues and cell lines. Additionally, the role and mechanism of CASC9 in PTC were investigated by loss‐of‐function assays both in vitro and in xenograft mice models.</p></sec><sec sec-type="materials-and-methods" id="cam42839-sec-0002"><label>2</label><title>MATERIALS AND METHODS</title><sec id="cam42839-sec-0003"><label>2.1</label><title>Human tissue collection</title><p>A total of 52 pairs of PTC and adjacent normal thyroid tissues (&gt;3 cm from tumor borders) were obtained from patients who underwent thyroidectomies at Peking Union Medical College Hospital and The Mine Hospital of Xuzhou, from December 2016 to May 2018. All patients did not receive any local or systemic treatments before surgery. After confirming by two pathologists independently, collected fresh tissue samples were frozen in liquid nitrogen. All patients enrolled signed informed consent. This experiment was approved by the Research Ethics Committee of Peking Union Medical College Hospital.</p></sec><sec id="cam42839-sec-0004"><label>2.2</label><title>Cell culture and transfection</title><p>Normal human thyroid cell line, Nthy‐ori3‐1, and two human PTC cell lines (TPC‐1 and BCPAP) were used in this study and they were purchased from Shanghai Huiying biological technology co., Ltd. TPC‐1 and Nthy‐ori3‐1 cells were cultured in RPMI‐1640 medium, and BCPAP cells were maintained in Dulbecco's Modified Eagle's medium. Both cell culture medium contains 10% fetal bovine serum (FBS) and 1% penicillin/streptomycin. These cells were grown in a cell incubator with 5% CO<sub>2</sub> at 37°C.</p><p>The CASC9 interfering plasmid pLVX‐CASC9‐short hairpin RNA (CASC9 shRNA) was constructed (Target sequence 5'‐GCCCAGAAGACAGTGGAATGA‐3') to downregulate CASC9 expression. And, a scrambled sequence was inserted into pLVX‐shRNA1 plasmid, which was used as the control. CASC9 and ADAM9 overexpression plasmid pcDNA3.1‐CASC9 and pcDNA3.1‐ADAM9 were used to upregulate CASC9 and ADAM9 expression, respectively. miR‐488‐3p mimic, miR‐488‐3p antagomir (anti‐miR‐488‐3p), and their controls were purchased from GenePharma. Both PTC cell lines were transfected with the above vectors using Lipofectamine 3000 reagent (Invitrogen) following the manufacturer's instructions.</p></sec><sec id="cam42839-sec-0005"><label>2.3</label><title>Cell proliferation analysis</title><p>The proliferation of TPC‐1 and BCPAP cells was analyzed by Cell counting kit‐8 (CCK‐8; Beyotime). Briefly, these cells were transfected with designated vectors for 24 hours and then reseeded into 96‐well plates at a density of 4 × 10<sup>3</sup> cells/well (a total of 100 μL). Cell proliferation ability was evaluated at different time points (0, 24, 48, and 72 hours) after planting by adding 10‐μL CCK‐8 solution. After culturing at 37°C for 30 minutes, a Microplate Reader (Bio‐Rad) was used to determine the absorbance at 450 nm.</p></sec><sec id="cam42839-sec-0006"><label>2.4</label><title>Wound healing assay</title><p>Transfected PTC cells were seeded into 6‐well plates at 3 × 10<sup>5</sup> cells/well until approximately 90% confluent. A scratch was made using a 200‐µL sterile pipette tip, and phosphate buffered saline (PBS) was used to wash the cells. Subsequently, cells were cultured in serum‐free medium for another 24 hours, the widths of the scratches were imaged under a microscope, and calculated using ImageJ software.</p></sec><sec id="cam42839-sec-0007"><label>2.5</label><title>Transwell assay for cell invasion</title><p>After 24 hours transfection, 24‐well Transwell chambers (8‐μm pores; Millipore) with Matrigel (BD) were utilized to perform transwell invasion assay. TPC‐1 and BCPAP cells, which were in serum‐free medium, were planted in the apical chamber. The basolateral chamber was imbued with 600‐μL culture medium containing 20% FBS. These cells were maintained at 37°C for another 24 hours. Cells, which did not traverse the filter, were wiped off using a cotton swab, and cells on the underside of the membrane were fixed with 4% formaldehyde, stained with 0.1% crystal violet, and photographed with a light microscope. The experiments were carried out independently in triplicate.</p></sec><sec id="cam42839-sec-0008"><label>2.6</label><title>Bioinformatic analysis and dual‐luciferase reporter assay</title><p>Bioinformatic analysis using Starbase showed that both CASC9 and ADAM9 possess the binding sites of miR‐488‐3p. CASC9 cDNA was amplified from human PTC tissues and inserted into pGL3 plasmid. Also, the mutant miR‐488‐3p‐binding sequence was introduced to construct the CASC9 mutant plasmid. TPC‐1 cells were seeded into 48‐well plates, followed by incubation for 24 hours. Then, cells were transfected with CASC9‐WT or CASC9‐MUT plasmid in combination with miR‐488‐3p/control mimic using Lipofectamine 3000. After transfection for 48 hours, the relative luciferase activity of each well was analyzed by a Dual‐Luciferase Assay Kit (Promega).</p></sec><sec id="cam42839-sec-0009"><label>2.7</label><title>RNA immunoprecipitation assay</title><p>In BCPAP cells, an RNA immunoprecipitation (RIP) assay was developed using an EZ‐Magna RIP RNA‐Binding Protein Immunoprecipitation Kit (Millipore) with anti‐human Ago2 antibody as previously described.<xref rid="cam42839-bib-0025" ref-type="ref">25</xref> The precipitated RNAs were isolated to determine the expression of CASC9 and ADAM9 using real‐time PCR analysis.</p></sec><sec id="cam42839-sec-0010"><label>2.8</label><title>Mouse xenograft model</title><p>Twelve female BALB/c nude mice (5‐ to 6‐week‐old) were obtained from Beijing Vital River Laboratory Animal Technology Co., Ltd and housed under specific pathogen‐free conditions. All animal procedures were approved by the Animal Care Committee of Peking Union Medical College Hospital. Mice were randomly divided into two groups, and each group contains six mice. For xenograft models, 1 × 10<sup>7</sup> BCPAP cells stably transfected with CASC9 shRNA or negative control were subcutaneously injected into the back flanks of mice. The tumor volume was determined every 5 days using the following formula: (Length × Width<sup>2</sup>)/2. All mice were executed 30 days after implantation. Tumors were collected for further study.</p></sec><sec id="cam42839-sec-0011"><label>2.9</label><title>Real‐time PCR</title><p>Trizol reagent (Invitrogen) was used to extract total RNAs from tissues and cultured cells. To analyze the expression of CASC9 and ADAM9, 2‐μg total RNA was used for reverse transcription reaction by M‐MLV Reverse Transcriptase (Promega), followed by Real‐time PCR analysis with SYBR Green Real‐time Master Mix (Toyobo). CASC9 and ADAM9 expression levels were measured using the 2<sup>−ΔΔCt</sup> method normalized to GAPDH. To detect miR‐488‐3p expression, TaqMan MiRNA Reverse Transcription Kit and TaqMan Human MiRNA Assay Kit (Applied Biosystems) were used as the instructions. miR‐488‐3p expression was measured with normalization to U6 snRNA.</p></sec><sec id="cam42839-sec-0012"><label>2.10</label><title>Western blot</title><p>Proteins were extracted from tissues and cells with RIPA lysis buffer (Beyotime) including cocktail, a protease inhibitor. Protein concentrations were examined by a protein assay kit (Bio‐Rad). Thirty microgram of protein was separated by SDS‐PAGE. After that, the protein was electroblotted onto PVDF membranes (Millipore). The membrane was immunoblotted with primary antibodies against ADAM9, epidermal growth factor receptor (EGFR), p‐EGFR, Akt, p‐Akt, and GAPDH (both from Abcam) overnight at 4°C. After washing with PBS‐Tween 20 (PBST), the membrane was incubated with HRP‐labeled secondary antibody for 1 hour. Signals were developed with ECL detection reagent (Thermo Fisher). The relative expression level of ADAM9 was calculated by ImageJ software with normalization to GAPDH.</p></sec><sec id="cam42839-sec-0013"><label>2.11</label><title>Statistical analysis</title><p>All in vitro experiments were performed in triplicates independently. Results are presented as mean ± SD. Statistical analyses between groups were performed by Student's <italic toggle="yes">t</italic> test or Mann‐Whitney <italic toggle="yes">U</italic> test. Differences more than two groups were analyzed by one‐way ANOVA followed by Bonferroni post hoc test. Chi‐squared test was used to assay the relationship between CASC9 and patients’ clinicopathological characteristics. The correlation between CASC9 and miR‐488‐3p or ADAM9 in PTC tissues was measured by Pearson's correlation analysis. Data analysis was handled with SPSS19.0 software. Values were considered significant at <italic toggle="yes">P</italic> &lt; .05.</p></sec></sec><sec sec-type="results" id="cam42839-sec-0014"><label>3</label><title>RESULTS</title><sec id="cam42839-sec-0015"><label>3.1</label><title>CASC9 expression is elevated in PTC tissues and cell lines</title><p>We firstly measured the expression of CASC9 in 52 PTC tissues by real‐time PCR. The results showed that CASC9 expression was higher in PTC tissues than that in adjacent normal thyroid tissues (Figure <xref rid="cam42839-fig-0001" ref-type="fig">1</xref>A). The involvement between CASC9 and clinicopathological parameters was further analyzed. We found that higher CASC9 expression was related to large tumor size, advanced stage, or lymph node metastasis. No significant correlation was noted between CASC9 expression and other clinical features, including age, gender, or multifocality (Table <xref rid="cam42839-tbl-0001" ref-type="table">1</xref>). Then, CASC9 expression was detected in two human PTC cell lines. As shown in Figure <xref rid="cam42839-fig-0001" ref-type="fig">1</xref>B, CASC9 expression was higher in TPC‐1 and BCPAP PTC cells than that in normal human thyroid Nthy‐ori3‐1 cells.</p><fig fig-type="Figure" xml:lang="en" id="cam42839-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Cancer susceptibility candidate 9 (CASC9) expression was elevated in papillary thyroid cancer (PTC) tissues and cell lines. (A) The expression of CASC9 in 52 PTC tissues and adjacent normal tissues was analyzed by real‐time PCR. B, CASC9 level in normal human thyroid cell line Nthy‐ori3‐1 and two human PTC cell lines (TPC‐1 and BCPAP). *<italic toggle="yes">P</italic> &lt; .05 vs the normal group or Nthy‐ori3‐1 cells</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-3" position="float" orientation="portrait" xlink:href="CAM4-9-1830-g001.jpg"/></fig><table-wrap id="cam42839-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Correlation between Cancer susceptibility candidate 9 (CASC9) expression and clinicopathological characteristics of 52 PTC patients</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="bottom" colspan="1">Characteristics</th><th align="left" rowspan="2" valign="bottom" colspan="1">Number</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">CASC9 expression</th><th align="left" rowspan="2" valign="bottom" colspan="1">
+<italic toggle="yes">P</italic>
+</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Low (n = 26)</th><th align="left" valign="bottom" rowspan="1" colspan="1">High (n = 26)</th></tr></thead><tbody><tr><td align="left" colspan="5" rowspan="1">Age</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&lt;45</td><td align="char" char="." rowspan="1" colspan="1">31</td><td align="char" char="." rowspan="1" colspan="1">18</td><td align="char" char="." rowspan="1" colspan="1">13</td><td align="char" char="." rowspan="2" colspan="1">.158</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">≥45</td><td align="char" char="." rowspan="1" colspan="1">21</td><td align="char" char="." rowspan="1" colspan="1">8</td><td align="char" char="." rowspan="1" colspan="1">13</td></tr><tr><td align="left" colspan="5" rowspan="1">Gender</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Male</td><td align="char" char="." rowspan="1" colspan="1">17</td><td align="char" char="." rowspan="1" colspan="1">7</td><td align="char" char="." rowspan="1" colspan="1">10</td><td align="char" char="." rowspan="2" colspan="1">.375</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Female</td><td align="char" char="." rowspan="1" colspan="1">35</td><td align="char" char="." rowspan="1" colspan="1">19</td><td align="char" char="." rowspan="1" colspan="1">16</td></tr><tr><td align="left" colspan="5" rowspan="1">Tumor size</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&lt;2 cm</td><td align="char" char="." rowspan="1" colspan="1">23</td><td align="char" char="." rowspan="1" colspan="1">16</td><td align="char" char="." rowspan="1" colspan="1">7</td><td align="char" char="." rowspan="2" colspan="1">.012<xref ref-type="fn" rid="cam42839-note-0003">*</xref>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">≥2 cm</td><td align="char" char="." rowspan="1" colspan="1">29</td><td align="char" char="." rowspan="1" colspan="1">10</td><td align="char" char="." rowspan="1" colspan="1">19</td></tr><tr><td align="left" colspan="5" rowspan="1">Multifocality</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Present</td><td align="char" char="." rowspan="1" colspan="1">27</td><td align="char" char="." rowspan="1" colspan="1">12</td><td align="char" char="." rowspan="1" colspan="1">15</td><td align="char" char="." rowspan="2" colspan="1">.405</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Absent</td><td align="char" char="." rowspan="1" colspan="1">25</td><td align="char" char="." rowspan="1" colspan="1">14</td><td align="char" char="." rowspan="1" colspan="1">11</td></tr><tr><td align="left" colspan="5" rowspan="1">Lymph node metastasis</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Negative</td><td align="char" char="." rowspan="1" colspan="1">22</td><td align="char" char="." rowspan="1" colspan="1">16</td><td align="char" char="." rowspan="1" colspan="1">6</td><td align="char" char="." rowspan="2" colspan="1">.005<xref ref-type="fn" rid="cam42839-note-0003">*</xref>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Positive</td><td align="char" char="." rowspan="1" colspan="1">30</td><td align="char" char="." rowspan="1" colspan="1">10</td><td align="char" char="." rowspan="1" colspan="1">20</td></tr><tr><td align="left" colspan="5" rowspan="1">TNM stage</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">I/II</td><td align="char" char="." rowspan="1" colspan="1">33</td><td align="char" char="." rowspan="1" colspan="1">21</td><td align="char" char="." rowspan="1" colspan="1">12</td><td align="char" char="." rowspan="2" colspan="1">.01<xref ref-type="fn" rid="cam42839-note-0003">*</xref>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">III/IV</td><td align="char" char="." rowspan="1" colspan="1">19</td><td align="char" char="." rowspan="1" colspan="1">5</td><td align="char" char="." rowspan="1" colspan="1">14</td></tr></tbody></table><table-wrap-foot id="cam42839-ntgp-0002"><title>Note</title><fn id="cam42839-note-0002"><p>Chi‐squared test.</p></fn><fn id="cam42839-note-0010"><p>TNM, Tumor Node Metastasis</p></fn><fn id="cam42839-note-0003"><label>*</label><p>
+<italic toggle="yes">P</italic> &lt; .05.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="cam42839-sec-0016"><label>3.2</label><title>CASC9 promotes the proliferation, migration, and invasion of PTC cells</title><p>The role of CASC9 in PTC was analyzed by downregulation or overexpression of CASC9. As shown in Figure <xref rid="cam42839-fig-0002" ref-type="fig">2</xref>A, the CASC9 shRNA notably decreased CASC9 expression, whereas pcDNA3.1‐CASC9 significantly elevated CASC9 expression. CCK‐8 analysis displayed that knockdown of CASC9 reduced the proliferation of TPC‐1 and BCPAP cells (Figure <xref rid="cam42839-fig-0002" ref-type="fig">2</xref>B). The migratory abilities of PTC cells were suppressed after downregulation of CASC9, which was revealed by a wounding healing assay (Figure <xref rid="cam42839-fig-0002" ref-type="fig">2</xref>C). Transwell assay was conducted to measure the influence of CASC9 on the invasion of PTC cells. Results demonstrated that compared with cells transfected with control shRNA, the number of invasive cells transfected with CASC9 shRNA was decreased (Figure <xref rid="cam42839-fig-0002" ref-type="fig">2</xref>D). The results also showed that overexpression of CASC9 facilitated the proliferation, migration, and invasion of TPC‐1 and BCPAP cells (Figure <xref rid="cam42839-fig-0002" ref-type="fig">2</xref>B‐D). Herein, the data indicated that CASC9 could promote the proliferation, migration, and invasion of PTC cells.</p><fig fig-type="Figure" xml:lang="en" id="cam42839-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Cancer susceptibility candidate 9 (CASC9) promotes the proliferation, migration, and invasion of papillary thyroid cancer cells. A, CASC9 expression was reduced in TPC‐1 and BCPAP cells transfected with sh‐CASC9, but increased in cells transfected with pcDNA3.1‐CASC9. B, TPC‐1 and BCPAP cells were transfected with sh‐NC/sh‐CASC9 or pcDNA3.1/pcDNA3.1‐CASC9, cell viability was analyzed by CCK‐8 assay. C, The migratory abilities of TPC‐1 and BCPAP cells were determined using wounding healing assay. D, Transwell analysis for the invasion of TPC‐1 and BCPAP cells. *<italic toggle="yes">P</italic> &lt; .05 vs the sh‐NC group, <sup>#</sup>
+<italic toggle="yes">P</italic> &lt; .05 vs the pcDNA3.1 group</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-5" position="float" orientation="portrait" xlink:href="CAM4-9-1830-g002.jpg"/></fig></sec><sec id="cam42839-sec-0017"><label>3.3</label><title>CASC9 directly binds to and modulates miR‐488‐3p in PTC cells</title><p>Next, the mechanism of CASC9 was determined. The target prediction tool Starbase showed that CASC9 has the potential binding sites for miR‐488‐3p. The putative binding sequence was revealed in Figure <xref rid="cam42839-fig-0003" ref-type="fig">3</xref>A. Their relationship was further confirmed and we found that miR‐488‐3p mimic dramatically suppressed the luciferase activity of CASC9‐WT, but not the luciferase activity of CASC9‐MUT compared to the control mimic (Figure <xref rid="cam42839-fig-0003" ref-type="fig">3</xref>B). We also found that miR‐488‐3p expression was remarkably enhanced in TPC‐1 and BCPAP cells with CASC9 knockdown (Figure <xref rid="cam42839-fig-0003" ref-type="fig">3</xref>C). Moreover, miR‐488‐3p expression was decreased in human PTC tissues compared to matched para‐cancerous tissues (Figure <xref rid="cam42839-fig-0003" ref-type="fig">3</xref>D). Importantly, we found that a negative relationship existed between CASC9 and miR‐488‐3p in tumor tissues (Figure <xref rid="cam42839-fig-0003" ref-type="fig">3</xref>E). Also, miR‐488‐3p expression was decreased in PTC cells compared with Nthy‐ori3‐1 cells (Figure <xref rid="cam42839-fig-0003" ref-type="fig">3</xref>F). These results indicated that CASC9 may function by sponging miR‐488‐3p.</p><fig fig-type="Figure" xml:lang="en" id="cam42839-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Cancer susceptibility candidate 9 (CASC9) directly binds to and regulates miR‐488‐3p in papillary thyroid cancer (PTC). A, The binding sites of CASC9 and ADAM9 with miR‐488‐3p. B, miR‐488‐3p mimic suppressed the luciferase activity of CASC9 wild‐type vector in TPC‐1 cells. C, TPC‐1 and BCPAP cells were transfected with sh‐NC or sh‐CASC9, and miR‐488‐3p expression was detected by real‐time PCR. D, The expression of miR‐488‐3p was decreased in 52 PTC tissues compared with that in adjacent normal tissues. E, Pearson's correlation analysis for the correlation between CASC9 and miR‐488‐3p in 52 PTC tissues. F, miR‐488‐3p expression in Nthy‐ori3‐1 normal thyroid cells and PTC cells. *<italic toggle="yes">P</italic> &lt; .05 vs the NC mimic group, <sup>#</sup>
+<italic toggle="yes">P</italic> &lt; .05 vs the sh‐NC group, <sup>&amp;</sup>
+<italic toggle="yes">P</italic> &lt; .05 vs the normal group or Nthy‐ori3‐1 cells</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-7" position="float" orientation="portrait" xlink:href="CAM4-9-1830-g003.jpg"/></fig></sec><sec id="cam42839-sec-0018"><label>3.4</label><title>CASC9 functions via mediating miR‐488‐3p in PTC cells</title><p>The role of miR‐488‐3p in PTC cells was analyzed. As shown in Figure <xref rid="cam42839-fig-0004" ref-type="fig">4</xref>, miR‐488‐3p mimic inhibited the proliferation, migration, and invasion of TPC‐1 and BCPAP cells. Contrarily, anti‐miR‐488‐3p promoted these features of PTC cells (Figure <xref rid="cam42839-fig-0004" ref-type="fig">4</xref>). These data indicated that miR‐488‐3p could attenuate the proliferation, migration, and invasion of PTC cells.</p><fig fig-type="Figure" xml:lang="en" id="cam42839-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>miR‐488‐3p inhibits the proliferation, migration, and invasion of papillary thyroid cancer cells. TPC‐1 and BCPAP cells were transfected with miR‐488‐3p mimic, anti‐miR‐488‐3p, or their controls. A, Cell viability was examined by CCK‐8. B, The migration of cells was measured by wounding healing assay. C, Cell invasion ability was detected by transwell. *<italic toggle="yes">P</italic> &lt; .05 vs the NC mimic group, <sup>#</sup>
+<italic toggle="yes">P</italic> &lt; .05 vs the anti‐NC group</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-9" position="float" orientation="portrait" xlink:href="CAM4-9-1830-g004.jpg"/></fig><p>We further investigated whether CASC9 functions via mediating miR‐488‐3p. The results demonstrated that the effects of CASC9 silencing on the proliferation, migration, and invasion of TPC‐1 and BCPAP cells were abrogated by anti‐miR‐488‐3p. However, miR‐488‐3p mimic further strengthened the effect of CASC9 downregulation (Figure <xref rid="cam42839-fig-0005" ref-type="fig">5</xref>). In summary, these results suggested that CASC9 facilitated the proliferation, migration, and invasion of PTC cells by negatively regulating miR‐488‐3p in PTC cells.</p><fig fig-type="Figure" xml:lang="en" id="cam42839-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Cancer susceptibility candidate 9 (CASC9) functions via negatively regulating miR‐488‐3p. TPC‐1 and BCPAP cells were transfected with sh‐CASC9 and miR‐488‐3p mimic/anti‐miR‐488‐3p or transfected with sh‐NC/sh‐CASC9 only. A, CCK‐8 was used to assay cell viability. B, Wounding healing analysis for cell migration. C, The invasion of these cells under different treatment was determined by transwell. *<italic toggle="yes">P</italic> &lt; .05 vs the sh‐NC group, <sup>#</sup>
+<italic toggle="yes">P</italic> &lt; .05 vs the sh‐CASC9 group</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-11" position="float" orientation="portrait" xlink:href="CAM4-9-1830-g005.jpg"/></fig></sec><sec id="cam42839-sec-0019"><label>3.5</label><title>CASC9 regulates ADAM9‐EGFR‐Akt signaling by sponging miR‐488‐3p</title><p>This study has shown that miR‐488‐3p could regulate ADAM9 expression.<xref rid="cam42839-bib-0026" ref-type="ref">26</xref> ADAM9 has been found to be responsible for the migration and invasion of thyroid cancer.<xref rid="cam42839-bib-0027" ref-type="ref">27</xref> Hence, we further verified the relationship between CASC9 and ADAM9 in PTC. ADAM9 expression was higher in PTC tissues and cells than their controls (Figure <xref rid="cam42839-fig-0006" ref-type="fig">6</xref>A,B). There was a positive association between CASC9 and ADAM9 in PTC samples (Figure <xref rid="cam42839-fig-0006" ref-type="fig">6</xref>C). An RIP assay with anti‐Ago2 antibody revealed that the enrichment of Ago2 on CASC9 was decreased, but enrichment on ADAM9 was elevated after CASC9 downregulation (Figure <xref rid="cam42839-fig-0006" ref-type="fig">6</xref>D). Furthermore, miR‐488‐3p mimic notably decreased ADAM9 expression both in TPC‐1 and BCPAP cells. Knockdown of CASC9 reduced ADAM9 expression, which was attenuated by anti‐miR‐488‐3p, but further strengthened by miR‐488‐3p mimic (Figure <xref rid="cam42839-fig-0006" ref-type="fig">6</xref>E,F). Also, both CASC9 knockdown and miR‐488‐3p mimic could suppress the activation of EGFR and Akt, as demonstrated by deceased phosphorylation of EGFR and Akt. The influences of CASC9 shRNA on the activation of EGFR and Akt were restored by anti‐miR‐488‐3p, whereas enhanced by miR‐488‐3p mimic (Figure <xref rid="cam42839-fig-0006" ref-type="fig">6</xref>F). In addition, the suppressed proliferation, migration, and invasion of PTC cells by CASC9 silencing were attenuated by ADAM9 upregulation (Figure <xref rid="cam42839-fig-0006" ref-type="fig">6</xref>G‐I). These results demonstrated that CASC9 functioned in PTC cells via regulating ADAM9 expression by sponging miR‐488‐3p.</p><fig fig-type="Figure" xml:lang="en" id="cam42839-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>Cancer susceptibility candidate 9 (CASC9) regulates ADAM9 expression by sponging miR‐488‐3p in papillary thyroid cancer (PTC). A, ADAM9 expression was detected by real‐time PCR in 52 human PTC tissues and adjacent normal tissues. B, ADAM9 expression was determined in Nthy‐ori3‐1, TPC‐1, and BCPAP cells. C, The correlation between ADAM9 and CASC9 in 52 PTC tissues. D, BCPAP cells were transfected with sh‐NC or sh‐CASC9 for 72 h, an RIP assay with anti‐Ago2 antibody was performed, and the levels of CASC9 and ADAM9 enrichment on Ago2 were analyzed. E, The mRNA levels of ADAM9 were detected in TPC‐1 and BCPAP cells under different treatments. F, Protein levels of ADAM9, p‐EGFR, EGFR, p‐Akt, and Akt in TPC‐1 and BCPAP cells were determined by western blot. G, PTC cells were transfected with sh‐CASC9 with or without ADAM9, cell viability was determined by CCK‐8. H, The migration of TPC‐1 and BCPAP cells was measured by wounding healing analysis. I, transwell assay for the invasion of TPC‐1 and BCPAP cells. *<italic toggle="yes">P</italic> &lt; .05 vs the normal group, Nthy‐ori3‐1 cells, or NC mimic group, <sup>#</sup>
+<italic toggle="yes">P</italic> &lt; .05 vs the sh‐NC group, <sup>&amp;</sup>
+<italic toggle="yes">P</italic> &lt; .05 vs the sh‐CASC9 group</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-13" position="float" orientation="portrait" xlink:href="CAM4-9-1830-g006.jpg"/></fig></sec><sec id="cam42839-sec-0020"><label>3.6</label><title>CASC9 downregulation decreases tumor growth in vivo that is related to miR‐488‐3p/ADAM9 axis</title><p>The effect of CASC9 on PTC was validated in xenograft mouse models. CASC9 shRNA significantly reduced CASC9 expression in mice tumor tissues (Figure <xref rid="cam42839-fig-0007" ref-type="fig">7</xref>A). Tumor volume was notably reduced in the CASC9 shRNA group compared to the control (Figure <xref rid="cam42839-fig-0007" ref-type="fig">7</xref>B). As excepted, downregulation of CASC9 significantly reduced tumor weight (Figure <xref rid="cam42839-fig-0007" ref-type="fig">7</xref>C). The expression of miR‐488‐3p was elevated, while ADAM9 level was decreased in tumor tissues from mice transfected with CASC9 shRNA compared with the control shRNA (Figure <xref rid="cam42839-fig-0007" ref-type="fig">7</xref>D,E). These data indicated that CASC9 knockdown decreased tumor growth in mice, which was associated with miR‐488‐3p/ADAM9 pathway.</p><fig fig-type="Figure" xml:lang="en" id="cam42839-fig-0007" orientation="portrait" position="float"><label>Figure 7</label><caption><p>Cancer susceptibility candidate 9 (CASC9) downregulation decreases tumor growth in vivo through miR‐488‐3p/ADAM9 axis. BCPAP cells stably transfected with CASC9 shRNA or negative control were subcutaneously injected into the back flanks of BALB/c nude mice. Mice were sacrificed 30 d after implantation. A, CASC9 expression in tumor tissues was analyzed by real‐time PCR. B, Tumor volume was determined every 5 d after injection. C, Tumor weight was measured after sacrificed. The expression of miR‐488‐3p (D) and ADAM9 (E) was detected in mice tumor tissues. N = 6 per group. *<italic toggle="yes">P</italic> &lt; .05 vs the sh‐NC group</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-15" position="float" orientation="portrait" xlink:href="CAM4-9-1830-g007.jpg"/></fig></sec></sec><sec sec-type="discussion" id="cam42839-sec-0021"><label>4</label><title>DISCUSSION</title><p>Increasing studies have shown that lncRNAs participate in the initiation and progression of cancers, including PTC.<xref rid="cam42839-bib-0011" ref-type="ref">11</xref>, <xref rid="cam42839-bib-0028" ref-type="ref">28</xref>, <xref rid="cam42839-bib-0029" ref-type="ref">29</xref> In this study, we found that CASC9 expression was elevated in human PTC tissues and cells. It facilitated the proliferation and metastasis of PTC via modulating miR‐488‐3p/ADAM9/EGFR‐Akt axis.</p><p>In recent years, the studies of CASC9 are drawing more and more attention in cancers. Wu et al<xref rid="cam42839-bib-0030" ref-type="ref">30</xref> showed that CASC9 expression was increased in ESCC tissues. Its expression was positively involved in tumor size and TNM stage, and its high level predicted poor overall survival of patients with ESCC. Interfering CASC9 suppressed ESCC cell growth and blocked cell cycle G1/S transition in vitro, as well as inhibited tumorigenesis in nude mice.<xref rid="cam42839-bib-0030" ref-type="ref">30</xref> It functioned via suppressing PDCD4 expression by recruiting enhancer of zeste homolog 2 and subsequently altering H3K27me3 level in PDCD4 promoter.<xref rid="cam42839-bib-0030" ref-type="ref">30</xref> CASC9 also facilitated ESCC metastasis via elevating LAMC2 expression by regulating CREB‐binding protein‐mediated histone acetylation.<xref rid="cam42839-bib-0031" ref-type="ref">31</xref> The expression of CASC9 was increased in ovarian cancer tissues and cells and an enhanced level predicted an unfavorable prognosis in ovarian cancer patients. CASC9 accelerated ovarian cancer cell proliferation, invasion, and migration via acting as a competing endogenous RNA (ceRNA) for miR‐758‐3p to modulate LIN7A expression.<xref rid="cam42839-bib-0021" ref-type="ref">21</xref> CASC9 enhanced breast cancer cell proliferation and metastasis through positively regulating CHK1 via sponging the miR‑195/497 cluster <xref rid="cam42839-bib-0032" ref-type="ref">32</xref> or through miR‐215/TWIST2 signaling.<xref rid="cam42839-bib-0018" ref-type="ref">18</xref> Elevated CASC9 promoted oral squamous cell carcinoma progression by inhibiting autophagy‐mediated apoptosis.<xref rid="cam42839-bib-0020" ref-type="ref">20</xref> However, the influence of CASC9 in PTC remains enigmatic. Hence, this study investigated the role of CASC9 in PTC. We found that CASC9 expression was higher in PTC tissues than in adjacent normal tissues. Elevated CASC9 level was associated with poor clinicopathological features. Also, CASC9 expression was boosted in PTC cells. This suggested that CASC9 may be a regulator in PTC. Our further study demonstrated that knockdown of CASC9 suppressed the proliferation, migration, and invasion of PTC cells in vitro, and inhibited tumor growth in vivo. Whereas CASC9 overexpression elevated the proliferation, migration, and invasion of PTC cells. These results indicated that CASC9 could promote the proliferation and metastasis of PTC.</p><p>LncRNAs participate in various biological process mainly via acting as ceRNAs.<xref rid="cam42839-bib-0033" ref-type="ref">33</xref> The mechanism of CASC9 in PTC was mainly focused on the ceRNA regulation. miR‐488‐3p was found to be an important tumor suppressor in various cancers.<xref rid="cam42839-bib-0034" ref-type="ref">34</xref>, <xref rid="cam42839-bib-0035" ref-type="ref">35</xref> In this study, we found that miR‐488‐3p expression was decreased in PTC tissues and cells. miR‐488‐3p mimic suppressed, whereas anti‐miR‐488‐3p promoted the proliferation, migration, and invasion of PTC cells, which demonstrated that miR‐488‐3p played tumor‐suppressing roles in PTC. Next, we further investigated the relationship between CASC9 and miR‐488‐3p. Bioinformatic analysis showed that CASC9 has the putative binding sites for miR‐488‐3p, and dual‐luciferase reporter assay verified their direct combination. And, CASC9 could negatively regulate miR‐488‐3p expression in PTC cells. As expected, miR‐488‐3p expression was negatively related to CASC9 in PTC tissues. In addition, anti‐miR‐488‐3p significantly reversed the suppressed proliferation, migration, and invasion of PTC cells by CASC9 downregulation. And, miR‐488‐3p mimic further strengthened the effects of CASC9 silencing on PTC cells. In general, these data suggested that CASC9 functioned in PTC via interacting with miR‐488‐3p.</p><p>Members of ADAM family are closely associated with a variety of biological events, like ectodomain shedding, cell proliferation, adhesion, migration, and invasion. ADAM9, as an important member of this family, is widely distributed in human tissues and involved in various biological processes.<xref rid="cam42839-bib-0036" ref-type="ref">36</xref>, <xref rid="cam42839-bib-0037" ref-type="ref">37</xref> ADAM9 is highly expressed in multiple cancers and is related to aggressive tumor phenotypes and poor clinical outcomes.<xref rid="cam42839-bib-0036" ref-type="ref">36</xref> ADAM9 has been found to be responsible for the growth and metastasis of thyroid cancer.<xref rid="cam42839-bib-0027" ref-type="ref">27</xref> We found that ADAM9 expression was higher in PTC tissues and cells than their controls. ADAM9 was demonstrated to be a target of miR‐488‐3p in non‐small cell lung cancer.<xref rid="cam42839-bib-0026" ref-type="ref">26</xref> We also confirmed that miR‐488‐3p could regulate ADAM9 expression in PTC cells. Therefore, we further determined the association between CASC9 and ADAM9. Our results showed that ADAM9 expression was positively related to CASC9 in human PTC tissues. An RIP assay with anti‐Ago2 antibody and expression analysis demonstrated that CASC9 acted as a ceRNA for miR‐488‐3p to elevate ADAM9 expression. We also found overexpression of ADAM9 partially reversed the suppressed proliferation, migration, and invasion of PTC by CASC9 silencing. Additionally, this study found downregulation of CASC9 in mice notably increased miR‐488‐3p, but decreased ADAM9 expression in tumors. Although we did not further evaluate the regulatory mechanism among CASC9, miR‐488‐3p, and ADAM9 in vivo using restore experiments, considering the detailed regulatory mechanism among them has been verified in PTC cells, our results were sufficient to demonstrate that CASC9 regulated the malignant phenotypes of PTC via miR‐488‐3p/ADAM9. ADAM9 has been found to be an important regulator of EGFR‐Akt signaling, which is a crucial signal pathway in PTC<xref rid="cam42839-bib-0038" ref-type="ref">38</xref>, <xref rid="cam42839-bib-0039" ref-type="ref">39</xref>, <xref rid="cam42839-bib-0040" ref-type="ref">40</xref>, <xref rid="cam42839-bib-0041" ref-type="ref">41</xref>; hence, we further analyzed the role of CASC9 on EGFR‐Akt signaling and the results showed that downregulation of CASC9 significantly decreased the activation of EGFR‐Akt signaling, the effect of which was reversed by anti‐miR‐483‐3p, but further strengthened by miR‐488‐3p mimic in PTC cells. In general, these results suggested that CASC9 promoted the malignant properties in PTC by sponging miR‐488‐3p to relieve its inhibition on ADAM9 expression, leading to the activation of EGFR‐Akt signaling.</p><p>In conclusion, our study proved for the first time that elevated CASC9 expression promoted the proliferation and metastasis of PTC. The data described a novel mechanism of CASC9 in cancers. CASC9 facilitated the aggressive phenotypes of PTC by regulating miR‐488‐3p/ADAM9 pathway. This study will increase our understanding of the progression of PTC and may provide a novel target for the treatment of this disease.</p></sec><sec sec-type="COI-statement" id="cam42839-sec-0022"><title>CONFLICT OF INTEREST</title><p>The authors have no conflict of interest.</p></sec></body><back><ref-list content-type="cited-references" id="cam42839-bibl-0001"><title>REFERENCES</title><ref id="cam42839-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="cam42839-cit-0001">
+<string-name name-style="western">
+<surname>Bray</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ferlay</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Soerjomataram</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Siegel</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Torre</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jemal</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Global cancer statistics 2018: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries</article-title>. <source xml:lang="en">CA Cancer J Clin</source>. <year>2018</year>;<volume>68</volume>:<fpage>394</fpage>‐<lpage>424</lpage>.<pub-id pub-id-type="pmid">30207593</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3322/caac.21492</pub-id></mixed-citation></ref><ref id="cam42839-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="cam42839-cit-0002">
+<string-name name-style="western">
+<surname>Cabanillas</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McFadden</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Durante</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Thyroid cancer</article-title>. <source xml:lang="en">Lancet</source>. <year>2016</year>;<volume>388</volume>:<fpage>2783</fpage>‐<lpage>2795</lpage>.<pub-id pub-id-type="pmid">27240885</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S0140-6736(16)30172-6</pub-id></mixed-citation></ref><ref id="cam42839-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="cam42839-cit-0003">
+<collab collab-type="authors">Cancer Genome Atlas Research N</collab>
+. <article-title>Integrated genomic characterization of papillary thyroid carcinoma</article-title>. <source xml:lang="en">Cell</source>. <year>2014</year>;<volume>159</volume>:<fpage>676</fpage>‐<lpage>690</lpage>.<pub-id pub-id-type="pmid">25417114</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cell.2014.09.050</pub-id><pub-id pub-id-type="pmcid">PMC4243044</pub-id></mixed-citation></ref><ref id="cam42839-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="cam42839-cit-0004">
+<string-name name-style="western">
+<surname>Yu</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Niclosamide induces apoptosis through mitochondrial intrinsic pathway and inhibits migration and invasion in human thyroid cancer in vitro</article-title>. <source xml:lang="en">Biomed Pharmacother</source>. <year>2017</year>;<volume>92</volume>:<fpage>403</fpage>‐<lpage>411</lpage>.<pub-id pub-id-type="pmid">28575805</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.biopha.2017.05.097</pub-id></mixed-citation></ref><ref id="cam42839-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="cam42839-cit-0005">
+<string-name name-style="western">
+<surname>Lee</surname>
+<given-names>YC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Na</surname>
+<given-names>SY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Park</surname>
+<given-names>GC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Han</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kim</surname>
+<given-names>SW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Eun</surname>
+<given-names>YG</given-names>
+</string-name>. <article-title>Occult lymph node metastasis and risk of regional recurrence in papillary thyroid cancer after bilateral prophylactic central neck dissection: a multi‐institutional study</article-title>. <source xml:lang="en">Surgery</source>. <year>2017</year>;<volume>161</volume>:<fpage>465</fpage>‐<lpage>471</lpage>.<pub-id pub-id-type="pmid">27574773</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.surg.2016.07.031</pub-id></mixed-citation></ref><ref id="cam42839-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="cam42839-cit-0006">
+<string-name name-style="western">
+<surname>Yang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sun</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Expression of ANGPTL2 and its impact on papillary thyroid cancer</article-title>. <source xml:lang="en">Cancer Cell Int</source>. <year>2019</year>;<volume>19</volume>:<fpage>204</fpage>.<pub-id pub-id-type="pmid">31384179</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12935-019-0908-9</pub-id><pub-id pub-id-type="pmcid">PMC6668118</pub-id></mixed-citation></ref><ref id="cam42839-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="cam42839-cit-0007">
+<string-name name-style="western">
+<surname>Ito</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ishikawa</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kihara</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Control of lung metastases and colon polyposis with lenvatinib therapy in a patient with cribriform‐morular variant of papillary thyroid carcinoma and an APC gene mutation: a case study</article-title>. <source xml:lang="en">Thyroid</source>. <year>2019</year>;<volume>29</volume>(<issue>10</issue>):<fpage>1511</fpage>‐<lpage>1517</lpage>.<pub-id pub-id-type="pmid">31317827</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1089/thy.2019.0121</pub-id></mixed-citation></ref><ref id="cam42839-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="cam42839-cit-0008">
+<string-name name-style="western">
+<surname>Xing</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Molecular pathogenesis and mechanisms of thyroid cancer</article-title>. <source xml:lang="en">Nat Rev Cancer</source>. <year>2013</year>;<volume>13</volume>:<fpage>184</fpage>‐<lpage>199</lpage>.<pub-id pub-id-type="pmid">23429735</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nrc3431</pub-id><pub-id pub-id-type="pmcid">PMC3791171</pub-id></mixed-citation></ref><ref id="cam42839-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="cam42839-cit-0009">
+<string-name name-style="western">
+<surname>Kowalska</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Walczyk</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kowalik</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Increase in papillary thyroid cancer incidence is accompanied by changes in the frequency of the BRAF V600E mutation: a single‐institution study</article-title>. <source xml:lang="en">Thyroid</source>. <year>2016</year>;<volume>26</volume>:<fpage>543</fpage>‐<lpage>551</lpage>.<pub-id pub-id-type="pmid">26889698</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1089/thy.2015.0352</pub-id></mixed-citation></ref><ref id="cam42839-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="cam42839-cit-0010">
+<string-name name-style="western">
+<surname>Ramnarine</surname>
+<given-names>VR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kobelev</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gibb</surname>
+<given-names>EA</given-names>
+</string-name>, et al. <article-title>The evolution of long noncoding RNA acceptance in prostate cancer initiation and progression, and its clinical utility in disease management</article-title>. <source xml:lang="en">Eur Urol</source>. <year>2019</year>;<volume>76</volume>(<issue>5</issue>):<fpage>546</fpage>‐<lpage>559</lpage>.<pub-id pub-id-type="pmid">31445843</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.eururo.2019.07.040</pub-id></mixed-citation></ref><ref id="cam42839-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="cam42839-cit-0011">
+<string-name name-style="western">
+<surname>Jiang</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ni</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cui</surname>
+<given-names>WY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>BY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhuo</surname>
+<given-names>W</given-names>
+</string-name>. <article-title>Emerging roles of lncRNA in cancer and therapeutic opportunities</article-title>. <source xml:lang="en">Am J Cancer Res</source>. <year>2019</year>;<volume>9</volume>:<fpage>1354</fpage>‐<lpage>1366</lpage>.<pub-id pub-id-type="pmid">31392074</pub-id><pub-id pub-id-type="pmcid">PMC6682721</pub-id></mixed-citation></ref><ref id="cam42839-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="cam42839-cit-0012">
+<string-name name-style="western">
+<surname>Roy</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Awasthi</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Emerging roles of noncoding RNAs in T cell differentiation and functions in autoimmune diseases</article-title>. <source xml:lang="en">Int Rev Immunol</source>. <year>2019</year>;<volume>38</volume>(<issue>5</issue>):<fpage>232</fpage>–<lpage>245</lpage>.<pub-id pub-id-type="pmid">31411520</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/08830185.2019.1648454</pub-id></mixed-citation></ref><ref id="cam42839-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="cam42839-cit-0013">
+<string-name name-style="western">
+<surname>Chang</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Exosomes and their noncoding RNA cargo are emerging as new modulators for diabetes mellitus</article-title>. <source xml:lang="en">Cells</source>. <year>2019</year>;<volume>8</volume>:<fpage>853</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/cells8080853</pub-id><pub-id pub-id-type="pmcid">PMC6721737</pub-id><pub-id pub-id-type="pmid">31398847</pub-id></mixed-citation></ref><ref id="cam42839-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="cam42839-cit-0014">
+<string-name name-style="western">
+<surname>Hosseini</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bagheri‐Hosseinabadi</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>De Toma</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jafarisani</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sadeghi</surname>
+<given-names>I</given-names>
+</string-name>. <article-title>The importance of long non‐coding RNAs in neuropsychiatric disorders</article-title>. <source xml:lang="en">Mol Aspects Med</source>. <year>2019</year>;<volume>70</volume>:<fpage>127</fpage>‐<lpage>140</lpage>.<pub-id pub-id-type="pmid">31319085</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.mam.2019.07.004</pub-id></mixed-citation></ref><ref id="cam42839-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="cam42839-cit-0015">
+<string-name name-style="western">
+<surname>Zhuang</surname>
+<given-names>XI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tong</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ding</surname>
+<given-names>YU</given-names>
+</string-name>, et al. <article-title>Long noncoding RNA ABHD11‐AS1 functions as a competing endogenous RNA to regulate papillary thyroid cancer progression by miR‐199a‐5p/SLC1A5 axis</article-title>. <source xml:lang="en">Cell Death Dis</source>. <year>2019</year>;<volume>10</volume>:<fpage>620</fpage>.<pub-id pub-id-type="pmid">31409775</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41419-019-1850-4</pub-id><pub-id pub-id-type="pmcid">PMC6692390</pub-id></mixed-citation></ref><ref id="cam42839-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="cam42839-cit-0016">
+<string-name name-style="western">
+<surname>Gou</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gao</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nie</surname>
+<given-names>X</given-names>
+</string-name>, et al. <article-title>Long noncoding RNA AB074169 inhibits cell proliferation via modulation of KHSRP‐mediated CDKN1a expression in papillary thyroid carcinoma</article-title>. <source xml:lang="en">Can Res</source>. <year>2018</year>;<volume>78</volume>:<fpage>4163</fpage>‐<lpage>4174</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/0008-5472.CAN-17-3766</pub-id><pub-id pub-id-type="pmid">29735546</pub-id></mixed-citation></ref><ref id="cam42839-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="cam42839-cit-0017">
+<string-name name-style="western">
+<surname>Pan</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mao</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bao</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Su</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>
+<given-names>X</given-names>
+</string-name>. <article-title>The long noncoding RNA CASC9 regulates migration and invasion in esophageal cancer</article-title>. <source xml:lang="en">Cancer Med</source>. <year>2016</year>;<volume>5</volume>:<fpage>2442</fpage>‐<lpage>2447</lpage>.<pub-id pub-id-type="pmid">27431358</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/cam4.770</pub-id><pub-id pub-id-type="pmcid">PMC5055159</pub-id></mixed-citation></ref><ref id="cam42839-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="cam42839-cit-0018">
+<string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Quan</surname>
+<given-names>Z</given-names>
+</string-name>. <article-title>Long non‐coding RNA CASC9 enhances breast cancer progression by promoting metastasis through the meditation of miR‐215/TWIST2 signaling associated with TGF‐beta expression</article-title>. <source xml:lang="en">Biochem Biophys Res Comm</source>. <year>2019</year>;<volume>515</volume>:<fpage>644</fpage>‐<lpage>650</lpage>.<pub-id pub-id-type="pmid">31178137</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bbrc.2019.05.080</pub-id></mixed-citation></ref><ref id="cam42839-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="cam42839-cit-0019">
+<string-name name-style="western">
+<surname>Luo</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Geng</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>Q</given-names>
+</string-name>, et al. <article-title>LncRNA CASC9 interacts with CPSF3 to regulate TGF‐beta signaling in colorectal cancer</article-title>. <source xml:lang="en">J Exp Clin Cancer Res</source>. <year>2019</year>;<volume>38</volume>:<fpage>249</fpage>.<pub-id pub-id-type="pmid">31186036</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13046-019-1263-3</pub-id><pub-id pub-id-type="pmcid">PMC6560732</pub-id></mixed-citation></ref><ref id="cam42839-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="cam42839-cit-0020">
+<string-name name-style="western">
+<surname>Yang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Increased expression of lncRNA CASC9 promotes tumor progression by suppressing autophagy‐mediated cell apoptosis via the AKT/mTOR pathway in oral squamous cell carcinoma</article-title>. <source xml:lang="en">Cell Death Dis</source>. <year>2019</year>;<volume>10</volume>:<fpage>41</fpage>.<pub-id pub-id-type="pmid">30674868</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41419-018-1280-8</pub-id><pub-id pub-id-type="pmcid">PMC6381212</pub-id></mixed-citation></ref><ref id="cam42839-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="cam42839-cit-0021">
+<string-name name-style="western">
+<surname>Hu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kong</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hu</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Long noncoding RNA CASC9 promotes LIN7A expression via miR‐758‐3p to facilitate the malignancy of ovarian cancer</article-title>. <source xml:lang="en">J Cell Physiol</source>. <year>2019</year>;<volume>234</volume>:<fpage>10800</fpage>‐<lpage>10808</lpage>.<pub-id pub-id-type="pmid">30537154</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/jcp.27903</pub-id></mixed-citation></ref><ref id="cam42839-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="cam42839-cit-0022">
+<string-name name-style="western">
+<surname>Gao</surname>
+<given-names>LI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guo</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zeng</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>The expression, significance and function of cancer susceptibility candidate 9 in lung squamous cell carcinoma: a bioinformatics and in vitro investigation</article-title>. <source xml:lang="en">Int J Oncol</source>. <year>2019</year>;<volume>54</volume>:<fpage>1651</fpage>‐<lpage>1664</lpage>.<pub-id pub-id-type="pmid">30896821</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3892/ijo.2019.4758</pub-id><pub-id pub-id-type="pmcid">PMC6439977</pub-id></mixed-citation></ref><ref id="cam42839-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="cam42839-cit-0023">
+<string-name name-style="western">
+<surname>Shang</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sun</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Silence of cancer susceptibility candidate 9 inhibits gastric cancer and reverses chemoresistance</article-title>. <source xml:lang="en">Oncotarget</source>. <year>2017</year>;<volume>8</volume>:<fpage>15393</fpage>‐<lpage>15398</lpage>.<pub-id pub-id-type="pmid">28146436</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.18632/oncotarget.14871</pub-id><pub-id pub-id-type="pmcid">PMC5362493</pub-id></mixed-citation></ref><ref id="cam42839-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="cam42839-cit-0024">
+<string-name name-style="western">
+<surname>Liu</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Long noncoding RNA CASC9/miR‐519d/STAT3 positive feedback loop facilitate the glioma tumourigenesis</article-title>. <source xml:lang="en">J Cell Mol Med</source>. <year>2018</year>;<volume>22</volume>:<fpage>6338</fpage>‐<lpage>6344</lpage>.<pub-id pub-id-type="pmid">30270508</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/jcmm.13932</pub-id><pub-id pub-id-type="pmcid">PMC6237610</pub-id></mixed-citation></ref><ref id="cam42839-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="cam42839-cit-0025">
+<string-name name-style="western">
+<surname>Yu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Long non‐coding RNA NEAT1 promotes the progression of hemangioma via the miR‐361‐5p/VEGFA pathway</article-title>. <source xml:lang="en">Biochem Biophys Res Comm</source>. <year>2019</year>;<volume>512</volume>:<fpage>825</fpage>‐<lpage>831</lpage>.<pub-id pub-id-type="pmid">30928097</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bbrc.2019.03.084</pub-id></mixed-citation></ref><ref id="cam42839-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="cam42839-cit-0026">
+<string-name name-style="western">
+<surname>Wan</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hao</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zheng</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>Z</given-names>
+</string-name>. <article-title>Circular RNA circ_0020123 promotes non‐small cell lung cancer progression by acting as a ceRNA for miR‐488‐3p to regulate ADAM9 expression</article-title>. <source xml:lang="en">Biochem Biophys Res Comm</source>. <year>2019</year>;<volume>515</volume>:<fpage>303</fpage>‐<lpage>309</lpage>.<pub-id pub-id-type="pmid">31153639</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bbrc.2019.05.158</pub-id></mixed-citation></ref><ref id="cam42839-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="cam42839-cit-0027">
+<string-name name-style="western">
+<surname>Xiong</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kotian</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zeiger</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kebebew</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>miR‐126‐3p inhibits thyroid cancer cell growth and metastasis, and is associated with aggressive thyroid cancer</article-title>. <source xml:lang="en">PLoS ONE</source>. <year>2015</year>;<volume>10</volume>:<elocation-id>e0130496</elocation-id>.<pub-id pub-id-type="pmid">26244545</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0130496</pub-id><pub-id pub-id-type="pmcid">PMC4526518</pub-id></mixed-citation></ref><ref id="cam42839-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="cam42839-cit-0028">
+<string-name name-style="western">
+<surname>Feng</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yi</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>A novel lncRNA n384546 promotes thyroid papillary cancer progression and metastasis by acting as a competing endogenous RNA of miR‐145‐5p to regulate AKT3</article-title>. <source xml:lang="en">Cell Death Dis</source>. <year>2019</year>;<volume>10</volume>:<fpage>433</fpage>.<pub-id pub-id-type="pmid">31160577</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41419-019-1637-7</pub-id><pub-id pub-id-type="pmcid">PMC6547665</pub-id></mixed-citation></ref><ref id="cam42839-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="cam42839-cit-0029">
+<string-name name-style="western">
+<surname>Esposito</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Esposito</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pallante</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fusco</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ciccodicola</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Costa</surname>
+<given-names>V</given-names>
+</string-name>. <article-title>Oncogenic properties of the antisense lncRNA COMET in BRAF‐ and RET‐driven papillary thyroid carcinomas</article-title>. <source xml:lang="en">Can Res</source>. <year>2019</year>;<volume>79</volume>:<fpage>2124</fpage>‐<lpage>2135</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/0008-5472.CAN-18-2520</pub-id><pub-id pub-id-type="pmid">30862713</pub-id></mixed-citation></ref><ref id="cam42839-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="cam42839-cit-0030">
+<string-name name-style="western">
+<surname>Wu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hu</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liang</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Up‐regulation of lncRNA CASC9 promotes esophageal squamous cell carcinoma growth by negatively regulating PDCD4 expression through EZH2</article-title>. <source xml:lang="en">Mol Cancer</source>. <year>2017</year>;<volume>16</volume>:<fpage>150</fpage>.<pub-id pub-id-type="pmid">28854977</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12943-017-0715-7</pub-id><pub-id pub-id-type="pmcid">PMC5577767</pub-id></mixed-citation></ref><ref id="cam42839-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="cam42839-cit-0031">
+<string-name name-style="western">
+<surname>Liang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>LncRNA CASC9 promotes esophageal squamous cell carcinoma metastasis through upregulating LAMC2 expression by interacting with the CREB‐binding protein</article-title>. <source xml:lang="en">Cell Death Differ</source>. <year>2018</year>;<volume>25</volume>:<fpage>1980</fpage>‐<lpage>1995</lpage>.<pub-id pub-id-type="pmid">29511340</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41418-018-0084-9</pub-id><pub-id pub-id-type="pmcid">PMC6219493</pub-id></mixed-citation></ref><ref id="cam42839-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="cam42839-cit-0032">
+<string-name name-style="western">
+<surname>Shao</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fan</surname>
+<given-names>X</given-names>
+</string-name>, et al. <article-title>lncRNA CASC9 positively regulates CHK1 to promote breast cancer cell proliferation and survival through sponging the miR195/497 cluster</article-title>. <source xml:lang="en">Int J Oncol</source>. <year>2019</year>;<volume>54</volume>:<fpage>1665</fpage>‐<lpage>1675</lpage>.<pub-id pub-id-type="pmid">30816435</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3892/ijo.2019.4734</pub-id><pub-id pub-id-type="pmcid">PMC6438439</pub-id></mixed-citation></ref><ref id="cam42839-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="cam42839-cit-0033">
+<string-name name-style="western">
+<surname>Prinz</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kapeller</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pichler</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Klec</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>The implications of the long non‐coding RNA NEAT1 in non‐cancerous diseases</article-title>. <source xml:lang="en">Int J Mol Sci</source>. <year>2019</year>;<volume>20</volume>:<fpage>627</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ijms20030627</pub-id><pub-id pub-id-type="pmcid">PMC6387324</pub-id><pub-id pub-id-type="pmid">30717168</pub-id></mixed-citation></ref><ref id="cam42839-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="cam42839-cit-0034">
+<string-name name-style="western">
+<surname>Xue</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>X</given-names>
+</string-name>, et al. <article-title>PVT1 regulates the malignant behaviors of human glioma cells by targeting miR‐190a‐5p and miR‐488‐3p</article-title>. <source xml:lang="en">Biochim Biophys Acta</source>. <year>2018</year>;<volume>1864</volume>:<fpage>1783</fpage>‐<lpage>1794</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bbadis.2018.02.022</pub-id><pub-id pub-id-type="pmid">29501773</pub-id></mixed-citation></ref><ref id="cam42839-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="cam42839-cit-0035">
+<string-name name-style="western">
+<surname>Yang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>He</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xie</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ni</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lin</surname>
+<given-names>X</given-names>
+</string-name>. <article-title>MicroRNA‐488‐3p inhibits proliferation and induces apoptosis by targeting ZBTB2 in esophageal squamous cell carcinoma</article-title>. <source xml:lang="en">J Cell Biochem</source>. <year>2019</year>;<volume>120</volume>(<issue>11</issue>):<fpage>18702</fpage>‐<lpage>18713</lpage>.<pub-id pub-id-type="pmid">31243806</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/jcb.29178</pub-id></mixed-citation></ref><ref id="cam42839-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="cam42839-cit-0036">
+<string-name name-style="western">
+<surname>Oria</surname>
+<given-names>VO</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lopatta</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schilling</surname>
+<given-names>O</given-names>
+</string-name>. <article-title>The pleiotropic roles of ADAM9 in the biology of solid tumors</article-title>. <source xml:lang="en">Cell Mol Life Sci</source>. <year>2018</year>;<volume>75</volume>:<fpage>2291</fpage>‐<lpage>2301</lpage>.<pub-id pub-id-type="pmid">29550974</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00018-018-2796-x</pub-id><pub-id pub-id-type="pmcid">PMC11105608</pub-id></mixed-citation></ref><ref id="cam42839-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="cam42839-cit-0037">
+<string-name name-style="western">
+<surname>Ueno</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shiomi</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mochizuki</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>ADAM9 is over‐expressed in human ovarian clear cell carcinomas and suppresses cisplatin‐induced cell death</article-title>. <source xml:lang="en">Cancer Sci</source>. <year>2018</year>;<volume>109</volume>:<fpage>471</fpage>‐<lpage>482</lpage>.<pub-id pub-id-type="pmid">29247567</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/cas.13469</pub-id><pub-id pub-id-type="pmcid">PMC5797829</pub-id></mixed-citation></ref><ref id="cam42839-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="cam42839-cit-0038">
+<string-name name-style="western">
+<surname>Wang</surname>
+<given-names>J‐J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zou</surname>
+<given-names>JX</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Histone methyltransferase NSD2 mediates the survival and invasion of triple‐negative breast cancer cells via stimulating ADAM9‐EGFR‐AKT signaling</article-title>. <source xml:lang="en">Acta Pharmacol Sin</source>. <year>2019</year>;<volume>40</volume>:<fpage>1067</fpage>‐<lpage>1075</lpage>.<pub-id pub-id-type="pmid">30670815</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41401-018-0199-z</pub-id><pub-id pub-id-type="pmcid">PMC6786427</pub-id></mixed-citation></ref><ref id="cam42839-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="cam42839-cit-0039">
+<string-name name-style="western">
+<surname>Fisher</surname>
+<given-names>KE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jani</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fisher</surname>
+<given-names>SB</given-names>
+</string-name>, et al. <article-title>Epidermal growth factor receptor overexpression is a marker for adverse pathologic features in papillary thyroid carcinoma</article-title>. <source xml:lang="en">J Surg Research</source>. <year>2013</year>;<volume>185</volume>:<fpage>217</fpage>‐<lpage>224</lpage>.<pub-id pub-id-type="pmid">23746767</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jss.2013.05.003</pub-id><pub-id pub-id-type="pmcid">PMC4391738</pub-id></mixed-citation></ref><ref id="cam42839-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="cam42839-cit-0040">
+<string-name name-style="western">
+<surname>Han</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nie</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>miR‐215 suppresses papillary thyroid cancer proliferation, migration, and invasion through the AKT/GSK‐3beta/Snail signaling by targeting ARFGEF1</article-title>. <source xml:lang="en">Cell Death Dis</source>. <year>2019</year>;<volume>10</volume>:<fpage>195</fpage>.<pub-id pub-id-type="pmid">30814512</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41419-019-1444-1</pub-id><pub-id pub-id-type="pmcid">PMC6393497</pub-id></mixed-citation></ref><ref id="cam42839-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="cam42839-cit-0041">
+<string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sui</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ma</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Positive feedback loops between NrCAM and major signaling pathways contribute to thyroid tumorigenesis</article-title>. <source xml:lang="en">J Clin Endocrinol Metab</source>. <year>2017</year>;<volume>102</volume>:<fpage>613</fpage>‐<lpage>624</lpage>.<pub-id pub-id-type="pmid">27732334</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1210/jc.2016-1677</pub-id></mixed-citation></ref></ref-list></back></article>
