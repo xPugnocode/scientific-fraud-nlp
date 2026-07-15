@@ -1,0 +1,1020 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article xml:lang="EN" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Appl Nano Mater</journal-id><journal-id journal-id-type="iso-abbrev">ACS Appl Nano Mater</journal-id><journal-id journal-id-type="pmc-domain-id">822</journal-id><journal-id journal-id-type="pmc-domain">acssd</journal-id><journal-id journal-id-type="nlm-id">101726750</journal-id><journal-id journal-id-type="publisher-id">an</journal-id><journal-title-group><journal-title>ACS Applied Nano Materials</journal-title></journal-title-group><issn pub-type="epub">2574-0970</issn><custom-meta-group><custom-meta><meta-name>pmc-is-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-collection-title</meta-name><meta-value>ACS AuthorChoice</meta-value></custom-meta></custom-meta-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC11406490</article-id><article-id pub-id-type="pmcid-ver">PMC11406490.1</article-id><article-id pub-id-type="pmcaid">11406490</article-id><article-id pub-id-type="pmcaiid">11406490</article-id><article-id pub-id-type="pmid">39296863</article-id><article-id pub-id-type="doi">10.1021/acsanm.4c02670</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group><subject>Article</subject></subj-group></article-categories><title-group><article-title>Enhancing the Catalytic
+Activity of Pd Nanocatalysts
+for Anion Exchange Membrane Direct Ethanol Fuel Cells by Functionalizing
+Vulcan XC-72 with Cu Organometallic Compounds</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-5270-9925</contrib-id><name name-style="western"><surname>Meléndez-González</surname><given-names initials="PC">P. C.</given-names></name><xref rid="aff1" ref-type="aff">†</xref></contrib><contrib contrib-type="author" id="ath2"><name name-style="western"><surname>Fuentez-Torres</surname><given-names initials="MO">M. O.</given-names></name><xref rid="aff1" ref-type="aff">†</xref></contrib><contrib contrib-type="author" id="ath3"><name name-style="western"><surname>Sánchez-Castro</surname><given-names initials="ME">M. E.</given-names></name><xref rid="aff1" ref-type="aff">†</xref><xref rid="aff2" ref-type="aff">‡</xref></contrib><contrib contrib-type="author" id="ath4"><name name-style="western"><surname>Alonso-Lemus</surname><given-names initials="IL">I. L.</given-names></name><xref rid="aff3" ref-type="aff">§</xref></contrib><contrib contrib-type="author" id="ath5"><name name-style="western"><surname>Escobar-Morales</surname><given-names initials="B">B.</given-names></name><xref rid="aff4" ref-type="aff">∥</xref></contrib><contrib contrib-type="author" id="ath6"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-7048-1856</contrib-id><name name-style="western"><surname>Pech-Rodríguez</surname><given-names initials="WJ">W. J.</given-names></name><xref rid="aff5" ref-type="aff">⊥</xref></contrib><contrib contrib-type="author" id="ath7"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-1506-7139</contrib-id><name name-style="western"><surname>Napporn</surname><given-names initials="TW">Teko W.</given-names></name><xref rid="aff6" ref-type="aff">#</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath8"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-1042-7628</contrib-id><name name-style="western"><surname>Rodríguez-Varela</surname><given-names initials="FJ">F. J.</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">†</xref><xref rid="aff2" ref-type="aff">‡</xref></contrib><aff id="aff1"><label>†</label>Nanociencias
+y Nanotecnología, <institution>Cinvestav Unidad
+Saltillo</institution>, Av. Industria
+Metalúrgica 1062, Parque Industrial Ramos Arizpe, Ramos Arizpe, Coahuila C.P 25900, <country>México</country></aff><aff id="aff2"><label>‡</label>Sustentabilidad
+de Los Recursos Naturales y Energía, <institution>Cinvestav Unidad Saltillo</institution>, Ramos
+Arizpe, Coahuila C.P 25900, <country>México</country></aff><aff id="aff3"><label>§</label>CONAHCYT-Cinvestav
+Saltillo, Sustentabilidad de Los Recursos Naturales y Energía, <institution>Cinvestav Unidad Saltillo</institution>. Av. Industria Metalúrgica 1062, Parque Industrial
+Ramos Arizpe. Ramos Arizpe, Coahuila C.P 25900, <country>México</country></aff><aff id="aff4"><label>∥</label>CONAHCyT,
+Centro de Investigación Científica de Yucatán, <institution>Unidad de Energía Renovable</institution>, Calle 43, No. 130 Col. Chuburná de Hidalgo, Mérida, Yucatán C.P. 97200, <country>México</country></aff><aff id="aff5"><label>⊥</label>Universidad
+Politécnica de Victoria, <institution>Parque Científico
+y Tecnológico de Tamaulipas</institution>, Av. Nuevas Tecnologías 5902, Cd Victoria, Tamaulipas C.P. 87138, <country>México</country></aff><aff id="aff6"><label>#</label><institution>Université
+de Poitiers</institution>, IC2MP UMR 7285 CNRS, ⟨⟨Equipe SAMCat⟩⟩,
+4, Rue Michel Brunet, B27, TSA 51106, Poitiers
+Cedex 09 86073, <country>France</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Email: <email>javier.varela@cinvestav.edu.mx</email>.</corresp></author-notes><pub-date pub-type="epub"><day>20</day><month>08</month><year>2024</year></pub-date><pub-date pub-type="collection"><day>13</day><month>09</month><year>2024</year></pub-date><volume>7</volume><issue>17</issue><issue-id pub-id-type="pmc-issue-id">470930</issue-id><fpage>20071</fpage><lpage>20084</lpage><history><date date-type="received"><day>08</day><month>05</month><year>2024</year></date><date date-type="accepted"><day>12</day><month>08</month><year>2024</year></date><date date-type="rev-recd"><day>09</day><month>08</month><year>2024</year></date></history><pub-history><event event-type="pmc-release"><date><day>17</day><month>09</month><year>2024</year></date></event><event event-type="pmc-live"><date><day>18</day><month>09</month><year>2024</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2024-09-19 09:25:44.383"><day>19</day><month>09</month><year>2024</year></date></event></pub-history><permissions><copyright-statement>© 2024 The Authors. Published by American Chemical Society</copyright-statement><copyright-year>2024</copyright-year><copyright-holder>The Authors</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>Permits the broadest form of re-use including for commercial purposes, provided that author attribution and integrity are maintained (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="an4c02670.pdf"/><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="ab-tgr1" position="float" orientation="portrait" xlink:href="an4c02670_0011.jpg"/></p><p>The most widely used
+support in low-temperature fuel
+cell applications
+is the commercially available Vulcan XC-72. Herein, we report its
+functionalization with the home-obtained mesityl copper (Cu-mes) and
+Cu coordinate (Cu(dmpz)L2) organometallic compounds. Pd nanoparticles
+are anchored on the supports obtaining Pd/C<sub>Cu-mes</sub>, Pd/C<sub>Cu(dmpz)L2</sub>, and Pd/C (on nonfunctionalized support).
+The polarization curves of the ethanol oxidation reaction (EOR) show
+that Pd/C<sub>Cu-mes</sub> and Pd/C<sub>Cu(dmpz)L2</sub> promote
+the reaction at a more negative onset potential, i.e., <italic toggle="yes">E</italic><sub>onset</sub> = 0.38 V/reversible hydrogen electrode (RHE), compared
+to 0.41 V/RHE of Pd/C. The mass current density (<italic toggle="yes">j</italic><sub>m</sub>) delivered by Pd/C<sub>Cu-mes</sub> is considerably
+higher (1231.3 mA mg<sub>Pd</sub><sup>–1</sup>), followed by
+Pd/C<sub>Cu(dmpz)L2</sub> (1001.8 mA mg<sub>Pd</sub><sup>–1</sup>), and Pd/C (808.3 mA mg<sub>Pd</sub><sup>–1</sup>). The enhanced
+performance of Pd/C<sub>Cu-mes</sub> and Pd/C<sub>Cu(dmpz)L2</sub> for the EOR (and tolerance to CO poisoning) is attributed to a shift
+of their d-band center toward more negative values, compared to Pd/C,
+because of the formation of PdCu alloyed phases arising from the functionalization.
+In addition, laboratory-scale tests of the anion exchange membrane-direct
+ethanol fuel cell assembled with Pd/C<sub>Cu-mes</sub> show
+the highest open circuit voltage (OCV = 0.60 V) and cell power density
+(<italic toggle="yes">P</italic><sub>cell</sub> = 0.14 mW cm<sup>–2</sup>). As a result of its high catalytic activity, Pd/C<sub>Cu-mes</sub> can find application as an anode nanocatalyst in AEM-DEFCs.</p></abstract><kwd-group><kwd>surface functionalization</kwd><kwd>Cu organometallic
+compounds</kwd><kwd>Pd nanocatalysts</kwd><kwd>ethanol oxidation reaction</kwd><kwd>anion exchange membrane direct ethanol fuel cells</kwd></kwd-group><funding-group><award-group><funding-source><institution-wrap><institution>Consejo Nacional de Ciencia y TecnologÃ&#x83;Â­a</institution><institution-id institution-id-type="doi">10.13039/501100003141</institution-id></institution-wrap></funding-source><award-id>241526</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Conseil RÃ&#x83;Â©gional Aquitaine</institution><institution-id institution-id-type="doi">10.13039/501100009468</institution-id></institution-wrap></funding-source><award-id>NA</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>European Commission</institution><institution-id institution-id-type="doi">10.13039/501100008530</institution-id></institution-wrap></funding-source><award-id>NA</award-id></award-group></funding-group><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>an4c02670</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>an4c02670</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><label>1</label><title>Introduction</title><p>Over the past decade,
+anion exchange membrane direct ethanol fuel
+cells (AEM-DEFCs) have emerged as promising devices for clean energy
+generation.<sup><xref ref-type="bibr" rid="ref1">1</xref></sup> AEM-DEFCs have attracted great
+attention from international scientific groups because of their fast
+electrochemical reactions and lower corrosion risk compared to the
+same type of cells operating with acid membranes.<sup><xref ref-type="bibr" rid="ref2">2</xref></sup> Moreover, there is the attractiveness of using ethanol
+as fuel, instead of other liquid alcohols, since this molecule has
+a high theoretical energy density and offers the advantage of being
+obtained from biomass as an alternative to conventional processes.<sup><xref ref-type="bibr" rid="ref3">3</xref></sup></p><p>However, there exists the technological
+need to increase the overall
+performance and thus the efficiency of AEM-DEFCs.<sup><xref ref-type="bibr" rid="ref4">4</xref>−<xref ref-type="bibr" rid="ref6">6</xref></sup> One of the most
+practical approaches to achieve this is developing stable nanocatalysts
+with enhanced catalytic activity for the reactions occurring therein.
+Typically, carbon-supported semispherical nanoparticles have a high
+electrochemically active surface area (ECSA) available for the ethanol
+oxidation reaction (EOR), thus showing enhanced catalytic properties
+for more efficient fuel cell performances.<sup><xref ref-type="bibr" rid="ref7">7</xref>,<xref ref-type="bibr" rid="ref8">8</xref></sup> Additionally,
+as indicated by the US Department of Energy (DOE), having electrochemically
+stable fuel cell nanocatalysts is of utmost importance for advancing
+their commercialization.<sup><xref ref-type="bibr" rid="ref9">9</xref></sup></p><p>Vulcan
+XC-72 is the most commonly used carbonaceous support for
+fuel cell nanoparticles, since it has suitable surface chemistry for
+anchoring them with a proper dispersion, along with a high electrical
+conductivity.<sup><xref ref-type="bibr" rid="ref10">10</xref></sup> Nevertheless, being relatively
+hydrophobic, Vulcan XC-72 has been submitted to diverse oxidative
+functionalizing treatments, which in several cases end-up decreasing
+its electrical conductivity.<sup><xref ref-type="bibr" rid="ref11">11</xref>,<xref ref-type="bibr" rid="ref12">12</xref></sup></p><p>On this matter,
+a family of organometallic compounds have emerged
+as less aggressive functionalizing agents than their oxidative counterparts,
+but strong enough to chemically modify the carbon surface developing
+functional groups which facilitate the anchorage and homogeneous dispersion
+of metal nanoparticles.<sup><xref ref-type="bibr" rid="ref13">13</xref>,<xref ref-type="bibr" rid="ref14">14</xref></sup> Furthermore, this novel
+approach for surface modification creates organometallic active metal
+sites that promote the development of alloyed phases with the main
+metal (e.g., Pt and Pd) deposited on the functionalized carbon.</p><p>From X-ray photoelectron spectroscopy (XPS) analysis, shifts in
+binding energy (BE) of the Pt<sup>0</sup> species in the Pt 4f<sub>7/2</sub> state in the order of 0.32–0.96 eV have been determined
+when functionalizing Vulcan with Ru organometallic compounds, compared
+to nonfunctionalized carbon support, confirming the development of
+Pt–Ru alloyed phases. Moreover, Ru and RuO<sub>2</sub> species
+have been identified, providing the supported Pt–Ru alloyed
+nanocatalysts with higher catalytic activity for the oxidation of
+methanol than monometallic Pt/C due to the bifunctional mechanism.<sup><xref ref-type="bibr" rid="ref13">13</xref>,<xref ref-type="bibr" rid="ref14">14</xref></sup> Even more, when functionalizing reduced graphene oxide with Cr compounds,
+a shift of ca. 0.2 eV of the Pt<sup>0</sup> species has been obtained
+(also compared to nonmodified support), along with the promotion of
+CrO<sub>2</sub>, Cr<sub>2</sub>O<sub>3</sub>, and CrO<sub>3</sub> species,
+improving the catalytic activity of nanocatalysts supported on functionalized
+carbon for the oxygen reduction reaction (ORR).<sup><xref ref-type="bibr" rid="ref15">15</xref></sup></p><p>In a similar fashion, Pd alloys show high catalytic
+activity for
+EOR in alkaline media. The Pd<sub>2</sub>Ru/C nanocatalyst in<sup><xref ref-type="bibr" rid="ref7">7</xref></sup> outperforms Pd/C for the EOR, favoring the formation
+of acetaldehyde and the oxidation of CO. The good performance of Pd<sub>2</sub>Ru/C in an AEM-DEFC has been attributed to its high electronic
+vacancies and the bifunctional mechanism, nevertheless, dropping in
+performance during stability tests due to strong acetaldehyde adsorption.
+The Pd<sub>41</sub>Au<sub>29</sub>Ni<sub>30</sub>/C nanocatalyst in<sup><xref ref-type="bibr" rid="ref16">16</xref></sup> surpasses the catalytic activity, stability,
+and performance in AEM-DEFC of Pd/C due to improved CO tolerance and
+a synergistic effect of Pd, Au, and Ni.</p><p>In this context, the
+modification of Pd with cheap transition metals,
+such as Cu, also increases its electrochemical performance due to
+a synergistic effect between the two metals. For instance, a functional
+method to obtain web-footed PdCu nanosheets with high catalytic activity
+for both ethanol and formic acid oxidation reactions has been reported
+recently.<sup><xref ref-type="bibr" rid="ref17">17</xref></sup> The performance of the PdCu
+catalysts has been attributed to the tuned electronic structure and
+geometric configuration of the nanosheets. Moreover, a facile strategy
+to selectively etching Pd to create edge sites, improving the surface
+area and reducing the charge transfer resistance has been introduced,
+resulting in an enhanced catalytic activity of the catalysts for the
+oxidation of formic acid.<sup><xref ref-type="bibr" rid="ref18">18</xref></sup> Therefore,
+the Pd–Cu alloying is of special interest in this work because
+of its higher performance for the EOR related to monometallic Pd,
+ascribed to improved tolerance to CO, enhanced stability, electronic
+modulation of Pd structure, and the bifunctional mechanism.<sup><xref ref-type="bibr" rid="ref19">19</xref>−<xref ref-type="bibr" rid="ref22">22</xref></sup> Moreover, organometallic Cu compounds have been classified as high
+valence complexes because of their ability to form Cu–C bonds,
+due to their variable oxidation states (1+, 2+, and 3+). Moreover,
+such compounds have the advantage of their relatively easy synthesis,
+in addition to their easiness to form carbon–carbon and carbon-heteroatoms
+bonds.<sup><xref ref-type="bibr" rid="ref23">23</xref></sup> On this context, Cu-mes and Cu(dmpz)L2
+have the advantage of being compounds with good solubility and adequate
+chemical stability.</p><p>In this work, the synthesis of Cu-mes and
+Cu(dmpz)L2 organometallic
+compounds is reported in detail. From there, a novel approach using
+these compounds as functionalizing agents of Vulcan (identified as
+C) is introduced, giving rise to the C<sub>Cu-mes</sub> and
+C<sub>Cu(dmpz)L2</sub> supports. The aim of such functionalization
+is to develop functional groups and Cu metal sites on the surface
+of C. Functional groups and the Cu atoms are intended to act as sites
+for the anchorage of Pd nanoparticles. Indeed, the development of
+Cu atoms is purposely done to form PdCu alloyed phases when the supports
+are used to synthesize the nanocatalysts labeled as Pd/C<sub>Cu-mes</sub> and Pd/C<sub>Cu(dmpz)L2</sub>, with the objective of enhancing their
+catalytic activity.</p><p>This approach differs from our previous
+report on the implementation
+of Cu organometallic compounds<sup><xref ref-type="bibr" rid="ref24">24</xref></sup> in the
+type of noble metal (Pt there, Pd here) and electrochemical reaction
+(ORR and OER in that report, EOR in this work). Therefore, to the
+best of our knowledge, this is the first time that such Cu compounds
+are used to functionalize C and develop Pd-based nanocatalysts for
+the EOR. The nanocatalysts are evaluated as anodes for the EOR in
+alkaline media. Furthermore, their performance in an AEM-DEFC is evaluated.</p></sec><sec id="sec2"><label>2</label><title>Experimental Section</title><p>The chemical reagents
+were of analytical grade: Ammonium hexachloropalladate
+(IV) (PdCl<sub>6</sub>(NH<sub>4</sub>)<sub>2</sub>) (99%), ethylene
+glycol (EG) (C<sub>2</sub>H<sub>6</sub>O<sub>2</sub>) (99.8%), sulfuric
+acid (H<sub>2</sub>SO<sub>4</sub>) (95–99%), sodium hydroxide
+(NaOH) (97%), copper(I) chloride (CuCl (I)) (99.9%), 1,4-dioxano (C<sub>4</sub>H<sub>8</sub>O<sub>2</sub>) (99.8%), ethylic ether ((C<sub>2</sub>H<sub>5</sub>)<sub>2</sub>O) (99%), 3,5 dimethyl pyrazole
+(C<sub>5</sub>H<sub>8</sub>N<sub>2</sub>) (99%), copper(II) acetate
+monohydrate (Cu(CO<sub>2</sub>CH<sub>3</sub>)<sub>2</sub>·H<sub>2</sub>O) (99%), terephthalic acid (C<sub>8</sub>H<sub>6</sub>O<sub>4</sub>) (97.5%), tetrahydrofuran (THF, C<sub>4</sub>H<sub>8</sub>O) (99.9%), potassium hydroxide (KOH) (90%), deuterated acetone ((CD<sub>3</sub>)<sub>2</sub>CO) (99.98%), benzene (C<sub>6</sub>D<sub>6</sub>) (99.99%), Nafion solution (5 wt %), 2-propanol (C<sub>3</sub>H<sub>8</sub>O) (95%), and ethanol (C<sub>2</sub>H<sub>5</sub>OH) (99.8%)
+were purchased from Sigma-Aldrich. Metallic sodium (Na<sup>0</sup>) and deionized water were acquired from Jalmeck. Vulcan XC-72 was
+obtained from Cabot. UHP Ar and O<sub>2</sub> were purchased from
+Infra (purity &gt;99%).</p><sec id="sec2.1"><label>2.1</label><title>Synthesis of Mesitylcopper
+(Cu-mes)</title><p>The preparation of the Cu-mes was carried out under
+an Ar atmosphere
+using a Schlenk line. The glassware was previously washed and heated
+at 95 °C overnight to eliminate moisture. The solvents (dioxane,
+THF, and ether) were distilled before use with Na<sup>0</sup> in refluxing
+conditions by 2 h, to avoid the formation of metallic oxides.</p><p>A suspension of CuCl (I) (10.9 g, 110 mmol) in THF (100 mL) was ultrasonically
+mixed for 1 h. Then 100 mL of mesityl BrMg were added under vigorous
+magnetic stirring for 12 h at room temperature in Ar atmosphere. A
+change in color from green to brown was observed. Dioxane (50 mL)
+was added to the mixture, maintaining stirring for 2 h, allowing precipitation
+for 1 h. The BrMgCl salt obtained had a white color.</p><p>The recovered
+yellow liquid was mixed with 50 mL of ether, and
+the solution was allowed to precipitate for 30 min. The resulting
+crystals were filtered and dried in vacuum to obtain Cu-mes as yellow/brown
+powder with 43.79% (6 g, 32 mmol) reaction yield.</p></sec><sec id="sec2.2"><label>2.2</label><title>Synthesis of the Cu Compound Coordinated with
+3,5 Dimethylpyrazole (dmpz) and Terephthalic Acid (L2) (Cu(dmpz)L2)</title><p>Cu(dmpz)L2 was synthesized as follows: a solution of copper(II)
+acetate (0.199 g) in methanol (15 mL) was mixed with 12 mL of methanol
+containing dmpz (0.192 g) and terephthalic acid (L2) (0.28 g) under
+continuous stirring. The resulting solution was dispersed for 45 min
+by ultrasound at room temperature. Afterward, 1 mL of NH<sub>4</sub>OH was added, allowing precipitation for 1 h. The color changed from
+blue/green to purple. The resulting product was filtered, washed with
+methanol, and dried to obtain Cu(dmpz)L2 as a blue powder with 77.7%
+(0.7 g) reaction yield. <xref rid="sch1" ref-type="scheme">Scheme <xref rid="sch1" ref-type="scheme">1</xref></xref> shows the synthesis of both Cu-mes and Cu(dmpz)L2.</p><fig id="sch1" position="float" orientation="portrait"><label>Scheme 1</label><caption><title>Synthesis
+of the Cu-mes and Cu(dmpz)L2 Compounds</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr1" position="float" orientation="portrait" xlink:href="an4c02670_0008.jpg"/></fig></sec><sec id="sec2.3"><label>2.3</label><title>Functionalization of Vulcan (C)</title><p>C<sub>Cu-mes</sub> was obtained from the functionalization of Vulcan
+XC-72. 0.4 g of Cu-mes and 0.6 g of C (Cu-mes: C molar ratio of 1:10)
+were stirred in 80 mL of THF under an Ar atmosphere and refluxing
+conditions for 48 h at 130 °C. The black solution generated was
+transferred into a Schlenk tube, filtered through a cannula, and washed
+with dried THF, ethanol, and water. The product was finally dried
+in a vacuum for 3 h, resulting in a black powder. C<sub>Cu(dmpz)L2</sub> was obtained following the same procedure using 0.7 g of Cu(dmpz)L2
+and 0.2 g of C, i.e., the same molar ratio. <xref rid="sch2" ref-type="scheme">Scheme <xref rid="sch2" ref-type="scheme">2</xref></xref> shows the procedure for the functionalization
+of C.</p><fig id="sch2" position="float" orientation="portrait"><label>Scheme 2</label><caption><title>Functionalization of C to Produce the C<sub>Cu-mes</sub> and
+C<sub>Cu(dmpz)L2</sub> Supports</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr2" position="float" orientation="portrait" xlink:href="an4c02670_0009.jpg"/></fig></sec><sec id="sec2.4"><label>2.4</label><title>Synthesis of the Pd Nanocatalysts</title><p>The 20
+wt % Pd/C nanocatalyst was synthesized by the polyol method.
+C (0.08 g) was dispersed in 46 mL of EG, while 0.025 g of PdCl<sub>6</sub>(NH<sub>4</sub>)<sub>2</sub> were separately mixed in 2 mL
+of ethanol. The dispersions were sonicated for 1 h. Afterward, the
+solution containing Pd was added dropwise to that of C and then stirred
+for 30 min in ambient conditions. The pH was adjusted to 12 by adding
+NaOH (1 mol L<sup>–1</sup>), the temperature increased to 160
+°C and maintained for 3 h under refluxing and stirring conditions.
+The mixture was allowed to cool to room temperature, and 1 mol L<sup>–1</sup> H<sub>2</sub>SO<sub>4</sub> was added to adjust the
+pH to 2. Finally, the product was filtered, washed, and dried. The
+20 wt % Pd/C<sub>Cu-mes</sub> and Pd/C<sub>Cu(dmpz)L2</sub> nanocatalysts were obtained following the same procedure. <xref rid="sch3" ref-type="scheme">Scheme <xref rid="sch3" ref-type="scheme">3</xref></xref> shows the synthesis
+procedure to obtain Pd/C<sub>Cu-mes</sub> and Pd/C<sub>Cu(dmpz)L2</sub>.</p><fig id="sch3" position="float" orientation="portrait"><label>Scheme 3</label><caption><title>Synthesis of the Pd/C<sub>Cu-mes</sub> and Pd/C<sub>Cu(dmpz)L2</sub> Nanocatalysts</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr3" position="float" orientation="portrait" xlink:href="an4c02670_0010.jpg"/></fig></sec><sec id="sec2.5"><label>2.5</label><title>Physicochemical Characterization</title><p>FT-IR
+spectra were obtained in transmission mode in a WQF-S10A FT-IR
+Rayleigh instrument, at 4 cm<sup>–1</sup> resolution in the
+scan range of 4000–500 cm<sup>–1</sup>. Raman microanalyses
+were carried out using a DXRZ Thermo Scientific equipment (λ
+= 633 nm, range between 400 and 3500 cm<sup>–1</sup>). X-ray
+diffraction (XRD) patterns were acquired in a Philips X’Pert
+diffractometer, with CuKα radiation (λ = 1.5418 Å).
+The lattice parameter (<italic toggle="yes">a</italic><sub>fcc</sub>) was calculated
+with Bragg’s law using data from the Pd(111) peak<disp-formula id="eq1"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" orientation="portrait" xlink:href="an4c02670_m001.jpg"/><label>1</label></disp-formula>where λ is the wavelength
+of the radiation
+emitted by the Cu K α lamp (1.5418 Å) and θ is the
+angle at the peak maximum. The fraction of Cu alloyed (<italic toggle="yes">D</italic>) in the nanocatalysts was calculated with <xref rid="eq2" ref-type="disp-formula">eq <xref rid="eq2" ref-type="disp-formula">2</xref></xref><disp-formula id="eq2"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" orientation="portrait" xlink:href="an4c02670_m002.jpg"/><label>2</label></disp-formula>where <italic toggle="yes">a</italic><sub>0</sub> is the
+experimental lattice parameter of the synthesized Pd/C, <italic toggle="yes">a</italic><sub>s</sub> is the lattice parameter of ca. 100% alloyed Pd–Cu/C,
+and <italic toggle="yes">x</italic><sub>s</sub> is the atomic fraction of Cu in
+the nanocatalysts.</p><p>The crystallite size (<italic toggle="yes">d</italic><sub>XRD</sub>) was estimated using values of the (220) Pd plane with
+the aid of the Scherrer Equation<disp-formula id="eq3"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" orientation="portrait" xlink:href="an4c02670_m003.jpg"/><label>3</label></disp-formula>where λ and θ
+have the same meaning
+as in <xref rid="eq1" ref-type="disp-formula">eq <xref rid="eq1" ref-type="disp-formula">1</xref></xref>, β is
+the full width at half-maximum in radians, and 0.9 is the Scherrer
+constant.</p><p>The chemical composition was determined in a Philips
+XL30 Scanning
+Electron Microscope, equipped with an EDS detector under an accelerating
+voltage of 20 kV. Characterization by HRTEM was performed in a Talos
+F200X microscope at an accelerating voltage of 200 kV.</p><p>XPS spectra
+were obtained in a Thermo Scientific Escalab 25OXi
+(source: Al–Kα, 1486.68 eV) spectrometer. Deconvolutions
+of the spectra were performed by using the Shirley-Sherwood baseline
+correction method. The binding energies (BEs) were calibrated to 284.8
+eV due to adventitious carbon.</p><p>The d-band center (<italic toggle="yes">E</italic>) of the nanocatalyst was
+determined by using the valence band (VB) spectra obtained by XPS.
+A Shirley-type background correction was applied. To ensure a precise
+comparison of all VB, the upper limit of integration for background
+subtraction was fixed at a BE of 10.0 eV. The maximum value of the
+VB (VBM) was used as a reference point to obtain the energy of the
+Fermi level (<italic toggle="yes">E</italic><sub>F</sub>). The VBM was determined
+by extrapolating the valence spectra edge. The difference between
+the d-band center and the Fermi level (<italic toggle="yes">E</italic> – <italic toggle="yes">E</italic><sub>F</sub>) is crucial for determining the adsorption
+strength of the nanocatalysts.</p><p>The area under the curve of the
+valence spectra was integrated
+by using the trapezoidal method. Then, <italic toggle="yes">E</italic> related
+to <italic toggle="yes">E</italic><sub>F</sub> was calculated using a weighted
+sum of the energies of each state in the valence spectra, known as
+the centroid,<sup><xref ref-type="bibr" rid="ref25">25</xref>,<xref ref-type="bibr" rid="ref26">26</xref></sup> which was determined in Matlab
+with the following equation<disp-formula id="eq4"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" orientation="portrait" xlink:href="an4c02670_m004.jpg"/><label>4</label></disp-formula>where ε is the energy of a given state
+in the VB and <italic toggle="yes">N</italic>(ε) is the density of states
+at that energy level.</p></sec><sec id="sec2.6"><label>2.6</label><title>Electrochemical Half-Cell
+Characterization</title><p>Measurements were carried out in a three-electrode
+cell setup at
+room temperature in a Pine Wave Driver 20 bipotentiostat. The counter-electrode
+was a Pt wire in a separate compartment, while the reference electrode
+was of the Ag/AgCl type in saturated 3 M NaCl solution placed in a
+Luggin capillary, both with a membrane at the tip. The potentials
+were referred to as the reversible hydrogen electrode (RHE). The catalytic
+inks were prepared by separately mixing 10 mg of each nanocatalyst,
+5 μL of Nafion, and 1 mL of 2-propanol by sonification for 40
+min. The working electrodes were fabricated by transferring an aliquot
+of 10 μL of the catalytic ink into a glassy carbon disk (geometric
+area of 0.196 cm<sup>2</sup>).</p><p>Cyclic voltammograms (CVs) in
+a N<sub>2</sub> atmosphere were obtained in a potential window between
+0.05 and 1.2 V/RHE at a sweep rate of 20 mV s<sup>–1</sup>.</p><p>CO-stripping measurements were carried out by bubbling CO into
+the cell for 10 min while polarizing the electrode at 50 mV/RHE, followed
+by purging with Ar for 30 min. Then, two CVs were recorded at 20 mV
+s<sup>–1</sup> in the range of 0.05 to 1.2 V/RHE, detecting
+the CO desorption (CO<sub>des</sub>) peak in the first cycle. ECSA
+values from CO-stripping (ECSA<sub>CO</sub>) were obtained from the
+integration of the experimental charge associated with the CO<sub>des</sub> peak, according to Equation<disp-formula id="eq5"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" orientation="portrait" xlink:href="an4c02670_m005.jpg"/><label>5</label></disp-formula>where <italic toggle="yes">Q</italic><sub>CO</sub> (μC)
+is the charge due to the oxidation of CO<sub>des</sub>, <italic toggle="yes">Q</italic><sub>theo,CO</sub> is the theoretical charge for the oxidation of
+a monolayer of CO on a Pd electrode (420 μC cm<sup>–2</sup>), and <italic toggle="yes">L</italic><sub>Pd</sub> (μg) is the Pd loading.</p><p>Moreover, ECSA values from the CVs of the nanocatalysts (ECSA<sub>PdO</sub>) were estimated with equation<disp-formula id="eq6"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" orientation="portrait" xlink:href="an4c02670_m006.jpg"/><label>6</label></disp-formula>where <italic toggle="yes">Q</italic><sub>0</sub> (μC)
+is the Coulombic charge from the peak due to the reduction of PdO
+species, <italic toggle="yes">Q</italic><sub>theo,PdO</sub> is the theoretical
+charge of 405 μC cm<sup>–2</sup> needed for the reduction
+of a monolayer of Pd-oxides,<sup><xref ref-type="bibr" rid="ref27">27</xref></sup> and <italic toggle="yes">L</italic><sub>Pd</sub> (μg) has the same meaning as in <xref rid="eq5" ref-type="disp-formula">eq <xref rid="eq5" ref-type="disp-formula">5</xref></xref>.</p><p>Polarization curves
+of the EOR were acquired by adding a solution
+of 0.5 mol L<sup>–1</sup> of C<sub>2</sub>H<sub>5</sub>OH to
+the 0.5 mol L<sup>–1</sup> of KOH electrolyte in the same potential
+interval and a sweep rate of 20 mV s<sup>–1</sup>. The current
+of the reaction mixture was normalized with respect to the experimental
+Pd mass content to obtain the mass current density (<italic toggle="yes">j</italic><sub>m</sub>). Accelerated degradation tests (ADTs) were performed
+by submitting the nanocatalysts to 2000 cycles at 200 mV s<sup>–1</sup> in the 0.05–1.2 V/RHE potential interval.</p></sec><sec id="sec2.7"><label>2.7</label><title>Anion Exchange Membrane Direct Ethanol Fuel
+Cell</title><p>The performance of the nanocatalysts was studied in
+a homemade ethanol/O<sub>2</sub> Teflon cell, using a PGSTAT302N Autolab
+potentiostat/galvanostat at room temperature. It must be highlighted
+that the cell setup served the purpose of comparing the performance
+of the nanocatalysts, but it was by no means intended to be a commercial-type
+AEM-DEFC.</p><p>The cell design included two Teflon compartments separated
+by a Fumatech Fumasep FAA AEM. The electrolytes were 0.5 mol L<sup>–1</sup> KOH in the cathode and 0.5 mol L<sup>–1</sup> ethanol +0.5 mol L<sup>–1</sup> KOH in the anode compartments.
+N<sub>2</sub> and O<sub>2</sub> were bubbled, respectively.</p><p>To fabricate the anodes and cathodes used in the AEM-DEFC, conductive
+Toray carbon paper (2050-L FuelCell Store) was used as the support
+electrode. Pieces having a 5 × 5 mm area were cut, at which the
+nanocatalysts were deposited. The catalytic ink was prepared by mixing
+2 mg of nanocatalyst with 95 μL of 2-propanol and 5 μL
+of Nafion. The metal loading on each anode and cathode was 0.20 mg<sub>metal</sub> cm<sup>–2</sup>. In the configuration proposed,
+anodes and cathodes contained the same nanocatalyst.</p><p>The method
+used to characterize the performance of the cell was
+chronopotentiometry. It consisted of applying a controlled current
+(<italic toggle="yes">i</italic>) between the anode and cathode in a galvanostatic
+mode. The anode acting as counter electrode and a Basi reference electrode
+were placed in the same chamber during measurements, while the working
+electrode was the cathode. Thus, the <italic toggle="yes">i</italic> imposed was
+negative (−50 μA to −1 mA). The performance of
+the nanocatalysts was compared by obtaining independent polarization
+curves of the anode (<italic toggle="yes">E</italic><sub>a</sub>) and cathode (<italic toggle="yes">E</italic><sub>c</sub>) potentials as a function of current density
+(<italic toggle="yes">j</italic>).</p><p>The measured potential difference between
+the anode and cathode
+was the fuel cell voltage (<italic toggle="yes">E</italic><sub>cell</sub>).</p><p>The fuel cell power density (<italic toggle="yes">P</italic><sub>cell</sub>)
+was determined using Ohḿs relationship<disp-formula id="eq7"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" orientation="portrait" xlink:href="an4c02670_m007.jpg"/><label>7</label></disp-formula></p><p><italic toggle="yes">E</italic><sub>cell</sub> vs <italic toggle="yes">j</italic> and <italic toggle="yes">P</italic><sub>cell</sub> vs <italic toggle="yes">j</italic> curves were plotted
+and shown.</p></sec><sec id="sec2.8"><label>2.8</label><title>Analysis of Reaction Products
+by High-Performance
+Liquid Chromatography</title><p>The species produced from the ethanol
+oxidation were quantified by high-performance liquid chromatography
+(HPLC) after electrolysis for 4 h at an applied potential of 0.8 V/RHE.
+The configuration of the AEM-DEFC changed slightly compared with that
+described above. The working electrodes were the nanocatalysts evaluated
+as anodes with the reference electrode placed in the same compartment.
+Meanwhile, an Fe/N-rGO cathode in the second chamber was the counter
+electrode.</p><p>Using this setup, it was possible to obtain the percentage
+of ethanol consumed as well as the percentage of the subproducts due
+to its oxidation. The subproducts were separated in a Biorad HPLC
+organic acid analysis column (Animex HPX-87) operating under isocratic
+conditions. The carrier consisted of 3.33 mmol L<sup>–1</sup> H<sub>2</sub>SO<sub>4</sub> at a flow rate of 0.6 mL min<sup>–1</sup> using He (99%, alphagaz). Aliquots were collected each hour and
+injected into a Thermo Scientific Dionex Ultimated 3000 UHPLC. The
+reaction products were quantitatively determined by comparing their
+retention times with those of pure commercial standards injected under
+the same analysis conditions.</p></sec></sec><sec id="sec3"><label>3</label><title>Results
+and Discussion</title><sec id="sec3.1"><label>3.1</label><title>Physicochemical Characterization
+of Vulcan
+Supports and Pd Nanocatalysts</title><p>The XRD patterns of C, C<sub>Cu-mes</sub>, and C<sub>Cu(dmpz)L2</sub> are shown in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>a. C displays peaks
+around 2θ = 25.40 and 43.54°, due to the (002) and (101)
+planes of graphite (JCPDS 74-2329), confirming that Vulcan has both
+amorphous and graphitic features.<sup><xref ref-type="bibr" rid="ref28">28</xref></sup></p><fig id="fig1" position="float" orientation="portrait"><label>Figure 1</label><caption><p>XRD patterns
+of (a) C, C<sub>Cu-mes</sub>, and C<sub>Cu(dmpz)L2</sub>; (b)
+Pd/C, Pd/C<sub>Cu-mes</sub>, and Pd/C<sub>Cu(dmpz)L2</sub>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr4" position="float" orientation="portrait" xlink:href="an4c02670_0001.jpg"/></fig><p>Besides the (002) reflection, C<sub>Cu-mes</sub> shows reflections
+at 32.57, 35.76, 38.97, 47.05, 61.03, 67.41, and 74.13° (2θ),
+corresponding to the (110), (002), (111), (202), (113), (220), and
+(004) planes of tenorite (CuO, JCPDS 41–0254).<sup><xref ref-type="bibr" rid="ref29">29</xref>,<xref ref-type="bibr" rid="ref30">30</xref></sup> Meanwhile, C<sub>Cu(dmpz)L2</sub> shows high-intensity reflections
+ascribed to C<sub>14</sub>H<sub>14</sub>CuN<sub>4</sub>O<sub>7</sub>, which hinder those of graphite. These features evidently show the
+effect of functionalizing C with the organometallic compounds on its
+structural characteristics. This confirms the correct coordination
+of the Cu compounds on the carbon surface. The FT-IR, Raman, and XPS
+spectra, as well as the chemical composition of the three carbon supports,
+are shown and discussed in Section S1 of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsanm.4c02670/suppl_file/an4c02670_si_001.pdf">Supporting Information</ext-link> file. Moreover, part of the physicochemical and
+electrochemical characterization of the Pd nanocatalysts is shown
+and discussed in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsanm.4c02670/suppl_file/an4c02670_si_001.pdf">Section S2</ext-link>.</p><p><xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>b shows
+the XRD patterns of the nanocatalysts. The reflection close to 2θ
+= 25° is ascribed to the (002) plane of the graphitic carbon
+structure. In Pd/C, the peaks located at 40.3, 46.9, 68.2, 82.1, and
+86.8° (2θ) are attributed to the (111), (200), (220), (311),
+and (222) planes of crystalline fcc Pd (JCPDS 46-1043).<sup><xref ref-type="bibr" rid="ref31">31</xref>,<xref ref-type="bibr" rid="ref32">32</xref></sup></p><p>In the case of the nanocatalysts supported on functionalized
+carbon,
+the Pd planes shift toward higher degrees (2θ) suggesting a
+modification of the Pd lattice due to the formation of fcc PdCu alloyed
+phases (JCPDS 48-1551).<sup><xref ref-type="bibr" rid="ref33">33</xref>,<xref ref-type="bibr" rid="ref34">34</xref></sup> There are no additional
+peaks related to Cu<sup>0</sup> or Cu oxides. Nevertheless, their
+presence should not be discarded.<sup><xref ref-type="bibr" rid="ref35">35</xref></sup> The
+displacement of the Pd planes is more evident in Pd/C<sub>Cu(dmpz)L2</sub> and this is mainly attributed to the high Cu content exposed at
+this nanocatalyst (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsanm.4c02670/suppl_file/an4c02670_si_001.pdf">Table S4</ext-link>). Moreover,
+it shows several peaks in the 15–25° (2θ) interval
+attributed to the organometallic compound, as observed in the diffractogram
+of C<sub>Cu(dmpz)L2</sub> in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>a.</p><p>Thus, the shift of the reflections toward
+higher 2θ degrees
+in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>b is attributed
+to the formation of PdCu alloyed phases. To confirm this, using data
+from the (111) Pd plane, the lattice parameter (<italic toggle="yes">a</italic><sub>fcc</sub>) and the fraction of Cu alloyed (D) have been calculated
+and are depicted in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsanm.4c02670/suppl_file/an4c02670_si_001.pdf">Table S5</ext-link>. Pd/C<sub>Cu-mes</sub> and Pd/C<sub>Cu(dmpz)L2</sub> have an obvious
+lattice contraction compared to Pd/C, resulting in <italic toggle="yes">a</italic><sub>fcc</sub> = 0.375 and 0.369 nm, respectively. This is evidence
+that Cu atoms from the organometallic compounds and Pd nanoparticles
+promote the formation of PdCu alloyed phases on both nanocatalysts.</p><p>Additionally, the D values of Pd/C<sub>Cu-mes</sub> and
+Pd/C<sub>Cu(dmpz)L2</sub> are 31 and 33%, respectively. These <italic toggle="yes">a</italic><sub>fcc</sub> and D values are similar to those reported
+in the literature for conventional PdCu alloys.<sup><xref ref-type="bibr" rid="ref36">36</xref>−<xref ref-type="bibr" rid="ref38">38</xref></sup> Thus, strong
+evidence of the formation of the PdCu alloy at Pd/C<sub>Cu-mes</sub> and Pd/C<sub>Cu(dmpz)L2</sub> is obtained from this characterization.</p><p><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsanm.4c02670/suppl_file/an4c02670_si_001.pdf">Table S5</ext-link> summarizes the mean crystallite
+size values (<italic toggle="yes">d</italic><sub>XRD</sub>) of the nanocatalysts
+from the information on the Pd(220) reflection. Pd/C<sub>Cu-mes</sub> has the smallest <italic toggle="yes">d</italic><sub>XRD</sub> compared to Pd/C<sub>Cu(dmpz)L2</sub> and Pd/C. The small <italic toggle="yes">d</italic><sub>XRD</sub> value of Pd/C<sub>Cu-mes</sub> can be correlated to the presence
+of nucleation centers (surface functional groups and Cu sites), which
+limit the particle size growth due to the functionalization with Cu-mes.
+Pd/C<sub>Cu(dmpz)L2</sub> has also a smaller <italic toggle="yes">d</italic><sub>XRD</sub> value than Pd/C. It should be mentioned that high dispersion
+and small particle size play a key role in the catalytic activity
+since these parameters have a critical effect on the ECSA.<sup><xref ref-type="bibr" rid="ref32">32</xref></sup></p><p><xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>a shows
+TEM micrographs of the Pd/C nanocatalyst. Dispersed dark nanoparticles
+on the support are attributed to Pd. The inset is an HRTEM image of
+the nanoparticles. The histogram in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>b shows the resulting particle size distribution
+of the nanocatalyst with an average <italic toggle="yes">d</italic><sub>TEM</sub> = 11.44 ± 2.69 nm (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsanm.4c02670/suppl_file/an4c02670_si_001.pdf">Table S5</ext-link>). In
+the case of Pd/C<sub>Cu-mes</sub> (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>c), agglomeration is observed, although the
+micrograph shows also some dispersed nanoparticles (<italic toggle="yes">d</italic><sub>TEM</sub> = 6.12 ± 1.76, <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>d and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsanm.4c02670/suppl_file/an4c02670_si_001.pdf">Table S5</ext-link>). <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>e,f shows
+micrograph and histogram, respectively, of Pd/C<sub>Cu(dmpz)L2</sub>. It has a better dispersion compared to the other two nanocatalysts,
+having <italic toggle="yes">d</italic><sub>TEM</sub> = 5.72 ± 1.52 nm. It
+should be noted that Pd/C<sub>Cu(dmpz)L2</sub> has a higher Cu concentration
+and <italic toggle="yes">D</italic> value than Pd/C<sub>Cu-mes</sub> (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsanm.4c02670/suppl_file/an4c02670_si_001.pdf">Tables S4 and S5</ext-link>), so it is inferred that Cu-species
+positively influence the anchorage and homogeneous dispersion of Pd
+nanoparticles. Therefore, the TEM results show with more clarity the
+positive effect of the functionalization of Vulcan on limiting the
+Pd particle size growth.</p><fig id="fig2" position="float" orientation="portrait"><label>Figure 2</label><caption><p>TEM micrographs and corresponding particle size
+(<italic toggle="yes">d</italic><sub>TEM</sub>) histograms of Pd/C (a,b), Pd/C<sub>Cu-mes</sub> (c,d), and Pd/C<sub>Cu(dmpz)L2</sub> (e,f). Insets:
+HRTEM images
+of representative nanoparticles.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr5" position="float" orientation="portrait" xlink:href="an4c02670_0002.jpg"/></fig><p>The high angle annular dark field images and chemical
+mapping of
+Pd/C, Pd/C<sub>Cu-mes</sub>, and Pd/C<sub>Cu(dmpz)L2</sub>,
+along with their Raman spectra are shown and discussed in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsanm.4c02670/suppl_file/an4c02670_si_001.pdf">Figures S4–S7</ext-link> of <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsanm.4c02670/suppl_file/an4c02670_si_001.pdf">Section S2</ext-link>.</p><p>The XPS spectra in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref> show the (a) C 1s, (b) O 1s, (c) Pd 3d,
+and (d) Cu 2p regions
+of Pd/C<sub>Cu-mes</sub>. The C 1s region has the most intense
+signal at 284.77 eV assigned to sp<sup>2</sup> hybridizations (C=C
+bonds) with a relative concentration of 77.5 at. % (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsanm.4c02670/suppl_file/an4c02670_si_001.pdf">Table S7</ext-link>), followed by the sp<sup>3</sup> hybridizations (C–C
+bonds, BE = 285.73 eV) and the C–O–C species (BE = 288.77
+eV). Meanwhile, the region of the O 1s has been deconvoluted into
+seven peaks. The signals at 529.94 and 530.82 eV correspond to CuO
+and Cu<sub>2</sub>O bonds, respectively. These species have lower
+relative concentrations than the other species detected (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsanm.4c02670/suppl_file/an4c02670_si_001.pdf">Table S7</ext-link>). However, their identification confirms
+the presence of the Cu species bonding with O atoms.</p><fig id="fig3" position="float" orientation="portrait"><label>Figure 3</label><caption><p>XPS spectra of Pd/C<sub>Cu-mes</sub> in the (a) C 1s, (b)
+O 1s, (c) Pd 3d, and (d) Cu 2p regions.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr6" position="float" orientation="portrait" xlink:href="an4c02670_0003.jpg"/></fig><p>Additionally, the signals assigned to PdO and PdO<sub>2</sub> are
+displayed at 531.72 and 532.52 eV, which confirms the bonding interaction
+between Pd and O (see their relative concentration in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsanm.4c02670/suppl_file/an4c02670_si_001.pdf">Table S7</ext-link>). The other peaks correspond to C=O,
+C–O, and C–C=O bonds ascribed to the functional
+groups from the support. At the Pd 3d region, four doublets from the
+spin–orbit splitting into the Pd 3d<sub>5/2</sub> and Pd 3d<sub>3/2</sub> states confirm the formation of the PdCu phase (BE = 335.0
+and 340.26 eV), metallic Pd (Pd<sup>0</sup>, BE = 335.54 and 340.71
+eV), PdO (Pd<sup>2+</sup>, BE = 336.03 and 341.14 eV), and PdO<sub>2</sub> (Pd<sup>4+</sup>, BE = 336.58 and 341.62 eV). The higher
+relative concentration corresponds to Pd<sup>0</sup> (35.3 at %),
+followed by the Pd<sup>4+</sup>, Pd<sup>2+</sup>, and PdCu species
+(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsanm.4c02670/suppl_file/an4c02670_si_001.pdf">Table S7</ext-link>). The deconvoluted peaks in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref> have estimated full
+width at half maximum (fwhm, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsanm.4c02670/suppl_file/an4c02670_si_001.pdf">Table S7</ext-link>)
+values close to those reported in the literature.<sup><xref ref-type="bibr" rid="ref39">39</xref>−<xref ref-type="bibr" rid="ref41">41</xref></sup></p><p>It is
+important to note that the Pd doublets in Pd/C<sub>Cu-mes</sub> show a shift toward higher BE compared to the Pd/C nanocatalyst
+of which the XPS spectra have been reported in ref (<xref ref-type="bibr" rid="ref42">42</xref>). Specifically, Pd<sup>0</sup> in the Pd 3d<sub>5/2</sub> state is centered in 335.54 eV
+at Pd/C<sub>Cu-mes</sub>, a shift of 0.4 eV compared to 335.14
+eV of the same species at Pd/C. The displacement is attributed to
+a modification of the d-band of Pd due to an electron transfer from
+Cu atoms which increases the BE of the 3d electrons of Pd, shifting
+their peaks implying the formation of PdCu alloyed phases, and providing
+strong evidence of alloy structure and composition as reported elsewhere,<sup><xref ref-type="bibr" rid="ref43">43</xref>,<xref ref-type="bibr" rid="ref44">44</xref></sup> in good agreement with the observations from XRD and HRTEM analyses.</p><p>The Cu 2p spectra are also deconvoluted into three doublets at
+the spin–orbit splitting of Cu 2p<sub>3/2</sub> and Cu 2p<sub>1/2</sub>. The peaks at around 932.13 and 951.41 eV emerge from PdCu
+phases, with a relative concentration of 21.8 atom % (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsanm.4c02670/suppl_file/an4c02670_si_001.pdf">Table S7</ext-link>). Meanwhile, the doublets at 932.35
+and 952.33 eV are due to Cu<sup>+</sup> species (with the highest
+relative concentration: 54.9 at %), and those at 934.45 and 954.22
+eV are attributed to Cu<sup>2+</sup> species (23.3 at %, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsanm.4c02670/suppl_file/an4c02670_si_001.pdf">Table S7</ext-link>). In addition, the presence of a satellite
+peak at BE = 945 eV confirms the formation of Cu oxides, as discussed
+in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>.</p><p><xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref> shows the
+XPS spectra of Pd/C<sub>Cu(dmpz)L2</sub> in the (a) C 1s, (b) O 1s,
+(c) Pd 3d, and (d) Cu 2p regions. In the C 1s region, besides the
+C=C (sp<sup>2</sup> hybridization), C–C (sp<sup>3</sup> hybridization), and C–O–C as in the case of Pd/C<sub>Cu-mes</sub> (in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>a), the C=O (BE = 287.76 eV), and O–C=O
+(BE = 289.50 eV) bonds also emerge. This is an evident effect of the
+different chemical structures of Cu(dmpz)L2 compared to Cu-mes. Meanwhile,
+the O 1s region displays the peaks corresponding to CuO, Cu<sub>2</sub>O, PdO, and Pd<sub>2</sub>O, the latter with the highest relative
+concentration (25.5 at %, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsanm.4c02670/suppl_file/an4c02670_si_001.pdf">Table S7</ext-link>). Additionally,
+signals ascribed to C=O, C–O, and the C–C=O
+bonds are shown.</p><fig id="fig4" position="float" orientation="portrait"><label>Figure 4</label><caption><p>XPS spectra of Pd/C<sub>Cu(dmpz)L2</sub> in the (a) C
+1s, (b) O
+1s, (c) Pd 3d, and (d) Cu 2p regions.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr7" position="float" orientation="portrait" xlink:href="an4c02670_0004.jpg"/></fig><p>The deconvoluted spectra of the Pd 3d region in
+Pd/C<sub>Cu(dmpz)L2</sub> display four doublets corresponding to PdCu
+bonds (BE = 335.23 and
+340.70), Pd<sup>0</sup> (BE = 335.74 and 341.08 eV), Pd<sup>2+</sup> (BE = 336.72 and 341.96 eV), and Pd<sup>4+</sup> (BE = 338.64 and
+342.52 eV). Pd<sup>0</sup> in the Pd 3d<sub>5/2</sub> state exhibits
+a shift of 0.6 eV toward higher BE compared to Pd/C in.<sup><xref ref-type="bibr" rid="ref42">42</xref></sup> The shift is more important than that shown
+by Pd/C<sub>Cu-mes</sub>, indicating stronger interactions
+tending to form PdCu alloyed phases at Pd/C<sub>Cu(dmpz)L2</sub>.
+Even more, three doublets are observed in the Cu 2p<sub>3/2</sub> and
+Cu 2p<sub>1/2</sub> states, due to the Cu<sup>+</sup>, Cu<sup>2+</sup>, and PdCu species. Similar to the previous nanocatalyst, the highest
+relative concentration is that of Cu<sup>+</sup> (72.6 at %, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsanm.4c02670/suppl_file/an4c02670_si_001.pdf">Table S7</ext-link>).</p></sec><sec id="sec3.2"><label>3.2</label><title>Electrochemical
+Behavior of the Nanocatalysts</title><p><xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>a shows the CVs of
+the nanocatalysts. The characteristic
+peaks related to Pd-based materials are shown, i.e., the hydrogen
+adsorption/desorption (<italic toggle="yes">H</italic><sub>ads/des</sub>) region
+in the 0.05–0.40 V/RHE interval, the double layer region between
+∼0.50 and 0.60 V/RHE, and the Pd oxide formation/reduction
+between 0.60 and 1.2 V/RHE. The nanocatalysts supported on functionalized
+C show a higher current density (<italic toggle="yes">j</italic>) over the potential
+scanned, particularly a remarkable increase in the peak ascribed to
+the reduction of Pd oxides, compared to Pd/C.</p><fig id="fig5" position="float" orientation="portrait"><label>Figure 5</label><caption><p>(a) CVs of Pd/C, Pd/C<sub>Cu-mes</sub>, and Pd/C<sub>Cu(dmpz)L2</sub> in N<sub>2</sub>-saturated 0.5 mol L<sup>–1</sup> KOH recorded
+at 20 mV s<sup>–1</sup>. (b) CO-stripping curves at the nanocatalysts
+in 0.5 mol L<sup>–1</sup> KOH saturated with N<sub>2</sub> recorded
+at 20 mV s<sup>–1</sup>. (c) Polarization curves at Pd/C, Pd/C<sub>Cu-mes</sub>, and Pd/C<sub>Cu(dmpz)L2</sub> in 0.5 KOH mol
+L<sup>–1</sup> in the presence of 0.5 mol L<sup>–1</sup> EtOH recorded at 20 mV s<sup>–1</sup>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr8" position="float" orientation="portrait" xlink:href="an4c02670_0005.jpg"/></fig><p>Pd/C<sub>Cu-mes</sub> and Pd/C<sub>Cu(dmpz)L2</sub> show <italic toggle="yes">j</italic> peaks at 0.65 and 0.90 V/RHE in the anodic
+scan. The latter
+also shows a broad shoulder at ca. 0.50 V/RHE. Morais et al. attribute
+these features to redox properties of Cu-based sites, also suggesting
+that the reactions that occur in the formation of the prepeak at 0.65
+V/RHE are<sup><xref ref-type="bibr" rid="ref43">43</xref></sup><disp-formula id="eq8"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" orientation="portrait" xlink:href="an4c02670_m008.jpg"/><label>8</label></disp-formula><disp-formula id="eq9"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" orientation="portrait" xlink:href="an4c02670_m009.jpg"/><label>9</label></disp-formula>while the peak
+at ca. 0.9 V/RHE is mainly
+due to the reactions<disp-formula id="eq10"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" orientation="portrait" xlink:href="an4c02670_m010.jpg"/><label>10</label></disp-formula><disp-formula id="eq11"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" orientation="portrait" xlink:href="an4c02670_m011.jpg"/><label>11</label></disp-formula></p><p>Cu<sub>2</sub>O and CuO as subproducts
+are insoluble species, probably
+leading to the passivation of Cu atoms at the surface of the nanocatalyst.
+The j peaks between 0.8 and 0.7 V/RHE in the backward scan can be
+attributed to the reduction of the Pd oxides, as well as to the reprecipitation
+of Cu from soluble Cu<sup>+</sup> and Cu<sup>2+</sup> species,<sup><xref ref-type="bibr" rid="ref45">45</xref>−<xref ref-type="bibr" rid="ref47">47</xref></sup> as well as the presence of those Cu species, which are confirmed
+from XPS analysis.</p><p><xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>b depicts
+the CO-stripping curves at the developed nanocatalysts. Pd/C shows
+CO stripping with an onset potential (<italic toggle="yes">E</italic><sub>onset,CO</sub>) of 0.70 V/RHE and an oxidation potential (<italic toggle="yes">E</italic><sub>ox</sub>) of 0.82 V/RHE (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsanm.4c02670/suppl_file/an4c02670_si_001.pdf">Table S8</ext-link>). This <italic toggle="yes">E</italic><sub>ox</sub> value aligns closely with the value reported
+elsewhere for commercial Pd/C electrocatalyst (0.879 V/RHE).<sup><xref ref-type="bibr" rid="ref47">47</xref></sup> Meanwhile, the Pd/C<sub>Cu-mes</sub> nanocatalyst
+has a remarkable shift of both potentials to more negative values
+(<italic toggle="yes">E</italic><sub>onset,CO</sub> = 0.19 and <italic toggle="yes">E</italic><sub>ox</sub> = 0.79 V/RHE), suggesting that poisoning CO species
+can be removed more easily. Meanwhile, Pd/C<sub>Cu(dmpz)L2</sub> also
+shows an enhanced effect, with values of <italic toggle="yes">E</italic><sub>onset,CO</sub> = 0.13 and <italic toggle="yes">E</italic><sub>ox</sub> = 0.81 V/RHE.</p><p>It
+is interesting to observe that Pd/C features a single peak during
+CO oxidation, whereas Pd/C<sub>Cu-mes</sub> develops a prepeak
+at 0.59 V/RHE, in addition to the previously mentioned peak at 0.79
+V/RHE. Moreover, the <italic toggle="yes">j</italic> peak at 0.92 V/RHE most likely
+corresponds to Cu-species as described by reactions (10) and (11)
+and can be correlated to the peaks in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>a. Pd/C<sub>Cu(dmpz)L2</sub> also shows a
+prepeak, a CO-oxidation peak, and a third peak due to the Cu species
+(0.58, 0.81, and 0.90 V/RHE, respectively).</p><p>It has been reported
+that the oxidation of adsorbed CO species
+(CO<sub>ads</sub>) at more negative potentials is promoted by the
+bifunctional mechanism and the electronic effect.<sup><xref ref-type="bibr" rid="ref48">48</xref></sup> In the former, Cu-atoms form surface OH<sup>–</sup> species at more negative potentials which are transported to Pd
+sites, promoting an easier oxidation of CO<sub>ads</sub>. Moreover,
+the formation of PdCu alloyed phases leads to a modification of the
+electronic structure of Pd, weakening the adsorption energy of CO<sub>ads</sub> species, facilitating their oxidation.<sup><xref ref-type="bibr" rid="ref49">49</xref></sup></p><p>The broadness and the presence of multiple CO-stripping
+peaks at
+Pd/C<sub>Cu-mes</sub> and Pd/C<sub>Cu(dmpz)L2</sub> is attributed
+to the oxidation of weak and strong CO<sub>ads</sub> at different
+Pd planes, including the ones at 0.79–0.81 V/RHE. This effect
+is reported elsewhere and has been attributed it to a modification
+in the CO adsorption mechanism on the surface of the Pd sites.<sup><xref ref-type="bibr" rid="ref50">50</xref></sup> Another reason for such a feature is that Pd/C<sub>Cu-mes</sub> and Pd/C<sub>Cu(dmpz)L2</sub> contain unalloyed
+Pd (as seen from XPS analysis, <xref rid="fig3" ref-type="fig">Figures <xref rid="fig3" ref-type="fig">3</xref></xref> and <xref rid="fig4" ref-type="fig">4</xref>) which provokes the desorption
+of CO<sub>ads</sub> at more negative potentials than in the case of
+Pd/C. Actually, it has been reported that the ECSA value has some
+degree of relationship with the percentage of Pd<sup>0</sup> in Pd-based
+catalysts, which is intrinsically related to the alloying degree.<sup><xref ref-type="bibr" rid="ref51">51</xref></sup> In contrast, Pd/C seems to oxidize only one
+strongly adsorbed CO<sub>ads</sub> species at more positive potentials.</p><p>The ECSA from CO-stripping (ECSA<sub>CO</sub>) has been determined
+from the charge due to the CO oxidation peak in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>b using <xref rid="eq5" ref-type="disp-formula">eq <xref rid="eq5" ref-type="disp-formula">5</xref></xref>, obtaining 46.0, 102.8, and 145.2 m<sup>2</sup> g<sup>–1</sup> for Pd/C, Pd/C<sub>Cu-mes</sub>, and Pd/C<sub>Cu(dmpz)L2</sub>, respectively (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsanm.4c02670/suppl_file/an4c02670_si_001.pdf">Table S8</ext-link>). The ECSA<sub>CO</sub> of Pd/C is similar to that reported in the
+literature.<sup><xref ref-type="bibr" rid="ref52">52</xref></sup> Nevertheless, those of Pd/C<sub>Cu-mes</sub> and Pd/C<sub>Cu(dmpz)L2</sub> are higher probably
+due to the presence of Cu species, which promote some active sites
+with high activity for CO oxidation. As a result, the synergistic
+effect between Pd and Cu promotes a higher catalytic activity in terms
+of <italic toggle="yes">E</italic><sub>onset,CO</sub> and <italic toggle="yes">E</italic><sub>ox</sub> compared to Pd/C.</p><p>The polarization curves of the EOR
+at the Pd/C, Pd/C<sub>Cu-mes</sub>, and Pd/C<sub>Cu(dmpz)L2</sub> nanocatalysts are shown in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>c. The nanocatalysts
+display a typical behavior for the reaction, except for Pd/C which
+shows two peaks in the backward scan, the same that are discussed
+in detail in ref (<xref ref-type="bibr" rid="ref42">42</xref>). At the more negative potentials, ethanol adsorption proceeds on
+the surface-active sites at the nanocatalyst, followed by its dissociation.
+Such surface reactions hinder the <italic toggle="yes">H</italic><sub>ads/des</sub> region seen in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>a.</p><p>The Pd/C<sub>Cu-mes</sub> and Pd/C<sub>Cu(dmpz)L2</sub> nanocatalysts
+promote the EOR at a more negative <italic toggle="yes">E</italic><sub>onset</sub> (0.38 V/RHE) compared to Pd/C (0.41 V/RHE) as seen in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsanm.4c02670/suppl_file/an4c02670_si_001.pdf">Table S8</ext-link>, due to a modification of the Pd lattice
+because of PdCu alloying. Moreover, the mass current density (<italic toggle="yes">j</italic><sub>m</sub>) peak is considerably higher at Pd/C<sub>Cu-mes</sub> (1231.3 mA mg<sub>Pd</sub><sup>–1</sup>), i.e., 1.2 and 1.5
+times more intense than those of Pd/C<sub>Cu(dmpz)L2</sub> and Pd/C,
+respectively (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsanm.4c02670/suppl_file/an4c02670_si_001.pdf">Table S8</ext-link>), showing that the
+electronic effect is very influential at this nanocatalysts by modifying
+the energy of adsorption of ethanol and intermediates. It can be mentioned,
+however, that the <italic toggle="yes">j</italic><sub>m</sub> of Pd/C (808.3 mA
+mg<sub>Pd</sub><sup>–1</sup>) is higher than those reported
+previously.<sup><xref ref-type="bibr" rid="ref47">47</xref>,<xref ref-type="bibr" rid="ref53">53</xref></sup></p><p>Nevertheless, it should
+be highlighted that Pd/C<sub>Cu(dmpz)L2</sub> delivers higher <italic toggle="yes">j</italic><sub>m</sub> values in the potential
+ranging from ca. 0.45 to 0.9 V/RHE than Pd/C<sub>Cu-mes</sub>, and is more important than Pd/C over the full scan. The curve at
+Pd/C<sub>Cu(dmpz)L2</sub> is broader, indicating the oxidation of
+ethanol and intermediate species over a wider, more negative potential
+interval. This electrocatalytic behavior shows that the electronic
+effect and the bifunctional mechanism are highly relevant in this
+nanocatalyst.</p><p>Evidently, the nanocatalysts supported on carbon
+functionalized
+with Cu organometallic compounds have enhanced performance for the
+reaction. Such high catalytic activity can be related to the high
+ECSA from the reduction of Pd-oxides (ECSA<sub>PdO</sub>) of Pd/C<sub>Cu-mes</sub> and Pd/C<sub>Cu(dmpz)L2</sub> obtained with <xref rid="eq6" ref-type="disp-formula">Equation <xref rid="eq6" ref-type="disp-formula">6</xref></xref>, i.e., 118.7 and
+148.0 m<sup>2</sup> g<sup>–1</sup>, compared to 29.4 m<sup>2</sup> g<sup>–1</sup> of Pd/C before ADT (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsanm.4c02670/suppl_file/an4c02670_si_001.pdf">Table S8</ext-link>), attributed to a large number of active sites participating
+in the reaction, including those of Cu oxides.</p><p>The improvement
+in catalytic activity for the EOR of Pd/C<sub>Cu-mes</sub> and
+Pd/C<sub>Cu(dmpz)L2</sub> (in terms of <italic toggle="yes">E</italic><sub>onset</sub> as well as the shift of current densities toward more
+negative potentials) compared to Pd/C, can be ascribed in part to
+an easier removal of CH<sub>3</sub>CO<sub>ads</sub> (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>b). The latter is mainly attributed
+to the bifunctional mechanism, which can be explained according to
+the following reactions<disp-formula id="eq12"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" orientation="portrait" xlink:href="an4c02670_m012.jpg"/><label>12</label></disp-formula><disp-formula id="eq13"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" orientation="portrait" xlink:href="an4c02670_m013.jpg"/><label>13</label></disp-formula><disp-formula id="eq14"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" orientation="portrait" xlink:href="an4c02670_m014.jpg"/><label>14</label></disp-formula><disp-formula id="eq15"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" orientation="portrait" xlink:href="an4c02670_m015.jpg"/><label>15</label></disp-formula><disp-formula id="eq16"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" orientation="portrait" xlink:href="an4c02670_m016.jpg"/><label>16</label></disp-formula><disp-formula id="eq17"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" orientation="portrait" xlink:href="an4c02670_m017.jpg"/><label>17</label></disp-formula><disp-formula id="eq18"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" orientation="portrait" xlink:href="an4c02670_m018.jpg"/><label>18</label></disp-formula></p><p>The main product of ethanol electrooxidation
+is acetate, due to
+either incomplete electrooxidation or a multistep reaction. As noted
+above, the reactive intermediates such as CH<sub>3</sub>CH<sub>2</sub>O<sub>ads</sub> and CH<sub>3</sub>CO<sub>ads</sub> are adsorbed on
+the surface of Pd, blocking active sites (<xref rid="eq12" ref-type="disp-formula">reactions <xref rid="eq12" ref-type="disp-formula">12</xref></xref>–<xref rid="eq15" ref-type="disp-formula">15</xref>). This behavior
+generally occurs at negative potentials in the anodic sweep. At more
+positive potentials, the production of OH<sup>–</sup> species
+is promoted on the Pd surface, displacing the strongly adsorbed carbonaceous
+species (<xref rid="eq16" ref-type="disp-formula">reaction <xref rid="eq16" ref-type="disp-formula">16</xref></xref>) and ultimately increasing the <italic toggle="yes">j</italic> generated. In
+the presence of Cu, the OH<sup>–</sup> groups are generated
+at more negative potentials promoting the release of strongly adsorbed
+intermediates on Pd active sites and then enhancing the rate of complete
+ethanol oxidation (<xref rid="eq17" ref-type="disp-formula">reactions <xref rid="eq17" ref-type="disp-formula">17</xref></xref> and <xref rid="eq18" ref-type="disp-formula">18</xref>).<sup><xref ref-type="bibr" rid="ref54">54</xref></sup></p><p>Even more, the presence of Cu<sup>2+</sup> species favors
+the formation
+of OH<sup>–</sup> species, which modifies the EOR pathway where
+acetaldehyde is oxidized to acetic acid, according to reactions<sup><xref ref-type="bibr" rid="ref55">55</xref></sup><disp-formula id="eq19"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" orientation="portrait" xlink:href="an4c02670_m019.jpg"/><label>19</label></disp-formula><disp-formula id="eq20"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" orientation="portrait" xlink:href="an4c02670_m020.jpg"/><label>20</label></disp-formula></p><p>Therefore,
+the results also indicate
+an improvement in catalytic
+activity of Pd/C<sub>Cu-mes</sub> and Pd/C<sub>Cu(dmpz)L2</sub> promoted by a mechanism of the EOR following a path that produces
+acetic acid due to the presence of Cu-species.<sup><xref ref-type="bibr" rid="ref55">55</xref></sup> The same Cu-species have been reported to prompt a faster
+electron transfer rate,<sup><xref ref-type="bibr" rid="ref47">47</xref></sup> thus enhancing
+even more the catalytic performance of the nanocatalysts. It is likely
+also that upon the development of such reactions, the long-term stability
+of the nanocatalysts is improved by removing adsorbed poisoning intermediates
+that may limit or even decrease their performance.</p><p>Moreover,
+the improved j<sub>m</sub> at Pd/C<sub>Cu-mes</sub> and Pd/C<sub>Cu(dmpz)L2</sub> is related to a modification of the
+electronic structure of Pd (electronic effect) because of the formation
+of PdCu alloyed phases. As a result, the adsorption energy of species
+such as ethanol and/or intermediates becomes weaker, facilitating
+bonds cleavages and thus promoting the generation of higher <italic toggle="yes">j</italic><sub>m</sub> values.<sup><xref ref-type="bibr" rid="ref56">56</xref>,<xref ref-type="bibr" rid="ref57">57</xref></sup></p><p>According to
+several workers, there is a strong correlation between
+the d-band center of a nanocatalyst and the adsorption energy of species
+and reaction intermediates, which affects its catalytic activity and
+electrochemical stability.<sup><xref ref-type="bibr" rid="ref36">36</xref>,<xref ref-type="bibr" rid="ref58">58</xref>,<xref ref-type="bibr" rid="ref59">59</xref></sup> Hammer and Nørskov have proposed that the higher the energy
+of the d states compared to the Fermi level (<italic toggle="yes">E</italic><sub>F</sub>), the greater the energy of the antibonding states and the
+greater the bond strength.<sup><xref ref-type="bibr" rid="ref60">60</xref></sup> Consequently,
+the energy difference between the d-band center (<italic toggle="yes">E</italic>) and <italic toggle="yes">E</italic><sub>F</sub> can be correlated to the adsorption
+energy of adsorbates on the active sites of the nanocatalyst.</p><p>Here, the d-band center of the nanocatalysts was calculated from
+the VB values determined from the high-resolution XPS spectra. Such
+centers can provide information about the energy interactions between
+the orbitals of the adsorbates and the d-orbitals of Pd.</p><p><xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref> shows the <italic toggle="yes">E</italic> – <italic toggle="yes">E</italic><sub>F</sub> values of the
+nanocatalysts. The <italic toggle="yes">E</italic> values of Pd/C<sub>Cu-mes</sub> and Pd/C<sub>Cu(dmpz)L2</sub> shift negatively compared to Pd/C,
+indicating a modification of the electronic structure of Pd due to
+the formation of PdCu alloyed phases. Therefore, there is an important
+effect of the functionalization of the carbon support on the d-band
+center of the nanocatalysts. First, there is a good correlation between
+the d-band center values with the lower catalytic activity of Pd/C
+for the EOR, compared to the two other anode materials. Second, the
+more negative d-band center of Pd/C<sub>Cu(dmpz)L2</sub> is a strong
+indication of lower adsorption energies of adsorbates on its surface.<sup><xref ref-type="bibr" rid="ref24">24</xref></sup> Such behavior can explain the high performance
+and the important electronic effect shown by this nanocatalyst in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>c.</p><fig id="fig6" position="float" orientation="portrait"><label>Figure 6</label><caption><p>d-band center of Pd/C,
+Pd/C<sub>Cu-mes</sub>, and Pd/C<sub>Cu(dmpz)L2</sub> determined
+from high-resolution XPS VBs.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr9" position="float" orientation="portrait" xlink:href="an4c02670_0006.jpg"/></fig><p><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsanm.4c02670/suppl_file/an4c02670_si_001.pdf">Table S8</ext-link> shows the electrochemical
+parameters
+of Pd/C after ADT from the results reported in ref (<xref ref-type="bibr" rid="ref42">42</xref>). There is an increase
+in <italic toggle="yes">j</italic><sub>m</sub> after the test. Nevertheless, the
+ECSA<sub>PdO</sub> loss of Pd/C is about 49% after ADT.</p><p><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsanm.4c02670/suppl_file/an4c02670_si_001.pdf">Figure S8</ext-link> shows (a) CVs and (b) polarization
+curves of the EOR before and after ADT of Pd/C<sub>Cu-mes.</sub> Although the shape of the CV remains almost unchanged, it is remarkable
+to note the decrease of <italic toggle="yes">j</italic> over the potential scanned.
+Before ADT, Pd/C<sub>Cu-mes</sub> shows an important ECSA<sub>PdO</sub> value of 118.7 m<sup>2</sup> g<sub>Pd</sub><sup>–1</sup> (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsanm.4c02670/suppl_file/an4c02670_si_001.pdf">Table S8</ext-link>), which is higher than those
+reported in the literature.<sup><xref ref-type="bibr" rid="ref58">58</xref>,<xref ref-type="bibr" rid="ref61">61</xref>,<xref ref-type="bibr" rid="ref62">62</xref></sup> After submission to ADT, the intensity of the peak due to the reduction
+of Pd-oxides decreases. The ECSA<sub>PdO</sub> after ADT is 63.9 m<sup>2</sup> g<sup>–1</sup>, i.e., a loss of ca. 46%. During the
+test, Pd/C<sub>Cu-mes</sub> may undergo changes in the morphology
+and surface chemistry because of different degradation mechanisms.
+For instance, the dissolution of nanoparticles can occur. Also, the
+migration of Pd atoms is not unusual, resulting in the aggregation
+of nanoparticles, thus provoking ECSA<sub>PdO</sub> losses.<sup><xref ref-type="bibr" rid="ref62">62</xref>,<xref ref-type="bibr" rid="ref63">63</xref></sup></p><p>Comparing the polarization curves of the EOR at Pd/C<sub>Cu-mes</sub> before and after ADT, the nanocatalyst shows a slight decrease of
+roughly 12% in <italic toggle="yes">j</italic><sub>m</sub>, despite the relatively
+high ECSA<sub>PdO</sub> losses (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsanm.4c02670/suppl_file/an4c02670_si_001.pdf">Table S8</ext-link>). These results suggest that most of the Pd and PdCu sites remain
+active to promote the reaction. The presence of Pd active sites correlates
+with the results obtained by XPS in which a higher concentration of
+Pd<sup>0</sup> (35.5 atom %) is obtained compared to Pd-oxides. Therefore,
+it can be considered as an electrochemically stable anode nanocatalyst
+with a low decrease in <italic toggle="yes">j</italic><sub>m</sub> after being
+subjected to 2000 cycles in ADT.</p><p><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsanm.4c02670/suppl_file/an4c02670_si_001.pdf">Figure S9</ext-link>a shows the CVs before and
+after ADT of Pd/CCu(dmpz)L2. The same degradation mechanisms as described
+in the previous case may have caused the notable decrease in <italic toggle="yes">j</italic><sub>m</sub>, clearly observed in the Pd-oxide reduction
+peak at this nanocatalyst as well as in the ECSAPdO losses (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsanm.4c02670/suppl_file/an4c02670_si_001.pdf">Table S8</ext-link>). The ECSAPdO after ADT of Pd/CCu(dmpz)L2
+is 55.4 m<sup>2</sup> g<sup>–1</sup>, i.e., a loss of about
+62%. Considering the ECSAPdO losses after ADT, the stability of the
+nanocatalysts decreases in the order Pd/CCu-mes &gt; Pd/C &gt; Pd/CCu(dmpz)L2.</p><p><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsanm.4c02670/suppl_file/an4c02670_si_001.pdf">Figure S9</ext-link>b shows the polarization curves
+of the EOR on Pd/C<sub>Cu(dmpz)L2</sub>. There is a change in the
+shape of the curve after ADT, which becomes a relatively narrow peak.
+In contrast to Pd/C<sub>Cu-mes</sub>, Pd/C<sub>Cu(dmpz)L2</sub> shows a slight increase in <italic toggle="yes">j</italic><sub>m</sub> by ∼8%
+(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsanm.4c02670/suppl_file/an4c02670_si_001.pdf">Table S8</ext-link>), suggesting that after ADT some
+sites, likely Pd-oxides that promote the oxidation of organic molecules,
+become activated<sup><xref ref-type="bibr" rid="ref64">64</xref></sup> correlating with the
+results obtained by XPS in which a percentage of 31.2 and 14.4 at
+% (PdO and Pd<sub>2</sub>O, respectively, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsanm.4c02670/suppl_file/an4c02670_si_001.pdf">Table S7</ext-link>) has been obtained. However, it should be acknowledged that
+the potential window at which species are oxidized is more limited
+after ADT, probably because some other sites (especially those that
+catalyzed the reaction at more negative potentials) are deactivated
+or degraded. The peak <italic toggle="yes">j</italic><sub>m</sub> of Pd/C<sub>Cu(dmpz)L2</sub> is lower than that of Pd/C<sub>Cu-mes</sub> after ADT, but
+the maximum is at a more negative potential. Thus, there is a relevant
+consequence of both the bifunctional mechanism and the electronic
+effect at this nanocatalyst, as seen in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>c. Overall, the electrocatalytic performance
+of Pd/C<sub>Cu-mes</sub> and Pd/C<sub>Cu(dmpz)L2</sub> for
+the EOR, before and after ADT, overmatch that of Pd/C (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsanm.4c02670/suppl_file/an4c02670_si_001.pdf">Table S8</ext-link>).</p><p><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsanm.4c02670/suppl_file/an4c02670_si_001.pdf">Table S9</ext-link> shows a comparison of electrochemical
+parameters of Pd/C<sub>Cu-mes</sub> and Pd/C<sub>Cu(dmpz)L2</sub> with some Pd- and Cu-containing nanocatalysts from elsewhere. As
+seen, the ECSA<sub>PdO</sub> of Pd/C<sub>Cu-mes</sub> and Pd/C<sub>Cu(dmpz)L2</sub> is significantly higher. Regarding the EOR, the <italic toggle="yes">E</italic><sub>onset</sub> values of these nanocatalysts are among
+the more negative. As for the j peak (in mA cm<sup>–2</sup> for comparison purposes), the nanocatalysts in this work (119.6
+and 81.2 mA cm<sup>–2</sup> at Pd/C<sub>Cu-mes</sub> and Pd/C<sub>Cu(dmpz)L2</sub>, respectively) compare positively
+with those reported by other workers, particularly Pd/C<sub>Cu-mes</sub>.</p><p>In order to identify the products of the EOR at the nanocatalysts,
+an electrolysis test at 0.8 V/RHE have been performed. The percentage
+of ethanol consumed is 47, 61, and 59% at Pd/C, Pd/C<sub>Cu-mes</sub>, and Pd/C<sub>Cu(dmpz)L2</sub>, respectively (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsanm.4c02670/suppl_file/an4c02670_si_001.pdf">Figure S10</ext-link>). In addition, from these values and using the
+ex situ HPLC technique, the subproducts of the reaction have been
+determined.</p><p>Acetaldehyde (CH<sub>3</sub>CHO) and acetic acid
+or acetate ion
+(C<sub>2</sub>H<sub>3</sub>O<sub>2</sub><sup>–</sup>) are the
+main reaction compounds often obtained.<sup><xref ref-type="bibr" rid="ref65">65</xref></sup> Traces of CO<sub>2</sub> (or carbonate CO<sub>3</sub><sup>–2</sup>) are also often obtained. In this case, the main product of the
+reaction at the nanocatalysts is C<sub>2</sub>H<sub>3</sub>O<sub>2</sub><sup>–</sup> (inset in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsanm.4c02670/suppl_file/an4c02670_si_001.pdf">Figure S10</ext-link>). Considering only the reaction product detected by HPLC analysis,
+a general mechanism for the conversion of ethanol to C<sub>2</sub>H<sub>3</sub>O<sub>2</sub><sup>–</sup> on the nanocatalysts
+can be proposed according to the following reaction<disp-formula id="eq21"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" orientation="portrait" xlink:href="an4c02670_m021.jpg"/><label>21</label></disp-formula></p><p>CH<sub>3</sub>CHO and CO<sub>3</sub><sup>–2</sup> have not
+been detected. In the case of the former, it has been reported that
+it reacts to produce C<sub>2</sub>H<sub>3</sub>O<sub>2</sub><sup>–</sup> through nucleophilic attack by OH<sup>–</sup>.<sup><xref ref-type="bibr" rid="ref66">66</xref></sup> For future work, the use of an in situ technique
+such as infrared spectroscopy is proposed to study the production
+of intermediates from the reaction.</p><p>In this work, the configuration
+chosen for the tests in the AEM-DEFC
+is that of the same nanocatalysts at the anode and cathode of each
+membrane-electrode assembly. It must be highlighted that the small-scale,
+homemade ethanol/O<sub>2</sub> Teflon cell has been built to compare
+the performance of the nanocatalysts under the experimental conditions
+imposed. Therefore, it is difficult to make a comparison with other
+works from the literature unless a similar cell is reported.</p><p><xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref> shows the
+individual polarization curves of Pd/C, Pd/<sub>CCu-mes</sub>, and Pd/C<sub>Cu(dmpz)L2</sub> showing the behavior of (a) the anode
+potential (<italic toggle="yes">E</italic><sub>a</sub>) and (b) the cathode potential
+(<italic toggle="yes">E</italic><sub>c</sub>) in fuel cell configuration (i.e.,
+the plots show the potential difference between anode or cathode and
+the reference electrode, as each electrode is polarized over a given <italic toggle="yes">j</italic> interval).</p><fig id="fig7" position="float" orientation="portrait"><label>Figure 7</label><caption><p>Individual polarization curves of the nanocatalysts showing
+the
+behavior oxf (a) the anode potential, <italic toggle="yes">E</italic><sub>a</sub>, and (b) the cathode potential, <italic toggle="yes">E</italic><sub>c</sub>.
+(c) Polarization curves and (d) power density curves of the AEM-DEFC
+equipped with the nanocatalysts as anodes and cathodes. Fuel: 0.5
+mol L<sup>–1</sup> EtOH + 0.5 mol L<sup>–1</sup> KOH.
+AEM: Fumatech FAA. Feed at the cathode: O<sub>2</sub> + 0.5 mol L<sup>–1</sup> KOH.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr10" position="float" orientation="portrait" xlink:href="an4c02670_0007.jpg"/></fig><p>Pd/C<sub>Cu-mes</sub> shows an enhanced
+performance as anode,
+with an open circuit potential (OCP<sub>a</sub>) of 0.42 V/RHE, a
+value 0.13 and 0.26 V lower than Pd/C and Pd/C<sub>Cu(dmpz)L2</sub>, respectively (<xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref>). Therefore, the overpotential of the EOR at Pd/C<sub>Cu-mes</sub> is significantly smaller than that of the other nanocatalysts, while
+its high performance is sustained over the whole polarization curve.
+Opposite to that, Pd/C<sub>Cu(dmpz)L2</sub> shows the poorest performance
+among the three nanocatalysts.</p><table-wrap id="tbl1" position="float" orientation="portrait"><label>Table 1</label><caption><title>Electrochemical Parameters
+of the
+AEM-DEFC Equipped with Pd/C, Pd/C<sub>Cu-mes</sub>, and Pd/C<sub>Cu(dmpz)L2</sub> Anodes and Cathodes</title></caption><table frame="hsides" rules="groups" border="0"><colgroup span="1"><col align="left" span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/></colgroup><thead><tr><th style="border:none;" align="center" colspan="1" rowspan="1">nanocatalyst</th><th style="border:none;" align="center" char="." colspan="1" rowspan="1">OCP<sub>a</sub> (V/RHE)</th><th style="border:none;" align="center" char="." colspan="1" rowspan="1">OCV (V)</th><th style="border:none;" align="center" char="." colspan="1" rowspan="1"><italic toggle="yes">E</italic><sub>cell</sub> at 0.25 mA cm<sup>–2</sup> (V/RHE)</th><th style="border:none;" align="center" char="." colspan="1" rowspan="1"><italic toggle="yes">P</italic><sub>cell</sub> (mW cm<sup>–2</sup>)</th></tr></thead><tbody><tr><td style="border:none;" align="left" colspan="1" rowspan="1">Pd/C</td><td style="border:none;" align="char" char="." colspan="1" rowspan="1">0.55</td><td style="border:none;" align="char" char="." colspan="1" rowspan="1">0.50</td><td style="border:none;" align="char" char="." colspan="1" rowspan="1">0.27</td><td style="border:none;" align="char" char="." colspan="1" rowspan="1">0.09</td></tr><tr><td style="border:none;" align="left" colspan="1" rowspan="1">Pd/C<sub>Cu-mes</sub></td><td style="border:none;" align="char" char="." colspan="1" rowspan="1">0.42</td><td style="border:none;" align="char" char="." colspan="1" rowspan="1">0.60</td><td style="border:none;" align="char" char="." colspan="1" rowspan="1">0.43</td><td style="border:none;" align="char" char="." colspan="1" rowspan="1">0.14</td></tr><tr><td style="border:none;" align="left" colspan="1" rowspan="1">Pd/C<sub>Cu(dmpz)L2</sub></td><td style="border:none;" align="char" char="." colspan="1" rowspan="1">0.68</td><td style="border:none;" align="char" char="." colspan="1" rowspan="1">0.38</td><td style="border:none;" align="char" char="." colspan="1" rowspan="1">0.15</td><td style="border:none;" align="char" char="." colspan="1" rowspan="1">0.04</td></tr></tbody></table></table-wrap><p>Pd/C<sub>Cu-mes</sub> also show a better performance
+in
+the polarization curve as cathode, with an OCP<sub>c</sub> of 1.00
+V/RHE, followed by 0.99 and 0.98 V/RHE of Pd/C<sub>Cu(dmpz)L2</sub> and Pd/C, respectively. This means that the overpotential of the
+ORR at Pd/C<sub>Cu-mes</sub> over the scan is clearly lower
+compared to those of the other nanocatalysts. Interestingly, Pd/C<sub>Cu-mes</sub> shows an improved behavior as a cathode than
+Pd/C, having a less significant potential drop as <italic toggle="yes">j</italic> increases.</p><p>The cell voltage (<italic toggle="yes">E</italic><sub>cell</sub>) vs <italic toggle="yes">j</italic> polarization curves of the AEM-DAFC are shown
+in <xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>c. Pd/CCu-mes
+as
+anode and cathode nanocatalyst generate the highest open circuit voltage
+(OCV), with a value of 0.60 V, followed by Pd/C and Pd/CCu(dmpz)L2,
+as shown in <xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref>. It is to be highlighted that the <italic toggle="yes">E</italic><sub>cell</sub> values of the AEM-DEFC having Pd/CCu-mes are significantly higher
+compared to the other nanocatalysts at each <italic toggle="yes">j</italic> value.
+For example, the <italic toggle="yes">E</italic><sub>cell</sub> at 0.25 mA cm<sup>–2</sup> is 0.43 with this nanocatalyst, compared to 0.27
+and 0.15 V with Pd/C and Pd/CCu(dmpz)L2, respectively (<xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref>). This outcome is a result
+of the high performance of Pd/CCu-mes as anode and cathode.</p><p>Meanwhile, Pd/C<sub>Cu(dmpz)L2</sub> shows lower performance than
+Pd/C in the AEM-DEFC, a behavior ascribed mainly to its poor catalytic
+activity as an anode (<xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>a). The poor performance of Pd/C<sub>Cu(dmpz)L2</sub> in the
+AEM-DEFC differs from its catalytic performance in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>c. Although more studies may
+be needed to explain this behavior, it is hypothesized that the Pd/C<sub>Cu(dmpz)L2</sub> nanocatalyst/electrolyte interface failed to facilitate
+a fast transfer of species due to the EOR, probably because of the
+solid nature of the membrane. The low production of C<sub>2</sub>H<sub>3</sub>O<sub>2</sub><sup>–</sup> at this nanocatalysts, regardless
+of its high ethanol consumption (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsanm.4c02670/suppl_file/an4c02670_si_001.pdf">Figure S10</ext-link>), may be an indicator to infer that it produces several other reaction
+intermediates that poison its catalytic sites.</p><p>The maximum cell
+power density (<italic toggle="yes">P</italic><sub>cell</sub>) from the AEM-DEFC
+is 0.14 mW cm<sup>–2</sup> (<xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref>) generated when Pd/C<sub>Cu-mes</sub> is used as the anode and cathode. In view of the behavior of the
+AEM-DEFC, Pd/C<sub>Cu-mes</sub> is a high-performance nanocatalyst
+with application as an anode and cathode in an alkaline environment.</p></sec></sec><sec id="sec4"><label>4</label><title>Conclusions</title><p>The successful functionalization
+of Vulcan with Cu-mes and Cu(dmpz)L2
+resulted in the formation of oxygenated functional groups and Cu sites
+on its surface, preserving sp<sup>2</sup> nanodomains at Vulcan. XPS
+characterization revealed the formation of Cu<sup>+</sup> and Cu<sup>2+</sup> species, along with PdCu alloyed phases. This modified electronic
+structure of Pd, along with the bifunctional mechanism, enhanced the
+tolerance to CO poisoning and catalytic activity for the EOR of Pd/C<sub>Cu-mes</sub> and Pd/C<sub>Cu(dmpz)L2</sub> compared to Pd/C.
+Pd/C<sub>Cu-mes</sub> exhibited improved electrochemical stability
+in home-built AEM-DEFC tests, showing higher ethanol consumption and
+acetate ion production, compared to Pd/C and Pd/C<sub>Cu(dmpz)L2</sub>. In a complete fuel cell analysis, Pd/C<sub>Cu-mes</sub> generated
+the highest OCV and <italic toggle="yes">P</italic><sub>cell</sub> values, demonstrating
+that the functionalization of Vulcan with Cu-mes generates active
+surface sites that catalyze the EOR in the alkaline membrane environment.
+These findings highlight Pd/C<sub>Cu-mes</sub> as a high-performance
+anode (and cathode) in the AEM-DEFC devices.</p></sec></body><back><notes id="notes1" notes-type="si"><title>Supporting Information Available</title><p>The Supporting Information is
+available free of charge at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/10.1021/acsanm.4c02670?goto=supporting-info">https://pubs.acs.org/doi/10.1021/acsanm.4c02670</ext-link>.<list id="silist" list-type="simple"><list-item><p>FTIR, Raman, XPS spectra,
+and parameters of functionalized
+carbon supports; characterization of the nanocatalysts by EDS, XRD,
+HRTEM, Raman, XPS; electrochemical evaluation: CO-stripping, catalytic
+activity for the EOR, AEM-DEFC performance in terms of ethanol consumption;
+and comparison of catalytic behavior (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsanm.4c02670/suppl_file/an4c02670_si_001.pdf">PDF</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1" position="float" orientation="portrait"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="an4c02670_si_001.pdf" position="float" orientation="portrait"><caption><p>an4c02670_si_001.pdf</p></caption></media></supplementary-material></sec><notes notes-type="COI-statement" id="notes2"><p>The authors
+declare no competing financial interest.</p></notes><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="book" id="cit1"><person-group person-group-type="allauthors"><name name-style="western"><surname>Monyoncho</surname><given-names>E. A.</given-names></name>; <name name-style="western"><surname>Woo</surname><given-names>T. K.</given-names></name>; <name name-style="western"><surname>Baranova</surname><given-names>E. A.</given-names></name></person-group>, <article-title>Ethanol electrooxidation
+reaction in alkaline media for direct ethanol fuel cells</article-title>. In <source>Electrochemistry</source>; <publisher-name>The Royal
+Society of Chemistry</publisher-name>, <year>2019</year>; Vol. <volume>15</volume>, pp <fpage>1</fpage>–<lpage>57</lpage>.</mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name name-style="western"><surname>Li</surname><given-names>Y. S.</given-names></name>; <name name-style="western"><surname>Zhao</surname><given-names>T. S.</given-names></name>
+<article-title>A passive anion-exchange membrane
+direct ethanol fuel
+cell stack and its applications</article-title>. <source>Int. J. Hydrogen
+Energy</source>
+<year>2016</year>, <volume>41</volume> (<issue>44</issue>), <fpage>20336</fpage>–<lpage>20342</lpage>. <pub-id pub-id-type="doi">10.1016/j.ijhydene.2016.08.180</pub-id>.</mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name name-style="western"><surname>Almeida</surname><given-names>T. S.</given-names></name>; <name name-style="western"><surname>Yu</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>de Andrade</surname><given-names>A. R.</given-names></name>; <name name-style="western"><surname>Abruña</surname><given-names>H.</given-names></name>
+<article-title>Employing
+iron and nickel to enhance ethanol oxidation of Pd-based anodes in
+alkaline medium</article-title>. <source>Electrochim. Acta</source>
+<year>2019</year>, <volume>295</volume>, <fpage>751</fpage>–<lpage>758</lpage>. <pub-id pub-id-type="doi">10.1016/j.electacta.2018.10.187</pub-id>.</mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name name-style="western"><surname>Ramaswamy</surname><given-names>N.</given-names></name>; <name name-style="western"><surname>Mukerjee</surname><given-names>S.</given-names></name>
+<article-title>Alkaline Anion-Exchange
+Membrane Fuel Cells: Challenges
+in Electrocatalysis and Interfacial Charge Transfer</article-title>. <source>Chem. Rev.</source>
+<year>2019</year>, <volume>119</volume> (<issue>23</issue>), <fpage>11945</fpage>–<lpage>11979</lpage>. <pub-id pub-id-type="doi">10.1021/acs.chemrev.9b00157</pub-id>.<pub-id pub-id-type="pmid">31702901</pub-id>
+</mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name name-style="western"><surname>Vedarajan</surname><given-names>R.</given-names></name>; <name name-style="western"><surname>Balaji</surname><given-names>R.</given-names></name>; <name name-style="western"><surname>Ramya</surname><given-names>K.</given-names></name>
+<article-title>Anion exchange membrane
+fuel cell:
+New insights and advancements</article-title>. <source>WIRES Energy
+Environ.</source>
+<year>2023</year>, <volume>12</volume> (<issue>3</issue>), <elocation-id>e466</elocation-id><pub-id pub-id-type="doi">10.1002/wene.466</pub-id>.</mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name name-style="western"><surname>Hren</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Božič</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Fakin</surname><given-names>D.</given-names></name>; <name name-style="western"><surname>Kleinschek</surname><given-names>K. S.</given-names></name>; <name name-style="western"><surname>Gorgieva</surname><given-names>S.</given-names></name>
+<article-title>Alkaline membrane fuel
+cells: anion exchange membranes
+and fuels</article-title>. <source>Sustain. Energy Fuels</source>
+<year>2021</year>, <volume>5</volume> (<issue>3</issue>), <fpage>604</fpage>–<lpage>637</lpage>. <pub-id pub-id-type="doi">10.1039/D0SE01373K</pub-id>.</mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name name-style="western"><surname>Guo</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Chen</surname><given-names>R.</given-names></name>; <name name-style="western"><surname>Zhu</surname><given-names>F.-C.</given-names></name>; <name name-style="western"><surname>Sun</surname><given-names>S.-G.</given-names></name>; <name name-style="western"><surname>Villullas</surname><given-names>H. M.</given-names></name>
+<article-title>New understandings
+of ethanol oxidation reaction mechanism on Pd/C and Pd<sub>2</sub>Ru/C catalysts in alkaline direct ethanol fuel cells</article-title>. <source>Appl. Catal., B</source>
+<year>2018</year>, <volume>224</volume>, <fpage>602</fpage>–<lpage>611</lpage>. <pub-id pub-id-type="doi">10.1016/j.apcatb.2017.10.037</pub-id>.</mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name name-style="western"><surname>Cermenek</surname><given-names>B.</given-names></name>; <name name-style="western"><surname>Ranninger</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Feketeföldi</surname><given-names>B.</given-names></name>; <name name-style="western"><surname>Letofsky-Papst</surname><given-names>I.</given-names></name>; <name name-style="western"><surname>Kienzl</surname><given-names>N.</given-names></name>; <name name-style="western"><surname>Bitschnau</surname><given-names>B.</given-names></name>; <name name-style="western"><surname>Hacker</surname><given-names>V.</given-names></name>
+<article-title>Novel highly active
+carbon supported ternary PdNiBi nanoparticles as anode catalyst for
+the alkaline direct ethanol fuel cell</article-title>. <source>Nano
+Res.</source>
+<year>2019</year>, <volume>12</volume> (<issue>3</issue>), <fpage>683</fpage>–<lpage>693</lpage>. <pub-id pub-id-type="doi">10.1007/s12274-019-2277-z</pub-id>.</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name name-style="western"><surname>Gottesfeld</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Dekel</surname><given-names>D. R.</given-names></name>; <name name-style="western"><surname>Page</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Bae</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Yan</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Zelenay</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Kim</surname><given-names>Y. S.</given-names></name>
+<article-title>Anion exchange membrane
+fuel cells:
+Current status and remaining challenges</article-title>. <source>J.
+Power Sources</source>
+<year>2018</year>, <volume>375</volume>, <fpage>170</fpage>–<lpage>184</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2017.08.010</pub-id>.</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="book" id="cit10"><person-group person-group-type="allauthors"><name name-style="western"><surname>Lázaro</surname><given-names>M. J.</given-names></name>, <name name-style="western"><surname>Calvillo</surname><given-names>L.</given-names></name>, <name name-style="western"><surname>Celorrio</surname><given-names>V.</given-names></name>; <name name-style="western"><surname>Pardo</surname><given-names>J. I.</given-names></name>; <name name-style="western"><surname>Perathoner</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Moliner</surname><given-names>R.</given-names></name></person-group>, <article-title>Study and Application
+of carbon black Vulcan CX-72 in Polymeric Electrolyte Fuel Cells</article-title>. In <source>Carbon Black: Production, Properties and Uses</source>; <person-group person-group-type="editor"><name name-style="western"><surname>Sanders</surname><given-names>I. J.</given-names></name>, <name name-style="western"><surname>Peeten</surname><given-names>T. L.</given-names></name></person-group>, Eds.; <publisher-name>Nova Science Publishers</publisher-name>: <publisher-loc>New York</publisher-loc>, <year>2011</year>; pp <fpage>41</fpage>–<lpage>68</lpage>.</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name name-style="western"><surname>Yin</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Luo</surname><given-names>L.</given-names></name>; <name name-style="western"><surname>Xu</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Zhao</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Qiang</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Mu</surname><given-names>S.</given-names></name>
+<article-title>Functionalizing
+carbon nanotubes for effective electrocatalysts supports by an intermittent
+microwave heating method</article-title>. <source>J. Power Sources</source>
+<year>2012</year>, <volume>198</volume>, <fpage>1</fpage>–<lpage>6</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2011.09.061</pub-id>.</mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name name-style="western"><surname>Yang</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Zhang</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Mi</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Ye</surname><given-names>X.</given-names></name>
+<article-title>Pd nanoparticles supported
+on functionalized multi-walled carbon nanotubes (MWCNTs) and electrooxidation
+for formic acid</article-title>. <source>J. Power Sources</source>
+<year>2008</year>, <volume>175</volume> (<issue>1</issue>), <fpage>26</fpage>–<lpage>32</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2007.09.080</pub-id>.</mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name name-style="western"><surname>Martínez-Loyola</surname><given-names>J. C.</given-names></name>; <name name-style="western"><surname>Siller-Ceniceros</surname><given-names>A. A.</given-names></name>; <name name-style="western"><surname>Sánchez-Castro</surname><given-names>M. E.</given-names></name>; <name name-style="western"><surname>Sánchez</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Torres-Lubián</surname><given-names>J. R.</given-names></name>; <name name-style="western"><surname>Escobar-Morales</surname><given-names>B.</given-names></name>; <name name-style="western"><surname>Ornelas</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Alonso-Lemus</surname><given-names>I. L.</given-names></name>; <name name-style="western"><surname>Rodríguez-Varela</surname><given-names>F. J.</given-names></name>
+<article-title>High Performance
+Pt Nanocatalysts for the Oxidation of Methanol and Ethanol in Acid
+Media by Effect of Functionalizing Carbon Supports with Ru Organometallic
+Compounds</article-title>. <source>J. Electrochem. Soc.</source>
+<year>2020</year>, <volume>167</volume> (<issue>16</issue>), <fpage>164502</fpage><pub-id pub-id-type="doi">10.1149/1945-7111/abcabb</pub-id>.</mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name name-style="western"><surname>Siller-Ceniceros</surname><given-names>A. A.</given-names></name>; <name name-style="western"><surname>Sánchez-Castro</surname><given-names>M. E.</given-names></name>; <name name-style="western"><surname>Morales-Acosta</surname><given-names>D.</given-names></name>; <name name-style="western"><surname>Torres-Lubian</surname><given-names>J. R.</given-names></name>; <name name-style="western"><surname>Martínez G</surname><given-names>E.</given-names></name>; <name name-style="western"><surname>Rodríguez-Varela</surname><given-names>F. J.</given-names></name>
+<article-title>Innovative
+functionalization of Vulcan XC-72 with Ru organometallic complex:
+Significant enhancement in catalytic activity of Pt/C electrocatalyst
+for the methanol oxidation reaction (MOR)</article-title>. <source>Appl.
+Catal., B</source>
+<year>2017</year>, <volume>209</volume>, <fpage>455</fpage>–<lpage>467</lpage>. <pub-id pub-id-type="doi">10.1016/j.apcatb.2017.03.023</pub-id>.</mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name name-style="western"><surname>Hernández-Ramírez</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Rodríguez-Varela</surname><given-names>F. J.</given-names></name>; <name name-style="western"><surname>Meléndez-González</surname><given-names>P. C.</given-names></name>; <name name-style="western"><surname>Sánchez-Castro</surname><given-names>M. E.</given-names></name>
+<article-title>Catalytic activity of Pt–CoTiO<sub>3</sub> nanocatalysts supported on reduced graphene oxide functionalized
+with Cr organometallic compounds for the oxygen reduction reaction</article-title>. <source>J. Mater. Res.</source>
+<year>2021</year>, <volume>36</volume> (<issue>20</issue>), <fpage>4192</fpage>–<lpage>4206</lpage>. <pub-id pub-id-type="doi">10.1557/s43578-021-00259-6</pub-id>.</mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name name-style="western"><surname>Dutta</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Datta</surname><given-names>J.</given-names></name>
+<article-title>Outstanding Catalyst Performance
+of PdAuNi Nanoparticles for the
+Anodic Reaction in an Alkaline Direct Ethanol (with Anion-Exchange
+Membrane) Fuel Cell</article-title>. <source>J. Phys. Chem. C</source>
+<year>2012</year>, <volume>116</volume> (<issue>49</issue>), <fpage>25677</fpage>–<lpage>25688</lpage>. <pub-id pub-id-type="doi">10.1021/jp305323s</pub-id>.</mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name name-style="western"><surname>Zeng</surname><given-names>T.</given-names></name>; <name name-style="western"><surname>Meng</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Huang</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Zheng</surname><given-names>L.</given-names></name>; <name name-style="western"><surname>Chen</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Zhang</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Yuan</surname><given-names>W.</given-names></name>; <name name-style="western"><surname>Zhang</surname><given-names>L. Y.</given-names></name>
+<article-title>Controllable Synthesis
+of Web-Footed PdCu Nanosheets and Their Electrocatalytic Applications</article-title>. <source>Small</source>
+<year>2022</year>, <volume>18</volume> (<issue>14</issue>), <fpage>2107623</fpage><pub-id pub-id-type="doi">10.1002/smll.202107623</pub-id>.<pub-id pub-id-type="pmid">35152558</pub-id></mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name name-style="western"><surname>Liu</surname><given-names>Z.</given-names></name>; <name name-style="western"><surname>Ge</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Wang</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Niu</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Yuan</surname><given-names>W.</given-names></name>; <name name-style="western"><surname>Zhang</surname><given-names>L. Y.</given-names></name>
+<article-title>Selective
+edge etching of Pd metallene for enhanced formic acid electrooxidation</article-title>. <source>Chem. Commun.</source>
+<year>2023</year>, <volume>59</volume> (<issue>77</issue>), <fpage>11588</fpage>–<lpage>11591</lpage>. <pub-id pub-id-type="doi">10.1039/D3CC03278G</pub-id>.<pub-id pub-id-type="pmid">37694727</pub-id></mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name name-style="western"><surname>Meng</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Zeng</surname><given-names>T.</given-names></name>; <name name-style="western"><surname>Ma</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Zheng</surname><given-names>L.</given-names></name>; <name name-style="western"><surname>Chen</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Yuan</surname><given-names>W.</given-names></name>; <name name-style="western"><surname>Zhang</surname><given-names>L. Y.</given-names></name>
+<article-title>Surface Nitridation of PdCu Nanosheets
+to Promote Charge Transfer and Suppress CO Poisoning toward Ethanol
+Electrooxidation</article-title>. <source>Adv. Mater. Interfaces</source>
+<year>2022</year>, <volume>9</volume> (<issue>7</issue>), <fpage>2101849</fpage><pub-id pub-id-type="doi">10.1002/admi.202101849</pub-id>.</mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name name-style="western"><surname>Fu</surname><given-names>Q.-Q.</given-names></name>; <name name-style="western"><surname>Li</surname><given-names>H.-H.</given-names></name>; <name name-style="western"><surname>Xu</surname><given-names>L.</given-names></name>; <name name-style="western"><surname>Li</surname><given-names>Y.-D.</given-names></name>; <name name-style="western"><surname>Yu</surname><given-names>S.-H.</given-names></name>
+<article-title>Electrochemically
+Activated Surface Reconstruction of PdCu Nanotubes for Improved Ethanol
+Oxidation Electrocatalysis</article-title>. <source>Small Struct.</source>
+<year>2022</year>, <volume>3</volume> (<issue>6</issue>), <fpage>2100216</fpage><pub-id pub-id-type="doi">10.1002/sstr.202100216</pub-id>.</mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name name-style="western"><surname>Zhu</surname><given-names>L.</given-names></name>; <name name-style="western"><surname>Song</surname><given-names>K.</given-names></name>; <name name-style="western"><surname>Yi</surname><given-names>C.</given-names></name>
+<article-title>One-Pot Aqueous Synthesis of Porous
+Hollow PdCu Alloy Nanoparticles for Enhanced Ethanol Electrooxidation</article-title>. <source>Inorg. Chem.</source>
+<year>2022</year>, <volume>61</volume> (<issue>14</issue>), <fpage>5474</fpage>–<lpage>5478</lpage>. <pub-id pub-id-type="doi">10.1021/acs.inorgchem.2c00486</pub-id>.<pub-id pub-id-type="pmid">35362950</pub-id>
+</mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name name-style="western"><surname>Liu</surname><given-names>D.</given-names></name>; <name name-style="western"><surname>Zhang</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Liu</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Rao</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Xu</surname><given-names>L.</given-names></name>; <name name-style="western"><surname>Chen</surname><given-names>D.</given-names></name>; <name name-style="western"><surname>Tian</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Yang</surname><given-names>J.</given-names></name>
+<article-title>Acetic acid-assisted
+mild dealloying of fine CuPd nanoalloys achieving compressive strain
+toward high-efficiency oxygen reduction and ethanol oxidation electrocatalysis</article-title>. <source>Carbon Energy</source>
+<year>2023</year>, <volume>5</volume>, <elocation-id>e324</elocation-id><pub-id pub-id-type="doi">10.1002/cey2.324</pub-id>.</mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name name-style="western"><surname>Hickman</surname><given-names>A. J.</given-names></name>; <name name-style="western"><surname>Sanford</surname><given-names>M. S.</given-names></name>
+<article-title>High-valent organometallic
+copper and palladium in
+catalysis</article-title>. <source>Nature</source>
+<year>2012</year>, <volume>484</volume> (<issue>7393</issue>), <fpage>177</fpage>–<lpage>185</lpage>. <pub-id pub-id-type="doi">10.1038/nature11008</pub-id>.<pub-id pub-id-type="pmid">22498623</pub-id>
+<pub-id pub-id-type="pmcid">PMC4384170</pub-id></mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name name-style="western"><surname>Fuentez-Torres</surname><given-names>M. O.</given-names></name>; <name name-style="western"><surname>Rodríguez-Varela</surname><given-names>F. J.</given-names></name>; <name name-style="western"><surname>Sánchez-Castro</surname><given-names>M. E.</given-names></name>; <name name-style="western"><surname>Escobar-Morales</surname><given-names>B.</given-names></name>; <name name-style="western"><surname>Pech-Rodríguez</surname><given-names>W. J.</given-names></name>; <name name-style="western"><surname>Alonso-Lemus</surname><given-names>I. L.</given-names></name>
+<article-title>Bifunctional
+low-Pt content nanocatalysts supported on carbons functionalized with
+a Cu-organometallic compound: Tailoring of d-band center with high
+catalytic activity for electrochemical oxygen reactions</article-title>. <source>Int. J. Hydrogen Energy</source>
+<year>2024</year>, <pub-id pub-id-type="doi">10.1016/j.ijhydene.2024.03.059</pub-id>.</mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name name-style="western"><surname>Mun</surname><given-names>B. S.</given-names></name>; <name name-style="western"><surname>Watanabe</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Rossi</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Stamenkovic</surname><given-names>V.</given-names></name>; <name name-style="western"><surname>Markovic</surname><given-names>N. M.</given-names></name>; <name name-style="western"><surname>Ross</surname><given-names>P. N.</given-names></name>
+<article-title>A study of electronic
+structures
+of Pt<sub>3</sub>M (M = Ti,V,Cr,Fe,Co,Ni) polycrystalline alloys with
+valence-band photoemission spectroscopy</article-title>. <source>J.
+Chem. Phys.</source>
+<year>2005</year>, <volume>123</volume> (<issue>20</issue>), <fpage>204717</fpage><pub-id pub-id-type="doi">10.1063/1.2126662</pub-id>.<pub-id pub-id-type="pmid">16351303</pub-id>
+</mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name name-style="western"><surname>Hofmann</surname><given-names>T.</given-names></name>; <name name-style="western"><surname>Yu</surname><given-names>T. H.</given-names></name>; <name name-style="western"><surname>Folse</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Weinhardt</surname><given-names>L.</given-names></name>; <name name-style="western"><surname>Bär</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Zhang</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Merinov</surname><given-names>B. V.</given-names></name>; <name name-style="western"><surname>Myers</surname><given-names>D. J.</given-names></name>; <name name-style="western"><surname>Goddard</surname><given-names>W. A.</given-names></name>; <name name-style="western"><surname>Heske</surname><given-names>C.</given-names></name>
+<article-title>Using Photoelectron
+Spectroscopy
+and Quantum Mechanics to Determine d-Band Energies of Metals for Catalytic
+Applications</article-title>. <source>J. Phys. Chem. C</source>
+<year>2012</year>, <volume>116</volume> (<issue>45</issue>), <fpage>24016</fpage>–<lpage>24026</lpage>. <pub-id pub-id-type="doi">10.1021/jp303276z</pub-id>.</mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name name-style="western"><surname>Nassr</surname><given-names>A. B. A. A.</given-names></name>; <name name-style="western"><surname>Quetschke</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Koslowski</surname><given-names>E.</given-names></name>; <name name-style="western"><surname>Bron</surname><given-names>M.</given-names></name>
+<article-title>Electrocatalytic oxidation
+of formic acid on Pd/MWCNTs nanocatalysts prepared by the polyol method</article-title>. <source>Electrochim. Acta</source>
+<year>2013</year>, <volume>102</volume> (<issue>03.173</issue>), <fpage>202</fpage>–<lpage>211</lpage>. <pub-id pub-id-type="doi">10.1016/j.electacta.2013.03.173</pub-id>.</mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name name-style="western"><surname>Ma</surname><given-names>Y. J.</given-names></name>; <name name-style="western"><surname>Wang</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Ji</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Goh</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Feng</surname><given-names>H. Q.</given-names></name>; <name name-style="western"><surname>Wang</surname><given-names>R. F.</given-names></name>
+<article-title>Highly active Vulcan carbon composite
+for oxygen reduction
+reaction in alkaline medium</article-title>. <source>Electrochim. Acta</source>
+<year>2014</year>, <volume>133</volume>, <fpage>391</fpage>–<lpage>398</lpage>. <pub-id pub-id-type="doi">10.1016/j.electacta.2014.04.080</pub-id>.</mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name name-style="western"><surname>Nasihat
+Sheno</surname><given-names>N.</given-names></name>; <name name-style="western"><surname>Morsali</surname><given-names>A.</given-names></name>
+<article-title>Synthesis of Different Copper Oxide
+Nano-Structures From Direct Thermal Decomposition of Porous Copper(ΙΙ)
+Metal-Organic Framework Precursors</article-title>. <source>Int. J.
+Nanosci. Nanotechnol.</source>
+<year>2012</year>, <volume>8</volume> (<issue>2</issue>), <fpage>99</fpage>–<lpage>104</lpage>.</mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name name-style="western"><surname>Zhang</surname><given-names>Z.-Q.</given-names></name>; <name name-style="western"><surname>Huang</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Zhang</surname><given-names>L.</given-names></name>; <name name-style="western"><surname>Sun</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Wang</surname><given-names>Y.-C.</given-names></name>; <name name-style="western"><surname>Lin</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Zeng</surname><given-names>J.</given-names></name>
+<article-title>Facile synthesis of Cu-Pd bimetallic multipods for
+application in cyclohexane oxidation</article-title>. <source>Nanotechnol</source>
+<year>2014</year>, <volume>25</volume> (<issue>43</issue>), <fpage>435602</fpage><pub-id pub-id-type="doi">10.1088/0957-4484/25/43/435602</pub-id>.<pub-id pub-id-type="pmid">25297725</pub-id></mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name name-style="western"><surname>Sikeyi</surname><given-names>L. L.</given-names></name>; <name name-style="western"><surname>Ntuli</surname><given-names>T. D.</given-names></name>; <name name-style="western"><surname>Mongwe</surname><given-names>T. H.</given-names></name>; <name name-style="western"><surname>Maxakato</surname><given-names>N. W.</given-names></name>; <name name-style="western"><surname>Carleschi</surname><given-names>E.</given-names></name>; <name name-style="western"><surname>Doyle</surname><given-names>B. P.</given-names></name>; <name name-style="western"><surname>Coville</surname><given-names>N. J.</given-names></name>; <name name-style="western"><surname>Maubane-Nkadimeng</surname><given-names>M. S.</given-names></name>
+<article-title>Microwave
+assisted synthesis of nitrogen doped and oxygen functionalized carbon
+nano onions supported palladium nanoparticles as hybrid anodic electrocatalysts
+for direct alkaline ethanol fuel cells</article-title>. <source>Int.
+J. Hydrogen Energy</source>
+<year>2021</year>, <volume>46</volume> (<issue>18</issue>), <fpage>10862</fpage>–<lpage>10875</lpage>. <pub-id pub-id-type="doi">10.1016/j.ijhydene.2020.12.154</pub-id>.</mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name name-style="western"><surname>Zhang</surname><given-names>Q.</given-names></name>; <name name-style="western"><surname>Chen</surname><given-names>T.</given-names></name>; <name name-style="western"><surname>Jiang</surname><given-names>R.</given-names></name>; <name name-style="western"><surname>Jiang</surname><given-names>F.</given-names></name>
+<article-title>Comparison of electrocatalytic
+activity of Pt1–xPdx/C catalysts for ethanol electro-oxidation
+in acidic and alkaline media</article-title>. <source>RSC Adv.</source>
+<year>2020</year>, <volume>10</volume> (<issue>17</issue>), <fpage>10134</fpage>–<lpage>10143</lpage>. <pub-id pub-id-type="doi">10.1039/D0RA00483A</pub-id>.<pub-id pub-id-type="pmid">35498612</pub-id>
+<pub-id pub-id-type="pmcid">PMC9050211</pub-id></mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name name-style="western"><surname>Shao</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Shoemaker</surname><given-names>K.</given-names></name>; <name name-style="western"><surname>Peles</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Kaneko</surname><given-names>K.</given-names></name>; <name name-style="western"><surname>Protsailo</surname><given-names>L.</given-names></name>
+<article-title>Pt Monolayer
+on Porous Pd–Cu Alloys as Oxygen Reduction Electrocatalysts</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2010</year>, <volume>132</volume> (<issue>27</issue>), <fpage>9253</fpage>–<lpage>9255</lpage>. <pub-id pub-id-type="doi">10.1021/ja101966a</pub-id>.<pub-id pub-id-type="pmid">20565078</pub-id>
+</mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name name-style="western"><surname>You</surname><given-names>D. J.</given-names></name>; <name name-style="western"><surname>Jin</surname><given-names>S.-a.</given-names></name>; <name name-style="western"><surname>Lee</surname><given-names>K. H.</given-names></name>; <name name-style="western"><surname>Pak</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Choi</surname><given-names>K. H.</given-names></name>; <name name-style="western"><surname>Chang</surname><given-names>H.</given-names></name>
+<article-title>Improvement of activity for oxygen reduction reaction by decoration
+of Ir on PdCu/C catalyst</article-title>. <source>Catal. Today</source>
+<year>2012</year>, <volume>185</volume> (<issue>1</issue>), <fpage>138</fpage>–<lpage>142</lpage>. <pub-id pub-id-type="doi">10.1016/j.cattod.2011.08.024</pub-id>.</mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name name-style="western"><surname>Zhang</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Hao</surname><given-names>Q.</given-names></name>; <name name-style="western"><surname>Geng</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Xu</surname><given-names>C.</given-names></name>
+<article-title>Nanoporous PdCu alloys as highly
+active and methanol-tolerant oxygen reduction electrocatalysts</article-title>. <source>Int. J. Hydrogen Energy</source>
+<year>2013</year>, <volume>38</volume> (<issue>24</issue>), <fpage>10029</fpage>–<lpage>10038</lpage>. <pub-id pub-id-type="doi">10.1016/j.ijhydene.2013.06.010</pub-id>.</mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name name-style="western"><surname>Hsieh</surname><given-names>M.-W.</given-names></name>; <name name-style="western"><surname>Whang</surname><given-names>T.-J.</given-names></name>
+<article-title>Electrodeposition
+of PdCu alloy and its application
+in methanol electro-oxidation</article-title>. <source>Appl. Surf. Sci.</source>
+<year>2013</year>, <volume>270</volume>, <fpage>252</fpage>–<lpage>259</lpage>. <pub-id pub-id-type="doi">10.1016/j.apsusc.2013.01.012</pub-id>.</mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="journal" id="cit37"><name name-style="western"><surname>Guo</surname><given-names>Z.</given-names></name>; <name name-style="western"><surname>Kang</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Zheng</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Huang</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Chen</surname><given-names>S.</given-names></name>
+<article-title>PdCu alloy
+nanoparticles supported on CeO<sub>2</sub> nanorods: Enhanced electrocatalytic
+activity by synergy of compressive strain, PdO and oxygen vacancy</article-title>. <source>J. Catal.</source>
+<year>2019</year>, <volume>374</volume>, <fpage>101</fpage>–<lpage>109</lpage>. <pub-id pub-id-type="doi">10.1016/j.jcat.2019.04.027</pub-id>.</mixed-citation></ref><ref id="ref38"><mixed-citation publication-type="journal" id="cit38"><name name-style="western"><surname>Wu</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Shan</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Luo</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Joseph</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Petkov</surname><given-names>V.</given-names></name>; <name name-style="western"><surname>Zhong</surname><given-names>C.-J.</given-names></name>
+<article-title>PdCu Nanoalloy Electrocatalysts
+in Oxygen Reduction
+Reaction: Role of Composition and Phase State in Catalytic Synergy</article-title>. <source>ACS Appl. Mater. Interfaces</source>
+<year>2015</year>, <volume>7</volume> (<issue>46</issue>), <fpage>25906</fpage>–<lpage>25913</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.5b08478</pub-id>.<pub-id pub-id-type="pmid">26569372</pub-id>
+</mixed-citation></ref><ref id="ref39"><mixed-citation publication-type="journal" id="cit39"><name name-style="western"><surname>Ghodselahi</surname><given-names>T.</given-names></name>; <name name-style="western"><surname>Vesaghi</surname><given-names>M. A.</given-names></name>; <name name-style="western"><surname>Shafiekhani</surname><given-names>A.</given-names></name>
+<article-title>Study of surface
+plasmon resonance
+of Cu@Cu<sub>2</sub>O core–shell nanoparticles by Mie theory</article-title>. <source>J. Phys. D: Appl. Phys.</source>
+<year>2009</year>, <volume>42</volume> (<issue>1</issue>), <fpage>015308</fpage><pub-id pub-id-type="doi">10.1088/0022-3727/42/1/015308</pub-id>.</mixed-citation></ref><ref id="ref40"><mixed-citation publication-type="journal" id="cit40"><name name-style="western"><surname>Fu</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Zhu</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Song</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Zhang</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Engelhard</surname><given-names>M. H.</given-names></name>; <name name-style="western"><surname>Xia</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Du</surname><given-names>D.</given-names></name>; <name name-style="western"><surname>Lin</surname><given-names>Y.</given-names></name>
+<article-title>Low Pt-content ternary PdCuPt nanodendrites:
+an efficient electrocatalyst for oxygen reduction reaction</article-title>. <source>Nanoscale</source>
+<year>2017</year>, <volume>9</volume> (<issue>3</issue>), <fpage>1279</fpage>–<lpage>1284</lpage>. <pub-id pub-id-type="doi">10.1039/C6NR06646A</pub-id>.<pub-id pub-id-type="pmid">28054683</pub-id>
+</mixed-citation></ref><ref id="ref41"><mixed-citation publication-type="journal" id="cit41"><name name-style="western"><surname>Yaghmaei</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Lanterna</surname><given-names>A. E.</given-names></name>; <name name-style="western"><surname>Scaiano</surname><given-names>J. C.</given-names></name>
+<article-title>Nitro to amine reductions using aqueous
+flow catalysis under ambient conditions</article-title>. <source>iScience</source>
+<year>2021</year>, <volume>24</volume> (<issue>12</issue>), <fpage>103472</fpage><pub-id pub-id-type="doi">10.1016/j.isci.2021.103472</pub-id>.<pub-id pub-id-type="pmid">34950857</pub-id>
+<pub-id pub-id-type="pmcid">PMC8671935</pub-id></mixed-citation></ref><ref id="ref42"><mixed-citation publication-type="journal" id="cit42"><name name-style="western"><surname>Meléndez-González</surname><given-names>P. C.</given-names></name>; <name name-style="western"><surname>Sánchez-Castro</surname><given-names>E.</given-names></name>; <name name-style="western"><surname>Alonso-Lemus</surname><given-names>I. L.</given-names></name>; <name name-style="western"><surname>Pérez-Hernández</surname><given-names>R.</given-names></name>; <name name-style="western"><surname>Escobar-Morales</surname><given-names>B.</given-names></name>; <name name-style="western"><surname>Garay-Tapia</surname><given-names>A. M.</given-names></name>; <name name-style="western"><surname>Pech-Rodríguez</surname><given-names>W. J.</given-names></name>; <name name-style="western"><surname>Rodríguez-Varela</surname><given-names>J.</given-names></name>
+<article-title>Bifunctional
+Pd-CeO2 Nanorods/C Nanocatalyst with High Electrochemical Stability
+and Catalytic Activity for the ORR and EOR in Alkaline Media</article-title>. <source>ChemistrySelect</source>
+<year>2020</year>, <volume>5</volume> (<issue>44</issue>), <fpage>14032</fpage>–<lpage>14040</lpage>. <pub-id pub-id-type="doi">10.1002/slct.202003755</pub-id>.</mixed-citation></ref><ref id="ref43"><mixed-citation publication-type="journal" id="cit43"><name name-style="western"><surname>Castegnaro</surname><given-names>M. V.</given-names></name>; <name name-style="western"><surname>Paschoalino</surname><given-names>W. J.</given-names></name>; <name name-style="western"><surname>Fernandes</surname><given-names>M. R.</given-names></name>; <name name-style="western"><surname>Balke</surname><given-names>B.</given-names></name>; <name name-style="western"><surname>M Alves</surname><given-names>M. C.</given-names></name>; <name name-style="western"><surname>Ticianelli</surname><given-names>E. A.</given-names></name>; <name name-style="western"><surname>Morais</surname><given-names>J.</given-names></name>
+<article-title>Pd-M/C (M = Pd, Cu, Pt) Electrocatalysts
+for Oxygen Reduction Reaction in Alkaline Medium: Correlating the
+Electronic Structure with Activity</article-title>. <source>Langmuir</source>
+<year>2017</year>, <volume>33</volume> (<issue>11</issue>), <fpage>2734</fpage>–<lpage>2743</lpage>. <pub-id pub-id-type="doi">10.1021/acs.langmuir.7b00098</pub-id>.<pub-id pub-id-type="pmid">28241113</pub-id>
+</mixed-citation></ref><ref id="ref44"><mixed-citation publication-type="journal" id="cit44"><name name-style="western"><surname>Tierney</surname><given-names>H. L.</given-names></name>; <name name-style="western"><surname>Baber</surname><given-names>A. E.</given-names></name>; <name name-style="western"><surname>Sykes</surname><given-names>E. C. H.</given-names></name>
+<article-title>Atomic-Scale
+Imaging and Electronic
+Structure Determination of Catalytic Sites on Pd/Cu Near Surface Alloys</article-title>. <source>J. Phys. Chem. C</source>
+<year>2009</year>, <volume>113</volume> (<issue>17</issue>), <fpage>7246</fpage>–<lpage>7250</lpage>. <pub-id pub-id-type="doi">10.1021/jp809766d</pub-id>.</mixed-citation></ref><ref id="ref45"><mixed-citation publication-type="journal" id="cit45"><name name-style="western"><surname>Wu</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Li</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Yadian</surname><given-names>B.</given-names></name>; <name name-style="western"><surname>Liu</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Chun</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Zhang</surname><given-names>B.</given-names></name>; <name name-style="western"><surname>Zhou</surname><given-names>K.</given-names></name>; <name name-style="western"><surname>Gan</surname><given-names>C. L.</given-names></name>; <name name-style="western"><surname>Huang</surname><given-names>Y.</given-names></name>
+<article-title>Nano-scale oxidation
+of copper in aqueous solution</article-title>. <source>Electrochem.
+Commun.</source>
+<year>2013</year>, <volume>26</volume>, <fpage>21</fpage>–<lpage>24</lpage>. <pub-id pub-id-type="doi">10.1016/j.elecom.2012.09.042</pub-id>.</mixed-citation></ref><ref id="ref46"><mixed-citation publication-type="journal" id="cit46"><name name-style="western"><surname>Scherzer</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Girgsdies</surname><given-names>F.</given-names></name>; <name name-style="western"><surname>Stotz</surname><given-names>E.</given-names></name>; <name name-style="western"><surname>Willinger</surname><given-names>M.-G.</given-names></name>; <name name-style="western"><surname>Frei</surname><given-names>E.</given-names></name>; <name name-style="western"><surname>Schlögl</surname><given-names>R.</given-names></name>; <name name-style="western"><surname>Pietsch</surname><given-names>U.</given-names></name>; <name name-style="western"><surname>Lunkenbein</surname><given-names>T.</given-names></name>
+<article-title>Electrochemical
+Surface Oxidation of Copper Studied by in Situ Grazing Incidence X-ray
+Diffraction</article-title>. <source>J. Phys. Chem. C</source>
+<year>2019</year>, <volume>123</volume> (<issue>21</issue>), <fpage>13253</fpage>–<lpage>13262</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jpcc.9b00282</pub-id>.</mixed-citation></ref><ref id="ref47"><mixed-citation publication-type="journal" id="cit47"><name name-style="western"><surname>Bai</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Gong</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Ye</surname><given-names>N.</given-names></name>; <name name-style="western"><surname>Qi</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Jiang</surname><given-names>Z.</given-names></name>; <name name-style="western"><surname>Fang</surname><given-names>T.</given-names></name>
+<article-title>Design the PdCu/Ni<sub>2</sub>P electrocatalyst
+with high efficiency
+for ethanol oxidation reaction in alkaline media</article-title>. <source>Int. J. Hydrogen Energy</source>
+<year>2022</year>, <volume>47</volume> (<issue>3</issue>), <fpage>1543</fpage>–<lpage>1555</lpage>. <pub-id pub-id-type="doi">10.1016/j.ijhydene.2021.10.016</pub-id>.</mixed-citation></ref><ref id="ref48"><mixed-citation publication-type="journal" id="cit48"><name name-style="western"><surname>Kamyabi</surname><given-names>M. A.</given-names></name>; <name name-style="western"><surname>Jadali</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Alizadeh</surname><given-names>T.</given-names></name>
+<article-title>Ethanol Electrooxidation
+on Nickel
+Foam Arrayed with Templated PdSn; From Catalyst Fabrication to Electrooxidation
+Dominance Route</article-title>. <source>ChemElectroChem</source>
+<year>2023</year>, <volume>10</volume> (<issue>1</issue>), <elocation-id>e202200914</elocation-id><pub-id pub-id-type="doi">10.1002/celc.202200914</pub-id>.</mixed-citation></ref><ref id="ref49"><mixed-citation publication-type="journal" id="cit49"><name name-style="western"><surname>El
+Sawy</surname><given-names>E. N.</given-names></name>; <name name-style="western"><surname>El-Sayed</surname><given-names>H. A.</given-names></name>; <name name-style="western"><surname>Birss</surname><given-names>V. I.</given-names></name>
+<article-title>Clarifying the role
+of Ru in methanol oxidation at Rucore@Ptshell nanoparticles</article-title>. <source>Phys. Chem. Chem. Phys.</source>
+<year>2015</year>, <volume>17</volume> (<issue>41</issue>), <fpage>27509</fpage>–<lpage>27519</lpage>. <pub-id pub-id-type="doi">10.1039/C5CP04634C</pub-id>.<pub-id pub-id-type="pmid">26426281</pub-id>
+</mixed-citation></ref><ref id="ref50"><mixed-citation publication-type="journal" id="cit50"><name name-style="western"><surname>Moura
+Souza</surname><given-names>F.</given-names></name>; <name name-style="western"><surname>Parreira</surname><given-names>L. S.</given-names></name>; <name name-style="western"><surname>Hammer</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Batista</surname><given-names>B. L.</given-names></name>; <name name-style="western"><surname>Santos</surname><given-names>M. C.</given-names></name>
+<article-title>Niobium: a promising Pd co-electrocatalyst for ethanol
+electrooxidation reactions</article-title>. <source>J. Solid State Electrochem.</source>
+<year>2018</year>, <volume>22</volume> (<issue>5</issue>), <fpage>1495</fpage>–<lpage>1506</lpage>. <pub-id pub-id-type="doi">10.1007/s10008-017-3802-1</pub-id>.</mixed-citation></ref><ref id="ref51"><mixed-citation publication-type="journal" id="cit51"><name name-style="western"><surname>Jin</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Xiong</surname><given-names>T.</given-names></name>; <name name-style="western"><surname>Li</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Xu</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Li</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Wang</surname><given-names>Y.</given-names></name>
+<article-title>Improved electrocatalytic activity
+for ethanol oxidation by Pd@N-doped
+carbon from biomass</article-title>. <source>Chem. Commun.</source>
+<year>2014</year>, <volume>50</volume> (<issue>84</issue>), <fpage>12637</fpage>–<lpage>12640</lpage>. <pub-id pub-id-type="doi">10.1039/C4CC06206J</pub-id>.<pub-id pub-id-type="pmid">25198925</pub-id></mixed-citation></ref><ref id="ref52"><mixed-citation publication-type="journal" id="cit52"><name name-style="western"><surname>Hu</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Bai</surname><given-names>Z.</given-names></name>; <name name-style="western"><surname>Yang</surname><given-names>L.</given-names></name>; <name name-style="western"><surname>Lv</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Wang</surname><given-names>K.</given-names></name>; <name name-style="western"><surname>Guo</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Cao</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Zhou</surname><given-names>J.</given-names></name>
+<article-title>Preparation
+of high performance Pd catalysts supported
+on untreated multi-walled carbon nanotubes for formic acid oxidation</article-title>. <source>Electrochim. Acta</source>
+<year>2010</year>, <volume>55</volume> (<issue>20</issue>), <fpage>6036</fpage>–<lpage>6041</lpage>. <pub-id pub-id-type="doi">10.1016/j.electacta.2010.05.063</pub-id>.</mixed-citation></ref><ref id="ref53"><mixed-citation publication-type="journal" id="cit53"><name name-style="western"><surname>Zhang</surname><given-names>J. X.</given-names></name>; <name name-style="western"><surname>Yang</surname><given-names>X. L.</given-names></name>; <name name-style="western"><surname>Shao</surname><given-names>H. F.</given-names></name>; <name name-style="western"><surname>Tseng</surname><given-names>C. C.</given-names></name>; <name name-style="western"><surname>Wang</surname><given-names>D. S.</given-names></name>; <name name-style="western"><surname>Tian</surname><given-names>S. S.</given-names></name>; <name name-style="western"><surname>Hu</surname><given-names>W. J.</given-names></name>; <name name-style="western"><surname>Jing</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Tian</surname><given-names>J. N.</given-names></name>; <name name-style="western"><surname>Zhao</surname><given-names>Y. C.</given-names></name>
+<article-title>Microwave-assisted
+Synthesis of Pd Oxide-rich Pd Particles
+on Nitrogen/Sulfur Co-Doped Graphene with Remarkably Enhanced Ethanol
+Electrooxidation</article-title>. <source>Fuel Cells</source>
+<year>2017</year>, <volume>17</volume> (<issue>1</issue>), <fpage>115</fpage>–<lpage>122</lpage>. <pub-id pub-id-type="doi">10.1002/fuce.201600153</pub-id>.</mixed-citation></ref><ref id="ref54"><mixed-citation publication-type="journal" id="cit54"><name name-style="western"><surname>Zhang</surname><given-names>Z.</given-names></name>; <name name-style="western"><surname>Xin</surname><given-names>L.</given-names></name>; <name name-style="western"><surname>Sun</surname><given-names>K.</given-names></name>; <name name-style="western"><surname>Li</surname><given-names>W.</given-names></name>
+<article-title>Pd–Ni
+electrocatalysts for
+efficient ethanol oxidation reaction in alkaline electrolyte</article-title>. <source>Int. J. Hydrogen Energy</source>
+<year>2011</year>, <volume>36</volume> (<issue>20</issue>), <fpage>12686</fpage>–<lpage>12697</lpage>. <pub-id pub-id-type="doi">10.1016/j.ijhydene.2011.06.141</pub-id>.</mixed-citation></ref><ref id="ref55"><mixed-citation publication-type="journal" id="cit55"><name name-style="western"><surname>Rostami</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Rostami</surname><given-names>A. A.</given-names></name>; <name name-style="western"><surname>Omrani</surname><given-names>A.</given-names></name>
+<article-title>An electrochemical
+method to prepare
+of Pd/Cu<sub>2</sub>O/MWCNT nanostructure as an anode electrocatalyst
+for alkaline direct ethanol fuel cells</article-title>. <source>Electrochim.
+Acta</source>
+<year>2016</year>, <volume>194</volume> (<issue>02.100</issue>), <fpage>431</fpage>–<lpage>440</lpage>. <pub-id pub-id-type="doi">10.1016/j.electacta.2016.02.100</pub-id>.</mixed-citation></ref><ref id="ref56"><mixed-citation publication-type="journal" id="cit56"><name name-style="western"><surname>Wang</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Shi</surname><given-names>F.-F.</given-names></name>; <name name-style="western"><surname>Yang</surname><given-names>Y.-Y.</given-names></name>; <name name-style="western"><surname>Cai</surname><given-names>W.-B.</given-names></name>
+<article-title>Carbon supported
+Pd–Ni–P nanoalloy as an efficient catalyst for ethanol
+electro-oxidation in alkaline media</article-title>. <source>J. Power
+Sources</source>
+<year>2013</year>, <volume>243</volume>, <fpage>369</fpage>–<lpage>373</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2013.06.021</pub-id>.</mixed-citation></ref><ref id="ref57"><mixed-citation publication-type="journal" id="cit57"><name name-style="western"><surname>Wang</surname><given-names>Y.-F.</given-names></name>; <name name-style="western"><surname>Zhu</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Yang</surname><given-names>Y.-Y.</given-names></name>; <name name-style="western"><surname>Zhao</surname><given-names>Z.-G.</given-names></name>
+<article-title>Surface-clean low-doped PdB/C as
+superior electrocatalysts toward ethanol oxidation in alkaline media</article-title>. <source>J. Energy Chem.</source>
+<year>2018</year>, <volume>27</volume> (<issue>2</issue>), <fpage>389</fpage>–<lpage>394</lpage>. <pub-id pub-id-type="doi">10.1016/j.jechem.2018.01.001</pub-id>.</mixed-citation></ref><ref id="ref58"><mixed-citation publication-type="journal" id="cit58"><name name-style="western"><surname>Zhu</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Yang</surname><given-names>Y.-Y.</given-names></name>; <name name-style="western"><surname>Zhao</surname><given-names>Z.-G.</given-names></name>
+<article-title>Surface voltammetric dealloying investigation
+on PdCu/C electrocatalysts toward ethanol oxidation in alkaline media</article-title>. <source>J. Nanopart. Res.</source>
+<year>2018</year>, <volume>20</volume> (<issue>11</issue>), <fpage>314</fpage><pub-id pub-id-type="doi">10.1007/s11051-018-4423-z</pub-id>.</mixed-citation></ref><ref id="ref59"><mixed-citation publication-type="journal" id="cit59"><name name-style="western"><surname>Fouda-Onana</surname><given-names>F.</given-names></name>; <name name-style="western"><surname>Savadogo</surname><given-names>O.</given-names></name>
+<article-title>Study of O2 and OH
+adsorption energies on Pd–Cu
+alloys surface with a quantum chemistry approach</article-title>. <source>Electrochim. Acta</source>
+<year>2009</year>, <volume>54</volume> (<issue>6</issue>), <fpage>1769</fpage>–<lpage>1776</lpage>. <pub-id pub-id-type="doi">10.1016/j.electacta.2008.10.026</pub-id>.</mixed-citation></ref><ref id="ref60"><mixed-citation publication-type="journal" id="cit60"><name name-style="western"><surname>Hammer</surname><given-names>B.</given-names></name>; <name name-style="western"><surname>Nørskov</surname><given-names>J. K.</given-names></name>
+<article-title>Electronic
+factors determining the reactivity of metal
+surfaces</article-title>. <source>Surf. Sci.</source>
+<year>1995</year>, <volume>343</volume> (<issue>3</issue>), <fpage>211</fpage>–<lpage>220</lpage>. <pub-id pub-id-type="doi">10.1016/0039-6028(96)80007-0</pub-id>.</mixed-citation></ref><ref id="ref61"><mixed-citation publication-type="journal" id="cit61"><name name-style="western"><surname>Shafaei
+Douk</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Saravani</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Noroozifar</surname><given-names>M.</given-names></name>
+<article-title>Novel fabrication of PdCu nanostructures
+decorated on graphene as excellent electrocatalyst toward ethanol
+oxidation</article-title>. <source>Int. J. Hydrogen Energy</source>
+<year>2017</year>, <volume>42</volume> (<issue>22</issue>), <fpage>15149</fpage>–<lpage>15159</lpage>. <pub-id pub-id-type="doi">10.1016/j.ijhydene.2017.04.280</pub-id>.</mixed-citation></ref><ref id="ref62"><mixed-citation publication-type="journal" id="cit62"><name name-style="western"><surname>Rajesh</surname><given-names>D.</given-names></name>; <name name-style="western"><surname>Indra Neel</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Pandurangan</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Mahendiran</surname><given-names>C.</given-names></name>
+<article-title>Pd-NiO decorated
+multiwalled carbon nanotubes supported on reduced graphene oxide as
+an efficient electrocatalyst for ethanol oxidation in alkaline medium</article-title>. <source>Appl. Surf. Sci.</source>
+<year>2018</year>, <volume>442</volume>, <fpage>787</fpage>–<lpage>796</lpage>. <pub-id pub-id-type="doi">10.1016/j.apsusc.2018.02.174</pub-id>.</mixed-citation></ref><ref id="ref63"><mixed-citation publication-type="journal" id="cit63"><name name-style="western"><surname>Hu</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Cheng</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Zhao</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Hu</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Liu</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Dai</surname><given-names>L.</given-names></name>; <name name-style="western"><surname>Qu</surname><given-names>L.</given-names></name>
+<article-title>Newly-Designed Complex
+Ternary Pt/PdCu Nanoboxes Anchored
+on Three-Dimensional Graphene Framework for Highly Efficient Ethanol
+Oxidation</article-title>. <source>Adv. Mater.</source>
+<year>2012</year>, <volume>24</volume> (<issue>40</issue>), <fpage>5493</fpage>–<lpage>5498</lpage>. <pub-id pub-id-type="doi">10.1002/adma.201200498</pub-id>.<pub-id pub-id-type="pmid">22886893</pub-id>
+</mixed-citation></ref><ref id="ref64"><mixed-citation publication-type="journal" id="cit64"><name name-style="western"><surname>Spezzati</surname><given-names>G.</given-names></name>; <name name-style="western"><surname>Su</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Hofmann</surname><given-names>J. P.</given-names></name>; <name name-style="western"><surname>Benavidez</surname><given-names>A. D.</given-names></name>; <name name-style="western"><surname>DeLaRiva</surname><given-names>A. T.</given-names></name>; <name name-style="western"><surname>McCabe</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Datye</surname><given-names>A. K.</given-names></name>; <name name-style="western"><surname>Hensen</surname><given-names>E. J. M.</given-names></name>
+<article-title>Atomically
+Dispersed Pd–O
+Species on CeO2(111) as Highly Active Sites for Low-Temperature CO
+Oxidation</article-title>. <source>ACS Catal.</source>
+<year>2017</year>, <volume>7</volume> (<issue>10</issue>), <fpage>6887</fpage>–<lpage>6891</lpage>. <pub-id pub-id-type="doi">10.1021/acscatal.7b02001</pub-id>.<pub-id pub-id-type="pmid">29034121</pub-id>
+<pub-id pub-id-type="pmcid">PMC5634748</pub-id></mixed-citation></ref><ref id="ref65"><mixed-citation publication-type="journal" id="cit65"><name name-style="western"><surname>Moreira</surname><given-names>T. F. M.</given-names></name>; <name name-style="western"><surname>Andrade</surname><given-names>A. R.</given-names></name>; <name name-style="western"><surname>Boniface Kokoh</surname><given-names>K.</given-names></name>; <name name-style="western"><surname>Morais</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Napporn</surname><given-names>T. W.</given-names></name>; <name name-style="western"><surname>Olivi</surname><given-names>P.</given-names></name>
+<article-title>An FTIR Study of the
+Electrooxidation of C2 and C3 Alcohols on Carbon-Supported
+PdxRhy in Alkaline Medium</article-title>. <source>ChemElectroChem</source>
+<year>2022</year>, <volume>9</volume> (<issue>11</issue>), <elocation-id>e202200205</elocation-id><pub-id pub-id-type="doi">10.1002/celc.202200205</pub-id>.</mixed-citation></ref><ref id="ref66"><mixed-citation publication-type="journal" id="cit66"><name name-style="western"><surname>Messa
+Moreira</surname><given-names>T. F.</given-names></name>; <name name-style="western"><surname>Neto</surname><given-names>S. A.</given-names></name>; <name name-style="western"><surname>Lemoine</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Kokoh</surname><given-names>K. B.</given-names></name>; <name name-style="western"><surname>Morais</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Napporn</surname><given-names>T. W.</given-names></name>; <name name-style="western"><surname>Olivi</surname><given-names>P.</given-names></name>
+<article-title>Rhodium effects on
+Pt anode materials in a direct alkaline ethanol fuel cell</article-title>. <source>RSC Adv.</source>
+<year>2020</year>, <volume>10</volume> (<issue>58</issue>), <fpage>35310</fpage>–<lpage>35317</lpage>. <pub-id pub-id-type="doi">10.1039/D0RA06570F</pub-id>.<pub-id pub-id-type="pmid">35515668</pub-id>
+<pub-id pub-id-type="pmcid">PMC9056937</pub-id></mixed-citation></ref></ref-list></back></article>
