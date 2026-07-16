@@ -1,0 +1,658 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Front Oncol</journal-id><journal-id journal-id-type="iso-abbrev">Front Oncol</journal-id><journal-id journal-id-type="pmc-domain-id">1755</journal-id><journal-id journal-id-type="pmc-domain">frontonco</journal-id><journal-id journal-id-type="nlm-id">101568867</journal-id><journal-id journal-id-type="publisher-id">Front. Oncol.</journal-id><journal-title-group><journal-title>Frontiers in Oncology</journal-title></journal-title-group><issn pub-type="epub">2234-943X</issn><publisher><publisher-name>Frontiers Media SA</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC9236135</article-id><article-id pub-id-type="pmcid-ver">PMC9236135.1</article-id><article-id pub-id-type="pmcaid">9236135</article-id><article-id pub-id-type="pmcaiid">9236135</article-id><article-id pub-id-type="pmid">35769548</article-id><article-id pub-id-type="doi">10.3389/fonc.2021.792431</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Oncology</subject><subj-group><subject>Original Research</subject></subj-group></subj-group></article-categories><title-group><article-title>Scintigraphic Imaging of Neovascularization With
+<sup>99m</sup>Tc-3PRGD<sub>2</sub> for Evaluating Early Response to Endostar
+Involved Therapies on Pancreatic Cancer Xenografts <italic toggle="yes">In Vivo</italic>
+</article-title></title-group><contrib-group><contrib contrib-type="author"><name name-style="western"><surname>Jin</surname><given-names initials="X">Xiaona</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://loop.frontiersin.org/people/1505950"/></contrib><contrib contrib-type="author"><name name-style="western"><surname>Dong</surname><given-names initials="C">Chengyan</given-names></name><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Zheng</surname><given-names initials="K">Kun</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://loop.frontiersin.org/people/1078090"/></contrib><contrib contrib-type="author"><name name-style="western"><surname>Shi</surname><given-names initials="X">Ximin</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Liu</surname><given-names initials="Y">Yu</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Huo</surname><given-names initials="L">Li</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://loop.frontiersin.org/people/887041"/></contrib><contrib contrib-type="author"><name name-style="western"><surname>Wang</surname><given-names initials="F">Fan</given-names></name><xref rid="aff4" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib contrib-type="author" corresp="yes"><name name-style="western"><surname>Li</surname><given-names initials="F">Fang</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="fn001" ref-type="author-notes">
+<sup>*</sup>
+</xref></contrib></contrib-group><aff id="aff1">
+<sup>1</sup>
+<institution>Department of Nuclear Medicine, Peking Union Medical College Hospital,
+Chinese Academy of Medical Sciences and Peking Union Medical
+College</institution>, <addr-line>Beijing</addr-line>, <country>China</country>
+</aff><aff id="aff2">
+<sup>2</sup>
+<institution>Beijing Key Laboratory of Molecular Targeted Diagnosis and Therapy in
+Nuclear Medicine</institution>, <addr-line>Beijing</addr-line>,
+<country>China</country>
+</aff><aff id="aff3">
+<sup>3</sup>
+<institution>GE Healthcare China</institution>, <addr-line>Beijing</addr-line>,
+<country>China</country>
+</aff><aff id="aff4">
+<sup>4</sup>
+<institution>Medical Isotopes Research Center, Peking University</institution>,
+<addr-line>Beijing</addr-line>, <country>China</country>
+</aff><author-notes><fn fn-type="edited-by"><p>Edited by: Haibin Shi, Soochow University, China</p></fn><fn fn-type="edited-by"><p>Reviewed by: Min Yang, Jiangsu Institute of Nuclear Medicine, China; Yao Sun,
+Central China Normal University, China</p></fn><corresp id="fn001">*Correspondence: Fang Li, <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="mailto:lifang@pumch.cn">lifang@pumch.cn</email>
+</corresp><fn fn-type="other" id="fn002"><p>This article was submitted to Cancer Imaging and Image-directed
+Interventions, a section of the journal Frontiers in Oncology</p></fn></author-notes><pub-date pub-type="epub"><day>15</day><month>12</month><year>2021</year></pub-date><pub-date pub-type="collection"><year>2021</year></pub-date><volume>11</volume><issue-id pub-id-type="pmc-issue-id">375511</issue-id><elocation-id>792431</elocation-id><history><date date-type="received"><day>10</day><month>10</month><year>2021</year></date><date date-type="accepted"><day>22</day><month>11</month><year>2021</year></date></history><pub-history><event event-type="pmc-release"><date><day>01</day><month>01</month><year>2021</year></date></event><event event-type="pmc-live"><date><day>28</day><month>06</month><year>2022</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2024-08-29 21:25:40.037"><day>29</day><month>08</month><year>2024</year></date></event></pub-history><permissions><copyright-statement>Copyright © 2021 Jin, Dong, Zheng, Shi, Liu, Huo, Wang and
+Li</copyright-statement><copyright-year>2021</copyright-year><copyright-holder>Jin, Dong, Zheng, Shi, Liu, Huo, Wang and Li</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open-access article distributed under the terms of the Creative
+Commons Attribution License (CC BY). The use, distribution or reproduction
+in other forums is permitted, provided the original author(s) and the
+copyright owner(s) are credited and that the original publication in this
+journal is cited, in accordance with accepted academic practice. No use,
+distribution or reproduction is permitted which does not comply with these
+terms.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="fonc-11-792431.pdf"/><abstract><sec><title>Background</title><p>Molecular imaging targeting angiogenesis can specifically monitor the early
+therapeutic effect of antiangiogenesis therapy. We explore the predictive
+values of an integrin αvβ3-targeted tracer,
+<sup>99m</sup>Tc-PEG<sub>4</sub>-E[PEG<sub>4</sub>-c(RGDfK)]<sub>2</sub>
+(<sup>99m</sup>Tc-3PRGD<sub>2</sub>), for monitoring the efficacy of
+Endostar antiangiogenic therapy and chemotherapy in animal models.</p></sec><sec><title>Methods</title><p>The pancreatic cancer xenograft mice were randomly divided into four groups,
+with seven animals in each group and treated in different groups with 10
+mg/kg/day of Endostar, 10 mg/kg/day of gemcitabine, 10 mg/kg/day of Endostar
++10 mg/kg/day of gemcitabine at the same time, and the control group with
+0.9% saline (0.1 ml/day). <sup>99m</sup>Tc-3PRGD<sub>2</sub> scintigraphic
+imaging was carried out to monitor therapeutic effects. Microvessel density
+(MVD) was measured using immunohistochemical staining of the tumor tissues.
+The region of interest (ROI) of tumor (T) and contralateral corresponding
+site (NT) was delineated, and the ratio of radioactivity (T/NT) was
+calculated. Two-way repeated-measure analysis of variance (ANOVA) was used
+to assess differences between treatment groups.</p></sec><sec><title>Results</title><p>Tumor growth was significantly lower in treatment groups than that in the
+control group (p &lt; 0.05), and the differences were noted on day 28
+posttreatment. The differences of <sup>99m</sup>Tc-3PRGD<sub>2</sub> uptakes
+were observed between the control group and Endostar group (p = 0.033) and
+the combined treatment group (p &lt; 0.01) on day 7 posttreatment and on day
+14 posttreatment between the control group and gemcitabine group (p &lt;
+0.01). The accumulation of <sup>99m</sup>Tc-3PRGD<sub>2</sub> was
+significantly correlated with MVD (r = 0.998, p = 0.002).</p></sec><sec><title>Conclusion</title><p>With <sup>99m</sup>Tc-3PRGD<sub>2</sub> scintigraphic imaging, the tumor
+response to antiangiogenic therapy, chemotherapy, and the combined treatment
+can be observed at an early stage of the treatments, much earlier than the
+tumor volume change. It provides new opportunities for developing
+individualized therapies and dose optimization.</p></sec></abstract><kwd-group><kwd>Endostar</kwd><kwd>
+<sup>99m</sup>Tc-3PRGD<sub>2</sub>
+</kwd><kwd>antiangiogenesis</kwd><kwd>scintigraphic imaging</kwd><kwd>microvessel density</kwd></kwd-group><counts><fig-count count="4"/><table-count count="2"/><equation-count count="0"/><ref-count count="48"/><page-count count="9"/><word-count count="3232"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="intro" id="s1"><title>Introduction</title><p>Inhibition of angiogenesis causes vascular degeneration, hinders the delivery of
+oxygen and nutrients, and eventually leads to tumor hunger. Antiangiogenic therapy
+has been approved as an effective strategy to inhibit tumor growth and affect
+metastatic spread in many countries, providing a novel treatment approach for cancer
+patients (<xref rid="B1" ref-type="bibr">1</xref>, <xref rid="B2" ref-type="bibr">2</xref>). As a recombinant human endostatin, Endostar is mainly used for
+cancer treatment as an antiangiogenic agent (<xref rid="B3" ref-type="bibr">3</xref>, <xref rid="B4" ref-type="bibr">4</xref>). It was approved by the China
+Food and Drug Administration (CFDA) for lung cancer treatment in 2005. Endostar has
+been used in the treatment of a variety of cancers for antiangiogenesis effect,
+including non-small cell lung cancer, breast cancer, melanoma, and gastric cancer
+(<xref rid="B5" ref-type="bibr">5</xref>–<xref rid="B10" ref-type="bibr">10</xref>). Nevertheless, the benefits of Endostar on pancreatic cancer are
+currently poorly known. Endostar was effective in the treatment of advanced
+pancreatic neuroendocrine tumors combined with temozolomide or dacarbazine + 5-FU,
+and the combinations were well tolerated (<xref rid="B11" ref-type="bibr">11</xref>). Antiangiogenic therapeutics or inhibitors of proangiogenic kinase
+pathways could antagonize the growth-promoting effect of cantharidin and present
+additive antitumor effects, exhibiting adequate efficacy. Endostar has shown a good
+safety profile and tolerance in previous studies, without common toxicity of other
+VEGF or VEGFR inhibitors, such as hypertension and proteinuria (<xref rid="B6" ref-type="bibr">6</xref>, <xref rid="B12" ref-type="bibr">12</xref>–<xref rid="B15" ref-type="bibr">15</xref>).</p><p>In the past years, clinical trials of antiangiogenic therapy with anti-VEGF
+(bevacizumab) or anti-VEGFR (sorafenib, axitinib) for pancreatic cancer have been
+carried out (<xref rid="B16" ref-type="bibr">16</xref>–<xref rid="B20" ref-type="bibr">20</xref>). As often observed in clinical trials, only some patients
+benefit from treatment (<xref rid="B21" ref-type="bibr">21</xref>, <xref rid="B22" ref-type="bibr">22</xref>). Therefore, there is an urgent need to
+develop an alternative approach to select patients who will benefit from
+antiangiogenic therapies, detect emerging drug resistance, and monitor early
+treatment outcomes (<xref rid="B23" ref-type="bibr">23</xref>).</p><p>A histopathologic evaluation of microvessel density (MVD) has been suggested as a
+prognostic indicator of progression, but it is not suitable for repeated evaluation
+of tumor angiogenesis because of the invasive nature of the procedure (<xref rid="B24" ref-type="bibr">24</xref>). Noninvasive imaging techniques such as
+dynamic contrast-enhanced (DCE) magnetic resonance imaging (MRI) or computed
+tomography (CT) can evaluate tumor blood flow and volume but have limited capability
+to quantify the changes of tumor vessels after treatment (<xref rid="B25" ref-type="bibr">25</xref>–<xref rid="B27" ref-type="bibr">27</xref>). Positron
+emission tomography (PET) has been used to monitor antiangiogenic therapy by
+measuring glucose metabolism changes with approp<sup>18</sup>F-FDG
+(2-deoxy-2-18F-fluoro-D-glucose), but <sup>18</sup>F-FDG may not be an appropriate
+modality as a non-specific tracer. Therefore, molecular imaging targeting specific
+pathways related to angiogenesis is necessary to specifically monitor some molecular
+sequence. As an early treatment effect, its advantage is to allow repeated
+non-invasive follow-ups in the treatment process (<xref rid="B28" ref-type="bibr">28</xref>, <xref rid="B29" ref-type="bibr">29</xref>).</p><p>Integrin αvβ3 imaging may provide a new method for evaluating tumor
+angiogenesis and monitoring the response to antiangiogenic therapy (<xref rid="B28" ref-type="bibr">28</xref>). The Arg–Gly–Asp (RGD)
+sequence was known to be associated with integrins expressed on the surface of
+angiogenic vessels or tumor cells αvβ3 (<xref rid="B30" ref-type="bibr">30</xref>). Thus, various radiolabeled derivatives of RGD peptides have been
+developed for angiogenesis imaging by PET imaging, such as
+<sup>18</sup>F-FPRGD<sub>2</sub> and <sup>68</sup>Ga-NOTA-PRGD<sub>2</sub>, and
+single-photon emission computed tomography (SPECT) imaging for the diagnosis of
+cancers, such as <sup>99m</sup>Tc-3PRGD<sub>2</sub> (<xref rid="B31" ref-type="bibr">31</xref>–<xref rid="B35" ref-type="bibr">35</xref>). RGD-based PET
+tracers have been evaluated to be comparable to <sup>18</sup>F-FDG for lesion
+detection in clinical studies, with high specificity and long tumor retention.
+Especially for gliomas and brain metastases, PET imaging with RGD analogues showed a
+much higher tumor-to-background than <sup>18</sup>F-FDG did (<xref rid="B36" ref-type="bibr">36</xref>–<xref rid="B38" ref-type="bibr">38</xref>).
+<sup>68</sup>Ga-3PRGD<sub>2</sub> PET reflected the tumor response to Endostar
+antiangiogenic therapy much earlier and more accurately than did <sup>18</sup>F-FDG
+metabolic imaging (<xref rid="B31" ref-type="bibr">31</xref>–<xref rid="B35" ref-type="bibr">35</xref>). Compared with the tracers for PET,
+<sup>99m</sup>Tc-3PRGD<sub>2</sub> is a SPECT tracer with wider availability,
+especially in underdeveloped areas. Because of its simple, efficient, and repeatable
+preparation procedure, <sup>99m</sup>Tc-3PRGD<sub>2</sub> is easy for routine
+clinical use (<xref rid="B39" ref-type="bibr">39</xref>, <xref rid="B40" ref-type="bibr">40</xref>).</p><p>We tried to evaluate the value of <sup>99m</sup>Tc-3PRGD<sub>2</sub> as a binding
+integrin α<sub>v</sub>β<sub>3</sub> imaging agent in monitoring the
+efficacy of Endostar antiangiogenesis therapy and chemotherapy in animal models, to
+find a specific way for early monitoring the therapeutic effects and evaluating the
+follow-ups during the whole therapy. In this study, we also involved gemcitabine,
+the standard of care for the first-line treatment of metastatic pancreatic cancer
+globally, to further evaluate the capability of <sup>99m</sup>Tc-3PRGD<sub>2</sub>
+in treatment monitoring (<xref rid="B39" ref-type="bibr">39</xref>, <xref rid="B40" ref-type="bibr">40</xref>).</p></sec><sec id="s2"><title>Method</title><sec id="s2_1"><title>Radiopharmaceutical Preparation</title><p>Synthesis of the labeling precursor, kit preparation, and subsequent
+<sup>99m</sup>Tc-labeling were performed as previously described (<xref rid="B35" ref-type="bibr">35</xref>). Briefly, the kit for the preparation
+of <sup>99m</sup>Tc-3PRGD<sub>2</sub> was formulated by combining 20 mg of
+hydrazinonicotinamide-3PRGD<sub>2</sub>, 5 mg of trisodium
+triphenylphosphine-3,39,399-trisulfonate (TPPTS), 6.5 mg of tricine, 40 mg of
+mannitol, 38.5 mg of disodium succinate hexahydrate, and 12.7 mg of succinic
+acid. For <sup>99m</sup>Tc radiolabeling, to the kit vial was added 1 ml of
+1.110–1.850 MBq (30–50 mCi) of <inline-formula>
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="im1" display="inline" overflow="scroll"><mml:msup><mml:mn>99</mml:mn><mml:mi>m</mml:mi></mml:msup><mml:mtext>Tc</mml:mtext><mml:msubsup><mml:mtext>O</mml:mtext><mml:mn>4</mml:mn><mml:mo>−</mml:mo></mml:msubsup></mml:math>
+</inline-formula> saline solution, and then the vial was water-bathed at
+100°C for 15–20 min [MS data shown in previous article ref. (<xref rid="B33" ref-type="bibr">33</xref>)]. The resulting solution was analyzed
+by instant thin-layer chromatography using Gelman Sciences silica-gel paper
+strips and a 1:1 mixture of acetone and saline as eluant. The radiochemical
+purity was always greater than 95%. The reaction mixture was then diluted to
+approximately 370 MBq/ml (10 mCi/ml) with saline and was filtered with a 0.20-mm
+Millex-LG filter (EMD Millipore). Each animal was injected with 7.4–11.1
+MBq (0.2–0.3 mCi) of <sup>99m</sup>Tc-3PRGD<sub>2</sub> per mouse.</p></sec><sec id="s2_2"><title>Animal Model Establishment</title><p>Female BALB/c mice (5 weeks of age) were purchased from Vital River Lab Animal
+Technology Co., Ltd. The PANC-1 mouse model was established by subcutaneous
+injection of 2 × 10<sup>6</sup> PANC-1 cells into the right shoulders of
+mice. Once the tumor diameter reached 5–7 mm, the mice were initiated
+with treatment (~2 weeks after inoculation of PANC-1 cells).</p></sec><sec id="s2_3"><title>Treatment Protocols</title><p>The study flowchart is given in <xref rid="f1" ref-type="fig">
+<bold>Figure 1</bold>
+</xref>. PANC-1 tumor-bearing BALB/c mice with a tumor size of 5–7 mm
+were randomly divided into four groups (n = 7 mice per group). The first group
+was intraperitoneally injected with 10 mg/kg Endostar, the second group was
+intraperitoneally injected with 10 mg/kg gemcitabine, the third group was
+intraperitoneally injected with 10 mg/kg Endostar, and 10 mg/kg gemcitabine at
+the same time and 0.9% saline were used as the negative control. The treatments
+were performed daily for 28 days continuously. The tumor size was measured daily
+with a digital caliper, and the formula (volume = 1/2 length × width×
+width) was used to calculate the tumor volume. Body weight was monitored daily
+to assess potential toxicity. All mice were euthanized, and the tumor tissues
+were harvested for further immunohistochemical staining when the treatment was
+complete.</p><fig position="float" id="f1" orientation="portrait"><label>Figure 1</label><caption><p>Therapy and imaging protocols.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="fonc-11-792431-g001.jpg"/></fig></sec><sec id="s2_4"><title>Imaging Protocol</title><p>The scanner was a dual-head γ-camera (Siemens e.cam, Germany), using
+low-energy high-resolution collimators and a 20% energy window centered on 140
+keV. Static planar scans of the mice were obtained at 1.5 h postinjection (p.i.)
+under isoflurane anesthesia. The acquisition count was 3 × 10<sup>5</sup>.
+The matrix is 256 × 256, and the magnification is 1.33. The regions of
+interest (ROIs) of the tumor (T) and non-target (NT, contralateral muscles) were
+delineated, and the ratios of radioactivity (T/NT) were calculated. The study
+flowchart is given in <xref rid="f1" ref-type="fig">
+<bold>Figure 1</bold>
+</xref>.</p></sec><sec id="s2_5"><title>Immunohistochemical Studies</title><p>Using formalin-fixed paraffin-embedded tissue sections and the envision method,
+CD31-stained slides were examined under appropriate pretreatment to determine
+MVD in tumor tissue samples. Pathologists selected representative specimens
+according to the quality and quantity of embedded tissues. On the CD31-stained
+slides, microvessel density was counted in three fields at a magnification of
+×200. Microvessel counts were considered to be all round, oval, or
+irregular structures with positive staining, which were separated from other
+contour or connective tissue elements. Vessels with muscularis and necrotic
+areas were excluded.</p></sec><sec id="s2_6"><title>Statistical Analysis</title><p>Quantitative and semiquantitative data were expressed as the mean ± SD and
+analyzed using SPSS version 17.0 (IBM, Chicago, IL, USA). Mean values were
+compared using one-way analysis of variance (ANOVA) or Student’s t-test.
+Two-way repeated-measure analysis of variance (ANOVA) was used to evaluate the
+differences between different treatment groups.</p></sec></sec><sec sec-type="results" id="s3"><title>Results</title><sec id="s3_1"><title>Effect of Treatments on Tumor Growth</title><p>There was no significant tumor growth inhibition observed in the Endostar or
+gemcitabine group before day 21 posttreatment, compared with the control group
+(p &gt; 0.05). The difference between the Endostar + gemcitabine group and the
+control group was observed on day 14 posttreatment (p &lt; 0.01). At the end of
+the treatment (day 28 posttreatment), the tumor growth in the control group was
+rapid with the tumor sizes reaching over 1,881 ± 523 mm<sup>3</sup>, but
+1,160 ± 212 mm<sup>3</sup> in the Endostar group, 1,171 ± 496
+mm<sup>3</sup> in the gemcitabine group, and 801 ± 399 mm<sup>3</sup>
+in the Endostar + gemcitabine group. There were differences between the
+treatment groups and the control group (p &lt; 0.05, <xref rid="T1" ref-type="table">
+<bold>Table 1</bold>
+</xref>), demonstrating the tumor growth inhibition effect of treatments.
+Two-way repeated-measure ANOVA was statistically significant for differences
+between the three treatment groups and the control group (<xref rid="T2" ref-type="table">
+<bold>Table 2</bold>
+</xref> and <xref rid="f2" ref-type="fig">
+<bold>Figure 2A</bold>
+</xref>). Tumor growth was significantly faster in the control group than in all
+other groups (p &lt; 0.05) and was slower in the Endostar + gemcitabine group
+than the gemcitabine (p = 0.021) and Endostar groups (p = 0.034). Treatment was
+the only regimen that resulted in slowing of the growth of the tumor volume.</p><table-wrap position="float" id="T1" orientation="portrait"><label>Table 1</label><caption><p>Unpaired t-test (treatment groups vs. control group).</p></caption><table frame="hsides" rules="groups"><thead><tr><th valign="top" align="left" rowspan="1" colspan="1">  TimeGroups</th><th valign="top" colspan="2" align="center" rowspan="1">Day 0</th><th valign="top" colspan="2" align="center" rowspan="1">Day 7</th><th valign="top" colspan="2" align="center" rowspan="1">Day 14</th><th valign="top" colspan="2" align="center" rowspan="1">Day 21</th><th valign="top" colspan="2" align="center" rowspan="1">Day 28</th></tr><tr><th valign="top" align="left" rowspan="1" colspan="1"/><th valign="top" align="center" rowspan="1" colspan="1">Tumor volume</th><th valign="top" align="center" rowspan="1" colspan="1">T/NT</th><th valign="top" align="center" rowspan="1" colspan="1">Tumor volume</th><th valign="top" align="center" rowspan="1" colspan="1">T/NT</th><th valign="top" align="center" rowspan="1" colspan="1">Tumor volume</th><th valign="top" align="center" rowspan="1" colspan="1">T/NT</th><th valign="top" align="center" rowspan="1" colspan="1">Tumor volume</th><th valign="top" align="center" rowspan="1" colspan="1">T/NT</th><th valign="top" align="center" rowspan="1" colspan="1">Tumor volume</th><th valign="top" align="center" rowspan="1" colspan="1">T/NT</th></tr></thead><tbody><tr><td valign="top" align="left" rowspan="1" colspan="1">Endostar vs. control</td><td valign="top" align="center" rowspan="1" colspan="1">p = 0.953</td><td valign="top" align="center" rowspan="1" colspan="1">p = 0.573</td><td valign="top" align="center" rowspan="1" colspan="1">p = 0.696</td><td valign="top" align="center" rowspan="1" colspan="1">p = 0.033</td><td valign="top" align="center" rowspan="1" colspan="1">p = 0.143</td><td valign="top" align="center" rowspan="1" colspan="1">p&lt;0.01</td><td valign="top" align="center" rowspan="1" colspan="1">p = 0.07</td><td valign="top" align="center" rowspan="1" colspan="1">p = 0.015</td><td valign="top" align="center" rowspan="1" colspan="1">p&lt;0.01</td><td valign="top" align="center" rowspan="1" colspan="1">p&lt;0.01</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Gemcitabine vs. control</td><td valign="top" align="center" rowspan="1" colspan="1">p = 0.917</td><td valign="top" align="center" rowspan="1" colspan="1">p = 0.630</td><td valign="top" align="center" rowspan="1" colspan="1">p = 0.441</td><td valign="top" align="center" rowspan="1" colspan="1">p = 0.108</td><td valign="top" align="center" rowspan="1" colspan="1">p = 0.258</td><td valign="top" align="center" rowspan="1" colspan="1">p&lt;0.01</td><td valign="top" align="center" rowspan="1" colspan="1">p = 0.191</td><td valign="top" align="center" rowspan="1" colspan="1">p = 0.041</td><td valign="top" align="center" rowspan="1" colspan="1">p = 0.023</td><td valign="top" align="center" rowspan="1" colspan="1">p = 0.044</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Endostar + gemcitabine vs.
+control</td><td valign="top" align="center" rowspan="1" colspan="1">p = 0.959</td><td valign="top" align="center" rowspan="1" colspan="1">p = 0.769</td><td valign="top" align="center" rowspan="1" colspan="1">p = 0.136</td><td valign="top" align="center" rowspan="1" colspan="1">p&lt;0.01</td><td valign="top" align="center" rowspan="1" colspan="1">p&lt;0.01</td><td valign="top" align="center" rowspan="1" colspan="1">p&lt;0.01</td><td valign="top" align="center" rowspan="1" colspan="1">p&lt;0.01</td><td valign="top" align="center" rowspan="1" colspan="1">p&lt;0.01</td><td valign="top" align="center" rowspan="1" colspan="1">p&lt;0.001</td><td valign="top" align="center" rowspan="1" colspan="1">p&lt;0.01</td></tr></tbody></table></table-wrap><table-wrap position="float" id="T2" orientation="portrait"><label>Table 2</label><caption><p>Repeated-measure ANOVA.</p></caption><table frame="hsides" rules="groups"><thead><tr><th valign="top" rowspan="2" align="left" colspan="1">Groups ANOVA</th><th valign="top" colspan="2" align="center" rowspan="1">Tumor volume</th><th valign="top" colspan="2" align="center" rowspan="1">T/NT</th></tr><tr><th valign="top" align="center" rowspan="1" colspan="1">F</th><th valign="top" align="center" rowspan="1" colspan="1">p</th><th valign="top" align="center" rowspan="1" colspan="1">F</th><th valign="top" align="center" rowspan="1" colspan="1">p</th></tr></thead><tbody><tr><td valign="top" align="left" rowspan="1" colspan="1">Endostar vs. control</td><td valign="top" align="center" rowspan="1" colspan="1">5.660</td><td valign="top" align="center" rowspan="1" colspan="1">0.035</td><td valign="top" align="center" rowspan="1" colspan="1">12.981</td><td valign="top" align="center" rowspan="1" colspan="1">0.004</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Gemcitabine vs. control</td><td valign="top" align="center" rowspan="1" colspan="1">4.899</td><td valign="top" align="center" rowspan="1" colspan="1">0.047</td><td valign="top" align="center" rowspan="1" colspan="1">6.913</td><td valign="top" align="center" rowspan="1" colspan="1">0.022</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Endostar + gemcitabine vs.
+control</td><td valign="top" align="center" rowspan="1" colspan="1">11.873</td><td valign="top" align="center" rowspan="1" colspan="1">0.005</td><td valign="top" align="center" rowspan="1" colspan="1">16.133</td><td valign="top" align="center" rowspan="1" colspan="1">0.002</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Gemcitabine vs. Endostar +
+gemcitabine</td><td valign="top" align="center" rowspan="1" colspan="1">7.086</td><td valign="top" align="center" rowspan="1" colspan="1">0.021</td><td valign="top" align="center" rowspan="1" colspan="1">11.838</td><td valign="top" align="center" rowspan="1" colspan="1">0.005</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Endostar vs. gemcitabine</td><td valign="top" align="center" rowspan="1" colspan="1">0.047</td><td valign="top" align="center" rowspan="1" colspan="1">0.832</td><td valign="top" align="center" rowspan="1" colspan="1">4.955</td><td valign="top" align="center" rowspan="1" colspan="1">0.051</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Endostar vs. Endostar +
+gemcitabine</td><td valign="top" align="center" rowspan="1" colspan="1">5.735</td><td valign="top" align="center" rowspan="1" colspan="1">0.034</td><td valign="top" align="center" rowspan="1" colspan="1">0.302</td><td valign="top" align="center" rowspan="1" colspan="1">0.593</td></tr></tbody></table></table-wrap><fig position="float" id="f2" orientation="portrait"><label>Figure 2</label><caption><p>
+<bold>(A)</bold> Tumor growth profiles of the control group and
+treatment groups (7 mice per group). PANC-1 tumor-bearing mice were
+treated <italic toggle="yes">via</italic> intraperitoneal injection. Saline-treated
+animals served as controls. <bold>(B)</bold>
+<sup>99m</sup>Tc-3PRGD<sub>2</sub> tumor uptake (T/N) in each
+groups.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="fonc-11-792431-g002.jpg"/></fig></sec><sec id="s3_2"><title>Monitoring the Efficacy of Antiangiogenic Therapy by Scintigraphic
+Imaging</title><p>To monitor the effect of antiangiogenic therapy, scintigraphic imaging was
+performed by using <sup>99m</sup>Tc-3PRGD<sub>2</sub> on days 0, 7, 14, 21, and
+28 posttreatment (<xref rid="f3" ref-type="fig">
+<bold>Figure 3</bold>
+</xref>), respectively. At baseline, the tumor uptake values (T/NT) of
+<sup>99m</sup>Tc-3PRGD<sub>2</sub> were 1.50 ± 0.08 (Endostar group),
+1.50 ± 0.17 (gemcitabine group), 1.52 ± 0.11 (Endostar+ gemcitabine
+group), and 1.55 ± 0.19 (control group), and T/NT in treatment groups at
+this time had no significant difference compared to the control group. On day 7
+posttreatment, T/NT in the Endostar group was significantly lower than that in
+the control group (1.67 ± 0.16 vs. 1.87 ± 0.15, p = 0.033), and the
+difference lasted until the end of treatment (<xref rid="T1" ref-type="table">
+<bold>Table 1</bold>
+</xref>). The difference was also observed between the control group and the
+Endostar + gemcitabine group. Moreover, the difference between the gemcitabine
+group and the control group was observed on day 14 posttreatment. For the
+therapeutic effect evaluated by T/NT (<xref rid="f2" ref-type="fig">
+<bold>Figure 2B</bold>
+</xref>), two-way repeated-measure ANOVA was statistically significant for
+differences between the three treatment groups and the control group, shown in
+<xref rid="T2" ref-type="table">
+<bold>Table 2</bold>
+</xref>. The T/NT rise was significantly faster in the control group than in all
+other groups (p &lt; 0.05) and was slower in the Endostar + gemcitabine group
+than in the gemcitabine group (p = 0.005), but there was no difference between
+the Endostar + gemcitabine group and the Endostar group (p = 0.593).</p><fig position="float" id="f3" orientation="portrait"><label>Figure 3</label><caption><p>PANC-1 tumor-bearing mice were imaged with
+<sup>99m</sup>Tc-3PRGD<sub>2</sub> SPECT at days 0, 7, 14, 21, and
+28 post-treatment in the Endostar group, gemcitabine group, combined
+therapy group, and control group.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="fonc-11-792431-g003.jpg"/></fig></sec><sec id="s3_3"><title>Immunohistochemical Findings</title><p>Twenty-eight specimens were stained with CD31 to correlate with the imaging
+findings. The microvessel densities (MVD) were 10.5 ± 1.7, 15.3 ± 2.5,
+9.7 ± 1.4, and 23.1 ± 2.7 in the Endostar group, gemcitabine group,
+Endostar + gemcitabine group, and the control group (<xref rid="f4" ref-type="fig">
+<bold>Figure 4</bold>
+</xref>). <sup>99m</sup>Tc-3PRGD<sub>2</sub> accumulation was significantly
+correlated with MVD counted on the CD31-stained slides (r = 0.998, p = 0.002).
+MVD in the treatment groups was significantly lower than in the control group (p
+&lt; 0.05). The difference was observed between the Endostar group and the
+gemcitabine group, but there was no difference between the Endostar group and
+the Endostar +gemcitabine group.</p><fig position="float" id="f4" orientation="portrait"><label>Figure 4</label><caption><p>MVD calculated from immunohistochemical stainings in Endostar
+<bold>(A)</bold>, gemcitabine <bold>(B)</bold>, the combination of
+those two agents <bold>(C)</bold>, and the control group
+<bold>(D)</bold>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="fonc-11-792431-g004.jpg"/></fig></sec></sec><sec sec-type="discussion" id="s4"><title>Discussion</title><p>Pancreatic cancer remains one of the most lethal malignancies, causing a huge
+incidence rate and mortality worldwide. The 5-year survival rate is 10% in the
+United States and about 7% in China, because about 80%–85% of patients have
+unresectable tumors or metastasis at the time of diagnosis (<xref rid="B41" ref-type="bibr">41</xref>, <xref rid="B42" ref-type="bibr">42</xref>). The main
+treatment for patients with advanced disease remains systemic combined chemotherapy
+(<xref rid="B43" ref-type="bibr">43</xref>). Therefore, new effective
+therapeutic schemes and sensitive evaluation of curative effects by non-invasive
+imaging methods become highly important. In addition to conventional chemotherapy
+combinations, multiple trials of antiangiogenic therapy with anti-VEGF (bevacizumab)
+and anti-VEGFR (sorafenib, axitinib) showed variable results such as positive
+benefits for patients (<xref rid="B44" ref-type="bibr">44</xref>–<xref rid="B46" ref-type="bibr">46</xref>) or negative results (<xref rid="B15" ref-type="bibr">15</xref>–<xref rid="B18" ref-type="bibr">18</xref>, <xref rid="B20" ref-type="bibr">20</xref>). In our study, Endostar was chosen as an
+antiangiogenic drug for the treatment of pancreatic, alone or combined with
+gemcitabine. Furthermore, <sup>99m</sup>Tc-3PRGD<sub>2</sub> SPECT was used to
+evaluate the therapeutic effect targeting neovascularization.</p><p>The results of the two-way repeated-measure ANOVA showed that all three therapeutic
+schemes were effective in inhibiting tumor growth. On day 14 posttreatment, the
+tumor volume of the treated mice in the Endostar + gemcitabine group was
+significantly smaller than that in the control group, but Endostar or gemcitabine
+did not induce a significant reduction in the slope of tumor growth, as compared to
+controls. On day 28 posttreatment, in monotherapy groups, the tumor growth was
+observed to be lower than that in the control group. Endostar blocks VEGF/VEGFR
+signaling which hinders tumor growth by regulating the degradation of the existing
+tumor vascular system and preventing tumor regeneration for a long time (<xref rid="B47" ref-type="bibr">47</xref>, <xref rid="B48" ref-type="bibr">48</xref>),
+while gemcitabine treatment caused cytotoxic damage, abnormal DNA repair, and
+apoptosis (<xref rid="B47" ref-type="bibr">47</xref>, <xref rid="B48" ref-type="bibr">48</xref>). The combination of the two drugs seems to be more
+effective because of the synergy of the two drugs in two different ways to promote
+tumor growth.</p><p>At the end of the second week, a reduction in <sup>99m</sup>Tc-3PRGD<sub>2</sub>
+tumor uptake (T/NT) was observed in the mice treated with Endostar alone or combined
+with gemcitabine, compared with controls, in agreement with a reduction in tumor
+growth. On day 14 posttreatment, T/NT in the gemcitabine group was significantly
+lower than that in the control group. The results of the two-way repeated-measure
+ANOVA ensure that the treatment was the regimen that resulted in slowing of
+the growth of the T/NT. Compared with the tumor volume, the difference of the
+T/NT between treatment groups and the control group was observed earlier. Moreover,
+the difference of the T/NT in treatment groups including Endostar appeared earlier
+than that in the gemcitabine group, which may be caused by the earlier mediation of
+Endostar on neovascularization reduction.</p><p>Endostar inhibits neovascular endothelial cells, resulting in reduced integrin
+expression and decreased accumulation of specific tracers. The reduction in
+neovascularization may also occur in gemcitabine. The findings were supported by
+immunofluorescence staining CD31. MVD in all treatment groups was significantly
+lower than that in the control group. Interestingly, MVD in the gemcitabine group
+was higher than those in the Endostar group and the combined therapy group, but
+there was no difference between the latter two groups, which can be explained with
+the more aggressive neovascularization reduction of Endostar compared to
+gemcitabine. T/NT was significantly correlated with MVD.
+<sup>99m</sup>Tc-3PRGD<sub>2</sub> SPECT could be a non-invasive method for
+evaluating MVD.</p><p>There were some limitations in the study. The tumor is not very small for the
+convenience of imaging, so a difference between the treatment groups and the control
+group occurs late. “Vascular normalization” mechanisms in
+antiangiogenesis had not been studied in this study, because our research focused on
+monitoring therapeutic effects with SPECT imaging. The ex vivo biodistribution data
+of <sup>99m</sup>Tc-3PRGD<sub>2</sub> have been investigated in several articles so
+we focused on the evaluation of imaging quantification.</p></sec><sec sec-type="conclusions" id="s5"><title>Conclusions</title><p>Using <sup>99m</sup>Tc-3PRGD<sub>2</sub> scintigraphic imaging, the response of
+antiangiogenesis therapies and chemotherapies can be evaluated in the early stage of
+treatment, much earlier than the change of tumor volume, providing a new opportunity
+for individualized treatments and dose optimization.</p></sec><sec sec-type="data-availability" id="s6"><title>Data Availability Statement</title><p>The original contributions presented in the study are included in the
+article/supplementary material. Further inquiries can be directed to the
+corresponding author.</p></sec><sec sec-type="ethics-statement" id="s7"><title>Ethics Statement</title><p>The animal study was reviewed and approved by the Institute Review Board of Peking
+Union Medical College Hospital, Chinese Academy of Medical Sciences, and Peking
+Union Medical College.</p></sec><sec sec-type="author-contributions" id="s8"><title>Author Contributions</title><p>FL and FW designed the study. YL and CD were responsible for radiosynthesis. KZ and
+XS were responsible for animal studies. LH helped in the study supervision. The
+manuscript was drafted by XJ and CD. All authors contributed to the article and
+approved the submitted version.</p></sec><sec sec-type="funding-information" id="s9"><title>Funding</title><p>This work was financially supported, in part, by the National Natural Science
+Foundation of China (NSFC) projects (81601551, 81801741, 81671722).</p></sec><sec sec-type="COI-statement" id="s10"><title>Conflict of Interest</title><p>The authors declare that the research was conducted in the absence of any commercial
+or financial relationships that could be construed as a potential conflict of
+interest.</p></sec><sec sec-type="disclaimer" id="s11"><title>Publisher’s Note</title><p>All claims expressed in this article are solely those of the authors and do not
+necessarily represent those of their affiliated organizations, or those of the
+publisher, the editors and the reviewers. Any product that may be evaluated in this
+article, or claim that may be made by its manufacturer, is not guaranteed or
+endorsed by the publisher.</p></sec></body><back><ref-list><title>References</title><ref id="B1"><label>1</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Burke</surname><given-names>PA</given-names></name><name name-style="western"><surname>DeNardo</surname><given-names>SJ</given-names></name></person-group>. <article-title>Antiangiogenic Agents and Their Promising
+Potential in Combined Therapy</article-title>. <source>Crit Rev Oncol
+Hematol</source> (<year>2001</year>)
+<volume>39</volume>(<issue>1-2</issue>):<page-range>155–71</page-range>.
+doi: <pub-id pub-id-type="doi">10.1016/s1040-8428(01)00115-9</pub-id>
+<pub-id pub-id-type="pmid">11418313</pub-id></mixed-citation></ref><ref id="B2"><label>2</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Folkman</surname><given-names>J</given-names></name></person-group>. <article-title>Antiangiogenesis in Cancer
+Therapy–Endostatin and Its Mechanisms of Action</article-title>.
+<source>Exp Cell Res</source> (<year>2006</year>)
+<volume>312</volume>(<issue>5</issue>):<fpage>594</fpage>–<lpage>607</lpage>.
+doi: <pub-id pub-id-type="doi">10.1016/j.yexcr.2005.11.015</pub-id>
+<pub-id pub-id-type="pmid">16376330</pub-id></mixed-citation></ref><ref id="B3"><label>3</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Ezzell</surname><given-names>C</given-names></name></person-group>. <article-title>Starving Tumors of Their
+Lifeblood</article-title>. <source>Sci Am</source> (<year>1998</year>)
+<volume>279</volume>(<issue>4</issue>):<page-range>33–4</page-range>.
+doi: <pub-id pub-id-type="doi">10.1038/scientificamerican1098-33</pub-id>
+<pub-id pub-id-type="pmid">9768520</pub-id></mixed-citation></ref><ref id="B4"><label>4</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Ge</surname><given-names>W</given-names></name><name name-style="western"><surname>Cao</surname><given-names>DD</given-names></name><name name-style="western"><surname>Wang</surname><given-names>HM</given-names></name><name name-style="western"><surname>Jie</surname><given-names>FF</given-names></name><name name-style="western"><surname>Zheng</surname><given-names>YF</given-names></name><name name-style="western"><surname>Chen</surname><given-names>Y</given-names></name></person-group>. <article-title>Endostar Combined With Chemotherapy Versus
+Chemotherapy Alone for Advanced NSCLCs: A Meta-Analysis</article-title>.
+<source>Asian Pac J Cancer Prev</source> (<year>2011</year>)
+<volume>12</volume>(<issue>10</issue>):<page-range>2705–11</page-range>.<pub-id pub-id-type="pmid">22320978</pub-id></mixed-citation></ref><ref id="B5"><label>5</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Ling</surname><given-names>Y</given-names></name><name name-style="western"><surname>Yang</surname><given-names>Y</given-names></name><name name-style="western"><surname>Lu</surname><given-names>N</given-names></name><name name-style="western"><surname>You</surname><given-names>QD</given-names></name><name name-style="western"><surname>Wang</surname><given-names>S</given-names></name><name name-style="western"><surname>Gao</surname><given-names>Y</given-names></name><etal/></person-group>. <article-title>Endostar, a Novel Recombinant Human Endostatin,
+Exerts Antiangiogenic Effect <italic toggle="yes">via</italic> Blocking VEGF-Induced
+Tyrosine Phosphorylation of KDR/Flk-1 of Endothelial Cells</article-title>.
+<source>Biochem Biophys Res Commun</source> (<year>2007</year>)
+<volume>361</volume>(<issue>1</issue>):<fpage>79</fpage>–<lpage>84</lpage>.
+doi: <pub-id pub-id-type="doi">10.1016/j.bbrc.2007.06.155</pub-id>
+<pub-id pub-id-type="pmid">17644065</pub-id></mixed-citation></ref><ref id="B6"><label>6</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Li</surname><given-names>Y</given-names></name><name name-style="western"><surname>Huang</surname><given-names>XE</given-names></name><name name-style="western"><surname>Yan</surname><given-names>PW</given-names></name><name name-style="western"><surname>Jiang</surname><given-names>Y</given-names></name><name name-style="western"><surname>Xiang</surname><given-names>J</given-names></name></person-group>. <article-title>Efficacy and Safety of Endostar Combined With
+Chemotherapy in Patients With Advanced Solid Tumors</article-title>.
+<source>Asian Pac J Cancer Prev</source> (<year>2010</year>)
+<volume>11</volume>(<issue>4</issue>):<page-range>1119–23</page-range>.<pub-id pub-id-type="pmid">21133635</pub-id></mixed-citation></ref><ref id="B7"><label>7</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Jia</surname><given-names>L</given-names></name><name name-style="western"><surname>Ren</surname><given-names>S</given-names></name><name name-style="western"><surname>Li</surname><given-names>T</given-names></name><name name-style="western"><surname>Wu</surname><given-names>J</given-names></name><name name-style="western"><surname>Zhou</surname><given-names>X</given-names></name><name name-style="western"><surname>Zhang</surname><given-names>Y</given-names></name><etal/></person-group>. <article-title>Effects of Combined Simultaneous and Sequential
+Endostar and Cisplatin Treatment in a Mice Model of Gastric Cancer
+Peritoneal Metastases</article-title>. <source>Gastroenterol Res
+Pract</source> (<year>2017</year>)
+<volume>2017</volume>:<elocation-id>2920384</elocation-id>.
+doi: <pub-id pub-id-type="doi">10.1155/2017/2920384</pub-id>
+<pub-id pub-id-type="pmid">28197204</pub-id><pub-id pub-id-type="pmcid">PMC5288543</pub-id></mixed-citation></ref><ref id="B8"><label>8</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Xiao</surname><given-names>L</given-names></name><name name-style="western"><surname>Yang</surname><given-names>S</given-names></name><name name-style="western"><surname>Hao</surname><given-names>J</given-names></name><name name-style="western"><surname>Yuan</surname><given-names>X</given-names></name><name name-style="western"><surname>Luo</surname><given-names>W</given-names></name><name name-style="western"><surname>Jiang</surname><given-names>L</given-names></name><etal/></person-group>. <article-title>Endostar Attenuates Melanoma Tumor Growth
+<italic toggle="yes">via</italic> Its Interruption of B-FGF Mediated
+Angiogenesis</article-title>. <source>Cancer Lett</source>
+(<year>2015</year>)
+<volume>359</volume>(<issue>1</issue>):<page-range>148–54</page-range>.
+doi: <pub-id pub-id-type="doi">10.1016/j.canlet.2015.01.012</pub-id>
+<pub-id pub-id-type="pmid">25597785</pub-id></mixed-citation></ref><ref id="B9"><label>9</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Lu</surname><given-names>N</given-names></name><name name-style="western"><surname>Ling</surname><given-names>Y</given-names></name><name name-style="western"><surname>Gao</surname><given-names>Y</given-names></name><name name-style="western"><surname>Chen</surname><given-names>Y</given-names></name><name name-style="western"><surname>Mu</surname><given-names>R</given-names></name><name name-style="western"><surname>Qi</surname><given-names>Q</given-names></name><etal/></person-group>. <article-title>Endostar Suppresses Invasion Through
+Downregulating the Expression of Matrix Metalloproteinase-2/9 in MDA-MB-435
+Human Breast Cancer Cells</article-title>. <source>Exp Biol Med
+(Maywood)</source> (<year>2008</year>)
+<volume>233</volume>(<issue>8</issue>):<page-range>1013–20</page-range>.
+doi: <pub-id pub-id-type="doi">10.3181/0801-rm-7</pub-id>
+<pub-id pub-id-type="pmid">18480415</pub-id></mixed-citation></ref><ref id="B10"><label>10</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Wen</surname><given-names>QL</given-names></name><name name-style="western"><surname>Meng</surname><given-names>MB</given-names></name><name name-style="western"><surname>Yang</surname><given-names>B</given-names></name><name name-style="western"><surname>Tu</surname><given-names>LL</given-names></name><name name-style="western"><surname>Jia</surname><given-names>L</given-names></name><name name-style="western"><surname>Zhou</surname><given-names>L</given-names></name><etal/></person-group>. <article-title>Endostar, a Recombined Humanized Endostatin,
+Enhances the Radioresponse for Human Nasopharyngeal Carcinoma and Human Lung
+Adenocarcinoma Xenografts in Mice</article-title>. <source>Cancer
+Sci</source> (<year>2009</year>)
+<volume>100</volume>(<issue>8</issue>):<page-range>1510–9</page-range>.
+doi: <pub-id pub-id-type="doi">10.1111/j.1349-7006.2009.01193.x</pub-id>
+<pub-id pub-id-type="pmcid">PMC11158265</pub-id><pub-id pub-id-type="pmid">19459845</pub-id></mixed-citation></ref><ref id="B11"><label>11</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Xu</surname><given-names>MD</given-names></name><name name-style="western"><surname>Liu</surname><given-names>L</given-names></name><name name-style="western"><surname>Wu</surname><given-names>MY</given-names></name><name name-style="western"><surname>Jiang</surname><given-names>M</given-names></name><name name-style="western"><surname>Shou</surname><given-names>LM</given-names></name><name name-style="western"><surname>Wang</surname><given-names>WJ</given-names></name><etal/></person-group>. <article-title>The Combination of Cantharidin and
+Antiangiogenic Therapeutics Presents Additive Antitumor Effects Against
+Pancreatic Cancer</article-title>. <source>Oncogenesis</source>
+(<year>2018</year>) <volume>7</volume>(<issue>11</issue>):<fpage>94</fpage>.
+doi: <pub-id pub-id-type="doi">10.1038/s41389-018-0102-2</pub-id>
+<pub-id pub-id-type="pmid">30478299</pub-id><pub-id pub-id-type="pmcid">PMC6255842</pub-id></mixed-citation></ref><ref id="B12"><label>12</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Wang</surname><given-names>J</given-names></name><name name-style="western"><surname>Sun</surname><given-names>Y</given-names></name><name name-style="western"><surname>Liu</surname><given-names>Y</given-names></name><name name-style="western"><surname>Yu</surname><given-names>Q</given-names></name><name name-style="western"><surname>Zhang</surname><given-names>Y</given-names></name><name name-style="western"><surname>Li</surname><given-names>K</given-names></name><etal/></person-group>. <article-title>[Results of Randomized, Multicenter,
+Double-Blind Phase III Trial of Rh-Endostatin (YH-16) in Treatment of
+Advanced Non-Small Cell Lung Cancer Patients]</article-title>.
+<source>Zhongguo Fei Ai Za Zhi</source> (<year>2005</year>)
+<volume>8</volume>(<issue>4</issue>):<page-range>283–90</page-range>.
+doi: <pub-id pub-id-type="doi">10.3779/j.issn.1009-3419.2005.04.07</pub-id>
+<pub-id pub-id-type="pmid">21108883</pub-id></mixed-citation></ref><ref id="B13"><label>13</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Han</surname><given-names>B</given-names></name><name name-style="western"><surname>Xiu</surname><given-names>Q</given-names></name><name name-style="western"><surname>Wang</surname><given-names>H</given-names></name><name name-style="western"><surname>Shen</surname><given-names>J</given-names></name><name name-style="western"><surname>Gu</surname><given-names>A</given-names></name><name name-style="western"><surname>Luo</surname><given-names>Y</given-names></name><etal/></person-group>. <article-title>A Multicenter, Randomized, Double-Blind,
+Placebo-Controlled Study to Evaluate the Efficacy of Paclitaxel-Carboplatin
+Alone or With Endostar for Advanced Non-Small Cell Lung
+Cancer</article-title>. <source>J Thorac Oncol</source> (<year>2011</year>)
+<volume>6</volume>(<issue>6</issue>):<page-range>1104–9</page-range>.
+doi: <pub-id pub-id-type="doi">10.1097/JTO.0b013e3182166b6b</pub-id>
+<pub-id pub-id-type="pmid">21532504</pub-id></mixed-citation></ref><ref id="B14"><label>14</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Zhang</surname><given-names>LP</given-names></name><name name-style="western"><surname>Liao</surname><given-names>XY</given-names></name><name name-style="western"><surname>Xu</surname><given-names>YM</given-names></name><name name-style="western"><surname>Yan</surname><given-names>LJ</given-names></name><name name-style="western"><surname>Yan</surname><given-names>GF</given-names></name><name name-style="western"><surname>Wang</surname><given-names>XX</given-names></name><etal/></person-group>. <article-title>Efficacy and Safety of Endostar<sup>®</sup>
+Combined With Chemotherapy in Patients With Advanced Soft Tissue
+Sarcomas</article-title>. <source>Asian Pac J Cancer Prev</source>
+(<year>2013</year>)
+<volume>14</volume>(<issue>7</issue>):<page-range>4255–9</page-range>.
+doi: <pub-id pub-id-type="doi">10.7314/apjcp.2013.14.7.4255</pub-id>
+<pub-id pub-id-type="pmid">23991986</pub-id></mixed-citation></ref><ref id="B15"><label>15</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Rong</surname><given-names>B</given-names></name><name name-style="western"><surname>Yang</surname><given-names>S</given-names></name><name name-style="western"><surname>Li</surname><given-names>W</given-names></name><name name-style="western"><surname>Zhang</surname><given-names>W</given-names></name><name name-style="western"><surname>Ming</surname><given-names>Z</given-names></name></person-group>. <article-title>Systematic Review and Meta-Analysis of Endostar
+(Rh-Endostatin) Combined With Chemotherapy Versus Chemotherapy Alone for
+Treating Advanced Non-Small Cell Lung Cancer</article-title>. <source>World
+J Surg Oncol</source> (<year>2012</year>)
+<volume>10</volume>:<elocation-id>170</elocation-id>. doi: <pub-id pub-id-type="doi">10.1186/1477-7819-10-170</pub-id>
+<pub-id pub-id-type="pmid">22917490</pub-id><pub-id pub-id-type="pmcid">PMC3517896</pub-id></mixed-citation></ref><ref id="B16"><label>16</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Van Cutsem</surname><given-names>E</given-names></name><name name-style="western"><surname>Vervenne</surname><given-names>WL</given-names></name><name name-style="western"><surname>Bennouna</surname><given-names>J</given-names></name><name name-style="western"><surname>Humblet</surname><given-names>Y</given-names></name><name name-style="western"><surname>Gill</surname><given-names>S</given-names></name><name name-style="western"><surname>Van Laethem</surname><given-names>JL</given-names></name><etal/></person-group>. <article-title>Phase III Trial of Bevacizumab in Combination
+With Gemcitabine and Erlotinib in Patients With Metastatic Pancreatic
+Cancer</article-title>. <source>J Clin Oncol</source> (<year>2009</year>)
+<volume>27</volume>(<issue>13</issue>):<page-range>2231–7</page-range>.
+doi: <pub-id pub-id-type="doi">10.1200/jco.2008.20.0238</pub-id>
+<pub-id pub-id-type="pmid">19307500</pub-id></mixed-citation></ref><ref id="B17"><label>17</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Kindler</surname><given-names>HL</given-names></name><name name-style="western"><surname>Niedzwiecki</surname><given-names>D</given-names></name><name name-style="western"><surname>Hollis</surname><given-names>D</given-names></name><name name-style="western"><surname>Sutherland</surname><given-names>S</given-names></name><name name-style="western"><surname>Schrag</surname><given-names>D</given-names></name><name name-style="western"><surname>Hurwitz</surname><given-names>H</given-names></name><etal/></person-group>. <article-title>Gemcitabine Plus Bevacizumab Compared With
+Gemcitabine Plus Placebo in Patients With Advanced Pancreatic Cancer: Phase
+III Trial of the Cancer and Leukemia Group B (CALGB 80303)</article-title>.
+<source>J Clin Oncol</source> (<year>2010</year>)
+<volume>28</volume>(<issue>22</issue>):<page-range>3617–22</page-range>.
+doi: <pub-id pub-id-type="doi">10.1200/jco.2010.28.1386</pub-id>
+<pub-id pub-id-type="pmcid">PMC2917317</pub-id><pub-id pub-id-type="pmid">20606091</pub-id></mixed-citation></ref><ref id="B18"><label>18</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Kindler</surname><given-names>HL</given-names></name><name name-style="western"><surname>Ioka</surname><given-names>T</given-names></name><name name-style="western"><surname>Richel</surname><given-names>DJ</given-names></name><name name-style="western"><surname>Bennouna</surname><given-names>J</given-names></name><name name-style="western"><surname>Létourneau</surname><given-names>R</given-names></name><name name-style="western"><surname>Okusaka</surname><given-names>T</given-names></name><etal/></person-group>. <article-title>Axitinib Plus Gemcitabine Versus Placebo Plus
+Gemcitabine in Patients With Advanced Pancreatic Adenocarcinoma: A
+Double-Blind Randomised Phase 3 Study</article-title>. <source>Lancet
+Oncol</source> (<year>2011</year>)
+<volume>12</volume>(<issue>3</issue>):<page-range>256–62</page-range>.
+doi: <pub-id pub-id-type="doi">10.1016/s1470-2045(11)70004-3</pub-id>
+<pub-id pub-id-type="pmid">21306953</pub-id></mixed-citation></ref><ref id="B19"><label>19</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Gonçalves</surname><given-names>A</given-names></name><name name-style="western"><surname>Gilabert</surname><given-names>M</given-names></name><name name-style="western"><surname>François</surname><given-names>E</given-names></name><name name-style="western"><surname>Dahan</surname><given-names>L</given-names></name><name name-style="western"><surname>Perrier</surname><given-names>H</given-names></name><name name-style="western"><surname>Lamy</surname><given-names>R</given-names></name><etal/></person-group>. <article-title>BAYPAN Study: A Double-Blind Phase III
+Randomized Trial Comparing Gemcitabine Plus Sorafenib and Gemcitabine Plus
+Placebo in Patients With Advanced Pancreatic Cancer</article-title>.
+<source>Ann Oncol</source> (<year>2012</year>)
+<volume>23</volume>(<issue>11</issue>):<page-range>2799–805</page-range>.
+doi: <pub-id pub-id-type="doi">10.1093/annonc/mds135</pub-id>
+<pub-id pub-id-type="pmid">22771827</pub-id></mixed-citation></ref><ref id="B20"><label>20</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Rougier</surname><given-names>P</given-names></name><name name-style="western"><surname>Riess</surname><given-names>H</given-names></name><name name-style="western"><surname>Manges</surname><given-names>R</given-names></name><name name-style="western"><surname>Karasek</surname><given-names>P</given-names></name><name name-style="western"><surname>Humblet</surname><given-names>Y</given-names></name><name name-style="western"><surname>Barone</surname><given-names>C</given-names></name><etal/></person-group>. <article-title>Randomised, Placebo-Controlled, Double-Blind,
+Parallel-Group Phase III Study Evaluating Aflibercept in Patients Receiving
+First-Line Treatment With Gemcitabine for Metastatic Pancreatic
+Cancer</article-title>. <source>Eur J Cancer</source> (<year>2013</year>)
+<volume>49</volume>(<issue>12</issue>):<page-range>2633–42</page-range>.
+doi: <pub-id pub-id-type="doi">10.1016/j.ejca.2013.04.002</pub-id>
+<pub-id pub-id-type="pmid">23642329</pub-id></mixed-citation></ref><ref id="B21"><label>21</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Sennino</surname><given-names>B</given-names></name><name name-style="western"><surname>McDonald</surname><given-names>DM</given-names></name></person-group>. <article-title>Controlling Escape From Angiogenesis
+Inhibitors</article-title>. <source>Nat Rev Cancer</source>
+(<year>2012</year>)
+<volume>12</volume>(<issue>10</issue>):<fpage>699</fpage>–<lpage>709</lpage>.
+doi: <pub-id pub-id-type="doi">10.1038/nrc3366</pub-id>
+<pub-id pub-id-type="pmid">23001349</pub-id><pub-id pub-id-type="pmcid">PMC3969886</pub-id></mixed-citation></ref><ref id="B22"><label>22</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Scott</surname><given-names>BJ</given-names></name><name name-style="western"><surname>Quant</surname><given-names>EC</given-names></name><name name-style="western"><surname>McNamara</surname><given-names>MB</given-names></name><name name-style="western"><surname>Ryg</surname><given-names>PA</given-names></name><name name-style="western"><surname>Batchelor</surname><given-names>TT</given-names></name><name name-style="western"><surname>Wen</surname><given-names>PY</given-names></name></person-group>. <article-title>Bevacizumab Salvage Therapy Following
+Progression in High-Grade Glioma Patients Treated With VEGF Receptor
+Tyrosine Kinase Inhibitors</article-title>. <source>Neuro Oncol</source>
+(<year>2010</year>)
+<volume>12</volume>(<issue>6</issue>):<page-range>603–7</page-range>.
+doi: <pub-id pub-id-type="doi">10.1093/neuonc/nop073</pub-id>
+<pub-id pub-id-type="pmcid">PMC2940643</pub-id><pub-id pub-id-type="pmid">20156808</pub-id></mixed-citation></ref><ref id="B23"><label>23</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Sessa</surname><given-names>C</given-names></name><name name-style="western"><surname>Guibal</surname><given-names>A</given-names></name><name name-style="western"><surname>Del Conte</surname><given-names>G</given-names></name><name name-style="western"><surname>Rüegg</surname><given-names>C</given-names></name></person-group>. <article-title>Biomarkers of Angiogenesis for the Development
+of Antiangiogenic Therapies in Oncology: Tools or
+Decorations</article-title>? <source>Nat Clin Pract Oncol</source>
+(<year>2008</year>)
+<volume>5</volume>(<issue>7</issue>):<page-range>378–91</page-range>.
+doi: <pub-id pub-id-type="doi">10.1038/ncponc1150</pub-id>
+<pub-id pub-id-type="pmid">18560389</pub-id></mixed-citation></ref><ref id="B24"><label>24</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Foote</surname><given-names>RL</given-names></name><name name-style="western"><surname>Weidner</surname><given-names>N</given-names></name><name name-style="western"><surname>Harris</surname><given-names>J</given-names></name><name name-style="western"><surname>Hammond</surname><given-names>E</given-names></name><name name-style="western"><surname>Lewis</surname><given-names>JE</given-names></name><name name-style="western"><surname>Vuong</surname><given-names>T</given-names></name><etal/></person-group>. <article-title>Evaluation of Tumor Angiogenesis Measured With
+Microvessel Density (MVD) as a Prognostic Indicator in Nasopharyngeal
+Carcinoma: Results of RTOG 9505</article-title>. <source>Int J Radiat Oncol
+Biol Phys</source> (<year>2005</year>)
+<volume>61</volume>(<issue>3</issue>):<page-range>745–53</page-range>.
+doi: <pub-id pub-id-type="doi">10.1016/j.ijrobp.2004.07.694</pub-id>
+<pub-id pub-id-type="pmid">15708253</pub-id></mixed-citation></ref><ref id="B25"><label>25</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Morgan</surname><given-names>B</given-names></name><name name-style="western"><surname>Thomas</surname><given-names>AL</given-names></name><name name-style="western"><surname>Drevs</surname><given-names>J</given-names></name><name name-style="western"><surname>Hennig</surname><given-names>J</given-names></name><name name-style="western"><surname>Buchert</surname><given-names>M</given-names></name><name name-style="western"><surname>Jivan</surname><given-names>A</given-names></name><etal/></person-group>. <article-title>Dynamic Contrast-Enhanced Magnetic Resonance
+Imaging as a Biomarker for the Pharmacological Response of PTK787/ZK 222584,
+an Inhibitor of the Vascular Endothelial Growth Factor Receptor Tyrosine
+Kinases, in Patients With Advanced Colorectal Cancer and Liver Metastases:
+Results From Two Phase I Studies</article-title>. <source>J Clin
+Oncol</source> (<year>2003</year>)
+<volume>21</volume>(<issue>21</issue>):<page-range>3955–64</page-range>.
+doi: <pub-id pub-id-type="doi">10.1200/jco.2003.08.092</pub-id>
+<pub-id pub-id-type="pmid">14517187</pub-id></mixed-citation></ref><ref id="B26"><label>26</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Akisik</surname><given-names>MF</given-names></name><name name-style="western"><surname>Sandrasegaran</surname><given-names>K</given-names></name><name name-style="western"><surname>Bu</surname><given-names>G</given-names></name><name name-style="western"><surname>Lin</surname><given-names>C</given-names></name><name name-style="western"><surname>Hutchins</surname><given-names>GD</given-names></name><name name-style="western"><surname>Chiorean</surname><given-names>EG</given-names></name></person-group>. <article-title>Pancreatic Cancer: Utility of Dynamic
+Contrast-Enhanced MR Imaging in Assessment of Antiangiogenic
+Therapy</article-title>. <source>Radiology</source> (<year>2010</year>)
+<volume>256</volume>(<issue>2</issue>):<page-range>441–9</page-range>.
+doi: <pub-id pub-id-type="doi">10.1148/radiol.10091733</pub-id>
+<pub-id pub-id-type="pmid">20515976</pub-id></mixed-citation></ref><ref id="B27"><label>27</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Bradley</surname><given-names>DP</given-names></name><name name-style="western"><surname>Tessier</surname><given-names>JL</given-names></name><name name-style="western"><surname>Checkley</surname><given-names>D</given-names></name><name name-style="western"><surname>Kuribayashi</surname><given-names>H</given-names></name><name name-style="western"><surname>Waterton</surname><given-names>JC</given-names></name><name name-style="western"><surname>Kendrew</surname><given-names>J</given-names></name><etal/></person-group>. <article-title>Effects of AZD2171 and Vandetanib (ZD6474,
+Zactima) on Haemodynamic Variables in an SW620 Human Colon Tumour Model: An
+Investigation Using Dynamic Contrast-Enhanced MRI and the Rapid Clearance
+Blood Pool Contrast Agent, P792 (Gadomelitol)</article-title>. <source>NMR
+Biomed</source> (<year>2008</year>)
+<volume>21</volume>(<issue>1</issue>):<fpage>42</fpage>–<lpage>52</lpage>.
+doi: <pub-id pub-id-type="doi">10.1002/nbm.1161</pub-id>
+<pub-id pub-id-type="pmid">17458919</pub-id></mixed-citation></ref><ref id="B28"><label>28</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Haubner</surname><given-names>R</given-names></name><name name-style="western"><surname>Wester</surname><given-names>HJ</given-names></name></person-group>. <article-title>Radiolabeled Tracers for Imaging of Tumor
+Angiogenesis and Evaluation of Anti-Angiogenic Therapies</article-title>.
+<source>Curr Pharm Des</source> (<year>2004</year>)
+<volume>10</volume>(<issue>13</issue>):<page-range>1439–55</page-range>.
+doi: <pub-id pub-id-type="doi">10.2174/1381612043384745</pub-id>
+<pub-id pub-id-type="pmid">15134568</pub-id></mixed-citation></ref><ref id="B29"><label>29</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Cui</surname><given-names>Y</given-names></name><name name-style="western"><surname>Liu</surname><given-names>H</given-names></name><name name-style="western"><surname>Liang</surname><given-names>S</given-names></name><name name-style="western"><surname>Zhang</surname><given-names>C</given-names></name><name name-style="western"><surname>Cheng</surname><given-names>W</given-names></name><name name-style="western"><surname>Hai</surname><given-names>W</given-names></name><etal/></person-group>. <article-title>The Feasibility of 18F-AlF-NOTA-PRGD2 PET/CT for
+Monitoring Early Response of Endostar Antiangiogenic Therapy in Human
+Nasopharyngeal Carcinoma Xenograft Model Compared With
+18F-FDG</article-title>. <source>Oncotarget</source> (<year>2016</year>)
+<volume>7</volume>(<issue>19</issue>):<page-range>27243–54</page-range>.
+doi: <pub-id pub-id-type="doi">10.18632/oncotarget.8402</pub-id>
+<pub-id pub-id-type="pmcid">PMC5053646</pub-id><pub-id pub-id-type="pmid">27029065</pub-id></mixed-citation></ref><ref id="B30"><label>30</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Haubner</surname><given-names>R</given-names></name><name name-style="western"><surname>Wester</surname><given-names>HJ</given-names></name><name name-style="western"><surname>Reuning</surname><given-names>U</given-names></name><name name-style="western"><surname>Senekowitsch-Schmidtke</surname><given-names>R</given-names></name><name name-style="western"><surname>Diefenbach</surname><given-names>B</given-names></name><name name-style="western"><surname>Kessler</surname><given-names>H</given-names></name><etal/></person-group>. <article-title>Radiolabeled Alpha(V)Beta3 Integrin Antagonists:
+A New Class of Tracers for Tumor Targeting</article-title>. <source>J Nucl
+Med</source> (<year>1999</year>)
+<volume>40</volume>(<issue>6</issue>):<page-range>1061–71</page-range>.<pub-id pub-id-type="pmid">10452325</pub-id></mixed-citation></ref><ref id="B31"><label>31</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Provost</surname><given-names>C</given-names></name><name name-style="western"><surname>Rozenblum-Beddok</surname><given-names>L</given-names></name><name name-style="western"><surname>Nataf</surname><given-names>V</given-names></name><name name-style="western"><surname>Merabtene</surname><given-names>F</given-names></name><name name-style="western"><surname>Prignon</surname><given-names>A</given-names></name><name name-style="western"><surname>Talbot</surname><given-names>JN</given-names></name></person-group>. <article-title>[(68)Ga]RGD Versus [(18)F]FDG PET Imaging in
+Monitoring Treatment Response of a Mouse Model of Human Glioblastoma Tumor
+With Bevacizumab and/or Temozolomide</article-title>. <source>Mol Imaging
+Biol</source> (<year>2019</year>)
+<volume>21</volume>(<issue>2</issue>):<fpage>297</fpage>–<lpage>305</lpage>.
+doi: <pub-id pub-id-type="doi">10.1007/s11307-018-1224-9</pub-id>
+<pub-id pub-id-type="pmid">29948641</pub-id></mixed-citation></ref><ref id="B32"><label>32</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Rasmussen</surname><given-names>T</given-names></name><name name-style="western"><surname>Follin</surname><given-names>B</given-names></name><name name-style="western"><surname>Kastrup</surname><given-names>J</given-names></name><name name-style="western"><surname>Brandt-Larsen</surname><given-names>M</given-names></name><name name-style="western"><surname>Madsen</surname><given-names>J</given-names></name><name name-style="western"><surname>Emil Christensen</surname><given-names>T</given-names></name><etal/></person-group>. <article-title>Angiogenesis PET Tracer Uptake
+((68)Ga-NODAGA-E[(cRGDyK)]₂) in Induced Myocardial Infarction and
+Stromal Cell Treatment in Minipigs</article-title>. <source>Diagnostics
+(Basel)</source> (<year>2018</year>)
+<volume>8</volume>(<issue>2</issue>):<fpage>33</fpage>. doi: <pub-id pub-id-type="doi">10.3390/diagnostics8020033</pub-id>
+</mixed-citation></ref><ref id="B33"><label>33</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Yan</surname><given-names>B</given-names></name><name name-style="western"><surname>Fu</surname><given-names>T</given-names></name><name name-style="western"><surname>Liu</surname><given-names>Y</given-names></name><name name-style="western"><surname>Wei</surname><given-names>W</given-names></name><name name-style="western"><surname>Dai</surname><given-names>H</given-names></name><name name-style="western"><surname>Fang</surname><given-names>W</given-names></name><etal/></person-group>. <article-title>99mTc-3PRGD2 Single-Photon Emission Computed
+Tomography/Computed Tomography for the Diagnosis of Choroidal Melanoma: A
+Preliminary STROBE-Compliant Observational Study</article-title>.
+<source>Medicine (Baltimore)</source> (<year>2018</year>)
+<volume>97</volume>(<issue>40</issue>):<fpage>e12441</fpage>.
+doi: <pub-id pub-id-type="doi">10.1097/md.0000000000012441</pub-id>
+<pub-id pub-id-type="pmid">30290601</pub-id><pub-id pub-id-type="pmcid">PMC6200507</pub-id></mixed-citation></ref><ref id="B34"><label>34</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Zhu</surname><given-names>Z</given-names></name><name name-style="western"><surname>Miao</surname><given-names>W</given-names></name><name name-style="western"><surname>Li</surname><given-names>Q</given-names></name><name name-style="western"><surname>Dai</surname><given-names>H</given-names></name><name name-style="western"><surname>Ma</surname><given-names>Q</given-names></name><name name-style="western"><surname>Wang</surname><given-names>F</given-names></name><etal/></person-group>. <article-title>99mTc-3PRGD2 for Integrin Receptor Imaging of
+Lung Cancer: A Multicenter Study</article-title>. <source>J Nucl
+Med</source> (<year>2012</year>)
+<volume>53</volume>(<issue>5</issue>):<page-range>716–22</page-range>.
+doi: <pub-id pub-id-type="doi">10.2967/jnumed.111.098988</pub-id>
+<pub-id pub-id-type="pmid">22499615</pub-id></mixed-citation></ref><ref id="B35"><label>35</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Jin</surname><given-names>X</given-names></name><name name-style="western"><surname>Liang</surname><given-names>N</given-names></name><name name-style="western"><surname>Wang</surname><given-names>M</given-names></name><name name-style="western"><surname>Meng</surname><given-names>Y</given-names></name><name name-style="western"><surname>Jia</surname><given-names>B</given-names></name><name name-style="western"><surname>Shi</surname><given-names>X</given-names></name><etal/></person-group>. <article-title>Integrin Imaging With (99m)Tc-3PRGD2 SPECT/CT
+Shows High Specificity in the Diagnosis of Lymph Node Metastasis From
+Non-Small Cell Lung Cancer</article-title>. <source>Radiology</source>
+(<year>2016</year>)
+<volume>281</volume>(<issue>3</issue>):<page-range>958–66</page-range>.
+doi: <pub-id pub-id-type="doi">10.1148/radiol.2016150813</pub-id>
+<pub-id pub-id-type="pmid">27479638</pub-id></mixed-citation></ref><ref id="B36"><label>36</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Minamimoto</surname><given-names>R</given-names></name><name name-style="western"><surname>Jamali</surname><given-names>M</given-names></name><name name-style="western"><surname>Barkhodari</surname><given-names>A</given-names></name><name name-style="western"><surname>Mosci</surname><given-names>C</given-names></name><name name-style="western"><surname>Mittra</surname><given-names>E</given-names></name><name name-style="western"><surname>Shen</surname><given-names>B</given-names></name><etal/></person-group>. <article-title>Biodistribution of the
+¹⁸F-FPPRGD₂ PET Radiopharmaceutical in Cancer Patients:
+An Atlas of SUV Measurements</article-title>. <source>Eur J Nucl Med Mol
+Imaging</source> (<year>2015</year>)
+<volume>42</volume>(<issue>12</issue>):<page-range>1850–8</page-range>.
+doi: <pub-id pub-id-type="doi">10.1007/s00259-015-3096-4</pub-id>
+<pub-id pub-id-type="pmid">26062933</pub-id></mixed-citation></ref><ref id="B37"><label>37</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Wan</surname><given-names>W</given-names></name><name name-style="western"><surname>Guo</surname><given-names>N</given-names></name><name name-style="western"><surname>Pan</surname><given-names>D</given-names></name><name name-style="western"><surname>Yu</surname><given-names>C</given-names></name><name name-style="western"><surname>Weng</surname><given-names>Y</given-names></name><name name-style="western"><surname>Luo</surname><given-names>S</given-names></name><etal/></person-group>. <article-title>First Experience of 18F-Alfatide in Lung Cancer
+Patients Using a New Lyophilized Kit for Rapid
+Radiofluorination</article-title>. <source>J Nucl Med</source>
+(<year>2013</year>)
+<volume>54</volume>(<issue>5</issue>):<page-range>691–8</page-range>.
+doi: <pub-id pub-id-type="doi">10.2967/jnumed.112.113563</pub-id>
+<pub-id pub-id-type="pmcid">PMC3683452</pub-id><pub-id pub-id-type="pmid">23554506</pub-id></mixed-citation></ref><ref id="B38"><label>38</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Mi</surname><given-names>B</given-names></name><name name-style="western"><surname>Yu</surname><given-names>C</given-names></name><name name-style="western"><surname>Pan</surname><given-names>D</given-names></name><name name-style="western"><surname>Yang</surname><given-names>M</given-names></name><name name-style="western"><surname>Wan</surname><given-names>W</given-names></name><name name-style="western"><surname>Niu</surname><given-names>G</given-names></name><etal/></person-group>. <article-title>Pilot Prospective Evaluation of (18)F-Alfatide
+II for Detection of Skeletal Metastases</article-title>.
+<source>Theranostics</source> (<year>2015</year>)
+<volume>5</volume>(<issue>10</issue>):<page-range>1115–21</page-range>.
+doi: <pub-id pub-id-type="doi">10.7150/thno.12938</pub-id>
+<pub-id pub-id-type="pmcid">PMC4508500</pub-id><pub-id pub-id-type="pmid">26199649</pub-id></mixed-citation></ref><ref id="B39"><label>39</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Jia</surname><given-names>B</given-names></name><name name-style="western"><surname>Liu</surname><given-names>Z</given-names></name><name name-style="western"><surname>Zhu</surname><given-names>Z</given-names></name><name name-style="western"><surname>Shi</surname><given-names>J</given-names></name><name name-style="western"><surname>Jin</surname><given-names>X</given-names></name><name name-style="western"><surname>Zhao</surname><given-names>H</given-names></name><etal/></person-group>. <article-title>Blood Clearance Kinetics, Biodistribution, and
+Radiation Dosimetry of a Kit-Formulated Integrin αvβ3-Selective
+Radiotracer 99mTc-3PRGD 2 in Non-Human Primates</article-title>. <source>Mol
+Imaging Biol</source> (<year>2011</year>)
+<volume>13</volume>(<issue>4</issue>):<page-range>730–6</page-range>.
+doi: <pub-id pub-id-type="doi">10.1007/s11307-010-0385-y</pub-id>
+<pub-id pub-id-type="pmid">20694579</pub-id></mixed-citation></ref><ref id="B40"><label>40</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Ma</surname><given-names>Q</given-names></name><name name-style="western"><surname>Ji</surname><given-names>B</given-names></name><name name-style="western"><surname>Jia</surname><given-names>B</given-names></name><name name-style="western"><surname>Gao</surname><given-names>S</given-names></name><name name-style="western"><surname>Ji</surname><given-names>T</given-names></name><name name-style="western"><surname>Wang</surname><given-names>X</given-names></name><etal/></person-group>. <article-title>Differential Diagnosis of Solitary Pulmonary
+Nodules Using ⁹⁹mTc-3p₄-RGD₂
+Scintigraphy</article-title>. <source>Eur J Nucl Med Mol Imaging</source>
+(<year>2011</year>)
+<volume>38</volume>(<issue>12</issue>):<page-range>2145–52</page-range>.
+doi: <pub-id pub-id-type="doi">10.1007/s00259-011-1901-2</pub-id>
+<pub-id pub-id-type="pmid">21874323</pub-id></mixed-citation></ref><ref id="B41"><label>41</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Siegel</surname><given-names>RL</given-names></name><name name-style="western"><surname>Miller</surname><given-names>KD</given-names></name><name name-style="western"><surname>Jemal</surname><given-names>A</given-names></name></person-group>. <article-title>Cancer Statistics, 2020</article-title>.
+<source>CA Cancer J Clin</source> (<year>2020</year>)
+<volume>70</volume>(<issue>1</issue>):<fpage>7</fpage>–<lpage>30</lpage>.
+doi: <pub-id pub-id-type="doi">10.3322/caac.21590</pub-id>
+<pub-id pub-id-type="pmid">31912902</pub-id></mixed-citation></ref><ref id="B42"><label>42</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Viale</surname><given-names>PH</given-names></name></person-group>. <article-title>The American Cancer Society’s Facts &amp;
+Figures: 2020 Edition</article-title>. <source>J Adv Pract Oncol</source>
+(<year>2020</year>)
+<volume>11</volume>(<issue>2</issue>):<page-range>135–6</page-range>.
+doi: <pub-id pub-id-type="doi">10.6004/jadpro.2020.11.2.1</pub-id>
+<pub-id pub-id-type="pmcid">PMC7848816</pub-id><pub-id pub-id-type="pmid">33532112</pub-id></mixed-citation></ref><ref id="B43"><label>43</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Mizrahi</surname><given-names>JD</given-names></name><name name-style="western"><surname>Surana</surname><given-names>R</given-names></name><name name-style="western"><surname>Valle</surname><given-names>JW</given-names></name><name name-style="western"><surname>Shroff</surname><given-names>RT</given-names></name></person-group>. <article-title>Pancreatic Cancer</article-title>.
+<source>Lancet</source> (<year>2020</year>)
+<volume>395</volume>(<issue>10242</issue>):<page-range>2008–20</page-range>.
+doi: <pub-id pub-id-type="doi">10.1016/s0140-6736(20)30974-0</pub-id>
+<pub-id pub-id-type="pmid">32593337</pub-id></mixed-citation></ref><ref id="B44"><label>44</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Xiong</surname><given-names>HQ</given-names></name><name name-style="western"><surname>Rosenberg</surname><given-names>A</given-names></name><name name-style="western"><surname>LoBuglio</surname><given-names>A</given-names></name><name name-style="western"><surname>Schmidt</surname><given-names>W</given-names></name><name name-style="western"><surname>Wolff</surname><given-names>RA</given-names></name><name name-style="western"><surname>Deutsch</surname><given-names>J</given-names></name><etal/></person-group>. <article-title>Cetuximab, a Monoclonal Antibody Targeting the
+Epidermal Growth Factor Receptor, in Combination With Gemcitabine for
+Advanced Pancreatic Cancer: A Multicenter Phase II Trial</article-title>.
+<source>J Clin Oncol</source> (<year>2004</year>)
+<volume>22</volume>(<issue>13</issue>):<page-range>2610–6</page-range>.
+doi: <pub-id pub-id-type="doi">10.1200/jco.2004.12.040</pub-id>
+<pub-id pub-id-type="pmid">15226328</pub-id></mixed-citation></ref><ref id="B45"><label>45</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Kindler</surname><given-names>HL</given-names></name><name name-style="western"><surname>Friberg</surname><given-names>G</given-names></name><name name-style="western"><surname>Singh</surname><given-names>DA</given-names></name><name name-style="western"><surname>Locker</surname><given-names>G</given-names></name><name name-style="western"><surname>Nattam</surname><given-names>S</given-names></name><name name-style="western"><surname>Kozloff</surname><given-names>M</given-names></name><etal/></person-group>. <article-title>Phase II Trial of Bevacizumab Plus Gemcitabine
+in Patients With Advanced Pancreatic Cancer</article-title>. <source>J Clin
+Oncol</source> (<year>2005</year>)
+<volume>23</volume>(<issue>31</issue>):<page-range>8033–40</page-range>.
+doi: <pub-id pub-id-type="doi">10.1200/jco.2005.01.9661</pub-id>
+<pub-id pub-id-type="pmid">16258101</pub-id></mixed-citation></ref><ref id="B46"><label>46</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Yang</surname><given-names>Z</given-names></name><name name-style="western"><surname>Kang</surname><given-names>M</given-names></name><name name-style="western"><surname>Zhu</surname><given-names>S</given-names></name><name name-style="western"><surname>Huang</surname><given-names>J</given-names></name><name name-style="western"><surname>Li</surname><given-names>X</given-names></name><name name-style="western"><surname>Wang</surname><given-names>R</given-names></name></person-group>. <article-title>Clinical Evaluation of Vascular Normalization
+Induced by Recombinant Human Endostatin in Nasopharyngeal Carcinoma
+<italic toggle="yes">via</italic> Dynamic Contrast-Enhanced
+Ultrasonography</article-title>. <source>Onco Targets Ther</source>
+(<year>2018</year>)
+<volume>11</volume>:<page-range>7909–17</page-range>.
+doi: <pub-id pub-id-type="doi">10.2147/ott.S181842</pub-id>
+<pub-id pub-id-type="pmcid">PMC6231431</pub-id><pub-id pub-id-type="pmid">30510431</pub-id></mixed-citation></ref><ref id="B47"><label>47</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Inai</surname><given-names>T</given-names></name><name name-style="western"><surname>Mancuso</surname><given-names>M</given-names></name><name name-style="western"><surname>Hashizume</surname><given-names>H</given-names></name><name name-style="western"><surname>Baffert</surname><given-names>F</given-names></name><name name-style="western"><surname>Haskell</surname><given-names>A</given-names></name><name name-style="western"><surname>Baluk</surname><given-names>P</given-names></name><etal/></person-group>. <article-title>Inhibition of Vascular Endothelial Growth Factor
+(VEGF) Signaling in Cancer Causes Loss of Endothelial Fenestrations,
+Regression of Tumor Vessels, and Appearance of Basement Membrane
+Ghosts</article-title>. <source>Am J Pathol</source> (<year>2004</year>)
+<volume>165</volume>(<issue>1</issue>):<fpage>35</fpage>–<lpage>52</lpage>.
+doi: <pub-id pub-id-type="doi">10.1016/s0002-9440(10)63273-7</pub-id>
+<pub-id pub-id-type="pmid">15215160</pub-id><pub-id pub-id-type="pmcid">PMC1618540</pub-id></mixed-citation></ref><ref id="B48"><label>48</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Rofstad</surname><given-names>EK</given-names></name><name name-style="western"><surname>Gaustad</surname><given-names>JV</given-names></name><name name-style="western"><surname>Egeland</surname><given-names>TA</given-names></name><name name-style="western"><surname>Mathiesen</surname><given-names>B</given-names></name><name name-style="western"><surname>Galappathi</surname><given-names>K</given-names></name></person-group>. <article-title>Tumors Exposed to Acute Cyclic Hypoxic Stress
+Show Enhanced Angiogenesis, Perfusion and Metastatic
+Dissemination</article-title>. <source>Int J Cancer</source>
+(<year>2010</year>)
+<volume>127</volume>(<issue>7</issue>):<page-range>1535–46</page-range>.
+doi: <pub-id pub-id-type="doi">10.1002/ijc.25176</pub-id>
+<pub-id pub-id-type="pmid">20091868</pub-id></mixed-citation></ref></ref-list></back></article>

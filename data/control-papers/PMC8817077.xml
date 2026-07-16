@@ -1,0 +1,612 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article id="cam44406" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Cancer Med</journal-id><journal-id journal-id-type="iso-abbrev">Cancer Med</journal-id><journal-id journal-id-type="pmc-domain-id">1974</journal-id><journal-id journal-id-type="pmc-domain">canmed</journal-id><journal-id journal-id-type="nlm-id">101595310</journal-id><journal-id journal-id-type="publisher-id">CAM4</journal-id><journal-title-group><journal-title>Cancer Medicine</journal-title></journal-title-group><issn pub-type="epub">2045-7634</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC8817077</article-id><article-id pub-id-type="pmcid-ver">PMC8817077.1</article-id><article-id pub-id-type="pmcaid">8817077</article-id><article-id pub-id-type="pmcaiid">8817077</article-id><article-id pub-id-type="pmid">35122411</article-id><article-id pub-id-type="doi">10.1002/cam4.4406</article-id><article-id pub-id-type="publisher-id">CAM44406</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Cancer Prevention</subject><subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group></subj-group></article-categories><title-group><article-title>Demoralisation and its link with depression, psychological adjustment and suicidality among cancer patients: A network psychometrics approach</article-title><alt-title alt-title-type="left-running-head">BOBEVSKI et al.</alt-title></title-group><contrib-group><contrib id="cam44406-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Bobevski</surname><given-names initials="I">Irene</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-7771-4461</contrib-id><xref rid="cam44406-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="cam44406-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>irene.bobevski@monash.edu</email></address></contrib><contrib id="cam44406-cr-0002" contrib-type="author"><name name-style="western"><surname>Kissane</surname><given-names initials="DW">David W.</given-names></name><xref rid="cam44406-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="cam44406-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="cam44406-cr-0003" contrib-type="author"><name name-style="western"><surname>Vehling</surname><given-names initials="S">Sigrun</given-names></name><xref rid="cam44406-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="cam44406-cr-0004" contrib-type="author"><name name-style="western"><surname>Mehnert‐Theuerkauf</surname><given-names initials="A">Anja</given-names></name><xref rid="cam44406-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="cam44406-cr-0005" contrib-type="author"><name name-style="western"><surname>Belvederi Murri</surname><given-names initials="M">Martino</given-names></name><xref rid="cam44406-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="cam44406-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="cam44406-cr-0006" contrib-type="author"><name name-style="western"><surname>Grassi</surname><given-names initials="L">Luigi</given-names></name><xref rid="cam44406-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="cam44406-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib></contrib-group><aff id="cam44406-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Psychiatry</named-content>
+<named-content content-type="organisation-division">School of Clinical Sciences at Monash Health Faculty of Medicine, Nursing and Health Sciences</named-content>
+<institution>Monash University</institution>
+<city>Clayton</city>
+<named-content content-type="country-part">VIC</named-content>
+<country country="AU">Australia</country>
+</aff><aff id="cam44406-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Palliative Medicine</named-content>
+<institution>University of Notre Dame</institution>
+<city>Darlinghurst</city>
+<named-content content-type="country-part">NSW</named-content>
+<country country="AU">Australia</country>
+</aff><aff id="cam44406-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Department of Medical Psychology</named-content>
+<institution>University Medical Center Hamburg‐Eppendorf</institution>
+<city>Hamburg</city>
+<country country="DE">Germany</country>
+</aff><aff id="cam44406-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Department of Medical Psychology and Medical Sociology</named-content>
+<institution>University Medical Center Leipzig</institution>
+<city>Leipzig</city>
+<country country="DE">Germany</country>
+</aff><aff id="cam44406-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Institute of Psychiatry</named-content>
+<named-content content-type="organisation-division">Department of Biomedical and Specialty Surgical Sciences</named-content>
+<institution>University of Ferrara</institution>
+<city>Ferrara</city>
+<country country="IT">Italy</country>
+</aff><aff id="cam44406-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">University Hospital Psychiatry Unit, Integrated Department of Mental Health and Addictive Behavior</named-content>
+<institution>S. Anna University Hospital and Health Authorities</institution>
+<city>Ferrara</city>
+<country country="IT">Italy</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+Correspondence<break/>
+Irene Bobevski, Department of Psychiatry, School of Clinical Sciences at Monash Health Faculty of Medicine, Nursing and Health Sciences, Monash University, Clayton, Australia.<break/>
+Email: <email>irene.bobevski@monash.edu</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>04</day><month>12</month><year>2021</year></pub-date><pub-date pub-type="collection"><month>2</month><year>2022</year></pub-date><volume>11</volume><issue seq="230">3</issue><issue-id pub-id-type="pmc-issue-id">400265</issue-id><issue-id pub-id-type="doi">10.1002/cam4.v11.3</issue-id><fpage>815</fpage><lpage>825</lpage><history><date date-type="rev-recd"><day>05</day><month>10</month><year>2021</year></date><date date-type="received"><day>06</day><month>7</month><year>2021</year></date><date date-type="accepted"><day>24</day><month>10</month><year>2021</year></date></history><pub-history><event event-type="pmc-release"><date><day>04</day><month>12</month><year>2021</year></date></event><event event-type="pmc-live"><date><day>08</day><month>02</month><year>2022</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2022-02-15 20:18:16.283"><day>15</day><month>02</month><year>2022</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2021 The Authors. <italic toggle="yes">Cancer Medicine</italic> published by John Wiley &amp; Sons Ltd.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="CAM4-11-815.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:CAM4-11-815.pdf"/><abstract id="cam44406-abs-0001"><title>Abstract</title><sec id="cam44406-sec-0001"><title>Background</title><p>Demoralisation is a clinically significant problem among cancer patients with a prevalence of 13%–18%. It is defined by difficulty in adjusting to a stressor, wherein the person feels trapped in their predicament and experiences helplessness, hopelessness, loss of confidence and loss of meaning in life. Demoralisation has a strong link with the desire for hastened death and suicidal ideation among the medically ill. This study explored whether a group of symptoms could be identified, distinct from depression, but consistent with adjustment difficulties with demoralisation and linked to ideation of death and suicide.</p></sec><sec id="cam44406-sec-0002"><title>Methods</title><p>Exploratory Graph Analysis, a network psychometrics technique, was conducted on a large German study of 1529 cancer patients. Demoralisation was measured with the Demoralisation Scale II and depressive symptoms with the PHQ‐9.</p></sec><sec id="cam44406-sec-0003"><title>Results</title><p>A network of symptoms, with four stable communities, was identified: 1. Loss of hope and meaning; 2. Non‐specific emotionality; 3. Entrapment; 4. Depressive symptoms. The first three communities were clearly distinct from the PHQ‐9 depressive symptoms, except for suicidality and fear of failure. Community 1, Loss of hope and meaning, had the strongest association with thoughts of death and suicide. Hopelessness, loss of role in life, tiredness, pointlessness and feeling trapped were the most central symptoms in the network.</p></sec><sec id="cam44406-sec-0004"><title>Conclusions</title><p>Communities 1 to 3 are consistent with poor coping without anhedonia and other classic depression symptoms, but linked to suicidal ideation. For people facing the existential threat of cancer, this may indicate poor psychological adjustment to the stressors of their illness.</p></sec></abstract><abstract abstract-type="graphical" id="cam44406-abs-0002"><p>Demoralisation is a prevalent and clinically significant problem among cancer patients, more highly associated with suicidal thinking than depression. New psychometric techniques using network analysis provide evidence that demoralisation may be an important element of psychological adjustment, explaining the independent link of adjustment disorder to suicidality and potentially contributing to a more clinically useful conceptualisation of adjustment disorder.<boxed-text position="anchor" content-type="graphic" id="cam44406-blkfxd-0001" orientation="portrait"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="CAM4-11-815-g004.jpg"/></boxed-text>
+</p></abstract><kwd-group><kwd id="cam44406-kwd-0001">adjustment disorder</kwd><kwd id="cam44406-kwd-0002">cancer</kwd><kwd id="cam44406-kwd-0003">demoralisation</kwd><kwd id="cam44406-kwd-0004">depression</kwd><kwd id="cam44406-kwd-0005">network analysis</kwd><kwd id="cam44406-kwd-0006">suicidal ideation</kwd></kwd-group><counts><fig-count count="4"/><table-count count="2"/><page-count count="11"/><word-count count="6819"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>February 2022</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.1.1 mode:remove_FC converted:05.02.2022</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="cam44406-cit-1001">
+<string-name name-style="western">
+<surname>Bobevski</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kissane</surname>
+<given-names>DW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vehling</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mehnert‐Theuerkauf</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Belvederi Murri</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Grassi</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Demoralisation and its link with depression, psychological adjustment and suicidality among cancer patients: A network psychometrics approach</article-title>. <source>Cancer Med</source>. <year>2022</year>;<volume>11</volume>:<fpage>815</fpage>–<lpage>825</lpage>. doi:<pub-id pub-id-type="doi">10.1002/cam4.4406</pub-id>
+<pub-id pub-id-type="pmcid">PMC8817077</pub-id><pub-id pub-id-type="pmid">35122411</pub-id></mixed-citation>
+</p><fn-group id="cam44406-ntgp-0001"><fn fn-type="funding" id="cam44406-note-0001"><p>
+<bold>Funding information</bold>
+</p><p>This work received no funding.</p></fn></fn-group></notes></front><body id="cam44406-body-0001"><sec id="cam44406-sec-0005"><label>1</label><title>INTRODUCTION</title><p>Demoralisation is a clinically significant problem among cancer patients with a prevalence of 13%–18%,<xref rid="cam44406-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> and higher among other medical illnesses and community settings, 15%–30%.<xref rid="cam44406-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> It is defined by difficulty in adjusting to a stressor, wherein the person feels they are trapped in their predicament and experience feelings of helplessness, hopelessness, loss of confidence and loss of meaning in life.<xref rid="cam44406-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref> Demoralisation has a stronger link than depression with the desire for hastened death and suicidal ideation among the medically ill.<xref rid="cam44406-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="cam44406-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="cam44406-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="cam44406-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>
+</p><p>Demoralisation is closely related to depression, although evidence shows that it is distinct from anhedonia.<xref rid="cam44406-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> In its most severe form demoralisation is often comorbid with major depressive disorder (MDD).<xref rid="cam44406-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> However, in less severe forms it is more consistent with failure to adapt and cope, characteristic of adjustment disorder (AD). In a recent study,<xref rid="cam44406-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref> using latent class analysis (LCA) in a large sample of 1527 German cancer patients, four classes of patients were differentiated: (1) absence of distress; (2) somatic symptoms; (3) severe psychopathology with symptoms of depression, anxiety and demoralisation, including suicidal ideation; and (4) symptoms of demoralisation with suicidal ideation. The fourth class reflected poor coping with suicidal ideation, but no anxiety, nor anhedonia. Class 4 is consistent with the ICD‐11 definition of AD,<xref rid="cam44406-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> according to which poor adjustment to a stressor is the core criteria.</p><p>Although AD is considered as a subthreshold disorder, evidence from large studies shows that the rate of suicidal behaviours<xref rid="cam44406-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref> and completed suicide<xref rid="cam44406-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> of people with AD is similar to those with MDD. Moreover, compared to MDD, patients with AD become suicidal at lower emotional distress scores, have more stressful life events and higher impulsivity and personality traits associated with suicide.<xref rid="cam44406-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> This is consistent with the results of the above LCA study<xref rid="cam44406-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref> which showed suicidal ideation as closely linked to the group with demoralisation/adjustment symptoms, as to the group with more severe psychopathology and depression. AD is among the most frequent of mental disorders among the medically ill, with 11%–19% prevalence.<xref rid="cam44406-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref> However it is under‐investigated and under‐recognised<xref rid="cam44406-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="cam44406-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref> due to DSM‐5 and ICD‐10 diagnostic criteria, which are critiqued for being too subjective, lacking specificity and sufficient clinical utility.<xref rid="cam44406-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> Furthermore, evidence for effective interventions for adjustment disorder is lacking, with little support for any specific intervention,<xref rid="cam44406-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> never more so than among the medically ill. Demoralisation may be an important element of adjustment which explains the independent link to suicidality and contributes to a more clinically useful conceptualisation of AD that enables targeting of specific symptoms in therapy.</p><p>Previously LCA has been used, which classifies patients into distinct groups using the categorical presence of symptoms.<xref rid="cam44406-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref> New techniques, using network analysis,<xref rid="cam44406-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="cam44406-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="cam44406-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> allow a more in‐depth examination of the inter‐relationships between dimensional symptoms to understand better how symptoms of demoralisation, poor adjustment and depression are linked. Network theory conceptualises mental disorders as complex networks of causally interconnected symptoms.<xref rid="cam44406-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> Within a graphical representation of the network, symptoms are represented as <italic toggle="yes">nodes</italic>, and the associations between symptoms as <italic toggle="yes">weighted edges</italic> connecting the nodes. Stronger associations (or edge weights) are visually represented by thicker lines. Comorbid disorders have shared nodes. Conversely, the more distinct a group of nodes is from another, the thinner the interconnecting lines will be between them.<xref rid="cam44406-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>
+</p><p>Network analysis also provides metrics of <italic toggle="yes">centrality</italic>, indicating where the hub of any community might lie.<xref rid="cam44406-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref> The activation of a highly central symptom could potentially generate many related symptoms and cause impairment. Thus, targeting highly central symptoms in intervention and prevention programs before they lead to more severe disorder is of clinical importance.<xref rid="cam44406-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> However, longitudinal studies are needed to establish causality.<xref rid="cam44406-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>
+</p><p>A recent development in network psychometrics is exploratory graph analysis (EGA)<xref rid="cam44406-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref> which identifies <italic toggle="yes">communities</italic> of nodes closely interconnected with each other but less connected to other nodes in the network. EGA has been used to investigate the structure of mental disorders in a variety of fields, including depression, suicidality and personality.<xref rid="cam44406-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="cam44406-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>
+</p><sec id="cam44406-sec-0006"><label>1.1</label><title>Aims</title><p>The present study aimed to use EGA to further examine the phenomenology of demoralisation and depression symptoms in order to obtain a more in‐depth understanding of the inter‐relationships and the relative importance (centrality) of symptoms. We aimed to explore whether this approach is consistent with our previous findings, suggesting the existence of a group of central symptoms, distinct from depression, but consistent with adjustment difficulties with demoralisation, and linked to ideation of death and suicide.</p></sec></sec><sec id="cam44406-sec-0007"><label>2</label><title>METHODOLOGY</title><sec id="cam44406-sec-0008"><label>2.1</label><title>Sample and procedures</title><p>Data from a large German study of 1529 cancer patients were used. The data consisted of a balanced cohort of participants with early stage and advanced cancer from three combined samples. Sample 1 (<italic toggle="yes">n</italic> = 944) was recruited as part of a nationwide epidemiological study representative for all tumour sites and treatment settings in Germany.<xref rid="cam44406-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref> Samples 2 (<italic toggle="yes">n</italic> = 270) and 3 (<italic toggle="yes">n</italic> = 315) included adult cancer patients recruited from in‐ and outpatient clinics at a large University Medical Centre. Exclusion criteria were severe physical or cognitive impairment and language problems that interfered with the ability to give informed consent for research. Overall, 1529 out of 2842 eligible patients participated (average participation rate 54%). Approval was received from the institution's Ethics Committee for all studies. The methodology of the study is described in detail elsewhere.<xref rid="cam44406-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>
+</p></sec><sec sec-type="materials" id="cam44406-sec-0009"><label>2.2</label><title>Materials</title><sec id="cam44406-sec-0010"><label>2.2.1</label><title>Demographic characteristics</title><p>Demographic characteristics, including age, gender, education level, relationship status and type and stage of cancer were assessed with a standardised self‐report questionnaire.</p></sec><sec id="cam44406-sec-0011"><label>2.2.2</label><title>Demoralization Scale (DS)</title><p>Symptoms of demoralisation were measured with the German version of the Demoralisation Scale (DS).<xref rid="cam44406-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> This scale has high internal reliability (α = 0.84) and good construct validity.<xref rid="cam44406-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> The DS has been translated and validated in more than 10 languages, with many studies highlighting its clinical importance across a variety of settings, especially when medical illness is the stressor.<xref rid="cam44406-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="cam44406-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> More recently, the DS‐II, a refined and abbreviated 16‐item version of the DS, was also developed and validated,<xref rid="cam44406-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> highlighting through item response theory the symptoms of highest clinical importance. Therefore, in the present study we only used the 16 items of the DS‐II.</p></sec><sec id="cam44406-sec-0012"><label>2.2.3</label><title>PHQ‐9</title><p>Depressive symptoms were measured with the Patient Health Questionnaire‐9 (PHQ‐9),<xref rid="cam44406-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> which consists of the nine criteria used to diagnose DSM‐IV / 5 depression, each scored on a numeric 0–3 scale. Total scores range from 0 to 27. A cut‐off score of ≥10 is indicative of MDD.</p></sec></sec><sec id="cam44406-sec-0013"><label>2.3</label><title>Statistical analysis</title><p>All analysis was conducted with R 4.0.0.<xref rid="cam44406-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>
+</p><sec id="cam44406-sec-0014"><label>2.3.1</label><title>Internal reliability</title><p>Internal reliability of the DS‐II and PHQ‐9 was measured with the Cronbach's Alpha and the Omega Index coefficients<xref rid="cam44406-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> using the R <italic toggle="yes">userfriendlyscience</italic> package.</p></sec><sec id="cam44406-sec-0015"><label>2.3.2</label><title>Item redundancy</title><p>Prior to estimating a network structure, redundancy between items was examined using the <italic toggle="yes">node</italic>.<italic toggle="yes">redundant</italic> function of the EGAnet package,<xref rid="cam44406-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> which determines the weighted topological overlap of items and allows the combination of redundant items into distinct latent factors using the <italic toggle="yes">node</italic>.<italic toggle="yes">redundant</italic>.<italic toggle="yes">combine</italic> function. That is, items which were very strongly associated with each other and had overlapping nodes (topological overlap) in the network were combined into one composite item (or latent factor), using a mathematical model to represent their combined score as a factor score. Redundant items do not contribute to unique information in the network and can cause an overestimation of the number of dimensions in the network. Only items with both topological and conceptual overlap were combined.</p></sec><sec id="cam44406-sec-0016"><label>2.3.3</label><title>Network estimation</title><p>The network structure representing the items of the DS‐II and PHQ‐9 was estimated through exploratory graph analysis (EGA), using the EGA function<xref rid="cam44406-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref> of the EGAnet package. EGA uses the Gaussian Graphical Model, based on regularised partial correlations which represent the strength of association between each pair of items after associations with all other items have been controlled for. The graphical least absolute shrinkage and selection operator (GLASSO) procedure was used to select the strongest set of network connections while minimising the detection of false‐positive connections. Very small edges, likely to be due to noise, are set to zero. The network contains nodes (items) and edges (associations between items). Edges represent partial correlations between items. The network was graphically represented based on the Fruchterman–Reingold algorithm.<xref rid="cam44406-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> Communities consisting of highly interconnected clusters of nodes which are only weakly connected to other nodes, were also identified by the EGA function. Communities are identified with the Walktrap community detection algorithm, which uses random walks to determine nodes clustered together.<xref rid="cam44406-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> Evidence from simulation studies suggest that EGA has comparable or better accuracy in identifying the number of dimensions than factor analytic techniques.<xref rid="cam44406-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>
+</p><p>The replicability of the identified communities and the items allocated to each community was examined through a non‐parametric bootstrap procedure with 10,000 iterations, using the bootEGA function<xref rid="cam44406-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref> of the EGA package. This procedure estimated the proportion of times the number of communities were replicated and the proportion of times each item appeared in each community in the bootstrap replications. Higher proportions of replicability indicate more reliable and stable results. A network was also estimated in each bootstrap replication, as well as a median (or typical) network structure based on all the replicated networks. If the median network is highly similar to the originally estimated network, this indicates good replicability and stability.<xref rid="cam44406-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>
+</p><p>The centrality measure of node strength was estimated for each item. Node strength, a common and stable centrality measure, is the sum of all associations of a node with all other nodes.<xref rid="cam44406-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="cam44406-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> The stability of the node strength index was tested by correlating the indices obtained from the full sample with the indices obtained after systematically dropping an increasing number of cases from the sample, through 2500 case‐dropping bootstrap iterations.<xref rid="cam44406-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref> As nodes highly correlated with other nodes can sometimes have inflated centrality,<xref rid="cam44406-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> the same bootstrap procedure was repeated, but with dropping nodes, rather than cases, from the network.</p></sec></sec></sec><sec sec-type="results" id="cam44406-sec-0017"><label>3</label><title>RESULTS</title><sec id="cam44406-sec-0018"><label>3.1</label><title>Sample description</title><p>Participants without any missing items on the DS‐II or PHQ‐9 were included in this study (<italic toggle="yes">n</italic> = 1463). There were 54.7% females and 45.3% males; 76.6% were partnered; 14.2% had completed at least secondary school and 25.5% had tertiary education; the most common cancer type was breast (29.3%), followed by prostate (16.1%) and lung (11.8%); 54.9% had advanced cancer stage.</p><p>The DS‐II scores ranged from 0 to 50 with M = 15.1 and SD = 9.6. There is no standard cut‐off score for the DS‐II, but a score above the 75<sup>th</sup> percentile is considered high.<xref rid="cam44406-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> A DS‐II score of 21 was above the 75<sup>th</sup> percentile in this study. PHQ‐9 scores ranged from 0 to 24 with M = 6.4 and SD = 4.6. Of the total sample 23.9% had PHQ‐9 score ≥10.</p><p>Crosstabulations showed that 64.9% of the sample were neither highly demoralised nor depressed; 14.2% were both demoralised and depressed; 11.3% were demoralised but not depressed; and 9.6% were depressed but not demoralised.</p><p>Table <xref rid="cam44406-tbl-0001" ref-type="table">1</xref> show the means and standard deviations of the DS‐II and PHQ‐9 items.</p><table-wrap position="float" id="cam44406-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>Coding and node redundancy of DS‐II and PHQ‐9 items, means and standard deviations</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Scale</th><th align="left" valign="top" rowspan="1" colspan="1">Item</th><th align="left" valign="top" rowspan="1" colspan="1">Code in the analysis</th><th align="left" valign="top" rowspan="1" colspan="1">Combined items after redundancy analysis</th><th align="left" valign="top" rowspan="1" colspan="1">Range</th><th align="left" valign="top" rowspan="1" colspan="1">M</th><th align="left" valign="top" rowspan="1" colspan="1">SD</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">DS‐II</td><td align="left" rowspan="1" colspan="1">1. There is no value in what I can offer others.</td><td align="left" rowspan="1" colspan="1">worthless</td><td align="left" rowspan="1" colspan="1">DS‐II item 1 and item 13</td><td align="left" rowspan="1" colspan="1">0–4</td><td align="char" char="." rowspan="1" colspan="1">1.63</td><td align="char" char="." rowspan="1" colspan="1">0.96</td></tr><tr><td align="left" rowspan="1" colspan="1">DS‐II</td><td align="left" rowspan="1" colspan="1">2. My life seems to be pointless.</td><td align="left" rowspan="1" colspan="1">ds_pointless</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">0–4</td><td align="char" char="." rowspan="1" colspan="1">0.55</td><td align="char" char="." rowspan="1" colspan="1">0.83</td></tr><tr><td align="left" rowspan="1" colspan="1">DS‐II</td><td align="left" rowspan="1" colspan="1">3. My role in life has been lost</td><td align="left" rowspan="1" colspan="1">ds_role</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">0–4</td><td align="char" char="." rowspan="1" colspan="1">0.51</td><td align="char" char="." rowspan="1" colspan="1">0.90</td></tr><tr><td align="left" rowspan="1" colspan="1">DS‐II</td><td align="left" rowspan="1" colspan="1">4. I no longer feel emotionally in control</td><td align="left" rowspan="1" colspan="1">ds_control</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">0–4</td><td align="char" char="." rowspan="1" colspan="1">0.80</td><td align="char" char="." rowspan="1" colspan="1">0.92</td></tr><tr><td align="left" rowspan="1" colspan="1">DS‐II</td><td align="left" rowspan="1" colspan="1">5. No one can help me.</td><td align="left" rowspan="1" colspan="1">helpless</td><td align="left" rowspan="1" colspan="1">DS‐II item 5 and item 6</td><td align="left" rowspan="1" colspan="1">0–4</td><td align="char" char="." rowspan="1" colspan="1">0.85</td><td align="char" char="." rowspan="1" colspan="1">1.05</td></tr><tr><td align="left" rowspan="1" colspan="1">DS‐II</td><td align="left" rowspan="1" colspan="1">6. I feel that I cannot help myself</td><td align="left" rowspan="1" colspan="1">helpless</td><td align="left" rowspan="1" colspan="1">DS‐II item 5 and item 6</td><td align="left" rowspan="1" colspan="1">0–4</td><td align="char" char="." rowspan="1" colspan="1">0.92</td><td align="char" char="." rowspan="1" colspan="1">1.04</td></tr><tr><td align="left" rowspan="1" colspan="1">DS‐II</td><td align="left" rowspan="1" colspan="1">7. I feel hopeless</td><td align="left" rowspan="1" colspan="1">ds_hopeless</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">0–4</td><td align="char" char="." rowspan="1" colspan="1">0.58</td><td align="char" char="." rowspan="1" colspan="1">0.88</td></tr><tr><td align="left" rowspan="1" colspan="1">DS‐II</td><td align="left" rowspan="1" colspan="1">8. I feel irritable</td><td align="left" rowspan="1" colspan="1">ds_irritable</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">0–4</td><td align="char" char="." rowspan="1" colspan="1">1.19</td><td align="char" char="." rowspan="1" colspan="1">0.98</td></tr><tr><td align="left" rowspan="1" colspan="1">DS‐II</td><td align="left" rowspan="1" colspan="1">9. I cope fairly well with life</td><td align="left" rowspan="1" colspan="1">ds_cope</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">0–4</td><td align="char" char="." rowspan="1" colspan="1">1.04</td><td align="char" char="." rowspan="1" colspan="1">0.98</td></tr><tr><td align="left" rowspan="1" colspan="1">DS‐II</td><td align="left" rowspan="1" colspan="1">10. I have a lot of regret about my life</td><td align="left" rowspan="1" colspan="1">ds_regret</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">0–4</td><td align="char" char="." rowspan="1" colspan="1">1.14</td><td align="char" char="." rowspan="1" colspan="1">0.94</td></tr><tr><td align="left" rowspan="1" colspan="1">DS‐II</td><td align="left" rowspan="1" colspan="1">11. I tend to feel hurt easily</td><td align="left" rowspan="1" colspan="1">ds_hurt</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">0–4</td><td align="char" char="." rowspan="1" colspan="1">1.33</td><td align="char" char="." rowspan="1" colspan="1">1.00</td></tr><tr><td align="left" rowspan="1" colspan="1">DS‐II</td><td align="left" rowspan="1" colspan="1">12. I feel distressed about what is happening to me</td><td align="left" rowspan="1" colspan="1">ds_distress</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">0–4</td><td align="char" char="." rowspan="1" colspan="1">1.67</td><td align="char" char="." rowspan="1" colspan="1">1.09</td></tr><tr><td align="left" rowspan="1" colspan="1">DS‐II</td><td align="left" rowspan="1" colspan="1">13. I am not a worthwhile person</td><td align="left" rowspan="1" colspan="1">worthless</td><td align="left" rowspan="1" colspan="1">DS‐II item 1 and item 13</td><td align="left" rowspan="1" colspan="1">0–4</td><td align="char" char="." rowspan="1" colspan="1">1.18</td><td align="char" char="." rowspan="1" colspan="1">1.08</td></tr><tr><td align="left" rowspan="1" colspan="1">DS‐II</td><td align="left" rowspan="1" colspan="1">14. I would rather not be alive</td><td align="left" rowspan="1" colspan="1">death</td><td align="left" rowspan="1" colspan="1">DS‐II item 14 and PHQ−9 item 17</td><td align="left" rowspan="1" colspan="1">0–4</td><td align="char" char="." rowspan="1" colspan="1">0.21</td><td align="char" char="." rowspan="1" colspan="1">0.60</td></tr><tr><td align="left" rowspan="1" colspan="1">DS‐II</td><td align="left" rowspan="1" colspan="1">15. I feel quite isolated or alone</td><td align="left" rowspan="1" colspan="1">ds_isolated</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">0–4</td><td align="char" char="." rowspan="1" colspan="1">0.63</td><td align="char" char="." rowspan="1" colspan="1">0.93</td></tr><tr><td align="left" rowspan="1" colspan="1">DS‐II</td><td align="left" rowspan="1" colspan="1">16. I feel trapped by what is happening to me</td><td align="left" rowspan="1" colspan="1">ds_trapped</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">0–4</td><td align="char" char="." rowspan="1" colspan="1">0.89</td><td align="char" char="." rowspan="1" colspan="1">1.08</td></tr><tr><td align="left" rowspan="1" colspan="1">PHQ−9</td><td align="left" rowspan="1" colspan="1">1. Little interest or pleasure in doing things</td><td align="left" rowspan="1" colspan="1">phq_interest</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">0–3</td><td align="char" char="." rowspan="1" colspan="1">0.87</td><td align="char" char="." rowspan="1" colspan="1">0.86</td></tr><tr><td align="left" rowspan="1" colspan="1">PHQ−9</td><td align="left" rowspan="1" colspan="1">2. feeling down, depressed, or hopeless</td><td align="left" rowspan="1" colspan="1">phq_down</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">0–3</td><td align="char" char="." rowspan="1" colspan="1">0.63</td><td align="char" char="." rowspan="1" colspan="1">0.72</td></tr><tr><td align="left" rowspan="1" colspan="1">PHQ−9</td><td align="left" rowspan="1" colspan="1">3. Trouble falling or staying asleep, or sleeping too much</td><td align="left" rowspan="1" colspan="1">phq_sleep</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">0–3</td><td align="char" char="." rowspan="1" colspan="1">1.33</td><td align="char" char="." rowspan="1" colspan="1">1.06</td></tr><tr><td align="left" rowspan="1" colspan="1">PHQ−9</td><td align="left" rowspan="1" colspan="1">4. Feeling tired or having little energy</td><td align="left" rowspan="1" colspan="1">phq_tired</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">0–3</td><td align="char" char="." rowspan="1" colspan="1">1.24</td><td align="char" char="." rowspan="1" colspan="1">0.93</td></tr><tr><td align="left" rowspan="1" colspan="1">PHQ−9</td><td align="left" rowspan="1" colspan="1">5. Poor appetite or overeating</td><td align="left" rowspan="1" colspan="1">phq_appetite</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">0–3</td><td align="char" char="." rowspan="1" colspan="1">0.84</td><td align="char" char="." rowspan="1" colspan="1">0.99</td></tr><tr><td align="left" rowspan="1" colspan="1">PHQ−9</td><td align="left" rowspan="1" colspan="1">6. Feeling bad about yourself ‐ or that you are a failure or have let yourself or your family down</td><td align="left" rowspan="1" colspan="1">phq_failure</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">0–3</td><td align="char" char="." rowspan="1" colspan="1">0.24</td><td align="char" char="." rowspan="1" colspan="1">0.54</td></tr><tr><td align="left" rowspan="1" colspan="1">PHQ−9</td><td align="left" rowspan="1" colspan="1">7. Trouble concentrating on things, such as reading the newspaper or watching television</td><td align="left" rowspan="1" colspan="1">phq_concentrate</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">0–3</td><td align="char" char="." rowspan="1" colspan="1">0.69</td><td align="char" char="." rowspan="1" colspan="1">0.81</td></tr><tr><td align="left" rowspan="1" colspan="1">PHQ−9</td><td align="left" rowspan="1" colspan="1">8. Slowing or agitation</td><td align="left" rowspan="1" colspan="1">phq_motor</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">0–3</td><td align="char" char="." rowspan="1" colspan="1">0.42</td><td align="char" char="." rowspan="1" colspan="1">0.76</td></tr><tr><td align="left" rowspan="1" colspan="1">PHQ−9</td><td align="left" rowspan="1" colspan="1">9. Thoughts that you would be better off dead or of hurting yourself in some way</td><td align="left" rowspan="1" colspan="1">death</td><td align="left" rowspan="1" colspan="1">DS‐II item 14 and PHQ−9 item 17</td><td align="left" rowspan="1" colspan="1">0–3</td><td align="char" char="." rowspan="1" colspan="1">0.15</td><td align="char" char="." rowspan="1" colspan="1">0.41</td></tr></tbody></table><table-wrap-foot id="cam44406-ntgp-0002"><fn id="cam44406-note-0002"><p>Abbreviations: M, Mean; SD, Standard Deviation.</p></fn><fn id="cam44406-note-0003"><p>Positively worded DS‐II items were reverse scored.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="cam44406-sec-0019"><label>3.2</label><title>Internal reliability</title><p>Both scales had high internal reliability: Omega = 0.82 with 95% CI: 0.81–0.82 for the DS‐II; and Omega = 0.90 with 95% CI: 0.89–0.90 for the PHQ‐9. Reliability for all DS‐II and PHQ‐9 items combined was also high: Omega = 0.91 with 95% CI: 0.91–0.92.</p></sec><sec id="cam44406-sec-0020"><label>3.3</label><title>Item redundancy</title><p>Out of the total 25 items from the DS‐II and PHQ‐9, topological overlap between 10 pairs of items was identified. Of these, three sets of items which also overlapped conceptually were combined into the following latent factors: helplessness (‘No one can help me" and "I cannot help myself’ from the DS‐II); ideation about death and suicide (‘I would rather not be alive’ from the DS‐II and ‘Thoughts that you would be better off dead or of hurting yourself in some way’ from the PHQ‐9); and worthlessness (‘There is a lot of value in what I can offer others" and "I am a worthwhile person’). The rest of the items were not combined, as they are conceptually distinct. After the combination of redundant items, a total of 22 nodes were used for the network estimation.</p></sec><sec id="cam44406-sec-0021"><label>3.4</label><title>Network estimation</title><sec id="cam44406-sec-0022"><label>3.4.1</label><title>Communities</title><p>A graphical representation of the estimated network is shown in Figure <xref rid="cam44406-fig-0001" ref-type="fig">1</xref>. Four communities were identified, indicated in different node colours. We named these communities as follows: 1. Loss of hope and meaning; 2. Non‐specific emotionality; 3. Entrapment; 4. Depressive symptoms.</p><fig position="float" fig-type="FIGURE" id="cam44406-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>Network structure and communities of the DS‐II and PHQ‐9 items. Thickness of edge weights (green lines) reflect strength of associations between nodes</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="CAM4-11-815-g002.jpg"/></fig><p>The first community, Loss of hope and meaning, is composed by the core demoralisation symptoms of hopelessness, helplessness, pointlessness and loss of self‐worth, as well as suicidal ideation. The second community, Non‐specific emotionality, consists of more general symptoms of distress and loss of emotional control. The third community, Entrapment, consisted of the items of isolation, feeling stuck or trapped and distress, which also had fairly strong associations with symptoms of loss of roles, helplessness and hopelessness. The fourth community, Depressive symptoms, was defined by the core depression criteria of the PHQ‐9 (including the key criteria of feeling down and loss of interest), but excluding suicidal ideation and feelings of failure. Thoughts of death and suicide had its strongest association with pointlessness, and did not show strong direct associations with the other PHQ‐9 symptoms. The PHQ‐9 feelings of failure item had reasonably strong associations with a number of PHQ‐9 and DS‐II items. Figure <xref rid="cam44406-fig-0001" ref-type="fig">1</xref> shows that the Depressive symptoms community formed a distinctly separate cluster from demoralisation and suicidal ideation.</p></sec><sec id="cam44406-sec-0023"><label>3.4.2</label><title>Symptom associations/edges within the network</title><p>Nodes in the same community had stronger connection to each other than with nodes of other communities, as expected. Some of the edge weights indicating the strongest connections in the network were between the DS‐II symptoms of pointlessness and loss of roles, pointlessness and hopelessness, helplessness and hopelessness, isolation and entrapment; the PHQ‐9 symptoms of loss of interest and feeling down, loss of interest and tiredness, sleep problems and tiredness and appetite problems and tiredness. The edge weights (strength of associations between nodes) are shown in the Table <xref rid="cam44406-sup-0001" ref-type="supplementary-material">S1</xref>.</p><p>Thoughts of death and suicide had its strongest link with pointlessness; somewhat weaker links with helplessness and hopelessness; and no noteworthy partial correlations with other PHQ‐9 symptoms. The strongest connections between DS‐II and PHQ‐9 symptoms were between hopelessness (DS‐II) and feeling down (PHQ‐9), and loss of roles (DS‐II) and feelings of failure (PHQ‐9). Thus thoughts of death and suicide were indirectly linked to DSM‐5 depression though hopelessness and feeling down.</p></sec><sec id="cam44406-sec-0024"><label>3.4.3</label><title>Stability of network estimates</title><p>The stability of the estimated network was assessed though bootstrap replications and the following indicators of stability were examined: (a) number of communities; (b) structural consistency of each community; (c) frequency of item replications across each communities; and standardised node loads for each community.</p><sec id="cam44406-sec-0025"><title>(a) Number of communities</title><p>In the bootstrap replications four communities were derived in the network in 82.4% of the replications, suggesting the number of communities are stable and replicable (Median of derived communities = 4, 95% CI = 3.20 to 4.80).</p></sec><sec id="cam44406-sec-0026"><title>(b) Structural consistency of the communities</title><p>Structural consistency is the proportion of times the item composition of each community is replicated in the bootstrap. Values range from 0 to 1. The following structural consistencies were obtained: Community 1 (Loss of hope and meaning) 0.50; Community 2 (Non‐specific emotionality) 0.34; Community 3 (Entrapment) 0.62; Community 4 (Depressive symptoms) 0.99.</p></sec><sec id="cam44406-sec-0027"><title>(c) Item stability</title><p>Item stability is the proportion of times each item is replicated in each community by the bootstrap. Figure <xref rid="cam44406-fig-0002" ref-type="fig">2</xref> shows the proportion of times each item is replicated in its original community specified by the EGA network. The proportion of times each item was replicated in each community is further shown in Table <xref rid="cam44406-tbl-0002" ref-type="table">2</xref>.</p><fig position="float" fig-type="FIGURE" id="cam44406-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>Probability of each symptom belonging to the community it was originally identified in by EGA (results from bootstrap with 10,000 iterations)</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="CAM4-11-815-g003.jpg"/></fig><table-wrap position="float" id="cam44406-tbl-0002" content-type="TABLE" orientation="portrait"><label>TABLE 2</label><caption><p>Frequencies of symptom replication in each community (results from bootstrap with 10,000 iterations)</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Item</th><th align="left" valign="top" rowspan="1" colspan="1">1 (Loss of hope and meaning)</th><th align="left" valign="top" rowspan="1" colspan="1">2 (Non‐specific‐emotionality)</th><th align="left" valign="top" rowspan="1" colspan="1">3 (Entrapment)</th><th align="left" valign="top" rowspan="1" colspan="1">4 (Depressive symptoms)</th><th align="left" valign="top" rowspan="1" colspan="1">5</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">helpless (latent factor)</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>0.613</bold>
+</td><td align="char" char="." rowspan="1" colspan="1"/><td align="char" char="." rowspan="1" colspan="1">0.381</td><td align="char" char="." rowspan="1" colspan="1"/><td align="char" char="." rowspan="1" colspan="1">0.005</td></tr><tr><td align="left" rowspan="1" colspan="1">ds_hopeless</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>0.614</bold>
+</td><td align="char" char="." rowspan="1" colspan="1"/><td align="char" char="." rowspan="1" colspan="1">0.381</td><td align="char" char="." rowspan="1" colspan="1"/><td align="char" char="." rowspan="1" colspan="1">0.005</td></tr><tr><td align="left" rowspan="1" colspan="1">ds_role</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>0.796</bold>
+</td><td align="char" char="." rowspan="1" colspan="1">0.004</td><td align="char" char="." rowspan="1" colspan="1">0.188</td><td align="char" char="." rowspan="1" colspan="1"/><td align="char" char="." rowspan="1" colspan="1">0.011</td></tr><tr><td align="left" rowspan="1" colspan="1">death (latent factor)</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>0.800</bold>
+</td><td align="char" char="." rowspan="1" colspan="1"/><td align="char" char="." rowspan="1" colspan="1">0.191</td><td align="char" char="." rowspan="1" colspan="1"/><td align="char" char="." rowspan="1" colspan="1">0.008</td></tr><tr><td align="left" rowspan="1" colspan="1">ds_pointless</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>0.801</bold>
+</td><td align="char" char="." rowspan="1" colspan="1"/><td align="char" char="." rowspan="1" colspan="1">0.190</td><td align="char" char="." rowspan="1" colspan="1"/><td align="char" char="." rowspan="1" colspan="1">0.008</td></tr><tr><td align="left" rowspan="1" colspan="1">worthless (latent factor)</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>0.818</bold>
+</td><td align="char" char="." rowspan="1" colspan="1">0.001</td><td align="char" char="." rowspan="1" colspan="1">0.004</td><td align="char" char="." rowspan="1" colspan="1">0.002</td><td align="char" char="." rowspan="1" colspan="1">0.025</td></tr><tr><td align="left" rowspan="1" colspan="1">ds_cope</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>0.818</bold>
+</td><td align="char" char="." rowspan="1" colspan="1">0.001</td><td align="char" char="." rowspan="1" colspan="1">0.004</td><td align="char" char="." rowspan="1" colspan="1">0.002</td><td align="char" char="." rowspan="1" colspan="1">0.025</td></tr><tr><td align="left" rowspan="1" colspan="1">phq_failure</td><td align="char" char="." rowspan="1" colspan="1">0.243</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>0.375</bold>
+</td><td align="char" char="." rowspan="1" colspan="1">0.032</td><td align="char" char="." rowspan="1" colspan="1">0.176</td><td align="char" char="." rowspan="1" colspan="1">0.024</td></tr><tr><td align="left" rowspan="1" colspan="1">ds_regret</td><td align="char" char="." rowspan="1" colspan="1">0.273</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>0.457</bold>
+</td><td align="char" char="." rowspan="1" colspan="1">0.175</td><td align="char" char="." rowspan="1" colspan="1">0.015</td><td align="char" char="." rowspan="1" colspan="1">0.012</td></tr><tr><td align="left" rowspan="1" colspan="1">ds_control</td><td align="char" char="." rowspan="1" colspan="1">0.006</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>0.988</bold>
+</td><td align="char" char="." rowspan="1" colspan="1">0.003</td><td align="char" char="." rowspan="1" colspan="1"/><td align="char" char="." rowspan="1" colspan="1">0.003</td></tr><tr><td align="left" rowspan="1" colspan="1">ds_hurt</td><td align="char" char="." rowspan="1" colspan="1"/><td align="char" char="." rowspan="1" colspan="1">
+<bold>0.999</bold>
+</td><td align="char" char="." rowspan="1" colspan="1"/><td align="char" char="." rowspan="1" colspan="1"/><td align="char" char="." rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">ds_irritable</td><td align="char" char="." rowspan="1" colspan="1"/><td align="char" char="." rowspan="1" colspan="1">
+<bold>0.999</bold>
+</td><td align="char" char="." rowspan="1" colspan="1"/><td align="char" char="." rowspan="1" colspan="1"/><td align="char" char="." rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">ds_isolated</td><td align="char" char="." rowspan="1" colspan="1">0.370</td><td align="char" char="." rowspan="1" colspan="1">0.004</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>0.623</bold>
+</td><td align="char" char="." rowspan="1" colspan="1"/><td align="char" char="." rowspan="1" colspan="1">0.003</td></tr><tr><td align="left" rowspan="1" colspan="1">ds_distress</td><td align="char" char="." rowspan="1" colspan="1">0.288</td><td align="char" char="." rowspan="1" colspan="1">0.003</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>0.709</bold>
+</td><td align="char" char="." rowspan="1" colspan="1"/><td align="char" char="." rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">ds_trapped</td><td align="char" char="." rowspan="1" colspan="1">0.288</td><td align="char" char="." rowspan="1" colspan="1">0.003</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>0.709</bold>
+</td><td align="char" char="." rowspan="1" colspan="1"/><td align="char" char="." rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">phq_motor</td><td align="char" char="." rowspan="1" colspan="1"/><td align="char" char="." rowspan="1" colspan="1">0.004</td><td align="char" char="." rowspan="1" colspan="1"/><td align="char" char="." rowspan="1" colspan="1">
+<bold>0.994</bold>
+</td><td align="char" char="." rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">phq_concentrate</td><td align="char" char="." rowspan="1" colspan="1"/><td align="char" char="." rowspan="1" colspan="1">0.004</td><td align="char" char="." rowspan="1" colspan="1"/><td align="char" char="." rowspan="1" colspan="1">
+<bold>0.994</bold>
+</td><td align="char" char="." rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">phq_down</td><td align="char" char="." rowspan="1" colspan="1"/><td align="char" char="." rowspan="1" colspan="1"/><td align="char" char="." rowspan="1" colspan="1">0.002</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>0.998</bold>
+</td><td align="char" char="." rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">phq_interest</td><td align="char" char="." rowspan="1" colspan="1"/><td align="char" char="." rowspan="1" colspan="1"/><td align="char" char="." rowspan="1" colspan="1"/><td align="char" char="." rowspan="1" colspan="1">
+<bold>1.000</bold>
+</td><td align="char" char="." rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">phq_appetite</td><td align="char" char="." rowspan="1" colspan="1"/><td align="char" char="." rowspan="1" colspan="1"/><td align="char" char="." rowspan="1" colspan="1"/><td align="char" char="." rowspan="1" colspan="1">
+<bold>1.000</bold>
+</td><td align="char" char="." rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">phq_tired</td><td align="char" char="." rowspan="1" colspan="1"/><td align="char" char="." rowspan="1" colspan="1"/><td align="char" char="." rowspan="1" colspan="1"/><td align="char" char="." rowspan="1" colspan="1">
+<bold>1.000</bold>
+</td><td align="char" char="." rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">phq_sleep</td><td align="char" char="." rowspan="1" colspan="1"/><td align="char" char="." rowspan="1" colspan="1"/><td align="char" char="." rowspan="1" colspan="1"/><td align="char" char="." rowspan="1" colspan="1">
+<bold>1.000</bold>
+</td><td align="char" char="." rowspan="1" colspan="1"/></tr></tbody></table><table-wrap-foot id="cam44406-ntgp-0020"><fn id="cam44406-note-0020"><p>Values ≥ 0.300 are in bold.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder></permissions></table-wrap><p>Figure <xref rid="cam44406-fig-0002" ref-type="fig">2</xref> and Table <xref rid="cam44406-tbl-0002" ref-type="table">2</xref> show that most items were replicated in their original community in a very high proportion of the replications. However, there were some items which were also replicated in other communities with fairly high proportions. Feelings of failure (PHQ‐9) and regret (DS‐II) were only replicated in Community 2 (Non‐specific emotionality) in 0.38 and 0.46 of the replications, which could explain the lower structural consistency of this community. Community 4 (Depressive symptoms) was the most stable with all its items having nearly zero probability of being replicated in other communities. The other three communities comprising mainly the DS‐II items and the combined ideation of death and suicide items, were less stable and more interconnected with each other, but clearly distinct from Community 4 (Depressive symptoms).</p></sec><sec id="cam44406-sec-0028"><title>(d) Standardised node loadings</title><p>The standardised node strengths, or loadings of each symptom on the network communities, (these are based on partial correlations and are interpreted in a similar way to factor analysis loadings) are shown in the Table <xref rid="cam44406-sup-0001" ref-type="supplementary-material">S2</xref>. More central items tend to crossload on more than one community.</p><p>The median network derived from the 10,000 bootstrap iterations was very similar to the original network in Figure <xref rid="cam44406-fig-0001" ref-type="fig">1</xref>. This provides further evidence for the good stability of the network estimates.</p></sec></sec></sec><sec id="cam44406-sec-0029"><label>3.5</label><title>Centrality</title><p>The node strength centrality indices in Figure <xref rid="cam44406-fig-0003" ref-type="fig">3</xref> show that the most central nodes in the network were hopelessness, loss of role, tiredness (PHQ‐9), pointlessness, entrapment, hopelessness and isolation. The least central were ideation of death and suicidal thinking, worthlessness, regret, sleep problems (PHQ‐9), psychomotor symptoms (PHQ‐9), distress, appetite problems (PHQ‐9) and helplessness.</p><fig position="float" fig-type="FIGURE" id="cam44406-fig-0003" orientation="portrait"><label>FIGURE 3</label><caption><p>Node strength centrality, where its strength centrality results from the sum of all associations of a node with all other nodes</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="CAM4-11-815-g001.jpg"/></fig></sec><sec id="cam44406-sec-0030"><label>3.6</label><title>Stability of the centrality indices</title><p>The stability of node strength was good. The bootstrap procedure with 2500 iterations showed that 75% of the individual cases in the sample could be dropped, maintaining a correlation of 0.90 between the new values of node strength with those of the original sample (shown in Data <xref rid="cam44406-sup-0001" ref-type="supplementary-material">S3</xref>). When nodes were dropped from the bootstrap, rather than cases, the node strength remained reasonably stable for each node until 40% to 50% of nodes were dropped (Data <xref rid="cam44406-sup-0001" ref-type="supplementary-material">S4</xref>).</p></sec></sec><sec sec-type="discussion" id="cam44406-sec-0031"><label>4</label><title>DISCUSSION</title><sec id="cam44406-sec-0032"><label>4.1</label><title>Communities of symptoms of demoralisation and depression</title><p>We used a sample of 1527 German cancer patients to investigate the inter‐relationships between symptoms of depression and demoralisation. Exploratory graph analysis identified four communities: 1. Loss of hope and meaning; 2. Non‐specific emotionality; 3. Entrapment; 4. Depressive symptoms. Depressive symptoms, except for suicide ideation and fear of failure, clustered in a distinct and stable community clearly separated from demoralisation. Suicidal ideation and thoughts of death were more closely related to demoralisation than to the other depressive symptoms, the strongest link being with pointlessness. Fear of failure was linked to both depressive and demoralisation symptoms. There was some overlap between the three demoralisation communities. This is consistent with the DS‐II validation study,<xref rid="cam44406-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> which showed that the DS‐II can be used as a unidimensional tool.</p><p>Our results are overall similar to an earlier Italian study with 447 medical inpatients,<xref rid="cam44406-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref> which also used EGA to examine the inter‐relationship between depression and demoralisation symptoms. Belvederi Murri et al. used the original longer 24‐item version of the Demoralisation Scale. They also identified four communities. A community consisting of anhedonia and neurovegetative depression symptoms emerged, which was distinctly separate from demoralisation. Suicidal ideation and thoughts of death were part of a community consisting of core demoralisation symptoms, such as loss of purpose and hopelessness. The PHQ‐9 symptoms of feelings of failure and low mood had stronger links with demoralisation than depression. Pointlessness and hopelessness were among the most central symptoms, similar to our study. Although the results of our study and that of Belvederi Murri et al. point to similar overall conclusions, there were also some differences in how individual items loaded on the three demoralisation communities. Our Loss of hope and meaning community was similar to Belvederi Murri et al.'s lack of purpose community. Belvederi Murri et al.'s loss of self‐worth and frustrated isolation were somewhat different in item content from our demoralisation community. These differences may be cultural and due to the use of the longer scale. Our study was based on a much larger sample in a different cultural setting. We used the briefer DS‐II which is well validated and more parsimonious in evaluating demoralisation symptoms. The demoralisation communities tend to be less stable and generally vary somewhat from study to study. However, overall similarities across the two studies are greater than the differences.</p></sec><sec id="cam44406-sec-0033"><label>4.2</label><title>Link with adjustment disorder</title><p>The results of the present study are consistent with a previous study<xref rid="cam44406-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref> which identified a class reflecting poor coping without anhedonia and other classic depression symptoms, but linked to suicidal ideation. The present study is also consistent with studies showing that suicidality has stronger links with demoralisation than depression in cancer patients.<xref rid="cam44406-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="cam44406-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="cam44406-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="cam44406-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref> For people facing the existential threat of cancer, demoralisation symptoms with suicidal ideation, but without anhedonia, may indicate poor psychological adjustment to the stressors of their illness. Thus, demoralisation may be an important element of AD which contributes importantly to the independent link between AD and suicidality.<xref rid="cam44406-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="cam44406-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>
+</p><p>Criticism exists about the diagnostic criteria for adjustment disorder being too subjective and non‐specific.<xref rid="cam44406-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> The phenomenology of demoralisation offers a stronger set of diagnostic criteria to enrich the diagnosis of adjustment disorder as a full syndrome disorder rather than a subthreshold one. Hopelessness, pointlessness, entrapment and the loss of roles that deliver purpose and meaning to life constitute a clear cluster of symptoms associated with the loss of morale that is central to adjustment disorder. These reinforce the recent latent class structure that positioned adjustment disorder separately to depressive‐anxiety disorders.<xref rid="cam44406-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>
+</p></sec><sec id="cam44406-sec-0034"><label>4.3</label><title>Clinical implications: intervention targets</title><p>Exploratory graph analysis provides an understanding of which symptoms are centrally located in the hub of a community of symptoms. These central symptoms could become appropriate intervention targets to begin to ameliorate each cluster of symptoms.</p><p>Entrapment is one such example of a core symptom, which is strongly associated with both the development of deep distress and a feeling of social isolation. The stressful predicament can appear to leave a patient stuck, feeling unable to control such circumstances and caught in a helpless position. Feeling trapped in this manner induces a powerful sense of defeat, which can be generalised to loss of all control. The clinician can cultivate realisation that aspects of life can be brought under control, and acceptance that not all of life needs to be controlled. For the medically ill, optimal symptom control can improve quality of life, while reconnection with friends is established. As some mastery is achieved, the initial sense of feeling trapped is lessened, distress reduced and a greater connection with others achieved through targeting entrapment as a core symptom to focus on.</p><p>Similarly, hopelessness, pointlessness and loss of roles sit centrally as set of core symptoms that generate the state of demoralization, including its propensity to induce suicidal thinking. Restaging an illness such as cancer with the outcome of a poorer prognosis can cause loss of hope. When a particular hope is reduced––here, for instance, the hope for a long life––the clinician needs to refocus from this particular hope by drawing upon the more generalized hope involved with quality of life, and concentrate on worthwhile here and now experiences. Likewise, when the patient feels that the value and point of life is damaged by their illness, the clinician identifies continuing sources of meaning and fulfilment, sometimes termed generalised meaning, to counter any apparent pointlessness. Furthermore, the many available roles that a person has in life can be brought into focus when hopelessness and pointlessness become problematic. Relationally, there is often a role as spouse, parent or grandparent that has drifted out of focus; or there may be creative roles as an artist, a biographer leaving their narrative as a legacy, or some craft that produces a gift for another. Rather than allow the sick role to dominate, the clinician gently guides the patient into an appreciation that continuing roles persist that can deliver joy and self‐worth.</p><p>A deeper clinical exploration of the phenomenology of demoralization, with its low morale and poor coping, provides the clinician with potent and constructive targets to address in restoring well‐being and fostering reconnection with the innate resilience of the person. Not only is the process of adjustment considered as a primary concern for the patient, but also great utility lies in the intervention options that open up as a result of this richer conceptualisation.</p></sec><sec id="cam44406-sec-0035"><label>4.4</label><title>Strengths and limitations</title><p>A limitation of this study is its combination of three samples obtained with varied recruitment strategies. However, the ultimately large sample incorporating different treatment settings and capturing a range of tumour sites is a strength. The 35% prevalence of high levels of demoralisation and/or depression in this sample is representative of cancer patient populations.<xref rid="cam44406-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> However, for further validation of the results the study needs to be replicated in different populations, including among people with cancer or other physical illnesses who fulfil DSM‐5 diagnostic criteria for mental disorders. The study is cross‐sectional and cannot determine the directionality of the network edges or the causality of central symptoms.</p></sec></sec><sec sec-type="COI-statement" id="cam44406-sec-0036"><title>CONFLICT OF INTEREST</title><p>The authors declare no conflict of interest.</p></sec><sec id="cam44406-sec-0037"><title>AUTHOR CONTRIBUTIONS</title><p>IB and DWK: conception, writing – original draft; IB: formal analysis; AM and SV: provided the data from a study they had previously conducted of 1529 German cancer patients and edited the manuscript, writing – review and editing; MBM and LG: writing – review and editing.</p></sec><sec id="cam44406-sec-0038"><title>ETHICAL APPROVAL</title><p>Approval was obtained from the Hamburg Medical Association Ethics Committee.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="cam44406-sup-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>Supplementary Material</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CAM4-11-815-s001.pdf" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="cam44406-sec-0041"><title>ACKNOWLEDGEMENT</title><p>Dr. Irene bobevski and Professor David Kissane received funding from the Australian Commonwealth Department of Health, Grant/Award Number: Palliative Care National‐4‐E 1QGPW9; Department of Health, Grant/Award Number: E1QGPW9.</p></ack><sec sec-type="data-availability" id="cam44406-sec-0040"><title>DATA AVAILABILITY STATEMENT</title><p>Shared data are not available.</p></sec><ref-list content-type="cited-references" id="cam44406-bibl-0001"><title>REFERENCES</title><ref id="cam44406-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="cam44406-cit-0001">
+<string-name name-style="western">
+<surname>Robinson</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kissane</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brooke</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Burney</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>A systematic review of the demoralization syndrome in individuals with progressive disease and cancer: a decade of research</article-title>. <source>J Pain Symptom Manage</source>. <year>2015</year>;<volume>49</volume>:<fpage>595</fpage>‐<lpage>610</lpage>.<pub-id pub-id-type="pmid">25131888</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jpainsymman.2014.07.008</pub-id></mixed-citation></ref><ref id="cam44406-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="cam44406-cit-0002">
+<string-name name-style="western">
+<surname>Tecuta</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tomba</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Grandi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fava</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Demoralization: a systematic review on its clinical characterization</article-title>. <source>Psychol Med</source>. <year>2015</year>;<volume>45</volume>(<issue>4</issue>):<fpage>673</fpage>‐<lpage>691</lpage>.<pub-id pub-id-type="pmid">25032712</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1017/S0033291714001597</pub-id></mixed-citation></ref><ref id="cam44406-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="cam44406-cit-0003">
+<string-name name-style="western">
+<surname>Clarke</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kissane</surname>
+<given-names>DW</given-names>
+</string-name>. <article-title>Demoralization: its phenomenology and importance</article-title>. <source>Aust N Z J Psychiatry</source>. <year>2002</year>;<volume>36</volume>:<fpage>733</fpage>‐<lpage>742</lpage>.<pub-id pub-id-type="pmid">12406115</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1046/j.1440-1614.2002.01086.x</pub-id></mixed-citation></ref><ref id="cam44406-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="cam44406-cit-0004">
+<string-name name-style="western">
+<surname>Fang</surname>
+<given-names>C‐K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chang</surname>
+<given-names>M‐C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>P‐J</given-names>
+</string-name>, et al. <article-title>A correlational study of suicidal ideation with psychological distress, depression, and demoralization in patients with cancer</article-title>. <source>Support Care Cancer</source>. <year>2014</year>;<volume>22</volume>:<fpage>3165</fpage>‐<lpage>3174</lpage>.<pub-id pub-id-type="pmid">24935648</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00520-014-2290-4</pub-id><pub-id pub-id-type="pmcid">PMC4218975</pub-id></mixed-citation></ref><ref id="cam44406-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="cam44406-cit-0005">
+<string-name name-style="western">
+<surname>Liu</surname>
+<given-names>ST</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>Serial multiple mediation of demoralization and depression in the relationship between hopelessness and suicidal ideation</article-title>. <source>Psycho‐oncology</source>. <year>2020</year>;<volume>29</volume>:<fpage>1321</fpage>‐<lpage>1328</lpage>.<pub-id pub-id-type="pmid">32539164</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/pon.5439</pub-id></mixed-citation></ref><ref id="cam44406-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="cam44406-cit-0006">
+<string-name name-style="western">
+<surname>Robinson</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kissane</surname>
+<given-names>DW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brooker</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hempton</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Burney</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>The relationship between poor quality of life and desire to hasten death: a multiple mediation model examining the contributions of depression, demoralization, loss of control, and low self‐worth</article-title>. <source>J Pain Symptom Manage</source>. <year>2017</year>;<volume>53</volume>:<fpage>243</fpage>‐<lpage>249</lpage>.<pub-id pub-id-type="pmid">27744017</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jpainsymman.2016.08.013</pub-id></mixed-citation></ref><ref id="cam44406-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="cam44406-cit-0007">
+<string-name name-style="western">
+<surname>Vehling</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kissane</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lo</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>The association of demoralization and suicidal ideation in patients with cancer</article-title>. <source>Cancer</source>, in Press. <year>2017</year>;<volume>123</volume>:<fpage>3394</fpage>‐<lpage>3401</lpage>.<pub-id pub-id-type="pmid">28472548</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/cncr.30749</pub-id></mixed-citation></ref><ref id="cam44406-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="cam44406-cit-0008">
+<string-name name-style="western">
+<surname>Bobevski</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kissane</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vehling</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McKenzie</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Glaesmer</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mehnert</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Latent class analysis differentiation of adjustment disorder and demoralization, more severe depressive and anxiety disorders, and somatic symptoms in patients with cancer</article-title>. <source>Psycho‐Oncology</source>. <year>2018</year>;<volume>27</volume>:<fpage>2623</fpage>‐<lpage>2630</lpage>.<pub-id pub-id-type="pmid">29761579</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/pon.4761</pub-id></mixed-citation></ref><ref id="cam44406-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="cam44406-cit-0009">
+<string-name name-style="western">
+<surname>Glaesmer</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Romppel</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brähler</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hinz</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maercker</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Adjustment disorder as proposed for ICD‐11: dimensionality and symptom differentiation</article-title>. <source>Psychiatry Res</source>. <year>2015</year>;<volume>229</volume>:<fpage>940</fpage>‐<lpage>948</lpage>.<pub-id pub-id-type="pmid">26272020</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.psychres.2015.07.010</pub-id></mixed-citation></ref><ref id="cam44406-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="cam44406-cit-0010">
+<string-name name-style="western">
+<surname>Casey</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jabbar</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>O’Leary</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Doherty</surname>
+<given-names>AM</given-names>
+</string-name>. <article-title>Suicidal behaviours in adjustment disorder and depressive episode</article-title>. <source>J Affect Disord</source>. <year>2015</year>;<volume>174</volume>:<fpage>441</fpage>‐<lpage>446</lpage>.<pub-id pub-id-type="pmid">25553405</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jad.2014.12.003</pub-id></mixed-citation></ref><ref id="cam44406-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="cam44406-cit-0011">
+<string-name name-style="western">
+<surname>Gradus</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Qin</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lincoln</surname>
+<given-names>AK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Miller</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lawler</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lash</surname>
+<given-names>TL</given-names>
+</string-name>. <article-title>The association between adjustment disorder diagnosed at psychiatric treatment facilities and completed suicide</article-title>. <source>Clin Epidemiol</source>. <year>2010</year>;<volume>2</volume>:<fpage>23</fpage>.<pub-id pub-id-type="pmid">20865099</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.2147/clep.s9373</pub-id><pub-id pub-id-type="pmcid">PMC2943177</pub-id></mixed-citation></ref><ref id="cam44406-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="cam44406-cit-0012">
+<string-name name-style="western">
+<surname>Bachem</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Casey</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Adjustment disorders: a diagnosis whose time has come</article-title>. <source>J Affect Disord</source>. <year>2017</year>;<volume>227</volume>:<fpage>243</fpage>‐<lpage>253</lpage>.<pub-id pub-id-type="pmid">29107817</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jad.2017.10.034</pub-id></mixed-citation></ref><ref id="cam44406-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="cam44406-cit-0013">
+<string-name name-style="western">
+<surname>Hund</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Reuter</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Härter</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Stressors, symptom profile, and predictors of adjustment disorder in cancer patients. Results from an epidemiological study with the composite international diagnostic interview, adaptation for oncology (CIDI‐O)</article-title>. <source>Depression and Anxiety</source>. <year>2016</year>;<volume>33</volume>(<issue>2</issue>):<fpage>153</fpage>‐<lpage>161</lpage>.<pub-id pub-id-type="pmid">26474266</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/da.22441</pub-id></mixed-citation></ref><ref id="cam44406-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="cam44406-cit-0014">
+<string-name name-style="western">
+<surname>Borsboom</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cramer</surname>
+<given-names>AO</given-names>
+</string-name>. <article-title>Network analysis: an integrative approach to the structure of psychopathology</article-title>. <source>Annual Review of Clinical Psychology</source>. <year>2013</year>;<volume>9</volume>:<fpage>91</fpage>‐<lpage>121</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1146/annurev-clinpsy-050212-185608</pub-id><pub-id pub-id-type="pmid">23537483</pub-id></mixed-citation></ref><ref id="cam44406-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="cam44406-cit-0015">
+<string-name name-style="western">
+<surname>Epskamp</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Borsboom</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fried</surname>
+<given-names>EI</given-names>
+</string-name>. <article-title>Estimating psychological networks and their accuracy: a tutorial paper</article-title>. <source>Behav Res Methods</source>. <year>2018</year>;<volume>50</volume>:<fpage>195</fpage>‐<lpage>212</lpage>.<pub-id pub-id-type="pmid">28342071</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3758/s13428-017-0862-1</pub-id><pub-id pub-id-type="pmcid">PMC5809547</pub-id></mixed-citation></ref><ref id="cam44406-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="cam44406-cit-0016">
+<string-name name-style="western">
+<surname>Golino</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Epskamp</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Exploratory graph analysis: a new approach for estimating the number of dimensions in psychological research</article-title>. <source>PLoS One</source>. <year>2017</year>;<volume>12</volume>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0174035</pub-id><pub-id pub-id-type="pmcid">PMC5465941</pub-id><pub-id pub-id-type="pmid">28594839</pub-id></mixed-citation></ref><ref id="cam44406-bib-0017"><label>17</label><mixed-citation publication-type="miscellaneous" id="cam44406-cit-0017">
+<string-name name-style="western">
+<surname>Golino</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Christensen</surname>
+<given-names>A</given-names>
+</string-name>
+<article-title>EGAnet: exploratory graph analysis: a framework for estimating the number of dimensions in multivariate data using network psychometrics</article-title>. URL: https://CRAN.R‐project.org/package=EGAnet. R package version 0.4. 2019.</mixed-citation></ref><ref id="cam44406-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="cam44406-cit-0018">
+<string-name name-style="western">
+<surname>Opsahl</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Agneessens</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Skvoretz</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Node centrality in weighted networks: generalizing degree and shortest paths</article-title>. <source>Social Networks</source>. <year>2010</year>;<volume>32</volume>:<fpage>245</fpage>‐<lpage>251</lpage>.</mixed-citation></ref><ref id="cam44406-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="cam44406-cit-0019">
+<string-name name-style="western">
+<surname>Fried</surname>
+<given-names>EI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Epskamp</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nesse</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tuerlinckx</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Borsboom</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>What are'good'depression symptoms? Comparing the centrality of DSM and non‐DSM symptoms of depression in a network analysis</article-title>. <source>J Affect Disord</source>. <year>2016</year>;<volume>189</volume>:<fpage>314</fpage>‐<lpage>320</lpage>.<pub-id pub-id-type="pmid">26458184</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jad.2015.09.005</pub-id></mixed-citation></ref><ref id="cam44406-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="cam44406-cit-0020">
+<string-name name-style="western">
+<surname>Dablander</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hinne</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Node centrality measures are a poor substitute for causal inference</article-title>. <source>Sci Rep</source>. <year>2019</year>;<volume>9</volume>:<fpage>1</fpage>‐<lpage>13</lpage>.<pub-id pub-id-type="pmid">31048731</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41598-019-43033-9</pub-id><pub-id pub-id-type="pmcid">PMC6497646</pub-id></mixed-citation></ref><ref id="cam44406-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="cam44406-cit-0021">
+<string-name name-style="western">
+<surname>Bell</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>O’Driscoll</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>The network structure of paranoia in the general population</article-title>. <source>Soc Psychiatry Psychiatr Epidemiol</source>. <year>2018</year>;<volume>53</volume>:<fpage>737</fpage>‐<lpage>744</lpage>.<pub-id pub-id-type="pmid">29427197</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00127-018-1487-0</pub-id><pub-id pub-id-type="pmcid">PMC6003969</pub-id></mixed-citation></ref><ref id="cam44406-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="cam44406-cit-0022">
+<string-name name-style="western">
+<surname>Christensen</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Golino</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Silvia</surname>
+<given-names>PJ</given-names>
+</string-name>. <article-title>A psychometric network perspective on the validity and validation of personality trait questionnaires</article-title>. <source>Eur J Pers</source>. <year>2020</year>;<volume>34</volume>:<fpage>1095</fpage>‐<lpage>1108</lpage>.</mixed-citation></ref><ref id="cam44406-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="cam44406-cit-0023">
+<string-name name-style="western">
+<surname>Mehnert</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Koch</surname>
+<given-names>U</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schulz</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Prevalence of mental disorders, psychosocial distress and need for psychosocial support in cancer patients–study protocol of an epidemiological multi‐center study</article-title>. <source>BMC Psychiatry</source>. <year>2012</year>;<volume>12</volume>:<fpage>70</fpage>.<pub-id pub-id-type="pmid">22747671</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/1471-244X-12-70</pub-id><pub-id pub-id-type="pmcid">PMC3434016</pub-id></mixed-citation></ref><ref id="cam44406-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="cam44406-cit-0024">
+<string-name name-style="western">
+<surname>Mehnert</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vehling</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hocker</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lehmann</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Koch</surname>
+<given-names>U</given-names>
+</string-name>. <article-title>Demoralization and depression in patients with advanced cancer: validation of the German version of the demoralization scale</article-title>. <source>J Pain Symptom Manage</source>. <year>2011</year>;<volume>42</volume>:<fpage>768</fpage>‐<lpage>776</lpage>.<pub-id pub-id-type="pmid">21592722</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jpainsymman.2011.02.013</pub-id></mixed-citation></ref><ref id="cam44406-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="cam44406-cit-0025">
+<string-name name-style="western">
+<surname>Robinson</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kissane</surname>
+<given-names>DW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brooker</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Refinement and revalidation of the demoralization scale: the DS‐II—internal validity</article-title>. <source>Cancer</source>. <year>2016</year>;<volume>122</volume>:<fpage>2251</fpage>‐<lpage>2259</lpage>.<pub-id pub-id-type="pmid">27171617</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/cncr.30015</pub-id></mixed-citation></ref><ref id="cam44406-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="cam44406-cit-0026">
+<string-name name-style="western">
+<surname>Löwe</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kroenke</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Herzog</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gräfe</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Measuring depression outcome with a brief self‐report instrument: sensitivity to change of the patient health questionnaire (PHQ‐9)</article-title>. <source>J Affect Disord</source>. <year>2004</year>;<volume>81</volume>:<fpage>61</fpage>‐<lpage>66</lpage>.<pub-id pub-id-type="pmid">15183601</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S0165-0327(03)00198-8</pub-id></mixed-citation></ref><ref id="cam44406-bib-0027"><label>27</label><mixed-citation publication-type="book" id="cam44406-cit-0027">
+<collab collab-type="authors">R Core Team. R Foundation for Statistical Computing</collab>
+. <source>A language and environment for statistical computing</source>. <publisher-loc>Vienna</publisher-loc>: <publisher-name>R Foundation for Statistical Computing</publisher-name>; <year>2021</year>. Accessed October 4, 2021. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.R-project.org/" ext-link-type="uri">https://www.R‐project.org/</ext-link>
+</mixed-citation></ref><ref id="cam44406-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="cam44406-cit-0028">
+<string-name name-style="western">
+<surname>Peters</surname>
+<given-names>G‐J</given-names>
+</string-name>. <article-title>The alpha and the omega of scale reliability and validity: why and how to abandon Cronbach’s alpha and the route towards more comprehensive assessment of scale quality</article-title>. <source>Eur J Health Psychol</source>. <year>2014</year>;<volume>16</volume>:<fpage>56</fpage>‐<lpage>59</lpage>.</mixed-citation></ref><ref id="cam44406-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="cam44406-cit-0029">
+<string-name name-style="western">
+<surname>Christensen</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Golino</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Estimating the stability of the number of factors via bootstrap exploratory graph analysis: a Monte Carlo simulation and tutorial</article-title>. <source>PsyArXiv</source>. <year>2019</year>. <pub-id pub-id-type="doi">10.3390/psych3030032</pub-id>
+</mixed-citation></ref><ref id="cam44406-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="cam44406-cit-0030">
+<string-name name-style="western">
+<surname>Belvederi Murri</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zerbinati</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ounalli</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Assessing demoralization in medically ill patients: Factor structure of the Italian version of the demoralization scale and development of short versions with the item response theory framework</article-title>. <source>J Psychosom Res</source>. <year>2020</year>;<volume>128</volume>:109889.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jpsychores.2019.109889</pub-id><pub-id pub-id-type="pmid">31812103</pub-id></mixed-citation></ref></ref-list></back></article>

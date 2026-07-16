@@ -1,0 +1,586 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article xml:lang="EN" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Omega</journal-id><journal-id journal-id-type="iso-abbrev">ACS Omega</journal-id><journal-id journal-id-type="pmc-domain-id">3686</journal-id><journal-id journal-id-type="pmc-domain">acsomega</journal-id><journal-id journal-id-type="nlm-id">101691658</journal-id><journal-id journal-id-type="publisher-id">ao</journal-id><journal-title-group><journal-title>ACS Omega</journal-title></journal-title-group><issn pub-type="epub">2470-1343</issn><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC9851023</article-id><article-id pub-id-type="pmcid-ver">PMC9851023.1</article-id><article-id pub-id-type="pmcaid">9851023</article-id><article-id pub-id-type="pmcaiid">9851023</article-id><article-id pub-id-type="pmid">36687095</article-id><article-id pub-id-type="doi">10.1021/acsomega.2c06727</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group><subject>Article</subject></subj-group></article-categories><title-group><article-title>Graphitic Carbon
+Nitride-Wrapped Metal-free PoPD-Based
+Biosensor for Xanthine Detection</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-4205-7139</contrib-id><name name-style="western"><surname>Thakur</surname><given-names initials="D">Deeksha</given-names></name><xref rid="aff1" ref-type="aff">†</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath2"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-0079-0586</contrib-id><name name-style="western"><surname>Pandey</surname><given-names initials="CM">Chandra Mouli</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff2" ref-type="aff">‡</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath3"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-9118-2070</contrib-id><name name-style="western"><surname>Kumar</surname><given-names initials="D">Devendra</given-names></name><xref rid="cor2" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">†</xref></contrib><aff id="aff1"><label>†</label>Department
+of Applied Chemistry, <institution>Delhi Technological
+University</institution>, Delhi110042, <country>India</country></aff><aff id="aff2"><label>‡</label>Department
+of Chemistry, Faculty of Science, <institution>SGT University</institution>, Gurugram122505Haryana, <country>India</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Email: <email>cmp.npl@gmail.com</email>.</corresp><corresp id="cor2"><label>*</label>Email: <email>dkumar@dce.ac.in</email>.</corresp></author-notes><pub-date pub-type="epub"><day>30</day><month>12</month><year>2022</year></pub-date><pub-date pub-type="collection"><day>17</day><month>01</month><year>2023</year></pub-date><volume>8</volume><issue>2</issue><issue-id pub-id-type="pmc-issue-id">426884</issue-id><fpage>2328</fpage><lpage>2336</lpage><history><date date-type="received"><day>19</day><month>10</month><year>2022</year></date><date date-type="accepted"><day>23</day><month>12</month><year>2022</year></date></history><pub-history><event event-type="pmc-release"><date><day>30</day><month>12</month><year>2022</year></date></event><event event-type="pmc-live"><date><day>20</day><month>01</month><year>2023</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2023-01-23 16:10:13.330"><day>23</day><month>01</month><year>2023</year></date></event></pub-history><permissions><copyright-statement>© 2022 The Authors. Published by American Chemical Society</copyright-statement><copyright-year>2022</copyright-year><copyright-holder>The Authors</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>Permits non-commercial access and re-use, provided that author attribution and integrity are maintained; but does not permit creation of adaptations or other derivative works (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">https://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link>).</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="ao2c06727.pdf"/><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="ab-tgr1" position="float" orientation="portrait" xlink:href="ao2c06727_0007.jpg"/></p><p>A metal-free, enzymatic biosensor was developed using
+graphitic
+carbon nitride (g-C<sub>3</sub>N<sub>4</sub>)-wrapped poly-<italic toggle="yes">ortho</italic>-phenylenediamine (P<italic toggle="yes">o</italic>PD) for the determination
+of xanthine (Xn). Field emission scanning electron microscopy, Fourier
+transform infrared spectroscopy, and X-ray diffraction confirmed the
+successful formation of the P<italic toggle="yes">o</italic>PD, g-C<sub>3</sub>N<sub>4</sub> nanosheets and PoPD@g-C<sub>3</sub>N<sub>4</sub> nanocomposite.
+Furthermore, the electrochemical behavior of the biosensor was characterized
+by cyclic voltammetry and electrochemical impedance spectroscopy.
+The prepared enzyme electrode exhibited maximum response at pH 7.5
+with a response time of 5 s, and its sensitivity was 5.798 μAM<sup>–1</sup>. The nanocomposite shows exceptional sensing capabilities
+for detecting Xn, having a wide linear range from 1 nM to 1 μM
+with a relatively low detection limit of 0.001 nM. The biosensor shows
+good stability (4 weeks) and reproducibility and can detect the presence
+of Xn from other interfering analytes. Validation of the biosensor
+with real samples obtained from Rohu (<italic toggle="yes">Labeo rohita</italic>) fish shows that the fabricated biosensor has the requisite potential
+to be used for Xn detection in meat samples.</p></abstract><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC-ND</meta-value></custom-meta><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>ao2c06727</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>ao2c06727</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><label>1</label><title>Introduction</title><p>Graphitic carbon nitride
+is the most stable allotrope of carbon
+nitride under ambient conditions. It is a two-dimensional (2D) nanosheet
+material having a molecular thickness and many attracting physicochemical
+properties.<sup><xref ref-type="bibr" rid="ref1">1</xref></sup> Among many 2D layered systems,
+graphitic carbon nitride (g-C<sub>3</sub>N<sub>4</sub>) is a prominent
+group of metal-free conjugated polymers with weak van der Waals interactions
+between layers and a peculiar electrical band structure.<sup><xref ref-type="bibr" rid="ref2">2</xref></sup> Its chemistry of varied morphologies, structures,
+and applications has received significant interest among researchers.
+Its exceptional properties, such as its low cost, large surface area,
+easy preparation, fast electron transfer-conjugation structure, biocompatibility,
+and catalytic applications, make it an important choice of material
+for various applications.<sup><xref ref-type="bibr" rid="ref3">3</xref>,<xref ref-type="bibr" rid="ref4">4</xref></sup> Recently, g-C<sub>3</sub>N<sub>4</sub> nanosheets have been used to fabricate biosensors because
+of their superior catalytic and biocompatibility properties.<sup><xref ref-type="bibr" rid="ref5">5</xref></sup> However, the bare g-C<sub>3</sub>N<sub>4</sub> nanosheet synthesized by the thermal condensation procedure has
+low electrocatalytic activity due to the fast recombination of electrogenerated
+carriers.<sup><xref ref-type="bibr" rid="ref6">6</xref></sup> A lot of work has been devoted
+to enhancing the electroactive property of the g-C<sub>3</sub>N<sub>4</sub> nanosheet, including nanoscaling, doping, surface modification,
+and coupling with other conducting polymers.<sup><xref ref-type="bibr" rid="ref7">7</xref></sup> In this context, pairing g-C<sub>3</sub>N<sub>4</sub> nanosheets
+with conducting polymers such as poly-<italic toggle="yes">o</italic>-phenylenediamine
+(PoPD) is a great way to increase the electrochemical activity of
+g-C<sub>3</sub>N<sub>4</sub>.<sup><xref ref-type="bibr" rid="ref8">8</xref></sup></p><p>PoPD
+is a derivative of polyaniline, having a quinoxaline or 2,3-diaminophenazine
+repeating unit, which has the advantages of variable conductivity,
+robust electroactivity, and good optical activity.<sup><xref ref-type="bibr" rid="ref9">9</xref></sup> Its low cost, high stability, and environmental friendliness
+are crucial for potential applications.<sup><xref ref-type="bibr" rid="ref10">10</xref></sup> PoPD as an interference-rejecting layer offers good selectivity
+and specificity to the various biomolecules present in biological
+fluids, which might affect the selectivity of the biosensor.<sup><xref ref-type="bibr" rid="ref11">11</xref></sup> Thus, integrating P<italic toggle="yes">o</italic>PD with
+g-C<sub>3</sub>N<sub>4</sub> has been considered as an ideal method
+for increasing electrochemical performance of g-C<sub>3</sub>N<sub>4</sub> nanosheets.<sup><xref ref-type="bibr" rid="ref8">8</xref></sup></p><p>Recently, there
+has been an urgency for quality control in the
+food industry, increasing demand for fish as a wholesome foodstuff
+in both developed and developing countries.<sup><xref ref-type="bibr" rid="ref12">12</xref></sup> According to the reported literature, seafood rotting is caused
+by a high concentration of certain enzymes.<sup><xref ref-type="bibr" rid="ref13">13</xref></sup> One of the several enzymes is xanthine (Xn), a key metabolite involved
+in the disintegration of ATP molecules in fish meat, whose concentration
+level increases continuously with storage.<sup><xref ref-type="bibr" rid="ref14">14</xref></sup> Since the presence of Xn in fish meat signifies its freshness, the
+physiological conversion of Xn by xanthine oxidase (XOs) is of great
+interest.<sup><xref ref-type="bibr" rid="ref15">15</xref></sup> Additionally, measuring the
+amount of Xn in serum/urine samples makes it possible to gather essential
+details about specific metabolic disorders such as hyperuricemia,
+xanthinuria, and renal failure.<sup><xref ref-type="bibr" rid="ref16">16</xref></sup> Numerous
+analytical methods, such as high-performance liquid chromatography,
+enzymatic colorimetry, capillary electrophoresis, and so forth, have
+been used to detect Xn. However, these methods need a lot of effort,
+resources, and expertise.<sup><xref ref-type="bibr" rid="ref17">17</xref>,<xref ref-type="bibr" rid="ref18">18</xref></sup> Consequently, there
+is a critical need to develop a rapid and sensitive method to detect
+Xn.<sup><xref ref-type="bibr" rid="ref19">19</xref></sup></p><p>Nowadays, electrochemical techniques
+gained interest as being simple,
+sensitive, reliable, and affordable to use.<sup><xref ref-type="bibr" rid="ref20">20</xref>,<xref ref-type="bibr" rid="ref21">21</xref></sup> From the last decade, for hypoxanthine or xanthine detection, various
+conducting polymer-based nanocomposite biosensors are of interest
+such as polypyrrole-polyvinyl sulfonate (PPy-PTS) films,<sup><xref ref-type="bibr" rid="ref22">22</xref></sup> polypyrrole-<italic toggle="yes">para</italic>-toluenesulfonate
+(PPy-pTS),<sup><xref ref-type="bibr" rid="ref23">23</xref></sup> disposable amperometric biosensor
+with a screen-printed electrode, gold nanoparticles with single-walled
+carbon nano-horn (GNPs/SWCNH),<sup><xref ref-type="bibr" rid="ref24">24</xref></sup> polymeric
+mediator/multiwalled carbon nanotube (MWCNT)<sup><xref ref-type="bibr" rid="ref25">25</xref></sup> reduced graphene oxide/iron oxide bio-nanocomposite interface,<sup><xref ref-type="bibr" rid="ref26">26</xref></sup> polymerized 10-[4 <italic toggle="yes">H</italic>-dithieno
+(3,2-<italic toggle="yes">b</italic>: 2′,3′-<italic toggle="yes">d</italic>) pyrrole-4-yl]
+decane-1-amine film,<sup><xref ref-type="bibr" rid="ref27">27</xref></sup> and so forth. However,
+these biosensors show a higher limit of detection, and the linear
+range may be due to slow electron transfer, poor stability, reusability,
+fragility, and poor absorption ability, which created requirement
+for introducing a system with a highly desirable lower detection limit
+and fast electron transfer. Even, most of the electrochemical biosensors
+reported for Xn detection usually involve active metal catalysts to
+provide a higher surface functionality for immobilizing enzymes, increased
+electroactive surface, and improved charge transfer efficiency.<sup><xref ref-type="bibr" rid="ref28">28</xref></sup></p><p>Herein, efforts have been made to fabricate
+a metal-free biosensor
+based on PoPD@g-C<sub>3</sub>N<sub>4</sub> nanocomposites, synthesized
+using a simple oxidative polymerization method. To the best of our
+knowledge, PoPD@g-C<sub>3</sub>N<sub>4</sub> nanocomposite-based biosensors
+have never been used for Xn detection. With exceptional sensitivity
+values, it has been revealed that g-C<sub>3</sub>N<sub>4</sub> nanosheets
+modified with P<italic toggle="yes">o</italic>PD for electrode modification can
+be an effective platform for immobilizing XOs. The synthesized nanocomposite
+efficiently acted as a metal-free and highly selective sensor to amplify
+the signal for Xn detection, thus emerging as an innovative electrochemical
+sensing technique for monitoring fish meat quality.</p></sec><sec id="sec2"><label>2</label><title>Results and Discussion</title><p>X-ray diffraction
+(XRD) of P<italic toggle="yes">o</italic>PD (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>A) revealed prominent peaks
+in the range 2θ = 10–30°, indicating the crystalline
+behavior of P<italic toggle="yes">o</italic>PD. The broad peak centered at 2θ
+= 26.5° reveals the polymer chain’s local crystallinity.<sup><xref ref-type="bibr" rid="ref4">4</xref></sup></p><fig id="fig1" position="float" orientation="portrait"><label>Figure 1</label><caption><p>Scheme showing the fabrication of the P<italic toggle="yes">o</italic>PD@g-C<sub>3</sub>N<sub>4</sub> nanohybrid-based biosensor.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr1" position="float" orientation="portrait" xlink:href="ao2c06727_0002.jpg"/></fig><fig id="fig2" position="float" orientation="portrait"><label>Figure 2</label><caption><p>(A) XRD of (i) P<italic toggle="yes">o</italic>PD, (ii) PoPD@g-C<sub>3</sub>N<sub>4</sub> nanohybrid and (iii) g-C<sub>3</sub>N<sub>4</sub> nanosheets
+and (B) FT-IR spectra of (i) P<italic toggle="yes">o</italic>PD, (ii) g-C<sub>3</sub>N<sub>4</sub> nanosheets, and (iii) P<italic toggle="yes">o</italic>PD@g-C<sub>3</sub>N<sub>4</sub> nanohybrid.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr2" position="float" orientation="portrait" xlink:href="ao2c06727_0003.jpg"/></fig><p>Furthermore, the crystalline peaks positioned at
+2θ = 10.8,
+16.5, 18.6, and 28.7° show the nature of the synthesized P<italic toggle="yes">o</italic>PD featuring well-aligned morphology.<sup><xref ref-type="bibr" rid="ref29">29</xref></sup> The XRD diffraction pattern of g-C<sub>3</sub>N<sub>4</sub> sheets revealed a weakly intense peak at 2θ = 27.7°,
+which is indexed to (002) planes.<sup><xref ref-type="bibr" rid="ref30">30</xref></sup> The
+XRD of g-C<sub>3</sub>N<sub>4</sub> and PoPD@g-C<sub>3</sub>N<sub>4</sub> showed two similar diffraction peaks at 27.7°, which
+is attributed to the characteristic (002) plane for interlayer stacking
+that corresponds to the graphitic structure<sup><xref ref-type="bibr" rid="ref31">31</xref></sup><sub>.</sub> It is worth noting that no apparent diffraction peaks
+of P<italic toggle="yes">o</italic>PD were observed in the P<italic toggle="yes">o</italic>PD@g-C<sub>3</sub>N<sub>4</sub> sample due to the weak crystallinity and small
+adding content of PoPD.<sup><xref ref-type="bibr" rid="ref32">32</xref></sup></p><p>The FT-IR
+(<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>B) of the
+g-C<sub>3</sub>N<sub>4</sub> nanosheet shows a broad peak
+at 3164 cm<sup>–1</sup> for terminal NH<sub>2</sub> or NH groups
+and C=N stretching peaks at 1575 and 1642 cm<sup>–1</sup>, stretching peaks at 1245, 1324, and 1404 cm<sup>–1</sup> were observed for aromatic C–N stretching, and a sharp peak
+at 808 cm<sup>–1</sup> is due to the vibration of tri-<italic toggle="yes">s</italic>-triazine units.<sup><xref ref-type="bibr" rid="ref4">4</xref>,<xref ref-type="bibr" rid="ref33">33</xref></sup> The IR spectrum of
+the homopolymer PoPD showed the N–H stretching vibration peak
+at 3143 cm<sup>–1</sup>, and peaks at 1626 and 1561 cm<sup>–1</sup> are attributed to the C=C stretching vibrations
+of quinoid and benzenoid rings, respectively, while C–N stretching
+vibrations of quinoid and benzenoid rings appear at 1397 and 1206
+cm<sup>–1</sup>, respectively.<sup><xref ref-type="bibr" rid="ref29">29</xref>,<xref ref-type="bibr" rid="ref34">34</xref></sup> In the PoPD@g-C<sub>3</sub>N<sub>4</sub> nanocomposite, Fourier transform infrared spectroscopy
+peaks are slightly shifted to higher or lower wavenumber when compared
+to PoPD. Several characteristic solid peaks in the range of 1700–1200
+cm<sup>–1</sup> are assigned to the stretching vibration of
+g-C<sub>3</sub>N<sub>4</sub>. Meanwhile, the characteristic peaks
+at 820 and 884 cm<sup>–1</sup> are attributed to the triazine
+units.<sup><xref ref-type="bibr" rid="ref35">35</xref></sup> Most of the characteristic vibrational
+peaks of pure g-C<sub>3</sub>N<sub>4</sub> are observed in P<italic toggle="yes">o</italic>PD@g-C<sub>3</sub>N<sub>4</sub>, indicating the existence
+of the g-C<sub>3</sub>N<sub>4</sub> nanosheet in the composite.</p><p>The field emission scanning electron microscopy (FESEM) image of
+g-C<sub>3</sub>N<sub>4</sub> is compared to that of P<italic toggle="yes">o</italic>PD and P<italic toggle="yes">o</italic>PD@g-C<sub>3</sub>N<sub>4</sub>, and the
+results are shown in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>. As indicated by the microscopic images of g-C<sub>3</sub>N<sub>4</sub> (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>a), the layered morphology of g-C<sub>3</sub>N<sub>4</sub> and rod-like
+morphology of P<italic toggle="yes">o</italic>PD remained the same as in the P<italic toggle="yes">o</italic>PD@g-C<sub>3</sub>N<sub>4</sub> nanocomposite. This confirms
+that the P<italic toggle="yes">o</italic>PD particles are randomly distributed
+on the g-C<sub>3</sub>N<sub>4</sub> sheets, which is further evidence
+for the successful formation of the P<italic toggle="yes">o</italic>PD@g-C<sub>3</sub>N<sub>4</sub> nanocomposite. The EDX spectra shown in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>d–f) confirmed
+the loading of g-C<sub>3</sub>N<sub>4</sub> in the P<italic toggle="yes">o</italic>PD@g-C<sub>3</sub>N<sub>4</sub> framework. In the case of P<italic toggle="yes">o</italic>PD@g-C<sub>3</sub>N<sub>4</sub>, the wt % of nitrogen content
+(50.58%) is higher than that of P<italic toggle="yes">o</italic>PD (12.69%), indicating
+the successful incorporation of g-C<sub>3</sub>N<sub>4</sub> in P<italic toggle="yes">o</italic>PD. Moreover, the FESEM images, before and after immobilization
+of XOs on P<italic toggle="yes">o</italic>PD@g-C<sub>3</sub>N<sub>4</sub>/ITO with
+the real image of the fabricated electrode, also validate the morphology
+change (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsomega.2c06727/suppl_file/ao2c06727_si_006.pdf">Figure S6</ext-link>).</p><fig id="fig3" position="float" orientation="portrait"><label>Figure 3</label><caption><p>FESEM images (a–c)
+and EDX images (d–f) for (a) g-C<sub>3</sub>N<sub>4</sub>,
+(b) P<italic toggle="yes">o</italic>PD, and (c) P<italic toggle="yes">o</italic>PD@g-C<sub>3</sub>N<sub>4</sub> nanohybrid obtained at
+an operating voltage of 15 kV.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr3" position="float" orientation="portrait" xlink:href="ao2c06727_0004.jpg"/></fig><sec id="sec2.1"><label>2.1</label><title>Electrochemical Studies of the Fabricated
+Electrodes</title><p>Electrochemical studies have been carried out
+for bare ITO, g-C<sub>3</sub>N<sub>4</sub>/ITO, P<italic toggle="yes">o</italic>PD/ITO, and P<italic toggle="yes">o</italic>PD@g-C<sub>3</sub>N<sub>4</sub>/ITO
+electrodes using electrochemical impedance spectroscopy (EIS; PBS
+comprising 5 mM [Fe(CN)<sub>6</sub>]<sup>3–/4–</sup>). The Nyquist plot shows a linear region at lower frequencies for
+the diffusion-controlled electron transfer resistance process and
+a semicircle region for the electron transfer resistance limited process.<sup><xref ref-type="bibr" rid="ref36">36</xref>,<xref ref-type="bibr" rid="ref37">37</xref></sup> The solution resistance (<italic toggle="yes">R</italic><sub>s</sub>), electron
+transfer resistance (<italic toggle="yes">R</italic><sub>ct</sub>), Warburg impedance
+(<italic toggle="yes">Z</italic><sub>w</sub>), and constant phase element (CPE)
+constitute the equivalent circuit [<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>A (inset)].
+The obtained Impedance curve has been fitted using
+FRA software to deduce the different circuit parameters.</p><fig id="fig4" position="float" orientation="portrait"><label>Figure 4</label><caption><p>(A) Nyquist
+diagram for the Faradic impedance for (i) ITO, (ii)
+g-C<sub>3</sub>N<sub>4</sub>/ITO electrode, (iii) P<italic toggle="yes">o</italic>PD/ITO, and (iv) P<italic toggle="yes">o</italic>PD@g-C<sub>3</sub>N<sub>4</sub>/ITO electrode measured in PBS solution (pH 7.5) containing 5 mM
+[Fe(CN)<sub>6</sub>]<sup>3–/4–</sup>, in the frequency
+range from 10<sup>5</sup> to 10<sup>–2</sup> Hz; (B) CV studies
+of (i) g-C<sub>3</sub>N<sub>4</sub>/ITO, (ii) P<italic toggle="yes">o</italic>PD/ITO,
+(iii) XOs/P<italic toggle="yes">o</italic>PD@g-C<sub>3</sub>N<sub>4</sub>/ITO,
+and (iv) P<italic toggle="yes">o</italic>PD@g-C<sub>3</sub>N<sub>4</sub>/ITO electrodes.
+The plots of (C) <italic toggle="yes">I</italic><sub>pa</sub>, <italic toggle="yes">I</italic><sub>pc</sub> vs square root of scan rate and (D) potential with
+the log of scan rate with varying scan rate (10–300 mV) for
+the P<italic toggle="yes">o</italic>PD@g-C<sub>3</sub>N<sub>4</sub>/ITO electrode.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr4" position="float" orientation="portrait" xlink:href="ao2c06727_0005.jpg"/></fig><p>The R<sub>ct</sub> for the ITO electrode was measured
+to be 1081.5
+Ω [curve (i)], whereas the <italic toggle="yes">R</italic><sub>ct</sub> for
+the g-C<sub>3</sub>N<sub>4</sub>/ITO, P<italic toggle="yes">o</italic>PD/ITO, and
+P<italic toggle="yes">o</italic>PD@g-C<sub>3</sub>N<sub>4</sub>/ITO electrodes
+was found to be 554.43 Ω [curve (ii)], 315.7 Ω [curve
+(iii)], and 285.08 Ω [curve (iv)], respectively. The significantly
+smaller diameter of the semicircular Nyquist plot shows a lower electron
+transfer resistance and a higher interfacial charge transfer characteristic
+of the P<italic toggle="yes">o</italic>PD@g-C<sub>3</sub>N<sub>4</sub>/ITO electrode.
+The result shows that the addition of P<italic toggle="yes">o</italic>PD has a
+favorable impact on the separation and transfer of photogenerated
+charge carriers, which is compatible with the P<italic toggle="yes">o</italic>PD@g-C<sub>3</sub>N<sub>4</sub> system.<sup><xref ref-type="bibr" rid="ref8">8</xref></sup></p><p>Electrochemical
+electrode reactions have been studied using electron
+transfer kinetics based on obtained <italic toggle="yes">R</italic><sub>ct</sub> values. <xref rid="eq1" ref-type="disp-formula">Equations <xref rid="eq1" ref-type="disp-formula">1</xref></xref> and <xref rid="eq2" ref-type="disp-formula">2</xref> have been used to compute the apparent
+electron transfer rate constant (<italic toggle="yes">K</italic><sub>app</sub>)
+and exchange current per geometric unit area (<italic toggle="yes">i</italic><sub>o</sub>) for g-C<sub>3</sub>N<sub>4</sub>/ITO electrodes and P<italic toggle="yes">o</italic>PD@g-C<sub>3</sub>N<sub>4</sub>/ITO electrodes.<disp-formula id="eq1"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" orientation="portrait" xlink:href="ao2c06727_m001.jpg"/><label>1</label></disp-formula><disp-formula id="eq2"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" orientation="portrait" xlink:href="ao2c06727_m002.jpg"/><label>2</label></disp-formula></p><p>On comparing, it was found that the
+P<italic toggle="yes">o</italic>PD@g-C<sub>3</sub>N<sub>4</sub>/ITO electrode possesses
+a higher <inline-formula id="d33e995"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao2c06727_m003.gif"/></inline-formula> value (9.007 × 10<sup>–5</sup> A cm<sup>–2</sup>) than g-C<sub>3</sub>N<sub>4</sub>/ITO
+(4.631 × 10<sup>–5</sup> A cm<sup>–2</sup>). Furthermore,
+the values of <italic toggle="yes">K</italic><sub>app</sub> for the g-C<sub>3</sub>N<sub>4</sub>/ITO and P<italic toggle="yes">o</italic>PD@g-C<sub>3</sub>N<sub>4</sub>/ITO electrodes were 0.381 × 10<sup>–6</sup> and
+0.669 × 10<sup>–6</sup> cm s<sup>–1</sup>, respectively.
+The increased values of <inline-formula id="d33e1048"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao2c06727_m004.gif"/></inline-formula> and <italic toggle="yes">K</italic><sub>app</sub> for
+the P<italic toggle="yes">o</italic>PD@g-C<sub>3</sub>N<sub>4</sub>/ITO electrode
+are due to the synergistic interaction between P<italic toggle="yes">o</italic>PD and g-C<sub>3</sub>N<sub>4</sub> nanosheets, improving conductivity
+and better electron transfer.</p><p>Cyclic voltammetric (CV) studies
+for g-C<sub>3</sub>N<sub>4</sub>/ITO, P<italic toggle="yes">o</italic>PD/ITO, P<italic toggle="yes">o</italic>PD@g-C<sub>3</sub>N<sub>4</sub>/ITO, and XOs/P<italic toggle="yes">o</italic>PD@g-C<sub>3</sub>N<sub>4</sub>/ITO electrodes in PBS buffer have
+been shown in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>B. Compared to other
+electrodes [g-C<sub>3</sub>N<sub>4</sub>/ITO, 0.31 mA; P<italic toggle="yes">o</italic>PD/ITO, 0.41 mA; and XOs/PoPD@g-C<sub>3</sub>N<sub>4</sub>/ITO, 0.49
+mA)], the P<italic toggle="yes">o</italic>PD@g-C<sub>3</sub>N<sub>4</sub>/ITO electrode
+displayed a well-defined pair of redox peaks with a greater peak current
+[curve (iv); 0.58 mA]. The increased peak current of P<italic toggle="yes">o</italic>PD@g-C<sub>3</sub>N<sub>4</sub>/ITO suggests that the composite material
+generated more redox sites for the probe and enhanced electron transport,
+showing that P<italic toggle="yes">o</italic>PD and g-C<sub>3</sub>N<sub>4</sub> have a positive synergy. After immobilization of the enzyme (XOs)
+on P<italic toggle="yes">o</italic>PD@g-C<sub>3</sub>N<sub>4</sub>/ITO, a well-defined
+redox peak indicates that XOs was successfully immobilized on the
+surface of the P<italic toggle="yes">o</italic>PD@g-C<sub>3</sub>N<sub>4</sub>/ITO
+and has undergone an oxidation–reduction process at the electrode
+[curve (iii)].The electroactive surface areas of the electrodes were
+calculated using the Randles–Sevcik equation<disp-formula id="eq3"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" orientation="portrait" xlink:href="ao2c06727_m005.jpg"/><label>3</label></disp-formula></p><p>where <italic toggle="yes">n</italic> is the number
+of electrons, <italic toggle="yes">v</italic> (mV/s) is the scan rate, <italic toggle="yes">A</italic> (cm<sup>2</sup>) is
+the area of the electrode, <italic toggle="yes">C</italic> is the concentration
+in mol/L, <italic toggle="yes">D</italic> (cm<sup>2</sup>/s) is the diffusion coefficient
+of [Fe(CN)<sub>6</sub>]<sup>3–/4–</sup> in PBS at room
+temperature which has been reported to be 0.5253 × 10<sup>–10</sup> cm<sup>2</sup>/s, and <italic toggle="yes">I</italic><sub>p</sub> (A) is the
+peak current. The PoPD@g-C<sub>3</sub>N<sub>4</sub>/ITO exhibits the
+largest active surface area of 0.997 cm<sup>2</sup> compared to 0.930
+and 0.988 cm<sup>2</sup> for g-C<sub>3</sub>N<sub>4</sub>/ITO and
+P<italic toggle="yes">o</italic>PD/ITO, respectively. A high electroactive surface
+area is expected to offer benefits for electroanalysis.</p><p>For
+the P<italic toggle="yes">o</italic>PD@g-C<sub>3</sub>N<sub>4</sub>/ITO
+(<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>C) and XOs/P<italic toggle="yes">o</italic>PD@g-C<sub>3</sub>N<sub>4</sub>/ITO (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsomega.2c06727/suppl_file/ao2c06727_si_001.pdf">Figure S1</ext-link>) electrodes, the performance of the electrodes was
+investigated by varying the scan rate (10 to 150 mV/s). It has been
+observed that the oxidation peak current increases linearly with a
+positive shift in the peak potential. Both the anodic peak current
+(<italic toggle="yes">I</italic><sub>pa</sub>) and cathodic peak current (<italic toggle="yes">I</italic><sub>pc</sub>) increase linearly with increasing scan rate
+and following <xref rid="eq3" ref-type="disp-formula">eqs <xref rid="eq3" ref-type="disp-formula">3</xref></xref>−<xref rid="eq5" ref-type="disp-formula">5</xref>, showing surface adsorption-controlled process kinetics
+for the P<italic toggle="yes">o</italic>PD@g-C<sub>3</sub>N<sub>4</sub>/ITO electrode.<sup><xref ref-type="bibr" rid="ref38">38</xref></sup><disp-formula id="eq4"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" orientation="portrait" xlink:href="ao2c06727_m006.jpg"/><label>4</label></disp-formula><disp-formula id="eq5"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" orientation="portrait" xlink:href="ao2c06727_m007.jpg"/><label>5</label></disp-formula></p><p>The anodic and cathodic peak potentials
+(<italic toggle="yes">E</italic><sub>pa</sub> and <italic toggle="yes">E</italic><sub>pc</sub>) also showed a linear
+relation with the natural logarithm of scan rate (ln <italic toggle="yes">v</italic>). The corresponding linear regression equations, <xref rid="eq6" ref-type="disp-formula">eqs <xref rid="eq6" ref-type="disp-formula">6</xref></xref> and <xref rid="eq7" ref-type="disp-formula">7</xref>, have
+been given in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>D.<disp-formula id="eq6"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" orientation="portrait" xlink:href="ao2c06727_m008.jpg"/><label>6</label></disp-formula><disp-formula id="eq7"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" orientation="portrait" xlink:href="ao2c06727_m009.jpg"/><label>7</label></disp-formula></p><p>Using Laviron’s equation,<sup><xref ref-type="bibr" rid="ref39">39</xref></sup> the
+charge transfer coefficient (α) and heterogeneous electron transfer
+coefficient (<italic toggle="yes">K</italic><sub>s</sub>) for the PoPD@g-C<sub>3</sub>N<sub>4</sub>/ITO electrode have been calculated, and they
+are found to be 0.9105 and 2.3859 s<sup>–1</sup>, respectively,
+at a scan rate (<italic toggle="yes">v</italic>) of 50 mV/s.</p><p>The effect of
+the loading volume of XOs (5 to 30 μL) on the
+response current toward Xn (0.1 μL) has been shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsomega.2c06727/suppl_file/ao2c06727_si_006.pdf">Figure S2</ext-link>. The peak current increased initially,
+up to 20 μL and then reduced with further increasing the loading
+volume of XOs. An excessive amount of XOs would slow down the passage
+of electrons, decreasing the sensor’s sensitivity. Therefore,
+20 μL of XOs solution was used for subsequent studies.</p><p><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsomega.2c06727/suppl_file/ao2c06727_si_006.pdf">Figure S3</ext-link> shows the performance of the
+Xn/XOs/P<italic toggle="yes">o</italic>PD@g-C<sub>3</sub>N<sub>4</sub>/ITO electrode
+in various pH electrolytic solutions ranging from 6.5 to 8.5. Notably,
+the maximum current response was recorded at a pH of 7.5 in PBS buffer
+containing 5 mM Fe[CN<sub>6</sub>]<sup>3–/4–</sup>.
+Therefore, pH 7.5 has been chosen as the ideal pH for the electrochemical
+detection of Xn.</p></sec><sec id="sec2.2"><label>2.2</label><title>Electrochemical Biosensing Response of the
+XOs/P<italic toggle="yes">o</italic>PD@g-C<sub>3</sub>N<sub>4</sub>/ITO Electrode</title><p>The electrochemical biosensing response study for the XOs/P<italic toggle="yes">o</italic>PD@g-C<sub>3</sub>N<sub>4</sub>/ITO electrode has been
+carried out by varying Xn concentrations (0.001–1 μM)
+(<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>A). The peak
+current response increased linearly from 0.001 to 1 μM (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>B), confirming the
+P<italic toggle="yes">o</italic>PD@g-C<sub>3</sub>N<sub>4</sub> nanocomposite’s
+efficiency and good electrocatalytic capabilities for Xn detection.
+The sensitivity of the biosensor was calculated to be 5.798 μAM<sup>–1</sup>, using the regression equation <italic toggle="yes">y</italic> = 48.403 × 10<sup>–6</sup><italic toggle="yes">x</italic> + 5.798
+× 10<sup>–6</sup> (<italic toggle="yes">y</italic> = peak current and <italic toggle="yes">x</italic> = concentration of Xn) having <italic toggle="yes">R</italic><sup>2</sup> = 0.9217. <xref rid="eq3" ref-type="disp-formula">Equation <xref rid="eq3" ref-type="disp-formula">3</xref></xref> σ/<italic toggle="yes">S</italic> was used to calculate the limit of detection,
+which was found to be 0.001 nM, where σ is the standard deviation
+of the bioelectrode and <italic toggle="yes">S</italic> is the sensitivity derived
+from the slope of the calibration curve.</p><fig id="fig5" position="float" orientation="portrait"><label>Figure 5</label><caption><p>(A) DPV studies showing
+the response of the XOs/P<italic toggle="yes">o</italic>PD@g-C<sub>3</sub>N<sub>4</sub>/ITO electrode with increasing concentration
+of Xn (0.001–1 μM); (B) calibration plot showing a linear
+relationship between the magnitudes of current recorded and concentration
+of Xn; (C) shelf-life tests of the sensor up to 4 weeks, and (D) reproducibility
+study at five modified electrodes.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr5" position="float" orientation="portrait" xlink:href="ao2c06727_0006.jpg"/></fig></sec><sec id="sec2.3"><label>2.3</label><title>Validation of the Biosensor with the Real
+Sample</title><p>The developed P<italic toggle="yes">o</italic>PD@g-C<sub>3</sub>N<sub>4</sub> nanocomposite-based sensor has been tested for Xn in
+the fish meat samples using DPV. An easy method suggested by Watanabe
+et al. has been used to extract Xn from Rohu (<italic toggle="yes">Labeo
+rohita</italic>) fish and prepare the Xn solution.<sup><xref ref-type="bibr" rid="ref21">21</xref></sup> The DPV study shows that the peak current steadily
+increases as the concentration of Xn increases from 0.001 to 1 μM.
+These results were identical to those of the synthetic Xn samples.
+Various biosensing characteristics of the synthesized XOs/P<italic toggle="yes">o</italic>PD@g-C<sub>3</sub>N<sub>4</sub>-based biosensor were compared
+with previously reported polymer-based biosensors for Xn detection
+(<xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref>). It was observed
+that the developed biosensor could detect the presence of Xn in fish
+meat samples with the lowest LOD.</p><table-wrap id="tbl1" position="float" orientation="portrait"><label>Table 1</label><caption><title>Comparison of the Performance of P<italic toggle="yes">o</italic>PD@g-C<sub>3</sub>N<sub>4</sub>/ITO With Other CP-Based
+Biosensors for Xn Detection<xref rid="t1fn1" ref-type="table-fn">a</xref></title></caption><table frame="hsides" rules="groups" border="0"><colgroup span="1"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/></colgroup><thead><tr><th style="border:none;" align="center" colspan="1" rowspan="1">S. no.</th><th style="border:none;" align="center" colspan="1" rowspan="1">immobilization matrix</th><th style="border:none;" align="center" colspan="1" rowspan="1">detection technique</th><th style="border:none;" align="center" colspan="1" rowspan="1">linear
+range (μM)</th><th style="border:none;" align="center" colspan="1" rowspan="1">LOD</th><th style="border:none;" align="center" colspan="1" rowspan="1">ref.</th></tr></thead><tbody><tr><td style="border:none;" align="left" colspan="1" rowspan="1">1.</td><td style="border:none;" align="left" colspan="1" rowspan="1">Au-XOR/fMWCNT-PEDOT/GCE</td><td style="border:none;" align="left" colspan="1" rowspan="1">DPV</td><td style="border:none;" align="left" colspan="1" rowspan="1">0.1–10</td><td style="border:none;" align="left" colspan="1" rowspan="1">5.45 × 10<sup>–2</sup> μM</td><td style="border:none;" align="left" colspan="1" rowspan="1">(<xref ref-type="bibr" rid="ref40">40</xref>)</td></tr><tr><td style="border:none;" align="left" colspan="1" rowspan="1">2.</td><td style="border:none;" align="left" colspan="1" rowspan="1">XODNPs/Au</td><td style="border:none;" align="left" colspan="1" rowspan="1">CV</td><td style="border:none;" align="left" colspan="1" rowspan="1">0.01–1</td><td style="border:none;" align="left" colspan="1" rowspan="1">0.01 μM</td><td style="border:none;" align="left" colspan="1" rowspan="1">(<xref ref-type="bibr" rid="ref41">41</xref>)</td></tr><tr><td style="border:none;" align="left" colspan="1" rowspan="1">3.</td><td style="border:none;" align="left" colspan="1" rowspan="1">XO/Poly(l-Asp)/MWCNT/GCE</td><td style="border:none;" align="left" colspan="1" rowspan="1">DPV</td><td style="border:none;" align="left" colspan="1" rowspan="1">0.001–0.004</td><td style="border:none;" align="left" colspan="1" rowspan="1">3.5 × 10<sup>–4</sup> μM</td><td style="border:none;" align="left" colspan="1" rowspan="1">(<xref ref-type="bibr" rid="ref42">42</xref>)</td></tr><tr><td style="border:none;" align="left" colspan="1" rowspan="1">4.</td><td style="border:none;" align="left" colspan="1" rowspan="1">XOD/ZnO/Ch/c-MWCNT/PANI/Pt</td><td style="border:none;" align="left" colspan="1" rowspan="1">CV</td><td style="border:none;" align="left" colspan="1" rowspan="1">0.1–100</td><td style="border:none;" align="left" colspan="1" rowspan="1">0.1 μM</td><td style="border:none;" align="left" colspan="1" rowspan="1">(<xref ref-type="bibr" rid="ref43">43</xref>)</td></tr><tr><td style="border:none;" align="left" colspan="1" rowspan="1">5.</td><td style="border:none;" align="left" colspan="1" rowspan="1">Au-PPy</td><td style="border:none;" align="left" colspan="1" rowspan="1">CV</td><td style="border:none;" align="left" colspan="1" rowspan="1">0.4–100</td><td style="border:none;" align="left" colspan="1" rowspan="1">0.4 μM</td><td style="border:none;" align="left" colspan="1" rowspan="1">(<xref ref-type="bibr" rid="ref44">44</xref>)</td></tr><tr><td style="border:none;" align="left" colspan="1" rowspan="1">6.</td><td style="border:none;" align="left" colspan="1" rowspan="1">XOD/c-MWCNT/PANI/Pt</td><td style="border:none;" align="left" colspan="1" rowspan="1">CV</td><td style="border:none;" align="left" colspan="1" rowspan="1">0.6–58</td><td style="border:none;" align="left" colspan="1" rowspan="1">0.6 μM</td><td style="border:none;" align="left" colspan="1" rowspan="1">(<xref ref-type="bibr" rid="ref14">14</xref>)</td></tr><tr><td style="border:none;" align="left" colspan="1" rowspan="1">7.</td><td style="border:none;" align="left" colspan="1" rowspan="1">Ch/PPy/AuNPs/GCE</td><td style="border:none;" align="left" colspan="1" rowspan="1">CV</td><td style="border:none;" align="left" colspan="1" rowspan="1">1–200</td><td style="border:none;" align="left" colspan="1" rowspan="1">0.25 μM</td><td style="border:none;" align="left" colspan="1" rowspan="1">(<xref ref-type="bibr" rid="ref45">45</xref>)</td></tr><tr><td style="border:none;" align="left" colspan="1" rowspan="1">8.</td><td style="border:none;" align="left" colspan="1" rowspan="1">PANI@TiO<sub>2</sub>/ITO</td><td style="border:none;" align="left" colspan="1" rowspan="1">DPV</td><td style="border:none;" align="left" colspan="1" rowspan="1">1–100</td><td style="border:none;" align="left" colspan="1" rowspan="1">0.1 μM</td><td style="border:none;" align="left" colspan="1" rowspan="1">(<xref ref-type="bibr" rid="ref21">21</xref>)</td></tr><tr><td style="border:none;" align="left" colspan="1" rowspan="1">9.</td><td style="border:none;" align="left" colspan="1" rowspan="1">poly-TTCA/Au</td><td style="border:none;" align="left" colspan="1" rowspan="1">CV</td><td style="border:none;" align="left" colspan="1" rowspan="1">5–0.001</td><td style="border:none;" align="left" colspan="1" rowspan="1">1 μM</td><td style="border:none;" align="left" colspan="1" rowspan="1">(<xref ref-type="bibr" rid="ref46">46</xref>)</td></tr><tr><td style="border:none;" align="left" colspan="1" rowspan="1">10.</td><td style="border:none;" align="left" colspan="1" rowspan="1">PoPD@g-C<sub>3</sub>N<sub>4</sub></td><td style="border:none;" align="left" colspan="1" rowspan="1">DPV</td><td style="border:none;" align="left" colspan="1" rowspan="1">0.001–1</td><td style="border:none;" align="left" colspan="1" rowspan="1">0.001 nM</td><td style="border:none;" align="left" colspan="1" rowspan="1"><bold>present work</bold></td></tr></tbody></table><table-wrap-foot><fn id="t1fn1"><label>a</label><p>Abbreviations: Au: gold nanoparticles;
+XOR: xanthine oxidoreductase; fMWCNT: functionalized multiwalled carbon
+nanotube; PEDOT: poly(3,4-ethylenedioxythiophene); GCE: glassy carbon
+electrode; XODNPs: xanthine oxidase nanoparticle; [poly(l-asp):poly(l-aspartic
+acid)]; ZnO: zinc oxide; Ch: chitosan; PANI: polyaniline; Pt: platinum;
+PPy: polypyrrole; c-MWCNT: carboxylated multiwalled carbon nanotube;
+TiO<sub>2</sub>: titanium dioxide; ITO: indium tin oxide; poly-TTCA:
+poly-5,2′:5′,2″-terthiophine-3-carboxylic acid;
+CV: cyclic voltammetry; and DPV: differential pulse voltammetry.</p></fn></table-wrap-foot></table-wrap><p>The suggested biosensor was also used to measure the
+current response
+for a time ranging from 0 to 5 days at room temperature to examine
+the level of xanthine in fish extract while preserved for a certain
+period of time. The findings also showed an increase in xanthine levels
+which by day 5 had increased 32 times from day one (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsomega.2c06727/suppl_file/ao2c06727_si_001.pdf">Figure S4</ext-link>).</p></sec><sec id="sec2.4"><label>2.4</label><title>Shelf Life, Reproducibility, and Specificity</title><p><xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>C shows
+the shelf life of the P<italic toggle="yes">o</italic>PD@g-C<sub>3</sub>N<sub>4</sub>/ITO electrode, determined using the DPV technique. The DPV response
+of the five bioelectrodes against Xn with 1 μM was observed
+weekly to test the stability of the XOs/P<italic toggle="yes">o</italic>PD@g-C<sub>3</sub>N<sub>4</sub>/ITO electrode. Also, the result indicates that
+the biosensor is stable for at least 4 weeks when kept at 4 °C
+in a dry state, and it merely lost 0.4 μA current when compared
+to the current response of the initial electrode.</p><p>Additionally,
+five parallel electrodes were prepared to investigate the reproducibility
+of the developed electrochemical sensor. A relative standard deviation
+of 5.9% was obtained, indicating excellent reproducibility of the
+newly developed electrochemical sensor (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>D).</p><p>The interference test of the biosensor
+has been conducted by incubating
+the XOs/P<italic toggle="yes">o</italic>PD@g-C<sub>3</sub>N<sub>4</sub>/ITO electrode
+with the interfering analytes (ascorbic acid, urea, uric acid, sodium
+benzoate, and glucose) of various concentrations (10-fold) higher
+than the concentration of Xn. It has been observed that there was
+a specific current response for every analyte, proving the selectivity
+of the biosensor for Xn detection (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsomega.2c06727/suppl_file/ao2c06727_si_006.pdf">Figure S5</ext-link>). The specificity test was also conducted, and it has been observed
+that Xn retained its specificity, even in the mixture of interfering
+analytes. Additionally, we tested the performance of this biosensor
+at 10-fold excess concentration for all the analytes.</p><p>However,
+the response profiles to sodium benzoate, ascorbic acid,
+and glucose were relatively comparable, but the response to urea and
+uric acid was slightly higher than before. The result, expressed as
+the tolerance limit, shows a relative error of approximately ±5%
+in determination of the analyte (<xref rid="tbl2" ref-type="other">Table <xref rid="tbl2" ref-type="other">2</xref></xref>). Therefore, XOs/P<italic toggle="yes">o</italic>PD@g-C<sub>3</sub>N<sub>4</sub>/ITO can be a good biosensor for Xn recognition.</p><table-wrap id="tbl2" position="float" orientation="portrait"><label>Table 2</label><caption><title>Table of Tolerance Limit for Foreign
+Analytes</title></caption><table frame="hsides" rules="groups" border="0"><colgroup span="1"><col align="left" span="1"/><col align="left" span="1"/><col align="char" char="." span="1"/></colgroup><thead><tr><th style="border:none;" align="center" colspan="1" rowspan="1">S. no.</th><th style="border:none;" align="center" colspan="1" rowspan="1">analytes</th><th style="border:none;" align="center" char="." colspan="1" rowspan="1">(change in current response)
+tolerance limit
+(%)</th></tr></thead><tbody><tr><td style="border:none;" align="left" colspan="1" rowspan="1">1.</td><td style="border:none;" align="left" colspan="1" rowspan="1">ascorbic
+acid</td><td style="border:none;" align="char" char="." colspan="1" rowspan="1">±0.5</td></tr><tr><td style="border:none;" align="left" colspan="1" rowspan="1">2.</td><td style="border:none;" align="left" colspan="1" rowspan="1">urea</td><td style="border:none;" align="char" char="." colspan="1" rowspan="1">±4.9</td></tr><tr><td style="border:none;" align="left" colspan="1" rowspan="1">3.</td><td style="border:none;" align="left" colspan="1" rowspan="1">uric acid</td><td style="border:none;" align="char" char="." colspan="1" rowspan="1">±4.5</td></tr><tr><td style="border:none;" align="left" colspan="1" rowspan="1">4.</td><td style="border:none;" align="left" colspan="1" rowspan="1">sodium benzoate</td><td style="border:none;" align="char" char="." colspan="1" rowspan="1">±1.3</td></tr><tr><td style="border:none;" align="left" colspan="1" rowspan="1">5.</td><td style="border:none;" align="left" colspan="1" rowspan="1">glucose</td><td style="border:none;" align="char" char="." colspan="1" rowspan="1">±1.9</td></tr></tbody></table></table-wrap></sec></sec><sec id="sec3"><label>3</label><title>Conclusions</title><p>In the present work, a
+stable binary P<italic toggle="yes">o</italic>PD@g-C<sub>3</sub>N<sub>4</sub> nanocomposite
+has been synthesized via a simple
+oxidative polymerization technique. Various spectroscopic and morphological
+techniques have been used to validate the successful formation of
+P<italic toggle="yes">o</italic>PD@g-C<sub>3</sub>N<sub>4</sub>. An increase in
+electron transfer values for the P<italic toggle="yes">o</italic>PD@g-C<sub>3</sub>N<sub>4</sub> electrode compared to bare P<italic toggle="yes">o</italic>PD and
+g-C<sub>3</sub>N<sub>4</sub> makes it promising to be used for the
+immobilization of XOs. The fabricated XOs/P<italic toggle="yes">o</italic>PD@g-C<sub>3</sub>N<sub>4</sub>/ITO electrode successfully detected Xn in real
+fish samples with a detection limit of 0.001 nM (S/N = 3). In addition,
+the developed biosensing electrode offers suitable sensitivity, a
+very low detection limit, acceptable stability, reproducibility, and
+anti-interference characteristics. Consequently, the P<italic toggle="yes">o</italic>PD@g-C<sub>3</sub>N<sub>4</sub> nanocomposite-based biosensor proves
+to be a viable platform for Xn monitoring.</p></sec><sec id="sec4"><label>4</label><title>Materials and Methods</title><sec id="sec4.1"><label>4.1</label><title>Chemicals</title><p>Melamine (97.5%) was purchased
+from Central Drug House, Pvt. Ltd. India, ferric chloride (Anhydrous,
+96% FeCl<sub>3</sub>) was procured from Rankem, India, and 1,2-phenylenediamine
+(o-PD, 99.5%), glutaraldehyde, xanthine oxidase (XOs, ≥7 units/mg
+protein), and xanthine (≥99.5%) were purchased from Sigma-Aldrich,
+USA. Double-distilled water (Milli-Q, Millipore, 18.2 MU) was used
+to prepare the solutions, and all the glassware was autoclaved before
+use.</p></sec><sec id="sec4.2"><label>4.2</label><title>Synthesis of g-C<sub>3</sub>N<sub>4</sub></title><p>Melamine was thermally condensed to form graphitic carbon nitride
+(g-C<sub>3</sub>N<sub>4</sub>). Typically, 10 g of melamine was added
+to a crucible with a lid. The crucible was then placed in a muffle
+furnace and heated for 4 h at a rate of 5 °C min<sup>–1</sup>, reaching a temperature of 550 °C. The product was collected,
+crushed into powder, and allowed to cool to room temperature.<sup><xref ref-type="bibr" rid="ref47">47</xref></sup></p></sec><sec id="sec4.3"><label>4.3</label><title>Synthesis of P<italic toggle="yes">o</italic>PD</title><p>The 1,2-phenylenediamine (<italic toggle="yes">o</italic>-PD) monomer (5 g) has
+been added to a 100 mL conical flask containing ethanol and water
+1:1 v/v (25 mL). FeCl<sub>3</sub> (4 g) was added to the reaction
+mixture as an oxidant. The solution changed its color from transparent
+to brown, indicating rapid polymerization of the monomer. The flask
+was then subjected to sonication for 2 h, and the temperature was
+maintained at 30 °C. The synthesized P<italic toggle="yes">o</italic>PD was
+removed and repeatedly washed with distilled water/ethanol. To ensure
+that almost all water and contaminants were completely removed from
+the material, it was dried for 72 h at 70 °C in a vacuum oven.</p></sec><sec id="sec4.4"><label>4.4</label><title>One-Pot Synthesis of the P<italic toggle="yes">o</italic>PD@g-C<sub>3</sub>N<sub>4</sub> Nanohybrid</title><p>To prepare the
+P<italic toggle="yes">o</italic>PD@g-C<sub>3</sub>N<sub>4</sub> nanocomposite,
+2.5 g of <italic toggle="yes">o</italic>-phenylenediamine (OPD) was ultrasonicated
+after being dispersed in 50 mL of DI water. Then, 1.5 g of g-C<sub>3</sub>N<sub>4</sub> was added to the mixture, and the solution was
+ultrasonicated for 30 min. After that, 1.75 g of FeCl<sub>3</sub> was
+added to the mixture and heated at 60 °C for 24 h. The mixture
+was cooled before being washed with ethanol and DI water. The obtained
+filtrate was vacuum-dried and heated to 400 °C, forming a light
+brownish powder.</p></sec><sec id="sec4.5"><label>4.5</label><title>Electrophoretic Deposition of the P<italic toggle="yes">o</italic>PD@g-C<sub>3</sub>N<sub>4</sub> Nanocomposite</title><p>The P<italic toggle="yes">o</italic>PD@g-C<sub>3</sub>N<sub>4</sub> nanohybrid
+was deposited electrophoretically onto a hydrolyzed ITO electrode
+using a two-electrode setup. Both electrodes were positioned 0.5 cm
+apart. Before deposition, the P<italic toggle="yes">o</italic>PD@g-C<sub>3</sub>N<sub>4</sub> nanohybrid was sonicated in DI water until a clear
+solution was obtained. For EPD, 10 mL of the solution was diluted
+with 5 mL of ethanol, and the film was deposited at 12 V for 15 s.</p></sec><sec id="sec4.6"><label>4.6</label><title>Fabrication of the P<italic toggle="yes">o</italic>PD@g-C<sub>3</sub>N<sub>4</sub> Nanohybrid-Based Biosensor</title><p>For the
+immobilization of XOs, the P<italic toggle="yes">o</italic>PD@g-C<sub>3</sub>N<sub>4</sub>/ITO electrode was incubated with 0.1% glutaraldehyde and
+left at room temperature for 2 h to activate the functional group
+on the electrode surface. Afterward, the electrode was washed with
+phosphate buffer saline (PBS 100 mM, pH 7.4), followed by the covalent
+immobilization of XOs. The methodology for developing the electrode
+and synthesizing the P<italic toggle="yes">o</italic>PD@g-C<sub>3</sub>N<sub>4</sub> nanohybrid is shown in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>.</p></sec><sec id="sec4.7"><label>4.7</label><title>Instrumentation</title><p>The XRD pattern in
+the 2θ range (10–80°) was recorded using the Bruker
+D8 ADVANCE X-ray Diffractometer with monochromatic (Cu Kα) radiation
+(λ = 1.5406 Å), at a scan speed of 2°/min. To investigate
+the formation of P<italic toggle="yes">o</italic>PD@g-C<sub>3</sub>N<sub>4</sub>, FT-IR experiments were carried out using Nicolet TM iS10 in a frequency
+range of 400–4000 cm<sup>–1</sup>. The surface morphology
+of g-C<sub>3</sub>N<sub>4</sub>/ITO and P<italic toggle="yes">o</italic>PD@ g-C<sub>3</sub>N<sub>4</sub>/ITO was studied using FESEM (FEI NOVA NANOSEM
+450). Electrochemical studies were carried out in phosphate buffer
+(PBS, 100 mM, pH 7.4, 0.9% NaCl) containing 5 mM [Fe(CN)<sub>6</sub>]<sup>3–/4–</sup>, using an Autolab potentiostat/galvanostat
+(Eco-Chemie, Netherlands) with ITO as a working electrode, platinum
+as an auxiliary electrode, and Ag/AgCl as a reference electrode.</p></sec></sec></body><back><notes id="notes1" notes-type="si"><title>Supporting Information Available</title><p>The Supporting Information is
+available free of charge at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/10.1021/acsomega.2c06727?goto=supporting-info">https://pubs.acs.org/doi/10.1021/acsomega.2c06727</ext-link>.<list id="silist" list-type="simple"><list-item><p>Fabrication of the P<italic toggle="yes">o</italic>PD@g-C<sub>3</sub>N<sub>4</sub> nanohybrid-based biosensor (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsomega.2c06727/suppl_file/ao2c06727_si_001.pdf">PDF</ext-link>)</p></list-item><list-item><p>XRD and FT-IR spectra (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsomega.2c06727/suppl_file/ao2c06727_si_002.pdf">PDF</ext-link>)</p></list-item><list-item><p>FESEM images
+(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsomega.2c06727/suppl_file/ao2c06727_si_003.pdf">PDF</ext-link>)</p></list-item><list-item><p>Nyquist
+diagram and CV studies (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsomega.2c06727/suppl_file/ao2c06727_si_004.pdf">PDF</ext-link>)</p></list-item><list-item><p>DPV studies, calibration plot, shelf-life tests, and
+reproducibility study (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsomega.2c06727/suppl_file/ao2c06727_si_005.pdf">PDF</ext-link>)</p></list-item><list-item><p>Scan rate study of the XOs/P<italic toggle="yes">o</italic>PD@g-C<sub>3</sub>N<sub>4</sub>/ITO electrode, loading volume optimization of
+XOs, pH optimization, increase in Xn concentration as a function of
+days, interference studies, and FESEM images of P<italic toggle="yes">o</italic>PD@g-C<sub>3</sub>N<sub>4</sub>/ITO and XOs/P<italic toggle="yes">o</italic>PD@g-C<sub>3</sub>N<sub>4</sub>/ITO electrodes (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsomega.2c06727/suppl_file/ao2c06727_si_006.pdf">PDF</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1" position="float" orientation="portrait"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao2c06727_si_001.pdf" position="float" orientation="portrait"><caption><p>ao2c06727_si_001.pdf</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="sifile2" position="float" orientation="portrait"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao2c06727_si_002.pdf" position="float" orientation="portrait"><caption><p>ao2c06727_si_002.pdf</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="sifile3" position="float" orientation="portrait"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao2c06727_si_003.pdf" position="float" orientation="portrait"><caption><p>ao2c06727_si_003.pdf</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="sifile4" position="float" orientation="portrait"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao2c06727_si_004.pdf" position="float" orientation="portrait"><caption><p>ao2c06727_si_004.pdf</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="sifile5" position="float" orientation="portrait"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao2c06727_si_005.pdf" position="float" orientation="portrait"><caption><p>ao2c06727_si_005.pdf</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="sifile6" position="float" orientation="portrait"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao2c06727_si_006.pdf" position="float" orientation="portrait"><caption><p>ao2c06727_si_006.pdf</p></caption></media></supplementary-material></sec><notes notes-type="COI-statement" id="NOTES-d14e1987-autogenerated"><p>The
+authors declare no
+competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>Deeksha acknowledges DST-INSPIRE for the SRF Award.
+C.M.P. acknowledges the Department of Science and Technology, New
+Delhi, India, for the DST-INSPIRE Faculty award.</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name name-style="western"><surname>Zhao</surname><given-names>Z.</given-names></name>; <name name-style="western"><surname>Sun</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Dong</surname><given-names>F.</given-names></name>
+<article-title>Graphitic carbon nitride based nanocomposites: a review</article-title>. <source>Nanoscale</source>
+<year>2015</year>, <volume>7</volume>, <fpage>15</fpage>–<lpage>37</lpage>. <pub-id pub-id-type="doi">10.1039/c4nr03008g</pub-id>.<pub-id pub-id-type="pmid">25407808</pub-id></mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name name-style="western"><surname>Goettmann</surname><given-names>F.</given-names></name>; <name name-style="western"><surname>Fischer</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Antonietti</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Thomas</surname><given-names>A.</given-names></name>
+<article-title>Metal-free catalysis
+of sustainable Friedel–Crafts reactions: direct activation
+of benzene by carbon nitrides to avoid the use of metal chlorides
+and halogenated compounds</article-title>. <source>J.C.C.</source>
+<year>2006</year>, <volume>43</volume>, <fpage>4530</fpage>–<lpage>4532</lpage>. <pub-id pub-id-type="doi">10.1039/b608532f</pub-id>.<pub-id pub-id-type="pmid">17283808</pub-id></mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name name-style="western"><surname>Xing</surname><given-names>W.</given-names></name>; <name name-style="western"><surname>Li</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Chen</surname><given-names>G.</given-names></name>; <name name-style="western"><surname>Han</surname><given-names>Z.</given-names></name>; <name name-style="western"><surname>Zhou</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Hu</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Meng</surname><given-names>Q.</given-names></name>
+<article-title>Incorporating a novel metal-free interlayer into g-C3N4 framework
+for efficiency enhanced photocatalytic H2 evolution activity</article-title>. <source>Appl. Catal., B</source>
+<year>2017</year>, <volume>203</volume>, <fpage>65</fpage>–<lpage>71</lpage>. <pub-id pub-id-type="doi">10.1016/j.apcatb.2016.09.075</pub-id>.</mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name name-style="western"><surname>Fahimirad</surname><given-names>B.</given-names></name>; <name name-style="western"><surname>Asghari</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Rajabi</surname><given-names>M.</given-names></name>
+<article-title>Magnetic graphitic
+carbon nitride
+nanoparticles covalently modified with an ethylenediamine for dispersive
+solid-phase extraction of lead(II) and cadmium(II) prior to their
+quantitation by FAAS</article-title>. <source>Microchim. Acta</source>
+<year>2017</year>, <volume>184</volume>, <fpage>3027</fpage>–<lpage>3035</lpage>. <pub-id pub-id-type="doi">10.1007/s00604-017-2273-5</pub-id>.</mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name name-style="western"><surname>Idris</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Oseghe</surname><given-names>E.</given-names></name>; <name name-style="western"><surname>Msagati</surname><given-names>T. A. M.</given-names></name>; <name name-style="western"><surname>Kuvarega</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Feleni</surname><given-names>U.</given-names></name>; <name name-style="western"><surname>Mamba</surname><given-names>B.</given-names></name>
+<article-title>Graphitic Carbon Nitride:
+A Highly Electroactive Nanomaterial for
+Environmental and Clinical Sensing</article-title>. <source>Sensors</source>
+<year>2020</year>, <volume>20</volume>, <fpage>5743</fpage><pub-id pub-id-type="doi">10.3390/s20205743</pub-id>.<pub-id pub-id-type="pmid">33050361</pub-id><pub-id pub-id-type="pmcid">PMC7600177</pub-id></mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name name-style="western"><surname>Zhu</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Xiao</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Li</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Carabineiro</surname><given-names>S. A. C.</given-names></name>
+<article-title>Graphitic
+Carbon Nitride: Synthesis, Properties, and Applications in Catalysis</article-title>. <source>ACS Appl. Mater. Interfaces</source>
+<year>2014</year>, <volume>6</volume>, <fpage>16449</fpage>–<lpage>16465</lpage>. <pub-id pub-id-type="doi">10.1021/am502925j</pub-id>.<pub-id pub-id-type="pmid">25215903</pub-id></mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name name-style="western"><surname>Xing</surname><given-names>W.</given-names></name>; <name name-style="western"><surname>Chen</surname><given-names>G.</given-names></name>; <name name-style="western"><surname>Li</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Sun</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Han</surname><given-names>Z.</given-names></name>; <name name-style="western"><surname>Zhou</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Hu</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Meng</surname><given-names>Q.</given-names></name>
+<article-title>Construction of Large-Scale
+Ultrathin Graphitic Carbon Nitride Nanosheets by a Hydrogen-Bond-Assisted
+Strategy for Improved Photocatalytic Hydrogen Production and Ciprofloxacin
+Degradation Activity</article-title>. <source>ChemCatChem</source>
+<year>2016</year>, <volume>8</volume>, <fpage>2838</fpage>–<lpage>2845</lpage>. <pub-id pub-id-type="doi">10.1002/cctc.201600397</pub-id>.</mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name name-style="western"><surname>Chen</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Liu</surname><given-names>L.</given-names></name>; <name name-style="western"><surname>Zhao</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Zhang</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Li</surname><given-names>D.</given-names></name>; <name name-style="western"><surname>Hu</surname><given-names>B.</given-names></name>; <name name-style="western"><surname>Hai</surname><given-names>X.</given-names></name>
+<article-title>A Novel Metal-Free Polymer-Based
+POPD/g-C3N4 Photocatalyst with Enhanced
+Charge Carrier Separation for the Degradation of Tetracycline Hydrochloride</article-title>. <source>ChemistrySelect</source>
+<year>2017</year>, <volume>2</volume>, <fpage>9256</fpage>–<lpage>9260</lpage>. <pub-id pub-id-type="doi">10.1002/slct.201701789</pub-id>.</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name name-style="western"><surname>Huo</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Lu</surname><given-names>Z.</given-names></name>; <name name-style="western"><surname>Liu</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Wu</surname><given-names>D.</given-names></name>; <name name-style="western"><surname>Liu</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Pan</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Gao</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Guo</surname><given-names>W.</given-names></name>; <name name-style="western"><surname>Li</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Yan</surname><given-names>Y.</given-names></name>
+<article-title>Preparation photocatalyst
+of selected photodegradation antibiotics by molecular imprinting technology
+onto TiO2/fly-ash cenospheres</article-title>. <source>Chem. Eng. J.</source>
+<year>2012</year>, <volume>189–190</volume>, <fpage>75</fpage>–<lpage>83</lpage>. <pub-id pub-id-type="doi">10.1016/j.cej.2012.02.030</pub-id>.</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name name-style="western"><surname>Huo</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Lu</surname><given-names>Z.</given-names></name>; <name name-style="western"><surname>Liu</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Liu</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Gao</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Pan</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Wu</surname><given-names>D.</given-names></name>; <name name-style="western"><surname>Ying</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Li</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Yan</surname><given-names>Y.</given-names></name>
+<article-title>Preparation molecular/ions
+imprinted photocatalysts of La3+@POPD/TiO2/fly-ash cenospheres: Preferential
+photodegradation of TCs antibiotics</article-title>. <source>Chem. Eng.
+J.</source>
+<year>2012</year>, <volume>198–199</volume>, <fpage>73</fpage>–<lpage>80</lpage>. <pub-id pub-id-type="doi">10.1016/j.cej.2012.05.089</pub-id>.</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name name-style="western"><surname>Kirwan</surname><given-names>S. M.</given-names></name>; <name name-style="western"><surname>Rocchitta</surname><given-names>G.</given-names></name>; <name name-style="western"><surname>McMahon</surname><given-names>C. P.</given-names></name>; <name name-style="western"><surname>Craig</surname><given-names>J. D.</given-names></name>; <name name-style="western"><surname>Killoran</surname><given-names>S. J.</given-names></name>; <name name-style="western"><surname>O’Brien</surname><given-names>K. B.</given-names></name>; <name name-style="western"><surname>Serra</surname><given-names>P. A.</given-names></name>; <name name-style="western"><surname>Lowry</surname><given-names>J. P.</given-names></name>; <name name-style="western"><surname>O’Neill</surname><given-names>R. D.</given-names></name>
+<article-title>Modifications
+of Poly(o-phenylenediamine) Permselective Layer on Pt-Ir for Biosensor
+Application in Neurochemical Monitoring</article-title>. <source>Sensors</source>
+<year>2007</year>, <volume>7</volume>, <fpage>420</fpage>–<lpage>437</lpage>. <pub-id pub-id-type="doi">10.3390/s7040420</pub-id>.</mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name name-style="western"><surname>Kamil
+Reza</surname><given-names>K.</given-names></name>; <name name-style="western"><surname>Singh</surname><given-names>M. K.</given-names></name>; <name name-style="western"><surname>Yadav</surname><given-names>S. K.</given-names></name>; <name name-style="western"><surname>Singh</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Agrawal</surname><given-names>V. V.</given-names></name>; <name name-style="western"><surname>Malhotra</surname><given-names>B. D.</given-names></name>
+<article-title>Quantum dots based platform for application to fish
+freshness biosensor</article-title>. <source>Sens. Actuators, B</source>
+<year>2013</year>, <volume>177</volume>, <fpage>627</fpage>–<lpage>633</lpage>. <pub-id pub-id-type="doi">10.1016/j.snb.2012.11.059</pub-id>.</mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name name-style="western"><surname>Sahyar</surname><given-names>B. Y.</given-names></name>; <name name-style="western"><surname>Kaplan</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Ozsoz</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Celik</surname><given-names>E.</given-names></name>; <name name-style="western"><surname>Otles</surname><given-names>S.</given-names></name>
+<article-title>Electrochemical
+xanthine detection by enzymatic method based on Ag doped ZnO nanoparticles
+by using polypyrrole</article-title>. <source>Bioelectrochemistry</source>
+<year>2019</year>, <volume>130</volume>, <fpage>107327</fpage><pub-id pub-id-type="doi">10.1016/j.bioelechem.2019.107327</pub-id>.<pub-id pub-id-type="pmid">31351314</pub-id></mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name name-style="western"><surname>Devi</surname><given-names>R.</given-names></name>; <name name-style="western"><surname>Yadav</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Pundir</surname><given-names>C. S.</given-names></name>
+<article-title>Electrochemical
+detection of xanthine
+in fish meat by xanthine oxidase immobilized on carboxylated multiwalled
+carbon nanotubes/polyaniline composite film</article-title>. <source>Biochem. Eng. J.</source>
+<year>2011</year>, <volume>58–59</volume>, <fpage>148</fpage>–<lpage>153</lpage>. <pub-id pub-id-type="doi">10.1016/j.bej.2011.09.008</pub-id>.</mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name name-style="western"><surname>Albelda</surname><given-names>J. A. V.</given-names></name>; <name name-style="western"><surname>Uzunoglu</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Santos</surname><given-names>G. N. C.</given-names></name>; <name name-style="western"><surname>Stanciu</surname><given-names>L. A.</given-names></name>
+<article-title>Graphene-titanium
+dioxide nanocomposite based hypoxanthine sensor for assessment of
+meat freshness</article-title>. <source>Biosens. Bioelectron.</source>
+<year>2017</year>, <volume>89</volume>, <fpage>518</fpage>–<lpage>524</lpage>. <pub-id pub-id-type="doi">10.1016/j.bios.2016.03.041</pub-id>.<pub-id pub-id-type="pmid">27020067</pub-id></mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name name-style="western"><surname>Lawal</surname><given-names>A. T.</given-names></name>; <name name-style="western"><surname>Adeloju</surname><given-names>S. B.</given-names></name>
+<article-title>Progress and recent
+advances in fabrication and utilization
+of hypoxanthine biosensors for meat and fish quality assessment: a
+review</article-title>. <source>Talanta</source>
+<year>2012</year>, <volume>100</volume>, <fpage>217</fpage>–<lpage>228</lpage>. <pub-id pub-id-type="doi">10.1016/j.talanta.2012.07.085</pub-id>.<pub-id pub-id-type="pmid">23141330</pub-id></mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name name-style="western"><surname>Jalil</surname><given-names>O.</given-names></name>; <name name-style="western"><surname>Pandey</surname><given-names>C. M.</given-names></name>; <name name-style="western"><surname>Kumar</surname><given-names>D.</given-names></name>
+<article-title>Electrochemical biosensor
+for the
+epithelial cancer biomarker EpCAM based on reduced graphene oxide
+modified with nanostructured titanium dioxide</article-title>. <source>Microchim. Acta</source>
+<year>2020</year>, <volume>187</volume>, <fpage>275</fpage><pub-id pub-id-type="doi">10.1007/s00604-020-04233-7</pub-id>.<pub-id pub-id-type="pmid">32306099</pub-id></mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name name-style="western"><surname>Yadav</surname><given-names>S. K.</given-names></name>; <name name-style="western"><surname>Singh</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Agrawal</surname><given-names>V. V.</given-names></name>; <name name-style="western"><surname>Malhotra</surname><given-names>B. D.</given-names></name>
+<article-title>Nanostructured nickel
+oxide film for application to fish freshness biosensor</article-title>. <source>Appl. Phys. Lett.</source>
+<year>2012</year>, <volume>101</volume>, <fpage>023703</fpage><pub-id pub-id-type="doi">10.1063/1.4736578</pub-id>.</mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name name-style="western"><surname>Solanki</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Pandey</surname><given-names>C. M.</given-names></name>; <name name-style="western"><surname>Gupta</surname><given-names>R. K.</given-names></name>; <name name-style="western"><surname>Malhotra</surname><given-names>B. D.</given-names></name>
+<article-title>Emerging Trends
+in Microfluidics Based Devices</article-title>. <source>Biotechnol.
+J.</source>
+<year>2020</year>, <volume>15</volume>, <elocation-id>e1900279</elocation-id><pub-id pub-id-type="doi">10.1002/biot.201900279</pub-id>.<pub-id pub-id-type="pmid">32045505</pub-id></mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name name-style="western"><surname>Dolmaci</surname><given-names>N.</given-names></name>; <name name-style="western"><surname>Çete</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Arslan</surname><given-names>F.</given-names></name>; <name name-style="western"><surname>Yaşar</surname><given-names>A.</given-names></name>
+<article-title>An amperometric
+biosensor for fish freshness detection from xanthine oxidase immobilized
+in polypyrrole-polyvinylsulphonate film</article-title>. <source>Artif.
+Cell Blood Substit. Biotechnol.</source>
+<year>2012</year>, <volume>40</volume>, <fpage>275</fpage>–<lpage>279</lpage>. <pub-id pub-id-type="doi">10.3109/10731199.2011.646410</pub-id>.<pub-id pub-id-type="pmid">22248304</pub-id></mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name name-style="western"><surname>Thakur</surname><given-names>D.</given-names></name>; <name name-style="western"><surname>Pandey</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Kumar</surname><given-names>D.</given-names></name>
+<article-title>Highly Sensitive
+Enzymatic Biosensor
+Based on Polyaniline-Wrapped Titanium Dioxide Nanohybrid for Fish
+Freshness Detection</article-title>. <source>Appl. Biochem. Biotechnol.</source>
+<year>2022</year>, <volume>194</volume>, <fpage>3765</fpage>–<lpage>3778</lpage>. <pub-id pub-id-type="doi">10.1007/s12010-022-03931-7</pub-id>.<pub-id pub-id-type="pmid">35522361</pub-id></mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name name-style="western"><surname>Görgülü</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Çete</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Arslan</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Yaşar</surname><given-names>A.</given-names></name>
+<article-title>Preparing
+a new biosensor for hypoxanthine determination by immobilization of
+xanthine oxidase and uricase in polypyrrole-polyvinyl sulphonate film</article-title>. <source>Artif. Cell Nanomed. Biotechnol.</source>
+<year>2013</year>, <volume>41</volume>, <fpage>327</fpage>–<lpage>331</lpage>. <pub-id pub-id-type="doi">10.3109/21691401.2012.744993</pub-id>.<pub-id pub-id-type="pmid">23305069</pub-id></mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name name-style="western"><surname>Erol</surname><given-names>E.</given-names></name>; <name name-style="western"><surname>Yildirim</surname><given-names>E.</given-names></name>; <name name-style="western"><surname>Cete</surname><given-names>S.</given-names></name>
+<article-title>Construction of biosensor
+for hypoxanthine
+determination by immobilization of xanthine oxidase and uricase in
+polypyrrole-paratoluenesulfonate film</article-title>. <source>J. Solid
+State Electrochem.</source>
+<year>2020</year>, <volume>24</volume>, <fpage>1695</fpage>–<lpage>1707</lpage>. <pub-id pub-id-type="doi">10.1007/s10008-020-04715-x</pub-id>.</mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name name-style="western"><surname>Zhang</surname><given-names>L.</given-names></name>; <name name-style="western"><surname>Lei</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Zhang</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Ding</surname><given-names>L.</given-names></name>; <name name-style="western"><surname>Ju</surname><given-names>H.</given-names></name>
+<article-title>Amperometric detection
+of hypoxanthine and xanthine by enzymatic amplification using a gold
+nanoparticles–carbon nanohorn hybrid as the carrier</article-title>. <source>Analyst</source>
+<year>2012</year>, <volume>137</volume>, <fpage>3126</fpage>–<lpage>3131</lpage>. <pub-id pub-id-type="doi">10.1039/c2an35284b</pub-id>.<pub-id pub-id-type="pmid">22624146</pub-id></mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name name-style="western"><surname>Dervisevic</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Custiuc</surname><given-names>E.</given-names></name>; <name name-style="western"><surname>Çevik</surname><given-names>E.</given-names></name>; <name name-style="western"><surname>Şenel</surname><given-names>M.</given-names></name>
+<article-title>Construction
+of novel xanthine biosensor by using polymeric mediator/MWCNT nanocomposite
+layer for fish freshness detection</article-title>. <source>Food Chem.</source>
+<year>2015</year>, <volume>181</volume>, <fpage>277</fpage>–<lpage>283</lpage>. <pub-id pub-id-type="doi">10.1016/j.foodchem.2015.02.104</pub-id>.<pub-id pub-id-type="pmid">25794751</pub-id></mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name name-style="western"><surname>Dervisevic</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Custiuc</surname><given-names>E.</given-names></name>; <name name-style="western"><surname>Çevik</surname><given-names>E.</given-names></name>; <name name-style="western"><surname>Durmus</surname><given-names>Z.</given-names></name>; <name name-style="western"><surname>Şenel</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Durmus</surname><given-names>A.</given-names></name>
+<article-title>Electrochemical biosensor
+based on REGO/Fe3O4 bionanocomposite
+interface for xanthine detection in fish sample</article-title>. <source>Food Control</source>
+<year>2015</year>, <volume>57</volume>, <fpage>402</fpage>–<lpage>410</lpage>. <pub-id pub-id-type="doi">10.1016/j.foodcont.2015.05.001</pub-id>.</mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name name-style="western"><surname>Dervisevic</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Dervisevic</surname><given-names>E.</given-names></name>; <name name-style="western"><surname>Azak</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Çevik</surname><given-names>E.</given-names></name>; <name name-style="western"><surname>Şenel</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Yildiz</surname><given-names>H. B.</given-names></name>
+<article-title>Novel amperometric xanthine biosensor
+based on xanthine oxidase immobilized on electrochemically polymerized
+10-[4H-dithieno(3,2-b:2′,3′-d)pyrrole-4-yl]decane-1-amine
+film</article-title>. <source>Sens. Actuators, B</source>
+<year>2016</year>, <volume>225</volume>, <fpage>181</fpage>–<lpage>187</lpage>. <pub-id pub-id-type="doi">10.1016/j.snb.2015.11.043</pub-id>.</mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name name-style="western"><surname>Malhotra</surname><given-names>D.</given-names></name>; <name name-style="western"><surname>Tran</surname><given-names>P. K. L.</given-names></name>; <name name-style="western"><surname>Tran</surname><given-names>D. T.</given-names></name>; <name name-style="western"><surname>Kim</surname><given-names>N. H.</given-names></name>; <name name-style="western"><surname>Lee</surname><given-names>J. H.</given-names></name>
+<article-title>Cobalt-doped
+cerium oxide nanocrystals shelled 1D SnO2 structures for highly sensitive
+and selective xanthine detection in biofluids</article-title>. <source>J. Colloid Interface Sci.</source>
+<year>2021</year>, <volume>600</volume>, <fpage>299</fpage>–<lpage>309</lpage>. <pub-id pub-id-type="doi">10.1016/j.jcis.2021.05.024</pub-id>.<pub-id pub-id-type="pmid">34022726</pub-id></mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name name-style="western"><surname>Wang</surname><given-names>Z.</given-names></name>; <name name-style="western"><surname>Liao</surname><given-names>F.</given-names></name>; <name name-style="western"><surname>Yang</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Guo</surname><given-names>T.</given-names></name>
+<article-title>A Novel Route Synthesis
+of Poly(ortho-phenylenediamine) Fluffy Microspheres Self-assembled
+from Nanospheres</article-title>. <source>Fibers Polym.</source>
+<year>2011</year>, <volume>12</volume>, <fpage>997</fpage>–<lpage>1001</lpage>. <pub-id pub-id-type="doi">10.1007/s12221-011-0997-0</pub-id>.</mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name name-style="western"><surname>Rashidizadeh</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Ghafuri</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Esmaili
+Zand</surname><given-names>H. R.</given-names></name>; <name name-style="western"><surname>Goodarzi</surname><given-names>N.</given-names></name>
+<article-title>Graphitic Carbon Nitride
+Nanosheets Covalently Functionalized with Biocompatible Vitamin B1:
+Synthesis, Characterization, and Its Superior Performance for Synthesis
+of Quinoxalines</article-title>. <source>ACS Omega</source>
+<year>2019</year>, <volume>4</volume>, <fpage>12544</fpage>–<lpage>12554</lpage>. <pub-id pub-id-type="doi">10.1021/acsomega.9b01635</pub-id>.<pub-id pub-id-type="pmid">31460374</pub-id><pub-id pub-id-type="pmcid">PMC6682066</pub-id></mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name name-style="western"><surname>Cao</surname><given-names>J.-L.</given-names></name>; <name name-style="western"><surname>Qin</surname><given-names>Q.</given-names></name>; <name name-style="western"><surname>Wang</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Zhang</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Sun</surname><given-names>G.</given-names></name>; <name name-style="western"><surname>Zhang</surname><given-names>Z.</given-names></name>
+<article-title>Solid-State
+Method Synthesis of SnO2-Decorated g-C3N4 Nanocomposites with Enhanced
+Gas-Sensing Property to Ethanol</article-title>. <source>Materials</source>
+<year>2017</year>, <volume>10</volume>, <fpage>604</fpage><pub-id pub-id-type="doi">10.3390/ma10060604</pub-id>.<pub-id pub-id-type="pmid">28772960</pub-id><pub-id pub-id-type="pmcid">PMC5553421</pub-id></mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name name-style="western"><surname>Shcherban</surname><given-names>N.</given-names></name>; <name name-style="western"><surname>Mäki-Arvela</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Aho</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Sergiienko</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Yaremov</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Eränen</surname><given-names>K.</given-names></name>; <name name-style="western"><surname>Murzin</surname><given-names>D.</given-names></name>
+<article-title>Melamine-derived graphitic
+carbon nitride as a new effective metal-free catalyst for Knoevenagel
+condensation of benzaldehyde with ethylcyanoacetate</article-title>. <source>Catal. Sci. Technol.</source>
+<year>2018</year>, <volume>8</volume>, <fpage>2928</fpage>–<lpage>2937</lpage>. <pub-id pub-id-type="doi">10.1039/c8cy00253c</pub-id>.</mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name name-style="western"><surname>Elshafie</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Younis</surname><given-names>S. A.</given-names></name>; <name name-style="western"><surname>Serp</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Gad</surname><given-names>E. A. M.</given-names></name>
+<article-title>Preparation characterization
+and non-isothermal decomposition kinetics of different carbon nitride
+sheets</article-title>. <source>Egypt. J. Pet.</source>
+<year>2020</year>, <volume>29</volume>, <fpage>21</fpage>–<lpage>29</lpage>. <pub-id pub-id-type="doi">10.1016/j.ejpe.2019.09.003</pub-id>.</mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name name-style="western"><surname>Paulraj</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Manikandan</surname><given-names>D.</given-names></name>; <name name-style="western"><surname>Manikandan</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Pandian</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Moodley</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Roro</surname><given-names>K.</given-names></name>; <name name-style="western"><surname>Murugan</surname><given-names>K.</given-names></name>
+<article-title>Solid-State
+Synthesis of POPD@AgNPs
+Nanocomposites for Electrochemical Sensors</article-title>. <source>J. Nanosci. Nanotechnol.</source>
+<year>2018</year>, <volume>18</volume>, <fpage>3991</fpage>–<lpage>3999</lpage>. <pub-id pub-id-type="doi">10.1166/jnn.2018.15219</pub-id>.<pub-id pub-id-type="pmid">29442735</pub-id></mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name name-style="western"><surname>Pareek</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Quamara</surname><given-names>J.</given-names></name>
+<article-title>Dielectric and optical properties of graphitic carbon
+nitride–titanium dioxide nanocomposite with enhanced charge
+sepaeration</article-title>. <source>J. Mater. Sci.</source>
+<year>2018</year>, <volume>53</volume>, <fpage>604</fpage>–<lpage>612</lpage>. <pub-id pub-id-type="doi">10.1007/s10853-017-1506-7</pub-id>.</mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name name-style="western"><surname>Soni</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Pandey</surname><given-names>C. M.</given-names></name>; <name name-style="western"><surname>Pandey</surname><given-names>M. K.</given-names></name>; <name name-style="western"><surname>Sumana</surname><given-names>G.</given-names></name>
+<article-title>Highly efficient
+Polyaniline-MoS<sub>2</sub> hybrid nanostructures based biosensor
+for cancer biomarker
+detection</article-title>. <source>Anal. Chim. Acta</source>
+<year>2019</year>, <volume>1055</volume>, <fpage>26</fpage>–<lpage>35</lpage>. <pub-id pub-id-type="doi">10.1016/j.aca.2018.12.033</pub-id>.<pub-id pub-id-type="pmid">30782367</pub-id></mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="journal" id="cit37"><name name-style="western"><surname>Abaci</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Nessark</surname><given-names>B.</given-names></name>; <name name-style="western"><surname>Riahi</surname><given-names>F.</given-names></name>
+<article-title>Preparation and characterization
+of polyaniline+TiO2 composite films</article-title>. <source>Ionics</source>
+<year>2014</year>, <volume>20</volume>, <fpage>1693</fpage>–<lpage>1702</lpage>. <pub-id pub-id-type="doi">10.1007/s11581-014-1129-9</pub-id>.</mixed-citation></ref><ref id="ref38"><mixed-citation publication-type="journal" id="cit38"><name name-style="western"><surname>Elgrishi</surname><given-names>N.</given-names></name>; <name name-style="western"><surname>Rountree</surname><given-names>K. J.</given-names></name>; <name name-style="western"><surname>McCarthy</surname><given-names>B. D.</given-names></name>; <name name-style="western"><surname>Rountree</surname><given-names>E. S.</given-names></name>; <name name-style="western"><surname>Eisenhart</surname><given-names>T. T.</given-names></name>; <name name-style="western"><surname>Dempsey</surname><given-names>J. L.</given-names></name>
+<article-title>A Practical Beginner’s
+Guide to Cyclic Voltammetry</article-title>. <source>J. Chem. Educ.</source>
+<year>2018</year>, <volume>95</volume>, <fpage>197</fpage>–<lpage>206</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jchemed.7b00361</pub-id>.</mixed-citation></ref><ref id="ref39"><mixed-citation publication-type="journal" id="cit39"><name name-style="western"><surname>Laviron</surname><given-names>E.</given-names></name>
+<article-title>General expression
+of the linear potential sweep voltammogram in the case of diffusionless
+electrochemical systems</article-title>. <source>J. Electroanal. Chem.
+Interfacial Electrochem.</source>
+<year>1979</year>, <volume>101</volume>, <fpage>19</fpage>–<lpage>28</lpage>. <pub-id pub-id-type="doi">10.1016/s0022-0728(79)80075-3</pub-id>.</mixed-citation></ref><ref id="ref40"><mixed-citation publication-type="journal" id="cit40"><name name-style="western"><surname>Sen</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Sarkar</surname><given-names>P.</given-names></name>
+<article-title>An interference-free
+new xanthine biosensor based on
+immobilized enzyme-nanogold conjugate on carbon nanotube doped poly(3,4-Ethylenedioxythiophene)
+composite film</article-title>. <source>Int. J. Biol. Macromol.</source>
+<year>2022</year>, <volume>199</volume>, <fpage>275</fpage>–<lpage>286</lpage>. <pub-id pub-id-type="doi">10.1016/j.ijbiomac.2021.12.094</pub-id>.<pub-id pub-id-type="pmid">34998885</pub-id></mixed-citation></ref><ref id="ref41"><mixed-citation publication-type="journal" id="cit41"><name name-style="western"><surname>Joon</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Ahlawat</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Aggarwal</surname><given-names>V.</given-names></name>; <name name-style="western"><surname>Jaiwal</surname><given-names>R.</given-names></name>; <name name-style="western"><surname>Pundir</surname><given-names>C. S.</given-names></name>
+<article-title>An improved
+amperometric determination of xanthine with xanthine oxidase nanoparticles
+for testing of fish meat freshness</article-title>. <source>Sens. Bio-Sens.
+Res.</source>
+<year>2021</year>, <volume>33</volume>, <fpage>100437</fpage><pub-id pub-id-type="doi">10.1016/j.sbsr.2021.100437</pub-id>.</mixed-citation></ref><ref id="ref42"><mixed-citation publication-type="journal" id="cit42"><name name-style="western"><surname>Yazdanparast</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Benvidi</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Abbasi</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Rezaeinasab</surname><given-names>M.</given-names></name>
+<article-title>Enzyme-based
+ultrasensitive electrochemical biosensor using poly(l-aspartic acid)/MWCNT
+bio-nanocomposite for xanthine detection: A meat freshness marker</article-title>. <source>Microchem. J.</source>
+<year>2019</year>, <volume>149</volume>, <fpage>104000</fpage><pub-id pub-id-type="doi">10.1016/j.microc.2019.104000</pub-id>.</mixed-citation></ref><ref id="ref43"><mixed-citation publication-type="journal" id="cit43"><name name-style="western"><surname>Devi</surname><given-names>R.</given-names></name>; <name name-style="western"><surname>Yadav</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Pundir</surname><given-names>C. S.</given-names></name>
+<article-title>Amperometric
+determination of xanthine
+in fish meat by zinc oxide nanoparticle/chitosan/multiwalled carbon
+nanotube/polyaniline composite film bound xanthine oxidase</article-title>. <source>Analyst</source>
+<year>2012</year>, <volume>137</volume>, <fpage>754</fpage>–<lpage>759</lpage>. <pub-id pub-id-type="doi">10.1039/c1an15838d</pub-id>.<pub-id pub-id-type="pmid">22135777</pub-id></mixed-citation></ref><ref id="ref44"><mixed-citation publication-type="journal" id="cit44"><name name-style="western"><surname>Devi</surname><given-names>R.</given-names></name>; <name name-style="western"><surname>Yadav</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Pundir</surname><given-names>C. S.</given-names></name>
+<article-title>Au-colloids–polypyrrole
+nanocomposite
+film based xanthine biosensor</article-title>. <source>Colloids Surf.,
+A</source>
+<year>2012</year>, <volume>394</volume>, <fpage>38</fpage>–<lpage>45</lpage>. <pub-id pub-id-type="doi">10.1016/j.colsurfa.2011.11.021</pub-id>.</mixed-citation></ref><ref id="ref45"><mixed-citation publication-type="journal" id="cit45"><name name-style="western"><surname>Dervisevic</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Dervisevic</surname><given-names>E.</given-names></name>; <name name-style="western"><surname>Çevik</surname><given-names>E.</given-names></name>; <name name-style="western"><surname>Şenel</surname><given-names>M.</given-names></name>
+<article-title>Novel electrochemical
+xanthine biosensor based on chitosan–polypyrrole–gold
+nanoparticles hybrid bio-nanocomposite platform</article-title>. <source>J. Food Drug Anal.</source>
+<year>2017</year>, <volume>25</volume>, <fpage>510</fpage>–<lpage>519</lpage>. <pub-id pub-id-type="doi">10.1016/j.jfda.2016.12.005</pub-id>.<pub-id pub-id-type="pmid">28911636</pub-id><pub-id pub-id-type="pmcid">PMC9328835</pub-id></mixed-citation></ref><ref id="ref46"><mixed-citation publication-type="journal" id="cit46"><name name-style="western"><surname>Rahman</surname><given-names>M. A.</given-names></name>; <name name-style="western"><surname>Won</surname><given-names>M.-S.</given-names></name>; <name name-style="western"><surname>Shim</surname><given-names>Y.-B.</given-names></name>
+<article-title>Xanthine
+Sensors Based on Anodic
+and Cathodic Detection of Enzymatically Generated Hydrogen Peroxide</article-title>. <source>Electroanalysis</source>
+<year>2007</year>, <volume>19</volume>, <fpage>631</fpage>–<lpage>637</lpage>. <pub-id pub-id-type="doi">10.1002/elan.200603799</pub-id>.</mixed-citation></ref><ref id="ref47"><mixed-citation publication-type="journal" id="cit47"><name name-style="western"><surname>Rajkumar</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Kim</surname><given-names>H.</given-names></name>
+<article-title>Hybrid nanostructures
+of Pd–WO3 grown on graphitic carbon
+nitride for trace level electrochemical detection of paraoxon-ethyl</article-title>. <source>Microchim. Acta</source>
+<year>2021</year>, <volume>188</volume>, <fpage>233</fpage><pub-id pub-id-type="doi">10.1007/s00604-021-04866-2</pub-id>.<pub-id pub-id-type="pmid">34145512</pub-id></mixed-citation></ref></ref-list></back></article>

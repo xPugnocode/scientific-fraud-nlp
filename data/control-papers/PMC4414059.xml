@@ -1,0 +1,476 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article article-type="research-article" xml:lang="en" dtd-version="1.4"><front><journal-meta><journal-id journal-id-type="nlm-ta">PLoS One</journal-id><journal-id journal-id-type="iso-abbrev">PLoS ONE</journal-id><journal-id journal-id-type="pmc-domain-id">440</journal-id><journal-id journal-id-type="pmc-domain">plosone</journal-id><journal-id journal-id-type="nlm-id">101285081</journal-id><journal-id journal-id-type="publisher-id">plos</journal-id><journal-title-group><journal-title>PLoS ONE</journal-title></journal-title-group><issn pub-type="epub">1932-6203</issn><publisher><publisher-name>PLOS</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC4414059</article-id><article-id pub-id-type="pmcid-ver">PMC4414059.1</article-id><article-id pub-id-type="pmcaid">4414059</article-id><article-id pub-id-type="pmcaiid">4414059</article-id><article-id pub-id-type="pmid">25919756</article-id><article-id pub-id-type="doi">10.1371/journal.pone.0123564</article-id><article-id pub-id-type="publisher-id">PONE-D-14-56526</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Structural Variabilities in β-Lactamase (blaA) of Different
+Biovars of Yersinia enterocolitica: Implications for β-Lactam Antibiotic
+and β-Lactamase Inhibitor Susceptibilities</article-title><alt-title alt-title-type="running-head">Structural Variabilities in
+β-Lactamases of Y. enterocolitica Biovars</alt-title></title-group><contrib-group><contrib contrib-type="author"><name name-style="western"><surname>Singhal</surname><given-names initials="N">Neelja</given-names></name><xref ref-type="aff" rid="aff001">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Srivastava</surname><given-names initials="A">Abhishikha</given-names></name><xref ref-type="aff" rid="aff002">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Kumar</surname><given-names initials="M">Manish</given-names></name><xref ref-type="aff" rid="aff002">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Virdi</surname><given-names initials="JS">Jugsharan Singh</given-names></name><xref ref-type="aff" rid="aff001">
+<sup>1</sup>
+</xref><xref rid="cor001" ref-type="corresp">*</xref></contrib></contrib-group><aff id="aff001">
+<label>1</label>
+<addr-line>Department of Microbiology, University of Delhi South Campus, Benito
+Juarez Road, New Delhi, India</addr-line>
+</aff><aff id="aff002">
+<label>2</label>
+<addr-line>Department of Biophysics, University of Delhi South Campus, Benito Juarez
+Road, New Delhi, India</addr-line>
+</aff><contrib-group><contrib contrib-type="editor"><name name-style="western"><surname>Salsbury , Jr</surname><given-names initials="F">Freddie</given-names></name><role>Academic Editor</role><xref ref-type="aff" rid="edit1"/></contrib></contrib-group><aff id="edit1">
+<addr-line>Wake Forest University, UNITED STATES</addr-line>
+</aff><author-notes><fn fn-type="COI-statement" id="coi001"><p><bold>Competing Interests: </bold>The authors have declared that no competing interests exist.</p></fn><fn fn-type="con" id="contrib001"><p>Conceived and designed the experiments: NS JSV. Performed the experiments: NS
+AS MK. Analyzed the data: NS MK JSV. Wrote the paper: NS MK JSV.</p></fn><corresp id="cor001">* E-mail: <email>virdi_dusc@rediffmail.com</email></corresp></author-notes><pub-date pub-type="epub"><day>28</day><month>4</month><year>2015</year></pub-date><pub-date pub-type="collection"><year>2015</year></pub-date><volume>10</volume><issue>4</issue><issue-id pub-id-type="pmc-issue-id">251292</issue-id><elocation-id>e0123564</elocation-id><history><date date-type="received"><day>17</day><month>12</month><year>2014</year></date><date date-type="accepted"><day>5</day><month>3</month><year>2015</year></date></history><pub-history><event event-type="pmc-release"><date><day>28</day><month>04</month><year>2015</year></date></event><event event-type="pmc-live"><date><day>12</day><month>05</month><year>2015</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2023-07-08 22:25:09.493"><day>08</day><month>07</month><year>2023</year></date></event></pub-history><permissions><copyright-statement>© 2015 Singhal et al</copyright-statement><copyright-year>2015</copyright-year><copyright-holder>Singhal et al</copyright-holder><license xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://creativecommons.org/licenses/by/4.0/"><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are properly credited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="pone.0123564.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="pone.0123564.pdf"/><abstract><p>Yersiniosis caused by <italic toggle="yes">Yersinia enterocolitica</italic> has been reported
+from all continents. The bacterial species is divided into more than fifty
+serovars and six biovars <italic toggle="yes">viz</italic>. 1A, 1B, 2, 3, 4 and 5 which
+differ in geographical distribution, ecological niches and pathogenicity. Most
+<italic toggle="yes">Y</italic>.<italic toggle="yes">enterocolitica</italic> strains harbor
+chromosomal genes for two β-lactamases, <italic toggle="yes">bla</italic>A an Ambler
+class A penicillinase and <italic toggle="yes">bla</italic>B an Ambler class C inducible
+cephalosporinase. In the present study, susceptibility to b-lactam antibiotics
+and β-lactamase inhibitor was studied for <italic toggle="yes">Y</italic>.
+<italic toggle="yes">enterocolitica</italic> strains of biovars 1A, 1B, 2 and 4. We
+observed that β-lactamases were expressed differentially among strains of
+different biovars. To understand the molecular mechanisms underlying such
+differential expression, the sequences of genes and promoters of
+<italic toggle="yes">bla</italic>A were compared. Also, the variants of blaA present in
+different biovars were modeled and docked with amoxicillin and clavulanic acid.
+The mRNA secondary structures of blaA variants were also predicted
+<italic toggle="yes">in-silico</italic>. Our findings indicated that neither variations
+in the promoter regions, nor the secondary structures of mRNA contributed to
+higher/lower expression of blaA in different biovars. Analysis of H-bonding
+residues of blaA variants with amoxicillin and clavulanic acid revealed that if
+amino acid residues of a β-lactamase interacting with amoxicillin and the
+clavulanic acid were similar, clavulanic acid was effective in engaging the
+enzyme, accounting for a significant reduction in MIC of
+amoxicillin-clavulanate. This finding might aid in designing better
+β-lactamase inhibitors with improved efficiencies in future.</p></abstract><funding-group><funding-statement>Neelja Singhal is supported by UGC-Dr. D. S. Kothari Postdoctoral
+Fellowship. Abhishikha Srivastava was supported by Indian Council of Medical
+Research grant (Grant no. AMR/17/2011-ECD-1). The project was supported by
+Indian Council of Medical Research grant (Grant no. AMR/17/2011-ECD-1),
+DU-DST-PURSE grant and the UGC-Special Assistance Programme (DRS-I) to the
+Department of Microbiology, University of Delhi South Campus. The funders had no
+role in study design, data collection and analysis, decision to publish, or
+preparation of the manuscript.</funding-statement></funding-group><counts><fig-count count="4"/><table-count count="3"/><page-count count="10"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta id="data-availability"><meta-name>Data Availability</meta-name><meta-value>All relevant data are within the paper.</meta-value></custom-meta></custom-meta-group></article-meta><notes><title>Data Availability</title><p>All relevant data are within the paper.</p></notes></front><body><sec sec-type="intro" id="sec001"><title>Introduction</title><p>
+<italic toggle="yes">Yersinia enterocolitica</italic>, the causative agent for Yersiniosis has
+been reported from all continents, but is most common in Europe. It is represented
+by more than fifty serovars and six biovars <italic toggle="yes">viz</italic>. 1A, 1B, 2, 3, 4
+and 5 which differ in their geographical distribution, ecological niche and
+pathogenic potential [<xref rid="pone.0123564.ref001" ref-type="bibr">1</xref>].
+Most <italic toggle="yes">Y</italic>.<italic toggle="yes">enterocolitica</italic> strains harbor chromosomal
+genes for two β-lactamases—<italic toggle="yes">bla</italic>A, a constitutively
+expressed Ambler class A penicillinase and <italic toggle="yes">bla</italic>B, an Ambler class C
+inducible cephalosporinase [<xref rid="pone.0123564.ref002" ref-type="bibr">2</xref>]. Resistance in <italic toggle="yes">Y</italic>.<italic toggle="yes">enterocolitica</italic> against
+penicillins and cephalosporins is primarily due to blaA which is a constitutively
+expressed Ambler class-A β-lactamase [<xref rid="pone.0123564.ref003" ref-type="bibr">3</xref>]. As in other enteric bacteria, resistance to
+β-lactams has become common in
+<italic toggle="yes">Y</italic>.<italic toggle="yes">enterocolitica</italic>. A very successful strategy
+to overcome β-lactamase mediated resistance and restore the efficacy of
+β-lactams has been to use inhibitors of β-lactamases like clavulanic
+acid, sulbactam and tazobactam. Inhibitors form stable intermediates with
+β-lactamases, ‘tying up’ the enzymes, while the partner-lactam
+inhibited the drug target in the bacterial cell
+<italic toggle="yes">i</italic>.<italic toggle="yes">e</italic> penicillin binding proteins. The
+β-lactam antibiotic/inhibitor combination, amoxicillin-clavulanate (AMC) is
+one of the most commonly used antimicrobials, for which an increase in resistance
+has been noted in recent years due to the acquisition of point mutations in
+β-lactamases [<xref rid="pone.0123564.ref004" ref-type="bibr">4</xref>].</p><p>Various factors might lead to differential β-lactam antibiotic/inhibitor
+susceptibility in bacterial cells, like point mutations in the β-lactamase
+gene, modifications in the promoters or regulatory regions of the gene, integration
+of insertion sequences containing efficient promoters <italic toggle="yes">etc</italic>. Yi et
+al. [<xref rid="pone.0123564.ref005" ref-type="bibr">5</xref>] reported that when
+<italic toggle="yes">Burkholderia thailandensis</italic> was grown in the presence of
+antibiotic, point mutations arose in the coding region of β-lactamases
+followed by mutation in the promoter region. Sarovich et al. [<xref rid="pone.0123564.ref006" ref-type="bibr">6</xref>] identified two
+single-nucleotide polymorphisms (SNPs)–one in the coding region near the
+active site and the other within the promoter region of β-lactamase gene
+(<italic toggle="yes">bla</italic>) that directly increased ceftazidime hydrolysis by
+<italic toggle="yes">Burkholderia pseudomallei</italic>.</p><p>The objective of the present study was to understand the molecular bases of
+differential β-lactam antibiotic and β-lactamase inhibitor
+susceptibility in <italic toggle="yes">Y</italic>. <italic toggle="yes">enterocolitica</italic> strains of
+different biovars. In pursuance of this, genes, promoters and secondary structures
+of mRNA of <italic toggle="yes">bla</italic>A of different biovars were analyzed. The three
+dimensional (3D) structures of blaA were modeled and docked with amoxicillin (AMX)
+and clavulanic acid to understand the relationship between amino acid substitutions
+in binding affinities of blaA for β-lactam/ β-lactamase inhibitor. Our
+findings indicated that variations in the promoter regions and secondary structures
+of mRNA were not responsible for higher/lower expression of blaA in different
+biovars. Docking studies revealed that if amino acid residues of a
+β-lactamase interacting with amoxicillin and the clavulanic acid were
+similar, clavulanic acid effectively engaged the enzyme, resulting in a significant
+reduction in MIC of amoxicillin-clavulanate.</p></sec><sec sec-type="materials|methods" id="sec002"><title>Materials and Methods</title><sec id="sec003"><title>Bacterial strains</title><p>Four clinical strains of <italic toggle="yes">Y</italic>. <italic toggle="yes">enterocolitica</italic>
+representing biovars 1A, 1B, 2 and 4 were examined. The details of the strains
+<italic toggle="yes">viz</italic>., biotype, serotype, laboratory accession numbers and
+country of origin are given in <xref rid="pone.0123564.t001" ref-type="table">Table 1</xref>. All strains were maintained on trypticase soy agar at
+4°C.</p><table-wrap id="pone.0123564.t001" orientation="portrait" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0123564.t001</object-id><label>Table 1</label><caption><title>MIC of β-lactam antibiotics for <italic toggle="yes">Y</italic>.
+<italic toggle="yes">enterocolitica</italic> biovar 1A, 1B, 2 &amp; 4
+strains.Strain designation.</title></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="pone.0123564.t001g" position="float" orientation="portrait" xlink:href="pone.0123564.t001.jpg"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" valign="middle" span="1"/><col align="left" valign="middle" span="1"/><col align="left" valign="middle" span="1"/><col align="left" valign="middle" span="1"/><col align="left" valign="middle" span="1"/><col align="left" valign="middle" span="1"/><col align="left" valign="middle" span="1"/><col align="left" valign="middle" span="1"/><col align="left" valign="middle" span="1"/></colgroup><thead><tr><th align="left" rowspan="1" colspan="1">n</th><th align="left" rowspan="1" colspan="1">Source (country of origin)</th><th align="left" rowspan="1" colspan="1">Biovar</th><th align="left" rowspan="1" colspan="1">Serotype</th><th align="left" rowspan="1" colspan="1">AMX(mg/L)</th><th align="left" rowspan="1" colspan="1">AMC(mg/L)</th><th align="left" rowspan="1" colspan="1">FOX(mg/L)</th><th align="left" rowspan="1" colspan="1">CPD (mg/L)</th><th align="left" rowspan="1" colspan="1">CTX(mg/L)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Y. e strainC760</td><td align="left" rowspan="1" colspan="1">Clinical (India)</td><td align="left" rowspan="1" colspan="1">1A</td><td align="left" rowspan="1" colspan="1">O:6,30</td><td align="left" rowspan="1" colspan="1">&gt;256(R)</td><td align="left" rowspan="1" colspan="1">&gt;256(R)</td><td align="left" rowspan="1" colspan="1">4(S)</td><td align="left" rowspan="1" colspan="1">1(S)</td><td align="left" rowspan="1" colspan="1">0.064(S)</td></tr><tr><td align="left" rowspan="1" colspan="1">Y. e strain 8081</td><td align="left" rowspan="1" colspan="1">Clinical (U.S.A)</td><td align="left" rowspan="1" colspan="1">1B</td><td align="left" rowspan="1" colspan="1">O:8</td><td align="left" rowspan="1" colspan="1">48(R)</td><td align="left" rowspan="1" colspan="1">16(I)</td><td align="left" rowspan="1" colspan="1">4(S)</td><td align="left" rowspan="1" colspan="1">4(I)</td><td align="left" rowspan="1" colspan="1">0.38(S)</td></tr><tr><td align="left" rowspan="1" colspan="1">Y. e strain <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="W22703">W22703</ext-link></td><td align="left" rowspan="1" colspan="1">Clinical (Europe)</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">O:9</td><td align="left" rowspan="1" colspan="1">32(R)</td><td align="left" rowspan="1" colspan="1">4(S)</td><td align="left" rowspan="1" colspan="1">1(S)</td><td align="left" rowspan="1" colspan="1">0.5(S)</td><td align="left" rowspan="1" colspan="1">0.032(S)</td></tr><tr><td align="left" rowspan="1" colspan="1">Y. e strain IP26332</td><td align="left" rowspan="1" colspan="1">Clinical (Europe)</td><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">O:3</td><td align="left" rowspan="1" colspan="1">48(R)</td><td align="left" rowspan="1" colspan="1">6(S)</td><td align="left" rowspan="1" colspan="1">3(S)</td><td align="left" rowspan="1" colspan="1">0.75(S)</td><td align="left" rowspan="1" colspan="1">0.064(S)</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="t001fn001"><p>AMX, amoxicillin; AMC, co-amoxiclav; FOX, cefoxitin, CPD,
+cefpodoxime; CTX, cefotaxime</p></fn><fn id="t001fn002"><p>Alphabet in parenthesis shows the drug susceptibility, R, resistant;
+I, intermediate; S, sensitive</p></fn></table-wrap-foot></table-wrap></sec><sec id="sec004"><title>Determination of the Minimal Inhibitory Concentration (MIC)</title><p>MICs of amoxicillin (AMX), amoxicillin-clavulanate (AMX), cefotaxime (CTX),
+cefoxitin (FOX) and cefpodoxime (CPD) for different strains of
+<italic toggle="yes">Y</italic>.<italic toggle="yes">enterocolitica</italic> were determined using
+E-test (bioMerieux Inc., MO, USA). The protocol followed has been described
+previously [<xref rid="pone.0123564.ref007" ref-type="bibr">7</xref>]. The MICs
+were interpreted as per the guidelines of Clinical Laboratory Standards
+Institute [<xref rid="pone.0123564.ref008" ref-type="bibr">8</xref>].</p></sec><sec id="sec005"><title>Preparation of genomic DNA</title><p>Bacteria were grown overnight in trypticase soy broth at 28°C. One ml of
+the bacterial culture was centrifuged at 8, 000 rpm for 10 min and the pellet
+was used for DNA extraction. The total genomic DNA was prepared using DNeasy
+Tissue kit (Qiagen, Hilden, Germany) according to the manufacturer’s
+instructions. Purified DNA was eluted in sterile water and quantitated
+spectrophotometrically at 260 nm.</p></sec><sec id="sec006"><title>PCR amplification of complete coding sequence (CCDS) of <italic toggle="yes">bla</italic>A
+gene</title><p>PCR amplification of complete coding sequence (CCDS) of <italic toggle="yes">bla</italic>A was
+carried out using published primers and protocol described earlier [<xref rid="pone.0123564.ref009" ref-type="bibr">9</xref>] using a My Cycler
+(Bio-Rad, CA, USA).</p></sec><sec id="sec007"><title>Selection of blaA of different biovars for homology modeling and validation
+of the protein model</title><p>The alignment of blaA of different biovars revealed that the amino acid sequence
+of strains of biovar 2 and 4 were identical. Aminoacid sequence of biovar 1A and
+biovar 1B strain was different from each other and from that of strains of
+biovars 2 and 4. Therefore, the amino acid sequence of strain of biovar 1A,
+biovar 1B and biovars 2 and 4 was selected for modeling and named as blaAx,
+blaAy and blaAz respectively. Since, the 3D structure of blaA of
+<italic toggle="yes">Y</italic>.<italic toggle="yes">enterocolitica</italic> is not known; these were
+predicted by homology modeling. The pair-wise alignment between the target and
+template sequences was performed with PDB-BLAST. The 3D structures of blaAx,
+blaAy and blaAz were built using MODELLER 9.12 (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://salilab.org/modeller/">http://salilab.org/modeller/</ext-link>). Of the twenty models built for
+each of the blaAx, blaAy and blaAz, the 3D model with the lowest modeler
+objective function was selected. The modeled structures were validated by
+PROCHECK and Verify3D [<xref rid="pone.0123564.ref010" ref-type="bibr">10</xref>–<xref rid="pone.0123564.ref011" ref-type="bibr">11</xref>].</p></sec><sec id="sec008"><title>Molecular docking</title><p>The modeled structures of blaAx, blaAy and blaAz were docked with AMX, and
+clavulanic acid to evaluate the effect of amino acid sequence substitutions on
+their binding affinity to β-lactam antibiotic AMX and β-lactamase
+inhibitor clavulanic acid using AutoDock Vina. The binding poses for each
+enzyme-ligand were determined and different poses were generated based on the
+total Dock score. The docking parameters and the procedure have been described
+previously [<xref rid="pone.0123564.ref006" ref-type="bibr">6</xref>]. Hydrogen
+bonding and hydrophobic interactions in the enzyme-ligand complex were analyzed
+by PyMOL [<xref rid="pone.0123564.ref012" ref-type="bibr">12</xref>].</p></sec><sec id="sec009"><title>Analysis of mRNA secondary structure</title><p>The mRNA secondary structures of blaA variants were predicted using the webserver
+mfold at default parameters (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://mfold.rna.albany.edu/">http://mfold.rna.albany.edu/</ext-link>). The mfold predicts the
+energetically favorable, optimal secondary structure of RNA based on physical
+parameters which affect RNA folding like pH, temperature and local biases in
+RNA.</p></sec><sec id="sec010"><title>PCR amplification of <italic toggle="yes">bla</italic>A gene including the promoter
+region</title><p>PCR amplification of partial CCDS of <italic toggle="yes">bla</italic>A gene along with the
+promoter region was performed in a My Cycler Thermal Cycler (Bio-Rad, CA, USA)
+using primers and protocol described previously [<xref rid="pone.0123564.ref007" ref-type="bibr">7</xref>]. The gels were stained with ethidium bromide
+(0.5μg/ml) and visualized under UV transilluminator.</p></sec><sec id="sec011"><title>Sequencing of CCDS of <italic toggle="yes">bla</italic>A along with its promoter</title><p>PCR amplicons representing CCDS and promoters of <italic toggle="yes">bla</italic>A were
+purified and sequenced following the published protocol [<xref rid="pone.0123564.ref007" ref-type="bibr">7</xref>]. The CCDSs of
+<italic toggle="yes">bla</italic>A of <italic toggle="yes">Y</italic>.<italic toggle="yes">enterocolitica</italic>
+were translated into their corresponding amino acid sequences using the software
+expasy (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.expasy.org/translate">www.expasy.org/translate</ext-link>). The amino acid sequences of blaA were
+aligned by Clustal Ώ. (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.ebi.uc.ak/clustal">http://www.ebi.uc.ak/clustal</ext-link> Ώ). Since the initial 30
+amino acids are signal sequences which are cleaved before the mature enzyme is
+released in the periplasmic space, these were excluded from comparative studies.
+The promoter regions of <italic toggle="yes">bla</italic>A were also aligned and compared by
+clustal Ώ.</p></sec></sec><sec id="sec012"><title>Results and Discussion</title><p>The E-test showed that <italic toggle="yes">Y</italic>.<italic toggle="yes">enterocolitica</italic> strains,
+irrespective of the biovar were sensitive to certain cephalosporins such as
+cefoxitin, cefpodoxime and cefotaxime. However, these were all resistant to AMX,
+though the level of resistance differed among strains of different biovars (<xref rid="pone.0123564.t001" ref-type="table">Table 1</xref>). The β-lactamase
+inhibitor, clavulanic acid reduced the MIC of AMC for biovars 1B, 2 and 4 strains
+differentially, indicating that blaA was not only heterogeneous, it might also be
+resistant to inhibitor, as observed in biovar 1A strain. Earlier studies reported
+that <italic toggle="yes">Y</italic>.<italic toggle="yes">enterocolitica</italic> strains of bioserovars 2/O:
+9 were resistant to both ampicillin and AMX but that of 4/O: 3 and 1B/O:8 though
+resistant to ampicillin were sensitive to AMX [<xref rid="pone.0123564.ref013" ref-type="bibr">13</xref>]. However, we observed that strain of bioserovar 1B/O:
+8 though resistant to AMX showed intermediate susceptibility to AMC, while those of
+bioserovars 2/O: 9 and 4/O: 3 though resistant to AMX were sensitive to AMC.</p><p>The present study aimed at understanding the molecular mechanisms underlying such
+differential β-lactam antibiotic/inhibitor susceptibilities of
+<italic toggle="yes">Y</italic>.<italic toggle="yes">enterocolitica</italic> biovars 1A, IB, 2 and 4. To
+see, if variations in gene sequences of <italic toggle="yes">bla</italic>A were responsible for
+differential antibiotic/inhibitor susceptibilities, the amino acid sequences of blaA
+of different biovars were analyzed. The amplification of <italic toggle="yes">bla</italic>A gene
+using published primers [<xref rid="pone.0123564.ref009" ref-type="bibr">9</xref>]
+gave the desired product of 896 bp in strains of all biovars. The amino acid
+sequences of blaA of biovars 1A, 1B, 2 &amp; 4 were quite similar, except for
+variations in a few amino acids. The sites of variations in blaA of different
+biovars are shown (<xref rid="pone.0123564.g001" ref-type="fig">Fig 1</xref>, <xref rid="pone.0123564.t002" ref-type="table">Table 2</xref>). The amino acid
+sequence analysis revealed that no amino acid substitution was present in the four
+significant motifs conserved across class A β-lactamases. In majority of the
+amino acid substitutions, the chemical nature of the functional groups of the
+substituent and the substitute were similar thus, affecting the bulkiness of the
+side chain of the protein without affecting the enzyme-activity. On the other hand,
+substitution of certain amino acids like glutamate with alanine and arginine with
+leucine in biovars 1A and 1B might have affected the enzyme activity because the
+chemical nature of functional groups of the substituent and the substitute were
+different and the latter lies in the omega-loop region of blaA which constitutes the
+active site of the enzyme. Similarly, of the three amino acid substitutions observed
+in biovar 1B, only two might affect the enzyme activity due to difference in the
+chemical nature of the functional group of the substituent and the substitute.</p><fig id="pone.0123564.g001" orientation="portrait" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0123564.g001</object-id><label>Fig 1</label><caption><title>Multiple sequence alignment of the amino acid sequences of blaA from
+<italic toggle="yes">Y</italic>.<italic toggle="yes">enterocolitica</italic> biovar IA, 1B, 2 and
+4 strains. Amino acid substitutions are shown in bold.</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="pone.0123564.g001.jpg"/></fig><table-wrap id="pone.0123564.t002" orientation="portrait" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0123564.t002</object-id><label>Table 2</label><caption><title>Aminoacid substitutions in blaA of
+<italic toggle="yes">Y</italic>.<italic toggle="yes">enterocolitica</italic> of different
+biovars.</title></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="pone.0123564.t002g" position="float" orientation="portrait" xlink:href="pone.0123564.t002.jpg"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" valign="middle" span="1"/><col align="left" valign="middle" span="1"/><col align="left" valign="middle" span="1"/></colgroup><thead><tr><th align="left" rowspan="1" colspan="1">Sr. No.</th><th align="left" rowspan="1" colspan="1">Biovar</th><th align="left" rowspan="1" colspan="1">Amino acid change</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">Y</italic>.<italic toggle="yes">enterocolitica</italic>
+1A,1B</td><td align="left" rowspan="1" colspan="1">L31I</td></tr><tr><td align="left" rowspan="1" colspan="1">2.</td><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">Y</italic>.<italic toggle="yes">enterocolitica</italic>
+1A,1B</td><td align="left" rowspan="1" colspan="1">A33G</td></tr><tr><td align="left" rowspan="1" colspan="1">3.</td><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">Y</italic>.<italic toggle="yes">enterocolitica</italic>
+1A,1B</td><td align="left" rowspan="1" colspan="1">V35L</td></tr><tr><td align="left" rowspan="1" colspan="1">4.</td><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">Y</italic>.<italic toggle="yes">enterocolitica</italic>
+1A,1B</td><td align="left" rowspan="1" colspan="1">E41A</td></tr><tr><td align="left" rowspan="1" colspan="1">5.</td><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">Y</italic>.<italic toggle="yes">enterocolitica</italic>
+1A,1B</td><td align="left" rowspan="1" colspan="1">R44H</td></tr><tr><td align="left" rowspan="1" colspan="1">6.</td><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">Y</italic>.<italic toggle="yes">enterocolitica</italic>
+1A,1B</td><td align="left" rowspan="1" colspan="1">N45S</td></tr><tr><td align="left" rowspan="1" colspan="1">7.</td><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">Y</italic>.<italic toggle="yes">enterocolitica</italic>
+1A,1B</td><td align="left" rowspan="1" colspan="1">V52I</td></tr><tr><td align="left" rowspan="1" colspan="1">8.</td><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">Y</italic>.<italic toggle="yes">enterocolitica</italic>
+1A,1B</td><td align="left" rowspan="1" colspan="1">A67G</td></tr><tr><td align="left" rowspan="1" colspan="1">9.</td><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">Y</italic>.<italic toggle="yes">enterocolitica</italic>
+1A,1B</td><td align="left" rowspan="1" colspan="1">R178L</td></tr><tr><td align="left" rowspan="1" colspan="1">10.</td><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">Y</italic>.<italic toggle="yes">enterocolitica</italic>
+1A,1B</td><td align="left" rowspan="1" colspan="1">V214A</td></tr><tr><td align="left" rowspan="1" colspan="1">11.</td><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">Y</italic>.<italic toggle="yes">enterocolitica</italic>
+1A</td><td align="left" rowspan="1" colspan="1">Q69R</td></tr><tr><td align="left" rowspan="1" colspan="1">12.</td><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">Y</italic>.<italic toggle="yes">enterocolitica</italic>
+1A</td><td align="left" rowspan="1" colspan="1">D87G</td></tr><tr><td align="left" rowspan="1" colspan="1">13.</td><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">Y</italic>.<italic toggle="yes">enterocolitica</italic>
+1A</td><td align="left" rowspan="1" colspan="1">I144L</td></tr><tr><td align="left" rowspan="1" colspan="1">14.</td><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">Y</italic>.<italic toggle="yes">enterocolitica</italic>
+1A</td><td align="left" rowspan="1" colspan="1">M195I</td></tr><tr><td align="left" rowspan="1" colspan="1">15.</td><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">Y</italic>.<italic toggle="yes">enterocolitica</italic>
+1A</td><td align="left" rowspan="1" colspan="1">R205H</td></tr><tr><td align="left" rowspan="1" colspan="1">16.</td><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">Y</italic>.<italic toggle="yes">enterocolitica</italic>
+1A</td><td align="left" rowspan="1" colspan="1">A213T</td></tr><tr><td align="left" rowspan="1" colspan="1">17.</td><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">Y</italic>.<italic toggle="yes">enterocolitica</italic>
+1B</td><td align="left" rowspan="1" colspan="1">T57S</td></tr><tr><td align="left" rowspan="1" colspan="1">18.</td><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">Y</italic>.<italic toggle="yes">enterocolitica</italic>
+1B</td><td align="left" rowspan="1" colspan="1">N59A</td></tr><tr><td align="left" rowspan="1" colspan="1">19.</td><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">Y</italic>.<italic toggle="yes">enterocolitica</italic>
+1B</td><td align="left" rowspan="1" colspan="1">H120C</td></tr></tbody></table></alternatives></table-wrap><p>On the basis of similarities/differences in amino acid sequences, the three types of
+blaA detected in biovars 1A, 1B, 2 and 4 were named as blaAx, blaAy and blaAz. The
+3D modeling of the three blaA types was carried out as substitutions at sites other
+than active sites of the enzyme, might create local disturbances in the 3D structure
+and increase/decrease its conformational flexibility, thereby affecting substrate
+binding. The β-lactamase of <italic toggle="yes">Burkholderia multivorans</italic> (PDB
+code 3W4Q_A; Uniprot ID A9ANW2) was selected as the template protein for modeling
+due its high sequence similarity (85%), identity (64%) and low E-value
+(1e<sup>-115</sup>). PROCHECK validated the modeled blaA types of
+<italic toggle="yes">Y</italic>.<italic toggle="yes">enterocolitica</italic> showing approx. 90% of the
+residues in the most favored regions and only 1% in the disallowed regions in the
+Ramachandran contour plot. Verify3D profiles also showed that 90% region of the
+protein model of each blaA variant scored &gt; 0.2 which was highly
+significant.</p><p>
+<italic toggle="yes">In-silico</italic> docking of the blaA types with amoxicillin and clavulanic
+acid was carried out. Molecular interactions of the docked complexes of blaAx, blaAy
+and blaAz with amoxicillin and clavulanic acid are shown in <xref rid="pone.0123564.g002" ref-type="fig">Fig 2</xref>. The free energy of binding,
+estimated inhibition constant, hydrogen bond and hydrophobic interaction of
+amoxicillin and clavulanic acid with the blaA types were analyzed and the details
+are given in <xref rid="pone.0123564.t003" ref-type="table">Table 3</xref>. The
+negative low free energy of binding of docked complexes indicated high affinity of
+β-lactamases for both amoxicillin and clavulanic acid. It is well known that
+the inhibition constant (<italic toggle="yes">K</italic>
+<sub><italic toggle="yes">i</italic></sub>) which is
+equivalent to Michaelis constant (<italic toggle="yes">K</italic>
+<sub><italic toggle="yes">m</italic></sub>)
+indicates affinity of binding of enzyme-ligand complex. Lower the
+<italic toggle="yes">Ki</italic>, higher the affinity of β-lactamase for an
+antibiotic/inhibitor [<xref rid="pone.0123564.ref014" ref-type="bibr">14</xref>].
+Based on <italic toggle="yes">Ki</italic>, the blaA types interacted with amoxicillin in the
+following order: blaAx&gt;blaAy&gt;blaAz, indicating highest affinity of
+blaAx for amoxicillin, and predicting a greater hydrolysis of amoxicillin by blaAx.
+The number of residues of blaA involved in H-bonding with amoxicillin was in the
+following order: blaAx&gt;blaAy&gt;blaAz. More the number of residues
+involved in hydrogen bonding in an enzyme-ligand complex, greater is the binding
+affinity of enzyme for a ligand [<xref rid="pone.0123564.ref015" ref-type="bibr">15</xref>].This predicted highest binding affinity of blaAx for amoxicillin and
+a greater hydrolysis of amoxicillin by blaAx in
+<italic toggle="yes">Y</italic>.<italic toggle="yes">enterocolitica</italic> biovar 1A. In the present
+study, we observed that the MIC of amoxicillin for different blaA types was in the
+following order blaAx&gt;blaAy&gt;blaz. Thus, <italic toggle="yes">in-silico</italic>
+analysis predicted as well as explained the highest MIC for AMX as observed in case
+of <italic toggle="yes">Y</italic>.<italic toggle="yes">enterocolitica</italic> biovar 1A.</p><fig id="pone.0123564.g002" orientation="portrait" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0123564.g002</object-id><label>Fig 2</label><caption><title>Molecular docking analysis of the blaA variants of
+<italic toggle="yes">Y</italic>.<italic toggle="yes">enterocolitica</italic>. Molecular
+interactions of docked blaAx (A &amp; B), blaAy (C &amp; D), blaAz (E
+&amp; F) with amoxicillin and clavulanic acid respectively.</title><p>The two antibiotics are represented by stick and the interacting aminoacids
+are shown in dark color.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="pone.0123564.g002.jpg"/></fig><table-wrap id="pone.0123564.t003" orientation="portrait" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0123564.t003</object-id><label>Table 3</label><caption><title>Estimated inhibition constants, free energy of binding, H-bond
+interactions and hydrophobic interactions between amoxicillin and clavulanic
+acid with blaA types of
+<italic toggle="yes">Y</italic>.<italic toggle="yes">enterocolitica</italic>.</title></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="pone.0123564.t003g" position="float" orientation="portrait" xlink:href="pone.0123564.t003.jpg"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" valign="middle" span="1"/><col align="left" valign="middle" span="1"/><col align="left" valign="middle" span="1"/><col align="left" valign="middle" span="1"/></colgroup><thead><tr><th align="left" rowspan="1" colspan="1">blaA type</th><th align="left" rowspan="1" colspan="1">Estimated Inhibition Constant, Ki</th><th align="left" rowspan="1" colspan="1">Free Energy of Binding (kcal/mol)</th><th align="left" rowspan="1" colspan="1">Interacting Residues</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">blaAx_amoxicilin</td><td align="left" rowspan="1" colspan="1">4.31 uM</td><td align="char" char="." rowspan="1" colspan="1">-7.32</td><td align="left" rowspan="1" colspan="1">
+<bold>H-bonds</bold> (75S, 109S, 135S, 137N, 171E,
+242S, 279R); <bold>Hydrophobic interactions</bold> (78K, 110Y,
+134Y, 175N, 221T, 240T)</td></tr><tr><td align="left" rowspan="1" colspan="1">blax_clavulanic acid</td><td align="left" rowspan="1" colspan="1">392.7 uM</td><td align="char" char="." rowspan="1" colspan="1">-4.65</td><td align="left" rowspan="1" colspan="1">
+<bold>H-bonds</bold> (75S, 135S, 221T, 239K, 242S);
+<bold>Hydrophobic interactions</bold> (78K, 110Y, 134Y,
+137N, 240T, 241G)</td></tr><tr><td align="left" rowspan="1" colspan="1">blaAy_amoxicillin</td><td align="left" rowspan="1" colspan="1">5.97 uM</td><td align="char" char="." rowspan="1" colspan="1">-7.13</td><td align="left" rowspan="1" colspan="1">
+<bold>H-bonds</bold> (75S, 135S, 137N, 221T, 240T,
+242S); <bold>Hydrophobic interactions</bold> (78K, 109S, 110Y,
+171E, 172P, 175N, 241G, 243G)</td></tr><tr><td align="left" rowspan="1" colspan="1">blaAy_clavulanic acid</td><td align="left" rowspan="1" colspan="1">2540 uM</td><td align="char" char="." rowspan="1" colspan="1">-3.54</td><td align="left" rowspan="1" colspan="1">
+<bold>H-bonds</bold> (75S, 135S, 221T, 240T, 242S);
+<bold>Hydrophobic interactions</bold> (110Y, 134 Y, 137N,
+239K, 241G)</td></tr><tr><td align="left" rowspan="1" colspan="1">blaAz_amoxicillin</td><td align="left" rowspan="1" colspan="1">14.0 uM</td><td align="char" char="." rowspan="1" colspan="1">-6.62</td><td align="left" rowspan="1" colspan="1">
+<bold>H-bonds</bold> (75S, 135S, 137N, 242S);
+<bold>Hydrophobic interactions</bold> (78K, 108L, 109S,
+110Y, 171E, 172P, 175N, 221T, 243G)</td></tr><tr><td align="left" rowspan="1" colspan="1">blaAz_clavulanic acid</td><td align="left" rowspan="1" colspan="1">738.69 uM</td><td align="char" char="." rowspan="1" colspan="1">-4.27</td><td align="left" rowspan="1" colspan="1">
+<bold>H-bonds</bold> (75S, 135S, 239 K, 242S);
+<bold>Hydrophobic interactions</bold> (110Y, 137N, 221T,
+240T, 241G)</td></tr></tbody></table></alternatives></table-wrap><p>The number of residues which were involved in H-bond formation with clavulanic acid
+in different blaA types was in the following order: blaAx = blaAy&gt; blaAz. The
+<italic toggle="yes">Ki</italic> for blaA types and clavulanic acid was in the following
+order: blaAy&gt; blaAz&gt;blaAx. However, reduction in MIC brought by the
+AMX combination was in the order: blaAz&gt;blaAy&gt;blaAx. No co-relation
+was observed between the <italic toggle="yes">Ki</italic> or the number of H-bonds, and the MIC
+of different blaA variants. Since the concentration of the inhibitor (clavulanic
+acid) in each E-test strip was same, the anomalous behavior shown by clavulanic acid
+might be attributed to the differences in aminoacid sequence of each blaA type which
+resulted in a different set of residues participating in H-bonding with
+amoxicillin/clavulanic acid. When the H-bonding residues of blaAy with amoxicillin
+and clavulanic acid were compared, it was observed that interacting residues were
+same. Similarly, it was observed that the residues involved in H-bonding with
+amoxicillin and clavulanic acid in blaAz were similar, except threonine. However,
+analysis of interacting amino acids of blaAx showed that except for the catalytic
+serine at positions 75, 135 and 242, amino acid residues that H-bonded with
+amoxicillin or clavulanic acid were quite different. This implied that clavulanic
+acid was successful in inhibiting those β-lactamases whose H-bonding residues
+with clavulanic acid and amoxicillin were similar. This probably might have led to
+an inhibitor-resistant phenotype observed in blaAx of
+<italic toggle="yes">Y</italic>.<italic toggle="yes">enterocolitica</italic> biovar 1A.</p><p>Apart from variations in the amino acids, other confounding factors like secondary
+structure of mRNA, and/or mutations in the promoters of <italic toggle="yes">bla</italic>A genes
+might also influence antibiotic/inhibitor susceptibility of blaA types. Therefore
+the secondary structures of mRNA and promoter sequences of blaA types were also
+investigated. The mRNA secondary structure directly affects the rate of gene
+translation, and thus the enzyme activity. The mfold webserver predicted a similar
+free energy change (ΔG values) and similar mRNA secondary structure for the
+three blaA types (<xref rid="pone.0123564.g003" ref-type="fig">Fig 3</xref>). This
+implied that the mRNA secondary structure was not responsible for the observed
+increase in MIC of AMX and/or AMC in
+<italic toggle="yes">Y</italic>.<italic toggle="yes">enterocolitica</italic> biovar 1A. However,
+introduction of mutations that would change the secondary structure of the mRNA
+molecule are required further to validate this finding.</p><fig id="pone.0123564.g003" orientation="portrait" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0123564.g003</object-id><label>Fig 3</label><caption><title>The mRNA secondary structures of blaAx (A), blaAy (B) and blaAz (C)
+predicted by mfold based on complete coding sequences of different blaA
+variants of <italic toggle="yes">Y</italic>.<italic toggle="yes">enterocolitica</italic>.</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="pone.0123564.g003.jpg"/></fig><p>Mutations and insertions in the promoters of β-lactamase genes have also been
+reported to be associated with differential expression of β-lactamases [<xref rid="pone.0123564.ref005" ref-type="bibr">5</xref>]. Thus, the nucleotide
+sequences of promoters of <italic toggle="yes">bla</italic>A of strains of different biovars were
+analyzed. The sequence of the -10 box of all biovars, TATAAT was identical in all
+biovars and closely resembled the canonical <italic toggle="yes">E</italic>.<italic toggle="yes">coli</italic>
+promoter implying that the rate of transcription of <italic toggle="yes">bla</italic>A in
+<italic toggle="yes">Y</italic>.<italic toggle="yes">enterocolitica</italic> was quite high. It is well
+known that the sequences in the -35 and -10 regions or sometimes the spacer between
+these regions affect the transcription efficiency of bacterial promoters. Two single
+nucleotide substitutions were observed in the -35 region and three in the ribosomal
+binding region in biovars 1A and 1B (<xref rid="pone.0123564.g004" ref-type="fig">Fig 4</xref>). These substitutions might exert lesser influence on enzyme
+expression, as mutations in the -10 region rather than in -35 regions have been
+reported to be associated with drug resistance in several members of the family
+<italic toggle="yes">Enterobacteriaceae</italic> such as <italic toggle="yes">Klebsiella oxytoca</italic>
+[<xref rid="pone.0123564.ref016" ref-type="bibr">16</xref>]. However, this might
+be proved by comparison of blaA expression levels in strains of different biovars by
+quantitative PCR (QPCR). Moreover, these nucleotide substitutions might have not
+been responsible for higher expression of blaAx which was observed in biovar 1A
+strain because the same promoter sequence was present in blaAy which showed
+considerably lower MIC for AMX and AMC.</p><fig id="pone.0123564.g004" orientation="portrait" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0123564.g004</object-id><label>Fig 4</label><caption><title>Multiple sequence alignment of the promoter region of
+<italic toggle="yes">bla</italic>A of
+<italic toggle="yes">Y</italic>.<italic toggle="yes">enterocolitica</italic> biovar IA, 1B, 2 and
+4 strains.</title><p>The transcription start site (TSS), -10 and -30 regions are shown. The -10
+region was conserved but variations were observed in the -30 region.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="pone.0123564.g004.jpg"/></fig><p>In conclusion, this study showed that the β-lactam
+antibiotic/β-lactamase inhibitor susceptibility varied among strains of
+different biovars. Amino acid sequence comparison indicated that there was limited
+genetic heterogeneity in blaA of different biovars. Analysis of the secondary
+structures of mRNA of <italic toggle="yes">bla</italic>A variants and promoter sequences showed
+that these did not contribute to higher/lower expression of blaA in different
+biovars. <italic toggle="yes">In-silico</italic> studies though explained the observed high MIC
+of AMC, but could not explain the high MIC of AMX observed in
+<italic toggle="yes">Y</italic>.<italic toggle="yes">enterocolitica</italic> biovar 1A. Analysis of
+H-bonding residues of blaA variants with AMX and clavulanic acid revealed that if
+the interacting amino acid residues of β-lactamase with AMX and clavulanic
+acid were similar, the MIC of AMC reduced significantly. This also suggested that if
+the H-bonding residues of β-lactamase with antibiotic and inhibitor were
+similar, inhibitor was effective in engaging the enzyme, while the partner lactam
+antibiotic inhibited the drug target in the bacterial cell, eventually killing the
+bacteria. This information might serve as an important feature for designing better
+β-lactamase inhibitors in future. Further experiments on the effect of amino
+acid mutations on H-binding residues of blaA and their interaction with AMX and
+clavulanic acid are required to strengthen these findings.</p></sec></body><back><ack><p>We thank Mr. Rajesh Kumar Mahto for technical help. Neelja Singhal is supported by
+UGC-Dr. D. S. Kothari Postdoctoral Fellowship. Abhishikha Srivastava was supported
+by Indian Council of Medical Research grant (Grant no. AMR/17/2011-ECD-1). The
+project was supported by Indian Council of Medical Research grant (Grant no.
+AMR/17/2011-ECD-1), DU-DST-PURSE grant and the UGC-Special Assistance Programme
+(DRS-I) to the Department of Microbiology, University of Delhi South Campus.</p></ack><ref-list><title>References</title><ref id="pone.0123564.ref001"><label>1</label><mixed-citation publication-type="journal">
+<name name-style="western"><surname>Bottone</surname><given-names>EJ</given-names></name>. (<year>1999</year>) <article-title>
+<italic toggle="yes">Yersinia
+enterocolitica</italic>: overview and epidemiologic
+correlates</article-title>. <source>Microbes Infect</source>
+<volume>1</volume>: <fpage>323</fpage>–<lpage>330</lpage>.
+<pub-id pub-id-type="pmid">10602666</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s1286-4579(99)80028-8</pub-id></mixed-citation></ref><ref id="pone.0123564.ref002"><label>2</label><mixed-citation publication-type="journal">
+<name name-style="western"><surname>Pham</surname><given-names>JN</given-names></name>, <name name-style="western"><surname>Bell</surname><given-names>SM</given-names></name>, <name name-style="western"><surname>Lanzarone</surname><given-names>JYM</given-names></name>. (<year>1991</year>) <article-title>A study of the β-lactamases
+of 100 clinical isolates of <italic toggle="yes">Yersinia
+enterocolitica</italic>
+</article-title>. <source>J Antimicrob
+Chemother</source>
+<volume>28</volume>: <fpage>19</fpage>–<lpage>24</lpage>.
+<pub-id pub-id-type="pmid">1769940</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/jac/28.1.19</pub-id></mixed-citation></ref><ref id="pone.0123564.ref003"><label>3</label><mixed-citation publication-type="journal">
+<name name-style="western"><surname>Bent</surname><given-names>ZW</given-names></name>, <name name-style="western"><surname>Young</surname><given-names>GM</given-names></name>. (<year>2010</year>) <article-title>Contribution of BlaA and BlaB
+beta-lactamases to antibiotic susceptibility of <italic toggle="yes">Yersinia
+enterocolitica</italic> biovar 1B</article-title>. <source>Antimicrob.
+Agents Chemother</source>, <volume>54</volume>:
+<fpage>4000</fpage>–<lpage>4003</lpage>. <pub-id pub-id-type="doi">10.1128/AAC.01754-09</pub-id>
+<pub-id pub-id-type="pmid">20547799</pub-id><pub-id pub-id-type="pmcid">PMC2935026</pub-id></mixed-citation></ref><ref id="pone.0123564.ref004"><label>4</label><mixed-citation publication-type="journal">
+<name name-style="western"><surname>Bradford</surname><given-names>PA</given-names></name>. (<year>2001</year>) <article-title>What's new in
+beta-lactamases?</article-title>
+<source>Curr Infect Dis Rep</source>
+<volume>3</volume>: <fpage>13</fpage>–<lpage>19</lpage>.
+<pub-id pub-id-type="pmid">11177726</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s11908-001-0054-z</pub-id></mixed-citation></ref><ref id="pone.0123564.ref005"><label>5</label><mixed-citation publication-type="journal">
+<name name-style="western"><surname>Yi</surname><given-names>H</given-names></name>, <name name-style="western"><surname>Cho</surname><given-names>KH</given-names></name>, <name name-style="western"><surname>Cho</surname><given-names>YS</given-names></name>, <name name-style="western"><surname>Kim</surname><given-names>K</given-names></name>, <name name-style="western"><surname>Nierman</surname><given-names>WC</given-names></name>, <name name-style="western"><surname>Kim</surname><given-names>HS</given-names></name>. (<year>2012</year>). <article-title>Twelve positions in a
+β-lactamase that can expand its substrate spectrum with a single
+amino acid substitution</article-title>. <source>PLoS One</source>
+<volume>7</volume>: <fpage>e 37585</fpage>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0037585</pub-id>
+<pub-id pub-id-type="pmid">22629423</pub-id><pub-id pub-id-type="pmcid">PMC3358254</pub-id></mixed-citation></ref><ref id="pone.0123564.ref006"><label>6</label><mixed-citation publication-type="journal">
+<name name-style="western"><surname>Sarovich</surname><given-names>DS</given-names></name>, <name name-style="western"><surname>Price</surname><given-names>EP</given-names></name>, <name name-style="western"><surname>Limmathurotsakul</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Cook</surname><given-names>JM</given-names></name>, <name name-style="western"><surname>Von Schulze</surname><given-names>AT</given-names></name>, <name name-style="western"><surname>Wolken</surname><given-names>SR</given-names></name>, <etal>et al</etal> (<year>2012</year>) <article-title>Development of
+ceftazidime resistance in an acute <italic toggle="yes">Burkholderia
+pseudomallei</italic> infection</article-title>. <source>Infect Drug
+Resist</source>
+<volume>5</volume>: <fpage>129</fpage>–<lpage>132</lpage>. <pub-id pub-id-type="doi">10.2147/IDR.S35529</pub-id>
+<pub-id pub-id-type="pmid">22977307</pub-id><pub-id pub-id-type="pmcid">PMC3430440</pub-id></mixed-citation></ref><ref id="pone.0123564.ref007"><label>7</label><mixed-citation publication-type="journal">
+<name name-style="western"><surname>Singhal</surname><given-names>N</given-names></name>, <name name-style="western"><surname>Kumar</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Virdi</surname><given-names>JS</given-names></name>. (<year>2014</year>) <article-title>Molecular analysis of
+β-lactamase genes to understand their differential expression in
+strains of <italic toggle="yes">Yersinia enterocolitica</italic> biotype
+1A</article-title>. <source>Sci Rep</source>
+<volume>4</volume>: <fpage>5270</fpage>
+<pub-id pub-id-type="doi">10.1038/srep05270</pub-id>
+<pub-id pub-id-type="pmid">24920253</pub-id><pub-id pub-id-type="pmcid">PMC4053712</pub-id></mixed-citation></ref><ref id="pone.0123564.ref008"><label>8</label><mixed-citation publication-type="other">Clinical and Laboratory
+Standards Institute. (2010) Performance standards for antimicrobial
+susceptibility testing. 20th informational supplement M100–S20 Clinical
+and Laboratory Standards Institute, Wayne, PA.</mixed-citation></ref><ref id="pone.0123564.ref009"><label>9</label><mixed-citation publication-type="journal">
+<name name-style="western"><surname>Sharma</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Mittal</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Mallik</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Virdi</surname><given-names>JS</given-names></name>. (<year>2006</year>). <article-title>Molecular characterization of
+β-lactamase genes (blaA and blaB) of <italic toggle="yes">Yersinia
+enterocolitica</italic> biotype 1A</article-title>. <source>FEMS
+Microbiol Lett</source>
+<volume>257</volume>: <fpage>319</fpage>–<lpage>327</lpage>.
+<pub-id pub-id-type="pmid">16553870</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1574-6968.2006.00191.x</pub-id></mixed-citation></ref><ref id="pone.0123564.ref010"><label>10</label><mixed-citation publication-type="journal">
+<name name-style="western"><surname>Laskowski</surname><given-names>RA</given-names></name>, <name name-style="western"><surname>MacArthur</surname><given-names>MW</given-names></name>, <name name-style="western"><surname>Moss</surname><given-names>DS</given-names></name>, <name name-style="western"><surname>Thornton</surname><given-names>JM</given-names></name>. (<year>1993</year>) <article-title>PROCHECK—a program to check
+the stereochemical quality of protein structures</article-title>. <source>J
+App Cryst</source>
+<volume>26</volume>:
+<fpage>283</fpage>–<lpage>291</lpage>.</mixed-citation></ref><ref id="pone.0123564.ref011"><label>11</label><mixed-citation publication-type="journal">
+<name name-style="western"><surname>Lüthy</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Bowie</surname><given-names>JU</given-names></name>, <name name-style="western"><surname>Eisenberg</surname><given-names>D</given-names></name>. (<year>1992</year>) <article-title>Assessment of protein models with
+three-dimensional profiles</article-title>. <source>Nature</source>
+<volume>356</volume>: <fpage>83</fpage>–<lpage>85</lpage>.
+<pub-id pub-id-type="pmid">1538787</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/356083a0</pub-id></mixed-citation></ref><ref id="pone.0123564.ref012"><label>12</label><mixed-citation publication-type="journal">
+<name name-style="western"><surname>Lill</surname><given-names>MA</given-names></name>, <name name-style="western"><surname>Danielson</surname><given-names>ML</given-names></name>. (<year>2011</year>) <article-title>Computer-aided drug design platform
+using PyMOL</article-title>. <source>J Comput Aided Mol Des</source>
+<volume>25</volume>, <fpage>13</fpage>–<lpage>19</lpage>. <pub-id pub-id-type="doi">10.1007/s10822-010-9395-8</pub-id>
+<pub-id pub-id-type="pmid">21053052</pub-id></mixed-citation></ref><ref id="pone.0123564.ref013"><label>13</label><mixed-citation publication-type="journal">
+<name name-style="western"><surname>Baumgartner</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Küffer</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Suter</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Jemmi</surname><given-names>T</given-names></name>, <name name-style="western"><surname>Rohner</surname><given-names>P</given-names></name>. (<year>2007</year>) <article-title>Antimicrobial resistance of
+<italic toggle="yes">Yersinia enterocolitica</italic> strains from human patients,
+pigs and retail pork in Switzerland</article-title>. <source>Int J Food
+Microbiol</source>
+<volume>115</volume>, <fpage>110</fpage>–<lpage>114</lpage>.
+<pub-id pub-id-type="pmid">17196695</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ijfoodmicro.2006.10.008</pub-id></mixed-citation></ref><ref id="pone.0123564.ref014"><label>14</label><mixed-citation publication-type="journal">
+<name name-style="western"><surname>Dhara</surname><given-names>L</given-names></name>, <name name-style="western"><surname>Tripathi</surname><given-names>A</given-names></name>. (<year>2014</year>) <article-title>Genetic and structural insights into
+plasmid-mediated extended-spectrum β-lactamase activity of CTX-M and
+SHV variants among pathogenic <italic toggle="yes">Enterobacteriaceae</italic> infecting
+Indian patients</article-title>. <source>Int J Antimicrob Agents</source>
+<volume>43</volume>: <fpage>518</fpage>–<lpage>526</lpage>. <pub-id pub-id-type="doi">10.1016/j.ijantimicag.2014.03.002</pub-id>
+<pub-id pub-id-type="pmid">24794736</pub-id></mixed-citation></ref><ref id="pone.0123564.ref015"><label>15</label><mixed-citation publication-type="journal">
+<name name-style="western"><surname>Kumar</surname><given-names>KM</given-names></name>, <name name-style="western"><surname>Lavanya</surname><given-names>P</given-names></name>, <name name-style="western"><surname>Anbarasu</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Ramaiah</surname><given-names>S</given-names></name>. (<year>2013</year>). <article-title>Molecular dynamics and molecular
+docking studies on E166A point mutant, R274N/R276N double mutant, and
+E166A/R274N/R276N triple mutant forms of class A
+β-lactamases</article-title>. <source>J Biomol Struct Dyn</source>
+<volume>32</volume>: <fpage>1953</fpage>–<lpage>1968</lpage>.
+<pub-id pub-id-type="doi">10.1080/07391102.2013.847804</pub-id>
+<pub-id pub-id-type="pmid">24261683</pub-id></mixed-citation></ref><ref id="pone.0123564.ref016"><label>16</label><mixed-citation publication-type="journal">
+<name name-style="western"><surname>Fournier</surname><given-names>B</given-names></name>, <name name-style="western"><surname>Gravel</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Hooper</surname><given-names>DC</given-names></name>, <name name-style="western"><surname>Roy</surname><given-names>PH</given-names></name>. (<year>1999</year>). <article-title>Strength and regulation of the
+different promoters for chromosomal beta-lactamases of <italic toggle="yes">Klebsiella
+oxytoca</italic>
+</article-title>. <source>Antimicrob Agents
+Chemother</source>
+<volume>43</volume>, <fpage>850</fpage>–<lpage>855</lpage>.
+<pub-id pub-id-type="pmid">10103190</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1128/aac.43.4.850</pub-id><pub-id pub-id-type="pmcid">PMC89216</pub-id></mixed-citation></ref></ref-list></back></article>

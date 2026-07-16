@@ -1,0 +1,525 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article article-type="research-article" xml:lang="en" dtd-version="1.4"><front><journal-meta><journal-id journal-id-type="nlm-ta">Int J Immunopathol Pharmacol</journal-id><journal-id journal-id-type="iso-abbrev">Int J Immunopathol Pharmacol</journal-id><journal-id journal-id-type="pmc-domain-id">3390</journal-id><journal-id journal-id-type="pmc-domain">ijip</journal-id><journal-id journal-id-type="nlm-id">8911335</journal-id><journal-id journal-id-type="publisher-id">IJI</journal-id><journal-title-group><journal-title>International Journal of Immunopathology and Pharmacology</journal-title></journal-title-group><issn pub-type="ppub">0394-6320</issn><issn pub-type="epub">2058-7384</issn><publisher><publisher-name>SAGE Publications</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC6202743</article-id><article-id pub-id-type="pmcid-ver">PMC6202743.1</article-id><article-id pub-id-type="pmcaid">6202743</article-id><article-id pub-id-type="pmcaiid">6202743</article-id><article-id pub-id-type="pmid">30354842</article-id><article-id pub-id-type="doi">10.1177/2058738418805322</article-id><article-id pub-id-type="publisher-id">10.1177_2058738418805322</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Original Research Article</subject></subj-group></article-categories><title-group><article-title>Taurine attenuates acrylamide-induced axonal and myelinated damage
+through the Akt/GSK3β-dependent pathway</article-title></title-group><contrib-group><contrib contrib-type="author"><name name-style="western"><surname>Sun</surname><given-names initials="G">Guohua</given-names></name><xref ref-type="aff" rid="aff1-2058738418805322">1</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Qu</surname><given-names initials="S">Shuxian</given-names></name><xref ref-type="aff" rid="aff2-2058738418805322">2</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Wang</surname><given-names initials="S">Siyi</given-names></name><xref ref-type="aff" rid="aff1-2058738418805322">1</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Shao</surname><given-names initials="Y">Ying</given-names></name><xref ref-type="aff" rid="aff1-2058738418805322">1</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-8030-2062</contrib-id><name name-style="western"><surname>Sun</surname><given-names initials="J">Jingsong</given-names></name><xref ref-type="aff" rid="aff1-2058738418805322">1</xref><xref ref-type="corresp" rid="corresp1-2058738418805322"/></contrib></contrib-group><aff id="aff1-2058738418805322"><label>1</label>The First Affiliated Hospital of Dalian
+Medical University, Liaoning, China</aff><aff id="aff2-2058738418805322"><label>2</label>Institute of Cancer Stem Cell, Dalian
+Medical University, Dalian, Liaoning, China</aff><author-notes><corresp id="corresp1-2058738418805322">Jingsong Sun, The First Affiliated Hospital
+of Dalian Medical University, Liaoning 116011, China. Email:
+<email>791566418@qq.com</email></corresp></author-notes><pub-date pub-type="epub"><day>24</day><month>10</month><year>2018</year></pub-date><pub-date pub-type="collection"><season>Mar-Dec</season><year>2018</year></pub-date><volume>32</volume><issue-id pub-id-type="pmc-issue-id">309246</issue-id><elocation-id>2058738418805322</elocation-id><history><date date-type="received"><day>22</day><month>5</month><year>2018</year></date><date date-type="accepted"><day>14</day><month>9</month><year>2018</year></date></history><pub-history><event event-type="pmc-release"><date><day>24</day><month>10</month><year>2018</year></date></event><event event-type="pmc-live"><date><day>30</day><month>10</month><year>2018</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-02-08 03:25:13.357"><day>08</day><month>02</month><year>2026</year></date></event></pub-history><permissions><copyright-statement>© The Author(s) 2018</copyright-statement><copyright-year>2018</copyright-year><copyright-holder content-type="sage">SAGE Publications Ltd unless otherwise noted.
+Manuscript content on this site is licensed under Creative Commons
+Licenses</copyright-holder><license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="creative-commons" xlink:href="http://www.creativecommons.org/licenses/by-nc/4.0/"><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>This article is distributed under the terms of the Creative Commons
+Attribution-NonCommercial 4.0 License (<ext-link ext-link-type="uri" xlink:href="http://www.creativecommons.org/licenses/by-nc/4.0/">http://www.creativecommons.org/licenses/by-nc/4.0/</ext-link>) which
+permits non-commercial use, reproduction and distribution of the work
+without further permission provided the original work is attributed as
+specified on the SAGE and Open Access pages (<ext-link ext-link-type="uri" xlink:href="https://us.sagepub.com/en-us/nam/open-access-at-sage">https://us.sagepub.com/en-us/nam/open-access-at-sage</ext-link>).</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="10.1177_2058738418805322.pdf"/><abstract><p>Acrylamide (ACR), formed during the Maillard reaction induced by high temperature
+in food processing, is one of the main causes of neurodegenerative diseases.
+Taurine, a free intracellular β-amino acid, is characterized by many functions,
+including antioxidation, anti-inflammatory, and neuroprotective properties. This
+promotes its application in the treatment of neurodegenerative diseases. In this
+study, the neuroprotective effects of taurine against ACR-induced neurotoxicity
+and the potential underlying mechanisms were explored. Rats were intoxicated
+with ACR and injected with taurine in different groups for totally 2 weeks
+between January and July 2017. Electron microscopic analysis was used to observe
+the changes in tissues of the rats. Meanwhile, the levels of proteins including
+p-Akt, p-GSK3β, SIM312, and MBP were detected by Western blot. Furthermore, the
+GSK3β phosphorylation in taurine-treated dorsal root ganglion (DRG) with ACR was
+examined in the presence of the Akt inhibitor, MK-2206. The analysis of
+behavioral performances and electron micrographs indicated that taurine
+treatment significantly attenuated the toxic manifestations induced by ACR and
+stimulated the growth of axons and the medullary sheath, which was associated
+with the activation of the Akt/GSK3β signaling pathway. Mechanistically, it was
+found that taurine activated GSK3β, leading to significant recovery of the
+damage in ACR-induced sciatic nerves. Furthermore, MK-2206, an inhibitor of Akt,
+was applied in DRG cells, suggesting that taurine-induced GSK3β phosphorylation
+was Akt dependent. Our findings demonstrated that taurine attenuated ACR-induced
+neuropathy in vivo, in an Akt/GSK3β-dependent manner. This confirmed the
+treatment with taurine to be a novel strategy against ACR-induced
+neurotoxicity.</p></abstract><kwd-group><kwd>acrylamide</kwd><kwd>Akt/GSK3β-dependent pathway</kwd><kwd>axonal and myelinated damage</kwd><kwd>taurine</kwd></kwd-group><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>March-December 2018</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="intro" id="section1-2058738418805322"><title>Introduction</title><p>Acrylamide (ACR), as a water-soluble vinyl monomer, has been widely applied in
+chemical industries,<sup><xref rid="bibr1-2058738418805322" ref-type="bibr">1</xref></sup> including oil extraction and paper pulp production. Its neurotoxicity has
+helped it gain increasing attention on its application in scientific studies.<sup><xref rid="bibr2-2058738418805322" ref-type="bibr">2</xref></sup> The major approaches of exposure to ACR for humans are dietary meals and
+occupational exposure. As a food contaminant, ACR can be formed during thermal
+processing of carbohydrate-rich foods, such as deep-frying, oven-baking, and
+roasting.<sup><xref rid="bibr3-2058738418805322" ref-type="bibr">3</xref>,<xref rid="bibr4-2058738418805322" ref-type="bibr">4</xref></sup>
+This induces its possible neurotoxic and carcinogenic effect.<sup><xref rid="bibr5-2058738418805322" ref-type="bibr">5</xref></sup> ACR has been proved to be able to cause neuropathy in both animals and
+humans. It has been proved that ACR does not only impede the development of
+children, but also cause birth defects including the digestive system, nervous
+system, and the immune system.<sup><xref rid="bibr6-2058738418805322" ref-type="bibr">6</xref></sup> The obvious symptoms of ACR-intoxicated rats include gait disorders and
+impaired behavioral performance.<sup><xref rid="bibr7-2058738418805322" ref-type="bibr">7</xref></sup> Meanwhile, humans exposed to ACR display a series of symptoms such as
+sweating hands, numbness, peeling skin, and limb pain.<sup><xref rid="bibr8-2058738418805322" ref-type="bibr">8</xref></sup> Therefore, further studies on the recovery of nerve function induced by
+taurine in ACR-treated rats are of great significance.</p><p>Neurodegenerative diseases induced by ACR have been demonstrated in the literature to
+be mediated via the damage of axons and medullary sheath in the peripheral nervous
+system.<sup><xref rid="bibr9-2058738418805322" ref-type="bibr">9</xref>,<xref rid="bibr10-2058738418805322" ref-type="bibr">10</xref></sup> The structural integrity of axons and the medullary sheath are
+necessary for the function of the sciatic nerve. It is verified by electron
+microscopy that intravenous injection of calpeptin or nerve growth factor
+contributes to the significant recovery of ACR-intoxicated rats by repairing axons
+and the medullary sheath. In this research, the authors hypothesized that promoting
+the recovery of injured neurons may be an effective way to attenuate the neuropathy
+associated with ACR.</p><p>Taurine, 2-aminoethanesulfonic acid, as a free intracellular β-amino acid has been
+greatly applied for the treatment of many neurodegenerative diseases because of its
+neuroprotective properties.<sup><xref rid="bibr11-2058738418805322" ref-type="bibr">11</xref></sup> A number of studies have suggested that the neuroprotective effect of taurine
+observed in spiral ganglion neurons in vitro and the peripheral nervous system plays
+a role in the regulation of various cellular and tissue functions.<sup><xref rid="bibr12-2058738418805322" ref-type="bibr">12</xref>,<xref rid="bibr13-2058738418805322" ref-type="bibr">13</xref></sup> They
+significantly stimulate neurite outgrowth, including axons and the medullary sheath.<sup><xref rid="bibr14-2058738418805322" ref-type="bibr">14</xref></sup> Furthermore, some studies indicate that the anti-depressant-like effect of
+taurine is attributed to the activation of the Akt–cAMP response element binding
+protein (CREB) signaling pathway,<sup><xref rid="bibr12-2058738418805322" ref-type="bibr">12</xref></sup> and taurine treatment brings the increase in myocardial Akt/protein kinase B
+(PKB) phosphorylation. In this way, myocardial function and heart oxidant status
+undergo improvement.<sup><xref rid="bibr15-2058738418805322" ref-type="bibr">15</xref></sup> Akt, which is an important upstream regulator of glycogen synthase kinase 3β
+(GSK3β), increases the level of GSK3β phosphorylation, leading to its inactivation.
+Boosting of the central nervous system (CNS) axon regeneration may be achieved by
+harnessing the antagonistic effects of the GSK3β activity.<sup><xref rid="bibr16-2058738418805322" ref-type="bibr">16</xref></sup> Moreover, small-molecule GSK3 inhibitors have been shown to rescue apoptosis
+and neurodegeneration in dorsal root ganglion (DRG) neurons injured by anesthetics.<sup><xref rid="bibr17-2058738418805322" ref-type="bibr">17</xref></sup> Thus, it was assumed that the taurine-mediated stimulation of the growth of
+axons and the medullary sheath occurred through the activation of the Akt/GSK3β
+signaling pathway, acting against the ACR-induced decrease in phosphorylated
+GSK3β.</p></sec><sec sec-type="methods" id="section2-2058738418805322"><title>Methods</title><sec id="section3-2058738418805322"><title>Chemicals</title><p>ACR (purity &gt; 99%) was purchased from Glenview (Naples, FL). Taurine, Akt, and
+p-Akt were obtained from Sigma-Aldrich (St Louis, MO); GSK3β and p-GSK3β were
+from Cell Signaling Technology (Sigma-Aldrich); glyceraldehyde 3-phosphate
+dehydrogenase (GAPDH) and β-actin were from Santa Cruz Biotechnology (OR)
+(Washington, USA).<sup><xref rid="bibr18-2058738418805322" ref-type="bibr">18</xref>,<xref rid="bibr19-2058738418805322" ref-type="bibr">19</xref></sup> ACR was diluted in 0.9% saline water for a final
+concentration of 5 mg/mL as adopted in many studies. The dosing volume for the
+ACR solution was determined based on the body weight of each animal.</p></sec><sec id="section4-2058738418805322"><title>Animal treatment and tissue preparation</title><p>In total, 40 adult male Sprague Dawley rats (210–230 g) were obtained from the
+Experimental Animal Center of Dalian Medical University. From January to July
+2017, these rats were housed in polycarbonate boxes, with sufficient food and
+water, maintained in a 12-h light/dark cycle, with temperature at 20°C–24°C and
+relative humidity at 50% in Dalian Medical University, China. The rats were
+randomly divided into four groups (n = 10 for each group):</p><list list-type="simple" id="list1-2058738418805322"><list-item><p><italic toggle="yes">Group I</italic>. Rats were regarded as control and received
+normal food for 14 days.</p></list-item><list-item><p><italic toggle="yes">Group II</italic>. Rats were fed normal food and water for 4 days
+and then injected with ACR (50 mg/kg dry body weight bw/d,
+intragastrically (i.g.)) for 10 days.</p></list-item><list-item><p><italic toggle="yes">Group III</italic>. Rats received taurine (250 mg/kg bw/d, tail
+vein injection) for 4 days and then were co-treated with ACR (50 mg/kg
+bw/d i.g.) for 10 days.</p></list-item><list-item><p><italic toggle="yes">Group IV</italic>. Rats received taurine (250 mg/kg bw/d, tail
+vein injection) for 14 days.</p></list-item></list><p>At the end of the treatment period, all the rats were sacrificed by cervical
+dislocation. The sciatic nerves were immediately dissected and frozen in liquid
+nitrogen before being stored at −80°C for further processing. All experiments
+complied with the Animal Guideline of Dalian Medical University and obtained
+approval from the Ethical Committee of Dalian Medical University.</p></sec><sec id="section5-2058738418805322"><title>Electron microscopy</title><p>As reported previously,<sup><xref rid="bibr20-2058738418805322" ref-type="bibr">20</xref><xref rid="bibr21-2058738418805322" ref-type="bibr"/>–<xref rid="bibr22-2058738418805322" ref-type="bibr">22</xref></sup> fixed
+sciatic nerve samples were prepared by a series of processes, including
+dehydration, embedment, and slicing with an ultramicrotome. The specimens were
+stained by lead citrate and uranyl acetate. The pathological changes in axon and
+medullary sheath were observed using a transmission electron microscope (H/7500;
+Hitachi, Tokyo, Japan).</p></sec><sec id="section6-2058738418805322"><title>Western blotting</title><p>Sciatic nerves were homogenized on ice using lysis buffer for 5 min and then
+centrifuged at 12,000×g for 15 min at 4°C. Afterwards, the protein concentration
+of each supernatant was determined by ristocetin-induced platelet agglutination
+(RIPA) of Tissue Protein Extraction Reagent (Beyotime, Shanghai, China). The
+tissue extracts were resolved by sodium dodecyl sulfate-polyacrylamide gel
+electrophoresis and transferred to polyvinylidene difluoride membranes
+(Millipore, Haverhill, MA). The membranes were incubated with the appropriate
+primary antibodies overnight at 4°C: anti-Akt (1:1000; Sigma-Aldrich),
+anti-p-Akt (ser-473) (1:1000; Sigma-Aldrich), anti-SIM312 (1:500;
+Sigma-Aldrich), anti-MBP (1:500; Sigma-Aldrich), anti-β-actin (1:500;
+Sigma-Aldrich), rabbit anti-GSK3B antibody (1:500; Abcam), rabbit polyclonal
+anti-GSK3β antibody (1:500; Abcam, California, USA), and anti-GAPDH antibody
+(1:1000; Sigma-Aldrich). Horseradish peroxidase–conjugated secondary antibody
+was employed to visualize immunoreactivity using enhanced chemiluminescence; UVP
+BioSpectrum Multispectral Imaging System (Ultra-Violet) was used for
+densitometric analysis.</p></sec><sec id="section7-2058738418805322"><title>DRG neuronal cultures</title><p>The DRG neurons were dissected from three adult male rats. Briefly, DRG neurons
+were maintained in Dulbecco’s modified Eagle’s medium with 0.3% collagenase type
+IA (Sigma-Aldrich), 0.25% trypsin acid (Thermo Fisher Scientific, New York,
+USA), and then were mechanically dissociated.<sup><xref rid="bibr23-2058738418805322" ref-type="bibr">23</xref><xref rid="bibr24-2058738418805322" ref-type="bibr"/>–<xref rid="bibr25-2058738418805322" ref-type="bibr">25</xref></sup> The cells were
+supplemented with 10% fetal bovine serum (Sigma-Aldrich) and 500 U/mL
+penicillin/streptomycin (ZS-Bio, Shanghai, China) in poly-L-ornithine-coated
+96-well plates with 20 μg/mL laminin (Sigma-Aldrich). Cells were grown at 37°C
+in a humidified incubator with 5% CO<sub>2</sub>.</p></sec><sec id="section8-2058738418805322"><title>Statistical analysis</title><p>All results were represented as mean ± standard deviation. Statistical analysis
+was performed using one-way analysis of variance, followed by the least
+significant difference (LSD) test for the comparison of group differences. All
+tests were conducted using SPSS 19.0 statistical software. The
+<italic toggle="yes">P</italic>-values &lt; 0.05 were considered as statistically
+significant.</p></sec></sec><sec sec-type="results" id="section9-2058738418805322"><title>Results</title><sec id="section10-2058738418805322"><title>Body weight and clinical observations after taurine treatment</title><p>Rats received normal food and water or taurine (250 mg/kg bw/d, tail vein
+injection) for 4 days and then were treated with ACR (50 mg/kg dry body weight
+bw/d i.g.) or co-treated with ACR (50 mg/kg bw/d i.g.) for another 10 days. From
+the beginning of taurine treatment, the body weights of all the groups were
+measured every 2 days. As shown in <xref ref-type="fig" rid="fig1-2058738418805322">Figure 1</xref>, the body weights of the control
+and taurine control groups showed a consistent increase, while ACR-intoxicated
+rats showed an attenuated increase in body weight and even lost weight during
+the last 4 days. The weight of the taurine-treated rats increased more quickly
+than that of ACR-intoxicated rats. On day 12, the body weights of
+taurine-treated rats were significantly higher (<italic toggle="yes">P </italic>&lt; 0.05)
+than ACR-intoxicated rats (<xref rid="table1-2058738418805322" ref-type="table">Table 1</xref>).</p><fig id="fig1-2058738418805322" orientation="portrait" position="float"><label>Figure 1.</label><caption><p>(a) Group assignments were drawn as a time sequence diagram. (b) Clinical
+performance of each group on day 14. Control group: rats received normal
+feeding; ACR group: rats were received ACR (50 mg/kg/day i.p.);
+ACR + TAU group: rats were pretreated with ACR (50 mg/kg/day i.p.) for
+14 days and then administered TAU (250 mg/kg/day i.g.) for 14 days; TAU
+group: rats were treated with TAU (250 mg/kg/day i.g.) for 14 days. (c)
+A gait score was assigned in the range from 1 to 4, where 1—a normal,
+unaffected gait, 2—a slightly affected gait (tip-toe walking, slight
+ataxia, and hindlimb weakness), 3—a moderately affected gait (obvious
+movement abnormalities characterized by dropped hocks and tail
+dragging), and 4—a severely affected gait (frank hindlimb weakness and
+inability to rear).</p><p><sup>a</sup><italic toggle="yes">P</italic> &lt; 0.05, compared with the ACR
+group.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_2058738418805322-fig1.jpg"/></fig><table-wrap id="table1-2058738418805322" orientation="portrait" position="float"><label>Table 1.</label><caption><p>Effect of taurine (TAU) against acrylamide (ACR) on the body weight of
+rats.</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_2058738418805322-table1.jpg"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/></colgroup><thead><tr><th align="left" rowspan="1" colspan="1">Group</th><th align="center" colspan="6" rowspan="1">Body weight</th></tr><tr><th rowspan="1" colspan="1"/><th align="center" rowspan="1" colspan="1">Day 0</th><th align="center" rowspan="1" colspan="1">Day 4</th><th align="center" rowspan="1" colspan="1">Day 8</th><th align="center" rowspan="1" colspan="1">Day 10</th><th align="center" rowspan="1" colspan="1">Day 12</th><th align="center" rowspan="1" colspan="1">Day 14</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">Control</td><td rowspan="1" colspan="1">289.45 ± 15.66</td><td rowspan="1" colspan="1">295.34 ± 18.23</td><td rowspan="1" colspan="1">312.66 ± 23.65</td><td rowspan="1" colspan="1">325.43 ± 25.12</td><td rowspan="1" colspan="1">339.74 ± 27.68</td><td rowspan="1" colspan="1">356.24 ± 30.93</td></tr><tr><td rowspan="1" colspan="1">TAU</td><td rowspan="1" colspan="1">282.36 ± 16.86</td><td rowspan="1" colspan="1">297.98 ± 17.78</td><td rowspan="1" colspan="1">315.35 ± 21.43</td><td rowspan="1" colspan="1">330.24 ± 23.51</td><td rowspan="1" colspan="1">341.75 ± 26.62</td><td rowspan="1" colspan="1">354.75 ± 28.77</td></tr><tr><td rowspan="1" colspan="1">ACR</td><td rowspan="1" colspan="1">285.06 ± 17.97</td><td rowspan="1" colspan="1">294.84 ± 16.08</td><td rowspan="1" colspan="1">285.24 ± 13.57</td><td rowspan="1" colspan="1">277.09 ± 10.04</td><td rowspan="1" colspan="1">265.78 ± 7.83</td><td rowspan="1" colspan="1">254.45 ± 6.73</td></tr><tr><td rowspan="1" colspan="1">ACR + TAU</td><td rowspan="1" colspan="1">281.25 ± 16.24</td><td rowspan="1" colspan="1">298.37 ± 16.24</td><td rowspan="1" colspan="1">305.89 ± 17.07</td><td rowspan="1" colspan="1">310.89 ± 20.46<xref ref-type="table-fn" rid="table-fn2-2058738418805322">*</xref></td><td rowspan="1" colspan="1">316.21 ± 22.40<xref ref-type="table-fn" rid="table-fn2-2058738418805322">*</xref></td><td rowspan="1" colspan="1">325.02 ± 25.13<xref ref-type="table-fn" rid="table-fn2-2058738418805322">*</xref></td></tr></tbody></table></alternatives><table-wrap-foot><fn id="table-fn1-2058738418805322"><p>Data were shown as mean ± S.E.M. There were 10 animals in each group
+at each time point to show the effect of taurine against ACR on body
+weight after taurine treatment. Control group: rats received normal
+feeding for 14 days; ACR group: rats were fed normal food and water
+for 4 days and then injected with ACR (50 mg/kg dry body weight bw/d
+i.g.) for 10 days; ACR + TAU group: rats received taurine (250 mg/kg
+bw/d, tail vein injection) for 4 days and co-treated with ACR
+(50 mg/kg bw/d i.g.) for 10 days; and TAU group: rats received TAU
+(250 mg/kg/day i.g.) in the whole process of animal treatment.</p></fn><fn id="table-fn2-2058738418805322"><label>*</label><p><italic toggle="yes">P</italic> &lt; 0.05 compared with the ACR group.</p></fn></table-wrap-foot></table-wrap><p>Similar to the body weights, the behavioral performance of rats in each group
+displayed the beneficial influence of taurine. Rats treated with taurine alone
+presented healthy and quick reactions, which exhibited no difference from normal
+rats. In contrast, ACR-intoxicated rats exhibited reduced activity and were
+anorexic and listless. In addition, abnormal symptoms induced by ACR
+intoxication also experienced a mitigation when ACR-intoxicated rats were
+treated with taurine (<xref ref-type="fig" rid="fig1-2058738418805322">Figure
+1</xref>).</p></sec><sec id="section11-2058738418805322"><title>Taurine attenuates the damage to axons and the medullary sheath induced by
+ACR in vivo and in vitro</title><p>The results showed that the structures of the axons and the medullary sheath were
+clearly visible in the control and taurine-treated groups only. In myelinated
+axons from the control group, a compact lamellar sheath closely encompassed an
+axon, and organized intermediate filaments completely filled each axon. In
+contrast, structural abnormalities in myelinated axons were clearly visible in
+samples from the ACR-intoxicated group, as shown by loosening of the myelin
+sheath and irregular wrinkling of axons, which was significantly mitigated once
+the ACR-intoxicated rats were injected with taurine (<xref ref-type="fig" rid="fig2-2058738418805322">Figure 2(a)</xref>). Meanwhile, taurine
+simulated the growth of axon and medullary sheath by enhancing their protein.
+Our results indicated that taurine significantly increased the levels of SIM312
+and MBP reduced by ACR, which was blocked in the presence of MK-2206 as shown in
+<xref ref-type="fig" rid="fig2-2058738418805322">Figure 2(b)</xref> and
+(<xref ref-type="fig" rid="fig2-2058738418805322">c</xref>).</p><fig id="fig2-2058738418805322" orientation="portrait" position="float"><label>Figure 2.</label><caption><p>Taurine attenuates the damage to axons and the medullary sheath induced
+by ACR in vivo and in vitro. (a) Electron microscopic analysis was
+performed in the spinal cord of rats and the representative images were
+shown. DRG was treated with ACR (0.1 mM) or saline for 24 h and then
+with taurine (5 mM) in the presence or absence of MK-2206 1 h
+pretreatment for additional 24 h. Expression of SIM312 (b) and MBP (c)
+were detected with Western blot.</p><p><sup>a</sup><italic toggle="yes">P</italic> &lt; 0.05, compared with the control
+group; <sup>b</sup><italic toggle="yes">P</italic> &lt; 0.05, compared with the ACR
+group; <sup>c</sup><italic toggle="yes">P</italic> &lt; 0.05, compared with the
+TAU + ACR group.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_2058738418805322-fig2.jpg"/></fig></sec><sec id="section12-2058738418805322"><title>Taurine enhanced the level of Akt phosphorylation in vivo and in
+vitro</title><p>To demonstrate whether taurine stimulated Akt phosphorylation, the
+phosphorylation status of Akt was measured through immunoblot analyses. No
+significant difference was observed between the control and taurine-treated
+control groups, indicating that taurine had no influence on the levels of
+phosphorylated Akt in control rats. Taurine enhanced the activation of Akt by
+stimulating its phosphorylation that was inhibited in ACR-intoxicated rats, as
+shown in <xref ref-type="fig" rid="fig3-2058738418805322">Figure 3(a)</xref>.
+Consistent with the influence induced by taurine in vivo, it also stimulated the
+Akt signaling pathway, even when performed after ACR intoxication as shown in
+<xref ref-type="fig" rid="fig3-2058738418805322">Figure 3(b)</xref>.</p><fig id="fig3-2058738418805322" orientation="portrait" position="float"><label>Figure 3.</label><caption><p>Effect of taurine on ACR-induced Akt activation in vivo and in vitro. (a)
+In the in vivo experiment, Akt and p-Akt levels were detected with
+Western blot. (b) The effects of TAU on the levels of Akt and p-Akt in
+the spinal cord of ACR-intoxicated rats were detected with Western blot
+and the density of blots was quantified. DRG was treated with ACR
+(0.1 mM) or saline for 24 h and then with or without taurine (5 mM).</p><p><sup>a</sup><italic toggle="yes">P</italic> &lt; 0.05, compared with the control
+group; <sup>b</sup><italic toggle="yes">P</italic> &lt; 0.05, compared with the ACR
+group.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_2058738418805322-fig3.jpg"/></fig></sec><sec id="section13-2058738418805322"><title>Taurine inhibited ACR-activated GSK3β</title><p>The results of this study confirmed that ACR increased the activation of GSK3β by
+reducing the levels of phosphorylated GSK3β, without the impact on the total
+GSK3β levels. By contrast, taurine attenuated this phenomenon by increasing the
+phosphorylation of GSK3β, with no changes in the total GSK3β levels, as shown in
+<xref ref-type="fig" rid="fig4-2058738418805322">Figure 4(a)</xref>. No
+obvious differences between the levels of phosphorylated GSK3β and total GSK3β
+levels were observed in the control and ACR-intoxicated rats. Treatment with
+MK-2206, which is an inhibitor of Akt, significantly mitigated the elevation of
+phosphorylated GSK3β levels induced by taurine. This demonstrated that the
+taurine-mediated GSK3β phosphorylation was Akt dependent (<xref ref-type="fig" rid="fig4-2058738418805322">Figure 4(b)</xref>).</p><fig id="fig4-2058738418805322" orientation="portrait" position="float"><label>Figure 4.</label><caption><p>Taurine enhanced the p-GSK3β level decreased by ACR in an Akt-dependent
+manner. (a) The effects of TAU on the levels of p-GSK3β in the spinal
+cord of ACR-intoxicated rats were detected with Western blot and the
+density of blots was quantified. (b) DRG was treated with ACR (0.1 mM)
+or saline for 24 h and then with taurine (5 mM) in the presence or
+absence of MK-2206 1 h pretreatment for additional 24 h. The p-GSK3β
+levels were detected with Western blot. GSK3β and p-GSK3β levels were
+detected with Western blot in (a) (the in vivo experiment) and (b) (the
+in vitro experiment).</p><p>In (a), <sup>a</sup><italic toggle="yes">P</italic> &lt; 0.05, compared with the
+control group; <sup>b</sup><italic toggle="yes">P</italic> &lt; 0.05, compared with
+the ACR group; <sup>c</sup><italic toggle="yes">P</italic> &lt; 0.05, compared with
+the ACR + TAU group.</p><p>In (b), <sup>a</sup><italic toggle="yes">P</italic> &lt; 0.05, compared with the
+control group; <sup>b</sup><italic toggle="yes">P</italic> &lt; 0.05, compared with
+the TAU group; <sup>c</sup><italic toggle="yes">P</italic> &lt; 0.05, compared with
+the TAU + MK-2206 group; <sup>d</sup><italic toggle="yes">P</italic> &lt; 0.05,
+compared with the ACR group; <sup>e</sup><italic toggle="yes">P</italic> &lt; 0.05,
+compared with the ACR + MK-2206 group;
+<sup>f</sup><italic toggle="yes">P</italic> &lt; 0.05, compared with the ACR + TAU
+group.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_2058738418805322-fig4.jpg"/></fig></sec></sec><sec sec-type="discussion" id="section14-2058738418805322"><title>Discussion</title><p>This study demonstrated taurine treatment to be an effective strategy for
+neuroprotection in a rat model of ACR-induced neuropathy. The salient results of
+this study are as follows: (1) taurine treatment stimulated the growth of sample
+rats which was inhibited by ACR; (2) taurine injection alleviated the ACR-induced
+symptoms, indicating that ACR-intoxicated rats could be cured by taurine; (3)
+taurine protected the nerves by stimulating the growth of axons and the medullary
+sheath in the sciatic nerve that was damaged by ACR; (4) taurine enhanced the level
+of Akt phosphorylation, which was lowered by ACR; and (5) taurine-induced GSK3β
+phosphorylation was Akt/GSK3β dependent, resulting in the decreased GSK3β
+activation.</p><p>As a reactive water-soluble chemical, ACR impairs the growth and leads to
+central-peripheral distal axonopathy and myelinopathy in ACR-intoxicated
+rats.<sup><xref rid="bibr26-2058738418805322" ref-type="bibr">26</xref><xref rid="bibr27-2058738418805322" ref-type="bibr"/>–<xref rid="bibr28-2058738418805322" ref-type="bibr">28</xref></sup> It was found that
+ACR-intoxicated rats exhibited weight loss and behavioral impairment compared with
+the control group. This effect was attenuated once the rats were treated with ACR,
+as shown in previous studies.<sup><xref rid="bibr28-2058738418805322" ref-type="bibr">28</xref>,<xref rid="bibr29-2058738418805322" ref-type="bibr">29</xref></sup> Toxin accumulation and
+neurodegenerative diseases were caused by long exposure to ACR,<sup><xref rid="bibr30-2058738418805322" ref-type="bibr">30</xref></sup> suggesting the objectiveness and effectiveness of our model. It has been
+shown that taurine can not only repair the damage to optic nerve,<sup><xref rid="bibr31-2058738418805322" ref-type="bibr">31</xref></sup> but also be applied for the treatment of several CNS diseases, including
+Alzheimer’s disease and Parkinson’s disease.<sup><xref rid="bibr32-2058738418805322" ref-type="bibr">32</xref></sup> In contrast with the intoxicated group, taurine promoted the gradual recovery
+of lost weight and normal behavioral performance. This proved that taurine treatment
+was successful in rats intoxicated by ACR.</p><p>Based on previous studies, the damage to the central and peripheral nervous systems
+induced by ACR can cause axonal damage.<sup><xref rid="bibr33-2058738418805322" ref-type="bibr">33</xref></sup> Moreover, ACR has an impact on the nervous system, causing axonopathy and
+impairment of neurotransmitter release, as shown by damaging the terminal axon<sup><xref rid="bibr34-2058738418805322" ref-type="bibr">34</xref></sup> of the distal nerve. Due to its neurotrophic effects and anti-neurotoxicity,
+taurine has gained considerable attention for the treatment of neurodegenerative
+diseases.<sup><xref rid="bibr14-2058738418805322" ref-type="bibr">14</xref>,<xref rid="bibr35-2058738418805322" ref-type="bibr">35</xref></sup> In this study, exposure to ACR impaired the structure of axons
+and the medullary sheath, which was attenuated by taurine, leading to functional
+rescue of the nervous system.</p><p>The Akt signaling pathway plays an important role in cell survival.<sup><xref rid="bibr36-2058738418805322" ref-type="bibr">36</xref></sup> Thus, the phosphorylated Akt levels were measured to determine whether the
+Akt signaling pathway was involved in the neuroprotection conferred by taurine.
+Notably, taurine inhibited prenatal stress–decreased phosphorylation of Akt by
+activating the Akt–CREB–PGC1α pathway, which significantly improved cognitive function.<sup><xref rid="bibr37-2058738418805322" ref-type="bibr">37</xref></sup> Furthermore, the PI3K–Akt–Bad pathway activated by taurine played a critical
+role in protecting against myocardial toxicity due to doxorubicin.<sup><xref rid="bibr38-2058738418805322" ref-type="bibr">38</xref></sup> Taurine treatment ameliorated myocardial function through the increase of
+myocardial Akt/PKB phosphorylation.<sup><xref rid="bibr15-2058738418805322" ref-type="bibr">15</xref></sup> In contrast, ACR induced mitochondrial dysfunction and apoptosis in BV-2
+microglial cells by suppressing Akt activation, increasing JNK and p38 activation.
+This posed an indirect proinflammatory influence.<sup><xref rid="bibr39-2058738418805322" ref-type="bibr">39</xref></sup> This study established the protective effect of taurine against the
+ACR-induced decrease in Akt activation by demonstrating the increased levels of
+phosphorylated Akt.</p><p>Consistent with the Akt activation in taurine-treated ACR-intoxicated rats, taurine
+also increased the level of GSK3β phosphorylation in the sciatic nerve. Previous
+studies have reported that ACR inhibits neurogenesis through the activation of the
+GSK3β signaling pathway.<sup><xref rid="bibr40-2058738418805322" ref-type="bibr">40</xref></sup> By comparison, taurine has been shown to exert an antidepressant-like effect,
+influencing depression-related signaling cascades in the hippocampus by altering the
+levels of phosphorylated GSK3β.<sup><xref rid="bibr41-2058738418805322" ref-type="bibr">41</xref></sup> In addition, taurine has an impact on various signaling pathways and the gene
+expression of many proteins, including those involved in the Akt/PKB and PI3K/Akt
+signaling pathways, especially GSK3β phosphorylation.<sup><xref rid="bibr42-2058738418805322" ref-type="bibr">42</xref></sup> In our study, taurine significantly decreased the activation of GSK3β, as
+shown by the increased levels of GSK3β phosphorylation which was reduced by
+taurine.</p><p>Recent studies have determined GSK3β to be an important factor in axon formation, by
+utilizing pharmacological approaches.<sup><xref rid="bibr43-2058738418805322" ref-type="bibr">43</xref></sup> And GSK3β inhibitor was proved to be able to stimulate the growth of axons
+and upregulate the expression of myelin genes.<sup><xref rid="bibr44-2058738418805322" ref-type="bibr">44</xref></sup> Maslinic acid facilitated axonal regeneration by regulating the Akt/GSK3β
+signaling pathway to provide neuroprotection in an animal model of middle cerebral
+artery occlusion.<sup><xref rid="bibr45-2058738418805322" ref-type="bibr">45</xref></sup> What is more, the PI3K–GSK3β signaling pathway was involved in sensory axon
+regeneration, as shown by the increased level of GSK3β phosphorylation that was
+validated by an acute depletion of Smad1.<sup><xref rid="bibr46-2058738418805322" ref-type="bibr">46</xref></sup> Since many microtubule-associated proteins (MAPs) including MAP1B are
+regarded as GSK3β substrates, GSK3β is an important regulator of neuronal
+microtubules.<sup><xref rid="bibr47-2058738418805322" ref-type="bibr">47</xref>,<xref rid="bibr48-2058738418805322" ref-type="bibr">48</xref></sup> Consistent with the decrease in GSK3β phosphorylation, the
+phosphorylation of MAP1B induced by GSK3β decreased its affinity for microtubules
+and enhanced its microtubule-stabilizing ability.<sup><xref rid="bibr49-2058738418805322" ref-type="bibr">49</xref>,<xref rid="bibr50-2058738418805322" ref-type="bibr">50</xref></sup></p><p>In summary, this study provides compelling evidence for the significant role of
+taurine treatment in attenuating the damage to axons and the medullary sheath
+induced by ACR in the sciatic nerve in an Akt/GSK3B-dependent manner. The
+taurine-mediated recovery of nerve function following the onset of neuronal damage
+proved that taurine treatment could be a novel candidate to cure ACR-induced
+neuropathy. It was believed that our results could pave the way for new approaches
+in the clinical treatment of nerve injuries and establish the molecular mechanism
+underlying the neuroprotective effect of taurine.</p></sec></body><back><fn-group><fn fn-type="other"><p><bold>Authors’ Note:</bold> G.S and S.Q. have contributed equally to this work.</p></fn><fn fn-type="COI-statement"><p><bold>Declaration of conflicting interests:</bold> The author(s) declared no potential conflicts of interest with respect to the
+research, authorship, and/or publication of this article.</p></fn><fn fn-type="financial-disclosure"><p><bold>Funding:</bold> The author(s) received no financial support for the research, authorship, and/or
+publication of this article.</p></fn><fn fn-type="other"><p><bold>ORCID iD:</bold> Jingsong Sun <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="10.1177_2058738418805322-img1.jpg"/>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://orcid.org/0000-0002-8030-2062">https://orcid.org/0000-0002-8030-2062</ext-link></p></fn></fn-group><ref-list><title>References</title><ref id="bibr1-2058738418805322"><label>1</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Han</surname><given-names>JY</given-names></name><name name-style="western"><surname>Zhang</surname><given-names>CW</given-names></name></person-group> (<year>2006</year>) <article-title>Toxicity study for
+acrylamide</article-title>. <source>Wei Sheng Yan Jiu</source>
+<volume>35</volume>: <fpage>513</fpage>–<lpage>515</lpage>.<pub-id pub-id-type="pmid">16986535</pub-id></mixed-citation></ref><ref id="bibr2-2058738418805322"><label>2</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Parzefall</surname><given-names>W</given-names></name></person-group> (<year>2008</year>) <article-title>Minireview on the toxicity of
+dietary acrylamide</article-title>. <source>Food and Chemical
+Toxicology</source>
+<volume>46</volume>: <fpage>1360</fpage>–<lpage>1364</lpage>.<pub-id pub-id-type="pmid">17905504</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.fct.2007.08.027</pub-id></mixed-citation></ref><ref id="bibr3-2058738418805322"><label>3</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Tardiff</surname><given-names>RG</given-names></name><name name-style="western"><surname>Gargas</surname><given-names>ML</given-names></name><name name-style="western"><surname>Kirman</surname><given-names>RC</given-names></name><etal>et al</etal></person-group> (<year>2010</year>) <article-title>Estimation of safe dietary
+intake levels of acrylamide for humans</article-title>. <source>Food and
+Chemical Toxicology</source>
+<volume>48</volume>: <fpage>658</fpage>–<lpage>667</lpage>.<pub-id pub-id-type="pmid">19948203</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.fct.2009.11.048</pub-id></mixed-citation></ref><ref id="bibr4-2058738418805322"><label>4</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Haase</surname><given-names>NU</given-names></name><name name-style="western"><surname>Grothe</surname><given-names>KH</given-names></name><name name-style="western"><surname>Matthäus</surname><given-names>B</given-names></name><etal>et al</etal></person-group> (<year>2012</year>) <article-title>Acrylamide formation and
+antioxidant level in biscuits related to recipe and baking</article-title>.
+<source>Food Additives and Contaminants. Part A, Chemistry, Analysis,
+Control, Exposure and Risk Assess</source>
+<volume>29</volume>: <fpage>1230</fpage>–<lpage>1238</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/19440049.2012.690349</pub-id><pub-id pub-id-type="pmid">22784192</pub-id></mixed-citation></ref><ref id="bibr5-2058738418805322"><label>5</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Xie</surname><given-names>J</given-names></name><name name-style="western"><surname>Terry</surname><given-names>KL</given-names></name><name name-style="western"><surname>Poole</surname><given-names>EM</given-names></name><etal>et al</etal></person-group> (<year>2013</year>) <article-title>Acrylamide hemoglobin adduct
+levels and ovarian cancer risk: A nested case-control study</article-title>.
+<source>Cancer Epidemiology, Biomarkers and Prevention</source>
+<volume>22</volume>: <fpage>653</fpage>–<lpage>660</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/1055-9965.EPI-12-1387</pub-id><pub-id pub-id-type="pmcid">PMC3617048</pub-id><pub-id pub-id-type="pmid">23417989</pub-id></mixed-citation></ref><ref id="bibr6-2058738418805322"><label>6</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Kadawathagedara</surname><given-names>M</given-names></name><name name-style="western"><surname>Botton</surname><given-names>J</given-names></name><name name-style="western"><surname>de Lauzon-Guillian</surname><given-names>B</given-names></name><etal>et al</etal></person-group> (<year>2018</year>) <article-title>Dietary acrylamide intake
+during pregnancy and postnatal growth and obesity: Results from the
+Norwegian Mother and Child Cohort Study (MoBa)</article-title>.
+<source>Environment International</source>
+<volume>113</volume>: <fpage>325</fpage>–<lpage>334</lpage>.<pub-id pub-id-type="pmid">29398013</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.envint.2018.01.004</pub-id></mixed-citation></ref><ref id="bibr7-2058738418805322"><label>7</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Lehning</surname><given-names>EJ</given-names></name><name name-style="western"><surname>Balaban</surname><given-names>CD</given-names></name><name name-style="western"><surname>Ross</surname><given-names>JF</given-names></name><etal>et al</etal></person-group>
+<article-title>Acrylamide neuropathy. III. Spatiotemporal
+characteristics of nerve cell damage in fore-brain</article-title>.
+<source>Neurotoxicology</source>
+<year>2003</year>; <volume>24</volume>:
+<fpage>125</fpage>–<lpage>136</lpage>.<pub-id pub-id-type="pmid">12564388</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0161-813x(02)00155-9</pub-id></mixed-citation></ref><ref id="bibr8-2058738418805322"><label>8</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Bachmann</surname><given-names>M</given-names></name><name name-style="western"><surname>Myers</surname><given-names>JE</given-names></name><name name-style="western"><surname>Bezuidenhout</surname><given-names>BN</given-names></name></person-group> (<year>1992</year>) <article-title>Acrylamide monomer and
+peripheral neuropathy in chemical workers</article-title>. <source>American
+Journal of Industrial Medicine</source>
+<volume>21</volume>: <fpage>217</fpage>–<lpage>222</lpage>.<pub-id pub-id-type="pmid">1311148</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ajim.4700210211</pub-id></mixed-citation></ref><ref id="bibr9-2058738418805322"><label>9</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Harry</surname><given-names>GJ</given-names></name><name name-style="western"><surname>Morell</surname><given-names>P</given-names></name><name name-style="western"><surname>Bouldin</surname><given-names>TW</given-names></name></person-group> (<year>1992</year>) <article-title>Acrylamide exposure
+preferentially impairs axonal transport of glycoproteins in myelinated
+axons</article-title>. <source>Journal of Neuroscience Research</source>
+<volume>31</volume>: <fpage>554</fpage>–<lpage>560</lpage>.<pub-id pub-id-type="pmid">1379307</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/jnr.490310320</pub-id></mixed-citation></ref><ref id="bibr10-2058738418805322"><label>10</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>LoPachin</surname><given-names>RM</given-names></name><name name-style="western"><surname>Castiglia</surname><given-names>CM</given-names></name><name name-style="western"><surname>Lehning</surname><given-names>E</given-names></name><etal>et al</etal></person-group> (<year>1993</year>) <article-title>Effects of acrylamide on
+subcellular distribution of elements in rat sciatic nerve myelinated axons
+and Schwann cells</article-title>. <source>Brain Research</source>
+<volume>608</volume>: <fpage>238</fpage>–<lpage>246</lpage>.<pub-id pub-id-type="pmid">8495358</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/0006-8993(93)91464-4</pub-id></mixed-citation></ref><ref id="bibr11-2058738418805322"><label>11</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Das</surname><given-names>J</given-names></name><name name-style="western"><surname>Roy</surname><given-names>A</given-names></name><name name-style="western"><surname>Sil</surname><given-names>PC</given-names></name></person-group> (<year>2012</year>) <article-title>Mechanism of the protective
+action of taurine in toxin and drug induced organ pathophysiology and
+diabetic complications: A review</article-title>. <source>Food
+Function</source>
+<volume>3</volume>: <fpage>1251</fpage>–<lpage>1264</lpage>.<pub-id pub-id-type="pmid">22930035</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1039/c2fo30117b</pub-id></mixed-citation></ref><ref id="bibr12-2058738418805322"><label>12</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Toyoda</surname><given-names>A</given-names></name><name name-style="western"><surname>Iio</surname><given-names>W</given-names></name></person-group> (<year>2013</year>) <article-title>Antidepressant-like effect of
+chronic taurine administration and its hippocampal signal transduction in
+rats</article-title>. <source>Advances in Experimental Medicine and
+Biology</source>
+<volume>775</volume>: <fpage>29</fpage>–<lpage>43</lpage>.<pub-id pub-id-type="pmid">23392922</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/978-1-4614-6130-2_3</pub-id></mixed-citation></ref><ref id="bibr13-2058738418805322"><label>13</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Farah</surname><given-names>MH</given-names></name><name name-style="western"><surname>Pan</surname><given-names>BH</given-names></name><name name-style="western"><surname>Hoffman</surname><given-names>PN</given-names></name><etal>et al</etal></person-group> (<year>2011</year>) <article-title>Reduced BACE1 activity
+enhances clearance of myelin debris and regeneration of axons in the injured
+peripheral nervous system</article-title>. <source>Journal of
+Neuroscience</source>
+<volume>31</volume>: <fpage>5744</fpage>–<lpage>5754</lpage>.<pub-id pub-id-type="pmid">21490216</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1523/JNEUROSCI.6810-10.2011</pub-id><pub-id pub-id-type="pmcid">PMC3302726</pub-id></mixed-citation></ref><ref id="bibr14-2058738418805322"><label>14</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Zhang</surname><given-names>B</given-names></name><name name-style="western"><surname>Yang</surname><given-names>X</given-names></name><name name-style="western"><surname>Gao</surname><given-names>X</given-names></name></person-group> (<year>2010</year>) <article-title>Taurine protects against
+bilirubin-induced neurotoxicity in vitro</article-title>. <source>Brain
+Research</source>
+<volume>1320</volume>: <fpage>159</fpage>–<lpage>167</lpage>.<pub-id pub-id-type="pmid">20096270</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.brainres.2010.01.036</pub-id></mixed-citation></ref><ref id="bibr15-2058738418805322"><label>15</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Wang</surname><given-names>GG</given-names></name><name name-style="western"><surname>Li</surname><given-names>W</given-names></name><name name-style="western"><surname>Lu</surname><given-names>XH</given-names></name><etal>et al</etal></person-group>
+<article-title>Taurine attenuates oxidative stress and
+alleviates cardiac failure in type I diabetic rats</article-title>.
+<source>Croatian Medical Journal</source>
+<year>2013</year>; <volume>54</volume>:
+<fpage>171</fpage>–<lpage>179</lpage>.<pub-id pub-id-type="pmid">23630144</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3325/cmj.2013.54.171</pub-id><pub-id pub-id-type="pmcid">PMC3641874</pub-id></mixed-citation></ref><ref id="bibr16-2058738418805322"><label>16</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Leibinger</surname><given-names>M</given-names></name><name name-style="western"><surname>Andreadaki</surname><given-names>A</given-names></name><name name-style="western"><surname>Golla</surname><given-names>R</given-names></name><etal>et al</etal></person-group> (<year>2017</year>) <article-title>Boosting CNS axon
+regeneration by harnessing antagonistic effects of GSK3
+activity</article-title>. <source>Proceedings of the National Academy of
+Sciences of the United States of America</source>
+<volume>114</volume>:
+<fpage>E5454</fpage>–<lpage>E5463</lpage>.<pub-id pub-id-type="pmid">28630333</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.1621225114</pub-id><pub-id pub-id-type="pmcid">PMC5502600</pub-id></mixed-citation></ref><ref id="bibr17-2058738418805322"><label>17</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Yu</surname><given-names>T</given-names></name><name name-style="western"><surname>Lin</surname><given-names>W</given-names></name></person-group> (<year>2016</year>) <article-title>Small-molecule GSK-3
+inhibitor rescued apoptosis and neurodegeneration in anesthetics-injured
+dorsal root ganglion neurons</article-title>. <source>Biomedicine and
+Pharmacotherapy</source>
+<volume>84</volume>: <fpage>395</fpage>–<lpage>402</lpage>.<pub-id pub-id-type="pmid">27668540</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.biopha.2016.08.059</pub-id></mixed-citation></ref><ref id="bibr18-2058738418805322"><label>18</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Zhang</surname><given-names>L</given-names></name><name name-style="western"><surname>Wang</surname><given-names>E</given-names></name><name name-style="western"><surname>Chen</surname><given-names>F</given-names></name><etal>et al</etal></person-group>(<year>2013</year>) <article-title>Potential protective effects
+of oral administration of allicin on acrylamide-induced toxicity in male
+mice</article-title>. <source>Food and Function</source>
+<volume>4</volume>: <fpage>1229</fpage>–<lpage>1236</lpage>.<pub-id pub-id-type="pmid">23760623</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1039/c3fo60057b</pub-id></mixed-citation></ref><ref id="bibr19-2058738418805322"><label>19</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Prasad</surname><given-names>SN</given-names></name><name name-style="western"><surname>Muralidhara</surname></name></person-group> (<year>2013</year>) <article-title>Neuroprotective efficacy of
+eugenol and isoeugenol in acrylamide-induced neuropathy in rats: Behavioral
+and biochemical evidence</article-title>. <source>Neurochemical
+Research</source>
+<volume>38</volume>: <fpage>330</fpage>–<lpage>345</lpage>.<pub-id pub-id-type="pmid">23161090</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s11064-012-0924-9</pub-id></mixed-citation></ref><ref id="bibr20-2058738418805322"><label>20</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Lehning</surname><given-names>EJ</given-names></name><name name-style="western"><surname>Dyer</surname><given-names>KS</given-names></name><name name-style="western"><surname>Jortner</surname><given-names>BS</given-names></name><etal>et al</etal></person-group>
+<article-title>Axonal atrophy is a specific component of
+2,5-hexanedione peripheral neuropathy</article-title>. <source>Toxicology
+and Applied Pharmacology</source>
+<year>1995</year>; <volume>135</volume>:
+<fpage>58</fpage>–<lpage>66</lpage>.<pub-id pub-id-type="pmid">7482540</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1006/taap.1995.1208</pub-id></mixed-citation></ref><ref id="bibr21-2058738418805322"><label>21</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Song</surname><given-names>F</given-names></name><name name-style="western"><surname>Yu</surname><given-names>S</given-names></name><name name-style="western"><surname>Zhang</surname><given-names>C</given-names></name><etal>et al</etal></person-group> (<year>2008</year>) <article-title>The reversibility of
+neurofilaments decline induced by 2,5-hexanedione in rat nerve
+tissues</article-title>. <source>Biochemical Pharmacology</source>
+<volume>75</volume>: <fpage>737</fpage>–<lpage>744</lpage>.<pub-id pub-id-type="pmid">18001694</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bcp.2007.10.001</pub-id></mixed-citation></ref><ref id="bibr22-2058738418805322"><label>22</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>LoPachin</surname><given-names>RM</given-names></name><name name-style="western"><surname>Jortner</surname><given-names>BS</given-names></name><name name-style="western"><surname>Reid</surname><given-names>ML</given-names></name><etal>et al</etal></person-group> (<year>2003</year>) <article-title>Gamma-diketone central
+neuropathy: Quantitative morphometric analysis of axons in rat spinal cord
+white matter regions and nerve roots</article-title>. <source>Toxicology and
+Applied Pharmacology</source>
+<volume>193</volume>: <fpage>29</fpage>–<lpage>46</lpage>.<pub-id pub-id-type="pmid">14613714</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.taap.2003.07.005</pub-id></mixed-citation></ref><ref id="bibr23-2058738418805322"><label>23</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Gobrecht</surname><given-names>P</given-names></name><name name-style="western"><surname>Leibinger</surname><given-names>M</given-names></name><name name-style="western"><surname>Andreadaki</surname><given-names>A</given-names></name><etal>et al</etal></person-group> (<year>2014</year>) <article-title>Sustained GSK3 activity
+markedly facilitates nerve regeneration</article-title>. <source>Nature
+Communications</source>
+<volume>5</volume>: <fpage>4561</fpage>–<lpage>4567</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/ncomms5561</pub-id><pub-id pub-id-type="pmid">25078444</pub-id></mixed-citation></ref><ref id="bibr24-2058738418805322"><label>24</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Leibinger</surname><given-names>M</given-names></name><name name-style="western"><surname>Andreadaki</surname><given-names>A</given-names></name><name name-style="western"><surname>Gobrecht</surname><given-names>P</given-names></name><etal>et al</etal></person-group> (<year>2016</year>) <article-title>Boosting central nervous
+system axon regeneration by circumventing limitations of natural cytokine
+signaling</article-title>. <source>Molecular Therapy</source>
+<volume>102</volume>: <fpage>1712</fpage>–<lpage>1725</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/mt.2016.102</pub-id><pub-id pub-id-type="pmcid">PMC5112033</pub-id><pub-id pub-id-type="pmid">27203446</pub-id></mixed-citation></ref><ref id="bibr25-2058738418805322"><label>25</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Gobrecht</surname><given-names>P</given-names></name><name name-style="western"><surname>Andreadaki</surname><given-names>A</given-names></name><name name-style="western"><surname>Diekmann</surname><given-names>H</given-names></name><etal>et al</etal></person-group> (<year>2016</year>) <article-title>Promotion of functional
+nerve regeneration by inhibition of microtubule
+detyrosination</article-title>. <source>The Journal of Neuroscience</source>
+<volume>36</volume>: <fpage>3890</fpage>–<lpage>3902</lpage>.<pub-id pub-id-type="pmid">27053198</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1523/JNEUROSCI.4486-15.2016</pub-id><pub-id pub-id-type="pmcid">PMC6705512</pub-id></mixed-citation></ref><ref id="bibr26-2058738418805322"><label>26</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Roberts</surname><given-names>DG</given-names></name><name name-style="western"><surname>Johnsonbaugh</surname><given-names>HB</given-names></name><name name-style="western"><surname>Spence</surname><given-names>RD</given-names></name><etal>et al</etal></person-group> (<year>2016</year>) <article-title>Optical clearing of the
+mouse central nervous system using passive CLARITY</article-title>.
+<source>Journal of Visual Experiments</source>
+<volume>112</volume>: <fpage>190</fpage>–<lpage>194</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.3791/54025</pub-id><pub-id pub-id-type="pmcid">PMC4993291</pub-id><pub-id pub-id-type="pmid">27404319</pub-id></mixed-citation></ref><ref id="bibr27-2058738418805322"><label>27</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Passalacqua</surname><given-names>KD</given-names></name><name name-style="western"><surname>Charbonneau</surname><given-names>ME</given-names></name><name name-style="western"><surname>Donato</surname><given-names>NJ</given-names></name><etal>et al</etal></person-group>
+<article-title>Anti-infective activity of 2-cyano-3-acrylamide
+inhibitors with improved drug-like properties against two intracellular
+pathogens</article-title>. <source>Antimicrobial Agents and
+Chemotherapy</source>
+<year>2016</year>; <volume>60</volume>:
+<fpage>4183</fpage>–<lpage>4196</lpage>.<pub-id pub-id-type="pmid">27139470</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1128/AAC.03021-15</pub-id><pub-id pub-id-type="pmcid">PMC4914689</pub-id></mixed-citation></ref><ref id="bibr28-2058738418805322"><label>28</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>He</surname><given-names>Y</given-names></name><name name-style="western"><surname>Tan</surname><given-names>D</given-names></name><name name-style="western"><surname>Bai</surname><given-names>B</given-names></name><etal>et al</etal></person-group> (<year>2017</year>) <article-title>Epigallocatechin-3-gallate
+attenuates acrylamide-induced apoptosis and astrogliosis in rat cerebral
+cortex</article-title>. <source>Toxicology Mechanisms and Methods</source>
+<volume>27</volume>: <fpage>298</fpage>–<lpage>306</lpage>.<pub-id pub-id-type="pmid">28056603</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/15376516.2017.1279251</pub-id></mixed-citation></ref><ref id="bibr29-2058738418805322"><label>29</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Costa</surname><given-names>LG</given-names></name><name name-style="western"><surname>Deng</surname><given-names>H</given-names></name><name name-style="western"><surname>Calleman</surname><given-names>CJ</given-names></name><etal>et al</etal></person-group> (<year>1995</year>) <article-title>Evaluation of the
+neurotoxicity of glycidamide, an epoxide metabolite of acrylamide:
+Behavioral, neurochemical and morphological studies</article-title>.
+<source>Toxicology</source>
+<volume>98</volume>: <fpage>151</fpage>–<lpage>161</lpage>.<pub-id pub-id-type="pmid">7740544</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/0300-483x(94)02986-5</pub-id></mixed-citation></ref><ref id="bibr30-2058738418805322"><label>30</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Bondy</surname><given-names>SC</given-names></name><name name-style="western"><surname>Tilson</surname><given-names>HA</given-names></name><name name-style="western"><surname>Agrawal</surname><given-names>AK</given-names></name></person-group> (<year>1981</year>) <article-title>Neurotransmitter receptors in
+brain regions of acrylamide-treated rats. II: Effects of extended exposure
+to acrylamide</article-title>. <source>Pharmacology, Biochemistry and
+Behavior</source>
+<volume>14</volume>: <fpage>533</fpage>–<lpage>537</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/0091-3057(81)90313-0</pub-id><pub-id pub-id-type="pmid">6262843</pub-id></mixed-citation></ref><ref id="bibr31-2058738418805322"><label>31</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>González-Quevedo</surname><given-names>A</given-names></name><name name-style="western"><surname>Obregón</surname><given-names>F</given-names></name><name name-style="western"><surname>Urbina</surname><given-names>M</given-names></name><etal>et al</etal></person-group>
+<article-title>Effect of chronic methanol administration on
+amino acids and monoamines in retina, optic nerve, and brain of the
+rat</article-title>. <source>Toxicology and Applied Pharmacology</source>
+<year>2002</year>; <volume>185</volume>:
+<fpage>77</fpage>–<lpage>84</lpage>.<pub-id pub-id-type="pmid">12490131</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1006/taap.2002.9477</pub-id></mixed-citation></ref><ref id="bibr32-2058738418805322"><label>32</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Chung</surname><given-names>MC</given-names></name><name name-style="western"><surname>Malatesta</surname><given-names>P</given-names></name><name name-style="western"><surname>Bosquesi</surname><given-names>PL</given-names></name><etal>et al</etal></person-group> (<year>2012</year>) <article-title>Advances in drug design
+based on the amino acid approach: Taurine analogues for the treatment of CNS
+diseases</article-title>. <source>Pharmaceuticals (Basel)</source>
+<volume>5</volume>: <fpage>1128</fpage>–<lpage>1146</lpage>.<pub-id pub-id-type="pmid">24281261</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ph5101128</pub-id><pub-id pub-id-type="pmcid">PMC3816653</pub-id></mixed-citation></ref><ref id="bibr33-2058738418805322"><label>33</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Park</surname><given-names>HR</given-names></name><name name-style="western"><surname>Kim</surname><given-names>MS</given-names></name><name name-style="western"><surname>Kim</surname><given-names>SJ</given-names></name><etal>et al</etal></person-group> (<year>2010</year>) <article-title>Acrylamide induces cell
+death in neural progenitor cells and impairs hippocampal
+neurogenesis</article-title>. <source>Toxicology Letters</source>
+<volume>193</volume>: <fpage>86</fpage>–<lpage>93</lpage>.<pub-id pub-id-type="pmid">20035847</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.toxlet.2009.12.015</pub-id></mixed-citation></ref><ref id="bibr34-2058738418805322"><label>34</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>LoPachin</surname><given-names>RM</given-names></name><name name-style="western"><surname>Ross</surname><given-names>JF</given-names></name><name name-style="western"><surname>Lehning</surname><given-names>EJ</given-names></name></person-group> (<year>2002</year>) <article-title>Nerve terminals as the
+primary site of acrylamide action: A hypothesis</article-title>.
+<source>Neurotoxicology</source>
+<volume>23</volume>: <fpage>43</fpage>–<lpage>59</lpage>.<pub-id pub-id-type="pmid">12164547</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0161-813x(01)00074-2</pub-id></mixed-citation></ref><ref id="bibr35-2058738418805322"><label>35</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Ye</surname><given-names>HB</given-names></name><name name-style="western"><surname>Wang</surname><given-names>J</given-names></name><name name-style="western"><surname>Zhang</surname><given-names>WT</given-names></name><etal>et al</etal></person-group> (<year>2013</year>) <article-title>Taurine attenuates
+bilirubin-induced neurotoxicity in the auditory system in neonatal guinea
+pigs</article-title>. <source>International Journal of Pediatric
+Otorhinolaryngology</source>
+<volume>77</volume>: <fpage>647</fpage>–<lpage>654</lpage>.<pub-id pub-id-type="pmid">23273639</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ijporl.2012.11.037</pub-id></mixed-citation></ref><ref id="bibr36-2058738418805322"><label>36</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Maiese</surname><given-names>K</given-names></name><name name-style="western"><surname>Chong</surname><given-names>ZZ</given-names></name><name name-style="western"><surname>Wang</surname><given-names>S</given-names></name><etal>et al</etal></person-group> (<year>2012</year>) <article-title>Oxidant stress and signal
+transduction in the nervous system with the PI 3-K, Akt, and mTOR
+cascade</article-title>. <source>International Journal of Molecular
+Sciences</source>
+<volume>13</volume>: <fpage>13830</fpage>–<lpage>13866</lpage>.<pub-id pub-id-type="pmid">23203037</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ijms131113830</pub-id><pub-id pub-id-type="pmcid">PMC3509553</pub-id></mixed-citation></ref><ref id="bibr37-2058738418805322"><label>37</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Jia</surname><given-names>N</given-names></name><name name-style="western"><surname>Sun</surname><given-names>Q</given-names></name><name name-style="western"><surname>Su</surname><given-names>Q</given-names></name><etal>et al</etal></person-group> (<year>2016</year>) <article-title>Taurine promotes cognitive
+function in prenatally stressed juvenile rats via activating the
+Akt-CREB-PGC1α pathway</article-title>. <source>Redox Biology</source>
+<volume>10</volume>: <fpage>179</fpage>–<lpage>190</lpage>.<pub-id pub-id-type="pmid">27768969</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.redox.2016.10.004</pub-id><pub-id pub-id-type="pmcid">PMC5072153</pub-id></mixed-citation></ref><ref id="bibr38-2058738418805322"><label>38</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Sun</surname><given-names>X</given-names></name><name name-style="western"><surname>Gu</surname><given-names>J</given-names></name><name name-style="western"><surname>Chi</surname><given-names>M</given-names></name><etal>et al</etal></person-group> (<year>2014</year>) <article-title>Activation of PI3K-Akt
+through taurine is critical for propofol to protect rat cardiomyocytes from
+doxorubicin-induced toxicity</article-title>. <source>Canadian Journal of
+Physiology and Pharmacology</source>
+<volume>92</volume>: <fpage>155</fpage>–<lpage>161</lpage>.<pub-id pub-id-type="pmid">24502639</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1139/cjpp-2013-0246</pub-id></mixed-citation></ref><ref id="bibr39-2058738418805322"><label>39</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Liu</surname><given-names>Z</given-names></name><name name-style="western"><surname>Song</surname><given-names>G</given-names></name><name name-style="western"><surname>Zou</surname><given-names>C</given-names></name><etal>et al</etal></person-group> (<year>2015</year>) <article-title>Acrylamide induces
+mitochondrial dysfunction and apoptosis in BV-2 microglial
+cells</article-title>. <source>Free Radical Biology and Medicine</source>
+<volume>84</volume>: <fpage>42</fpage>–<lpage>53</lpage>.<pub-id pub-id-type="pmid">25817051</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.freeradbiomed.2015.03.013</pub-id></mixed-citation></ref><ref id="bibr40-2058738418805322"><label>40</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Song</surname><given-names>L</given-names></name><name name-style="western"><surname>Wang</surname><given-names>J</given-names></name><name name-style="western"><surname>Zhang</surname><given-names>W</given-names></name><etal>et al</etal></person-group> (<year>2014</year>) <article-title>Effective suppression of
+acrylamide neurotoxicity by lithium in mouse</article-title>.
+<source>Neurochemical Research</source>
+<volume>39</volume>(<issue>11</issue>):
+<fpage>2170</fpage>–<lpage>2179</lpage>.<pub-id pub-id-type="pmid">25146901</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s11064-014-1418-8</pub-id></mixed-citation></ref><ref id="bibr41-2058738418805322"><label>41</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Iio</surname><given-names>W</given-names></name><name name-style="western"><surname>Matsukawa</surname><given-names>N</given-names></name><name name-style="western"><surname>Tsukahara</surname><given-names>T</given-names></name><etal>et al</etal></person-group> (<year>2011</year>) <article-title>Regulation of taurine
+transport systems by protein kinase CK2 in mammalian cells</article-title>.
+<source>Cell Physiology and Biochemistry</source>
+<volume>28</volume>(<issue>6</issue>):
+<fpage>1099</fpage>–<lpage>1110</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1159/000335846</pub-id><pub-id pub-id-type="pmid">22178999</pub-id></mixed-citation></ref><ref id="bibr42-2058738418805322"><label>42</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Lambert</surname><given-names>IH</given-names></name><name name-style="western"><surname>Hansen</surname><given-names>DB</given-names></name></person-group> (<year>2011</year>) <article-title>Regulation of taurine
+transport systems by protein kinase CK2 in mammalian cells</article-title>.
+<source>Cell Physiology and Biochemistry</source>
+<volume>28</volume>: <fpage>1099</fpage>–<lpage>1110</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1159/000335846</pub-id><pub-id pub-id-type="pmid">22178999</pub-id></mixed-citation></ref><ref id="bibr43-2058738418805322"><label>43</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Garrido</surname><given-names>JJ</given-names></name><name name-style="western"><surname>Simón</surname><given-names>D</given-names></name><name name-style="western"><surname>Varea</surname><given-names>O</given-names></name><etal>et al</etal></person-group>
+<article-title>GSK3 alpha and GSK3 beta are necessary for axon
+formation</article-title>. <source>FEBS Letters</source>
+<year>2007</year>; <volume>581</volume>:
+<fpage>1579</fpage>–<lpage>1586</lpage>.<pub-id pub-id-type="pmid">17391670</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.febslet.2007.03.018</pub-id></mixed-citation></ref><ref id="bibr44-2058738418805322"><label>44</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Chen</surname><given-names>Y</given-names></name><name name-style="western"><surname>Weng</surname><given-names>J</given-names></name><name name-style="western"><surname>Han</surname><given-names>D</given-names></name><etal>et al</etal></person-group> (<year>2016</year>) <article-title>GSK3β inhibition accelerates
+axon debris clearance and new axon remyelination</article-title>.
+<source>American Journal of Translation Research</source>
+<volume>8</volume>: <fpage>85410</fpage>–<lpage>85420</lpage>.<pub-id pub-id-type="pmcid">PMC5209492</pub-id><pub-id pub-id-type="pmid">28078012</pub-id></mixed-citation></ref><ref id="bibr45-2058738418805322"><label>45</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Qian</surname><given-names>Y</given-names></name><name name-style="western"><surname>Huang</surname><given-names>M</given-names></name><name name-style="western"><surname>Guan</surname><given-names>T</given-names></name><etal>et al</etal></person-group> (<year>2015</year>) <article-title>Maslinic acid promotes
+synaptogenesis and axon growth via Akt/GSK-3β activation in cerebral
+ischemia model</article-title>. <source>European Journal of
+Pharmacology</source>
+<volume>764</volume>: <fpage>298</fpage>–<lpage>305</lpage>.<pub-id pub-id-type="pmid">26172083</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ejphar.2015.07.028</pub-id></mixed-citation></ref><ref id="bibr46-2058738418805322"><label>46</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Saijilafu</surname><given-names>Hur EM</given-names></name><name name-style="western"><surname>Liu</surname><given-names>CM</given-names></name><etal>et al</etal></person-group> (<year>2013</year>) <article-title>PI3K-GSK3 signalling
+regulates mammalian axon regeneration by inducing the expression of
+Smad1</article-title>. <source>Nature Communications</source>
+<volume>984</volume>: <fpage>269</fpage>–<lpage>271</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/ncomms3690</pub-id><pub-id pub-id-type="pmcid">PMC3836055</pub-id><pub-id pub-id-type="pmid">24162165</pub-id></mixed-citation></ref><ref id="bibr47-2058738418805322"><label>47</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Goold</surname><given-names>RG</given-names></name><name name-style="western"><surname>Owen</surname><given-names>R</given-names></name><name name-style="western"><surname>Gordon-Weeks</surname><given-names>PR</given-names></name></person-group> (<year>1991</year>) <article-title>Glycogen synthase kinase
+3beta phosphorylation of microtubule-associated protein 1B regulates the
+stability of microtubules in growth cones</article-title>. <source>Journal
+of Cell Science</source>
+<volume>112</volume>: <fpage>3373</fpage>–<lpage>3384</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1242/jcs.112.19.3373</pub-id><pub-id pub-id-type="pmid">10504342</pub-id></mixed-citation></ref><ref id="bibr48-2058738418805322"><label>48</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Lucas</surname><given-names>FR</given-names></name><name name-style="western"><surname>Goold</surname><given-names>RG</given-names></name><name name-style="western"><surname>Gordon-Weeks</surname><given-names>PR</given-names></name><etal>et al</etal></person-group> (<year>1998</year>) <article-title>Inhibition of GSK-3beta
+leading to the loss of phosphorylated MAP-1B is an early event in axonal
+remodelling induced by WNT-7a or lithium</article-title>. <source>Journal of
+Cell Science</source>
+<volume>111</volume>: <fpage>1351</fpage>–<lpage>1361</lpage>.<pub-id pub-id-type="pmid">9570753</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1242/jcs.111.10.1351</pub-id></mixed-citation></ref><ref id="bibr49-2058738418805322"><label>49</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Pedrotti</surname><given-names>B</given-names></name><name name-style="western"><surname>Islam</surname><given-names>K</given-names></name></person-group> (<year>1996</year>) <article-title>Dephosphorylated but not
+phosphorylated microtubule associated protein MAP1B binds to
+microfilaments</article-title>. <source>FEBS Letters</source>
+<volume>388</volume>: <fpage>131</fpage>–<lpage>133</lpage>.<pub-id pub-id-type="pmid">8690071</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/0014-5793(96)00520-0</pub-id></mixed-citation></ref><ref id="bibr50-2058738418805322"><label>50</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Ulloa</surname><given-names>L</given-names></name><name name-style="western"><surname>Avila</surname><given-names>J</given-names></name><name name-style="western"><surname>Diaz-Nido</surname><given-names>J</given-names></name></person-group> (<year>1993</year>) <article-title>Heterogeneity in the
+phosphorylation of microtubule-associated protein MAP1B during rat brain
+development</article-title>. <source>Journal of Neurochemistry</source>
+<volume>61</volume>: <fpage>961</fpage>–<lpage>972</lpage>.<pub-id pub-id-type="pmid">7689645</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1471-4159.1993.tb03609.x</pub-id></mixed-citation></ref></ref-list></back></article>

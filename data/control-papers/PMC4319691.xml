@@ -1,0 +1,873 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article article-type="research-article" xml:lang="EN" dtd-version="1.4"><front><journal-meta><journal-id journal-id-type="nlm-ta">Mol Pharm</journal-id><journal-id journal-id-type="iso-abbrev">Mol. Pharm</journal-id><journal-id journal-id-type="pmc-domain-id">822</journal-id><journal-id journal-id-type="pmc-domain">acssd</journal-id><journal-id journal-id-type="nlm-id">101197791</journal-id><journal-id journal-id-type="publisher-id">mp</journal-id><journal-title-group><journal-title>Molecular Pharmaceutics</journal-title></journal-title-group><issn pub-type="ppub">1543-8384</issn><issn pub-type="epub">1543-8392</issn><custom-meta-group><custom-meta><meta-name>pmc-is-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-collection-title</meta-name><meta-value>ACS AuthorChoice</meta-value></custom-meta></custom-meta-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC4319691</article-id><article-id pub-id-type="pmcid-ver">PMC4319691.1</article-id><article-id pub-id-type="pmcaid">4319691</article-id><article-id pub-id-type="pmcaiid">4319691</article-id><article-id pub-id-type="pmid">25490248</article-id><article-id pub-id-type="doi">10.1021/mp500675p</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group><subject>Article</subject></subj-group></article-categories><title-group><article-title>Targeted Intracellular Delivery of Proteins with Spatial
+and Temporal Control</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><name name-style="western"><surname>Morales</surname><given-names initials="DP">Demosthenes
+P.</given-names></name><xref rid="aff1" ref-type="aff">†</xref></contrib><contrib contrib-type="author" id="ath2"><name name-style="western"><surname>Braun</surname><given-names initials="GB">Gary B.</given-names></name><xref rid="aff2" ref-type="aff">‡</xref></contrib><contrib contrib-type="author" id="ath3"><name name-style="western"><surname>Pallaoro</surname><given-names initials="A">Alessia</given-names></name><xref rid="aff1" ref-type="aff">†</xref></contrib><contrib contrib-type="author" id="ath4"><name name-style="western"><surname>Chen</surname><given-names initials="R">Renwei</given-names></name><xref rid="aff3" ref-type="aff">§</xref><xref rid="notes-2" ref-type="notes">⊥</xref></contrib><contrib contrib-type="author" id="ath5"><name name-style="western"><surname>Huang</surname><given-names initials="X">Xiao</given-names></name><xref rid="aff1" ref-type="aff">†</xref></contrib><contrib contrib-type="author" id="ath6"><name name-style="western"><surname>Zasadzinski</surname><given-names initials="JA">Joseph
+A.</given-names></name><xref rid="aff4" ref-type="aff">∥</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath7"><name name-style="western"><surname>Reich</surname><given-names initials="NO">Norbert O.</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">†</xref></contrib><aff id="aff1"><label>†</label>Department
+of Chemistry and Biochemistry, <institution>University
+of California</institution>, Santa Barbara, California 93106, <country>United States</country></aff><aff id="aff2"><label>‡</label>Cancer
+Research Center, <institution>Sanford-Burnham Medical
+Research Institute</institution>, La Jolla, California 92037, <country>United States</country></aff><aff id="aff3"><label>§</label><institution>Sanford-Burnham
+Medical Research Institute at University of California</institution>, Santa Barbara, California 93106, <country>United States</country></aff><aff id="aff4"><label>∥</label>Department
+of Chemical Engineering and Materials Science, <institution>University of Minnesota</institution>, Minneapolis, Minnesota 55455, <country>United States</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Phone: <phone>(805) 893-8368</phone>. Fax: <fax>(805) 893-4120</fax>. E-mail: <email>reich@chem.ucsb.edu</email>.</corresp></author-notes><pub-date pub-type="epub"><day>09</day><month>12</month><year>2014</year></pub-date><pub-date pub-type="ppub"><day>02</day><month>02</month><year>2015</year></pub-date><volume>12</volume><issue>2</issue><issue-id pub-id-type="pmc-issue-id">249006</issue-id><fpage>600</fpage><lpage>609</lpage><history><date date-type="received"><day>08</day><month>10</month><year>2014</year></date><date date-type="accepted"><day>09</day><month>12</month><year>2014</year></date><date date-type="rev-recd"><day>03</day><month>12</month><year>2014</year></date></history><pub-history><event event-type="pmc-release"><date><day>09</day><month>12</month><year>2015</year></date></event><event event-type="pmc-live"><date><day>09</day><month>12</month><year>2015</year></date></event><event event-type="pmc-released-under-embargo"><date><day>11</day><month>08</month><year>2015</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2015-12-09 00:08:09.563"><day>09</day><month>12</month><year>2015</year></date></event></pub-history><permissions><copyright-statement>Copyright © 2014 American Chemical Society</copyright-statement><copyright-year>2014</copyright-year><copyright-holder>American Chemical Society</copyright-holder><license><license-p>This is an open access article published under an ACS AuthorChoice <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/page/policy/authorchoice_termsofuse.html">License</ext-link>, which permits copying and redistribution of the article or any adaptations for non-commercial purposes.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="mp500675p.pdf"/><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="ab-tgr1" position="float" orientation="portrait" xlink:href="mp-2014-00675p_0007.jpg"/></p><p>While
+a host of methods exist to deliver genetic materials or small
+molecules to cells, very few are available for protein delivery to
+the cytosol. We describe a modular, light-activated nanocarrier that
+transports proteins into cells by receptor-mediated endocytosis and
+delivers the cargo to the cytosol by light triggered endosomal escape.
+The platform is based on hollow gold nanoshells (HGN) with polyhistidine
+tagged proteins attached through an avidity-enhanced, nickel chelation
+linking layer; here, we used green fluorescent protein (GFP) as a
+model deliverable cargo. Endosomal uptake of the GFP loaded nanocarrier
+was mediated by a C-end Rule (CendR) internalizing peptide fused to
+the GFP. Focused femtosecond pulsed-laser excitation triggered protein
+release from the nanocarrier and endosome disruption, and the released
+protein was capable of targeting the nucleoli, a model intracellular
+organelle. We further demonstrate the generality of the approach by
+loading and releasing Sox2 and p53. This method for targeting of individual
+cells, with resolution similar to microinjection, provides spatial
+and temporal control over protein delivery.</p></abstract><kwd-group><kwd>protein delivery</kwd><kwd>nanoshell</kwd><kwd>gold</kwd><kwd>near-infrared laser</kwd><kwd>targeted delivery</kwd><kwd>endosome
+escape</kwd></kwd-group><funding-group><funding-statement><funding-source>National Institutes of Health, United States</funding-source></funding-statement></funding-group><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>mp500675p</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>mp-2014-00675p</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="intro" id="sec1"><label>1</label><title>Introduction</title><p>Developing
+novel biochemical approaches to characterize and control
+intracellular pathways and modify the action of cells and organisms
+forms a core goal of biology and medicine.<sup><xref ref-type="bibr" rid="ref1">1</xref></sup> Ultimately, the synthesis and intracellular delivery of molecules
+with spatial and temporal control provides a powerful combination.
+Light-activation offers a means to maintain external spatial and temporal
+control, demonstrated originally in 1978 by Kaplan and co-workers
+with light-activated “caged” ATP.<sup><xref ref-type="bibr" rid="ref2">2</xref></sup> However, many of the limitations of the original approach
+that require the specific chemical modification of each molecule to
+be delivered and the need for high energy UV light to trigger activation
+still remain.<sup><xref ref-type="bibr" rid="ref3">3</xref></sup></p><p>Plasmonic gold nanoparticles
+have attractive applications in biomolecule
+delivery owing to their ease of surface functionalization and strong
+absorption of physiologically friendly, near-infrared light.<sup><xref ref-type="bibr" rid="ref4">4</xref></sup> Spatially and temporally controlled cargo release
+from gold nanoparticles has been shown with oligonucleotides for gene
+regulation and expression<sup><xref ref-type="bibr" rid="ref5">5</xref>−<xref ref-type="bibr" rid="ref8">8</xref></sup> and small molecules for anticancer therapy,<sup><xref ref-type="bibr" rid="ref9">9</xref>,<xref ref-type="bibr" rid="ref10">10</xref></sup> using illumination wavelengths corresponding to the plasmon resonance.
+Proteins carry out and regulate the majority of the known cellular
+functions, and changes in their primary sequence or expression levels
+lead to diverse diseases.<sup><xref ref-type="bibr" rid="ref11">11</xref>,<xref ref-type="bibr" rid="ref12">12</xref></sup> Although extracellular
+protein therapeutics have been remarkably successful (e.g., insulin,
+recombinant factor IX, erythropoietin, and interferon<sup><xref ref-type="bibr" rid="ref13">13</xref>−<xref ref-type="bibr" rid="ref16">16</xref></sup>), replacing or modulating the function of intracellular proteins
+remains an unmet challenge.<sup><xref ref-type="bibr" rid="ref17">17</xref></sup> The next
+frontier of protein therapeutics aims to modulate a wide range of
+intracellular metabolic, signaling, and regulatory activities, as
+well as guiding stem cell differentiation by transcriptional network
+perturbation.<sup><xref ref-type="bibr" rid="ref18">18</xref>−<xref ref-type="bibr" rid="ref20">20</xref></sup> For a therapeutic protein to reach the site of action
+inside the cell it must cross the plasma membrane and retain its biological
+function.<sup><xref ref-type="bibr" rid="ref17">17</xref>,<xref ref-type="bibr" rid="ref21">21</xref></sup> Transmembrane and endocytic delivery are
+each confounded by the large macromolecular size, variable net charge,
+and complex structure of proteins.<sup><xref ref-type="bibr" rid="ref22">22</xref></sup> The
+tendency for proteins to become trapped and degraded inside endosomes
+and lysosomes,<sup><xref ref-type="bibr" rid="ref22">22</xref></sup> the last mile problem,
+has been approached by using protein transduction domains,<sup><xref ref-type="bibr" rid="ref23">23</xref>,<xref ref-type="bibr" rid="ref24">24</xref></sup> endosomal disrupting agents,<sup><xref ref-type="bibr" rid="ref25">25</xref></sup> degradable
+polymeric carriers,<sup><xref ref-type="bibr" rid="ref26">26</xref>,<xref ref-type="bibr" rid="ref27">27</xref></sup> and membrane interacting supramolecular
+particles.<sup><xref ref-type="bibr" rid="ref21">21</xref>,<xref ref-type="bibr" rid="ref28">28</xref></sup> Despite these, endosomal escape
+remains inefficient,<sup><xref ref-type="bibr" rid="ref24">24</xref></sup> and furthermore,
+many of these methods cannot be confined to a specific cell type or
+area, or the timing of release is uncontrolled.<sup><xref ref-type="bibr" rid="ref21">21</xref></sup> For example, electroporation requires high concentrations
+of protein<sup><xref ref-type="bibr" rid="ref22">22</xref>,<xref ref-type="bibr" rid="ref29">29</xref></sup> and is more commonly used to
+deliver nucleic acids. Techniques for protein delivery to individual
+cells in a two-dimensional culture format are limited to (1) microinjection,<sup><xref ref-type="bibr" rid="ref30">30</xref></sup> which has low throughput and is not compatible
+with three-dimensional tissues,<sup><xref ref-type="bibr" rid="ref31">31</xref></sup> and (2)
+light activated polymer degradable methods, which respond to UV rather
+than NIR irradiation.<sup><xref ref-type="bibr" rid="ref32">32</xref>,<xref ref-type="bibr" rid="ref33">33</xref></sup></p><p>Here we report the design
+of a modular plasmonic nanocarrier platform
+that delivers His-tagged proteins into the cytosol of cells, based
+on a novel photocleavable oligonucleotide linker system (Scheme <xref rid="sch1" ref-type="scheme">1</xref>). Our molecular linker design uses nickel-chelating
+groups to overcome limitations posed by covalent immobilization of
+proteins, thus allowing on-demand temporal control over release of
+functional proteins from hollow gold nanoshells (HGN) tuned to absorb
+in the biological “optical” window at 800 nm. By incorporating
+peptides to induce receptor-mediated endocytosis, we observed efficient
+and specific cellular targeting that is immediately applicable to
+ongoing efforts in drug delivery and tissue engineering. Endosomal
+escape and cargo release were activated through an integration of
+targeted nanocarriers and two-photon (pulsed laser) patterning microscopy,
+taking advantage of the exquisite spatial control offered by the laser
+scanning system to achieve subcellular resolution and real-time monitoring
+of the protein transduction process.</p><fig id="sch1" position="float" orientation="portrait"><label>Scheme 1</label><caption><title>Hollow Gold Nanoshell
+(HGN) Platform Designed for Intracellular Protein
+Delivery</title><p id="sch1-fn1">(a) Diagram of the modular
+plasmonic nanocarrier: a cell-targeting peptide motif (RPARPAR) is
+fused to His-tag modified green fluorescent protein (R-GFP), which
+is assembled on DNA-coated HGN. (b) Schematic representation of R-GFP-HGN
+cellular uptake and protein release. The cell targeting peptide mediates
+internalization by endocytosis. Laser excitation matching the nanocarrier
+plasmon resonance releases R-GFP into the cytosol. (c) Nanocarrier
+synthetic steps: HGN are coated with single stranded thiol-DNA-amine
+and reacted with NHS-PEG<sub>4</sub>-maleimide. Thiol NTA moiety addition
+generates HGN-NTA. NiCl<sub>2</sub> facilitates the binding of His
+tagged proteins by forming NTA-Ni<sup>2+</sup>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr1" position="float" orientation="portrait" xlink:href="mp-2014-00675p_0006.jpg"/></fig></sec><sec sec-type="materials|methods" id="sec2"><label>2</label><title>Materials and Methods</title><sec id="sec2.1"><label>2.1</label><title>Hollow Gold Nanoshell Synthesis</title><p>HGN
+were synthesized by galvanic replacement of silver seeds, as described
+previously.<sup><xref ref-type="bibr" rid="ref34">34</xref></sup> Silver seed particles were
+prepared by reducing a stirred solution of 500 mL of 0.2 mM AgNO<sub>3</sub> (Sigma) and 0.5 mM sodium citrate (Sigma) in deionized water
+with 0.5 mL of 1.0 M NaBH<sub>4</sub> (EMD) at 60 °C. The solution
+was stirred for 2 h and then cooled to room temperature before growing
+the seed particles to a final target size for use as a sacrificial
+template for the gold nanoshells growth with the addition of 0.75
+mL of 2 M NH<sub>2</sub>OH·HCl (Sigma) and 1.75 mL of 0.1 M AgNO<sub>3</sub> and stirred overnight at room temperature. The galvanic replacement
+of the silver template particles with gold was optimized to have an
+absorbance peak at around 800 nm by rapid addition of 3.2 mL of 25
+mM HAuCl<sub>4</sub> (Sigma) at 60 °C.</p></sec><sec id="sec2.2"><label>2.2</label><title>Preparation
+of NTA-HGN</title><p>Single stranded
+thiol modified 25mer DNA of sequence 3′-NH<sub>2</sub>-(CH<sub>2</sub>)<sub>7</sub>-GCCACCACGTCTACTTGAAGTCCCA-PEG<sub>18</sub>-(CH<sub>2</sub>)<sub>6</sub>-SS-(CH2)<sub>6</sub>-OH-5′
+was purchased from Biosearch Technologies and adsorbed onto HGN by
+the method described by Zhang et al.<sup><xref ref-type="bibr" rid="ref35">35</xref></sup> One
+hundred micromolar DNA was incubated with 10 mM Tris(2-carboxyethyl)phosphine
+hydrochloride (TCEP) (Sigma) for 30 min and then dialyzed against
+TE buffer pH 8.0 (IDT DNA) overnight at 4 °C. A final concentration
+of 3 μM TCEP-treated DNA was added to 32 pM HGN at which point
+low pH adsorption was induced with the addition of 10 mM sodium citrate
+to a final pH of 3.1. After 10 min the pH was neutralized to 7.4 with
+the addition of 1 M HEPES (Sigma), and the NaCl concentration was
+brought to 500 mM. The HGN were then pelleted by centrifugation three
+times at 9000 × <italic toggle="yes">g</italic> for 10 min, decanted, and
+the pellet resuspended in 500 mM NaCl in 10 mM phosphate buffer at
+pH 7.4 to remove excess DNA. <italic toggle="yes">N</italic>-[<italic toggle="yes">N</italic>α,<italic toggle="yes">N</italic>α-Bis(carboxymethyl)-<sc>l</sc>-lysine]-12-mercaptododecanamide
+(NTA) (Sigma) was then conjugated to the 3′ amine of the DNA
+scaffold with the addition of 1 mg/mL NHS-PEG<sub>4</sub>-maleimide
+linker (Quanta Biodesign) and incubated for 20 min at room temperature.
+The maleimide terminated HGN were pelleted 3 times at 9000 × <italic toggle="yes">g</italic> for 10 min at 4 °C, and 120 μM NTA was added
+and then incubated for 3 h at room temperature. After pelleting 3
+times, the solution was stored at 4 °C until use.</p></sec><sec id="sec2.3"><label>2.3</label><title>Protein Expression, Purification, and Loading
+on HGN</title><p>Oligonucleotides encoding the RPARPAR peptides were
+synthesized and ligated downstream of GFP with a glycine-serine linker
+placed in between in the backbone pRSET-EmGFP (Invitrogen). pRSET-Sox2
+was subcloned by replacing GFP with Sox2 in the RPARPAR-modified GFP
+construct (R-GFP). Both constructs were confirmed by DNA sequencing.
+pET15b-Human p53 was purchased from Addgene (plasmid 24859).<sup><xref ref-type="bibr" rid="ref36">36</xref></sup> All recombinant proteins were expressed in <italic toggle="yes">Escherichia coli</italic> BL21(DE3) (Novagen) and purified using
+nickel-nitrilotriacetic acid affinity chromatography. GFP protein
+was purified under native conditions, whereas Sox2 and p53 under denaturing
+conditions and refolded.</p><p>The protein of interest (POI) was loaded
+onto the HGN at a 100,000 to one POI/HGN molar ratio in the presence
+of 400 μM NiCl<sub>2</sub> and incubated for 30 min on ice.
+The HGN were pelleted by centrifugation at 9000 × <italic toggle="yes">g</italic> for 10 min at 4 °C for a minimum of 5 times to remove excess
+protein and resuspended at a final concentration of 320 pM of POI-HGN
+construct.</p></sec><sec id="sec2.4"><label>2.4</label><title>Femtosecond Laser for Protein
+Release Quantification</title><p>Samples were irradiated with pulses
+generated from a femtosecond
+Ti:sapphire regenerative amplifier (Spectraphysics Spitfire) running
+at 1 kHz repetition rate. The laser beam was collimated by a Galilean
+telescope to achieve a Gaussian diameter of 2.3 mm. In experiments
+without collimation, the full beam diameter was 5 mm. Pulse duration
+was monitored by a home-built single-shot optical autocorrelator and
+was kept at about 130 fs. The spectral full width at half-maximum
+of the laser radiation was 12 nm centered around 800 nm. The laser
+beam was directed onto the sample by a series of mirrors, and no focusing
+optics were used. The energy of the optical pulse was controlled by
+Schott neutral density glass filters. A thermopile power meter (Newport
+Inc., Irvine, CA) was used to measure the incident optical power.</p></sec><sec id="sec2.5"><label>2.5</label><title>Cell Culture and GFP-HGN Internalization</title><p>PPC-1 was maintained in high glucose Dulbecco’s Modified
+Eagle Medium (DMEM) with phenol red (HyClone) supplemented with 10%
+fetal bovine serum (HyClone) at 37 °C in 5% CO<sub>2</sub>. For
+spatial and temporal controlled release experiments, PPC-1 cells were
+grown on an 8-well chambered glass slide (Thermo LabTek II) at an
+initial seeding density of 40,000 cells per well for 24 h 37 °C
+in 5% CO<sub>2</sub> in complete media.</p><p>One to 10 μL of
+GFP-HGN at 320 pM was added per 100 μL of medium. After 2 h
+of incubation at 37 °C in 5% CO<sub>2</sub> atmosphere, the cells
+were rinsed with Hank’s Balanced Salt Solution (HBSS) (Thermo)
+prior to imaging.</p></sec><sec id="sec2.6"><label>2.6</label><title>Microplate Fluorescence
+Measurements</title><p>Fluorescence measurements of GFP were carried
+out using a Tecan Infinite
+200 Pro microplate reader, exciting at 450 nm (9 nm bandwidth) and
+reading emission spectra at 490 to 600 nm (20 nm bandwidth) or at
+a single point at 510 nm. The amount of GFP loaded onto NTA-HGN was
+determined by chemically competing for the nickel-NTA sites of 3.2
+pM nanoparticles with 100 mM imidazole in PBS and incubation for 30
+min. The particles were spun down at 12,000 × <italic toggle="yes">g</italic> for 10 min, and the supernatant was loaded into a 96-well flat clear
+bottom plastic microtiter plate for fluorescence readout.</p><p>Efficiency
+of GFP release by laser was examined by irradiating a number of samples
+with particle concentration of 3.2 pM R-GFP-HGN with variable laser
+powers and exposure times. HGN were then centrifuged at 12,000 × <italic toggle="yes">g</italic> for 10 min and the supernatants transferred to a 96-well
+flat clear bottom plastic plate for fluorescence readout. The pellets
+were then treated with 100 mM imidazole in PBS and then spun down
+to extract the supernatant containing the GFP retained on the HGN
+after laser excitation. The supernatant was loaded into a 96-well
+flat clear bottom plastic microtiter plate for fluorescence readout.</p><p>Cellular GFP concentration was determined by incubating 32 pM R-GFP-HGN
+to a suspension of 500,000 cells for 2 h at 37 °C and 5% CO<sub>2</sub>. The cells were lysed with a solution of Triton X-100 in
+PBS and centrifuged to a pellet containing the HGN. The pellet was
+treated with 100 mM imidazole in PBS and centrifuged to transfer the
+supernatant containing liberated GFP to a 96-well plate to measure
+the fluorescence.</p><p>Standard curves for GFP concentration quantification
+in test tubes
+and in cells were generated by measuring the fluorescence intensity
+of known concentrations of GFP (determined by absorption spectroscopy
+with a NanoDrop 1000 (Thermo) using the extinction coefficient of
+emerald GFP of 57,500 M<sup>–1</sup> cm<sup>–1</sup> at 487 nm<sup><xref ref-type="bibr" rid="ref37">37</xref></sup>) serially diluted in the
+proper experimental buffer.</p><p>CBQCA protein staining of Sox2 was
+performed as directed in the
+manufacturer’s protocol (Invitrogen). Fluorescence analysis
+was performed on a black 96-well plate with the Tecan Infinite 200
+Pro plate reader exciting at 465 nm (9 nm bandwidth) and reading emission
+at 550 nm (20 nm bandwidth).</p></sec><sec id="sec2.7"><label>2.7</label><title>Western Blot Analysis</title><p>Following laser
+excitation, HGN loaded with Sox2 or p53 was pelleted by centrifugation
+at 14,000 × <italic toggle="yes">g</italic> for 10 min. The pellet was etched
+with KCN to release the remaining protein into solution. A 1×
+solution of Laemmli sample buffer (Bio-Rad) was added to the samples
+and then boiled for 10 min. The samples were run on a 12% SDS-PAGE
+gel and then transferred to a polyvinyl difluoride (PVDF) membrane
+(Bio-Rad). The membrane was stained with a mouse anti-HIS tag monoclonal
+antibody (Abgent) at a 1:500 dilution at 4 °C overnight. After
+stringent wash, the membrane was then stained with Alexa Fluor 488
+goat antimouse IgG secondary antibody (Invitrogen) for 3 h at room
+temperature. The membrane was imaged with a Typhoon Trio (GE) scanner.</p></sec><sec id="sec2.8"><label>2.8</label><title>Cell Viability Assay</title><p>Five thousand
+cells in 100 μL of complete medium were seeded in a 96-well
+plate and grown overnight at 37 °C and 5% CO<sub>2</sub>. The
+cells were treated with R-GFP-HGN using the methods described above.
+The cells were irradiated using an 800 nm pulse-pumped femtosecond
+Ti:sapphire regenerative amplifier running at 1 kHz repetition rate
+using a 5 mm full beam diameter with variable exposure times and powers.
+After 72 h the cell viability was determined by PrestoBlue (Life Technologies)
+according to the manufacturer’s protocol. The viability was
+analyzed using a Tecan Infinite 200 Pro microplate reader, exciting
+at 560 nm (9 nm bandwidth) and reading emission at 590 nm (20 nm bandwidth).</p></sec><sec id="sec2.9"><label>2.9</label><title>Two-Photon and Confocal Microscopy</title><p>Imaging
+was performed using an Olympus Fluoview 1000 MPE Microscope.
+Living cells were excited with a mode-locked Ti:sapphire tunable (690–1020
+nm) femtosecond pulsed laser (100 fs pulse duration, 80 MHz repetition
+rate, Mai Tai HP, Newport-Spectra Physics) regulated with a modulator
+linked to the Fluoview software. A 25× water immersion objective
+with a numerical aperture of 1.05 was used. Images were collected
+in a 12 bit file with 512 × 512 pixels. GFP fluorescence in cells
+plated on an 8-well glass slide was imaged with a 15 mW blue laser
+diode exciting at 473 nm raster scanning at a speed of 80,000 Hz.
+NIR excitation of R-GFP-HGN was performed using the femtosecond pulsed
+Mai-Tai laser tuned to 800 nm at a raster scan speed of 125,000 Hz
+up to 35 full-frame cycles. Cells were imaged again with the 473 nm
+laser diode. Spatially controlled release experiments were performed
+by selecting a region of interest using the Fluoview software to scan
+only the selected area with the femtosecond pulsed laser.</p></sec><sec id="sec2.10"><label>2.10</label><title>Image Analysis for Quantification of GFP
+Release by Microscopy</title><p>Ratio quantification for Figure <xref rid="fig3" ref-type="fig">3</xref> was performed using the Ratio Plus plugin in ImageJ
+to calculate the pixel ratio between images corresponding to after
+and before NIR excitation. Background subtraction on the images was
+performed after determining the average background intensity. Line
+intensity profile was performed on ImageJ.</p><p>Corrected total cell
+fluorescence (Figure <xref rid="fig4" ref-type="fig">4</xref>) was calculated from
+the integrated density within an ROI enclosing a specific cell (determined
+by ImageJ) according to the formula: CTCF = IntDen – (area
+of cell × mean fluorescence of background).</p></sec><sec id="sec2.11"><label>2.11</label><title>Statistics</title><p>Differences between the
+viability of the two groups with different laser power intensity and
+exposure time were analyzed by two-way ANOVA with Bonferroni’s
+post-tests using GraphPad Prism 5 software (GraphPad Software, La
+Jolla, USA). The means ± standard deviations of triplicate samples
+are reported, and a <italic toggle="yes">p</italic> ≤ 0.05 was considered
+statistically significant.</p><p>Differences between the mean fluorescence
+for cells irradiated by the laser versus nonirradiated (Figure <xref rid="fig4" ref-type="fig">4</xref>f) were analyzed by 2-sample Kolmogorov–Smirnov
+test using OriginPro. A <italic toggle="yes">p</italic> &lt; 0.005 was considered
+statistically highly significant.</p></sec></sec><sec id="sec3"><label>3</label><title>Results
+and Discussion</title><p>Exposure of HGN to femtosecond pulsed near-infrared
+(NIR) laser
+light generates hot electrons that can cleave a thiol-gold surface
+bond, without damaging an attached nucleic acid cargo.<sup><xref ref-type="bibr" rid="ref4">4</xref>−<xref ref-type="bibr" rid="ref6">6</xref>,<xref ref-type="bibr" rid="ref38">38</xref></sup> Also, the laser-supplied energy
+induces plasmonic heating of a thin (nanometer-scale) shell of water
+surrounding the metal surface, occurring on a time scale of picoseconds
+that is too short for heat dissipation to the bulk fluid,<sup><xref ref-type="bibr" rid="ref4">4</xref>−<xref ref-type="bibr" rid="ref6">6</xref>,<xref ref-type="bibr" rid="ref38">38</xref>,<xref ref-type="bibr" rid="ref39">39</xref></sup> thus inducing generation of nanobubbles. When HGN are localized
+intracellularly in endosomes, the nanobubbles can breach the endosomal
+barrier. This local heating effect has been harnessed to deliver nucleic
+acids in previous reports, but protein delivery has not been described
+using such plasmonic nanostructures. Herein, we introduce a protein
+delivery platform based on HGN coated by a densely packed DNA layer
+that serves both as anchor for proteins and as a release switch when
+irradiated by pulsed NIR light matching the HGN plasmon resonance
+wavelength (Scheme <xref rid="sch1" ref-type="scheme">1</xref>).</p><sec id="sec3.1"><label>3.1</label><title>Assembly
+of Nitrilotriacetic Acid Handle on
+Hollow Gold Nanoshells</title><p>HGN of 40 ± 15 nm diameter and
+5 ± 2 nm shell thickness were synthesized via the galvanic replacement
+of gold from sacrificial silver templates as described previously
+(Figure S1, <xref rid="notes-1" ref-type="notes">Supporting Information</xref>).<sup><xref ref-type="bibr" rid="ref6">6</xref>,<xref ref-type="bibr" rid="ref40">40</xref></sup> The HGN diameter and shell thickness were optimized to provide a
+plasmon absorption peak at ∼800 nm since NIR (750–2500
+nm) light is physiologically friendly as it penetrates cells, blood,
+and soft tissues at depths up to several centimeters without damage.<sup><xref ref-type="bibr" rid="ref6">6</xref>,<xref ref-type="bibr" rid="ref41">41</xref></sup> Proteins were attached to the HGN using the histidine (His) tag,
+which typically consists of five or six His residues added to the
+N- or C-terminus of the protein by recombinant engineering.<sup><xref ref-type="bibr" rid="ref42">42</xref>−<xref ref-type="bibr" rid="ref44">44</xref></sup> Protein tag sequences have been instrumental for the efficient purification,
+detection, and surface immobilization of a variety of proteins, and
+the His-tag is one of the most commonly used methods for immobilization
+of functional proteins.<sup><xref ref-type="bibr" rid="ref45">45</xref></sup> The imidazole
+moieties of the His residues chelate the free coordination sites of
+divalent metal ions (e.g., Ni<sup>2+</sup> and Co<sup>2+</sup>), which
+in turn can be immobilized as chelate complexes of nitrilotriacetic
+acid (NTA) bound to a solid support via various linkers. NTA chelates
+Ni<sup>2+</sup> strongly, while additional sites on the Ni metal center
+remain open for chelating a His-tag.<sup><xref ref-type="bibr" rid="ref46">46</xref></sup></p><p>To secure the NTA-Ni<sup>2+</sup> handles on HGN, we first assembled
+a densely packed monolayer of single stranded thiol-DNA-amine onto
+the HGN surface by low-pH adsorption.<sup><xref ref-type="bibr" rid="ref35">35</xref></sup> The number of linker DNA-amines attached to the HGN was ∼3000,
+determined by fluorescence labeling of the amine with NHS-fluorescein
+following a previously described method.<sup><xref ref-type="bibr" rid="ref5">5</xref></sup> The DNA layer stabilized the HGN against aggregation, while providing
+a high density of terminal amine groups<sup><xref ref-type="bibr" rid="ref47">47</xref></sup> used to attach the Ni<sup>2+</sup> and protein chelator, the NTA-containing
+moiety <italic toggle="yes">N</italic>-[<italic toggle="yes">N</italic>α,<italic toggle="yes">N</italic>α-bis(carboxymethyl)-<sc>l</sc>-lysine]-12-mercaptododecanamide,
+via a hydrophilic and flexible NHS-PEG-maleimide linker (Scheme <xref rid="sch1" ref-type="scheme">1</xref>). These steps resulted in a novel, generalized
+carriage system for His-tagged proteins based on a photoreleasing
+HGN core (NTA-HGN).</p><p>The affinity of individual NTA-Ni<sup>2+</sup> to His-tags is relatively
+low, with <italic toggle="yes">K</italic><sub>D</sub> of 10<sup>–6</sup> M at neutral pH.<sup><xref ref-type="bibr" rid="ref42">42</xref></sup> However, when a support
+surface has a high density of immobilized NTA-Ni<sup>2+</sup>, multiple
+linkages and “rebinding” effects by a His tagged protein
+provide a greater affinity and long-lasting association.<sup><xref ref-type="bibr" rid="ref42">42</xref>,<xref ref-type="bibr" rid="ref43">43</xref>,<xref ref-type="bibr" rid="ref48">48</xref></sup> It is with this valency effect
+in mind that we designed our photoactivated HGN platform. A densely
+packed NTA-Ni linker layer strongly binds the cargo protein to the
+HGN. Upon laser treatment the linkers release from the HGN surface
+and each one, acting on its own, reverts to the much reduced affinity
+(<italic toggle="yes">K</italic><sub>D</sub>) of the individual NTA-Ni<sup>2+</sup>-His bond.<sup><xref ref-type="bibr" rid="ref42">42</xref></sup> Hence, the linker moieties
+and His-tag are expected to dissociate rapidly and diffuse away, leaving
+the protein free and in its active state.</p><p>As proof of concept
+for protein delivery to cells, we designed
+a model protein with an N-terminal 6-His-tag and a C-terminal cell-targeting
+peptide motif (RPARPAR), on a green fluorescent protein (GFP) backbone,
+designated R-GFP. This cell-penetrating GFP variant was generated
+using recombinant protein engineering, as is possible for a wide variety
+of potential His-tagged protein cargo. The peptide motif RPARPAR at
+the C-terminus, which follows the RXXR sequence found in the C-end
+Rule (CendR), facilitates specific endosome internalization into Neuropilin-1
+(NRP-1) expressing cancer cells.<sup><xref ref-type="bibr" rid="ref23">23</xref>,<xref ref-type="bibr" rid="ref49">49</xref></sup> NRP-1 is often
+overexpressed in tumors and is associated with poor prognosis,<sup><xref ref-type="bibr" rid="ref23">23</xref>,<xref ref-type="bibr" rid="ref50">50</xref>,<xref ref-type="bibr" rid="ref51">51</xref></sup> generating significant interest
+as a receptor for targeted drug delivery. Importantly, R-GFP serves
+as both fluorescent tracer and as an indicator of the mildness of
+the photorelease event since it fluoresces only if its tertiary structure
+is not denatured.<sup><xref ref-type="bibr" rid="ref52">52</xref>−<xref ref-type="bibr" rid="ref54">54</xref></sup></p></sec><sec id="sec3.2"><label>3.2</label><title>Characterization of Release
+from Nanocarrier
+Platform</title><p>To assemble the protein onto the nanoparticles,
+R-GFP was incubated with the HGN-NTA at 100,000:1 R-GFP/HGN molar
+ratio in the presence of NiCl<sub>2</sub>. The large excess of protein
+was chosen to ensure maximal loading onto the particles and resulted
+in colloidally stable complexes (R-GFP-HGN). After washing, the amount
+of R-GFP successfully loaded onto the HGN was determined spectroscopically
+by His-tag elution with imidazole (Figure <xref rid="fig1" ref-type="fig">1</xref>a). Imidazole is known to compete with the NTA:Ni<sup>2+</sup> for
+the His-tag, and we found that this treatment completely released
+R-GFP from HGN (Figure <xref rid="fig1" ref-type="fig">1</xref>a). The loading of
+R-GFP on HGN caused a reversible ∼80% quenching of the protein
+fluorescence, relative to free R-GFP (Figure <xref rid="fig1" ref-type="fig">1</xref>a), attributed to the well-known fluorescence quenching properties
+of gold. The dequenching of R-GFP upon release from HGN was used to
+characterize the treatment efficiency under various laser conditions
+(Figure <xref rid="fig1" ref-type="fig">1</xref>b).<sup><xref ref-type="bibr" rid="ref55">55</xref></sup></p><fig id="fig1" position="float" orientation="portrait"><label>Figure 1</label><caption><p>Characterization
+of the nanocarrier platform. (a) R-GFP fluorescence
+was partially quenched when bound to HGN; however, fluorescence increased
+upon exposure to laser excitation power of 1.5 W/cm<sup>2</sup> for
+30 s. Imidazole competes with histidine for the linker chelator groups
+on the HGN, chemically releasing the protein from the nanocarrier,
+resulting in maximum dequenching. R-GFP-HGN UV–vis absorbance
+decreased after laser exposure, indicative of changes to the core
+structure. (b) Quantification of R-GFP release from HGN after laser
+treatment at various laser powers and exposure times. R-GFP remaining
+on the HGN after laser exposure is released by imidazole competition
+and presented as the “retained” value, which is greater
+for lower laser powers and exposure times. Error bars represent the
+standard deviation. The expected sum of laser followed by imidazole
+is ∼100%. Reabsorption of R-GFP onto freshly exposed gold surfaces
+and partial protein denaturation may explain the incomplete release
+under certain conditions, as nonspecifically bound proteins would
+not be susceptible to imidazole competition. (c) R-GFP-HGN was internalized
+into PPC-1 cells, which were then treated with various combinations
+of laser power and exposure time. Decreased viability was observed
+in cells exposed to 2.3 W/cm<sup>2</sup> fluence for 60 s (<italic toggle="yes">p</italic> &lt; 0.05, *), well above the optimal release conditions.
+No loss in cell viability was observed with laser in the absence of
+HGN.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr2" position="float" orientation="portrait" xlink:href="mp-2014-00675p_0002.jpg"/></fig><p>Our optimized nanoplatform carried
+∼800 R-GFP per HGN (Figure
+S2, <xref rid="notes-1" ref-type="notes">Supporting Information</xref>), which, if
+we consider binding to occur only to the exterior of the HGN, indicates
+a footprint of ∼7 nm<sup>2</sup> per protein. This is a reasonable
+estimate since GFP is a barrel-shaped protein 4.2 nm long and 2.4
+nm in diameter and has a cross-sectional area of ∼4.5 nm<sup>2</sup>. Assuming that each amine (∼3000 per HGN) was converted
+to an NTA-Ni<sup>2+</sup> during synthesis, there were ∼4 NTA-Ni<sup>2+</sup> available per GFP. We note that this value is above the
+expected minimum of two NTA-Ni groups per His tag required for stable,
+avidity-enhanced association.<sup><xref ref-type="bibr" rid="ref42">42</xref></sup> Furthermore,
+we observed minimal nonspecific binding in the absence of Ni<sup>2+</sup> ions (Figure S3, <xref rid="notes-1" ref-type="notes">Supporting Information</xref>), substantiating the specificity of the NTA-Ni<sup>2+</sup> linkage.<sup><xref ref-type="bibr" rid="ref56">56</xref></sup></p><p>To characterize release of the protein,
+a wide-beam pulsed laser
+(diameter ∼5 mm) was directed at R-GFP-HGN in solution. We
+found that the R-GFP fluorescence increased in a laser power and exposure
+time-dependent manner, indicating a controlled detachment of the R-GFP
+from the HGN.<sup><xref ref-type="bibr" rid="ref6">6</xref></sup> The laser exposure was expected
+to break, or thermalize, the gold–thiol bonds holding the DNA<sup><xref ref-type="bibr" rid="ref5">5</xref>,<xref ref-type="bibr" rid="ref6">6</xref>,<xref ref-type="bibr" rid="ref57">57</xref></sup> and, by extension, cause the
+NTA-Ni<sup>2+</sup> handles to release from the HGN. The linker length
+was chosen to position the protein several nanometers from the surface
+(Scheme <xref rid="sch1" ref-type="scheme">1</xref>) so that protein temperature remains
+near ambient during laser release,<sup><xref ref-type="bibr" rid="ref58">58</xref></sup> and
+thermal denaturation should be minimal.<sup><xref ref-type="bibr" rid="ref59">59</xref></sup> A release of ∼55% R-GFP, as compared to imidazole release,
+was possible for the optimal conditions (Figure <xref rid="fig1" ref-type="fig">1</xref>b): irradiation at 800 nm at 0.9–1.5 W/cm<sup>2</sup> (corresponding
+to a pulse fluence of 0.9–1.5 mJ/cm<sup>2</sup>, using 130
+fs pulses at 1 kHz pulse repetition rate), for 30–60 s. For
+3 s exposure at 1.5 W/cm<sup>2</sup> a moderate fraction of ∼35%
+R-GFP was released. Since GFP fluorescence is known to directly correlate
+with having a natively folded structure,<sup><xref ref-type="bibr" rid="ref52">52</xref></sup> the fluorescence we observe after laser release supports a conclusion
+that the protein was released intact. We found that the remaining
+bound fraction of R-GFP was releasable by subsequent imidazole treatment
+of the particles (Figure <xref rid="fig1" ref-type="fig">1</xref>b), and the sum of
+laser and imidazole released R-GFP approximately matched that from
+using imidazole alone. This result attests to the mildness of the
+release. We conclude that at least 50% of the R-GFP cargo could be
+released from HGN, with optical control, and without significant protein
+denaturation.</p><p>We demonstrate that our nanoparticle assembly
+can also support
+the loading and release of transcription factors Sox2 and p53 (Figure <xref rid="fig2" ref-type="fig">2</xref>), establishing the versatility of the nanocarrier
+platform. Sox2-carrying HGN (Sox2-HGN) was subjected to laser irradiation
+and release assessed to be up to 60% of total protein, using the protein-reactive
+fluorescent dye 3-(4-carboxybenzoyl) quinoline-2-carboxaldehyde (CBQCA),
+as shown in Figure <xref rid="fig2" ref-type="fig">2</xref>a. Following laser treatment
+and HGN centrifugation of Sox2-HGN and p53-HGN, the pellet was etched
+using KCN, to quantify the amount of protein retained on the nanocarrier
+by Western Blot and densitometry analysis (Figure <xref rid="fig2" ref-type="fig">2</xref>b,c). A sharp extra Sox2 band is observed indicating site
+specific degradation of the protein as a result of the extensive processing
+during the sample analysis and lack of protease inhibitors. Similar
+degradation was observed in previous reports and suggests that degradation
+is not dependent on the laser.<sup><xref ref-type="bibr" rid="ref60">60</xref></sup> Sox2 shows
+a laser power-dependent release with approximately 40% of the protein
+retained on the HGN after irradiation with 2.3 W/cm<sup>2</sup> for
+30 s (Figure <xref rid="fig2" ref-type="fig">2</xref>a), confirming the quantification
+done by CBQCA. Finally, we demonstrate that p53 shows a similar release
+pattern upon laser irradiation (Figure <xref rid="fig2" ref-type="fig">2</xref>c).</p><fig id="fig2" position="float" orientation="portrait"><label>Figure 2</label><caption><p>Characterization
+of Sox2 and p53 loading and release. (a) Bar graph
+showing the fraction of Sox2 that could be released from Sox2-HGN
+by each of the consecutive steps: ±laser, imidazole, and KCN
+etching of the HGN. For −Laser the fraction of Sox2 released
+by KCN was similar to the +Laser step. Sox2 release from Sox2-HGN
+was determined by labeling with an amine reactive dye CBQCA after
+laser exposure at 2.3 W/cm<sup>2</sup> for 30 s. The amount of Sox2
+that remained on the HGN was evaluated by pelleting and treating with
+imidazole and KCN, respectively. (b) Anti-HIS Western Blot of Sox2
+retained on HGN after laser irradiation. Upon laser irradiation, samples
+were pelleted and washed, then HGN was etched with KCN, and solutions
+were run on a 12% SDS PAGE gel. Etching the HGN with KCN after laser
+excitation showed decreasing band intensity with increasing laser
+power density revealing release of Sox2 from the nanoparticle surface.
+An additional Sox2 band is observed from nonlaser-dependent degradation
+due to sample processing. Laser power densities were varied at a constant
+exposure time of 30 s. (c) p53 release from p53-HGN was evaluated
+by Western blot staining as in panel b after laser exposure at 2.3
+W/cm<sup>2</sup> for 30 s.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr3" position="float" orientation="portrait" xlink:href="mp-2014-00675p_0003.jpg"/></fig></sec><sec id="sec3.3"><label>3.3</label><title>Cytotoxicity</title><p>NRP-1 expressing PPC-1
+cells were incubated with R-GFP-HGN optimized to allow maximal internalization
+while minimizing the incubation time to 2 h (yielding an estimated
+count of 120 R-GFP-HGN per cell, see <xref rid="notes-1" ref-type="notes">Supporting
+Information</xref> for details). The cells were exposed to the same
+range of NIR laser conditions used above for characterizing R-GFP,
+then cell viability was assessed 72 h post-treatment (Figure <xref rid="fig1" ref-type="fig">1</xref>c). There was no significant reduction of cell viability
+by GFP-HGN for exposure time of 60 s and 1.5 W/cm<sup>2</sup>, a condition
+giving maximum release in Figure <xref rid="fig1" ref-type="fig">1</xref>b. R-GFP-HGN
+in combination with laser treatment showed significant viability loss
+(30% or more) only for the highest laser power (2.3 W/cm<sup>2</sup>) and longest exposure times (60 s). As a control experiment the
+NIR treatment of cells without HGN showed negligible toxicity even
+at the highest light intensity.<sup><xref ref-type="bibr" rid="ref61">61</xref>,<xref ref-type="bibr" rid="ref62">62</xref></sup> The NRP-1 deficient
+melanoma cell line M21 served as a negative control for uptake (Figure
+S4, <xref rid="notes-1" ref-type="notes">Supporting Information</xref>).<sup><xref ref-type="bibr" rid="ref63">63</xref></sup> We quantified the GFP-HGN associated with PPC-1
+by cell lysate fluorescence to be ∼10<sup>5</sup> GFP molecules
+per cell or ∼100 nM GFP assuming 2 pL cell volume (Figure S6, <xref rid="notes-1" ref-type="notes">Supporting Information</xref>).<sup><xref ref-type="bibr" rid="ref64">64</xref></sup> This is competitive to typical intracellular concentrations of transcription
+factors such as p53, which has copy numbers ranging from 10<sup>4</sup> to 10<sup>5</sup> depending on tissue type and within the active
+concentration range of 10 nM to 10 μM of transcription factors
+transduced by peptide transduction domains.<sup><xref ref-type="bibr" rid="ref65">65</xref>−<xref ref-type="bibr" rid="ref67">67</xref></sup></p></sec><sec id="sec3.4"><label>3.4</label><title>Intracellular Release of GFP by NIR Laser
+Irradiation of GFP-HGN</title><p>Next, we tested the ability of R-GFP-HGN
+to release protein cargo from endosomes into the cytosol in response
+to NIR laser pulses. In Figure <xref rid="fig3" ref-type="fig">3</xref>, we explored protein release in PPC-1 cells using
+a laser scanning confocal two-photon microscope (Olympus Fluoview
+1000 MPE) equipped with a tunable (690–1020 nm) fs pulsed laser,
+as well as a 473 nm continuous wave laser. The instrument allows switching
+between these two modes of excitation, with fine control over imaging
+and submicron resolution in laser patterning. PPC-1 cells were cultured
+on chambered glass slides and incubated with R-GFP-HGN for 2 h to
+allow internalization to occur. Internalization of RPARPAR labeled
+nanoparticles is about 60% complete within an hour.<sup><xref ref-type="bibr" rid="ref68">68</xref></sup> RPARPAR is well-known to promote endocytosis.<sup><xref ref-type="bibr" rid="ref49">49</xref></sup> The field of view was irradiated with 800 nm
+fs pulsed laser light (80 MHz), then the imaging mode was switched
+back to single photon to compare with the initial image. By increasing
+the power of the pulsed-NIR laser we defined a working range for R-GFP
+release from the HGN. A laser power of 8 × 10<sup>3</sup> W/cm<sup>2</sup> was chosen (0.1 mJ/cm<sup>2</sup> pulse fluence, using 100
+fs pulses at 80 MHz pulse repetition rate, with beam diameter of ∼6
+μm), whereby an average exposure time of 280 μs caused
+a significant increase of R-GFP fluorescence intensity in cells, indicating
+dequenching and release from HGN (Figure <xref rid="fig3" ref-type="fig">3</xref>).
+Furthermore, an additional irradiation cycle released more R-GFP from
+the HGN but with diminishing returns (Figure <xref rid="fig3" ref-type="fig">3</xref>, second pass). Autofluorescence intensity from PPC-1 without R-GFP-HGN
+did not change upon laser exposure (Figure S7, <xref rid="notes-1" ref-type="notes">Supporting Information</xref>).</p><fig id="fig3" position="float" orientation="portrait"><label>Figure 3</label><caption><p>Quantification of R-GFP release in PPC-1
+cells after exposure to
+a focused NIR pulsed laser. (a) Single photon confocal microscopy
+fluorescence image of PPC-1 cells incubated with R-GFP-HGN for 2 h,
+prior to NIR excitation (Initial), and after two rounds of 800 nm
+fs pulsed laser exposure (first pass and second pass), across the
+full field of view with a total exposure of 280 μs per irradiated
+area for each pass. R-GFP release and dequenching is indicated by
+the overall increase in pixel brightness in almost all cells in the
+first and second passes. Scale bar is 50 μm. (b) The increase
+of pixel intensities before and after each pass of the laser was quantified
+by the ratio of after/before and is represented by white pixels (first
+and second pass ratios). Most of the cells show R-GFP release, but
+the ratio of increase was higher for the first pass than second pass,
+indicating first pass rapid release under these laser conditions.
+(c) Close up of the blue box region in panel a for three frames. Histogram
+of ratios in the white box region, plotted as percent of pixels from
+panel b. This plot shows the fluorescence intensity increases most
+during the first pass of the laser.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr4" position="float" orientation="portrait" xlink:href="mp-2014-00675p_0004.jpg"/></fig></sec><sec id="sec3.5"><label>3.5</label><title>Spatial Release by NIR Pulsed Laser Irradiation</title><p>To understand the spatial release capability of the R-GFP in greater
+detail, we next defined regions of interest (ROIs) for the focused
+scanning laser to specifically illuminate (Figure <xref rid="fig4" ref-type="fig">4</xref>). The laser was rastered
+within the user-defined shapes, modulated by a beam deflector that
+enables precise control over the exposure time applied at the pixel
+(sample volume) level. We incubated R-GFP-HGN with PPC-1 cells as
+in Figure <xref rid="fig3" ref-type="fig">3</xref>, and for the laser operation, we
+defined ROIs that contained single cells, or parts of cells, that
+were interspersed between negative control cells not to be exposed.
+In the first example (Figure <xref rid="fig4" ref-type="fig">4</xref>a,b) individual
+cells were targeted by ROI to test the cell level accuracy of the
+release process, whereas in Figure <xref rid="fig4" ref-type="fig">4</xref>c–f,
+we targeted cells and parts of cells within a high-density cell cluster.
+For each experiment the pulsed laser was rastered exclusively across
+the areas within each red ROI (Figure <xref rid="fig4" ref-type="fig">4</xref>a,c).
+Single-photon confocal imaging (473 nm laser) of R-GFP in the full
+field of view, before and ∼1 min after pulsed laser, revealed
+up to a 5-fold increase in intensity for the cells outlined by the
+ROIs (Figure <xref rid="fig4" ref-type="fig">4</xref>b,d). Figure <xref rid="fig4" ref-type="fig">4</xref>b shows that for cells external to the laser-exposed ROIs,
+one example being the cell within the blue oval (not targeted by laser),
+R-GFP was not released. The separation between it and the closest
+targeted ROI was ∼5 μm, indicating the laser patterning
+technique indeed has high fidelity.</p><fig id="fig4" position="float" orientation="portrait"><label>Figure 4</label><caption><p>Single cell resolution and spatial control
+of intracellular R-GFP
+delivery. (a) Red polygons define regions irradiated by the NIR laser.
+The blue oval (ROI 2) was not exposed to NIR. Fluorescence intensity
+increased for the irradiated ROIs after laser. The cell in ROI 1 was
+separated from the control cell ROI 2 by ∼5 μm. Scale
+bar is 50 μm. (b) Line profiles taken along the cell in ROI
+1 shows R-GFP fluorescence intensity increased up to 8-fold after
+laser, whereas the neighboring control cell in ROI 2 was unchanged.
+(c) Single photon confocal microscopy of R-GFP-HGN fluorescence before
+and after NIR laser exposure in the region denoted by the red square.
+Scale bar is 25 μm. (d) Intensity profile along lines 3 and
+4 in panel c showing the GFP fluorescence increase after laser. Nucleoli
+staining observed after laser irradiation (‡). Subcellular
+release of R-GFP was elicited mostly (▲), while the cellular
+area (•), not exposed, showed only a slight increase. Laser
+power density was ∼8 × 10<sup>3</sup> W/cm<sup>2</sup> (0.1 mJ/cm<sup>2</sup>), and ∼300 μs exposure time
+in the region is denoted by the red square. (e) Quantification of
+corrected total cell fluorescence percent increase in selected cells
+(outlines shown in panel f) above the initial intensity. <italic toggle="yes">N</italic> = 6 for cells completely outside the ROI, <italic toggle="yes">n</italic> = 5
+for all other cases. Mean intensity for cells completely inside the
+ROI was significantly higher than cells completely outside (Kolmogorov–Smirnov
+test; <italic toggle="yes">p</italic> &lt; 0.005; ***). Error bars represent standard
+error of the mean (SEM).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr5" position="float" orientation="portrait" xlink:href="mp-2014-00675p_0005.jpg"/></fig><p>Subcellular resolution over release was possible by defining
+a
+ROI smaller than the cells. In Figure <xref rid="fig4" ref-type="fig">4</xref>c,d,
+the portion of the cell (line scan 3) within the irradiated ROI areas
+showed increased intensity while the portion outside the ROI was not
+much increased. In quantification for several cells, Figure <xref rid="fig4" ref-type="fig">4</xref>e, those cells completely within the red square
+gave a total integrated cell fluorescence increase of ∼300%
+greater than the initial intensity, in good agreement with decreased
+R-GFP quenching in Figure <xref rid="fig4" ref-type="fig">4</xref>a,c. Two photon
+real-time imaging during NIR laser stimulation further confirmed an
+inverse relationship between cytosolic (diffuse) and endosomal (punctate)
+fluorescence intensity (Figure S8, <xref rid="notes-1" ref-type="notes">Supporting
+Information</xref>). Cells that were completely outside the area (Figure <xref rid="fig4" ref-type="fig">4</xref>e,f) showed negligible fluorescence increase (∼8%)
+likely due to changes in the focal plane when switching from single
+to multiphoton modality. For cells lying across the red lines, those
+cellular areas within the ROI showed increases of ∼300%, whereas
+regions of the same cells that were outside the ROI showed a moderate
+fluorescence increase, ∼60%, attributable to diffusion of intracellularly
+released R-GFP, occurring on a time scale of ∼1 min between
+stimulation and imaging. The reported intracellular diffusion coefficient
+of GFP in mammalian cells is ∼25 μm<sup>2</sup>/s,<sup><xref ref-type="bibr" rid="ref69">69</xref></sup> although R-GFP may diffuse at a different rate
+if the RPARPAR peptide motif interacts with cellular organelles, as
+GFP fused with arginine rich HIV-derived TAT peptide (YGRKKRRQRRR)
+was reported to have an impaired diffusion coefficient of 5.9 μm<sup>2</sup>/s.<sup><xref ref-type="bibr" rid="ref70">70</xref></sup> Interestingly, the RPARPAR
+peptide on the GFP seems to impart nuclear targeting properties since
+we observed that when the protein was delivered into the cytosol the
+nucleoli showed increased brightness relative to the nucleus as a
+whole (Figure <xref rid="fig4" ref-type="fig">4</xref>c). This effect is not surprising
+since RPARPAR resembles known nuclear localization sequences having
+cationic residues,<sup><xref ref-type="bibr" rid="ref71">71</xref></sup> as well as the putative
+histone binding peptide CQRPPR.<sup><xref ref-type="bibr" rid="ref72">72</xref></sup> Further
+studies may examine intracellular targeting of laser-released cargo
+in more detail.</p></sec></sec><sec sec-type="conclusions" id="sec4"><label>4</label><title>Conclusions</title><p>In summary,
+we utilized a commercial two-photon microscope to provide
+unprecedented control and real-time monitoring of payload release
+by “painting” individual cells with NIR light, providing
+protein delivery with cell-level resolution with no additional equipment
+or effort. We demonstrate cellular delivery of a His-tagged protein
+by a nanocarrier in response to a focused fs pulsed laser and show
+that the protein cargo retains a functional conformation. Spatial
+(of the order of 1 μm) and temporal (within seconds) control
+over delivery resulted from light absorption at the plasmon resonance
+of an optimized hollow gold nanoshell. We used a fusion protein containing
+a cell targeting peptide to drive uptake into endosomes, here demonstrated
+for the PPC-1 prostate cancer cells that express the NRP-1 receptor.
+The thiol-DNA-NTA anchoring system confers control over laser release;
+the gold–thiol bonds are thermalized and released by the NIR
+laser pulses, presumably reducing the valency of the NTA toward the
+protein and ultimately separating the protein from the HGN carrier.
+The NIR laser pulses also induce vapor bubble formation that leads
+to rupture of the endosomes and release of the GFP throughout the
+cell. We observed nuclear accumulation of released R-GFP, as well
+as increased fluorescence over distant cytosolic regions of the cell,
+which together indicate successful R-GFP delivery throughout the cell.
+There were minimal adverse effects on cell viability due to either
+the nanoparticles or irradiation with NIR light. This technique opens
+the possibility of delivering various His-tagged proteins to the cytosol
+of cells, individually or in concert, and could enable optical control
+for stem cell differentiation, or for selective apoptosis. Although
+different cells may be affected differently by the treatment, we anticipate
+that the platform can be tuned to best suit each cell line’s
+specific requirements.</p></sec></body><back><notes id="notes-1" notes-type="si"><title>Supporting Information Available</title><p>Experimental methods and additional
+data. This material is available free of charge via the Internet at <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://pubs.acs.org">http://pubs.acs.org</uri>.</p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1" position="float" orientation="portrait"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="mp500675p_si_001.pdf" position="float" orientation="portrait"><caption><p>mp500675p_si_001.pdf</p></caption></media></supplementary-material></sec><notes id="notes-2"><title>Author Present Address</title><p><sup>⊥</sup> Center for Bioengineering, University of California Santa Barbara,
+CA 93106, United States</p></notes><notes id="notes-3" notes-type="conflict-of-interest"><p>The authors
+declare no competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>This work
+was supported by National Institutes of Health (NIH)
+grant R01 EB012637. The authors thank T. Teesalu, E. Ruoslahti, and
+M. Moskovits for cell lines and helpful discussion, and A. Mikhailovsky
+for laser use. We thank M. Raven for aid with microscopy and acknowledge
+the support for the Olympus Fluoview 1000 MPE microscope from the
+NIH (1S10RR022585-01A1). D.P.M. acknowledges support from the NSF
+(NSF-OISE-0968399). G.B.B. acknowledges support from the NIH (R01
+CA 152327, T32 CA 121949) and the Cancer Center of Santa Barbara.</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name name-style="western"><surname>Heim</surname><given-names>R.</given-names></name>; <name name-style="western"><surname>Prasher</surname><given-names>D. C.</given-names></name>; <name name-style="western"><surname>Tsien</surname><given-names>R. Y.</given-names></name>
+<article-title>Wavelength mutations and posttranslational
+autoxidation of green fluorescent protein</article-title>. <source>Proc.
+Natl. Acad. Sci. U.S.A.</source>
+<year>1994</year>, <volume>91</volume><issue>26</issue><fpage>12501</fpage>–<lpage>4</lpage>.<pub-id pub-id-type="pmid">7809066</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.91.26.12501</pub-id><pub-id pub-id-type="pmcid">PMC45466</pub-id></mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name name-style="western"><surname>Kaplan</surname><given-names>J. H.</given-names></name>; <name name-style="western"><surname>Forbush</surname><given-names>B.</given-names><suffix>III</suffix></name>; <name name-style="western"><surname>Hoffman</surname><given-names>J. F.</given-names></name>
+<article-title>Rapid photolytic
+release of adenosine 5′-triphosphate from a protected analogue:
+utilization by the Na:K pump of human red blood cell ghosts</article-title>. <source>Biochemistry</source>
+<year>1978</year>, <volume>17</volume><issue>10</issue><fpage>1929</fpage>–<lpage>35</lpage>.<pub-id pub-id-type="pmid">148906</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/bi00603a020</pub-id></mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name name-style="western"><surname>Lee</surname><given-names>H. M.</given-names></name>; <name name-style="western"><surname>Larson</surname><given-names>D. R.</given-names></name>; <name name-style="western"><surname>Lawrence</surname><given-names>D. S.</given-names></name>
+<article-title>Illuminating the chemistry of life:
+design, synthesis, and applications of ″caged″ and related
+photoresponsive compounds</article-title>. <source>ACS Chem. Biol.</source>
+<year>2009</year>, <volume>4</volume><issue>6</issue><fpage>409</fpage>–<lpage>27</lpage>.<pub-id pub-id-type="pmid">19298086</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/cb900036s</pub-id><pub-id pub-id-type="pmcid">PMC2700207</pub-id></mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name name-style="western"><surname>Dreaden</surname><given-names>E. C.</given-names></name>; <name name-style="western"><surname>Alkilany</surname><given-names>A. M.</given-names></name>; <name name-style="western"><surname>Huang</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Murphy</surname><given-names>C. J.</given-names></name>; <name name-style="western"><surname>El-Sayed</surname><given-names>M. A.</given-names></name>
+<article-title>The golden
+age: gold nanoparticles for biomedicine</article-title>. <source>Chem.
+Soc. Rev.</source>
+<year>2012</year>, <volume>41</volume><issue>7</issue><fpage>2740</fpage>–<lpage>2779</lpage>.<pub-id pub-id-type="pmid">22109657</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1039/c1cs15237h</pub-id><pub-id pub-id-type="pmcid">PMC5876014</pub-id></mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name name-style="western"><surname>Huang</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Pallaoro</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Braun</surname><given-names>G. B.</given-names></name>; <name name-style="western"><surname>Morales</surname><given-names>D. P.</given-names></name>; <name name-style="western"><surname>Ogunyankin</surname><given-names>M. O.</given-names></name>; <name name-style="western"><surname>Zasadzinski</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Reich</surname><given-names>N. O.</given-names></name>
+<article-title>Modular plasmonic nanocarriers for
+efficient and targeted delivery of cancer-therapeutic siRNA</article-title>. <source>Nano Lett.</source>
+<year>2014</year>, <volume>14</volume><issue>4</issue><fpage>2046</fpage>–<lpage>51</lpage>.<pub-id pub-id-type="pmid">24597503</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/nl500214e</pub-id><pub-id pub-id-type="pmcid">PMC3985716</pub-id></mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name name-style="western"><surname>Braun</surname><given-names>G. B.</given-names></name>; <name name-style="western"><surname>Pallaoro</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Wu</surname><given-names>G.</given-names></name>; <name name-style="western"><surname>Missirlis</surname><given-names>D.</given-names></name>; <name name-style="western"><surname>Zasadzinski</surname><given-names>J. A.</given-names></name>; <name name-style="western"><surname>Tirrell</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Reich</surname><given-names>N. O.</given-names></name>
+<article-title>Laser-activated
+gene silencing via gold nanoshell–siRNA conjugates</article-title>. <source>ACS Nano</source>
+<year>2009</year>, <volume>3</volume><issue>7</issue><fpage>2007</fpage>–<lpage>2015</lpage>.<pub-id pub-id-type="pmid">19527019</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/nn900469q</pub-id></mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name name-style="western"><surname>Chen</surname><given-names>C.-C.</given-names></name>; <name name-style="western"><surname>Lin</surname><given-names>Y.-P.</given-names></name>; <name name-style="western"><surname>Wang</surname><given-names>C.-W.</given-names></name>; <name name-style="western"><surname>Tzeng</surname><given-names>H.-C.</given-names></name>; <name name-style="western"><surname>Wu</surname><given-names>C.-H.</given-names></name>; <name name-style="western"><surname>Chen</surname><given-names>Y.-C.</given-names></name>; <name name-style="western"><surname>Chen</surname><given-names>C.-P.</given-names></name>; <name name-style="western"><surname>Chen</surname><given-names>L.-C.</given-names></name>; <name name-style="western"><surname>Wu</surname><given-names>Y.-C.</given-names></name>
+<article-title>DNA–gold
+nanorod conjugates for remote control of localized gene expression
+by near infrared irradiation</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2006</year>, <volume>128</volume><issue>11</issue><fpage>3709</fpage>–<lpage>3715</lpage>.<pub-id pub-id-type="pmid">16536544</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/ja0570180</pub-id></mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name name-style="western"><surname>Huschka</surname><given-names>R.</given-names></name>; <name name-style="western"><surname>Barhoumi</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Liu</surname><given-names>Q.</given-names></name>; <name name-style="western"><surname>Roth</surname><given-names>J. A.</given-names></name>; <name name-style="western"><surname>Ji</surname><given-names>L.</given-names></name>; <name name-style="western"><surname>Halas</surname><given-names>N. J.</given-names></name>
+<article-title>Gene silencing by
+gold nanoshell-mediated delivery
+and laser-triggered release of antisense oligonucleotide and siRNA</article-title>. <source>ACS Nano</source>
+<year>2012</year>, <volume>6</volume><issue>9</issue><fpage>7681</fpage>–<lpage>7691</lpage>.<pub-id pub-id-type="pmid">22862291</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/nn301135w</pub-id><pub-id pub-id-type="pmcid">PMC3888232</pub-id></mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name name-style="western"><surname>You</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Zhang</surname><given-names>G.</given-names></name>; <name name-style="western"><surname>Li</surname><given-names>C.</given-names></name>
+<article-title>Exceptionally high payload of doxorubicin
+in hollow gold nanospheres for near-infrared light-triggered drug
+release</article-title>. <source>ACS Nano</source>
+<year>2010</year>, <volume>4</volume><issue>2</issue><fpage>1033</fpage>–<lpage>1041</lpage>.<pub-id pub-id-type="pmid">20121065</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/nn901181c</pub-id><pub-id pub-id-type="pmcid">PMC2835401</pub-id></mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name name-style="western"><surname>Yang</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Liu</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Liu</surname><given-names>Z.</given-names></name>; <name name-style="western"><surname>Pu</surname><given-names>F.</given-names></name>; <name name-style="western"><surname>Ren</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Qu</surname><given-names>X.</given-names></name>
+<article-title>Near-infrared
+light-triggered, targeted drug delivery to cancer cells by aptamer
+gated nanovehicles</article-title>. <source>Adv. Mater.</source>
+<year>2012</year>, <volume>24</volume><issue>21</issue><fpage>2890</fpage>–<lpage>2895</lpage>.<pub-id pub-id-type="pmid">22539076</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/adma.201104797</pub-id></mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name name-style="western"><surname>Greenblatt</surname><given-names>M. S.</given-names></name>; <name name-style="western"><surname>Bennett</surname><given-names>W. P.</given-names></name>; <name name-style="western"><surname>Hollstein</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Harris</surname><given-names>C. C.</given-names></name>
+<article-title>Mutations in the
+p53 tumor suppressor gene: clues to cancer etiology and molecular
+pathogenesis</article-title>. <source>Cancer Res.</source>
+<year>1994</year>, <volume>54</volume><issue>18</issue><fpage>4855</fpage>–<lpage>4878</lpage>.<pub-id pub-id-type="pmid">8069852</pub-id></mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name name-style="western"><surname>Ingram</surname><given-names>V. M.</given-names></name>
+<article-title>Gene mutations
+in human haemoglobin: the chemical difference between normal and sickle
+cell haemoglobin</article-title>. <source>Nature</source>
+<year>1957</year>, <volume>180</volume><issue>4581</issue><fpage>326</fpage>–<lpage>328</lpage>.<pub-id pub-id-type="pmid">13464827</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/180326a0</pub-id></mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name name-style="western"><surname>Keen</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Glynne</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Pickup</surname><given-names>J. C.</given-names></name>; <name name-style="western"><surname>Viberti</surname><given-names>G. C.</given-names></name>; <name name-style="western"><surname>Bilous</surname><given-names>R. W.</given-names></name>; <name name-style="western"><surname>Jarrett</surname><given-names>R. J.</given-names></name>; <name name-style="western"><surname>Marsden</surname><given-names>R.</given-names></name>
+<article-title>Human insulin
+produced by recombinant
+DNA technology: safety and hypoglycaemic potency in healthy men</article-title>. <source>Lancet</source>
+<year>1980</year>, <volume>2</volume><issue>8191</issue><fpage>398</fpage>–<lpage>401</lpage>.<pub-id pub-id-type="pmid">6105520</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0140-6736(80)90443-2</pub-id></mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name name-style="western"><surname>Roth</surname><given-names>D. A.</given-names></name>; <name name-style="western"><surname>Kessler</surname><given-names>C. M.</given-names></name>; <name name-style="western"><surname>Pasi</surname><given-names>K. J.</given-names></name>; <name name-style="western"><surname>Rup</surname><given-names>B.</given-names></name>; <name name-style="western"><surname>Courter</surname><given-names>S. G.</given-names></name>; <name name-style="western"><surname>Tubridy</surname><given-names>K. L.</given-names></name>
+<article-title>Human recombinant factor IX: safety and efficacy studies
+in hemophilia B patients previously treated with plasma-derived factor
+IX concentrates</article-title>. <source>Blood</source>
+<year>2001</year>, <volume>98</volume><issue>13</issue><fpage>3600</fpage>–<lpage>6</lpage>.<pub-id pub-id-type="pmid">11739163</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1182/blood.v98.13.3600</pub-id></mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name name-style="western"><surname>Corwin</surname><given-names>H. L.</given-names></name>; <name name-style="western"><surname>Gettinger</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Pearl</surname><given-names>R. G.</given-names></name>; <name name-style="western"><surname>Fink</surname><given-names>M. P.</given-names></name>; <name name-style="western"><surname>Levy</surname><given-names>M. M.</given-names></name>; <name name-style="western"><surname>Shapiro</surname><given-names>M. J.</given-names></name>; <name name-style="western"><surname>Corwin</surname><given-names>M. J.</given-names></name>; <name name-style="western"><surname>Colton</surname><given-names>T.</given-names></name>
+<article-title>Efficacy of recombinant
+human erythropoietin in critically ill patients: a randomized controlled
+trial</article-title>. <source>JAMA</source>
+<year>2002</year>, <volume>288</volume><issue>22</issue><fpage>2827</fpage>–<lpage>35</lpage>.<pub-id pub-id-type="pmid">12472324</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jama.288.22.2827</pub-id></mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name name-style="western"><surname>Quesada</surname><given-names>J. R.</given-names></name>; <name name-style="western"><surname>Hersh</surname><given-names>E. M.</given-names></name>; <name name-style="western"><surname>Manning</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Reuben</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Keating</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Schnipper</surname><given-names>E.</given-names></name>; <name name-style="western"><surname>Itri</surname><given-names>L.</given-names></name>; <name name-style="western"><surname>Gutterman</surname><given-names>J. U.</given-names></name>
+<article-title>Treatment
+of hairy cell leukemia with recombinant alpha-interferon</article-title>. <source>Blood</source>
+<year>1986</year>, <volume>68</volume><issue>2</issue><fpage>493</fpage>–<lpage>7</lpage>.<pub-id pub-id-type="pmid">3730612</pub-id></mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name name-style="western"><surname>Fu</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Tang</surname><given-names>R.</given-names></name>; <name name-style="western"><surname>Hardie</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Farkas</surname><given-names>M. E.</given-names></name>; <name name-style="western"><surname>Rotello</surname><given-names>V. M.</given-names></name>
+<article-title>Promises
+and Pitfalls of Intracellular Delivery of Proteins</article-title>. <source>Bioconjugate Chem.</source>
+<year>2014</year>, <volume>25</volume><issue>9</issue><fpage>1602</fpage>–<lpage>1608</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/bc500320j</pub-id><pub-id pub-id-type="pmcid">PMC4166028</pub-id><pub-id pub-id-type="pmid">25133522</pub-id></mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name name-style="western"><surname>Stock</surname><given-names>K.</given-names></name>; <name name-style="western"><surname>Nolden</surname><given-names>L.</given-names></name>; <name name-style="western"><surname>Edenhofer</surname><given-names>F.</given-names></name>; <name name-style="western"><surname>Quandel</surname><given-names>T.</given-names></name>; <name name-style="western"><surname>Brustle</surname><given-names>O.</given-names></name>
+<article-title>Transcription
+factor-based modulation of neural stem cell differentiation using
+direct protein transduction</article-title>. <source>Cell. Mol. Life
+Sci.</source>
+<year>2010</year>, <volume>67</volume><issue>14</issue><fpage>2439</fpage>–<lpage>49</lpage>.<pub-id pub-id-type="pmid">20352468</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00018-010-0347-1</pub-id><pub-id pub-id-type="pmcid">PMC2889284</pub-id></mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name name-style="western"><surname>Takenobu</surname><given-names>T.</given-names></name>; <name name-style="western"><surname>Tomizawa</surname><given-names>K.</given-names></name>; <name name-style="western"><surname>Matsushita</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Li</surname><given-names>S. T.</given-names></name>; <name name-style="western"><surname>Moriwaki</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Lu</surname><given-names>Y. F.</given-names></name>; <name name-style="western"><surname>Matsui</surname><given-names>H.</given-names></name>
+<article-title>Development of p53 protein transduction
+therapy using membrane-permeable peptides and the application to oral
+cancer cells</article-title>. <source>Mol. Cancer Ther.</source>
+<year>2002</year>, <volume>1</volume><issue>12</issue><fpage>1043</fpage>–<lpage>9</lpage>.<pub-id pub-id-type="pmid">12481427</pub-id></mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name name-style="western"><surname>Jo</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Hong</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Choi</surname><given-names>W. Y.</given-names></name>; <name name-style="western"><surname>Lee</surname><given-names>D. R.</given-names></name>
+<article-title>Cell-penetrating
+peptide (CPP)-conjugated proteins is an efficient tool for manipulation
+of human mesenchymal stromal cells</article-title>. <source>Sci. Rep.</source>
+<year>2014</year>, <volume>4</volume>, <fpage>4378</fpage>.<pub-id pub-id-type="pmid">24625570</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/srep04378</pub-id><pub-id pub-id-type="pmcid">PMC3953728</pub-id></mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name name-style="western"><surname>Tang</surname><given-names>R.</given-names></name>; <name name-style="western"><surname>Kim</surname><given-names>C. S.</given-names></name>; <name name-style="western"><surname>Solfiell</surname><given-names>D. J.</given-names></name>; <name name-style="western"><surname>Rana</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Mout</surname><given-names>R.</given-names></name>; <name name-style="western"><surname>Velazquez-Delgado</surname><given-names>E.
+M.</given-names></name>; <name name-style="western"><surname>Chompoosor</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Jeong</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Yan</surname><given-names>B.</given-names></name>; <name name-style="western"><surname>Zhu</surname><given-names>Z. J.</given-names></name>; <name name-style="western"><surname>Kim</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Hardy</surname><given-names>J. A.</given-names></name>; <name name-style="western"><surname>Rotello</surname><given-names>V. M.</given-names></name>
+<article-title>Direct
+delivery of functional proteins and enzymes to the cytosol using nanoparticle-stabilized
+nanocapsules</article-title>. <source>ACS Nano</source>
+<year>2013</year>, <volume>7</volume><issue>8</issue><fpage>6667</fpage>–<lpage>6673</lpage>.<pub-id pub-id-type="pmid">23815280</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/nn402753y</pub-id><pub-id pub-id-type="pmcid">PMC3757120</pub-id></mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name name-style="western"><surname>Gu</surname><given-names>Z.</given-names></name>; <name name-style="western"><surname>Biswas</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Zhao</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Tang</surname><given-names>Y.</given-names></name>
+<article-title>Tailoring nanocarriers
+for intracellular protein delivery</article-title>. <source>Chem. Soc.
+Rev.</source>
+<year>2011</year>, <volume>40</volume><issue>7</issue><fpage>3638</fpage>–<lpage>55</lpage>.<pub-id pub-id-type="pmid">21566806</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1039/c0cs00227e</pub-id></mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name name-style="western"><surname>Chen</surname><given-names>R.</given-names></name>; <name name-style="western"><surname>Braun</surname><given-names>G. B.</given-names></name>; <name name-style="western"><surname>Luo</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Sugahara</surname><given-names>K. N.</given-names></name>; <name name-style="western"><surname>Teesalu</surname><given-names>T.</given-names></name>; <name name-style="western"><surname>Ruoslahti</surname><given-names>E.</given-names></name>
+<article-title>Application of a proapoptotic peptide to intratumorally
+spreading cancer therapy</article-title>. <source>Cancer Res.</source>
+<year>2013</year>, <volume>73</volume><issue>4</issue><fpage>1352</fpage>–<lpage>61</lpage>.<pub-id pub-id-type="pmid">23248118</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/0008-5472.CAN-12-1979</pub-id><pub-id pub-id-type="pmcid">PMC3578137</pub-id></mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name name-style="western"><surname>Boeneman</surname><given-names>K.</given-names></name>; <name name-style="western"><surname>Delehanty</surname><given-names>J. B.</given-names></name>; <name name-style="western"><surname>Blanco-Canosa</surname><given-names>J. B.</given-names></name>; <name name-style="western"><surname>Susumu</surname><given-names>K.</given-names></name>; <name name-style="western"><surname>Stewart</surname><given-names>M. H.</given-names></name>; <name name-style="western"><surname>Oh</surname><given-names>E.</given-names></name>; <name name-style="western"><surname>Huston</surname><given-names>A. L.</given-names></name>; <name name-style="western"><surname>Dawson</surname><given-names>G.</given-names></name>; <name name-style="western"><surname>Ingale</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Walters</surname><given-names>R.</given-names></name>; <name name-style="western"><surname>Domowicz</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Deschamps</surname><given-names>J. R.</given-names></name>; <name name-style="western"><surname>Algar</surname><given-names>W. R.</given-names></name>; <name name-style="western"><surname>DiMaggio</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Manono</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Spillmann</surname><given-names>C. M.</given-names></name>; <name name-style="western"><surname>Thompson</surname><given-names>D.</given-names></name>; <name name-style="western"><surname>Jennings</surname><given-names>T. L.</given-names></name>; <name name-style="western"><surname>Dawson</surname><given-names>P. E.</given-names></name>; <name name-style="western"><surname>Medintz</surname><given-names>I. L.</given-names></name>
+<article-title>Selecting Improved Peptidyl Motifs
+for Cytosolic Delivery of Disparate Protein and Nanoparticle Materials</article-title>. <source>ACS Nano</source>
+<year>2013</year>, <volume>7</volume><issue>5</issue><fpage>3778</fpage>–<lpage>3796</lpage>.<pub-id pub-id-type="pmid">23710591</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/nn400702r</pub-id><pub-id pub-id-type="pmcid">PMC3880025</pub-id></mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name name-style="western"><surname>Shiraishi</surname><given-names>T.</given-names></name>; <name name-style="western"><surname>Nielsen</surname><given-names>P. E.</given-names></name>
+<article-title>Enhanced delivery of cell-penetrating peptide-peptide
+nucleic acid conjugates by endosomal disruption</article-title>. <source>Nat. Protoc.</source>
+<year>2006</year>, <volume>1</volume><issue>2</issue><fpage>633</fpage>–<lpage>6</lpage>.<pub-id pub-id-type="pmid">17406290</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nprot.2006.92</pub-id></mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name name-style="western"><surname>Zhao</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Hu</surname><given-names>B.</given-names></name>; <name name-style="western"><surname>Gu</surname><given-names>Z.</given-names></name>; <name name-style="western"><surname>Joo</surname><given-names>K.-I.</given-names></name>; <name name-style="western"><surname>Wang</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Tang</surname><given-names>Y.</given-names></name>
+<article-title>Degradable
+polymeric nanocapsule for efficient intracellular delivery of a high
+molecular weight tumor-selective protein complex</article-title>. <source>Nano Today</source>
+<year>2013</year>, <volume>8</volume><issue>1</issue><fpage>11</fpage>–<lpage>20</lpage>.</mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name name-style="western"><surname>Zheng</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Cai</surname><given-names>Z.</given-names></name>; <name name-style="western"><surname>Song</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Chen</surname><given-names>Q.</given-names></name>; <name name-style="western"><surname>Bi</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Li</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Hou</surname><given-names>S.</given-names></name>
+<article-title>Preparation and characterization of folate conjugated <italic toggle="yes">N</italic>-trimethyl chitosan nanoparticles as protein carrier targeting folate
+receptor: in vitro studies</article-title>. <source>J. Drug Targeting</source>
+<year>2009</year>, <volume>17</volume><issue>4</issue><fpage>294</fpage>–<lpage>303</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/10611860902737920</pub-id><pub-id pub-id-type="pmid">19255895</pub-id></mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name name-style="western"><surname>Ghosh</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Yang</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Arvizo</surname><given-names>R.</given-names></name>; <name name-style="western"><surname>Zhu</surname><given-names>Z. J.</given-names></name>; <name name-style="western"><surname>Agasti</surname><given-names>S. S.</given-names></name>; <name name-style="western"><surname>Mo</surname><given-names>Z.</given-names></name>; <name name-style="western"><surname>Rotello</surname><given-names>V. M.</given-names></name>
+<article-title>Intracellular
+delivery of a membrane-impermeable enzyme
+in active form using functionalized gold nanoparticles</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2010</year>, <volume>132</volume><issue>8</issue><fpage>2642</fpage>–<lpage>5</lpage>.<pub-id pub-id-type="pmid">20131834</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/ja907887z</pub-id><pub-id pub-id-type="pmcid">PMC2830715</pub-id></mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name name-style="western"><surname>Xie</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Xu</surname><given-names>A. M.</given-names></name>; <name name-style="western"><surname>Leal-Ortiz</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Cao</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Garner</surname><given-names>C. C.</given-names></name>; <name name-style="western"><surname>Melosh</surname><given-names>N. A.</given-names></name>
+<article-title>Nanostraw-electroporation system for highly efficient
+intracellular delivery and transfection</article-title>. <source>ACS
+Nano</source>
+<year>2013</year>, <volume>7</volume>, <fpage>4351</fpage>–<lpage>4358</lpage>.<pub-id pub-id-type="pmid">23597131</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/nn400874a</pub-id></mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name name-style="western"><surname>Zhang</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Yu</surname><given-names>L. C.</given-names></name>
+<article-title>Single-cell microinjection
+technology in cell biology</article-title>. <source>BioEssays</source>
+<year>2008</year>, <volume>30</volume><issue>6</issue><fpage>606</fpage>–<lpage>10</lpage>.<pub-id pub-id-type="pmid">18478541</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/bies.20759</pub-id></mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name name-style="western"><surname>Zhang</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Yu</surname><given-names>L. C.</given-names></name>
+<article-title>Microinjection as
+a tool of mechanical delivery</article-title>. <source>Curr. Opin. Biotechnol.</source>
+<year>2008</year>, <volume>19</volume><issue>5</issue><fpage>506</fpage>–<lpage>510</lpage>.<pub-id pub-id-type="pmid">18725294</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.copbio.2008.07.005</pub-id></mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name name-style="western"><surname>Gu</surname><given-names>Z.</given-names></name>; <name name-style="western"><surname>Yan</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Hu</surname><given-names>B.</given-names></name>; <name name-style="western"><surname>Joo</surname><given-names>K.-I.</given-names></name>; <name name-style="western"><surname>Biswas</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Huang</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Lu</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Wang</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Tang</surname><given-names>Y.</given-names></name>
+<article-title>Protein Nanocapsule Weaved with Enzymatically
+Degradable Polymeric Network</article-title>. <source>Nano Lett.</source>
+<year>2009</year>, <volume>9</volume><issue>12</issue><fpage>4533</fpage>–<lpage>4538</lpage>.<pub-id pub-id-type="pmid">19995089</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/nl902935b</pub-id></mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name name-style="western"><surname>Peng</surname><given-names>K.</given-names></name>; <name name-style="western"><surname>Tomatsu</surname><given-names>I.</given-names></name>; <name name-style="western"><surname>Kros</surname><given-names>A.</given-names></name>
+<article-title>Light controlled
+protein release
+from a supramolecular hydrogel</article-title>. <source>Chem. Commun.</source>
+<year>2010</year>, <volume>46</volume><issue>23</issue><fpage>4094</fpage>–<lpage>6</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1039/c002565h</pub-id><pub-id pub-id-type="pmid">20464018</pub-id></mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name name-style="western"><surname>Prevo</surname><given-names>B. G.</given-names></name>; <name name-style="western"><surname>Esakoff</surname><given-names>S. A.</given-names></name>; <name name-style="western"><surname>Mikhailovsky</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Zasadzinski</surname><given-names>J. A.</given-names></name>
+<article-title>Scalable
+routes to gold nanoshells with tunable sizes and response to near-infrared
+pulsed laser irradiation</article-title>. <source>Small</source>
+<year>2008</year>, <volume>4</volume>, <fpage>1183</fpage>–<lpage>1195</lpage>.<pub-id pub-id-type="pmid">18623295</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/smll.200701290</pub-id><pub-id pub-id-type="pmcid">PMC2692070</pub-id></mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name name-style="western"><surname>Zhang</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Servos</surname><given-names>M. R.</given-names></name>; <name name-style="western"><surname>Liu</surname><given-names>J.</given-names></name>
+<article-title>Instantaneous
+and quantitative functionalization
+of gold nanoparticles with thiolated DNA using a pH-assisted and surfactant-free
+route</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2012</year>, <volume>134</volume><issue>17</issue><fpage>7266</fpage>–<lpage>9</lpage>.<pub-id pub-id-type="pmid">22506486</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/ja3014055</pub-id></mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name name-style="western"><surname>Ayed</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Mulder</surname><given-names>F. A.</given-names></name>; <name name-style="western"><surname>Yi</surname><given-names>G. S.</given-names></name>; <name name-style="western"><surname>Lu</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Kay</surname><given-names>L. E.</given-names></name>; <name name-style="western"><surname>Arrowsmith</surname><given-names>C. H.</given-names></name>
+<article-title>Latent and active p53 are identical
+in conformation</article-title>. <source>Nat. Struct. Biol.</source>
+<year>2001</year>, <volume>8</volume><issue>9</issue><fpage>756</fpage>–<lpage>60</lpage>.<pub-id pub-id-type="pmid">11524676</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nsb0901-756</pub-id></mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="journal" id="cit37"><name name-style="western"><surname>Shaner</surname><given-names>N. C.</given-names></name>; <name name-style="western"><surname>Steinbach</surname><given-names>P. A.</given-names></name>; <name name-style="western"><surname>Tsien</surname><given-names>R. Y.</given-names></name>
+<article-title>A guide to choosing fluorescent proteins</article-title>. <source>Nat. Methods</source>
+<year>2005</year>, <volume>2</volume><issue>12</issue><fpage>905</fpage>–<lpage>9</lpage>.<pub-id pub-id-type="pmid">16299475</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nmeth819</pub-id></mixed-citation></ref><ref id="ref38"><mixed-citation publication-type="journal" id="cit38"><name name-style="western"><surname>Jain</surname><given-names>P. K.</given-names></name>; <name name-style="western"><surname>Qian</surname><given-names>W.</given-names></name>; <name name-style="western"><surname>El-Sayed</surname><given-names>M. A.</given-names></name>
+<article-title>Ultrafast cooling of photoexcited
+electrons in gold nanoparticle-thiolated DNA conjugates involves the
+dissociation of the gold-thiol bond</article-title>. <source>J. Am.
+Chem. Soc.</source>
+<year>2006</year>, <volume>128</volume><issue>7</issue><fpage>2426</fpage>–<lpage>33</lpage>.<pub-id pub-id-type="pmid">16478198</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/ja056769z</pub-id></mixed-citation></ref><ref id="ref39"><mixed-citation publication-type="journal" id="cit39"><name name-style="western"><surname>Wu</surname><given-names>G.</given-names></name>; <name name-style="western"><surname>Mikhailovsky</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Khant</surname><given-names>H. A.</given-names></name>; <name name-style="western"><surname>Fu</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Chiu</surname><given-names>W.</given-names></name>; <name name-style="western"><surname>Zasadzinski</surname><given-names>J. A.</given-names></name>
+<article-title>Remotely
+triggered liposome release by near-infrared
+light absorption via hollow gold nanoshells</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2008</year>, <volume>130</volume><issue>26</issue><fpage>8175</fpage>–<lpage>8177</lpage>.<pub-id pub-id-type="pmid">18543914</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/ja802656d</pub-id><pub-id pub-id-type="pmcid">PMC2593911</pub-id></mixed-citation></ref><ref id="ref40"><mixed-citation publication-type="journal" id="cit40"><name name-style="western"><surname>Prevo</surname><given-names>B. G.</given-names></name>; <name name-style="western"><surname>Esakoff</surname><given-names>S. A.</given-names></name>; <name name-style="western"><surname>Mikhailovsky</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Zasadzinski</surname><given-names>J. A.</given-names></name>
+<article-title>Scalable
+routes to gold nanoshells with tunable sizes and response to near-infrared
+pulsed-laser irradiation</article-title>. <source>Small</source>
+<year>2008</year>, <volume>4</volume><issue>8</issue><fpage>1183</fpage>–<lpage>95</lpage>.<pub-id pub-id-type="pmid">18623295</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/smll.200701290</pub-id><pub-id pub-id-type="pmcid">PMC2692070</pub-id></mixed-citation></ref><ref id="ref41"><mixed-citation publication-type="journal" id="cit41"><name name-style="western"><surname>Weissleder</surname><given-names>R.</given-names></name>
+<article-title>A clearer
+vision for in vivo imaging</article-title>. <source>Nat. Biotechnol.</source>
+<year>2001</year>, <volume>19</volume><issue>4</issue><fpage>316</fpage>–<lpage>7</lpage>.<pub-id pub-id-type="pmid">11283581</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/86684</pub-id></mixed-citation></ref><ref id="ref42"><mixed-citation publication-type="journal" id="cit42"><name name-style="western"><surname>Nieba</surname><given-names>L.</given-names></name>; <name name-style="western"><surname>Nieba-Axmann</surname><given-names>S. E.</given-names></name>; <name name-style="western"><surname>Persson</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Hämäläinen</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Edebratt</surname><given-names>F.</given-names></name>; <name name-style="western"><surname>Hansson</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Lidholm</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Magnusson</surname><given-names>K.</given-names></name>; <name name-style="western"><surname>Karlsson</surname><given-names>Å. F.</given-names></name>; <name name-style="western"><surname>Plückthun</surname><given-names>A.</given-names></name>
+<article-title>BIACORE analysis of histidine-tagged
+proteins using a chelating NTA sensor chip</article-title>. <source>Anal. Biochem.</source>
+<year>1997</year>, <volume>252</volume><issue>2</issue><fpage>217</fpage>–<lpage>228</lpage>.<pub-id pub-id-type="pmid">9344407</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1006/abio.1997.2326</pub-id></mixed-citation></ref><ref id="ref43"><mixed-citation publication-type="journal" id="cit43"><name name-style="western"><surname>De</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Rana</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Rotello</surname><given-names>V. M.</given-names></name>
+<article-title>Nickel-ion-mediated control of the
+stoichiometry of his-tagged protein/nanoparticle interactions</article-title>. <source>Macromol. Biosci.</source>
+<year>2009</year>, <volume>9</volume><issue>2</issue><fpage>174</fpage>–<lpage>8</lpage>.<pub-id pub-id-type="pmid">19127602</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/mabi.200800289</pub-id></mixed-citation></ref><ref id="ref44"><mixed-citation publication-type="journal" id="cit44"><name name-style="western"><surname>Sapsford</surname><given-names>K. E.</given-names></name>; <name name-style="western"><surname>Pons</surname><given-names>T.</given-names></name>; <name name-style="western"><surname>Medintz</surname><given-names>I. L.</given-names></name>; <name name-style="western"><surname>Higashiya</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Brunel</surname><given-names>F. M.</given-names></name>; <name name-style="western"><surname>Dawson</surname><given-names>P. E.</given-names></name>; <name name-style="western"><surname>Mattoussi</surname><given-names>H.</given-names></name>
+<article-title>Kinetics of
+metal-affinity driven self-assembly between proteins or peptides and
+CdSe–ZnS quantum dots</article-title>. <source>J. Phys. Chem.
+C</source>
+<year>2007</year>, <volume>111</volume><issue>31</issue><fpage>11528</fpage>–<lpage>11538</lpage>.</mixed-citation></ref><ref id="ref45"><mixed-citation publication-type="journal" id="cit45"><name name-style="western"><surname>Arnau</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Lauritzen</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Petersen</surname><given-names>G. E.</given-names></name>; <name name-style="western"><surname>Pedersen</surname><given-names>J.</given-names></name>
+<article-title>Current strategies
+for the use of affinity tags and tag removal for the purification
+of recombinant proteins</article-title>. <source>Protein Expression
+Purif.</source>
+<year>2006</year>, <volume>48</volume><issue>1</issue><fpage>1</fpage>–<lpage>13</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.pep.2005.12.002</pub-id><pub-id pub-id-type="pmid">16427311</pub-id></mixed-citation></ref><ref id="ref46"><mixed-citation publication-type="journal" id="cit46"><name name-style="western"><surname>Porath</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Carlsson</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Olsson</surname><given-names>I.</given-names></name>; <name name-style="western"><surname>Belfrage</surname><given-names>G.</given-names></name>
+<article-title>Metal chelate affinity
+chromatography, a new approach to protein fractionation</article-title>. <source>Nature</source>
+<year>1975</year>, <volume>258</volume><issue>5536</issue><fpage>598</fpage>–<lpage>9</lpage>.<pub-id pub-id-type="pmid">1678</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/258598a0</pub-id></mixed-citation></ref><ref id="ref47"><mixed-citation publication-type="journal" id="cit47"><name name-style="western"><surname>Hurst</surname><given-names>S. J.</given-names></name>; <name name-style="western"><surname>Lytton-Jean</surname><given-names>A. K.</given-names></name>; <name name-style="western"><surname>Mirkin</surname><given-names>C. A.</given-names></name>
+<article-title>Maximizing DNA loading on a range
+of gold nanoparticle sizes</article-title>. <source>Anal. Chem.</source>
+<year>2006</year>, <volume>78</volume><issue>24</issue><fpage>8313</fpage>–<lpage>8</lpage>.<pub-id pub-id-type="pmid">17165821</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/ac0613582</pub-id><pub-id pub-id-type="pmcid">PMC2525614</pub-id></mixed-citation></ref><ref id="ref48"><mixed-citation publication-type="journal" id="cit48"><name name-style="western"><surname>Sapsford</surname><given-names>K.
+E.</given-names></name>; <name name-style="western"><surname>Algar</surname><given-names>W. R.</given-names></name>; <name name-style="western"><surname>Berti</surname><given-names>L.</given-names></name>; <name name-style="western"><surname>Gemmill</surname><given-names>K. B.</given-names></name>; <name name-style="western"><surname>Casey</surname><given-names>B. J.</given-names></name>; <name name-style="western"><surname>Oh</surname><given-names>E.</given-names></name>; <name name-style="western"><surname>Stewart</surname><given-names>M. H.</given-names></name>; <name name-style="western"><surname>Medintz</surname><given-names>I. L.</given-names></name>
+<article-title>Functionalizing nanoparticles with
+biological molecules: developing chemistries that facilitate nanotechnology</article-title>. <source>Chem. Rev.</source>
+<year>2013</year>, <volume>113</volume><issue>3</issue><fpage>1904</fpage>–<lpage>2074</lpage>.<pub-id pub-id-type="pmid">23432378</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/cr300143v</pub-id></mixed-citation></ref><ref id="ref49"><mixed-citation publication-type="journal" id="cit49"><name name-style="western"><surname>Teesalu</surname><given-names>T.</given-names></name>; <name name-style="western"><surname>Sugahara</surname><given-names>K. N.</given-names></name>; <name name-style="western"><surname>Kotamraju</surname><given-names>V. R.</given-names></name>; <name name-style="western"><surname>Ruoslahti</surname><given-names>E.</given-names></name>
+<article-title>C-end rule
+peptides mediate neuropilin-1-dependent cell, vascular, and tissue
+penetration</article-title>. <source>Proc. Natl. Acad. Sci. U.S.A.</source>
+<year>2009</year>, <volume>106</volume><issue>38</issue><fpage>16157</fpage>–<lpage>62</lpage>.<pub-id pub-id-type="pmid">19805273</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.0908201106</pub-id><pub-id pub-id-type="pmcid">PMC2752543</pub-id></mixed-citation></ref><ref id="ref50"><mixed-citation publication-type="journal" id="cit50"><name name-style="western"><surname>Jia</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Cheng</surname><given-names>L.</given-names></name>; <name name-style="western"><surname>Tickner</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Bagherzadeh</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Selwood</surname><given-names>D.</given-names></name>; <name name-style="western"><surname>Zachary</surname><given-names>I.</given-names></name>
+<article-title>Neuropilin-1 antagonism
+in human
+carcinoma cells inhibits migration and enhances chemosensitivity</article-title>. <source>Br. J. Cancer</source>
+<year>2010</year>, <volume>102</volume><issue>3</issue><fpage>541</fpage>–<lpage>52</lpage>.<pub-id pub-id-type="pmid">20087344</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/sj.bjc.6605539</pub-id><pub-id pub-id-type="pmcid">PMC2822953</pub-id></mixed-citation></ref><ref id="ref51"><mixed-citation publication-type="journal" id="cit51"><name name-style="western"><surname>Pallaoro</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Braun</surname><given-names>G. B.</given-names></name>; <name name-style="western"><surname>Moskovits</surname><given-names>M.</given-names></name>
+<article-title>Quantitative ratiometric discrimination
+between noncancerous and cancerous prostate cells based on neuropilin-1
+overexpression</article-title>. <source>Proc. Natl. Acad. Sci. U.S.A.</source>
+<year>2011</year>, <volume>108</volume><issue>40</issue><fpage>16559</fpage>–<lpage>64</lpage>.<pub-id pub-id-type="pmid">21930955</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.1109490108</pub-id><pub-id pub-id-type="pmcid">PMC3189017</pub-id></mixed-citation></ref><ref id="ref52"><mixed-citation publication-type="journal" id="cit52"><name name-style="western"><surname>Sagar</surname><given-names>D. M.</given-names></name>; <name name-style="western"><surname>Aoudjane</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Gaudet</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Aeppli</surname><given-names>G.</given-names></name>; <name name-style="western"><surname>Dalby</surname><given-names>P. A.</given-names></name>
+<article-title>Optically
+induced thermal gradients for protein characterization in nanolitre-scale
+samples in microfluidic devices</article-title>. <source>Sci. Rep.</source>
+<year>2013</year>, <volume>3</volume>, <fpage>2130</fpage>.<pub-id pub-id-type="pmid">23823279</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/srep02130</pub-id><pub-id pub-id-type="pmcid">PMC3703920</pub-id></mixed-citation></ref><ref id="ref53"><mixed-citation publication-type="journal" id="cit53"><name name-style="western"><surname>Alkaabi</surname><given-names>K. M.</given-names></name>; <name name-style="western"><surname>Yafea</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Ashraf</surname><given-names>S. S.</given-names></name>
+<article-title>Effect of pH on
+thermal- and chemical-induced
+denaturation of GFP</article-title>. <source>Appl. Biochem. Biotechnol.</source>
+<year>2005</year>, <volume>126</volume><issue>2</issue><fpage>149</fpage>–<lpage>156</lpage>.<pub-id pub-id-type="pmid">16118468</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1385/abab:126:2:149</pub-id></mixed-citation></ref><ref id="ref54"><mixed-citation publication-type="journal" id="cit54"><name name-style="western"><surname>Postupalenko</surname><given-names>V.</given-names></name>; <name name-style="western"><surname>Sibler</surname><given-names>A.-P.</given-names></name>; <name name-style="western"><surname>Desplancq</surname><given-names>D.</given-names></name>; <name name-style="western"><surname>Nominé</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Spehner</surname><given-names>D.</given-names></name>; <name name-style="western"><surname>Schultz</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Weiss</surname><given-names>E.</given-names></name>; <name name-style="western"><surname>Zuber</surname><given-names>G.</given-names></name>
+<article-title>Intracellular
+delivery of functionally active proteins using self-assembling pyridylthiourea-polyethylenimine</article-title>. <source>J. Controlled Release</source>
+<year>2014</year>, <volume>178</volume>, <fpage>86</fpage>–<lpage>94</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jconrel.2014.01.017</pub-id><pub-id pub-id-type="pmid">24476809</pub-id></mixed-citation></ref><ref id="ref55"><mixed-citation publication-type="journal" id="cit55"><name name-style="western"><surname>Bajaj</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Rana</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Miranda</surname><given-names>O. R.</given-names></name>; <name name-style="western"><surname>Yawe</surname><given-names>J. C.</given-names></name>; <name name-style="western"><surname>Jerry</surname><given-names>D. J.</given-names></name>; <name name-style="western"><surname>Bunz</surname><given-names>U. H. F.</given-names></name>; <name name-style="western"><surname>Rotello</surname><given-names>V. M.</given-names></name>
+<article-title>Cell surface-based differentiation
+of cell types and cancer states using a gold nanoparticle-GFP based
+sensing array</article-title>. <source>Chem. Sci.</source>
+<year>2010</year>, <volume>1</volume><issue>1</issue><fpage>134</fpage>.</mixed-citation></ref><ref id="ref56"><mixed-citation publication-type="journal" id="cit56"><name name-style="western"><surname>Rana</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Yeh</surname><given-names>Y. C.</given-names></name>; <name name-style="western"><surname>Rotello</surname><given-names>V. M.</given-names></name>
+<article-title>Engineering the nanoparticle-protein
+interface: applications and possibilities</article-title>. <source>Curr.
+Opin. Chem. Biol.</source>
+<year>2010</year>, <volume>14</volume><issue>6</issue><fpage>828</fpage>–<lpage>34</lpage>.<pub-id pub-id-type="pmid">21035376</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cbpa.2010.10.001</pub-id><pub-id pub-id-type="pmcid">PMC2997876</pub-id></mixed-citation></ref><ref id="ref57"><mixed-citation publication-type="journal" id="cit57"><name name-style="western"><surname>Jana</surname><given-names>N. R.</given-names></name>; <name name-style="western"><surname>Gearheart</surname><given-names>L.</given-names></name>; <name name-style="western"><surname>Murphy</surname><given-names>C. J.</given-names></name>
+<article-title>Wet chemical synthesis of silver
+nanorods and nanowires of controllable aspect ratio</article-title>. <source>Chem. Commun.</source>
+<year>2001</year>, <issue>7</issue><fpage>617</fpage>–<lpage>618</lpage>.</mixed-citation></ref><ref id="ref58"><mixed-citation publication-type="journal" id="cit58"><name name-style="western"><surname>Hill</surname><given-names>H. D.</given-names></name>; <name name-style="western"><surname>Millstone</surname><given-names>J. E.</given-names></name>; <name name-style="western"><surname>Banholzer</surname><given-names>M. J.</given-names></name>; <name name-style="western"><surname>Mirkin</surname><given-names>C. A.</given-names></name>
+<article-title>The role radius
+of curvature plays in thiolated oligonucleotide loading on gold nanoparticles</article-title>. <source>ACS Nano</source>
+<year>2009</year>, <volume>3</volume><issue>2</issue><fpage>418</fpage>–<lpage>424</lpage>.<pub-id pub-id-type="pmid">19236080</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/nn800726e</pub-id><pub-id pub-id-type="pmcid">PMC3241534</pub-id></mixed-citation></ref><ref id="ref59"><mixed-citation publication-type="journal" id="cit59"><name name-style="western"><surname>Harris</surname><given-names>N.</given-names></name>; <name name-style="western"><surname>Ford</surname><given-names>M. J.</given-names></name>; <name name-style="western"><surname>Cortie</surname><given-names>M. B.</given-names></name>
+<article-title>Optimization of plasmonic heating
+by gold nanospheres and nanoshells</article-title>. <source>J. Phys.
+Chem. B</source>
+<year>2006</year>, <volume>110</volume><issue>22</issue><fpage>10701</fpage>–<lpage>10707</lpage>.<pub-id pub-id-type="pmid">16771316</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/jp0606208</pub-id></mixed-citation></ref><ref id="ref60"><mixed-citation publication-type="journal" id="cit60"><name name-style="western"><surname>Pan</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Lu</surname><given-names>B.</given-names></name>; <name name-style="western"><surname>Chen</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Bishop</surname><given-names>C. E.</given-names></name>
+<article-title>Reprogramming human fibroblasts using
+HIV-1 TAT recombinant proteins OCT4, SOX2, KLF4 and c-MYC</article-title>. <source>Mol. Biol. Rep.</source>
+<year>2010</year>, <volume>37</volume><issue>4</issue><fpage>2117</fpage>–<lpage>24</lpage>.<pub-id pub-id-type="pmid">19669668</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s11033-009-9680-6</pub-id><pub-id pub-id-type="pmcid">PMC3772671</pub-id></mixed-citation></ref><ref id="ref61"><mixed-citation publication-type="journal" id="cit61"><name name-style="western"><surname>Lukianova-Hleb</surname><given-names>E. Y.</given-names></name>; <name name-style="western"><surname>Ren</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Zasadzinski</surname><given-names>J. A.</given-names></name>; <name name-style="western"><surname>Wu</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>O</surname><given-names>L. D.</given-names></name>
+<article-title>Plasmonic
+nanobubbles enhance efficacy and selectivity of chemotherapy against
+drug-resistant cancer cells</article-title>. <source>Adv. Mater.</source>
+<year>2012</year>, <volume>24</volume>, <fpage>3831</fpage>–<lpage>3837</lpage>.<pub-id pub-id-type="pmid">22407874</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/adma.201103550</pub-id><pub-id pub-id-type="pmcid">PMC3407535</pub-id></mixed-citation></ref><ref id="ref62"><mixed-citation publication-type="journal" id="cit62"><name name-style="western"><surname>Huang</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Kang</surname><given-names>B.</given-names></name>; <name name-style="western"><surname>Qian</surname><given-names>W.</given-names></name>; <name name-style="western"><surname>Mackey</surname><given-names>M. A.</given-names></name>; <name name-style="western"><surname>Chen</surname><given-names>P. C.</given-names></name>; <name name-style="western"><surname>Oyelere</surname><given-names>A. K.</given-names></name>; <name name-style="western"><surname>El-Sayed</surname><given-names>I. H.</given-names></name>; <name name-style="western"><surname>El-Sayed</surname><given-names>M. A.</given-names></name>
+<article-title>Comparative study
+of photothermolysis of cancer cells with nuclear-targeted or cytoplasm-targeted
+gold nanospheres: continuous wave or pulsed lasers</article-title>. <source>J. Biomed. Opt.</source>
+<year>2010</year>, <volume>15</volume><issue>5</issue><fpage>058002</fpage>.<pub-id pub-id-type="pmid">21054128</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1117/1.3486538</pub-id></mixed-citation></ref><ref id="ref63"><mixed-citation publication-type="journal" id="cit63"><name name-style="western"><surname>Sugahara</surname><given-names>K. N.</given-names></name>; <name name-style="western"><surname>Teesalu</surname><given-names>T.</given-names></name>; <name name-style="western"><surname>Karmali</surname><given-names>P. P.</given-names></name>; <name name-style="western"><surname>Kotamraju</surname><given-names>V. R.</given-names></name>; <name name-style="western"><surname>Agemy</surname><given-names>L.</given-names></name>; <name name-style="western"><surname>Girard</surname><given-names>O. M.</given-names></name>; <name name-style="western"><surname>Hanahan</surname><given-names>D.</given-names></name>; <name name-style="western"><surname>Mattrey</surname><given-names>R. F.</given-names></name>; <name name-style="western"><surname>Ruoslahti</surname><given-names>E.</given-names></name>
+<article-title>Tissue-penetrating delivery of compounds and nanoparticles
+into tumors</article-title>. <source>Cancer Cell</source>
+<year>2009</year>, <volume>16</volume><issue>6</issue><fpage>510</fpage>–<lpage>20</lpage>.<pub-id pub-id-type="pmid">19962669</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ccr.2009.10.013</pub-id><pub-id pub-id-type="pmcid">PMC2791543</pub-id></mixed-citation></ref><ref id="ref64"><mixed-citation publication-type="journal" id="cit64"><name name-style="western"><surname>Milo</surname><given-names>R.</given-names></name>; <name name-style="western"><surname>Jorgensen</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Moran</surname><given-names>U.</given-names></name>; <name name-style="western"><surname>Weber</surname><given-names>G.</given-names></name>; <name name-style="western"><surname>Springer</surname><given-names>M.</given-names></name>
+<article-title>BioNumbers-the
+database of key numbers in molecular and cell biology</article-title>. <source>Nucleic Acids Res.</source>
+<year>2009</year>, <volume>38</volume>, <fpage>D750</fpage>–<lpage>D753</lpage>.<pub-id pub-id-type="pmid">19854939</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/nar/gkp889</pub-id><pub-id pub-id-type="pmcid">PMC2808940</pub-id></mixed-citation></ref><ref id="ref65"><mixed-citation publication-type="journal" id="cit65"><name name-style="western"><surname>Biggin</surname><given-names>M. D.</given-names></name>
+<article-title>Animal
+transcription networks as highly connected, quantitative continua</article-title>. <source>Dev. Cell</source>
+<year>2011</year>, <volume>21</volume><issue>4</issue><fpage>611</fpage>–<lpage>626</lpage>.<pub-id pub-id-type="pmid">22014521</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.devcel.2011.09.008</pub-id></mixed-citation></ref><ref id="ref66"><mixed-citation publication-type="journal" id="cit66"><name name-style="western"><surname>Michiue</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Tomizawa</surname><given-names>K.</given-names></name>; <name name-style="western"><surname>Wei</surname><given-names>F. Y.</given-names></name>; <name name-style="western"><surname>Matsushita</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Lu</surname><given-names>Y. F.</given-names></name>; <name name-style="western"><surname>Ichikawa</surname><given-names>T.</given-names></name>; <name name-style="western"><surname>Tamiya</surname><given-names>T.</given-names></name>; <name name-style="western"><surname>Date</surname><given-names>I.</given-names></name>; <name name-style="western"><surname>Matsui</surname><given-names>H.</given-names></name>
+<article-title>The NH2 terminus of influenza virus hemagglutinin-2
+subunit peptides enhances the antitumor potency of polyarginine-mediated
+p53 protein transduction</article-title>. <source>J. Biol. Chem.</source>
+<year>2005</year>, <volume>280</volume><issue>9</issue><fpage>8285</fpage>–<lpage>9</lpage>.<pub-id pub-id-type="pmid">15611109</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1074/jbc.M412430200</pub-id></mixed-citation></ref><ref id="ref67"><mixed-citation publication-type="journal" id="cit67"><name name-style="western"><surname>Zhang</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Ma</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Gu</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Liao</surname><given-names>B.</given-names></name>; <name name-style="western"><surname>Li</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Wong</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Jin</surname><given-names>Y.</given-names></name>
+<article-title>Reprogramming
+of somatic cells via TAT-mediated protein transduction
+of recombinant factors</article-title>. <source>Biomaterials</source>
+<year>2012</year>, <volume>33</volume><issue>20</issue><fpage>5047</fpage>–<lpage>55</lpage>.<pub-id pub-id-type="pmid">22494883</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.biomaterials.2012.03.061</pub-id></mixed-citation></ref><ref id="ref68"><mixed-citation publication-type="journal" id="cit68"><name name-style="western"><surname>Braun</surname><given-names>G. B.</given-names></name>; <name name-style="western"><surname>Friman</surname><given-names>T.</given-names></name>; <name name-style="western"><surname>Pang</surname><given-names>H. B.</given-names></name>; <name name-style="western"><surname>Pallaoro</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>de Mendoza</surname><given-names>T. H.</given-names></name>; <name name-style="western"><surname>Willmore</surname><given-names>A. M.</given-names></name>; <name name-style="western"><surname>Kotamraju</surname><given-names>V. R.</given-names></name>; <name name-style="western"><surname>Mann</surname><given-names>A. P.</given-names></name>; <name name-style="western"><surname>She</surname><given-names>Z. G.</given-names></name>; <name name-style="western"><surname>Sugahara</surname><given-names>K. N.</given-names></name>; <name name-style="western"><surname>Reich</surname><given-names>N. O.</given-names></name>; <name name-style="western"><surname>Teesalu</surname><given-names>T.</given-names></name>; <name name-style="western"><surname>Ruoslahti</surname><given-names>E.</given-names></name>
+<article-title>Etchable plasmonic
+nanoparticle probes to image and quantify cellular internalization</article-title>. <source>Nat. Mater.</source>
+<year>2014</year>, <volume>13</volume>, <fpage>904</fpage>–<lpage>911</lpage>.<pub-id pub-id-type="pmid">24907927</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nmat3982</pub-id><pub-id pub-id-type="pmcid">PMC4141013</pub-id></mixed-citation></ref><ref id="ref69"><mixed-citation publication-type="journal" id="cit69"><name name-style="western"><surname>Dayel</surname><given-names>M. J.</given-names></name>; <name name-style="western"><surname>Hom</surname><given-names>E. F.</given-names></name>; <name name-style="western"><surname>Verkman</surname><given-names>A. S.</given-names></name>
+<article-title>Diffusion of green fluorescent protein
+in the aqueous-phase lumen of endoplasmic reticulum</article-title>. <source>Biophys. J.</source>
+<year>1999</year>, <volume>76</volume><issue>5</issue><fpage>2843</fpage>–<lpage>51</lpage>.<pub-id pub-id-type="pmid">10233100</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S0006-3495(99)77438-2</pub-id><pub-id pub-id-type="pmcid">PMC1300255</pub-id></mixed-citation></ref><ref id="ref70"><mixed-citation publication-type="journal" id="cit70"><name name-style="western"><surname>Cardarelli</surname><given-names>F.</given-names></name>; <name name-style="western"><surname>Serresi</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Bizzarri</surname><given-names>R.</given-names></name>; <name name-style="western"><surname>Giacca</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Beltram</surname><given-names>F.</given-names></name>
+<article-title>In vivo study
+of HIV-1 Tat arginine-rich motif unveils its transport properties</article-title>. <source>Mol. Ther.</source>
+<year>2007</year>, <volume>15</volume><issue>7</issue><fpage>1313</fpage>–<lpage>22</lpage>.<pub-id pub-id-type="pmid">17505482</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/sj.mt.6300172</pub-id></mixed-citation></ref><ref id="ref71"><mixed-citation publication-type="journal" id="cit71"><name name-style="western"><surname>Richard</surname><given-names>J. P.</given-names></name>; <name name-style="western"><surname>Melikov</surname><given-names>K.</given-names></name>; <name name-style="western"><surname>Vives</surname><given-names>E.</given-names></name>; <name name-style="western"><surname>Ramos</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Verbeure</surname><given-names>B.</given-names></name>; <name name-style="western"><surname>Gait</surname><given-names>M. J.</given-names></name>; <name name-style="western"><surname>Chernomordik</surname><given-names>L. V.</given-names></name>; <name name-style="western"><surname>Lebleu</surname><given-names>B.</given-names></name>
+<article-title>Cell-penetrating peptides.
+A reevaluation of the mechanism of cellular uptake</article-title>. <source>J. Biol. Chem.</source>
+<year>2003</year>, <volume>278</volume><issue>1</issue><fpage>585</fpage>–<lpage>90</lpage>.<pub-id pub-id-type="pmid">12411431</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1074/jbc.M209548200</pub-id></mixed-citation></ref><ref id="ref72"><mixed-citation publication-type="journal" id="cit72"><name name-style="western"><surname>Wang</surname><given-names>K.</given-names></name>; <name name-style="western"><surname>Purushotham</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Lee</surname><given-names>J.-Y.</given-names></name>; <name name-style="western"><surname>Na</surname><given-names>M.-H.</given-names></name>; <name name-style="western"><surname>Park</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Oh</surname><given-names>S.-J.</given-names></name>; <name name-style="western"><surname>Park</surname><given-names>R.-W.</given-names></name>; <name name-style="western"><surname>Park</surname><given-names>J. Y.</given-names></name>; <name name-style="western"><surname>Lee</surname><given-names>E.</given-names></name>; <name name-style="western"><surname>Cho</surname><given-names>B. C.</given-names></name>; <name name-style="western"><surname>Song</surname><given-names>M.-N.</given-names></name>; <name name-style="western"><surname>Baek</surname><given-names>M.-C.</given-names></name>; <name name-style="western"><surname>Kwak</surname><given-names>W.</given-names></name>; <name name-style="western"><surname>Yoo</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Hoffman</surname><given-names>A. S.</given-names></name>; <name name-style="western"><surname>Oh</surname><given-names>Y.-K.</given-names></name>; <name name-style="western"><surname>Kim</surname><given-names>I.-S.</given-names></name>; <name name-style="western"><surname>Lee</surname><given-names>B.-H.</given-names></name>
+<article-title>In vivo
+imaging of tumor apoptosis using histone H1-targeting peptide</article-title>. <source>J. Controlled Release</source>
+<year>2010</year>, <volume>148</volume><issue>3</issue><fpage>283</fpage>–<lpage>291</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jconrel.2010.09.010</pub-id><pub-id pub-id-type="pmid">20869411</pub-id></mixed-citation></ref></ref-list></back></article>

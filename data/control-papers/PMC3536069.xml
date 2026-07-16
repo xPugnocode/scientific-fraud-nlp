@@ -1,0 +1,1306 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article article-type="research-article" xml:lang="en" dtd-version="1.4"><front><journal-meta><journal-id journal-id-type="nlm-ta">PLoS One</journal-id><journal-id journal-id-type="iso-abbrev">PLoS ONE</journal-id><journal-id journal-id-type="pmc-domain-id">440</journal-id><journal-id journal-id-type="pmc-domain">plosone</journal-id><journal-id journal-id-type="nlm-id">101285081</journal-id><journal-id journal-id-type="publisher-id">plos</journal-id><journal-title-group><journal-title>PLoS ONE</journal-title></journal-title-group><issn pub-type="epub">1932-6203</issn><publisher><publisher-name>PLOS</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC3536069</article-id><article-id pub-id-type="pmcid-ver">PMC3536069.1</article-id><article-id pub-id-type="pmcaid">3536069</article-id><article-id pub-id-type="pmcaiid">3536069</article-id><article-id pub-id-type="pmid">23308089</article-id><article-id pub-id-type="doi">10.1371/journal.pone.0051430</article-id><article-id pub-id-type="publisher-id">PONE-D-12-26632</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group><subj-group subj-group-type="Discipline-v2"><subject>Biology</subject><subj-group><subject>Computational Biology</subject><subj-group><subject>Biological Data Management</subject><subject>Regulatory Networks</subject><subject>Systems Biology</subject></subj-group></subj-group><subj-group><subject>Molecular cell biology</subject><subj-group><subject>Nucleic acids</subject><subj-group><subject>RNA</subject><subj-group><subject>RNA synthesis</subject></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v2"><subject>Engineering</subject><subj-group><subject>Bioengineering</subject><subj-group><subject>Biological Systems Engineering</subject></subj-group></subj-group><subj-group><subject>Industrial Engineering</subject><subj-group><subject>Process Engineering</subject></subj-group></subj-group><subj-group><subject>Systems Engineering</subject></subj-group></subj-group></article-categories><title-group><article-title>Conceptual Model-Based Systems Biology: Mapping Knowledge and
+Discovering Gaps in the mRNA Transcription Cycle</article-title><alt-title alt-title-type="running-head">Conceptual Model-Based Systems
+Biology</alt-title></title-group><contrib-group><contrib contrib-type="author"><name name-style="western"><surname>Somekh</surname><given-names initials="J">Judith</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref><xref ref-type="corresp" rid="cor1">
+<sup>*</sup>
+</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Choder</surname><given-names initials="M">Mordechai</given-names></name><xref ref-type="aff" rid="aff3">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Dori</surname><given-names initials="D">Dov</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref></contrib></contrib-group><aff id="aff1">
+<label>1</label>
+<addr-line>Faculty of Industrial Engineering and
+Management, Technion, Israel Institute of Technology, Haifa,
+Israel</addr-line>
+</aff><aff id="aff2">
+<label>2</label>
+<addr-line>Engineering Systems Division, Massachusetts
+Institute of Technology, Cambridge, Massachusetts, United States of
+America</addr-line>
+</aff><aff id="aff3">
+<label>3</label>
+<addr-line>Faculty of Medicine, Technion, Israel
+Institute of Technology, Haifa, Israel</addr-line>
+</aff><contrib-group><contrib contrib-type="editor"><name name-style="western"><surname>Preiss</surname><given-names initials="T">Thomas</given-names></name><role>Editor</role><xref ref-type="aff" rid="edit1"/></contrib></contrib-group><aff id="edit1">
+<addr-line>The John Curtin School of Medical Research,
+Australia</addr-line>
+</aff><author-notes><corresp id="cor1">* E-mail: <email>yuditol@technion.ac.il</email></corresp><fn fn-type="COI-statement"><p><bold>Competing Interests: </bold>The authors have declared that no competing interests exist.</p></fn><fn fn-type="con"><p>Conceived and designed the experiments: JS. Performed the experiments: JS.
+Analyzed the data: JS MC DD. Contributed reagents/materials/analysis tools:
+JS DD MC. Wrote the paper: JS DD MC.</p></fn></author-notes><pub-date pub-type="collection"><year>2012</year></pub-date><pub-date pub-type="epub"><day>20</day><month>12</month><year>2012</year></pub-date><volume>7</volume><issue>12</issue><issue-id pub-id-type="pmc-issue-id">216913</issue-id><elocation-id>e51430</elocation-id><history><date date-type="received"><day>10</day><month>8</month><year>2012</year></date><date date-type="accepted"><day>1</day><month>11</month><year>2012</year></date></history><pub-history><event event-type="pmc-release"><date><day>20</day><month>12</month><year>2012</year></date></event><event event-type="pmc-live"><date><day>10</day><month>01</month><year>2013</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2020-12-16 11:16:22.320"><day>16</day><month>12</month><year>2020</year></date></event></pub-history><permissions><copyright-statement>© 2012 Somekh et al</copyright-statement><copyright-year>2012</copyright-year><copyright-holder>Somekh et al</copyright-holder><license xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://creativecommons.org/licenses/by/4.0/"><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are properly credited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="pone.0051430.pdf"/><abstract><p>We propose a Conceptual Model-based Systems Biology framework for qualitative
+modeling, executing, and eliciting knowledge gaps in molecular biology systems.
+The framework is an adaptation of Object-Process Methodology (OPM), a graphical
+and textual executable modeling language. OPM enables concurrent representation
+of the system's structure—the objects that comprise the system, and
+behavior—how processes transform objects over time. Applying a top-down
+approach of recursively zooming into processes, we model a case in
+point—the mRNA transcription cycle. Starting with this high level cell
+function, we model increasingly detailed processes along with participating
+objects. Our modeling approach is capable of modeling molecular processes such
+as complex formation, localization and trafficking, molecular binding, enzymatic
+stimulation, and environmental intervention. At the lowest level, similar to the
+Gene Ontology, all biological processes boil down to three basic molecular
+functions: catalysis, binding/dissociation, and transporting. During modeling
+and execution of the mRNA transcription model, we discovered knowledge gaps,
+which we present and classify into various types. We also show how model
+execution enhances a coherent model construction. Identification and pinpointing
+knowledge gaps is an important feature of the framework, as it suggests where
+research should focus and whether conjectures about uncertain mechanisms fit
+into the already verified model.</p></abstract><funding-group><funding-statement>This work was funded in part by a grant agreement No. 38221 for
+Promoting Women in Science by the Israeli Ministry of Science to JS. The
+research leading to these results has received funding from the European
+Union's Seventh Framework Programme (FP7/2007-2013) under grant agreement
+No. 262044 – VISIONAIR and from Gordon Center for Systems Engineering at
+the Technion. This work was partially supported by a grant from Israel Science
+Foundation to MC. The funders had no role in study design, data collection and
+analysis, decision to publish, or preparation of the
+manuscript.</funding-statement></funding-group><counts><page-count count="21"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="s1"><title>Introduction</title><p>A myriad of detailed pieces of knowledge regarding the structure and function of the
+living cell have been accumulating at an ever increasing rate while emphasis in
+biological research has shifted from probing into a single molecular function to
+studying complete cellular pathways, cycles and the entire cell as a system. For
+example, recent knowledge links the gene expression system stages (mRNA
+transcription, translation, and decay) by a single multi-functional heterodimer,
+named Rpb4/7, which we previously proposed to coordinate all stages into a system
+<xref rid="pone.0051430-HarelSharvit1" ref-type="bibr">[1]</xref>.
+Thus, in order to better understand the expression of protein-encoding genes, we
+need to consider the entire multi-stage process, as each stage can be regarded as a
+subdivision of a continuous cyclical gene expression process. This realization calls
+for adopting a holistic, integrative, Conceptual Model-based Systems Biology that
+would enable making mechanistic system-level sense of the countless pieces of
+information that have been gathered thanks to decades of meticulous laboratory
+research by many thousands of scientists. A highly expressive conceptual modeling
+approach is needed not only for supporting researchers in integrating the knowledge,
+but also in gradually fleshing it out to see the “big picture”—the
+holistic view of a unified system.</p><p>In this paper we propose a framework for concurrently modeling structural and
+behavioral aspects of molecular biology systems and address the challenges of a
+coherent mechanistic model construction, its execution, and related knowledge gaps
+discovery and elicitation.</p><p>Molecular biology models that represent complex systems or subsystems may become very
+large, as they include many objects—proteins and other molecules and
+biocomplexes, and hierarchically organized processes. Constructing a biological
+mechanistic model can be compared to an attempt at assembling a huge jigsaw puzzle
+from an enormous number of parts—the known facts, many of which are not in a
+specific context, making the full picture incomplete or inconsistent. Conceptual
+approaches supporting a consistent unification of the qualitative facts regarding
+the mechanisms underlying the biological system are needed. These approaches must be
+expressive enough to address the various aspects of molecular biology systems.
+Moreover, the mounting facts constitute an impediment that renders purely manual
+model construction very tedious, time-consuming, and virtually impractical. Thus,
+automated construction of a large-scale mechanistic model from published research
+papers text using natural language processing technologies seems to be a viable
+option. However, the starting point for the automated model construction must be a
+kernel of the system under investigation that was manually-constructed, executed,
+and verified by a team of human experts that comprises system biologists and
+modeling experts.</p><p>As an underlying approach for conceptual modeling, the proposed framework adopts
+Object-Process Methodology (OPM), a holistic and graphical modeling language and
+methodology. Using a minimal set of generic, universal concepts—stateful
+objects and processes that transform them—OPM enables the representation of a
+rich set of abstractions of biological structures and behaviors. These abstractions
+provide for a consistent representation of knowledge about the functional, static,
+and dynamic aspects of biological systems at a spectrum of interconnected levels of
+abstraction, from molecules through organelles to the entire cell and its
+environment. A unique important feature of OPM models is that they are automatically
+translated on the fly into Object-Process Language (OPL), a set of natural English
+sentences in predefined templates that reflect all the details in the graphical
+model.</p><p>We take advantage of the relative simplicity of OPM and the fact that OPM models can
+be executed for analyzing complex biological system, understanding them, identifying
+model inconsistencies and knowledge gaps and classifying them, as the mRNA
+transcription case study presented in this paper clearly demonstrates. We also
+present the adaptations and modeling templates of OPM for molecular biology systems
+and demonstrate their utilization on the transcription case study.</p><sec id="s1a"><title>1. Related Work</title><p>Specification and modeling of the dynamics biological systems, such as metabolic
+pathways, cell transduction, and regulatory networks, is currently carried out
+using a variety of methods <xref rid="pone.0051430-Fisher1" ref-type="bibr">[2]</xref>, <xref rid="pone.0051430-Machado1" ref-type="bibr">[3]</xref>. These modeling approaches can be roughly divided into
+(1) quantitative, mathematical equation-based approaches, such as Ordinary
+Differential Equations (ODEs) that describe the continuous variations in the
+concentration of substances and used in various environments <xref rid="pone.0051430-Takahashi1" ref-type="bibr">[4]</xref>, <xref rid="pone.0051430-Moraru1" ref-type="bibr">[5]</xref> or discrete
+stochastic approaches such as Gillespie's stochastic simulation algorithm
+<xref rid="pone.0051430-Gillespie1" ref-type="bibr">[6]</xref> and
+(2) executable-qualitative approaches. Executable-qualitative approaches are
+used when data about quantities (e.g., concentrations) is missing, where
+equation-based approaches cannot be used. As our focus in this work is
+qualitative dynamic modeling aspects of biological systems, we briefly overview
+pertinent approaches, present their advantage and disadvantage, and compare
+their advantages and disadvantages to those of our proposed OPM approach.</p><p>Executable approaches for modeling biological systems use formal computational
+descriptions or algorithms to describe and understand natural phenomena <xref rid="pone.0051430-Fisher1" ref-type="bibr">[2]</xref>.
+<bold>Boolean Networks</bold>
+<xref rid="pone.0051430-Shmulevich1" ref-type="bibr">[7]</xref>, <xref rid="pone.0051430-Li1" ref-type="bibr">[8]</xref> are graphs that
+include nodes and arcs between them, which describe gene regulatory and
+metabolic networks, focusing on cause and effect relationships among molecules
+or genes. In spite of their success in understanding concepts underlying
+biological systems, such as analyzing system robustness and steady states <xref rid="pone.0051430-Shmulevich1" ref-type="bibr">[7]</xref>, <xref rid="pone.0051430-Li1" ref-type="bibr">[8]</xref>, these network
+models are limited to Boolean effects of genes. They specify neither hierarchies
+nor details of the relevant molecules and processes involved in the system. OPM,
+on the other hand, has inherent, built in mechanisms for modeling both process
+and object hierarchies and present them at various levels of detail.</p><p>The most comprehensive works have used <bold>Petri Nets</bold> for modeling
+concurrent biochemical pathways <xref rid="pone.0051430-Chaouiya1" ref-type="bibr">[9]</xref>, <xref rid="pone.0051430-Reddy1" ref-type="bibr">[10]</xref>, <xref rid="pone.0051430-Kielbassa1" ref-type="bibr">[11]</xref>, <xref rid="pone.0051430-Peleg1" ref-type="bibr">[12]</xref>. This established
+mathematical and graphical technique abstracts systems dynamic by tokens moving
+in a graph composed of arcs and nodes. The execution semantics of OPM resembles
+the concurrent execution semantics of the Petri-nets approach. Focusing on
+processes, Petri Nets do not easily lend themselves to modeling structural
+aspects such as molecules and their states, complexes, and molecular
+hierarchies. The <bold>System Biology Graphical Notation</bold> (SBGN) project
+<xref rid="pone.0051430-Jansson1" ref-type="bibr">[13]</xref>,
+<xref rid="pone.0051430-LeNovre1" ref-type="bibr">[14]</xref>
+aimed at standardizing a graphical representation of the biological model
+includes three types of graphical diagrams: process diagrams, entity
+relationship diagram, and activity flow diagram, inspired by Petri Nets. Each
+diagram type has distinct semantics for representing a biological system and
+provides a partial view of the overall system, making it quite difficult to
+mentally combine the diagrams into one holistic representation. Conversely, in
+OPM, the structure, behavior, and function of the modeled system are specified
+concurrently in a single holistic diagram type at various detail levels,
+preventing clutter and inconsistencies that may arise from using separated views
+for the various system aspects.</p><p>
+<bold>Statecharts</bold> is a formal graphical approach based on state
+transitions that defines the behavior of reactive objects over time.
+Statecharts-based models at the cell level and upwards were developed to
+describe the various stages in the life span of various cell types <xref rid="pone.0051430-Efroni1" ref-type="bibr">[15]</xref>, <xref rid="pone.0051430-Harel1" ref-type="bibr">[16]</xref>. Vulval cell
+fate determination in <italic toggle="yes">C. Elegans</italic> was modeled using Statecharts,
+expressing the mechanistic model, along with a scenario-based visual language
+called <bold>Live Sequence Charts</bold> (LSC), for modeling the experimental
+knowledge <xref rid="pone.0051430-Fisher2" ref-type="bibr">[17]</xref>, <xref rid="pone.0051430-Kam1" ref-type="bibr">[18]</xref>, <xref rid="pone.0051430-Sadot1" ref-type="bibr">[19]</xref>. In Statecharts, a molecule may be represented by a
+state machine showing its possible states and event-driven transitions among
+them. OPM resembles the Statechart approach by being a qualitative executable
+approach, and lacks the ability to incorporate quantitative mathematical
+equations, that includes continuous or stochastic data. However, being
+state-oriented rather than process-oriented, as OPM is, reasoning about complex
+processes, in which many types of molecules take part at various refinement
+levels, is not straightforward. Molecular transient structures, such as complex
+formation, which are easily modeled with OPM, are not straightforward to model
+in Statecharts either. While Statechart model execution is driven by (optionally
+conditioned) state changes in response to asynchronous events, the OPM mix
+serial and concurrent scenario execution. In OPM, each process can have
+conditions that limit its execution. To model quantitative behavior, in both
+methods, multiple instances for each biological object can be added and the
+system behavior can be then executed and analyzed <xref rid="pone.0051430-Efroni1" ref-type="bibr">[15]</xref>.</p><p>
+<bold>Process Algebras</bold> are formal languages for specifying systems with
+discrete events. For example, Regev et al. <xref rid="pone.0051430-Regev1" ref-type="bibr">[20]</xref> proposed to represent
+biochemical signaling pathways through the use of process algebra language, the
+π-calculus, originally developed to model networks of communicating
+processes. Using this approach, communication was mapped to molecular binding
+processes, and channels were mapped to the binding domains of these
+biomolecules. These languages are concurrent and compositional, but being
+text-based only, they are less intuitive than graphical or bi-modal
+representations, such as the bi-modal graphics-and text model representation of
+OPM. In <bold>Agent-based</bold> approaches, computational entities called
+agents execute their tasks autonomously and concurrently. A biological system is
+modeled as a set of agents in a dynamic and often unpredictable environment that
+interact through the creation or modification of signals on a shared data
+structure, known as a “blackboard” <xref rid="pone.0051430-Cannata1" ref-type="bibr">[21]</xref>. Applying an
+Object-Oriented (OO) Unified Modeling Language (UML)-based and agent-based
+approach, Webb and White <xref rid="pone.0051430-Webb1" ref-type="bibr">[22]</xref> modeled and simulated metabolic and genetic pathways,
+using Statecharts and message exchange. Due to limitations of the OO paradigm
+that stem from its origins in the software domain, this model includes such
+non-biological artifacts as capsules, ports, and connectors that exchange
+messages, making it less than intuitive.</p><p>It is worth mentioning the <bold>Rule-based</bold> approach <xref rid="pone.0051430-Faeder1" ref-type="bibr">[23]</xref>, <xref rid="pone.0051430-Calzone1" ref-type="bibr">[24]</xref> which is another method
+for dealing with incomplete quantitative data. The approach has the ability to
+represent rich variety of biological knowledge regarding structure, behavior and
+experimental external conditions. The formalisms consists a set of facts and a
+set of rules (with condition and action parts), stored in a knowledge base.
+Rule-based simulation, iteratively matches the facts in the knowledge base
+against the condition parts of the rules, and executes the matched action parts.
+Facts can express a rich variety of knowledge about the objects of the
+biological system, which can represent molecule, biological process or
+environmental conditions. The objects are usually hierarchically structured and
+are described by their attributes. BIOCHAM <xref rid="pone.0051430-Calzone1" ref-type="bibr">[24]</xref> implements a rule-based
+approach for model specification which is complemented with a temporal logic
+language for the verification of the properties of the biological models.
+Although the advantage of the rule-based approach to represent rich variety of
+qualitative and quantitative knowledge, it is a text-based approach which makes
+it less than intuitive for humans. OPM can also specify a rich variety of
+biological knowledge, such as biological objects, their attributes, their
+states, biological processes, process and object hierarchies and environmental
+conditions (as we demonstrate in the sequel), but unlike rule based approaches,
+which are textual, OPM is graphical.</p><p>With respect to the Semantic Web and its capabilities, the Visual Semantic Web
+(ViSWeb) is a paradigm for enhancing the current Semantic Web technology <xref rid="pone.0051430-Dori1" ref-type="bibr">[25]</xref> that is based
+on OPM. ViSWeb enables modeling of systems in a single graphic and textual
+model, providing for representation of knowledge over the Web in a unified way
+that caters to human perceptions while also being machine processable. The
+advantages of the ViSWeb approach include equivalent graphic-text knowledge
+representation, visual navigability, semantic sentence interpretation,
+specification of system dynamics, and complexity management. Arguing against the
+claim that humans and machines need to look at different knowledge
+representation formats, the principles and basics of various graphic and textual
+knowledge representations are presented and examined as candidates for ViSWeb
+foundation. Since OPM is shown to be most adequate for the task, ViSWeb is
+developed as an OPM-based layer on top of XML/RDF/OWL to express knowledge
+visually and in natural language. Both the graphic and the textual
+representations are strictly equivalent. Being intuitive yet formal, they are
+not only understandable to humans but are also amenable to computer processing.
+The ability to use such bimodal knowledge representation is potentially a major
+step forward in the evolution of the Semantic Web.</p><p>Although the methods briefly surveyed above are appropriate for computational
+analysis of various aspects of the system under study, most of them abstract
+only part of the information regarding the biological system such as
+hierarchical structures, variable states, system events and behavioral details
+of the molecular biology system. As we show next, OPM has an advantage of being
+able to holistically integrate most of the biological information types and
+concurrently model and execute models of complex molecular biology systems. We
+note upfront that in its current form, OPM is a qualitative executable approach,
+and it lacks the ability to incorporate continuous or stochastic data into its
+models. We discuss this aspect in more detail in the sequel.</p></sec><sec id="s1b"><title>2. Object-Process Methodology</title><p>Object-Process Methodology <xref rid="pone.0051430-Dori2" ref-type="bibr">[26]</xref> is a holistic graphical approach to the
+representation and development of complex systems while maintaining a formal
+framework. OPM was originally aimed for use by systems engineers for knowledge
+management and representation of multidisciplinary man-made socio-technical
+industrial and information systems <xref rid="pone.0051430-Dori2" ref-type="bibr">[26]</xref>. OPM is founded upon two
+elementary building blocks. These are stateful objects - things that exist, such
+as molecules, which represent the system's structure, and processes -
+things that happen to objects and transform them. Processes transform the
+system's objects by creating them, consuming them, or changing their
+states. Two semantically equivalent modalities, one graphic and the other
+textual, are used to describe each OPM model. The graphical model is
+automatically translated into a textual model. The textual representation which
+is built as a subset of English can ease the comprehension of the models by
+non-expert viewers.</p><p>By using a single holistic hierarchical model for representing structure and
+behavior, clutter and incompatibilities can be significantly reduced even in
+highly complex systems, thereby enhancing their comprehensibility. OPM has
+proven to be better in visual specification and comprehension quality when
+represented complex reactive systems and compared to the standard in the field
+of systems engineering <xref rid="pone.0051430-Peleg2" ref-type="bibr">[27]</xref>. OPM is supported by OPCAT <xref rid="pone.0051430-Yaroker1" ref-type="bibr">[28]</xref>, a software environment
+that is used in this work to model the transcription case study presented later
+in this paper. OPM operational semantics were recently defined by a translation
+into a state transition system <xref rid="pone.0051430-Perelman1" ref-type="bibr">[29]</xref>, <xref rid="pone.0051430-Perelman2" ref-type="bibr">[30]</xref> and a related OPCAT
+simulation environment was developed <xref rid="pone.0051430-Yaroker1" ref-type="bibr">[28]</xref>. OPM main elements with
+their semantics and biological examples are presented in <xref ref-type="fig" rid="pone-0051430-g001">Figure 1</xref>, <xref ref-type="fig" rid="pone-0051430-g002">Figure 2</xref> and <xref ref-type="fig" rid="pone-0051430-g003">Figure 3</xref> (for full semantics see <xref rid="pone.0051430-Dori2" ref-type="bibr">[26]</xref>).</p><fig id="pone-0051430-g001" orientation="portrait" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0051430.g001</object-id><label>Figure 1</label><caption><title>OPM entities with their symbols, definitions and operation
+semantics.</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="pone.0051430.g001.jpg"/></fig><fig id="pone-0051430-g002" orientation="portrait" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0051430.g002</object-id><label>Figure 2</label><caption><title>OPM procedural links: links connecting an object or state with a
+process.</title><p>These links represent process pre/postcondition object set.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="pone.0051430.g002.jpg"/></fig><fig id="pone-0051430-g003" orientation="portrait" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0051430.g003</object-id><label>Figure 3</label><caption><title>OPM structural links: links connecting an object with an
+object.</title><p>Theses links represent structural hierarchies and characteristics.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="pone.0051430.g003.jpg"/></fig><sec id="s1b1"><title>2.1. OPM operational semantics</title><p>The OPCAT simulation environment supports concurrent, synchronous and
+discrete time execution. The execution we used in this work is qualitative
+in nature with one instance defined for each object (e.g., molecule) and
+process. This enables detecting model errors by executing and analyzing the
+qualitative mechanisms underlying the biological system under study. While
+multiple instances can be defined in OPCAT simulation and quantitative
+aspects can be inspected, these are out of the scope of this work.</p><p>Processes are executed in a synchronous manner, one after another according
+to a defined timeline. The default timeline, within the context (in-zoomed
+frame) of each process, is from top to bottom. Alternative scenarios or
+loops, which override the default timeline, can be modeled using an
+invocation link (see <xref ref-type="supplementary-material" rid="pone.0051430.s002">Table S1</xref>). Concurrency is supported, and
+processes whose ellipse topmost points are located at the same height in the
+diagram are being executed concurrently.</p><p>Each process has a (possibly complex) precondition and a postcondition. A
+process is triggered (attempted to be activated according to its place in
+the timeline), and its precondition is then checked. Only if the
+precondition is satisfied, the process is executed. Upon normal process
+termination, the postcondition must hold. The precondition of a process is
+expressed by its preprocess object set—the set of objects, which must
+exist, some possibly in specific states, for the process to start. The
+postcondition is defined similarly by the postprocess object set. <xref ref-type="fig" rid="pone-0051430-g002">Figure 2</xref> exemplifies the
+links for modeling objects and states as process preconditions and
+postconditions. Logical expressions (AND, OR, XOR) between objects in the
+pre- and post-process object set can be defined (see <xref ref-type="supplementary-material" rid="pone.0051430.s002">Table
+S1</xref>). By default, the logical relation between the objects in the
+pre-process or post-process object set is a logical AND, meaning that all
+the objects in the preprocess object set must exist in their defined states
+for the process precondition to be true. It is possible to change this
+default definition by using the XOR and OR relation between various objects.
+Process execution can also depend on random signals. To model this, we
+connect the process to an environmental object (see <xref ref-type="fig" rid="pone-0051430-g001">Figure 1</xref>) without or with a specific
+state. This environmental object is added to the preprocess object set,
+i.e., process pre-conditions. OPM semantics also include event links, for
+modeling reactive systems, and time exception links which are not used in
+our biological models. The complete OPM semantic is specified in <xref rid="pone.0051430-Dori2" ref-type="bibr">[26]</xref>.</p><p>During execution initiation, system objects are initiated to be at state
+“existent”. Objects created later during execution are initiated
+to be “non-existent”. All objects with explicit states are
+initiated to their initial state, or, if not defined, to a random state.
+Environmental objects are randomly chosen to be existent or non-existent. If
+an environmental object is stateful (has states), one of its states is
+randomly chosen. OPM formal operational semantics can be found in <xref rid="pone.0051430-Perelman2" ref-type="bibr">[30]</xref>.</p></sec><sec id="s1b2"><title>2.2. Handling system complexity via in-zooming and unfolding</title><p>The complexity of systems is managed in OPM models by abstraction-refinement
+mechanisms, notably out- and in-zooming and folding/unfolding, which is used
+to hierarchically expose or hide details of processes and objects (e.g.,
+molecules), respectively. This way, a top-level view of the system is
+expanded into a set of increasingly detailed diagrams that provide the
+details of the processes (via in-zooming) and objects (via unfolding) shown
+in the top-level view. These two mechanisms, process in-zooming and object
+unfolding, are done simultaneously during model construction. While zooming
+into processes, the structural or characteristic details of objects are
+exposed via unfolding. Three of OPM's structural object-object
+relations are used in this work: the aggregation-participation
+(“part-of”) relation, the exhibition-characterization
+(“attribute”) relation and the general unidirectional relation
+(shown in <xref ref-type="fig" rid="pone-0051430-g003">Figure 3</xref>).</p></sec><sec id="s1b3"><title>2.3. Query processing capabilities</title><p>OPM has the following query processing capabilities, embedded in OPCAT. (1)
+Find: one can do a simple “find” query and get the list of all
+places in which a particular string of characters appears in the OPM model.
+This can be filtered by objects, processes, or states, and can be searched
+as a string or as a regular expression. In response OPCAT provides a table
+with all the found locations. Clicking on each line takes the user directly
+to the relevant OPD and highlights the object, process, or states in red.
+(2) “Show All Appearances”: right clicking on a thing (object or
+process) provides a table with all the found locations. Clicking on each
+line takes the user directly to the relevant OPD and highlights the object
+or process in red. (3) XQuery: Since OPL can be extracted as XML, it can be
+directly queried by using XQuery <xref rid="pone.0051430-Melton1" ref-type="bibr">[31]</xref>, a query and functional
+programming language that is designed to query collections of XML data.</p><p>
+<xref ref-type="fig" rid="pone-0051430-g004">Figure 4</xref> shows an example
+of OPM query capability, where the object mRNA search was done using
+“Show All Appearances”, providing in response the table at the
+bottom right of <xref ref-type="fig" rid="pone-0051430-g004">Figure 4</xref>
+with nine appearances of mRNA in various OPDs in the model. Clicking the
+third line of the table brought us to the OPD titled “<bold>SD1.1.1.
+Pre-initiation Complex Formation and Initiation in-zoomed</bold>”,
+in which mRNA is highlighted in red. The OPD tree on the left pane shows
+part of the OPD hierarchy resulting from recursively zooming into yet
+lower-level processes. In this pane, SD1.1.1 is highlighted in blue to show
+where we are in the OPD tree.</p><fig id="pone-0051430-g004" orientation="portrait" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0051430.g004</object-id><label>Figure 4</label><caption><title>An example of OPM query capability: mRNA search.</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="pone.0051430.g004.jpg"/></fig><p>Having investigated the expressiveness of OPM in its current form to model
+molecular systems, we have found that OPM lacks dedicated patterns for
+modeling the full range of biological structures and behaviors, such as link
+hierarchies and transient relations, forming complexes among biological
+entities and various molecular functions. In this paper we explore the
+characteristics of molecular biology systems from a conceptual qualitative
+modeling viewpoint and classify molecular functions. We expand OPM to
+accommodate these modeling constructs, and evaluate the effectiveness of the
+developed modeling framework. The adaptations and templates are evaluated by
+applying them to model the mRNA transcription cycle, a subsystem of the gene
+expression system. Through construction and qualitative execution of the
+resulting model using OPCAT tool, we show how modeling errors and knowledge
+gaps are identified and we classify them into several types for the purpose
+of assisting in the generation of wet laboratory experiments aimed to close
+these gaps.</p></sec></sec></sec><sec id="s2"><title>Results</title><sec id="s2a"><title>1. OPM Adaptations for Molecular Biology Systems</title><p>A valuable qualitative model of a biological system should represent its static,
+dynamic, and functional views <xref rid="pone.0051430-Peleg1" ref-type="bibr">[12]</xref>. As we demonstrate below, a single OPM diagram type
+supports these three major system aspects, relieving us from the need to use
+three or more different diagram types for these three aspects, thereby avoiding
+the need to try to understand the overall view of the system by collecting and
+mentally combining details from disparate diagram types. OPM has a compact set
+of conceptual building blocks for representing holistically these three
+aspects.</p><sec id="s2a1"><title>1.1 Modeling biological complex structures</title><p>Biological objects vary in size, starting from single molecules of growing
+size through molecular complexes, all the way to the more complex
+structures, including organelles, cell compartments, and the cell as a whole
+system. Our focus is modeling of molecules, complexes, and interactions
+among them; higher-level biological objects, which include multi-cell
+organisms, societies of organisms, and entire ecological habitats, are
+beyond the scope of this work. In this section we focus on modeling
+molecular structures and associations between molecules. In the following
+sections we present modeling templates of molecular functions and the
+formation of complexes.</p><p>Biological complexes are cellular components composed of molecules (e.g.,
+proteins), which are often further decomposed into several structural
+domains <xref rid="pone.0051430-Alberts1" ref-type="bibr">[32]</xref>. A complex can be composed of other complexes as
+well. An example of a complex is the transcription Pre-Initiation Complex,
+which is composed of other complexes, including the general transcription
+factors TFIIB and TFIIF. In humans, the complex TFIIF is composed of the
+protein Tfg1 and other proteins <xref rid="pone.0051430-Chen1" ref-type="bibr">[33]</xref>. A
+<italic toggle="yes">domain</italic> is the protein's building block, and it has
+a distinct function <xref rid="pone.0051430-Alberts1" ref-type="bibr">[32]</xref>. In molecular evolution, domains are recombined
+in different arrangements to create proteins with different functions. A
+domain can interact with more than one molecule, and it can therefore
+include more than one binding site. A protein <italic toggle="yes">binding site</italic>
+is defined as the minimal region that is required to bind another molecule.
+A binding site is composed of some set of consecutive amino acids. One
+binding site can bind more than one pair of interacting partners, but not
+simultaneously. Two binding sites can be situated in different or partially
+overlapping 3D regions in the same domain.</p><p>Based on these definitions of domain and binding site, <xref ref-type="fig" rid="pone-0051430-g005">Figure 5</xref> presents a generic OPM template
+of the structure of a complex and an actual example. In <xref ref-type="fig" rid="pone-0051430-g005">Figure 5A</xref>, the object
+<bold>Complex</bold> consists of at least one (denoted
+“1..m” – one to many) <bold>Proteins</bold>. Each
+<bold>Protein</bold> consists of at least one <bold>Domain</bold>, each
+of which, in turn, consists of at least one <bold>Binding Site</bold>. <xref ref-type="fig" rid="pone-0051430-g005">Figure 5B</xref> exemplifies
+application of this template to the <bold>Polymerase II</bold> complex,
+which is the main transcription machinery. <bold>Rpb1</bold> is one of the
+12 proteins composing <bold>Polymerase II</bold>. The C-terminal Domain
+(<bold>CTD</bold>) of <bold>Rpb1</bold> in <italic toggle="yes">S.cerevisiae</italic>
+is composed of 26 <bold>Repeat Sets</bold> of amino acids. <bold>Serine
+2</bold>, <bold>Serine 5</bold>, and <bold>Serine 7</bold> are modeled
+as <bold>Binding Sites</bold>. The type of the object (e.g., Complex,
+Molecule (Protein), Domain, Binding Site) is denoted at the upper-left
+corner of each object and must correspond to the template, as can indeed be
+verified by comparing the template on the left to the example on the
+right.</p><fig id="pone-0051430-g005" orientation="portrait" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0051430.g005</object-id><label>Figure 5</label><caption><title>Complex generic model and example.</title><p>(A) A generic model of the structure of a Complex. The object Complex
+consists of at least one (denoted by “1..m”) Protein,
+which consists at least one Domain, each of which, in turn, consists
+at least one Binding Site. (B) The Complex <bold>Polymerase
+II</bold> with one of its proteins, <bold>Rpb1</bold> and its 26
+<bold>Repeat Sets</bold> with their structure. The balloons
+include explanation of the OPM semantics.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="pone.0051430.g005.jpg"/></fig><p>As <xref ref-type="fig" rid="pone-0051430-g005">Figure 5</xref> shows,
+biological structures and the associations between them are complex and
+often hierarchical. They should be expressed with the ability to refine
+structures and links at several levels of abstraction, ultimately revealing
+the most basic elements – the binding sites. To this end, our
+framework provides a hierarchy of structures and a corresponding hierarchy
+of links. In order to model hierarchical molecular associations clearly and
+explicitly, we define <bold>Link</bold> as a specialized OPM object that
+represents the association between two molecules. As <xref ref-type="fig" rid="pone-0051430-g006">Figure 6A</xref> shows, <bold>Link</bold> is
+connected to two Binding Sites via the OPM unidirectional structural
+link—an open head arrow. <bold>Link</bold> associations are by default
+non-covalent. Covalent associations are modeled with one of the catalyzing
+templates presented in the following section.</p><fig id="pone-0051430-g006" orientation="portrait" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0051430.g006</object-id><label>Figure 6</label><caption><title>Generic link object and example.</title><p>(A) A generic simple <bold>Link</bold> example. The object
+<bold>Link</bold> connects two binding sites A and B. The
+<bold>Link</bold> object can be created by a binding process and
+consumed by a dissociation process. (B) The <bold>TFIIF-TFIIB</bold>
+Complex is composed of a <bold>TFIIF</bold> Complex, a
+<bold>TFIIB</bold> Complex and a <bold>TFIIF-to-TFIIB</bold>
+Complex Link Set.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="pone.0051430.g006.jpg"/></fig><p>The <bold>Link</bold> object provides for creating a link hierarchy.
+<bold>Link</bold> is the lowest object in the link hierarchy. Above it
+is the <bold>Domain Link Set</bold>. As defined in <xref ref-type="fig" rid="pone-0051430-g005">Figure 5</xref>, a <bold>Domain</bold> is
+composed of a set of <bold>Binding Sites</bold>. Two domains are linked via
+a <bold>Domain Link Set</bold> object—a set of one or more
+<bold>Links</bold>, each associating two <bold>Binding Site</bold>
+objects. Analogously, one level up the link hierarchy, two proteins, each
+consisting of one or more <bold>Domains</bold>, are associated via a
+<bold>Protein Link Set</bold> object—a set of one or more
+<bold>Domain Link Sets</bold>. At the top level, two complexes,
+<bold>Complex</bold> objects, are connected by a <bold>Complex Link
+Set</bold> object.</p><p>As an example for modeling biological structures consider the following
+sentence, cited from <xref rid="pone.0051430-Chen1" ref-type="bibr">[33]</xref>:</p><disp-quote><p>
+<italic toggle="yes">“Tfg1, the largest subunit of TFIIF, [is] also
+cross-linked with the B-finger and linker domains, demonstrating a
+close association between Tfg1 and these domains of
+TFIIB”</italic>.</p></disp-quote><p>
+<xref ref-type="fig" rid="pone-0051430-g006">Figure 6B</xref> presents a
+model of the hierarchical association between the TFIIB and TFIIF complexes
+via the B finger domain and the Tfg1 subunit. The <bold>TFIIB-TFIIF</bold>
+Complex is composed of the <bold>TFIIB</bold> Complex and the
+<bold>TFIIF</bold> Complex, connected by <bold>TFIIF-to-TFIIB</bold>
+Complex Link Set. The <bold>TFIIF-to-TFIIB</bold> Complex Link Set is
+further decomposed into its set of links, the <bold>Tfg1-to-B-finger</bold>
+Protein-Domain Link Set. The <bold>Tfg1-to-B-finger</bold> Protein-Domain
+Link Set represents the binding between the <bold>B-finger</bold> domain of
+<bold>TFIIB</bold> and the <bold>Tfg1</bold> subunit of
+<bold>TFIIF</bold>. This <bold>Tfg1-to-B-finger</bold> Protein-Domain
+Link Set connects the respective parts of the <bold>Tfg1</bold> Protein and
+the <bold>B-finger</bold> Domain. If the finer structure is known, the
+domains can be further decomposed into their binding sites, and then the
+actual links comprising the <bold>Tfg1-to-B-finger</bold> Protein-Domain
+Link Set can be specified in the model. Since the type of each object is
+recorded in the top-left corner of each object box, we can tell, for
+example, that <bold>TFIIF–TFIIB</bold> is a Complex, so its name is
+<bold>TFIIF-TFIIB</bold> Complex, and <bold>Tfg1</bold> is a Protein, so
+its name is <bold>Tfg1</bold> Protein. Alternatively, declaring Protein and
+Complex to be reserved words in our framework, we can call the two objects
+“The Complex <bold>TFIIF–TFIIB</bold>” and “The
+Protein <bold>Tfg1</bold>”.</p></sec><sec id="s2a2"><title>1.2 Modeling biological molecular functions</title><p>According to the Gene Ontology, GO <xref rid="pone.0051430-Gene1" ref-type="bibr">[34]</xref>, <xref rid="pone.0051430-Smith1" ref-type="bibr">[35]</xref>, <italic toggle="yes">a biological
+process is accomplished via one or more ordered assemblies of molecular
+functions</italic>. Adopting this definition in our framework,
+<italic toggle="yes">molecular functions</italic> are a small set of basic,
+non-decomposable processes that transform biomolecules. Any higher level
+biological process is composed of these molecular function building blocks.
+This process hierarchy spans the spectrum ranging from the simple molecular
+functions all the way to the most complex biological processes, such as gene
+expression. This hierarchy is clearly represented by the tree of
+Object-Process Diagrams (OPDs) created top-down by recursively zooming into
+processes, starting from the high-level function (e.g., mRNA lifecycle), and
+ending with molecular functions as the tree leaves.</p><p>In GO, molecular functions are classified into four basic categories:
+non-covalent binding, enzymatic activity, receptor activity, and transporter
+activity. Inspired by this classification and building on our experience in
+modeling the mRNA transcription and decay, we classify molecular functions
+into the following three basic process classes.</p><p>
+<bold>Catalyzing</bold> – enzyme-based stimulation of a reaction,
+involving one or more molecule types. Catalyzing is further divided into
+Substrate Consumption Catalyzing and Substrate Change Catalyzing.</p><p>
+<bold>Binding/Dissociation</bold> – non-covalent interaction of a
+molecule X selectively with a molecule Y within the same cell compartment.
+Dissociation is the inverse of binding. We note that covalent interactions
+are included in the catalyzing molecular function.</p><p>
+<bold>Transporting</bold> – a directed movement of a molecule across
+cell compartments.</p><p>As noted, higher level biological processes are composed of these basic
+molecular functions. For example, shuttling of molecule M might involve
+<italic toggle="yes">Binding</italic> to molecule B, followed by
+<italic toggle="yes">Transporting</italic> the resulting B-M complex across a cell
+compartment boundary, followed by <italic toggle="yes">Dissociation</italic> of M from
+B.</p><p>The OPM graphical modeling templates, examples and execution semantics for
+these three molecular functions are presented in <xref ref-type="fig" rid="pone-0051430-g007">Figure 7</xref>, <xref ref-type="fig" rid="pone-0051430-g008">Figure 8</xref> and <xref ref-type="fig" rid="pone-0051430-g009">Figure 9</xref>.</p><fig id="pone-0051430-g007" orientation="portrait" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0051430.g007</object-id><label>Figure 7</label><caption><title>Binding/Dissociation molecular function, modeling templates and
+example.</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="pone.0051430.g007.jpg"/></fig><fig id="pone-0051430-g008" orientation="portrait" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0051430.g008</object-id><label>Figure 8</label><caption><title>Transporting molecular function, modeling template and
+example.</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="pone.0051430.g008.jpg"/></fig><fig id="pone-0051430-g009" orientation="portrait" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0051430.g009</object-id><label>Figure 9</label><caption><title>Catalyzing molecular function, modeling templates and
+example.</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="pone.0051430.g009.jpg"/></fig><p>In OPM, structure and behavior are combined in a single diagram type,
+representing explicitly how the system's behavior effects its
+structure. For example, applying the molecular binding template, example C
+in <xref ref-type="fig" rid="pone-0051430-g007">Figure 7</xref>,
+<italic toggle="yes">Binding and Complex Assembly</italic>, shows the process of
+binding two proteins <bold>A</bold> and <bold>B</bold> and the effect on the
+newly created <bold>A–B</bold> Complex. The biological objects are
+<bold>A</bold> Protein and <bold>B</bold> Protein,
+<bold>A–B</bold> Complex, and <bold>A-to-B</bold> Link Set.
+<bold>A</bold> Protein and <bold>B</bold> Protein participate in the
+<bold>A–B Complex Assembly</bold> process, along with the two
+newly created objects: <bold>A–B</bold> Complex and
+<bold>A-to-B</bold> Link Set. Their creation is represented by the
+creation links (arrows) emanating from the <bold>A–B Complex
+Assembly</bold> process to these two objects. The hierarchical structure
+is represented via the “part-of” (black triangle) structural
+link, connecting <bold>A–B</bold> Complex as a whole to its two parts,
+<bold>A</bold> protein and <bold>B</bold> protein. The details about the
+specific binding domain and binding sites can be further exposed using the
+in-zooming mechanism. A more detailed explanation on complex formation
+follows.</p></sec><sec id="s2a3"><title>1.3 Hierarchical associations and dissociations</title><p>The complex hierarchical details of molecular associations call for
+developing and using adequate modeling tools. Our mechanism for this purpose
+includes a link hierarchy that starts with general inter-complex links at
+the top, all the way down to inter-binding sites links. As we climb up the
+OPD set (set of OPM diagrams) tree to higher level diagrams (using the
+out-zooming mechanism), low-level details about the domains and binding
+sites become invisible. They are exposed only when we drill down and inspect
+increasingly detailed biological processes, and eventually molecular
+functions.</p><p>A complex formation process is exemplifies in <xref ref-type="fig" rid="pone-0051430-g010">Figure 10</xref> on Rpb4/7 binding to RNA
+Polymerase II. Rpb4/7 is known to be a subtoichiomertic component of RNA
+Polymerase II <xref rid="pone.0051430-HarelSharvit1" ref-type="bibr">[1]</xref>. The two diagrams in <xref ref-type="fig" rid="pone-0051430-g010">Figure 10</xref> show (A) the process of binding
+<bold>Rpb4/7</bold> and <bold>Polymerase II</bold>, the two complexes
+participating in the <bold>Rpb4/7 and Polymerase II Binding</bold>, and (B)
+details of this process. The created complex and links are shown
+concurrently. The details about the specific binding domain and binding
+sites can be further exposed through further in-zooming. The OPM diagram
+resulting from zooming into the <bold>Rpb4/7 and Polymerase II
+Binding</bold> process in <xref ref-type="fig" rid="pone-0051430-g010">Figure 10A</xref> is shown in <xref ref-type="fig" rid="pone-0051430-g010">Figure 10B</xref>. The exposed subprocesses are
+(1) <bold>Link Set Generating</bold>, which is further in-zoomed to expose
+the exact details of binding links and domains (not shown) and (2)
+<bold>Polymerase II-and-Rpb4/7 Complex Assembling</bold>, which creates
+the complex and connects it to its parts during model execution. It is up to
+the system modeler to decide what level of granularity is needed (or known)
+for the purpose of understanding some specific point about the system and
+the associated biomolecular mechanism.</p><fig id="pone-0051430-g010" orientation="portrait" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0051430.g010</object-id><label>Figure 10</label><caption><title>Complex formation: the process of molecular binding exemplified
+on Rpb4/7 to Polymerase II binding.</title><p>(A) <bold>Rpb4/7 and Polymerase II Binding</bold> process (B)
+<bold>Rpb4/7 and Polymerase II Binding</bold> process zoomed
+into its sub-processes, <bold>Link Set Generating</bold> and
+<bold>Polymerase II–and-Rpb4/7 Complex
+Assembling</bold>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="pone.0051430.g010.jpg"/></fig><p>In many cases, a protein-protein interaction is known to occur, but the exact
+domains or binding sites of this interaction is unknown. In such cases, we
+model the general protein-protein interaction, as was done in <xref ref-type="fig" rid="pone-0051430-g010">Figure 10A</xref>, without
+zooming further into the binding process and without exposing the binding
+domains or sites. This selective refinement enables modeling a system with
+unknown data, yet providing for executing it correctly.</p></sec><sec id="s2a4"><title>2. The Transcription Cycle Case Study</title><p>To evaluate the utility of OPM as a language for modeling molecular biology
+systems, we have modeled the mRNA transcription cycle. We present the OPM
+model of this system, its execution, the knowledge gaps detected as a result
+of this modeling process, and the classification of these knowledge gaps. In
+addition, by executing the model in a “halt execution” mode
+(i.e., halting whenever a process precondition is not satisfied), we show
+how the execution can detect model errors, which may result either from
+modeling errors or from actual knowledge gaps.</p><p>The expression of protein-encoding genes is a complex process that determines
+which genes are expressed as proteins at any given time, as well as the
+relative levels of these proteins. The mRNA Lifecycle involves several
+distinct stages: (1) RNA synthesis, or transcription and RNA processing
+(after which the RNA is considered mRNA), (2) mRNA transport (in eukaryotes)
+from the nucleus to the cytoplasm, (3) protein synthesis, or translation,
+and (4) mRNA degradation. RNA polymerase II (pol II), a large multi-subunit
+complex, is responsible for transcribing protein-encoding RNAs, namely
+mRNAs, which are the focus of our case study.</p><p>Transcription by pol II, the first stage in the expression of
+protein-encoding genes, produces RNA—the primary transcript. To
+initiate transcription, pol II requires a series of additional proteins,
+general transcription factors, and other proteins (e.g., activators). In
+addition, the Mediator, a large multiprotein complex, and the chromatin
+(which includes the DNA) with its main building blocks, the histones, are
+responsible for modulating transcription by communicating with many
+gene-specific regulators and transcription activation factors <xref rid="pone.0051430-Kornberg1" ref-type="bibr">[36]</xref>.
+During the elongation phase of transcription, the nascent RNA undergoes
+three types of processing events: (I) a special nucleotide, m(7)GpppN, named
+“cap”, is added to the RNA's 5′ end (a process known
+as capping); (II) intron sequences are removed from internal sections of the
+RNA molecule (splicing) (III) A stretch of poly(A), called poly(A) tail, is
+added to the 3′ end of the RNA. This process involves RNA cleavage and
+further polyadenylation, and is executed prior the transcription termination
+phase, which occurs downstream of this site. Each of these processes is
+carried out by proteins or RNA molecules, many of which travel along with
+the RNA polymerase II (Pol II). In many cases, these modifying factors bind
+to C-terminal Domain (CTD) of Pol II. Transcription of a given gene is a
+multiple round event, during which RNA Polymerase II undergoes phase
+transitions between “initiation”, “elongation”, and
+“termination”, which can repeat many times. It has been proposed
+<xref rid="pone.0051430-Yudkovsky1" ref-type="bibr">[37]</xref>, <xref rid="pone.0051430-Svejstrup1" ref-type="bibr">[38]</xref>, <xref rid="pone.0051430-Rani1" ref-type="bibr">[39]</xref> that the
+same Pol II can be transformed from the termination to initiation phase
+without leaving the transcription unit. Thus, termination may be coupled to
+initiation. The first transcription round is a rare event compared to
+subsequent rounds that involve termination-coupled with re-initiation. Some
+of the initiation factors remain bound to the promoter throughout the
+transcription cycle, whereas others are recycled <xref rid="pone.0051430-Yudkovsky1" ref-type="bibr">[37]</xref>, <xref rid="pone.0051430-Svejstrup1" ref-type="bibr">[38]</xref>.
+Indeed, convincing recent evidence from both <italic toggle="yes">in vitro</italic> and
+<italic toggle="yes">in vivo</italic> studies have shown that general transcription
+factors (GTFs), such as TFIID, TFIIA, and TFIIB <xref rid="pone.0051430-Yudkovsky1" ref-type="bibr">[37]</xref>, <xref rid="pone.0051430-Svejstrup1" ref-type="bibr">[38]</xref>,
+<xref rid="pone.0051430-Zawel1" ref-type="bibr">[40]</xref>,
+<xref rid="pone.0051430-Pokholok1" ref-type="bibr">[41]</xref>, <xref rid="pone.0051430-Wang1" ref-type="bibr">[42]</xref>, as well as the Mediator complex <xref rid="pone.0051430-Kornberg1" ref-type="bibr">[36]</xref>,
+<xref rid="pone.0051430-Svejstrup1" ref-type="bibr">[38]</xref>, <xref rid="pone.0051430-Rani1" ref-type="bibr">[39]</xref>, <xref rid="pone.0051430-Svejstrup2" ref-type="bibr">[43]</xref>, stay behind at the
+promoter when Pol II engages in transcript elongation, allowing rapid entry
+of new polymerases for re-initiation of transcription at the gene. The
+Chromatin and Mediator roles, which are more significant in the first
+pioneering round of transcription <xref rid="pone.0051430-Kornberg1" ref-type="bibr">[36]</xref>, <xref rid="pone.0051430-Svejstrup1" ref-type="bibr">[38]</xref>,
+<xref rid="pone.0051430-Rani1" ref-type="bibr">[39]</xref>,
+are beyond the scope of this paper.</p><p>Our transcription model, which yields an mRNA, includes RNA synthesis and
+processing. The model focuses on the transcription reinitiating process and
+its participants; the basal Pol II transcription machinery in eukaryotes,
+the general transcription factors TFIID, TFIIB, TFIIE, TFIIH <xref rid="pone.0051430-Yudkovsky1" ref-type="bibr">[37]</xref>,
+<xref rid="pone.0051430-Svejstrup1" ref-type="bibr">[38]</xref>, <xref rid="pone.0051430-Zawel1" ref-type="bibr">[40]</xref>, <xref rid="pone.0051430-Pokholok1" ref-type="bibr">[41]</xref>, Rpb4/7 <xref rid="pone.0051430-HarelSharvit1" ref-type="bibr">[1]</xref>
+and Fcp1 <xref rid="pone.0051430-Kobor1" ref-type="bibr">[44]</xref>. Our main goal was to gain insight into the
+reinitiating process and the role of rpb4/7 in it. It should be emphasized
+that, although based on compelling results <xref rid="pone.0051430-Yudkovsky1" ref-type="bibr">[37]</xref>, <xref rid="pone.0051430-Svejstrup1" ref-type="bibr">[38]</xref>, the
+looping model cannot yet be considered to be a well-established mechanism.
+We suspect that it is relevant to some transcription units, but not to all
+of them.</p></sec><sec id="s2a5"><title>2.1 Transcription OPM model</title><p>The OPM model and execution of this important cellular subsystem with
+illustrations of OPM extensions and templates is presented in this section.
+The transcription model is based on 32 facts and mechanisms derived from 19
+research papers (presented in <xref ref-type="supplementary-material" rid="pone.0051430.s003">Table S2</xref>), regarding the mechanisms
+underlying the transcription process in eukaryotes. Our main focus was the
+transcription re-initiation process and its related factors: TFIIF
+transcription factor, RNA Polymerase II, its CTD(C-Terminal Domain) changes
+and its Rpb4/7 subunit, TFIIB transcription factor and Fcp1 phosphatase.
+Other participating transcription factors such as- TFIIA, TFIID, TFIIH,
+TFIIE where modeled as well, whenever related to the re-initiation
+process.</p><p>The established model includes 50 objects and 37 processes. The 37 processes
+includes, 13 higher level processes and 24 lowest level processes. Lowest
+level processes are not further in-zoomed. The model's processes tree
+includes 7 levels. The transcription model and the OPCAT tool can be
+downloaded and executed from <xref rid="pone.0051430-ESML1" ref-type="bibr">[45]</xref>.</p><p>In <xref ref-type="fig" rid="pone-0051430-g011">Figure 11A</xref>
+<bold>Transcription Cycle</bold> is zoomed into three subprocesses:
+<bold>Re-initiation, Elongation</bold> and <bold>Termination</bold>. The
+<bold>mRNA</bold> is created and modified during these
+<bold>Transcription Cycle</bold> subprocesses. The <bold>mRNA</bold> is
+created from a <bold>Nucleotide Set</bold>, which is consumed during
+<bold>Termination</bold>, as depicted by the consumption link, the arrow
+emanating from the <bold>Nucleotide Set</bold> object into
+<bold>Termination</bold>. The <bold>mRNA</bold> is created during the
+<bold>Re-initiation</bold> process in its <bold>capped</bold> state, as
+denoted by the state-specified result link from the
+<bold>Re-initiation</bold> process to the <bold>capped</bold> state of
+<bold>mRNA</bold>. During <bold>Elongation</bold>, <bold>mRNA</bold> is
+synthesized and processed, resulting in a state change from
+<bold>capped</bold> to <bold>elongated</bold>. During
+<bold>Termination</bold>, multiple proteins are recruited onto the
+<bold>mRNA</bold>, including <bold>Export Receptor Set</bold>, which is
+a set of factors that support export of <bold>mRNA</bold> with
+<bold>Rpb4/7</bold> into the cytoplasm, changing its state from
+<bold>elongated</bold> to <bold>mRNP</bold>. <xref ref-type="fig" rid="pone-0051430-g011">Figure 11B</xref> presents the corresponding
+Object-Process Language (OPL) text, which is a subset of natural English,
+generated automatically by OPCAT. OPL sentences concisely specify in text
+exactly what the Object-Process Diagrams (OPDs) express graphically,
+catering to people who are more inclined to comprehend complexities of
+systems by reading text (popularly referred to as “right-brain
+people” according to the theory of “left-brain or right-brain
+dominance”) rather than by diagrams (preferred by “left-brain
+people”).</p><fig id="pone-0051430-g011" orientation="portrait" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0051430.g011</object-id><label>Figure 11</label><caption><title>The transcription process bi-modal representation.</title><p>(A) The Transcription process model. (B) The corresponding
+automatically-generated Object-Process Language (OPL).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="pone.0051430.g011.jpg"/></fig><p>OPL sentences specify (1) the structure of the system and (2) the behavior of
+the system, in particular how processes change object states, how they
+create new objects (molecules or complexes), how they consume existing ones,
+and what objects (called enablers in OPM) are required in order for a
+process to take place even though they are not affected. Two examples of
+structure sentences appearing in <xref ref-type="fig" rid="pone-0051430-g011">Figure 11B</xref> are: (1)
+“<bold>Nucleotide Set</bold> consists of <bold>Nascent RNA Builder
+Subset, Elongators Nucleotide Subset</bold>, and <bold>Cleaved
+Nucleotide Subset</bold>.” (2) “<bold>Polymerase II</bold>
+consists of <bold>Serine 2</bold>.”. Examples of behavior sentences
+are: (1) “<bold>Termination</bold> consumes <bold>Nucleotide
+Set</bold>.” – a consumption sentence, (2)
+“<bold>Elongation</bold> changes <bold>mRNA</bold> from
+<bold>capped</bold> to <bold>elongated</bold>.” – a
+state-change sentence, specifying the state before (<bold>capped</bold>) and
+after (<bold>elongated</bold>) the process <bold>Elongation</bold> took
+place, and (3) “<bold>Elongation</bold> requires
+<bold>Spliceosome</bold>, <bold>TREX Complex</bold>, and
+<bold>phosphorylated Serine 2</bold>.” – an enabling
+sentence, specifying the exact list of objects (molecules and/or complexes)
+required for the <bold>Elongation</bold> process to take place.</p><p>As these examples show, not only can the English-translated OPL sentences be
+understood easily by biologists who are not conceptual modeling experts;
+these sentences include unambiguous, essential information for understanding
+the structure, behaviour, and function of the biological system at the
+various levels of hierarchy. In contrast, text in research papers is written
+in free, unconstrained language. This freedom allows paper authors to write
+complicated sentences that on one hand are hard to follow, and on the other
+hand do not provide complete information, either because this information is
+assumed to be known, or because it is not known. Most often, neither the
+former nor the latter case are explicitly declared. In contrast, since OPL
+is derived automatically from a formal OPM model, which is guaranteed to be
+consistent, the text in each sentence expresses an unambiguous model fact
+that is based on the literature and/or new findings.</p><p>While modeling facts expressed in different research papers, contradictions
+may pop up. These are discovered while attempting to execute the unified
+model. Indeed, we have accidently encountered at least one case of such a
+contradiction between two published papers, which is beyond the scope of
+this paper. The likelihood of detecting such contradiction by merely reading
+free text of two different papers is very slim. This points out to another
+benefit of our model-based approach. Such contradictions, which will be
+reflected also in the OPL text, can be resolved by searching for supporting
+evidence in related papers or executing actual lab experiments to support
+one claim and refute the other. Once decided, the correct facts are
+incorporated into the graphical OPM model and they will be automatically
+reflected also in the text.</p><p>
+<xref ref-type="fig" rid="pone-0051430-g012">Figure 12</xref> presents a
+screenshot of the <bold>Transcription Cycle</bold> process during its
+execution using OPCAT. Our conceptual model execution includes qualitative
+execution of a transcription cycle of a single, representative mRNA
+molecule. <bold>Elongation</bold> (colored in dark purple) is being
+executed, while the <bold>Elongators Nucleotide Subset</bold> object is
+being consumed, as denoted by the red dot along the consumption link, and
+<bold>mRNA</bold> changes states from <bold>capped</bold> to
+<bold>elongated</bold>. A transcription cycle execution record can be
+downloaded from <xref rid="pone.0051430-ESML1" ref-type="bibr">[45]</xref> and for an explained partial execution see Video
+S1.</p><fig id="pone-0051430-g012" orientation="portrait" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0051430.g012</object-id><label>Figure 12</label><caption><title>The execution of the transcription model.</title><p>Here shown a snapshot of the <bold>Elongation</bold> process being
+executed (and therefore highlighted in purple), and the
+<bold>mRNA</bold> changes states from <bold>capped</bold> into
+<bold>elongated</bold>. See supplemental movie SV1 for
+<bold>Re-initiation</bold> process non-deterministic
+execution.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="pone.0051430.g012.jpg"/></fig><p>The <bold>Re-initiation</bold> process is further zoomed (diagrams not
+shown), exposing two subprocesses: <bold>Pre-initiation Complex Formation
+and Initiation</bold> and <bold>Promoter Clearance</bold>. <xref ref-type="fig" rid="pone-0051430-g013">Figure 13</xref> presents a
+diagram, in which the <bold>Pre-initiation Complex Formation and
+Initiation</bold> process is further in-zoomed. Its second and third
+subprocesses, <bold>Pol II.CTD.Serine 5 Phosphorylation</bold> and
+<bold>TFIIB.Serine 65 Phosphorylation</bold>, are not further in-zoomed,
+as depicted by their thin surrounding ellipse contour. Both are atomic
+phosphorylation functions, classified as <italic toggle="yes">Catalyzing –
+Substrate Changed</italic> molecular functions and modeled using the
+appropriate template, as highlighted in <xref ref-type="fig" rid="pone-0051430-g013">Figure 13</xref> with a dashed line applied to
+<bold>Pol II.CTD.Serine 5 Phosphorylation</bold>, where TFIIH is the
+kinase.</p><fig id="pone-0051430-g013" orientation="portrait" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0051430.g013</object-id><label>Figure 13</label><caption><title>Pre-initiation complex formation and initiation model.</title><p>In this example we apply the Catalyzing - Substrate Changed modeling
+template for modeling serine 5 phosphorylation (surrounded by dashed
+square) by TFIIH Kinase. TFIIB Kinase is still conjectured and
+therefore highlighted in grey.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="pone.0051430.g013.jpg"/></fig><p>
+<bold>TFIIH</bold> (see <xref ref-type="fig" rid="pone-0051430-g013">Figure
+13</xref>) is defined as environmental object (surrounding line is
+dashed), meaning that its existence is randomly chosen during execution. If
+it is chosen to be <bold>non-e</bold> (non-existent), the <bold>Pol
+II.CTD.Serine 5 Phosphorylation</bold> and <bold>TFIIB.Serine 65
+Phosphorylation</bold> processes will not be executed, resulting in
+abortive RNA. This flow of events exemplifies a possible non-deterministic
+execution of the model. Using environmental objects, the model shows not
+only a “successful” transcription process, but also includes the
+possible failure scenarios, such as abortive RNAs (See Video S1). We note
+that a successful transcription cycle is known to be a rare event <xref rid="pone.0051430-Svejstrup1" ref-type="bibr">[38]</xref>, yet
+it is the only one leading to mRNA synthesis. Thus this transcription
+non-deterministic model may show the abnormal termination options, which is
+probably highly valuable for understanding the source of various defects and
+diseases.</p></sec><sec id="s2a6"><title>2.2 The utility of conceptual model-based systems biology</title><p>Our framework assumes the existence of a “ground truth”
+conceptual model: a model kernel in a specific molecular biology research
+area that was constructed manually based on the best available knowledge
+from the literature, validated by the best experts in this specific research
+area, and adjusted to execute correctly and fit the experimental data. Our
+Conceptual Model-based Systems Biology framework includes a set of
+methodological guidelines that help the biologist to (1) incorporate her or
+his findings into the existing model, thereby augmenting and evolving it,
+making sure it is still executable and consistent, (2) identify potential
+knowledge gaps within the augmented model, and (3) if a knowledge gap is
+discovered, generate one or more hypotheses, incorporate it into the model,
+and test the model before the design of another set of one or more lab
+experiments aimed to close this gap. The model with the conjectured
+hypothesis can be tested by comparing its execution to fit the experimental
+findings. If the ground truth model is augmented and no knowledge gap is
+discovered, the facts that have been added can potentially become part of
+the new, augmented ground truth model, and this is how the model evolves
+over time.</p></sec></sec><sec id="s2b"><title>3. Detecting Knowledge Gaps and Model Errors</title><p>During the attempts to unify the data related to the mRNA transcription and decay
+processes, into one executable mechanistic OPM model, we have detected knowledge
+gaps and model errors of various types. Detecting a knowledge gap during manual
+OPM model construction regarding translation factors localization in P-bodies is
+described in <xref rid="pone.0051430-Dori3" ref-type="bibr">[46]</xref>, resulted in raising and experimentally proving a
+conjecture about eRF3 location in the P body. We note that in this work OPCAT
+execution capabilities were incomplete and were not used. Also the biological
+modeling templates were not defined.</p><p>We define a <italic toggle="yes">knowledge gap</italic> as lack of knowledge regarding a
+specific detail of some process and/or object in the system being modeled. We
+define a <italic toggle="yes">model error</italic> as an inconsistency regarding a specific
+detail of some process and/or object in the system being modeled. Knowledge gaps
+and model errors prevent a given system model from being able to completely and
+satisfactorily explain or execute the behavior of that system.</p><p>Model errors are detected automatically during model execution. Knowledge gaps
+can arise under the following possible circumstances: (1)
+<italic toggle="yes">manually</italic>, while trying to model some fact that is stated in
+the literature using a modeling template of one of the three molecular functions
+(see <xref ref-type="fig" rid="pone-0051430-g007">Figure 7</xref>, <xref ref-type="fig" rid="pone-0051430-g008">Figure 8</xref> and <xref ref-type="fig" rid="pone-0051430-g009">Figure 9</xref>) or represent the
+temporal execution order of two or more processes, or (2)
+<italic toggle="yes">automatically</italic>, during model execution, as a result of
+detecting model errors in the model of the system under test. This model errors
+are raised when the model does not execute as the suggested mechanism or the
+execution outcomes does not match the expected experimental outcomes.</p><p>Our qualitative model execution (with one instance defined for each model entity)
+can help expose modeling errors resulting from temporal aspects, incorrect
+control flows, or wrong outcomes. The execution can detect, (1) object-related
+discrepancies, such as missing or redundant objects (e.g., association objects
+or some molecule), or (2) state-related discrepancies, such as incorrect state
+or an object being at more than one state at the same time. The detected errors
+results from process-related discrepancies, such as missing, temporally
+misplaced, or redundant molecular functions. After detected, the relevant
+process should be adjusted to enable successful model execution. Examples of
+<italic toggle="yes">missing object</italic> error and <italic toggle="yes">incorrect state</italic>
+error follow.</p><p>While constructing and executing our transcription model, the control flow was
+found to be incorrect, indicating one or more modeling errors or gaps in our
+knowledge. <xref ref-type="fig" rid="pone-0051430-g014">Figure 14</xref> is a
+screenshot of the model and this incorrect erroneous flow, causing halt of the
+system during execution. For example, the <bold>Pol II.CTD.Serine 5
+Phosphorylation</bold> process halted execution with the following two
+errors indicated by our software:</p><fig id="pone-0051430-g014" orientation="portrait" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0051430.g014</object-id><label>Figure 14</label><caption><title>Example of two errors found during model execution.</title><p>The transcription model execution halts during the <bold>Pol
+II.CTD.Serine 5 Phosphorylation</bold> process with errors presented
+in the lowest frame (see Video S2). The first error is a <italic toggle="yes">missing
+object</italic> error and the second is an <italic toggle="yes">incorrect
+state</italic> error.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="pone.0051430.g014.jpg"/></fig><p>“Process <bold>Pol II.CTD.Serine 5 Phosphorylation</bold> failed to run
+(time = 17458) for the following reasons:</p><list list-type="order"><list-item><p>Instrument link is not satisfied because object <bold>Pol II-TFIIH</bold>
+has no instances.</p></list-item><list-item><p>Consumption link is not satisfied because object <bold>Serine 5</bold>
+has no instances at state <bold>dephosphorylate</bold>”.</p></list-item></list><p>As exemplified in <xref ref-type="fig" rid="pone-0051430-g014">Figure 14</xref>,
+the precondition of the <bold>Pol II.CTD.Serine5 Phosphorylation</bold> process
+includes three instruments: (1) the existence of the object <bold>TFIIH</bold>,
+(2) existence of the object <bold>Pol II-TFIIH</bold> Link Set, i.e.,
+recruitment of <bold>TFIIH</bold> to <bold>Pol II</bold>, and (3) the existence
+of the object <bold>Serine 5</bold> in its <bold>dephosphorylated</bold> state.
+The first error detected above is a <italic toggle="yes">missing object</italic> error since
+the <bold>Pol II-TFIIH</bold> object is non-existent (i.e., has no instances).
+It results from a temporal error, indicating that <bold>TFIIH</bold> was not
+recruited to <bold>Pol II</bold> prior to <bold>Serine 5
+Dephosphorylation</bold>, as required. The second detected error is an
+<italic toggle="yes">incorrect state</italic> error since <bold>Serine 5</bold> is in the
+incorrect <bold>phosphorylated</bold> state. This execution error results from a
+missing molecular function. We indeed found that there is no specified molecular
+function that transforms <bold>Serine 5</bold> (located at position 5 of the
+C-terminal domain belonging to the Rpb1 subunit of the RNA Polymerase II) from
+its <bold>dephosphorylated</bold> state to its <bold>phosphorylated</bold>
+state.</p><p>As a result of detecting these errors, the model was corrected and then executed
+successfully. One of the corrected diagrams is in <xref ref-type="fig" rid="pone-0051430-g013">Figure 13</xref>, where the <bold>Pol II.CTD.Serine
+5 Phosphorylation</bold> and <bold>TFIIB.Serine 65 Phosphorylation</bold>
+processes where changed to be executed after <bold>Pre-Initiation Complex
+Formation</bold> process (and TFIIH recruitment) and before <bold>Nascent
+mRNA Synthesis and Capping</bold>, since <bold>TFIIB.Serine 65
+Phosphorylation</bold> is a condition for transcription initiation and
+capping <xref rid="pone.0051430-Wang1" ref-type="bibr">[42]</xref>.</p><p>The errors exemplified above are modeling errors, which are made often by the
+system modeler. Many such modeling errors were detected as a result of our model
+execution and fixed during the transcription model construction.</p><p>In addition to the modeling errors, which were fixed, we also detected 17 actual
+knowledge gaps, which are presented in <xref ref-type="table" rid="pone-0051430-t001">Table 1</xref>. Knowledge gap number 11, which
+relates to the unknown dephosphorylation of TFIIB, was detected while cyclically
+executing the transcription re-initiation. This <italic toggle="yes">incorrect state</italic>
+model error was detected when the execution halted; indicating that the serine
+located at position 65 of TFIIB is not in the required dephosphorylated state.
+The other knowledge gaps were detected manually prior to model execution.</p><table-wrap id="pone-0051430-t001" orientation="portrait" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0051430.t001</object-id><label>Table 1</label><caption><title>Knowledge gaps found while modeling the mRNA transcription
+process.</title></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="pone-0051430-t001-1" position="float" orientation="portrait" xlink:href="pone.0051430.t001.jpg"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Knowledge Gap Type</td><td align="left" rowspan="1" colspan="1">Associated Molecular Function</td><td align="left" rowspan="1" colspan="1">Knowledge Gap</td></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">Unknown temporal order</td><td align="left" rowspan="1" colspan="1">Binding</td><td align="left" rowspan="1" colspan="1">When is Rpb4/7 recruited to RNA Polymerase
+II?</td></tr><tr><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">Unknown Object (binding molecule)</td><td align="left" rowspan="1" colspan="1">Binding</td><td align="left" rowspan="1" colspan="1">What molecule recruits Rpb4/7 to Polymerase
+II?</td></tr><tr><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">Unknown temporal order</td><td align="left" rowspan="1" colspan="1">Binding</td><td align="left" rowspan="1" colspan="1">When does Rpb4/7 bind FCP1?</td></tr><tr><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">Unknown temporal order</td><td align="left" rowspan="1" colspan="1">Binding</td><td align="left" rowspan="1" colspan="1">When does Rpb4/7 bind TFIIF?</td></tr><tr><td align="left" rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">Unknown temporal order</td><td align="left" rowspan="1" colspan="1">Binding</td><td align="left" rowspan="1" colspan="1">When does TFIIB bind FCP1?</td></tr><tr><td align="left" rowspan="1" colspan="1">6</td><td align="left" rowspan="1" colspan="1">Unknown temporal order</td><td align="left" rowspan="1" colspan="1">Binding</td><td align="left" rowspan="1" colspan="1">When does FCP1 bind TFIIF?</td></tr><tr><td align="left" rowspan="1" colspan="1">7</td><td align="left" rowspan="1" colspan="1">Unknown temporal order</td><td align="left" rowspan="1" colspan="1">Binding</td><td align="left" rowspan="1" colspan="1">What is the temporal dependency of Rpb4/7
+recruitment and TFIIH and TFIIE recruitment to PIC?</td></tr><tr><td align="left" rowspan="1" colspan="1">8</td><td align="left" rowspan="1" colspan="1">Unknown temporal order</td><td align="left" rowspan="1" colspan="1">Binding</td><td align="left" rowspan="1" colspan="1">When does Pol II Bind TFIIF?</td></tr><tr><td align="left" rowspan="1" colspan="1">9</td><td align="left" rowspan="1" colspan="1">Unknown temporal order</td><td align="left" rowspan="1" colspan="1">Transporting</td><td align="left" rowspan="1" colspan="1">When does Pol II change location from
+terminator to promoter?</td></tr><tr><td align="left" rowspan="1" colspan="1">10</td><td align="left" rowspan="1" colspan="1">Unknown object (binding domain)</td><td align="left" rowspan="1" colspan="1">Binding</td><td align="left" rowspan="1" colspan="1">What domains of FCP1 does rpb4/7 bind to?</td></tr><tr><td align="left" rowspan="1" colspan="1">11</td><td align="left" rowspan="1" colspan="1">Unknown object (phosphatase)</td><td align="left" rowspan="1" colspan="1">Catalyzing</td><td align="left" rowspan="1" colspan="1">What molecule dephosphorylates TFIIB serine
+65?</td></tr><tr><td align="left" rowspan="1" colspan="1">12</td><td align="left" rowspan="1" colspan="1">Unknown molecular function</td><td align="left" rowspan="1" colspan="1">Missing Molecular Function</td><td align="left" rowspan="1" colspan="1">How is Fcp1 inhibited?</td></tr><tr><td align="left" rowspan="1" colspan="1">13</td><td align="left" rowspan="1" colspan="1">Unknown object</td><td align="left" rowspan="1" colspan="1">Binding</td><td align="left" rowspan="1" colspan="1">What molecule binds Fcp1 to inhibit its
+activity?</td></tr><tr><td align="left" rowspan="1" colspan="1">14</td><td align="left" rowspan="1" colspan="1">Unknown object (kinase)</td><td align="left" rowspan="1" colspan="1">Catalyzing</td><td align="left" rowspan="1" colspan="1">What is the Ser7 kinase?</td></tr><tr><td align="left" rowspan="1" colspan="1">15</td><td align="left" rowspan="1" colspan="1">Unknown object</td><td align="left" rowspan="1" colspan="1">Binding</td><td align="left" rowspan="1" colspan="1">What molecule recruits Ser7 kinase?</td></tr><tr><td align="left" rowspan="1" colspan="1">16</td><td align="left" rowspan="1" colspan="1">Unknown object (phosphatase)</td><td align="left" rowspan="1" colspan="1">Catalyzing</td><td align="left" rowspan="1" colspan="1">What is the Ser7 phosphatase?</td></tr><tr><td align="left" rowspan="1" colspan="1">17</td><td align="left" rowspan="1" colspan="1">Unknown object (binding molecule)</td><td align="left" rowspan="1" colspan="1">Binding</td><td align="left" rowspan="1" colspan="1">What molecule recruits Ser7 phosphatase?</td></tr></tbody></table></alternatives></table-wrap><p>Our ability to detect most of the actual knowledge gaps manually may be due to
+the fact that many of the modeled mechanisms were completely unknown, making it
+hard to construct the model initially. Another reason can be that the model is
+medium sized and not overly complex. However, we expect that in larger, more
+complex models, concrete knowledge gaps will be more difficult to detect by
+humans static inspection, yet they can be detected automatically by trying to
+execute the model in the same manner exemplified above.</p><p>We note that knowledge gap can also result from an inconsistency between two or
+more temporal facts stated in two or more different research papers. This might
+indicate an incorrect interpretation of the experimental results in one of the
+research papers between which a contradiction has been detected through the
+model. We have indeed found a discrepancy between findings stated in two papers
+in the decay part of our larger mRNA lifecycle model (not presented here).</p><p>After the model was constructed and evaluated to be consistent, one can replace
+the execution mode from the “halt execution” mode to the “skip
+process” mode. In the “halt execution” mode, instrument links
+are used, representing a precondition that must hold for the model to continue
+its execution. In the “skip process” mode, condition links are used,
+providing for skipping a process whose precondition is not met. In the
+“skip process” mode, unsatisfied conditions do not halt the model,
+but rather skip the process and continue executing. This enables analysis of
+system perturbations, such as mutations, and execution of non-deterministic
+models (see Video S1).</p><sec id="s2b1"><title>3.1 Knowledge gaps classification</title><p>Having modeled the mRNA transcription cycle as well as the mRNA decay process
+(which is not presented in this work), we fixed the modeling errors,
+highlighted the actual knowledge gaps, and analyzed their characteristics.
+Based on this analysis, we propose a classification of knowledge gaps that
+might arise as a result of qualitative conceptual modeling of molecular
+biology system mechanisms.</p><p>Our knowledge gaps classification is based on the three molecular
+functions—catalyzing, binding/dissociating, and transporting—and
+their modeling templates. Knowledge gaps might stem from (1) lack of
+knowledge regarding a molecular function at some point in the model, (2) the
+completeness of the molecular function template and the structure of the
+participating objects in the template (e.g., missing knowledge on binding
+sites or enzymes), or (3) the temporal execution order of a molecular
+function within the scope of its higher level biological process.
+Accordingly, we classify knowledge gaps into the following three types.</p><p>
+<bold>Unknown Molecular Function</bold> – Lack of knowledge about
+whether a molecular function F happens in a certain place under certain
+circumstances. For example, it has been sown that TFIIB inhibits the
+phosphatase activity of FCP1 <xref rid="pone.0051430-Friedl1" ref-type="bibr">[47]</xref>. When we tried to
+incorporate this finding into the transcription model as a molecular
+function, knowledge gaps emerged, preventing straightforward modeling of
+this assertion. We can assume that the inhibition is due to binding of some
+unknown molecule A to Fcp1. This is represented in the model using the
+unknown <italic toggle="yes">Binding</italic> molecular function between Fcp1 and some
+unknown molecule A. Consequently, the CTD de-phosphorylation function is
+inhibited, because Fcp1 is not free to carry out its “usual”
+activity due to its binding to A. The knowledge gap here is weather a
+<italic toggle="yes">Binding</italic> molecular function between A and Fcp1 occurs
+(see <xref ref-type="table" rid="pone-0051430-t001">Table 1</xref>, row no.
+12).</p><p>
+<bold>Unknown Object</bold> –Lack of knowledge about an object (such as
+a molecule) that participates in a molecular function. For example, while it
+is obvious that the molecular function of TFIIB.serine 65 dephosphorylation
+is needed for executing a temporally coherent model, the details of this
+molecular function are unknown (see <xref ref-type="table" rid="pone-0051430-t001">Table 1</xref>, row no. 11). The unknown
+identity of the TFIIB Kinase is highlighted in grey in <xref ref-type="fig" rid="pone-0051430-g013">Figure 13</xref>. Another example is a knowledge
+gap regarding the identity of A in the case of inhibiting the phosphatase
+activity of FCP1, by binding <xref rid="pone.0051430-Friedl1" ref-type="bibr">[47]</xref>. We might conjecture
+that it is TFIIB, as this is in line with the fact that TFIIB binds fcp1
+<xref rid="pone.0051430-Kobor1" ref-type="bibr">[44]</xref>.
+However, this is a mere conjecture that must be proved empirically.</p><p>
+<bold>Unknown Temporal Order</bold> – Lack of knowledge about the
+temporal order of the molecular function along the model timeline. It is
+unknown whether a molecular function F, which is known to happen, must
+happen before or after another molecular function F′, or whether F and
+F′ are dependent on each other and therefore must happen in parallel,
+or whether they are independent and therefore each one of them can happen
+before, during, or after the other. An example of a temporal order knowledge
+gap is the unknown temporal order of the RNA Polymerase II to Rpb4/7 binding
+function: It is unknown whether it occurs during transcription termination,
+during transcription initiation, or between these two processes (see <xref ref-type="table" rid="pone-0051430-t001">Table 1</xref>, row no. 1).</p><p>
+<xref ref-type="table" rid="pone-0051430-t001">Table 1</xref> summarizes the
+17 knowledge gaps we found in the transcription model. Of those, all but
+knowledge gap number 11 were found manually, while constructing the model.
+Each knowledge gap is phrased as a question, and for each one, the
+associated molecular function and knowledge gap type are recorded.</p><p>After a knowledge gap has been detected, be it manually or automatically, the
+model needs to be augmented with a conjecture that enables its execution.
+These conjectures, highlighted in grey in the model (such as TFIIB Kinase in
+<xref ref-type="fig" rid="pone-0051430-g013">Figure 13</xref>), are
+verified by model execution and then must be verified empirically. If there
+is more than one alternative conjecture, experimental results will determine
+which one is correct, so the model can be updated accordingly, serving as an
+evolving reliable knowledge resource.</p><p>We have also worked on a larger model, the mRNA decay model, which is not
+presented in this paper. The mRNA decay model comprises 130 objects and 65
+processes, of which 41 are leaf, atomic processes, and 24 are higher level.
+In this mRNA decay model, which runs 9 in-zooming levels deep, we found 24
+knowledge gaps, of which 13 were related to <italic toggle="yes">unknown temporal
+orders</italic> and 6 were <italic toggle="yes">unknown objects</italic>. Like in the
+mRNA transcription model which is the focus of this paper, only one
+knowledge gap was of the type <italic toggle="yes">unknown molecular function</italic>.
+Most of the knowledge gaps in both models were related to (1)
+<italic toggle="yes">unknown temporal orders</italic>: 47% and 50% in
+the transcription and mRNA decay models, respectively, and (2)
+<italic toggle="yes">unknown objects</italic>: 47% and 25% in the
+transcription and mRNA decay models, respectively.</p><p>Interestingly, since the mRNA decay is a newer, more cutting-edge research
+subject, experimental results that were related to completely unknown mRNA
+decay mechanisms gave rise to four wider knowledge gaps of a new kind, which
+we call <italic toggle="yes">unknown mechanism</italic>. Each unknown mechanism involves
+a set of several unknown molecular functions. Thus, a hierarchy of knowledge
+gap types can be defined, in which <italic toggle="yes">unknown mechanism</italic> is the
+widest, followed by <italic toggle="yes">unknown molecular function</italic>,
+<italic toggle="yes">unknown object</italic> and <italic toggle="yes">unknown temporal
+order</italic>.</p></sec></sec></sec><sec id="s3"><title>Summary and Discussion</title><p>We have proposed a Conceptual Model-based Systems Biology framework. Our framework
+enables multi-layer qualitative modeling and model execution, as well as model-based
+elicitation and classification of knowledge gaps in molecular biology systems. We
+also show how model execution detects model errors and enhances the construction of
+a mechanistically coherent model.</p><p>The framework adapts Object-Process Methodology (OPM) to the domain of systems
+biology. OPM fits the task at hand as it enables concurrent representation of the
+system's structure—the objects that comprise the system, and its
+behavior—how processes transform objects over time. OPM is a conceptually
+rich, graphical language which has the capacity to capture the variety of biological
+information by connecting stateful objects (i.e., molecules) to biological processes
+that transform them: create or destroy them, or change their states at various
+levels of detail.</p><p>Modeling the mRNA transcription cycle as a case in point, we started with this high
+level cell function and modeled increasingly detailed processes, along with the
+objects participating in these processes. This case study has demonstrated modeling
+of molecular processes, such as complex formation, localization and trafficking,
+molecular binding, enzymatic stimulation, and environmental intervention. While this
+paper has focused on the mRNA transcription case study, using OPM for conceptual
+modeling in systems biology is by no means limited to this particular subsystem.
+Indeed, we have been applying OPM to model the mRNA decay process, which is the
+focus of current work in progress, and the Glycolysis metabolic pathway, part of
+which we present in <xref ref-type="supplementary-material" rid="pone.0051430.s001">Figure S1</xref>. Similar to the Gene Ontology (GO) definitions, at the lowest
+level of our framework, all biological processes boil down to three basic molecular
+functions: catalysis, binding/dissociation, and transporting. The simultaneous
+representation of structure and behavior via objects and processes, along with the
+modeling templates, provide for the ability to focus on particular molecules of
+interests and follow their changing role over time in complex biological processes.
+The ability to follow molecules as they participate in multiple processes can help
+discover multi-functional molecules, such as Rpb4/7, which has a key role in each
+major stage of the mRNA lifecycle <xref rid="pone.0051430-HarelSharvit1" ref-type="bibr">[1]</xref>, a finding that is
+emerging as a key feature of biological systems.</p><p>During modeling and execution of the mRNA transcription model, we discovered modeling
+errors and knowledge gaps. Our model execution can help expose modeling errors and
+knowledge gaps resulting from incorrect control flows or wrong execution outcomes.
+The execution can detect, (1) object-related discrepancies, such as missing or
+redundant objects (e.g., association objects or some molecule), or (2) state-related
+discrepancies, such as incorrect state or an object being at more than one state at
+the same time. Many model errors were discovered during model construction and
+execution, and the model was adjusted accordingly in an iterative improvement
+process, until we were satisfied with its execution flow and its agreement with
+published results, weeding out false positives as much as we could and leaving only
+“true” knowledge gaps.</p><p>Identification and classification of knowledge gaps is a valuable feature of the
+framework, as it suggests where research should focus and whether conjectures about
+uncertain mechanisms fit into the already verified evolving model. From a
+quantitative viewpoint, our mRNA transcription model includes 50 objects and 37
+processes, 24 of which are low-level processes. In this model, we detected 17 actual
+knowledge gaps. These were related to molecular functions and classified into three
+types: unknown molecular function, unknown object, and unknown temporal order. About
+half of the knowledge gaps (eight of 17) related to temporal aspects
+(<italic toggle="yes">unknown temporal order</italic> type), another eight were unknown
+biological objects participating in some molecular function (<italic toggle="yes">unknown
+object</italic> type), and one related to an unknown molecular function
+(<italic toggle="yes">unknown molecular function</italic> type). We also demonstrated how our
+executable framework is capable of detecting temporal gaps and unknown molecular
+functions in a straightforward manner. In a more complex mRNA decay subsystem, which
+we also modeled, most of the knowledge gaps were also <italic toggle="yes">unknown temporal
+order</italic> and <italic toggle="yes">unknown object</italic> types. In the mRNA decay
+model we found a fourth, wider knowledge gap type—<italic toggle="yes">unknown
+mechanism</italic>, which comprises several unknown molecular functions, giving
+rise to a hierarchy of knowledge gap types.</p><p>Knowledge gaps can emerge from model execution using other conceptual formalisms. For
+example, temporal inconsistencies were reported when comparing
+<italic toggle="yes">Caenorhabditis elegans</italic> vulval development model execution with
+experimental results, using the Statecharts qualitative method <xref rid="pone.0051430-Fisher2" ref-type="bibr">[17]</xref>. Moreover, some of the
+questions and knowledge gaps might have been exposed by examining known facts
+without constructing the model and executing it. Yet, a systematic approach enforced
+by the modeling activity and the model execution may greatly enhance the detection
+of inconsistencies and the elicitation of knowledge gaps. Moreover, the model may
+also serve as a vehicle to resolve the detected inconsistencies and test conjectures
+related to knowledge gap resolutions.</p><p>The model can provide a top-level holistic functional view, such as gene expression,
+and gradually expose details of both biological processes and the involved
+structures all the way down to such minute details as whether a given amino acid is
+phosphorylated. OPM's in-zooming/out-zooming capability enables gradual
+exposure of system details. By traversing across detail levels, this
+refinement-abstraction mechanism facilitates focusing on fine details of a
+particular subsystem via in-zooming, and getting an overall system view via
+out-zooming. For example, using the OPM modeling tool OPCAT and its query
+capabilities, we can inspect for each molecule of interest the flow of processes it
+undergoes and how each process affects it. It is this ability to have a holistic
+system view on one hand and to inspect low-level details on the other hand that
+researchers, immersed in an ocean of details, often miss.</p><p>The benefits of using our framework to a biology researcher also include the ability
+to coherently preserve, manage, and evolve knowledge about a system under study. Our
+framework captures and explicitly represents both established and conjectured
+qualitative mechanistic knowledge about the function, behavior, and structure of the
+systems at a wide spectrum of detail levels. The model is the means to relate
+disparate pieces of information into a comprehensive, system-wide conceptual
+framework, in which knowledge is arranged in a consistent hierarchical way. The
+sources of the knowledge pieces can be a result of one's experiments combined
+with facts known from the literature. Being formal, the model can be executed in a
+straightforward manner using model checking techniques <xref rid="pone.0051430-Perelman1" ref-type="bibr">[29]</xref> from Computer Science. An
+important outcome of this knowledge formalized organization is the ability to
+construct a widely-expressive mechanistic coherent model and expose knowledge gaps
+that can provide a basis for designing and executing experiments.</p><p>A main drawback of executable methods is their closeness to computational semantics
+<xref rid="pone.0051430-Fisher1" ref-type="bibr">[2]</xref>, such as
+being based solely on object states or events, and lack of adequate abstractions
+needed for closing the gap between these basic computation-oriented concepts and the
+rich set of concepts needed for representing biological systems. As we have shown,
+OPM does enable the representation of a rich set of biological structures and
+behaviors. One drawback of an expressive conceptual language is the need to use a
+larger set of concepts and symbols than used in other modeling methods, though in
+OPM the size of this set is kept to a minimum: stateful objects and processes that
+transform them as entities, and several link types to express structure and behavior
+connections in a single diagram type.</p><p>Conceptual qualitative models are key for understanding the system's underlying
+mechanisms, which are a result of the quantitative findings. Indeed, the model that
+we have developed so far is qualitative in nature; it does not represent
+continuously changing compartmental concentrations of reactants or stochastic data
+that are required to formalize quantitative models. Since our model is qualitative
+in nature, we map each experimental quantitative outcome to be incorporated into the
+model as Boolean. For example, 70% deactivation of some process is mapped in
+our model as 100% deactivation of that process. Yet, our approach is capable
+of modeling kinetic coefficients of reactants by using multiple instances of the
+biological objects, as exemplified in the model of the Glycolysis pathway (see <xref ref-type="supplementary-material" rid="pone.0051430.s001">Figure S1</xref>).</p><p>The proposed framework can help conceptualize an incomplete complex molecular biology
+system, drive execution, and support hypothesis generation and validation. After the
+model is constructed and evaluated through execution to match the known experimental
+data, it can be used to check hypotheses and to generate new ones. This can be done
+by perturbing the model or by incorporating into the model new hypothesized
+mechanisms and then matching its outcomes to known wet-lab experimental findings. If
+the new model with the conjectured mechanism yields the expected results, the
+conjecture is said to be consistent with the model and can be further tested
+experimentally. Our model may detect errors in biological mechanistic conjectures
+before conducting wet lab experiments. A restriction of the approach is that the
+model might yield false positives, i.e., indicate that an erroneous mechanistic
+conjecture is correct, because for lack of knowledge it executes correctly. Hence,
+model-validated conjectures still need to be confirmed via wet-lab experiments. On
+the positive side, though, many such experiments can be avoided or refined if the
+model proves them wrong in the first place.</p><p>A unique advantage of OPM is its bimodal representation: the graphic model is
+translated on the fly to Object-Process Language (OPL)—a subset of natural
+English that enables comprehension of the model by biologists who have no knowledge
+of the graphic symbols of OPM. The opposite translation of text to graphics is also
+possible. In the long run, we aim to automate the conceptual modeling task by
+targeted processing and analysis of natural language text from pertinent scientific
+articles. To start the process, a manually-constructed and conceptual ground-truth
+model of the kernel of the system under investigation must be developed and verified
+by human experts and via execution. This ground truth model will be the starting
+point for the automated model construction from literature text. In parallel, based
+on this work, we are also developing an automatic model verification framework <xref rid="pone.0051430-Perelman1" ref-type="bibr">[29]</xref>.</p></sec><sec sec-type="materials|methods" id="s4"><title>Materials and Methods</title><p>To create and execute the model, we used OPCAT <xref rid="pone.0051430-Yaroker1" ref-type="bibr">[28]</xref>. We started by modeling
+established knowledge concerning the mRNA transcription re-initiation cycle from
+pertinent research papers. The list of facts and their references is presented in
+<xref ref-type="supplementary-material" rid="pone.0051430.s003">Table S2</xref>.
+Each basic OPM molecular function or molecular structure was defined with the
+relevant modeling template using the “role” feature in OPCAT. For the
+sake of executing the model, we defined one instance for each object class. We used
+the instrument links for defining process precondition in the “halt
+execution” mode, which was used for checking the model's consistency and
+detecting model errors. In this mode the system halts at any process whose
+precondition is not satisfied. Whenever the systems halted, we analyzed the detected
+errors and corrected them repeatedly, until the model execution terminated
+successfully. After the model was made coherent and executed as expected, the system
+may be converted to the “skip process” mode by changing the instrument
+links into condition links. During model construction and execution we discovered
+the knowledge gaps, recorded them, and classified them. For relevant knowledge gaps
+we added to the model the missing details as conjectures.</p></sec><sec sec-type="supplementary-material" id="s5"><title>Supporting Information</title><supplementary-material content-type="local-data" id="pone.0051430.s001" position="float" orientation="portrait"><label>Figure S1</label><caption><p>Diagram of the Glycolysis metabolic process.</p><p>(DOCX)</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="pone.0051430.s001.docx" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pone.0051430.s002" position="float" orientation="portrait"><label>Table S1</label><caption><p>Main OPM elements (as used in this work), with their symbols, definitions and
+execution semantics.</p><p>(DOCX)</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="pone.0051430.s002.docx" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pone.0051430.s003" position="float" orientation="portrait"><label>Table S2</label><caption><p>Transcription model facts and relevant references.</p><p>(DOCX)</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="pone.0051430.s003.docx" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pone.0051430.s004" position="float" orientation="portrait"><label>Video S1</label><caption><p>Record of a non-deterministic transcription re-initiation process
+execution.</p><p>(7Z)</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="pone.0051430.s004.avi" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pone.0051430.s005" position="float" orientation="portrait"><label>Video S2</label><caption><p>Record of the transcription cycle model execution with model errors
+detected.</p><p>(7Z)</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="pone.0051430.s005.avi" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ref-list><title>References</title><ref id="pone.0051430-HarelSharvit1"><label>1</label><mixed-citation publication-type="journal">
+<name name-style="western"><surname>Harel-Sharvit</surname><given-names>L</given-names></name>, <name name-style="western"><surname>Eldad</surname><given-names>N</given-names></name>, <name name-style="western"><surname>Haimovich</surname><given-names>G</given-names></name>, <name name-style="western"><surname>Barkai</surname><given-names>O</given-names></name>, <name name-style="western"><surname>Duek</surname><given-names>L</given-names></name>, <etal>et al</etal> (<year>2010</year>) <article-title>RNA polymerase
+II subunits link transcription and mRNA decay to
+translation</article-title>. <source>Cell</source>
+<volume>143</volume> (<issue>4</issue>)
+<fpage>552</fpage>–<lpage>563</lpage>.<pub-id pub-id-type="pmid">21074047</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cell.2010.10.033</pub-id></mixed-citation></ref><ref id="pone.0051430-Fisher1"><label>2</label><mixed-citation publication-type="journal">
+<name name-style="western"><surname>Fisher</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Henzinger</surname><given-names>TA</given-names></name> (<year>2007</year>) <article-title>Executable cell
+biology</article-title>. <source>Nature Biotechnology</source>
+<volume>25</volume> (<issue>11</issue>)
+<fpage>1239</fpage>–<lpage>1249</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nbt1356</pub-id><pub-id pub-id-type="pmid">17989686</pub-id></mixed-citation></ref><ref id="pone.0051430-Machado1"><label>3</label><mixed-citation publication-type="journal">
+<name name-style="western"><surname>Machado</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Costa</surname><given-names>RS</given-names></name>, <name name-style="western"><surname>Rocha</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Ferreira</surname><given-names>EC</given-names></name>, <name name-style="western"><surname>Tidor</surname><given-names>B</given-names></name>, <etal>et al</etal> (<year>2011</year>) <article-title>Modeling
+formalisms in systems biology</article-title>. <source>AMB Express</source>
+<volume>1</volume> (<issue>1</issue>)
+<fpage>1</fpage>–<lpage>14</lpage>.<pub-id pub-id-type="pmid">22141422</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/2191-0855-1-45</pub-id><pub-id pub-id-type="pmcid">PMC3285092</pub-id></mixed-citation></ref><ref id="pone.0051430-Takahashi1"><label>4</label><mixed-citation publication-type="journal">
+<name name-style="western"><surname>Takahashi</surname><given-names>K</given-names></name>, <name name-style="western"><surname>Ishikawa</surname><given-names>N</given-names></name>, <name name-style="western"><surname>Sadamoto</surname><given-names>Y</given-names></name>, <name name-style="western"><surname>Sasamoto</surname><given-names>H</given-names></name>, <name name-style="western"><surname>Ohta</surname><given-names>S</given-names></name>, <etal>et al</etal> (<year>2003</year>) <article-title>E-cell 2:
+Multi-platform E-cell simulation system</article-title>.
+<source>Bioinformatics</source>
+<volume>19</volume> (<issue>13</issue>) <fpage>1727</fpage>.<pub-id pub-id-type="pmid">15593410</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/bioinformatics/btg221</pub-id></mixed-citation></ref><ref id="pone.0051430-Moraru1"><label>5</label><mixed-citation publication-type="journal">
+<name name-style="western"><surname>Moraru</surname><given-names>II</given-names></name>, <name name-style="western"><surname>Schaff</surname><given-names>JC</given-names></name>, <name name-style="western"><surname>Slepchenko</surname><given-names>BM</given-names></name>, <name name-style="western"><surname>Blinov</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Morgan</surname><given-names>F</given-names></name>, <etal>et al</etal> (<year>2008</year>) <article-title>Virtual cell
+modelling and simulation software environment</article-title>.
+<source>Systems Biology, IET</source>
+<volume>2</volume> (<issue>5</issue>)
+<fpage>352</fpage>–<lpage>362</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1049/iet-syb:20080102</pub-id><pub-id pub-id-type="pmcid">PMC2711391</pub-id><pub-id pub-id-type="pmid">19045830</pub-id></mixed-citation></ref><ref id="pone.0051430-Gillespie1"><label>6</label><mixed-citation publication-type="journal">
+<name name-style="western"><surname>Gillespie</surname><given-names>DT</given-names></name> (<year>1977</year>) <article-title>Exact stochastic simulation of
+coupled chemical reactions</article-title>. <source>The Journal of Physical
+Chemistry</source>
+<volume>81</volume> (<issue>25</issue>)
+<fpage>2340</fpage>–<lpage>2361</lpage>.</mixed-citation></ref><ref id="pone.0051430-Shmulevich1"><label>7</label><mixed-citation publication-type="journal">
+<name name-style="western"><surname>Shmulevich</surname><given-names>I</given-names></name>, <name name-style="western"><surname>Lähdesmäki</surname><given-names>H</given-names></name>, <name name-style="western"><surname>Dougherty</surname><given-names>ER</given-names></name>, <name name-style="western"><surname>Astola</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Zhang</surname><given-names>W</given-names></name> (<year>2003</year>) <article-title>The role of certain post classes in
+boolean network models of genetic networks</article-title>.
+<source>Proceedings of the National Academy of Sciences</source>
+<volume>100</volume> (<issue>19</issue>) <fpage>10734</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.1534782100</pub-id><pub-id pub-id-type="pmcid">PMC202352</pub-id><pub-id pub-id-type="pmid">12963822</pub-id></mixed-citation></ref><ref id="pone.0051430-Li1"><label>8</label><mixed-citation publication-type="journal">
+<name name-style="western"><surname>Li</surname><given-names>F</given-names></name>, <name name-style="western"><surname>Long</surname><given-names>T</given-names></name>, <name name-style="western"><surname>Lu</surname><given-names>Y</given-names></name>, <name name-style="western"><surname>Ouyang</surname><given-names>Q</given-names></name>, <name name-style="western"><surname>Tang</surname><given-names>C</given-names></name> (<year>2004</year>) <article-title>The yeast cell-cycle network is
+robustly designed</article-title>. <source>Proceedings of the National
+Academy of Sciences of the United States of America</source>
+<volume>101</volume> (<issue>14</issue>) <fpage>4781</fpage>.<pub-id pub-id-type="pmid">15037758</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.0305937101</pub-id><pub-id pub-id-type="pmcid">PMC387325</pub-id></mixed-citation></ref><ref id="pone.0051430-Chaouiya1"><label>9</label><mixed-citation publication-type="journal">
+<name name-style="western"><surname>Chaouiya</surname><given-names>C</given-names></name> (<year>2007</year>) <article-title>Petri net modelling of biological
+networks</article-title>. <source>Briefings in Bioinformatics</source>
+<volume>8</volume> (<issue>4</issue>) <fpage>210</fpage>.<pub-id pub-id-type="pmid">17626066</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/bib/bbm029</pub-id></mixed-citation></ref><ref id="pone.0051430-Reddy1"><label>10</label><mixed-citation publication-type="journal">
+<name name-style="western"><surname>Reddy</surname><given-names>VN</given-names></name>, <name name-style="western"><surname>Mavrovouniotis</surname><given-names>ML</given-names></name>, <name name-style="western"><surname>Liebman</surname><given-names>MN</given-names></name> (<year>1993</year>) <article-title>Petri net representations in
+metabolic pathways</article-title>. <source>Proc Int Conf Intell Syst Mol
+Biol</source>
+<volume>1</volume> (<issue>328–36</issue>)
+<fpage>96038982</fpage>.<pub-id pub-id-type="pmid">7584354</pub-id></mixed-citation></ref><ref id="pone.0051430-Kielbassa1"><label>11</label><mixed-citation publication-type="journal">
+<name name-style="western"><surname>Kielbassa</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Bortfeldt</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Schuster</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Koch</surname><given-names>I</given-names></name> (<year>2009</year>) <article-title>Modeling of the U1 snRNP assembly
+pathway in alternative splicing in human cells using petri
+nets</article-title>. <source>Computational Biology and Chemistry</source>
+<volume>33</volume> (<issue>1</issue>)
+<fpage>46</fpage>–<lpage>61</lpage>.<pub-id pub-id-type="pmid">18775676</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.compbiolchem.2008.07.022</pub-id></mixed-citation></ref><ref id="pone.0051430-Peleg1"><label>12</label><mixed-citation publication-type="journal">
+<name name-style="western"><surname>Peleg</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Yeh</surname><given-names>I</given-names></name>, <name name-style="western"><surname>Altman</surname><given-names>RB</given-names></name> (<year>2002</year>) <article-title>Modelling biological processes using
+workflow and petri net models</article-title>.
+<source>Bioinformatics</source>
+<volume>18</volume> (<issue>6</issue>) <fpage>825</fpage>.<pub-id pub-id-type="pmid">12075018</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/bioinformatics/18.6.825</pub-id></mixed-citation></ref><ref id="pone.0051430-Jansson1"><label>13</label><mixed-citation publication-type="journal">
+<name name-style="western"><surname>Jansson</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Jirstrand</surname><given-names>M</given-names></name> (<year>2010</year>) <article-title>Biochemical modeling with systems
+biology graphical notation</article-title>. <source>Drug Discovery
+Today</source>
+<volume>15</volume> (<issue>9–10</issue>)
+<fpage>365</fpage>–<lpage>370</lpage>.<pub-id pub-id-type="pmid">20211756</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.drudis.2010.02.012</pub-id></mixed-citation></ref><ref id="pone.0051430-LeNovre1"><label>14</label><mixed-citation publication-type="journal">
+<name name-style="western"><surname>Le Novère</surname><given-names>N</given-names></name>, <name name-style="western"><surname>Hucka</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Mi</surname><given-names>H</given-names></name>, <name name-style="western"><surname>Moodie</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Schreiber</surname><given-names>F</given-names></name>, <etal>et al</etal> (<year>2009</year>) <article-title>The systems
+biology graphical notation</article-title>. <source>Nature
+Biotechnology</source>
+<volume>27</volume> (<issue>8</issue>)
+<fpage>735</fpage>–<lpage>741</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nbt.1558</pub-id><pub-id pub-id-type="pmid">19668183</pub-id></mixed-citation></ref><ref id="pone.0051430-Efroni1"><label>15</label><mixed-citation publication-type="journal">
+<name name-style="western"><surname>Efroni</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Harel</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Cohen</surname><given-names>IR</given-names></name> (<year>2003</year>) <article-title>Toward rigorous comprehension of
+biological complexity: Modeling, execution, and visualization of thymic
+T-cell maturation</article-title>. <source>Genome Research</source>
+<volume>13</volume> (<issue>11</issue>) <fpage>2485</fpage>.<pub-id pub-id-type="pmid">14597657</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1101/gr.1215303</pub-id><pub-id pub-id-type="pmcid">PMC403768</pub-id></mixed-citation></ref><ref id="pone.0051430-Harel1"><label>16</label><mixed-citation publication-type="journal">
+<name name-style="western"><surname>Harel</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Setty</surname><given-names>Y</given-names></name>, <name name-style="western"><surname>Efroni</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Swerdlin</surname><given-names>N</given-names></name>, <name name-style="western"><surname>Cohen</surname><given-names>IR</given-names></name> (<year>2008</year>) <article-title>Concurrency in biological modeling:
+Behavior, execution and visualization</article-title>. <source>Electronic
+Notes in Theoretical Computer Science</source>
+<volume>194</volume> (<issue>3</issue>)
+<fpage>119</fpage>–<lpage>131</lpage>.</mixed-citation></ref><ref id="pone.0051430-Fisher2"><label>17</label><mixed-citation publication-type="journal">
+<name name-style="western"><surname>Fisher</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Piterman</surname><given-names>N</given-names></name>, <name name-style="western"><surname>Hubbard</surname><given-names>E</given-names></name>, <name name-style="western"><surname>Stern</surname><given-names>MJ</given-names></name>, <name name-style="western"><surname>Harel</surname><given-names>D</given-names></name> (<year>2005</year>) <article-title>Computational insights into
+caenorhabditis elegans vulval development</article-title>.
+<source>Proceedings of the National Academy of Sciences of the United States
+of America</source>
+<volume>102</volume> (<issue>6</issue>) <fpage>1951</fpage>.<pub-id pub-id-type="pmid">15684055</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.0409433102</pub-id><pub-id pub-id-type="pmcid">PMC548551</pub-id></mixed-citation></ref><ref id="pone.0051430-Kam1"><label>18</label><mixed-citation publication-type="other">Kam N, Harel D, Kugler H, Marelly R, Pnueli
+A, <etal>et al</etal>.. (2003) Formal modeling of C. elegans development: A
+scenario-based approach. Computational methods in systems biology; Springer. p.
+4–20.</mixed-citation></ref><ref id="pone.0051430-Sadot1"><label>19</label><mixed-citation publication-type="journal">
+<name name-style="western"><surname>Sadot</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Fisher</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Barak</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Admanit</surname><given-names>Y</given-names></name>, <name name-style="western"><surname>Stern</surname><given-names>MJ</given-names></name>, <etal>et al</etal> (<year>2008</year>) <article-title>Toward verified
+biological models</article-title>. <source>Computational Biology and
+Bioinformatics, IEEE/ACM Transactions on</source>
+<volume>5</volume> (<issue>2</issue>)
+<fpage>223</fpage>–<lpage>234</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1109/TCBB.2007.1076</pub-id><pub-id pub-id-type="pmid">18451431</pub-id></mixed-citation></ref><ref id="pone.0051430-Regev1"><label>20</label><mixed-citation publication-type="journal">
+<name name-style="western"><surname>Regev</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Silverman</surname><given-names>W</given-names></name>, <name name-style="western"><surname>Shapiro</surname><given-names>E</given-names></name> (<year>2001</year>) <article-title>Representation and simulation of
+biochemical processes using the pi-calculus process algebra</article-title>.
+<source>In Proceedings of the Pacific Symposium of Biocomputing
+(PSB2001)</source>
+<volume>6</volume>:
+<fpage>459</fpage>–<lpage>470</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1142/9789814447362_0045</pub-id><pub-id pub-id-type="pmid">11262964</pub-id></mixed-citation></ref><ref id="pone.0051430-Cannata1"><label>21</label><mixed-citation publication-type="journal">
+<name name-style="western"><surname>Cannata</surname><given-names>N</given-names></name>, <name name-style="western"><surname>Corradini</surname><given-names>F</given-names></name>, <name name-style="western"><surname>Merelli</surname><given-names>E</given-names></name>, <name name-style="western"><surname>Omicini</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Ricci</surname><given-names>A</given-names></name> (<year>2005</year>) <article-title>An agent-oriented conceptual
+framework for systems biology</article-title>. <source>Transactions on
+Computational Systems Biology III</source>
+<fpage>105</fpage>–<lpage>122</lpage>.</mixed-citation></ref><ref id="pone.0051430-Webb1"><label>22</label><mixed-citation publication-type="journal">
+<name name-style="western"><surname>Webb</surname><given-names>K</given-names></name>, <name name-style="western"><surname>White</surname><given-names>T</given-names></name> (<year>2004</year>) <article-title>Cell modeling using agent-based
+formalisms</article-title>. <source>Innovations in Applied Artificial
+Intelligence</source>
+<fpage>128</fpage>–<lpage>37</lpage>.</mixed-citation></ref><ref id="pone.0051430-Faeder1"><label>23</label><mixed-citation publication-type="journal">
+<name name-style="western"><surname>Faeder</surname><given-names>JR</given-names></name>, <name name-style="western"><surname>Blinov</surname><given-names>ML</given-names></name>, <name name-style="western"><surname>Goldstein</surname><given-names>B</given-names></name>, <name name-style="western"><surname>Hlavacek</surname><given-names>WS</given-names></name> (<year>2005</year>) <article-title>Rule-based modeling of biochemical
+networks</article-title>. <source>Complexity</source>
+<volume>10</volume> (<issue>4</issue>)
+<fpage>22</fpage>–<lpage>41</lpage>.</mixed-citation></ref><ref id="pone.0051430-Calzone1"><label>24</label><mixed-citation publication-type="journal">
+<name name-style="western"><surname>Calzone</surname><given-names>L</given-names></name>, <name name-style="western"><surname>Fages</surname><given-names>F</given-names></name>, <name name-style="western"><surname>Soliman</surname><given-names>S</given-names></name> (<year>2006</year>) <article-title>BIOCHAM: An environment for modeling
+biological systems and formalizing experimental knowledge</article-title>.
+<source>Bioinformatics</source>
+<volume>22</volume> (<issue>14</issue>)
+<fpage>1805</fpage>–<lpage>1807</lpage>.<pub-id pub-id-type="pmid">16672256</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/bioinformatics/btl172</pub-id></mixed-citation></ref><ref id="pone.0051430-Dori1"><label>25</label><mixed-citation publication-type="journal">
+<name name-style="western"><surname>Dori</surname><given-names>D</given-names></name> (<year>2004</year>) <article-title>ViSWeb – The Visual Semantic
+Web: Unifying Human and Machine Knowledge Representations with
+Object-Process Methodology</article-title>. <source>The VLDB
+Journal—The International Journal on Very Large Data Bases</source>
+<volume>13</volume> (<issue>2</issue>)
+<fpage>120</fpage>–<lpage>47</lpage>.</mixed-citation></ref><ref id="pone.0051430-Dori2"><label>26</label><mixed-citation publication-type="other">Dori D (2002) Object-process methodology: A
+holistic systems paradigm. Springer Verlag. 453 p.</mixed-citation></ref><ref id="pone.0051430-Peleg2"><label>27</label><mixed-citation publication-type="journal">
+<name name-style="western"><surname>Peleg</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Dori</surname><given-names>D</given-names></name> (<year>2000</year>) <article-title>The model multiplicity problem:
+Experimenting with real-time specification methods</article-title>.
+<source>Software Engineering, IEEE Transactions on</source>
+<volume>26</volume> (<issue>8</issue>)
+<fpage>742</fpage>–<lpage>759</lpage>.</mixed-citation></ref><ref id="pone.0051430-Yaroker1"><label>28</label><mixed-citation publication-type="journal">
+<name name-style="western"><surname>Yaroker</surname><given-names>Y</given-names></name>, <name name-style="western"><surname>Perelman</surname><given-names>V</given-names></name>, <name name-style="western"><surname>Dori</surname><given-names>D</given-names></name>
+<article-title>An OPM Conceptual Model-Based Executable Simulation Environment:
+Implementation and Evaluation</article-title>. <source>Systems
+Engineering</source> July 2012. In press.</mixed-citation></ref><ref id="pone.0051430-Perelman1"><label>29</label><mixed-citation publication-type="other">Perelman L, Somekh J, Dori D (2011) Model
+Verification Framework with Application to Molecular Biology. Proceedings of the
+2011 symposium on theory of modeling &amp; simulation: DEVS integrative M&amp;S
+symposium; Society for Computer Simulation International; p.
+140–5.</mixed-citation></ref><ref id="pone.0051430-Perelman2"><label>30</label><mixed-citation publication-type="other">Perelman L (2011) Operational Semantics for
+Object-Process Methodology. Ph.D. Thesis, November 2011, Technion,
+Israel.</mixed-citation></ref><ref id="pone.0051430-Melton1"><label>31</label><mixed-citation publication-type="journal">
+<name name-style="western"><surname>Melton</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Buxton</surname><given-names>S</given-names></name> (<year>2006</year>) <article-title>Querying XML: XQuery, XPath, and
+SQL/XML in context</article-title>. <source>Morgan Kaufmann Pub</source>
+ISBN 1-55860-711-0.</mixed-citation></ref><ref id="pone.0051430-Alberts1"><label>32</label><mixed-citation publication-type="other">Alberts B, Johnson A, Lewis J, Raff M,
+Roberts K, <etal>et al</etal>.. (2007) Molecular Biology of the Cell (fifth
+ed.). Garland. 1392 p.</mixed-citation></ref><ref id="pone.0051430-Chen1"><label>33</label><mixed-citation publication-type="journal">
+<name name-style="western"><surname>Chen</surname><given-names>HT</given-names></name>, <name name-style="western"><surname>Hahn</surname><given-names>S</given-names></name> (<year>2004</year>) <article-title>Mapping the location of TFIIB within
+the RNA polymerase II transcription preinitiation complex: A model for the
+structure of the PIC</article-title>. <source>Cell</source>
+<volume>119</volume> (<issue>2</issue>)
+<fpage>169</fpage>–<lpage>180</lpage>.<pub-id pub-id-type="pmid">15479635</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cell.2004.09.028</pub-id></mixed-citation></ref><ref id="pone.0051430-Gene1"><label>34</label><mixed-citation publication-type="other">Gene Ontology website. Available: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.geneontology.org/GO.function.guidelines.shtml">http://www.geneontology.org/GO.function.guidelines.shtml</ext-link>.
+Accessed 2012 Nov 11.</mixed-citation></ref><ref id="pone.0051430-Smith1"><label>35</label><mixed-citation publication-type="journal">
+<name name-style="western"><surname>Smith</surname><given-names>B</given-names></name>, <name name-style="western"><surname>Williams</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Steffen</surname><given-names>SK</given-names></name> (<year>2003</year>) <article-title>The ontology of the gene
+ontology</article-title>. <source>AMIA Annual Symposium Proceedings,
+2003</source>
+<volume>609</volume>.<pub-id pub-id-type="pmcid">PMC1480173</pub-id><pub-id pub-id-type="pmid">14728245</pub-id></mixed-citation></ref><ref id="pone.0051430-Kornberg1"><label>36</label><mixed-citation publication-type="journal">
+<name name-style="western"><surname>Kornberg</surname><given-names>RD</given-names></name> (<year>2005</year>) <article-title>Mediator and the mechanism of
+transcriptional activation</article-title>. <source>Trends in Biochemical
+Sciences</source>
+<volume>30</volume> (<issue>5</issue>)
+<fpage>235</fpage>–<lpage>239</lpage>.<pub-id pub-id-type="pmid">15896740</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.tibs.2005.03.011</pub-id></mixed-citation></ref><ref id="pone.0051430-Yudkovsky1"><label>37</label><mixed-citation publication-type="journal">
+<name name-style="western"><surname>Yudkovsky</surname><given-names>N</given-names></name>, <name name-style="western"><surname>Ranish</surname><given-names>JA</given-names></name>, <name name-style="western"><surname>Hahn</surname><given-names>S</given-names></name> (<year>2000</year>) <article-title>A transcription reinitiation
+intermediate that is stabilized by activator</article-title>.
+<source>Nature</source>
+<volume>408</volume> (<issue>6809</issue>)
+<fpage>225</fpage>–<lpage>229</lpage>.<pub-id pub-id-type="pmid">11089979</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/35041603</pub-id></mixed-citation></ref><ref id="pone.0051430-Svejstrup1"><label>38</label><mixed-citation publication-type="journal">
+<name name-style="western"><surname>Svejstrup</surname><given-names>JQ</given-names></name> (<year>2004</year>) <article-title>The RNA polymerase II transcription
+cycle: Cycling through chromatin</article-title>. <source>Biochimica Et
+Biophysica Acta (BBA)-Gene Structure and Expression</source>
+<volume>1677</volume> (<issue>1–3</issue>)
+<fpage>64</fpage>–<lpage>73</lpage>.<pub-id pub-id-type="pmid">15020047</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bbaexp.2003.10.012</pub-id></mixed-citation></ref><ref id="pone.0051430-Rani1"><label>39</label><mixed-citation publication-type="journal">
+<name name-style="western"><surname>Rani</surname><given-names>PG</given-names></name>, <name name-style="western"><surname>Ranish</surname><given-names>JA</given-names></name>, <name name-style="western"><surname>Hahn</surname><given-names>S</given-names></name> (<year>2004</year>) <article-title>RNA polymerase II (pol II)-TFIIF and
+pol II-mediator complexes: The major stable pol II complexes and their
+activity in transcription initiation and reinitiation</article-title>.
+<source>Molecular and Cellular Biology</source>
+<volume>24</volume> (<issue>4</issue>) <fpage>1709</fpage>.<pub-id pub-id-type="pmid">14749386</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1128/MCB.24.4.1709-1720.2004</pub-id><pub-id pub-id-type="pmcid">PMC344180</pub-id></mixed-citation></ref><ref id="pone.0051430-Zawel1"><label>40</label><mixed-citation publication-type="journal">
+<name name-style="western"><surname>Zawel</surname><given-names>L</given-names></name>, <name name-style="western"><surname>Kumar</surname><given-names>KP</given-names></name>, <name name-style="western"><surname>Reinberg</surname><given-names>D</given-names></name> (<year>1995</year>) <article-title>Recycling of the general
+transcription factors during RNA polymerase II
+transcription</article-title>. <source>Genes &amp; Development</source>
+<volume>9</volume> (<issue>12</issue>) <fpage>1479</fpage>.<pub-id pub-id-type="pmid">7601352</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1101/gad.9.12.1479</pub-id></mixed-citation></ref><ref id="pone.0051430-Pokholok1"><label>41</label><mixed-citation publication-type="journal">
+<name name-style="western"><surname>Pokholok</surname><given-names>DK</given-names></name>, <name name-style="western"><surname>Hannett</surname><given-names>NM</given-names></name>, <name name-style="western"><surname>Young</surname><given-names>RA</given-names></name> (<year>2002</year>) <article-title>Exchange of RNA polymerase II
+initiation and elongation factors during gene expression in
+vivo</article-title>. <source>Molecular Cell</source>
+<volume>9</volume> (<issue>4</issue>)
+<fpage>799</fpage>–<lpage>809</lpage>.<pub-id pub-id-type="pmid">11983171</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s1097-2765(02)00502-6</pub-id></mixed-citation></ref><ref id="pone.0051430-Wang1"><label>42</label><mixed-citation publication-type="journal">
+<name name-style="western"><surname>Wang</surname><given-names>Y</given-names></name>, <name name-style="western"><surname>Fairley</surname><given-names>JA</given-names></name>, <name name-style="western"><surname>Roberts</surname><given-names>SGE</given-names></name> (<year>2010</year>) <article-title>Phosphorylation of TFIIB links
+transcription initiation and termination</article-title>. <source>Current
+Biology</source>
+<volume>20</volume> (<issue>6</issue>)
+<fpage>548</fpage>–<lpage>553</lpage>.<pub-id pub-id-type="pmid">20226668</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cub.2010.01.052</pub-id><pub-id pub-id-type="pmcid">PMC2849011</pub-id></mixed-citation></ref><ref id="pone.0051430-Svejstrup2"><label>43</label><mixed-citation publication-type="journal">
+<name name-style="western"><surname>Svejstrup</surname><given-names>JQ</given-names></name>, <name name-style="western"><surname>Li</surname><given-names>Y</given-names></name>, <name name-style="western"><surname>Fellows</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Gnatt</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Bjorklund</surname><given-names>S</given-names></name>, <etal>et al</etal> (<year>1997</year>) <article-title>Evidence for a
+mediator cycle at the initiation of transcription</article-title>.
+<source>Proceedings of the National Academy of Sciences of the United States
+of America</source>
+<volume>94</volume> (<issue>12</issue>)
+<fpage>6075</fpage>–<lpage>8</lpage>.<pub-id pub-id-type="pmid">9177171</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.94.12.6075</pub-id><pub-id pub-id-type="pmcid">PMC21003</pub-id></mixed-citation></ref><ref id="pone.0051430-Kobor1"><label>44</label><mixed-citation publication-type="journal">
+<name name-style="western"><surname>Kobor</surname><given-names>MS</given-names></name>, <name name-style="western"><surname>Simon</surname><given-names>LD</given-names></name>, <name name-style="western"><surname>Omichinski</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Zhong</surname><given-names>G</given-names></name>, <name name-style="western"><surname>Archambault</surname><given-names>J</given-names></name>, <etal>et al</etal> (<year>2000</year>) <article-title>A Motif Shared
+by TFIIF and TFIIB Mediates Their Interaction with the RNA Polymerase II
+Carboxy-Terminal Domain Phosphatase Fcp1p in Saccharomyces
+cerevisiae</article-title>. <source>Mol Cell Biol</source>
+<volume>20</volume> (<issue>20</issue>)
+<fpage>7438</fpage>–<lpage>49</lpage>.<pub-id pub-id-type="pmid">11003641</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1128/mcb.20.20.7438-7449.2000</pub-id><pub-id pub-id-type="pmcid">PMC86297</pub-id></mixed-citation></ref><ref id="pone.0051430-ESML1"><label>45</label><mixed-citation publication-type="other">ESML (Enterprise Systems Modeling
+Laboratory) website. Available: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://esml.iem.technion.ac.il/?page_id=595">http://esml.iem.technion.ac.il/?page_id=595</ext-link>. Accessed 2012 Nov
+16.</mixed-citation></ref><ref id="pone.0051430-Dori3"><label>46</label><mixed-citation publication-type="journal">
+<name name-style="western"><surname>Dori</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Choder</surname><given-names>M</given-names></name> (<year>2007</year>) <article-title>Conceptual modeling in systems
+biology fosters empirical findings: The mRNA lifecycle</article-title>.
+<source>PloS One</source>
+<volume>2</volume> (<issue>9</issue>) <fpage>e872</fpage>.<pub-id pub-id-type="pmid">17849002</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0000872</pub-id><pub-id pub-id-type="pmcid">PMC1964809</pub-id></mixed-citation></ref><ref id="pone.0051430-Friedl1"><label>47</label><mixed-citation publication-type="journal">
+<name name-style="western"><surname>Friedl</surname><given-names>EM</given-names></name>, <name name-style="western"><surname>Lane</surname><given-names>WS</given-names></name>, <name name-style="western"><surname>Erdjument-Bromage</surname><given-names>H</given-names></name>, <name name-style="western"><surname>Tempst</surname><given-names>P</given-names></name>, <name name-style="western"><surname>Reinberg</surname><given-names>D</given-names></name> (<year>2003</year>) <article-title>The C-terminal domain phosphatase and
+transcription elongation activities of FCP1 are regulated by
+phosphorylation</article-title>. <source>Proceedings of the National Academy
+of Sciences of the United States of America</source>
+<volume>100</volume> (<issue>5</issue>) <fpage>2328</fpage>.<pub-id pub-id-type="pmid">12591939</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.2628049100</pub-id><pub-id pub-id-type="pmcid">PMC151340</pub-id></mixed-citation></ref></ref-list></back></article>

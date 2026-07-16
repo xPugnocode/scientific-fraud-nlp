@@ -1,0 +1,504 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article article-type="research-article" xml:lang="EN" dtd-version="1.4"><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Omega</journal-id><journal-id journal-id-type="iso-abbrev">ACS Omega</journal-id><journal-id journal-id-type="pmc-domain-id">3686</journal-id><journal-id journal-id-type="pmc-domain">acsomega</journal-id><journal-id journal-id-type="nlm-id">101691658</journal-id><journal-id journal-id-type="publisher-id">ao</journal-id><journal-title-group><journal-title>ACS Omega</journal-title></journal-title-group><issn pub-type="epub">2470-1343</issn><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC7045310</article-id><article-id pub-id-type="pmcid-ver">PMC7045310.1</article-id><article-id pub-id-type="pmcaid">7045310</article-id><article-id pub-id-type="pmcaiid">7045310</article-id><article-id pub-id-type="pmid">32118130</article-id><article-id pub-id-type="doi">10.1021/acsomega.9b02524</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group><subject>Article</subject></subj-group></article-categories><title-group><article-title>Fabrication of
+a Novel Nanofluidic Device Featuring
+ZnO Nanochannels</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><name name-style="western"><surname>Kim</surname><given-names initials="S">Suhyeon</given-names></name><xref rid="aff1" ref-type="aff">†</xref><xref rid="notes1" ref-type="notes">∥</xref></contrib><contrib contrib-type="author" id="ath2"><name name-style="western"><surname>Kim</surname><given-names initials="GH">Geon Hwee</given-names></name><xref rid="aff1" ref-type="aff">†</xref><xref rid="notes1" ref-type="notes">∥</xref></contrib><contrib contrib-type="author" id="ath3"><name name-style="western"><surname>Woo</surname><given-names initials="H">Hyeonsu</given-names></name><xref rid="aff1" ref-type="aff">†</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath4"><name name-style="western"><surname>An</surname><given-names initials="T">Taechang</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff2" ref-type="aff">§</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath5"><name name-style="western"><surname>Lim</surname><given-names initials="G">Geunbae</given-names></name><xref rid="cor2" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">†</xref><xref rid="aff1" ref-type="aff">‡</xref></contrib><aff id="aff1"><sup>†</sup>Department
+of Mechanical Engineering and <sup>‡</sup>Department of Integrative Bioscience
+and Biotechnology, <institution>Pohang University of
+Science and Technology (POSTECH)</institution>, 77 Cheongam-Ro, Nam-Gu, Pohang 790-784, <country>Republic
+of Korea</country></aff><aff id="aff2"><label>§</label>Department
+of Mechanical Design Engineering, <institution>Andong
+National University</institution>, Kyungbuk 760-749, <country>Republic of Korea</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>E-mail: <email>tcmerias@anu.ac.kr</email> (T.A.).</corresp><corresp id="cor2"><label>*</label>E-mail: <email>limmems@postech.ac.kr</email>. Phone: <phone>+82-54-279-2186</phone>. Fax: <fax>+82-54-279-0479</fax> (G.L).</corresp></author-notes><pub-date pub-type="epub"><day>13</day><month>12</month><year>2019</year></pub-date><pub-date pub-type="collection"><day>25</day><month>02</month><year>2020</year></pub-date><volume>5</volume><issue>7</issue><issue-id pub-id-type="pmc-issue-id">353309</issue-id><fpage>3144</fpage><lpage>3150</lpage><history><date date-type="received"><day>07</day><month>08</month><year>2019</year></date><date date-type="accepted"><day>27</day><month>11</month><year>2019</year></date></history><pub-history><event event-type="pmc-release"><date><day>13</day><month>12</month><year>2019</year></date></event><event event-type="pmc-live"><date><day>28</day><month>02</month><year>2020</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-03-19 14:25:14.290"><day>19</day><month>03</month><year>2026</year></date></event></pub-history><permissions><copyright-statement>Copyright © 2019 American Chemical Society</copyright-statement><copyright-year>2019</copyright-year><copyright-holder>American Chemical Society</copyright-holder><license><license-p>This is an open access article published under a Creative Commons Attribution (CC-BY) <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/page/policy/authorchoice_ccby_termsofuse.html">License</ext-link>, which permits unrestricted use, distribution and reproduction in any medium, provided the author and source are cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="ao9b02524.pdf"/><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="ab-tgr1" position="float" orientation="portrait" xlink:href="ao9b02524_0001.jpg"/></p><p>We developed a novel fabrication method for nanochannels
+that are
+easily scaled up to mass production by selectively growing zinc oxide
+(ZnO) nanostructures and covering using a flat PDMS surface to make
+hollow nanochannels. Nanochannels are used in the biotechnological
+and environmental fields, being employed for DNA analysis and water
+purification, due to their unique features of capillary-induced negative
+pressure and an electrical double-layer overlap. However, existing
+nanochannel fabrication methods are complicated, costly, and not amenable
+to mass production. Here, we developed a novel nanochannel fabrication
+method. The pillar-like dense ZnO nanostructures were grown in a solution
+process, which is easily applicable to mass production. The size of
+the fabricated ZnO nanostructures has a thickness of 30–300
+nm and a diameter on the order of 10<sup>2</sup> nm, which are easily
+adjusted by synthesis times. The ZnO nanostructures were covered by
+the flat polydimethylsiloxane (PDMS) surface, and then the cracks
+between ZnO nanostructures served as hollow nanochannels. Because
+the suggested fabrication process has no thermal shrinkage, the process
+has higher production efficiency than existing nanochannel mass production
+methods based on the thermal/pressure process. The mechanical strength
+of the fabricated ZnO nanostructures was tested with repetitive tape
+peeling tests. Finally, we briefly verified the nanochannel performance
+by applying the nanochannel to the micro/nanofluidic system, whose
+performance is easily evaluated and visualized by current–voltage
+relation.</p></abstract><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>ao9b02524</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>ao9b02524</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><title>Introduction</title><p>A nanochannel is a nanometer-sized (1–100
+nm) hollow channel
+exhibiting unique nanofluidic phenomena, including capillary-induced
+negative pressure caused by the high surface-to-volume ratio and an
+electrical double-layer overlap. Nanochannels have been used for DNA
+analysis,<sup><xref ref-type="bibr" rid="ref1">1</xref></sup> virus detection,<sup><xref ref-type="bibr" rid="ref2">2</xref>,<xref ref-type="bibr" rid="ref3">3</xref></sup> water purification,<sup><xref ref-type="bibr" rid="ref4">4</xref></sup> protein research,<sup><xref ref-type="bibr" rid="ref5">5</xref>,<xref ref-type="bibr" rid="ref6">6</xref></sup> assessing molecule concentration,<sup><xref ref-type="bibr" rid="ref7">7</xref>,<xref ref-type="bibr" rid="ref8">8</xref></sup> particle separation,<sup><xref ref-type="bibr" rid="ref9">9</xref></sup> and environmental monitoring.<sup><xref ref-type="bibr" rid="ref10">10</xref></sup> The current fabrication methods use conventional lithography
+and include reactive ion etching,<sup><xref ref-type="bibr" rid="ref11">11</xref></sup> high-energy
+beam processing,<sup><xref ref-type="bibr" rid="ref12">12</xref></sup> and interference lithography.<sup><xref ref-type="bibr" rid="ref13">13</xref></sup> However, nanochannels fabricated using conventional
+lithography are not amenable to mass production; the high-energy beam
+process has relatively low production speed, and reactive ion etching
+and interference lithography have relatively smaller patternable areas.
+Therefore, conventional lithography-based nanochannel fabrication
+systems are hard to scale up to mass production.<sup><xref ref-type="bibr" rid="ref14">14</xref>,<xref ref-type="bibr" rid="ref15">15</xref></sup> To overcome these limitations, hot embossing,<sup><xref ref-type="bibr" rid="ref16">16</xref></sup> thin-film deposition,<sup><xref ref-type="bibr" rid="ref17">17</xref>,<xref ref-type="bibr" rid="ref18">18</xref></sup> and nanoimprinting<sup><xref ref-type="bibr" rid="ref19">19</xref>,<xref ref-type="bibr" rid="ref20">20</xref></sup> have been studied; one- and two-dimensional nanochannels, as well
+as array-type nanochannels, can be fabricated easily at a low cost.<sup><xref ref-type="bibr" rid="ref21">21</xref>,<xref ref-type="bibr" rid="ref22">22</xref></sup> Although nanochannel fabrication techniques amenable to mass production
+have been developed, deformation caused by thermal expansion remains
+problematic; thermal shrinkage compromises nanochannel precision and
+greatly reduces production efficiency. A highly efficient fabrication
+technique ensuring nanochannel integrity is required.<sup><xref ref-type="bibr" rid="ref23">23</xref></sup> Here, we fabricated nanochannels via the selective growth
+of a zinc oxide (ZnO) nanostructure, followed by soft lithography
+employing a mask pattern. Using hydrothermal synthesis, pillar-like
+dense ZnO nanostructures were fabricated on silicon and glass wafers
+to any height desired between 30 and 300 nm by adjusting the synthesis
+time, and the structures were easily patterned on the surface with
+conventional lithography mask patterns. The fabricated nanostructures
+on a glass substrate are covered by a flat polydimethylsiloxane (PDMS)
+block to make hollow nanochannels by plasma bonding. The mechanical
+strength of the ZnO nanostructures was briefly tested with repetitive
+3M tape peeling tests. The performance of the nanochannels is briefly
+evaluated by applying them to a micro/nanofluidic system, whose performance
+is easily evaluated and visualized by current–voltage relation.</p></sec><sec id="sec2"><title>Results and Discussion</title><p><xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref> shows a
+schematic of ZnO nanostructure fabrication using a mask pattern, PDMS
+surface covering, for the formation of ZnO nanochannels and integration
+to micro/nanofluidic devices. The experimental setups of nanofluidic
+visualization and particle separation experiments are described in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>. As shown in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>, nanostructured
+patterns were fabricated by coating of a seed layer, UV pattern lithography,
+and hydrothermal synthesis on a bare glass substrate. In <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>, the patterned ZnO
+nanostructure was bonded to a prepatterned PDMS microchannel replica
+for the fabrication of nanochannels and integration to the micro/nanofluidic
+system at once. For evaluating the fabricated nanochannel performance,
+we applied an electric field to the micro/nanofluidic system to induce
+a common nanofluidic, electrohydrodynamic phenomenon called “ion
+concentration polarization (ICP)” (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>A). To explore future application to biotechnology,
+the micro/nanofluidic device was used to continuously separate microparticles
+with the ICP phenomenon (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>B). As shown in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>, the device features two microchannels (main and buffer
+channels) connected by ZnO nanochannels. As shown in <xref rid="fig3" ref-type="fig">Figures <xref rid="fig3" ref-type="fig">3</xref></xref>B and <xref rid="fig4" ref-type="fig">4</xref>A, the fabricated nanochannels are marked with red dashed rectangles
+between the two microchannels. Unmarked nanostructures exist only
+for the convenience of fabrication and have little impact on the experiments.
+The main channel has two inlet reservoirs (two cylinder-type reservoirs
+at the left side of the main channel) that are connected to a syringe
+pump system for applying a pressure-driven flow to the micro/nanofluidic
+device. The other three reservoirs (three cylinder-type reservoirs
+at the right side of the main channel) are exposed to air to act as
+outlets. The buffer channel also has two reservoirs that are connected
+to syringes filled with an electrolyte solution, but these syringes
+are locked at certain reservoir levels to prevent solution flow in
+the buffer channel. In the nanofluidic visualization experiment setup
+(<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>A), there
+is also no solution flow in the main channel, so only two reservoirs
+are connected to locked syringes and the other reservoirs (gray-colored
+reservoirs) are blocked by a commercial epoxy before injection of
+the electrolyte solution. The anodes are inserted at each side of
+the main channel reservoirs, and the cathodes are inserted at each
+side of the buffer channel reservoirs, as shown in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>A. In the continuous particle
+separation experiment, all the reservoirs are used as inlets or outlets.
+In the main channel, two types of microparticles are continuously
+injected from the inlet reservoir located above. At the same time,
+a sheath flow is injected from the other inlet reservoir that merges
+in front of the nanochannel and flows to the outlet. The sheath flow
+pushes the particle flow, keeping the particles located at the side
+wall before they are spatially separated by the ICP phenomenon. Details
+about particle separation are explained in <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>.</p><fig id="fig1" position="float" orientation="portrait"><label>Figure 1</label><caption><p>(A) Fabrication method of patterned zinc oxide
+(ZnO) nanostructures
+and (B) application of the ZnO nanochannel as a micro/nanofluidic
+device.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr1" position="float" orientation="portrait" xlink:href="ao9b02524_0007.jpg"/></fig><p><xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref> shows scanning
+electron microscopy (SEM) images of the ZnO nanostructure pattern.
+As shown in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>A, a linear ZnO nanostructure pattern (width, ∼200 μm)
+was fabricated on a glass substrate, consistent with the UV lithography
+pattern. <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>B
+shows an enlargement of the nanostructure pattern; a flower-shaped
+ZnO structure was densely synthesized on the surface. As shown in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>C, the height differences
+of the nanostructures were ∼100 nm, and the cracks created
+between the sharp tips of the ZnO nanopillars act as nanochannels
+after PDMS bonding.<sup><xref ref-type="bibr" rid="ref24">24</xref></sup> A previous study
+found that the density and height of ZnO nanostructures could be controlled
+by specifying the distribution of the seed layer and the duration
+of hydrothermal synthesis.<sup><xref ref-type="bibr" rid="ref25">25</xref></sup></p><fig id="fig2" position="float" orientation="portrait"><label>Figure 2</label><caption><p>Scanning electron
+microscopy (SEM) images of patterned ZnO nanostructures.
+(A) Patterned ZnO nanostructure with a conventional lithography mask
+pattern. (B) Magnified view of the nanostructure pattern. (C) Cross-sectional
+image of the ZnO nanostructures.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr2" position="float" orientation="portrait" xlink:href="ao9b02524_0006.jpg"/></fig><p><xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref> shows the mechanical strength test of the
+fabricated
+ZnO nanostructures. <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>A shows an SEM image of the zinc oxide nanostructure synthesized
+on a glass substrate without taping test. After attaching and detaching
+3M Scotch tape 10 times on the synthesized zinc oxide nanostructures,
+the surface was observed by SEM (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>B). Comparing SEM images before and after
+the experiment, the morphology of the zinc oxide nanostructures did
+not change. Based on the experiment, it was confirmed that the adhesion
+between the zinc oxide nanostructure and the substrate is very strong
+and that the mechanical rigidity of the nanostructure surface is excellent.</p><fig id="fig3" position="float" orientation="portrait"><label>Figure 3</label><caption><p>Mechanical
+strength test by repetitive 3M Scotch tape peeling.
+(A) ZnO nanostructures without the tape peeling test. (B) ZnO nanostructures
+after 10 times tape peeling tests.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr3" position="float" orientation="portrait" xlink:href="ao9b02524_0005.jpg"/></fig><p>Although it is generally meaningful to evaluate
+the performance
+according to the cross-sectional size of hollow nanochannels fabricated
+through PDMS bonding, the size of many nanochannels fabricated through
+the bonding process is not constant and it is not practical to measure
+it directly. Also, from the standpoint of making a system connecting
+nanochannels and microchannels, the unique phenomenon of nanochannels
+such as the ICP phenomenon is almost impossible to use when nanochannels
+exist alone. To access fluids or apply electric fields to nanochannels,
+fusion with microchannels is absolutely necessary. Therefore, we conducted
+a characterization experiment using a micro/nanofluidic device, deciding
+that the evaluation of the characteristics of the micro/nanofluidic
+device was as meaningful as that of the nanochannel alone. We fabricated
+the nanochannel between the two microchannels to check whether the
+nanochannels are connected to the desired position without disconnection
+and indirectly confirmed the connection whether or not the ICP phenomenon
+occurs. In addition, it was confirmed that the performance of the
+fabricated nanochannels can be controlled by varying the total number
+of nanochannels by adjusting the width of the ZnO nanostructure pattern.</p><p>ICP is a fundamental electrochemical phenomenon developing around
+ion-selective membranes when an electric field is applied across the
+ion-selective membranes. When a microchannel is filled with an electrolyte
+solution, the surfaces of the microchannels have certain net charges
+based on their material property. To compensate the net charges, counterions
+near the surface adhere to the surfaces, forming an “electric
+double layer”. Generally, the thickness of the electric double
+layer is on a scale of nanometers; there are a few effects of the
+double layer when the width of each microchannel surface is much larger
+than that of the electric double layer. However, when the channel
+distances are reduced to a nanometer scale, the effect of the electric
+double layer is increased, resulting in an unbalanced ion concentration
+around the surface. Therefore, the nanosized channel passes only cations
+or anions, thus generating ion mismatches on both sides when an electric
+field is applied to the electrolyte solution. Thus, an ion depletion
+region develops on one side of the membrane and an ion enrichment
+region on the other side. Cells and charged particles become depleted
+or enriched around the ion depletion region; concentration and desalination
+can thus be achieved.</p><p>As the behavior of charged particles changes
+in the ion depletion
+region, nanochannel performance can be easily visualized using fluorescent
+dyes. We found that the operating voltage at which ICP developed varied
+by the width of the ZnO nanostructure pattern. The details are shown
+in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>.</p><p><xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref> shows an
+experimental result where ICP can be induced with the fabricated ZnO
+nanochannel pattern. These figures are the magnified view of <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>A, where the nanochannel is located. As shown in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>A, the two microchannels (main channel on the top and buffer
+channel at the bottom) were filled with green fluorescent dyes in
+1 mM DSP solution. It was hard to observe ZnO nanostructures and bonded
+nanochannels with a fluorescence microscope because the ZnO patterns
+were thin and had no fluorescence. Therefore, we performed the visualization
+experiment using the fluorescence filter after confirming the position
+of the nanochannel through the white light mode. When no electric
+field is applied, the concentrations of ions and fluorescent particles
+are identical over the entire microchannel (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>A). When an electric field above a certain
+level is applied, ion depletion commences near the nanochannel at
+the anodal side. Because the fluorescent dyes have net charges in
+the electrolyte solution, the green fluorescent particles are also
+depleted rapidly around the nanochannel (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>B). Because the ICP phenomenon is a kind
+of dynamic equilibrium, the depletion region cannot be distributed
+evenly in all directions. The width of the nanochannel pattern in
+the figure is 200 μm; ICP is observed when a voltage of 140
+V is applied. The relationship between the ZnO nanopattern width and
+the ICP operation voltage is shown in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>C. The nanochannel pattern width was varied
+over 100, 200, and 400 μm; both limiting and overlimiting current
+regions are observed at different voltage sections, which means that
+the electrical property of a ZnO nanochannel is controllable by adjusting
+the pattern width. In general, the ICP phenomenon shows three phases
+of current response depending on the voltage increase. When the voltage
+is lower than the certain voltage required for the ICP phenomenon
+to occur, the current–voltage curve follows Ohm’s law.
+If the electric field around the nanochannel is sufficiently strong
+to trigger ICP, the limiting period commences; the low ion concentration
+of the ion depletion region limits ion transport through the nanochannels,
+so there was almost no current rise accompanying the voltage rise
+and this situation persists until the overlimiting period commences.
+When the voltage becomes higher than that of the overlimiting region,
+the depletion region is disturbed by a vortex caused by the excessive
+electric field, and the current rises as ions pass through the depletion
+region.<sup><xref ref-type="bibr" rid="ref26">26</xref>,<xref ref-type="bibr" rid="ref27">27</xref></sup> As shown in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>C, the results show that the smaller the
+width of the pattern, the higher the voltage when the limiting period
+commences. This is because when the pattern is small, the number of
+effective nanochannels that can pass ions is fewer than the number
+of wide nanochannels so that ion movement at the same voltage is reduced.
+Therefore, a higher voltage is required to move ions sufficiently
+rapidly to generate a depletion region.</p><fig id="fig4" position="float" orientation="portrait"><label>Figure 4</label><caption><p>Experimental setup of
+(A) the nanochannel evaluation and (B) continuous
+particle separation for biotechnological application. The red (+)
+sign indicates the location of anodes, and the black (−) sign
+indicates the location of cathodes. The yellow strips indicate the
+location of the ZnO nanostructure patterns. The red dashed rectangles
+indicate the ZnO nanochannels, which are fabricated by covering ZnO
+nanostructures with a flat PDMS surface.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr4" position="float" orientation="portrait" xlink:href="ao9b02524_0004.jpg"/></fig><fig id="fig5" position="float" orientation="portrait"><label>Figure 5</label><caption><p>Visualization and electrical performance evaluation of
+the fabricated
+nanochannels. Micro/nanofluidic system when (A) no external electric
+field was applied and (B) a sufficient electric field that triggers
+ICP was applied. (C) Current–voltage response of the nanochannels
+with three different nanostructure pattern widths. The colored voltage
+sections indicate the section when an ICP phenomenon occurs without
+the overlimiting current.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr5" position="float" orientation="portrait" xlink:href="ao9b02524_0003.jpg"/></fig><p><xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref> shows that microparticles are continuously
+separated
+in the fabricated nanochannels. As the ion depletion region has a
+higher electrical resistance than the surrounding region, the electric
+field becomes concentrated in the former region. A previous study
+showed that charged particles were more efficiently separated under
+such circumstances.<sup><xref ref-type="bibr" rid="ref28">28</xref></sup> Particles in the
+electric field are subject to electrophoretic forces applied in the
+direction of that field, imparting electrophoretic mobility, a characteristic
+of the particles in a certain electrolyte solution. Previous results
+have shown that the electrophoretic force that changes the particle’s
+path is more affected by the electrophoretic force of the particle
+than the particle size. In this experiment, particles of similar size
+were selected to consider only the effects of electrophoretic forces. <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>B shows an enlarged
+view of the main channel near a nanochannel. <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>A shows that when no electric field is applied,
+two microsized particles flow together downward from the microchannel
+without any distortion of trajectory. When ICP develops, the trajectories
+of particles in the depletion region are shifted from the bottom (<xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>B). The two particles
+are now separated spatially; the trajectories of particles of greater
+electrophoretic mobility are shifted more. Incomplete flow, nanochannels,
+and particle conditions can cause some particles to deviate too much
+from the path. However, most of the particles move in a similar path,
+and additional experiments under the same conditions show that most
+of the particles, after passing through the nanochannel, are spatially
+separated and directed in a constant path.</p><fig id="fig6" position="float" orientation="portrait"><label>Figure 6</label><caption><p>Continuous particle separation
+using a fabricated nanofluidic device.
+Particles that have similar sizes but different electrophoretic mobilities
+are selected for electrical force-based continuous separation (1.0
+μm-diameter particle with a relatively large electrophoretic
+mobility (μ<sub>ep,1.0μm</sub> = −8.6 × 10<sup>–4</sup> cm<sup>2</sup> V<sup>–1</sup> s<sup>–1</sup>) and 1.1 μm-diameter particle with a relatively low electrophoretic
+mobility (μ<sub>ep,1.1μm</sub> = −6.5 × 10<sup>–4</sup> cm<sup>2</sup> V<sup>–1</sup> s<sup>–1</sup>)).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr6" position="float" orientation="portrait" xlink:href="ao9b02524_0002.jpg"/></fig></sec><sec id="sec3"><title>Conclusions</title><p>We developed a new and simple method of
+nanochannel fabrication,
+which is easily scaled up to mass production through a solution-based
+fabrication process. The pillar-like dense ZnO nanostructures were
+hydrothermally synthesized on a glass substrate and covered by a PDMS
+surface to make hollow nanochannels. The cracks between the sharp
+ZnO nanopillars acted as the walls and floor of the nanochannels,
+and the PDMS surface became the ceiling of the nanochannels. The suggested
+fabrication does not require expensive equipment or a complicated
+process such as conventional lithography; moreover, our method affords
+a much more stable pattern than conventional mass production via heat
+deformation employing hot embossing or nanoimprinting. The fabricated
+nanochannels were evaluated by a fundamental nanofluidic phenomenon
+called ion concentration polarization, which is easily evaluated by
+the current–voltage response and visualized by fluorescent
+dyes. We proved that the performance of the fabricated nanochannel
+could be controlled by adjusting the ZnO nanochannel pattern width.
+The pattern widths of ZnO nanostructures were fabricated differently
+in the same type of micro/nanofluidic device as 200–400 μm,
+thereby varying the approximate number of nanochannels. Then, the
+current–voltage response confirmed that the ICP phenomenon
+easily occurs as the number of nanochannels increases. Finally, we
+confirmed the possibility of the nanochannels for biotechnological
+applications by performing continuous separation of two kinds of microparticles
+using the fabricated micro/nanofluidic device. The experiments resulted
+in the successive separation of two types of particles with different
+electrical properties, and in the future, it is expected to be useful
+for the treatment of proteins, DNAs, and cellular materials with different
+electrical properties in solution. The ZnO nanochannels could be fabricated
+on any surface on which a seed layer can be grown, including flexible
+films or polymer membranes. In the future, the synthesis times of
+ZnO nanostructures, seed layer formation method, substrate, and so
+on will be adjusted in various ways to check the performance according
+to the dimension difference of individual nanochannels and to confirm
+the possibility of large-area nanochannel fabrication. We expect that
+our novel nanochannel fabrication method will contribute to nanotechnological
+applications in biotechnology and environmental science.</p></sec><sec id="sec4"><title>Experimental Section</title><sec id="sec4.1"><title>Materials</title><p>Polyvinylpyrrolidone [PVP, analytical reagent
+(AR), MW: 1,300,000] powder, ammonia solution [NH<sub>4</sub>OH, AR,
+28.0–30.0% (m/m)], and HCl (AR) were purchased from Sigma-Aldrich
+(St. Louis, MO, USA). Zinc chloride (ZnCl<sub>2</sub>, AR) and zinc
+nitrate hexahydrate [Zn(NO<sub>3</sub>)<sub>2</sub>, AR] were purchased
+from Junsei Chemical Co. Ltd. (Tokyo, Japan). The PDMS (AR) was purchased
+from Dow Corning (Midland, MI, USA). All reagents were used as received
+without further purification.</p></sec><sec id="sec4.2"><title>ZnO Nanostructure Fabrication</title><p>We spin-coated a uniform
+seed layer onto a glass substrate. A polymer solution containing Zn
+ions was prepared by adding 500 mM Zn(NO<sub>3</sub>)<sub>2</sub> and
+0.1 g/mL PVP (final concentrations) to deionized water, followed by
+stirring at 600 rpm with a magnetic stirrer for 2 h. The polymer solution
+was spin-coated at 5000 rpm to deposit a seed layer onto a glass substrate;
+the polymer film was then decomposed and calcinated in air at 500
+°C to form a ZnO seed layer.<sup><xref ref-type="bibr" rid="ref29">29</xref></sup> Hydrothermal
+growth was used to fabricate nanostructures on this seed layer. The
+growth solution was prepared by adding 10 mM ZnCl<sub>2</sub> and
+5 μL/mL NH<sub>4</sub>OH (final concentrations) to deionized
+water at 40–80 °C to initiate the reaction. NH<sub>4</sub>OH was used to raise the pH via generation of OH<sup>–</sup> species. ZnO nanostructure formation is influenced by pH, the concentration
+of Zn<sup>2+</sup> ions, and the solution temperature; it is important
+to keep these conditions constant. In particular, maintenance of a
+constant temperature (here, 60 °C) is very important; even a
+small increase in temperature changes the response rate.<sup><xref ref-type="bibr" rid="ref25">25</xref></sup></p></sec><sec id="sec4.3"><title>Patterning of ZnO Nanostructures</title><p>We used a lithographic
+method to pattern bulk ZnO nanostructures on the substrate when fabricating
+nanochannels at a desired position. Masking tape or a standard microelectromechanical
+system (MEMS) lithographic technique was used. Masking tape was cut
+using a paper cutter (CAMEO; Silhouette America, Inc., Orem, UT, USA)
+to obtain the desired patterns. We also used UV lithography. AZ 5214
+photoresist was spin-coated onto glass at 3000 rpm for 30 s and then
+soft-baked in an oven at 100 °C for 1 min; the surface was exposed
+to 150 W of UV light for 7.5 s and then developed with a 2.38% (w/v)
+tetramethylammonium hydroxide solution. The seed layer and the ZnO
+nanostructures can be selectively modified/removed using dilute HCl
+(0.5 mM). We fabricated ZnO nanostructural patterns with widths of
+100, 200, and 400 μm.</p></sec><sec id="sec4.4"><title>3M Scotch Tape Peeling Test for Confirming Mechanical Strength
+of the ZnO Nanostructures</title><p>ASTM (American Society for Testing
+and Materials) certified tests were performed to verify the mechanical
+stability of the zinc oxide nanostructures. ASTM D3359-02 is a test
+that verifies mechanical stability by attaching a commercial 3M Scotch
+tape to a target device and then removing it repeatedly. We performed
+repetitive 3M tape attachment and peeling to ZnO nanostructures that
+are fabricated on a glass substrate without lithographic patterns.
+A total of six ZnO nanostructure samples were prepared: three samples
+without the taping test and three other samples with 10 tape peeling
+tests. SEM images were used to confirm the results before and after
+the taping test.</p></sec><sec id="sec4.5"><title>Fabrication of the Micro/Nanofluidic Device</title><p>Nanostructured
+ZnO was used to create a nanofluidic device via a PDMS-to-glass plasma
+bonding method.<sup><xref ref-type="bibr" rid="ref30">30</xref></sup> As can be seen in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>, the ZnO nanostructures
+are patterned in strips on a glass substrate to connect two parallel
+microchannels. The two PDMS microchannel patterns are fabricated by
+soft lithography, with SU-8 inverse pattern molds and a PDMS replica
+(main and buffer channels; length, 2 cm; width, 100 μm; height,
+35 μm; between-channel gap, 200 μm). When the two microchannels
+are bonded on the top of the glass substrate, the ZnO nanostructures
+at the gaps between the two microchannels are bonded to the flat PDMS
+surface. Because the ZnO nanostructures are rough (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>C), the PDMS surface does not
+completely fill the cracks between the nanostructures and these cracks
+continue, eventually acting as a hollow nanochannel connecting two
+microchannels.</p><p>In this paper, the fabricated micro/nanofluidic
+device was used for two types of experiments: the visualization experiment
+of nanochannel phenomena to evaluate the nanochannel performance (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>) and continuous
+particle separation experiment for future biotechnological application
+(<xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>). In the
+nanofluidic visualization experiment, microchannel outlets that are
+not used for electrolyte injection were blocked with commercial epoxy
+before electrolyte injection (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>).</p></sec><sec id="sec4.6"><title>Microfluidic Device Measurements</title><p>In the two experiments,
+1 mM dibasic sodium phosphate (DSP) dissolved in distilled water was
+used as the electrolyte solution. In the visualization experiment,
+fluorescein sodium salt was diluted in the buffer to allow observation
+of the nanofluidic phenomenon near the fabricated nanochannel. As
+can be seen in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>A,B, anodes and cathodes consisting of a platinum rod were connected
+to the reservoirs of both microchannels and used to apply electric
+fields by a source measurement unit (B2902A; Keysight Technologies,
+Inc., Santa Rosa, CA, USA). An inverted fluorescence microscope (IX71;
+Olympus Co., Tokyo, Japan) and a charge-coupled device camera (DP72;
+Olympus) were used to observe the behavior of fluorescent dyes and
+to collect images. In the particle separation experiment, two types
+of fluorescent polystyrene particles (Thermo Scientific Corp., Waltham,
+MA, USA) differing in terms of diameter (1.0 and 1.1 μm) and
+electrophoretic mobility (μ<sub>ep</sub>) (μ<sub>ep,1.0μm</sub> = −8.6 × 10<sup>–4</sup> cm<sup>2</sup> V<sup>–1</sup> s<sup>–1</sup> and μ<sub>ep,1.1μm</sub> = −6.5 × 10<sup>–4</sup> cm<sup>2</sup> V<sup>–1</sup> s<sup>–1</sup>) were separated. Particle mobility
+was measured using a zeta potential analyzer (Zetasizer Nano Z; Malvern
+Instruments, Malvern, U.K.); particles were diluted in a 1 mM DSP
+buffer.</p></sec></sec></body><back><notes notes-type="" id="notes1"><title>Author Contributions</title><p><sup>∥</sup> S.K. and G.H.K. contributed equally to this work.</p></notes><notes notes-type="COI-statement" id="NOTES-d7e627-autogenerated"><p>The authors declare
+no
+competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>This work was supported by the Technology Innovation
+Program or Industrial Strategic Technology Development Program (10067190,
+Development of real-time label-free biopsy device for tumor diagnosis
+during surgery) funded by the Ministry of Trade, Industry, and Energy
+(MOTIE, Korea). This research was supported by the Convergence Technology
+Development Program for Bionic Arm through the National Research Foundation
+of Korea (NRF) funded by the Ministry of Science &amp; ICT (no. 2017M3C1B2085309).
+This work was also supported by the National Research Foundation of
+Korea (NRF) grant funded by the Korean Government (MSIP) (no. 2018R1A2A2A05023037).</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name name-style="western"><surname>Liang</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Chou</surname><given-names>S. Y.</given-names></name>
+<article-title>Nanogap Detector inside Nanofluidic Channel for Fast
+Real-Time Label-Free DNA Analysis</article-title>. <source>Nano Lett.</source>
+<year>2008</year>, <volume>8</volume>, <fpage>1472</fpage>–<lpage>1476</lpage>. <pub-id pub-id-type="doi">10.1021/nl080473k</pub-id>.<pub-id pub-id-type="pmid">18416580</pub-id></mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name name-style="western"><surname>Cao</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Yu</surname><given-names>Z.</given-names></name>; <name name-style="western"><surname>Wang</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Tegenfeldt</surname><given-names>J. O.</given-names></name>; <name name-style="western"><surname>Austin</surname><given-names>R. H.</given-names></name>; <name name-style="western"><surname>Chen</surname><given-names>E.</given-names></name>; <name name-style="western"><surname>Wu</surname><given-names>W.</given-names></name>; <name name-style="western"><surname>Chou</surname><given-names>S. Y.</given-names></name>
+<article-title>Fabrication of 10 Nm Enclosed Nanofluidic Channels</article-title>. <source>Appl. Phys. Lett.</source>
+<year>2002</year>, <volume>81</volume>, <fpage>174</fpage>–<lpage>176</lpage>. <pub-id pub-id-type="doi">10.1063/1.1489102</pub-id>.</mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name name-style="western"><surname>Fu</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Yoo</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Han</surname><given-names>J.</given-names></name>
+<article-title>Molecular
+Sieving in Periodic Free-Energy Landscapes
+Created by Patterned Nanofilter Arrays</article-title>. <source>Phys.
+Rev. Lett.</source>
+<year>2006</year>, <volume>97</volume>, <fpage>4620</fpage><pub-id pub-id-type="doi">10.1103/PhysRevLett.97.018103</pub-id>.<pub-id pub-id-type="pmcid">PMC1752241</pub-id><pub-id pub-id-type="pmid">16907412</pub-id></mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name name-style="western"><surname>Kim</surname><given-names>S. J.</given-names></name>; <name name-style="western"><surname>Ko</surname><given-names>S. H.</given-names></name>; <name name-style="western"><surname>Kang</surname><given-names>K. H.</given-names></name>; <name name-style="western"><surname>Han</surname><given-names>J.</given-names></name>
+<article-title>Direct Seawater Desalination
+by Ion Concentration Polarization</article-title>. <source>Nat. Nanotechnol.</source>
+<year>2010</year>, <volume>5</volume>, <fpage>297</fpage>–<lpage>301</lpage>. <pub-id pub-id-type="doi">10.1038/nnano.2010.34</pub-id>.<pub-id pub-id-type="pmid">20305644</pub-id></mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name name-style="western"><surname>Durand</surname><given-names>N. F. Y.</given-names></name>; <name name-style="western"><surname>Renaud</surname><given-names>P.</given-names></name>
+<article-title>Label-Free Determination of Protein-Surface
+Interaction
+Kinetics by Ionic Conductance inside a Nanochannel</article-title>. <source>Lab Chip</source>
+<year>2009</year>, <volume>9</volume>, <fpage>319</fpage>–<lpage>324</lpage>. <pub-id pub-id-type="doi">10.1039/b811006a</pub-id>.<pub-id pub-id-type="pmid">19107291</pub-id></mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name name-style="western"><surname>Foote</surname><given-names>R. S.</given-names></name>; <name name-style="western"><surname>Khandurina</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Jacobson</surname><given-names>S. C.</given-names></name>; <name name-style="western"><surname>Ramsey</surname><given-names>J. M.</given-names></name>
+<article-title>Preconcentration
+of Proteins on Microfluidic Devices Using Porous Silica Membranes</article-title>. <source>Anal. Chem.</source>
+<year>2005</year>, <volume>77</volume>, <fpage>57</fpage>–<lpage>63</lpage>. <pub-id pub-id-type="doi">10.1021/ac049136w</pub-id>.<pub-id pub-id-type="pmid">15623278</pub-id></mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name name-style="western"><surname>Krivitsky</surname><given-names>V.</given-names></name>; <name name-style="western"><surname>Hsiung</surname><given-names>L. C.</given-names></name>; <name name-style="western"><surname>Lichtenstein</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Brudnik</surname><given-names>B.</given-names></name>; <name name-style="western"><surname>Kantaev</surname><given-names>R.</given-names></name>; <name name-style="western"><surname>Elnathan</surname><given-names>R.</given-names></name>; <name name-style="western"><surname>Pevzner</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Khatchtourints</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Patolsky</surname><given-names>F.</given-names></name>
+<article-title>Si Nanowires Forest-Based on-Chip
+Biomolecular Filtering,
+Separation and Preconcentration Devices: Nanowires Do It All</article-title>. <source>Nano Lett.</source>
+<year>2012</year>, <volume>12</volume>, <fpage>4748</fpage>–<lpage>4756</lpage>. <pub-id pub-id-type="doi">10.1021/nl3021889</pub-id>.<pub-id pub-id-type="pmid">22852557</pub-id></mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name name-style="western"><surname>Islam</surname><given-names>M. S.</given-names></name>; <name name-style="western"><surname>Shahid</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Kuryllo</surname><given-names>K.</given-names></name>; <name name-style="western"><surname>Li</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Deen</surname><given-names>M. J.</given-names></name>; <name name-style="western"><surname>Selvaganapathy</surname><given-names>P. R.</given-names></name>
+<article-title>Electrophoretic Concentration and
+Electrical Lysis
+of Bacteria in a Microfluidic Device Using a Nanoporous Membrane</article-title>. <source>Micromachines</source>
+<year>2017</year>, <volume>8</volume>, <fpage>45</fpage><pub-id pub-id-type="doi">10.3390/mi8020045</pub-id>.</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name name-style="western"><surname>Jeon</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Kim</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Lim</surname><given-names>G.</given-names></name>
+<article-title>Continuous
+Particle Separation Using Pressure-Driven
+Flow-Induced Miniaturizing Free-Flow Electrophoresis (PDF-Induced
+μ-FFE)</article-title>. <source>Sci. Rep.</source>
+<year>2016</year>, <volume>6</volume>, <fpage>19911</fpage><pub-id pub-id-type="doi">10.1038/srep19911</pub-id>.<pub-id pub-id-type="pmid">26819221</pub-id><pub-id pub-id-type="pmcid">PMC4730231</pub-id></mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name name-style="western"><surname>Chen</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Liu</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Xu</surname><given-names>Z.</given-names></name>; <name name-style="western"><surname>Pan</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Liu</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Du</surname><given-names>L.</given-names></name>
+<article-title>An Effective
+PDMS Microfluidic Chip for Chemiluminescence Detection of Cobalt (II)
+in Water</article-title>. <source>Microsyst. Technol.</source>
+<year>2013</year>, <volume>19</volume>, <fpage>99</fpage>–<lpage>103</lpage>. <pub-id pub-id-type="doi">10.1007/s00542-012-1551-8</pub-id>.</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name name-style="western"><surname>Fu</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Mao</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Han</surname><given-names>J.</given-names></name>
+<article-title>Nanofilter Array Chip for Fast Gel-Free
+Biomolecule
+Separation</article-title>. <source>Appl. Phys. Lett.</source>
+<year>2005</year>, <volume>87</volume>, <fpage>263902</fpage><pub-id pub-id-type="doi">10.1063/1.2149979</pub-id>.<pub-id pub-id-type="pmid">18846250</pub-id><pub-id pub-id-type="pmcid">PMC2564606</pub-id></mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name name-style="western"><surname>Xu</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Matsumoto</surname><given-names>N.</given-names></name>
+<article-title>Flexible and in Situ Fabrication of Nanochannels with
+High Aspect Ratios and Nanopillar Arrays in Fused Silica Substrates
+Utilizing Focused Ion Beam</article-title>. <source>RSC Adv.</source>
+<year>2015</year>, <volume>5</volume>, <fpage>50638</fpage>–<lpage>50643</lpage>. <pub-id pub-id-type="doi">10.1039/c5ra06306j</pub-id>.</mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name name-style="western"><surname>Wei</surname><given-names>Q.</given-names></name>; <name name-style="western"><surname>Hu</surname><given-names>F.</given-names></name>; <name name-style="western"><surname>Wang</surname><given-names>L.</given-names></name>
+<article-title>Formation of Nanotunnels inside a Resist Film in Laser
+Interference Lithography</article-title>. <source>Langmuir</source>
+<year>2015</year>, <volume>31</volume>, <fpage>5464</fpage>–<lpage>5468</lpage>. <pub-id pub-id-type="doi">10.1021/acs.langmuir.5b00194</pub-id>.<pub-id pub-id-type="pmid">25938301</pub-id></mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name name-style="western"><surname>Lee</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Yang</surname><given-names>E.-H.</given-names></name>; <name name-style="western"><surname>Myung</surname><given-names>N. V.</given-names></name>; <name name-style="western"><surname>George</surname><given-names>T.</given-names></name>
+<article-title>A Nanochannel Fabrication
+Technique without Nanolithography</article-title>. <source>Nano Lett.</source>
+<year>2003</year>, <volume>3</volume>, <fpage>1339</fpage>–<lpage>1340</lpage>. <pub-id pub-id-type="doi">10.1021/nl034399b</pub-id>.</mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name name-style="western"><surname>Duan</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Wang</surname><given-names>W.</given-names></name>; <name name-style="western"><surname>Xie</surname><given-names>Q.</given-names></name>
+<article-title>Review Article: Fabrication of Nanofluidic
+Devices</article-title>. <source>Biomicrofluidics</source>
+<year>2013</year>, <volume>7</volume>, <elocation-id>026501</elocation-id><pub-id pub-id-type="doi">10.1063/1.4794973</pub-id>.<pub-id pub-id-type="pmcid">PMC3612116</pub-id><pub-id pub-id-type="pmid">23573176</pub-id></mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name name-style="western"><surname>Liu</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Jin</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Sun</surname><given-names>T.</given-names></name>; <name name-style="western"><surname>Xu</surname><given-names>Z.</given-names></name>; <name name-style="western"><surname>Liu</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Wang</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Chen</surname><given-names>L.</given-names></name>; <name name-style="western"><surname>Wang</surname><given-names>L.</given-names></name>
+<article-title>Hot Embossing of Polymer Nanochannels
+Using PMMA Moulds</article-title>. <source>Microsyst. Technol.</source>
+<year>2013</year>, <volume>19</volume>, <fpage>629</fpage>–<lpage>634</lpage>. <pub-id pub-id-type="doi">10.1007/s00542-012-1674-y</pub-id>.</mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name name-style="western"><surname>Wong</surname><given-names>C. C.</given-names></name>; <name name-style="western"><surname>Agarwal</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Balasubramanian</surname><given-names>N.</given-names></name>; <name name-style="western"><surname>Kwong</surname><given-names>D. L.</given-names></name>
+<article-title>Fabrication of Self-Sealed
+Circular Nano/Microfluidic Channels in Glass Substrates</article-title>. <source>Nanotechnology</source>
+<year>2007</year>, <volume>18</volume>, <fpage>135304</fpage><pub-id pub-id-type="doi">10.1088/0957-4484/18/13/135304</pub-id>.<pub-id pub-id-type="pmid">21730378</pub-id></mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name name-style="western"><surname>Liang</surname><given-names>F.</given-names></name>; <name name-style="western"><surname>Ju</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Qiao</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Guo</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Feng</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Li</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Lu</surname><given-names>N.</given-names></name>; <name name-style="western"><surname>Tu</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Lu</surname><given-names>Z.</given-names></name>
+<article-title>A Simple Approach for an Optically
+Transparent Nanochannel Device Prototype</article-title>. <source>Lab
+Chip</source>
+<year>2016</year>, <volume>16</volume>, <fpage>984</fpage>–<lpage>991</lpage>. <pub-id pub-id-type="doi">10.1039/c6lc00152a</pub-id>.<pub-id pub-id-type="pmid">26891717</pub-id></mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name name-style="western"><surname>Abad</surname><given-names>E.</given-names></name>; <name name-style="western"><surname>Merino</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Retolaza</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Juarros</surname><given-names>A.</given-names></name>
+<article-title>Design and Fabrication
+Using Nanoimprint Lithography of a Nanofluidic Device for DNA Stretching
+Applications</article-title>. <source>Microelectron. Eng.</source>
+<year>2008</year>, <volume>85</volume>, <fpage>818</fpage>–<lpage>821</lpage>. <pub-id pub-id-type="doi">10.1016/j.mee.2007.12.048</pub-id>.</mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name name-style="western"><surname>Sakamoto</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Fujikawa</surname><given-names>N.</given-names></name>; <name name-style="western"><surname>Nishikura</surname><given-names>N.</given-names></name>; <name name-style="western"><surname>Kawata</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Yasuda</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Hirai</surname><given-names>Y.</given-names></name>
+<article-title>High Aspect Ratio Fine
+Pattern Transfer Using a Novel Mold by Nanoimprint
+Lithography</article-title>. <source>J. Vac. Sci. Technol., B: Nanotechnol.
+Microelectron.: Mater., Process., Meas., Phenom.</source>
+<year>2011</year>, <volume>29</volume>, <elocation-id>06FC15</elocation-id><pub-id pub-id-type="doi">10.1116/1.3662080</pub-id>.</mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name name-style="western"><surname>Cho</surname><given-names>Y. H.</given-names></name>; <name name-style="western"><surname>Park</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Park</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Cheng</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Kim</surname><given-names>B. J.</given-names></name>; <name name-style="western"><surname>Han</surname><given-names>A.</given-names></name>
+<article-title>Fabrication of High-Aspect-Ratio Polymer Nanochannels Using a Novel
+Si Nanoimprint Mold and Solvent-Assisted Sealing</article-title>. <source>Microfluid. Nanofluid.</source>
+<year>2010</year>, <volume>9</volume>, <fpage>163</fpage>–<lpage>170</lpage>. <pub-id pub-id-type="doi">10.1007/s10404-009-0509-3</pub-id>.</mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name name-style="western"><surname>Cheng</surname><given-names>E.</given-names></name>; <name name-style="western"><surname>Zou</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Yin</surname><given-names>Z.</given-names></name>; <name name-style="western"><surname>Jurčíček</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Zhang</surname><given-names>X.</given-names></name>
+<article-title>Fabrication of 2D Polymer
+Nanochannels by Sidewall Lithography and
+Hot Embossing</article-title>. <source>J. Micromech. Microeng.</source>
+<year>2013</year>, <volume>23</volume>, <elocation-id>075022</elocation-id><pub-id pub-id-type="doi">10.1088/0960-1317/23/7/075022</pub-id>.</mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name name-style="western"><surname>Chen</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Zhang</surname><given-names>L.</given-names></name>
+<article-title>Review in Manufacturing
+Methods of Nanochannels of Bio-Nanofluidic
+Chips</article-title>. <source>Sens. Actuators, B</source>
+<year>2018</year>, <volume>254</volume>, <fpage>648</fpage>–<lpage>659</lpage>. <pub-id pub-id-type="doi">10.1016/j.snb.2017.07.139</pub-id>.</mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name name-style="western"><surname>Kim</surname><given-names>B.</given-names></name>; <name name-style="western"><surname>Heo</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Kwon</surname><given-names>H. J.</given-names></name>; <name name-style="western"><surname>Cho</surname><given-names>S. J.</given-names></name>; <name name-style="western"><surname>Han</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Kim</surname><given-names>S. J.</given-names></name>; <name name-style="western"><surname>Lim</surname><given-names>G.</given-names></name>
+<article-title>Tunable Ionic Transport for a Triangular
+Nanochannel in a Polymeric
+Nanofluidic System</article-title>. <source>ACS Nano</source>
+<year>2013</year>, <volume>7</volume>, <fpage>740</fpage>–<lpage>747</lpage>. <pub-id pub-id-type="doi">10.1021/nn3050424</pub-id>.<pub-id pub-id-type="pmid">23244067</pub-id></mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name name-style="western"><surname>Kim</surname><given-names>G. H.</given-names></name>; <name name-style="western"><surname>An</surname><given-names>T.</given-names></name>; <name name-style="western"><surname>Lim</surname><given-names>G.</given-names></name>
+<article-title>Bioinspired Structural Colors Fabricated with ZnO Quasi-Ordered
+Nanostructures</article-title>. <source>ACS Appl. Mater. Interfaces</source>
+<year>2017</year>, <volume>9</volume>, <fpage>19057</fpage>–<lpage>19062</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.6b15892</pub-id>.<pub-id pub-id-type="pmid">28530389</pub-id></mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name name-style="western"><surname>Cho</surname><given-names>I.</given-names></name>; <name name-style="western"><surname>Sung</surname><given-names>G. Y.</given-names></name>; <name name-style="western"><surname>Kim</surname><given-names>S. J.</given-names></name>
+<article-title>Overlimiting Current through Ion
+Concentration Polarization Layer: Hydrodynamic Convection Effects</article-title>. <source>Nanoscale</source>
+<year>2014</year>, <volume>6</volume>, <fpage>4620</fpage>–<lpage>4626</lpage>. <pub-id pub-id-type="doi">10.1039/c3nr04961b</pub-id>.<pub-id pub-id-type="pmid">24637510</pub-id></mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name name-style="western"><surname>Kim</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Lawler</surname><given-names>D. F.</given-names></name>
+<article-title>Overlimiting Current
+by Interactive Ionic Transport
+between Space Charge Region and Electric Double Layer near Ion-Exchange
+Membranes</article-title>. <source>Desalination</source>
+<year>2012</year>, <volume>285</volume>, <fpage>245</fpage>–<lpage>252</lpage>. <pub-id pub-id-type="doi">10.1016/j.desal.2011.10.009</pub-id>.</mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name name-style="western"><surname>Jeon</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Lee</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Kang</surname><given-names>K. H.</given-names></name>; <name name-style="western"><surname>Lim</surname><given-names>G.</given-names></name>
+<article-title>Ion Concentration
+Polarization-Based
+Continuous Separation Device Using Electrical Repulsion in the Depletion
+Region</article-title>. <source>Sci. Rep.</source>
+<year>2013</year>, <volume>3</volume>, <fpage>3483</fpage><pub-id pub-id-type="doi">10.1038/srep03483</pub-id>.<pub-id pub-id-type="pmid">24352563</pub-id><pub-id pub-id-type="pmcid">PMC6506453</pub-id></mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name name-style="western"><surname>Kim</surname><given-names>G. H.</given-names></name>; <name name-style="western"><surname>An</surname><given-names>T.</given-names></name>; <name name-style="western"><surname>Lim</surname><given-names>G.</given-names></name>
+<article-title>Fabrication
+of Optical Switching Patterns with Structural
+Colored Microfibers</article-title>. <source>Nanoscale Res. Lett.</source>
+<year>2018</year>, <volume>13</volume>, <fpage>204</fpage><pub-id pub-id-type="doi">10.1186/s11671-018-2614-2</pub-id>.<pub-id pub-id-type="pmid">29987651</pub-id><pub-id pub-id-type="pmcid">PMC6037636</pub-id></mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name name-style="western"><surname>Jeon</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Kim</surname><given-names>J. H.</given-names></name>; <name name-style="western"><surname>Lim</surname><given-names>G.</given-names></name>
+<article-title>A Novel Nanochannel
+Fabrication for
+Nanofluidic Applications Using Synchrotron Radiation: Via a Micro
+Patterned X-Ray Mask</article-title>. <source>RSC Adv</source>
+<year>2016</year>, <volume>6</volume>, <fpage>46068</fpage>–<lpage>46072</lpage>. <pub-id pub-id-type="doi">10.1039/c6ra08657h</pub-id>.</mixed-citation></ref></ref-list></back></article>

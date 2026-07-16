@@ -1,0 +1,602 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article article-type="research-article" xml:lang="en" dtd-version="1.4"><front><journal-meta><journal-id journal-id-type="nlm-ta">Int J Immunopathol Pharmacol</journal-id><journal-id journal-id-type="iso-abbrev">Int J Immunopathol Pharmacol</journal-id><journal-id journal-id-type="pmc-domain-id">3390</journal-id><journal-id journal-id-type="pmc-domain">ijip</journal-id><journal-id journal-id-type="nlm-id">8911335</journal-id><journal-id journal-id-type="publisher-id">IJI</journal-id><journal-title-group><journal-title>International Journal of Immunopathology and Pharmacology</journal-title></journal-title-group><issn pub-type="ppub">0394-6320</issn><issn pub-type="epub">2058-7384</issn><publisher><publisher-name>SAGE Publications</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC7783874</article-id><article-id pub-id-type="pmcid-ver">PMC7783874.1</article-id><article-id pub-id-type="pmcaid">7783874</article-id><article-id pub-id-type="pmcaiid">7783874</article-id><article-id pub-id-type="pmid">33373277</article-id><article-id pub-id-type="doi">10.1177/2058738420958949</article-id><article-id pub-id-type="publisher-id">10.1177_2058738420958949</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Immune Effects of Polysaccharide</subject><subj-group subj-group-type="heading"><subject>Original Research Article</subject></subj-group></subj-group></article-categories><title-group><article-title>Physiological concentrations of short-chain fatty acids induce the
+formation of neutrophil extracellular traps in vitro</article-title></title-group><contrib-group><contrib contrib-type="author"><name name-style="western"><surname>Íñiguez-Gutiérrez</surname><given-names initials="L">Liliana</given-names></name><xref ref-type="aff" rid="aff1-2058738420958949">1</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Godínez-Méndez</surname><given-names initials="LA">Lucila A</given-names></name><xref ref-type="aff" rid="aff1-2058738420958949">1</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Fafutis-Morris</surname><given-names initials="M">Mary</given-names></name><xref ref-type="aff" rid="aff2-2058738420958949">2</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Padilla-Arellano</surname><given-names initials="JR">Jorge R</given-names></name><xref ref-type="aff" rid="aff1-2058738420958949">1</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Corona-Rivera</surname><given-names initials="A">Alfredo</given-names></name><xref ref-type="aff" rid="aff1-2058738420958949">1</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Bueno-Topete</surname><given-names initials="MR">Miriam Ruth</given-names></name><xref ref-type="aff" rid="aff3-2058738420958949">3</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Rojas-Rejón</surname><given-names initials="ÓA">Óscar A</given-names></name><xref ref-type="aff" rid="aff4-2058738420958949">4</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-2150-6890</contrib-id><name name-style="western"><surname>Delgado-Rizo</surname><given-names initials="V">Vidal</given-names></name><xref ref-type="aff" rid="aff1-2058738420958949">1</xref><xref ref-type="corresp" rid="corresp1-2058738420958949"/></contrib></contrib-group><aff id="aff1-2058738420958949"><label>1</label>Laboratorio de Inmunología, Departamento
+de Fisiología, Centro Universitario de Ciencias de la Salud, Universidad de
+Guadalajara, Guadalajara, Jalisco, Mexico</aff><aff id="aff2-2058738420958949"><label>2</label>Centro de Investigación en Inmunología y
+Dermatología, Centro Universitario de Ciencias de la Salud, Universidad de
+Guadalajara, Guadalajara, Jalisco, Mexico</aff><aff id="aff3-2058738420958949"><label>3</label>Instituto de Enfermedades
+Crónico-Degenerativas, Departamento de Biología Molecular y Genómica, Centro
+Universitario de Ciencias de la Salud, Universidad de Guadalajara, Guadalajara,
+Jalisco, Mexico</aff><aff id="aff4-2058738420958949"><label>4</label>Departamento de Procesos Tecnológicos e
+Industriales, Instituto Tecnológico y de Estudios Superiores de Occidente,
+Guadalajara, Jalisco, Mexico</aff><author-notes><corresp id="corresp1-2058738420958949">Vidal Delgado-Rizo, Laboratorio de
+Inmunología, Departamento de Fisiología, Centro Universitario de Ciencias de la
+Salud, Universidad de Guadalajara, Av. Sierra Mojada 950, Colonia Independencia,
+Guadalajara, Jalisco 45604, Mexico. Email:
+<email>vidalrizo@gmail.com</email></corresp></author-notes><pub-date pub-type="epub"><day>29</day><month>12</month><year>2020</year></pub-date><pub-date pub-type="collection"><season>Jan-Dec</season><year>2020</year></pub-date><volume>34</volume><issue-id pub-id-type="pmc-issue-id">351103</issue-id><elocation-id>2058738420958949</elocation-id><history><date date-type="received"><day>18</day><month>6</month><year>2020</year></date><date date-type="accepted"><day>21</day><month>8</month><year>2020</year></date></history><pub-history><event event-type="pmc-release"><date><day>29</day><month>12</month><year>2020</year></date></event><event event-type="pmc-live"><date><day>14</day><month>01</month><year>2021</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-04-03 17:25:14.270"><day>03</day><month>04</month><year>2026</year></date></event></pub-history><permissions><copyright-statement>© The Author(s) 2020</copyright-statement><copyright-year>2020</copyright-year><copyright-holder content-type="sage">SAGE Publications Ltd unless otherwise noted.
+Manuscript content on this site is licensed under Creative Commons
+Licenses</copyright-holder><license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="creative-commons" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>This article is distributed under the terms of the Creative Commons
+Attribution-NonCommercial 4.0 License (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">https://creativecommons.org/licenses/by-nc/4.0/</ext-link>) which
+permits non-commercial use, reproduction and distribution of the work
+without further permission provided the original work is attributed as
+specified on the SAGE and Open Access page (<ext-link ext-link-type="uri" xlink:href="https://us.sagepub.com/en-us/nam/open-access-at-sage">https://us.sagepub.com/en-us/nam/open-access-at-sage</ext-link>).</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="10.1177_2058738420958949.pdf"/><abstract><p>Neutrophils represent the first line of host cellular defense against various
+pathogens. The most recently described microbicidal mechanism of these cells is
+the release of neutrophil extracellular traps (NET). Currently, a wide range of
+chemical and biological stimuli are known to induce this response; however, the
+effect of short-chain fatty acids (SCFAs) on the induction of NET is still
+unknown. SCFAs are produced mainly by bacterial fermentation of dietary fiber
+and are found in host tissues and blood. This study aimed to determine whether
+physiological levels of SCFAs can induce the formation of NET. Previously
+reported concentrations of SCFAs (as found in the colonic lumen and peripheral
+blood in postprandial and basal states) were used to stimulate the neutrophils.
+In order to determine the signaling pathway utilized by SCFAs, we tested the
+inhibition of the Free Fatty Acid 2 Receptor (FFA2R) expressed in neutrophils
+using CATPB, the inhibitor of FFA2R, genistein, an inhibitor of the downstream
+Gα/q11 proteins and DPI, an inhibitor of the NADPH oxidase complex. The SCFAs at
+colonic intestinal lumen concentrations were able to induce the formation of
+NET, and when tested at concentrations found in the peripheral blood, only
+acetic acid at 100 μM (fasting equivalent) and 700 μM (postprandial equivalent)
+was found to induce the formation of NET. The administration of the competitive
+inhibitor against the receptor or blockade of relevant G protein signaling and
+the inhibition of NADPH oxidase complex decreased NET release. SCFAs stimulate
+NET formation in vitro and this effect is mediated, in part, by the FFA2R.</p></abstract><kwd-group><kwd>FFA2R</kwd><kwd>NET</kwd><kwd>neutrophil extracellular traps induction</kwd><kwd>short-chain fatty acids</kwd></kwd-group><funding-group><award-group id="award1-2058738420958949"><funding-source id="funding1-2058738420958949"><institution-wrap><institution>Programa de Incorporación y Permanencia de Posgrado en el
+Programa Nacional de Posgrado de Calidad CONACYT</institution><institution-id/></institution-wrap></funding-source><award-id rid="funding1-2058738420958949">249518</award-id></award-group></funding-group><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January-December 2020</meta-value></custom-meta><custom-meta><meta-name>typesetter</meta-name><meta-value>ts1</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="intro" id="section1-2058738420958949"><title>Introduction</title><p>Fatty acids that have between two to six carbon atoms in their structure are called
+short-chain fatty acids (SCFAs). Acetic, propionic, and butyric acid make up more
+than 95% of the total SCFAs in the intestinal lumen.<sup><xref rid="bibr1-2058738420958949" ref-type="bibr">1</xref></sup> These organic acids are produced exogenously by the bacterial fermentation of
+carbohydrates and proteins that escape digestion and absorption in the small
+intestine, and are endogenously formed by lipid oxidation and the metabolism of
+branched-chain amino acids.<sup><xref rid="bibr2-2058738420958949" ref-type="bibr">2</xref></sup> Therefore, amounts of SCFAs vary in the intestinal lumen and circulation
+depending on an individual’s diet, intestinal microbiota, and metabolism.<sup><xref rid="bibr3-2058738420958949" ref-type="bibr">3</xref>,<xref rid="bibr4-2058738420958949" ref-type="bibr">4</xref></sup> SCFAs are of great importance
+due to their ability to not only modulate energy and endocrine response but also
+regulate immune cell function.<sup><xref rid="bibr1-2058738420958949" ref-type="bibr">1</xref>,<xref rid="bibr5-2058738420958949" ref-type="bibr">5</xref></sup></p><p>Neutrophils belong to the initial line of immunological defense, and represent 60% to
+70% of the total leukocytes in peripheral blood.<sup><xref rid="bibr6-2058738420958949" ref-type="bibr">6</xref></sup> SCFAs have been shown to be involved in cellular migration, cytokine
+expression, apoptosis, and increases in cytosolic calcium flow.<sup><xref rid="bibr7-2058738420958949" ref-type="bibr">7</xref><xref rid="bibr8-2058738420958949" ref-type="bibr"/><xref rid="bibr9-2058738420958949" ref-type="bibr"/>–<xref rid="bibr10-2058738420958949" ref-type="bibr">10</xref></sup> The function of neutrophils in
+the presence of SCFAs varies according to the concentration, combination, and
+proportion of these acids. Their modulating effects on cells can be direct, through
+the activation of specific SCFAs receptors (Free fatty acid receptors, FFAR)<sup><xref rid="bibr7-2058738420958949" ref-type="bibr">7</xref></sup> or via histone deacetylase (HDAC),<sup><xref rid="bibr11-2058738420958949" ref-type="bibr">11</xref></sup> or indirect, through the modification of extracellular pH.<sup><xref rid="bibr12-2058738420958949" ref-type="bibr">12</xref></sup></p><p>The most recently reported microbicidal mechanism of neutrophils is the formation of
+neutrophil extracellular traps (NET).<sup><xref rid="bibr13-2058738420958949" ref-type="bibr">13</xref></sup> NET formation involves the release of chromatin structures in the form of an
+extracellular network containing nuclear or mitochondrial DNA, which is associated
+with microbicidal peptides; the objective of these structures is to trap pathogens
+and prevent their spread in the organism. The sequential steps of the molecular
+mechanism that induces NET formation involve the following: recognition of a
+stimulus by the receptors, production of reactive oxygen species (ROS), activation
+of the Raf-MEK-Erk pathway (Raf; Proto-oncogene serine/threonine-protein kinase,
+MEK; Mitogen-activated protein kinase kinase, Erk; Extracellular-signal-regulated kinase),<sup><xref rid="bibr14-2058738420958949" ref-type="bibr">14</xref></sup> translocation of elastase and myeloperoxidase into the nucleus, disassembly
+of nuclear membrane,<sup><xref rid="bibr15-2058738420958949" ref-type="bibr">15</xref></sup> dispersion and mixing of chromatin with cytoplasmic components, and finally
+the rupture of cytoplasmic membrane leading to the extracellular release of DNA
+associated with antimicrobial peptides.<sup><xref rid="bibr16-2058738420958949" ref-type="bibr">16</xref>,<xref rid="bibr17-2058738420958949" ref-type="bibr">17</xref></sup></p><p>Depending on the stimulus, NET may require an increase of intracellular
+Ca<sup>2+</sup> and activation of the peptidyl arginine deiminase 4 (PAD4)
+enzyme.<sup><xref rid="bibr18-2058738420958949" ref-type="bibr">18</xref>,<xref rid="bibr19-2058738420958949" ref-type="bibr">19</xref></sup></p><p>The NET formation is a mechanism that is exacerbated by chronic inflammatory
+processes and autoimmune or metabolic complications.<sup><xref rid="bibr20-2058738420958949" ref-type="bibr">20</xref>,<xref rid="bibr21-2058738420958949" ref-type="bibr">21</xref></sup> When the formation of NET does
+not occur, or its microbicidal capacity is insufficient, a greater vulnerability to
+recurrent bacterial or fungal infection is observed.<sup><xref rid="bibr22-2058738420958949" ref-type="bibr">22</xref></sup> In diabetes, for example, there is a defect in the formation of NET; this
+leads to recurrent secondary bacterial or fungal complications.<sup><xref rid="bibr23-2058738420958949" ref-type="bibr">23</xref></sup></p><p>Although the SCFAs can activate neutrophils, their role in the modulation of NET
+remains unknown. In the intestinal lumen, there are millimolar concentrations of SCFAs,<sup><xref rid="bibr24-2058738420958949" ref-type="bibr">24</xref></sup> while the amount is much lower in the peripheral blood.<sup><xref rid="bibr25-2058738420958949" ref-type="bibr">25</xref>,<xref rid="bibr26-2058738420958949" ref-type="bibr">26</xref></sup> The objective
+of this study is to determine the effect of physiological concentrations of SCFAs on
+NET induction and whether FFA2R mediates this effect.</p></sec><sec sec-type="materials|methods" id="section2-2058738420958949"><title>Materials and methods</title><sec id="section3-2058738420958949"><title>Reagents</title><p>The following reagents were used in this study: 0.9% physiological saline
+solution (Solution sodium chloride 0.9%; PiSA<sup>®</sup>, Guadalajara, México),
+sterile-filtered density gradient solution1.077 g/mL (10771, Sigma Aldrich,
+Milwaukee, WS, USA), and 1.119 g/mL (Histopaque<sup>®</sup>-1119, Sigma
+Aldrich), calcium ionophore (A23187; Sigma Aldrich), CATBP
+((S)-3-(2-(3-chlorophenyl) acetamido)-4-(4-(trifluoromethyl) phenyl) butanoic
+acid (SML1782 Sigma Aldrich), genistein (4′,5,7-trihydroxyisoflavone,
+5,7-dihydroxy-3-(4-hydroxyphenyl)-4H-1-benzopyran-4-one (G6649, Sigma Aldrich),
+DAPI (2-(4-Amidino Phenyl)-6-indolecarbamidine dihydrochloride,
+4′,6-Diamidino-2-phenylindole dihydrochloride) (D9542, Sigma Aldrich), DPI
+(Diphenyleneiodonium chloride) (D2926, Sigma Aldrich), DNAse I (AMPD1, Sigma
+Aldrich), Poly-L-lysine solution (P8920; Sigma Aldrich), and acetic acid,
+propionic acid, and butyric acid (A6283, 402907, B103500, Sigma Aldrich).
+SYTOX<sup>®</sup> Green (S7020; Thermo Fisher Scientific, Waltham, MA, USA),
+anti-neutrophil elastase antibody (ab21595; abcam, Cambridge, LDN, UK), and the
+secondary antibody (ab150077; abcam).</p></sec><sec id="section4-2058738420958949"><title>Neutrophil isolation</title><p>The study protocol was approved by the Research and Research Ethics Committee of
+the University Center for Health Sciences under the approval number, CI-03319.
+Written informed consent was obtained from all participants prior to sample
+collection, in accordance with the ethical guidelines of the 2013 Helsinki
+Declaration. Peripheral blood from clinically healthy subjects was collected in
+tubes with EDTA, and neutrophils were isolated by using a Ficoll Histopaque
+1119/1077 density gradient (Sigma Aldrich) according to the manufacturer’s
+instructions. First, a layer of 3 mL of Histopaque 1119 was placed (density:
+1.119 g/mL) followed by the careful addition of 3 mL of Histopaque 1077
+(density: 1.077 g/mL), and finally 6 mL of peripheral blood. To achieve the
+separation of cells, the solution was centrifuged at 700 <italic toggle="yes">g</italic> for
+30 min. The ring of granulocytes was taken and subsequently washed by
+centrifugation at 300 <italic toggle="yes">g</italic> for 10 min and resuspended in
+physiological saline solution. We evaluated the cell count and viability
+(&gt;95%) in a Neubauer chamber using trypan blue.</p></sec><sec id="section5-2058738420958949"><title>Stimulation of NET with SCFAs</title><p>As a positive control for NET formation in vitro, we used 20 μM calcium
+ionophore. We used 250,000 neutrophils/mL that were freshly extracted and
+isolated for each sample. The standard medium of these experiments was 0.9%
+physiological saline solution with pH adjusted to 7.35 using NaOH.</p><p>We prepared acetic, butyric, and propionic acid in the physiological
+concentrations previously reported: intestinal lumen<sup><xref rid="bibr24-2058738420958949" ref-type="bibr">24</xref></sup> as well as peripheral blood in fasting<sup><xref rid="bibr25-2058738420958949" ref-type="bibr">25</xref></sup> and postprandial state<sup><xref rid="bibr26-2058738420958949" ref-type="bibr">26</xref></sup> (see <xref rid="table1-2058738420958949" ref-type="table">Table
+1</xref>). The pH of SCFAs solution was adjusted with NaOH to 7.35. The same
+experiments were carried at a pH of 6.00. Once the stimulus was added, the cells
+were incubated for 3 h at 37°C and 5% CO2.</p><table-wrap id="table1-2058738420958949" orientation="portrait" position="float"><label>Table 1.</label><caption><p>Physiological concentration of SCFAs for induction of NET.</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_2058738420958949-table1.jpg"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/></colgroup><thead><tr><th align="left" rowspan="2" colspan="1">SCFAs</th><th align="left" colspan="2" rowspan="1">Peripheral blood (µM)</th><th align="left" rowspan="2" colspan="1">Intestinal lumen (mM)</th></tr><tr><th align="left" rowspan="1" colspan="1">Fasting</th><th align="left" rowspan="1" colspan="1">Postprandial</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">Acetic acid</td><td rowspan="1" colspan="1">100</td><td rowspan="1" colspan="1">700</td><td rowspan="1" colspan="1">60</td></tr><tr><td rowspan="1" colspan="1">Propionic acid</td><td rowspan="1" colspan="1">4</td><td rowspan="1" colspan="1">80</td><td rowspan="1" colspan="1">20</td></tr><tr><td rowspan="1" colspan="1">Butyric acid</td><td rowspan="1" colspan="1">2</td><td rowspan="1" colspan="1">20</td><td rowspan="1" colspan="1">20</td></tr></tbody></table></alternatives></table-wrap></sec><sec id="section6-2058738420958949"><title>Competitive inhibition of FFA2R in neutrophils</title><p>Neutrophils were incubated with different inhibitors for the FFA2R and NADPH
+oxidase complex to determine if it has any role in the induction of NET by
+SCFAs. We used CATPB (500 nM), as an antagonist of the active site of the
+receptor,<sup><xref rid="bibr27-2058738420958949" ref-type="bibr">27</xref>,<xref rid="bibr28-2058738420958949" ref-type="bibr">28</xref></sup> genistein (100 nM) to inhibit the phosphorylation of Gα/q11
+proteins, which is necessary for intracellular signaling of FFA2R,<sup><xref rid="bibr28-2058738420958949" ref-type="bibr">28</xref></sup> and DPI (10 µM) as an inhibitor of the Heme groups and FAD of the NADPH
+oxidase complex.<sup><xref rid="bibr29-2058738420958949" ref-type="bibr">29</xref></sup> We incubated the neutrophils with each inhibitor 1 h before the induction
+of NET with SCFAs as described in section “Stimulation of NET with SCFAs.”</p></sec><sec id="section7-2058738420958949"><title>Staining of NET and microscopy</title><p>We prepared each sample in Petri dishes containing a round coverslip, which was
+washed and treated with poly-L-lysine to induce cell adherence. To the Petri
+dishes, we then added 1 mL of the corresponding stimuli in the conditions
+indicated in sections “Stimulation of NET with SCFAs” and “Competitive
+inhibition of FFA2R in neutrophils” and fixed the cells with 4% paraformaldehyde
+for 20 min. We stained the sample with DAPI (1 µg/mL) with an incubation time of
+1 h at room temperature. We performed elastase staining using a specific
+procedure that has been previously described by Agraz-Cibrian et al.<sup><xref rid="bibr30-2058738420958949" ref-type="bibr">30</xref></sup> Briefly, after staining with DAPI, we performed two washes with PBS and
+incubated the samples with 0.5% Triton for 1 min at room temperature to
+permeabilize the cells. The coverslips were washed three times, and the primary
+anti-elastase antibody (ab21595, abcam) at a dilution of 1:500 in blocking
+solution was added followed by incubation for 1 h at 37°C. The coverslips were
+again washed three times, and the secondary antibody (ab150077 Goat anti-rabbit
+IgG H&amp;L, abcam) at a dilution of 1:1000 in blocking solution was added
+followed by incubation for 1 h at 37°C. Finally, the coverslips were observed,
+and images captured using a fluorescence microscope at 488 nm (Carl ZEISS AXIO
+Imager 2, Germany).</p></sec><sec id="section8-2058738420958949"><title>NET quantification</title><p>In each well of a 24-well plate (costar<sup>®</sup> 3524), 250,000 neutrophils
+were added in a volume of 1 mL along with each of the evaluated stimuli, as
+noted above. The plates were incubated for 3 h at 37°C and 5% CO2. After the
+incubation, the samples were centrifuged at 300 g for 10 min, and a volume of
+750 μL of supernatant was discarded from each well. Next, 1 unit/well of DNAse I
+was added, and the plate was incubated for 30 min. After this, the plate was
+centrifuged at 300 <italic toggle="yes">g</italic> for 10 min, and then 300 μL of the
+supernatant from each well was transferred to a dark 96-well plate. Each well of
+this new plate was added with 5 mM of SYTOX<sup>®</sup> Green and the plate was
+incubated at room temperature for 15 min. Quantification of the DNA/NET signals
+was performed using fluorometry. Fluorescence readings were realized using a
+Biotek Synergy HTX plate reader with 485 nm excitation/527 nm emission
+filters.</p></sec><sec id="section9-2058738420958949"><title>Statistics</title><p>All the experiments were performed at least twice with individual conditions
+repeated in duplicate or triplicate wells (specifics noted in the text for each
+experiment). For the calculation of the sample size we used the formula for two
+means. A unilateral hypothesis, error of 0.05 and 90% statistical power were
+proposed because the K value was 8.6. The standard deviation data and the mean
+value for the formula were obtained from our pilot study and Bukina et al.;
+using the above, giving <italic toggle="yes">n</italic> = 3.<sup><xref rid="bibr31-2058738420958949" ref-type="bibr">31</xref></sup></p><p>Data were compared with the untreated control. The analysis was done with the
+package of the GraphPad Prism 6 program, version 6.0c. We utilized
+non-parametric statistical analysis. The Kruskal-Wallis and Dunn’s test were
+used to analyze the experiments showing the effect of SCFAs on NET induction.
+The Mann-Whitney <italic toggle="yes">U</italic> test was used to analyze the rest of the
+experiments showing the regulation of inhibitors. For all the experiments,
+<italic toggle="yes">P</italic> &lt; 0.05 was considered statistically significant.</p></sec></sec><sec sec-type="results" id="section10-2058738420958949"><title>Results</title><sec id="section11-2058738420958949"><title>Intestinal concentrations of SCFAs stimulate the formation of NET</title><p>Each of the SCFAs administered at intestinal concentrations was able to induce
+the formation of NET. Acetic acid at 60 mM induced a more significant release of
+NET, as can be observed in the fluorescence microscopy analysis (<xref ref-type="fig" rid="fig1-2058738420958949">Figure 1(a)</xref>) and through
+the quantification of the DNA released by fluorometry (<xref ref-type="fig" rid="fig1-2058738420958949">Figure 2(a)</xref>).</p><fig id="fig1-2058738420958949" orientation="portrait" position="float"><label>Figure 1.</label><caption><p>SCFAs stimulate the formation of NET. The SCFAs at a millimolar
+concentration in the gut (see <xref rid="table1-2058738420958949" ref-type="table">Table 1</xref>) induce the formation
+of NET (a) in greater proportions than the micromolar concentration in
+the peripheral blood in the postprandial state (b) and fasting state
+(c). The neutrophils were fixed and stained using DAPI for DNA (blue
+color) and anti-elastase antibody for elastase (green color). The images
+are representative of four independent experiments for each stimulus.
+Fluorescence microscopy images are at 40× magnification. Negative
+control was SSF and positive control was calcium ionophore (20 μM).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_2058738420958949-fig1.jpg"/></fig><fig id="fig2-2058738420958949" orientation="portrait" position="float"><label>Figure 2.</label><caption><p>Quantification of DNA/NET induced by SCFAs. A greater effect on NET
+formation was observed in response to intestinal concentrations of
+acetic acid, 60 mM (***<italic toggle="yes">P</italic> &lt; 0.001); butyric acid,
+20 mM (*<italic toggle="yes">P</italic> &lt; 0.5); and propionic acid, 20 mM
+(**<italic toggle="yes">P</italic> &lt; 0.01) compared to the negative control
+(a). Acetic acid preserved this effect at the blood concentration in
+peripheral blood; 700 μM in the postprandial state
+(**<italic toggle="yes">P</italic> &lt; 0.01) (b) and 100 μM in the fasting state
+(***<italic toggle="yes">P</italic> &lt; 0.001) (c). Each bar represents the
+average ± SD of seven independent experiments; each experiment was
+performed in duplicate; the statistical analysis was performed with the
+Kruskal-Wallis test and Dunn’s test. Negative control was SSF and
+positive control was calcium ionophore (20 μM).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_2058738420958949-fig2.jpg"/></fig></sec><sec id="section12-2058738420958949"><title>Acetic acid at peripheral blood concentration can induce the formation of
+NET</title><p>We used the concentrations previously reported in peripheral blood in
+postprandial and fasting conditions to induce NET formation (<xref ref-type="fig" rid="fig1-2058738420958949">Figure 1(b)</xref> and (<xref ref-type="fig" rid="fig1-2058738420958949">c</xref>)). A significant effect
+was observed only when using acetic acid at postprandial
+(<italic toggle="yes">P</italic> &lt; 0.01) (<xref ref-type="fig" rid="fig2-2058738420958949">Figure 2(b)</xref>) and fasting peripheral blood concentrations
+(<italic toggle="yes">P</italic> &lt; 0.001) (<xref ref-type="fig" rid="fig2-2058738420958949">Figure2(c)</xref>).</p></sec><sec id="section13-2058738420958949"><title>NET induction by SCFAs is affected by pH</title><p>Khan et al.<sup><xref rid="bibr32-2058738420958949" ref-type="bibr">32</xref></sup> reported that spontaneous NET induction occurs when neutrophils are
+incubated at an alkaline pH of 7.8, whereas an acidic pH of 6.0 prevents NET induction.<sup><xref rid="bibr33-2058738420958949" ref-type="bibr">33</xref></sup> To determine if the decrease in pH affects the formation of SCFAs-induced
+NET, we used a 100 μM stimulus of acetic acid at pH 6.0 and 7.35 adjusted with
+NaOH. Our results showed a significant decrease in the NET induction by acetic
+acid at pH 6.0 when compared to the induction of NET with acetic acid at pH
+7.35. In these experiments NET induction was decreased up to 85%
+(<italic toggle="yes">P</italic> &lt; 0.05*), suggesting that the pH regulates the
+induction of NET by SCFAs (<xref ref-type="fig" rid="fig3-2058738420958949">Figure 3</xref>).</p><fig id="fig3-2058738420958949" orientation="portrait" position="float"><label>Figure 3.</label><caption><p>The induction of NET by SCFAs is modified by the pH. The percentage of
+NET released in response to 100 μM acetic acid when using the acid
+medium of pH 6.0 decreased significantly
+(***<italic toggle="yes">P</italic> &lt; 0.001) compared to that when using a medium
+with pH 7.35; it was reported in Relative Fluorescence Units (RFU). Each
+bar represents the mean ± SD of four independent experiments in
+duplicate and was analyzed using Mann-Whitney <italic toggle="yes">U</italic>
+test.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_2058738420958949-fig3.jpg"/></fig></sec><sec id="section14-2058738420958949"><title>SCFAs induce NET through the FFA2R and NADPH oxidase activity</title><p>To investigate whether the induction of NET by acetic acid is dependent upon
+FFA2R, CATPB was used as an antagonist of the active site of the receptor,
+genistein was used as an inhibitor of its intracellular signaling pathway, and
+DPI to block the NADPH oxidase activity. Our results showed that pre- incubation
+of neutrophils with CATPB resulted in a 2.4-fold decrease in the production of
+NET induced by 100 μM acetic acid (<xref ref-type="fig" rid="fig4-2058738420958949">Figure 4(a)</xref>). Similarly, the
+pre-incubation of neutrophil with genistein inhibited the formation of NET by up
+to 2.5-fold (<xref ref-type="fig" rid="fig4-2058738420958949">Figure
+4(b)</xref>). Moreover, the pre-incubation with DPI showed 2.2-fold decrease in
+the NET production (<xref ref-type="fig" rid="fig4-2058738420958949">Figure
+4(c)</xref>).</p><fig id="fig4-2058738420958949" orientation="portrait" position="float"><label>Figure 4.</label><caption><p>SCFAs induce NET formation through FFA2R and NADPH oxidase complex. The
+competitive inhibitor of FFA2R, CATPB, caused the inhibition of NET by
+acetic acid (*<italic toggle="yes">P</italic> &lt; 0.05) (a). Under similar
+conditions of stimuli, the inhibitor of G protein, genistein, led to a
+diminution of NET formation (*<italic toggle="yes">P</italic> &lt; 0.05) (b), and the
+inhibitor of NADPH oxidase complex, DPI, showed a decrease on NET
+production (*<italic toggle="yes">P</italic> &lt; 0.05) (c). It was reported in
+Relative Fluorescence Units (RFU). Each bar represents the mean ± SD of
+three independent experiments in duplicate, and was analyzed using the
+Mann-Whitney <italic toggle="yes">U</italic> test.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_2058738420958949-fig4.jpg"/></fig></sec></sec><sec sec-type="discussion" id="section15-2058738420958949"><title>Discussion</title><p>In this study, to the best of our knowledge, we demonstrated for the first time that
+SCFAs can induce the release of NET. The proportion and number of bacteria in the
+gut microbiota determine the amount of SCFAs and their proportion.<sup><xref rid="bibr1-2058738420958949" ref-type="bibr">1</xref></sup> Diverse pathologies such as obesity,<sup><xref rid="bibr34-2058738420958949" ref-type="bibr">34</xref></sup> metabolic syndrome,<sup><xref rid="bibr35-2058738420958949" ref-type="bibr">35</xref></sup> systemic lupus erythematosus,<sup><xref rid="bibr36-2058738420958949" ref-type="bibr">36</xref></sup> and salmonellosis<sup><xref rid="bibr37-2058738420958949" ref-type="bibr">37</xref></sup> are characterized by secondary symptoms known as intestinal dysbiosis, where
+the proportion and quantity of bacterial groups are altered and therefore, the
+production of SCFAs is likewise perturbed. Of the gut microbiota, the phylum
+Bacteroidetes is the primary producer of acetate and propionate, while the phylum
+Firmicutes produces mostly butyrate.<sup><xref rid="bibr1-2058738420958949" ref-type="bibr">1</xref></sup></p><p>Similar to our study, Carretta et al. in 2016 used 700 μM of butyric acid to induce
+NET formation in cells from ruminants. Additionally, this effect was associated with
+the activation of inflammatory processes in sub-acute ruminal acidosis in cattle;
+specifically, this group observed an effect on cellular activation and increases in
+intracellular calcium flow, ROS production, and the release of primary and secondary
+granule contents. The sum of their results suggested that butyric acid could
+contribute to the inflammatory response observed during digestive disorders in
+cattle that have high concentrations of butyric acid in the rumen.<sup><xref rid="bibr38-2058738420958949" ref-type="bibr">38</xref></sup></p><p>In another study, working with rats, Bukina et al. in 2018 showed that the
+administration of a probiotic strain of <italic toggle="yes">B. fragilis</italic> after previous
+treatment with vancomycin in the context of infection with <italic toggle="yes">S.
+typhimurium</italic>, led to the recovery of production of SCFAs and in turn
+increased the formation of NET in the blood and intestine.<sup><xref rid="bibr31-2058738420958949" ref-type="bibr">31</xref></sup></p><p>It has been reported that pH regulates several neutrophil functions, such as
+phagocytosis, ROS production, cell migration, and NET production.<sup><xref rid="bibr32-2058738420958949" ref-type="bibr">32</xref>,<xref rid="bibr33-2058738420958949" ref-type="bibr">33</xref></sup> For this
+reason, we tested whether the pH could affect the formation of NET via SCFAs.</p><p>In this study, we demonstrated that acetic acid, even at 100 μM (peripheral blood
+concentration in the fasting state), serves as a stimulus for the in vitro formation
+of NET at pH 7.35; however, when we use an acidic pH of 6.0, NET production was
+decreased by up to 85%. Similarly, in a 2006 study, a pH shift from 6.7 to 5.5
+during neutrophil stimulation with SCFAs decreased ROS by 85%.<sup><xref rid="bibr39-2058738420958949" ref-type="bibr">39</xref></sup></p><p>In line with the above, in 2016, Maueröder et al. proposed a potential in vivo model
+in an environment of local inflammation that hypothesized that NET are triggered
+only in situations of neutral and alkaline pH. The idea is that a pH gradient is
+formed in the inflamed area that is acidic at the center and is alkaline at the
+edges. The formation of NET would occur at the edges of the inflamed area, thereby
+forming a barrier and preventing the invasion of pathogens or the dissemination of
+molecular patterns associated with damage; meanwhile, in the acidic center,
+pathogens could still be phagocytosed and destroyed, as these are functions that are
+not inhibited at an acidic pH.<sup><xref rid="bibr40-2058738420958949" ref-type="bibr">40</xref></sup></p><p>Khan et al. demonstrated that histone cleavage by granular proteases was more active
+at a higher pH.<sup><xref rid="bibr32-2058738420958949" ref-type="bibr">32</xref></sup> On the other hand, the data obtained by Behnen et al. suggest that the
+inhibition of NET formation in acidic conditions is due to limited production of ROS
+and reduced glycolytic capacity.<sup><xref rid="bibr33-2058738420958949" ref-type="bibr">33</xref></sup></p><p>The weak organic acids can be found in an ionized or non-ionized form, and their
+solubility, transport, or binding to receptors depends on this. Acetic acid has a
+pKa = 4.8, and at physiological pH, it is mainly in its ionized form unable to cross
+membranes, and would require a receptor to carry out intracellular signaling. We
+performed experiments with lactic acid. This molecule has three carbons in its
+structure, like propionic acid, and pKA = 3.86 near to the pKa = 4.8 of acetic acid.
+Moreover, lactic acid is produced by bacteria, like SCFA, and also in muscle cells
+in anaerobic conditions. The concentration used was 34 mM, similar to Hartmann
+Solution utilized intravenously in humans. Lactic Acid did not stimulate NETs
+formation (data not shown).</p><p>Therefore, we demonstrated that SCFAs induce NET formation and that is in part,
+modulated by the FFA2R. Using CATPB as an inhibitor of FFA2R, the NET formation
+decreased by 2.4 times induced by using the stimuli of acetic acid at 100 μM.
+Björkman et al.<sup><xref rid="bibr28-2058738420958949" ref-type="bibr">28</xref></sup> showed the participation of FFA2R in neutrophils by demonstrating the
+increment of cytosolic calcium induced by agonists of FFA2R, acetic acid at 10 mM or
+Cmp1. This effect was blocked by CATPB; moreover, FFA2R is an orphan receptor and it
+needs to be coupled to G proteins to carry out its function. The pre-incubation of
+neutrophils with genistein, an inhibitor of Gα/q11 proteins, inhibited the formation
+of NET by up to 2.5-fold, thereby supporting the probable pathway induction of
+SCFAs, but the microenvironment is important too. In 2012, Paria Mirmonsef showed
+that only high concentrations of SCFAs (20 mM) induced the release of
+pro-inflammatory neutrophil cytokines in vitro; however, when cells were stimulated
+with combinations of ligands to TLR2 (Toll-like receptor 2) and TLR7 (Toll-like
+receptor 7), the production of cytokines was observed at SCFA concentrations of 0.02
+to 2 mM.<sup><xref rid="bibr41-2058738420958949" ref-type="bibr">41</xref></sup></p><p>In the other hand, we used DPI an inhibitor of NADPH oxidase complex, to demonstrate
+that the released DNA upon acetic acid 100 μM stimulation is due to NET formation
+and not any other type of cell death, we observed a decrease of 2.2 times in NET
+formation, showing that SCFA need ROS for the release of NET.</p><p>It would be interesting to determine what combinations of different types of
+endotoxins, antioxidants, and pro-inflammatory cytokines could be developed to
+regulate or prime SCFA-induced NET formation. To fully understand this system, it
+will also be important to study the roles of other actors, such as the calcium
+chelator, BAPTA, a known inhibitor of NETs; <italic toggle="yes">Pertussis</italic> toxin, which
+inhibits the phosphorylation of the protein Gα/q11; and Cmp1, the FFAR2 agonist.</p><p>Our results showed that peripheral blood concentrations of acetic acid could induce
+the formation of NET in vitro. We suggest that our in vitro experiments do not
+directly translate to what happens in vivo, for if physiological levels of acetic
+acid induce NET formation even at fasting blood concentrations, this would present a
+problem at a systemic level with significant inflammatory immune consequences. Thus,
+we suspect that a more complicated interplay of additional mechanisms that
+constantly regulate the release of NET must exist. In this regard, inhibitory
+components of NET have recently been found in the serum. Some of these are currently
+the subject of new patent proposals, such as the neonatal NET inhibiting factor
+(nNIF) and related peptides (NRP), which are present in umbilical cord blood, the
+placenta, and the plasma of healthy adults.<sup><xref rid="bibr42-2058738420958949" ref-type="bibr">42</xref></sup> We also consider that other serum components, such as albumin, cytokines or
+antioxidants, could play an important role in moderating the neutrophil response. It
+has been suggested that antioxidants in human serum control, at least in part, NET formation.<sup><xref rid="bibr43-2058738420958949" ref-type="bibr">43</xref></sup> On the other hand, cytokines, such as IL-1<italic toggle="yes">β</italic>, IL-8 and
+TNF-<italic toggle="yes">α</italic>, have been shown to stimulate NET formation.<sup><xref rid="bibr28-2058738420958949" ref-type="bibr">28</xref>,<xref rid="bibr44-2058738420958949" ref-type="bibr">44</xref></sup> The interplay
+of these various molecules together with SCFA has yet to be demonstrated, and will
+be one of the goals of our future investigations.</p><p>Ohbuchi in 2018 showed that acetic acid alone does not induce NET formation in vitro;
+in fact, acetic acid was capable of moderately inhibiting the formation of NET
+induced by phorbol 12-myristate 13-acetate (PMA).<sup><xref rid="bibr45-2058738420958949" ref-type="bibr">45</xref></sup> It appears that this study finding contradicts with our results; however,
+they used 5% inactivated autologous serum for the incubation of neutrophil and RPMI
+as the culture medium. In our study, RPMI spontaneously produced NETs (data not
+shown), as reported by Kamoshida, 2017.<sup><xref rid="bibr46-2058738420958949" ref-type="bibr">46</xref></sup> The 0.9% physiological saline solution at pH 7.35 showed a null effect on NET
+formation and did not affect cell viability; moreover, the response to LPS and
+ionomycin in our controls was adequate. We used physiological saline solution
+without serum to investigate the interaction between the SCFA and its receptor
+without interference from other components in the solution.</p></sec><sec sec-type="conclusions" id="section16-2058738420958949"><title>Conclusion</title><p>In this study, we demonstrate for the first time that SCFAs induce the formation of
+NET when neutrophils are exposed to the intestinal physiological concentrations of
+these acids. Additionally, acetic acid induced NET even at baseline blood
+concentration. In future studies we propose to conduct experiments aimed at finding
+components, microenvironmental conditions, and mechanisms that may prevent the
+formation of NET in response to endogenous stimuli.</p></sec></body><back><ack><p>We thank our colleagues who provided insightful inputs to achieve better results in
+this research: Karina Elizabeth Avila Arrezola, Karla Patricia Magaña López, and
+specially Jesse Haramati and Juan Manuel Agráz Cibrian for his comments that
+significantly improved our writing.</p></ack><fn-group><fn fn-type="COI-statement"><p><bold>Declaration of conflicting interests:</bold> The author(s) declared no potential conflicts of interest with respect to the
+research, authorship, and/or publication of this article.</p></fn><fn fn-type="other"><p><bold>Ethical approval:</bold> The protocol was submitted for evaluation and approval by the Research and
+Research Ethics Committee of the University Center for Health Sciences, and was
+approved under the opinion number CI-03319.</p></fn><fn fn-type="financial-disclosure"><p><bold>Funding:</bold> The author(s) disclosed receipt of the following financial support for the
+research, authorship, and/or publication of this article: This work was
+supported by the Universidad de Guadalajara PROINPEP (249518).</p></fn><fn fn-type="other"><p><bold>Informed consent:</bold> Written informed consent was obtained from all participants prior to sample
+collection, in accordance with the ethical guidelines of the 2013 Helsinki
+Declaration.</p></fn><fn fn-type="other"><p><bold>ORCID iD:</bold> Vidal Delgado-Rizo <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="10.1177_2058738420958949-img1.jpg"/>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://orcid.org/0000-0002-2150-6890">https://orcid.org/0000-0002-2150-6890</ext-link></p></fn></fn-group><ref-list><title>References</title><ref id="bibr1-2058738420958949"><label>1</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>den Besten</surname><given-names>G</given-names></name><name name-style="western"><surname>van Eunen</surname><given-names>K</given-names></name><name name-style="western"><surname>Groen</surname><given-names>AK</given-names></name></person-group>, <etal>et al</etal>
+<article-title>The role of short-chain
+fatty acids in the interplay between diet, gut microbiota, and host energy
+metabolism</article-title>. <source>Journal of Lipid Research</source>
+<year>2013</year>; <volume>54</volume>:
+<fpage>2325</fpage>–<lpage>2340</lpage>.<pub-id pub-id-type="pmid">23821742</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1194/jlr.R036012</pub-id><pub-id pub-id-type="pmcid">PMC3735932</pub-id></mixed-citation></ref><ref id="bibr2-2058738420958949"><label>2</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Macfarlane</surname><given-names>GT</given-names></name><name name-style="western"><surname>Macfarlane</surname><given-names>S.</given-names></name></person-group>
+<article-title>Bacteria, colonic fermentation, and gastrointestinal
+health</article-title>. <source>Journal of AOAC International</source>
+<year>2012</year>; <volume>95</volume>:
+<fpage>50</fpage>–<lpage>60</lpage>.<pub-id pub-id-type="pmid">22468341</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.5740/jaoacint.sge_macfarlane</pub-id></mixed-citation></ref><ref id="bibr3-2058738420958949"><label>3</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Rahim</surname><given-names>MBHA</given-names></name><name name-style="western"><surname>Chilloux</surname><given-names>J</given-names></name><name name-style="western"><surname>Martinez-Gili</surname><given-names>L</given-names></name></person-group>, <etal>et al</etal>
+<article-title>Diet-induced metabolic
+changes of the human gut microbiome: Importance of short-chain fatty acids,
+methylamines and indoles</article-title>. <source>Acta
+Diabetologica</source>
+<year>2019</year>; <volume>56</volume>:
+<fpage>493</fpage>–<lpage>500</lpage>.<pub-id pub-id-type="pmid">30903435</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00592-019-01312-x</pub-id><pub-id pub-id-type="pmcid">PMC6451719</pub-id></mixed-citation></ref><ref id="bibr4-2058738420958949"><label>4</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Fredstrom</surname><given-names>SB</given-names></name><name name-style="western"><surname>Lampe</surname><given-names>JW</given-names></name><name name-style="western"><surname>Jung</surname><given-names>HJG</given-names></name></person-group>, <etal>et al</etal>
+<article-title>Apparent fiber digestibility
+and fecal short-chain fatty acid concentrations with ingestion of two types
+of dietary fiber</article-title>. <source>Journal of Parenteral and Enteral
+Nutrition</source>
+<year>1994</year>; <volume>18</volume>:
+<fpage>14</fpage>–<lpage>19</lpage>.<pub-id pub-id-type="pmid">8164297</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/014860719401800114</pub-id></mixed-citation></ref><ref id="bibr5-2058738420958949"><label>5</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Ratajczak</surname><given-names>W</given-names></name><name name-style="western"><surname>Rył</surname><given-names>A</given-names></name><name name-style="western"><surname>Mizerski</surname><given-names>A</given-names></name></person-group>, <etal>et al</etal>
+<article-title>Immunomodulatory potential
+of gut microbiome-derived short-chain fatty acids (SCFAs)</article-title>.
+<source>Acta Biochimica Polonica</source>
+<year>2019</year>; <volume>66</volume>:
+<fpage>1</fpage>–<lpage>12</lpage>.<pub-id pub-id-type="pmid">30831575</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.18388/abp.2018_2648</pub-id></mixed-citation></ref><ref id="bibr6-2058738420958949"><label>6</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Nauseef</surname><given-names>WM</given-names></name><name name-style="western"><surname>Borregaard</surname><given-names>N.</given-names></name></person-group>
+<article-title>Neutrophils at work</article-title>. <source>Nature
+Immunology</source>
+<year>2014</year>; <volume>15</volume>:
+<fpage>602</fpage>–<lpage>611</lpage>.<pub-id pub-id-type="pmid">24940954</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/ni.2921</pub-id></mixed-citation></ref><ref id="bibr7-2058738420958949"><label>7</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Le Poul</surname><given-names>E</given-names></name><name name-style="western"><surname>Loison</surname><given-names>C</given-names></name><name name-style="western"><surname>Struyf</surname><given-names>S</given-names></name></person-group>, <etal>et al</etal>
+<article-title>Functional characterization
+of human receptors for short chain fatty acids and their role in
+polymorphonuclear cell activation</article-title>. <source>Journal of
+Biological Chemistry</source>
+<year>2003</year>; <volume>278</volume>:
+<fpage>25481</fpage>–<lpage>25489</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1074/jbc.M301403200</pub-id><pub-id pub-id-type="pmid">12711604</pub-id></mixed-citation></ref><ref id="bibr8-2058738420958949"><label>8</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Nilsson</surname><given-names>NE</given-names></name><name name-style="western"><surname>Kotarsky</surname><given-names>K</given-names></name><name name-style="western"><surname>Owman</surname><given-names>C</given-names></name></person-group>, <etal>et al</etal>
+<article-title>Identification of a free
+fatty acid receptor, FFA2R, expressed on leukocytes and activated by
+short-chain fatty acids</article-title>. <source>Biochemical and Biophysical
+Research Communications</source>
+<year>2003</year>; <volume>303</volume>:
+<fpage>1047</fpage>–<lpage>1052</lpage>.<pub-id pub-id-type="pmid">12684041</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0006-291x(03)00488-1</pub-id></mixed-citation></ref><ref id="bibr9-2058738420958949"><label>9</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Maslowski</surname><given-names>KM</given-names></name><name name-style="western"><surname>Vieira</surname><given-names>AT</given-names></name><name name-style="western"><surname>Ng</surname><given-names>A</given-names></name></person-group>, <etal>et al</etal>
+<article-title>Regulation of inflammatory
+responses by gut microbiota and chemoattractant receptor
+GPR43</article-title>. <source>Nature</source>
+<year>2009</year>; <volume>461</volume>:
+<fpage>1282</fpage>–<lpage>1286</lpage>.<pub-id pub-id-type="pmid">19865172</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nature08530</pub-id><pub-id pub-id-type="pmcid">PMC3256734</pub-id></mixed-citation></ref><ref id="bibr10-2058738420958949"><label>10</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Vinolo</surname><given-names>MA</given-names></name><name name-style="western"><surname>Rodrigues</surname><given-names>HG</given-names></name><name name-style="western"><surname>Hatanaka</surname><given-names>E</given-names></name></person-group>, <etal>et al</etal>
+<article-title>Short-chain fatty acids
+stimulate the migration of neutrophils to inflammatory
+sites</article-title>. <source>Clinical Science</source>
+<year>2009</year>; <volume>117</volume>:
+<fpage>331</fpage>–<lpage>338</lpage>.<pub-id pub-id-type="pmid">19335337</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1042/CS20080642</pub-id></mixed-citation></ref><ref id="bibr11-2058738420958949"><label>11</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Licciardi</surname><given-names>PV</given-names></name><name name-style="western"><surname>Ververis</surname><given-names>K</given-names></name><name name-style="western"><surname>Karagiannis</surname><given-names>TC.</given-names></name></person-group>
+<article-title>Histone deacetylase inhibition and dietary short-chain fatty
+acids</article-title>. <source>ISRN Allergy</source>
+<year>2011</year>; <volume>2011</volume>: 869647.<pub-id pub-id-type="doi" assigning-authority="pmc">10.5402/2011/869647</pub-id><pub-id pub-id-type="pmcid">PMC3658706</pub-id><pub-id pub-id-type="pmid">23724235</pub-id></mixed-citation></ref><ref id="bibr12-2058738420958949"><label>12</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Lupton</surname><given-names>JR</given-names></name><name name-style="western"><surname>Kurtz</surname><given-names>PP.</given-names></name></person-group>
+<article-title>Relationship of colonic luminal short-chain fatty acids and pH to
+in vivo cell proliferation in rats</article-title>. <source>Journal of
+Nutrition</source>
+<year>1993</year>; <volume>123</volume>:
+<fpage>1522</fpage>–<lpage>1530</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/jn/123.9.1522</pub-id><pub-id pub-id-type="pmid">8395594</pub-id></mixed-citation></ref><ref id="bibr13-2058738420958949"><label>13</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Brinkmann</surname><given-names>V</given-names></name><name name-style="western"><surname>Reichard</surname><given-names>U</given-names></name><name name-style="western"><surname>Goosmann</surname><given-names>C</given-names></name></person-group>, <etal>et al</etal>
+<article-title>Neutrophil extracellular
+traps kill bacteria</article-title>. <source>Science</source>
+<year>2004</year>; <volume>303</volume>:
+<fpage>1532</fpage>–<lpage>1535</lpage>.<pub-id pub-id-type="pmid">15001782</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/science.1092385</pub-id></mixed-citation></ref><ref id="bibr14-2058738420958949"><label>14</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Hakkim</surname><given-names>A</given-names></name><name name-style="western"><surname>Fuchs</surname><given-names>TA</given-names></name><name name-style="western"><surname>Martinez</surname><given-names>NE</given-names></name></person-group>, <etal>et al</etal>
+<article-title>Activation of the
+Raf-MEK-ERK pathway is required for neutrophil extracellular trap
+formation</article-title>. <source>Nature Chemical Biology</source>
+<year>2011</year>; <volume>7</volume>:
+<fpage>75</fpage>–<lpage>77</lpage>.<pub-id pub-id-type="pmid">21170021</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nchembio.496</pub-id></mixed-citation></ref><ref id="bibr15-2058738420958949"><label>15</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Papayannopoulos</surname><given-names>V</given-names></name><name name-style="western"><surname>Metzler</surname><given-names>KD</given-names></name><name name-style="western"><surname>Hakkim</surname><given-names>A</given-names></name></person-group>, <etal>et al</etal>
+<article-title>Neutrophil elastase and
+myeloperoxidase regulate the formation of neutrophil extracellular
+traps</article-title>. <source>Journal of Biological Chemistry</source>
+<year>2010</year>; <volume>191</volume>:
+<fpage>677</fpage>–<lpage>691</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1083/jcb.201006052</pub-id><pub-id pub-id-type="pmcid">PMC3003309</pub-id><pub-id pub-id-type="pmid">20974816</pub-id></mixed-citation></ref><ref id="bibr16-2058738420958949"><label>16</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Brinkmann</surname><given-names>V</given-names></name><name name-style="western"><surname>Zychlinsky</surname><given-names>A.</given-names></name></person-group>
+<article-title>Beneficial suicide: Why neutrophils die to make
+NETs</article-title>. <source>Nature Reviews Microbiology</source>
+<year>2007</year>; <volume>5</volume>:
+<fpage>577</fpage>–<lpage>582</lpage>.<pub-id pub-id-type="pmid">17632569</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nrmicro1710</pub-id></mixed-citation></ref><ref id="bibr17-2058738420958949"><label>17</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Neeli</surname><given-names>I</given-names></name><name name-style="western"><surname>Dwivedi</surname><given-names>N</given-names></name><name name-style="western"><surname>Khan</surname><given-names>S</given-names></name></person-group>, <etal>et al</etal>
+<article-title>Regulation of extracellular
+chromatin release from neutrophils</article-title>. <source>Journal of
+Innate Immunity</source>
+<year>2009</year>; <volume>1</volume>:
+<fpage>194</fpage>–<lpage>201</lpage>.<pub-id pub-id-type="pmid">20375577</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1159/000206974</pub-id><pub-id pub-id-type="pmcid">PMC6951038</pub-id></mixed-citation></ref><ref id="bibr18-2058738420958949"><label>18</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Lewis</surname><given-names>HD</given-names></name><name name-style="western"><surname>Liddle</surname><given-names>J</given-names></name><name name-style="western"><surname>Coote</surname><given-names>JE</given-names></name></person-group>, <etal>et al</etal>
+<article-title>Inhibition of PAD4 activity
+is sufficient to disrupt mouse and human NET formation</article-title>.
+<source>Nature Chemical Biology</source>
+<year>2015</year>; <volume>11</volume>:
+<fpage>189</fpage>–<lpage>191</lpage>.<pub-id pub-id-type="pmid">25622091</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nchembio.1735</pub-id><pub-id pub-id-type="pmcid">PMC4397581</pub-id></mixed-citation></ref><ref id="bibr19-2058738420958949"><label>19</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Li</surname><given-names>P</given-names></name><name name-style="western"><surname>Li</surname><given-names>M</given-names></name><name name-style="western"><surname>Lindberg</surname><given-names>MR</given-names></name></person-group>, <etal>et al</etal>
+<article-title>PAD4 is essential for
+antibacterial innate immunity mediated by neutrophil extracellular
+traps</article-title>. <source>Journal of Experimental Medicine</source>
+<year>2010</year>; <volume>207</volume>:
+<fpage>1853</fpage>–<lpage>1862</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1084/jem.20100239</pub-id><pub-id pub-id-type="pmcid">PMC2931169</pub-id><pub-id pub-id-type="pmid">20733033</pub-id></mixed-citation></ref><ref id="bibr20-2058738420958949"><label>20</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Delgado-Rizo</surname><given-names>V</given-names></name><name name-style="western"><surname>Martínez-Guzmán</surname><given-names>MA</given-names></name><name name-style="western"><surname>Iñiguez-Gutierrez</surname><given-names>L</given-names></name></person-group>, <etal>et al</etal>
+<article-title>Neutrophil extracellular
+traps and its implications in inflammation: An overview</article-title>.
+<source>Frontiers in Immunology</source>
+<year>2017</year>; <volume>8</volume>: <fpage>81</fpage>.<pub-id pub-id-type="pmid">28220120</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fimmu.2017.00081</pub-id><pub-id pub-id-type="pmcid">PMC5292617</pub-id></mixed-citation></ref><ref id="bibr21-2058738420958949"><label>21</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Yu</surname><given-names>Y</given-names></name><name name-style="western"><surname>Su</surname><given-names>K.</given-names></name></person-group>
+<article-title>Neutrophil extracellular traps and systemic lupus
+erythematosus</article-title>. <source>Journal of Clinical &amp; Cellular
+Immunology</source>
+<year>2013</year>; <fpage>4</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.4172/2155-9899.1000139</pub-id><pub-id pub-id-type="pmcid">PMC3826916</pub-id><pub-id pub-id-type="pmid">24244889</pub-id></mixed-citation></ref><ref id="bibr22-2058738420958949"><label>22</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Bianchi</surname><given-names>M</given-names></name><name name-style="western"><surname>Hakkim</surname><given-names>A</given-names></name><name name-style="western"><surname>Brinkmann</surname><given-names>V</given-names></name></person-group>, <etal>et al</etal>
+<article-title>Restoration of NET formation
+by gene therapy in CGD controls aspergillosis</article-title>.
+<source>Blood</source>
+<year>2009</year>; <volume>114</volume>:
+<fpage>2619</fpage>–<lpage>2622</lpage>.<pub-id pub-id-type="pmid">19541821</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1182/blood-2009-05-221606</pub-id><pub-id pub-id-type="pmcid">PMC2756123</pub-id></mixed-citation></ref><ref id="bibr23-2058738420958949"><label>23</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Wong</surname><given-names>SL</given-names></name><name name-style="western"><surname>Demers</surname><given-names>M</given-names></name><name name-style="western"><surname>Martinod</surname><given-names>K</given-names></name></person-group>, <etal>et al</etal>
+<article-title>Diabetes primes neutrophils
+to undergo NETosis, which impairs wound healing</article-title>.
+<source>Nature Medicine</source>
+<year>2015</year>; <volume>21</volume>:
+<fpage>815</fpage>–<lpage>819</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nm.3887</pub-id><pub-id pub-id-type="pmcid">PMC4631120</pub-id><pub-id pub-id-type="pmid">26076037</pub-id></mixed-citation></ref><ref id="bibr24-2058738420958949"><label>24</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Cummings</surname><given-names>J</given-names></name><name name-style="western"><surname>Pomare</surname><given-names>E</given-names></name><name name-style="western"><surname>Branch</surname><given-names>W</given-names></name></person-group>, <etal>et al</etal>
+<article-title>Short chain fatty acids in
+human large intestine, portal, hepatic and venous blood</article-title>.
+<source>Gut</source>
+<year>1987</year>; <volume>28</volume>:
+<fpage>1221</fpage>–<lpage>1227</lpage>.<pub-id pub-id-type="pmid">3678950</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/gut.28.10.1221</pub-id><pub-id pub-id-type="pmcid">PMC1433442</pub-id></mixed-citation></ref><ref id="bibr25-2058738420958949"><label>25</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Tarini</surname><given-names>J</given-names></name><name name-style="western"><surname>Wolever</surname><given-names>TM.</given-names></name></person-group>
+<article-title>The fermentable fibre inulin increases postprandial serum
+short-chain fatty acids and reduces free-fatty acids and ghrelin in healthy
+subjects</article-title>. <source>Applied Physiology, Nutrition, and
+Metabolism</source>
+<year>2010</year>; <volume>35</volume>:
+<fpage>9</fpage>–<lpage>16</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1139/H09-119</pub-id><pub-id pub-id-type="pmid">20130660</pub-id></mixed-citation></ref><ref id="bibr26-2058738420958949"><label>26</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Bray</surname><given-names>GA</given-names></name><name name-style="western"><surname>Nielsen</surname><given-names>SJ</given-names></name><name name-style="western"><surname>Popkin</surname><given-names>BM.</given-names></name></person-group>
+<article-title>Consumption of high-fructose corn syrup in beverages may play a
+role in the epidemic of obesity</article-title>. <source>The American
+Journal of Clinical Nutrition</source>
+<year>2004</year>; <volume>79</volume>:
+<fpage>537</fpage>–<lpage>543</lpage>.<pub-id pub-id-type="pmid">15051594</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/ajcn/79.4.537</pub-id></mixed-citation></ref><ref id="bibr27-2058738420958949"><label>27</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Bolognini</surname><given-names>D</given-names></name><name name-style="western"><surname>Tobin</surname><given-names>AB</given-names></name><name name-style="western"><surname>Milligan</surname><given-names>G</given-names></name></person-group>, <etal>et al</etal>
+<article-title>The pharmacology and
+function of receptors for short-chain fatty acids</article-title>.
+<source>Molecular Pharmacology</source>
+<year>2016</year>; <volume>89</volume>:
+<fpage>388</fpage>–<lpage>398</lpage>.<pub-id pub-id-type="pmid">26719580</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1124/mol.115.102301</pub-id></mixed-citation></ref><ref id="bibr28-2058738420958949"><label>28</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Björkman</surname><given-names>L</given-names></name><name name-style="western"><surname>Mårtensson</surname><given-names>J</given-names></name><name name-style="western"><surname>Winther</surname><given-names>M</given-names></name></person-group>, <etal>et al</etal>
+<article-title>The neutrophil response
+induced by an agonist for free fatty acid receptor 2 (GPR43) Is primed by
+tumor necrosis factor alpha and by receptor uncoupling from the cytoskeleton
+but attenuated by tissue recruitment</article-title>. <source>Molecular and
+Cellular Biology</source>
+<year>2016</year>; <volume>36</volume>:
+<fpage>2583</fpage>–<lpage>2595</lpage>.<pub-id pub-id-type="pmid">27503855</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1128/MCB.00161-16</pub-id><pub-id pub-id-type="pmcid">PMC5038146</pub-id></mixed-citation></ref><ref id="bibr29-2058738420958949"><label>29</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Reis</surname><given-names>J</given-names></name><name name-style="western"><surname>Massari</surname><given-names>M</given-names></name><name name-style="western"><surname>Marchese</surname><given-names>S</given-names></name></person-group>, <etal>et al</etal>
+<article-title>A closer look into NADPH
+oxidase inhibitors: Validation and insight into their mechanism of
+action</article-title>. <source>Redox Biology</source>
+<year>2020</year>; <volume>32</volume>: 101466.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.redox.2020.101466</pub-id><pub-id pub-id-type="pmcid">PMC7042484</pub-id><pub-id pub-id-type="pmid">32105983</pub-id></mixed-citation></ref><ref id="bibr30-2058738420958949"><label>30</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Agraz-Cibrian</surname><given-names>JM</given-names></name><name name-style="western"><surname>Segura-Ortega</surname><given-names>JE</given-names></name><name name-style="western"><surname>Delgado-Rizo</surname><given-names>V</given-names></name></person-group>, <etal>et al</etal>
+<article-title>Alterations in neutrophil
+extracellular traps is associated with the degree of decompensation of liver
+cirrhosis</article-title>. <source>The Journal of Infection in Developing
+Countries</source>
+<year>2016</year>; <volume>10</volume>:
+<fpage>512</fpage>–<lpage>517</lpage>.<pub-id pub-id-type="pmid">27249527</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3855/jidc.7165</pub-id></mixed-citation></ref><ref id="bibr31-2058738420958949"><label>31</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Bukina</surname><given-names>YV</given-names></name><name name-style="western"><surname>Varynskyi</surname><given-names>B</given-names></name><name name-style="western"><surname>Voitovich</surname><given-names>A</given-names></name></person-group>, <etal>et al</etal>
+<article-title>The definition of neutrophil
+extracellular traps and the concentration of short-chain fatty acids in
+salmonella-induced inflammation of the intestine against the background of
+vancomycin and Bacteroides fragilis</article-title>.
+<source>Pathologia</source>
+<year>2018</year>; <volume>15</volume>:
+<fpage>10</fpage>–<lpage>17</lpage>.</mixed-citation></ref><ref id="bibr32-2058738420958949"><label>32</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Khan</surname><given-names>MA</given-names></name><name name-style="western"><surname>Philip</surname><given-names>LM</given-names></name><name name-style="western"><surname>Cheung</surname><given-names>G</given-names></name></person-group>, <etal>et al</etal>
+<article-title>Regulating NETosis:
+Increasing pH promotes NADPH oxidase-dependent NETosis</article-title>.
+<source>Frontiers in Medicine</source>
+<year>2018</year>; <volume>5</volume>: <fpage>19</fpage>.<pub-id pub-id-type="pmid">29487850</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fmed.2018.00019</pub-id><pub-id pub-id-type="pmcid">PMC5816902</pub-id></mixed-citation></ref><ref id="bibr33-2058738420958949"><label>33</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Behnen</surname><given-names>M</given-names></name><name name-style="western"><surname>Möller</surname><given-names>S</given-names></name><name name-style="western"><surname>Brozek</surname><given-names>A</given-names></name></person-group>, <etal>et al</etal>
+<article-title>Extracellular acidification
+inhibits the ROS-dependent formation of neutrophil extracellular
+traps</article-title>. <source>Frontiers in Immunology</source>
+<year>2017</year>; <volume>8</volume>: <fpage>184</fpage>.<pub-id pub-id-type="pmid">28293240</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fimmu.2017.00184</pub-id><pub-id pub-id-type="pmcid">PMC5329032</pub-id></mixed-citation></ref><ref id="bibr34-2058738420958949"><label>34</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Fernandes</surname><given-names>J</given-names></name><name name-style="western"><surname>Su</surname><given-names>W</given-names></name><name name-style="western"><surname>Rahat-Rozenbloom</surname><given-names>S</given-names></name></person-group>, <etal>et al</etal>
+<article-title>Adiposity, gut microbiota
+and faecal short chain fatty acids are linked in adult
+humans</article-title>. <source>Nutrition &amp; Diabetes</source>
+<year>2014</year>; <volume>4</volume>: e121–e121.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nutd.2014.23</pub-id><pub-id pub-id-type="pmcid">PMC4079931</pub-id><pub-id pub-id-type="pmid">24979150</pub-id></mixed-citation></ref><ref id="bibr35-2058738420958949"><label>35</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Nishitsuji</surname><given-names>K</given-names></name><name name-style="western"><surname>Xiao</surname><given-names>J</given-names></name><name name-style="western"><surname>Nagatomo</surname><given-names>R</given-names></name></person-group>, <etal>et al</etal>
+<article-title>Analysis of the gut
+microbiome and plasma short-chain fatty acid profiles in a spontaneous mouse
+model of metabolic syndrome</article-title>. <source>Scientific
+Reports</source>
+<year>2017</year>; <volume>7</volume>:
+<fpage>1</fpage>–<lpage>10</lpage>.<pub-id pub-id-type="pmid">29158587</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41598-017-16189-5</pub-id><pub-id pub-id-type="pmcid">PMC5696507</pub-id></mixed-citation></ref><ref id="bibr36-2058738420958949"><label>36</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Rodríguez-Carrio</surname><given-names>J</given-names></name><name name-style="western"><surname>López</surname><given-names>P</given-names></name><name name-style="western"><surname>Sánchez</surname><given-names>B</given-names></name></person-group>, <etal>et al</etal>
+<article-title>Intestinal dysbiosis is
+associated with altered short-chain fatty acids and serum-free fatty acids
+in systemic lupus erythematosus</article-title>. <source>Frontiers in
+Immunology</source>
+<year>2017</year>; <volume>8</volume>: <fpage>23</fpage>.<pub-id pub-id-type="pmid">28167944</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fimmu.2017.00023</pub-id><pub-id pub-id-type="pmcid">PMC5253653</pub-id></mixed-citation></ref><ref id="bibr37-2058738420958949"><label>37</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Ktsoyan</surname><given-names>ZA</given-names></name><name name-style="western"><surname>Mkrtchyan</surname><given-names>MS</given-names></name><name name-style="western"><surname>Zakharyan</surname><given-names>MK</given-names></name></person-group>, <etal>et al</etal>
+<article-title>Systemic concentrations of
+short chain fatty acids are elevated in salmonellosis and exacerbation of
+familial mediterranean fever</article-title>. <source>Frontiers in
+Microbiology</source>
+<year>2016</year>; <volume>7</volume>: <fpage>776</fpage>.<pub-id pub-id-type="pmid">27252692</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fmicb.2016.00776</pub-id><pub-id pub-id-type="pmcid">PMC4877380</pub-id></mixed-citation></ref><ref id="bibr38-2058738420958949"><label>38</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Carretta</surname><given-names>M</given-names></name><name name-style="western"><surname>Hidalgo</surname><given-names>A</given-names></name><name name-style="western"><surname>Burgos</surname><given-names>J</given-names></name></person-group>, <etal>et al</etal>
+<article-title>Butyric acid stimulates
+bovine neutrophil functions and potentiates the effect of platelet
+activating factor</article-title>. <source>Veterinary Immunology and
+Immunopathology</source>
+<year>2016</year>; <volume>176</volume>:
+<fpage>18</fpage>–<lpage>27</lpage>.<pub-id pub-id-type="pmid">27288853</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.vetimm.2016.05.002</pub-id></mixed-citation></ref><ref id="bibr39-2058738420958949"><label>39</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Mills</surname><given-names>SW</given-names></name><name name-style="western"><surname>Montgomery</surname><given-names>SH</given-names></name><name name-style="western"><surname>Morck</surname><given-names>DW.</given-names></name></person-group>
+<article-title>Evaluation of the effects of short-chain fatty acids and
+extracellular pH on bovine neutrophil function in vitro</article-title>.
+<source>American Journal of Veterinary Research</source>
+<year>2006</year>; <volume>67</volume>:
+<fpage>1901</fpage>–<lpage>1907</lpage>.<pub-id pub-id-type="pmid">17078753</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.2460/ajvr.67.11.1901</pub-id></mixed-citation></ref><ref id="bibr40-2058738420958949"><label>40</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Maueröder</surname><given-names>C</given-names></name><name name-style="western"><surname>Mahajan</surname><given-names>A</given-names></name><name name-style="western"><surname>Paulus</surname><given-names>S</given-names></name></person-group>, <etal>et al</etal>
+<article-title>Menage-a-trois: The ratio of
+bicarbonate to CO2 and the pH regulate the capacity of neutrophils to form
+NETs</article-title>. <source>Frontiers in Immunology</source>
+<year>2016</year>; <volume>7</volume>: <fpage>583</fpage>.<pub-id pub-id-type="pmid">28018350</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fimmu.2016.00583</pub-id><pub-id pub-id-type="pmcid">PMC5145884</pub-id></mixed-citation></ref><ref id="bibr41-2058738420958949"><label>41</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Mirmonsef</surname><given-names>P</given-names></name><name name-style="western"><surname>Zariffard</surname><given-names>MR</given-names></name><name name-style="western"><surname>Gilbert</surname><given-names>D</given-names></name></person-group>, <etal>et al</etal>
+<article-title>Short-chain fatty acids
+induce pro-inflammatory cytokine production alone and in combination with
+toll-like receptor ligands</article-title>. <source>American Journal of
+Reproductive Immunology</source>
+<year>2012</year>; <volume>67</volume>:
+<fpage>391</fpage>–<lpage>400</lpage>.<pub-id pub-id-type="pmid">22059850</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1600-0897.2011.01089.x</pub-id><pub-id pub-id-type="pmcid">PMC3288536</pub-id></mixed-citation></ref><ref id="bibr42-2058738420958949"><label>42</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Yost</surname><given-names>CC</given-names></name><name name-style="western"><surname>Schwertz</surname><given-names>H</given-names></name><name name-style="western"><surname>Cody</surname><given-names>MJ</given-names></name></person-group>, <etal>et al</etal>
+<article-title>Neonatal NET-inhibitory
+factor and related peptides inhibit neutrophil extracellular trap
+formation</article-title>. <source>Journal of Clinical
+Investigation</source>
+<year>2016</year>; <volume>126</volume>:
+<fpage>3783</fpage>–<lpage>3798</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1172/JCI83873</pub-id><pub-id pub-id-type="pmcid">PMC5096809</pub-id><pub-id pub-id-type="pmid">27599294</pub-id></mixed-citation></ref><ref id="bibr43-2058738420958949"><label>43</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Fuchs</surname><given-names>TA</given-names></name><name name-style="western"><surname>Abed</surname><given-names>U</given-names></name><name name-style="western"><surname>Goosmann</surname><given-names>C</given-names></name></person-group>, <etal>et al</etal>
+<article-title>Novel cell death program
+leads to neutrophil extracellular traps</article-title>.
+<source>International Journal of Cell Biology</source>
+<year>2007</year>; <volume>176</volume>:
+<fpage>231</fpage>–<lpage>241</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1083/jcb.200606027</pub-id><pub-id pub-id-type="pmcid">PMC2063942</pub-id><pub-id pub-id-type="pmid">17210947</pub-id></mixed-citation></ref><ref id="bibr44-2058738420958949"><label>44</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Keshari</surname><given-names>RS</given-names></name><name name-style="western"><surname>Jyoti</surname><given-names>A</given-names></name><name name-style="western"><surname>Dubey</surname><given-names>M</given-names></name></person-group>, <etal>et al</etal>
+<article-title>Cytokines induced neutrophil
+extracellular traps formation: Implication for the inflammatory disease
+condition</article-title>. <source>PLoS One</source>
+<year>2012</year>; <volume>7</volume>: e48111.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0048111</pub-id><pub-id pub-id-type="pmcid">PMC3482178</pub-id><pub-id pub-id-type="pmid">23110185</pub-id></mixed-citation></ref><ref id="bibr45-2058738420958949"><label>45</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Ohbuchi</surname><given-names>A</given-names></name><name name-style="western"><surname>Kono</surname><given-names>M</given-names></name><name name-style="western"><surname>Takenokuchi</surname><given-names>M</given-names></name></person-group>, <etal>et al</etal>
+<article-title>Acetate moderately
+attenuates the generation of neutrophil extracellular traps</article-title>.
+<source>Blood Research</source>
+<year>2018</year>; <volume>53</volume>:
+<fpage>177</fpage>–<lpage>180</lpage>.<pub-id pub-id-type="pmid">29963530</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.5045/br.2018.53.2.177</pub-id><pub-id pub-id-type="pmcid">PMC6021571</pub-id></mixed-citation></ref><ref id="bibr46-2058738420958949"><label>46</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Kamoshida</surname><given-names>G</given-names></name><name name-style="western"><surname>Kikuchi-Ueda</surname><given-names>T</given-names></name><name name-style="western"><surname>Nishida</surname><given-names>S</given-names></name></person-group>, <etal>et al</etal>
+<article-title>Spontaneous formation of
+neutrophil extracellular traps in serum-free culture
+conditions</article-title>. <source>FEBS Open Bio</source>
+<year>2017</year>; <volume>7</volume>:
+<fpage>877</fpage>–<lpage>886</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/2211-5463.12222</pub-id><pub-id pub-id-type="pmcid">PMC5458474</pub-id><pub-id pub-id-type="pmid">28593142</pub-id></mixed-citation></ref></ref-list></back></article>

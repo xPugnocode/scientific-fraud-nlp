@@ -1,0 +1,561 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article id="cns13788" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">CNS Neurosci Ther</journal-id><journal-id journal-id-type="iso-abbrev">CNS Neurosci Ther</journal-id><journal-id journal-id-type="pmc-domain-id">3640</journal-id><journal-id journal-id-type="pmc-domain">cnsneurosci</journal-id><journal-id journal-id-type="nlm-id">101473265</journal-id><journal-id journal-id-type="publisher-id">CNS</journal-id><journal-title-group><journal-title>CNS Neuroscience &amp; Therapeutics</journal-title></journal-title-group><issn pub-type="ppub">1755-5930</issn><issn pub-type="epub">1755-5949</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC8841308</article-id><article-id pub-id-type="pmcid-ver">PMC8841308.1</article-id><article-id pub-id-type="pmcaid">8841308</article-id><article-id pub-id-type="pmcaiid">8841308</article-id><article-id pub-id-type="pmid">34967104</article-id><article-id pub-id-type="doi">10.1111/cns.13788</article-id><article-id pub-id-type="publisher-id">CNS13788</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Articles</subject></subj-group></article-categories><title-group><article-title>Effect of axitinib regulating the pathological blood–brain barrier functional recovery for glioblastoma therapeutics</article-title><alt-title alt-title-type="left-running-head">ZHANG et al.</alt-title></title-group><contrib-group><contrib id="cns13788-cr-0001" contrib-type="author"><name name-style="western"><surname>Zhang</surname><given-names initials="F">Fengtian</given-names></name><xref rid="cns13788-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="cns13788-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="cns13788-cr-0002" contrib-type="author"><name name-style="western"><surname>Wen</surname><given-names initials="L">Lijuan</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-8070-0338</contrib-id><xref rid="cns13788-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="cns13788-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="cns13788-cr-0003" contrib-type="author"><name name-style="western"><surname>Wang</surname><given-names initials="K">Kai</given-names></name><xref rid="cns13788-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="cns13788-cr-0004" contrib-type="author"><name name-style="western"><surname>Huang</surname><given-names initials="Z">Zhihua</given-names></name><xref rid="cns13788-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="cns13788-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="cns13788-cr-0005" contrib-type="author"><name name-style="western"><surname>Jin</surname><given-names initials="X">Xiangyu</given-names></name><xref rid="cns13788-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="cns13788-cr-0006" contrib-type="author"><name name-style="western"><surname>Xiong</surname><given-names initials="R">Ruiwen</given-names></name><xref rid="cns13788-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="cns13788-cr-0007" contrib-type="author"><name name-style="western"><surname>He</surname><given-names initials="S">Shiying</given-names></name><xref rid="cns13788-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="cns13788-cr-0008" contrib-type="author" corresp="yes"><name name-style="western"><surname>Hu</surname><given-names initials="F">Fuqiang</given-names></name><xref rid="cns13788-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><address><email>hufq@zju.edu.cn</email></address></contrib></contrib-group><aff id="cns13788-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<institution>Medical College of Soochow University</institution>
+<named-content content-type="street">199 Renai Road, Suzhou Industrial Park</named-content>
+<city>Suzhou</city>
+<country country="CN">China</country>
+</aff><aff id="cns13788-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Orthopedics</named-content>
+<institution>First Affiliated Hospital of Gannan Medical University</institution>
+<city>Ganzhou</city>
+<country country="CN">China</country>
+</aff><aff id="cns13788-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">College of Pharmaceutical Sciences</named-content>
+<institution>Zhejiang University</institution>
+<city>Hangzhou</city>
+<country country="CN">China</country>
+</aff><aff id="cns13788-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">National Engineering Research Center for Modernization of Tranditional Chinese Medicine‐Hakka Medical Resources Branch</named-content>
+<named-content content-type="organisation-division">College of Pharmacy</named-content>
+<institution>Gannan Medical University</institution>
+<city>Ganzhou</city>
+<country country="CN">China</country>
+</aff><aff id="cns13788-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Department of Physiology</named-content>
+<named-content content-type="organisation-division">School of Basic Medical Sciences</named-content>
+<named-content content-type="organisation-division">Institute for Medical Sciences of Pain</named-content>
+<institution>Gannan Medical University</institution>
+<city>Ganzhou</city>
+<country country="CN">China</country>
+</aff><aff id="cns13788-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Key Laboratory of Prevention and Treatment of Cardiovascular and Cerebrovascular Diseases of Ministry of Education</named-content>
+<institution>Gannan Medical University</institution>
+<city>Ganzhou</city>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>
+Fuqiang Hu, College of Pharmaceutical Sciences, Zhejiang University, 866 Yuhangtang Road, Hangzhou 310058, China.<break/>
+Email: <email>hufq@zju.edu.cn</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>29</day><month>12</month><year>2021</year></pub-date><pub-date pub-type="collection"><month>3</month><year>2022</year></pub-date><volume>28</volume><issue seq="120">3</issue><issue-id pub-id-type="pmc-issue-id">400914</issue-id><issue-id pub-id-type="doi">10.1002/cns.v28.3</issue-id><fpage>411</fpage><lpage>421</lpage><history><date date-type="rev-recd"><day>11</day><month>11</month><year>2021</year></date><date date-type="received"><day>15</day><month>8</month><year>2021</year></date><date date-type="accepted"><day>01</day><month>12</month><year>2021</year></date></history><pub-history><event event-type="pmc-release"><date><day>29</day><month>12</month><year>2021</year></date></event><event event-type="pmc-live"><date><day>22</day><month>02</month><year>2022</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2022-02-23 00:16:45.620"><day>23</day><month>02</month><year>2022</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2021 The Authors. <italic toggle="yes">CNS Neuroscience &amp; Therapeutics</italic> Published by John Wiley &amp; Sons Ltd.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="CNS-28-411.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:CNS-28-411.pdf"/><abstract id="cns13788-abs-0001"><title>Abstract</title><sec id="cns13788-sec-0001"><title>Aims</title><p>Dysfunction of the blood–brain barrier (BBB) is a prominent pathological feature of glioblastoma (GBM). Vascular endothelial growth factor (VEGF) is confirmed to be abnormally elevated in the pathogenesis of GBM, causing BBB pathological disruption, which further allows the leakage of neurotoxic blood‐derived molecules into the central nervous system (CNS), interfering brain homeostasis and leading to poor patient outcome. Since BBB is an integral and pivotal part of the brain microenvironment, which strongly supports the occurrence and the pathological progression of GBM, here we have selected the VEGFR antagonist axitinib as a BBB functional regulator and hypothesized to regulate pathological BBB restoration for GBM effective treatment.</p></sec><sec id="cns13788-sec-0002"><title>Methods</title><p>The pathological BBB cell model was constructed to investigate the timeliness and dose effect of axitinib regulating pathological BBB restoration. In order to investigate the efficacy and safety of axitinib regulating pathological BBB restoration for anti‐GBM treatment, the orthotropic GBM‐bearing mice model was established for in vivo study, and bioluminescent imaging was used to real‐time and noninvasively monitor tumor growth response in vivo, and survival time was also recorded.</p></sec><sec id="cns13788-sec-0003"><title>Results</title><p>Axitinib under non‐cytotoxic dosage regulated pathological BBB restoration in a time‐dependent mode, and multiple intervention of axitinib could realize a visible restoration of pathological BBB in vitro. Moreover, axitinib treatment restored pathological BBB in orthotropic GBM‐bearing mice. We further confirmed that functional restoration of pathological BBB with axitinib had certain curative effect in prolonging median survival of orthotropic GBM‐bearing mice at non‐cytotoxic dosages in vivo.</p></sec><sec id="cns13788-sec-0004"><title>Conclusion</title><p>The mechanism of axitinib involved in BBB functional regulation in the treatment of GBM is first illuminated in this report; moreover, this is the first report first referring to regulating pathological BBB functional recovery for GBM effective therapeutics. Overall, the view of regulating pathological BBB functional recovery may offer a novel sight for other CNS diseases relating to BBB permeability effective therapeutics.</p></sec></abstract><abstract abstract-type="graphical" id="cns13788-abs-0002"><p>The occurrence of glioblastoma (GBM) induces blood brain barrier (BBB) pathological damage, and the restoration of pathological BBB induced by axitinib could produce considerable anti‐GBM effect.<boxed-text position="anchor" content-type="graphic" id="cns13788-blkfxd-0001" orientation="portrait"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="CNS-28-411-g003.jpg"/></boxed-text>
+</p></abstract><kwd-group><kwd id="cns13788-kwd-0001">blood–brain barrier</kwd><kwd id="cns13788-kwd-0002">glioblastoma</kwd><kwd id="cns13788-kwd-0003">pathological disruption</kwd><kwd id="cns13788-kwd-0004">restoration</kwd><kwd id="cns13788-kwd-0005">therapeutics</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>National Natural Science Foundation of China
+</institution><institution-id institution-id-type="doi">10.13039/501100001809</institution-id></institution-wrap></funding-source><award-id>81973267</award-id><award-id>82104101</award-id></award-group><award-group id="funding-0002"><funding-source>Zhejiang Provincial National Science Foundation, China</funding-source><award-id>D19H30001</award-id></award-group><award-group id="funding-0003"><funding-source>Jiangxi Provincial Natural Science Foundation, China</funding-source><award-id>20212BAB216003</award-id></award-group><award-group id="funding-0004"><funding-source>Project of Gannan Medical University</funding-source><award-id>ZD201903</award-id></award-group><award-group id="funding-0005"><funding-source>PhD Start‐up Fund of Gannan Medical University</funding-source><award-id>QD201908</award-id></award-group></funding-group><counts><fig-count count="7"/><table-count count="0"/><page-count count="11"/><word-count count="5955"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>March 2022</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.1.1 mode:remove_FC converted:13.02.2022</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="cns13788-cit-1001">
+<string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wen</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Effect of axitinib regulating the pathological blood–brain barrier functional recovery for glioblastoma therapeutics</article-title>. <source>CNS Neurosci Ther</source>. <year>2022</year>;<volume>28</volume>:<fpage>411</fpage>–<lpage>421</lpage>. doi:<pub-id pub-id-type="doi">10.1111/cns.13788</pub-id>
+<pub-id pub-id-type="pmcid">PMC8841308</pub-id><pub-id pub-id-type="pmid">34967104</pub-id></mixed-citation>
+</p><fn-group id="cns13788-ntgp-0001"><fn fn-type="equal" id="cns13788-note-0001"><p>Fengtian Zhang, Lijuan Wen and Kai Wang contributed equally to this work.</p></fn></fn-group></notes></front><body id="cns13788-body-0001"><sec id="cns13788-sec-0005"><label>1</label><title>INTRODUCTION</title><p>Glioblastoma (GBM) is a kind of malignant brain tumor with high mortality and no curative treatments.<xref rid="cns13788-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> Despite advances in molecular understanding, diagnosis and clinical standard therapies (surgery, chemotherapy, and radiotherapy), the overall median survival of patients with GBM has only been extended to 14 ~ 16 months.<xref rid="cns13788-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> In the last decades, GBM has been merely one of a few from the great number of central nervous system (CNS) pathologies benefiting from advancements in the modern neurology research. Even though the etiology and pathogenesis of the disorder is known, there is still no fully functional treatment to slow its progression. The presence of the blood–brain barrier (BBB) seriously limits the trafficking of most molecules, including 98% of small‐molecule drugs and most bio‐macromolecular drugs, to and from the brain and limits the therapeutic effect of brain diseases.<xref rid="cns13788-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="cns13788-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>
+</p><p>In recent years, the receptor‐mediated active‐targeted drug delivery system was considered one of the most mature and valid strategies for GBM therapeutics due to its characteristics of high specificity, selectivity, and affinity in the field of pharmaceutics.<xref rid="cns13788-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="cns13788-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref> However, so far, brain targeted technology research has mostly focused on the interaction between ligands and their receptors and target cells and target tissues, ignoring the correlation between the changes of BBB function and disease treatment.<xref rid="cns13788-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="cns13788-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref> Our previous studies have found that the regulation of BBB function could promote more chemotherapeutics distributed or targeted at GBM, finally realizing effective and safe anti‐GBM effect of chemotherapy.<xref rid="cns13788-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> Therefore, the innovation of pharmaceutics research methods is especially needed for some clinically intractable or even drug‐free CNS diseases. And, the treatment strategy of BBB functional regulation may be more therapeutically valuable and can be put into clinical application more quickly. At present, regulation of BBB function has been one of the latest development directions in molecular pharmaceutics.</p><p>The focal microenvironment strongly supports the occurrence and the pathological progression of diseases.<xref rid="cns13788-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref> Recently, the concept of microenvironment regulation may be a new therapeutic approach that is worth exploring, and there is tremendous worldwide interest in novel therapeutic strategies aiming at such special conditions. For example, the destruction of various stromal cells and extracellular matrix components in the tumor stromal microenvironment, to further rebuild the tumor stromal microenvironment and enhance the accessibility of drugs to tumor cells, would significantly inhibit the growth of peripheral cancers.<xref rid="cns13788-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> Due to the special growth location of GBM, the BBB is involved in the formation of the special brain microenvironment of the disease.</p><p>The BBB plays an important role in the occurrence and treatment of GBM. Under physiological conditions, the BBB is an important biological barrier to protect and maintain the physiological function of the normal brain and the environment balance of the CNS.<xref rid="cns13788-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> Under pathological condition, the occurrence of GBM is usually accompanied by BBB dysfunction.<xref rid="cns13788-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref> Moreover, the loss of BBB integrity causes the leakage of harmful substances in the blood into the CNS, forming cell infiltration, abnormal molecular transportation and clearance, and accelerating the pathological deterioration of GBM, leading to poor prognosis.<xref rid="cns13788-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="cns13788-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> Previous studies have indicated that a decreased permeability of the pathological BBB in the period of therapeutics treatment could predict a good prognosis.<xref rid="cns13788-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="cns13788-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> Hence, we hypothesized that pathological BBB restoration might provide new opportunities for GBM safe and effective therapeutics.</p><p>Tight junctions (TJs) between cerebral microvascular endothelial cells is an important morphological basis of the BBB and forms low permeability of the barrier.<xref rid="cns13788-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> Furthermore, claudin‐5 and occludin are key components of TJs and play an important role in maintaining the integrity and function of the BBB.<xref rid="cns13788-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="cns13788-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> Our previous studies have indicated that the VEGF/VEGFR signaling pathway was involved in BBB permeability regulation in the occurrence of GBM, and the activation of the VEGF downstream signaling pathway PI3K‐AKT could obviously open the BBB for enhanced intracranial drug delivery with a visible improved anti‐GBM effect.<xref rid="cns13788-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> Herein, we further proposed to inhibit the interaction between VEGF and its receptor VEGFR to finally realize a functional restoration of the pathological BBB for anti‐GBM therapeutics.</p><p>Axitinib, a potent small‐molecule tyrosine kinase inhibitor (TKI) that could selective inhibit the VEGF receptors 1, 2, and 3, has been approved for use in advanced renal cell carcinoma.<xref rid="cns13788-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> In recent years, studies have found that axitinib exhibits therapeutic effect on non–small cell lung cancer and leukemia.<xref rid="cns13788-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="cns13788-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref> In addition, it has also been found that axitinib can resist high‐fat diet–induced obesity and insulin insensitivity by promoting the browning of white fat cells, and has the effect on treating fatty liver.<xref rid="cns13788-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> However, the effect of axitinib regulating BBB permeability for GBM therapeutics has not yet been explored. Here, axitinib was used as a BBB functional regulator, and studies were performed to address the effect of axitinib restoring pathological BBB for the treatment of GBM within non‐cytotoxic dosages.</p></sec><sec sec-type="materials-and-methods" id="cns13788-sec-0006"><label>2</label><title>MATERIALS AND METHODS</title><sec sec-type="materials" id="cns13788-sec-0007"><label>2.1</label><title>Materials</title><p>Axitinib was purchased from Selleck. Methylthiazoleterazolium (MTT) was provided by Sigma Chemical Co. FITC‐dextran (10 kDa) was purchased from Sigma‐Aldrich Co. D‐luciferin was purchased from Shanghai Sciencelight Biology Science &amp; Technology Co., Ltd. All of the other chemicals used in this article were of analytical chromatographic or analytical grade.</p></sec><sec id="cns13788-sec-0008"><label>2.2</label><title>Cell models and animal models</title><p>Both bEnd.3 cells and U87 MG cells without mycoplasma were purchased from the Cell Bank of ATCC. bEnd.3 cells and human GBM cell line U87 MG cells were maintained in Dulbecco's minimum essential medium (DMEM) and α‐MEM (Gibco), respectively, both supplemented with 10% fetal bovine serum (FBS) (Gibco) and 100 IU/ml penicillin‐streptomycin at 37℃ in a 5% CO<sub>2</sub>. The cells were sub‐cultured regularly using trypsin/ethylene diamine tetraacetic acid (EDTA).</p><p>The physiological BBB model and pathological BBB model in vitro<xref rid="cns13788-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> and the orthotopic GBM‐bearing mice models were established according to previous methods.<xref rid="cns13788-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="cns13788-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> The detailed methodology was provided in <xref rid="cns13788-sup-0001" ref-type="supplementary-material">Supplementary Materials</xref>.</p></sec><sec id="cns13788-sec-0009"><label>2.3</label><title>Cytotoxicity assay</title><p>The MTT assay was used to verify the cytotoxicity effect of axitinib on both bEnd.3 cells and U87 MG cells. And, the detailed methodology is provided in <xref rid="cns13788-sup-0001" ref-type="supplementary-material">Supplementary Materials</xref>.</p></sec><sec id="cns13788-sec-0010"><label>2.4</label><title>Dose‐curve and time‐curve of axitinib restoring the pathological BBB in vitro</title><p>The cells in the Transwell chambers were treated with axitinib within a series of concentrations (0–10 μg/ml) to stimulate the pathological BBB in vitro. And, the transepithelial electrical resistances (TEER) values were used to evaluate BBB integrity. For time‐curve investigation, the pathological BBB was treated with optimal axitinib dosage every 24 h for 5 consecutive days, and the TEER was real‐time monitored (0 h, 24 h, 48 h, 72 h, 96 h, 120 h, and 144 h) for BBB permeability evaluation.</p></sec><sec id="cns13788-sec-0011"><label>2.5</label><title>Pathological BBB functional recovery with the treatment of axitinib in vitro</title><p>We considered claudin‐5 and occludin as markers of intact TJs.<xref rid="cns13788-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref> The pathological BBB was treated with appropriate concentrations of axitinib for 24 h. For comparison, the bEnd.3‐U87 MG co‐cultured model without any treatment was considered as negative controls of brain tumor condition, and the physiological BBB model was considered positive control. For qualitative research, the expression of both claudin‐5 and occludin proteins on bEnd.3 cells was investigated by immunofluorescent staining, and the detailed method was provided in <xref rid="cns13788-sup-0001" ref-type="supplementary-material">Supplementary Materials</xref>. And, the measurement of TEER and transportation of FITC‐dextran (10 kDa) crossing the barrier were further used to quantitatively determine the permeability of the BBB in vitro.</p></sec><sec id="cns13788-sec-0012"><label>2.6</label><title>Axitinib promotes pathological BBB functional recovery in vivo</title><p>We then used Evans Blue (EB) to study pathological BBB recovery caused by axitinib in orthotropic GBM models.<xref rid="cns13788-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="cns13788-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref> Axitinib (10 mg/kg) was I.V. administered to orthotropic GBM‐bearing mice; then, EB was intravenously injected, and normal animals served as the control. Four hours later, the animals were perfused with 4% paraformaldehyde to flush the intravascular dye out of the vasculature. The imaging of excised brain tissues was observed under an in vivo imaging system (CRI).</p></sec><sec id="cns13788-sec-0013"><label>2.7</label><title>Regulation of pathological BBB functional recovery for GBM therapy in vivo</title><p>For pathological BBB restoration in GBM therapy, GBM‐bearing model mice were randomly divided into two groups: saline group and axitinib treatment group (<italic toggle="yes">n</italic> = 10). Axitinib was I.V. administered with a dose of 10 mg/kg for 7 consecutive days. Bioluminescence imaging (IVIS spectrum) was used to noninvasively monitor tumor growth, and the images were obtained on day 4, 7, 10, 13, and 17 post inoculation. Furthermore, the quantitative total bioluminescence was determined by drawing regions of interest (ROIs) around tumor areas enclosing emitted signals (<italic toggle="yes">n</italic> = 5). After the treatment, three mice of both the saline group and axitinib treatment group were sacrificed, and brains and other major organs were harvested for routine histopathological and immunohistochemical (IHC) analysis. All mice were euthanized when they became moribund, and survival time was recorded (<italic toggle="yes">n</italic> = 6) by using the log‐rank test in the Kaplan–Meier analysis method (SigmaPlot). Body weight of saline‐treated mice and axitinib treated mice was also recorded.</p><p>In order to investigate VEGF expression in vivo, tumor tissues were processed for total mRNA or protein expression followed by qRT‐PCR and IHC, respectively. Moreover, TJ proteins of claudin‐5 and occludin expression both on the gene level and protein level were determined by qRT‐PCR and immunofluorescent staining, respectively. IHC of CD31 and MMP‐9 in brain tumor tissues was also performed.</p></sec><sec id="cns13788-sec-0014"><label>2.8</label><title>Evans Blue extravasation</title><p>Blood–brain barrier integrity was also studied in the experimental mice. We intravenously injected EB (10 mg/kg) dye into normal or GBM‐implanted mice. The tracer was allowed to circulate for 2 h before the mice were deeply anesthetized and perfused with PBS followed by 4% PFA. The imaging of excised brain tissues was also observed under the in vivo imaging system. Then, the EB in brain tissues was extracted with dimethyl formamide and then quantificationally measured by using an Ultraviolet Spectrophotometer. Brain tissues were dried under 60℃ for 72 h.</p></sec><sec id="cns13788-sec-0015"><label>2.9</label><title>Statistical analysis</title><p>All results in this article were repeated in triplicate unless otherwise stated; the declared group size is number of independent values, and quantitative data were expressed as mean ± SD analyzed by GraphPad Prism 7.0. For two group comparisons, statistical significance was determined by Student's <italic toggle="yes">t</italic>‐test. Besides, the log‐rank test in the Kaplan–Meier analysis method was used to record survival time of experimental animals. The statistical significance was defined as a <italic toggle="yes">p</italic>‐value less than 0.05, and all tests were two‐tailed. ***<italic toggle="yes">p</italic> &lt; 0.001, **<italic toggle="yes">p</italic> &lt; 0.01, and *<italic toggle="yes">p</italic> &lt; 0.05 were performed in one‐way ANOVA (<italic toggle="yes">t</italic>‐test).</p></sec></sec><sec sec-type="results" id="cns13788-sec-0016"><label>3</label><title>RESULTS</title><sec id="cns13788-sec-0017"><label>3.1</label><title>Dose‐curve of axitinib restores the pathological BBB</title><p>We first explore the cytotoxicity of axitinib against model cells (bEnd.3 cells and U87 MG cells). As shown in Figure <xref rid="cns13788-sup-0001" ref-type="supplementary-material">S1</xref>, survival rates of both bEnd.3 cells and U87 MG cells were above 80% even when the concentration of axitinib reached 10 μg/ml. The result indicated that axitinib exhibited negligible cytotoxicity to model cells at experimental doses. In order to avoid the cytotoxicity interference of axitinib, we used axitinib at concentration ≤10 μg/ml for further BBB functional regulation studies.</p><p>We then investigated the effect of axitinib on pathological BBB functional regulation under a series of concentrations. TEER is usually used to verify the integrity of the cell monolayer in vitro, and here TEER measurement was conducted to evaluate BBB integrity and permeability. As shown in Figure <xref rid="cns13788-fig-0001" ref-type="fig">1A</xref>, the TEER of the pathological BBB seriously decreased compared to that of the physiological BBB, while the treatment of axitinib to the pathological BBB with a concentration of 0.05–10 μg/ml could effectively increase TEER values, and the optimal dosage of axitinib recovering the pathological BBB exhibited 4 μg/ml, which was then administered in the following in vitro experiments.</p><fig position="float" fig-type="FIGURE" id="cns13788-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>Dose‐curve and time‐curve of axitinib restoring the pathological BBB in vitro. (A) TEER measurement of the pathological BBB with a series of concentrations of axitinib (0–10 μg axitinib‐equiv./ml) for 24 h. TEER measurement of (B) the pathological BBB, (C) with a single treatment of axitinib for the first time, 72 h later for the second time and 96 h later for the third time (red solid arrows indicated the stimulation of axitinib), and (D) with a consecutive treatment of axitinib for every 24 h (green solid arrows indicated the stimulation of axitinib). Error bars represent SD of the mean for <italic toggle="yes">n</italic> = 5</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="CNS-28-411-g004.jpg"/></fig></sec><sec id="cns13788-sec-0018"><label>3.2</label><title>Time‐curve of axitinib restore the pathological BBB</title><p>Furthermore, the optimal intervention time of axitinib to the pathological BBB was also assessed through the measurement of TEER. As seem in Figure <xref rid="cns13788-fig-0001" ref-type="fig">1B–D</xref>, the co‐culture of bEnd.3 cells and U87 MG cells finally resulted in the formation of the pathological BBB with a serious reduction of TEER. For the first treatment with axitinib (Figure <xref rid="cns13788-fig-0001" ref-type="fig">1C</xref>, red solid arrow), the TEER rose and then began to decline 24 h later (Figure <xref rid="cns13788-fig-0001" ref-type="fig">1C</xref>, red line). Interestingly, 24 h after the first incubation of axitinib, the recovered BBB gradually returned to the pathological state, and a second axitinib administration could promote the restoration of the barrier again within 24 h. Moreover, if axitinib was administered every 24 h (Figure <xref rid="cns13788-fig-0001" ref-type="fig">1D</xref>, green solid arrow), the TEER continued to rise (Figure <xref rid="cns13788-fig-0001" ref-type="fig">1D</xref>, green line) and finally exhibited no difference with that of the physiological BBB (Figure <xref rid="cns13788-fig-0001" ref-type="fig">1B–D</xref>, blue line). In contrast, with the co‐culture time of bEnd.3 cells and U87 MG cells prolonged, the TEER of the pathological BBB model without any treatment (negative control group) continued to decrease (Figure <xref rid="cns13788-fig-0001" ref-type="fig">1B</xref>, black line). The phenomena indicated that the continued stimulation with axitinib could finally restore the pathological BBB, which provided sufficient theoretical guidance for further therapy of axitinib in vivo.</p></sec><sec id="cns13788-sec-0019"><label>3.3</label><title>Axitinib restores the pathological BBB in vitro</title><p>Glioblastoma growth causes BBB severe breakdown, accompanied with serious TJ structure breakdown and barrier pathological leakage.<xref rid="cns13788-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="cns13788-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref> Since claudin‐5 and occludin play a key role in the formation of TJs, here we consider them as representative markers of TJ pathological disruption and BBB dysfunction. As shown in Figure <xref rid="cns13788-fig-0002" ref-type="fig">2A</xref>, axitinib treatment significantly up‐regulated the expression of claudin‐5 (red) and occludin (green), and the fluorescence semi‐quantitative analysis of claudin‐5 (Figure <xref rid="cns13788-fig-0002" ref-type="fig">2B</xref>) and occludin (Figure <xref rid="cns13788-fig-0002" ref-type="fig">2C</xref>) further demonstrated that axitinib exhibited considerable ability to ameliorate the breakdown of the pathological BBB. In addition, pathological BBB restoration finally produced an obvious increased TEER (Figure <xref rid="cns13788-fig-0002" ref-type="fig">2D</xref>) from 140.2 ± 5.6 Ω cm<sup>2</sup> to 211.2 ± 5.6 Ω cm<sup>2</sup> and an evident reduced FITC‐dextran transporting across the BBB (19.8 ± 1.9 to 13.1 ± 0.9 μg/ml) (Figure <xref rid="cns13788-fig-0002" ref-type="fig">2E</xref>) in vitro. These results indicated that axitinib could promote the pathological BBB restoration in vitro.</p><fig position="float" fig-type="FIGURE" id="cns13788-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>Axitinib restores the pathological BBB in vitro. (A) Claudin‐5 (red) and occludin (green) expression in the pathological BBB treated with or without axitinib (4 μg/ml) treatment (Scale bar = 30 μm). The fluorescence intensity of (B) claudin‐5 and (C) occludin signals measured by ImageJ. (D) TEER measurement of GBM cells induced the pathological BBB. (E) FITC‐dextran transportation across the pathological BBB with axitinib treatment</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="CNS-28-411-g002.jpg"/></fig></sec><sec id="cns13788-sec-0020"><label>3.4</label><title>Axitinib regulates pathological BBB functional recovery of GBM in vivo</title><p>The BBB is a highly specialized brain endothelial structure of the fully differentiated neurovascular system, restricting the free leakage of most large molecules and more than 98% of small‐molecule pharmaceuticals into the brain.<xref rid="cns13788-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> The growth of GBM causes BBB pathological disruption and damages the homeostatic microenvironment of the brain, followed by blood component extravasation into the brain. Besides, BBB disruption can promote the proliferation of GBM to a certain extent.<xref rid="cns13788-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="cns13788-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref> The Evans blue (EB) dye is usually used as a classic indicator of BBB leakage in vivo due to its ability to bind the albumin of the plasma.<xref rid="cns13788-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> Thus, we evaluated BBB permeability of the GBM‐bearing mice model via EB dye imaging in vivo. The ex vivo imaging of the brain tissues of mice in experimental groups is shown in Figure <xref rid="cns13788-fig-0003" ref-type="fig">3A</xref>. GBM growth significantly increases BBB permeability with an obvious EB extravasation into the brain, while axitinib intervention produced a significant decrease of EB leakage into the brain, accompanied with a decreased fluorescence intensity measurement in the brain (Figure <xref rid="cns13788-fig-0003" ref-type="fig">3B</xref>). The phenomenon further indicated that axitinib could promote pathological BBB functional recovery of GBM in vivo.</p><fig position="float" fig-type="FIGURE" id="cns13788-fig-0003" orientation="portrait"><label>FIGURE 3</label><caption><p>Restoration of the pathological BBB for GBM therapy in vivo. (A) Axitinib treatment induced the decrease of BBB permeability, EB extravasation in vivo was imaged, and (B) total signal count analysis of brain tissues. (C) Bioluminescence imaging of U87‐luci–bearing nude mice on days 4, 7, 10, 13, and 17 post U87‐luciferase tumor inoculation and (D) quantification of average tumor bioluminescence values change fold in different treatment formulations on days 4, 7, 10, 13, and 17 throughout the course of treatment (<italic toggle="yes">n</italic> = 5). (E) The final tumor volumes of experimental groups</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="CNS-28-411-g001.jpg"/></fig></sec><sec id="cns13788-sec-0021"><label>3.5</label><title>Restoration of pathological BBB for GBM therapy in vivo</title><p>To validate our hypothesis that the restoration of pathological BBB may provide a new sight for anti‐GBM therapeutics, we further evaluated the tumor suppression effect of axitinib in vivo. In this study, axitinib was I.V. administered with a dose of 10 mg/kg for seven consecutive days. Due to the specific growth site of the GBM, we here used bioluminescent imaging to real‐time and noninvasively monitor tumor growth response. The bioluminescent imaging of experimental groups is presented in Figure <xref rid="cns13788-fig-0003" ref-type="fig">3C</xref>, and relative fold changes in tumor bioluminescence over the course of drug treatment are presented in Table <xref rid="cns13788-sup-0001" ref-type="supplementary-material">S1</xref>. Compared with the saline treatment group, the relative GBM growth rate of the axitinib treatment group decreased from 61.62 ± 4.94 to 18.66 ± 1.38 (Figure <xref rid="cns13788-fig-0003" ref-type="fig">3D</xref> and Table <xref rid="cns13788-sup-0001" ref-type="supplementary-material">S1</xref>); moreover, the treatment of axitinib could achieve a visible tumor suppression effect (81.5%) (Figure <xref rid="cns13788-fig-0003" ref-type="fig">3E</xref>), finally translating into prolonged survival of GBM‐bearing mice. The survival curve span of the axitinib treatment group was extended from 20.0 days to 31.0 days, and the median survival of animals was prolonged to 167% (Figure <xref rid="cns13788-fig-0004" ref-type="fig">4A</xref>, red solid line). While for comparison, the median survival time of axitinib in the preclinical GBM model was just prolonged to 115%, even within an administrated dose of 25 mg/kg daily for 4 weeks.<xref rid="cns13788-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>
+</p><fig position="float" fig-type="FIGURE" id="cns13788-fig-0004" orientation="portrait"><label>FIGURE 4</label><caption><p>Tumor suppression in vivo. (A) Survival time of GBM‐bearing mice and log‐rank test in the Kaplan–Meier analysis method was used to record survival time of GBM‐bearing mice (<italic toggle="yes">n</italic> = 6). (B) VEGF mRNA expression of tumor tissues. Data were expressed as the fold change in VEGF expression normalized with the housekeeping gene, and GAPDH was amplified as an internal control. (C) H&amp;E staining and IHC analysis of tumor sections stained with VEGF, CD31, and MMP‐9 (brown). Magnification: 200× (Scale bar = 100 μm)</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-9" orientation="portrait" xlink:href="CNS-28-411-g007.jpg"/></fig><p>Moreover, no markedly body weight changes were found in the axitinib treatment group (Figure <xref rid="cns13788-sup-0001" ref-type="supplementary-material">S2</xref>). In comparison, the body weight of the saline group decreased from 20.6 ± 0.1 g to 15.3 ± 0.2 g, with a serious weight loss of 25.7% on average during the treatment. Furthermore, axitinib treatment not only produced obvious inhibition in VEGFR1 (Figure <xref rid="cns13788-sup-0001" ref-type="supplementary-material">S3</xref>) and VEGFR2 (Figure <xref rid="cns13788-sup-0001" ref-type="supplementary-material">S4</xref>) expression but also accompanied with an optimal inhibition of VEGF expression both in the mRNA level (Figure <xref rid="cns13788-fig-0004" ref-type="fig">4B</xref>) and protein level (Figure <xref rid="cns13788-fig-0004" ref-type="fig">4C</xref>, the second column). And, the VEGF mRNA levels (Figure <xref rid="cns13788-fig-0004" ref-type="fig">4B</xref>) were measured as 30.3 ± 6.2% in the mice treated with axitinib.</p><p>Importantly, axitinib treatment could markedly promote pathological BBB restoration with a prominent increased mRNA level of claudin‐5 (Figure <xref rid="cns13788-sup-0001" ref-type="supplementary-material">S5</xref>A) and occludin (Figure <xref rid="cns13788-sup-0001" ref-type="supplementary-material">S5</xref>B). Compared to the saline‐treated group, the expression of claudin‐5 mRNA was up‐regulated to 48.9 ± 4.6 and occludin mRNA was up‐regulated to 381.6 ± 10.1. In addition, immunofluorescent staining of TJ proteins in axitinib‐treated brain tissues also showed an obvious up‐regulated expression of claudin‐5 (Figure <xref rid="cns13788-sup-0001" ref-type="supplementary-material">S6</xref>A) and occludin (Figure <xref rid="cns13788-sup-0001" ref-type="supplementary-material">S6</xref>C), compared to those of saline‐treated brain tissues. And, the protein expressions of claudin‐5 and occludin were up‐regulated by 4.53‐fold (Figure <xref rid="cns13788-sup-0001" ref-type="supplementary-material">S6</xref>B) and 5.98‐fold (Figure <xref rid="cns13788-sup-0001" ref-type="supplementary-material">S6</xref>D), respectively, compared to the saline group. These results demonstrated that pathological BBB recovery induced by axitinib may serve as an effective strategy for GBM treatment.</p></sec><sec id="cns13788-sec-0022"><label>3.6</label><title>Histopathology and immunohischemistry analysis</title><p>To further investigate the underlying mechanism of axitinib against GBM, H&amp;E staining and IHC analysis were carried out as shown in Figures <xref rid="cns13788-fig-0004" ref-type="fig">4C</xref> and <xref rid="cns13788-fig-0005" ref-type="fig">5A</xref>. As shown in Figure <xref rid="cns13788-fig-0004" ref-type="fig">4C</xref>, a large amount stroma with compact and regular structure existed in the saline group. In comparison, the structure of stroma in the axitinib group exhibited obviously collapsed, wizened, and vacuous structure. Particularly, necrotic tumor cells exhibiting obvious nuclear chromatin condensation and fragmentation marked by yellow arrows and circled dotted lines appeared after axitinib treatment. Furthermore, CD 31 positive tumor vessels were significantly reduced in axitinib‐treated tumors; in comparison, a greater amount of CD31 positive tumor vessels could be found in tumor tissues treated with saline (Figure <xref rid="cns13788-fig-0004" ref-type="fig">4C</xref>, the third column). In addition, MMP‐9 expression (Figure <xref rid="cns13788-fig-0004" ref-type="fig">4C</xref>, the fourth column) was also effectively down‐regulated.</p><fig position="float" fig-type="FIGURE" id="cns13788-fig-0005" orientation="portrait"><label>FIGURE 5</label><caption><p>Safety evaluation and EB extravasation. (A) Studies of the long‐term toxicity of different formational drugs in the heart, liver, spleen, lungs, and kidneys using H&amp;E staining. Magnification: 200× (Scale bar = 100 μm). (B) EB extravasation imaging, (C) EB in brain tissues was extracted with dimethyl formamide and quantificationally measured by using an Ultraviolet Spectrophotometer</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-11" orientation="portrait" xlink:href="CNS-28-411-g006.jpg"/></fig><p>Slices of heart, liver, spleen, lungs, and kidneys (Figure <xref rid="cns13788-fig-0005" ref-type="fig">5A</xref>) in experimental groups showed no visible abnormalities or lesions compared to those from saline‐treated mice, indicating the lack of appreciable organ damage, further indicating the low toxicity of axitinib.</p></sec><sec id="cns13788-sec-0023"><label>3.7</label><title>EB extravasation</title><p>Evans Blue extravasation was used to further investigate the antitumor effect of axitinib. Ex vivo imaging (Figure <xref rid="cns13788-fig-0005" ref-type="fig">5B</xref>) and quantitative measurement (Figure <xref rid="cns13788-fig-0005" ref-type="fig">5C</xref>) results showed that EB extravasation of axitinib‐treated brain was markedly less than other experimental groups, and exhibited no difference to the normal brain. EB content in the brain of the axitinib treatment group decreased 1.5‐fold compared to that of the saline treatment group (Figure <xref rid="cns13788-fig-0005" ref-type="fig">5C</xref>). The phenomenon indicated that axitinib could finally produce a decrease in pathological BBB permeability, which would be a good prognosis in GBM therapeutics.</p><p>The results mentioned above have fully proven that the development of GBM caused severe BBB disruption with TJ proteins down‐regulation. The treatment of axitinib promoted pathological BBB functional recovery with TJ protein up‐regulation, and the restoration of the pathological BBB could finally achieve better therapeutic effects against GBM (Figure <xref rid="cns13788-fig-0006" ref-type="fig">6</xref>).</p><fig position="float" fig-type="FIGURE" id="cns13788-fig-0006" orientation="portrait"><label>FIGURE 6</label><caption><p>Scheme of BBB functional regulation. The occurrence of GBM induce BBB pathological damage; BBB dysfunction accompanies with TJ protein down‐regulation. Axitinib treatment could restore the pathological BBB; pathological BBB recovery accompanies with an up‐regulated TJ protein expression</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-13" orientation="portrait" xlink:href="CNS-28-411-g005.jpg"/></fig></sec></sec><sec sec-type="discussion" id="cns13788-sec-0024"><label>4</label><title>DISCUSSION</title><p>As we know that the BBB is a continuous endothelial membrane playing an important role in the CNS homeostasis regulation,<xref rid="cns13788-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>, <xref rid="cns13788-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> studies have indicated that BBB dysfunction, referring to its loss of structure integrity with increased permeability, has been suggested as a prominent pathological feature of GBM.<xref rid="cns13788-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="cns13788-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>, <xref rid="cns13788-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> BBB breakdown further facilitates entry into the brain of toxic blood‐derived molecules, cells, and microbial agents, promoting the pathological process and finally leading to poor prognosis.<xref rid="cns13788-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref> Since the BBB was shown to be a key component in the brain microenvironment, which is involved in the pathological progress of the diseases, herein, we proposed to regulate pathological BBB function for GBM treatment.</p><p>VEGF is confirmed to be abnormally elevated in the pathogenesis of GBM, and the interaction of VEGF and its receptor VEGFR expressed on the cerebral endothelial cells could activate its downstream signaling pathway and then cause BBB dysfunction,<xref rid="cns13788-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="cns13788-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>, <xref rid="cns13788-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref> accompanied with TJ structure breakdown. Therefore, we postulated that inhibiting the combination of VEGF and its receptor would produce a neuroprotection of the pathological BBB. In this study, we assumed the use of axitinib under a non‐cytotoxic dosage to restore the pathological BBB for the abovementioned neurological disorder therapeutics. Interestingly, we have found that axitinib treatment finally produced a significant inhibition in both VEGFR1 (Figure <xref rid="cns13788-sup-0001" ref-type="supplementary-material">S3</xref>) and VEGFR2 expression (Figure <xref rid="cns13788-sup-0001" ref-type="supplementary-material">S4</xref>); meanwhile, the interaction between VEGFR and VEGF was blocked. The suppression of VEGF/VEGFR signal loops finally contributed to pathological BBB restoration accompanied with a prominent increased expression of both claudin‐5 and occludin in the gene level (Figure <xref rid="cns13788-sup-0001" ref-type="supplementary-material">S5</xref>) and protein level (Figure <xref rid="cns13788-sup-0001" ref-type="supplementary-material">S6</xref>). Herein, we speculated that pathological BBB functional recovery induced by axitinib might inhibit nutrient supply between tumor cells and peripheral tissues, finally resulting in GBM growth suppression.</p><p>Whether the BBB function is normal or not plays an important role in maintaining the normal activities of the CNS, and also promoting the development of neurological disorders, including GBM.<xref rid="cns13788-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref> Since the occurrence and progression of most CNS diseases are accompanied by dysfunction of the BBB, the fact indicates that BBB destruction may be causally related to the occurrence of those brain diseases.<xref rid="cns13788-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="cns13788-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref> Therefore, research on molecular mechanisms involved in BBB functional regulation under both physiological condition and pathological condition has received extensive attention, but there are still many problems that need to be solved. Although it is clear that BBB function is regulated by the brain microenvironment, it remains unknown that BBB disruption is due to the lack of signals maintaining its normal function, or any other abnormal factors caused by different CNS diseases.</p><p>Current studies have indicated various factors inducing BBB dysfunction, including special cell secretions in brain tumors.<xref rid="cns13788-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref> However, these studies only regarded the damage of the BBB as an index to evaluate the development progress of brain tumors, while ignoring the role of the BBB as a complex and organic part regulating brain functions, including substance transport, transcytosis, and metabolism, as well as TJs. Our study has shown that the occurrence of GBM induces BBB pathological damage, accompanied with TJ disruption; moreover, the functional restoration of the pathological BBB via TJ regulation could improve the brain microenvironment and alleviate the progression of the disease (Figure <xref rid="cns13788-fig-0006" ref-type="fig">6</xref>). Therefore, it is, indeed, time to change our minds. The BBB is not just a non‐fenestration barrier protecting the brain from the external environment, but also an organism with complex and sophisticated properties and functions, even an organoid as Richard Daneman put forward.<xref rid="cns13788-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref> It is a serious barrier for intracranial drug delivery. In order to investigate the function of the BBB and its regulatory mechanism under physiological and pathological conditions, we need to make a more in‐depth comparative study and analysis by using multi omics technology combined with different disease models. In addition, we also need to consider how the BBB interacts with other tissues and organs in the body at a higher organoid level to regulate the homeostasis of the whole body. These are not only the lack of this research, but also our future research direction.</p><p>In conclusion, we demonstrated for the first time the effect of axitinib recovering the pathological BBB for GBM treatment. Axitinib under non‐cytotoxic dosage regulated pathological BBB function recovery in a time‐dependent mode, and multiple interventions of axitinib could realize a visible restoration of the pathological BBB in vitro. The use of axitinib finally produced considerable treatment effect on GBM. Our study is the first to demonstrate that recovering the pathological BBB would produce visible therapeutic effect to GBM relating to BBB permeability. The study supports further investigation of axitinib as a BBB permeability regulator for other neurological disorder treatments. Furthermore, the view of regulating pathological BBB functional recovery may offer a novel sight for other CNS disease therapeutics.</p></sec><sec sec-type="COI-statement" id="cns13788-sec-0026"><title>CONFLICT OF INTEREST</title><p>No potential conflicts of interest were disclosed.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="cns13788-sup-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>Supplementary Material</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CNS-28-411-s001.docx" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="cns13788-sec-0025"><title>ACKNOWLEDGEMENTS</title><p>The research was supported by the National Natural Science Foundation of China (NSFC Nos. 81973267 and 82104101), Zhejiang Provincial National Science Foundation, China (Grant No. D19H30001), Jiangxi Provincial Natural Science Foundation, China (Grant No. 20212BAB216003), the Project of Gannan Medical University (No. ZD201903), and PhD Start‐up Fund of Gannan Medical University (QD201908).</p></ack><sec sec-type="data-availability" id="cns13788-sec-0028"><title>DATA AVAILABILITY STATEMENT</title><p>The original contribution presented in the study is included in the article/<xref rid="cns13788-sup-0001" ref-type="supplementary-material">Supplementary Materials</xref>. Future inquiries can be directed to the corresponding author.</p></sec><ref-list content-type="cited-references" id="cns13788-bibl-0001"><title>REFERENCES</title><ref id="cns13788-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="cns13788-cit-0001">
+<string-name name-style="western">
+<surname>Mishra</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kesharwani</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Dendrimer technologies for brain tumor</article-title>. <source>Drug Discov Today</source>. <year>2016</year>;<volume>21</volume>:<fpage>766</fpage>‐<lpage>778</lpage>.<pub-id pub-id-type="pmid">26891979</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.drudis.2016.02.006</pub-id></mixed-citation></ref><ref id="cns13788-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="cns13788-cit-0002">
+<string-name name-style="western">
+<surname>Lam</surname>
+<given-names>FC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Morton</surname>
+<given-names>SW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wyckoff</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Enhanced efficacy of combined temozolomide and bromodomain inhibitor therapy for gliomas using targeted nanoparticles</article-title>. <source>Nat Commun</source>. <year>2018</year>;<volume>9</volume>:<fpage>1991</fpage>.<pub-id pub-id-type="pmid">29777137</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41467-018-04315-4</pub-id><pub-id pub-id-type="pmcid">PMC5959860</pub-id></mixed-citation></ref><ref id="cns13788-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="cns13788-cit-0003">
+<string-name name-style="western">
+<surname>Carpentier</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Canney</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vignot</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Clinical trial of blood‐brain barrier disruption by pulsed ultrasound</article-title>. <source>Sci Transl Med</source>. <year>2016</year>;<volume>8</volume>(<issue>343</issue>):<fpage>343re2</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/scitranslmed.aaf6086</pub-id><pub-id pub-id-type="pmid">27306666</pub-id></mixed-citation></ref><ref id="cns13788-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="cns13788-cit-0004">
+<string-name name-style="western">
+<surname>Hashimoto</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tachibana</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kondoh</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Tight junction modulators for drug delivery to the central nervous system</article-title>. <source>Drug Discov Today</source>. <year>2020</year>;<volume>25</volume>(<issue>8</issue>):<fpage>1477</fpage>‐<lpage>1486</lpage>.<pub-id pub-id-type="pmid">32439607</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.drudis.2020.05.007</pub-id></mixed-citation></ref><ref id="cns13788-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="cns13788-cit-0005">
+<string-name name-style="western">
+<surname>Pinto</surname>
+<given-names>MP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Arce</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yameen</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vilos</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Targeted brain delivery nanoparticles for malignant gliomas</article-title>. <source>Nanomedicine</source>. <year>2017</year>;<volume>12</volume>:<fpage>59</fpage>‐<lpage>72</lpage>.<pub-id pub-id-type="pmid">27876436</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.2217/nnm-2016-0307</pub-id></mixed-citation></ref><ref id="cns13788-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="cns13788-cit-0006">
+<string-name name-style="western">
+<surname>Wei</surname>
+<given-names>XL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>XS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ying</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lu</surname>
+<given-names>WY</given-names>
+</string-name>. <article-title>Brain tumor‐targeted drug delivery strategies</article-title>. <source>Acta Pharm Sin B</source>. <year>2014</year>;<volume>4</volume>:<fpage>193</fpage>‐<lpage>201</lpage>.<pub-id pub-id-type="pmid">26579383</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.apsb.2014.03.001</pub-id><pub-id pub-id-type="pmcid">PMC4629063</pub-id></mixed-citation></ref><ref id="cns13788-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="cns13788-cit-0007">
+<string-name name-style="western">
+<surname>Karim</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Palazzo</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Evrard</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Piel</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Nanocarriers for the treatment of glioblastoma multiforme: current state‐of‐the‐art</article-title>. <source>J Control Release</source>. <year>2016</year>;<volume>227</volume>:<fpage>23</fpage>‐<lpage>37</lpage>.<pub-id pub-id-type="pmid">26892752</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jconrel.2016.02.026</pub-id></mixed-citation></ref><ref id="cns13788-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="cns13788-cit-0008">
+<string-name name-style="western">
+<surname>Wen</surname>
+<given-names>LJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tan</surname>
+<given-names>YN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dai</surname>
+<given-names>SH</given-names>
+</string-name>, et al. <article-title>VEGF‐mediated tight junctions pathological fenestration enhances doxorubicin‐loaded glycolipid‐like nanoparticles traversing BBB for glioblastoma‐targeting therapy</article-title>. <source>Drug Deliv</source>. <year>2017</year>;<volume>24</volume>:<fpage>1843</fpage>‐<lpage>1855</lpage>.<pub-id pub-id-type="pmid">29182025</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/10717544.2017.1386731</pub-id><pub-id pub-id-type="pmcid">PMC8241127</pub-id></mixed-citation></ref><ref id="cns13788-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="cns13788-cit-0009">
+<string-name name-style="western">
+<surname>Wen</surname>
+<given-names>LJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>FT</given-names>
+</string-name>, et al. <article-title>AKT activation by SC79 to transiently re‐open pathological blood brain barrier for improved functionalized nanoparticles therapy of glioblastoma</article-title>. <source>Biomaterials</source>. <year>2020</year>;<volume>237</volume>:<fpage>119793</fpage>‐<lpage>119807</lpage>.<pub-id pub-id-type="pmid">32044521</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.biomaterials.2020.119793</pub-id></mixed-citation></ref><ref id="cns13788-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="cns13788-cit-0010">
+<string-name name-style="western">
+<surname>Kong</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mooney</surname>
+<given-names>DJ</given-names>
+</string-name>. <article-title>Microenvironmental regulation of biomacromolecular therapies</article-title>. <source>Nat Rev Drug Discov</source>. <year>2007</year>;<volume>6</volume>:<fpage>455</fpage>‐<lpage>463</lpage>.<pub-id pub-id-type="pmid">17541418</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nrd2309</pub-id></mixed-citation></ref><ref id="cns13788-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="cns13788-cit-0011">
+<string-name name-style="western">
+<surname>Galland</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Martin</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fregni</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Letovanec</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stamenkovic</surname>
+<given-names>I</given-names>
+</string-name>. <article-title>Attenuation of the pro‐inflammatory signature of lung cancer‐derived mesenchymal stromal cells by statins</article-title>. <source>Cancer Lett</source>. <year>2020</year>;<volume>484</volume>:<fpage>50</fpage>‐<lpage>64</lpage>.<pub-id pub-id-type="pmid">32418888</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.canlet.2020.05.005</pub-id></mixed-citation></ref><ref id="cns13788-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="cns13788-cit-0012">
+<string-name name-style="western">
+<surname>Chen</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Modern methods for delivery of drugs across the blood–brain barrier</article-title>. <source>Adv Drug Deliv Rev</source>. <year>2012</year>;<volume>64</volume>:<fpage>640</fpage>‐<lpage>665</lpage>.<pub-id pub-id-type="pmid">22154620</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.addr.2011.11.010</pub-id></mixed-citation></ref><ref id="cns13788-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="cns13788-cit-0013">
+<string-name name-style="western">
+<surname>Sweeney</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sagare</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zlokovic</surname>
+<given-names>BV</given-names>
+</string-name>. <article-title>Blood‐brain barrier breakdown in Alzheimer disease and other neurodegenerative disorders</article-title>. <source>Nat Rev Neurol</source>. <year>2018</year>;<volume>14</volume>:<fpage>133</fpage>‐<lpage>150</lpage>.<pub-id pub-id-type="pmid">29377008</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nrneurol.2017.188</pub-id><pub-id pub-id-type="pmcid">PMC5829048</pub-id></mixed-citation></ref><ref id="cns13788-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="cns13788-cit-0014">
+<string-name name-style="western">
+<surname>Patel</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Patel</surname>
+<given-names>BM</given-names>
+</string-name>. <article-title>Crossing the blood–brain barrier: recent advances in drug delivery to the brain</article-title>. <source>CNS Drugs</source>. <year>2017</year>;<volume>31</volume>:<fpage>109</fpage>‐<lpage>133</lpage>.<pub-id pub-id-type="pmid">28101766</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s40263-016-0405-9</pub-id></mixed-citation></ref><ref id="cns13788-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="cns13788-cit-0015">
+<string-name name-style="western">
+<surname>Jiang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Andjelkovic</surname>
+<given-names>AV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhu</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Blood‐brain barrier dysfunction and recovery after ischemic stroke</article-title>. <source>Prog Neurogibol</source>. <year>2018</year>;<volume>163–164</volume>:<fpage>144</fpage>‐<lpage>171</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.pneurobio.2017.10.001</pub-id><pub-id pub-id-type="pmcid">PMC5886838</pub-id><pub-id pub-id-type="pmid">28987927</pub-id></mixed-citation></ref><ref id="cns13788-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="cns13788-cit-0016">
+<string-name name-style="western">
+<surname>Hutson</surname>
+<given-names>TE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lesovoy</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Al‐Shukri</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Axitinib versus sorafenib as first‐line therapy in patients with metastatic renal‐cell carcinoma: a randomised open‐label phase 3 trial</article-title>. <source>Lancet Oncol</source>. <year>2013</year>;<volume>14</volume>:<fpage>1287</fpage>‐<lpage>1294</lpage>.<pub-id pub-id-type="pmid">24206640</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S1470-2045(13)70465-0</pub-id></mixed-citation></ref><ref id="cns13788-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="cns13788-cit-0017">
+<string-name name-style="western">
+<surname>Bondarenko</surname>
+<given-names>IM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ingrosso</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bycott</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kim</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cebotaru</surname>
+<given-names>CL</given-names>
+</string-name>. <article-title>Phase II study of axitinib with doublet chemotherapy in patients with advanced squamous non–small‐cell lung cancer</article-title>. <source>BMC Cancer</source>. <year>2015</year>;<volume>15</volume>:<fpage>339</fpage>‐<lpage>348</lpage>.<pub-id pub-id-type="pmid">25929582</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12885-015-1350-6</pub-id><pub-id pub-id-type="pmcid">PMC4424571</pub-id></mixed-citation></ref><ref id="cns13788-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="cns13788-cit-0018">
+<string-name name-style="western">
+<surname>Okabe</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tauchi</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tanaka</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sakuta</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ohyashiki</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Anti‐leukemic activity of axitinib against cells harboring the BCR‐ABL T315I point mutation</article-title>. <source>J Hematol Oncol</source>. <year>2015</year>;<volume>8</volume>:<fpage>97</fpage>‐<lpage>100</lpage>.<pub-id pub-id-type="pmid">26239229</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13045-015-0190-9</pub-id><pub-id pub-id-type="pmcid">PMC4523922</pub-id></mixed-citation></ref><ref id="cns13788-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="cns13788-cit-0019">
+<string-name name-style="western">
+<surname>Mao</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nie</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nie</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>Visualization and quantification of browning using a Ucp1‐2A‐luciferase knock‐in mouse model</article-title>. <source>Diabetes</source>. <year>2017</year>;<volume>66</volume>:<fpage>407</fpage>‐<lpage>417</lpage>.<pub-id pub-id-type="pmid">28108609</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.2337/db16-0343</pub-id></mixed-citation></ref><ref id="cns13788-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="cns13788-cit-0020">
+<string-name name-style="western">
+<surname>Liu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sui</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sun</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Blood‐brain barrier dysfunction induced by silica NPs in vitro and in vivo: involvement of oxidative stress and Rho‐kinase/JNK signaling pathways</article-title>. <source>Biomaterials</source>. <year>2017</year>;<volume>121</volume>:<fpage>64</fpage>‐<lpage>82</lpage>.<pub-id pub-id-type="pmid">28081460</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.biomaterials.2017.01.006</pub-id></mixed-citation></ref><ref id="cns13788-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="cns13788-cit-0021">
+<string-name name-style="western">
+<surname>Wadajkar</surname>
+<given-names>AS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dancy</surname>
+<given-names>JG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hersh</surname>
+<given-names>DS</given-names>
+</string-name>, et al. <article-title>Tumor‐targeted nanotherapeutics: overcoming treatment barriers for glioblastoma</article-title>. <source>Wiley Interdiscip Rev Nanomed Nanobiotechnol</source>. <year>2017</year>;<volume>9</volume>:<elocation-id>e1439</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/wnan.1439</pub-id><pub-id pub-id-type="pmcid">PMC5418115</pub-id><pub-id pub-id-type="pmid">27813323</pub-id></mixed-citation></ref><ref id="cns13788-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="cns13788-cit-0022">
+<string-name name-style="western">
+<surname>Cornford</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hyman</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Blood‐brain barrier permeability to small and large molecules</article-title>. <source>Adv Drug Delivery Rev</source>. <year>1999</year>;<volume>36</volume>:<fpage>145</fpage>‐<lpage>163</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0169-409x(98)00082-9</pub-id><pub-id pub-id-type="pmid">10837713</pub-id></mixed-citation></ref><ref id="cns13788-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="cns13788-cit-0023">
+<string-name name-style="western">
+<surname>Weiss</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Miller</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cazaubon</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Couraud</surname>
+<given-names>PO</given-names>
+</string-name>. <article-title>The blood‐brain barrier in brain homeostasis and neurological diseases</article-title>. <source>Biochim Biophys Acta</source>. <year>2009</year>;<volume>1788</volume>:<fpage>842</fpage>‐<lpage>857</lpage>.<pub-id pub-id-type="pmid">19061857</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bbamem.2008.10.022</pub-id></mixed-citation></ref><ref id="cns13788-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="cns13788-cit-0024">
+<string-name name-style="western">
+<surname>Lu</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Saha</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Martuza</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rabkin</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wakimoto</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Single agent efficacy of the VEGFR kinase inhibitor axitinib in preclinical models of glioblastoma</article-title>. <source>J Neuro Oncol</source>. <year>2015</year>;<volume>121</volume>:<fpage>91</fpage>‐<lpage>100</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s11060-014-1612-1</pub-id><pub-id pub-id-type="pmcid">PMC4751887</pub-id><pub-id pub-id-type="pmid">25213669</pub-id></mixed-citation></ref><ref id="cns13788-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="cns13788-cit-0025">
+<string-name name-style="western">
+<surname>Rabanel</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Delbreil</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Banquy</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brambilla</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ramassamy</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Periphery‐confined particulate systems for the management of neurodegenerative diseases and toxicity: avoiding the blood‐brain‐barrier challenge</article-title>. <source>J Control Release</source>. <year>2020</year>;<volume>322</volume>:<fpage>286</fpage>‐<lpage>299</lpage>.<pub-id pub-id-type="pmid">32243978</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jconrel.2020.03.035</pub-id></mixed-citation></ref><ref id="cns13788-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="cns13788-cit-0026">
+<string-name name-style="western">
+<surname>Agrawal</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Saraf</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Saraf</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Recent strategies and advances in the fabrication of nano lipid carriers and their application towards brain targeting</article-title>. <source>J Control Release</source>. <year>2020</year>;<volume>321</volume>:<fpage>372</fpage>‐<lpage>415</lpage>.<pub-id pub-id-type="pmid">32061621</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jconrel.2020.02.020</pub-id></mixed-citation></ref><ref id="cns13788-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="cns13788-cit-0027">
+<string-name name-style="western">
+<surname>Babazadeh</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vahed</surname>
+<given-names>FM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jafari</surname>
+<given-names>SM</given-names>
+</string-name>. <article-title>Nanocarrier‐mediated brain delivery of bioactives for treatment/prevention of neurodegenerative diseases</article-title>. <source>J Control Release</source>. <year>2020</year>;<volume>321</volume>:<fpage>211</fpage>‐<lpage>221</lpage>.<pub-id pub-id-type="pmid">32035189</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jconrel.2020.02.015</pub-id></mixed-citation></ref><ref id="cns13788-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="cns13788-cit-0028">
+<string-name name-style="western">
+<surname>Hawkins</surname>
+<given-names>BT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Davis</surname>
+<given-names>TP</given-names>
+</string-name>. <article-title>The blood‐brain barrier/neurovascular unit in health and disease</article-title>. <source>Pharmacol Rev</source>. <year>2005</year>;<volume>57</volume>:<fpage>173</fpage>‐<lpage>185</lpage>.<pub-id pub-id-type="pmid">15914466</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1124/pr.57.2.4</pub-id></mixed-citation></ref><ref id="cns13788-bib-0029"><label>29</label><mixed-citation publication-type="book" id="cns13788-cit-0029">
+<string-name name-style="western">
+<surname>Salimi</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Klein</surname>
+<given-names>RS</given-names>
+</string-name>. <part-title>Disruption of the blood‐brain barrier during neuroinflammatory and neuroinfectious diseases</part-title>. In: <person-group person-group-type="editor">
+<string-name name-style="western">
+<surname>Mitoma</surname>
+<given-names>H</given-names>
+</string-name>
+</person-group>, <person-group person-group-type="editor">
+<string-name name-style="western">
+<surname>Manto</surname>
+<given-names>M</given-names>
+</string-name>
+</person-group>, (eds). <source>Neuroimmune Diseases</source>: <publisher-name>Springer</publisher-name>; <year>2019</year>:<fpage>195</fpage>‐<lpage>234</lpage>.</mixed-citation></ref><ref id="cns13788-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="cns13788-cit-0030">
+<string-name name-style="western">
+<surname>Wang</surname>
+<given-names>LY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>XX</given-names>
+</string-name>, et al. <article-title>Catalpol exerts a neuroprotective effect in the MPTP mouse model of Parkinson's disease</article-title>. <source>Front Aging Neurosci</source>. <year>2019</year>;<volume>11</volume>:<fpage>316</fpage>‐<lpage>328</lpage>.<pub-id pub-id-type="pmid">31849636</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fnagi.2019.00316</pub-id><pub-id pub-id-type="pmcid">PMC6889905</pub-id></mixed-citation></ref><ref id="cns13788-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="cns13788-cit-0031">
+<string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>HT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gao</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Early VEGF inhibition attenuates blood‐brain barrier disruption in ischemic rat brains by regulating the expression of MMPs</article-title>. <source>Mol Med Rep</source>. <year>2017</year>;<volume>15</volume>:<fpage>57</fpage>‐<lpage>64</lpage>.<pub-id pub-id-type="pmid">27909732</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3892/mmr.2016.5974</pub-id><pub-id pub-id-type="pmcid">PMC5355683</pub-id></mixed-citation></ref><ref id="cns13788-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="cns13788-cit-0032">
+<string-name name-style="western">
+<surname>Erickson</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Banks</surname>
+<given-names>WA</given-names>
+</string-name>. <article-title>Neuroimmune axes of the blood‐brain barriers and blood‐brain interfaces: bases for physiological regulation, disease states, and pharmacological interventions</article-title>. <source>Pharmacol Rev</source>. <year>2018</year>;<volume>70</volume>:<fpage>278</fpage>‐<lpage>314</lpage>.<pub-id pub-id-type="pmid">29496890</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1124/pr.117.014647</pub-id><pub-id pub-id-type="pmcid">PMC5833009</pub-id></mixed-citation></ref><ref id="cns13788-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="cns13788-cit-0033">
+<string-name name-style="western">
+<surname>Zlokovic</surname>
+<given-names>BV</given-names>
+</string-name>. <article-title>The blood‐brain barrier in health and chronic neurodegenerative disorders</article-title>. <source>Neuron</source>. <year>2008</year>;<volume>57</volume>:<fpage>178</fpage>‐<lpage>201</lpage>.<pub-id pub-id-type="pmid">18215617</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neuron.2008.01.003</pub-id></mixed-citation></ref><ref id="cns13788-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="cns13788-cit-0034">
+<string-name name-style="western">
+<surname>Daneman</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>The blood‐brain barrier in health and disease</article-title>. <source>Ann Neurol</source>. <year>2012</year>;<volume>72</volume>:<fpage>648</fpage>‐<lpage>672</lpage>.<pub-id pub-id-type="pmid">23280789</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ana.23648</pub-id></mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,566 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article article-type="research-article" xml:lang="en" dtd-version="1.4"><front><journal-meta><journal-id journal-id-type="nlm-ta">J Cell Mol Med</journal-id><journal-id journal-id-type="iso-abbrev">J. Cell. Mol. Med</journal-id><journal-id journal-id-type="pmc-domain-id">2233</journal-id><journal-id journal-id-type="pmc-domain">jcmmopen</journal-id><journal-id journal-id-type="nlm-id">101083777</journal-id><journal-id journal-id-type="publisher-id">JCMM</journal-id><journal-title-group><journal-title>Journal of Cellular and Molecular Medicine</journal-title></journal-title-group><issn pub-type="ppub">1582-1838</issn><issn pub-type="epub">1582-4934</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC6991654</article-id><article-id pub-id-type="pmcid-ver">PMC6991654.1</article-id><article-id pub-id-type="pmcaid">6991654</article-id><article-id pub-id-type="pmcaiid">6991654</article-id><article-id pub-id-type="pmid">31883300</article-id><article-id pub-id-type="doi">10.1111/jcmm.14904</article-id><article-id pub-id-type="publisher-id">JCMM14904</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Articles</subject></subj-group></article-categories><title-group><article-title>NFAT5 promotes arteriogenesis via MCP‐1‐dependent monocyte recruitment</article-title><alt-title alt-title-type="left-running-head">LIN et al.</alt-title></title-group><contrib-group><contrib id="jcmm14904-cr-0001" contrib-type="author"><name name-style="western"><surname>Lin</surname><given-names initials="XC">Xing‐Chi</given-names></name><xref ref-type="aff" rid="jcmm14904-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jcmm14904-cr-0002" contrib-type="author"><name name-style="western"><surname>Pan</surname><given-names initials="M">Miao</given-names></name><xref ref-type="aff" rid="jcmm14904-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jcmm14904-cr-0003" contrib-type="author"><name name-style="western"><surname>Zhu</surname><given-names initials="LP">Ling‐Ping</given-names></name><xref ref-type="aff" rid="jcmm14904-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jcmm14904-cr-0004" contrib-type="author"><name name-style="western"><surname>Sun</surname><given-names initials="Q">Quan</given-names></name><xref ref-type="aff" rid="jcmm14904-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jcmm14904-cr-0005" contrib-type="author"><name name-style="western"><surname>Zhou</surname><given-names initials="ZS">Zheng‐Shi</given-names></name><xref ref-type="aff" rid="jcmm14904-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="jcmm14904-cr-0006" contrib-type="author" corresp="yes"><name name-style="western"><surname>Li</surname><given-names initials="CC">Chuan‐Chang</given-names></name><xref ref-type="aff" rid="jcmm14904-aff-0003">
+<sup>3</sup>
+</xref><xref ref-type="aff" rid="jcmm14904-aff-0004">
+<sup>4</sup>
+</xref><address><email>lichuanchang@csu.edu.cn</email></address></contrib><contrib id="jcmm14904-cr-0007" contrib-type="author" corresp="yes"><name name-style="western"><surname>Zhang</surname><given-names initials="GG">Guo‐Gang</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-8678-2167</contrib-id><xref ref-type="aff" rid="jcmm14904-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="jcmm14904-aff-0004">
+<sup>4</sup>
+</xref><xref ref-type="aff" rid="jcmm14904-aff-0005">
+<sup>5</sup>
+</xref><address><email>zhangguogang@csu.edu.cn</email></address></contrib></contrib-group><aff id="jcmm14904-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Cardiovascular Medicine</named-content>
+<institution>Xiangya Hospital</institution>
+<institution>Central South University</institution>
+<city>Changsha</city>
+<country country="CN">China</country>
+</aff><aff id="jcmm14904-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Laboratory Animal</named-content>
+<institution>Xiangya School of Medicine</institution>
+<institution>Central South University</institution>
+<city>Changsha</city>
+<country country="CN">China</country>
+</aff><aff id="jcmm14904-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Department of Geriatric Medicine</named-content>
+<institution>Xiangya Hospital</institution>
+<institution>Central South University</institution>
+<city>Changsha</city>
+<country country="CN">China</country>
+</aff><aff id="jcmm14904-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">National Clinical Research Center for Geriatric Disorders</named-content>
+<institution>Xiangya Hospital</institution>
+<institution>Central South University</institution>
+<city>Changsha</city>
+<country country="CN">China</country>
+</aff><aff id="jcmm14904-aff-0005">
+<label><sup>5</sup></label>
+<named-content content-type="organisation-division">Department of Cardiovascular Medicine</named-content>
+<institution>The Third Xiangya Hospital</institution>
+<institution>Central South University</institution>
+<city>Changsha</city>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Guo‐Gang Zhang, Department of Cardiovascular Medicine, Xiangya Hospital, Central South University, Changsha, Hunan 410008, China.<break/>
+Email: <email>zhangguogang@csu.edu.cn</email><break/>
+Chuan‐Chang Li, Department of Geriatric Medicine, Xiangya Hospital, Central South University, Changsha, Hunan 410008, China.<break/>
+Email: <email>lichuanchang@csu.edu.cn</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>28</day><month>12</month><year>2019</year></pub-date><pub-date pub-type="ppub"><month>1</month><year>2020</year></pub-date><volume>24</volume><issue>2</issue><issue-id pub-id-type="pmc-issue-id">351287</issue-id><issue-id pub-id-type="doi">10.1111/jcmm.v24.2</issue-id><fpage>2052</fpage><lpage>2063</lpage><history><date date-type="received"><day>09</day><month>4</month><year>2019</year></date><date date-type="rev-recd"><day>28</day><month>9</month><year>2019</year></date><date date-type="accepted"><day>05</day><month>10</month><year>2019</year></date></history><pub-history><event event-type="pmc-release"><date><day>01</day><month>01</month><year>2020</year></date></event><event event-type="pmc-live"><date><day>03</day><month>02</month><year>2020</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-03-13 01:25:14.240"><day>13</day><month>03</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2019 The Authors. <italic toggle="yes">Journal of Cellular and Molecular Medicine</italic> published by Foundation for Cellular and Molecular Medicine and John Wiley &amp; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="JCMM-24-2052.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:JCMM-24-2052.pdf"/><abstract id="jcmm14904-abs-0001"><title>Abstract</title><p>Studies have demonstrated that nuclear factor of activated T cells 5 (NFAT5) is not only a tonicity‐responsive transcription factor but also activated by other stimuli, so we aim to investigate whether NFAT5 participates in collateral arteries formation in rats. We performed femoral artery ligature (FAL) in rats for hindlimb ischaemia model and found that NFAT5 was up‐regulated in rat adductors with FAL compared with sham group. Knockdown of NFAT5 with locally injection of adenovirus‐mediated NFAT5‐shRNA in rats significantly inhibited hindlimb blood perfusion recovery and arteriogenesis. Moreover, NFAT5 knockdown decreased macrophages infiltration and monocyte chemotactic protein‐1 (MCP‐1) expression in rats adductors. In vitro, with interleukin‐1β (IL‐1β) stimulation and loss‐of‐function studies, we demonstrated that NFAT5 knockdown inhibits MCP‐1 expression in endothelial cells and chemotaxis of THP‐1 cells regulated by ERK1/2 pathway. More importantly, exogenous MCP‐1 delivery could recover hindlimb blood perfusion, promote arteriogenesis and macrophages infiltration in rats after FAL, which were depressed by NFAT5 knockdown. Besides, NFAT5 knockdown also inhibited angiogenesis in gastrocnemius muscles in rats. Our results indicate that NFAT5 is a critical regulator of arteriogenesis and angiogenesis via MCP‐1‐dependent monocyte recruitment, suggesting that NFAT5 may represent an alternative therapeutic target for ischaemic diseases.</p></abstract><kwd-group><kwd id="jcmm14904-kwd-0001">arteriogenesis</kwd><kwd id="jcmm14904-kwd-0002">hindlimb ischaemia</kwd><kwd id="jcmm14904-kwd-0003">macrophage</kwd><kwd id="jcmm14904-kwd-0004">monocyte chemoattractant protein 1</kwd><kwd id="jcmm14904-kwd-0005">nuclear factor of activated T cells 5</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>National Natural Science Foundation of China </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100011002</institution-id></institution-wrap></funding-source><award-id>81570461</award-id><award-id>81670267</award-id><award-id>81873479</award-id><award-id>81873509</award-id></award-group><award-group id="funding-0002"><funding-source><institution-wrap><institution>Natural Science Foundation of Hunan Province </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100004735</institution-id></institution-wrap></funding-source><award-id>2018JJ6057</award-id></award-group><award-group id="funding-0003"><funding-source>National Basic Research Program of China</funding-source><award-id>2014CB542402</award-id></award-group></funding-group><counts><fig-count count="6"/><table-count count="0"/><page-count count="12"/><word-count count="6808"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.5 mode:remove_FC converted:30.01.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="jcmm14904-cit-1001">
+<string-name name-style="western">
+<surname>Lin</surname>
+<given-names>X‐C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pan</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhu</surname>
+<given-names>L‐P</given-names>
+</string-name>, et al. <article-title>NFAT5 promotes arteriogenesis via MCP‐1‐dependent monocyte recruitment</article-title>. <source xml:lang="en">J Cell Mol Med</source>. <year>2020</year>;<volume>24</volume>:<fpage>2052</fpage>–<lpage>2063</lpage>. <pub-id pub-id-type="doi">10.1111/jcmm.14904</pub-id>
+<pub-id pub-id-type="pmcid">PMC6991654</pub-id><pub-id pub-id-type="pmid">31883300</pub-id></mixed-citation>
+</p><fn-group id="jcmm14904-ntgp-0001"><fn fn-type="equal" id="jcmm14904-note-0001"><p>Li and Zhang are contributed equally to this article.</p></fn></fn-group></notes></front><body id="jcmm14904-body-0001"><sec id="jcmm14904-sec-0001"><label>1</label><title>INTRODUCTION</title><p>Although interventional therapy and bypass surgery are effective treatments for patients with coronary heart disease (CHD), these procedures are not suitable for some patients and are associated with a high postoperative restenosis rate.<xref rid="jcmm14904-bib-0001" ref-type="ref">1</xref>, <xref rid="jcmm14904-bib-0002" ref-type="ref">2</xref> Well‐developed coronary collateral circulation (CCC) is crucial for improving the symptoms and prognosis of CHD patients.<xref rid="jcmm14904-bib-0003" ref-type="ref">3</xref>, <xref rid="jcmm14904-bib-0004" ref-type="ref">4</xref> Therefore, investigating the regulatory mechanism of CCC formation and promoting the opening and development of CCC to reconstruct a patient's autologous blood supply may be a promising solution to those patients.</p><p>Arteriogenesis, the basic process of CCC formation, during which pre‐existing small arterioles are remodelled into large and functional collateral arteries to divert blood flow around stenotic lesions, is a complex set of events involving interactions among various cell types and signalling circuits.<xref rid="jcmm14904-bib-0005" ref-type="ref">5</xref>, <xref rid="jcmm14904-bib-0006" ref-type="ref">6</xref> Inflammation plays a crucial role in arteriogenesis.<xref rid="jcmm14904-bib-0007" ref-type="ref">7</xref> Shear force can induce activation of endothelial cells (ECs), with a subsequent up‐regulation of cell adhesion molecules such as intercellular adhesion molecule‐1 (ICAM‐1), vascular cell adhesion molecule‐1 (VCAM‐1) and chemokines such as monocyte chemoattractant protein 1 (MCP‐1), these factors further recruit monocytes which secrete matrix metalloproteinases (MMPs) and growth factors, leading to rearrangement of the extracellular matrix and outward remodelling of the arterioles.<xref rid="jcmm14904-bib-0008" ref-type="ref">8</xref>, <xref rid="jcmm14904-bib-0009" ref-type="ref">9</xref>, <xref rid="jcmm14904-bib-0010" ref-type="ref">10</xref>, <xref rid="jcmm14904-bib-0011" ref-type="ref">11</xref> However, the intracellular modules regulating MCP‐1 release and monocytes recruitment during arteriogenesis are still unclearly.</p><p>The transcription factor, nuclear factor of activated T cells 5 (NFAT5), belongs to the Rel family, which includes the NF‐κB and NFATc proteins.<xref rid="jcmm14904-bib-0012" ref-type="ref">12</xref>, <xref rid="jcmm14904-bib-0013" ref-type="ref">13</xref> Originally described as a hypertonicity‐responsive transcription factor that orchestrates cellular homeostasis, NFAT5 has also been implicated in regulating the expression of genes associated with migration and proliferation of cells.<xref rid="jcmm14904-bib-0014" ref-type="ref">14</xref>, <xref rid="jcmm14904-bib-0015" ref-type="ref">15</xref> NFAT5 mediates the migration and proliferation of smooth muscle cells, and thus promotes arterial stiffening.<xref rid="jcmm14904-bib-0016" ref-type="ref">16</xref>, <xref rid="jcmm14904-bib-0017" ref-type="ref">17</xref> Besides, NFAT also involves in vascular endothelial growth factor (VEGF)‐mediated human umbilical vein endothelial cell (HUVECs) migration and angiogenesis.<xref rid="jcmm14904-bib-0018" ref-type="ref">18</xref> More importantly, arterial wall stress, which plays critical part in arteriogenesis, activates NFAT5 in cultured vascular smooth muscle cells (VSMCs) which may contribute to an improved migratory activity of VSMCs and thus promote maladaptive vascular remodelling processes.<xref rid="jcmm14904-bib-0019" ref-type="ref">19</xref>
+</p><p>NFAT5/MCP‐1 axis has been suggested to play considerable roles in inflammation‐related diseases. NFAT5 regulates macrophage apoptosis, survival and proliferation by inducing MCP‐1 secretion and thereby plays a central role in the pathogenesis of macrophage‐dependent chronic inflammatory diseases such as rheumatoid arthritis.<xref rid="jcmm14904-bib-0015" ref-type="ref">15</xref> Besides, in human kidney, the high interstitial sodium concentration in the medulla generates a defence zone with enhanced antibacterial immunity via NFAT5/MCP‐1‐dependent monocytes chemotaxis, mononuclear phagocytes bactericidal activity and cytokine production.<xref rid="jcmm14904-bib-0020" ref-type="ref">20</xref> However, it is not clear whether MCP‐1 release and monocytes recruitment during arteriogenesis are determined by NFAT5.</p><p>In this study, we will demonstrate that NFAT5 controls MCP‐1 release in ECs, as well as promotes monocytes recruitment and arteriogenesis in hindlimb ischaemia after femoral artery ligation (FAL), in order to discover a new mechanism and provide a novel therapeutic target for the development of collateral circulation.</p></sec><sec sec-type="materials-and-methods" id="jcmm14904-sec-0002"><label>2</label><title>MATERIALS AND METHODS</title><sec id="jcmm14904-sec-0003"><label>2.1</label><title>Rat hindlimb ischaemia model</title><p>All animals care protocols and experiments were reviewed and approved by the Animal Care and Use Committee of the Department of Laboratory Animals, Xiangya School of Medicine, Central South University. All of the rats were maintained in the specific pathogen‐free facility of the Department of Laboratory Animals, Central South University. 250‐300 g male Sprague‐Dawley (SD) rats were anaesthetized with 3% pentobarbital sodium (50 mg/kg) by intraperitoneal injection, and the surgical procedures were performed under sterile conditions. For hindlimb ischaemia model, we performed femoral artery ligature (FAL) referencing previous studies.<xref rid="jcmm14904-bib-0021" ref-type="ref">21</xref>, <xref rid="jcmm14904-bib-0022" ref-type="ref">22</xref> Briefly, a vertical longitudinal incision was made in the left hindlimb, and the femoral artery and its branches were then dissected and ligated. For the arteriogenesis experiments, adductor muscles were harvested 3 or 21 days after surgery. For the angiogenesis experiments, gastrocnemius muscles were harvested 7 or 21 days after surgery. The muscles were fixed in 4% paraformaldehyde (PFA) for further experiments. For MCP‐1 supplement experiments, MCP‐1 (450 ng/mL, Abcam) in phosphate‐buffered saline (PBS) or PBS alone was infused via osmotic minipumps (10 μL per hour for 7 days, DURECT Corporation) after surgery, as described previously.<xref rid="jcmm14904-bib-0023" ref-type="ref">23</xref>
+</p></sec><sec id="jcmm14904-sec-0004"><label>2.2</label><title>Postmortem angiography</title><p>For postmortem angiography, lead sulphate/gelatin contrast agent was infused into rat hindlimbs as previously described.<xref rid="jcmm14904-bib-0022" ref-type="ref">22</xref> X‐ray pictures were taken in a X‐ray chamber (model DHF‐155H, HITACHI MEDICAL CORPORATION) exposed to 50 kV and 100 mA for 30 ms Pictures were taken and transferred to a computer where identification and counting of collateral arteries were performed. Angiographies were obtained after 21 days of the FAL.</p></sec><sec id="jcmm14904-sec-0005"><label>2.3</label><title>NFAT5 shRNA adenovirus production and administration</title><p>The adenoviral vectors carried rat NFAT5 shRNA (Ad‐shNFAT5) or the negative control (Ad‐null) were constructed by Genechem Co., Ltd. The shRNA sequences were as follows: Ad‐shNFAT5 (5′‐CCGGGCAATGGAAGTGTTGACTTGGCTCGAGCCAAGTCAACACTTCCATTGCTTTTTG ‐3′) and Ad‐null (5′‐CCGGTTCTCCGAACGTGTCACGTCTCGAGACGTGACACGTTCGGAGAATTTTTG‐3′). For NFAT5 knockdown experiments in rats, Ad‐shNFAT5 or Ad‐null was delivered (1 × 10<sup>10</sup> PFU per rat) after being divided among four to five injection sites in the adductor or gastrocnemius and surrounding muscles 3 days before FAL.</p></sec><sec id="jcmm14904-sec-0006"><label>2.4</label><title>Laser speckle imaging</title><p>Blood flow recovery was measured by scanning both rear paws with laser speckle contrast imaging (LSCI) (PeriCam PSI Z, Perimed) before and after the surgical procedure (0, 3, 7, 14 and 21 days). During the procedure, the animals were kept under pentobarbital sodium anaesthesia and their body temperatures were strictly maintained between 36.5°C and 37.5°C. Plantar perfusion was quantified within anatomically defined regions of interest (ROIs). The results were reported as the ratio of blood flow in the left to the right (L/R) hindlimb.<xref rid="jcmm14904-bib-0024" ref-type="ref">24</xref>
+</p></sec><sec id="jcmm14904-sec-0007"><label>2.5</label><title>Cell culture and transfection</title><p>Human umbilical vein endothelial cells were purchased from ScienCell Research Laboratories, Inc and maintained in endothelial cell medium (ScienCell) supplemented with 5% foetal bovine serum (FBS), endothelial cell growth supplement and 1% penicillin/streptomycin (ScienCell). THP‐1 cells were obtained from the Cell Bank of Type Culture Collection of Chinese Academy of Sciences and cultured in RPMI‐1640 medium (Gibco) supplemented with 10% FBS (ScienCell) and 1% penicillin/streptomycin solution. Both HUVEC and THP‐1 cells were maintained in a humidified atmosphere containing 5% CO<sub>2</sub> at 37°C. The human NFAT5 siRNA (si‐NFAT5) and siRNA negative control (si‐NC) (Santa Cruz Biotechnology, Inc) were transfected to HUVECs for 24 hours using Lipofectamine 2000 (Life Technologies) according to the manufacturer's instructions.</p></sec><sec id="jcmm14904-sec-0008"><label>2.6</label><title>Quantitative real‐time PCR</title><p>Total RNA was extracted from muscle or cell samples using RNAiso Plus reagent (TaKaRa), RNA concentration was quantitated by NanoDrop One (Thermo Fisher Scientific). For detection of NFAT5, ICAM‐1, VCAM‐1, MCP‐1 and GAPDH mRNA expressions, cDNAs were synthesized by using PrimeScript™ RT reagent kit with gDNA Eraser (TaKaRa) according to the manufacturer's instructions. Real‐time PCR was performed on the 7500 Real‐Time PCR System (Applied Biosystems) using SYBR Premix Ex Taq reagent (TaKaRa) with NFAT5, ICAM‐1, VCAM‐1, MCP‐1 and GAPDH specific primers. GAPDH was used as internal standard to normalize the mRNA expression level using 2<sup>−ΔΔCt</sup> method. The sequences for each primer were shown in Table <xref rid="jcmm14904-sup-0005" ref-type="supplementary-material">S1</xref>.</p></sec><sec id="jcmm14904-sec-0009"><label>2.7</label><title>Western blot analysis</title><p>Muscle or cell samples were lysed for 30 minutes on ice in RIPA lysis buffer (Beyotime Institute of Biotechnology), and the protein concentration was determined by BCA Protein Assay Kit (Beyotime Institute of Biotechnology). Total protein (50 to 100 μg) was resolved by SDS‐polyacrylamide gel electrophoresis, transferred to a nitrocellulose membrane, and subjected to immunoblot analysis. The primary antibodies for NFAT5 (1:1000, Abcam), MCP‐1 (1:2000, Abcam), p‐ERK1/2 (1:2000, Cell Signaling Technology), ERK1/2 (1:1000, Cell Signaling Technology) or GAPDH (1:10 000, Abcam) and horseradish peroxidase‐conjugated secondary antibody (Santa Cruz Biotechnology) were used. The proteins were detected using enhanced chemiluminescence reagents (Millipore, Burlington), and bands were analysed with Image J software normalized by GAPDH.</p></sec><sec id="jcmm14904-sec-0010"><label>2.8</label><title>Immunohistochemistry and immunofluorescence assay</title><p>We harvested the adductor or gastrocnemius muscles after FAL. The mid‐zone of the muscle (the 5‐mm‐wide centremost section) was trimmed. Samples were embedded in paraffin and 4 μm thick cross‐sections were performed for haematoxylin and eosin (HE) staining. For immunohistochemistry, we used antibodies to α‐SMA (1:800, Sigma), Ki‐67 (1:200, Abcam) and CD68 (1:200, Abcam). Paraffin section was rehydrated and endogenous peroxidase activity was blocked for 30 minutes in methanol which contains 0.3% hydrogen peroxide. Primary antibody was incubated at 4°C overnight, followed by 60 minutes for biotinylated secondary antibody (1:500, Abcam). All specimens were counterstained with haematoxylin staining solution (Beyotime Institute of Biotechnology), then neutral gum sealed piece for storage. Analysis of collaterals was performed after scanning the section through OLYMPUS CX41 and Leica Application Suite 4.0 software. For immunofluorescence assays, primary antibodies for NFAT5 (1:100, Abcam), MCP‐1 (1:100, Abcam), α‐SMA (1:400, Sigma) or CD31 (1:50, Abcam) were applied, secondary antibodies were used with labelling with Alexa Fluor dye (1:200, Abcam) with a maximum excitation at 488 nm (green), and for red with Alexa Fluor 594 nm. The slides were counter stained with DAPI (Sigma) to visualize cellular nuclei. Images were obtained by fluorescence microscope (DMI4000B, Leica) and analysed by Image‐Pro Plus 6.0.</p></sec><sec id="jcmm14904-sec-0011"><label>2.9</label><title>ELISA assay</title><p>The concentration of MCP‐1 in the supernatant of the cultured HUVECs was determined by using enzyme‐linked immunosorbent assay (ELISA) kit (R&amp;D Systems) according to the manufacturer's instructions.</p></sec><sec id="jcmm14904-sec-0012"><label>2.10</label><title>Chemotaxis assay</title><p>4 × 10<sup>5</sup> THP‐1 cells were placed in the upper chamber of a modified Boyden chamber (pore size 8 μm; Corning). The chambers were placed into 24‐well cell culture plate containing conditioned culture supernatant of the HUVECs treated with or without si‐NC, si‐NFAT5 or ERK1/2 inhibitor (U0126). After incubation for 3 hours at 37°C, the cells on the lower surface of the chamber were fixed with 4% PFA and counterstained with crystal violet and counted manually in five random fields using a microscope, the cells in the lower chamber were observed using a haemocytometer.</p></sec><sec id="jcmm14904-sec-0013"><label>2.11</label><title>Statistical analysis</title><p>The data were presented as means ± standard deviation (SD). Differences between two groups were determined by Student's <italic toggle="yes">t</italic> test. Comparisons of multiple groups were performed with one‐way analysis of variance (ANOVA). All statistical analyses were performed using the SPSS 13.0 software package (SPSS Inc), and a two‐tailed <italic toggle="yes">P</italic> value &lt; .05 was considered to be statistically significant.</p></sec></sec><sec sec-type="results" id="jcmm14904-sec-0014"><label>3</label><title>RESULTS</title><sec id="jcmm14904-sec-0015"><label>3.1</label><title>NFAT5 is required for the development of collaterals in rats after hindlimb ischaemia</title><p>In order to investigate whether NFAT5 participates in the development of collateral circulations, we performed hindlimb ischaemia in rats by FAL, which induced arteriogenesis from pre‐existing collateral anastomoses. Rats were subjected to FAL at one side and the other side was unligated hindlimb that was regarded as sham control. We detected NFAT5 expression in adductor muscles, found that both NFAT5 mRNA and protein expressions were increased at day 1, 3, 7 after FAL when compared with sham hindlimb and showed the most significant increase at day 3 (Figure <xref rid="jcmm14904-fig-0001" ref-type="fig">1</xref>A,B). Meanwhile, we also found the similar result that NFAT5 was activated by hypoxia in HUVECs (Figure <xref rid="jcmm14904-sup-0001" ref-type="supplementary-material">S1</xref>A,B). We furtherly examined whether NFAT5 knockdown could reduce collateral circulations formation via locally injection of NFAT5 shRNA adenovirus into hindlimb muscles. As a result, NFAT5 mRNA and protein expressions in adductor muscles were increased at day 3 after FAL but both were remarkably decreased when treated with Ad‐shNFAT5 (Figure <xref rid="jcmm14904-sup-0002" ref-type="supplementary-material">S2</xref>A,B). Meanwhile, double staining of NFAT5 and α‐SMA in adductor muscles 3 days after surgery indicated that NFAT5 was mainly located in ECs of collateral arteries and Ad‐shNFAT5 could markedly reduce NFAT5 expression in ECs of collateral arteries (Figure <xref rid="jcmm14904-sup-0002" ref-type="supplementary-material">S2</xref>C). Besides, the number of angiographically visible collateral vessels was also significantly decreased in rats treated with Ad‐shNFAT5 compared with Ad‐null at day 21 after FAL (Figure <xref rid="jcmm14904-sup-0002" ref-type="supplementary-material">S2</xref>D).</p><fig fig-type="Figure" xml:lang="en" id="jcmm14904-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>NFAT5 is required for collaterals formation in a rat hindlimb ischaemic model. A and B, NFAT5 mRNA and protein expression in adductor muscles at 12 h, day 1, day 3, day 7 and day 14 after FAL. C, Representative laser speckle perfusion images and statistical analysis of the ratios of left to right (L/R) hindlimb blood perfusion among rats treated with locally injection of Ad‐null and Ad‐shNFAT5 into adductor muscles immediately after (acute), 3 d after, 7 d after, 14 d after and 3 wk after FAL. D, HE staining, immunohistochemistry of α‐SMA and Ki‐67 in cross‐sections of the adductor muscles collected from sham‐, ligature‐, ligature + Ad‐null‐ and ligature + Ad‐shNFAT5‐treated rats 21 d after FAL. E, Quantification of images from (D), collateral artery diameter and lumen areas were assayed by α‐SMA staining, and proliferating cells were measured by Ki‐67 staining. *<italic toggle="yes">P</italic> &lt; .05, **<italic toggle="yes">P</italic> &lt; .01 for multi‐time points vs sham (A and B); **<italic toggle="yes">P</italic> &lt; .01 vs + Ad‐null, <sup>##</sup>
+<italic toggle="yes">P</italic> &lt; .01 vs sham (C and E); N = 6 rats in each group</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-1" position="float" orientation="portrait" xlink:href="JCMM-24-2052-g001.jpg"/></fig><p>As arteriogenesis and collateral remodelling are the largest contributors to perfusion recovery after FAL,<xref rid="jcmm14904-bib-0025" ref-type="ref">25</xref> so we next investigated whether NFAT5 knockdown inhibits blood flow recovery using laser speckle contrast imaging at day 0, 3, 7, 14 and 21 after FAL. Consistent with the above, the Ad‐shNFAT5‐treated rats showed attenuated perfusion recovery in the hindlimbs as early as 3 days after surgery when compared with Ad‐null group (day 3, 32.3 ± 4.1% vs 59.1 ± 6.6%, <italic toggle="yes">P</italic> &lt; .01; day 7, 46.5 ± 6.2% vs 71.8 ± 5.3%, <italic toggle="yes">P</italic> &lt; .01; day 14, 59.5 ± 5.0% vs 83.2 ± 6.2%, <italic toggle="yes">P</italic> &lt; .01; day 21, 68.3 ± 7.1% vs 89.2 ± 4.6%, <italic toggle="yes">P</italic> &lt; .01; Figure <xref rid="jcmm14904-fig-0001" ref-type="fig">1</xref>C). Furtherly, HE staining and immunohistochemistry of α‐SMA (alpha‐smooth muscle actin) and Ki‐67 (a proliferation marker) in the adductors were used to determine the effects of NFAT5 knockdown on arteriogenesis (Figure <xref rid="jcmm14904-fig-0001" ref-type="fig">1</xref>D,E). At day 21 after FAL, the diameter of collaterals in Ad‐shNFAT5‐treated rats was smaller than those of control in Ad‐null‐treated rats (35 ± 5 vs 54 ± 11 μm, <italic toggle="yes">P</italic> &lt; .01). Additionally, the artery area was also smaller in Ad‐shNFAT5‐treated group than those in Ad‐null‐treated (548 ± 102 vs 1584 ± 371 μm<sup>2</sup>, <italic toggle="yes">P</italic> &lt; .01). To evaluate the proliferation of collateral arteries, we assayed cell proliferation in and around the collaterals by Ki‐67 staining. Ad‐shNFAT5‐treated rats showed lower Ki‐67 positive cells (15 ± 4 vs 34 ± 5, <italic toggle="yes">P</italic> &lt; .01) as well as lower proliferation index (0.29 ± 0.05 vs 0.64 ± 0.11, <italic toggle="yes">P</italic> &lt; .01) than those treated with Ad‐null. These results demonstrated that NFAT5 is required for collateral arteries growth which was inhibited by NFAT5 knockdown.</p></sec><sec id="jcmm14904-sec-0016"><label>3.2</label><title>NFAT5 knockdown inhibits monocyte recruitment and MCP‐1 expression in rats hindlimb ischaemia model</title><p>Evidence suggested that inflammation is responsible for collateral vessel remodelling and NFAT5 is a critical regulator of inflammation,<xref rid="jcmm14904-bib-0007" ref-type="ref">7</xref>, <xref rid="jcmm14904-bib-0026" ref-type="ref">26</xref> so we therefore explored whether the infiltration of macrophages and secretion of inflammatory factors were affected by NFAT5 in vivo. Similarly, our results also demonstrated that collateral circulation growth was accompanied with increase of macrophage infiltration around the collateral vessels in the adductors, which was assessed by CD68‐positive staining (26 ± 5 vs 3 ± 2, <italic toggle="yes">P</italic> &lt; .01, Figure <xref rid="jcmm14904-fig-0002" ref-type="fig">2</xref>A,B). Nevertheless, the infiltrating macrophages were significantly decreased when rats were treated with Ad‐shNFAT5 (7 ± 3 vs 24 ± 5, <italic toggle="yes">P</italic> &lt; .01, Figure <xref rid="jcmm14904-fig-0002" ref-type="fig">2</xref>A,B). According to previous studies, ICAM‐1, VCAM‐1 and MCP‐1 are the three predominant molecules up‐regulated that induce monocyte recruitment during arteriogenesis.<xref rid="jcmm14904-bib-0008" ref-type="ref">8</xref>, <xref rid="jcmm14904-bib-0009" ref-type="ref">9</xref>, <xref rid="jcmm14904-bib-0010" ref-type="ref">10</xref>, <xref rid="jcmm14904-bib-0011" ref-type="ref">11</xref> So we investigated the expressions of these inflammatory factors in adductors 3 days after surgery and found that neither ICAM‐1 mRNA nor VCAM‐1 mRNA expression was affected by NFAT5 knockdown (Figure <xref rid="jcmm14904-fig-0002" ref-type="fig">2</xref>C,D). However, MCP‐1 mRNA and protein were significantly down‐regulated in rats treated with Ad‐shNFAT5 compared with Ad‐null (Figure <xref rid="jcmm14904-fig-0002" ref-type="fig">2</xref>E,F). In addition, double staining of MCP‐1 and α‐SMA in adductor muscles 3 days after surgery indicated that NFAT5 knockdown could markedly reduce MCP‐1 expression in the ECs of collaterals arteries (Figure <xref rid="jcmm14904-fig-0002" ref-type="fig">2</xref>G). These data suggested that NFAT5 knockdown results in the reduction of macrophage infiltration in adductors and MCP‐1 expression in ECs of collateral arteries.</p><fig fig-type="Figure" xml:lang="en" id="jcmm14904-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>NFAT5 knockdown inhibits macrophages infiltration and MCP‐1 expression after hindlimb ischaemia surgery. A and B, Representative of immunohistochemistry staining and quantification of CD68 in adductor muscles selected from sham‐, ligature‐, +Ad‐null and + Ad‐shNFAT5 treated rats 3 d after FAL. C‐F, ICAM‐1, VCAM‐1 and MCP‐1 expressions in adductor muscles 3 d after indicated treatment. G, Representative immunofluorescence staining of MCP‐1 (red), α‐SMA (green) and DAPI (blue) in collateral artery 3 d after FAL. Scale bar = 50 μm or 5 μm. **<italic toggle="yes">P</italic> &lt; .01 for vs + Ad‐null; <sup>##</sup>
+<italic toggle="yes">P</italic> &lt; .01 vs sham; N = 6 rats in each group</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-3" position="float" orientation="portrait" xlink:href="JCMM-24-2052-g002.jpg"/></fig></sec><sec id="jcmm14904-sec-0017"><label>3.3</label><title>IL‐1β promotes NFAT5 expression and translocation to the nucleus in HUVECs</title><p>As MCP‐1 released from ECs is an important mediator for arteriogenesis,<xref rid="jcmm14904-bib-0009" ref-type="ref">9</xref> which could be induced by interleukin‐1 β (IL‐1β),<xref rid="jcmm14904-bib-0027" ref-type="ref">27</xref> so we further investigated whether NFAT5 is involved in this process in HUVECs. Our results indicated that IL‐1β could apparently increase NFAT5 mRNA and protein expressions in time‐ and dose‐dependent manner in HUVECs (Figure <xref rid="jcmm14904-fig-0003" ref-type="fig">3</xref>A‐D), as well as promote NFAT5 translocation to the nucleus demonstrated by immunofluorescence assay (Figure <xref rid="jcmm14904-fig-0003" ref-type="fig">3</xref>E). Furthermore, we treated HUVECs with NFAT5 siRNA under both basal‐ and IL‐1β‐treated conditions, finding that NFAT5 and MCP‐1 protein expressions as well as MCP‐1 concentration in the culture supernatant were markedly increased stimulated by IL‐1β (Figure <xref rid="jcmm14904-fig-0003" ref-type="fig">3</xref>F‐I), but significantly decreased when treated with NFAT5 siRNA under both basal‐ and IL‐1β‐treated conditions (Figure <xref rid="jcmm14904-fig-0003" ref-type="fig">3</xref>F‐I).</p><fig fig-type="Figure" xml:lang="en" id="jcmm14904-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>NFAT5 regulates MCP‐1 expression in HUVECs. A and B, NFAT5 mRNA and protein expressions in HUVECs treated with IL‐1β (5 ng/mL) at different time points. C and D, NFAT5 mRNA and protein expressions in HUVECs treated with different concentrations of IL‐1β for 12 h. E, Representative immunofluorescence staining of NFAT5 (red) and DAPI (blue) in HUVECs treated with IL‐1β (10 ng/mL) for 12 h. F‐H, Representative of Western blot images and quantification of NFAT5 and MCP‐1 protein expressions in HUVECs treated with si‐NFAT5 (20 nmol/L) or si‐NC (20 nmol/L) under basal or IL‐1β (10 ng/mL) stimulation for 12 h. I, The MCP‐1 concentration in culture supernatant of HUVECs treated with si‐NFAT5 (20 nmol/L) or si‐NC (20 nmol/L) under basal or IL‐1β (10 ng/mL) stimulation for 12 h. *<italic toggle="yes">P</italic> &lt; .05, **<italic toggle="yes">P</italic> &lt; .01, for IL‐1β vs control (A‐D), +si‐NC vs + si‐NFAT5 (G‐I); <sup>#</sup>
+<italic toggle="yes">P</italic> &lt; .05, <sup>##</sup>
+<italic toggle="yes">P</italic> &lt; .01 vs si‐NC (G‐I); <sup>++</sup>
+<italic toggle="yes">P</italic> &lt; .01 vs control (G‐I). Each experiment was repeated three times. NC, negative control</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-5" position="float" orientation="portrait" xlink:href="JCMM-24-2052-g003.jpg"/></fig></sec><sec id="jcmm14904-sec-0018"><label>3.4</label><title>NFAT5 enhances THP‐1 cell chemotaxis by regulating MCP‐1 release in HUVECs depending on activation of ERK1/2 pathway</title><p>As the chemotaxis and adhesion of monocytes to ECs are an important process of arteriogenesis,<xref rid="jcmm14904-bib-0009" ref-type="ref">9</xref>, <xref rid="jcmm14904-bib-0011" ref-type="ref">11</xref> so we next investigated whether NFAT5 in HUVECs affects the chemotaxis of THP‐1 cells in vitro using transwell migration assay to imitate the process during arteriogenesis in vivo. We firstly cultured HUVECs under different conditions and then investigated the chemotaxis of THP‐1 cells cultured in the culture supernatant of HUVECs. Our results indicated that IL‐1β could significantly induce chemotaxis of THP‐1 cells, but NFAT5 knockdown by NFAT5 siRNA markedly inhibited the migration of THP‐1 cells migrated into the lower surface of the chambers and the medium under both basal‐ and IL‐1β‐treated conditions (Figure <xref rid="jcmm14904-fig-0004" ref-type="fig">4</xref>A‐C). These data and the results suggested that NFAT5 is essential for IL‐1β‐induced THP‐1 cell chemotaxis.</p><fig fig-type="Figure" xml:lang="en" id="jcmm14904-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>NFAT5 knockdown inhibits chemotaxis of THP‐1 cells. A, Representative images of migrated THP‐1 cells supplemented with the culture supernatant of HUVECs which had been incubated in si‐NFAT5 (20 nmol/L) or si‐NC (20 nmol/L) under basal or IL‐1β (10 ng/mL) stimulation for 12 h. B, The number of migrated THP‐1 cells on the reverse surface of the membrane. C, The number of migrated THP‐1 cells in the lower medium. *<italic toggle="yes">P</italic> &lt; .05, **<italic toggle="yes">P</italic> &lt; .01 vs + si‐NC; <sup>+</sup>
+<italic toggle="yes">P</italic> &lt; .05, <sup>++</sup>
+<italic toggle="yes">P</italic> &lt; .01 vs control; <sup>#</sup>
+<italic toggle="yes">P</italic> &lt; .05, <sup>##</sup>
+<italic toggle="yes">P</italic> &lt; .01 vs si‐NC. Each experiment was repeated three times. NC, negative control</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-7" position="float" orientation="portrait" xlink:href="JCMM-24-2052-g004.jpg"/></fig><p>Because activation of ERK1/2 pathway is required for IL‐1β‐induced MCP‐1 expression,<xref rid="jcmm14904-bib-0028" ref-type="ref">28</xref> so we further investigated the role of ERK1/2 pathway in NFAT5‐regulated chemotaxis of THP‐1 cells. Our results showed that ERK1/2 pathway inhibitor (U0126) could significantly inhibit IL‐1β‐induced THP‐1 cells migration (Figure <xref rid="jcmm14904-fig-0005" ref-type="fig">5</xref>A,B). Meanwhile, IL‐1β induced phosphorylation of ERK1/2 as well as increased NFAT5 and MCP‐1 protein expressions, which can be abolished by ERK1/2 inhibitor (Figure <xref rid="jcmm14904-fig-0005" ref-type="fig">5</xref>C‐E). All these data stated clearly that NFAT5 induced chemotaxis of THP‐1 cells through MCP‐1 which was depended on the activation of ERK1/2 pathway.</p><fig fig-type="Figure" xml:lang="en" id="jcmm14904-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>The ERK1/2 pathway involves in NFAT5‐mediated chemotaxis of THP‐1 cells. A, Representative images of migrated THP‐1 cells supplemented with the culture supernatant of HUVECs which had been pretreated with ERK1/2 inhibitor (U0126, 10 μmol/L) or DMSO for 30 min before treatment with IL‐1β (10 ng/mL) for an additional 12 h. B, The number of migrated THP‐1 cells on the reverse side of the membrane and in the lower medium. C‐E, ERK1/2, NFAT5 and MCP‐1 protein expressions in HUVECs treated as (A). *<italic toggle="yes">P</italic> &lt; .05, **<italic toggle="yes">P</italic> &lt; .01 vs + DMSO; <sup>##</sup>
+<italic toggle="yes">P</italic> &lt; .01 vs control. Each experiment was repeated three times</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-9" position="float" orientation="portrait" xlink:href="JCMM-24-2052-g005.jpg"/></fig></sec><sec id="jcmm14904-sec-0019"><label>3.5</label><title>MCP‐1 delivery reverses the inhibitory effects of NFAT5 knockdown on collateral circulations growth in rats</title><p>As we have proved that NFAT5 knockdown in ECs may result in the reduction of monocytes chemotaxis through MCP‐1, which in turn leading a decreased infiltration of macrophages. Therefore, we investigated whether MCP‐1 delivery could reverse the impairment of collateral circulations growth result from NFAT5 knockdown. As shown in Figure <xref rid="jcmm14904-fig-0006" ref-type="fig">6</xref>A, laser speckle contrast imaging demonstrated that MCP‐1 delivery into rats hindlimb muscles could markedly restore the blood perfusion of hindlimb that was inhibited by NFAT5 knockdown at day 3, 7, 14 and 21 after surgery (day 3, 33.3 ± 6.1% vs 48.5 ± 4.6%, <italic toggle="yes">P</italic> &lt; .01; day 7, 47.5 ± 5.5% vs 69.8 ± 6.1%, <italic toggle="yes">P</italic> &lt; .01; day 14, 60.5 ± 4.0% vs 76.2 ± 5.2%, <italic toggle="yes">P</italic> &lt; .01; day 21, 69.3 ± 6.1% vs 85.9 ± 6.6%, <italic toggle="yes">P</italic> &lt; .01). Similarly, corresponding angiographies of MCP‐1‐treated rat hindlimbs illustrated good collaterals growth when NFAT5 knockdown (Figure <xref rid="jcmm14904-sup-0003" ref-type="supplementary-material">S3</xref>). Besides, immunohistochemistry of CD68 indicated that MCP‐1 obviously promoted macrophages to infiltrate into the adductors when NFAT5 knockdown (8 ± 3 vs 20 ± 4, <italic toggle="yes">P</italic> &lt; .01, Figure <xref rid="jcmm14904-fig-0006" ref-type="fig">6</xref>B). Next, to explore whether MCP‐1 reverse the inhibitory effect of NFAT5 knockdown on collateral vessels growth, we examined the adductors 21 days after FAL. Consequently, the induction of arteriogenesis in the adductor was better in MCP‐1‐treated rats compared with control rats in condition of NFAT5 knockdown, which was reflected by significant increases in artery diameter (33 ± 4 vs 46 ± 7 μm, <italic toggle="yes">P</italic> &lt; .01), artery area (566 ± 115 vs 1312 ± 182 μm<sup>2</sup>, <italic toggle="yes">P</italic> &lt; .01), Ki‐67 expression (12 ± 3 vs 25 ± 5, <italic toggle="yes">P</italic> &lt; .01) and proliferative index (0.25 ± 0.05 vs 0.44 ± 0.07; <italic toggle="yes">P</italic> &lt; .01, Figure <xref rid="jcmm14904-fig-0006" ref-type="fig">6</xref>C,D).</p><fig fig-type="Figure" xml:lang="en" id="jcmm14904-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>MCP‐1 delivery recovery arteriogenesis which is inhibited by NFAT5 knockdown. A, Representative images of laser speckle perfusion images and statistical analysis of the ratios of left to right (L/R) hindlimb blood perfusion in NFAT5 knockdown rats treated with MCP‐1 delivery at various time points after FAL. B, Representative of immunohistochemistry staining and quantification of CD68 in adductor muscles selected from NFAT5 knockdown rats treated with MCP‐1 delivery 3 d after FAL. C, HE staining, immunohistochemistry of α‐SMA and Ki‐67 in cross‐sections of the adductor muscles collected from NFAT5 knockdown rats treated with MCP‐1 delivery 21 d after FAL. D, Quantification of images from (C), collateral artery diameter and lumen areas were assayed by α‐SMA staining, and proliferating cells were measured by Ki‐67 staining. Scale bar = 50 μm. **<italic toggle="yes">P</italic> &lt; .01 vs + PBS; N = 6 rats in each group</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-11" position="float" orientation="portrait" xlink:href="JCMM-24-2052-g006.jpg"/></fig></sec><sec id="jcmm14904-sec-0020"><label>3.6</label><title>Angiogenesis is also impaired in rats lacking NFAT5</title><p>We also investigated whether NFAT5 is required for angiogenesis during collateral circulations growth. Our results showed that injection with Ad‐shNFAT5 in gastrocnemius significantly impaired the blood flow recovery in the hindlimbs (day 3, 53.3 ± 6.1% vs 41.9 ± 7.6%, <italic toggle="yes">P</italic> &lt; .01; day 7, 72.6 ± 5.5% vs 52.8 ± 4.3%, <italic toggle="yes">P</italic> &lt; .01; day 14, 86.2 ± 4.0% vs 72.7 ± 5.3%, <italic toggle="yes">P</italic> &lt; .01; day 21, 90.1 ± 7.3% vs 77.6 ± 4.2%, <italic toggle="yes">P</italic> &lt; .01; Figure <xref rid="jcmm14904-sup-0004" ref-type="supplementary-material">S4</xref>A). Meanwhile, macrophages infiltration at day 7 (19.7 ± 4.5 vs 5.3 ± 3.4, <italic toggle="yes">P</italic> &lt; .01; Figure <xref rid="jcmm14904-sup-0004" ref-type="supplementary-material">S4</xref>B) and the number of capillaries at day 21 (58.2 ± 11.3 vs 23.7 ± 4.4, <italic toggle="yes">P</italic> &lt; .01; Figure <xref rid="jcmm14904-sup-0004" ref-type="supplementary-material">S4</xref>B) in Ad‐shNFAT5‐treated rats were also weakened when compared with Ad‐null‐treated rats.</p></sec></sec><sec sec-type="discussion" id="jcmm14904-sec-0021"><label>4</label><title>DISCUSSION</title><p>The primary findings of the present study are as follows: (a) genetical silence of NFAT5 attenuates arteriogenesis and angiogenesis in rat hindlimb ischaemia model; (b) NFAT5 can regulate monocyte recruitment by regulating the expression of MCP‐1 in ECs both in vivo and in vitro; (c) MCP‐1 supplementation can reverse the inhibitory effect of NFAT5 knockdown on monocyte recruitment and arteriogenesis. Collectively, these findings mainly suggest that NFAT5 promotes arteriogenesis via MCP‐1‐dependent monocyte recruitment.</p><p>Hindlimb ischaemia model showed that NFAT5 increased since the 12th hour after FAL, reached the highest level at the 3rd day, began to decrease from the 7th day and returned to normal level at the 14th day. After NFAT5 was knocked down, the blood flow recovery of the lower limbs was inhibited. The diameter and covering area of collateral arteries were decreased, as well as the number of proliferative cells, implying that arteriogenesis was inhibited by NFAT5 knockdown after FAL. Therefore, these results indicated that NFAT5 can promote collateral artery formation. It was evidenced that the 3rd day when NFAT5 increased maximally is also the time when maximal monocyte recruitment occurred.<xref rid="jcmm14904-bib-0023" ref-type="ref">23</xref>, <xref rid="jcmm14904-bib-0029" ref-type="ref">29</xref> Compelling evidence has indicated an essential role for monocytes in arteriogenesis.<xref rid="jcmm14904-bib-0030" ref-type="ref">30</xref>, <xref rid="jcmm14904-bib-0031" ref-type="ref">31</xref> Specifically, in the rabbit and mouse hindlimb ischaemia models, pharmacological monocyte depletion led to impaired arteriogenesis which can be rescued by restoring monocyte blood count through the injection of exogenous cells.<xref rid="jcmm14904-bib-0032" ref-type="ref">32</xref> In keeping with these results, the magnitude of their infiltration at the site of collateral arteries positively correlates with arteriogenesis development.<xref rid="jcmm14904-bib-0033" ref-type="ref">33</xref>, <xref rid="jcmm14904-bib-0034" ref-type="ref">34</xref> Our experiments showed that after NFAT5 knockdown, the formation of collateral arteries was inhibited, and the aggregation of macrophages around collateral arteries was significantly inhibited on the 3rd day after ligation as was shown with CD68 immunochemistry assays. At the same time, immunofluorescence assays showed that NFAT5 was mainly expressed in the endothelium of collateral artery. Therefore, we speculated that endothelial NFAT5 might regulate arteriogenesis by regulating monocyte recruitment.</p><p>Next, we explored the mechanism of NFAT5 regulating monocyte recruitment. According to previous study, ICAM‐1, VCAM‐1 and MCP‐1 are the three predominant up‐regulated molecules that induce monocyte recruitment during arteriogenesis.<xref rid="jcmm14904-bib-0006" ref-type="ref">6</xref>, <xref rid="jcmm14904-bib-0035" ref-type="ref">35</xref> Our results showed that NFAT5 knockdown did not affect ICAM‐1 and VCAM‐1 mRNA expression, but both mRNA and protein expressions of MCP‐1 were notably decreased, and MCP‐1 around collateral arteries was also decreased. Apart from the importance of monocytes for arteriogenesis, it is apparent that MCP‐1 plays a pivotal role for monocyte recruitment during arteriogenesis. In different animal models of FAL, infusion of MCP‐1 led to an increased number of macrophages surrounding growing collaterals and improved collateral flow.<xref rid="jcmm14904-bib-0036" ref-type="ref">36</xref>, <xref rid="jcmm14904-bib-0037" ref-type="ref">37</xref>, <xref rid="jcmm14904-bib-0038" ref-type="ref">38</xref> By contrast, mice genetically deficient for MCP‐1 or its isogenous receptor CCR2 displayed reduced monocyte infiltration and decreased arteriogenesis following artery occlusion.<xref rid="jcmm14904-bib-0039" ref-type="ref">39</xref>, <xref rid="jcmm14904-bib-0040" ref-type="ref">40</xref> Moreover, clinical data also demonstrated that in the early stage of acute myocardial infarction, patients with high plasma level of MCP‐1 developed better collateral vessels than those with low level.<xref rid="jcmm14904-bib-0041" ref-type="ref">41</xref> From the evidence above, we have reason to believe that NFAT5 affects monocyte recruitment by regulating MCP‐1 expression, which in turn to affect arteriogenesis.</p><p>In order to further verify the molecular mechanism of NFAT5 affecting arteriogenesis, we carried out experiments in vitro. The expression of NFAT5 and nuclear transfer were increased in HUVECs when stimulated by IL‐1β. NFAT5 knockdown inhibited IL‐1β induced MCP‐1 secretion and the chemotaxis of THP‐1 cells. Thus, NFAT5 could regulate monocyte recruitment via regulating the expression of MCP‐1. Besides, IL‐1β was also suggested to promote ischaemia‐induced neovascularization via mobilizing CD34<sup>−</sup>/B220<sup>−</sup>CD3<sup>–</sup>Flk‐1<sup>+</sup> endothelial precursor cells (EPCs), however, whether NFAT5 involves in this process as well as affect EPCs needed further study.<xref rid="jcmm14904-bib-0042" ref-type="ref">42</xref>
+</p><p>It should be noted that in the early stage of arteriogenesis, MCP‐1 is mainly secreted by the activated endothelium induced by hemodynamic forces,<xref rid="jcmm14904-bib-0043" ref-type="ref">43</xref> which is followed by accumulation of a large number of macrophages that release a variety of inflammatory cytokines (such as IL‐1β, TNF‐α). These cytokines potently induce MCP‐1 expression in arteries. Our study showed that the expression of NFAT5 peaked at the 3rd day when it was also found, by immunofluorescence and immunohistochemistry, to be mainly expressed in the endothelial cells of collateral arteries surrounded by numerous macrophages and when the ECs are stimulated strongly by inflammatory cytokines. Hence, it is reasonable for using ECs stimulated by inflammatory cytokines to explore the cellular regulatory role of NFAT5 in the process of arteriogenesis. Moreover, animal studies showed that NFAT5 increased as early as 12 hours after FAL when the ECs are mainly stimulated by mechanical forces. Thus, exploring the effect of mechanical stimulation on NFAT5 in ECs and its mechanism is still necessary, which is also the limitation of this study and worth further studies.</p><p>In addition, we explored the possible upstream pathway that might affect the expression of NFAT5 and MCP‐1. Previous studies showed that endothelial ERK1/2 pathway is critical for arteriogenesis,<xref rid="jcmm14904-bib-0044" ref-type="ref">44</xref>, <xref rid="jcmm14904-bib-0045" ref-type="ref">45</xref> and ERK1/2 pathway is also involved in the regulation of MCP‐1 expression via NFAT5 in NRK52E cells.<xref rid="jcmm14904-bib-0046" ref-type="ref">46</xref> Besides, activation of ERK1/2 pathway is required for IL‐1β induced MCP‐1 expression in various cells.<xref rid="jcmm14904-bib-0047" ref-type="ref">47</xref>, <xref rid="jcmm14904-bib-0048" ref-type="ref">48</xref>, <xref rid="jcmm14904-bib-0049" ref-type="ref">49</xref> Therefore, we have been suggested that ERK1/2 pathway might be the upstream pathway in this study. Accordingly, our experiments in vitro showed that the expression of NFAT5 and MCP‐1, as well as the chemotaxis of THP‐1 cells were attenuated after ERK1/2 pathway was inhibited by U0126. To summarize, ERK1/2 pathway may be involved in the regulation of MCP‐1 expression via NFAT5 and thus promote monocyte recruitment during arteriogenesis.</p><p>In order to further confirm the upstream and downstream relationship between NFAT5 and MCP‐1 in the formation of collateral arteries, we performed an exogenous MCP‐1 supplement to NFAT5 knockdown rats with FAL. We found that the MCP‐1 supplement group showed increased diameter, and covering area of collateral arteries, as well as greater number of proliferating cells, enhanced macrophages infiltration and better blood flow recovery. Therefore, the inhibitory effect on arteriogenesis induced by NFAT5 knockdown could be reversed by MCP‐1 supplement, demonstrating that NFAT5 plays a role in promoting arteriogenesis through MCP‐1 pathway.</p><p>Previous study also showed that NFAT5 can promote angiogenesis both in vitro and in vivo.<xref rid="jcmm14904-bib-0026" ref-type="ref">26</xref> Our result showed that when injection of Ad‐NFAT5 into gastrocnemius, macrophage infiltration and density of capillaries in gastrocnemius as well as blood flow of lower limbs were also inhibited. Therefore, NFAT5 is also required for angiogenesis in hindlimb ischaemia rats dependent on monocyte recruitment.</p><p>In summary, our results demonstrated that NFAT5 can promote arteriogenesis via MCP‐1‐dependent monocyte recruitment, suggesting that NFAT5 may be an endogenous regulator of arteriogenesis. Therefore, targeting NFAT5 may be considered as a novel strategy in the treatment of ischaemic diseases.</p></sec><sec sec-type="COI-statement" id="jcmm14904-sec-0023"><title>CONFLICTS OF INTEREST</title><p>The authors declare no conflicts of interest.</p></sec><sec id="jcmm14904-sec-0024"><title>AUTHOR CONTRIBUTION</title><p>GGZ and CCL conceived the project, funded this study and revised the manuscript. XCL designed and performed most experiments, performed statistical analysis and wrote the manuscript. MP, LPZ, QS and ZSZ partially performed some experiments. We also thank Professor Wei‐Jun Cai for his kind guidance of our animal experiments.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="jcmm14904-sup-0001" position="float" orientation="portrait"><caption><p> </p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="JCMM-24-2052-s001.tif" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="jcmm14904-sup-0002" position="float" orientation="portrait"><caption><p> </p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="JCMM-24-2052-s002.tif" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="jcmm14904-sup-0003" position="float" orientation="portrait"><caption><p> </p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="JCMM-24-2052-s003.tif" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="jcmm14904-sup-0004" position="float" orientation="portrait"><caption><p> </p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="JCMM-24-2052-s004.tif" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="jcmm14904-sup-0005" position="float" orientation="portrait"><caption><p> </p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="JCMM-24-2052-s005.docx" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="jcmm14904-sec-0022"><title>ACKNOWLEDGEMENTS</title><p>This study was supported by the National Natural Science Foundation of China (No. 81670267, No. 81873479, No. 81570461 and No. 81873509), National Basic Research Program of China (973 Program, No. 2014CB542402) and Natural Science Foundation of Hunan Province (No. 2018JJ6057).</p></ack><sec sec-type="data-availability" id="jcmm14904-sec-0026"><title>DATA AVAILABILITY STATEMENT</title><p>The data that support the findings of this study are available from the corresponding author upon reasonable request.</p></sec><ref-list content-type="cited-references" id="jcmm14904-bibl-0001"><title>REFERENCES</title><ref id="jcmm14904-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jcmm14904-cit-0001">
+<string-name name-style="western">
+<surname>Li</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lan</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhu</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>Preventing graft restenosis after coronary artery bypass grafting with tissue‐type plasminogen activator</article-title>. <source xml:lang="en">Eur J Med Res</source>. <year>2017</year>;<volume>22</volume>:<fpage>18</fpage>.<pub-id pub-id-type="pmid">28606123</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s40001-017-0259-8</pub-id><pub-id pub-id-type="pmcid">PMC5469182</pub-id></mixed-citation></ref><ref id="jcmm14904-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="jcmm14904-cit-0002">
+<string-name name-style="western">
+<surname>Marino</surname>
+<given-names>BC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nascimento</surname>
+<given-names>GA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rabelo</surname>
+<given-names>W</given-names>
+</string-name>, et al. <article-title>Clinical coronary in‐stent restenosis follow‐up after treatment and analyses of clinical outcomes</article-title>. <source xml:lang="en">Arq Bras Cardiol</source>. <year>2015</year>;<volume>104</volume>:<fpage>375</fpage>‐<lpage>386</lpage>.<pub-id pub-id-type="pmid">25651344</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.5935/abc.20140216</pub-id><pub-id pub-id-type="pmcid">PMC4495452</pub-id></mixed-citation></ref><ref id="jcmm14904-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jcmm14904-cit-0003">
+<string-name name-style="western">
+<surname>Elias</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hoebers</surname>
+<given-names>LPC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van Dongen</surname>
+<given-names>IM</given-names>
+</string-name>, et al. <article-title>Impact of collateral circulation on survival in ST‐segment elevation myocardial infarction patients undergoing primary percutaneous coronary intervention with a concomitant chronic total occlusion</article-title>. <source xml:lang="en">JACC Cardiovasc Interv</source>. <year>2017</year>;<volume>10</volume>:<fpage>906</fpage>‐<lpage>914</lpage>.<pub-id pub-id-type="pmid">28473112</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jcin.2017.01.026</pub-id></mixed-citation></ref><ref id="jcmm14904-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jcmm14904-cit-0004">
+<string-name name-style="western">
+<surname>Möbius‐Winkler</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Uhlemann</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Adams</surname>
+<given-names>V</given-names>
+</string-name>, et al. <article-title>Coronary collateral growth induced by physical exercise: results of the impact of intensive exercise training on coronary collateral circulation in patients with stable coronary artery disease (EXCITE) trial</article-title>. <source xml:lang="en">Circulation</source>. <year>2016</year>;<volume>133</volume>:<fpage>1438</fpage>‐<lpage>1448</lpage>.<pub-id pub-id-type="pmid">26979085</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/CIRCULATIONAHA.115.016442</pub-id></mixed-citation></ref><ref id="jcmm14904-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="jcmm14904-cit-0005">
+<string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Faber</surname>
+<given-names>JE</given-names>
+</string-name>. <article-title>De‐novo collateral formation following acute myocardial infarction: Dependence on CCR2⁺ bone marrow cells</article-title>. <source xml:lang="en">J Mol Cell Cardiol</source>. <year>2015</year>;<volume>87</volume>:<fpage>4</fpage>‐<lpage>16</lpage>.<pub-id pub-id-type="pmid">26254180</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.yjmcc.2015.07.020</pub-id><pub-id pub-id-type="pmcid">PMC4637183</pub-id></mixed-citation></ref><ref id="jcmm14904-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jcmm14904-cit-0006">
+<string-name name-style="western">
+<surname>Simons</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Eichmann</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Molecular controls of arterial morphogenesis</article-title>. <source xml:lang="en">Circ Res</source>. <year>2015</year>;<volume>116</volume>:<fpage>1712</fpage>‐<lpage>1724</lpage>.<pub-id pub-id-type="pmid">25953926</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/CIRCRESAHA.116.302953</pub-id><pub-id pub-id-type="pmcid">PMC4509635</pub-id></mixed-citation></ref><ref id="jcmm14904-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jcmm14904-cit-0007">
+<string-name name-style="western">
+<surname>Cai</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schaper</surname>
+<given-names>W</given-names>
+</string-name>. <article-title>Mechanisms of arteriogenesis</article-title>. <source xml:lang="en">Acta Biochim Biophys Sin (Shanghai)</source>. <year>2008</year>;<volume>40</volume>:<fpage>681</fpage>‐<lpage>692</lpage>.<pub-id pub-id-type="pmid">18685784</pub-id></mixed-citation></ref><ref id="jcmm14904-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jcmm14904-cit-0008">
+<string-name name-style="western">
+<surname>Wu</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhu</surname>
+<given-names>W</given-names>
+</string-name>, et al. <article-title>Immunohistochemical study of the growth factors, aFGF, bFGF, PDGF‐AB, VEGF‐A and its receptor (Flk‐1) during arteriogenesis</article-title>. <source xml:lang="en">Mol Cell Biochem</source>. <year>2010</year>;<volume>343</volume>:<fpage>223</fpage>‐<lpage>229</lpage>.<pub-id pub-id-type="pmid">20559689</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s11010-010-0517-3</pub-id></mixed-citation></ref><ref id="jcmm14904-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jcmm14904-cit-0009">
+<string-name name-style="western">
+<surname>Shireman</surname>
+<given-names>PK</given-names>
+</string-name>. <article-title>The chemokine system in arteriogenesis and hind limb ischemia</article-title>. <source xml:lang="en">J Vasc Surg</source>. <year>2007</year>;<volume>45</volume>(<issue>6</issue>):<fpage>A48</fpage>‐<lpage>A56</lpage>.<pub-id pub-id-type="pmid">17544024</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jvs.2007.02.030</pub-id><pub-id pub-id-type="pmcid">PMC2680944</pub-id></mixed-citation></ref><ref id="jcmm14904-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="jcmm14904-cit-0010">
+<string-name name-style="western">
+<surname>Baeyens</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bandyopadhyay</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Coon</surname>
+<given-names>BG</given-names>
+</string-name>, et al. <article-title>Endothelial fluid shear stress sensing in vascular health and disease</article-title>. <source xml:lang="en">J Clin Invest</source>. <year>2016</year>;<volume>126</volume>:<fpage>821</fpage>‐<lpage>828</lpage>.<pub-id pub-id-type="pmid">26928035</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1172/JCI83083</pub-id><pub-id pub-id-type="pmcid">PMC4767335</pub-id></mixed-citation></ref><ref id="jcmm14904-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="jcmm14904-cit-0011">
+<string-name name-style="western">
+<surname>Zimarino</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>D'Andreamatteo</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Waksman</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>The dynamics of the coronary collateral circulation</article-title>. <source xml:lang="en">Nat Rev Cardiol</source>. <year>2014</year>;<volume>11</volume>:<fpage>191</fpage>‐<lpage>197</lpage>.<pub-id pub-id-type="pmid">24395049</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nrcardio.2013.207</pub-id></mixed-citation></ref><ref id="jcmm14904-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jcmm14904-cit-0012">
+<string-name name-style="western">
+<surname>Lee</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kim</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kim</surname>
+<given-names>WU</given-names>
+</string-name>. <article-title>Role of NFAT5 in the Immune System and Pathogenesis of Autoimmune Diseases</article-title>. <source xml:lang="en">Front Immunol</source>. <year>2019</year>;<volume>10</volume>:<fpage>270</fpage>.<pub-id pub-id-type="pmid">30873159</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fimmu.2019.00270</pub-id><pub-id pub-id-type="pmcid">PMC6401628</pub-id></mixed-citation></ref><ref id="jcmm14904-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="jcmm14904-cit-0013">
+<string-name name-style="western">
+<surname>Aramburu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Drews‐Elger</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Estrada‐Gelonch</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Regulation of the hypertonic stress response and other cellular functions by the Rel‐like transcription factor NFAT5</article-title>. <source xml:lang="en">Biochem Pharmacol</source>. <year>2006</year>;<volume>72</volume>:<fpage>1597</fpage>‐<lpage>1604</lpage>.<pub-id pub-id-type="pmid">16904650</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bcp.2006.07.002</pub-id></mixed-citation></ref><ref id="jcmm14904-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="jcmm14904-cit-0014">
+<string-name name-style="western">
+<surname>Kim</surname>
+<given-names>DH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kim</surname>
+<given-names>KS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ramakrishna</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>NFAT5 promotes in vivo development of murine melanoma metastasis</article-title>. <source xml:lang="en">Biochem Biophys Res Commun</source>. <year>2018</year>;<volume>505</volume>:<fpage>748</fpage>‐<lpage>754</lpage>.<pub-id pub-id-type="pmid">30293684</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bbrc.2018.09.171</pub-id></mixed-citation></ref><ref id="jcmm14904-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="jcmm14904-cit-0015">
+<string-name name-style="western">
+<surname>Choi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>You</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kim</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Transcription factor NFAT5 promotes macrophage survival in rheumatoid arthritis</article-title>. <source xml:lang="en">J Clin Invest</source>. <year>2017</year>;<volume>127</volume>:<fpage>954</fpage>‐<lpage>969</lpage>.<pub-id pub-id-type="pmid">28192374</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1172/JCI87880</pub-id><pub-id pub-id-type="pmcid">PMC5330733</pub-id></mixed-citation></ref><ref id="jcmm14904-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="jcmm14904-cit-0016">
+<string-name name-style="western">
+<surname>Cao</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>Q</given-names>
+</string-name>, et al. <article-title>Biomechanical Stretch Induces Inflammation, Proliferation, and Migration by Activating NFAT5 in Arterial Smooth Muscle Cells</article-title>. <source xml:lang="en">Inflammation</source>. <year>2017</year>;<volume>40</volume>:<fpage>2129</fpage>‐<lpage>2136</lpage>.<pub-id pub-id-type="pmid">28840417</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s10753-017-0653-y</pub-id></mixed-citation></ref><ref id="jcmm14904-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="jcmm14904-cit-0017">
+<string-name name-style="western">
+<surname>Scherer</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pfisterer</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wagner</surname>
+<given-names>AH</given-names>
+</string-name>, et al. <article-title>Arterial wall stress controls NFAT5 activity in vascular smooth muscle cells</article-title>. <source xml:lang="en">J Am Heart Assoc</source>. <year>2014</year>;<volume>3</volume>:<elocation-id>e000626</elocation-id>.<pub-id pub-id-type="pmid">24614757</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/JAHA.113.000626</pub-id><pub-id pub-id-type="pmcid">PMC4187483</pub-id></mixed-citation></ref><ref id="jcmm14904-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="jcmm14904-cit-0018">
+<string-name name-style="western">
+<surname>Hernández</surname>
+<given-names>GL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Volpert</surname>
+<given-names>OV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Iñiguez</surname>
+<given-names>MA</given-names>
+</string-name>, et al. <article-title>Selective inhibition of vascular endothelial growth factor‐mediated angiogenesis by cyclosporin A: roles of the nuclear factor of activated T cells and cyclooxygenase 2</article-title>. <source xml:lang="en">J Exp Med</source>. <year>2001</year>;<volume>193</volume>:<fpage>607</fpage>‐<lpage>620</lpage>.<pub-id pub-id-type="pmid">11238591</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1084/jem.193.5.607</pub-id><pub-id pub-id-type="pmcid">PMC2193389</pub-id></mixed-citation></ref><ref id="jcmm14904-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="jcmm14904-cit-0019">
+<string-name name-style="western">
+<surname>Hödebeck</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Scherer</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wagner</surname>
+<given-names>AH</given-names>
+</string-name>, et al. <article-title>TonEBP/NFAT5 regulates ACTBL2 expression in biomechanically activated vascular smooth muscle cells</article-title>. <source xml:lang="en">Front Physiol</source>. <year>2014</year>;<volume>5</volume>:<fpage>467</fpage>.<pub-id pub-id-type="pmid">25520667</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fphys.2014.00467</pub-id><pub-id pub-id-type="pmcid">PMC4253659</pub-id></mixed-citation></ref><ref id="jcmm14904-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="jcmm14904-cit-0020">
+<string-name name-style="western">
+<surname>Berry</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mathews</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ferdinand</surname>
+<given-names>JR</given-names>
+</string-name>, et al. <article-title>Renal sodium gradient orchestrates a dynamic antibacterial defense zone</article-title>. <source xml:lang="en">Cell</source>. <year>2017</year>;<volume>170</volume>(<issue>860–874</issue>):<fpage>e19</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cell.2017.07.022</pub-id><pub-id pub-id-type="pmid">28803730</pub-id></mixed-citation></ref><ref id="jcmm14904-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="jcmm14904-cit-0021">
+<string-name name-style="western">
+<surname>Troidl</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rüding</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cai</surname>
+<given-names>WJ</given-names>
+</string-name>, et al. <article-title>Actin‐binding rho activating protein (Abra) is essential for fluid shear stress‐induced arteriogenesis</article-title>. <source xml:lang="en">Arterioscler Thromb Vasc Biol</source>. <year>2009</year>;<volume>29</volume>:<fpage>2093</fpage>‐<lpage>2101</lpage>.<pub-id pub-id-type="pmid">19778941</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/ATVBAHA.109.195305</pub-id></mixed-citation></ref><ref id="jcmm14904-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="jcmm14904-cit-0022">
+<string-name name-style="western">
+<surname>Luo</surname>
+<given-names>MY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>
+<given-names>BL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ye</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>Collateral vessel growth induced by femoral artery ligature is impaired by denervation</article-title>. <source xml:lang="en">Mol Cell Biochem</source>. <year>2011</year>;<volume>354</volume>:<fpage>219</fpage>‐<lpage>229</lpage>.<pub-id pub-id-type="pmid">21509579</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s11010-011-0821-6</pub-id></mixed-citation></ref><ref id="jcmm14904-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="jcmm14904-cit-0023">
+<string-name name-style="western">
+<surname>Khmelewski</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Becker</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Meinertz</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ito</surname>
+<given-names>WD</given-names>
+</string-name>. <article-title>Tissue resident cells play a dominant role in arteriogenesis and concomitant macrophage accumulation</article-title>. <source xml:lang="en">Circ Res</source>. <year>2004</year>;<volume>95</volume>:<fpage>E56</fpage>‐<lpage>E64</lpage>.<pub-id pub-id-type="pmid">15331452</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/01.RES.0000143013.04985.E7</pub-id></mixed-citation></ref><ref id="jcmm14904-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="jcmm14904-cit-0024">
+<string-name name-style="western">
+<surname>Zhu</surname>
+<given-names>LP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>JX</given-names>
+</string-name>, et al. <article-title>MiR‐15b‐5p regulates collateral artery formation by targeting AKT3 (Protein Kinase B‐3)</article-title>. <source xml:lang="en">Arterioscler Thromb Vasc Biol</source>. <year>2017</year>;<volume>37</volume>:<fpage>957</fpage>‐<lpage>968</lpage>.<pub-id pub-id-type="pmid">28254819</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/ATVBAHA.116.308905</pub-id></mixed-citation></ref><ref id="jcmm14904-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="jcmm14904-cit-0025">
+<string-name name-style="western">
+<surname>Sweet</surname>
+<given-names>DT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Givens</surname>
+<given-names>CS</given-names>
+</string-name>, et al. <article-title>Endothelial Shc regulates arteriogenesis through dual control of arterial specification and inflammation via the notch and nuclear factor‐κ‐light‐chain‐enhancer of activated B‐cell pathways</article-title>. <source xml:lang="en">Circ Res</source>. <year>2013</year>;<volume>113</volume>:<fpage>32</fpage>‐<lpage>39</lpage>.<pub-id pub-id-type="pmid">23661718</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/CIRCRESAHA.113.301407</pub-id><pub-id pub-id-type="pmcid">PMC3918667</pub-id></mixed-citation></ref><ref id="jcmm14904-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="jcmm14904-cit-0026">
+<string-name name-style="western">
+<surname>Yoon</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>You</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yoo</surname>
+<given-names>SA</given-names>
+</string-name>, et al. <article-title>NF‐AT5 is a critical regulator of inflammatory arthritis</article-title>. <source xml:lang="en">Arthritis Rheum</source>. <year>2011</year>;<volume>63</volume>:<fpage>1843</fpage>‐<lpage>1852</lpage>.<pub-id pub-id-type="pmid">21717420</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/art.30229</pub-id><pub-id pub-id-type="pmcid">PMC3084342</pub-id></mixed-citation></ref><ref id="jcmm14904-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="jcmm14904-cit-0027">
+<string-name name-style="western">
+<surname>Makó</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Czúcz</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Weiszhár</surname>
+<given-names>Z</given-names>
+</string-name>, et al. <article-title>Proinflammatory activation pattern of human umbilical vein endothelial cells induced by IL‐1β, TNF‐α, and LPS</article-title>. <source xml:lang="en">Cytometry A</source>. <year>2010</year>;<volume>77</volume>:<fpage>962</fpage>‐<lpage>970</lpage>.<pub-id pub-id-type="pmid">21290470</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/cyto.a.20952</pub-id></mixed-citation></ref><ref id="jcmm14904-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="jcmm14904-cit-0028">
+<string-name name-style="western">
+<surname>Yoshimura</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nakahama</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Safronova</surname>
+<given-names>O</given-names>
+</string-name>, et al. <article-title>Transforming growth factor‐beta stimulates IL‐1beta‐induced monocyte chemoattractant protein‐1 expression in human synovial cells via the ERK/AP‐1 pathway</article-title>. <source xml:lang="en">Inflamm Res</source>. <year>2006</year>;<volume>55</volume>:<fpage>543</fpage>‐<lpage>549</lpage>.<pub-id pub-id-type="pmid">17039283</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00011-006-5144-9</pub-id></mixed-citation></ref><ref id="jcmm14904-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="jcmm14904-cit-0029">
+<string-name name-style="western">
+<surname>Ito</surname>
+<given-names>WD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lund</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>Z</given-names>
+</string-name>, et al. <article-title>Activation of cell surface Bound 20S proteasome inhibits vascular cell growth and arteriogenesis</article-title>. <source xml:lang="en">Biomed Res Int</source>. <year>2015</year>;<volume>2015</volume>:<fpage>719316</fpage>.<pub-id pub-id-type="pmid">26146628</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1155/2015/719316</pub-id><pub-id pub-id-type="pmcid">PMC4471257</pub-id></mixed-citation></ref><ref id="jcmm14904-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="jcmm14904-cit-0030">
+<string-name name-style="western">
+<surname>Bruce</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kelly‐Goss</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Heuslein</surname>
+<given-names>JL</given-names>
+</string-name>, et al. <article-title>Monocytes are recruited from venules during arteriogenesis in the murine spinotrapezius ligation model</article-title>. <source xml:lang="en">Arterioscler Thromb Vasc Biol</source>. <year>2014</year>;<volume>34</volume>:<fpage>2012</fpage>‐<lpage>2022</lpage>.<pub-id pub-id-type="pmid">24969773</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/ATVBAHA.114.303399</pub-id><pub-id pub-id-type="pmcid">PMC4373588</pub-id></mixed-citation></ref><ref id="jcmm14904-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="jcmm14904-cit-0031">
+<string-name name-style="western">
+<surname>Krishnasamy</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Limbourg</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kapanadze</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>Blood vessel control of macrophage maturation promotes arteriogenesis in ischemia</article-title>. <source xml:lang="en">Nat Commun</source>. <year>2017</year>;<volume>8</volume>:<fpage>952</fpage>.<pub-id pub-id-type="pmid">29038527</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41467-017-00953-2</pub-id><pub-id pub-id-type="pmcid">PMC5643305</pub-id></mixed-citation></ref><ref id="jcmm14904-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="jcmm14904-cit-0032">
+<string-name name-style="western">
+<surname>Fung</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Helisch</surname>
+<given-names>A</given-names>
+</string-name>
+<article-title> Macrophages in collateral arteriogenesis</article-title>. <source xml:lang="en">Front Physiol</source>. <year>2012</year>;<volume>3</volume>:<fpage>353</fpage>.<pub-id pub-id-type="pmid">23055975</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fphys.2012.00353</pub-id><pub-id pub-id-type="pmcid">PMC3457069</pub-id></mixed-citation></ref><ref id="jcmm14904-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="jcmm14904-cit-0033">
+<string-name name-style="western">
+<surname>Hakimzadeh</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Verberne</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Siebes</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Piek</surname>
+<given-names>JJ</given-names>
+</string-name>. <article-title>The future of collateral artery research</article-title>. <source xml:lang="en">Curr Cardiol Rev</source>. <year>2014</year>;<volume>10</volume>:<fpage>73</fpage>‐<lpage>86</lpage>.<pub-id pub-id-type="pmid">23638829</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.2174/1573403X113099990001</pub-id><pub-id pub-id-type="pmcid">PMC3968596</pub-id></mixed-citation></ref><ref id="jcmm14904-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="jcmm14904-cit-0034">
+<string-name name-style="western">
+<surname>Pipp</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Heil</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Issbrücker</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>VEGFR‐1‐selective VEGF homologue PlGF is arteriogenic: evidence for a monocyte‐mediated mechanism</article-title>. <source xml:lang="en">Circ Res</source>. <year>2003</year>;<volume>92</volume>:<fpage>378</fpage>‐<lpage>385</lpage>.<pub-id pub-id-type="pmid">12600898</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/01.RES.0000057997.77714.72</pub-id></mixed-citation></ref><ref id="jcmm14904-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="jcmm14904-cit-0035">
+<string-name name-style="western">
+<surname>Núñez‐Gómez</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pericacho</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ollauri‐Ibáñez</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>The role of endoglin in post‐ischemic revascularization</article-title>. <source xml:lang="en">Angiogenesis</source>. <year>2017</year>;<volume>20</volume>:<fpage>1</fpage>‐<lpage>24</lpage>.<pub-id pub-id-type="pmid">27943030</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s10456-016-9535-4</pub-id></mixed-citation></ref><ref id="jcmm14904-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="jcmm14904-cit-0036">
+<string-name name-style="western">
+<surname>Ogle</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Segar</surname>
+<given-names>CE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sridhar</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Botchwey</surname>
+<given-names>EA</given-names>
+</string-name>. <article-title>Monocytes and macrophages in tissue repair: Implications for immunoregenerative biomaterial design</article-title>. <source xml:lang="en">Exp Biol Med (Maywood)</source>. <year>2016</year>;<volume>241</volume>:<fpage>1084</fpage>‐<lpage>1097</lpage>.<pub-id pub-id-type="pmid">27229903</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/1535370216650293</pub-id><pub-id pub-id-type="pmcid">PMC4898192</pub-id></mixed-citation></ref><ref id="jcmm14904-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="jcmm14904-cit-0037">
+<string-name name-style="western">
+<surname>Hollander</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Horrevoets</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van Royen</surname>
+<given-names>N</given-names>
+</string-name>. <article-title>Cellular and pharmacological targets to induce coronary arteriogenesis</article-title>. <source xml:lang="en">Curr Cardiol Rev</source>. <year>2014</year>;<volume>10</volume>:<fpage>29</fpage>‐<lpage>37</lpage>.<pub-id pub-id-type="pmid">23638831</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.2174/1573403X113099990003</pub-id><pub-id pub-id-type="pmcid">PMC3968592</pub-id></mixed-citation></ref><ref id="jcmm14904-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="jcmm14904-cit-0038">
+<string-name name-style="western">
+<surname>Sapharikas</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lokajczyk</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fischer</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Boisson‐Vidal</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Fucoidan Stimulates Monocyte Migration via ERK/p38 Signaling Pathways and MMP9 Secretion</article-title>. <source xml:lang="en">Mar Drugs</source>. <year>2015</year>;<volume>13</volume>:<fpage>4156</fpage>‐<lpage>4170</lpage>.<pub-id pub-id-type="pmid">26133555</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/md13074156</pub-id><pub-id pub-id-type="pmcid">PMC4515609</pub-id></mixed-citation></ref><ref id="jcmm14904-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="jcmm14904-cit-0039">
+<string-name name-style="western">
+<surname>Voskuil</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hoefer</surname>
+<given-names>IE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van Royen</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>Abnormal monocyte recruitment and collateral artery formation in monocyte chemoattractant protein‐1 deficient mice</article-title>. <source xml:lang="en">Vasc Med</source>. <year>2004</year>;<volume>9</volume>:<fpage>287</fpage>‐<lpage>292</lpage>.<pub-id pub-id-type="pmid">15678621</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1191/1358863x04vm571oa</pub-id></mixed-citation></ref><ref id="jcmm14904-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="jcmm14904-cit-0040">
+<string-name name-style="western">
+<surname>Heil</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ziegelhoeffer</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wagner</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Collateral artery growth (arteriogenesis) after experimental arterial occlusion is impaired in mice lacking CC‐chemokine receptor‐2</article-title>. <source xml:lang="en">Circ Res</source>. <year>2004</year>;<volume>94</volume>:<fpage>671</fpage>‐<lpage>677</lpage>.<pub-id pub-id-type="pmid">14963007</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/01.RES.0000122041.73808.B5</pub-id></mixed-citation></ref><ref id="jcmm14904-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="jcmm14904-cit-0041">
+<string-name name-style="western">
+<surname>Sahinarslan</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kocaman</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Topal</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Relation between serum monocyte chemoattractant protein‐1 and coronary collateral development</article-title>. <source xml:lang="en">Coron Artery Dis</source>. <year>2010</year>;<volume>21</volume>:<fpage>455</fpage>‐<lpage>459</lpage>.<pub-id pub-id-type="pmid">20859200</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/MCA.0b013e32833fd29b</pub-id></mixed-citation></ref><ref id="jcmm14904-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="jcmm14904-cit-0042">
+<string-name name-style="western">
+<surname>Amano</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Okigaki</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Adachi</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Mechanism for IL‐1 beta‐mediated neovascularization unmasked by IL‐1 beta knock‐out mice</article-title>. <source xml:lang="en">J Mol Cell Cardiol</source>. <year>2004</year>;<volume>36</volume>:<fpage>469</fpage>‐<lpage>480</lpage>.<pub-id pub-id-type="pmid">15081307</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.yjmcc.2004.01.006</pub-id></mixed-citation></ref><ref id="jcmm14904-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="jcmm14904-cit-0043">
+<string-name name-style="western">
+<surname>Limbourg</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>von Felden</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jagavelu</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>MAP‐kinase activated protein kinase 2 links endothelial activation and monocyte/macrophage recruitment in arteriogenesis</article-title>. <source xml:lang="en">PLoS ONE</source>. <year>2015</year>;<volume>10</volume>:<elocation-id>e0138542</elocation-id>.<pub-id pub-id-type="pmid">26431421</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0138542</pub-id><pub-id pub-id-type="pmcid">PMC4592267</pub-id></mixed-citation></ref><ref id="jcmm14904-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="jcmm14904-cit-0044">
+<string-name name-style="western">
+<surname>Kofler</surname>
+<given-names>NM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Simons</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Angiogenesis versus arteriogenesis: neuropilin 1 modulation of VEGF signaling</article-title>. <source xml:lang="en">F1000Prime Rep</source>. <year>2015</year>;<volume>7</volume>:<fpage>26</fpage>.<pub-id pub-id-type="pmid">25926977</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.12703/P7-26</pub-id><pub-id pub-id-type="pmcid">PMC4371373</pub-id></mixed-citation></ref><ref id="jcmm14904-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="jcmm14904-cit-0045">
+<string-name name-style="western">
+<surname>Ren</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>Protein kinase D1 signaling in angiogenic gene expression and VEGF‐mediated angiogenesis</article-title>. <source xml:lang="en">Front Cell Dev Biol</source>. <year>2016</year>;<volume>4</volume>:<fpage>37</fpage>.<pub-id pub-id-type="pmid">27200349</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fcell.2016.00037</pub-id><pub-id pub-id-type="pmcid">PMC4854877</pub-id></mixed-citation></ref><ref id="jcmm14904-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="jcmm14904-cit-0046">
+<string-name name-style="western">
+<surname>Kojima</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Taniguchi</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tsuzuki</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Hypertonicity‐induced expression of monocyte chemoattractant protein‐1 through a novel cis‐acting element and MAPK signaling pathways</article-title>. <source xml:lang="en">J Immunol</source>. <year>2010</year>;<volume>184</volume>:<fpage>5253</fpage>‐<lpage>5262</lpage>.<pub-id pub-id-type="pmid">20368270</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.4049/jimmunol.0901298</pub-id></mixed-citation></ref><ref id="jcmm14904-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="jcmm14904-cit-0047">
+<string-name name-style="western">
+<surname>Chang</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tsai</surname>
+<given-names>YL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chang</surname>
+<given-names>HH</given-names>
+</string-name>, et al. <article-title>IL‐1β‐induced MCP‐1 expression and secretion of human dental pulp cells is related to TAK1, MEK/ERK, and PI3K/Akt signaling pathways</article-title>. <source xml:lang="en">Arch Oral Biol</source>. <year>2016</year>;<volume>61</volume>:<fpage>16</fpage>‐<lpage>22</lpage>.<pub-id pub-id-type="pmid">26492523</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.archoralbio.2015.10.008</pub-id></mixed-citation></ref><ref id="jcmm14904-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="jcmm14904-cit-0048">
+<string-name name-style="western">
+<surname>Bian</surname>
+<given-names>ZM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Elner</surname>
+<given-names>SG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yoshida</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Activation of p38, ERK1/2 and NIK pathways is required for IL‐1beta and TNF‐alpha‐induced chemokine expression in human retinal pigment epithelial cells</article-title>. <source xml:lang="en">Exp Eye Res</source>. <year>2001</year>;<volume>73</volume>:<fpage>111</fpage>‐<lpage>121</lpage>.<pub-id pub-id-type="pmid">11428868</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1006/exer.2001.1019</pub-id></mixed-citation></ref><ref id="jcmm14904-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="jcmm14904-cit-0049">
+<string-name name-style="western">
+<surname>Chen</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Proost</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gysemans</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Monocyte chemoattractant protein‐1 is expressed in pancreatic islets from prediabetic NOD mice and in interleukin‐1 beta‐exposed human and rat islet cells</article-title>. <source xml:lang="en">Diabetologia</source>. <year>2001</year>;<volume>44</volume>:<fpage>325</fpage>‐<lpage>332</lpage>.<pub-id pub-id-type="pmid">11317664</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s001250051622</pub-id></mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,404 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article article-type="research-article" xml:lang="en" dtd-version="1.4"><front><journal-meta><journal-id journal-id-type="nlm-ta">Technol Cancer Res Treat</journal-id><journal-id journal-id-type="iso-abbrev">Technol. Cancer Res. Treat</journal-id><journal-id journal-id-type="pmc-domain-id">3299</journal-id><journal-id journal-id-type="pmc-domain">tct</journal-id><journal-id journal-id-type="nlm-id">101140941</journal-id><journal-id journal-id-type="publisher-id">TCT</journal-id><journal-title-group><journal-title>Technology in Cancer Research &amp; Treatment</journal-title></journal-title-group><issn pub-type="ppub">1533-0346</issn><issn pub-type="epub">1533-0338</issn><publisher><publisher-name>SAGE Publications</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC6931141</article-id><article-id pub-id-type="pmcid-ver">PMC6931141.1</article-id><article-id pub-id-type="pmcaid">6931141</article-id><article-id pub-id-type="pmcaiid">6931141</article-id><article-id pub-id-type="pmid">31870221</article-id><article-id pub-id-type="doi">10.1177/1533033819892258</article-id><article-id pub-id-type="publisher-id">10.1177_1533033819892258</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>DDX5 Silencing Suppresses the Migration of Basal cell Carcinoma Cells by
+Downregulating JAK2/STAT3 Pathway</article-title></title-group><contrib-group><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-6584-5296</contrib-id><name name-style="western"><surname>Quan</surname><given-names initials="Z">Zhe</given-names></name><degrees>MM</degrees><xref ref-type="aff" rid="aff1-1533033819892258">1</xref><xref ref-type="corresp" rid="corresp1-1533033819892258"/></contrib><contrib contrib-type="author"><name name-style="western"><surname>Zhang</surname><given-names initials="BB">Bei-bei</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="aff1-1533033819892258">1</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Yin</surname><given-names initials="F">Fang</given-names></name><degrees>MM</degrees><xref ref-type="aff" rid="aff1-1533033819892258">1</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Du</surname><given-names initials="J">Jiru</given-names></name><degrees>MM</degrees><xref ref-type="aff" rid="aff1-1533033819892258">1</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Zhi</surname><given-names initials="YT">Yuan-ting</given-names></name><degrees>MM</degrees><xref ref-type="aff" rid="aff1-1533033819892258">1</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Xu</surname><given-names initials="J">Jin</given-names></name><degrees>MM</degrees><xref ref-type="aff" rid="aff1-1533033819892258">1</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Song</surname><given-names initials="N">Ningjing</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="aff1-1533033819892258">1</xref><xref ref-type="corresp" rid="corresp1-1533033819892258"/></contrib></contrib-group><aff id="aff1-1533033819892258">
+<label>1</label>Department of Dematology, Tongren Hospital, Shanghai Jiao Tong University
+School of Medicine, Shanghai, China</aff><author-notes><corresp id="corresp1-1533033819892258">Quan Zhe and Song Ning-jing, Department of
+Dematology, Tongren Hospital, Shanghai Jiao Tong University School of Medicine, No 1111,
+Xianxia Road, 200336, Shanghai, China. Emails: <email>zhequanshanghai@163.com</email>;
+<email>ningjingsing@163.com</email></corresp></author-notes><pub-date pub-type="epub"><day>24</day><month>12</month><year>2019</year></pub-date><pub-date pub-type="collection"><year>2019</year></pub-date><volume>18</volume><issue-id pub-id-type="pmc-issue-id">326555</issue-id><elocation-id>1533033819892258</elocation-id><history><date date-type="received"><day>19</day><month>1</month><year>2019</year></date><date date-type="rev-recd"><day>31</day><month>8</month><year>2019</year></date><date date-type="accepted"><day>27</day><month>9</month><year>2019</year></date></history><pub-history><event event-type="pmc-release"><date><day>24</day><month>12</month><year>2019</year></date></event><event event-type="pmc-live"><date><day>03</day><month>01</month><year>2020</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2024-04-21 17:25:31.733"><day>21</day><month>04</month><year>2024</year></date></event></pub-history><permissions><copyright-statement>© The Author(s) 2019</copyright-statement><copyright-year>2019</copyright-year><copyright-holder content-type="sage">SAGE Publications</copyright-holder><license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="creative-commons" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>This article is distributed under the terms of the Creative Commons
+Attribution-NonCommercial 4.0 License (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">https://creativecommons.org/licenses/by-nc/4.0/</ext-link>) which permits
+non-commercial use, reproduction and distribution of the work without further permission
+provided the original work is attributed as specified on the SAGE and Open Access pages
+(<ext-link ext-link-type="uri" xlink:href="https://us.sagepub.com/en-us/nam/open-access-at-sage">https://us.sagepub.com/en-us/nam/open-access-at-sage</ext-link>).</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="10.1177_1533033819892258.pdf"/><abstract><p>Basal cell carcinoma is driven by the aberrant activation of hedgehog signaling. DEAD
+(Asp-Glu-Ala-Asp) box protein 5 is frequently overexpressed in human cancer cells and
+associated with the tumor growth and invasion. The purpose of this study was to
+investigate the role of DEAD (Asp-Glu-Ala-Asp) box protein 5 in the growth, migration, and
+invasion of basal cell carcinoma. The role of DEAD (Asp-Glu-Ala-Asp) box protein 5 was
+detected by quantitative real-time polymerase chain reaction, Western blot, and terminal
+deoxynucleotidyl transferase-mediated deoxyuridine triphosphate nick-end labeling assay in
+basal cell carcinoma cells. The associations between JAK2/STAT3 pathway and DEAD
+(Asp-Glu-Ala-Asp) box protein 5 were analyzed in basal cell carcinoma cells. Results
+showed that DEAD (Asp-Glu-Ala-Asp) box protein 5 is overexpressed in basal cell carcinoma
+cells. DEAD (Asp-Glu-Ala-Asp) box protein 5 knockdown inhibited the migration and invasion
+of basal cell carcinoma cells. DEAD (Asp-Glu-Ala-Asp) box protein 5 knockdown increased
+the apoptosis of basal cell carcinoma cells induced by tunicamycin. Results found that
+DEAD (Asp-Glu-Ala-Asp) box protein 5 knockdown increased JAK2 and STAT3 expression in
+basal cell carcinoma cells. JAK2 inhibitor decreased STAT3 expression and abolished the
+inhibitory effects of DEAD (Asp-Glu-Ala-Asp) box protein 5 silencing on migration and
+invasion in basal cell carcinoma cells. In conclusion, these results indicate that DEAD
+(Asp-Glu-Ala-Asp) box protein 5 is a potential target for inhibiting basal cell carcinoma
+cells growth, migration, and invasion by downregulating JAK2/STAT3 pathway.</p></abstract><kwd-group><kwd>DDX5</kwd><kwd>BCC</kwd><kwd>migration</kwd><kwd>invasion</kwd><kwd>JAK2</kwd><kwd>STAT3</kwd></kwd-group><funding-group><award-group id="award1-1533033819892258"><funding-source id="funding1-1533033819892258"><institution-wrap><institution>Project supported by Shanghai Tongren Hospital (TRYJ201508) and Changning
+district health and family planning commission (20164Y005).</institution></institution-wrap></funding-source></award-group></funding-group><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January-December 2019</meta-value></custom-meta><custom-meta><meta-name>typesetter</meta-name><meta-value>ts3</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="intro" id="section1-1533033819892258"><title>Introduction</title><p>Basal cell carcinoma (BCC) is one of the most common type of human skin cancers.<sup><xref rid="bibr1-1533033819892258" ref-type="bibr">1</xref></sup> Studies have found that BCC is characterized by BRCA2, BRCA1-associated protein-1
+gene and P53 gene mutations, and aberrant expression of hedgehog signaling pathway.<sup><xref rid="bibr2-1533033819892258" ref-type="bibr">2</xref><xref rid="bibr3-1533033819892258" ref-type="bibr"/>-<xref rid="bibr4-1533033819892258" ref-type="bibr">4</xref></sup> Previous study reports that the pathologic differential diagnosis of BCC includes
+cutaneous mixed sweat gland tumor of the skin, myoepithelioma, and myoepithelial carcinoma.<sup><xref rid="bibr5-1533033819892258" ref-type="bibr">5</xref></sup> Basal cell carcinoma is associated with exposure to radiation in various populations,
+such as atomic bomb survivors, radiologists, and interventional cardiologists.<sup><xref rid="bibr6-1533033819892258" ref-type="bibr">6</xref><xref rid="bibr7-1533033819892258" ref-type="bibr"/>-<xref rid="bibr8-1533033819892258" ref-type="bibr">8</xref></sup> Metastatic BCC is exceedingly uncommon, with a poorly defined natural history, and
+its incidence, risk factors, patterns of spread, prognosis, and potential treatment options
+are not well understood.<sup><xref rid="bibr9-1533033819892258" ref-type="bibr">9</xref></sup>
+</p><p>DNA replication plays an important process in BCC cells growth and invasion that can be
+exploited in cancer therapy.<sup><xref rid="bibr10-1533033819892258" ref-type="bibr">10</xref></sup> DEAD (Asp-Glu-Ala-Asp) box protein 5 (DDX5) is a prototypical member of the
+DEAD/H-box protein family and involves in ontogenesis and spermatogenesis in several human malignancies.<sup><xref rid="bibr11-1533033819892258" ref-type="bibr">11</xref></sup> DEAD (Asp-Glu-Ala-Asp) box protein 5 is also an ATP-dependent RNA helicase, which is
+first identified as a potential target for the treatment of breast cancer.<sup><xref rid="bibr12-1533033819892258" ref-type="bibr">12</xref></sup> Study has showed that DDX5 locus is frequently amplified in breast cancer and it can
+regulate DNA replication, which is required for cell proliferation in a subset of breast
+cancer cells.<sup><xref rid="bibr13-1533033819892258" ref-type="bibr">13</xref></sup> In addition, findings show that DDX5 plays an important role in the proliferation and
+tumorigenesis of non-small-cell lung cancer cells by activating the β-catenin signaling
+pathway, suggesting DDX5 may serve as a novel prognostic marker and potential therapeutic
+target in the treatment of non-small-cell lung cancer.<sup><xref rid="bibr14-1533033819892258" ref-type="bibr">14</xref></sup> Furthermore, knockdown of DDX5 inhibits the proliferation and tumorigenesis in
+esophageal cancer, and it may be a novel potential therapeutic target for the prevention and
+treatment of esophageal cancer.<sup><xref rid="bibr15-1533033819892258" ref-type="bibr">15</xref></sup> However, the expression and biological role of DDX5 in BCC remains largely
+unknown.</p><p>In this study, we examined the role of DDX5 in regulating BCC cell growth and invasion and
+explored its possible molecular mechanism. Report has showed that inhibition of JAK/STAT3
+pathway involves in angiogenic activity in BCC cell<sup><xref rid="bibr16-1533033819892258" ref-type="bibr">16</xref></sup> and a study indicates that DDX5 expression is associated with tumor cells growth.<sup><xref rid="bibr17-1533033819892258" ref-type="bibr">17</xref></sup> In addition, overexpression of STAT3 inhibited BCCs tumor progression in the
+inflammatory microenvironment.<sup><xref rid="bibr18-1533033819892258" ref-type="bibr">18</xref></sup> Furthermore, activation of phosphorylated STAT3 increases viability of BCC cells and
+promote BCC development.<sup><xref rid="bibr19-1533033819892258" ref-type="bibr">19</xref></sup> Therefore, we assumed that DDX5 regulated the growth and invasion of BCC cells
+through JAK/STAT3 signaling pathway.</p></sec><sec sec-type="materials|methods" id="section2-1533033819892258"><title>Materials and Methods</title><sec id="section3-1533033819892258"><title>Ethical Statement</title><p>This study was approved by the Ethical Committee of Tongren Hospital, Shanghai Jiao Tong
+University School of Medicine (Shanghai, China). All patients were required to write
+informed consent.</p></sec><sec id="section4-1533033819892258"><title>Clinical Tissues</title><p>Twenty patients with micronodular BCC were recruited in this study. A total of 20
+micronodular BCC tissues and matched adjacent nontumor tissues (10 cm far away from BCC
+tissues) were collected from Shanghai Jiao Tong University School of Medicine (Shanghai,
+China) during August 2014 to July 2018. Tumor tissues and adjacent nontumor tissues were
+obtained from patients, who did not receive chemotherapy, radiotherapy, or other
+treatments before tumor resection. The BCC tissues and adjacent nontumor tissues were
+stored at −70°C for further analysis.</p></sec><sec id="section5-1533033819892258"><title>Cells Culture</title><p>Basal cell carcinoma cells and normal basal cells were obtained from BCC tissues and
+matched adjacent nontumor tissues, respectively. Primary BCC cell line was established as
+described previously.<sup><xref rid="bibr20-1533033819892258" ref-type="bibr">20</xref></sup> All cells were cultured and maintained in Dulbecco modified Eagle medium (DMEM,
+Merck KGaA, Darmstadt, Germany) supplemented with 10% fetal bovine serum (Merck KGaA), 100
+U/mL penicillin, 100 µg/mL streptomycin, sodium pyruvate, and L-glutamine at 37°C with 5%
+CO<sub>2</sub>.</p></sec><sec id="section6-1533033819892258"><title>Small Interfering RNA Transfection</title><p>BCC cells (1 × 10<sup>5</sup> cells/well) were seeded in 6-well for 24 hours at 37°C. The
+medium was removed and Opti-MEM (Invitrogen, Thermo Fisher Scientific, Waltham,
+Massachusetts) was added and kept for 24 hours at 37°C. The small interfering RNA (siRNA)
+sequences corresponding to the gene were designed and synthesized by Genepharma (Shanghai
+GenePharma Co, Ltd, Shanghai, China). The siRNA sequences against DDX5 (siR-DDX5): sense,
+5′-AUCGAUUACGACACUAUCATT-3′; antisense, 5′-CCAUACGAUCCGUCGUCUUCG-3′; siRNA-vector: sense,
+5′-CUCGUCUCAUUGATGACAGTT-3′; antisense, 5′-CGAUUAGCUUACGUAGC-3′. The siRNAs (100 pmol)
+were transfected into BCC cells using 5 µL of lipofectamine RNAiMax reagent (Invitrogen,
+Thermo Fisher Scientific) according to manufacturer’s instruction. The efficacy of
+transfection in BCC cells was confirmed using quantitative real-time polymerase chain
+reaction (qRT-PCR; Supplementary Material Figure 1). After 72 hours of transfection, cells
+were treated with Jak2 inhibitor (JAK2IR; 1 mg/mL, 420099, Sigma-Aldrich, St. Gallen,
+Switzerland) or STAT3 inhibitor (STAT3IR; 1 mg/mL, 573125, Sigma-Aldrich, St. Gallen,
+Switzerland) with phosphate-buffered saline (PBS) as control for 12 hours at 37°C for
+further analysis.</p><fig id="fig1-1533033819892258" orientation="portrait" position="float"><label>Figure 1.</label><caption><p>Expression of DDX5 between BCC tissues and BCC cell lines. A, Expression of DDX5 in
+BCC tissue samples and normal basal tissue. DDX5 gene (B) and protein (C) expression
+in BCC cells and normal basal cell lines. Mamplification, ×40. **<italic toggle="yes">P</italic>
+&lt; .01 vs normal basal tissue or cells. BCC indicates basal cell carcinoma; DDX5,
+DEAD (Asp-Glu-Ala-Asp) box protein 5.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_1533033819892258-fig1.jpg"/></fig></sec><sec id="section7-1533033819892258"><title>Quantitative Real-Time PCR</title><p>Total RNA was extracted from the BCC or normal basal cells using RNeasy Mini kit (Qiagen
+Sciences, Inc, Gaithersburg, Maryland) according to the manufacturer’s protocol. The
+relative messenger RNA (mRNA) expression was determined by qRT-PCR. The RNA integrity
+number was approximately 2.12. A total of 1 μg RNA was reverse transcribed into
+complementary DNA (cDNA) using cDNA Synthesis Kit (Product code: 11117831001, Roche,
+Shanghai, China). The cDNA (1 μg) was subjected to qRT-PCR using an FastStart Universal
+SYBR Green Master (4913850001, Roche) and a LightCycler 480 Real-Time PCR system (Roche).
+All the primers were synthesized by Invitrogen (Invitrogen, Thermo Fisher Scientific,
+<xref rid="table1-1533033819892258" ref-type="table">Table 1</xref>). Polymerase chain
+reaction thermocycling conditions were 45 amplification cycles, denaturation at 95°C,
+primer annealing at 64°C with touchdown to 56°C, and applicant extension at 72°C. Relative
+levels of mRNA expression were calculated using the 2<sup>−ΔΔCq</sup> method<sup><xref rid="bibr21-1533033819892258" ref-type="bibr">21</xref></sup> and results were expressed as a fold change relative to β-actin control.</p><table-wrap id="table1-1533033819892258" orientation="portrait" position="float"><label>Table I.</label><caption><p>Primers for qRT-PCR.</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_1533033819892258-table1.jpg"/><table frame="hsides" rules="groups"><thead><tr><th rowspan="1" colspan="1">Gene</th><th rowspan="1" colspan="1">Forward (5′-3′)</th><th rowspan="1" colspan="1">Reverse (5′-3′)</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">Caspase -3</td><td rowspan="1" colspan="1">CATGATTAGCAAGTTACAGTGATGC</td><td rowspan="1" colspan="1">CACAGTCTTAAGTGGGGGGA</td></tr><tr><td rowspan="1" colspan="1">Caspase-9</td><td rowspan="1" colspan="1">CGTTCTATGGTTACCGACATGACG</td><td rowspan="1" colspan="1">GTTCCATAGTCATTGAGCATTGTG</td></tr><tr><td rowspan="1" colspan="1">Bcl-xl</td><td rowspan="1" colspan="1">GCTGGTGGTTGACTTTCTCTCC</td><td rowspan="1" colspan="1">GGCTTCAGTCCTGTTCTCTTCG</td></tr><tr><td rowspan="1" colspan="1">Bcl-2</td><td rowspan="1" colspan="1">GATGAAGTACATCCATTATAAGCTGTCACA</td><td rowspan="1" colspan="1">‘-GCGCTCAGCCCTGTGCCACCTGTGGTCCAC</td></tr><tr><td rowspan="1" colspan="1">DDX5</td><td rowspan="1" colspan="1">GCCGGGACCGAGGGTTTGGT</td><td rowspan="1" colspan="1">CTTGTGCTGTGCGCCTAGCCA</td></tr><tr><td rowspan="1" colspan="1">JAK2</td><td rowspan="1" colspan="1">TTTACTTACTCTCGTCTCCACAGTC</td><td rowspan="1" colspan="1">TTTACTTACTCTCGTCTCCACAGTA</td></tr><tr><td rowspan="1" colspan="1">STAT3</td><td rowspan="1" colspan="1">AGCTGAGCGTGTGTGACAGT</td><td rowspan="1" colspan="1">ACCCATGGGATTACACTTGG</td></tr><tr><td rowspan="1" colspan="1">β-Actin</td><td rowspan="1" colspan="1">CGGAGTCAACGGATTTGGTC</td><td rowspan="1" colspan="1">AGCCTTCTCCATGGTCGTGA</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="table-fn1-1533033819892258"><p>Abbreviations: DDX5, DEAD (Asp-Glu-Ala-Asp) box protein 5; qRT-PCR, quantitative
+real-time polymerase chain reaction.</p></fn></table-wrap-foot></table-wrap></sec><sec id="section8-1533033819892258"><title>Western Blotting</title><p>Basal cell carcinoma or normal basal cells were homogenized in lysate buffer containing
+protease inhibitor (Sigma-Aldrich, St. Gallen, Switzerland) and centrifuged at 8000 ×
+<italic toggle="yes">g</italic> at 4°C for 10 minutes. Protein concentration was measured by a
+bicinchoninic acid protein assay kit (Thermo Scientific, Pittsburgh, Pennsylvania).
+Subsequently, protein samples (40 µg) were loaded and separated using 15% sodium dodecyl
+sulfate-polyacrylamide gel electrophoresis, as described previously.<sup><xref rid="bibr22-1533033819892258" ref-type="bibr">22</xref></sup> Subsequently, proteins were subsequently blotted on a nitrocellulose membrane and
+hybridized using rabbit antihuman primary antibodies: DDX5 (1:2000, ab21696, Abcam,
+Cambridge, UK), Claudin3 (1:1000, ab15102, Abcam), MTA3 (1:1000, ab87275, Abcam),
+Caspase-3 (1:1000, ab238440, Abcam, Cambridge, UK), Caspase-9 (1:1000, ab32539, Abcam,
+Cambridge, UK), Bcl-2 (1:1000, ab32124, Abcam, Cambridge, UK), Bcl-xl (1:1000, ab32370,
+Abcam, Cambridge, UK), and β-actin (1:1000, ab8226, Abcam, Cambridge, UK) after blocking
+in 5% bovine serum albumin (Sigma-Aldrich) for 1 hour at 37°C. Membranes were then
+incubated with horseradish peroxidase (HRP)-conjugated goat antirabbit immunoglobulin G
+(IgG) monoclonal antibody (mAb; PV-6001, ZSGB-BIO, Beijing, China) secondary antibodies
+for 24 hours at 4°C. The membrane was also washed with TBST for 3 times and protein bands
+were detected by an enhanced chemiluminescence detection system, and the band intensities
+were analyzed by ImageJ software 1.2.</p></sec><sec id="section9-1533033819892258"><title>Cell Migration and Invasion analysis</title><p>Basal cell carcinoma cells were transfected with siR-DDX5 and/or treated with JAK2IR (1
+mg/mL, 420099, Sigma-Aldrich, St. Gallen, Switzerland) or STAT3IR (1 mg/mL, 573125,
+Sigma-Aldrich, St. Gallen, Switzerland); 1 × 10<sup>4</sup> /well concentration of the BCC
+cells with 150 μL serum free DMEM were added into the upper chamber with the noncoated
+membrane. Matrigel-uncoated and -coated migration inserts (8 µm pore size; Millipore,
+Bedford, MA, USA) were used to evaluate cell migration and invasion. After 24 hours
+incubation, BCC cells were fixed in 4% paraformaldehyde for 10 minutes at 37°C. Cells were
+washed with PBS 3 times and stained with 0.1% crystal violet dye (Sigma-Aldrich, St.
+Gallen, Switzerland) for 15 minutes at 37°C. The cells were removed with a cotton swab and
+counted at 3 randomly selected views using a light microscope (Olympus BX51, Olympus;
+Tokyo, Japan).</p></sec><sec id="section10-1533033819892258"><title>Immunohistochemistry Analysis</title><p>Basal cell carcinoma tissues and matched adjacent nontumor tissues were fixed in 4%
+paraformaldehyde overnight and then embedded in paraffin wax; 4 µm BCC tissue sections
+were deparaffinized in xylene, rehydrated through graded ethanols, followed by blocking of
+endogenous peroxidase activity in 3% hydrogen peroxide for 10 minutes at room temperature
+and analyzed for DDX-5 expression. Tumor sections were incubated with specific primary
+antibodies for DDX5 (1:2000, ab21696, Abcam) for 12 hours at 4°C. Tumor tissues were then
+incubated with HRP-conjugated goat anti-rabbit IgG mAb (1:5000, dilution, PV-6001,
+ZSGB-BIO). A Ventana Benchmark automated staining system was used for purpose protein
+expression in tumor tissues (Olympus BX51, Olympus). The staining results were
+semiquantitatively evaluated by the multiply of staining intensity and the percentage of
+positive staining cells (magnifications: ×400).</p></sec><sec id="section11-1533033819892258"><title>Terminal Deoxynucleotidyl Transferase-Mediated Deoxyuridine Triphosphate Nick-End
+Labeling Assay</title><p>The treated BCC cells (1 × 10<sup>6</sup>) were treated with tunicamycin (1 μg/mL) for 4
+hours at 37°C and fixed with 10% paraformaldehyde for 10 minutes at room temperature.
+Cells were washed with PBS and apoptosis of BCC cells was analyzed using terminal
+deoxynucleotidyl transferase-mediated deoxyuridine triphosphate nick-end labeling (TUNEL)
+assay kit (DeadEnd Colorimetric Tunel System, Promega, Madison, Wisconsin) according to
+the manufacturer’s instructions. Cells were immersed in 50 μL TUNEL reaction fluid in a
+humid environment at 37°C for 1 hour. After washing with PBS 3 times, cells were incubated
+with 4′,6-diamidino-2-phenylindole at 37°C for 30 minutes. Finally, samples were washed
+with PBS 3 times and then captured with a ZEISS LSM 510 confocal microscope at 488 nm. The
+apoptosis rate was calculated by using the software of Developer XD 1.2 (Definiens AG,
+Munich, Germany).</p></sec><sec id="section12-1533033819892258"><title>Statistical Analysis</title><p>Data are expressed as the mean ± standard deviation and performed at least 3 independent
+replicates. All data were analyzed by SPSS software 19.0 (SPSS, Inc, Chicago, Illinois).
+Data were analyzed using Student <italic toggle="yes">t</italic> test or one-way analysis of variance
+followed by Tukey multiple comparison post hoc tests; *<italic toggle="yes">P</italic> &lt; .05 and
+**<italic toggle="yes">P</italic> &lt; .01 were considered statistically significant.</p></sec></sec><sec sec-type="results" id="section13-1533033819892258"><title>Results</title><sec id="section14-1533033819892258"><title>Expression of DDX5 in BCC Tissues and BCC Cell Lines</title><p>Expression of DDX5 was investigated in BCC tissues and BCC cell lines. Results showed
+that DDX5 expression was approximately 2.08-fold in BCC tissue samples compared with
+normal basal tissue (<xref ref-type="fig" rid="fig1-1533033819892258">Figure 1A</xref>,
+<italic toggle="yes">P</italic> &lt; .01). As shown in <xref ref-type="fig" rid="fig1-1533033819892258">Figure 1B and C</xref>, BCC cell line expressed higher level
+of DDX5 gene (2.39-fold, BCC vs normal basal cell line [NBC]; <italic toggle="yes">P</italic> &lt; .01)
+and protein (1.55-fold, BCC vs NBC; <italic toggle="yes">P</italic> &lt; .01) expression level than
+NBC. These results suggest that DDX5 expression is upregulated in BCC tissues and cell
+lines.</p></sec><sec id="section15-1533033819892258"><title>DDX5 Knockdown Inhibits BCC Cell Line Migration and Invasion</title><p>The effects of DDX5 on migration and invasion of BCC cells were analyzed in this study.
+DEAD (Asp-Glu-Ala-Asp) box protein 5 knockdown (siR-DDX5) inhibited the migration and
+invasion of BCC cells (<xref ref-type="fig" rid="fig2-1533033819892258">Figure 2A and
+B</xref>, <italic toggle="yes">P</italic> &lt; .01 vs siR vector). Results observed that knockdown of
+DDX5 inhibited the expression of Claudin3 and MTA3 in BCC cells (<xref ref-type="fig" rid="fig2-1533033819892258">Figure 2C and D</xref>, <italic toggle="yes">P</italic> &lt; .01). These
+results suggest that DDX5 involves in BCC cell line migration and invasion.</p><fig id="fig2-1533033819892258" orientation="portrait" position="float"><label>Figure 2.</label><caption><p>Effects of DDX5 knockdown on BCC cell line migration and invasion. Effects of DDX5
+knockdown on migration (A) and invasion (B) of BCC cells. Effects of DDX5 knockdown on
+gene (C) and protein (D) expression of Claudin3 and MTA3 in BCC cells.
+**<italic toggle="yes">P</italic> &lt; .01 vs siR vector. BCC indicates basal cell carcinoma;
+DDX5, DEAD (Asp-Glu-Ala-Asp) box protein 5.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_1533033819892258-fig2.jpg"/></fig></sec><sec id="section16-1533033819892258"><title>DDX5 Knockdown Promotes BCC Cells Apoptosis</title><p>The effects of DDX5 knockdown on BCC cells apoptosis were analyzed in this study. As
+shown in <xref ref-type="fig" rid="fig3-1533033819892258">Figure 3A</xref>, DDX5 knockdown
+increased the apoptosis of BCC cells compared to control (<italic toggle="yes">P</italic> &lt; .01 vs
+siR vector). Gene and protein expression of the active fragment for caspase-3 and
+caspase-9 was increased by DDX5 knockdown in BCC cells compared to the cells transfected
+by siR vector (<xref ref-type="fig" rid="fig3-1533033819892258">Figure 3B and C</xref>,
+<italic toggle="yes">P</italic> &lt; .01 vs siR vector). DEAD (Asp-Glu-Ala-Asp) box protein 5
+knockdown decreased Bcl-2 and Bcl-xl expression in BCC cells (<xref ref-type="fig" rid="fig3-1533033819892258">Figure 3D and E</xref>, <italic toggle="yes">P</italic> &lt; .01 vs siR
+vector). These results suggest that DDX5 knockdown promotes BCC cells apoptosis.</p><fig id="fig3-1533033819892258" orientation="portrait" position="float"><label>Figure 3.</label><caption><p>Effects of DDX5 knockdown on BCC cells apoptosis. A, DDX5 knockdown increases the
+apoptosis of BCC cells. Effects of DDX5 knockdown on gene (B) and protein (C)
+expression of pro caspase-3 and cleaved caspase-3 and caspase-9 in BCC cells. Effects
+of DDX5 knockdown on gene (D) and protein (E) expression level of Bcl-2 and Bcl-xl in
+BCC cells. **<italic toggle="yes">P</italic> &lt; .01 vs siR vector. BCC indicates basal cell
+carcinoma; DDX5, DEAD (Asp-Glu-Ala-Asp) box protein 5.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_1533033819892258-fig3.jpg"/></fig></sec><sec id="section17-1533033819892258"><title>DDX5 Knockdown Regulates BCC Cells Metastasis via JAK2/STAT3 Pathway</title><p>The potential mechanism mediated by DEAD (Asp-Glu-Ala-Asp) box protein 5 was analyzed in
+BCC cells. Results found that DDX5 knockdown increased JAK2 and STAT3 expression in BCC
+cells (<xref ref-type="fig" rid="fig4-1533033819892258">Figure 4A and B</xref>,
+<italic toggle="yes">P</italic> &lt; .01 vs siR vector). However, JAK2IR decreased STAT3 expression
+and abolished the inhibitory effects of DDX5 knockdown (siR-DDX5 + JAK2IR) on migration
+and invasion in BCC cells (<xref ref-type="fig" rid="fig4-1533033819892258">Figure
+4C-F</xref>, <italic toggle="yes">P</italic> &lt; .01 vs control or siR-DDX5 + JAK2IR). These results
+suggest that DDX5 knockdown downregulates JAK2/STAT3 pathway in BCC cells.</p><fig id="fig4-1533033819892258" orientation="portrait" position="float"><label>Figure 4.</label><caption><p>DEAD (Asp-Glu-Ala-Asp) box protein 5 knockdown regulates BCC cells metastasis via
+JAK2/STAT3 pathway. Effects of DDX5 knockdown on gene (A) and protein (B) expression
+of JAK2 and STAT3 expression in BCC cells. Effects of JAK2IR on DDX5
+knockdown-decreased STAT3 gene (C) and protein (D) expression in BCC cells. Effects of
+JAK2IR on DDX5 knockdown-decreased migration (E) and invasion (F) in BCC cells.
+**<italic toggle="yes">P</italic> &lt; .01 vs control or siR-DDX5 + JAK2IR. BCC indicates basal
+cell carcinoma; DDX5, DEAD (Asp-Glu-Ala-Asp) box protein 5; JAK2IR, JAK2
+inhibitor.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_1533033819892258-fig4.jpg"/></fig></sec><sec id="section18-1533033819892258"><title>DDX5 Knockdown Regulates BCC Cells Apoptosis via JAK2/STAT3 Pathway</title><p>The potential mechanism of apoptosis mediated by DDX5 was analyzed in BCC cells. The
+results showed that JAK2IR increased apoptosis and abolished the proapoptotic effects of
+DDX5 knockdown in BCC cells (<xref ref-type="fig" rid="fig5-1533033819892258">Figure
+5A</xref>, <italic toggle="yes">P</italic> &lt; .01, vs control or siR-DDX5 + JAK2IR). Also, STAT3IR
+abolished the proapoptotic effects of DDX5 knockdown in BCC cells (<xref ref-type="fig" rid="fig5-1533033819892258">Figure 5B</xref>, <italic toggle="yes">P</italic> &lt; .01, vs control or
+siR-DDX5 + STAT3IR). Results demonstrated that JAK2IR canceled DDX5 knockdown-regulated
+caspase-3, caspase-9, Bcl-2, and Bcl-xl expression in BCC cells (<xref ref-type="fig" rid="fig5-1533033819892258">Figure 5C-D</xref>; <italic toggle="yes">P</italic> &lt; .01 vs control
+or siR-DDX5 + JAK2IR, <italic toggle="yes">P</italic> &lt; .01 vs control or siR-DDX5 + STAT3IR,
+respectively). These results suggest that DDX5 knockdown regulates BCC cells apoptosis via
+JAK2/STAT3 pathway.</p><fig id="fig5-1533033819892258" orientation="portrait" position="float"><label>Figure 5.</label><caption><p>DEAD (Asp-Glu-Ala-Asp) box protein 5 knockdown regulates BCC cells apoptosis via
+JAK2/STAT3 pathway. Effects of JAK2 inhibitor (A) or STAT3 inhibitor (B) DDX5
+knockdown-increased apoptosis of BCC cells. Effects of JAK2 inhibitor on DDX5
+knockdown-regulated caspase-3 and caspase-9 (C), Bcl-2 and Bcl-xl (D) expression in
+BCC cells. **<italic toggle="yes">P</italic> &lt; .01 vs control or siR-DDX5 + JAK2IR. BCC
+indicates basal cell carcinoma; DDX5, DEAD (Asp-Glu-Ala-Asp) box protein 5; JAK2IR,
+JAK2 inhibitor.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_1533033819892258-fig5.jpg"/></fig></sec></sec><sec sec-type="discussion" id="section19-1533033819892258"><title>Discussion</title><p>Previous reports have indicated that DDX5 expression is overexpressed in human cancer
+tissues compared with normal tissues including breast cancer, gastric cancer, and prostate cancer.<sup><xref rid="bibr13-1533033819892258" ref-type="bibr">13</xref>,<xref rid="bibr23-1533033819892258" ref-type="bibr">23</xref>,<xref rid="bibr24-1533033819892258" ref-type="bibr">24</xref></sup> Evidence indicates that inhibition of JAK2/STAT3 signaling pathway induces cancer
+cells apoptosis and decreases migration of cancer cell, such as ovarian cancer, colorectal
+cancer, and gastric cancer.<sup><xref rid="bibr25-1533033819892258" ref-type="bibr">25</xref><xref rid="bibr26-1533033819892258" ref-type="bibr"/>-<xref rid="bibr27-1533033819892258" ref-type="bibr">27</xref></sup> In this study, we analyzed DDX5 expression in BCC tissue and BCC cell line. This
+study also explored the possible mechanism of apoptosis and invasion mediated by DDX5 in BCC
+cells. Results in this study indicate that DDX5 is overexpressed in BCC tissues and BCC cell
+lines. Findings in this study suggest that DDX5 induces BCC cells apoptosis, inhibits
+migration and invasion through inhibition of the JAK2/STAT3 signal pathway.</p><p>Claudins are key cells adhesion molecules, which are associated with cancer development.<sup><xref rid="bibr28-1533033819892258" ref-type="bibr">28</xref></sup> Study has found that MTA3 can regulate malignant progression of human cancer through
+various signaling pathways.<sup><xref rid="bibr29-1533033819892258" ref-type="bibr">29</xref><xref rid="bibr30-1533033819892258" ref-type="bibr"/>-<xref rid="bibr31-1533033819892258" ref-type="bibr">31</xref></sup> Here, we reported that DDX5 knockdown inhibited migration and invasion of BCC cells.
+However, we will further investigate the expression of DDX5 in the more aggressive BCC
+subtypes based on their morphologies in our future work.</p><p>Increasing apoptotic sensitivity plays a crucial role in the treatment of human cancer.<sup><xref rid="bibr32-1533033819892258" ref-type="bibr">32</xref><xref rid="bibr33-1533033819892258" ref-type="bibr"/>-<xref rid="bibr34-1533033819892258" ref-type="bibr">34</xref></sup> In this study, we showed that DDX5 knockdown increased the apoptosis of BCC cells
+induced by tunicamycin. Study has found that inducing mitochondria-dependent cleavage of
+caspase-9 and -3 or decreasing in Bcl-2 and Bcl-xl can promote human BCC apoptosis.<sup><xref rid="bibr35-1533033819892258" ref-type="bibr">35</xref></sup> Our data demonstrated that DDX5 knockdown induced caspase-9 and -3 expression and
+decreased Bcl-2 and Bcl-xl through interfering with JAK2/STAT3 signaling pathway in BCC
+cells.</p><p>A study has found that under <italic toggle="yes">in vitro</italic> experimental condition, activation
+of JAK/STAT3 signaling pathway induces BCC cells invasion.<sup><xref rid="bibr16-1533033819892258" ref-type="bibr">16</xref></sup> Activating STAT3 signaling pathway in BCC contributes tumor growth and tumor
+progression in the inflammatory microenvironment for BCC cells.<sup><xref rid="bibr18-1533033819892258" ref-type="bibr">18</xref></sup> Findings in this study reported that JAK2IR decreased STAT3 expression and abolished
+the regulatory effects of DDX5 knockdown on apoptosis, migration, and invasion of BCC cells.
+Findings also found that JAK2 and STAT3IR abolished DDX5 knockdown-regulated caspase-3,
+caspase-9, Bcl-2, and Bcl-xl gene and protein expression in BCC cells. However, other
+regulatory factors involved in the progression of BCC cells growth and invasion need to be
+further studied in our future investigation.</p><p>In conclusion, we have shown that DDX5 knockdown increased tunicamycin-induced apoptosis in
+BCC cells and suppressed migration and invasion of BCC cells. Our findings suggest that the
+mechanism of DDX5 may involve modulation of the JAK2/STAT3 signaling pathway in BCC cells.
+However, antitumor mechanisms of DDX5 need to be clarified further, and the experimental
+cancer mice performed in the future.</p></sec><sec sec-type="supplementary-material" id="section20-1533033819892258" specific-use="figshare"><title>Supplemental Material</title><supplementary-material content-type="local-data" id="suppl1-1533033819892258" position="float" orientation="portrait"><caption><title>Supplementary_material - DDX5 Silencing Suppresses the Migration of Basal cell
+Carcinoma Cells by Downregulating JAK2/STAT3 Pathway</title></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Supplementary_material.pdf" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media><p>Supplementary_material for DDX5 Silencing Suppresses the Migration of Basal cell
+Carcinoma Cells by Downregulating JAK2/STAT3 Pathway by Zhe Quan, Bei-bei Zhang, Fang Yin,
+Jiru Du, Yuan-ting Zhi, Jin Xu and Ningjing Song in Technology in Cancer Research &amp;
+Treatment</p></supplementary-material></sec></body><back><fn-group><fn fn-type="other" id="fn1-1533033819892258"><p><bold>Authors’ Note:</bold> The analyzed data sets generated during the study are available from the corresponding
+author on reasonable request. This study was approved by the Ethic Committee of Shanghai
+Jiao Tong University School of Medicine. The approval number given by the Ethics Committee
+is 2017-020-01.</p></fn><fn fn-type="COI-statement" id="fn2-1533033819892258"><p><bold>Declaration of Conflicting Interests:</bold> The author(s) declared no potential conflicts of interest with respect to the research,
+authorship, and/or publication of this article.</p></fn><fn fn-type="financial-disclosure" id="fn4-1533033819892258"><p><bold>Funding:</bold> The author(s) disclosed receipt of the following financial support for the research,
+authorship, and/or publication of this article: Project supported by Shanghai Tongren
+Hospital (TRYJ201508) and Changning district health and family planning commission
+(20164Y005).</p></fn><fn fn-type="other" id="fn5-1533033819892258"><p><bold>ORCID iD:</bold> Quan Zhe <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="10.1177_1533033819892258-img1.jpg"/>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://orcid.org/0000-0002-6584-5296">https://orcid.org/0000-0002-6584-5296</ext-link>
+</p></fn><fn fn-type="supplementary-material" id="fn6-1533033819892258"><p><bold>Supplemental Material:</bold> Supplemental material for this article is available online.</p></fn></fn-group><glossary content-type="abbr"><title>Abbreviations</title><def-list><def-item><term id="term1-1533033819892258">BCC</term><def><p>basal cell carcinoma</p></def></def-item><def-item><term id="term2-1533033819892258">cDNA</term><def><p>complementary DNA</p></def></def-item><def-item><term id="term3-1533033819892258">DDX5</term><def><p>DEAD (Asp-Glu-Ala-Asp) box protein 5</p></def></def-item><def-item><term id="term4-1533033819892258">DMEM</term><def><p>Dulbecco modified Eagle medium</p></def></def-item><def-item><term id="term5-1533033819892258">HRP</term><def><p>horseradish peroxidase</p></def></def-item><def-item><term id="term6-1533033819892258">IgG</term><def><p>immunoglobulin G</p></def></def-item><def-item><term id="term7-1533033819892258">JAK2IR</term><def><p>JAK2 inhibitor</p></def></def-item><def-item><term id="term8-1533033819892258">mRNA</term><def><p>messenger RNA</p></def></def-item><def-item><term id="term9-1533033819892258">mAb</term><def><p>monoclonal antibodies</p></def></def-item><def-item><term id="term10-1533033819892258">NBC</term><def><p>normal basal cell line</p></def></def-item><def-item><term id="term11-1533033819892258">PBS</term><def><p>phosphate-buffered saline</p></def></def-item><def-item><term id="term12-1533033819892258">qRT-PCR</term><def><p>quantitative real-time polymerase chain reaction</p></def></def-item><def-item><term id="term13-1533033819892258">siRNA</term><def><p>small interfering RNA</p></def></def-item><def-item><term id="term14-1533033819892258">STAT3IR</term><def><p>STAT3 inhibitor</p></def></def-item><def-item><term id="term15-1533033819892258">TUNEL</term><def><p>terminal deoxynucleotidyl transferase-mediated deoxyuridine triphosphate nick-end
+labeling</p></def></def-item></def-list></glossary><ref-list><title>References</title><ref id="bibr1-1533033819892258"><label>1</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Kallam</surname><given-names>AR</given-names></name><name name-style="western"><surname>Satyanarayana</surname><given-names>MA</given-names></name><name name-style="western"><surname>Aryasomayajula</surname><given-names>S</given-names></name><name name-style="western"><surname>Krishna</surname><given-names>BA</given-names></name></person-group>
+<article-title>Basal cell carcinoma developing from trichoepithelioma:
+review of three cases</article-title>. <source>J Clin Diagn Res</source>.
+<year>2016</year>;<volume>10</volume>(<issue>3</issue>):<fpage>PD17</fpage>–<lpage>9</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.7860/JCDR/2016/15432.7464</pub-id><pub-id pub-id-type="pmcid">PMC4843321</pub-id><pub-id pub-id-type="pmid">27134936</pub-id></mixed-citation></ref><ref id="bibr2-1533033819892258"><label>2</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Kuang</surname><given-names>S</given-names></name><name name-style="western"><surname>Li</surname><given-names>H</given-names></name><name name-style="western"><surname>Feng</surname><given-names>J</given-names></name><name name-style="western"><surname>Xu</surname><given-names>S</given-names></name><name name-style="western"><surname>Le</surname><given-names>Y</given-names></name></person-group>
+<article-title>Correlation of BRCA2 gene mutation and prognosis as well
+as variant genes in invasive urothelial carcinoma of the bladder</article-title>.
+<source>Cancer Biomark</source>.
+<year>2019</year>;<volume>25</volume>(<issue>2</issue>):<fpage>203</fpage>–<lpage>212</lpage>.<pub-id pub-id-type="pmid">31045513</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3233/CBM-182379</pub-id><pub-id pub-id-type="pmcid">PMC13082409</pub-id></mixed-citation></ref><ref id="bibr3-1533033819892258"><label>3</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Wadt</surname><given-names>KA</given-names></name><name name-style="western"><surname>Aoude</surname><given-names>LG</given-names></name><name name-style="western"><surname>Johansson</surname><given-names>P</given-names></name></person-group>, <etal>et al.</etal>
+<article-title>A recurrent germline BAP1 mutation and extension of the BAP1 tumor
+predisposition spectrum to include basal cell carcinoma</article-title>. <source>Clin
+Genet</source>.
+<year>2015</year>;<volume>88</volume>(<issue>3</issue>):<fpage>267</fpage>–<lpage>272</lpage>.<pub-id pub-id-type="pmid">25225168</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/cge.12501</pub-id></mixed-citation></ref><ref id="bibr4-1533033819892258"><label>4</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Wang</surname><given-names>YM</given-names></name><name name-style="western"><surname>Huang</surname><given-names>YS</given-names></name><name name-style="western"><surname>Ma</surname><given-names>ZH</given-names></name></person-group>, <etal>et al.</etal>
+<article-title>Frequency and features of TP53 mutation in 30 Chinese patients with
+sporadic basal cell carcinoma</article-title>. <source>Clin Exp Dermatol</source>.
+<year>2014</year>;<volume>39</volume>(<issue>7</issue>):<fpage>829</fpage>–<lpage>834</lpage>.<pub-id pub-id-type="pmid">25196205</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/ced.12411</pub-id></mixed-citation></ref><ref id="bibr5-1533033819892258"><label>5</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Cohen</surname><given-names>PR</given-names></name></person-group>
+<article-title>Basal cell carcinoma with myoepithelial differentiation:
+case report and literature review</article-title>. <source>Cureus</source>.
+<year>2018</year>;<volume>10</volume>(<issue>1</issue>):<fpage>e2081</fpage>.<pub-id pub-id-type="pmid">29560294</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.7759/cureus.2081</pub-id><pub-id pub-id-type="pmcid">PMC5856425</pub-id></mixed-citation></ref><ref id="bibr6-1533033819892258"><label>6</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Ericson</surname><given-names>MB</given-names></name><name name-style="western"><surname>Wennberg</surname><given-names>AM</given-names></name><name name-style="western"><surname>Larko</surname><given-names>O</given-names></name></person-group>
+<article-title>Review of photodynamic therapy in actinic keratosis and
+basal cell carcinoma</article-title>. <source>Ther Clin Risk Manag</source>.
+<year>2008</year>;<volume>4</volume>(<issue>1</issue>):<fpage>1</fpage>–<lpage>9</lpage>.<pub-id pub-id-type="pmid">18728698</pub-id><pub-id pub-id-type="pmcid">PMC2503644</pub-id></mixed-citation></ref><ref id="bibr7-1533033819892258"><label>7</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Ionescu</surname><given-names>DN</given-names></name><name name-style="western"><surname>Arida</surname><given-names>M</given-names></name><name name-style="western"><surname>Jukic</surname><given-names>DM</given-names></name></person-group>
+<article-title>Metastatic basal cell carcinoma: four case reports, review
+of literature, and immunohistochemical evaluation</article-title>. <source>Arch Pathol
+Lab Med</source>.
+<year>2006</year>;<volume>130</volume>(<issue>1</issue>):<fpage>45</fpage>–<lpage>51</lpage>.<pub-id pub-id-type="pmid">16390237</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.5858/2006-130-45-MBCCFC</pub-id></mixed-citation></ref><ref id="bibr8-1533033819892258"><label>8</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Shi</surname><given-names>Y</given-names></name><name name-style="western"><surname>Jia</surname><given-names>R</given-names></name><name name-style="western"><surname>Fan</surname><given-names>X</given-names></name></person-group>
+<article-title>Ocular basal cell carcinoma: a brief literature review of
+clinical diagnosis and treatment</article-title>. <source>Onco Targets Ther</source>.
+<year>2017</year>;<volume>10</volume>:<fpage>2483</fpage>–<lpage>2489</lpage>.<pub-id pub-id-type="pmid">28507440</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.2147/OTT.S130371</pub-id><pub-id pub-id-type="pmcid">PMC5428761</pub-id></mixed-citation></ref><ref id="bibr9-1533033819892258"><label>9</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Verkouteren</surname><given-names>JAC</given-names></name><name name-style="western"><surname>Ramdas</surname><given-names>KHR</given-names></name><name name-style="western"><surname>Wakkee</surname><given-names>M</given-names></name><name name-style="western"><surname>Nijsten</surname><given-names>T</given-names></name></person-group>
+<article-title>Epidemiology of basal cell carcinoma: scholarly
+review</article-title>. <source>Br J Dermatol</source>.
+<year>2017</year>;<volume>177</volume>(<issue>2</issue>):<fpage>359</fpage>–<lpage>372</lpage>.<pub-id pub-id-type="pmid">28220485</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/bjd.15321</pub-id></mixed-citation></ref><ref id="bibr10-1533033819892258"><label>10</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Munday</surname><given-names>JS</given-names></name><name name-style="western"><surname>French</surname><given-names>A</given-names></name><name name-style="western"><surname>Thomson</surname><given-names>N</given-names></name></person-group>
+<article-title>Detection of DNA sequences from a novel papillomavirus in
+a feline basal cell carcinoma</article-title>. <source>Vet Dermatol</source>.
+<year>2017</year>;<volume>28</volume>(<issue>2</issue>):<fpage>236</fpage>–<lpage>e60</lpage>.<pub-id pub-id-type="pmid">27933665</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/vde.12402</pub-id></mixed-citation></ref><ref id="bibr11-1533033819892258"><label>11</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Fang</surname><given-names>DA</given-names></name><name name-style="western"><surname>Wang</surname><given-names>Q</given-names></name><name name-style="western"><surname>Wang</surname><given-names>J</given-names></name><name name-style="western"><surname>He</surname><given-names>L</given-names></name><name name-style="western"><surname>Liu</surname><given-names>LH</given-names></name><name name-style="western"><surname>Wang</surname><given-names>Y</given-names></name></person-group>
+<article-title>A novel DDX5 gene in the freshwater crayfish Cherax
+quadricarinatus is highly expressed during ontogenesis and
+spermatogenesis</article-title>. <source>Genet Mol Res</source>.
+<year>2011</year>;<volume>10</volume>(<issue>4</issue>):<fpage>3963</fpage>–<lpage>3975</lpage>.<pub-id pub-id-type="pmid">22033909</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.4238/2011.October.25.3</pub-id></mixed-citation></ref><ref id="bibr12-1533033819892258"><label>12</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Mazurek</surname><given-names>A</given-names></name><name name-style="western"><surname>Luo</surname><given-names>W</given-names></name><name name-style="western"><surname>Krasnitz</surname><given-names>A</given-names></name><name name-style="western"><surname>Hicks</surname><given-names>J</given-names></name><name name-style="western"><surname>Powers</surname><given-names>RS</given-names></name><name name-style="western"><surname>Stillman</surname><given-names>B</given-names></name></person-group>
+<article-title>DDX5 regulates DNA replication and is required for cell
+proliferation in a subset of breast cancer cells</article-title>. <source>Cancer
+Discov</source>. <year>2012</year>; <volume>2</volume>(<issue>9</issue>):
+<fpage>812</fpage>–<lpage>825</lpage>.<pub-id pub-id-type="pmid">22750847</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/2159-8290.CD-12-0116</pub-id><pub-id pub-id-type="pmcid">PMC3440546</pub-id></mixed-citation></ref><ref id="bibr13-1533033819892258"><label>13</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Wang</surname><given-names>D</given-names></name><name name-style="western"><surname>Huang</surname><given-names>J</given-names></name><name name-style="western"><surname>Hu</surname><given-names>Z</given-names></name></person-group>
+<article-title>RNA helicase DDX5 regulates microRNA expression and
+contributes to cytoskeletal reorganization in basal breast cancer cells</article-title>.
+<source>Mol Cell Proteomics</source>.
+<year>2012</year>;<volume>11</volume>(<issue>2</issue>):<fpage>M111</fpage><fpage>011932</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1074/mcp.M111.011932</pub-id><pub-id pub-id-type="pmcid">PMC3277758</pub-id><pub-id pub-id-type="pmid">22086602</pub-id></mixed-citation></ref><ref id="bibr14-1533033819892258"><label>14</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Wang</surname><given-names>Z</given-names></name><name name-style="western"><surname>Luo</surname><given-names>Z</given-names></name><name name-style="western"><surname>Zhou</surname><given-names>L</given-names></name><name name-style="western"><surname>Li</surname><given-names>X</given-names></name><name name-style="western"><surname>Jiang</surname><given-names>T</given-names></name><name name-style="western"><surname>Fu</surname><given-names>E</given-names></name></person-group>
+<article-title>DDX5 promotes proliferation and tumorigenesis of
+non-small-cell lung cancer cells by activating beta-catenin signaling
+pathway</article-title>. <source>Cancer Sci</source>.
+<year>2015</year>;<volume>106</volume>(<issue>10</issue>):<fpage>1303</fpage>–<lpage>1312</lpage>.<pub-id pub-id-type="pmid">26212035</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/cas.12755</pub-id><pub-id pub-id-type="pmcid">PMC4638002</pub-id></mixed-citation></ref><ref id="bibr15-1533033819892258"><label>15</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Ma</surname><given-names>Z</given-names></name><name name-style="western"><surname>Feng</surname><given-names>J</given-names></name><name name-style="western"><surname>Guo</surname><given-names>Y</given-names></name></person-group>, <etal>et al.</etal>
+<article-title>Knockdown of DDX5 Inhibits the proliferation and tumorigenesis in
+esophageal cancer</article-title>. <source>Oncol Res</source>.
+<year>2017</year>;<volume>25</volume>(<issue>6</issue>):<fpage>887</fpage>–<lpage>895</lpage>.<pub-id pub-id-type="pmid">28244855</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3727/096504016X14817158982636</pub-id><pub-id pub-id-type="pmcid">PMC7841059</pub-id></mixed-citation></ref><ref id="bibr16-1533033819892258"><label>16</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Jee</surname><given-names>SH</given-names></name><name name-style="western"><surname>Chu</surname><given-names>CY</given-names></name><name name-style="western"><surname>Chiu</surname><given-names>HC</given-names></name></person-group>, <etal>et al.</etal>
+<article-title>Interleukin-6 induced basic fibroblast growth factor-dependent angiogenesis
+in basal cell carcinoma cell line via JAK/STAT3 and PI3-kinase/Akt
+pathways</article-title>. <source>J Invest Dermatol</source>. <year>2004</year>
+<comment>Dec</comment>;<volume>123</volume>(<issue>6</issue>):<fpage>1169</fpage>–<lpage>1175</lpage>.<pub-id pub-id-type="pmid">15610530</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.0022-202X.2004.23497.x</pub-id></mixed-citation></ref><ref id="bibr17-1533033819892258"><label>17</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Tago</surname><given-names>K</given-names></name><name name-style="western"><surname>Funakoshi-Tago</surname><given-names>M</given-names></name><name name-style="western"><surname>Itoh</surname><given-names>H</given-names></name></person-group>, <etal>et al.</etal>
+<article-title>Arf tumor suppressor disrupts the oncogenic positive feedback loop
+including c-Myc and DDX5</article-title>. <source>Oncogene</source>.
+<year>2015</year>;<volume>34</volume>(<issue>3</issue>):<fpage>314</fpage>–<lpage>322</lpage>.<pub-id pub-id-type="pmid">24469041</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/onc.2013.561</pub-id></mixed-citation></ref><ref id="bibr18-1533033819892258"><label>18</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Jia</surname><given-names>J</given-names></name><name name-style="western"><surname>Shi</surname><given-names>Y</given-names></name><name name-style="western"><surname>Yan</surname><given-names>B</given-names></name></person-group>, <etal>et al.</etal>
+<article-title>LGR5 expression is controlled by IKKα in basal cell carcinoma through
+activating STAT3 signaling pathway</article-title>. <source>Oncotarget</source>.
+<year>2016</year>;<volume>7</volume>(<issue>19</issue>):<fpage>27280</fpage>–<lpage>27294</lpage>.<pub-id pub-id-type="pmid">27049829</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.18632/oncotarget.8465</pub-id><pub-id pub-id-type="pmcid">PMC5053649</pub-id></mixed-citation></ref><ref id="bibr19-1533033819892258"><label>19</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Brennan-Crispi</surname><given-names>DM</given-names></name><name name-style="western"><surname>Overmiller</surname><given-names>AM</given-names></name><name name-style="western"><surname>Tamayo-Orrego</surname><given-names>L</given-names></name></person-group>, <etal>et al.</etal>
+<article-title>Overexpression of desmoglein 2 in a mouse model of Gorlin syndrome enhances
+spontaneous basal cell carcinoma formation through STAT3-mediated Gli1
+expression</article-title>. <source>J Invest Dermatol</source>.
+<year>2019</year>;<volume>139</volume>(<issue>2</issue>):<fpage>300</fpage>–<lpage>307</lpage>.<pub-id pub-id-type="pmid">30291846</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jid.2018.09.009</pub-id><pub-id pub-id-type="pmcid">PMC6342634</pub-id></mixed-citation></ref><ref id="bibr20-1533033819892258"><label>20</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Svobodova</surname><given-names>M</given-names></name><name name-style="western"><surname>Raudenska</surname><given-names>M</given-names></name><name name-style="western"><surname>Gumulec</surname><given-names>J</given-names></name></person-group>, <etal>et al.</etal>
+<article-title>Establishment of oral squamous cell carcinoma cell line and magnetic
+bead-based isolation and characterization of its CD90/CD44
+subpopulations</article-title>. <source>Oncotarget</source>.
+<year>2017</year>;<volume>8</volume>(<issue>39</issue>):<fpage>66254</fpage>–<lpage>66269</lpage>.<pub-id pub-id-type="pmid">29029509</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.18632/oncotarget.19914</pub-id><pub-id pub-id-type="pmcid">PMC5630409</pub-id></mixed-citation></ref><ref id="bibr21-1533033819892258"><label>21</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Livak</surname><given-names>KJ</given-names></name><name name-style="western"><surname>Schmittgen</surname><given-names>TD</given-names></name></person-group>
+<article-title>Analysis of relative gene expression data using real-time
+quantitative PCR and the 2(-Delta Delta C(T)) Method</article-title>.
+<source>Methods</source>.
+<year>2001</year>;<volume>25</volume>(<issue>4</issue>):<fpage>402</fpage>–<lpage>408</lpage>.<pub-id pub-id-type="pmid">11846609</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1006/meth.2001.1262</pub-id></mixed-citation></ref><ref id="bibr22-1533033819892258"><label>22</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Wai-Hoe</surname><given-names>L</given-names></name><name name-style="western"><surname>Wing-Seng</surname><given-names>L</given-names></name><name name-style="western"><surname>Ismail</surname><given-names>Z</given-names></name><name name-style="western"><surname>Lay-Harn</surname><given-names>G</given-names></name></person-group>
+<article-title>SDS-PAGE-Based quantitative assay for screening of kidney
+stone disease</article-title>. <source>Biol Proced Online</source>.
+<year>2009</year>;<volume>11</volume>:<fpage>145</fpage>–<lpage>160</lpage>.<pub-id pub-id-type="pmid">19495911</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s12575-009-9007-y</pub-id><pub-id pub-id-type="pmcid">PMC3055900</pub-id></mixed-citation></ref><ref id="bibr23-1533033819892258"><label>23</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Du</surname><given-names>C</given-names></name><name name-style="western"><surname>Li</surname><given-names>DQ</given-names></name><name name-style="western"><surname>Li</surname><given-names>N</given-names></name></person-group>, <etal>et al.</etal>
+<article-title>DDX5 promotes gastric cancer cell proliferation in vitro and in vivo
+through mTOR signaling pathway</article-title>. <source>Sci Rep</source>.
+<year>2017</year>;<volume>7</volume>:<fpage>42876</fpage>.<pub-id pub-id-type="pmid">28216662</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/srep42876</pub-id><pub-id pub-id-type="pmcid">PMC5316961</pub-id></mixed-citation></ref><ref id="bibr24-1533033819892258"><label>24</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Taniguchi</surname><given-names>T</given-names></name><name name-style="western"><surname>Iizumi</surname><given-names>Y</given-names></name><name name-style="western"><surname>Watanabe</surname><given-names>M</given-names></name></person-group>, <etal>et al.</etal>
+<article-title>Resveratrol directly targets DDX5 resulting in suppression of the mTORC1
+pathway in prostate cancer</article-title>. <source>Cell Death Dis</source>.
+<year>2016</year>;<volume>7</volume>(<issue>5</issue>):<fpage>e2211</fpage>.<pub-id pub-id-type="pmid">27148684</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/cddis.2016.114</pub-id><pub-id pub-id-type="pmcid">PMC4917653</pub-id></mixed-citation></ref><ref id="bibr25-1533033819892258"><label>25</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Du</surname><given-names>W</given-names></name><name name-style="western"><surname>Hong</surname><given-names>J</given-names></name><name name-style="western"><surname>Wang</surname><given-names>YC</given-names></name></person-group>, <etal>et al.</etal>
+<article-title>Inhibition of JAK2/STAT3 signalling induces colorectal cancer cell
+apoptosis via mitochondrial pathway</article-title>. <source>J Cell Mol Med</source>.
+<year>2012</year>;<volume>16</volume>(<issue>8</issue>):<fpage>1878</fpage>–<lpage>1888</lpage>.<pub-id pub-id-type="pmid">22050790</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1582-4934.2011.01483.x</pub-id><pub-id pub-id-type="pmcid">PMC3822699</pub-id></mixed-citation></ref><ref id="bibr26-1533033819892258"><label>26</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Jo</surname><given-names>M</given-names></name><name name-style="western"><surname>Park</surname><given-names>MH</given-names></name><name name-style="western"><surname>Kollipara</surname><given-names>PS</given-names></name></person-group>, <etal>et al.</etal>
+<article-title>Anti-cancer effect of bee venom toxin and melittin in ovarian cancer cells
+through induction of death receptors and inhibition of JAK2/STAT3
+pathway</article-title>. <source>Toxicol Appl Pharmacol</source>.
+<year>2012</year>;<volume>258</volume>(<issue>1</issue>):<fpage>72</fpage>–<lpage>81</lpage>.<pub-id pub-id-type="pmid">22027265</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.taap.2011.10.009</pub-id></mixed-citation></ref><ref id="bibr27-1533033819892258"><label>27</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Judd</surname><given-names>LM</given-names></name><name name-style="western"><surname>Menheniott</surname><given-names>TR</given-names></name><name name-style="western"><surname>Ling</surname><given-names>H</given-names></name></person-group>, <etal>et al.</etal>
+<article-title>Inhibition of the JAK2/STAT3 pathway reduces gastric cancer growth in vitro
+and in vivo</article-title>. <source>PLoS One</source>. <year>2014</year>;
+<volume>9</volume>(<issue>5</issue>):<fpage>e95993</fpage>.<pub-id pub-id-type="pmid">24804649</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0095993</pub-id><pub-id pub-id-type="pmcid">PMC4013079</pub-id></mixed-citation></ref><ref id="bibr28-1533033819892258"><label>28</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Katayama</surname><given-names>A</given-names></name><name name-style="western"><surname>Handa</surname><given-names>T</given-names></name><name name-style="western"><surname>Komatsu</surname><given-names>K</given-names></name></person-group>, <etal>et al.</etal>
+<article-title>Expression patterns of claudins in patients with triple-negative breast
+cancer are associated with nodal metastasis and worse outcome</article-title>.
+<source>Pathol Int</source>.
+<year>2017</year>;<volume>67</volume>(<issue>8</issue>):<fpage>404</fpage>–<lpage>413</lpage>.<pub-id pub-id-type="pmid">28699235</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/pin.12560</pub-id></mixed-citation></ref><ref id="bibr29-1533033819892258"><label>29</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Jiao</surname><given-names>T</given-names></name><name name-style="western"><surname>Li</surname><given-names>Y</given-names></name><name name-style="western"><surname>Gao</surname><given-names>T</given-names></name></person-group>, <etal>et al.</etal>
+<article-title>MTA3 regulates malignant progression of colorectal cancer through Wnt
+signaling pathway</article-title>. <source>Tumour Biol</source>.
+<year>2017</year>;<volume>39</volume>(<issue>3</issue>):<fpage>1010428317695027</fpage>.<pub-id pub-id-type="pmid">28351306</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/1010428317695027</pub-id></mixed-citation></ref><ref id="bibr30-1533033819892258"><label>30</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Li</surname><given-names>H</given-names></name><name name-style="western"><surname>Sun</surname><given-names>L</given-names></name><name name-style="western"><surname>Xu</surname><given-names>Y</given-names></name></person-group>, <etal>et al.</etal>
+<article-title>Overexpression of MTA3 correlates with tumor progression in non-small cell
+lung cancer</article-title>. <source>PloS One</source>.
+<year>2013</year>;<volume>8</volume>(<issue>6</issue>):<fpage>e66679</fpage>.<pub-id pub-id-type="pmid">23840517</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0066679</pub-id><pub-id pub-id-type="pmcid">PMC3686714</pub-id></mixed-citation></ref><ref id="bibr31-1533033819892258"><label>31</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Fujita</surname><given-names>N</given-names></name><name name-style="western"><surname>Jaye</surname><given-names>DL</given-names></name><name name-style="western"><surname>Kajita</surname><given-names>M</given-names></name><name name-style="western"><surname>Geigerman</surname><given-names>C</given-names></name><name name-style="western"><surname>Moreno</surname><given-names>CS</given-names></name><name name-style="western"><surname>Wade</surname><given-names>PA</given-names></name></person-group>
+<article-title>MTA3, a Mi-2/NuRD complex subunit, regulates an invasive
+growth pathway in breast cancer</article-title>. <source>Cell</source>.
+<year>2003</year>;<volume>113</volume>(<issue>2</issue>):<fpage>207</fpage>–<lpage>219</lpage>.<pub-id pub-id-type="pmid">12705869</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0092-8674(03)00234-4</pub-id></mixed-citation></ref><ref id="bibr32-1533033819892258"><label>32</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Gleave</surname><given-names>ME</given-names></name><name name-style="western"><surname>Zellweger</surname><given-names>T</given-names></name><name name-style="western"><surname>Chi</surname><given-names>K</given-names></name></person-group>, <etal>et al.</etal>
+<article-title>Targeting anti-apoptotic genes upregulated by androgen withdrawal using
+antisense oligonucleotides to enhance androgen- and chemo-sensitivity in prostate
+cancer</article-title>. <source>Invest New Drugs</source>.
+<year>2002</year>;<volume>20</volume>(<issue>2</issue>):<fpage>145</fpage>–<lpage>158</lpage>.<pub-id pub-id-type="pmid">12099575</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1023/a:1015694802521</pub-id></mixed-citation></ref><ref id="bibr33-1533033819892258"><label>33</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Burow</surname><given-names>ME</given-names></name><name name-style="western"><surname>Weldon</surname><given-names>CB</given-names></name><name name-style="western"><surname>Chiang</surname><given-names>TC</given-names></name></person-group>, <etal>et al.</etal>
+<article-title>Differences in protein kinase C and estrogen receptor alpha, beta
+expression and signaling correlate with apoptotic sensitivity of MCF-7 breast cancer
+cell variants</article-title>. <source>Int J Oncol</source>.
+<year>2000</year>;<volume>16</volume>(<issue>6</issue>):<fpage>1179</fpage>–<lpage>1187</lpage>.<pub-id pub-id-type="pmid">10811993</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3892/ijo.16.6.1179</pub-id></mixed-citation></ref><ref id="bibr34-1533033819892258"><label>34</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Marcelli</surname><given-names>M</given-names></name><name name-style="western"><surname>Marani</surname><given-names>M</given-names></name><name name-style="western"><surname>Li</surname><given-names>X</given-names></name></person-group>, <etal>et al.</etal>
+<article-title>Heterogeneous apoptotic responses of prostate cancer cell lines identify an
+association between sensitivity to staurosporine-induced apoptosis, expression of Bcl-2
+family members, and caspase activation</article-title>. <source>Prostate</source>.
+<year>2000</year>;<volume>42</volume>(<issue>4</issue>):<fpage>260</fpage>–<lpage>273</lpage>.<pub-id pub-id-type="pmid">10679755</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/(sici)1097-0045(20000301)42:4&lt;260::aid-pros3&gt;3.0.co;2-0</pub-id></mixed-citation></ref><ref id="bibr35-1533033819892258"><label>35</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Wu</surname><given-names>CS</given-names></name><name name-style="western"><surname>Chen</surname><given-names>GS</given-names></name><name name-style="western"><surname>Lin</surname><given-names>PY</given-names></name></person-group>, <etal>et al.</etal>
+<article-title>Tazarotene induces apoptosis in human basal cell carcinoma via activation
+of caspase-8/t-Bid and the reactive oxygen species-dependent mitochondrial
+pathway</article-title>. <source>DNA Cell Biol</source>. <year>2014</year>;
+<volume>33</volume>(<issue>10</issue>):
+<fpage>652</fpage>–<lpage>666</lpage>.<pub-id pub-id-type="pmid">24927175</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1089/dna.2014.2366</pub-id><pub-id pub-id-type="pmcid">PMC4179923</pub-id></mixed-citation></ref></ref-list></back></article>

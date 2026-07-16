@@ -1,0 +1,705 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Int J Immunopathol Pharmacol</journal-id><journal-id journal-id-type="iso-abbrev">Int J Immunopathol Pharmacol</journal-id><journal-id journal-id-type="pmc-domain-id">3390</journal-id><journal-id journal-id-type="pmc-domain">ijip</journal-id><journal-id journal-id-type="nlm-id">8911335</journal-id><journal-id journal-id-type="publisher-id">IJI</journal-id><journal-title-group><journal-title>International Journal of Immunopathology and Pharmacology</journal-title></journal-title-group><issn pub-type="ppub">0394-6320</issn><issn pub-type="epub">2058-7384</issn><publisher><publisher-name>SAGE Publications</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC8728780</article-id><article-id pub-id-type="pmcid-ver">PMC8728780.1</article-id><article-id pub-id-type="pmcaid">8728780</article-id><article-id pub-id-type="pmcaiid">8728780</article-id><article-id pub-id-type="pmid">34939873</article-id><article-id pub-id-type="doi">10.1177/20587384211038098</article-id><article-id pub-id-type="publisher-id">10.1177_20587384211038098</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Original Research Article</subject></subj-group></article-categories><title-group><article-title>Liquiritigenin enhances cyclic adenosine monophosphate production to mitigate
+inflammation in dendritic cells</article-title></title-group><contrib-group><contrib contrib-type="author"><name name-style="western"><surname>Qin</surname><given-names initials="M">Mingming</given-names></name><xref rid="aff1-20587384211038098" ref-type="aff">1</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Guo</surname><given-names initials="A">Aili</given-names></name><xref rid="aff1-20587384211038098" ref-type="aff">1</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Li</surname><given-names initials="F">Feng</given-names></name><xref rid="aff1-20587384211038098" ref-type="aff">1</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Zhang</surname><given-names initials="F">Fuxiang</given-names></name><xref rid="aff2-20587384211038098" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Bi</surname><given-names initials="M">Meirong</given-names></name><xref rid="aff1-20587384211038098" ref-type="aff">1</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Zhang</surname><given-names initials="Y">Yamin</given-names></name><xref rid="aff3-20587384211038098" ref-type="aff">3</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-9602-9697</contrib-id><name name-style="western"><surname>Zhu</surname><given-names initials="W">Weiwei</given-names></name><xref rid="aff1-20587384211038098" ref-type="aff">1</xref><xref rid="corresp1-20587384211038098" ref-type="corresp"/></contrib><aff id="aff1-20587384211038098"><label>1</label>Department of Pediatrics, Jinan Central
+Hospital, Cheeloo College of Medicine, <institution-wrap><institution content-type="university">Shandong University</institution></institution-wrap>, Jinan, China</aff><aff id="aff2-20587384211038098"><label>2</label>Department of Critical Care Medicine, <institution-wrap><institution-id institution-id-type="Ringgold">66310</institution-id><institution content-type="university">The First Affiliated Hospital of Shandong First
+Medical University</institution></institution-wrap>, Jinan, China</aff><aff id="aff3-20587384211038098"><label>3</label>Department of Pediatrics, <institution-wrap><institution-id institution-id-type="Ringgold">372527</institution-id><institution content-type="university">Weifang Medical University</institution></institution-wrap>, Weifang, China</aff></contrib-group><author-notes><corresp id="corresp1-20587384211038098">Weiwei Zhu, Department of Pediatrics, Jinan Central
+Hospital, Cheeloo College of Medicine, Shandong University, No. 105 Jiefang Road, Jinan
+250013, China. Email: <email>poiilk147@163.com</email></corresp></author-notes><pub-date pub-type="epub"><day>23</day><month>12</month><year>2021</year></pub-date><pub-date pub-type="collection"><season>Jan-Dec</season><year>2021</year></pub-date><volume>35</volume><issue-id pub-id-type="pmc-issue-id">375686</issue-id><elocation-id>20587384211038098</elocation-id><pub-history><event event-type="pmc-release"><date><day>23</day><month>12</month><year>2021</year></date></event><event event-type="pmc-live"><date><day>06</day><month>01</month><year>2022</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-05-25 02:25:17.063"><day>25</day><month>05</month><year>2026</year></date></event></pub-history><permissions><copyright-statement>© The Author(s) 2021</copyright-statement><copyright-year>2021</copyright-year><copyright-holder content-type="sage">SAGE Publications Ltd unless otherwise noted.
+Manuscript content on this site is licensed under Creative Commons
+Licenses</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>This article is distributed under the terms of the Creative Commons
+Attribution-NonCommercial 4.0 License (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">https://creativecommons.org/licenses/by-nc/4.0/</ext-link>) which permits
+non-commercial use, reproduction and distribution of the work without further permission
+provided the original work is attributed as specified on the SAGE and Open Access pages
+(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://us.sagepub.com/en-us/nam/open-access-at-sage">https://us.sagepub.com/en-us/nam/open-access-at-sage</ext-link>).</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="10.1177_20587384211038098.pdf"/><abstract><p>Objective: This study aims to dissect the mechanism of traditional Chinese medicinal
+herbs against asthma; we chose to first focus on the main chemical components of licorice
+to investigate their contribution to asthmatic inflammation inhibition. Methods:
+Production of cellular nucleotide molecules such as cAMP, cGMP, and cGAMP was examined by
+using enzyme-linked immunosorbent assay (ELISA). Enzyme-encoding genes were tested
+<italic toggle="yes">in vitro</italic> using quantitative real-time PCR and protein level was
+detected by Western blotting analysis. In addition, co-culturing of murine dendritic cells
+together with T cells was conducted to examine the expression of cytokine genes and host
+immune response. Results: We found that one of the components within licorice, named
+liquiritigenin (LR), could efficiently enhance cAMP production in different cell lines.
+The augmentation of such molecules was linked to the high expression of cAMP synthesis
+genes and repressed expression of cAMP breaking down genes. In addition, the downstream
+immune response was also alleviated by the increase in cAMP levels by LR, suggesting the
+great potential of this molecule against inflammation. Subsequent immunological tests
+showed that LR could efficiently inhibit the expression of several cytokines and alter the
+NF-κB pathway and T cell polarization. Conclusion: Altogether, we have identified a
+promising antiasthmatic agent LR that could exhibit immunosuppressive function by
+elevating the cAMP level.</p></abstract><kwd-group><kwd>liquiritigenin</kwd><kwd>licorice</kwd><kwd>cAMP</kwd><kwd>asthma</kwd></kwd-group><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January-December 2021</meta-value></custom-meta><custom-meta><meta-name>typesetter</meta-name><meta-value>ts10</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="intro" id="sec1-20587384211038098"><title>Introduction</title><p>Asthma is one of the chronic respiratory diseases that affect millions of people all over
+the world, which are characterized by airway obstruction, chronic inflammation, and airway remodeling.<sup>
+<xref rid="bibr1-20587384211038098" ref-type="bibr">1</xref>
+</sup> It is known that the airway obstruction in asthma is reversible by bronchodilators
+and is linked to airway hyperresponsiveness.<sup>
+<xref rid="bibr2-20587384211038098" ref-type="bibr">2</xref>
+</sup> Mechanistically, airway inflammation in asthma is associated with infiltration of
+eosinophils, mast cells, and CD4<sup>+</sup> T-lymphocytes.<sup>
+<xref rid="bibr3-20587384211038098" ref-type="bibr">3</xref>
+</sup></p><p>Currently, the treatment of asthma relies mainly on inhaled corticosteroid or short-acting
+β2-adrenoreceptor (AR) agonist or long-acting β2-AR agonist.<sup>
+<xref rid="bibr4-20587384211038098" ref-type="bibr">4</xref>
+</sup> In addition, oral roflumilast has been suggested as an alternative therapy for
+patients with moderate or severe asthma.<sup><xref rid="bibr5-20587384211038098" ref-type="bibr">5</xref>,<xref rid="bibr6-20587384211038098" ref-type="bibr">6</xref></sup> As a selective inhibitor of
+phosphodiesterase-4 (PDE-4), roflumilast mitigated the allergen-mediated bronchoconstriction
+(FEV1) among asthmatic patients and significantly reduced the allergen-mediated TNF-α
+production and airway inflammation.<sup><xref rid="bibr7-20587384211038098" ref-type="bibr">7</xref><xref rid="bibr8-20587384211038098" ref-type="bibr"/>-<xref rid="bibr9-20587384211038098" ref-type="bibr">9</xref></sup> Although those therapies have been proven
+to be effective in the suppression of eosinophilic inflammation (T2-high) through T2
+inhibition, they might increase the accumulation of neutrophils in the airways.<sup>
+<xref rid="bibr10-20587384211038098" ref-type="bibr">10</xref>
+</sup> Until now, there is still a lack of agents that could efficiently suppress
+neutrophilic inflammation (T2-low).<sup>
+<xref rid="bibr11-20587384211038098" ref-type="bibr">11</xref>
+</sup></p><p>The intracellular signaling molecule, cyclic adenosine monophosphate (cAMP), is implicated
+in the pathophysiology of asthma, which was shown to promote smooth muscle relaxation and
+inhibit airway inflammation.<sup>
+<xref rid="bibr12-20587384211038098" ref-type="bibr">12</xref>
+</sup> cAMP is produced by adenylyl cyclases (ACs), and the breakdown of cAMP is achieved by
+various families of phosphodiesterases (PDEs).<sup>
+<xref rid="bibr13-20587384211038098" ref-type="bibr">13</xref>
+</sup> In general, an increase in cAMP through either cAMP agonists or PDE inhibition has
+been suggested to markedly reduce inductive agent-related inflammatory responses, like
+lipopolysaccharide (LPS).<sup>
+<xref rid="bibr14-20587384211038098" ref-type="bibr">14</xref>
+</sup> Based on this recognition, a great number of PDE inhibitors have been discovered and
+used for therapeutic purposes.<sup>
+<xref rid="bibr15-20587384211038098" ref-type="bibr">15</xref>
+</sup></p><p>It was reported that traditional medicinal herbs such as ginger and garlic possess
+anti-inflammation properties.<sup><xref rid="bibr16-20587384211038098" ref-type="bibr">16</xref>,<xref rid="bibr17-20587384211038098" ref-type="bibr">17</xref></sup>
+Increasing evidence suggests that aged ginger extract could inhibit platelet activation by
+increasing intracellular cAMP.<sup>
+<xref rid="bibr16-20587384211038098" ref-type="bibr">16</xref>
+</sup> In addition, another medicinal herb, licorice, also displayed potential therapeutic
+efficacy against inflammation.<sup><xref rid="bibr18-20587384211038098" ref-type="bibr">18</xref><xref rid="bibr19-20587384211038098" ref-type="bibr"/>-<xref rid="bibr20-20587384211038098" ref-type="bibr">20</xref></sup> However, the modes of mechanism of this
+traditional Chinese medicine (TCM) are still missing.</p><p>In this study, we focus on the chemical basis of licorice and investigate the roles played
+by its main components. We have screened four of its main components (glycyrrhizic acid, GA;
+glabridin, GB; licochalcone, LC; and liquiritigenin, LR) and found that LR could efficiently
+increase the concentration of cAMP in different cell types especially in dendritic cells
+(DC), indicating that it could be used as a potential agent against allergic asthma.</p></sec><sec sec-type="materials|methods" id="sec2-20587384211038098"><title>Materials and methods</title><sec id="sec3-20587384211038098"><title>Cell lines, chemicals, and reagents</title><p>Each chemical and reagent utilized in the present work was analytically pure. The
+reference substances had the purity &gt; 98%. cAMP and bovine serum albumin (BSA) were
+provided by Sigma-Aldrich (Shanghai). Cells lines (epithelial cell line BEAS-2B and
+macrophages cell line THP-1) were obtained from the American-type culture collection
+(ATCC) and cultured in a specific medium (DMEM and RPMI 1640 medium, Gibco) that contained
+10% fetal bovine serum (FBS) with or without antibiotics in a humid incubator under 5%
+CO<sub>2</sub> and 37°C conditions.</p></sec><sec id="sec4-20587384211038098"><title>Type and place of study</title><p>The type of this study belongs to basic research using cell lines to investigate the
+effect of TCM on inflammation. This study was mainly conducted in the Department of
+Pediatrics, Jinan Central Hospital, Cheeloo College of Medicine, Shandong University,
+Jinan, China.</p></sec><sec id="sec5-20587384211038098"><title>Preparation of drug extract</title><p>Ultrapure water (500 mL) was utilized to extract GB, GC, LB, and LR powder (purity ≥
+98.0%) purchased from Tongrentang Group Co., Ltd (Beijing, China) for 24 h under 50°C.
+Thereafter, aqueous extracts were subjected to 60 min of centrifugation at 25,000 rpm. The
+supernatants were collected and concentrated to obtain aqueous extract (100 mL) under
+vacuum condition, followed by lyophilization. Afterward, the resultant powders were
+preserved under −50°C prior to use. 5% DMSO was used to dissolve the lyophilized extracts
+before use.</p></sec><sec id="sec6-20587384211038098"><title>Ethics statement</title><p>The Ethics Committee of Jinan Central Hospital, Cheeloo College of Medicine, Shandong
+University (China) approved the protocol used in this work. Patients signed the consent
+form before this study.</p></sec><sec id="sec7-20587384211038098"><title><italic toggle="yes">In vitro</italic> production of peripheral blood mononuclear cell–derived
+DCs</title><p>DC cells were generated based on peripheral blood mononuclear cells (PMBCs) as described
+previously with modifications.<sup>
+<xref rid="bibr21-20587384211038098" ref-type="bibr">21</xref>
+</sup> Specifically, negative selection was utilized to purify monocytes from PBMCs by an
+EasySep human monocyte isolation kit (Stem Cell Technology Inc). Briefly, we separated
+PBMCs in human whole peripheral blood collected from the normal subjects at the Jinan
+Central Hospital, Cheeloo College of Medicine, Shandong University (China) in line with
+specific protocols. Afterward, stem cell technology was adopted to treat PBMCs in line
+with specific instructions; then, the obtained monocytes (90% CD14+ CD45+) were processed
+and cultured within RPMI 1640 (Sigma-Aldrich) that contained 10% FCS, 1% nonessential
+amino acids, 100 mg/mL kanamycin (Sigma-Aldric), 1% sodium pyruvate, 250 U/ml rhIL-4
+(Invitrogen Life Technologies), and 500 U/ml rhGM-CSF (Invitrogen Life Technologies). On
+the third day, we replaced the supplement-containing medium. We also prepared DCs derived
+from monocytes through Percoll gradient centrifugation; later, the adherent cells were
+cultured according to previous description.<sup>
+<xref rid="bibr21-20587384211038098" ref-type="bibr">21</xref>
+</sup> Similar immature CD1a+CD14<sup>−</sup> DCs were prepared on the sixth day in the
+two protocols.</p></sec><sec id="sec8-20587384211038098"><title>Induction of dendritic cell maturation with/without phosphodiesterase-4
+inhibitors</title><p>Induction of DC maturation was done according to instructions from a previous study with modification.<sup>
+<xref rid="bibr22-20587384211038098" ref-type="bibr">22</xref>
+</sup> On the sixth day, cells were treated with 25 ng/mL rhTNF-α or 1 μg/mL LPS for
+2 days to induce CD1a+ CD14<sup>−</sup> DC maturation. To analyze cell phenotype and to
+carry out experiments on mixed lymphocytes, cells were treated with 1 μg/mL LPS with IFN
+(10<sup>3</sup> U/ml) to induce DC maturation.</p></sec><sec id="sec9-20587384211038098"><title>Effect of liquiritigenin on cytokine contents</title><p>IL-12p70 contents within supernatants were measured through the specific solid-phase
+sandwich ELISA according to previous descriptions.<sup>
+<xref rid="bibr23-20587384211038098" ref-type="bibr">23</xref>
+</sup> TNF-α was measured through ELISA by adopting specific recombinant cytokine
+standards and mAbs from Invitrogen Life Technologies.</p></sec><sec id="sec10-20587384211038098"><title>Effect of liquiritigenin on cyclic adenosine monophosphate, cGMP, and cGAMP
+concentrations</title><p>10∼50 μM licorice components (GA, GB, LC, and LR), or vehicle (5% DMSO) with/without
+prostaglandin E2 (PGE2; 0.5 μM, Invitrogen Life Technologies), or LPS (1 μg/mL) were used
+to treat cell lines (2x10<sup>6</sup> cells/ml HBSS) for 30 min. After cell
+homogenization, we measured the contents of cAMP, cGMP, and cGAMP through ELISA per
+specific protocols (Enzo Life Sciences) and normalized them to overall protein
+content.</p></sec><sec id="sec11-20587384211038098"><title>Role of liquiritigenin in NF-κB induction</title><p>Human CD4 cells were isolated according to the previous method<sup>
+<xref rid="bibr24-20587384211038098" ref-type="bibr">24</xref>
+</sup> and cultured within the serum-free RPMI-1640 for a period of 2 h. Thereafter, a
+20 μM vehicle or LR was used to treat cells for 5 min and then treated with vehicle or
+anti–CD3/CD28-coated beads (bead-to-cell ratio, 1:1; Dynabeads Human T-Activator CD3/CD28,
+Thermo Fisher Scientific) for 15 min. Afterward, 2x10<sup>6</sup> cells were adopted to
+obtain total cellular protein lysates, whereas the phosphorylated and total Ser536 p65
+contents were measured through ELISA (NF-κB p65 (pS536) + Total NF-κB p65 SimpleStep ELISA
+Kit, Abcam, Cambridge, UK).</p></sec><sec id="sec12-20587384211038098"><title>Effect of liquiritigenin on Treg polarization</title><p>We cultured CD4 cells with 5 ng/mL TGFβ (Invitrogen Life Technologies),
+anti–CD3/CD28-coated beads, and 20 μM LR, or vehicle (5% DMSO), and then cultured (at
+1x10<sup>6</sup> cells/ml) within the RPMI-1640 medium that contained 10%FBS,
+antibiotics/antimycotics (Thermo Fisher Scientific), as well as β-mercaptoethanol (50 μM,
+Sigma-Aldrich) under 37<sup>o</sup>C and 5% CO2 conditions. On days 4 and 7, flow
+cytometry was adopted to analyze Treg polarization (CD4<sup>+</sup>CD25+FOXP3+) in cells.<sup>
+<xref rid="bibr25-20587384211038098" ref-type="bibr">25</xref>
+</sup> In brief, after harvesting 1x10<sup>6</sup> cells from the culture, cells were
+subjected to centrifugation at 300 g, rinsing by PBS, and 1 h of staining to measure CD4
+(RM4-5, BD Bioscience) as well as CD25 (PC61.5, Thermo Fisher Scientific) expression under
+4<sup>o</sup>C (antibody content, 1:100; 1x10<sup>6</sup> cells/100 μL FACS buffer).</p><p>Later, the fixable viability dye was utilized to stain cells according to specific
+protocols (Thermo Fisher Scientific). After cell fixation and permeabilization
+(FOXP3/Transcription Factor Staining Buffer Kit, Thermo Fisher Scientific), cells were
+subjected to staining to examine intracellular FOXP3 expression (antibody content: 1:100;
+1x10<sup>6</sup> cells/100 μL). Both FSC Express software and LSRII flow cytometer were
+utilized for analysis. Dead/non-singlet cells and debris were removed before analysis.
+CD4+CD25+FOXP3+ cells were defined as the Tregs.<sup><xref rid="bibr25-20587384211038098" ref-type="bibr">25</xref>,<xref rid="bibr26-20587384211038098" ref-type="bibr">26</xref></sup></p></sec><sec id="sec13-20587384211038098"><title>RT-PCR</title><p>Total mRNA was isolated using Kit RNAfast200 (TaKaRa Biotechnology, China). The mRNA
+quality was analyzed by the ND-2000 ultra-micro nucleic acid protein analyzer (NanoDrop,
+USA); later, RNA samples were preserved under −80<sup>o</sup>C prior to use. Briefly, in
+every RT-PCR process, PrimeScript™ RT reagent kit was utilized to prepare cDNA from total
+RNA (2 μg) by the use of gDNA Eraser (TaKaRa, Da Lian, China). Thereafter, relative mRNA
+contents were measured through qRT-PCR by the SYBR green reagent kit (Roche) conducted on
+the 7500 Fast Real-Time PCR System (Applied Biosystems). The primers were synthesized by
+Shenzhen BGI Biotechnology Co. Ltd and were shown as follows:<list list-type="simple" id="list1-20587384211038098"><list-item><p>β-actin-Fw (5’-3’): TCTACAATGAGCTGCGTGTG,</p></list-item><list-item><p>β-actin -rev: GGTGAGGATCTTCATGAGGT;</p></list-item><list-item><p>Gαs-Fw: GTCCTTGCTGGGAAATCG,</p></list-item><list-item><p>Gαs-Rev: CGCAGGTGAAATGAGGGTAG;</p></list-item><list-item><p>Gαi-Fw: CAGCCAGGCTTGCAAATCAC,</p></list-item><list-item><p>Gαi-Rev: AACACACAAGGCAACTTTCAGCTTC;</p></list-item><list-item><p>Gαt-Fw: CGTCAGTGCTGCGACAGTC,</p></list-item><list-item><p>Gαt-Rev: CCAGCGTACTCCGACACACA.</p></list-item></list></p><p>Transcript relative changes because of LR treatment compared with control were determined
+by comparative CT approach,<sup>
+<xref rid="bibr27-20587384211038098" ref-type="bibr">27</xref>
+</sup> with β-actin being the control gene.</p></sec><sec id="sec14-20587384211038098"><title>PDE assay</title><p>Phosphodiesterase activity of CD4 cells were performed according to a previously
+described method.<sup>
+<xref rid="bibr28-20587384211038098" ref-type="bibr">28</xref>
+</sup> At least six replicates were done for each independent assay.</p></sec><sec id="sec15-20587384211038098"><title>Cell viability assay</title><p>Cell viability assay was done according to the instructions of CCK-8 kit (APExBIO). In
+brief, every well that contained 200 μL medium was added with CCK-8 reagent (20 μL) into
+the 96-well plate, followed by 4 h of incubation under 37°C. At last, we detected OD
+(450 nm) values for diverse groups (<italic toggle="yes">n</italic> = 3). Cell viability was considered
+to be 100% in control group (with no treatment) and that in other groups was determined on
+this basis.</p></sec><sec id="sec16-20587384211038098"><title>Western blotting assay</title><p>Protein content was measured by the BCA protein detection kit (Sigma-Aldrich, Shanghai,
+China). Every well was loaded with an aliquot of protein (20 μg), and then 10% SDS-PAGE
+was adopted to separate proteins, and 5% skimmed milk (BD) within TBST was utilized to
+block proteins for 1 h, followed by 12 h of incubation using primary antibodies (1:1000;
+Abcam, USA) under 4°C. Thereafter, we rinsed membranes for 7 min thrice, followed by 1 hf
+of incubation using suitable secondary antibody conjugate (Abcam, USA) or HRP-labeled
+antibody (Sigma-Aldrich, Shanghai, China) under ambient temperature. Thereafter, we rinsed
+the membranes thrice and stained them by DAB HRP (Beyotime, Shanghai, China). Finally, the
+gel visualization (Tanon, Shanghai, China) was adopted to detect proteins. Protein levels
+were normalized to GAPDH and quantified via densitometry.</p></sec><sec id="sec17-20587384211038098"><title>Statistical analysis</title><p>Statistical analysis was completed by Graphpad Prism software (version 7). All tests are
+shown in figure legends. Measurements were presented in a form of mean ± SD and compared
+by Student’s t-test. <italic toggle="yes">P</italic> &lt; 0.05 stood for statistical significance.</p></sec></sec><sec sec-type="results" id="sec18-20587384211038098"><title>Results</title><sec id="sec19-20587384211038098"><title>Liquiritigenin augments cyclic adenosine monophosphate concentration in a
+lipopolysaccharide-dependent and independent way</title><p>It was reported that extracts of licorice could reduce LPS-induced inflammatory cells
+including neutrophils, macrophages, and lymphocyte accumulation in bronchoalveolar lavage fluid.<sup>
+<xref rid="bibr18-20587384211038098" ref-type="bibr">18</xref>
+</sup> However, the detailed mechanisms underlying this anti-inflammation event remain
+unclear. To solve this, we adopted a chemical biology approach to identify its main
+effective components. We have used four main ingredients from licorice extract, namely,
+glycyrrhizic acid (GA), glabridin (GB), licochalcone (LC), and liquiritigenin (LR) to
+study their respective roles in anti-inflammation process. Since the cAMP level has been
+linked with several immune responses, we first attempted to examine the effects of these
+four components on the level of cAMP in different cell lines.</p><p>As can be seen from <xref rid="fig1-20587384211038098" ref-type="fig">Figure 1a</xref>,
+when we used these four ingredients to treat human CD4 cells, we clearly observed that LR
+treatment could lead to a 2-fold increase in the production of cAMP. However, the
+remaining three components (GA, GB, and LC) did not show any sign of augmentation in cAMP
+levels. To confirm whether LR indeed enhanced the production of cAMP in cells, we further
+used different concentrations of LR (0, 10, 20, and 50 μM) and different cell types to
+verify the function of LR. It was shown that LR could efficiently elevate cAMP levels in a
+dose-dependent manner (<xref rid="fig1-20587384211038098" ref-type="fig">Figure
+1b</xref>), and this enhancement could be observed in dendritic cells (DC), T cells, and
+epithelial cells (BEAS-2B). As for macrophage cells, the augmentation was not significant
+(<xref rid="fig1-20587384211038098" ref-type="fig">Figure 1c</xref>). Our results
+indicated that licorice component LR could act as a cAMP stimulator in different cell
+types and may function as a new therapeutic solution to inflammation associated with
+certain immune cells.<fig position="float" fig-type="figure" id="fig1-20587384211038098" orientation="portrait"><label>Figure 1.</label><caption><p>LR augments cAMP concentration in a LPS-dependent and independent way.
+<italic toggle="yes">(a).</italic> cAMP levels in DC cells treated with vehicle (5%DMSO), GA,
+GB, LC, and LR (20 μM each). The cAMP level was quantified as nmol/L using an ELISA
+kit (See <italic toggle="yes">Materials and methods</italic>). Results are presented in the form
+of mean ± SD (<italic toggle="yes">n</italic> = 3). <italic toggle="yes">P &lt;</italic> .05 stood for
+statistical significance. ***, <italic toggle="yes">P</italic>&lt;.001. <italic toggle="yes">(b).</italic>
+cAMP levels in DC cells treated with LR in different doses (0, 10, 20, and 50 μM).
+The cAMP level was quantified as nmol/L using an ELISA kit (See <italic toggle="yes">Materials
+and methods</italic>). Results are presented in the form of mean ± SD
+(<italic toggle="yes">n</italic> = 3). *, <italic toggle="yes">P</italic> &lt; .05. <italic toggle="yes">(c).</italic>
+cAMP contents within DC exposed to vehicle (5%DMSO) and LR (20 μM) in different cell
+lines (DC, T, BEAS-2B, and macrophages). The cAMP level was quantified as nmol/L
+using an ELISA kit (See <italic toggle="yes">Materials and methods</italic>). Results are
+presented in the form of mean ± SD (<italic toggle="yes">n</italic> = 3). ***, <italic toggle="yes">P</italic>
+&lt; .001. <italic toggle="yes">(d).</italic> cAMP levels in LPS-stimulated DC cells treated with
+LR. The cAMP level was quantified as nmol/L using an ELISA kit (See
+<italic toggle="yes">Materials and methods</italic>). Results are presented in the form of mean
+± SD (<italic toggle="yes">n</italic> = 3). ***, <italic toggle="yes">P</italic> &lt; .001.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_20587384211038098-fig1.jpg"/></fig></p><p>As we already know that an increase in cAMP levels through either cAMP agonist or PDE
+inhibition has been suggested to apparently reduce LPS stimulation-induced inflammatory response,<sup>
+<xref rid="bibr14-20587384211038098" ref-type="bibr">14</xref>
+</sup> we aim to understand whether LR could function in response to LPS stimulation.
+<xref rid="fig1-20587384211038098" ref-type="fig">Figure 1d</xref> showed that LR could
+significantly increase the cAMP level in LPS-treated DC cells by at least 3-fold as
+compared to non-stimulant controls.</p><p>Altogether, our results demonstrate that LR could efficiently augment the cAMP levels in
+cells, and this increase in cAMP is both LPS-dependent and independent conditions.</p></sec><sec id="sec20-20587384211038098"><title>The production of cGMP or cGMP-AMP is not affected by the main components of
+licorice</title><p>The nitric oxide–soluble guanylate cyclase-cGMP (NO-sGC-cGMP) pathway has been recognized
+to be a major signaling pathway related to the relaxation of vascular smooth muscles<sup>
+<xref rid="bibr29-20587384211038098" ref-type="bibr">29</xref>
+</sup> and airway smooth muscle.<sup>
+<xref rid="bibr30-20587384211038098" ref-type="bibr">30</xref>
+</sup> We wonder whether the main components of licorice could affect the production of
+cGMP. As shown in <xref rid="fig2-20587384211038098" ref-type="fig">Figure 2a</xref>, no
+ingredients could elevate the production of cGMP, indicating that the NO-sGC-cGMP pathway
+is not the target of licorice extract.<fig position="float" fig-type="figure" id="fig2-20587384211038098" orientation="portrait"><label>Figure 2.</label><caption><p>The cGMP or cGMP-AMP level is not affected by main components of licorice.
+<italic toggle="yes">(a).</italic> cGMP levels in DC cells treated with vehicle (5%DMSO), GA,
+GB, LC, and LR (20 μM each). The cGMP level was quantified as nmol/L using an ELISA
+kit (See <italic toggle="yes">Materials and methods</italic>). Results are presented in the form
+of mean ± SD (<italic toggle="yes">n</italic> = 3). <italic toggle="yes">(b).</italic> cGAMP levels in DC
+cells treated with vehicle (5%DMSO), GA, GB, LC, and LR (20 μM each). The cGAMP
+level was quantified as nmol/L using an ELISA kit (See <italic toggle="yes">Materials and
+methods</italic>). Results are presented in the form of mean ± SD
+(<italic toggle="yes">n</italic> = 3).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_20587384211038098-fig2.jpg"/></fig></p><p>In addition, it was demonstrated that cGAMP is also involved in the DNA-associated
+microbial infection and acts as a central player in the cGAS-cGAMP-STING pathway.<sup>
+<xref rid="bibr31-20587384211038098" ref-type="bibr">31</xref>
+</sup> We again questioned whether the four main components of licorice extract could
+target the production of this particular molecule. As can be seen from <xref rid="fig2-20587384211038098" ref-type="fig">Figure 2b</xref>, no significant change of
+the cGAMP level could be detected under our tested conditions.</p><p>Therefore, we drew the conclusion that licorice mainly functioned through elevating cAMP
+levels in cells to regulate the downstream signaling pathways.</p></sec><sec id="sec21-20587384211038098"><title>Liquiritigenin functions as both an activator of adenylyl cyclases and an inhibitor
+of PDEs</title><p>To understand mechanisms underlying the potential stimulatory properties of LR on cAMP
+level in cells, we first examined its synthesis at the level of mRNA level. To confirm
+that LR could elevate the gene expression related to cAMP synthesis, we extracted the
+total RNA and performed qRT-PCR analysis to examine the influence of LR on their
+transcription level in a time-series manner. Interestingly, the expression of the selected
+AC gene (Gαs) showed a dramatic increase in transcription level, indicating LR could
+upregulate the expression of cAMP synthesis-related genes (<xref rid="fig3-20587384211038098" ref-type="fig">Figure 3a</xref>). Furthermore, we extracted the total
+proteins of LR-treated cells (after 48 h treatment) and compared them with those of
+nontreatment control through WB analysis. As a result, Gαs protein expression was greatly
+upregulated in the LR-treated group compared with that of the nontreatment control (DMSO,
+<xref rid="fig3-20587384211038098" ref-type="fig">Figure 3b</xref>). Quantification of
+band intensity showed a more than 2-fold increase in expression level after LR
+treatment.<fig position="float" fig-type="figure" id="fig3-20587384211038098" orientation="portrait"><label>Figure 3.</label><caption><p>LR functions as both an activator of AC and an inhibitor of PDEs.
+<italic toggle="yes">(a).</italic> The relative expression of <italic toggle="yes">Gαs</italic> at different
+time points post treatment using qRT-PCR. Results are presented in the form of mean
+± SD (<italic toggle="yes">n</italic> = 3). **, <italic toggle="yes">P</italic> &lt; .01.
+<italic toggle="yes">(b).</italic> Cells were collected at 48 h post LR treatment and evaluated
+by Western blotting analysis for Gαs protein. GAPDH served as the housekeeping gene.
+Relative levels of immunoblots were determined alongside. Results are presented in
+the form of mean ± SD (<italic toggle="yes">n</italic> = 3). ****, <italic toggle="yes">P</italic> &lt; .0001.
+<italic toggle="yes">(c).</italic> Relative expression of <italic toggle="yes">Gαt</italic> and
+<italic toggle="yes">Gαi</italic> at different time points post treatment using qRT-PCR.
+Results are presented in the form of mean ± SD (<italic toggle="yes">n</italic> = 3). **,
+<italic toggle="yes">P</italic> &lt; .01. <italic toggle="yes">(d)</italic>. Cells were collected at 48 h
+post LR treatment and evaluated by Western blotting analysis for
+<italic toggle="yes">Gαt</italic> and <italic toggle="yes">Gαi</italic> proteins. GAPDH served as the
+housekeeping gene. Relative levels of immunoblots were determined alongside. Results
+are presented in the form of mean ± SD (<italic toggle="yes">n</italic> = 3). **,
+<italic toggle="yes">P</italic> &lt; .01. <italic toggle="yes">(e)</italic>. Relative PDE levels in
+LPS-stimulated DC cells treated with LR or DMSO. Results were expressed as mean ± SD
+(<italic toggle="yes">n</italic> = 3). **, <italic toggle="yes">P</italic> &lt; .01.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_20587384211038098-fig3.jpg"/></fig></p><p>Given that LR could activate the expression of AC, we wonder whether LR could
+specifically target PDEs to further boost the level of cAMP. To our surprise, we examined
+the expression of two PDEs (Gαi and Gαt) in CD4 cells and found that LR could greatly
+attenuate the expression of both genes at mRNA levels (<xref rid="fig3-20587384211038098" ref-type="fig">Figure 3c</xref>). Furthermore, we have proved that LR
+could suppress the expression of Gαi and Gαt at protein levels (<xref rid="fig3-20587384211038098" ref-type="fig">Figure 3d</xref>). To confirm whether LR has an inhibition
+on PDE activity, we performed an enzymatic assay to examine the effect of LR on PDE
+activity. As can be seen in <xref rid="fig3-20587384211038098" ref-type="fig">Figure
+3e</xref>, PDE activity in whole-cell lysate was reduced compared to nontreatment
+control.</p><p>In sum, we have confirmed that LR could target both AC and PDE to coordinate the
+augmentation of cAMP in cells.</p></sec><sec id="sec22-20587384211038098"><title>Liquiritigenin alters downstream cyclic adenosine monophosphate–mediated immune
+responses in cells</title><p>cAMP is known for its direct regulation of functions of effector T (Teff) cells in a
+negative manner and the mediation of Treg-related Teff functional inhibition.<sup>
+<xref rid="bibr32-20587384211038098" ref-type="bibr">32</xref>
+</sup> This study questioned whether LR has effects on DC cytokine production during LPS
+stimulation. As can be seen from <xref rid="fig4-20587384211038098" ref-type="fig">Figure
+4a</xref>, adding 20 μM LR into the culture medium resulted in significantly decreased
+IL-12 and TNF-α contents in supernatants compared to that of LPS activated non-LR
+treatment control.<fig position="float" fig-type="figure" id="fig4-20587384211038098" orientation="portrait"><label>Figure 4.</label><caption><p>LR alters downstream cAMP-mediated immune responses in cells. <italic toggle="yes">(a)</italic>.
+Cytokines (IL-12 and TNF-α) concentration in LPS-stimulated DC cells. The cytokines
+levels were quantified as pg/mL using an ELISA kit (See <italic toggle="yes">Materials and
+methods</italic>). Results are presented in the form of mean ± SD
+(<italic toggle="yes">n</italic> = 3). *, <italic toggle="yes">P</italic> &lt; .05; **, <italic toggle="yes">P</italic>
+&lt; .01. <italic toggle="yes">(b)</italic>. Effect of LR on NF-κB pathway activation. ImageJ
+software was utilized to quantify p65 total ratio/nuclear location in every group.
+Results are presented in the form of mean ± SD (<italic toggle="yes">n</italic> = 3. **,
+<italic toggle="yes">P</italic> &lt; .01. <italic toggle="yes">(c)</italic>. Effect of LR on T cell
+polarization at different time points. We cultured naïve CD4 cells with T cell
+receptor stimulation (activation of CD3 and CD28) for 7 days with 20 μM LR, 5 ng/mL
+TGFβ, both LR and TGFβ, or vehicle (5% DMSO). TGFβ is the well-recognized Treg
+polarization driver.<sup>
+<xref rid="bibr41-20587384211038098" ref-type="bibr">41</xref>
+</sup> Results are presented in the form of mean ± SD (<italic toggle="yes">n</italic> = 4).
+*<italic toggle="yes">P</italic> &lt; 0.05, ***<italic toggle="yes">P</italic> &lt; .001.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_20587384211038098-fig4.jpg"/></fig></p><p>It was also reported that the NF-κB signal transduction pathway plays an important role
+in mediating the activation of CD4 cells and the contents of proinflammatory cytokines.<sup>
+<xref rid="bibr33-20587384211038098" ref-type="bibr">33</xref>
+</sup> Therefore, we sought to investigate whether LR could affect this pathway and thus
+regulate the downstream inflammation responses. To this aim, we first performed activation
+of the NF-κB pathway by using anti-CD3/CD28 co-ligation; subsequent examination of
+phosphorylation of p65 demonstrated a dramatic inhibition of the induction of NF-κB by LR
+(<xref rid="fig4-20587384211038098" ref-type="fig">Figure 4b</xref>).</p><p>Furthermore, as can be seen from <xref rid="fig4-20587384211038098" ref-type="fig">Figure
+4c</xref>, LR could augment the transition of TGFβ-mediated naïve CD4 cell phenotype
+into Treg one, which were referred to as CD4+CD25+FOXP3+ cells in a time-dependent manner,
+suggesting suppression of inflammation by LR <italic toggle="yes">via</italic> Treg polarization.</p></sec></sec><sec sec-type="discussion" id="sec23-20587384211038098"><title>Discussion</title><p>Cyclic nucleotides represent the common second messengers associated with the differential
+regulation of several cellular processes by the various downstream effectors.<sup>
+<xref rid="bibr34-20587384211038098" ref-type="bibr">34</xref>
+</sup> For example, the involvement of cyclic nucleotide molecules such as cAMP, cGMP, and
+cGAMP in asthma has been recognized recently,<sup><xref rid="bibr30-20587384211038098" ref-type="bibr">30</xref>,<xref rid="bibr35-20587384211038098" ref-type="bibr">35</xref>,<xref rid="bibr36-20587384211038098" ref-type="bibr">36</xref></sup> suggesting that interference with these
+signaling pathways would provide insights and benefit for the improvement of therapies such
+as airway muscle relaxation and airway inflammation. Such recognition induces considerable
+attention to the use of PDE4 inhibitors as the therapeutic agent.<sup>
+<xref rid="bibr6-20587384211038098" ref-type="bibr">6</xref>
+</sup> However, these early compounds do not have consistent therapeutic effects and may
+cause adverse reactions, which has hindered their application compared with inhaled steroids
+in asthma.<sup>
+<xref rid="bibr6-20587384211038098" ref-type="bibr">6</xref>
+</sup> This has urged the development of improved safety and efficacy of PDE inhibitors or
+AC agonists for the treatment of asthma.</p><p>In our study, we have focused on the Chinese traditional medicines and aimed to determine
+the chemical mechanism of licorice, one of the promising and long-recognized herbs used for
+the treatment of asthma in China. We used four of its main components to test for their
+involvement in inflammation suppression using cAMP, cGMP, and cGAMP as targeted molecules.
+Interestingly, we have found that one of the four components, named LR, could greatly
+increase the level of cAMP by increasing the expression of AC and repression of PDE in
+different cell lines including dendritic cells and T cells but not that much in macrophages.
+In addition, we have found that by using LR treatment of DC cells, the increase in cAMP
+levels is stimulation independent, suggesting that LR could be used as an anti-inflammatory
+agent or as an immunosuppressive agent. Finally, we have elucidated that LR could modulate
+the downstream immune responses such as cytokine production in T cells, after contact with
+DC cells, and furthermore, the Treg phenotype was augmented in the presence of LR. Based on
+these evidences, we drew the conclusion that LR could be used as a potential drug therapy
+for the treatment of asthmatic inflammation.</p><p>Although we have observed that LR could be used as a drug lead, we still lack mechanical
+understanding on the potentiation of cAMP in different cell lines. It would be of great
+benefit that we perform large-scale RNA sequencing and proteomic analysis to identify the
+downstream pathways that are responsible for the authentic increased cAMP levels in cells as
+well as the inhibition of downstream immune responses. As we have already shown in our study
+that LR could improve the expression of AC and downregulate the expression of PDE. This
+reciprocal regulation of cAMP production is interesting and provides a layered regulation of
+cAMP levels in the cell by TCM herbal ingredients. Previously, only one mode of action,
+either potentiation of AC<sup>
+<xref rid="bibr37-20587384211038098" ref-type="bibr">37</xref>
+</sup> or inhibition of PDE,<sup>
+<xref rid="bibr34-20587384211038098" ref-type="bibr">34</xref>
+</sup> has been observed. Therefore, it would be interesting to further elucidate the
+boosting effect of cAMP in cells by LR.</p><p>LR is a flavanone that was shown to act as an estrogenic compound with an effect on ER
+agonism by binding to its receptor at sufficient concentration.<sup>
+<xref rid="bibr38-20587384211038098" ref-type="bibr">38</xref>
+</sup> In addition, LG showed great anti-inflammatory activity within the LPS-exposed
+microglial cells as well as in the hydrogen peroxide–exposed mouse liver.<sup>
+<xref rid="bibr39-20587384211038098" ref-type="bibr">39</xref>
+</sup> Besides, it was shown that LR protected against the high glucose-mediated
+inflammation by suppressing the NF-κB and nod-like receptor protein 3 (NLRP3) inflammasome
+signaling pathway.<sup>
+<xref rid="bibr40-20587384211038098" ref-type="bibr">40</xref>
+</sup> All those facts demonstrate that LR could be used as a good candidate as an
+anti-inflammatory agent. In our study, we have shown that LR could suppress the production
+of TNF-α and IL-12 cytokines as well as NF-κB signaling pathway. Previous studies suggested
+that cAMP would regulate the immune response in a negative way,<sup>
+<xref rid="bibr14-20587384211038098" ref-type="bibr">14</xref>
+</sup> indicating LR could orchestrate the cAMP signaling pathway to downregulate immune
+responses. Altogether, we have identified LR as a promising candidate as an immune
+suppressive agent.</p><p>However, there are limitations in our study. First, the investigation of healthy donor
+cells may not ideally reflect the immune response to LR, and this would be better resolved
+by using donor cells from pathogenic subjects. Second, we have not completely ruled out the
+possibility that the contaminants of LR would affect our conclusion, and we will address
+this by further isolating LR with high-performance liquid chromatography. Third, the
+in-depth understanding of the elevation of cAMP will be further reinforced by applying
+multiple omics analyses since the current analysis was solely based on the information from
+structural genes but not from the regulatory point of view. Therefore, we will perform more
+comprehensive investigation on these topics.</p><p>In addition, it would be beneficial that LR could be used to treat different animal models
+as well as different cell lines. It is noticed that we have found LR could not increase the
+cAMP level in macrophages, suggesting that different biological processes occurred in that
+cell type. Recently, cAMP is suggested to have a certain impact on macrophages. Researchers
+have found that without factors that activate macrophages such as LPS, cAMP could modulate
+the differentiation of monocytes into macrophages and elevate the protein and mRNA
+expression of proinflammatory chemokines such as CXCL and CCL depending on PDE4,<sup>
+<xref rid="bibr34-20587384211038098" ref-type="bibr">34</xref>
+</sup> highlighting the link between cAMP and macrophages. The gap of LR in this link should
+be further uncovered.</p></sec><sec sec-type="conclusion" id="sec24-20587384211038098"><title>Conclusion</title><p>We have found that LR could greatly increase the level of cAMP by increasing the expression
+of AC and repression of PDE in different cell lines including dendritic cells and T cells
+but not that much in macrophages. In addition, we have found that by using LR treatment of
+DC cells, the increase in cAMP levels is stimulation independent, suggesting that LR could
+be used as an anti-inflammatory agent or as an immunosuppressive agent. Finally, we have
+elucidated that LR could modulate the downstream immune responses such as cytokine
+production in T cells after contact with DC cells, and furthermore, the Treg phenotype was
+augmented in the presence of LR. Altogether, LR could be a potential antiasthmatic
+agent.</p></sec></body><back><ack><title>Acknowledgments</title><p>The authors gratefully acknowledge the support of Jinan Central Hospital, The First
+Affiliated Hospital of Shandong First Medical University, and Weifang Medical
+University.</p></ack><fn-group><fn fn-type="COI-statement"><p><bold>Declaration of conflicting interests:</bold> The author(s) declared no potential conflicts of interest with respect to the research,
+authorship, and/or publication of this article.</p></fn><fn fn-type="financial-disclosure"><p><bold>Funding:</bold> The author(s) received no financial support for the research, authorship, and/or
+publication of this article.</p></fn></fn-group><bio id="d64e2131"><title>Author biographies</title><p><bold>Mingming Qin</bold>, graduated from Shandong University with a Master’s degree in
+2012, is currently working as an attending physician in the department of pediatrics at
+Jinan Central Hospital with a specialty in pediatric respiratory and asthma specialty.</p><p><bold>Aili Guo</bold>, deputy director physician, M.D, graduated in 2019 from Shandong
+University and is working in the department of pediatrics at Jinan Center Hospital with a
+specialty in hematology. </p><p><bold>Feng Li,</bold> deputy director physician, Master’s degree, graduated in 2008 from
+Shandong University, and is working in the department of pediatrics at Jinan Center Hospital
+with a specialty in pediatric respiratory and asthma specialty.</p><p><bold>Fuxiang Zhang</bold>, graduated from Zunyi Medical University with a Master’s degree
+in 2013. He is working as an attending physician in the department of Critical Care Medicine
+at The First Affiliated Hospital of Shandong First Medical University with a specialty in
+respiratory and severe case treatment.</p><p><bold>Meirong Bi</bold>, M.D, graduated from Shandong University in 2005, and is currently
+a deputy chief physician in Jinan Central Hospital, who also has research focuses on
+neonatal diseases.</p><p><bold>Yamin Zhang</bold>, graduated from Weifang Medical University with a Master’s degree
+in 2021 and is working as a residence in Jinan Central Hospital with a pediatric respiratory
+specialty.</p><p><bold>Weiwei Zhu</bold>, chief physician, M.D, graduated in 2013 from Shandong University
+and is working in the department of pediatrics at Jinan Centeral Hospital with a specialty
+in respiratory diseases.</p></bio><sec id="sec25-20587384211038098"><title>Orcid iD</title><p>Weiwei Zhu <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://orcid.org/0000-0002-9602-9697" ext-link-type="uri">https://orcid.org/0000-0002-9602-9697</ext-link>.</p></sec><ref-list><title>References</title><ref id="bibr1-20587384211038098"><label>1</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Vogelmeier</surname><given-names>CF</given-names></name>
+<name name-style="western"><surname>Criner</surname><given-names>GJ</given-names></name>
+<name name-style="western"><surname>Martinez</surname><given-names>FJ</given-names></name>
+</person-group>, <etal>et al.</etal> (<year>2017</year>) <article-title>Global strategy
+for the diagnosis, management, and prevention of chronic obstructive lung disease 2017
+report. gold executive summary</article-title>. <source>Am J Respir Crit Care
+Med</source>
+<volume>195</volume>: <fpage>557</fpage>–<lpage>582</lpage>.<pub-id pub-id-type="pmid">28128970</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1164/rccm.201701-0218PP</pub-id></mixed-citation></ref><ref id="bibr2-20587384211038098"><label>2</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Guerra</surname><given-names>S</given-names></name>
+</person-group> (<year>2009</year>) <article-title>Asthma and chronic obstructive
+pulmonary disease</article-title>. <source>Curr Opin Allergy Clin Immunol</source>
+<volume>9</volume>: <fpage>409</fpage>–<lpage>416</lpage>.<pub-id pub-id-type="pmid">19638929</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/ACI.0b013e3283300baf</pub-id><pub-id pub-id-type="pmcid">PMC2832909</pub-id></mixed-citation></ref><ref id="bibr3-20587384211038098"><label>3</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Mauad</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Dolhnikoff</surname><given-names>M</given-names></name>
+</person-group> (<year>2008</year>) <article-title>Pathologic similarities and differences
+between asthma and chronic obstructive pulmonary disease</article-title>. <source>Curr
+Opin Pulm Med</source>
+<volume>14</volume>: <fpage>31</fpage>–<lpage>38</lpage>.<pub-id pub-id-type="pmid">18043273</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/MCP.0b013e3282f19846</pub-id></mixed-citation></ref><ref id="bibr4-20587384211038098"><label>4</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Redington</surname><given-names>AE</given-names></name>
+<name name-style="western"><surname>Rees</surname><given-names>PJ</given-names></name>
+</person-group> (<year>1998</year>) <article-title>Long-acting inhaled beta 2-agonists in
+the management of asthma: recent advances and current recommendations</article-title>.
+<source>Int J Clin Pract</source>
+<volume>52</volume>: <fpage>482</fpage>–<lpage>486</lpage>.<pub-id pub-id-type="pmid">10622090</pub-id></mixed-citation></ref><ref id="bibr5-20587384211038098"><label>5</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Taegtmeyer</surname><given-names>AB</given-names></name>
+<name name-style="western"><surname>Leuppi</surname><given-names>JD</given-names></name>
+<name name-style="western"><surname>Kullak-Ublick</surname><given-names>GA</given-names></name>
+</person-group> (<year>2012</year>) <article-title>Roflumilast--a phosphodiesterase-4
+inhibitor licensed for add-on therapy in severe COPD</article-title>. <source>Swiss Med
+Wkly</source>
+<volume>142</volume>: <fpage>w13628</fpage>.<pub-id pub-id-type="pmid">22833385</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.4414/smw.2012.13628</pub-id></mixed-citation></ref><ref id="bibr6-20587384211038098"><label>6</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Beghe</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Rabe</surname><given-names>KF</given-names></name>
+<name name-style="western"><surname>Fabbri</surname><given-names>LM</given-names></name>
+</person-group> (<year>2013</year>) <article-title>Phosphodiesterase-4 inhibitor therapy
+for lung diseases</article-title>. <source>Am J Respir Crit Care Med</source>
+<volume>188</volume>: <fpage>271</fpage>–<lpage>278</lpage>.<pub-id pub-id-type="pmid">23656508</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1164/rccm.201301-0021PP</pub-id></mixed-citation></ref><ref id="bibr7-20587384211038098"><label>7</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Al-Sajee</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Yin</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Gauvreau</surname><given-names>GM</given-names></name>
+</person-group> (<year>2019</year>) <article-title>An evaluation of roflumilast and PDE4
+inhibitors with a focus on the treatment of asthma</article-title>. <source>Expet Opin
+Pharmacother</source>
+<volume>20</volume>: <fpage>609</fpage>–<lpage>620</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/14656566.2019.1570132</pub-id><pub-id pub-id-type="pmid">30722707</pub-id></mixed-citation></ref><ref id="bibr8-20587384211038098"><label>8</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Bardin</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Kanniess</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Gauvreau</surname><given-names>G</given-names></name>
+</person-group>, <etal>et al.</etal> (<year>2015</year>) <article-title>Roflumilast for
+asthma: efficacy findings in mechanism of action studies</article-title>. <source>Pulm
+Pharmacol Therapeut</source>
+<volume>35</volume>(<issue>suppl l</issue>):
+<fpage>S4</fpage>–<lpage>S10</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.pupt.2015.08.006</pub-id><pub-id pub-id-type="pmid">26296794</pub-id></mixed-citation></ref><ref id="bibr9-20587384211038098"><label>9</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Bateman</surname><given-names>ED</given-names></name>
+<name name-style="western"><surname>Izquierdo</surname><given-names>JL</given-names></name>
+<name name-style="western"><surname>Harnest</surname><given-names>U</given-names></name>
+</person-group>, <etal>et al.</etal> (<year>2006</year>) <article-title>Efficacy and
+safety of roflumilast in the treatment of asthma</article-title>. <source>Ann Allergy
+Asthma Immunol</source>
+<volume>96</volume>: <fpage>679</fpage>–<lpage>686</lpage>.<pub-id pub-id-type="pmid">16729780</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S1081-1206(10)61065-4</pub-id></mixed-citation></ref><ref id="bibr10-20587384211038098"><label>10</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Nguyen</surname><given-names>LT</given-names></name>
+<name name-style="western"><surname>Lim</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Oates</surname><given-names>T</given-names></name>
+</person-group>, <etal>et al.</etal> (<year>2005</year>) <article-title>Increase in airway
+neutrophils after oral but not inhaled corticosteroid therapy in mild
+asthma</article-title>. <source>Respir Med</source>
+<volume>99</volume>: <fpage>200</fpage>–<lpage>207</lpage>.<pub-id pub-id-type="pmid">15715187</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.rmed.2004.06.007</pub-id></mixed-citation></ref><ref id="bibr11-20587384211038098"><label>11</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Lambrecht</surname><given-names>BN</given-names></name>
+<name name-style="western"><surname>Hammad</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Fahy</surname><given-names>JV</given-names></name>
+</person-group> (<year>2019</year>) <article-title>The cytokines of
+asthma</article-title>. <source>Immunity</source>
+<volume>50</volume>: <fpage>975</fpage>–<lpage>991</lpage>.<pub-id pub-id-type="pmid">30995510</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.immuni.2019.03.018</pub-id></mixed-citation></ref><ref id="bibr12-20587384211038098"><label>12</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Schudt</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Gantner</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Tenors</surname><given-names>H</given-names></name>
+</person-group>, <etal>et al.</etal> (<year>1999</year>) <article-title>Therapeutic
+potential of selective PDE inhibitors in asthma</article-title>. <source>Pulm Pharmacol
+Therapeut</source>
+<volume>12</volume>: <fpage>123</fpage>–<lpage>129</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1006/pupt.1999.0182</pub-id><pub-id pub-id-type="pmid">10373395</pub-id></mixed-citation></ref><ref id="bibr13-20587384211038098"><label>13</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Dessauer</surname><given-names>CW</given-names></name>
+</person-group> (<year>2009</year>) <article-title>Adenylyl cyclase--a-kinase anchoring
+protein complexes: the next dimension in cAMP signaling</article-title>. <source>Mol
+Pharmacol</source>
+<volume>76</volume>: <fpage>935</fpage>–<lpage>941</lpage>.<pub-id pub-id-type="pmid">19684092</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1124/mol.109.059345</pub-id><pub-id pub-id-type="pmcid">PMC2774998</pub-id></mixed-citation></ref><ref id="bibr14-20587384211038098"><label>14</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Serezani</surname><given-names>CH</given-names></name>
+<name name-style="western"><surname>Ballinger</surname><given-names>MN</given-names></name>
+<name name-style="western"><surname>Aronoff</surname><given-names>DM</given-names></name>
+</person-group>, <etal>et al.</etal> (<year>2008</year>) <article-title>Cyclic AMP: master
+regulator of innate immune cell function</article-title>. <source>Am J Respir Cell Mol
+Biol</source>
+<volume>39</volume>: <fpage>127</fpage>–<lpage>132</lpage>.<pub-id pub-id-type="pmid">18323530</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1165/rcmb.2008-0091TR</pub-id><pub-id pub-id-type="pmcid">PMC2720142</pub-id></mixed-citation></ref><ref id="bibr15-20587384211038098"><label>15</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Rahimi</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Ghiasi</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Azimi</surname><given-names>H</given-names></name>
+</person-group>, <etal>et al.</etal> (<year>2010</year>) <article-title>A review of the
+herbal phosphodiesterase inhibitors; future perspective of new drugs</article-title>.
+<source>Cytokine</source>
+<volume>49</volume>: <fpage>123</fpage>–<lpage>129</lpage>.<pub-id pub-id-type="pmid">20005737</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cyto.2009.11.005</pub-id></mixed-citation></ref><ref id="bibr16-20587384211038098"><label>16</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Allison</surname><given-names>GL</given-names></name>
+<name name-style="western"><surname>Lowe</surname><given-names>GM</given-names></name>
+<name name-style="western"><surname>Rahman</surname><given-names>K</given-names></name>
+</person-group> (<year>2012</year>) <article-title>Aged garlic extract inhibits platelet
+activation by increasing intracellular cAMP and reducing the interaction of GPIIb/IIIa
+receptor with fibrinogen</article-title>. <source>Life Sci</source>
+<volume>91</volume>: <fpage>1275</fpage>–<lpage>1280</lpage>.<pub-id pub-id-type="pmid">23069586</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.lfs.2012.09.019</pub-id></mixed-citation></ref><ref id="bibr17-20587384211038098"><label>17</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Chang</surname><given-names>JS</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>KC</given-names></name>
+<name name-style="western"><surname>Yeh</surname><given-names>CF</given-names></name>
+</person-group>, <etal>et al.</etal> (<year>2013</year>) <article-title>Fresh ginger
+(zingiber officinale) has anti-viral activity against human respiratory syncytial virus
+in human respiratory tract cell lines</article-title>. <source>J Ethnopharmacol</source>
+<volume>145</volume>: <fpage>146</fpage>–<lpage>151</lpage>.<pub-id pub-id-type="pmid">23123794</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jep.2012.10.043</pub-id></mixed-citation></ref><ref id="bibr18-20587384211038098"><label>18</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Xie</surname><given-names>YC</given-names></name>
+<name name-style="western"><surname>Dong</surname><given-names>XW</given-names></name>
+<name name-style="western"><surname>Wu</surname><given-names>XM</given-names></name>
+</person-group>, <etal>et al.</etal> (<year>2009</year>) <article-title>Inhibitory effects
+of flavonoids extracted from licorice on lipopolysaccharide-induced acute pulmonary
+inflammation in mice</article-title>. <source>Int Immunopharm</source>
+<volume>9</volume>: <fpage>194</fpage>–<lpage>200</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.intimp.2008.11.004</pub-id><pub-id pub-id-type="pmid">19071231</pub-id></mixed-citation></ref><ref id="bibr19-20587384211038098"><label>19</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Kim</surname><given-names>KR</given-names></name>
+<name name-style="western"><surname>Jeong</surname><given-names>CK</given-names></name>
+<name name-style="western"><surname>Park</surname><given-names>KK</given-names></name>
+</person-group>, <etal>et al.</etal> (<year>2010</year>) <article-title>Anti-inflammatory
+effects of licorice and roasted licorice extracts on TPA-induced acute inflammation and
+collagen-induced arthritis in mice</article-title>. <source>J Biomed Biotechnol</source>
+<volume>2010</volume>: <fpage>709378</fpage>.<pub-id pub-id-type="pmid">20300198</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1155/2010/709378</pub-id><pub-id pub-id-type="pmcid">PMC2841253</pub-id></mixed-citation></ref><ref id="bibr20-20587384211038098"><label>20</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Hocaoglu</surname><given-names>AB</given-names></name>
+<name name-style="western"><surname>Karaman</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Erge</surname><given-names>DO</given-names></name>
+</person-group>, <etal>et al.</etal> (<year>2011</year>) <article-title>Glycyrrhizin and
+long-term histopathologic changes in a murine model of asthma</article-title>.
+<source>Curr Ther Res Clin Exp</source>
+<volume>72</volume>: <fpage>250</fpage>–<lpage>261</lpage>.<pub-id pub-id-type="pmid">24648593</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.curtheres.2011.11.002</pub-id><pub-id pub-id-type="pmcid">PMC3957157</pub-id></mixed-citation></ref><ref id="bibr21-20587384211038098"><label>21</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Vieira</surname><given-names>PL</given-names></name>
+<name name-style="western"><surname>Kalinski</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Wierenga</surname><given-names>EA</given-names></name>
+</person-group>, <etal>et al.</etal> (<year>1998</year>) <article-title>Glucocorticoids
+inhibit bioactive IL-12p70 production by <italic toggle="yes">in vitro</italic>-generated human
+dendritic cells without affecting their T cell stimulatory potential</article-title>.
+<source>J Immunol</source>
+<volume>161</volume>: <fpage>5245</fpage>–<lpage>5251</lpage>.<pub-id pub-id-type="pmid">9820496</pub-id></mixed-citation></ref><ref id="bibr22-20587384211038098"><label>22</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Heystek</surname><given-names>HC</given-names></name>
+<name name-style="western"><surname>Thierry</surname><given-names>AC</given-names></name>
+<name name-style="western"><surname>Soulard</surname><given-names>P</given-names></name>
+</person-group>, <etal>et al.</etal> (<year>2003</year>) <article-title>Phosphodiesterase
+4 inhibitors reduce human dendritic cell inflammatory cytokine production and
+Th1-polarizing capacity</article-title>. <source>Int Immunol</source>
+<volume>15</volume>: <fpage>827</fpage>–<lpage>835</lpage>.<pub-id pub-id-type="pmid">12807821</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/intimm/dxg079</pub-id></mixed-citation></ref><ref id="bibr23-20587384211038098"><label>23</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Kalinski</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Hilkens</surname><given-names>CM</given-names></name>
+<name name-style="western"><surname>Snijders</surname><given-names>A</given-names></name>
+</person-group>, <etal>et al.</etal> (<year>1997</year>) <article-title>IL-12-deficient
+dendritic cells, generated in the presence of prostaglandin E2, promote type 2 cytokine
+production in maturing human naive T helper cells</article-title>. <source>J
+Immunol</source>
+<volume>159</volume>: <fpage>28</fpage>–<lpage>35</lpage>.<pub-id pub-id-type="pmid">9200435</pub-id></mixed-citation></ref><ref id="bibr24-20587384211038098"><label>24</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Geiger</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Duhen</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Lanzavecchia</surname><given-names>A</given-names></name>
+</person-group>, <etal>et al.</etal> (<year>2009</year>) <article-title>Human naive and
+memory CD4+ T cell repertoires specific for naturally processed antigens analyzed using
+libraries of amplified T cells</article-title>. <source>J Exp Med</source>
+<volume>206</volume>: <fpage>1525</fpage>–<lpage>1534</lpage>.<pub-id pub-id-type="pmid">19564353</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1084/jem.20090504</pub-id><pub-id pub-id-type="pmcid">PMC2715094</pub-id></mixed-citation></ref><ref id="bibr25-20587384211038098"><label>25</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Yocum</surname><given-names>GT</given-names></name>
+<name name-style="western"><surname>Hwang</surname><given-names>JJ</given-names></name>
+<name name-style="western"><surname>Mikami</surname><given-names>M</given-names></name>
+</person-group>, <etal>et al.</etal> (<year>2020</year>) <article-title>Ginger and its
+bioactive component 6-shogaol mitigate lung inflammation in a murine asthma
+model</article-title>. <source>Am J Physiol Lung Cell Mol Physiol</source>
+<volume>318</volume>: <fpage>L296</fpage>–<lpage>L303</lpage>.<pub-id pub-id-type="pmid">31800263</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1152/ajplung.00249.2019</pub-id><pub-id pub-id-type="pmcid">PMC7052664</pub-id></mixed-citation></ref><ref id="bibr26-20587384211038098"><label>26</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Sakaguchi</surname><given-names>S</given-names></name>
+</person-group> (<year>2011</year>) <article-title>Regulatory T cells: history and
+perspective</article-title>. <source>Methods Mol Biol</source>
+<volume>707</volume>: <fpage>3</fpage>–<lpage>17</lpage>.<pub-id pub-id-type="pmid">21287325</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/978-1-61737-979-6_1</pub-id></mixed-citation></ref><ref id="bibr27-20587384211038098"><label>27</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Schmittgen</surname><given-names>TD</given-names></name>
+<name name-style="western"><surname>Livak</surname><given-names>KJ</given-names></name>
+</person-group> (<year>2008</year>) <article-title>Analyzing real-time PCR data by the
+comparative C(T) method</article-title>. <source>Nat Protoc</source>
+<volume>3</volume>: <fpage>1101</fpage>–<lpage>1108</lpage>.<pub-id pub-id-type="pmid">18546601</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nprot.2008.73</pub-id></mixed-citation></ref><ref id="bibr28-20587384211038098"><label>28</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Landells</surname><given-names>LJ</given-names></name>
+<name name-style="western"><surname>Szilagy</surname><given-names>CM</given-names></name>
+<name name-style="western"><surname>Jones</surname><given-names>NA</given-names></name>
+</person-group>, <etal>et al.</etal> (<year>2001</year>) <article-title>Identification and
+quantification of phosphodiesterase 4 subtypes in CD4 and CD8 lymphocytes from healthy
+and asthmatic subjects</article-title>. <source>Br J Pharmacol</source>
+<volume>133</volume>: <fpage>722</fpage>–<lpage>729</lpage>.<pub-id pub-id-type="pmid">11429397</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/sj.bjp.0704120</pub-id><pub-id pub-id-type="pmcid">PMC1572832</pub-id></mixed-citation></ref><ref id="bibr29-20587384211038098"><label>29</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Moncada</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Higgs</surname><given-names>EA</given-names></name>
+</person-group> (<year>2006</year>) <article-title>The discovery of nitric oxide and its
+role in vascular biology</article-title>. <source>Br J Pharmacol</source>
+<volume>147</volume>(<issue>suppl 1</issue>):
+<fpage>S193</fpage>–<lpage>S201</lpage>.<pub-id pub-id-type="pmid">16402104</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/sj.bjp.0706458</pub-id><pub-id pub-id-type="pmcid">PMC1760731</pub-id></mixed-citation></ref><ref id="bibr30-20587384211038098"><label>30</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Ghosh</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Koziol-White</surname><given-names>CJ</given-names></name>
+<name name-style="western"><surname>Asosingh</surname><given-names>K</given-names></name>
+</person-group>, <etal>et al.</etal> (<year>2016</year>) <article-title>Soluble guanylate
+cyclase as an alternative target for bronchodilator therapy in asthma</article-title>.
+<source>Proc Natl Acad Sci U S A</source>
+<volume>113</volume>: <fpage>E2355</fpage>–<lpage>E2362</lpage>.<pub-id pub-id-type="pmid">27071111</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.1524398113</pub-id><pub-id pub-id-type="pmcid">PMC4855555</pub-id></mixed-citation></ref><ref id="bibr31-20587384211038098"><label>31</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Li</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>ZJ</given-names></name>
+</person-group> (<year>2018</year>) <article-title>The cGAS-cGAMP-sting pathway connects
+DNA damage to inflammation, senescence, and cancer</article-title>. <source>J Exp
+Med</source>
+<volume>215</volume>: <fpage>1287</fpage>–<lpage>1299</lpage>.<pub-id pub-id-type="pmid">29622565</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1084/jem.20180139</pub-id><pub-id pub-id-type="pmcid">PMC5940270</pub-id></mixed-citation></ref><ref id="bibr32-20587384211038098"><label>32</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Rueda</surname><given-names>CM</given-names></name>
+<name name-style="western"><surname>Jackson</surname><given-names>CM</given-names></name>
+<name name-style="western"><surname>Chougnet</surname><given-names>CA</given-names></name>
+</person-group> (<year>2016</year>) <article-title>Regulatory T-cell-mediated suppression
+of conventional T-cells and dendritic cells by different cAMP intracellular
+pathways</article-title>. <source>Front Immunol</source>
+<volume>7</volume>: <fpage>216</fpage>.<pub-id pub-id-type="pmid">27313580</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fimmu.2016.00216</pub-id><pub-id pub-id-type="pmcid">PMC4889573</pub-id></mixed-citation></ref><ref id="bibr33-20587384211038098"><label>33</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Liu</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Joo</surname><given-names>D</given-names></name>
+</person-group>, <etal>et al.</etal> (<year>2017</year>) <article-title>NF-kB signaling in
+inflammation</article-title>. <source>Signal Transduction and Targeted Therapy</source>
+<volume>2</volume>: <fpage>17023</fpage>.<pub-id pub-id-type="pmid">29158945</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/sigtrans.2017.23</pub-id><pub-id pub-id-type="pmcid">PMC5661633</pub-id></mixed-citation></ref><ref id="bibr34-20587384211038098"><label>34</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Hertz</surname><given-names>AL</given-names></name>
+<name name-style="western"><surname>Bender</surname><given-names>AT</given-names></name>
+<name name-style="western"><surname>Smith</surname><given-names>KC</given-names></name>
+</person-group>, <etal>et al.</etal> (<year>2009</year>) <article-title>Elevated cyclic
+AMP and PDE4 inhibition induce chemokine expression in human monocyte-derived
+macrophages</article-title>. <source>Proc Natl Acad Sci U S A</source>
+<volume>106</volume>: <fpage>21978</fpage>–<lpage>21983</lpage>.<pub-id pub-id-type="pmid">19959669</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.0911684106</pub-id><pub-id pub-id-type="pmcid">PMC2799834</pub-id></mixed-citation></ref><ref id="bibr35-20587384211038098"><label>35</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Lee</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Kim</surname><given-names>TH</given-names></name>
+<name name-style="western"><surname>Murray</surname><given-names>F</given-names></name>
+</person-group>, <etal>et al.</etal> (<year>2015</year>) <article-title>Cyclic AMP
+concentrations in dendritic cells induce and regulate Th2 immunity and allergic
+asthma</article-title>. <source>Proc Natl Acad Sci U S A</source>
+<volume>112</volume>: <fpage>1529</fpage>–<lpage>1534</lpage>.<pub-id pub-id-type="pmid">25605931</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.1417972112</pub-id><pub-id pub-id-type="pmcid">PMC4321256</pub-id></mixed-citation></ref><ref id="bibr36-20587384211038098"><label>36</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Ozasa</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Temizoz</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Kusakabe</surname><given-names>T</given-names></name>
+</person-group>, <etal>et al.</etal> (<year>2019</year>) <article-title>Cyclic GMP-AMP
+triggers asthma in an IL-33-dependent manner that is blocked by amlexanox, a TBK1
+inhibitor</article-title>. <source>Front Immunol</source>
+<volume>10</volume>: <fpage>2212</fpage>.<pub-id pub-id-type="pmid">31616416</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fimmu.2019.02212</pub-id><pub-id pub-id-type="pmcid">PMC6775192</pub-id></mixed-citation></ref><ref id="bibr37-20587384211038098"><label>37</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Dooper</surname><given-names>MW</given-names></name>
+<name name-style="western"><surname>Hoekstra</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Timmermans</surname><given-names>A</given-names></name>
+</person-group>, <etal>et al.</etal> (<year>1994</year>) <article-title>Potentiation of
+adenylyl cyclase in human peripheral blood mononuclear cells by cell-activating
+stimuli</article-title>. <source>Biochem Pharmacol</source>
+<volume>47</volume>: <fpage>289</fpage>–<lpage>294</lpage>.<pub-id pub-id-type="pmid">8304973</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/0006-2952(94)90019-1</pub-id></mixed-citation></ref><ref id="bibr38-20587384211038098"><label>38</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Ramalingam</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Kim</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>Y</given-names></name>
+</person-group>, <etal>et al.</etal> (<year>2018</year>) <article-title>Phytochemical and
+pharmacological role of liquiritigenin and isoliquiritigenin from radix glycyrrhizae in
+human health and disease models</article-title>. <source>Front Aging Neurosci</source>
+<volume>10</volume>: <fpage>348</fpage>.<pub-id pub-id-type="pmid">30443212</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fnagi.2018.00348</pub-id><pub-id pub-id-type="pmcid">PMC6221911</pub-id></mixed-citation></ref><ref id="bibr39-20587384211038098"><label>39</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Yu</surname><given-names>JY</given-names></name>
+<name name-style="western"><surname>Ha</surname><given-names>JY</given-names></name>
+<name name-style="western"><surname>Kim</surname><given-names>KM</given-names></name>
+</person-group>, <etal>et al.</etal> (<year>2015</year>) <article-title>Anti-inflammatory
+activities of licorice extract and its active compounds, glycyrrhizic acid, liquiritin
+and liquiritigenin, in BV2 cells and mice liver</article-title>.
+<source>Molecules</source>
+<volume>20</volume>: <fpage>13041</fpage>–<lpage>13054</lpage>.<pub-id pub-id-type="pmid">26205049</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/molecules200713041</pub-id><pub-id pub-id-type="pmcid">PMC6332102</pub-id></mixed-citation></ref><ref id="bibr40-20587384211038098"><label>40</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Zhu</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Shi</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>H</given-names></name>
+</person-group> (<year>2018</year>) <article-title>Liquiritigenin attenuates high
+glucose-induced mesangial matrix accumulation, oxidative stress, and inflammation by
+suppression of the NF-kappaB and NLRP3 inflammasome pathways</article-title>.
+<source>Biomed Pharmacother</source>
+<volume>106</volume>: <fpage>976</fpage>–<lpage>982</lpage>.<pub-id pub-id-type="pmid">30119269</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.biopha.2018.07.045</pub-id></mixed-citation></ref><ref id="bibr41-20587384211038098"><label>41</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Esquerre</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Tauzin</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Guiraud</surname><given-names>M</given-names></name>
+</person-group>, <etal>et al.</etal> (<year>2008</year>) <article-title>Human regulatory T
+cells inhibit polarization of T helper cells toward antigen-presenting cells
+<italic toggle="yes">via</italic> a TGF-beta-dependent mechanism</article-title>. <source>Proc Natl
+Acad Sci U S A</source>
+<volume>105</volume>: <fpage>2550</fpage>–<lpage>2555</lpage>.<pub-id pub-id-type="pmid">18268354</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.0708350105</pub-id><pub-id pub-id-type="pmcid">PMC2268174</pub-id></mixed-citation></ref></ref-list></back></article>

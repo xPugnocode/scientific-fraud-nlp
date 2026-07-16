@@ -1,0 +1,525 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article article-type="research-article" xml:lang="en" dtd-version="1.4"><front><journal-meta><journal-id journal-id-type="nlm-ta">Mol Psychiatry</journal-id><journal-id journal-id-type="iso-abbrev">Mol. Psychiatry</journal-id><journal-id journal-id-type="pmc-domain-id">981</journal-id><journal-id journal-id-type="pmc-domain">npgopen</journal-id><journal-id journal-id-type="nlm-id">9607835</journal-id><journal-title-group><journal-title>Molecular Psychiatry</journal-title></journal-title-group><issn pub-type="ppub">1359-4184</issn><issn pub-type="epub">1476-5578</issn><custom-meta-group><custom-meta><meta-name>pmc-is-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-collection-title</meta-name><meta-value>Nature Portfolio</meta-value></custom-meta></custom-meta-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC5987166</article-id><article-id pub-id-type="pmcid-ver">PMC5987166.1</article-id><article-id pub-id-type="pmcaid">5987166</article-id><article-id pub-id-type="pmcaiid">5987166</article-id><article-id pub-id-type="pmid">29731509</article-id><article-id pub-id-type="doi">10.1038/mp.2017.121</article-id><article-id pub-id-type="pii">mp2017121</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>A genome-wide association study for extremely high intelligence</article-title><alt-title alt-title-type="running">GWA study for extremely high intelligence</alt-title></title-group><contrib-group><contrib contrib-type="author"><name name-style="western"><surname>Zabaneh</surname><given-names initials="D">D</given-names></name><xref ref-type="aff" rid="aff1">1</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Krapohl</surname><given-names initials="E">E</given-names></name><xref ref-type="aff" rid="aff1">1</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Gaspar</surname><given-names initials="HA">H A</given-names></name><xref ref-type="aff" rid="aff1">1</xref><xref ref-type="aff" rid="aff2">2</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Curtis</surname><given-names initials="C">C</given-names></name><xref ref-type="aff" rid="aff1">1</xref><xref ref-type="aff" rid="aff2">2</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Lee</surname><given-names initials="SH">S H</given-names></name><xref ref-type="aff" rid="aff1">1</xref><xref ref-type="aff" rid="aff2">2</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Patel</surname><given-names initials="H">H</given-names></name><xref ref-type="aff" rid="aff1">1</xref><xref ref-type="aff" rid="aff2">2</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Newhouse</surname><given-names initials="S">S</given-names></name><xref ref-type="aff" rid="aff1">1</xref><xref ref-type="aff" rid="aff2">2</xref><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-1843-9842</contrib-id></contrib><contrib contrib-type="author"><name name-style="western"><surname>Wu</surname><given-names initials="HM">H M</given-names></name><xref ref-type="aff" rid="aff1">1</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Simpson</surname><given-names initials="MA">M A</given-names></name><xref ref-type="aff" rid="aff3">3</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Putallaz</surname><given-names initials="M">M</given-names></name><xref ref-type="aff" rid="aff4">4</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Lubinski</surname><given-names initials="D">D</given-names></name><xref ref-type="aff" rid="aff5">5</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Plomin</surname><given-names initials="R">R</given-names></name><xref ref-type="aff" rid="aff1">1</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Breen</surname><given-names initials="G">G</given-names></name><xref ref-type="aff" rid="aff1">1</xref><xref ref-type="aff" rid="aff2">2</xref><xref ref-type="corresp" rid="caf1">*</xref><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0003-2053-1792</contrib-id></contrib><aff id="aff1"><label>1</label><institution>King’s College London, MRC Social,
+Genetic and Developmental Psychiatry Centre, Institute of Psychiatry, Psychology
+and Neuroscience</institution>, London, <country>UK</country></aff><aff id="aff2"><label>2</label><institution>NIHR Biomedical Research Centre for
+Mental Health, South London and Maudsley NHS Trust</institution>, London,
+<country>UK</country></aff><aff id="aff3"><label>3</label><institution>Department of Medical and Molecular
+Genetics, Division of Genetics and Molecular Medicine, Guy’s Hospital</institution>,
+London, <country>UK</country></aff><aff id="aff4"><label>4</label><institution>Duke University Talent Identification
+Program, Duke University</institution>, Durham, NC, <country>USA</country></aff><aff id="aff5"><label>5</label><institution>Department of Psychology and Human
+Development, Vanderbilt University</institution>, Nashville, TN,
+<country>USA</country></aff></contrib-group><author-notes><corresp id="caf1"><label>*</label><institution>King's College London, MRC Social Genetic and
+Developmental Psychiatry Centre, Institute of Psychiatry, Psychology and
+Neuroscience</institution>, 16 De Crespigny Park, London
+SE5 8AF, <country>UK</country>. E-mail: <email>gerome.breen@kcl.ac.uk</email></corresp></author-notes><pub-date pub-type="ppub"><month>05</month><year>2018</year></pub-date><pub-date pub-type="epub"><day>04</day><month>07</month><year>2017</year></pub-date><volume>23</volume><issue>5</issue><issue-id pub-id-type="pmc-issue-id">314502</issue-id><fpage>1226</fpage><lpage>1232</lpage><history><date date-type="received"><day>17</day><month>11</month><year>2016</year></date><date date-type="rev-recd"><day>20</day><month>03</month><year>2017</year></date><date date-type="accepted"><day>11</day><month>04</month><year>2017</year></date></history><pub-history><event event-type="pmc-release"><date><day>05</day><month>06</month><year>2018</year></date></event><event event-type="pmc-live"><date><day>06</day><month>06</month><year>2018</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-07-01 21:25:15.817"><day>01</day><month>07</month><year>2025</year></date></event></pub-history><permissions><copyright-statement>Copyright © 2018 The Author(s)</copyright-statement><copyright-year>2018</copyright-year><copyright-holder>The Author(s)</copyright-holder><license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncsalicense">https://creativecommons.org/licenses/by-nc-sa/4.0/</ali:license_ref><license-p>This work is licensed under a Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International License. The images or other
+third party material in this article are included in the article’s Creative
+Commons license, unless indicated otherwise in the credit line; if the material is
+not included under the Creative Commons license, users will need to obtain permission
+from the license holder to reproduce the material. To view a copy of this license,
+visit <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc-sa/4.0/">http://creativecommons.org/licenses/by-nc-sa/4.0/</ext-link></license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="mp2017121a.pdf"/><abstract><p>We used a case–control genome-wide association (GWA) design with cases
+consisting of 1238 individuals from the top 0.0003 (~170 mean IQ) of the population
+distribution of intelligence and 8172 unselected population-based controls. The
+single-nucleotide polymorphism heritability for the extreme IQ trait was 0.33 (0.02),
+which is the highest so far for a cognitive phenotype, and significant genome-wide
+genetic correlations of 0.78 were observed with educational attainment and 0.86 with
+population IQ. Three variants in locus <italic toggle="yes">ADAM12</italic> achieved genome-wide
+significance, although they did not replicate with published GWA analyses of
+normal-range IQ or educational attainment. A genome-wide polygenic score constructed
+from the GWA results accounted for 1.6% of the variance of intelligence in the
+normal range in an unselected sample of 3414 individuals, which is comparable to the
+variance explained by GWA studies of intelligence with substantially larger sample
+sizes. The gene family <italic toggle="yes">plexins</italic>, members of which are mutated in several
+monogenic neurodevelopmental disorders, was significantly enriched for associations
+with high IQ. This study shows the utility of extreme trait selection for genetic
+study of intelligence and suggests that extremely high intelligence is continuous
+genetically with normal-range intelligence in the population.</p></abstract><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC-SA</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec><title>Introduction</title><p>One of the best-established findings in cognitive science is that individual
+differences in performance on diverse cognitive tasks correlate about 0.30 and that a
+general factor explains about 40% of the total variance.<sup><xref ref-type="bibr" rid="bib1">1</xref></sup> This general cognitive ability factor, usually
+called general intelligence (‘<italic toggle="yes">g’</italic>), is one of the best predictors
+of important life outcomes including education, occupation, and mental and physical
+health.<sup><xref ref-type="bibr" rid="bib2">2</xref></sup> General intelligence is also
+one of the most heritable behavioural traits, with heritability increasing from
+40% in childhood to 80% in later adulthood.<sup><xref ref-type="bibr" rid="bib3">3</xref></sup></p><p>Identifying some of the many DNA differences that account for its heritability is key
+for advancing research in intelligence.<sup><xref ref-type="bibr" rid="bib4">4</xref></sup>
+Throughout the life sciences, genome-wide association (GWA) studies have been
+successful in identifying genes associated with complex traits and common disorders.
+They have also shown that many DNA variants of very small effect size contribute to
+heritability.<sup><xref ref-type="bibr" rid="bib5">5</xref></sup> Although the small
+effect size of individual DNA variants detracts from their utility in neurocognitive
+research, polygenic scores can be created that aggregate the effects of DNA variants
+to predict genetic propensities for individuals.<sup><xref ref-type="bibr" rid="bib6">6</xref>,
+<xref ref-type="bibr" rid="bib7">7</xref></sup> For example, the current strongest
+polygenic score prediction of a quantitative trait is for height, which predicts
+nearly 20% of the variance of height in independent samples.<sup><xref ref-type="bibr" rid="bib8">8</xref></sup></p><p>However, these GWA successes in the life sciences have not been reflected in research
+on intelligence, where relatively few replicated genome-wide significant associations
+have been found and polygenic scores derived from these GWA studies account for only
+about 1% of the variance of intelligence.<sup><xref ref-type="bibr" rid="bib9">9</xref>,
+<xref ref-type="bibr" rid="bib10">10</xref>, <xref ref-type="bibr" rid="bib11">11</xref>, <xref ref-type="bibr" rid="bib12">12</xref>, <xref ref-type="bibr" rid="bib13">13</xref>, <xref ref-type="bibr" rid="bib14">14</xref></sup> Reasons for this include heterogeneity between
+measures and samples across studies in meta-analyses and sample sizes that are
+underpowered for detecting small effect sizes.<sup><xref ref-type="bibr" rid="bib15">15</xref></sup> The major strategy for improving the ability of GWA studies to
+detect DNA variants of small effect size has been to increase sample size. Empirical
+support for increasing sample sizes for IQ GWA studies comes from research on years
+of education, which can be viewed as a proxy measure of intelligence, because it
+correlates about 0.50 with intelligence.<sup><xref ref-type="bibr" rid="bib16">16</xref></sup>
+A 2016 GWA study of years of education with 329 000 individuals yielded 74
+genome-wide significant hits and a polygenic score accounted for 4% of the
+variance in independent samples.<sup><xref ref-type="bibr" rid="bib17">17</xref></sup> Even
+though years of education only correlates 0.50 with intelligence, studies of
+educational attainment are currently much larger, thus explaining why the polygenic
+score from the 2016 educational attainment GWA study accounts for ~3.6% of the
+variance of intelligence,<sup><xref ref-type="bibr" rid="bib18">18</xref></sup> triple the
+variance in intelligence explained from GWA studies of intelligence itself.</p><p>An alternate strategy for increasing power to detect small effects is to study
+individuals at the extreme of the normal distribution. Intelligence is a normally
+distributed trait with a positive end of high performance and a problematic end of
+intellectual disability. The quantitative genetic model proposes that the normal
+distribution of quantitative traits is caused by many genes of small
+effect.<sup><xref ref-type="bibr" rid="bib19">19</xref></sup> This implies that extremely
+high intelligence occurs only if an individual has many of the positive alleles and
+few of the negative alleles that affect intelligence. For this reason, a large group
+of individuals of extremely high intelligence should be enriched for alleles
+associated with intelligence and thus yield increased power to detect associations
+for alleles that operate throughout the normal distribution.<sup><xref ref-type="bibr" rid="bib20">20</xref></sup></p><p>The quantitative genetic model could be construed to suggest that the extreme low end
+of the distribution of intelligence is the mirror image of the extreme high end;
+however, new mutations may be drivers of very low IQ, as they can more easily disrupt
+than improve finely tuned neurocognitive performance. Recent quantitative genetic
+research supports the hypothesis that extremely high intelligence is caused by the
+same DNA variants responsible for individual differences in intelligence throughout
+the normal distribution,<sup><xref ref-type="bibr" rid="bib21">21</xref></sup> whereas
+extremely low intelligence is caused by DNA variants that are not associated with
+individual differences in intelligence in the normal distribution.<sup><xref ref-type="bibr" rid="bib22">22</xref></sup></p><p>Here we capitalize on the increased power of association at the high extreme of
+intelligence as a strategy to facilitate the discovery of alleles that contribute to
+genetic variation in intelligence throughout the distribution. We conducted a
+case–control GWA analysis with cases consisting of 1238 individuals from the
+top 0.0003 (mean IQ score~170) of the population distribution of
+intelligence<sup><xref ref-type="bibr" rid="bib23">23</xref>, <xref ref-type="bibr" rid="bib24">24</xref></sup> and 8172 unselected population-based controls.</p></sec><sec><title>Materials and methods</title><sec><title>Participants</title><p>Participants were recruited from two separate US studies. The project received
+ethical approval from the King’s College London Research Ethics Committee
+(reference number PNM/11/12–51) and from the European Research
+Council Executive Agency (reference number Ares (2012)56321). Informed consent was
+obtained from all subjects. All methods were performed in accordance with relevant
+guidelines and regulations.</p><sec><title>High-intelligence cases (TIP)</title><p>Individuals with extremely high intelligence were recruited from the Duke
+University Talent Identification Program (TIP), a non-profit organization
+established in 1980 and dedicated to identifying and fostering the development
+of academically gifted children. Individuals were selected from the United
+States for participation in TIP on the basis of performance on the Scholastic
+Assessment Test or American College Test taken at age 12 years rather than the
+usual age of 18 years. A composite that aggregates verbal and mathematics
+Scholastic Assessment Test and American College Test scores correlated &gt;0.80
+with intelligence test scores<sup><xref ref-type="bibr" rid="bib25">25</xref></sup> and
+it is estimated that the TIP programme recruits from the top 3% of the
+intelligence distribution.<sup><xref ref-type="bibr" rid="bib23">23</xref>, <xref ref-type="bibr" rid="bib24">24</xref>, <xref ref-type="bibr" rid="bib25">25</xref>, <xref ref-type="bibr" rid="bib26">26</xref></sup> For the present study, TIP cases were
+selected and DNA solicited from the top 1% of these TIP individuals,
+representing approximately the top 0.03% of the intelligence
+distribution. Illumina Infinium OmniExpress (Illumina.com) genotypes were
+available for 1409 white European Caucasian individuals (1238 subjects post
+quality control (QC), see below and <xref ref-type="supplementary-material" rid="sup1">Supplementary Table
+S1</xref>). The TIP sample was 62% male post QC, which is to be
+expected for a sample of individuals with high IQ.<sup><xref ref-type="bibr" rid="bib27">27</xref></sup> There was no significant difference in intelligence
+test scores between males and females. This sample was previously used in a
+case–control analysis of putative functional exonic variants assayed on
+the Illumina HumanExome BeadChip.<sup><xref ref-type="bibr" rid="bib28">28</xref></sup></p></sec><sec><title>Unselected controls (Health and Retirement Study)</title><p>The controls for this study were from The University of Michigan Health and
+Retirement Study (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://hrsonline.isr.umich.edu">http://hrsonline.isr.umich.edu</ext-link>), which is a longitudinal panel
+study that surveyed a representative sample of ~20 000 people in the
+United States over the age of 50 years every 2 years. Saliva was collected for
+DNA extraction and genotyping was performed for 12 507 subjects. The
+genotyping was performed by the NIH Center for Inherited Disease Research using
+the Illumina Human Omni-2.5 Quad Beadchip, with coverage of 2.5 million
+single-nucleotide polymorphisms (SNPs). Genotype data were obtained through
+dbGaP. Matching to TIP and after QC (see below and <xref ref-type="supplementary-material" rid="sup1">Supplementary Table S1</xref>) genotypes were available for 8185 white
+Caucasian individuals.</p></sec><sec><title>Extension sample: The Twins Early Development Study</title><p>Twins Early Development Study (TEDS) is a longitudinal UK-based population
+sample of over 15 000 families with twins born in England and Wales
+1994, 1995 and 1996, and identified from birth records.<sup><xref ref-type="bibr" rid="bib29">29</xref></sup> At age 12 years, individuals were assessed
+on 16 cognitive tests. Individuals with severe recurrent medical problems or
+severe perinatal medical problems were excluded, as were individuals whose
+first language was not English and individuals who reported their ethnicity as
+other than ‘White’. Phenotypic and genotypic data were available
+for individuals after QC in cognitive tests for <italic toggle="yes">g</italic> and educational
+achievement. The <italic toggle="yes">g</italic> measure was available at age 12 years as a core
+four-test composite version, <italic toggle="yes">n</italic>=3414, and an extended 16-test
+version, <italic toggle="yes">n</italic>= 4731, which includes some items that can be
+regarded as educational achievement measures such as reading. The primary
+educational achievement phenotype we used in TEDS were the grades achieved in
+the English General Certificate of School Education at age 16 years,
+<italic toggle="yes">n</italic>=3584. Full details are given in <xref ref-type="supplementary-material" rid="sup1">Supplementary Text</xref>.</p></sec></sec><sec><title>Quality control</title><p>For the TIP and Health and Retirement Study data, before SNP imputation and
+genetic association analyses, SNPs were excluded based on standard criteria such
+as call rate (&lt;98%), minor allele frequency (MAF &lt;0.5%) and
+Hardy–Weinberg equilibrium test (<italic toggle="yes">P</italic>-value
+&lt;10<sup>−6</sup>). Further details are given in the <xref ref-type="supplementary-material" rid="sup1">Supplementary Text</xref> and <xref ref-type="supplementary-material" rid="sup1">Supplementary Table
+S2</xref>.</p></sec><sec><title>SNP imputation</title><p>Genotype imputation was carried out based on the Haplotype Reference Consortium
+reference panel (rv1.1) (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.haplotype-reference-consortium.org">www.haplotype-reference-consortium.org</ext-link>) using PBWT<sup><xref ref-type="bibr" rid="bib30">30</xref></sup> as implemented in the Sanger Imputation
+Server (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="imputation.sanger.ac.uk">imputation.sanger.ac.uk</ext-link>). Post imputation QC
+was carried out using QCTOOL v2 (see URLs). Further details are given in the
+<xref ref-type="supplementary-material" rid="sup1">Supplementary Text</xref>.</p></sec><sec><title>Single SNP association analysis</title><p>The single SNP association analysis was performed using a logistic regression for
+the imputed SNPs with MAF⩾0.01 and imputation info score ⩾0.90 using
+SNPTEST v2.5.2.<sup><xref ref-type="bibr" rid="bib31">31</xref></sup> These conservative MAF
+and info score thresholds were applied to accommodate the fact that the two
+cohorts have been genotyped separately. An additive model was used after adjusting
+for sex and the first 10 principal components to control for population
+structure.<sup><xref ref-type="bibr" rid="bib32">32</xref></sup> In SNPTEST we used
+method ‘expected’ to account for genotype uncertainty of the genotype
+dosage scores.</p></sec><sec><title>Replication</title><p>Lookups were performed of the genome-wide significant SNP-based findings in four
+published studies. We also investigated replication of published genome-wide
+significant findings from related traits from these four studies in the TIP
+sample.</p></sec><sec><title>LD score regression</title><p>Linkage disequilibrium (LD) score regression<sup><xref ref-type="bibr" rid="bib33">33</xref></sup> was used to estimate SNP heritability
+(<italic toggle="yes">h</italic><sup>2</sup><sub>SNP</sub>) from GWA summary statistics. Estimates
+of <italic toggle="yes">h</italic><sup>2</sup><sub>SNP</sub> on the liability scale were assessed with
+a prevalence estimate of 0.0003. In addition, genetic correlations
+(<italic toggle="yes">r</italic><sub>g</sub>) were estimated with several traits from GWA summary
+statistics, as well as partitioned LD score <italic toggle="yes">h</italic><sup>2</sup><sub>SNP</sub>
+to assess enrichment of heritability in SNPs with specific function annotations
+and tissue-specific genomic annotations, including the central nervous system. For
+a full description of these procedures, see <xref ref-type="supplementary-material" rid="sup1">Supplementary
+Text</xref>.</p><p>We also used LD score regression to estimate genetic correlations between high
+intelligence estimated from our TIP GWA analysis with other studies of
+intelligence and a range of other traits.<sup><xref ref-type="bibr" rid="bib33">33</xref>,
+<xref ref-type="bibr" rid="bib34">34</xref></sup> The intent of these comparisons was
+to evaluate similarities and differences in IQ genetic architecture, to suggest
+hypotheses about the fundamental genetic basis of intelligence, between very high
+IQ and IQ in the normal range.</p></sec><sec><title>Gene-based association and pathway analysis</title><p><italic toggle="yes">P</italic>-values quantifying the degree of association of genes and gene-sets in
+TIP were generated using MAGMA (v1.03).<sup><xref ref-type="bibr" rid="bib35">35</xref></sup> Our approach was guided by rigorous method comparisons of
+type I error rates of different algorithms.<sup><xref ref-type="bibr" rid="bib36">36</xref>,
+<xref ref-type="bibr" rid="bib37">37</xref></sup> Further details are given in
+<xref ref-type="supplementary-material" rid="sup1">Supplementary Text</xref>.</p></sec><sec><title>Heritability estimation</title><p>We estimated the contribution of all common SNPs (MAF ⩾0.01) in this sample by
+performing a linear mixed-model analysis to fit all genotyped SNPs simultaneously
+in the model as implemented in GCTA.<sup><xref ref-type="bibr" rid="bib38">38</xref></sup>
+Heritability was estimated on the liability scale with prevalence=0.0003
+and adjusted for sex and the first 10 PCs for the genotyped SNPs. Heritability was
+also estimated using the LD score<sup><xref ref-type="bibr" rid="bib33">33</xref></sup>
+method; estimates were from imputed SNPs and LD was calculated from HapMap 3.</p></sec><sec><title>Polygenic scores</title><p>We used GWA results from TIP to create polygenic scores for the UK-representative
+TEDS<sup><xref ref-type="bibr" rid="bib39">39</xref></sup> (<xref ref-type="supplementary-material" rid="sup1">Supplementary text</xref>). Individuals were tested at 12 years and the
+phenotypes g-4 and g-16 were calculated from 4 and 16 tests at age 12 years,
+respectively, where the 4 tests are a subset of the 16. More details about these
+phenotypes is in <xref ref-type="supplementary-material" rid="sup1">Supplementary Text</xref>. The two
+phenotypes were adjusted for age within each testing period and first principal
+component scores were derived using principal component analysis implemented in R.
+Imputed genotypes were available for 6710 samples. Stringent QC procedures were
+applied followed by imputation of SNPs using the Haplotype Reference Consortium
+reference panel<sup><xref ref-type="bibr" rid="bib40">40</xref></sup> (<xref ref-type="supplementary-material" rid="sup1">Supplementary Text</xref>). After QC, 7 581 516 genotyped or
+well-imputed (info &gt;0.70) variants were available for the polygenic score
+analyses; 4 657 119 overlapped with variants tested in the
+independent TIP GWA analysis<sup><xref ref-type="bibr" rid="bib17">17</xref></sup> after
+exclusions due to nucleotide inconsistencies and MAF&lt;0.01. We created
+genome-wide polygenic scores for each individual in the TEDS sample using summary
+statistics from the TIP GWA analyses and all SNPs. To avoid a reduction in
+predictive accuracy and loss of information due to pruning markers by LD, we used
+LDpred,<sup><xref ref-type="bibr" rid="bib41">41</xref></sup> which infers the
+posterior mean effect size of each marker using a prior based on the proportion of
+real effects and the distribution of possible effect sizes and reference LD data
+(we used our sample as the LD reference), and SNPs are weighted accordingly. This
+was used to assess the association of these polygenic scores with general
+cognitive ability at age 12 years and educational achievement at the end of
+compulsory education at age 16 years, using the first 10 principal components as
+well as genotyping array and plate as covariates to control for population
+stratification and possible genotyping errors, respectively.</p></sec></sec><sec><title>Results</title><sec><title>Analysis of genome-wide SNPs</title><p>After performing the GWA single SNP analysis using an additive model for
+6 773  587 SNPs, three intronic SNPs: rs4962322, rs4962520 and
+rs10794073 located in <italic toggle="yes">ADAM12</italic> on chromosome 10 reached genome-wide
+significant <italic toggle="yes">P</italic>-values of 8.0 × 10<sup>−9</sup>, 1.2 ×
+10<sup>−8</sup> and 2.0 × 10<sup>−8</sup>, respectively. The
+three SNPs are in high LD with <italic toggle="yes">r</italic><sup>2</sup> ranging between 0.9 and 1.0,
+with rs4962322 representing the sentinel SNP after clumping. <italic toggle="yes">ADAM12</italic>
+encodes a member of the ADAM (a disintegrin and metalloprotease) protein family.
+Members of this family are membrane-anchored proteins and have been implicated in
+a variety of biological processes involving cell–cell and cell–matrix
+interactions, including fertilization, muscle development and neurogenesis
+(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/gene">www.ncbi.nlm.nih.gov/gene</ext-link>). Results for all SNPs are presented in
+<xref ref-type="fig" rid="fig1">Figure 1</xref> and details of the top three SNPs are in
+<xref rid="tbl1" ref-type="table">Table 1</xref>. A regional plot for rs4962322 is shown in
+<xref ref-type="fig" rid="fig2">Figure 2</xref> and a comparison of the MAF for rs4962322
+from the different samples is in <xref ref-type="supplementary-material" rid="sup1">Supplementary Table
+S3</xref>.</p><p>The genomic inflation <italic toggle="yes">λ</italic> for these analyses was equal to 1.096 and
+the LD score intercept is 1.020. This is consistent with inflation largely driven
+by polygenic variation rather than population stratification.<sup><xref ref-type="bibr" rid="bib33">33</xref></sup> Although there is no similar study in which
+to carry out replication for the top SNP, we performed a look up of all SNPs with
+<italic toggle="yes">P</italic>-values&lt;10<sup>−7</sup> including rs4962322 in other studies
+with similar phenotypes, as described below.</p></sec><sec><title>Replication of single SNP variation</title><p>We have performed a look-up of the three top SNPs in four studies with related
+phenotypes: CHIC<sup><xref ref-type="bibr" rid="bib9">9</xref></sup> (childhood
+intelligence), CHARGE<sup><xref ref-type="bibr" rid="bib11">11</xref></sup> (normal range
+adult intelligence), educational attainment<sup><xref ref-type="bibr" rid="bib17">17</xref></sup> and VNR-UKB<sup><xref ref-type="bibr" rid="bib12">12</xref></sup>
+(numerical and verbal reasoning) (<xref ref-type="supplementary-material" rid="sup1">Supplementary Table
+S4</xref>). The direction of effect was concordant with two of the studies
+for rs4962322 and rs4962520, and only for one study for rs10794073. None of the
+SNPs replicated in significance. Summary data for rs4962520 were not available for
+CHIC or CHARGE. We also compared the associations of the four published GWAS with
+our results; a summary of these is in <xref ref-type="supplementary-material" rid="sup1">Supplementary Table
+S5</xref>. There were 95 published genome-wide significant SNPs from the
+four studies and we found comparable SNP data for 63 of these. Ninety-four percent
+of the TIP-GWA SNPs showed concordance in direction of effect with the published
+SNPs, although none reached genome-wide significance.</p></sec><sec><title>Gene-based association and pathway analyses</title><p>To test whether the combined effect of SNPs within a gene has a significant
+effect, we conducted a gene-based analysis using MAGMA v1.05. The gene with the
+genome-wide significant marker, <italic toggle="yes">ADAM12</italic>, also ranked first in the
+gene-based analysis with <italic toggle="yes">P</italic>-value=5.82 ×
+10<sup>−6</sup> (Bonferroni threshold=2.57 ×
+10<sup>−6</sup>). The second top gene, <italic toggle="yes">SH2D1A</italic>, with
+<italic toggle="yes">P</italic>-value=7.66 × 10<sup>−6</sup>, is located on the X
+chromosome. Both genes are suggestive but not significant. Top results from the
+gene-based analyses are in <xref ref-type="supplementary-material" rid="sup1">Supplementary Table S6</xref>;
+the full results are in <xref ref-type="supplementary-material" rid="sup1">Supplementary Table S7</xref>.
+Pathway analyses were applied to three sets of pathways: gene families, gene
+intolerance gene sets based on Residual Variation Intolerance Score percentiles
+and biological pathways. Complete results with links to source data are provided
+in <xref ref-type="supplementary-material" rid="sup1">Supplementary Tables S8–S10 and S10a</xref>.
+Information on gene sets and pathway analysis procedures is given in <xref ref-type="supplementary-material" rid="sup1">Supplementary Text</xref>. One gene family showed a significant
+association (<italic toggle="yes">P</italic>-value=6.43 × 10<sup>−5</sup>,
+Bonferroni threshold=1.26 × 10<sup>−4</sup>): plexins. Plexins
+are transmembrane proteins which act as receptors to semaphorins. We also
+determined the enrichment of intolerant genes in the GWAS by testing gene-sets
+with decreasing or increasing gene intolerance. The gene intolerance results are
+given in <xref ref-type="supplementary-material" rid="sup1">Supplementary Table S9</xref>.</p></sec><sec><title>Heritability and genetic correlation estimation</title><p>The proportion of variance explained by all common variants using GCTA was 0.33
+(0.02); using LD score regression (with unconstrained intercept), heritability was
+0.42 (0.06). These estimates are compatible with a highly polygenic architecture
+of this extreme IQ trait, given the few genome-wide significant hits we observe.
+Using LD score regression we also find large and significant genetic correlations
+between high IQ and other phenotypes from other studies (<xref rid="tbl2" ref-type="table">Table
+2</xref>). Genetic correlations ranged from 0.75 (0.13) with childhood
+IQ<sup><xref ref-type="bibr" rid="bib9">9</xref></sup> to 0.86 (0.10) with verbal and
+numerical reasoning.<sup><xref ref-type="bibr" rid="bib12">12</xref></sup></p><p>We carried out partitioned heritability analysis using LD score regression. The
+results show that the central nervous system category accounts for the largest
+proportion of the heritability: 68.8% from 14.8% of SNPs (enrichment
+<italic toggle="yes">P</italic>-value=4.07 × 10<sup>−5</sup>, Bonferroni
+threshold=8.06 × 10<sup>−4</sup>). A summary table with the
+proportions explained by the 62 categories is in <xref ref-type="supplementary-material" rid="sup1">Supplementary Table S11</xref>.</p></sec><sec><title>Polygenic scores</title><p>The results from the TIP GWA analyses of extremely high intelligence were used to
+build polygenic scores in the unselected and representative TEDS sample. Highly
+significant predictions were observed for individual differences in intelligence
+(<italic toggle="yes">r</italic><sup>2</sup>=2.4% for the broader 16-test composite g
+score at age 12 years and 1.6% for the 4-test composite <italic toggle="yes">g</italic> score at
+age 12 years. Although the TEDS 16-test composite was better predicted by the
+polygenic score, this composite includes educationally relevant skills such as
+reading and mathematics. The TIP-based polygenic score predicted 2.1% of
+the variance in educational achievement in TEDS (General Certificate of School
+Education scores at age 16 years), more than explained for intelligence.</p></sec></sec><sec><title>Discussion</title><p>We conducted a GWA analysis on the unique TIP sample of highly intelligent
+individuals selected from the top 0.03% of the intelligence distribution,
+which reveals that very high IQ is continuous in genetic terms with the normal range
+of intelligence. We show that polygenic prediction from TIP is stronger than from all
+current IQ GWAS, only being exceeded by very large studies of the partially
+correlated phenotype of educational attainment. Our analysis imposed a liability
+threshold model in which the very high IQ sample were used as cases and compared with
+a much larger unselected sample of controls. We chose this control group rather than
+selecting the extreme low end of IQ as controls, because extreme low IQ may be
+distinct from the rest of the distribution due to the effect of rare mutations such
+copy number variants.<sup><xref ref-type="bibr" rid="bib22">22</xref></sup> Strikingly, our
+data captured a high and significant amount of variation as evident from the
+estimated SNP heritability of 0.33 (0.02), the highest thus far for GWAS of cognitive
+abilities.<sup><xref ref-type="bibr" rid="bib9">9</xref>, <xref ref-type="bibr" rid="bib11">11</xref>, <xref ref-type="bibr" rid="bib12">12</xref>, <xref ref-type="bibr" rid="bib17">17</xref></sup></p><p>The high SNP heritability suggested that we had good power to investigate the genetic
+relationship between high IQ and other phenotypes. Genetic correlations from the TIP
+GWAS summary statistics calculated with LD score regression were high and significant
+for cognitive phenotypes, ranging from 0.75 (0.13) with childhood IQ<sup>9</sup> to
+0.86 (0.10) for verbal and numerical reasoning.<sup><xref ref-type="bibr" rid="bib12">12</xref></sup></p><p>In our pathway analysis, the gene family <italic toggle="yes">plexins</italic>, members of which are
+mutated in several monogenic neurodevelopmental disorders, was significantly enriched
+for associations with high IQ (<italic toggle="yes">P</italic>-value=6.43 ×
+10<sup>−5</sup>). The plexin-semaphorin pathway has been linked to axon
+guidance,<sup><xref ref-type="bibr" rid="bib42">42</xref></sup> mental disability and
+neural connectivity,<sup><xref ref-type="bibr" rid="bib43">43</xref></sup> axon regeneration in
+the central nervous system, bone disorders, cancer and inflammatory
+diseases.<sup><xref ref-type="bibr" rid="bib44">44</xref></sup> Noticeably, the top
+biological pathway was <italic toggle="yes">GO:SEMAPHORIN_RECEPTOR_ACTIVITY</italic> with
+<italic toggle="yes">P</italic>-value=5.82 × 10<sup>−4</sup>; however, it was not
+significant. Partitioned LD score analyses also demonstrated a highly significant
+enrichment of SNP heritability in the central nervous system-annotated portion of the
+genome—68.8% of the SNP heritability results from 14.8% of
+SNPs—suggesting a strong role for variation in brain-expressed genes and their
+regulatory regions.</p><p>The primary single-variant findings from our GWA association analysis with high IQ
+were three intronic SNPs in high LD, <italic toggle="yes">r</italic><sup>2</sup>⩾0.90: rs4962322
+(<italic toggle="yes">P</italic>=8.05 × 10<sup>−9</sup>) and rs4962520
+(<italic toggle="yes">P</italic>=1.18 × 10<sup>−8</sup>), and rs10794073
+(<italic toggle="yes">P</italic>=2.02 × 10<sup>−8)</sup>, all genome-wide significant
+and located in ADAM12 on chromosome 10. Gene-based analyses also pointed to the same
+locus, with a gene-wise <italic toggle="yes">P</italic>-value=5.82 × 10<sup>−6</sup>.
+Similar to another study using this same case cohort,<sup><xref ref-type="bibr" rid="bib28">28</xref></sup> there is no available replication cohort with extremely
+high IQ. Therefore, we compared results from our case–control design to
+comparable phenotypes in GWA studies of individual differences in the normal range.
+The three single variants identified in ADAM12 did not replicate in published data
+for the normal range of intelligence,<sup><xref ref-type="bibr" rid="bib11">11</xref></sup>
+childhood intelligence,<sup><xref ref-type="bibr" rid="bib9">9</xref></sup> educational
+attainment,<sup><xref ref-type="bibr" rid="bib17">17</xref></sup> and verbal and
+numerical reasoning,<sup><xref ref-type="bibr" rid="bib12">12</xref></sup> although the effect
+was in the same direction in two of the studies for rs4962322 and rs4962520, and only
+for one study for rs10794073 (<xref ref-type="supplementary-material" rid="sup1">Supplementary Table
+S2</xref>). Conversely, lookup of GWA-significant SNPs from these same GWA
+studies in TIP were likewise not significant (<xref ref-type="supplementary-material" rid="sup1">Supplementary
+Table S5</xref>). One possibility is that ADAM12 affects high IQ but not IQ in
+the normal range.</p><p>We also used polygenic scores to test the generalizability of TIP GWA results to
+individual differences in intelligence and educational achievement. For this, we used
+TEDS, which is a UK-based study also of white European Caucasian individuals. We used
+GWA results from TIP to create polygenic scores, in order to predict variance in
+normal-range intelligence and educational achievement in TEDS for <italic toggle="yes">g</italic> based on
+four cognitive tests at age 16 years, as well as a broader measure of <italic toggle="yes">g</italic> that
+includes 16 tests, some of which could be considered as assessing educational
+performance such as reading, mathematics and language. A polygenic score created from
+the TIP GWA results accounted for 1.6% of the variance in individual
+differences in intelligence in TEDS at age 16 years for our 4-test composite of
+intelligence and 2.4% for our 16-test measure of <italic toggle="yes">g</italic>.</p><p>Focusing on the core 4-test <italic toggle="yes">g</italic> measure, we think that accounting for
+1.6% of the variance of intelligence is exciting for several reasons. First,
+this effect size is greater than the effect sizes from previous GWA studies of the
+normal range of intelligence.<sup><xref ref-type="bibr" rid="bib45">45</xref></sup> The effect
+size of 1.6% represents &gt;2.5% of the heritable variance of
+intelligence, which is comparable to the most robust effect sizes in behavioural
+research.<sup><xref ref-type="bibr" rid="bib46">46</xref></sup> Second, the result
+demonstrates that genetic effects on extremely high intelligence are similar to those
+responsible for the heritability of the normal range of intelligence in the
+population. That is, extremely high intelligence is quantitatively, not
+qualitatively, different from the rest of the distribution.<sup><xref ref-type="bibr" rid="bib19">19</xref></sup> Third, it shows the utility of extreme trait ascertainment
+for genetic analysis of neurocognitive traits as individuals with the extreme (high)
+phenotype should be enriched for IQ-increasing alleles.</p><p>One puzzling finding is that the TIP polygenic score accounts for more variance in
+educational achievement as assessed by General Certificate of School Education at age
+16 (2.1%) years than in intelligence (1.6%). It may be that although
+the TIP sample has extremely high IQ, individuals were nominated initially by their
+schools. They were then screened using college entrance examinations, which are a mix
+of intelligence and educational achievement. For this reason, we speculate that the
+TIP GWA results represent a mix of intelligence and educational achievement. It may
+also be the case that additional elements of high IQ are captured by educational
+achievement.</p><p>Although not the focus of this study, we acknowledge the role of the environment,
+which has been shown to be particularly important in childhood studies of IQ with,
+conversely, increasing heritability of IQ with age.<sup><xref ref-type="bibr" rid="bib47">47</xref></sup> This work has several limitations. As mentioned previously,
+there is a lack of a similar replication sample of extremely high IQ individuals to
+validate our findings. Furthermore, cases and controls were collected separately,
+which is why our QC protocols were very stringent, resulting in a reduced number of
+individuals and SNPs. In addition, our case–control design resulted in some
+loss of power, in contrast to GWA analysis using a quantitative scale. Finally,
+another limitation is that this study, similar to the other studies mentioned above,
+is restricted to white Europeans.</p><p>In summary, we have shown that extremely high intelligence is a polygenic trait and
+its high heritability indicates that GWA analysis captures a large portion of the
+genetic variance. The novel aspect of the present study is that it represents a
+complementary strategy to the ‘brute force’ approach of increasing sample
+sizes of GWA studies of IQ variation in the normal range (and is an example for
+quantitative trait genetics in general). It demonstrates the utility of a
+‘positive genetics’ strategy of focusing on the extremely high end of the
+distribution of IQ. Larger scale studies focusing on either high IQ or IQ in the
+normal range are likely to be successful in the identification of many significant
+loci and biological pathways.</p></sec></body><back><ack><p>This research was supported by a European Research Council Advanced Investigator award
+(295366) to RP. Collecting DNA from the highest-scoring TIP individuals was supported by
+an award from the John Templeton Foundation (13575) to RP. The TEDS, which was used to
+test the extent to which the extremely high intelligence case–control GWA yields a
+polygenic score that also accounts for genetic influence throughout the normal
+distribution, is supported by the UK Medical Research Council (MR/M021475/1 and
+previously G0901245), with additional support from the US National Institutes of Health
+(HD044454; AG046938) and the European Commission (602768;295366). EK is supported by the
+MRC/IoPPN Excellence Award. RP is supported by a Medical Research Council Research
+Professorship and a European Research Council Advanced Investigator award (295366). GB
+and the laboratory work were supported in part by the NIHR Biomedical Research Centre
+(‘BRC’) and NIHR Dementia Biomedical Research Unit (‘BRU’)
+hosted at King’s College London and South London and Maudsley NHS Foundation
+Trust, and funded by the National Institute for Health Research under its Biomedical
+Research Centres funding initiative. The views expressed are those of the authors and
+not necessarily those of the BRC or the BRU, the NHS, the NIHR or the Department of
+Health or King’s College London. We gratefully acknowledge capital equipment
+funding from the Maudsley Charity (Grant Reference 980) and Guy’s and St
+Thomas’s Charity (Grant Reference STR130505).</p><p>
+<bold>Author contributions</bold>
+</p><p>RP conceived the study. CC, LSH, HP and SN did the genotyping and initial QC. DZ, EK, HG
+and HMW did the statistical analysis. DZ, GB and RP wrote the manuscript. DZ, EK, HG,
+CC, LSH, HP, SN, MAS, MP, DL, RP and GB reviewed the manuscript.</p></ack><fn-group><fn><p><xref ref-type="supplementary-material" rid="sup1">Supplementary Information</xref> accompanies the paper on the
+Molecular Psychiatry website (http://www.nature.com/mp)</p></fn><fn><p>
+<bold>URLs</bold>
+</p><p>RegulomeDB, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://regulomedb.org">http://regulomedb.org</ext-link>.</p><p>1000 Genomes Project multi-ancestry imputation panel, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://mathgen.stats.ox.ac.uk/impute/data_download_1000G_phase1_integrated.html">https://mathgen.stats.ox.ac.uk/impute/data_download_1000G_phase1_integrated.html</ext-link>.
+Genotype-based checksums for relatedness determination, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.broadinstitute.org/~sripke/share_links/checksums_download">http://www.broadinstitute.org/~sripke/share_links/checksums_download</ext-link>.
+LD-Hub, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://ldsc.broadinstitute.org">http://ldsc.broadinstitute.org</ext-link> and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://github.com/mkanai/ggman">https://github.com/mkanai/ggman</ext-link></p></fn><fn fn-type="COI-statement"><p>The authors declare no conflict of interest.</p></fn></fn-group><ref-list><ref id="bib1"><mixed-citation publication-type="book">Carroll JB. <source>Human Cognitive Abilities A Survey of Factor-Analytic Studies</source>. Cambridge University Press: Cambridge, <year>1993</year>.</mixed-citation></ref><ref id="bib2"><mixed-citation publication-type="journal">Deary IJ. <article-title>Intelligence</article-title>. <source>Annu Rev Psychol</source>
+<year>2012</year>; <volume>63</volume>: <fpage>453</fpage>–482.<pub-id pub-id-type="pmid">21943169</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1146/annurev-psych-120710-100353</pub-id></mixed-citation></ref><ref id="bib3"><mixed-citation publication-type="book">Knopik VS, Neiderhiser JM, DeFries JC, Plomin R. <source>Behavioral Genetics</source>, 7th edn. Worth: New York, <year>2016</year>.</mixed-citation></ref><ref id="bib4"><mixed-citation publication-type="journal">Plomin R, Simpson MA. <article-title>The future of genomics for developmentalists</article-title>. <source>Dev Psychopathol</source>
+<year>2013</year>; <volume>25</volume>(4 Pt 2): <fpage>1263</fpage>–1278.<pub-id pub-id-type="pmid">24342839</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1017/S0954579413000606</pub-id><pub-id pub-id-type="pmcid">PMC3967388</pub-id></mixed-citation></ref><ref id="bib5"><mixed-citation publication-type="journal">Visscher PM, Brown MA, McCarthy MI, Yang J. <article-title>Five years of GWAS discovery</article-title>. <source>Am J Hum Genet</source>
+<year>2012</year>; <volume>90</volume>: <fpage>7</fpage>–24.<pub-id pub-id-type="pmid">22243964</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ajhg.2011.11.029</pub-id><pub-id pub-id-type="pmcid">PMC3257326</pub-id></mixed-citation></ref><ref id="bib6"><mixed-citation publication-type="journal">Dudbridge F, Visscher P, Brown M, McCarthy M, Yang J, Wray N et al. <article-title>Power and predictive accuracy of polygenic risk scores</article-title>. <source>PLoS Genet</source>
+<year>2013</year>; <volume>9</volume>: <fpage>e1003348</fpage>.<pub-id pub-id-type="pmid">23555274</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pgen.1003348</pub-id><pub-id pub-id-type="pmcid">PMC3605113</pub-id></mixed-citation></ref><ref id="bib7"><mixed-citation publication-type="journal">Wray NR, Lee SH, Mehta D, Vinkhuyzen AAE, Dudbridge F, Middeldorp CM et al. <article-title>Research review: polygenic methods and their application to psychiatric
+traits</article-title>. <source>J Child Psychol Psychiatry</source>
+<year>2014</year>; <volume>55</volume>: <fpage>1068</fpage>–1087.<pub-id pub-id-type="pmid">25132410</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/jcpp.12295</pub-id></mixed-citation></ref><ref id="bib8"><mixed-citation publication-type="journal">Wood AR, Esko T, Yang J, Vedantam S, Pers TH, Gustafsson S et al. <article-title>Defining the role of common variation in the genomic and biological architecture
+of adult human height</article-title>. <source>Nat Genet</source>
+<year>2014</year>; <volume>46</volume>: <fpage>1173</fpage>–1186.<pub-id pub-id-type="pmid">25282103</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/ng.3097</pub-id><pub-id pub-id-type="pmcid">PMC4250049</pub-id></mixed-citation></ref><ref id="bib9"><mixed-citation publication-type="journal">Benyamin B, Pourcain BS, Davis OS, Davies G, Hansell NK, Brion M-J et al. <article-title>Childhood intelligence is heritable, highly polygenic and associated with
+FNBP1L</article-title>. <source>Mol Psychiatry</source>
+<year>2014</year>; <volume>19</volume>: <fpage>253</fpage>–258.<pub-id pub-id-type="pmid">23358156</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/mp.2012.184</pub-id><pub-id pub-id-type="pmcid">PMC3935975</pub-id></mixed-citation></ref><ref id="bib10"><mixed-citation publication-type="journal">Butcher LM, Meaburn E, Knight J, Sham PC, Schalkwyk LC, Craig IW et al. <article-title>SNPs, microarrays and pooled DNA: identification of four loci associated with
+mild mental impairment in a sample of 6000 children</article-title>. <source>Hum Mol Genet</source>
+<year>2005</year>; <volume>14</volume>: <fpage>1315</fpage>–1325.<pub-id pub-id-type="pmid">15800012</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/hmg/ddi142</pub-id></mixed-citation></ref><ref id="bib11"><mixed-citation publication-type="journal">Davies G, Armstrong N, Bis JC, Bressler J, Chouraki V, Giddaluru S et al. <article-title>Genetic contributions to variation in general cognitive function: a
+meta-analysis of genome-wide association studies in the CHARGE consortium
+(N=53949)</article-title>. <source>Mol Psychiatry</source>
+<year>2015</year>; <volume>20</volume>: <fpage>183</fpage>–192.<pub-id pub-id-type="pmid">25644384</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/mp.2014.188</pub-id><pub-id pub-id-type="pmcid">PMC4356746</pub-id></mixed-citation></ref><ref id="bib12"><mixed-citation publication-type="journal">Davies G, Marioni RE, Liewald DC, Hill WD, Hagenaars SP, Harris SE et al. <article-title>Genome-wide association study of cognitive functions and educational attainment
+in UK Biobank (N=112 151)</article-title>. <source>Mol Psychiatry</source>
+<year>2016</year>; <volume>21</volume>: <fpage>758</fpage>–767.<pub-id pub-id-type="pmid">27046643</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/mp.2016.45</pub-id><pub-id pub-id-type="pmcid">PMC4879186</pub-id></mixed-citation></ref><ref id="bib13"><mixed-citation publication-type="journal">Davis OSP, Butcher LM, Docherty SJ, Meaburn EL, Curtis CJC, Simpson MA et al. <article-title>A three-stage genome-wide association study of general cognitive ability:
+hunting the small effects</article-title>. <source>Behav Genet</source>
+<year>2010</year>; <volume>40</volume>: <fpage>759</fpage>–767.<pub-id pub-id-type="pmid">20306291</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s10519-010-9350-4</pub-id><pub-id pub-id-type="pmcid">PMC2992848</pub-id></mixed-citation></ref><ref id="bib14"><mixed-citation publication-type="journal">Davis OSP, Band G, Pirinen M, Haworth CMA, Meaburn EL, Kovas Y et al. <article-title>The correlation between reading and mathematics ability at age twelve has a
+substantial genetic component</article-title>. <source>Nat Commun</source>
+<year>2014</year>; <volume>5</volume>: <fpage>4204</fpage>.<pub-id pub-id-type="pmid">25003214</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/ncomms5204</pub-id><pub-id pub-id-type="pmcid">PMC4102107</pub-id></mixed-citation></ref><ref id="bib15"><mixed-citation publication-type="journal">de Vlaming R, Okbay A, Rietveld CA, Johannesson M, Magnusson PKE, Uitterlinden AG et al. <article-title>Meta-GWAS Accuracy and Power (MetaGAP) calculator shows that hiding heritability
+is partially due to imperfect genetic correlations across studies</article-title>. <source>PLoS Genet</source>
+<year>2017</year>; <volume>13</volume>: <fpage>e1006495</fpage>.<pub-id pub-id-type="pmid">28095416</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pgen.1006495</pub-id><pub-id pub-id-type="pmcid">PMC5240919</pub-id></mixed-citation></ref><ref id="bib16"><mixed-citation publication-type="journal">Rietveld CA, Esko T, Davies G, Pers TH, Turley P, Benyamin B et al. <article-title>Common genetic variants associated with cognitive performance identified using
+the proxy-phenotype method</article-title>. <source>Proc Natl Acad Sci USA</source>
+<year>2014</year>; <volume>111</volume>: <fpage>13790</fpage>–13794.<pub-id pub-id-type="pmid">25201988</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.1404623111</pub-id><pub-id pub-id-type="pmcid">PMC4183313</pub-id></mixed-citation></ref><ref id="bib17"><mixed-citation publication-type="journal">Okbay A, Beauchamp JP, Fontana MA, Lee JJ, Pers TH, Rietveld CA et al. <article-title>Genome-wide association study identifies 74 loci associated with educational
+attainment</article-title>. <source>Nature</source>
+<year>2016</year>; <volume>533</volume>: <fpage>539</fpage>–542.<pub-id pub-id-type="pmid">27225129</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nature17671</pub-id><pub-id pub-id-type="pmcid">PMC4883595</pub-id></mixed-citation></ref><ref id="bib18"><mixed-citation publication-type="journal">Selzam S, Krapohl E, von Stumm S, O’Reilly PF, Rimfeld K, Kovas Y et al. <article-title>Predicting educational achievement from DNA</article-title>. <source>Mol Psychiatry</source>
+<year>2017</year>; <volume>22</volume>: <fpage>267</fpage>–272.<pub-id pub-id-type="pmid">27431296</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/mp.2016.107</pub-id><pub-id pub-id-type="pmcid">PMC5285461</pub-id></mixed-citation></ref><ref id="bib19"><mixed-citation publication-type="journal">Plomin R, Haworth CMA, Davis OSP. <article-title>Common disorders are quantitative traits</article-title>. <source>Nat Rev Genet</source>
+<year>2010</year>; <volume>10</volume>: <fpage>872</fpage>–878.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nrg2670</pub-id><pub-id pub-id-type="pmid">19859063</pub-id></mixed-citation></ref><ref id="bib20"><mixed-citation publication-type="journal">Pütter C, Pechlivanis S, Nöthen MM, Jöckel K-H, Wichmann H-E, Scherag A. <article-title>Missing heritability in the tails of quantitative traits? A simulation study on
+the impact of slightly altered true genetic models</article-title>. <source>Hum Hered</source>
+<year>2011</year>; <volume>72</volume>: <fpage>173</fpage>–181.<pub-id pub-id-type="pmid">22041814</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1159/000332824</pub-id></mixed-citation></ref><ref id="bib21"><mixed-citation publication-type="journal">Shakeshaft NG, Trzaskowski M, McMillan A, Krapohl E, Simpson MA, Reichenberg A et al. <article-title>Thinking positively: the genetics of high intelligence</article-title>. <source>Intelligence</source>
+<year>2015</year>; <volume>48</volume>: <fpage>123</fpage>–132.<pub-id pub-id-type="pmid">25593376</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.intell.2014.11.005</pub-id><pub-id pub-id-type="pmcid">PMC4286575</pub-id></mixed-citation></ref><ref id="bib22"><mixed-citation publication-type="journal">Reichenberg A, Cederlöf M, McMillan A, Trzaskowski M, Kapara O, Fruchter E et al. <article-title>Discontinuity in the genetic and environmental causes of the intellectual
+disability spectrum</article-title>. <source>Proc Natl Acad Sci USA</source>
+<year>2016</year>; <volume>113</volume>: <fpage>1098</fpage>–1103.<pub-id pub-id-type="pmid">26711998</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.1508093112</pub-id><pub-id pub-id-type="pmcid">PMC4743770</pub-id></mixed-citation></ref><ref id="bib23"><mixed-citation publication-type="journal">Kell HJ, Lubinski D, Benbow CP. <article-title>Who rises to the top? Early indicators</article-title>. <source>Psychol Sci</source>
+<year>2013</year>; <volume>24</volume>: <fpage>648</fpage>–659.<pub-id pub-id-type="pmid">23531483</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/0956797612457784</pub-id></mixed-citation></ref><ref id="bib24"><mixed-citation publication-type="journal">Makel MC, Kell HJ, Lubinski D, Putallaz M, Benbow CP. <article-title>When lightning strikes twice: profoundly gifted, profoundly
+accomplished</article-title>. <source>Psychol Sci</source>
+<year>2016</year>; <volume>27</volume>: <fpage>1004</fpage>–1018.<pub-id pub-id-type="pmid">27225220</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/0956797616644735</pub-id></mixed-citation></ref><ref id="bib25"><mixed-citation publication-type="journal">Lubinski D, Webb RM, Morelock MJ, Benbow CP. <article-title>Top 1 in 10,000: a 10-year follow-up of the profoundly gifted</article-title>. <source>J Appl Psychol</source>
+<year>2001</year>; <volume>86</volume>: <fpage>718</fpage>–729.<pub-id pub-id-type="pmid">11519655</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1037/0021-9010.86.4.718</pub-id></mixed-citation></ref><ref id="bib26"><mixed-citation publication-type="journal">Clynes T. <article-title>How to raise a genius: lessons from a 45-year study of super-smart
+children</article-title>. <source>Nature</source>
+<year>2016</year>; <volume>537</volume>: <fpage>152</fpage>–155.<pub-id pub-id-type="pmid">27604932</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/537152a</pub-id></mixed-citation></ref><ref id="bib27"><mixed-citation publication-type="journal">Wai J, Cacchio M, Putallaz M, Makel MC. <article-title>Sex differences in the right tail of cognitive abilities: a 30 year
+examination</article-title>. <source>Intelligence</source>
+<year>2010</year>; <volume>38</volume>: <fpage>412</fpage>–423.</mixed-citation></ref><ref id="bib28"><mixed-citation publication-type="journal">Spain SL, Pedroso I, Kadeva N, Miller MB, Iacono WG, McGue M et al. <article-title>A genome-wide analysis of putative functional and exonic variation associated
+with extremely high intelligence</article-title>. <source>Mol Psychiatry</source>
+<year>2016</year>; <volume>21</volume>: <fpage>1145</fpage>–1151.<pub-id pub-id-type="pmid">26239293</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/mp.2015.108</pub-id><pub-id pub-id-type="pmcid">PMC4650257</pub-id></mixed-citation></ref><ref id="bib29"><mixed-citation publication-type="journal">Haworth CMA, Davis OSP, Plomin R. <article-title>Twins Early Development Study (TEDS): a genetically sensitive investigation of
+cognitive and behavioral development from childhood to young adulthood</article-title>. <source>Twin Res Hum Genet</source>
+<year>2013</year>; <volume>16</volume>: <fpage>117</fpage>–125.<pub-id pub-id-type="pmid">23110994</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1017/thg.2012.91</pub-id><pub-id pub-id-type="pmcid">PMC3817931</pub-id></mixed-citation></ref><ref id="bib30"><mixed-citation publication-type="journal">Durbin R. <article-title>Efficient haplotype matching and storage using the positional Burrows-Wheeler
+transform (PBWT)</article-title>. <source>Bioinformatics</source>
+<year>2014</year>; <volume>30</volume>: <fpage>1266</fpage>–1272.<pub-id pub-id-type="pmid">24413527</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/bioinformatics/btu014</pub-id><pub-id pub-id-type="pmcid">PMC3998136</pub-id></mixed-citation></ref><ref id="bib31"><mixed-citation publication-type="journal">Marchini J, Howie B. <article-title>Genotype imputation for genome-wide association studies</article-title>. <source>Nat Rev Genet</source>
+<year>2010</year>; <volume>11</volume>: <fpage>499</fpage>–511.<pub-id pub-id-type="pmid">20517342</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nrg2796</pub-id></mixed-citation></ref><ref id="bib32"><mixed-citation publication-type="journal">Price AL, Patterson NJ, Plenge RM, Weinblatt ME, Shadick NA, Reich D. <article-title>Principal components analysis corrects for stratification in genome-wide
+association studies</article-title>. <source>Nat Genet</source>
+<year>2006</year>; <volume>38</volume>: <fpage>904</fpage>–909.<pub-id pub-id-type="pmid">16862161</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/ng1847</pub-id></mixed-citation></ref><ref id="bib33"><mixed-citation publication-type="journal">Bulik-Sullivan BK, Loh P-R, Finucane HK, Ripke S, Yang J, Patterson N et al. <article-title>LD Score regression distinguishes confounding from polygenicity in genome-wide
+association studies</article-title>. <source>Nat Genet</source>
+<year>2015</year>; <volume>47</volume>: <fpage>291</fpage>–295.<pub-id pub-id-type="pmid">25642630</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/ng.3211</pub-id><pub-id pub-id-type="pmcid">PMC4495769</pub-id></mixed-citation></ref><ref id="bib34"><mixed-citation publication-type="journal">Bulik-Sullivan B, Finucane HK, Anttila V, Gusev A, Day FR, Loh P-R et al. <article-title>An atlas of genetic correlations across human diseases and traits</article-title>. <source>Nat Genet</source>
+<year>2015</year>; <volume>47</volume>: <fpage>1236</fpage>–1241.<pub-id pub-id-type="pmid">26414676</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/ng.3406</pub-id><pub-id pub-id-type="pmcid">PMC4797329</pub-id></mixed-citation></ref><ref id="bib35"><mixed-citation publication-type="journal">de Leeuw CA, Mooij JM, Heskes T, Posthuma D. <article-title>MAGMA: generalized gene-set analysis of GWAS data</article-title>. <source>PLoS Comput Biol</source>
+<year>2015</year>; <volume>11</volume>: <fpage>e1004219</fpage>.<pub-id pub-id-type="pmid">25885710</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pcbi.1004219</pub-id><pub-id pub-id-type="pmcid">PMC4401657</pub-id></mixed-citation></ref><ref id="bib36"><mixed-citation publication-type="journal">Network and Pathway Analysis Subgroup of Psychiatric Genomics
+Consortium. <article-title>Psychiatric genome-wide association study analyses implicate neuronal, immune
+and histone pathways</article-title>. <source>Nat Neurosci</source>
+<year>2015</year>; <volume>18</volume>: <fpage>199</fpage>–209.<pub-id pub-id-type="pmid">25599223</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nn.3922</pub-id><pub-id pub-id-type="pmcid">PMC4378867</pub-id></mixed-citation></ref><ref id="bib37"><mixed-citation publication-type="journal">de Leeuw CA, Neale BM, Heskes T, Posthuma D. <article-title>The statistical properties of gene-set analysis</article-title>. <source>Nat Rev Genet</source>
+<year>2016</year>; <volume>17</volume>: <fpage>353</fpage>–364.<pub-id pub-id-type="pmid">27070863</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nrg.2016.29</pub-id></mixed-citation></ref><ref id="bib38"><mixed-citation publication-type="journal">Yang J, Lee SH, Goddard ME, Visscher PM. <article-title>GCTA: a tool for genome-wide complex trait analysis</article-title>. <source>Am J Hum Genet</source>
+<year>2011</year>; <volume>88</volume>: <fpage>76</fpage>–82.<pub-id pub-id-type="pmid">21167468</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ajhg.2010.11.011</pub-id><pub-id pub-id-type="pmcid">PMC3014363</pub-id></mixed-citation></ref><ref id="bib39"><mixed-citation publication-type="journal">Haworth CMA, Davis OSP, Plomin R. <article-title>Twins Early Development Study (TEDS): a genetically sensitive investigation of
+cognitive and behavioral development from childhood to young adulthood</article-title>. <source>Twin Res Hum Genet</source>
+<year>2013</year>; <volume>16</volume>: <fpage>117</fpage>–25.<pub-id pub-id-type="pmid">23110994</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1017/thg.2012.91</pub-id><pub-id pub-id-type="pmcid">PMC3817931</pub-id></mixed-citation></ref><ref id="bib40"><mixed-citation publication-type="journal">McCarthy S, Das S, Kretzschmar W, Delaneau O, Wood AR, Teumer A et al. <article-title>A reference panel of 64,976 haplotypes for genotype imputation</article-title>. <source>Nat Genet</source>
+<year>2016</year>; <volume>48</volume>: <fpage>1279</fpage>–1283.<pub-id pub-id-type="pmid">27548312</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/ng.3643</pub-id><pub-id pub-id-type="pmcid">PMC5388176</pub-id></mixed-citation></ref><ref id="bib41"><mixed-citation publication-type="journal">Vilhjalmsson BJ, Yang J, Finucane HK, Gusev A, Lindström S, Ripke S et al. <article-title>Modeling linkage disequilibrium increases accuracy of polygenic risk
+scores</article-title>. <source>Am J Hum Genet</source>
+<year>2015</year>; <volume>97</volume>: <fpage>576</fpage>–92.<pub-id pub-id-type="pmid">26430803</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ajhg.2015.09.001</pub-id><pub-id pub-id-type="pmcid">PMC4596916</pub-id></mixed-citation></ref><ref id="bib42"><mixed-citation publication-type="journal">Winberg ML, Noordermeer JN, Tamagnone L, Comoglio PM, Spriggs MK, Tessier-Lavigne M et al. <article-title>Plexin A is a neuronal semaphorin receptor that controls axon guidance</article-title>. <source>Cell</source>
+<year>1998</year>; <volume>95</volume>: <fpage>903</fpage>–916.<pub-id pub-id-type="pmid">9875845</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0092-8674(00)81715-8</pub-id></mixed-citation></ref><ref id="bib43"><mixed-citation publication-type="journal">Athanasakis E, Licastro D, Faletra F, Fabretto A, Dipresa S, Vozzi D et al. <article-title>Next generation sequencing in nonsyndromic intellectual disability: from a
+negative molecular karyotype to a possible causative mutation detection</article-title>.Am J Med Genet A.<year>2014</year>; <volume>164A</volume>: <fpage>170</fpage>–176.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ajmg.a.36274</pub-id><pub-id pub-id-type="pmid">24307393</pub-id></mixed-citation></ref><ref id="bib44"><mixed-citation publication-type="journal">Worzfeld T, Offermanns S. <article-title>Semaphorins and plexins as therapeutic targets</article-title>. <source>Nat Rev Drug Discov</source>
+<year>2014</year>; <volume>13</volume>: <fpage>603</fpage>–621.<pub-id pub-id-type="pmid">25082288</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nrd4337</pub-id></mixed-citation></ref><ref id="bib45"><mixed-citation publication-type="journal">Krapohl E, Euesden J, Zabaneh D, Pingault J-B, Rimfeld K, von Stumm S et al. <article-title>Phenome-wide analysis of genome-wide polygenic scores</article-title>. <source>Mol Psychiatry</source>
+<year>2016</year>; <volume>21</volume>: <fpage>1188</fpage>–1193.<pub-id pub-id-type="pmid">26303664</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/mp.2015.126</pub-id><pub-id pub-id-type="pmcid">PMC4767701</pub-id></mixed-citation></ref><ref id="bib46"><mixed-citation publication-type="journal">Richard FD, Bond CF, Stokes-Zoota JJ. <article-title>One hundred years of social psychology quantitatively described</article-title>. <source>Rev Gen Psychol</source>
+<year>2003</year>; <volume>7</volume>: <fpage>331</fpage>–63.</mixed-citation></ref><ref id="bib47"><mixed-citation publication-type="journal">Bouchard TJ. <article-title>The Wilson Effect: the increase in heritability of IQ with age</article-title>. <source>Twin Res Hum Genet</source>
+<year>2013</year>; <volume>16</volume>: <fpage>923</fpage>–930.<pub-id pub-id-type="pmid">23919982</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1017/thg.2013.54</pub-id></mixed-citation></ref></ref-list><sec sec-type="supplementary-material" id="sup1"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="xob1" position="float" orientation="portrait"><label>Supplementary Information</label><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="mp2017121x1.docx" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="xob2" position="float" orientation="portrait"><label>Supplementary Figure S1</label><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="mp2017121x2.tif" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="xob3" position="float" orientation="portrait"><label>Supplementary Figure S2</label><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="mp2017121x3.tif" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="xob4" position="float" orientation="portrait"><label>Supplementary Figure S3</label><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="mp2017121x4.tif" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="xob5" position="float" orientation="portrait"><label>Supplementary Figure S4a</label><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="mp2017121x5.tif" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="xob6" position="float" orientation="portrait"><label>Supplementary Figure S4b</label><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="mp2017121x6.tif" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="xob7" position="float" orientation="portrait"><label>Supplementary Tables S7-S11</label><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="mp2017121x7.xlsx" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></back><floats-group><fig id="fig1" position="float" orientation="portrait"><label>Figure 1</label><caption><p>Manhattan (<bold>a</bold>) and <italic toggle="yes">Q</italic>–<italic toggle="yes">Q</italic> plot (<bold>b</bold>) of
+<italic toggle="yes">P</italic>-values of the single-nucleotide polymorphism (SNP)-based association
+analysis for the case-control status of high IQ. The dotted line indicates the
+threshold for genome-wide significance (<italic toggle="yes">P</italic>&lt;5 ×
+10<sup>−8</sup>) for 6 773 587 SNPs adjusted for sex and
+the first 10 principal components.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="mp2017121f1.jpg"/></fig><fig id="fig2" position="float" orientation="portrait"><label>Figure 2</label><caption><p>Regional plot for single-nucleotide polymorphism (SNP) rs4962322,
+<italic toggle="yes">P</italic>-value=2.1 × 10<sup>−8</sup>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="mp2017121f2.jpg"/></fig><table-wrap id="tbl1" position="float" orientation="portrait"><label>Table 1</label><caption><title>Genome-wide significant SNPs (<italic toggle="yes">P</italic>&lt;5 × 10<sup>−8</sup>) from
+the logistic regression</title></caption><table frame="hsides" rules="groups" border="1"><colgroup span="1"><col align="left" span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="char" char="." span="1"/><col align="left" span="1"/><col align="left" span="1"/></colgroup><thead valign="bottom"><tr><th align="left" valign="top" charoff="50" colspan="1" rowspan="1">
+<italic toggle="yes">SNP</italic>
+</th><th align="center" valign="top" char="." charoff="50" colspan="1" rowspan="1">
+<italic toggle="yes">CHR</italic>
+</th><th align="center" valign="top" char="." charoff="50" colspan="1" rowspan="1">
+<italic toggle="yes">BP</italic>
+</th><th align="center" valign="top" char="." charoff="50" colspan="1" rowspan="1">
+<italic toggle="yes">OR</italic>
+</th><th align="center" valign="top" char="." charoff="50" colspan="1" rowspan="1">
+<italic toggle="yes">s.e.</italic>
+</th><th align="center" valign="top" charoff="50" colspan="1" rowspan="1">P<italic toggle="yes">-values</italic></th><th align="center" valign="top" charoff="50" colspan="1" rowspan="1">
+<italic toggle="yes">A1</italic>
+</th><th align="center" valign="top" charoff="50" colspan="1" rowspan="1">
+<italic toggle="yes">A2</italic>
+</th><th align="center" valign="top" char="." charoff="50" colspan="1" rowspan="1">
+<italic toggle="yes">MAF</italic>
+</th><th align="left" valign="top" charoff="50" colspan="1" rowspan="1">
+<italic toggle="yes">Function</italic>
+</th><th align="left" valign="top" charoff="50" colspan="1" rowspan="1">
+<italic toggle="yes">Gene</italic>
+</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" charoff="50" colspan="1" rowspan="1">rs4962322<xref ref-type="fn" rid="t1-fn2">a</xref></td><td align="char" valign="top" char="." charoff="50" colspan="1" rowspan="1">10</td><td align="char" valign="top" char="." charoff="50" colspan="1" rowspan="1">127 932 765</td><td align="char" valign="top" char="." charoff="50" colspan="1" rowspan="1">1.489</td><td align="char" valign="top" char="." charoff="50" colspan="1" rowspan="1">0.070</td><td align="center" valign="top" charoff="50" colspan="1" rowspan="1">8.05 × 10<sup>−9</sup></td><td align="center" valign="top" charoff="50" colspan="1" rowspan="1">A</td><td align="center" valign="top" charoff="50" colspan="1" rowspan="1">C</td><td align="char" valign="top" char="." charoff="50" colspan="1" rowspan="1">0.089</td><td align="left" valign="top" charoff="50" colspan="1" rowspan="1">Intronic</td><td align="left" valign="top" charoff="50" colspan="1" rowspan="1">ADAM12</td></tr><tr><td align="left" valign="top" charoff="50" colspan="1" rowspan="1">rs4962520</td><td align="char" valign="top" char="." charoff="50" colspan="1" rowspan="1">10</td><td align="char" valign="top" char="." charoff="50" colspan="1" rowspan="1">127 917 302</td><td align="char" valign="top" char="." charoff="50" colspan="1" rowspan="1">1.469</td><td align="char" valign="top" char="." charoff="50" colspan="1" rowspan="1">0.070</td><td align="center" valign="top" charoff="50" colspan="1" rowspan="1">1.18 × 10<sup>−8</sup></td><td align="center" valign="top" charoff="50" colspan="1" rowspan="1">C</td><td align="center" valign="top" charoff="50" colspan="1" rowspan="1">T</td><td align="char" valign="top" char="." charoff="50" colspan="1" rowspan="1">0.091</td><td align="left" valign="top" charoff="50" colspan="1" rowspan="1">Intronic</td><td align="left" valign="top" charoff="50" colspan="1" rowspan="1">ADAM12</td></tr><tr><td align="left" valign="top" charoff="50" colspan="1" rowspan="1">rs10794073</td><td align="char" valign="top" char="." charoff="50" colspan="1" rowspan="1">10</td><td align="char" valign="top" char="." charoff="50" colspan="1" rowspan="1">127 945 261</td><td align="char" valign="top" char="." charoff="50" colspan="1" rowspan="1">0.672</td><td align="char" valign="top" char="." charoff="50" colspan="1" rowspan="1">0.070</td><td align="center" valign="top" charoff="50" colspan="1" rowspan="1">2.02 × 10<sup>−8</sup></td><td align="center" valign="top" charoff="50" colspan="1" rowspan="1">C</td><td align="center" valign="top" charoff="50" colspan="1" rowspan="1">A</td><td align="char" valign="top" char="." charoff="50" colspan="1" rowspan="1">0.085</td><td align="left" valign="top" charoff="50" colspan="1" rowspan="1">Intronic</td><td align="left" valign="top" charoff="50" colspan="1" rowspan="1">ADAM12</td></tr></tbody></table><table-wrap-foot><fn id="t1-fn1"><p>Abbreviations: MAF, minor allele frequency; OR, odds ratio; SNP,
+single-nucleotide polymorphism.</p></fn><fn id="t1-fn2"><label>a</label><p>Sentinel SNP after clumping.</p></fn></table-wrap-foot></table-wrap><table-wrap id="tbl2" position="float" orientation="portrait"><label>Table 2</label><caption><title>Genetic correlations estimated through LD score regression with summary
+statistics from publicly available data</title></caption><table frame="hsides" rules="groups" border="1"><colgroup span="1"><col align="left" span="1"/><col align="left" span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="left" span="1"/></colgroup><thead valign="bottom"><tr><th align="left" valign="top" charoff="50" colspan="1" rowspan="1">
+<italic toggle="yes">Phenotype1</italic>
+</th><th align="left" valign="top" charoff="50" colspan="1" rowspan="1">
+<italic toggle="yes">Phenotype2</italic>
+</th><th align="center" valign="top" char="." charoff="50" colspan="1" rowspan="1">
+<italic toggle="yes">rg</italic>
+</th><th align="center" valign="top" char="." charoff="50" colspan="1" rowspan="1">
+<italic toggle="yes">s.e.</italic>
+</th><th align="center" valign="top" charoff="50" colspan="1" rowspan="1">P<italic toggle="yes">-values</italic></th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" charoff="50" colspan="1" rowspan="1">TIP_IQ</td><td align="left" valign="top" charoff="50" colspan="1" rowspan="1">Childhood IQ<sup><xref ref-type="bibr" rid="bib9">9</xref></sup></td><td align="char" valign="top" char="." charoff="50" colspan="1" rowspan="1">0.75</td><td align="char" valign="top" char="." charoff="50" colspan="1" rowspan="1">0.13</td><td align="left" valign="top" charoff="50" colspan="1" rowspan="1">1.6 × 10<sup>−9</sup></td></tr><tr><td align="left" valign="top" charoff="50" colspan="1" rowspan="1">TIP_IQ</td><td align="left" valign="top" charoff="50" colspan="1" rowspan="1">Cognitive performance<sup><xref ref-type="bibr" rid="bib11">11</xref></sup></td><td align="char" valign="top" char="." charoff="50" colspan="1" rowspan="1">0.80</td><td align="char" valign="top" char="." charoff="50" colspan="1" rowspan="1">0.08</td><td align="left" valign="top" charoff="50" colspan="1" rowspan="1">3.1 × 10<sup>−26</sup></td></tr><tr><td align="left" valign="top" charoff="50" colspan="1" rowspan="1">TIP_IQ</td><td align="left" valign="top" charoff="50" colspan="1" rowspan="1">College completion</td><td align="char" valign="top" char="." charoff="50" colspan="1" rowspan="1">0.79</td><td align="char" valign="top" char="." charoff="50" colspan="1" rowspan="1">0.08</td><td align="left" valign="top" charoff="50" colspan="1" rowspan="1">2.0 × 10<sup>−23</sup></td></tr><tr><td align="left" valign="top" charoff="50" colspan="1" rowspan="1">TIP_IQ</td><td align="left" valign="top" charoff="50" colspan="1" rowspan="1">Years of education</td><td align="char" valign="top" char="." charoff="50" colspan="1" rowspan="1">0.79</td><td align="char" valign="top" char="." charoff="50" colspan="1" rowspan="1">0.07</td><td align="left" valign="top" charoff="50" colspan="1" rowspan="1">1.9 × 10<sup>−26</sup></td></tr><tr><td align="left" valign="top" charoff="50" colspan="1" rowspan="1">TIP_IQ</td><td align="left" valign="top" charoff="50" colspan="1" rowspan="1">VNR-UKB reasoning<sup><xref ref-type="bibr" rid="bib12">12</xref></sup></td><td align="char" valign="top" char="." charoff="50" colspan="1" rowspan="1">0.86</td><td align="char" valign="top" char="." charoff="50" colspan="1" rowspan="1">0.10</td><td align="left" valign="top" charoff="50" colspan="1" rowspan="1">1.6 × 10<sup>−16</sup></td></tr></tbody></table><table-wrap-foot><fn id="t2-fn1"><p>Abbreviation: LD, linkage disequilibrium.</p></fn></table-wrap-foot></table-wrap></floats-group></article>

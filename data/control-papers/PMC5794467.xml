@@ -1,0 +1,750 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article article-type="research-article" xml:lang="en" dtd-version="1.4"><front><journal-meta><journal-id journal-id-type="nlm-ta">FEBS Open Bio</journal-id><journal-id journal-id-type="iso-abbrev">FEBS Open Bio</journal-id><journal-id journal-id-type="pmc-domain-id">2013</journal-id><journal-id journal-id-type="pmc-domain">febsopenbio</journal-id><journal-id journal-id-type="nlm-id">101580716</journal-id><journal-id journal-id-type="publisher-id">FEB4</journal-id><journal-title-group><journal-title>FEBS Open Bio</journal-title></journal-title-group><issn pub-type="epub">2211-5463</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC5794467</article-id><article-id pub-id-type="pmcid-ver">PMC5794467.1</article-id><article-id pub-id-type="pmcaid">5794467</article-id><article-id pub-id-type="pmcaiid">5794467</article-id><article-id pub-id-type="pmid">29435417</article-id><article-id pub-id-type="doi">10.1002/2211-5463.12371</article-id><article-id pub-id-type="publisher-id">FEB412371</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group></article-categories><title-group><article-title>Tip60 is associated with resistance to X‐ray irradiation in prostate cancer</article-title><alt-title alt-title-type="left-running-head">X. Xie <italic toggle="yes">et al</italic>.</alt-title></title-group><contrib-group><contrib id="feb412371-cr-0001" contrib-type="author"><name name-style="western"><surname>Xie</surname><given-names initials="X">Xin</given-names></name><xref ref-type="aff" rid="feb412371-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="feb412371-cr-0002" contrib-type="author"><name name-style="western"><surname>Xu</surname><given-names initials="Z">Zhaoping</given-names></name><xref ref-type="aff" rid="feb412371-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="feb412371-cr-0003" contrib-type="author"><name name-style="western"><surname>Wang</surname><given-names initials="C">Chenghe</given-names></name><xref ref-type="aff" rid="feb412371-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="feb412371-cr-0004" contrib-type="author"><name name-style="western"><surname>Fang</surname><given-names initials="C">Chen</given-names></name><xref ref-type="aff" rid="feb412371-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="feb412371-cr-0005" contrib-type="author"><name name-style="western"><surname>Zhao</surname><given-names initials="J">Juping</given-names></name><xref ref-type="aff" rid="feb412371-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="feb412371-cr-0006" contrib-type="author"><name name-style="western"><surname>Xu</surname><given-names initials="L">Le</given-names></name><xref ref-type="aff" rid="feb412371-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="feb412371-cr-0007" contrib-type="author"><name name-style="western"><surname>Qian</surname><given-names initials="X">Xiaoqiang</given-names></name><xref ref-type="aff" rid="feb412371-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="feb412371-cr-0008" contrib-type="author"><name name-style="western"><surname>Dai</surname><given-names initials="J">Jun</given-names></name><xref ref-type="aff" rid="feb412371-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="feb412371-cr-0009" contrib-type="author"><name name-style="western"><surname>Sun</surname><given-names initials="F">Fukang</given-names></name><xref ref-type="aff" rid="feb412371-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="feb412371-cr-0010" contrib-type="author"><name name-style="western"><surname>Xu</surname><given-names initials="D">Danfeng</given-names></name><xref ref-type="aff" rid="feb412371-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="feb412371-cr-0011" contrib-type="author" corresp="yes"><name name-style="western"><surname>He</surname><given-names initials="W">Wei</given-names></name><address><email>xiaozhazha2003@163.com</email></address><xref ref-type="aff" rid="feb412371-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="feb412371-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Urology</named-content>
+<named-content content-type="organisation-division">Ruijin Hospital</named-content>
+<institution>Shanghai Jiaotong University, School of Medicine</institution>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+W. He, Department of Urology, Ruijin Hospital, Shanghai Jiaotong University, School of Medicine, No. 197, Ruijin Er Road, Shanghai 200025, China<break/>
+Tel: +86 13671718479<break/>
+E‐mail: <email>xiaozhazha2003@163.com</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>28</day><month>12</month><year>2017</year></pub-date><pub-date pub-type="collection"><month>2</month><year>2018</year></pub-date><volume>8</volume><issue>2</issue><issue-id pub-id-type="pmc-issue-id">305898</issue-id><issue-id pub-id-type="doi">10.1002/feb4.2018.8.issue-2</issue-id><fpage>271</fpage><lpage>278</lpage><history><date date-type="received"><day>30</day><month>8</month><year>2017</year></date><date date-type="rev-recd"><day>23</day><month>11</month><year>2017</year></date><date date-type="accepted"><day>04</day><month>12</month><year>2017</year></date></history><pub-history><event event-type="pmc-release"><date><day>28</day><month>12</month><year>2017</year></date></event><event event-type="pmc-live"><date><day>12</day><month>02</month><year>2018</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2023-08-12 18:25:14.187"><day>12</day><month>08</month><year>2023</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2017 The Authors. Published by FEBS Press and John Wiley &amp; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="FEB4-8-271.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:FEB4-8-271.pdf"/><abstract id="feb412371-abs-0001"><p>Tip60, an oncogene, accelerates cell growth by regulating androgen receptor translocation into the nucleus in prostate cancer. However, the mechanism of Tip60 in the response of prostate cancer to radiotherapy, and radioresistance, has not been studied. Using human prostate cancer samples and two human prostate cancer cell lines (<styled-content style="fixed-case">LNC</styled-content>aP and <styled-content style="fixed-case">DU</styled-content>145), Tip60 protein expression and the acetylation of ataxia telangiectasia mutant (<styled-content style="fixed-case">ATM</styled-content>) were analysed by western blotting and immunoprecipitation. Tip60 was downregulated with small interfering <styled-content style="fixed-case">RNA</styled-content>. Cells were irradiated using X‐rays at 0.25 Gy·min<sup>−1</sup>. Cell viability was assessed by the <styled-content style="fixed-case">MTT</styled-content> assay. The expression of Tip60 protein was increased in radioresistant prostate cancer tissues in comparison with radiosensitive tissues, which was also confirmed in both irradiated <styled-content style="fixed-case">DU</styled-content>145 and <styled-content style="fixed-case">LNC</styled-content>aP cells. Furthermore, the acetylation of <styled-content style="fixed-case">ATM</styled-content> was also upregulated in a time‐dependent manner after irradiation of both <styled-content style="fixed-case">DU</styled-content>145 and <styled-content style="fixed-case">LNC</styled-content>aP cells. Additionally, depletion of Tip60 decreased the survival of <styled-content style="fixed-case">LNC</styled-content>aP and <styled-content style="fixed-case">DU</styled-content>145 cells by inducing apoptosis, reduced the acetylation of <styled-content style="fixed-case">ATM</styled-content> and decreased the expression of phosphorylated <styled-content style="fixed-case">ATM</styled-content>, Chk2 and cdc25A in both <styled-content style="fixed-case">DU</styled-content>145 and <styled-content style="fixed-case">LNC</styled-content>aP cells after X‐ray irradiation. The results of this study demonstrated that the expression of Tip60 may be related to the radioresistance of prostate cancer and could serve as a promising predictive factor for prostate cancer patients receiving radiotherapy.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="feb412371-kwd-0001">ataxia telangiectasia mutant</kwd><kwd id="feb412371-kwd-0002">prostate cancer</kwd><kwd id="feb412371-kwd-0003">radioresistance</kwd><kwd id="feb412371-kwd-0004">Tip60</kwd></kwd-group><funding-group><award-group><funding-source>Shanghai Municipal Commission of Health and Family Planning</funding-source><award-id>201540081</award-id></award-group></funding-group><counts><fig-count count="4"/><table-count count="0"/><page-count count="8"/><word-count count="4268"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>feb412371</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>February 2018</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:version=5.3.2 mode:remove_FC converted:01.02.2018</meta-value></custom-meta></custom-meta-group></article-meta></front><body><def-list list-content="abbreviations" id="feb412371-dl-0001"><title>Abbreviations</title><def-item><term>AR</term><def><p>androgen receptor</p></def></def-item><def-item><term>ATM</term><def><p>ataxia telangiectasia mutant</p></def></def-item><def-item><term>HATs</term><def><p>histone acetyltransferases</p></def></def-item><def-item><term>siRNA</term><def><p>lentivirus‐mediated small interfering RNA</p></def></def-item></def-list><p>Prostate cancer is the second most common cancer in males worldwide <xref rid="feb412371-bib-0001" ref-type="ref">1</xref>. Currently, there are over 3 300 000 prostate cancer patients in the USA, and newly diagnosed cases are increasing <xref rid="feb412371-bib-0002" ref-type="ref">2</xref>. In China, there are 603 000 prostate cancer cases and 266 000 deaths from this disease in 2015 <xref rid="feb412371-bib-0003" ref-type="ref">3</xref>. Although the 5‐year survival from prostate cancer has strikingly increased with the development of new treatment methods, it remains one of the leading causes of cancer death in men worldwide <xref rid="feb412371-bib-0004" ref-type="ref">4</xref>.</p><p>In recent years, surgery, endocrine therapy, radiotherapy and chemotherapy have been the basic therapeutic modalities used in prostate cancer. However, relapse is found in approximately 10–70% of prostate cancer patients treated with radiotherapy, indicating that some cancer cells may be resistant to this treatment <xref rid="feb412371-bib-0005" ref-type="ref">5</xref>, <xref rid="feb412371-bib-0006" ref-type="ref">6</xref>. Once recurrence or metastasis occurs in this disease, the tumours often became intractable and typical chemotherapy combined with radiotherapy does not provide effective treatment <xref rid="feb412371-bib-0007" ref-type="ref">7</xref>. Thus, ascertaining the potential functional mechanisms of prostate cancer can aid in developing novel targeted therapies for radiation‐resistant cells and improve the prognosis of patients.</p><p>Lysine acetyltransferase 5, also known as Tip60, was first reported by Kamine <italic toggle="yes">et al</italic>. <xref rid="feb412371-bib-0008" ref-type="ref">8</xref> as a cofactor of Tat, which is a transactivator of human immunodeficiency virus gene expression. It was also reported that the Tip60 protein is an important member of the MYST family of histone acetyltransferases (HATs) <xref rid="feb412371-bib-0009" ref-type="ref">9</xref>. Subsequent studies have shown that the Tip60–HAT complex plays a critical role in DNA repair and apoptosis and that ataxia telangiectasia mutant (ATM) kinase is also activated by the binding of Tip60 to histone H3 trimethylated at lysine 9 <xref rid="feb412371-bib-0010" ref-type="ref">10</xref>, <xref rid="feb412371-bib-0011" ref-type="ref">11</xref>, <xref rid="feb412371-bib-0012" ref-type="ref">12</xref>.</p><p>Through large‐scale RNA interference screening, Berns <italic toggle="yes">et al</italic>. <xref rid="feb412371-bib-0013" ref-type="ref">13</xref> found that Tip60 was an integral part of the process of p53‐dependent cell growth arrest. Moreover, Gregoire <italic toggle="yes">et al</italic>. <xref rid="feb412371-bib-0014" ref-type="ref">14</xref> identified Tip60 as a new regulator of the mesenchymal‐to‐epithelial transition that was linked to retaining the mesenchymal phenotype of the MDA‐MB‐231 breast cancer cell line. Additionally, Tip60 played a role as a co‐activator to interact with many steroid hormone receptors, such as the androgen receptor (AR) <xref rid="feb412371-bib-0015" ref-type="ref">15</xref>, that participate in the occurrence and development of prostate cancer. Other research indicated that Tip60 could facilitate AR acetylation to improve its transcriptional activity <xref rid="feb412371-bib-0016" ref-type="ref">16</xref>, <xref rid="feb412371-bib-0017" ref-type="ref">17</xref>, <xref rid="feb412371-bib-0018" ref-type="ref">18</xref>. Furthermore, the expression of Tip60 was increased significantly in clinical prostate cancer tissues and castration‐resistant prostate cancer cells, and its expression level was closely related with progression of the disease <xref rid="feb412371-bib-0019" ref-type="ref">19</xref>. However, the functional mechanism of Tip60 in radiation‐resistant prostate cancer has not been studied.</p><p>In this study, the Tip60 gene was depleted in the LNCaP and DU145 prostate cancer cell lines using the lentivirus‐mediated small interfering RNA (siRNA) method to analyse the potential mechanism of Tip60 in the radiation resistance of prostate cancer cells <italic toggle="yes">in vitro</italic>. The results indicate that Tip60 may be regarded as an underlying therapeutic target or a prospective prognostic marker for prostate cancer.</p><sec id="feb412371-sec-0002"><title>Materials and methods</title><sec id="feb412371-sec-0003"><title>Patient samples</title><p>Human prostate cancer samples, including radioresistant and radiosensitive samples, were obtained from Ruijin Hospital, Medical College, Shanghai Jiaotong University. The experiments were approved by the Ethics Committee of Ruijin Hospital, Medical College, Shanghai Jiaotong University. All patients provided written informed consent.</p></sec><sec id="feb412371-sec-0004"><title>Cell lines</title><p>The human embryonic kidney 293T (HEK293T) cell line and two human prostate cancer cell lines (LNCaP and DU145) were purchased from the Cell Bank of the Chinese Academy of Science (Shanghai, China). LNCaP and DU145 cells were grown in Ham's F‐12 (Gibco, Gaithersburg, MD, USA) medium containing 10% fetal bovine serum (Gibco) and 1% nonessential amino acids (HyClone, Little Chalfont, UK). HEK293T cells were cultured in Dulbecco's modified Eagle's medium (HyClone) with 10% fetal bovine serum. All cell lines were maintained at 37 °C in a humidified incubator with 5% CO<sub>2</sub>.</p></sec><sec id="feb412371-sec-0005"><title>Cell irradiation</title><p>Cells were irradiated using X‐rays at 0.25 Gy·min<sup>−1</sup> by a Pantak HF 420 RX machine.</p></sec><sec id="feb412371-sec-0006"><title>Construction of the recombinant lentivirus and lentivirus infection</title><p>Construction of the recombinant lentivirus has been described previously <xref rid="feb412371-bib-0020" ref-type="ref">20</xref>. The short hairpin oligonucleotides (shTip60: 5′‐CCTCAATCTCATCAACTACTACTCGAGTAGTAGTTGATGAGATTGAGG‐3′ and shCon: 5′‐CAACAAGATGAAGAGCACCAACTCGAGTTGGTGCTCTTCATCTTGTTG ‐3′) were synthesized and cloned into the lentivirus‐based vector pGP‐L (SBI, Palo Alto, CA, USA). Lentivirus production was followed as standard protocol by transfecting 293T cells with recombinational shRNA vector, together with pVSVG‐I and pCMVΔR8.92 (Sigma, St. Louis, MO, USA). For cell transfection, thyroid cancer cells were cultured in 6‐well plates and transfected with the shTip60 or shCon with a multiplicity of infection of 60. After 48 h, the transfection efficiency was observed through a fluorescence microscope, and Tip60 expression was determined using western blot assay.</p></sec><sec id="feb412371-sec-0007"><title>Western blot analysis</title><p>Western blot assays were performed as described previously <xref rid="feb412371-bib-0021" ref-type="ref">21</xref>, <xref rid="feb412371-bib-0022" ref-type="ref">22</xref>. Briefly, total proteins were extracted from cells using 2× SDS sample buffer [100 m<sc>m</sc> Tris/HCl (pH 6.8), 10 m<sc>m</sc> EDTA, 4% SDS and 10% glycine]. Then, the protein concentration was measured with a bicinchoninic acid protein assay kit (Pierce Biotechnology, Rockford, IL, USA). Equal quantities of protein were separated by 12% SDS/polyacrylamide gel electrophoresis and transferred to polyvinylidene difluoride membranes (Millipore, Bedford, MA, USA). After blocking with 5% nonfat milk, the membranes were incubated with the primary antibody overnight at 4 °C. After washing with Tris‐buffered saline (TBS)/Tween‐20, the membranes were incubated with the horseradish peroxidase‐conjugated secondary antibody (1 : 5000; Santa Cruz Biotechnology, Santa Cruz, CA, USA) for 2 h at room temperature. Blots were visualized using an enhanced chemiluminescence kit (Pierce Biotechnology). The primary antibodies used were as follows: rabbit anti‐Tip60 (Abcam, Cambridge, MA, USA), rabbit anti‐ATM (Abcam), rabbit anti‐p‐ATM (Abcam), rabbit anti‐Acet (Cell Signaling Technology, Danvers, MA, USA), rabbit anti‐p‐Chk2 (Cell Signaling Technology) and rabbit anti‐p‐cdc25A (Cell Signaling Technology). Rabbit antiglyceraldehyde 3‐phosphate dehydrogenase (Proteintech, Rosemont, IL, USA) was used as the internal control. <sc>imagej</sc> software (National Institutes of Health, Bethesda, MD, USA) was used to measure the grey degree values of the bands.</p></sec><sec id="feb412371-sec-0008"><title>Immunoprecipitation assay</title><p>Cells were harvested and lysed using cold radioimmunoprecipitation assay lysis buffer for 30 min at 4 °C. After centrifugation at 14 000 <italic toggle="yes"><bold>g</bold></italic> for 15 min at 4 °C, the supernatant was transferred to new tubes. A protein G‐agarose suspension was prepared, the agarose beads were washed with TBS, and a 50% protein A/G‐agarose solution was made with TBS. After again centrifuging at 14 000 <italic toggle="yes"><bold>g</bold></italic> for 15 min at 4 °C, the supernatant was transferred to new tubes and the protein G‐agarose beads were discarded. Protein concentrations were measured via the bicinchoninic acid assay. Subsequently, the corresponding primary antibody was added into the total protein solution. Protein G‐agarose beads were added to capture the antigen–antibody complex, and the mixture was slowly shaken overnight at 4 °C. Then, the agarose beads–antigen–antibody complex was collected at 5000 <italic toggle="yes"><bold>g</bold></italic> for 30 s and washed three times with precooled phosphate‐buffered saline. Finally, the supernatant was collected and analysed by the western blot assay. The experiment has been proceeded at least three independent times.</p></sec><sec id="feb412371-sec-0009"><title>3‐(4,5‐Dimethylthiazol‐2‐yl)‐2,5‐diphenyltetrazolium bromide (MTT) assay</title><p>The MTT assay was performed as described previously <xref rid="feb412371-bib-0023" ref-type="ref">23</xref>. LNCaP and DU145 cells were infected with recombinant lentivirus (siCon or siTip60) for 96 h. The cells were then reseeded into 96‐well plates at a density of 2000 cells per well and treated with or without irradiation. After irradiated using X‐rays for 24, 48 and 72 h, 20 μL of the MTT solution (5 mg·mL<sup>−1</sup>) was added into each well. Following incubation for 4 h, 100 μL acidic isopropanol (10% SDS, 5% isopropanol and 10 m<sc>m</sc> HCI) was added to dissolve the formazan. Finally, the optical density of each well was measured using a microplate reader (Epoch, Biotek, Winooski, VT, USA) at a wavelength of 595 nm. The experiment has been proceeded at least three independent times.</p></sec><sec id="feb412371-sec-0010"><title>Statistical analysis</title><p>The experimental data were analysed using <sc>prism</sc> 5 software (GraphPad Software, La Jolla, CA, USA). The difference between two groups (siCon vs. siTip60) was determined using Student's <italic toggle="yes">t</italic>‐test. Data are shown as means ± standard deviation of three independent experiments. <italic toggle="yes">P</italic> &lt; 0.05 was considered statistically significant.</p></sec></sec><sec id="feb412371-sec-0011"><title>Results</title><sec id="feb412371-sec-0012"><title>Tip60 was upregulated in radioresistant prostate cancer</title><p>Tip60 protein expression was measured in radioresistant and radiosensitive prostate cancer tissues using western blot assays. Tip60 expression was significantly higher in the radioresistant than radiosensitive prostate cancer tissues (Fig. <xref rid="feb412371-fig-0001" ref-type="fig">1</xref>). This indicated that Tip60 may be closely associated with postoperative radiotherapy resistance of prostate cancer.</p><fig fig-type="Figure" xml:lang="en" id="feb412371-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Tip60 is upregulated in radioresistant prostate cancer tissue. (A) The protein expression level of Tip60 in nine radioresistant and seven radiosensitive prostate cancer tissues was analysed by western blot. (B) Quantitative analysis of Tip60 protein in radioresistant and radiosensitive prostate cancer tissues has been provided. Student's <italic toggle="yes">t</italic> analysis indicated that Tip60 is upregulated in radioresistant prostate cancer tissue. **<italic toggle="yes">P</italic> &lt; 0.01.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-3" position="float" orientation="portrait" xlink:href="FEB4-8-271-g001.jpg"/></fig></sec><sec id="feb412371-sec-0013"><title>X‐ray irradiation induced Tip60 expression and increased the acetylation of ATM in prostate cancer cells</title><p>Next, two frequently used prostate cancer cell lines, DU145 and LNCaP, were irradiated with X‐rays at a dose of 0.25 Gy·min<sup>−1</sup> for 0, 10 or 30 min. As shown in Fig. <xref rid="feb412371-fig-0002" ref-type="fig">2</xref>, the expression of Tip60 protein was increased in both cell lines after irradiation. Interestingly, we also found that the acetylation of ATM, a response element of Tip60‐dependent DNA damage, was upregulated time‐dependently.</p><fig fig-type="Figure" xml:lang="en" id="feb412371-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>X‐ray irradiation induces Tip60 expression and increases the activation of <styled-content style="fixed-case">ATM</styled-content> in prostate cancer cells. Tip60 protein expression and the acetylation (Acet) of <styled-content style="fixed-case">ATM</styled-content> were analysed by western blot and immunoprecipitation (<styled-content style="fixed-case">IP</styled-content>)–western blot assays in <styled-content style="fixed-case">DU</styled-content>145 and <styled-content style="fixed-case">LNC</styled-content>aP cells irradiated at a dose rate of 0.25 Gy·min<sup>−1</sup> for 0, 10 or 30 min.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-5" position="float" orientation="portrait" xlink:href="FEB4-8-271-g002.jpg"/></fig></sec><sec id="feb412371-sec-0014"><title>Depletion of Tip60 reduced the resistance of prostate cancer cells to radiation</title><p>To further confirm whether Tip60 was involved in resistance to X‐ray irradiation in LNCaP and DU145 cells, both cells types were transfected with the siTip60 or siCon lentiviral vectors. Fluorescent images demonstrated that the transfection efficiencies of both siCon and siTip60 were above 90% in LNCaP and DU145 cells after 96 h of infection (Fig. <xref rid="feb412371-fig-0003" ref-type="fig">3</xref>A–C). Subsequently, the MTT assay was performed to detect the effects of Tip60 depletion on survival of LNCaP and DU145 cells that were irradiated with X‐rays. After X‐ray irradiation, depletion of Tip60 significantly inhibited the survival of LNCaP (Fig. <xref rid="feb412371-fig-0003" ref-type="fig">3</xref>D) and DU145 (Fig. <xref rid="feb412371-fig-0003" ref-type="fig">3</xref>E) cells at 48 and 72 h. In addition, we also determined apoptosis‐relative biomarkers, including Bcl‐2, cleaved caspase 3 and cytochrome C. The expression of Bcl‐2 was downregulated after X‐ray exposure in Tip60 KD group. Cleaved caspase 3 and cytochrome C showed a different trend (Fig. <xref rid="feb412371-fig-0003" ref-type="fig">3</xref>F,G). This indicated that depletion of endogenous Tip60 enhanced the sensitivity of prostate cancer cells to radiation <italic toggle="yes">in vitro</italic>.</p><fig fig-type="Figure" xml:lang="en" id="feb412371-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Depletion of Tip60 reduces the resistance of prostate cancer cells to radiation. (A) Representative bright and fluorescence images of <styled-content style="fixed-case">LNC</styled-content>aP cells infected with control (siCon) and Tip60 (siTip60) small interfering <styled-content style="fixed-case">RNA</styled-content>. (B) Representative bright and fluorescence images of <styled-content style="fixed-case">DU</styled-content>145 cells infected with control (siCon) and Tip60 (siTip60) small interfering <styled-content style="fixed-case">RNA</styled-content>. (C) Western blot analysis of the expression of Tip60 infected with control (siCon) and Tip60 (siTip60) small interfering <styled-content style="fixed-case">RNA</styled-content>. (D) Survival of Tip60‐silenced <styled-content style="fixed-case">LNC</styled-content>aP cells irradiated with 7.5 Gy X‐ray was measured by the <styled-content style="fixed-case">MTT</styled-content> assay. (E) Survival of Tip60‐silenced <styled-content style="fixed-case">DU</styled-content>145 cells irradiated with 7.5 Gy X‐ray was measured by the <styled-content style="fixed-case">MTT</styled-content> assay. (F) Apoptosis‐relative biomarker expression pattern change in Tip60‐silenced <styled-content style="fixed-case">DU</styled-content>145 cells irradiated with 7.5 Gy X‐ray. (G) Apoptosis‐relative biomarker expression pattern change in Tip60‐silenced <styled-content style="fixed-case">LNC</styled-content>aP cells irradiated with 7.5 Gy X‐ray.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-7" position="float" orientation="portrait" xlink:href="FEB4-8-271-g003.jpg"/></fig></sec><sec id="feb412371-sec-0015"><title>Tip60 regulated the sensitivity of prostate cancer cells to X‐ray irradiation via the ATM/Chk2/cdc25A pathway</title><p>The molecular mechanism protecting human cells against radioresistant DNA synthesis mainly involves the ATM‐dependent pathway in osteosarcoma U2OS cells <xref rid="feb412371-bib-0024" ref-type="ref">24</xref>. Thus, we speculated that Tip60 could regulate activation of ATM in prostate cancer. As shown in Fig. <xref rid="feb412371-fig-0004" ref-type="fig">4</xref>, immunoprecipitation revealed that depletion of Tip60 significantly reduced the acetylation of ATM after X‐ray irradiation. Furthermore, the phosphorylation levels of molecules downstream of ATM, including Chk2, and cdc25A, were decreased in the siTip60 group in both DU145 and LNCaP cells after X‐ray irradiation. These results demonstrated that Tip60 may be involved in the resistance of prostate cancer cells to X‐ray irradiation, primarily through the ATM/Chk2/cdc25A pathway.</p><fig fig-type="Figure" xml:lang="en" id="feb412371-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Tip60 regulates the sensitivity of prostate cancer cells to X‐ray irradiation via the <styled-content style="fixed-case">ATM</styled-content>/Chk2/cdc25A pathway. Phosphorylation levels of <styled-content style="fixed-case">AKT</styled-content>, Chk2 and cdc25A, and acetylation (Acet) of <styled-content style="fixed-case">ATM</styled-content>, were analysed by western blot and immunoprecipitation (<styled-content style="fixed-case">IP</styled-content>)–western blot assays in Tip60‐silenced <styled-content style="fixed-case">DU</styled-content>145 and <styled-content style="fixed-case">LNC</styled-content>aP cells irradiated at a dose of 7.5 Gy.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-9" position="float" orientation="portrait" xlink:href="FEB4-8-271-g004.jpg"/></fig></sec></sec><sec id="feb412371-sec-0016"><title>Discussion</title><p>Prostate cancer is a complicated and polyfactorial disease. Clinical therapeutic strategies mainly include surgery, androgen deprivation therapy, radiotherapy or chemotherapy. Among these treatments, radiotherapy is complementary for surgical patients and is also an available therapeutic approach for unrespectable prostate neoplasms <xref rid="feb412371-bib-0025" ref-type="ref">25</xref>. However, a portion of treated prostate cancer patients develop resistance to radiation during therapy. This results in therapeutic failure and poor prognosis. Thus, resistance to radiotherapy is an urgent problem in the current clinical situation.</p><p>Accumulating reports have focused on the mechanisms and molecular markers of radiation resistance <xref rid="feb412371-bib-0026" ref-type="ref">26</xref>, <xref rid="feb412371-bib-0027" ref-type="ref">27</xref>. Our study is the first to show that the resistance of prostate cancer to X‐ray irradiation correlates with the expression of Tip60. Furthermore, Tip60 may modulate the survival of irradiated prostate cancer DU145 and LNCaP cells via activating the ATM/Chk2/cdc25A pathway.</p><p>It is well known that X‐ray irradiation can injure cells by fracturing DNA or the generation of free radicals that cause DNA damage <xref rid="feb412371-bib-0028" ref-type="ref">28</xref>. Extensive evidence suggests that the function of Tip60 not only is reflected in transcriptional regulation but also involves numerous other processes including signal transduction, DNA damage repair and the regulation of cell cycle checkpoints and apoptosis through the acetylation of its histone <xref rid="feb412371-bib-0029" ref-type="ref">29</xref>. Tip60 plays a direct role in activating ATM <xref rid="feb412371-bib-0030" ref-type="ref">30</xref>. During DNA damage, ATM activation relies on its rapid acetylation induced by Tip60. Furthermore, overexpression of a Tip60 HAT mutant or silencing of Tip60 restrains ATM acetylation and Chk2 phosphorylation that are dependent on the ATM kinase <xref rid="feb412371-bib-0030" ref-type="ref">30</xref>, <xref rid="feb412371-bib-0031" ref-type="ref">31</xref>. Moreover, Chk2 phosphorylation could activate cyclin‐dependent kinase 2, which is diminished in response to DNA damage <xref rid="feb412371-bib-0024" ref-type="ref">24</xref>, <xref rid="feb412371-bib-0032" ref-type="ref">32</xref>.</p><p>Other studies also demonstrated that ATM activation was often connected with DNA double‐strand breaks caused by ionizing radiation or radiomimetic drugs <xref rid="feb412371-bib-0033" ref-type="ref">33</xref>. Additionally, Busino <italic toggle="yes">et al</italic>. <xref rid="feb412371-bib-0034" ref-type="ref">34</xref> established that cdc25A‐ and cyclin‐dependent kinase 2 modulated the transition between the G1/S and G2/M phases of the cell cycle and were also involved in ionizing radiation‐activated checkpoint pathways. In our study, we found that the Tip60 protein level was much higher in radioresistant than radiosensitive prostate cancer tissues. We also found increased ATM acetylation in response to X‐ray irradiation in DU145 and LNCaP prostate cancer cells. Moreover, after X‐ray irradiation, Tip60 knockdown significantly decreased the survival of prostate cancer cells, reduced the acetylation of ATM and decreased the phosphorylation levels of AKT, Chk2 and cdc25A. However, animal experiments are needed to explore the effect of Tip60 knockdown on the radioresistance of prostate cancer <italic toggle="yes">in vivo</italic>.</p></sec><sec id="feb412371-sec-0017"><title>Conclusions</title><p>In this study, knockdown of Tip60 could enhance the sensitivity of prostate cancer cells to X‐ray irradiation by inducing apoptosis, confirmed by the expression pattern change of Bcl‐2, cleaved caspase 3 and cytochrome C. In addition, we also found depletion of Tip60 significantly reduced the acetylation of ATM after X‐ray irradiation and a further study demonstrated the phosphorylation levels of molecules downstream of ATM, including Chk2, and cdc25A, were decreased after Tip60 knockdown. These findings suggest that Tip60 could serve as a promising predictive factor for prostate cancer patients receiving radiotherapy. Our results also may contribute to implementing individualized therapeutic regimens for prostate cancer patients with dysregulated Tip60 expression, thereby improving the efficacy of radiotherapy.</p></sec><sec id="feb412371-sec-0019"><title>Author contributions</title><p>WH designed experiments and improved the manuscript. XX, ZX and CW performed experiments and analysed data. CF and JZ coordinated the studies and improved the manuscript. LX and XQ drafted the manuscript. JD, FS and DX participated in data analysis. All authors read and approved the manuscript.</p></sec></body><back><ack id="feb412371-sec-0018"><title>Acknowledgements</title><p>We thank the Shanghai Municipal Commission of Health and Family Planning (201540081) for funding.</p></ack><ref-list content-type="cited-references" id="feb412371-bibl-0001"><title>References</title><ref id="feb412371-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="feb412371-cit-0001">
+<string-name name-style="western">
+<surname>Torre</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bray</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Siegel</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ferlay</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lortet‐Tieulent</surname>
+<given-names>J</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Jemal</surname>
+<given-names>A</given-names>
+</string-name> (<year>2015</year>) <article-title>Global cancer statistics, 2012</article-title>. <source>CA Cancer J Clin</source>
+<volume>65</volume>, <fpage>87</fpage>–<lpage>108</lpage>.<pub-id pub-id-type="pmid">25651787</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3322/caac.21262</pub-id></mixed-citation></ref><ref id="feb412371-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="feb412371-cit-0002">
+<string-name name-style="western">
+<surname>Miller</surname>
+<given-names>KD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Siegel</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lin</surname>
+<given-names>CC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mariotto</surname>
+<given-names>AB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kramer</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rowland</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stein</surname>
+<given-names>KD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Alteri</surname>
+<given-names>R</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Jemal</surname>
+<given-names>A</given-names>
+</string-name> (<year>2016</year>) <article-title>Cancer treatment and survivorship statistics, 2016</article-title>. <source>CA Cancer J Clin</source>
+<volume>66</volume>, <fpage>271</fpage>–<lpage>289</lpage>.<pub-id pub-id-type="pmid">27253694</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3322/caac.21349</pub-id></mixed-citation></ref><ref id="feb412371-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="feb412371-cit-0003">
+<string-name name-style="western">
+<surname>Chen</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zheng</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baade</surname>
+<given-names>PD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zeng</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bray</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jemal</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yu</surname>
+<given-names>XQ</given-names>
+</string-name> and <string-name name-style="western">
+<surname>He</surname>
+<given-names>J</given-names>
+</string-name> (<year>2016</year>) <article-title>Cancer statistics in China, 2015</article-title>. <source>CA Cancer J Clin</source>
+<volume>66</volume>, <fpage>115</fpage>–<lpage>132</lpage>.<pub-id pub-id-type="pmid">26808342</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3322/caac.21338</pub-id></mixed-citation></ref><ref id="feb412371-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="feb412371-cit-0004">
+<string-name name-style="western">
+<surname>Allemani</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Weir</surname>
+<given-names>HK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Carreira</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Harewood</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Spika</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>XS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bannon</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ahn</surname>
+<given-names>JV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Johnson</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bonaventure</surname>
+<given-names>A</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2015</year>) <article-title>Global surveillance of cancer survival 1995‐2009: analysis of individual data for 25,676,887 patients from 279 population‐based registries in 67 countries (CONCORD‐2)</article-title>. <source>Lancet</source>
+<volume>385</volume>, <fpage>977</fpage>–<lpage>1010</lpage>.<pub-id pub-id-type="pmid">25467588</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S0140-6736(14)62038-9</pub-id><pub-id pub-id-type="pmcid">PMC4588097</pub-id></mixed-citation></ref><ref id="feb412371-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="feb412371-cit-0005">
+<string-name name-style="western">
+<surname>Weber</surname>
+<given-names>DC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cozzi</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dipasquale</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Khan</surname>
+<given-names>HG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ratib</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rouzaud</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vees</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zaidi</surname>
+<given-names>H</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Miralbell</surname>
+<given-names>R</given-names>
+</string-name> (<year>2009</year>) <article-title>RapidArc, intensity modulated photon and proton techniques for recurrent prostate cancer in previously irradiated patients: a treatment planning comparison study</article-title>. <source>Radiat Oncol</source>
+<volume>4</volume>, <fpage>34</fpage>.<pub-id pub-id-type="pmid">19740429</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/1748-717X-4-34</pub-id><pub-id pub-id-type="pmcid">PMC2749024</pub-id></mixed-citation></ref><ref id="feb412371-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="feb412371-cit-0006">
+<string-name name-style="western">
+<surname>Allen</surname>
+<given-names>GW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Howard</surname>
+<given-names>AR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jarrard</surname>
+<given-names>DF</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Ritter</surname>
+<given-names>MA</given-names>
+</string-name> (<year>2007</year>) <article-title>Management of prostate cancer recurrences after radiation therapy‐brachytherapy as a salvage option</article-title>. <source>Cancer</source>
+<volume>110</volume>, <fpage>1405</fpage>–<lpage>1416</lpage>.<pub-id pub-id-type="pmid">17685384</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/cncr.22940</pub-id></mixed-citation></ref><ref id="feb412371-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="feb412371-cit-0007">
+<string-name name-style="western">
+<surname>Della Donna</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lagadec</surname>
+<given-names>C</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Pajonk</surname>
+<given-names>F</given-names>
+</string-name> (<year>2012</year>) <article-title>Radioresistance of prostate cancer cells with low proteasome activity</article-title>. <source>Prostate</source>
+<volume>72</volume>, <fpage>868</fpage>–<lpage>874</lpage>.<pub-id pub-id-type="pmid">21932424</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/pros.21489</pub-id><pub-id pub-id-type="pmcid">PMC3396561</pub-id></mixed-citation></ref><ref id="feb412371-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="feb412371-cit-0008">
+<string-name name-style="western">
+<surname>Kamine</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Elangovan</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Subramanian</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Coleman</surname>
+<given-names>D</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Chinnadurai</surname>
+<given-names>G</given-names>
+</string-name> (<year>1996</year>) <article-title>Identification of a cellular protein that specifically interacts with the essential cysteine region of the HIV‐1 Tat transactivator</article-title>. <source>Virology</source>
+<volume>216</volume>, <fpage>357</fpage>–<lpage>366</lpage>.<pub-id pub-id-type="pmid">8607265</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1006/viro.1996.0071</pub-id></mixed-citation></ref><ref id="feb412371-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="feb412371-cit-0009">
+<string-name name-style="western">
+<surname>Yamamoto</surname>
+<given-names>T</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Horikoshi</surname>
+<given-names>M</given-names>
+</string-name> (<year>1997</year>) <article-title>Novel substrate specificity of the histone acetyltransferase activity of HIV‐1‐Tat interactive protein Tip60</article-title>. <source>J Biol Chem</source>
+<volume>272</volume>, <fpage>30595</fpage>–<lpage>30598</lpage>.<pub-id pub-id-type="pmid">9388189</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1074/jbc.272.49.30595</pub-id></mixed-citation></ref><ref id="feb412371-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="feb412371-cit-0010">
+<string-name name-style="western">
+<surname>Sun</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jiang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ayrapetov</surname>
+<given-names>MK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Moreau</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Whetstine</surname>
+<given-names>JR</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Price</surname>
+<given-names>BD</given-names>
+</string-name> (<year>2009</year>) <article-title>Histone H3 methylation links DNA damage detection to activation of the tumour suppressor Tip60</article-title>. <source>Nat Cell Biol</source>
+<volume>11</volume>, <fpage>1376</fpage>–<lpage>1382</lpage>.<pub-id pub-id-type="pmid">19783983</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/ncb1982</pub-id><pub-id pub-id-type="pmcid">PMC2783526</pub-id></mixed-citation></ref><ref id="feb412371-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="feb412371-cit-0011">
+<string-name name-style="western">
+<surname>Kaidi</surname>
+<given-names>A</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Jackson</surname>
+<given-names>SP</given-names>
+</string-name> (<year>2013</year>) <article-title>KAT5 tyrosine phosphorylation couples chromatin sensing to ATM signalling</article-title>. <source>Nature</source>
+<volume>498</volume>, <fpage>70</fpage>–<lpage>74</lpage>.<pub-id pub-id-type="pmid">23708966</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nature12201</pub-id><pub-id pub-id-type="pmcid">PMC3859897</pub-id><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="retraction-forward" ext-link-type="pmc" xlink:href="PMC6554193"/></mixed-citation></ref><ref id="feb412371-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="feb412371-cit-0012">
+<string-name name-style="western">
+<surname>Ikura</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ogryzko</surname>
+<given-names>VV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Grigoriev</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Groisman</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Horikoshi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Scully</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Qin</surname>
+<given-names>J</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Nakatani</surname>
+<given-names>Y</given-names>
+</string-name> (<year>2000</year>) <article-title>Involvement of the TIP60 histone acetylase complex in DNA repair and apoptosis</article-title>. <source>Cell</source>
+<volume>102</volume>, <fpage>463</fpage>–<lpage>473</lpage>.<pub-id pub-id-type="pmid">10966108</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0092-8674(00)00051-9</pub-id></mixed-citation></ref><ref id="feb412371-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="feb412371-cit-0013">
+<string-name name-style="western">
+<surname>Berns</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hijmans</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mullenders</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brummelkamp</surname>
+<given-names>TR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Velds</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Heimerikx</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kerkhoven</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Madiredjo</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nijkamp</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Weigelt</surname>
+<given-names>B</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2004</year>) <article-title>A large‐scale RNAi screen in human cells identifies new components of the p53 pathway</article-title>. <source>Nature</source>
+<volume>428</volume>, <fpage>431</fpage>–<lpage>437</lpage>.<pub-id pub-id-type="pmid">15042092</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nature02371</pub-id></mixed-citation></ref><ref id="feb412371-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="feb412371-cit-0014">
+<string-name name-style="western">
+<surname>Gregoire</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fleury</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Salazar‐Cardozo</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Alby</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Masson</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Arimondo</surname>
+<given-names>PB</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Ausseil</surname>
+<given-names>F</given-names>
+</string-name> (<year>2016</year>) <article-title>Identification of epigenetic factors regulating the mesenchyme to epithelium transition by RNA interference screening in breast cancer cells</article-title>. <source>BMC Cancer</source>
+<volume>16</volume>, <fpage>700</fpage>.<pub-id pub-id-type="pmid">27581651</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12885-016-2683-5</pub-id><pub-id pub-id-type="pmcid">PMC5006536</pub-id></mixed-citation></ref><ref id="feb412371-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="feb412371-cit-0015">
+<string-name name-style="western">
+<surname>Coffey</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Blackburn</surname>
+<given-names>TJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cook</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Golding</surname>
+<given-names>BT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Griffin</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hardcastle</surname>
+<given-names>IR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hewitt</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huberman</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McNeill</surname>
+<given-names>HV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Newell</surname>
+<given-names>DR</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2012</year>) <article-title>Characterisation of a Tip60 specific inhibitor, NU9056, in prostate cancer</article-title>. <source>PLoS One</source>
+<volume>7</volume>, <fpage>e45539</fpage>.<pub-id pub-id-type="pmid">23056207</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0045539</pub-id><pub-id pub-id-type="pmcid">PMC3466219</pub-id></mixed-citation></ref><ref id="feb412371-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="feb412371-cit-0016">
+<string-name name-style="western">
+<surname>Gaughan</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Logan</surname>
+<given-names>IR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cook</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Neal</surname>
+<given-names>DE</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Robson</surname>
+<given-names>CN</given-names>
+</string-name> (<year>2002</year>) <article-title>Tip60 and histone deacetylase 1 regulate androgen receptor activity through changes to the acetylation status of the receptor</article-title>. <source>J Biol Chem</source>
+<volume>277</volume>, <fpage>25904</fpage>–<lpage>25913</lpage>.<pub-id pub-id-type="pmid">11994312</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1074/jbc.M203423200</pub-id></mixed-citation></ref><ref id="feb412371-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="feb412371-cit-0017">
+<string-name name-style="western">
+<surname>Judes</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rifai</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ngollo</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Daures</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bignon</surname>
+<given-names>YJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Penault‐Llorca</surname>
+<given-names>F</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Bernard‐Gallon</surname>
+<given-names>D</given-names>
+</string-name> (<year>2015</year>) <article-title>A bivalent role of TIP60 histone acetyl transferase in human cancer</article-title>. <source>Epigenomics</source>
+<volume>7</volume>, <fpage>1351</fpage>–<lpage>1363</lpage>.<pub-id pub-id-type="pmid">26638912</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.2217/epi.15.76</pub-id></mixed-citation></ref><ref id="feb412371-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="feb412371-cit-0018">
+<string-name name-style="western">
+<surname>Gaughan</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brady</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cook</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Neal</surname>
+<given-names>DE</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Robson</surname>
+<given-names>CN</given-names>
+</string-name> (<year>2001</year>) <article-title>Tip60 is a co‐activator specific for class I nuclear hormone receptors</article-title>. <source>J Biol Chem</source>
+<volume>276</volume>, <fpage>46841</fpage>–<lpage>46848</lpage>.<pub-id pub-id-type="pmid">11591700</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1074/jbc.M103710200</pub-id></mixed-citation></ref><ref id="feb412371-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="feb412371-cit-0019">
+<string-name name-style="western">
+<surname>Halkidou</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gnanapragasam</surname>
+<given-names>VJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mehta</surname>
+<given-names>PB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Logan</surname>
+<given-names>IR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brady</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cook</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Leung</surname>
+<given-names>HY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Neal</surname>
+<given-names>DE</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Robson</surname>
+<given-names>CN</given-names>
+</string-name> (<year>2003</year>) <article-title>Expression of Tip60, an androgen receptor coactivator, and its role in prostate cancer development</article-title>. <source>Oncogene</source>
+<volume>22</volume>, <fpage>2466</fpage>–<lpage>2477</lpage>.<pub-id pub-id-type="pmid">12717424</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/sj.onc.1206342</pub-id></mixed-citation></ref><ref id="feb412371-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="feb412371-cit-0020">
+<string-name name-style="western">
+<surname>Xu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lv</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>Y</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Shen</surname>
+<given-names>X</given-names>
+</string-name> (<year>2016</year>) <article-title>Loss of asparagine synthetase suppresses the growth of human lung cancer cells by arresting cell cycle at G0/G1 phase</article-title>. <source>Cancer Gene Ther</source>
+<volume>23</volume>, <fpage>287</fpage>–<lpage>294</lpage>.<pub-id pub-id-type="pmid">27444726</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/cgt.2016.28</pub-id></mixed-citation></ref><ref id="feb412371-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="feb412371-cit-0021">
+<string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zheng</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gao</surname>
+<given-names>S</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Lu</surname>
+<given-names>Y</given-names>
+</string-name> (<year>2017</year>) <article-title>HIF‐1alpha binding to AEG‐1 promoter induced upregulated AEG‐1 expression associated with metastasis in ovarian cancer</article-title>. <source>Cancer Med</source>
+<volume>6</volume>, <fpage>1072</fpage>–<lpage>1081</lpage>.<pub-id pub-id-type="pmid">28401704</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/cam4.1053</pub-id><pub-id pub-id-type="pmcid">PMC5430094</pub-id></mixed-citation></ref><ref id="feb412371-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="feb412371-cit-0022">
+<string-name name-style="western">
+<surname>Lao</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Feng</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name name-style="western">
+<surname>He</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ji</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhu</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tang</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>
+<given-names>J</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Qin</surname>
+<given-names>X</given-names>
+</string-name> (<year>2016</year>) <article-title>Immature colon carcinoma transcript‐1 (ICT1) expression correlates with unfavorable prognosis and survival in patients with colorectal cancer</article-title>. <source>Ann Surg Oncol</source>
+<volume>23</volume>, <fpage>3924</fpage>–<lpage>3933</lpage>.<pub-id pub-id-type="pmid">27411551</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1245/s10434-016-5305-1</pub-id></mixed-citation></ref><ref id="feb412371-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="feb412371-cit-0023">
+<string-name name-style="western">
+<surname>Shen</surname>
+<given-names>YG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Feng</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>
+<given-names>YJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jiao</surname>
+<given-names>NN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sun</surname>
+<given-names>DQ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Qu</surname>
+<given-names>WD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tang</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xiong</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xia</surname>
+<given-names>Y</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2017</year>) <article-title>Effects of RNA silencing of matrix metalloproteinase‐2 on the growth of esophageal carcinoma cells in vivo</article-title>. <source>Oncol Lett</source>
+<volume>13</volume>, <fpage>1119</fpage>–<lpage>1124</lpage>.<pub-id pub-id-type="pmid">28454222</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3892/ol.2016.5542</pub-id><pub-id pub-id-type="pmcid">PMC5403388</pub-id></mixed-citation></ref><ref id="feb412371-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="feb412371-cit-0024">
+<string-name name-style="western">
+<surname>Falck</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mailand</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Syljuasen</surname>
+<given-names>RG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bartek</surname>
+<given-names>J</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Lukas</surname>
+<given-names>J</given-names>
+</string-name> (<year>2001</year>) <article-title>The ATM‐Chk2‐Cdc25A checkpoint pathway guards against radioresistant DNA synthesis</article-title>. <source>Nature</source>
+<volume>410</volume>, <fpage>842</fpage>–<lpage>847</lpage>.<pub-id pub-id-type="pmid">11298456</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/35071124</pub-id></mixed-citation></ref><ref id="feb412371-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="feb412371-cit-0025">
+<string-name name-style="western">
+<surname>Alberti</surname>
+<given-names>C</given-names>
+</string-name> (<year>2014</year>) <article-title>Prostate cancer: radioresistance molecular target‐related markers and foreseeable modalities of radiosensitization</article-title>. <source>Eur Rev Med Pharmacol Sci</source>
+<volume>18</volume>, <fpage>2275</fpage>–<lpage>2282</lpage>.<pub-id pub-id-type="pmid">25219826</pub-id></mixed-citation></ref><ref id="feb412371-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="feb412371-cit-0026">
+<string-name name-style="western">
+<surname>Orth</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lauber</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Niyazi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Friedl</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maihofer</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schuttrumpf</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ernst</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Niemoller</surname>
+<given-names>OM</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Belka</surname>
+<given-names>C</given-names>
+</string-name> (<year>2014</year>) <article-title>Current concepts in clinical radiation oncology</article-title>. <source>Radiat Environ Biophys</source>
+<volume>53</volume>, <fpage>1</fpage>–<lpage>29</lpage>.<pub-id pub-id-type="pmid">24141602</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00411-013-0497-2</pub-id><pub-id pub-id-type="pmcid">PMC3935099</pub-id></mixed-citation></ref><ref id="feb412371-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="feb412371-cit-0027">
+<string-name name-style="western">
+<surname>Kaliberov</surname>
+<given-names>SA</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Buchsbaum</surname>
+<given-names>DJ</given-names>
+</string-name> (<year>2012</year>) <article-title>Chapter seven–cancer treatment with gene therapy and radiation therapy</article-title>. <source>Adv Cancer Res</source>
+<volume>115</volume>, <fpage>221</fpage>–<lpage>263</lpage>.<pub-id pub-id-type="pmid">23021246</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/B978-0-12-398342-8.00007-0</pub-id><pub-id pub-id-type="pmcid">PMC3664947</pub-id></mixed-citation></ref><ref id="feb412371-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="feb412371-cit-0028">
+<string-name name-style="western">
+<surname>Stankevicins</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Almeida da Silva</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ventura Dos Passos</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dos Santos Ferreira</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Menks Ribeiro</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>David</surname>
+<given-names>MG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pires</surname>
+<given-names>EJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ferreira‐Machado</surname>
+<given-names>SC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vassetzky</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>de Almeida</surname>
+<given-names>CE</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2013</year>) <article-title>MiR‐34a is up‐regulated in response to low dose, low energy X‐ray induced DNA damage in breast cells</article-title>. <source>Radiat Oncol</source>
+<volume>8</volume>, <fpage>231</fpage>.<pub-id pub-id-type="pmid">24094113</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/1748-717X-8-231</pub-id><pub-id pub-id-type="pmcid">PMC3829672</pub-id></mixed-citation></ref><ref id="feb412371-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="feb412371-cit-0029">
+<string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>J</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Luan</surname>
+<given-names>Y</given-names>
+</string-name> (<year>2017</year>) <article-title>Tip60: main functions and its inhibitors</article-title>. <source>Mini Rev Med Chem</source>
+<volume>17</volume>, <fpage>675</fpage>–<lpage>682</lpage>.<pub-id pub-id-type="pmid">27670582</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.2174/1389557516666160923125031</pub-id></mixed-citation></ref><ref id="feb412371-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="feb412371-cit-0030">
+<string-name name-style="western">
+<surname>Sun</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jiang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fernandes</surname>
+<given-names>N</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Price</surname>
+<given-names>BD</given-names>
+</string-name> (<year>2005</year>) <article-title>A role for the Tip60 histone acetyltransferase in the acetylation and activation of ATM</article-title>. <source>Proc Natl Acad Sci USA</source>
+<volume>102</volume>, <fpage>13182</fpage>–<lpage>13187</lpage>.<pub-id pub-id-type="pmid">16141325</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.0504211102</pub-id><pub-id pub-id-type="pmcid">PMC1197271</pub-id></mixed-citation></ref><ref id="feb412371-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="feb412371-cit-0031">
+<string-name name-style="western">
+<surname>Squatrito</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gorrini</surname>
+<given-names>C</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Amati</surname>
+<given-names>B</given-names>
+</string-name> (<year>2006</year>) <article-title>Tip60 in DNA damage response and growth control: many tricks in one HAT</article-title>. <source>Trends Cell Biol</source>
+<volume>16</volume>, <fpage>433</fpage>–<lpage>442</lpage>.<pub-id pub-id-type="pmid">16904321</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.tcb.2006.07.007</pub-id></mixed-citation></ref><ref id="feb412371-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="feb412371-cit-0032">
+<string-name name-style="western">
+<surname>Mailand</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Falck</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lukas</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Syljuasen</surname>
+<given-names>RG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Welcker</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bartek</surname>
+<given-names>J</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Lukas</surname>
+<given-names>J</given-names>
+</string-name> (<year>2000</year>) <article-title>Rapid destruction of human Cdc25A in response to DNA damage</article-title>. <source>Science</source>
+<volume>288</volume>, <fpage>1425</fpage>–<lpage>1429</lpage>.<pub-id pub-id-type="pmid">10827953</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/science.288.5470.1425</pub-id></mixed-citation></ref><ref id="feb412371-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="feb412371-cit-0033">
+<string-name name-style="western">
+<surname>Gaul</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mandl‐Weber</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baumann</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Emmerich</surname>
+<given-names>B</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Schmidmaier</surname>
+<given-names>R</given-names>
+</string-name> (<year>2008</year>) <article-title>Bendamustine induces G2 cell cycle arrest and apoptosis in myeloma cells: the role of ATM‐Chk2‐Cdc25A and ATM‐p53‐p21‐pathways</article-title>. <source>J Cancer Res Clin Oncol</source>
+<volume>134</volume>, <fpage>245</fpage>–<lpage>253</lpage>.<pub-id pub-id-type="pmid">17653574</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00432-007-0278-x</pub-id><pub-id pub-id-type="pmcid">PMC12161681</pub-id></mixed-citation></ref><ref id="feb412371-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="feb412371-cit-0034">
+<string-name name-style="western">
+<surname>Busino</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chiesa</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Draetta</surname>
+<given-names>GF</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Donzelli</surname>
+<given-names>M</given-names>
+</string-name> (<year>2004</year>) <article-title>Cdc25A phosphatase: combinatorial phosphorylation, ubiquitylation and proteolysis</article-title>. <source>Oncogene</source>
+<volume>23</volume>, <fpage>2050</fpage>–<lpage>2056</lpage>.<pub-id pub-id-type="pmid">15021892</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/sj.onc.1207394</pub-id></mixed-citation></ref></ref-list></back></article>

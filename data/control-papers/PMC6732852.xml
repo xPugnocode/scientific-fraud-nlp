@@ -1,0 +1,405 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article article-type="research-article" xml:lang="en" dtd-version="1.4"><front><journal-meta><journal-id journal-id-type="nlm-ta">Technol Cancer Res Treat</journal-id><journal-id journal-id-type="iso-abbrev">Technol. Cancer Res. Treat</journal-id><journal-id journal-id-type="pmc-domain-id">3299</journal-id><journal-id journal-id-type="pmc-domain">tct</journal-id><journal-id journal-id-type="nlm-id">101140941</journal-id><journal-id journal-id-type="publisher-id">TCT</journal-id><journal-title-group><journal-title>Technology in Cancer Research &amp; Treatment</journal-title></journal-title-group><issn pub-type="ppub">1533-0346</issn><issn pub-type="epub">1533-0338</issn><publisher><publisher-name>SAGE Publications</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC6732852</article-id><article-id pub-id-type="pmcid-ver">PMC6732852.1</article-id><article-id pub-id-type="pmcaid">6732852</article-id><article-id pub-id-type="pmcaiid">6732852</article-id><article-id pub-id-type="pmid">31888414</article-id><article-id pub-id-type="doi">10.1177/1533033819870781</article-id><article-id pub-id-type="publisher-id">10.1177_1533033819870781</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>Curcumin Regulates the Progression of Colorectal Cancer via LncRNA NBR2/AMPK
+Pathway</article-title></title-group><contrib-group><contrib contrib-type="author"><name name-style="western"><surname>Yu</surname><given-names initials="H">Hua</given-names></name><degrees>MM</degrees><xref ref-type="aff" rid="aff1-1533033819870781">1</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Xie</surname><given-names initials="Y">Yangyang</given-names></name><degrees>MM</degrees><xref ref-type="aff" rid="aff2-1533033819870781">2</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Zhou</surname><given-names initials="Z">Zhendong</given-names></name><degrees>MM</degrees><xref ref-type="aff" rid="aff2-1533033819870781">2</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Wu</surname><given-names initials="Z">Zhou</given-names></name><degrees>MM</degrees><xref ref-type="aff" rid="aff2-1533033819870781">2</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Dai</surname><given-names initials="X">Xiaoyu</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="aff2-1533033819870781">2</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-3240-8970</contrib-id><name name-style="western"><surname>Xu</surname><given-names initials="B">Binbin</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="aff1-1533033819870781">1</xref><xref ref-type="corresp" rid="corresp1-1533033819870781"/></contrib></contrib-group><aff id="aff1-1533033819870781">
+<label>1</label>Department of Nutrition, The Second Hospital of Ningbo, Ningbo, People’s
+Republic of China</aff><aff id="aff2-1533033819870781">
+<label>2</label>Department of Anorectal Surgery, The Second Hospital of Ningbo, Ningbo,
+People’s Republic of China</aff><author-notes><corresp id="corresp1-1533033819870781">Binbin Xu, Department of Nutrition, The Second
+Hospital of Ningbo, NO. 41 Xibei Street, Ningbo 315010, Zhejiang Province, People’s
+Republic of China. Email: <email>xubinbin20171122@163.com</email></corresp></author-notes><pub-date pub-type="epub"><day>05</day><month>9</month><year>2019</year></pub-date><pub-date pub-type="collection"><year>2019</year></pub-date><volume>18</volume><issue-id pub-id-type="pmc-issue-id">326555</issue-id><elocation-id>1533033819870781</elocation-id><history><date date-type="received"><day>23</day><month>11</month><year>2017</year></date><date date-type="rev-recd"><day>10</day><month>4</month><year>2019</year></date><date date-type="accepted"><day>12</day><month>6</month><year>2019</year></date></history><pub-history><event event-type="pmc-release"><date><day>05</day><month>09</month><year>2019</year></date></event><event event-type="pmc-live"><date><day>13</day><month>09</month><year>2019</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2024-04-19 17:25:29.660"><day>19</day><month>04</month><year>2024</year></date></event></pub-history><permissions><copyright-statement>© The Author(s) 2019</copyright-statement><copyright-year>2019</copyright-year><copyright-holder content-type="sage">SAGE Publications</copyright-holder><license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="creative-commons" xlink:href="http://creativecommons.org/licenses/by-nc/4.0/"><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>This article is distributed under the terms of the Creative Commons
+Attribution-NonCommercial 4.0 License (<ext-link ext-link-type="uri" xlink:href="http://www.creativecommons.org/licenses/by-nc/4.0/">http://www.creativecommons.org/licenses/by-nc/4.0/</ext-link>) which permits
+non-commercial use, reproduction and distribution of the work without further permission
+provided the original work is attributed as specified on the SAGE and Open Access pages
+(<ext-link ext-link-type="uri" xlink:href="https://us.sagepub.com/en-us/nam/open-access-at-sage">https://us.sagepub.com/en-us/nam/open-access-at-sage</ext-link>).</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="10.1177_1533033819870781.pdf"/><abstract><sec><title>Objective:</title><p>To identify the effect of curcumin on tumor suppression and the possible molecular
+pathways involved.</p></sec><sec><title>Methods:</title><p>The expression of long noncoding RNA neighbor of BRCA1 lncRNA 2 (NBR2) was quantified
+using reverse transcription-polymerase chain reaction on cultured colorectal cancer
+cells. Next, we used Western blot to measure the activation of adenosine
+monophosphate-activated protein kinase and mechanistic target of rapamycin kinase (mTOR)
+signaling molecules. Both cell proliferation and viability were measured via MTT assay,
+and the cell ratio and S phase were detected by BrdU assay. Colorectal cancer cells were
+pretreated with curcumin or transfected with shNBR2 or adenosine monophosphate-activated
+protein kinase inhibitor Compound C to examine the molecular pathway involved.</p></sec><sec><title>Results:</title><p>Current data showed that glucose deficiency increased the expression of NBR2 in
+colorectal cancer cells, and NBR2 knockdown affected the progression of colorectal
+cancer cells under glucose starvation conditions. When NBR2 was silenced in the treated
+colorectal cancer cells, the proliferation, the clone formation, and the percentage of
+S-phase cells suppressed by glucose deprivation were compromised. Furthermore, NBR2
+knockdown could suppress glucose deprivation-induced adenosine monophosphate-activated
+protein kinase activation plus mTOR inactivation. Similarly, when colorectal cancer
+cells were treated with curcumin, the expression of NBR2 was significantly increased.
+NBR2 knockdown reversed curcumin-suppressed proliferation, clone formation, and the
+percentage of S-phase colorectal cancer cells. Furthermore, NBR2 knockdown abolished
+curcumin-induced activation of adenosine monophosphate-activated protein kinase and
+inactivation of the mTOR signaling pathway.</p></sec><sec><title>Conclusion:</title><p>This study revealed a novel mechanism by which long noncoding RNA NBR2 mediates
+curcumin suppression of colorectal cancer proliferation by activating adenosine
+monophosphate-activated protein kinase and inactivating the mTOR signaling pathway.</p></sec></abstract><kwd-group><kwd>curcumin</kwd><kwd>colorectal cancer</kwd><kwd>NBR2</kwd><kwd>AMPK</kwd></kwd-group><funding-group><award-group id="award1-1533033819870781"><funding-source id="funding1-1533033819870781"><institution-wrap><institution>Ningbo Natural Science Foundation</institution></institution-wrap></funding-source><award-id rid="funding1-1533033819870781">2017A610145, 2017A610158, 2016A610135</award-id></award-group></funding-group><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January-December 2019</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="intro" id="section1-1533033819870781"><title>Introduction</title><p>Colorectal cancer (CRC) has become the third most prevalent malignant tumor worldwide and
+one of the leading causes of cancer-induced mortality.<sup><xref rid="bibr1-1533033819870781" ref-type="bibr">1</xref></sup> Despite recent progress in early-stage screening and the development of more
+effective treatments for CRC, the prognosis of advanced stage CRC is still unfavorable.<sup><xref rid="bibr2-1533033819870781" ref-type="bibr">2</xref></sup> Therefore, predictive biomarkers are clearly and urgently needed to detect CRC and to
+identify the most effective treatments for specific patients with CRC.</p><p>Long noncoding RNAs (lncRNAs) are a group of endogenous RNA molecules that are more than
+200 nucleotides in length but lack an open reading frame.<sup><xref rid="bibr3-1533033819870781" ref-type="bibr">3</xref></sup> A previous study revealed that lncRNAs impact a variety of important biological processes.<sup><xref rid="bibr4-1533033819870781" ref-type="bibr">4</xref></sup> Liang <italic toggle="yes">et al</italic> indicated that lncRNA H19 promotes the process of
+epithelial to mesenchymal transition as 1 microRNA (miRNA) “sponge” in CRC.<sup><xref rid="bibr5-1533033819870781" ref-type="bibr">5</xref></sup> In addition, another lncRNA molecule, DANCR, has been indicated to be an independent
+predictor of unfavorable prognosis and shortened survival in CRC. Furthermore, lncRNA GAS5
+facilitates cell proliferation and works as an indicator for poor prognosis in patients with CRC.<sup><xref rid="bibr6-1533033819870781" ref-type="bibr">6</xref></sup>
+</p><p>NBR2 is a noncoding sequence that resides adjacent to the well-known tumor suppressor gene
+BRCA1. Its biological function has remained unknown for many years since its initial discovery.<sup><xref rid="bibr7-1533033819870781" ref-type="bibr">7</xref></sup> A previous study found that NBR2 interacts with adenosine monophosphate-activated
+protein kinase (AMPK) and promotes the kinase activity of AMPK, and NBR2 deficiency dampens
+glucose starvation-induced AMPK activation and AMPK-mediated downstream biological processes.<sup><xref rid="bibr8-1533033819870781" ref-type="bibr">8</xref></sup>
+</p><p>Adenosine monophosphate-activated protein kinase is one intracellular energy sensor.
+Structural analysis reveals that it has a heterotrimeric form consisting of 1 catalytic
+subunit (α) plus 2 regulatory subunits (β and γ).<sup><xref rid="bibr9-1533033819870781" ref-type="bibr">9</xref></sup> Once activated, AMPK can phosphorylate various downstream effector substrates, such
+as those that serve to shut down anabolic processes and facilitate adenosine
+triphosphate-generating catabolic metabolism, thus helping to restore energy homeostasis
+after stress challenge.<sup><xref rid="bibr10-1533033819870781" ref-type="bibr">10</xref></sup> Although we have plenty of evidence showing that AMPK regulates downstream targets
+and their biological implications, the mechanisms of AMPK activation itself remain unclear.
+A previous study demonstrated the direct interaction between NBR2 and the kinase domain of
+the AMPK complex, and an <italic toggle="yes">in vitro</italic> kinase assay also suggested that NBR2
+potentiated AMPK kinase activity. Moreover, the interaction between NBR2 and AMPK is highly
+correlated with its capacity to promote the kinase activity of AMPK, suggesting that the
+regulation of AMPK activation by NBR2 seems to be mediated via its interaction with AMPK.<sup><xref rid="bibr8-1533033819870781" ref-type="bibr">8</xref></sup>
+</p><p>Curcumin is identified in the rhizomes of <italic toggle="yes">Curcuma longa</italic> and has been shown
+to have multiple biological functions.<sup><xref rid="bibr11-1533033819870781" ref-type="bibr">11</xref></sup> Thus far, most of the effect of curcumin is focused on cancer treatment,<sup><xref rid="bibr11-1533033819870781" ref-type="bibr">11</xref></sup> as the single or combined use of curcumin has been approved for the intervention of
+human cancers, including CRC.<sup><xref rid="bibr12-1533033819870781" ref-type="bibr">12</xref></sup> However, the molecular mechanism that curcumin plays in colorectal cancer is only
+sparsely understood. We thus performed an <italic toggle="yes">in vitro</italic> assay using curcumin to
+treat cultured CRC cells and to analyze the molecular mechanism involved. Our results
+supported the working model that curcumin suppressed tumor growth by inducing the expression
+of lncRNA NBR2, which could activate AMPK and inactivate the mechanistic target of rapamycin
+kinase (mTOR) signaling pathway for cell death.</p></sec><sec sec-type="methods" id="section2-1533033819870781"><title>Methods</title><sec id="section3-1533033819870781"><title>Cell Culture</title><p>A total of 4 human CRC cell lines, including HCT116, HCT8, SW480, and SW620, were
+purchased from the Type Culture Collection, Chinese Academy of Sciences (Shanghai, China)
+and cultured in Dulbecco Modified Eagle Medium (DMEM) containing 10% fetal bovine serum
+(Gibco, Waltham, MA, USA). Cells were cultured in a humidified incubator with 5%
+CO<sub>2</sub>, and the temperature was 37°C. The concentration of curcumin used in the
+cell treatment was 10 μM based on a previous study.<sup><xref rid="bibr13-1533033819870781" ref-type="bibr">13</xref></sup> In glucose starvation assays, cells were treated with different concentrations of
+glucose (0, 1, or 25 mM) within DMEM containing 10% fetal bovine serum.</p></sec><sec id="section4-1533033819870781"><title>Cell Transfection</title><p>LncRNA NBR2 shRNA was purchased from GenePharma (Shanghai, China). HCT116 and SW480 CRC
+cells were seeded at a density of 1.8 × 10<sup>5</sup> cells per well in a 12-well plate.
+Transient transfection was conducted using a Lipofectamine 2000 kit (Invitrogen, Carlsbad,
+California, United States) following the instructions of the manufacturer.</p></sec><sec id="section5-1533033819870781"><title>MTT Assay</title><p>HCT116 and SW480 CRC cells were treated with
+3-(4,5-dimethyl-2-thiazolyl)-2,5-diphenyl-2-H-tetrazolium bromide (10% dilution in DMEM)
+at 37°C until the appearance of visible color. The cell proliferation rate was determined
+at 24, 48, and 72 hours posttransfection.</p></sec><sec id="section6-1533033819870781"><title>Colony Formation Assay</title><p>The colony formation assay was performed by seeding 200 cells into each well of the
+6-well plate. After 14 days of incubation, cells were treated with 0.05% Crystal violet
+for 1 hour at room temperature. Under light field microscopy, the number of colonies in
+each well was enumerated. All groups were tested in triplicate.</p></sec><sec id="section7-1533033819870781"><title>BrdU Assay</title><p>HCT116 and SW480 CRC cells were seeded at 1.8 × 10<sup>5</sup> cells/well in DMEM
+containing 10 μM BrdU. After 3 hours incubation, cells were fixed for 15 minutes using 4%
+paraformaldehyde and were washed with phosphate-buffered saline (PBS) buffer followed by
+0.5 mL Triton X-100. After further rinsing, the cells were treated with DNase (Tiangen,
+China) for 20 minutes at room temperature. Primary antibody against BrdU (Abcam,
+Cambridge, MA, USA) was then added following PBS washing for 12 hours incubation at 4°C.
+On the next day, cells were washed with PBS and incubated in secondary antibody for 60
+minutes at room temperature. BrdU-positive cells were detected by flow cytometry.</p></sec><sec id="section8-1533033819870781"><title>RNA Isolation and Reverse Transcription-Polymerase Chain Reaction</title><p>Total cellular RNA was extracted using a Trizol kit (Takara, Kusatsu, Shiga, Japan)
+according to the manufacturer’s instructions. Cellular messenger RNA levels were
+quantified using SYBR PrimeScript RT-PCR Kit (Takara). The expression of NBR2 was measured
+using specific primers (Forward, 5′-GAGGTCTCCAGTTTCGGTAA-3′; Reverse,
+5′-GAACCAAGGTGAAGGACCAA-3′). For the analysis of miRNA, we used stem-loop primers for
+reverse transcription and reverse transcription-polymerase chain reaction for miRNAs.
+These primers were purchased from RiboBio (Guangzhou, China). The relative expression of
+miRNAs was normalized to the internal control of the U6 RNA molecule (Forward,
+5′-CGCTTCGGCAGCACATATAC-3′; Reverse, 5′-ATGGAACGCTTCACGAATTT-3′).</p></sec><sec id="section9-1533033819870781"><title>Western Blotting</title><p>Primary antibodies used in Western blotting, including anti-GAPDH (#5174), anti-p-AMPK
+(#4186), anti-AMPK (#2532), anti-p-ACC (#11818), anti-ACC (#3662), anti-p-S6 K (#2708),
+anti-S6 K (#9202), anti-p-S6 (#9209), and anti-S6 (#2317), were all purchased from Cell
+Signaling Technology (Danvers, MA, USA). In brief, cells were first lysed in Radio
+Immunoprecipitation Assay (RIPA) buffer. Proteins were quantified using the Bicinchoninic
+Acid (BCA) approach and were loaded onto 1× sodium dodecyl sulfate polyacrylamide gel
+electrophoresis for separation. Proteins were then transferred onto polyvinyl difluoride
+membranes (Millipore), which were incubated sequentially with primary and secondary
+antibodies (1:2000 dilutions for anti-GAPDH and 1:1000 for other antibodies).</p></sec><sec id="section10-1533033819870781"><title>Data Analysis</title><p>All statistical analyses were performed using the SPSS software package (version 17.0,
+IBM, Armonk, NY, USA). All data are shown as the mean ± standard error. Student
+<italic toggle="yes">t</italic> test was used for between-group comparisons, and 1-way analysis of
+variance was adopted for comparisons among multiple groups. <italic toggle="yes">P</italic> values
+&lt;.05 were considered statistically significant.</p></sec></sec><sec sec-type="results" id="section11-1533033819870781"><title>Results</title><sec id="section12-1533033819870781"><title>Energy Starvation Could Increase the Expression of NBR2</title><p>Previous knowledge has revealed the activation of the AMPK pathway by starvation of
+cells. To verify the connection between glucose starvation-induced AMPK activation and
+NBR2 in CRC cells, we tested whether glucose-free medium would induce the change of NBR2
+in CRC cell lines. The results revealed that glucose deficiency induced the increased
+expression of NBR2 in HCT116, HCT8, SW480, and SW620 cells compared to 25 mM
+glucose-treated cells (<xref ref-type="fig" rid="fig1-1533033819870781">Figure 1A and
+1B</xref>, <italic toggle="yes">P</italic> &lt; .01). Furthermore, we used the AMPK inhibitor
+Compound C to test the expression of NBR2 in HCT116 and SW480 cells. The results showed
+that Compound C could suppress the expression of NBR2 in either HCT116 or SW480 cells with
+or without glucose (<xref ref-type="fig" rid="fig1-1533033819870781">Figure 1C and
+D</xref>, <italic toggle="yes">P</italic> &lt; .05 or <italic toggle="yes">P</italic> &lt; .01, respectively).
+Further substantiation came from the observation that NBR2 was expressed in both nuclear
+and cytosolic fractions (<xref ref-type="fig" rid="fig1-1533033819870781">Figure
+1E</xref>). These results showed that glucose deprivation-induced NBR2 upregulation in CRC
+cells, at least partly via an AMPK-dependent pathway.</p><fig id="fig1-1533033819870781" orientation="portrait" position="float"><label>Figure 1.</label><caption><p>Glucose starvation-induced NBR2 upregulation in cultured colorectal cancer (CRC)
+cells. A and B, Reverse transcription-PCR showed the expression change of NBR2 in
+HCT116, HCT8, SW480, and SW620 cells treated with 0 or 25 mM glucose for 24 hours
+using 2 primer sets. C and D, Reverse transcription-PCR showed the expression of NBR2
+in HCT116 and SW480 cells treated with 0 or 25 mM glucose plus Compound C treatment
+for 24 hours. E to G, Total, nuclear (Nul), and cytosolic (Cyt) expression of NBR2
+plus normalization genes GAPDH1 and U1. Three independent experiments were performed,
+and the results are presented as the mean ± standard deviation. *<italic toggle="yes">P</italic>
+&lt; .05, **<italic toggle="yes">P</italic> &lt; .01. RT-PCR indicates reverse
+transcription-polymerase chain reaction.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_1533033819870781-fig1.jpg"/></fig></sec><sec id="section13-1533033819870781"><title>NBR2 Knockdown Suppressed the Glucose Deprivation-Induced AMPK/mTOR Signaling
+Pathway</title><p>To investigate the downstream signaling pathway of NBR2, we suppressed NBR2 expression in
+both HCT116 and SW480 cells. First, the transfection of shNBR2 effectively suppressed NBR2
+transcript levels in both HCT116 (<xref ref-type="fig" rid="fig2-1533033819870781">Figure
+2A</xref>, <italic toggle="yes">P</italic> &lt; .05 compared to shNC group) and SW480 cells (<xref ref-type="fig" rid="fig2-1533033819870781">Figure 2B</xref>). Next, we found that shNBR2
+transfection effectively abolished the glucose deprivation-induced upregulation of
+phosphorylated AMPK (<xref ref-type="fig" rid="fig2-1533033819870781">Figure 2C and
+E</xref>, <italic toggle="yes">P</italic> &lt; .05 compared to the shNC + glucose deprivation group).
+Since AMPK activation is known to suppress mTOR phosphorylation, we thus examined
+indicators of the mTOR signaling pathway, S6K and S6. The results showed that in the
+shNBR2 transfection group, phosphorylation of both S6K and S6 was activated in both HCT116
+(<xref ref-type="fig" rid="fig2-1533033819870781">Figure 2C and D</xref>) and SW480
+cells (<xref ref-type="fig" rid="fig2-1533033819870781">Figure 2E and F</xref>).
+Therefore, NBR2 could activate the AMPK pathway to suppress mTOR activation, and NBR2
+knockdown reversed this process to activate mTOR signaling.</p><fig id="fig2-1533033819870781" orientation="portrait" position="float"><label>Figure 2.</label><caption><p>Knockdown NBR2 in HCT116 and SW480 cells and the detected expression of glucose
+starvation-induced changes in protein phosphorylation in AMPK/mTOR signaling. A and B,
+Reverse transcription-PCR showed the level of NBR2 in both HCT116 and SW480 cells
+after transfection with shNBR2. C-F, Western blotting protein bands and quantitative
+analysis showed changes in the phosphorylation levels of AMPK, ACC, S6K, and S6
+proteins in both HCT116 and SW480 cells treated with 0 or 25 mM glucose for 24 hours.
+Three independent experiments were performed, and the results are presented as the
+mean ± standard deviation. *<italic toggle="yes">P</italic> &lt; .05. AMPK indicates adenosine
+monophosphate-activated protein kinase; RT-PCR, reverse transcription-polymerase chain
+reaction.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_1533033819870781-fig2.jpg"/></fig></sec><sec id="section14-1533033819870781"><title>NBR2 Knockdown Affects the Progression of CRC Cells Under Glucose Starvation
+Conditions</title><p>Then, we detected whether NBR2 affects the progression of CRC cells under glucose
+starvation conditions. First, MTT assay results revealed that shNBR2 suppresses the
+proliferation of either HCT116 or SW480 cells when compared to the control group under
+glucose deprivation conditions (<xref ref-type="fig" rid="fig3-1533033819870781">Figure 3A
+and B</xref>, <italic toggle="yes">P</italic> &lt;.05). Second, we measured the effect of NBR2 on the
+colony formation potency of HCT116 or SW480 cells, and the results showed that shNBR2
+increases the clone formation both at high-glucose or low-glucose conditions in HCT116 and
+SW480 cells (<xref ref-type="fig" rid="fig3-1533033819870781">Figure 3C and D</xref>,
+<italic toggle="yes">P</italic> &lt; .05). Third, a BrdU assay was performed to detect the role of
+NBR2 in the regulation of the S-phase proportion. We found that shNBR2 notably increased
+the percentage of S-phase cells at high-glucose or low-glucose conditions in HCT116 and
+SW480 cells (<xref ref-type="fig" rid="fig3-1533033819870781">Figure 3E and F</xref>,
+<italic toggle="yes">P</italic> &lt; .05).</p><fig id="fig3-1533033819870781" orientation="portrait" position="float"><label>Figure 3.</label><caption><p>NBR2 knockdown affects the progression of colorectal cancer (CRC) cells under glucose
+starvation conditions. A and B, MTT assay results revealed the proliferation of HCT116
+and SW480 cells after transfection with shNBR2 and treatment with 0 or 25 mM glucose
+for 24 hours. C and D, Clonal formation assay showed the proliferation of HCT116 and
+SW480 cells under high-glucose or low-glucose conditions with shNBR2 transfection and
+treated with 1 or 25 mM glucose for 24 hours. E and F, BrdU assay showed the
+percentage of S-phase cells under high-glucose or low-glucose conditions in HCT116 and
+SW480 cells treated with 0 or 25 mM glucose for 24 hours. Three independent
+experiments were performed, and the results are presented as the mean ± standard
+deviation. *<italic toggle="yes">P</italic> &lt; .05.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_1533033819870781-fig3.jpg"/></fig></sec><sec id="section15-1533033819870781"><title>NBR2 Knockdown Abolished the Inhibitory Effect of Curcumin in CRC Cells</title><p>Due to the known AMPK activation by curcumin, we further detected the role that curcumin
+played in HCT116 and SW480 cells, as curcumin significantly upregulated NBR2 in HCT116,
+HCT8, SW480, and SW620 cells (<xref ref-type="fig" rid="fig4-1533033819870781">Figure
+4A</xref>, <italic toggle="yes">P</italic> &lt; .01 compared to control cells). With shNBR2
+transfection into HCT116 or SW480 cells, the expression of NBR2 was notably suppressed
+regardless of pretreatment with curcumin (<xref ref-type="fig" rid="fig4-1533033819870781">Figure 4B and C</xref>, <italic toggle="yes">P</italic> &lt; .05). Therefore, curcumin exerted these
+effects to upregulate NBR2 in CRC cells.</p><fig id="fig4-1533033819870781" orientation="portrait" position="float"><label>Figure 4.</label><caption><p>Curcumin elevated the level of NBR2 in CRC cells. A, RT-PCR showed the expression
+level of NBR2 in HCT116, HCT8, SW480, and SW620 cells after treatment with 0 or 10 μM
+curcumin for 24 hours. B, C, Reverse transcription-PCR showed NBR2 levels in
+curcumin-treated cells after shNBR2 transfection treated with 0 or 10 μM curcumin for
+24 hours. Three independent experiments were performed, and the results are presented
+as the mean ± standard deviation. *<italic toggle="yes">P</italic> &lt; .05, **<italic toggle="yes">P</italic>
+&lt; .01. CRC indicates colorectal cancer; RT-PCR indicates reverse
+transcription-polymerase chain reaction.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_1533033819870781-fig4.jpg"/></fig><p>We further examined whether the suppression role of curcumin was dependent on NBR2. MTT
+results revealed a curcumin-induced suppression of proliferation of HCT116 and SW480 cells
+(<xref ref-type="fig" rid="fig5-1533033819870781">Figure 5A and B</xref>,
+<italic toggle="yes">P</italic> &lt; .05); however, when NBR2 was knocked down, this inhibitory
+effect was compromised (<xref ref-type="fig" rid="fig5-1533033819870781">Figure 5A and
+B</xref>, <italic toggle="yes">P</italic> &lt; .05, <italic toggle="yes">P</italic> &lt; .01). Moreover, shNBR2
+could elevate the suppressed colony formation by curcumin in HCT116 and SW480 cells (<xref ref-type="fig" rid="fig5-1533033819870781">Figure 5C and D</xref>). Consistent results
+were found in cell cycle analysis, as shNBR2 increased the percentage of cells in the
+S-phase attenuated by curcumin treatment in HCT116 and SW480 cells (<xref ref-type="fig" rid="fig5-1533033819870781">Figure 5E and F</xref>, <italic toggle="yes">P</italic> &lt; .05).</p><fig id="fig5-1533033819870781" orientation="portrait" position="float"><label>Figure 5.</label><caption><p>Inhibition effect of curcumin in CRC is mediated by NBR2. A and B, MTT assay revealed
+the proliferation of HCT116 and SW480 cells after treatment with 0 or 10 μM curcumin
+for 24 hours. C and D, Clone formation in curcumin-treated HCT116 and SW480 cells
+after shNBR2 transfection and treated with 0 or 10 μM curcumin for 24 hours. E and F,
+BrdU assay showed the percentage of S-phase cells induced by curcumin in HCT116 and
+SW480 cells after shNBR2 transfection and treated with 0 or 10 μM curcumin for 24
+hours. Three independent experiments were performed, and the results are presented as
+the mean ± standard deviation. *<italic toggle="yes">P</italic> &lt; 0.05, **<italic toggle="yes">P</italic>
+&lt; .01. CRC indicates colorectal cancer.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_1533033819870781-fig5.jpg"/></fig></sec><sec id="section16-1533033819870781"><title>NBR2 Knockdown Eliminated the Effect of Curcumin on AMPK/mTOR Signaling</title><p>Finally, we investigated p-AMPK, p-ACC, p-S6K, and p-S6 in HCT116 and SW480 cells treated
+with curcumin. Similar to the glucose starvation treatment, curcumin significantly
+decreased the phosphorylation of p-AMPK and p-ACC (<xref ref-type="fig" rid="fig6-1533033819870781">Figure 6A and C</xref>) and increased the level of p-S6K
+against total S6K (<xref ref-type="fig" rid="fig6-1533033819870781">Figure 6B and
+D</xref>). With NBR2 knockdown in the curcumin-treated cells, the suppression of p-AMPK
+and p-ACC induced by curcumin was notably abolished, while the levels of p-S6K and p-S6
+were unchanged upon curcumin treatment (<xref ref-type="fig" rid="fig6-1533033819870781">Figure 6A-D</xref>). These results demonstrated that NBR2 is mediated by curcumin
+regulating AMPK/mTOR signaling.</p><fig id="fig6-1533033819870781" orientation="portrait" position="float"><label>Figure 6.</label><caption><p>NBR2 knockdown compromised curcumin-induced changes in protein phosphorylation in
+AMPK/mTOR signaling. A and B, Western blotting bands and quantitative analysis showed
+phosphorylation of AMPK, ACC, S6K, and S6 proteins in curcumin-treated HCT116 cells
+with shNBR2 transfection and treated with 0 or 10 μM curcumin for 24 hours. C and D,
+Phosphorylation of AMPK, ACC, S6K, and S6 proteins in curcumin-treated SW480 cells
+with shNBR2 transfection and treated with 0 or 10 μM curcumin for 24 hours. Three
+independent experiments were performed, and the results are presented as the mean ±
+standard deviation. AMPK indicates adenosine monophosphate-activated protein
+kinase.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_1533033819870781-fig6.jpg"/></fig></sec><sec id="section17-1533033819870781"><title>Effects of Curcumin on AMPK/mTOR Signaling Under Glucose Deprivation</title><p>To further elucidate the mechanism of curcumin, we treated cells under
+glucose-deprivation conditions. Under glucose-supplemented conditions, curcumin treatment
+significantly activated p-AMPK and p-ACC (<xref ref-type="fig" rid="fig7-1533033819870781">Figure 7A and C</xref>) and suppressed the p-S6K/p-S6 pathway (<xref ref-type="fig" rid="fig7-1533033819870781">Figure 7B and D</xref>). Furthermore, glucose-deficient
+conditions facilitated the curcumin-activated AMPK-ACC pathway and inactivated the S6K-S6
+pathway (<xref ref-type="fig" rid="fig7-1533033819870781">Figure 7</xref>). These results
+demonstrated that curcumin and glucose deficiency have a synergetic effect in regulating
+the AMPK/mTOR pathway under glucose-deficient conditions.</p><fig id="fig7-1533033819870781" orientation="portrait" position="float"><label>Figure 7.</label><caption><p>Regulation of the AMPK/mTOR pathway by curcumin under glucose-replenishment and
+glucose-deficient conditions. A, Western blotting and quantitative analysis of p-AMPK
+and p-ACC in HCT116 cells by curcumin treatment. B, Western blotting for the relative
+expression of the p-S6K/p-S6 pathway in HCT116 cells. C, Western blotting and
+quantitative analysis of p-AMPK and p-ACC in SW480 cells by curcumin treatment. D,
+Western blotting for the relative expression of the p-S6K/p-S6 pathway in SW480 cells.
+Three independent experiments were performed, and the results are presented as the
+mean ± standard deviation. *<italic toggle="yes">P</italic> &lt; .05, **<italic toggle="yes">P</italic> &lt;
+.01. AMPK indicates adenosine monophosphate-activated protein kinase.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_1533033819870781-fig7.jpg"/></fig></sec></sec><sec sec-type="discussion" id="section18-1533033819870781"><title>Discussion</title><p>In this study, we showed that NBR2 expression was strongly induced by glucose deprivation
+in cultured CRC cells. Activated NBR2 may further activate the AMPK signaling pathway and
+thus suppress the proliferation of tumor cells. These results are consistent with previous
+reports showing the tumor suppressor function of NBR2.<sup><xref rid="bibr8-1533033819870781" ref-type="bibr">8</xref></sup> Both RNA sequencing and analysis of noncoding RNA profiles have identified NBR2 as a
+candidate lncRNA with a response to glucose starvation.<sup><xref rid="bibr14-1533033819870781" ref-type="bibr">14</xref></sup> In the present study, we found that glucose deficiency induces the expression of NBR2
+in CRC cells via the energy stress sensor AMPK. This NBR2 upregulation sequentially
+inactivated the mTOR signaling pathway and activated AMPK, thus forming a positive feedback
+loop to further potentiate AMPK under energy stress. These cellular events further led to
+cell proliferation suppression, whereas NBR2 knockdown abolished this process.</p><p>NBR2 has been demonstrated as one tumor suppression factor via transregulation with the
+BRCA1 promoter using a breast cancer cell model.<sup><xref rid="bibr15-1533033819870781" ref-type="bibr">15</xref></sup> Our study is the first to report NBR2 upregulation induced by glucose deprivation in
+CRC cells <italic toggle="yes">in vitro</italic>. This is consistent with the consequent suppression of
+cell proliferation, which received further evidence that NBR2 knockdown could protect CRC
+cells from glucose deprivation-induced cell death. We further studied possible downstream
+signaling pathways of NBR2. As previous studies have shown that NBR2 could interfere with
+the AMPK signaling pathway to mediate cancer cell sensitivity,<sup><xref rid="bibr7-1533033819870781" ref-type="bibr">7</xref></sup> we thus examined the phosphorylated activation level of AMPK. The results showed that
+glucose deprivation could effectively induce AMPK signaling phosphorylation and that shNBR2
+transfection blocked these effects. A further downstream signaling of NBR2 we identified in
+this study was mTOR, which is known to be inhibited by AMPK phosphorylation.<sup><xref rid="bibr16-1533033819870781" ref-type="bibr">16</xref>,<xref rid="bibr17-1533033819870781" ref-type="bibr">17</xref></sup> It has been reported that several lncRNA molecules could mediate tumor growth by
+regulating mTOR and more specifically the mTOR complex 1 (mTORC1) system.<sup><xref rid="bibr18-1533033819870781" ref-type="bibr">18</xref></sup> In this study, we found that glucose deprivation prominently suppressed
+phosphorylation of S6K or S6, which are major effector proteins of mTORC1, and NBR2 blockade
+effectively abolished the selective suppression of mTORC1. In summary, NBR2 mediates glucose
+deprivation and reduces CRC tumor cell growth via sequential activation of AMPK, followed by
+mTOR inactivation. It is interesting that NBR2 knockdown induced increased cells in the
+S-phase under starvation conditions. Adenosine monophosphate-activated protein kinase
+signaling acts as the “checkpoint” for stressed cells, as inhibition of AMPK leads to mTOR
+activation and cell proliferation.<sup><xref rid="bibr19-1533033819870781" ref-type="bibr">19</xref></sup> Therefore, NBR2 knockdown tends to have similar effects. As a traditional Indian
+medicine, curcumin has a long history of usage in medical practice. Recently, curcumin has
+been proven to suppress the progression of various cancers, including tumors in the
+pancreas, lung, brain, ovary tissues, and breast gland.<sup><xref rid="bibr20-1533033819870781" ref-type="bibr">20</xref></sup> A previous study identified curcumin in suppressing CRC. For example, curcumin was
+found to target cancer stem cells of CRC.<sup><xref rid="bibr21-1533033819870781" ref-type="bibr">21</xref>,<xref rid="bibr22-1533033819870781" ref-type="bibr">22</xref></sup> Other studies supported a possible mechanism of curcumin in elevating chemotherapy
+sensitivity of CRC cells.<sup><xref rid="bibr23-1533033819870781" ref-type="bibr">23</xref> , <xref rid="bibr24-1533033819870781" ref-type="bibr">24</xref></sup> More importantly, curcumin was found to mediate the expression of microRNA molecules
+in CRC cells for further downstream effects.<sup><xref rid="bibr25-1533033819870781" ref-type="bibr">25</xref>,<xref rid="bibr26-1533033819870781" ref-type="bibr">26</xref></sup> The involvement of AMPK and the mTOR signaling pathway in curcumin-mediated functions
+has also been reported.<sup><xref rid="bibr27-1533033819870781" ref-type="bibr">27</xref>,<xref rid="bibr28-1533033819870781" ref-type="bibr">28</xref></sup> Our current data showed that curcumin also has an inhibitory effect on CRC. Moreover,
+curcumin significantly increased NBR2 expression in CRC cells; when NBR2 was suppressed, the
+inhibitory effect of curcumin on CRC was eliminated. These results indicated that curcumin
+regulates CRC progression by regulating the level of NBR2 and then activating AMPK
+signaling. In addition, curcumin affects downstream mTOR signaling in CRC cells, and
+curcumin regulated this signaling pathway through NBR2. Together, these results revealed
+that curcumin regulated the activated AMPK pathway via NBR2 upregulation and further
+suppressed mTOR to inhibit CRC cell proliferation.</p><p>In conclusion, this study revealed the inhibitory effect of curcumin on the progression of
+CRC via modulating the NBR2/AMPK/mTOR pathway. Further studies are thus required to
+illustrate the <italic toggle="yes">in vivo</italic> effects of curcumin in tumor models. Nevertheless,
+these data provide further evidence of curcumin in tumor suppression and may provide new
+insights for CRC therapy.</p></sec></body><back><fn-group><fn fn-type="other" id="fn1-1533033819870781"><p><bold>Authors’ Note:</bold> Our study did not require an ethical board approval because it did not contain human or
+animal trials.</p></fn><fn fn-type="COI-statement" id="fn2-1533033819870781"><p><bold>Declaration of Conflicting Interests:</bold> The author(s) declared no potential conflicts of interest with respect to the research,
+authorship, and/or publication of this article.</p></fn><fn fn-type="financial-disclosure" id="fn3-1533033819870781"><p><bold>Funding:</bold> The author(s) disclosed receipt of the following financial support for the research,
+authorship, and/or publication of this article: The project was supported by the Ningbo
+Natural Science Foundation (Grant Nos: 2018277842, 2018262634, 2017A610145, 2017A610158,
+2016A610135) and the Zhejiang Medical and Health Bureau (2017KY593, 2017KY594).</p></fn><fn fn-type="other" id="fn4-1533033819870781"><p><bold>ORCID iD:</bold> Binbin Xu <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="10.1177_1533033819870781-img1.jpg"/>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://orcid.org/0000-0002-3240-8970">https://orcid.org/0000-0002-3240-8970</ext-link>
+</p></fn></fn-group><glossary content-type="abbr"><title>Abbreviations</title><def-list><def-item><term id="term1-1533033819870781">lncRNA</term><def><p>long noncoding RNAs</p></def></def-item><def-item><term id="term2-1533033819870781">CRC</term><def><p>colorectal cancer</p></def></def-item><def-item><term id="term3-1533033819870781">AMPK</term><def><p>adenosine monophosphate-activated protein kinase</p></def></def-item><def-item><term id="term4-1533033819870781">DMEM</term><def><p>Dulbecco Modified Eagle Medium</p></def></def-item><def-item><term id="term5-1533033819870781">miRNA</term><def><p>micro RNA</p></def></def-item><def-item><term id="term6-1533033819870781">PBS</term><def><p>phosphate-buffered saline</p></def></def-item></def-list></glossary><ref-list><title>References</title><ref id="bibr1-1533033819870781"><label>1</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Thomas</surname><given-names>J</given-names></name><name name-style="western"><surname>Ohtsuka</surname><given-names>M</given-names></name><name name-style="western"><surname>Pichler</surname><given-names>M</given-names></name><name name-style="western"><surname>Ling</surname><given-names>H</given-names></name></person-group>
+<article-title>MicroRNAs: clinical relevance in colorectal
+cancer</article-title>. <source>Int J Mol Sci</source>.
+<year>2015</year>;<volume>16</volume>(<issue>12</issue>):<fpage>28063</fpage>–<lpage>28076</lpage>.<pub-id pub-id-type="pmid">26602923</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ijms161226080</pub-id><pub-id pub-id-type="pmcid">PMC4691027</pub-id></mixed-citation></ref><ref id="bibr2-1533033819870781"><label>2</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Okugawa</surname><given-names>Y</given-names></name><name name-style="western"><surname>Grady</surname><given-names>WM</given-names></name><name name-style="western"><surname>Goel</surname><given-names>A</given-names></name></person-group>
+<article-title>Epigenetic alterations in colorectal cancer: emerging
+biomarkers</article-title>. <source>Gastroenterology</source>.
+<year>2015</year>;<volume>149</volume>(<issue>5</issue>):<fpage>1204</fpage>–<lpage>1225.e12</lpage>.<pub-id pub-id-type="pmid">26216839</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1053/j.gastro.2015.07.011</pub-id><pub-id pub-id-type="pmcid">PMC4589488</pub-id></mixed-citation></ref><ref id="bibr3-1533033819870781"><label>3</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Esteller</surname><given-names>M</given-names></name></person-group>
+<article-title>Non-coding RNAs in human disease</article-title>.
+<source>Nat Rev Genet</source>.
+<year>2011</year>;<volume>12</volume>(<issue>12</issue>):<fpage>861</fpage>–<lpage>874</lpage>.<pub-id pub-id-type="pmid">22094949</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nrg3074</pub-id></mixed-citation></ref><ref id="bibr4-1533033819870781"><label>4</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Rinn</surname><given-names>JL</given-names></name><name name-style="western"><surname>Chang</surname><given-names>HY</given-names></name></person-group>
+<article-title>Genome regulation by long noncoding RNAs</article-title>.
+<source>Annu Rev Biochem</source>.
+<year>2012</year>;<volume>81</volume>:<fpage>145</fpage>–<lpage>166</lpage>.<pub-id pub-id-type="pmid">22663078</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1146/annurev-biochem-051410-092902</pub-id><pub-id pub-id-type="pmcid">PMC3858397</pub-id></mixed-citation></ref><ref id="bibr5-1533033819870781"><label>5</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Liang</surname><given-names>WC</given-names></name><name name-style="western"><surname>Fu</surname><given-names>WM</given-names></name><name name-style="western"><surname>Wong</surname><given-names>CW</given-names></name></person-group>, <etal>et al.</etal>
+<article-title>The lncRNA H19 promotes epithelial to mesenchymal transition by functioning
+as miRNA sponges in colorectal cancer</article-title>. <source>Oncotarget</source>.
+<year>2015</year>:<volume>6</volume>(<issue>26</issue>):<fpage>22513</fpage>–<lpage>22525</lpage>.<pub-id pub-id-type="pmid">26068968</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.18632/oncotarget.4154</pub-id><pub-id pub-id-type="pmcid">PMC4673179</pub-id></mixed-citation></ref><ref id="bibr6-1533033819870781"><label>6</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Yin</surname><given-names>D</given-names></name><name name-style="western"><surname>He</surname><given-names>X</given-names></name><name name-style="western"><surname>Zhang</surname><given-names>E</given-names></name><name name-style="western"><surname>Kong</surname><given-names>R</given-names></name><name name-style="western"><surname>De</surname><given-names>W</given-names></name><name name-style="western"><surname>Zhang</surname><given-names>Z</given-names></name></person-group>
+<article-title>Long noncoding RNA GAS5 affects cell proliferation and
+predicts a poor prognosis in patients with colorectal cancer</article-title>.
+<source>Med Oncol</source>.
+<year>2014</year>;<volume>31</volume>(<issue>11</issue>):<fpage>253</fpage>.<pub-id pub-id-type="pmid">25326054</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s12032-014-0253-8</pub-id></mixed-citation></ref><ref id="bibr7-1533033819870781"><label>7</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Liu</surname><given-names>X</given-names></name><name name-style="western"><surname>Gan</surname><given-names>B.</given-names></name></person-group>
+<article-title>lncRNA NBR2 modulates cancer cell sensitivity to phenformin through
+GLUT1</article-title>. <source>Cell Cycle</source>.
+<year>2016</year>;<volume>15</volume>(<issue>24</issue>):<fpage>3471</fpage>–<lpage>3481</lpage>.<pub-id pub-id-type="pmid">27792451</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/15384101.2016.1249545</pub-id><pub-id pub-id-type="pmcid">PMC5224451</pub-id></mixed-citation></ref><ref id="bibr8-1533033819870781"><label>8</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Liu</surname><given-names>X</given-names></name><name name-style="western"><surname>Xiao</surname><given-names>ZD</given-names></name><name name-style="western"><surname>Han</surname><given-names>L</given-names></name></person-group>, <etal>et al.</etal>
+<article-title>LncRNA NBR2 engages a metabolic checkpoint by regulating AMPK under energy
+stress</article-title>. <source>Nat Cell Biol</source>.
+<year>2016</year>;<volume>18</volume>(<issue>4</issue>):<fpage>431</fpage>–<lpage>442</lpage>.<pub-id pub-id-type="pmid">26999735</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/ncb3328</pub-id><pub-id pub-id-type="pmcid">PMC4814347</pub-id></mixed-citation></ref><ref id="bibr9-1533033819870781"><label>9</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Hardie</surname><given-names>DG</given-names></name><name name-style="western"><surname>Ross</surname><given-names>FA</given-names></name><name name-style="western"><surname>Hawley</surname><given-names>SA</given-names></name></person-group>
+<article-title>AMPK: a nutrient and energy sensor that maintains energy
+homeostasis</article-title>. <source>Nat Rev Mol Cell Biol</source>.
+<year>2012</year>;<volume>13</volume>(<issue>4</issue>):<fpage>251</fpage>–<lpage>262</lpage>.<pub-id pub-id-type="pmid">22436748</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nrm3311</pub-id><pub-id pub-id-type="pmcid">PMC5726489</pub-id></mixed-citation></ref><ref id="bibr10-1533033819870781"><label>10</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Mihaylova</surname><given-names>MM</given-names></name><name name-style="western"><surname>Shaw</surname><given-names>RJ</given-names></name></person-group>
+<article-title>The AMPK signalling pathway coordinates cell growth,
+autophagy and metabolism</article-title>. <source>Nat Cell Biol</source>.
+<year>2011</year>;<volume>13</volume>(<issue>9</issue>):<fpage>1016</fpage>–<lpage>1023</lpage>.<pub-id pub-id-type="pmid">21892142</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/ncb2329</pub-id><pub-id pub-id-type="pmcid">PMC3249400</pub-id></mixed-citation></ref><ref id="bibr11-1533033819870781"><label>11</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Devassy</surname><given-names>JG</given-names></name><name name-style="western"><surname>Nwachukwu</surname><given-names>ID</given-names></name><name name-style="western"><surname>Jones</surname><given-names>PJ</given-names></name></person-group>
+<article-title>Curcumin and cancer: barriers to obtaining a health
+claim</article-title>. <source>Nutr Rev</source>.
+<year>2015</year>;<volume>73</volume>(<issue>3</issue>):<fpage>155</fpage>–<lpage>165</lpage>.<pub-id pub-id-type="pmid">26024538</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/nutrit/nuu064</pub-id></mixed-citation></ref><ref id="bibr12-1533033819870781"><label>12</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>He</surname><given-names>ZY</given-names></name><name name-style="western"><surname>Shi</surname><given-names>CB</given-names></name><name name-style="western"><surname>Wen</surname><given-names>H</given-names></name><name name-style="western"><surname>Li</surname><given-names>FL</given-names></name><name name-style="western"><surname>Wang</surname><given-names>BL</given-names></name><name name-style="western"><surname>Wang</surname><given-names>J</given-names></name></person-group>
+<article-title>Upregulation of p53 expression in patients with colorectal
+cancer by administration of curcumin</article-title>. <source>Cancer Invest</source>.
+<year>2011</year>;<volume>29</volume>(<issue>3</issue>):<fpage>208</fpage>–<lpage>213</lpage>.<pub-id pub-id-type="pmid">21314329</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3109/07357907.2010.550592</pub-id></mixed-citation></ref><ref id="bibr13-1533033819870781"><label>13</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Tong</surname><given-names>W</given-names></name><name name-style="western"><surname>Wang</surname><given-names>Q</given-names></name><name name-style="western"><surname>Sun</surname><given-names>D</given-names></name><name name-style="western"><surname>Suo</surname><given-names>J</given-names></name></person-group>
+<article-title>Curcumin suppresses colon cancer cell invasion via
+AMPK-induced inhibition of NF-kappaB, uPA activator and MMP9</article-title>.
+<source>Oncol Lett</source>.
+<year>2016</year>;<volume>12</volume>(<issue>5</issue>):<fpage>4139</fpage>–<lpage>4146</lpage>.<pub-id pub-id-type="pmid">27895783</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3892/ol.2016.5148</pub-id><pub-id pub-id-type="pmcid">PMC5104244</pub-id></mixed-citation></ref><ref id="bibr14-1533033819870781"><label>14</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Xiao</surname><given-names>ZD</given-names></name><name name-style="western"><surname>Liu</surname><given-names>X</given-names></name><name name-style="western"><surname>Zhuang</surname><given-names>L</given-names></name><name name-style="western"><surname>Gan</surname><given-names>B</given-names></name></person-group><article-title>NBR2: a former junk gene emerges as a key player in tumor
+suppression</article-title>. <source>Mol Cell Oncol</source>.
+<year>2016</year>;<volume>3</volume>(<issue>4</issue>):<fpage>e1187322</fpage>.<pub-id pub-id-type="pmid">27652330</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/23723556.2016.1187322</pub-id><pub-id pub-id-type="pmcid">PMC4972102</pub-id></mixed-citation></ref><ref id="bibr15-1533033819870781"><label>15</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Suen</surname><given-names>TC</given-names></name><name name-style="western"><surname>Tang</surname><given-names>MS</given-names></name><name name-style="western"><surname>Goss</surname><given-names>PE</given-names></name></person-group>
+<article-title>Model of transcriptional regulation of the BRCA1-NBR2
+bi-directional transcriptional unit</article-title>. <source>Biochim Biophys
+Acta</source>.
+<year>2005</year>;<volume>1728</volume>(<issue>3</issue>):<fpage>126</fpage>–<lpage>134</lpage>.<pub-id pub-id-type="pmid">15777733</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bbaexp.2005.01.014</pub-id></mixed-citation></ref><ref id="bibr16-1533033819870781"><label>16</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Faubert</surname><given-names>B</given-names></name><name name-style="western"><surname>Vincent</surname><given-names>EE</given-names></name><name name-style="western"><surname>Poffenberger</surname><given-names>MC</given-names></name><name name-style="western"><surname>Jones</surname><given-names>RG</given-names></name></person-group>
+<article-title>The AMP-activated protein kinase (AMPK) and cancer: many
+faces of a metabolic regulator</article-title>. <source>Cancer Lett</source>.
+<year>2015</year>;<volume>356</volume>(<issue>2 Pt
+A</issue>):<fpage>165</fpage>–<lpage>170</lpage>.<pub-id pub-id-type="pmid">24486219</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.canlet.2014.01.018</pub-id></mixed-citation></ref><ref id="bibr17-1533033819870781"><label>17</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Inoki</surname><given-names>K</given-names></name><name name-style="western"><surname>Kim</surname><given-names>J</given-names></name><name name-style="western"><surname>Guan</surname><given-names>KL</given-names></name></person-group>
+<article-title>AMPK and mTOR in cellular energy homeostasis and drug
+targets</article-title>. <source>Annu Rev Pharmacol Toxicol</source>.
+<year>2012</year>;<volume>52</volume>:<fpage>381</fpage>–<lpage>400</lpage>.<pub-id pub-id-type="pmid">22017684</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1146/annurev-pharmtox-010611-134537</pub-id></mixed-citation></ref><ref id="bibr18-1533033819870781"><label>18</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Xiao</surname><given-names>ZD</given-names></name><name name-style="western"><surname>Zhuang</surname><given-names>L</given-names></name><name name-style="western"><surname>Gan</surname><given-names>B</given-names></name></person-group>
+<article-title>Long non-coding RNAs in cancer metabolism</article-title>.
+<source>Bioessays</source>.
+<year>2016</year>;<volume>38</volume>(<issue>10</issue>):<fpage>991</fpage>–<lpage>996</lpage>.<pub-id pub-id-type="pmid">27550823</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/bies.201600110</pub-id><pub-id pub-id-type="pmcid">PMC5144540</pub-id></mixed-citation></ref><ref id="bibr19-1533033819870781"><label>19</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Gwinn</surname><given-names>DM</given-names></name><name name-style="western"><surname>Shackelford</surname><given-names>DB</given-names></name><name name-style="western"><surname>Egan</surname><given-names>DF</given-names></name></person-group>, <etal>et al.</etal>
+<article-title>AMPK phosphorylation of raptor mediates a metabolic
+checkpoint</article-title>. <source>Mol Cell</source>.
+<year>2008</year>;<volume>30</volume>(<issue>2</issue>):<fpage>214</fpage>–<lpage>226</lpage>.<pub-id pub-id-type="pmid">18439900</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.molcel.2008.03.003</pub-id><pub-id pub-id-type="pmcid">PMC2674027</pub-id></mixed-citation></ref><ref id="bibr20-1533033819870781"><label>20</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Xu</surname><given-names>X</given-names></name><name name-style="western"><surname>Zhu</surname><given-names>Y</given-names></name></person-group>
+<article-title>Curcumin inhibits human non-small cell lung cancer
+xenografts by targeting STAT3 pathway</article-title>. <source>Am J Transl Res</source>.
+<year>2017</year>;<volume>9</volume>(<issue>8</issue>):<fpage>3633</fpage>–<lpage>3641</lpage>.<pub-id pub-id-type="pmid">28861154</pub-id><pub-id pub-id-type="pmcid">PMC5575177</pub-id></mixed-citation></ref><ref id="bibr21-1533033819870781"><label>21</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Zang</surname><given-names>S</given-names></name><name name-style="western"><surname>Liu</surname><given-names>T</given-names></name><name name-style="western"><surname>Shi</surname><given-names>J</given-names></name><name name-style="western"><surname>Qiao</surname><given-names>L</given-names></name></person-group>
+<article-title>Curcumin: a promising agent targeting cancer stem
+cells</article-title>. <source>Anticancer Agents Med Chem</source>.
+<year>2014</year>;<volume>14</volume>(<issue>6</issue>):<fpage>787</fpage>–<lpage>792</lpage>.<pub-id pub-id-type="pmid">24851881</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.2174/1871520614666140521114735</pub-id></mixed-citation></ref><ref id="bibr22-1533033819870781"><label>22</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Ramasamy</surname><given-names>TS</given-names></name><name name-style="western"><surname>Ayob</surname><given-names>AZ</given-names></name><name name-style="western"><surname>Myint</surname><given-names>HH</given-names></name><name name-style="western"><surname>Thiagarajah</surname><given-names>S</given-names></name><name name-style="western"><surname>Amini</surname><given-names>F</given-names></name></person-group>
+<article-title>Targeting colorectal cancer stem cells using curcumin and
+curcumin analogues: insights into the mechanism of the therapeutic
+efficacy</article-title>. <source>Cancer Cell Int</source>.
+<year>2015</year>;<volume>15</volume>:<fpage>96</fpage>.<pub-id pub-id-type="pmid">26457069</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12935-015-0241-x</pub-id><pub-id pub-id-type="pmcid">PMC4599442</pub-id></mixed-citation></ref><ref id="bibr23-1533033819870781"><label>23</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Toden</surname><given-names>S</given-names></name></person-group>
+<article-title>Curcumin mediates chemosensitization to 5-fluorouracil
+through miRNA-induced suppression of epithelial-to-mesenchymal transition in
+chemoresistant colorectal cancer</article-title>. <source>Carcinogenesis</source>.
+<year>2015</year>;<volume>36</volume>(<issue>3</issue>):<fpage>355</fpage>–<lpage>367</lpage>.<pub-id pub-id-type="pmid">25653233</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/carcin/bgv006</pub-id><pub-id pub-id-type="pmcid">PMC4400529</pub-id></mixed-citation></ref><ref id="bibr24-1533033819870781"><label>24</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>James</surname><given-names>MI</given-names></name><name name-style="western"><surname>Iwuji</surname><given-names>C</given-names></name><name name-style="western"><surname>Irving</surname><given-names>G</given-names></name></person-group>, <etal>et al.</etal>
+<article-title>Curcumin inhibits cancer stem cell phenotypes in ex vivo models of
+colorectal liver metastases, and is clinically safe and tolerable in combination with
+FOLFOX chemotherapy</article-title>. <source>Cancer Lett</source>.
+<year>2015</year>;<volume>364</volume>(<issue>2</issue>):<fpage>135</fpage>–<lpage>141</lpage>.<pub-id pub-id-type="pmid">25979230</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.canlet.2015.05.005</pub-id><pub-id pub-id-type="pmcid">PMC4510144</pub-id></mixed-citation></ref><ref id="bibr25-1533033819870781"><label>25</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Toden</surname><given-names>S</given-names></name><name name-style="western"><surname>Okugawa</surname><given-names>Y</given-names></name><name name-style="western"><surname>Buhrmann</surname><given-names>C</given-names></name></person-group>, <etal>et al.</etal>
+<article-title>Novel evidence for curcumin and boswellic acid-induced chemoprevention
+through regulation of miR-34a and miR-27a in colorectal cancer</article-title>.
+<source>Cancer Prev Res (Phila)</source>.
+<year>2015</year>;<volume>8</volume>(<issue>5</issue>):<fpage>431</fpage>–<lpage>443</lpage>.<pub-id pub-id-type="pmid">25712055</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/1940-6207.CAPR-14-0354</pub-id><pub-id pub-id-type="pmcid">PMC4417447</pub-id></mixed-citation></ref><ref id="bibr26-1533033819870781"><label>26</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Mudduluru</surname><given-names>G</given-names></name><name name-style="western"><surname>George-William</surname><given-names>JN</given-names></name><name name-style="western"><surname>Muppala</surname><given-names>S</given-names></name></person-group>, <etal>et al.</etal>
+<article-title>Curcumin regulates miR-21 expression and inhibits invasion and metastasis
+in colorectal cancer</article-title>. <source>Biosci Rep</source>.
+<year>2011</year>;<volume>31</volume>(<issue>3</issue>):<fpage>185</fpage>–<lpage>197</lpage>.<pub-id pub-id-type="pmid">20815812</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1042/BSR20100065</pub-id></mixed-citation></ref><ref id="bibr27-1533033819870781"><label>27</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Chen</surname><given-names>L</given-names></name><name name-style="western"><surname>Li</surname><given-names>WF</given-names></name><name name-style="western"><surname>Wang</surname><given-names>HX</given-names></name></person-group>, <etal>et al.</etal>
+<article-title>Curcumin cytotoxicity is enhanced by PTEN disruption in colorectal cancer
+cells</article-title>. <source>World J Gastroenterol</source>.
+<year>2013</year>;<volume>19</volume>(<issue>40</issue>):<fpage>6814</fpage>–<lpage>6824</lpage>.<pub-id pub-id-type="pmid">24187456</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3748/wjg.v19.i40.6814</pub-id><pub-id pub-id-type="pmcid">PMC3812480</pub-id></mixed-citation></ref><ref id="bibr28-1533033819870781"><label>28</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Lee</surname><given-names>YK</given-names></name><name name-style="western"><surname>Park</surname><given-names>SY</given-names></name><name name-style="western"><surname>Kim</surname><given-names>YM</given-names></name><name name-style="western"><surname>Park</surname><given-names>OJ</given-names></name></person-group>
+<article-title>Regulatory effect of the AMPK-COX-2 signaling pathway in
+curcumin-induced apoptosis in HT-29 colon cancer cells</article-title>. <source>Ann N Y
+Acad Sci</source>.
+<year>2009</year>;<volume>1171</volume>:<fpage>489</fpage>–<lpage>494</lpage>.<pub-id pub-id-type="pmid">19723094</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1749-6632.2009.04699.x</pub-id></mixed-citation></ref></ref-list></back></article>

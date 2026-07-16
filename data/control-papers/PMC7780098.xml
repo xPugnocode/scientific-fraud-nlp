@@ -1,0 +1,1790 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article article-type="research-article" xml:lang="en" dtd-version="1.4"><front><journal-meta><journal-id journal-id-type="nlm-ta">Clin Transl Immunology</journal-id><journal-id journal-id-type="iso-abbrev">Clin Transl Immunology</journal-id><journal-id journal-id-type="pmc-domain-id">2610</journal-id><journal-id journal-id-type="pmc-domain">cti</journal-id><journal-id journal-id-type="nlm-id">101638268</journal-id><journal-id journal-id-type="publisher-id">CTI2</journal-id><journal-title-group><journal-title>Clinical &amp; Translational Immunology</journal-title></journal-title-group><issn pub-type="epub">2050-0068</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC7780098</article-id><article-id pub-id-type="pmcid-ver">PMC7780098.1</article-id><article-id pub-id-type="pmcaid">7780098</article-id><article-id pub-id-type="pmcaiid">7780098</article-id><article-id pub-id-type="pmid">33425355</article-id><article-id pub-id-type="doi">10.1002/cti2.1229</article-id><article-id pub-id-type="publisher-id">CTI21229</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Articles</subject></subj-group></article-categories><title-group><article-title>Pro‐inflammatory dopamine‐2 receptor‐specific T cells in paediatric movement and psychiatric disorders</article-title><alt-title alt-title-type="right-running-head">T cells in movement and psychiatric disorders</alt-title><alt-title alt-title-type="left-running-head">D Pilli <italic toggle="yes">et al</italic>.</alt-title></title-group><contrib-group><contrib id="cti21229-cr-0001" contrib-type="author"><name name-style="western"><surname>Pilli</surname><given-names initials="D">Deepti</given-names></name><xref ref-type="aff" rid="cti21229-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="cti21229-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cti21229-cr-0002" contrib-type="author"><name name-style="western"><surname>Zou</surname><given-names initials="A">Alicia</given-names></name><xref ref-type="aff" rid="cti21229-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="cti21229-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cti21229-cr-0003" contrib-type="author"><name name-style="western"><surname>Dawes</surname><given-names initials="R">Ruebena</given-names></name><xref ref-type="aff" rid="cti21229-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="cti21229-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="cti21229-cr-0004" contrib-type="author"><name name-style="western"><surname>Lopez</surname><given-names initials="JA">Joseph A</given-names></name><xref ref-type="aff" rid="cti21229-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="cti21229-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cti21229-cr-0005" contrib-type="author"><name name-style="western"><surname>Tea</surname><given-names initials="F">Fiona</given-names></name><xref ref-type="aff" rid="cti21229-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="cti21229-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cti21229-cr-0006" contrib-type="author"><name name-style="western"><surname>Liyanage</surname><given-names initials="G">Ganesha</given-names></name><xref ref-type="aff" rid="cti21229-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="cti21229-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="cti21229-cr-0007" contrib-type="author"><name name-style="western"><surname>Lee</surname><given-names initials="FXZ">Fiona XZ</given-names></name><xref ref-type="aff" rid="cti21229-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cti21229-cr-0008" contrib-type="author"><name name-style="western"><surname>Merheb</surname><given-names initials="V">Vera</given-names></name><xref ref-type="aff" rid="cti21229-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cti21229-cr-0009" contrib-type="author"><name name-style="western"><surname>Houston</surname><given-names initials="SD">Samuel D</given-names></name><xref ref-type="aff" rid="cti21229-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="cti21229-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="cti21229-cr-0010" contrib-type="author"><name name-style="western"><surname>Pillay</surname><given-names initials="A">Aleha</given-names></name><xref ref-type="aff" rid="cti21229-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cti21229-cr-0011" contrib-type="author"><name name-style="western"><surname>Jones</surname><given-names initials="HF">Hannah F</given-names></name><xref ref-type="aff" rid="cti21229-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="cti21229-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cti21229-cr-0012" contrib-type="author"><name name-style="western"><surname>Ramanathan</surname><given-names initials="S">Sudarshini</given-names></name><xref ref-type="aff" rid="cti21229-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="cti21229-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cti21229-cr-0013" contrib-type="author"><name name-style="western"><surname>Mohammad</surname><given-names initials="S">Shekeeb</given-names></name><xref ref-type="aff" rid="cti21229-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="cti21229-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cti21229-cr-0014" contrib-type="author"><name name-style="western"><surname>Kelleher</surname><given-names initials="AD">Anthony D</given-names></name><xref ref-type="aff" rid="cti21229-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="cti21229-cr-0015" contrib-type="author"><name name-style="western"><surname>Alexander</surname><given-names initials="SI">Stephen I</given-names></name><xref ref-type="aff" rid="cti21229-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="cti21229-aff-0007">
+<sup>7</sup>
+</xref></contrib><contrib id="cti21229-cr-0016" contrib-type="author"><name name-style="western"><surname>Dale</surname><given-names initials="RC">Russell C</given-names></name><xref ref-type="aff" rid="cti21229-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="cti21229-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="cti21229-aff-0008">
+<sup>8</sup>
+</xref></contrib><contrib id="cti21229-cr-0017" contrib-type="author" corresp="yes"><name name-style="western"><surname>Brilot</surname><given-names initials="F">Fabienne</given-names></name><xref ref-type="aff" rid="cti21229-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="cti21229-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="cti21229-aff-0004">
+<sup>4</sup>
+</xref><xref ref-type="aff" rid="cti21229-aff-0008">
+<sup>8</sup>
+</xref><address><email>fabienne.brilot@sydney.edu.au</email></address></contrib></contrib-group><aff id="cti21229-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Brain Autoimmunity Group</named-content>
+<named-content content-type="organisation-division">Kids Neuroscience Centre</named-content>
+<institution>Kids Research at the Children's Hospital at Westmead</institution>
+<city>Sydney</city>
+<named-content content-type="country-part">NSW</named-content>
+<country country="AU">Australia</country>
+</aff><aff id="cti21229-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Discipline of Child and Adolescent Health</named-content>
+<named-content content-type="organisation-division">Faculty of Medicine and Health</named-content>
+<institution>The University of Sydney</institution>
+<city>Sydney</city>
+<named-content content-type="country-part">NSW</named-content>
+<country country="AU">Australia</country>
+</aff><aff id="cti21229-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Genomic Medicine Group</named-content>
+<named-content content-type="organisation-division">Kids Neuroscience Centre</named-content>
+<institution>Kids Research at the Children's Hospital at Westmead</institution>
+<city>Sydney</city>
+<named-content content-type="country-part">NSW</named-content>
+<country country="AU">Australia</country>
+</aff><aff id="cti21229-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">School of Medical Sciences</named-content>
+<named-content content-type="organisation-division">Discipline of Applied Medical Science</named-content>
+<named-content content-type="organisation-division">Faculty of Medicine and Health</named-content>
+<institution>The University of Sydney</institution>
+<city>Sydney</city>
+<named-content content-type="country-part">NSW</named-content>
+<country country="AU">Australia</country>
+</aff><aff id="cti21229-aff-0005">
+<label><sup>5</sup></label>
+<named-content content-type="organisation-division">School of Biomedical Engineering</named-content>
+<institution>The University of Sydney</institution>
+<city>Sydney</city>
+<named-content content-type="country-part">NSW</named-content>
+<country country="AU">Australia</country>
+</aff><aff id="cti21229-aff-0006">
+<label><sup>6</sup></label>
+<named-content content-type="organisation-division">The Kirby Institute</named-content>
+<institution>University of New South Wales</institution>
+<city>Sydney</city>
+<named-content content-type="country-part">NSW</named-content>
+<country country="AU">Australia</country>
+</aff><aff id="cti21229-aff-0007">
+<label><sup>7</sup></label>
+<named-content content-type="organisation-division">Centre for Kidney Research</named-content>
+<institution>Children's Hospital at Westmead</institution>
+<city>Sydney</city>
+<named-content content-type="country-part">NSW</named-content>
+<country country="AU">Australia</country>
+</aff><aff id="cti21229-aff-0008">
+<label><sup>8</sup></label>
+<named-content content-type="organisation-division">Brain and Mind Centre</named-content>
+<institution>The University of Sydney</institution>
+<city>Sydney</city>
+<named-content content-type="country-part">NSW</named-content>
+<country country="AU">Australia</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Fabienne Brilot, Brain Autoimmunity Group, Kids Neuroscience Centre, Kids Research at the Children's Hospital at Westmead, Sydney, NSW, Australia.<break/>
+E‐mail: <email>fabienne.brilot@sydney.edu.au</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>17</day><month>12</month><year>2020</year></pub-date><pub-date pub-type="collection"><year>2020</year></pub-date><volume>9</volume><issue>12</issue><issue-id pub-id-type="pmc-issue-id">370291</issue-id><issue-id pub-id-type="doi">10.1002/cti2.v9.12</issue-id><elocation-id>e1229</elocation-id><history><date date-type="received"><day>17</day><month>9</month><year>2020</year></date><date date-type="rev-recd"><day>09</day><month>11</month><year>2020</year></date><date date-type="rev-recd"><day>29</day><month>11</month><year>2020</year></date><date date-type="accepted"><day>29</day><month>11</month><year>2020</year></date></history><pub-history><event event-type="pmc-release"><date><day>17</day><month>12</month><year>2020</year></date></event><event event-type="pmc-live"><date><day>08</day><month>01</month><year>2021</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-04-01 03:25:13.550"><day>01</day><month>04</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2020 The Authors. <italic toggle="yes">Clinical &amp; Translational Immunology</italic> published by John Wiley &amp; Sons Australia, Ltd on behalf of Australian and New Zealand Society for Immunology Inc.</copyright-statement><license license-type="creativeCommonsBy"><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="CTI2-9-e1229.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:CTI2-9-e1229.pdf"/><abstract id="cti21229-abs-0001"><title>Abstract</title><sec id="cti21229-sec-0001"><title>Objectives</title><p>A dysregulated inflammatory response against the dopamine‐2 receptor (D2R) has been implicated in movement and psychiatric disorders. D2R antibodies were previously reported in a subset of these patients; however, the role of T cells in these disorders remains unknown. Our objective was to identify and characterise pro‐inflammatory D2R‐specific T cells in movement and psychiatric disorders.</p></sec><sec id="cti21229-sec-0002"><title>Methods</title><p>Blood from paediatric patients with movement and psychiatric disorders of suspected autoimmune and neurodevelopmental aetiology (<italic toggle="yes">n</italic> = 24) and controls (<italic toggle="yes">n</italic> = 16) was cultured <italic toggle="yes">in vitro</italic> with a human D2R peptide library, and D2R‐specific T cells were identified by flow cytometric quantification of CD4<sup>+</sup>CD25<sup>+</sup>CD134<sup>+</sup> T cells. Cytokine secretion was analysed using a cytometric bead array and ELISA. HLA genotypes were examined in D2R‐specific T‐cell‐positive patients. D2R antibody seropositivity was determined using a flow cytometry live cell‐based assay.</p></sec><sec id="cti21229-sec-0003"><title>Results</title><p>Three immunodominant regions of D2R, amino acid (aa)121–131, aa171–181 and aa396–416, specifically activated CD4<sup>+</sup> T cells in 8/24 patients. Peptides corresponding to these regions were predicted to bind with high affinity to the HLA of the eight positive patients and had also elicited the secretion of pro‐inflammatory cytokines IL‐2, IFN‐ γ, TNF, IL‐6, IL‐17A and IL‐17F. All eight patients were seronegative for D2R antibodies.</p></sec><sec id="cti21229-sec-0004"><title>Conclusion</title><p>Autoreactive D2R‐specific T cells and a pro‐inflammatory Th1 and Th17 cytokine profile characterise a subset of paediatric patients with movement and psychiatric disorders, further underpinning the theory of immune dysregulation in these disorders. These findings offer new perspectives into the neuroinflammatory mechanisms of movement and psychiatric disorders and can influence patient diagnosis and treatment.</p></sec></abstract><abstract abstract-type="graphical" id="cti21229-abs-0002"><p>In this study, we report of autoreactive dopamine‐2 receptor (D2R)‐specific T cells in a subset of paediatric movement and psychiatric disorders. These T cells recognised three immunodominant regions of D2R that were predicted to bind with high affinity to HLA class II molecules of patients, and T‐cell activation was associated with the secretion of pro‐inflammatory cytokines. These findings suggest a role for autoreactive T cells in the immune dysregulation of movement and psychiatric disorders.<boxed-text position="anchor" content-type="graphic" id="cti21229-blkfxd-0001" orientation="portrait"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="nlm-graphic-1" orientation="portrait" xlink:href="CTI2-9-e1229-g005.jpg"/></boxed-text>
+</p></abstract><kwd-group><kwd id="cti21229-kwd-0001">autoimmunity</kwd><kwd id="cti21229-kwd-0003">autoimmune encephalitis</kwd><kwd id="cti21229-kwd-0002">dopamine‐2 receptor antibodies</kwd><kwd id="cti21229-kwd-0004">neurodevelopmental disorders</kwd><kwd id="cti21229-kwd-0005">pro‐inflammatory T cells</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>University of Sydney Research Excellence Initiative grant</funding-source></award-group><award-group id="funding-0002"><funding-source>Petre Foundation</funding-source></award-group><award-group id="funding-0003"><funding-source><institution-wrap><institution>National Health and Medical Research Council </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100000925</institution-id></institution-wrap></funding-source><award-id>APP1078643</award-id></award-group></funding-group><counts><fig-count count="5"/><table-count count="2"/><page-count count="17"/><word-count count="10266"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.9.6 mode:remove_FC converted:04.01.2021</meta-value></custom-meta></custom-meta-group></article-meta></front><body id="cti21229-body-0001"><sec id="cti21229-sec-0005"><title>Introduction</title><p>Recent years have seen a surge in evidence supporting autoimmunity as a cause of a subset of movement and psychiatric disorders.<xref rid="cti21229-bib-0001" ref-type="ref">
+<sup>1</sup>
+</xref>, <xref rid="cti21229-bib-0002" ref-type="ref">
+<sup>2</sup>
+</xref>, <xref rid="cti21229-bib-0003" ref-type="ref">
+<sup>3</sup>
+</xref>, <xref rid="cti21229-bib-0004" ref-type="ref">
+<sup>4</sup>
+</xref>, <xref rid="cti21229-bib-0005" ref-type="ref">
+<sup>5</sup>
+</xref>, <xref rid="cti21229-bib-0006" ref-type="ref">
+<sup>6</sup>
+</xref>, <xref rid="cti21229-bib-0007" ref-type="ref">
+<sup>7</sup>
+</xref> This paradigm has been largely driven by the discovery of antibodies against various neuronal proteins that have guided differential diagnosis and treatment regimens and led to an improved prognosis. One such neuronal protein targeted by antibodies is the dopamine‐2 receptor (D2R). In the brain, D2R is expressed abundantly in the basal ganglia, limbic system and cerebral cortex.<xref rid="cti21229-bib-0008" ref-type="ref">
+<sup>8</sup>
+</xref> Dopamine signalling in these neural networks primarily regulates voluntary action, motor control, learning and behavioural responses.<xref rid="cti21229-bib-0008" ref-type="ref">
+<sup>8</sup>
+</xref>, <xref rid="cti21229-bib-0009" ref-type="ref">
+<sup>9</sup>
+</xref> In the periphery, many immune cells also express dopamine receptors and may have immunomodulatory effects.<xref rid="cti21229-bib-0010" ref-type="ref">
+<sup>10</sup>
+</xref>, <xref rid="cti21229-bib-0011" ref-type="ref">
+<sup>11</sup>
+</xref> Given these roles, D2R has been implicated in movement and psychiatric disorders that have been associated with a dysregulated immune system.</p><p>Several studies have reported D2R antibodies in a subset of paediatric patients with movement and psychiatric disorders. These include disorders with a well‐recognised autoimmune aetiology, such as Sydenham's chorea and basal ganglia encephalitis, and also neuropsychiatric and neurodevelopmental disorders, such as first episode of psychosis, Tourette's syndrome and paediatric acute‐onset neuropsychiatric syndrome (PANS).<xref rid="cti21229-bib-0012" ref-type="ref">
+<sup>12</sup>
+</xref>, <xref rid="cti21229-bib-0013" ref-type="ref">
+<sup>13</sup>
+</xref>, <xref rid="cti21229-bib-0014" ref-type="ref">
+<sup>14</sup>
+</xref>, <xref rid="cti21229-bib-0015" ref-type="ref">
+<sup>15</sup>
+</xref>, <xref rid="cti21229-bib-0016" ref-type="ref">
+<sup>16</sup>
+</xref>, <xref rid="cti21229-bib-0017" ref-type="ref">
+<sup>17</sup>
+</xref>, <xref rid="cti21229-bib-0018" ref-type="ref">
+<sup>18</sup>
+</xref>, <xref rid="cti21229-bib-0019" ref-type="ref">
+<sup>19</sup>
+</xref> The precise mechanisms underlying autoimmunity in these disorders remain unclear, but it has been postulated that D2R antibodies may alter dopaminergic signalling by stimulating excess dopamine secretion,<xref rid="cti21229-bib-0020" ref-type="ref">
+<sup>20</sup>
+</xref> inducing inhibitory D2R signalling<xref rid="cti21229-bib-0016" ref-type="ref">
+<sup>16</sup>
+</xref> and triggering receptor internalisation.<xref rid="cti21229-bib-0019" ref-type="ref">
+<sup>19</sup>
+</xref> Additionally, D2R antibodies can be useful in identifying patients who can be amenable to immunotherapy.<xref rid="cti21229-bib-0017" ref-type="ref">
+<sup>17</sup>
+</xref>, <xref rid="cti21229-bib-0021" ref-type="ref">
+<sup>21</sup>
+</xref>, <xref rid="cti21229-bib-0022" ref-type="ref">
+<sup>22</sup>
+</xref>, <xref rid="cti21229-bib-0023" ref-type="ref">
+<sup>23</sup>
+</xref>, <xref rid="cti21229-bib-0024" ref-type="ref">
+<sup>24</sup>
+</xref>, <xref rid="cti21229-bib-0025" ref-type="ref">
+<sup>25</sup>
+</xref>
+</p><p>The field has focused predominantly on aberrant antibody responses and less is known about the autoreactive T‐cell response against D2R in movement and psychiatric disorders. Cellular immunity is a major compartment of the adaptive immune response, and in particular, CD4<sup>+</sup> T helper cells are key in orchestrating the effects of other immune cells and molecules. The central nervous system (CNS) is an accessible site for T cells. In the steady state, they traverse the CNS and actively partake in immunosurveillance. In the case of a murine model of post‐infection associated autoimmunity, reactive T cells migrate from the periphery into the CNS and contribute to neuroinflammation.<xref rid="cti21229-bib-0026" ref-type="ref">
+<sup>26</sup>
+</xref>, <xref rid="cti21229-bib-0027" ref-type="ref">
+<sup>27</sup>
+</xref>, <xref rid="cti21229-bib-0028" ref-type="ref">
+<sup>28</sup>
+</xref> Indeed, a dysregulated T‐cell compartment has been described in other neuroinflammatory disorders, most notably in multiple sclerosis (MS),<xref rid="cti21229-bib-0029" ref-type="ref">
+<sup>29</sup>
+</xref>, <xref rid="cti21229-bib-0030" ref-type="ref">
+<sup>30</sup>
+</xref>, <xref rid="cti21229-bib-0031" ref-type="ref">
+<sup>31</sup>
+</xref> but also in neuromyelitis optica spectrum disorders (NMOSDs),<xref rid="cti21229-bib-0032" ref-type="ref">
+<sup>32</sup>
+</xref>, <xref rid="cti21229-bib-0033" ref-type="ref">
+<sup>33</sup>
+</xref>, <xref rid="cti21229-bib-0034" ref-type="ref">
+<sup>34</sup>
+</xref> Rasmussen's encephalitis<xref rid="cti21229-bib-0035" ref-type="ref">
+<sup>35</sup>
+</xref>, <xref rid="cti21229-bib-0036" ref-type="ref">
+<sup>36</sup>
+</xref> and paraneoplastic syndromes.<xref rid="cti21229-bib-0037" ref-type="ref">
+<sup>37</sup>
+</xref>, <xref rid="cti21229-bib-0038" ref-type="ref">
+<sup>38</sup>
+</xref>
+</p><p>In this study, we report on the presence of peripheral autoreactive T cells against D2R in paediatric patients with movement and psychiatric disorders. We identified three immunodominant regions of D2R, which induced T‐cell activation, were high‐affinity binders to HLA class II molecules and elicited pro‐inflammatory cytokine secretion. Notably, the presence of D2R‐specific T cells was not associated with D2R antibodies. Collectively, our findings inform the potential role of autoreactive T cells in movement and psychiatric disorders and provide new insights into the contribution of the immune system in neurodevelopmental disorders.</p></sec><sec sec-type="results" id="cti21229-sec-0006"><title>Results</title><sec id="cti21229-sec-0007"><title>T cells in patients with movement and psychiatric disorders recognised three immunodominant regions of D2R</title><p>D2R‐specific T cells in paediatric patients with movement and psychiatric disorders (<italic toggle="yes">n</italic> = 24) were identified by determining CD4<sup>+</sup> T‐cell activation when whole blood was stimulated with 10 master pools of human D2R peptides. The co‐expression of CD25 and CD134 on CD4<sup>+</sup> T cells was assessed as a proxy for T‐cell activation.<xref rid="cti21229-bib-0039" ref-type="ref">
+<sup>39</sup>
+</xref> Compared to the control cohort, a 6.9‐ to 21.5‐fold higher frequency of activated D2R‐specific T cells was detected in 8/24 patients (33%) when stimulated with three master pools: pool 4 (<italic toggle="yes">n</italic> = 4; median: control = 0.025%, patients = 0.173%), pool 5 (<italic toggle="yes">n</italic> = 3; median: control = 0.005%, patients = 0.111%) and pool 10 (<italic toggle="yes">n</italic> = 4; median: control = 0.003%, patients = 0.029%; Figure <xref rid="cti21229-fig-0001" ref-type="fig">1a</xref>). D2R‐specific T cells were not detected in controls (0/16; Figure <xref rid="cti21229-fig-0001" ref-type="fig">1a</xref>). The immunodominant regions of D2R were restricted to master pools 4, 5 and 10 as CD4<sup>+</sup> T‐cell activation was not observed in patients and controls in the remainder seven master pools (Supplementary figure <xref rid="cti21229-sup-0001" ref-type="supplementary-material">1</xref>). While most D2R‐specific T‐cell‐positive patients recognised one of the three immunodominant master pools (6/8, 75%), patient 2 (P2) recognised two master pools, pools 4 and 10, and P8 recognised all three master pools. The overall percentage of CD3<sup>+</sup>CD4<sup>+</sup> T cells across all conditions tested did not vary significantly between patients (median = 44.65%; IQR = 34.08–47.30%) and controls (median = 40.35%; IQR = 38.87–45.19%; Mann–Whitney <italic toggle="yes">U</italic>‐tests, <italic toggle="yes">P</italic> = 0.86; Figure <xref rid="cti21229-fig-0001" ref-type="fig">1b</xref>). The percentage of T‐cell response against D2R in positive patients (median = 0.11%; IQR = 0.07–0.15%) was not significantly different to the percentage of T‐cell response against the recall antigen, TT, in all patients (median = 0.15%; IQR = 0.03–0.40%) and controls (median = 0.17%; IQR = 0.04–1.02%; Kruskal–Wallis tests, <italic toggle="yes">P</italic> = 0.46; Figure  <xref rid="cti21229-fig-0001" ref-type="fig">1c</xref>). The eight D2R‐specific T‐cell‐positive patients were seronegative for D2R antibodies. 4/23 patients were seropositive for D2R antibodies but negative for D2R‐specific T cells (Supplementary figure <xref rid="cti21229-sup-0001" ref-type="supplementary-material">2</xref>). Patients with D2R antibodies presented with chronic Tourette's syndrome with obsessive–compulsive disorder (OCD) and basal ganglia encephalitis.</p><fig fig-type="Figure" xml:lang="en" id="cti21229-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>T cells in patients with movement and psychiatric disorders recognised dopamine‐2 receptor (D2R) at three distinct regions. D2R peptide pools that elicited T‐cell activation in patients with movement and psychiatric disorders of an autoimmune (AI) and neurodevelopmental (ND) aetiology were determined by assessing the co‐expression of CD25 and CD134 on CD4<sup>+</sup> T cells using the CD25/CD134 assay. <bold>(a)</bold> Patient whole blood (<italic toggle="yes">n</italic> = 24) was stimulated with the 10 master pools of D2R peptides and eight patients (numbered orange diamonds) exhibited activation against at least one of three pools: pool 4, pool 5 and pool 10. Positive patients were defined as a frequency of CD25<sup>+</sup>CD134<sup>+</sup>CD4<sup>+</sup> T cells above the threshold (dashed line; mean + 3SD of controls (<italic toggle="yes">n</italic> = 16)) for each peptide pool. Samples were tested once soon after their collection to preserve sample integrity. <bold>(b)</bold> The percentage of total CD3<sup>+</sup>CD4<sup>+</sup> T cells in controls and patients was not significantly (ns) different (Mann–Whitney <italic toggle="yes">U</italic>‐tests, <italic toggle="yes">P</italic> = 0.86; error bars = mean ± SD). <bold>(c)</bold> Activation of antigen‐specific T cells in response to the recall antigen tetanus toxoid (TT) was tested concurrently to the activation of D2R‐specific T cells. The frequency of D2R‐specific T cells in patients was comparable to the frequency of TT‐specific T cells in controls, in patients with D2R‐specific T cells (orange diamonds) and in patients without D2R‐specific T cells (Kruskal–Wallis tests, <italic toggle="yes">P</italic> = 0.46; whiskers = minimum to maximum). <bold>(d)</bold> 6/8 D2R‐specific T‐cell‐positive patients had an ND aetiology, and 2/8 D2R‐specific T‐cell‐positive patients had an AI aetiology. <bold>(e)</bold> The peripheral blood mononuclear cells of 7/8 positive patients were re‐assessed against sub‐pool peptide of pools 4, 5 and 10. Due to sample limitation, samples were tested once, while ensuring all relevant sub‐pools were tested. Of the total activated D2R‐specific T cells, there was preferential activation by pool 4A (3/3), pool 5B (2/2) and pool 10B (2/3). <bold>(f)</bold> These three immunogenic sub‐pools corresponded to three discrete regions of thehuman D2R (green = pool 4A; blue = pool 5B; purple = pool 10B).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-3" position="float" orientation="portrait" xlink:href="CTI2-9-e1229-g001.jpg"/></fig><p>D2R‐specific T cells were detected in 35% (6/17) of patients with neurodevelopmental aetiology and in 29% (2/7) of patients with suspected autoimmunity, and thus, most of the eight patients with D2R‐specific T cells had a neurodevelopmental aetiology (6/8; 75%; Table <xref rid="cti21229-tbl-0001" ref-type="table">1</xref> and Figure <xref rid="cti21229-fig-0001" ref-type="fig">1d</xref>). The two patients with suspected autoimmunity were previously healthy but had acute‐onset chorea and were diagnosed with Sydenham's chorea, a disorder of presumed post‐streptococcal autoimmune aetiology (Table <xref rid="cti21229-tbl-0001" ref-type="table">1</xref>). On the other hand, in D2R‐specific T‐cell‐positive patients with neurodevelopmental origins, Tourette's syndrome was the dominant manifestation (6/6) and most co‐presented with obsessive–compulsive disorder (OCD, 5/6; Table <xref rid="cti21229-tbl-0001" ref-type="table">1</xref>). Their disease course was chronic, and disease duration ranged from 2 to 12 years before sampling (median = 6.5 years; Table <xref rid="cti21229-tbl-0001" ref-type="table">1</xref>). Master pools 4 and 10 induced a T‐cell response in both clinical groups; however, master pool 5 was exclusively recognised by patients with a neurodevelopmental aetiology (Figure  <xref rid="cti21229-fig-0001" ref-type="fig">1d</xref>). There were no discernible clinical differences in patients who were positive or negative for D2R‐specific T‐cell activation.</p><table-wrap id="cti21229-tbl-0001" xml:lang="en" content-type="Table" orientation="portrait" position="float"><label>Table 1</label><caption><p>Clinical data of dopamine‐2 receptor‐specific T‐cell‐positive patients</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Patient #</th><th align="left" valign="top" rowspan="1" colspan="1">1</th><th align="left" valign="top" rowspan="1" colspan="1">2</th><th align="left" valign="top" rowspan="1" colspan="1">3</th><th align="left" valign="top" rowspan="1" colspan="1">4</th><th align="left" valign="top" rowspan="1" colspan="1">5</th><th align="left" valign="top" rowspan="1" colspan="1">6</th><th align="left" valign="top" rowspan="1" colspan="1">7</th><th align="left" valign="top" rowspan="1" colspan="1">8</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Gender</td><td align="left" rowspan="1" colspan="1">Male</td><td align="left" rowspan="1" colspan="1">Male</td><td align="left" rowspan="1" colspan="1">Female</td><td align="left" rowspan="1" colspan="1">Female</td><td align="left" rowspan="1" colspan="1">Female</td><td align="left" rowspan="1" colspan="1">Male</td><td align="left" rowspan="1" colspan="1">Male</td><td align="left" rowspan="1" colspan="1">Male</td></tr><tr><td align="left" rowspan="1" colspan="1">Disease duration at sampling (years)</td><td align="left" rowspan="1" colspan="1">0.17</td><td align="left" rowspan="1" colspan="1">0.04</td><td align="left" rowspan="1" colspan="1">11</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">12</td><td align="left" rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">8</td></tr><tr><td align="left" rowspan="1" colspan="1">Aetiology</td><td align="left" rowspan="1" colspan="1">Autoimmune</td><td align="left" rowspan="1" colspan="1">Autoimmune</td><td align="left" rowspan="1" colspan="1">ND</td><td align="left" rowspan="1" colspan="1">ND</td><td align="left" rowspan="1" colspan="1">ND</td><td align="left" rowspan="1" colspan="1">ND</td><td align="left" rowspan="1" colspan="1">ND</td><td align="left" rowspan="1" colspan="1">ND</td></tr><tr><td align="left" rowspan="1" colspan="1">Infection‐provoked onset and/or worsening</td><td align="left" rowspan="1" colspan="1">Yes</td><td align="left" rowspan="1" colspan="1">Yes</td><td align="left" rowspan="1" colspan="1">Yes</td><td align="left" rowspan="1" colspan="1">Yes</td><td align="left" rowspan="1" colspan="1">No</td><td align="left" rowspan="1" colspan="1">No</td><td align="left" rowspan="1" colspan="1">Yes</td><td align="left" rowspan="1" colspan="1">No</td></tr><tr><td align="left" rowspan="1" colspan="1">TS</td><td align="left" rowspan="1" colspan="1">No</td><td align="left" rowspan="1" colspan="1">No</td><td align="left" rowspan="1" colspan="1">Yes</td><td align="left" rowspan="1" colspan="1">Yes</td><td align="left" rowspan="1" colspan="1">Yes</td><td align="left" rowspan="1" colspan="1">Yes</td><td align="left" rowspan="1" colspan="1">Yes</td><td align="left" rowspan="1" colspan="1">Yes</td></tr><tr><td align="left" rowspan="1" colspan="1">OCD</td><td align="left" rowspan="1" colspan="1">No</td><td align="left" rowspan="1" colspan="1">No</td><td align="left" rowspan="1" colspan="1">Yes</td><td align="left" rowspan="1" colspan="1">Yes</td><td align="left" rowspan="1" colspan="1">Yes</td><td align="left" rowspan="1" colspan="1">Yes</td><td align="left" rowspan="1" colspan="1">No</td><td align="left" rowspan="1" colspan="1">Yes</td></tr><tr><td align="left" rowspan="1" colspan="1">Other features</td><td align="left" rowspan="1" colspan="1">Chorea</td><td align="left" rowspan="1" colspan="1">Chorea</td><td align="left" rowspan="1" colspan="1">Anorexia</td><td align="left" rowspan="1" colspan="1">Autism, ADHD, ODD</td><td align="left" rowspan="1" colspan="1">Autism, depression</td><td align="left" rowspan="1" colspan="1">‐</td><td align="left" rowspan="1" colspan="1">‐</td><td align="left" rowspan="1" colspan="1">Anxiety</td></tr><tr><td align="left" rowspan="1" colspan="1">Disease course at time of sampling</td><td align="left" rowspan="1" colspan="1">Acute</td><td align="left" rowspan="1" colspan="1">Acute</td><td align="left" rowspan="1" colspan="1">Chronic</td><td align="left" rowspan="1" colspan="1">Chronic</td><td align="left" rowspan="1" colspan="1">Chronic</td><td align="left" rowspan="1" colspan="1">Chronic</td><td align="left" rowspan="1" colspan="1">Chronic</td><td align="left" rowspan="1" colspan="1">Chronic</td></tr></tbody></table><table-wrap-foot id="cti21229-ntgp-0001"><fn id="cti21229-note-0001"><p>ADHD, attention‐deficit/hyperactivity disorder; ND, neurodevelopmental; OCD, obsessive–compulsive disorder; ODD, oppositional defiant disorder; TS, Tourette's syndrome</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder></permissions></table-wrap><p>Having identified the putative regions of D2R that elicit CD4<sup>+</sup> T‐cell activation, the immunodominant regions were further delineated by deconvoluting the master pools 4, 5 and 10 (Supplementary tables <xref rid="cti21229-sup-0001" ref-type="supplementary-material">1 and 2</xref>). These D2R sub‐pools were cultured with the peripheral blood mononuclear cells (PBMCs) of 7/8 D2R‐specific T‐cell‐positive patients to determine the relative activation of CD4<sup>+</sup>CD25<sup>+</sup>CD134<sup>+</sup> T cells by each sub‐pool. P2, P3 and P5, who were previously shown to recognise master pool 4, demonstrated a preferential activation to sub‐pool 4A (P2: 61.5%, P3: 100% and P5: 100%) over pool 4B (Figure <xref rid="cti21229-fig-0001" ref-type="fig">1e</xref>). Master pool 5 induced CD4<sup>+</sup> T‐cell activation in P4 and P6, and in particular, sub‐pool 5B (P4: 100%, P6: 53.9%) elicited a greater proportion of T‐cell activation than sub‐pool 5A (P4: 0.00%, P6: 46.1%; Figure  <xref rid="cti21229-fig-0001" ref-type="fig">1e</xref>). T cells in P1, P2 and P7 were activated in response to master pool 10. Sub‐pool 10B was the only pool that T cells in P1 and P2 recognised (100%), while in P7, sub‐pool 10A and 10B equally stimulated T‐cell activation (50%; Figure <xref rid="cti21229-fig-0001" ref-type="fig">1e</xref>). Sub‐pool 10C was not tested in P7. Overall, a greater activation response to sub‐pools 4A, 5B and 10B suggested that they encompassed the T‐cell immunodominant regions on D2R. These three regions corresponded to amino acid (aa)121–131, aa171–181 and aa396–416, respectively, and are localised to the second intracellular loop, second and third extracellular loops and the seventh transmembrane domain (Figure <xref rid="cti21229-fig-0001" ref-type="fig">1f</xref>).</p></sec><sec id="cti21229-sec-0008"><title>Presentation of immunodominant D2R peptides was restricted by HLA‐D molecules</title><p>CD4<sup>+</sup> T‐cell recognition and activation by an antigen require a robust binding of the peptide to the HLA class II molecule, HLA‐D, on antigen‐presenting cells. Using the immune epitope database (IEDB), we predicted the likelihood of the D2R peptides within the immunodominant pools to bind to the HLA‐D genotype of D2R‐specific T‐cell‐positive patients (<italic toggle="yes">n</italic> = 8; Supplementary table <xref rid="cti21229-sup-0001" ref-type="supplementary-material">3</xref>). Clusters of 15‐mer peptides across the D2R protein sequence had prediction ranks in the top 10 percentile, indicating a high binding affinity to HLA‐D, and these clusters included peptides from the immunodominant pools which elicited T‐cell activation <italic toggle="yes">in vitro</italic> (Figure <xref rid="cti21229-fig-0002" ref-type="fig">2</xref>). The majority of peptides of sub‐pool 4A and sub‐pool 10B sequence bound with high affinity (median percentile rank = 1.55 and 2.6, respectively) to HLA‐D. Peptides of sub‐pool 5B sequence were also predicted to be high binders, but to a lesser extent (median percentile rank = 4). In P8, T‐cell activation was elicited by master pools 4, 5 and 10 (Figure <xref rid="cti21229-fig-0001" ref-type="fig">1a</xref>), but the precise sub‐pool that induced activation within the respective master pool could not be determined <italic toggle="yes">in vitro</italic>. Nevertheless, peptides of sub‐pools 4A, 5B and 10B were predicted to bind with high affinity to this patient's HLA genotype (Figure <xref rid="cti21229-fig-0002" ref-type="fig">2</xref>). Computational predictions of T‐cell epitopes agreed with our findings from <italic toggle="yes">in vitro</italic> studies, further supporting these three regions as the likely T‐cell immunodominant regions of D2R.</p><fig fig-type="Figure" xml:lang="en" id="cti21229-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Immunodominant dopamine‐2 receptor (D2R) peptides identified <italic toggle="yes">in vitro</italic> were high‐affinity binders of HLA‐D molecules. In D2R‐specific T‐cell‐positive patients (<italic toggle="yes">n</italic> = 8), the likelihood of HLA‐DRB1, HLA‐DQA1, HLA‐DQB1, HLA‐DPA1 and HLA‐DPB1 alleles to present D2R 15‐mer peptides encompassing the full‐length protein was predicted using the Immune Epitope Database (IEDB). The top 10 percentile ranks are shown on the y‐axis and represent the binding affinity of D2R peptides to HLA‐D. A lower percentile rank is indicative of a higher binding affinity to a HLA‐D molecule. Shaded areas denote the peptide pool which elicited CD4<sup>+</sup>T‐cell activation in that patient using the CD25/CD134 assay (green = peptide pool 4A; blue = peptide pool 5B; purple = peptide pool 10B; red arrow indicates peptides within blue shaded area).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-5" position="float" orientation="portrait" xlink:href="CTI2-9-e1229-g002.jpg"/></fig><p>In addition to recognising the peptide of an HLA‐peptide complex, T cells must also recognise the specific HLA variant in the complex for full activation. Hence, certain HLA genotypes may predispose a patient to D2R‐specific T‐cell activation. HLA‐DPA1*01:03:01 and HLA‐DPB1*04:01:01 were notably over‐represented in D2R‐specific T‐cell‐positive patients (Supplementary table <xref rid="cti21229-sup-0001" ref-type="supplementary-material">4</xref>). These two genotypes were prevalent in 6/8 (75%) patients and, moreover, co‐existed in a patient, suggesting that both genotypes may play a contributing role (Supplementary tables <xref rid="cti21229-sup-0001" ref-type="supplementary-material">3 and 4</xref>). There was also a higher occurrence of HLA‐DQA1*01:02:01 (3/8; 37.5%) and HLA‐DQB1*03:01:01 (3/8; 37.5%; Supplementary table <xref rid="cti21229-sup-0001" ref-type="supplementary-material">4</xref>).</p></sec><sec id="cti21229-sec-0009"><title>D2R‐specific T‐cell activation in patients with movement and psychiatric disorders was associated with a pro‐inflammatory cytokine secretion profile</title><p>A hallmark of activated and functional T cells is the secretion of cytokines which modulate the inflammatory response. As elevated pro‐inflammatory cytokines were reported in other neuroinflammatory diseases,<xref rid="cti21229-bib-0033" ref-type="ref">
+<sup>33</sup>
+</xref>, <xref rid="cti21229-bib-0034" ref-type="ref">
+<sup>34</sup>
+</xref>, <xref rid="cti21229-bib-0040" ref-type="ref">
+<sup>40</sup>
+</xref>, <xref rid="cti21229-bib-0041" ref-type="ref">
+<sup>41</sup>
+</xref>, <xref rid="cti21229-bib-0042" ref-type="ref">
+<sup>42</sup>
+</xref> we determined whether D2R‐specific T‐cell activation corresponded with an increase in pro‐inflammatory cytokines. We characterised the cytokine milieu of the supernatant of PBMCs stimulated with the D2R sub‐pools of immunodominant master pools 4, 5 and 10. When the combined cytokine response to all sub‐pools in patients was compared to the normalised median of controls, pro‐inflammatory cytokine characteristics of T helper 1 (Th1) and T helper 17 (Th17) cells were notably elevated in 6/6 D2R‐specific T‐cell‐positive patients (Figure <xref rid="cti21229-fig-0003" ref-type="fig">3a</xref>). In particular, IL‐6 was 4‐ to 41‐fold higher in 5/6 patients and IL‐17A was 7‐ to 122‐fold higher in 4/6 patients than controls (<italic toggle="yes">n</italic> = 11). Sub‐pools of D2R also induced increased secretion of IL‐2 (4/6), IFN‐γ (5/6), TNF (4/6) and, to a lesser extent, IL‐17F (3/6; Figure  <xref rid="cti21229-fig-0003" ref-type="fig">3a</xref>). Conversely, the concentration of anti‐inflammatory T helper 2 (Th2) cytokines IL‐4, IL‐5, IL‐10 and IL‐13 was consistently low in all D2R‐specific T‐cell‐positive patients and similar to controls (Figure <xref rid="cti21229-fig-0003" ref-type="fig">3b</xref>). Further analysis showed that elevated secretion of these six pro‐inflammatory cytokines was predominantly induced by sub‐pools 4A, 5B and 10B (Figure <xref rid="cti21229-fig-0004" ref-type="fig">4</xref>). Moreover, in each patient, increased cytokine secretion was associated with the sub‐pool, which induced D2R‐specific T‐cell activation (Figure <xref rid="cti21229-fig-0001" ref-type="fig">1c</xref> and Figure <xref rid="cti21229-fig-0004" ref-type="fig">4</xref>).</p><fig fig-type="Figure" xml:lang="en" id="cti21229-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Dopamine‐2 receptor (D2R)‐specific T‐cell‐positive patients exhibited a pro‐inflammatory cytokine profile. Peripheral blood mononuclear cells of D2R‐specific T‐cell‐positive patients (<italic toggle="yes">n</italic> = 6) were stimulated with immunodominant sub‐pools 4, 5 and 10. The supernatant of each sub‐pool stimulation was tested once in duplicates on a multiplex cytometric bead array and IFN‐γ ELISA to characterise the cytokine secretions. Compared to the controls (dashed line = normalised median of controls), D2R‐specific T‐cell‐positive patients had <bold>(a)</bold> elevated levels of pro‐inflammatory cytokines IL‐2 (4/6), IFN‐γ (1/3), TNF (4/6), IL‐6 (5/6), IL‐17A (4/6) and IL‐17F (3/6), and slightly higher IL‐21 (1/6). <bold>(b)</bold> Contrastingly, D2R‐specific T‐cell‐positive patients had similar concentration of Th2 cytokines (6/6) as the controls.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-7" position="float" orientation="portrait" xlink:href="CTI2-9-e1229-g003.jpg"/></fig><fig fig-type="Figure" xml:lang="en" id="cti21229-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>An elevated pro‐inflammatory cytokine secretion was associated with the dopamine‐2 receptor (D2R) peptide sub‐pools which also activated D2R‐specific T cells. Peripheral blood mononuclear cells (PBMCs) from D2R‐specific T‐cell‐positive patients (<italic toggle="yes">n</italic> = 6) were stimulated with the sub‐pools of immunodominant master pools 4, 5 and 10. The supernatant of each sub‐pool stimulation was tested in duplicates on a multiplex cytometric bead array and IFN‐γ ELISA to characterise the cytokine secretions. Elevated levels of pro‐inflammatory cytokines in each patient were found to be predominantly secreted when the PBMCs were stimulated by D2R sub‐pools 4A, 5B and 10B as compared to the other sub‐pools 4B, 5A, 10A and 10C. These sub‐pools that induced these increased cytokine secretions largely corresponded to the sub‐pools that also elicited activation of D2R‐specific T cells, as specified beneath each patient.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-9" position="float" orientation="portrait" xlink:href="CTI2-9-e1229-g004.jpg"/></fig></sec></sec><sec sec-type="discussion" id="cti21229-sec-0010"><title>Discussion</title><p>It is widely accepted that there is a pathogenic inflammatory response in movement and psychiatric disorders, such as NMDAR antibody‐associated encephalitis and Sydenham's chorea.<xref rid="cti21229-bib-0001" ref-type="ref">
+<sup>1</sup>
+</xref>, <xref rid="cti21229-bib-0002" ref-type="ref">
+<sup>2</sup>
+</xref>, <xref rid="cti21229-bib-0003" ref-type="ref">
+<sup>3</sup>
+</xref>, <xref rid="cti21229-bib-0004" ref-type="ref">
+<sup>4</sup>
+</xref>, <xref rid="cti21229-bib-0005" ref-type="ref">
+<sup>5</sup>
+</xref>, <xref rid="cti21229-bib-0006" ref-type="ref">
+<sup>6</sup>
+</xref>, <xref rid="cti21229-bib-0007" ref-type="ref">
+<sup>7</sup>
+</xref> Additionally, there is an emerging role of the immune system in neurodevelopmental disorders such as Tourette's syndrome and associated neuropsychiatric disorders.<xref rid="cti21229-bib-0043" ref-type="ref">
+<sup>43</sup>
+</xref> Given these compelling findings, we aimed to study the immune dysfunction in paediatric patients with a range of acute and chronic movement and psychiatric disorders of autoimmune and neurodevelopmental aetiology, and a promising target of immune attack in these disorders is D2R.<xref rid="cti21229-bib-0012" ref-type="ref">
+<sup>12</sup>
+</xref>, <xref rid="cti21229-bib-0013" ref-type="ref">
+<sup>13</sup>
+</xref>, <xref rid="cti21229-bib-0014" ref-type="ref">
+<sup>14</sup>
+</xref>, <xref rid="cti21229-bib-0015" ref-type="ref">
+<sup>15</sup>
+</xref>, <xref rid="cti21229-bib-0016" ref-type="ref">
+<sup>16</sup>
+</xref>, <xref rid="cti21229-bib-0017" ref-type="ref">
+<sup>17</sup>
+</xref>, <xref rid="cti21229-bib-0018" ref-type="ref">
+<sup>18</sup>
+</xref>, <xref rid="cti21229-bib-0019" ref-type="ref">
+<sup>19</sup>
+</xref> Herein, we identified and characterised autoreactive D2R‐specific T cells in a subset of paediatric patients with movement and psychiatric disorders. Three discrete immunodominant regions of D2R induced CD4<sup>+</sup> T‐cell activation, corresponding to aa121–131, aa171–181 and aa396–416 that are localised on the second intracellular loop, second and third extracellular loops and the seventh transmembrane domain. These regions were predicted to bind with high affinity to the HLA‐D genotype of D2R‐specific T‐cell‐positive patients, and T‐cell activation positively correlated with elevated levels of pro‐inflammatory cytokines. Together, these findings support a role for autoreactive T cells in the pathogenesis of a subgroup of movement and psychiatric disorders.</p><p>In this single‐centre study, D2R‐specific T cells were detected in patients with a variety of acute and chronic movement and psychiatric disorders. Acute chorea was the most common presentation in D2R‐specific T‐cell‐positive patients with probable autoimmunity. On the other hand, D2R‐specific T‐cell‐positive patients with neurodevelopmental disorders had a chronic disease course and Tourette's syndrome concomitant with OCD was the prominent feature. This result supports the existing paradigm of dopamine dysregulation in Tourette's syndrome<xref rid="cti21229-bib-0017" ref-type="ref">
+<sup>17</sup>
+</xref>, <xref rid="cti21229-bib-0044" ref-type="ref">
+<sup>44</sup>
+</xref>, <xref rid="cti21229-bib-0045" ref-type="ref">
+<sup>45</sup>
+</xref> and is consistent with the recent report of altered frequencies in functional subsets of circulating CD4<sup>+</sup> T cells in paediatric patients with OCD.<xref rid="cti21229-bib-0046" ref-type="ref">
+<sup>46</sup>
+</xref> While PANS was a common feature in our cohort and recent findings have suggested neuroinflammatory involvement,<xref rid="cti21229-bib-0025" ref-type="ref">
+<sup>25</sup>
+</xref> D2R‐specific T cells were not observed in these patients. D2R‐specific T cells were identified in both an acute course and chronic course of movement and psychiatric disorders, suggesting different modes of T‐cell activity in different disease courses. Activated D2R‐specific T cells in acute autoimmune movement and psychiatric disorders suggest a recent encounter with its cognate antigen. In chronic neurodevelopmental disorders, however, activated D2R‐specific T cells may reflect a persistently active immune system. Interestingly, D2R‐specific T cells in patients with neurodevelopmental disorders recognised more immunodominant regions of D2R than in patients with autoimmune movement and psychiatric disorders. While there were more patients with neurodevelopmental disorders, this difference may represent epitope spreading in the chronic course of neurodevelopmental disorders. Although we did not analyse serial samples, Vaknin‐Debminsky and colleagues have demonstrated in a longitudinal study that T cells in patients with NMOSD gradually recognised a broader range of aquaporin‐4 (AQP4) peptides.<xref rid="cti21229-bib-0033" ref-type="ref">
+<sup>33</sup>
+</xref> A similar expansion in autoreactive T‐cell antigen specificity over time has been observed in MS and type 1 diabetes.<xref rid="cti21229-bib-0047" ref-type="ref">
+<sup>47</sup>
+</xref>, <xref rid="cti21229-bib-0048" ref-type="ref">
+<sup>48</sup>
+</xref>
+</p><p>Dopamine‐2 receptor has been previously described as an immune target of antibodies. However, patients positive for D2R‐specific T cells were all seronegative for D2R antibodies. This finding adds to the growing reports of neuroimmune encephalitis cases that are negative for known neuronal antibodies, but are responsive to immunotherapy.<xref rid="cti21229-bib-0049" ref-type="ref">
+<sup>49</sup>
+</xref>, <xref rid="cti21229-bib-0050" ref-type="ref">
+<sup>50</sup>
+</xref> D2R antibodies can be detected with methodologies such as an ELISA<xref rid="cti21229-bib-0013" ref-type="ref">
+<sup>13</sup>
+</xref>, <xref rid="cti21229-bib-0015" ref-type="ref">
+<sup>15</sup>
+</xref>, <xref rid="cti21229-bib-0016" ref-type="ref">
+<sup>16</sup>
+</xref>, <xref rid="cti21229-bib-0022" ref-type="ref">
+<sup>22</sup>
+</xref>, <xref rid="cti21229-bib-0025" ref-type="ref">
+<sup>25</sup>
+</xref>; however, the live cell‐based assay used in this study is a widely accepted method for neuronal antibody detection. Thus, the detection of D2R‐specific T cells may define a subset of movement and psychiatric disorders. Conversely, D2R antibody seropositivity in our cohort was not associated with activated D2R‐specific T cells. Despite D2R antibodies being IgG,<xref rid="cti21229-bib-0017" ref-type="ref">
+<sup>17</sup>
+</xref> an antibody isotype dependent on interactions with CD4<sup>+</sup> T follicular helper (Tfh) cells, the absence of D2R‐specific CD4<sup>+</sup> T cells in these patients can be attributed to certain factors. Unlike antibodies, which are readily accessible in the peripheral blood, Tfh cells predominantly reside in secondary lymph nodes.<xref rid="cti21229-bib-0051" ref-type="ref">
+<sup>51</sup>
+</xref>, <xref rid="cti21229-bib-0052" ref-type="ref">
+<sup>52</sup>
+</xref> Hence, the time of peripheral blood sampling can affect the detection of antigen‐specific CD4<sup>+</sup> T cells. This factor is compounded by the rarity of antigen‐specific T cells in the peripheral blood<xref rid="cti21229-bib-0053" ref-type="ref">
+<sup>53</sup>
+</xref> and challenges the sensitivity of a detection test. Nevertheless, the CD25/CD134 assay that we utilised has been shown to be more sensitive and specific than other T‐cell detection methods in identifying rare antigen‐specific memory T cells.<xref rid="cti21229-bib-0039" ref-type="ref">
+<sup>39</sup>
+</xref>, <xref rid="cti21229-bib-0054" ref-type="ref">
+<sup>54</sup>
+</xref>, <xref rid="cti21229-bib-0055" ref-type="ref">
+<sup>55</sup>
+</xref>
+</p><p>T‐cell autoreactivity against D2R demonstrated by the CD25/CD134 assay was corroborated by computational predictions of HLA binding to D2R peptides. The three D2R immunodominant regions identified in the <italic toggle="yes">in vitro</italic> assay were predicted to bind with high affinity to the HLA‐D genotype of patients who harboured D2R‐specific T cells. This finding underscores the immunogenicity of these immunodominant regions, as a complete activation of antigen‐specific T cells requires recognition of the entire HLA–peptide complex, and further supports the immune dysregulation hypothesis. It was notable that HLA‐DPA1*01:03:01 and HLA‐DPB1*04:01:01 were over‐represented in patients with D2R‐specific T cells and demonstrated haplotypic association. These two alleles were prevalent in Polynesian and Amerindian populations, and HLA‐DPB1*04:01:01 was also observed in some oriental and Caucasoid groups.<xref rid="cti21229-bib-0056" ref-type="ref">
+<sup>56</sup>
+</xref>, <xref rid="cti21229-bib-0057" ref-type="ref">
+<sup>57</sup>
+</xref>, <xref rid="cti21229-bib-0058" ref-type="ref">
+<sup>58</sup>
+</xref>, <xref rid="cti21229-bib-0059" ref-type="ref">
+<sup>59</sup>
+</xref>, <xref rid="cti21229-bib-0060" ref-type="ref">
+<sup>60</sup>
+</xref>, <xref rid="cti21229-bib-0061" ref-type="ref">
+<sup>61</sup>
+</xref> In comparison, our cohort consisted of a mixed population who were not of Polynesian or Amerindian background. Specific HLA alleles and linked haplotypes have been strongly associated with other neurological neuroimmune diseases such as leucine‐rich glioma‐inactivated 1 (LGI1), contactin‐associated protein‐like 2 (CASPR2) and <italic toggle="yes">N</italic>‐methyl‐<sc>d</sc>‐aspartic acid receptor (NMDAR) antibody‐associated encephalitis.<xref rid="cti21229-bib-0062" ref-type="ref">
+<sup>62</sup>
+</xref>, <xref rid="cti21229-bib-0063" ref-type="ref">
+<sup>63</sup>
+</xref>, <xref rid="cti21229-bib-0064" ref-type="ref">
+<sup>64</sup>
+</xref> The prevalent HLA alleles in these disorders were HLA‐DRB1*07 linked to HLA‐DRB4, HLA‐DRB1*11:01 and HLA‐DRB1*16:02, respectively. Variations in HLA associations across these encephalitides and in patients with D2R‐specific T cells highlight the contribution of different genetic factors to the genetic susceptibility of these conditions. Strong genetic associations cannot be established in our small cohort of D2R‐specific T‐cell‐positive patients, but the frequent occurrence of these particular alleles in our patients warrants future large‐scale studies.</p><p>The pro‐inflammatory cytokine profile in patients with activated D2R‐specific T cells suggested that these cells exhibited a Th1 and Th17 bias. There was a pronounced increase in IL‐2, IFN‐ γ, TNF, IL‐6, IL‐17A and IL‐17F in D2R‐specific T‐cell‐positive patients, while an anti‐inflammatory cytokine secretion was comparable to controls. While these pro‐inflammatory cytokines can be secreted by different immune cells, they are characteristic of Th1 and Th17 cells and their elevated levels were associated with D2R‐specific T‐cell activation. Although we studied the peripheral response of D2R‐specific T cells, Th1 and Th17 signature cytokines have been reported to be the markers of intrathecal inflammation.<xref rid="cti21229-bib-0041" ref-type="ref">
+<sup>41</sup>
+</xref> Th1 and Th17 cells and their associated cytokines have been strongly implicated in a range of neuroinflammatory diseases, including NMDAR antibody‐associated encephalitis and demyelinating disorders such as MS, NMOSD and acute disseminated encephalomyelitis.<xref rid="cti21229-bib-0033" ref-type="ref">
+<sup>33</sup>
+</xref>, <xref rid="cti21229-bib-0034" ref-type="ref">
+<sup>34</sup>
+</xref>, <xref rid="cti21229-bib-0040" ref-type="ref">
+<sup>40</sup>
+</xref>, <xref rid="cti21229-bib-0041" ref-type="ref">
+<sup>41</sup>
+</xref>, <xref rid="cti21229-bib-0065" ref-type="ref">
+<sup>65</sup>
+</xref> Despite the varied phenomenology, neuroimmune encephalitis and demyelinating disorders both positively correlated with Th1 and Th17 cytokines, and the cytokine profile of these immune‐mediated aetiologies differed from an infectious aetiology.<xref rid="cti21229-bib-0041" ref-type="ref">
+<sup>41</sup>
+</xref>, <xref rid="cti21229-bib-0066" ref-type="ref">
+<sup>66</sup>
+</xref> These pro‐inflammatory cytokines can contribute to neuroinflammation by various mechanisms including breakdown of the blood–brain barrier (BBB) and attracting other immune cells, such as neutrophils and macrophages.<xref rid="cti21229-bib-0027" ref-type="ref">
+<sup>27</sup>
+</xref>, <xref rid="cti21229-bib-0067" ref-type="ref">
+<sup>67</sup>
+</xref>
+</p><p>In addition to a role in neuroinflammation, it is plausible that D2R‐specific T cells can interfere with immune system functions as dopamine receptors are widely expressed by immune cells.<xref rid="cti21229-bib-0010" ref-type="ref">
+<sup>10</sup>
+</xref>, <xref rid="cti21229-bib-0011" ref-type="ref">
+<sup>11</sup>
+</xref>, <xref rid="cti21229-bib-0068" ref-type="ref">
+<sup>68</sup>
+</xref>, <xref rid="cti21229-bib-0069" ref-type="ref">
+<sup>69</sup>
+</xref>, <xref rid="cti21229-bib-0070" ref-type="ref">
+<sup>70</sup>
+</xref>, <xref rid="cti21229-bib-0071" ref-type="ref">
+<sup>71</sup>
+</xref> Dopaminergic signalling can modulate immunological processes, such as T‐ and B‐cell interactions in antibody production, activation of naïve T cells, inhibition of stimulated T cells, suppression of regulatory T cells, cytokine secretion, and cellular trafficking and chemotactic migration of T cells.<xref rid="cti21229-bib-0010" ref-type="ref">
+<sup>10</sup>
+</xref>, <xref rid="cti21229-bib-0011" ref-type="ref">
+<sup>11</sup>
+</xref>, <xref rid="cti21229-bib-0072" ref-type="ref">
+<sup>72</sup>
+</xref>, <xref rid="cti21229-bib-0073" ref-type="ref">
+<sup>73</sup>
+</xref>, <xref rid="cti21229-bib-0074" ref-type="ref">
+<sup>74</sup>
+</xref> Some studies have reported abnormalities in the expression of dopamine receptors on immune cells or impaired immune function in neurological and psychiatric disorders, including schizophrenia, Parkinson's disease and Tourette's syndrome.<xref rid="cti21229-bib-0075" ref-type="ref">
+<sup>75</sup>
+</xref>, <xref rid="cti21229-bib-0076" ref-type="ref">
+<sup>76</sup>
+</xref>, <xref rid="cti21229-bib-0077" ref-type="ref">
+<sup>77</sup>
+</xref>, <xref rid="cti21229-bib-0078" ref-type="ref">
+<sup>78</sup>
+</xref>, <xref rid="cti21229-bib-0079" ref-type="ref">
+<sup>79</sup>
+</xref> It can then be hypothesised that patients in this study may have abnormal D2R expression on immune cells or that autoreactive D2R‐specific T cells may target immune cells, which express, process and present dopamine receptors. These factors can contribute to a defective immune system and subsequent deleterious effects on the CNS.</p><p>The mechanisms that give rise to autoreactive T cells remain an important, yet unanswered question. Molecular mimicry has often been proposed and theorises that cross‐reactivity between microbial structures and host proteins results in an immune response misdirected to the host. This theory has been supported by the evidence that there was 90% homology between the T‐cell epitope of AQP4 and the bacterium <italic toggle="yes">Clostridium perfringens</italic>,<xref rid="cti21229-bib-0034" ref-type="ref">
+<sup>34</sup>
+</xref> and the induction of a Th17‐biased response in mice when infected with <italic toggle="yes">Clostridium</italic>.<xref rid="cti21229-bib-0080" ref-type="ref">
+<sup>80</sup>
+</xref> A similar phenomenon has been described wherein a D2R antibody epitope shared a sequence with an unknown protein of <italic toggle="yes">Penicillium</italic>,<xref rid="cti21229-bib-0019" ref-type="ref">
+<sup>19</sup>
+</xref> and a streptococcal infection led to the production of cross‐reactive autoantibodies in Sydenham's chorea.<xref rid="cti21229-bib-0013" ref-type="ref">
+<sup>13</sup>
+</xref>, <xref rid="cti21229-bib-0081" ref-type="ref">
+<sup>81</sup>
+</xref>, <xref rid="cti21229-bib-0082" ref-type="ref">
+<sup>82</sup>
+</xref> Sequence homology between T‐cell immunodominant regions of D2R and microbial structures was not observed in this study (data not shown). Some D2R‐specific T‐cell‐positive patients, however, exhibited disease exacerbation upon infection, suggesting that an activated immune response could erroneously target self‐proteins as a bystander effect of fighting an infection.<xref rid="cti21229-bib-0025" ref-type="ref">
+<sup>25</sup>
+</xref>, <xref rid="cti21229-bib-0083" ref-type="ref">
+<sup>83</sup>
+</xref> This notion has been demonstrated in a murine model wherein repeated infections led to the expansion and migration of Th17 cells from the peripheral lymph nodes to the brain.<xref rid="cti21229-bib-0026" ref-type="ref">
+<sup>26</sup>
+</xref> Once in the brain, these reactive T cells induced secretion of IL‐17A, activation of microglia and breakdown of the BBB, which could augment neuroinflammation. Additionally, an impaired innate immune response may contribute to autoimmunity. For instance, monocytes in NMOSD patients had elevated IL‐6 secretion and expression of co‐stimulatory molecules that could perpetuate a Th17 response.<xref rid="cti21229-bib-0034" ref-type="ref">
+<sup>34</sup>
+</xref> An activated complement system and microglia have also been increasingly recognised for their role in neuroinflammation in diseases such as MS, Tourette's syndrome, Parkinson's disease and schizophrenia.<xref rid="cti21229-bib-0084" ref-type="ref">
+<sup>84</sup>
+</xref>, <xref rid="cti21229-bib-0085" ref-type="ref">
+<sup>85</sup>
+</xref>, <xref rid="cti21229-bib-0086" ref-type="ref">
+<sup>86</sup>
+</xref>, <xref rid="cti21229-bib-0087" ref-type="ref">
+<sup>87</sup>
+</xref>, <xref rid="cti21229-bib-0088" ref-type="ref">
+<sup>88</sup>
+</xref> Our study explored CD4<sup>+</sup> helper T cells; however, CD8<sup>+</sup> cytotoxic T cells have been implicated in the pathophysiology of MS, Rasmussen's encephalitis and paraneoplastic syndromes.<xref rid="cti21229-bib-0029" ref-type="ref">
+<sup>29</sup>
+</xref>, <xref rid="cti21229-bib-0030" ref-type="ref">
+<sup>30</sup>
+</xref>, <xref rid="cti21229-bib-0031" ref-type="ref">
+<sup>31</sup>
+</xref>, <xref rid="cti21229-bib-0035" ref-type="ref">
+<sup>35</sup>
+</xref>, <xref rid="cti21229-bib-0036" ref-type="ref">
+<sup>36</sup>
+</xref>, <xref rid="cti21229-bib-0037" ref-type="ref">
+<sup>37</sup>
+</xref>, <xref rid="cti21229-bib-0038" ref-type="ref">
+<sup>38</sup>
+</xref> Likewise, CD8<sup>+</sup> T cells may also have a contributing role in D2R‐specific T‐cell autoimmunity through activation and subsequent secretion of pro‐inflammatory cytokines. Given these observations, future studies are needed to evaluate the role of innate and cytotoxic T‐cell immune dysfunction in neuroimmune movement and psychiatric disorders.</p><p>Identifying and characterising the neuroinflammation associated with a reactive T‐cell response offer novel alternatives for the treatment of movement and psychiatric disorders. Strategies may include inhibiting T‐cell proliferation, restricting T‐cell trafficking or targeting cytokines produced by T cells.<xref rid="cti21229-bib-0089" ref-type="ref">
+<sup>89</sup>
+</xref>, <xref rid="cti21229-bib-0090" ref-type="ref">
+<sup>90</sup>
+</xref> An example of the latter is tocilizumab, a monoclonal antibody that targets the receptor of IL‐6, a cytokine notably elevated in patients positive for D2R‐specific T cells. Interestingly, tocilizumab has been effective in the treatment of neuroimmune encephalitis and NMOSD patients unresponsive to standard immunotherapies.<xref rid="cti21229-bib-0091" ref-type="ref">
+<sup>91</sup>
+</xref>, <xref rid="cti21229-bib-0092" ref-type="ref">
+<sup>92</sup>
+</xref>, <xref rid="cti21229-bib-0093" ref-type="ref">
+<sup>93</sup>
+</xref>, <xref rid="cti21229-bib-0094" ref-type="ref">
+<sup>94</sup>
+</xref> The co‐stimulatory molecule CD134 on activated T cells is another viable treatment target. Blockade of CD134 with a monoclonal antibody decreased mononuclear cell infiltration into the spinal cord of experimental autoimmune encephalomyelitis mouse models and reduced pro‐inflammatory response in a murine model of rheumatoid arthritis.<xref rid="cti21229-bib-0095" ref-type="ref">
+<sup>95</sup>
+</xref>, <xref rid="cti21229-bib-0096" ref-type="ref">
+<sup>96</sup>
+</xref> Further studies are needed to assess the implications of these results on patient treatments.</p><p>In summary, we have identified and characterised pro‐inflammatory D2R‐specific T cells in patients with movement and psychiatric disorders who are negative for D2R antibodies. Notably, these T cells are associated with a Th1 and Th17 phenotype, suggesting a T‐cell‐driven immune response. This suggests that autoreactive D2R‐specific T cells may be a hallmark of a subgroup of movement and psychiatric disorders from both an autoimmune origin and neurodevelopmental origin and prompts further investigation into their pathogenic role. Further knowledge can aid in discriminating patients who are phenotypically similar and consequently encourage treatment regimes towards T‐cell‐directed therapies for improved patient outcomes.</p></sec><sec sec-type="methods" id="cti21229-sec-0011"><title>Methods</title><sec id="cti21229-sec-0012"><title>Subjects</title><p>This study investigated paediatric patients (<italic toggle="yes">n</italic> = 24) seen from 2016 to 2019 at The Children's Hospital at Westmead, Sydney, Australia. Patients presented with a range of movement and psychiatric disorders that were of suspected autoimmune aetiology (<italic toggle="yes">n</italic> = 7)<xref rid="cti21229-bib-0043" ref-type="ref">
+<sup>43</sup>
+</xref> or neurodevelopmental origin (<italic toggle="yes">n</italic> = 17)<xref rid="cti21229-bib-0097" ref-type="ref">
+<sup>97</sup>
+</xref> (Table <xref rid="cti21229-tbl-0002" ref-type="table">2</xref>). All patients were symptomatic at the time of blood sampling and were not on immunotherapy. Patients with Sydenham's chorea (<italic toggle="yes">n</italic> = 5) fulfilled the revised Jones criteria of acute rheumatic fever and the criteria defined by Cardoso <italic toggle="yes">et al</italic>.<xref rid="cti21229-bib-0098" ref-type="ref">
+<sup>98</sup>
+</xref>, <xref rid="cti21229-bib-0099" ref-type="ref">
+<sup>99</sup>
+</xref> All patients with Tourette's syndrome (<italic toggle="yes">n</italic> = 17) fulfilled the DSM‐IV criteria for this disorder. All patients with PANS (<italic toggle="yes">n</italic> = 7) fulfilled the criteria developed by Chang <italic toggle="yes">et al</italic>.<xref rid="cti21229-bib-0100" ref-type="ref">
+<sup>100</sup>
+</xref> The control cohort (<italic toggle="yes">n</italic> = 16; seven males; median age = 11.5 years; range = 6–16 years) consisted of children with neurological disorders (<italic toggle="yes">n</italic> = 7; 4/7 confirmed genetic, 3/7 suspected genetic brain disease), children investigated for growth failure (<italic toggle="yes">n</italic> = 8) and a child with coeliac disease (<italic toggle="yes">n</italic> = 1). The ethics approval for this study (NEAF 12/SCHN/395) was granted by the human research ethics committees of the Sydney Children's Hospital Network. Written informed consent was obtained from all participants or their carers.</p><table-wrap id="cti21229-tbl-0002" xml:lang="en" content-type="Table" orientation="portrait" position="float"><label>Table 2</label><caption><p>Summary of demographics and clinical characteristics of patients with movement and psychiatric disorders classified by aetiology</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1"/><th align="left" valign="top" rowspan="1" colspan="1">Autoimmune</th><th align="left" valign="top" rowspan="1" colspan="1">Neurodevelopmental</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Number of participants</td><td align="left" rowspan="1" colspan="1">7<xref ref-type="fn" rid="cti21229-note-0003">
+<sup>a</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">17</td></tr><tr><td align="left" rowspan="1" colspan="1">Male:female</td><td align="left" rowspan="1" colspan="1">3:4</td><td align="left" rowspan="1" colspan="1">9:8</td></tr><tr><td align="left" rowspan="1" colspan="1">Median age at sampling (range; years)</td><td align="left" rowspan="1" colspan="1">12 (10–17)</td><td align="left" rowspan="1" colspan="1">11 (3–16)</td></tr><tr><td align="left" rowspan="1" colspan="1">Median disease duration at sampling (range; years)</td><td align="left" rowspan="1" colspan="1">0.17 (0.04–12)</td><td align="left" rowspan="1" colspan="1">3 (0.04–12)</td></tr><tr><td align="left" colspan="3" rowspan="1">Clinical characteristics</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Tourette's syndrome only, <italic toggle="yes">n</italic>
+</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">2</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Tourette's syndrome and OCD, <italic toggle="yes">n</italic>
+</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">15<xref ref-type="fn" rid="cti21229-note-0004">
+<sup>b</sup>
+</xref>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Sydenham's chorea</td><td align="left" rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Other neuropsychiatric features and movement disorders, <italic toggle="yes">n</italic>
+</td><td align="left" rowspan="1" colspan="1">Basal ganglia encephalitis 2</td><td align="left" rowspan="1" colspan="1">Anorexia 1; anxiety 4; autism 4; ADHD 2; depression 4; fatigue 1; mood 1; ODD 1; sensory 1</td></tr><tr><td align="left" colspan="3" rowspan="1">Course of disease, <italic toggle="yes">n</italic>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Acute</td><td align="left" rowspan="1" colspan="1">6</td><td align="left" rowspan="1" colspan="1">1</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Chronic</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">16</td></tr></tbody></table><table-wrap-foot id="cti21229-ntgp-0002"><fn id="cti21229-note-0002"><p>ADHD, attention‐deficit/hyperactivity disorder; OCD, obsessive–compulsive disorder; ODD, oppositional defiant disorder</p></fn><fn id="cti21229-note-0003"><label><sup>a</sup></label><p>The seven autoimmune patients fulfilled the criteria for Sydenham's chorea (<italic toggle="yes">n</italic> = 5) according to the revised Jones criteria of acute rheumatic fever and the criteria by Cardoso <italic toggle="yes">et al</italic>.<xref rid="cti21229-bib-0098" ref-type="ref">
+<sup>98</sup>
+</xref>, <xref rid="cti21229-bib-0099" ref-type="ref">
+<sup>99</sup>
+</xref> or basal ganglia encephalitis (<italic toggle="yes">n</italic> = 2) with specific basal ganglia inflammation, as described.<xref rid="cti21229-bib-0017" ref-type="ref">
+<sup>17</sup>
+</xref>
+</p></fn><fn id="cti21229-note-0004"><label><sup>b</sup></label><p>Seven patients with Tourette's syndrome had acute infection‐provoked onset consistent with paediatric acute‐onset neuropsychiatric syndrome.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="cti21229-sec-0013"><title>Peptides and antigens</title><p>A library of 87 peptides were synthesised based on the complete sequence of the human D2R protein (Mimotopes, Australia; Supplementary table <xref rid="cti21229-sup-0001" ref-type="supplementary-material">1</xref>). Each 15‐mer peptide overlapped by 10 amino acids and had &gt; 85% purity. Excluding 20 peptides that were insoluble mainly because of their hydrophobicity, the peptides were sequentially grouped into 10 master pools for whole blood cultures (Supplementary table <xref rid="cti21229-sup-0001" ref-type="supplementary-material">1</xref>). Select master pools were further split into sub‐pools of two or three peptides for PBMC cultures (Supplementary table <xref rid="cti21229-sup-0001" ref-type="supplementary-material">2</xref>). Each peptide was used at a final concentration of 9 μg mL<sup>−1</sup>. Cells were stimulated with two positive control antigens: 1 μg mL<sup>−1</sup> of staphylococcus enterotoxin B (SEB; Sigma‐Aldrich, St Louis, MO, USA), a super‐antigen which binds to a subset of T cells in a non‐antigen‐specific manner and induces substantial activation and proliferation, and 2 μg mL<sup>−1</sup> of tetanus toxoid (TT; Enzo Life Sciences, Farmingdale, NY, USA), a recall antigen which requires processing and presentation by antigen‐presenting cells in association with HLA class II molecules to induce activation of TT‐specific T cells via the T‐cell receptor.</p></sec><sec id="cti21229-sec-0014"><title>CD25/CD134 assay for the detection of D2R‐specific T cells</title><p>To identify activated D2R‐specific CD4<sup>+</sup> T cells, blood was collected concurrently for CD25/CD134 assay with whole blood<xref rid="cti21229-bib-0039" ref-type="ref">
+<sup>39</sup>
+</xref>, <xref rid="cti21229-bib-0101" ref-type="ref">
+<sup>101</sup>
+</xref> and PBMCs. PBMCs were isolated by density gradient centrifugation using the Ficoll‐Paque PLUS (GE Healthcare Lifesciences, Chicago, IL, USA).</p><p>Fresh sodium heparinised whole blood was diluted with Iscove's Modified Dulbecco's Media (IMDM; 1:1; Gibco, Gaithersburg, MD, USA) and cultured in sterile 24‐well tissue culture plate with media alone (unstimulated), positive control antigens (SEB and TT) or D2R peptide master pools. In four patients with limited sample, D2R peptide master pool 1 and pool 7 were not tested as they were previously shown not to elicit a T‐cell activation. Similarly, cryopreserved PBMCs were cultured in 96‐well U‐bottom tissue culture plates at 5 × 10<sup>5</sup> cells well<sup>−1</sup> (200 μL well<sup>−1</sup>) in RPMI (Gibco) supplemented with 10% heat‐inactivated human AB serum (Sigma‐Aldrich), penicillin and streptomycin. Each PBMC sample was cultured with complete media alone, TT and D2R sub‐pools of the master pools previously shown to elicit T‐cell activation in the whole blood CD25/CD134 assay. Whole blood and PBMC cultures were incubated for 42–44 h at 37°C in a humidified atmosphere of 5% CO<sub>2</sub>.</p><p>After 42–44 h of culture, 200 μL of whole blood or PBMC cultures was stained with mouse anti‐human CD3‐V450, CD4‐FITC, CD25‐APC and CD134‐PE (BD Biosciences, San Jose, CA, USA) for 15 min at room temperature (Supplementary table <xref rid="cti21229-sup-0001" ref-type="supplementary-material">5</xref>). Red blood cells in whole blood samples were lysed with BD Pharm Lyse (BD Biosciences), as per the manufacturer's protocol. Cells were acquired on a five‐laser BD LSR II Flow Cytometer (BD Biosciences). Data were analysed with FlowJo 10.4.1 (TreeStar, FLowJoTM Software, Ashland, OR, USA), Excel (Microsoft, Redmond, WA, USA) and GraphPad Prism (GraphPad Software, San Diego, CA, USA). CD3<sup>+</sup>CD4<sup>+</sup> helper T cells were analysed for co‐expression of CD134 and high CD25 based on the negative (unstimulated) and positive (SEB and TT) controls included in each experiment (Supplementary figure <xref rid="cti21229-sup-0001" ref-type="supplementary-material">3</xref>). A minimum of 40 000 and 30 000 lymphocytes were analysed for the whole blood and PBMC cultures, respectively. The signal of the unstimulated condition was subtracted from the antigen‐stimulated conditions to remove background. In whole blood cultures, a positive D2R‐specific T‐cell activation was established if the frequency of CD25<sup>+</sup>CD134<sup>+</sup>CD4<sup>+</sup> T cells exceeded a threshold set by the mean + 3SD of the control cohort. One control was excluded from the control cohort of pools 1, 4 and 10 as they were an outlier as per the Grubbs test.</p></sec><sec id="cti21229-sec-0015"><title>HLA genotyping and HLA‐D2R peptide‐binding prediction</title><p>HLA class II molecules are crucial in presenting an antigen to CD4<sup>+</sup> T cells. The genes encoding HLA class II proteins are highly polymorphic and, unsurprisingly, have been commonly associated with autoreactive CD4<sup>+</sup> T cells. Given this, HLA class II genotyping was performed in patients shown to harbour D2R‐specific T cells (<italic toggle="yes">n</italic> = 8) using the AlloSeq Tx assay (CareDx, Brisbane, CA, USA). HLA alleles were fully resolved to the second or third field as defined by the IPD‐IMGT/HLA database (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://hla.alleles.org/nomenclature/naming.html">http://hla.alleles.org/nomenclature/naming.html</ext-link>).</p><p>The online server tool MHC‐II prediction from the Immune Epitope Database (IEDB; <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://tools.iedb.org/mhcii/">http://tools.iedb.org/mhcii/</ext-link>) was used to assess the binding prediction of D2R peptides to class II HLA alleles of each patient. With the exception of new alleles or one allele not documented in IEDB, all possible allele combinations for each class and both chromosomes were examined, resulting in two combinations for HLA‐DR and four for HLA‐DQ and HLA‐DP. The sequence of the full protein was inputted and analysed as 15‐mer peptides overlapping by 10 amino acids. Peptides were considered predicted binders if the consensus percentile rank was &lt; 10%.<xref rid="cti21229-bib-0102" ref-type="ref">
+<sup>102</sup>
+</xref>
+</p></sec><sec id="cti21229-sec-0016"><title>Cytokine secretion profiling</title><p>Following 42–44 h of stimulation, the supernatant of the PBMC cultures was collected and frozen at −80°C for later use. The supernatant of six D2R‐specific T‐cell‐positive patients was analysed for secreted cytokines with the LEGENDPlex Human Th Cytokine Panel 13‐plex Kit (BioLegend, San Diego, CA, USA) and an IFN‐γ enzyme‐linked immunosorbent assay (ELISA; Mabtech Stockholm, Sweden) used as per the manufacturer's protocol. The following cytokines were quantified: IL‐2, IL‐4, IL‐5, IL‐6, IL‐9, IL‐10, IL‐13, IL‐17A, IL‐17F, IL‐21, IL‐22, IFN‐γ and TNF. All samples were measured undiluted and acquired on BD LSR II and BD FACSCanto II. Data were analysed with LEGENDPlex Data Analysis Software v8 (BioLegend), Excel and GraphPad Prism.</p></sec><sec id="cti21229-sec-0017"><title>Flow cytometry live cell‐based assay for the detection of D2R antibodies</title><p>A flow cytometry live cell‐based assay was used to detect the binding of patient serum antibodies against surface human D2R, an accepted method of neuronal antibody detection,<xref rid="cti21229-bib-0004" ref-type="ref">
+<sup>4</sup>
+</xref> and was performed as previously described.<xref rid="cti21229-bib-0017" ref-type="ref">
+<sup>17</sup>
+</xref>, <xref rid="cti21229-bib-0018" ref-type="ref">
+<sup>18</sup>
+</xref>, <xref rid="cti21229-bib-0019" ref-type="ref">
+<sup>19</sup>
+</xref>, <xref rid="cti21229-bib-0021" ref-type="ref">
+<sup>21</sup>
+</xref> Briefly, transfected live HEK293 cells expressing D2R were incubated with serum (1:50),<xref rid="cti21229-bib-0103" ref-type="ref">
+<sup>103</sup>
+</xref> followed by staining with Alexa Fluor 647‐conjugated anti‐human IgG (H + L; Thermo Fisher Scientific, Waltham, MA, USA). Cells were acquired live using the high‐throughput system on a five‐laser BD LSR II Flow Cytometer and analysed with FlowJo 10.4.1, Excel and GraphPad Prism. The threshold was calculated as the mean + 3SD of the control cohort, and a patient was reported positive for D2R antibodies if they were above this threshold in at least two of three independent experiments. Only 23 of 24 patients were tested as the serum of one patient was not available. Antibodies against other dopamine receptor subtypes were not detected in our previous study and therefore were not tested.<xref rid="cti21229-bib-0017" ref-type="ref">
+<sup>17</sup>
+</xref>
+</p></sec><sec id="cti21229-sec-0018"><title>Statistics</title><p>Subject groups were compared with non‐parametric two‐tailed Mann–Whitney <italic toggle="yes">U</italic>‐tests or Kruskal–Wallis tests, where appropriate, using GraphPad Prism 7. Statistical significance was determined to be <italic toggle="yes">P</italic> &lt; 0.05.</p></sec></sec><sec id="cti21229-sec-0020"><title>Author contributions</title><p>
+<bold>Deepti Pilli:</bold> Conceptualization; Investigation; Methodology; Writing‐original draft; Writing‐review &amp; editing. <bold>Alicia Zou:</bold> Formal analysis; Investigation; Methodology; Writing‐review &amp; editing. <bold>Ruebena Dawes:</bold> Formal analysis; Investigation; Writing‐original draft. <bold>Joseph A Lopez:</bold> Formal analysis; Investigation; Methodology; Writing‐review &amp; editing. <bold>Fiona Tea:</bold> Formal analysis; Investigation; Methodology; Writing‐review &amp; editing. <bold>Ganesha Liyanage:</bold> Formal analysis; Investigation; Methodology; Writing‐review &amp; editing. <bold>Fiona X.Z. Lee:</bold> Investigation; Methodology; Writing‐review &amp; editing. <bold>Vera Merheb:</bold> Investigation; Methodology; Writing‐review &amp; editing. <bold>Samuel Houston:</bold> Data curation; Methodology; Software; Writing‐review &amp; editing. <bold>Aleha Pillay:</bold> Data curation; Formal analysis; Methodology; Writing‐review &amp; editing. <bold>Hannah Jones:</bold> Formal analysis; Investigation; Writing‐review &amp; editing. <bold>Sudarshini Ramanathan:</bold> Investigation; Methodology; Writing‐review &amp; editing. <bold>Shekeeb Mohammad:</bold> Data curation; Formal analysis; Investigation; Writing‐review &amp; editing. <bold>Anthony D Kelleher:</bold> Formal analysis; Investigation; Methodology; Writing‐review &amp; editing. <bold>Stephen I. Alexander:</bold> Formal analysis; Investigation; Methodology; Writing‐review &amp; editing. <bold>Russell C Dale:</bold> Formal analysis; Investigation; Writing‐review &amp; editing. <bold>Fabienne Brilot:</bold> Conceptualization; Formal analysis; Funding acquisition; Investigation; Methodology; Supervision; Writing‐review &amp; editing.</p></sec><sec sec-type="COI-statement" id="cti21229-sec-0021"><title>Conflict of interest</title><p>DP reports funding from the Neville Brown Scholarship (Australia). SR reports fellowship research funding from the National Health and Medical Research Council (Australia). RCD and FB have received research funding from the Trish Multiple Sclerosis Research Foundation, Multiple Sclerosis Research Australia, the Petre Foundation and the National Health Medical Research Council (Australia). They have received honoraria from Biogen Idec and Merck Serono as invited speakers. AZ, RD, JAL, FT, GL, FXZL, VM, SDH, AP, HFJ, SM, ADK and SIA declare no competing interests.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="cti21229-sup-0001" position="float" orientation="portrait"><caption><p> </p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CTI2-9-e1229-s001.docx" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="cti21229-sec-0019"><title>Acknowledgments</title><p>We thank all the patients and families who participated in this study. We thank Dr Suat Dervish, Dr Edwin Lau and Dr Maggie Wang for providing access and services at the Flow Cytometry Core Facility, which are supported by the Westmead Research Hub, the Cancer Institute New South Wales, the National Health and Medical Research Council and the Ian Potter Foundation. This work was supported by the Australian National Health and Medical Research Council [APP1078643] (NHRMC, Australia), Petre Foundation (Australia) and the Sydney Research Excellence Initiative Grant (University of Sydney, Australia).</p></ack><ref-list content-type="cited-references" id="cti21229-bibl-0001"><title>References</title><ref id="cti21229-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="cti21229-cit-0001">
+<string-name name-style="western">
+<surname>Balint</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vincent</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Meinck</surname>
+<given-names>HM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Irani</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bhatia</surname>
+<given-names>KP</given-names>
+</string-name>. <article-title>Movement disorders with neuronal antibodies: syndromic approach, genetic parallels and pathophysiology</article-title>. <source xml:lang="en">Brain</source>
+<year>2018</year>; <volume>141</volume>: <fpage>13</fpage>–<lpage>36</lpage>.<pub-id pub-id-type="pmid">29053777</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/brain/awx189</pub-id><pub-id pub-id-type="pmcid">PMC5888977</pub-id></mixed-citation></ref><ref id="cti21229-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="cti21229-cit-0002">
+<string-name name-style="western">
+<surname>Cellucci</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Van Mater</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Graus</surname>
+<given-names>F</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>Clinical approach to the diagnosis of autoimmune encephalitis in the pediatric patient</article-title>. <source xml:lang="en">Neurol Neuroimmunol Neuroinflamm</source>
+<year>2020</year>; <volume>7</volume>: <elocation-id>e663</elocation-id>.<pub-id pub-id-type="pmid">31953309</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1212/NXI.0000000000000663</pub-id><pub-id pub-id-type="pmcid">PMC7051207</pub-id></mixed-citation></ref><ref id="cti21229-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="cti21229-cit-0003">
+<string-name name-style="western">
+<surname>Dalmau</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Graus</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>Antibody‐mediated encephalitis</article-title>. <source xml:lang="en">N Engl J Med</source>
+<year>2018</year>; <volume>378</volume>: <fpage>840</fpage>–<lpage>851</lpage>.<pub-id pub-id-type="pmid">29490181</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMra1708712</pub-id></mixed-citation></ref><ref id="cti21229-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="cti21229-cit-0004">
+<string-name name-style="western">
+<surname>Graus</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Titulaer</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Balu</surname>
+<given-names>R</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>A clinical approach to diagnosis of autoimmune encephalitis</article-title>. <source xml:lang="en">Lancet Neurol</source>
+<year>2016</year>; <volume>15</volume>: <fpage>391</fpage>–<lpage>404</lpage>.<pub-id pub-id-type="pmid">26906964</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S1474-4422(15)00401-9</pub-id><pub-id pub-id-type="pmcid">PMC5066574</pub-id></mixed-citation></ref><ref id="cti21229-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="cti21229-cit-0005">
+<string-name name-style="western">
+<surname>Jeppesen</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Benros</surname>
+<given-names>ME</given-names>
+</string-name>. <article-title>Autoimmune diseases and psychotic disorders</article-title>. <source xml:lang="en">Front Psychiatry</source>
+<year>2019</year>; <volume>10</volume>: <elocation-id>e131</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fpsyt.2019.00131</pub-id><pub-id pub-id-type="pmcid">PMC6435494</pub-id><pub-id pub-id-type="pmid">30949074</pub-id></mixed-citation></ref><ref id="cti21229-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="cti21229-cit-0006">
+<string-name name-style="western">
+<surname>Pollak</surname>
+<given-names>TA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lennox</surname>
+<given-names>BR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Muller</surname>
+<given-names>S</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>Autoimmune psychosis: an international consensus on an approach to the diagnosis and management of psychosis of suspected autoimmune origin</article-title>. <source xml:lang="en">Lancet Psychiatry</source>
+<year>2020</year>; <volume>7</volume>: <fpage>93</fpage>–<lpage>108</lpage>.<pub-id pub-id-type="pmid">31669058</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S2215-0366(19)30290-1</pub-id></mixed-citation></ref><ref id="cti21229-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="cti21229-cit-0007">
+<string-name name-style="western">
+<surname>Varley</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Taylor</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Irani</surname>
+<given-names>SR</given-names>
+</string-name>. <article-title>Autoantibody‐mediated diseases of the CNS: structure, dysfunction and therapy</article-title>. <source xml:lang="en">Neuropharmacology</source>
+<year>2018</year>; <volume>132</volume>: <fpage>71</fpage>–<lpage>82</lpage>.<pub-id pub-id-type="pmid">28476644</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neuropharm.2017.04.046</pub-id></mixed-citation></ref><ref id="cti21229-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="cti21229-cit-0008">
+<string-name name-style="western">
+<surname>Mishra</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Singh</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shukla</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Physiological and functional basis of dopamine receptors and their role in neurogenesis: possible implication for Parkinson's disease</article-title>. <source xml:lang="en">J Exp Neurosci</source>
+<year>2018</year>; <volume>12</volume>: <pub-id pub-id-type="doi">10.1177/1179069518779829</pub-id>. eCollection<pub-id pub-id-type="pmcid">PMC5985548</pub-id><pub-id pub-id-type="pmid">29899667</pub-id></mixed-citation></ref><ref id="cti21229-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="cti21229-cit-0009">
+<string-name name-style="western">
+<surname>Klein</surname>
+<given-names>MO</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Battagello</surname>
+<given-names>DS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cardoso</surname>
+<given-names>AR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hauser</surname>
+<given-names>DN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bittencourt</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Correa</surname>
+<given-names>RG</given-names>
+</string-name>. <article-title>Dopamine: functions, signaling, and association with neurological diseases</article-title>. <source xml:lang="en">Cell Mol Neurobiol</source>
+<year>2019</year>; <volume>39</volume>: <fpage>31</fpage>–<lpage>59</lpage>.<pub-id pub-id-type="pmid">30446950</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s10571-018-0632-3</pub-id><pub-id pub-id-type="pmcid">PMC11469830</pub-id></mixed-citation></ref><ref id="cti21229-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="cti21229-cit-0010">
+<string-name name-style="western">
+<surname>Levite</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Dopamine and T cells: dopamine receptors and potent effects on T cells, dopamine production in T cells, and abnormalities in the dopaminergic system in T cells in autoimmune, neurological and psychiatric diseases</article-title>. <source xml:lang="en">Acta Physiol (Oxf)</source>
+<year>2016</year>; <volume>216</volume>: <fpage>42</fpage>–<lpage>89</lpage>.<pub-id pub-id-type="pmid">25728499</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/apha.12476</pub-id></mixed-citation></ref><ref id="cti21229-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="cti21229-cit-0011">
+<string-name name-style="western">
+<surname>Sarkar</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Basu</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chakroborty</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dasgupta</surname>
+<given-names>PS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Basu</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>The immunoregulatory role of dopamine: an update</article-title>. <source xml:lang="en">Brain Behav Immun</source>
+<year>2010</year>; <volume>24</volume>: <fpage>525</fpage>–<lpage>528</lpage>.<pub-id pub-id-type="pmid">19896530</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bbi.2009.10.015</pub-id><pub-id pub-id-type="pmcid">PMC2856781</pub-id></mixed-citation></ref><ref id="cti21229-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="cti21229-cit-0012">
+<string-name name-style="western">
+<surname>Addabbo</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baglioni</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schrag</surname>
+<given-names>A</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>Anti‐dopamine D2 receptor antibodies in chronic tic disorders</article-title>. <source xml:lang="en">Dev Med Child Neurol</source>
+<year>2020</year>; <volume>62</volume>: <fpage>1205</fpage>–<lpage>1212</lpage>.<pub-id pub-id-type="pmid">32644201</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/dmcn.14613</pub-id></mixed-citation></ref><ref id="cti21229-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="cti21229-cit-0013">
+<string-name name-style="western">
+<surname>Ben‐Pazi</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stoner</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cunningham</surname>
+<given-names>MW</given-names>
+</string-name>. <article-title>Dopamine receptor autoantibodies correlate with symptoms in Sydenham's chorea</article-title>. <source xml:lang="en">PLoS One</source>
+<year>2013</year>; <volume>8</volume>: <elocation-id>e73516</elocation-id>.<pub-id pub-id-type="pmid">24073196</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0073516</pub-id><pub-id pub-id-type="pmcid">PMC3779221</pub-id></mixed-citation></ref><ref id="cti21229-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="cti21229-cit-0014">
+<string-name name-style="western">
+<surname>Brilot</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Merheb</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ding</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Murphy</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dale</surname>
+<given-names>RC</given-names>
+</string-name>. <article-title>Antibody binding to neuronal surface in Sydenham chorea, but not in PANDAS or Tourette syndrome</article-title>. <source xml:lang="en">Neurology</source>
+<year>2011</year>; <volume>76</volume>: <fpage>1508</fpage>–<lpage>1513</lpage>.<pub-id pub-id-type="pmid">21411742</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1212/WNL.0b013e3182181090</pub-id><pub-id pub-id-type="pmcid">PMC3087465</pub-id></mixed-citation></ref><ref id="cti21229-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="cti21229-cit-0015">
+<string-name name-style="western">
+<surname>Brimberg</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Benhar</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mascaro‐Blanco</surname>
+<given-names>A</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>Behavioral, pharmacological, and immunological abnormalities after streptococcal exposure: a novel rat model of Sydenham chorea and related neuropsychiatric disorders</article-title>. <source xml:lang="en">Neuropsychopharmacology</source>
+<year>2012</year>; <volume>37</volume>: <fpage>2076</fpage>–<lpage>2087</lpage>.<pub-id pub-id-type="pmid">22534626</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/npp.2012.56</pub-id><pub-id pub-id-type="pmcid">PMC3398718</pub-id></mixed-citation></ref><ref id="cti21229-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="cti21229-cit-0016">
+<string-name name-style="western">
+<surname>Cox</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sharma</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Leckman</surname>
+<given-names>JF</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>Brain human monoclonal autoantibody from sydenham chorea targets dopaminergic neurons in transgenic mice and signals dopamine D2 receptor: implications in human disease</article-title>. <source xml:lang="en">J Immunol</source>
+<year>2013</year>; <volume>191</volume>: <fpage>5524</fpage>–<lpage>5541</lpage>.<pub-id pub-id-type="pmid">24184556</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.4049/jimmunol.1102592</pub-id><pub-id pub-id-type="pmcid">PMC3848617</pub-id></mixed-citation></ref><ref id="cti21229-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="cti21229-cit-0017">
+<string-name name-style="western">
+<surname>Dale</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Merheb</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pillai</surname>
+<given-names>S</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>Antibodies to surface dopamine‐2 receptor in autoimmune movement and psychiatric disorders</article-title>. <source xml:lang="en">Brain</source>
+<year>2012</year>; <volume>135</volume>: <fpage>3453</fpage>–<lpage>3468</lpage>.<pub-id pub-id-type="pmid">23065479</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/brain/aws256</pub-id></mixed-citation></ref><ref id="cti21229-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="cti21229-cit-0018">
+<string-name name-style="western">
+<surname>Pathmanandavel</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Starling</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Merheb</surname>
+<given-names>V</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>Antibodies to surface dopamine‐2 receptor and N‐methyl‐D‐aspartate receptor in the first episode of acute psychosis in children</article-title>. <source xml:lang="en">Biol Psychiatry</source>
+<year>2015</year>; <volume>77</volume>: <fpage>537</fpage>–<lpage>547</lpage>.<pub-id pub-id-type="pmid">25168608</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.biopsych.2014.07.014</pub-id></mixed-citation></ref><ref id="cti21229-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="cti21229-cit-0019">
+<string-name name-style="western">
+<surname>Sinmaz</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tea</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pilli</surname>
+<given-names>D</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>Dopamine‐2 receptor extracellular N‐terminus regulates receptor surface availability and is the target of human pathogenic antibodies from children with movement and psychiatric disorders</article-title>. <source xml:lang="en">Acta Neuropathol Commun</source>
+<year>2016</year>; <volume>4</volume>: <fpage>126</fpage>.<pub-id pub-id-type="pmid">27908295</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s40478-016-0397-1</pub-id><pub-id pub-id-type="pmcid">PMC5134269</pub-id></mixed-citation></ref><ref id="cti21229-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="cti21229-cit-0020">
+<string-name name-style="western">
+<surname>Kirvan</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Swedo</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kurahara</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cunningham</surname>
+<given-names>MW</given-names>
+</string-name>. <article-title>Streptococcal mimicry and antibody‐mediated cell signaling in the pathogenesis of Sydenham's chorea</article-title>. <source xml:lang="en">Autoimmunity</source>
+<year>2006</year>; <volume>39</volume>: <fpage>21</fpage>–<lpage>29</lpage>.<pub-id pub-id-type="pmid">16455579</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/08916930500484757</pub-id></mixed-citation></ref><ref id="cti21229-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="cti21229-cit-0021">
+<string-name name-style="western">
+<surname>Amatoury</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Merheb</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Langer</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>XM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dale</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brilot</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>High‐throughput flow cytometry cell‐based assay to detect antibodies to N‐methyl‐D‐aspartate receptor or dopamine‐2 receptor in human serum</article-title>. <source xml:lang="en">J Vis Exp</source>
+<year>2013</year>; <volume>81</volume>: <elocation-id>e50935</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.3791/50935</pub-id><pub-id pub-id-type="pmcid">PMC3992012</pub-id><pub-id pub-id-type="pmid">24300941</pub-id></mixed-citation></ref><ref id="cti21229-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="cti21229-cit-0022">
+<string-name name-style="western">
+<surname>Connery</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tippett</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Delhey</surname>
+<given-names>LM</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>Intravenous immunoglobulin for the treatment of autoimmune encephalopathy in children with autism</article-title>. <source xml:lang="en">Transl Psychiatry</source>
+<year>2018</year>; <volume>8</volume>: <fpage>148</fpage>.<pub-id pub-id-type="pmid">30097568</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41398-018-0214-7</pub-id><pub-id pub-id-type="pmcid">PMC6086890</pub-id></mixed-citation></ref><ref id="cti21229-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="cti21229-cit-0023">
+<string-name name-style="western">
+<surname>Mohammad</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Paget</surname>
+<given-names>SP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dale</surname>
+<given-names>RC</given-names>
+</string-name>. <article-title>Current therapies and therapeutic decision making for childhood‐onset movement disorders</article-title>. <source xml:lang="en">Mov Disord</source>
+<year>2019</year>; <volume>34</volume>: <fpage>637</fpage>–<lpage>656</lpage>.<pub-id pub-id-type="pmid">30919519</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/mds.27661</pub-id></mixed-citation></ref><ref id="cti21229-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="cti21229-cit-0024">
+<string-name name-style="western">
+<surname>Perlmutter</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Leitman</surname>
+<given-names>SF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Garvey</surname>
+<given-names>MA</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>Therapeutic plasma exchange and intravenous immunoglobulin for obsessive‐compulsive disorder and tic disorders in childhood</article-title>. <source xml:lang="en">Lancet</source>
+<year>1999</year>; <volume>354</volume>: <fpage>1153</fpage>–<lpage>1158</lpage>.<pub-id pub-id-type="pmid">10513708</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S0140-6736(98)12297-3</pub-id></mixed-citation></ref><ref id="cti21229-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="cti21229-cit-0025">
+<string-name name-style="western">
+<surname>Shimasaki</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Frye</surname>
+<given-names>RE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Trifiletti</surname>
+<given-names>R</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>Evaluation of the Cunningham Panel in pediatric autoimmune neuropsychiatric disorder associated with streptococcal infection (PANDAS) and pediatric acute‐onset neuropsychiatric syndrome (PANS): changes in antineuronal antibody titers parallel changes in patient symptoms</article-title>. <source xml:lang="en">J Neuroimmunol</source>
+<year>2020</year>; <volume>339</volume>: <elocation-id>577138</elocation-id>.<pub-id pub-id-type="pmid">31884258</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jneuroim.2019.577138</pub-id></mixed-citation></ref><ref id="cti21229-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="cti21229-cit-0026">
+<string-name name-style="western">
+<surname>Dileepan</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Smith</surname>
+<given-names>ED</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Knowland</surname>
+<given-names>D</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>Group A <italic toggle="yes">Streptococcus</italic> intranasal infection promotes CNS infiltration by streptococcal‐specific Th17 cells</article-title>. <source xml:lang="en">J Clin Invest</source>
+<year>2016</year>; <volume>126</volume>: <fpage>303</fpage>–<lpage>317</lpage>.<pub-id pub-id-type="pmid">26657857</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1172/JCI80792</pub-id><pub-id pub-id-type="pmcid">PMC4701547</pub-id></mixed-citation></ref><ref id="cti21229-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="cti21229-cit-0027">
+<string-name name-style="western">
+<surname>Goverman</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Autoimmune T cell responses in the central nervous system</article-title>. <source xml:lang="en">Nat Rev Immunol</source>
+<year>2009</year>; <volume>9</volume>: <fpage>393</fpage>–<lpage>407</lpage>.<pub-id pub-id-type="pmid">19444307</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nri2550</pub-id><pub-id pub-id-type="pmcid">PMC2813731</pub-id></mixed-citation></ref><ref id="cti21229-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="cti21229-cit-0028">
+<string-name name-style="western">
+<surname>Louveau</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Smirnov</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Keyes</surname>
+<given-names>TJ</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>Structural and functional features of central nervous system lymphatic vessels</article-title>. <source xml:lang="en">Nature</source>
+<year>2015</year>; <volume>523</volume>: <fpage>337</fpage>–<lpage>341</lpage>.<pub-id pub-id-type="pmid">26030524</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nature14432</pub-id><pub-id pub-id-type="pmcid">PMC4506234</pub-id></mixed-citation></ref><ref id="cti21229-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="cti21229-cit-0029">
+<string-name name-style="western">
+<surname>Compston</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Coles</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Multiple sclerosis</article-title>. <source xml:lang="en">Lancet</source>
+<year>2008</year>; <volume>372</volume>: <fpage>1502</fpage>–<lpage>1517</lpage>.<pub-id pub-id-type="pmid">18970977</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S0140-6736(08)61620-7</pub-id></mixed-citation></ref><ref id="cti21229-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="cti21229-cit-0030">
+<string-name name-style="western">
+<surname>Hemmer</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kerschensteiner</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Korn</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Role of the innate and adaptive immune responses in the course of multiple sclerosis</article-title>. <source xml:lang="en">Lancet Neurol</source>
+<year>2015</year>; <volume>14</volume>: <fpage>406</fpage>–<lpage>419</lpage>.<pub-id pub-id-type="pmid">25792099</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S1474-4422(14)70305-9</pub-id></mixed-citation></ref><ref id="cti21229-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="cti21229-cit-0031">
+<string-name name-style="western">
+<surname>Kaskow</surname>
+<given-names>BJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baecher‐Allan</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Effector T cells in multiple sclerosis</article-title>. <source xml:lang="en">Cold Spring Harb Perspect Med</source>
+<year>2018</year>; <volume>8</volume>: <elocation-id>a029025</elocation-id>.<pub-id pub-id-type="pmid">29358315</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1101/cshperspect.a029025</pub-id><pub-id pub-id-type="pmcid">PMC5880159</pub-id></mixed-citation></ref><ref id="cti21229-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="cti21229-cit-0032">
+<string-name name-style="western">
+<surname>Nicolas</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ruiz</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cobo‐Calvo</surname>
+<given-names>A</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>The balance in T follicular helper cell subsets is altered in neuromyelitis optica spectrum disorder patients and restored by rituximab</article-title>. <source xml:lang="en">Front Immunol</source>
+<year>2019</year>; <volume>10</volume>: <elocation-id>2686</elocation-id>.<pub-id pub-id-type="pmid">31803192</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fimmu.2019.02686</pub-id><pub-id pub-id-type="pmcid">PMC6877601</pub-id></mixed-citation></ref><ref id="cti21229-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="cti21229-cit-0033">
+<string-name name-style="western">
+<surname>Vaknin‐Dembinsky</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brill</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kassis</surname>
+<given-names>I</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>T‐cell responses to distinct AQP4 peptides in patients with neuromyelitis optica (NMO)</article-title>. <source xml:lang="en">Mult Scler Relat Disord</source>
+<year>2016</year>; <volume>6</volume>: <fpage>28</fpage>–<lpage>36</lpage>.<pub-id pub-id-type="pmid">27063619</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.msard.2015.12.004</pub-id></mixed-citation></ref><ref id="cti21229-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="cti21229-cit-0034">
+<string-name name-style="western">
+<surname>Varrin‐Doyer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Spencer</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schulze‐Topphoff</surname>
+<given-names>U</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>Aquaporin 4‐specific T cells in neuromyelitis optica exhibit a Th17 bias and recognize Clostridium ABC transporter</article-title>. <source xml:lang="en">Ann Neurol</source>
+<year>2012</year>; <volume>72</volume>: <fpage>53</fpage>–<lpage>64</lpage>.<pub-id pub-id-type="pmid">22807325</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ana.23651</pub-id><pub-id pub-id-type="pmcid">PMC3405197</pub-id></mixed-citation></ref><ref id="cti21229-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="cti21229-cit-0035">
+<string-name name-style="western">
+<surname>Bien</surname>
+<given-names>CG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Urbach</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Deckert</surname>
+<given-names>M</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>Diagnosis and staging of Rasmussen's encephalitis by serial MRI and histopathology</article-title>. <source xml:lang="en">Neurology</source>
+<year>2002</year>; <volume>58</volume>: <fpage>250</fpage>.<pub-id pub-id-type="pmid">11805253</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1212/wnl.58.2.250</pub-id></mixed-citation></ref><ref id="cti21229-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="cti21229-cit-0036">
+<string-name name-style="western">
+<surname>Tekgul</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Polat</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kitis</surname>
+<given-names>O</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>T‐cell subsets and interleukin‐6 response in Rasmussen's encephalitis</article-title>. <source xml:lang="en">Pediatr Neurol</source>
+<year>2005</year>; <volume>33</volume>: <fpage>39</fpage>–<lpage>45</lpage>.<pub-id pub-id-type="pmid">15876522</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.pediatrneurol.2005.01.007</pub-id></mixed-citation></ref><ref id="cti21229-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="cti21229-cit-0037">
+<string-name name-style="western">
+<surname>Dalmau</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rosenfeld</surname>
+<given-names>MR</given-names>
+</string-name>. <article-title>Paraneoplastic syndromes of the CNS</article-title>. <source xml:lang="en">Lancet Neurol</source>
+<year>2008</year>; <volume>7</volume>: <fpage>327</fpage>–<lpage>340</lpage>.<pub-id pub-id-type="pmid">18339348</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S1474-4422(08)70060-7</pub-id><pub-id pub-id-type="pmcid">PMC2367117</pub-id></mixed-citation></ref><ref id="cti21229-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="cti21229-cit-0038">
+<string-name name-style="western">
+<surname>Melzer</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Meuth</surname>
+<given-names>SG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wiendl</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Paraneoplastic and non‐paraneoplastic autoimmunity to neurons in the central nervous system</article-title>. <source xml:lang="en">J Neurol</source>
+<year>2013</year>; <volume>260</volume>: <fpage>1215</fpage>–<lpage>1233</lpage>.<pub-id pub-id-type="pmid">22983427</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00415-012-6657-5</pub-id><pub-id pub-id-type="pmcid">PMC3642360</pub-id></mixed-citation></ref><ref id="cti21229-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="cti21229-cit-0039">
+<string-name name-style="western">
+<surname>Zaunders</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Munier</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Seddiki</surname>
+<given-names>N</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>High levels of human antigen‐specific CD4<sup>+</sup> T cells in peripheral blood revealed by stimulated coexpression of CD25 and CD134 (OX40)</article-title>. <source xml:lang="en">J Immunol</source>
+<year>2009</year>; <volume>183</volume>: <fpage>2827</fpage>–<lpage>2836</lpage>.<pub-id pub-id-type="pmid">19635903</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.4049/jimmunol.0803548</pub-id></mixed-citation></ref><ref id="cti21229-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="cti21229-cit-0040">
+<string-name name-style="western">
+<surname>Byun</surname>
+<given-names>JI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lee</surname>
+<given-names>ST</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Moon</surname>
+<given-names>J</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>Distinct intrathecal interleukin‐17/interleukin‐6 activation in anti‐N‐methyl‐d‐aspartate receptor encephalitis</article-title>. <source xml:lang="en">J Neuroimmunol</source>
+<year>2016</year>; <volume>297</volume>: <fpage>141</fpage>–<lpage>147</lpage>.<pub-id pub-id-type="pmid">27397087</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jneuroim.2016.05.023</pub-id></mixed-citation></ref><ref id="cti21229-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="cti21229-cit-0041">
+<string-name name-style="western">
+<surname>Kothur</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wienholt</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mohammad</surname>
+<given-names>SS</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>Utility of CSF cytokine/chemokines as markers of active intrathecal inflammation: comparison of demyelinating. Anti‐NMDAR and enteroviral encephalitis</article-title>. <source xml:lang="en">PLoS One</source>
+<year>2016</year>; <volume>11</volume>: <elocation-id>e0161656</elocation-id>.<pub-id pub-id-type="pmid">27575749</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0161656</pub-id><pub-id pub-id-type="pmcid">PMC5004915</pub-id></mixed-citation></ref><ref id="cti21229-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="cti21229-cit-0042">
+<string-name name-style="western">
+<surname>Wang</surname>
+<given-names>HH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dai</surname>
+<given-names>YQ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Qiu</surname>
+<given-names>W</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>Interleukin‐17‐secreting T cells in neuromyelitis optica and multiple sclerosis during relapse</article-title>. <source xml:lang="en">J Clin Neurosci</source>
+<year>2011</year>; <volume>18</volume>: <fpage>1313</fpage>–<lpage>1317</lpage>.<pub-id pub-id-type="pmid">21795048</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jocn.2011.01.031</pub-id></mixed-citation></ref><ref id="cti21229-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="cti21229-cit-0043">
+<string-name name-style="western">
+<surname>Dale</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gorman</surname>
+<given-names>MP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lim</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Autoimmune encephalitis in children: clinical phenomenology, therapeutics, and emerging challenges</article-title>. <source xml:lang="en">Curr Opin Neurol</source>
+<year>2017</year>; <volume>30</volume>: <fpage>334</fpage>–<lpage>344</lpage>.<pub-id pub-id-type="pmid">28234797</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/WCO.0000000000000443</pub-id></mixed-citation></ref><ref id="cti21229-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="cti21229-cit-0044">
+<string-name name-style="western">
+<surname>Buse</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schoenefeld</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Munchau</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Roessner</surname>
+<given-names>V</given-names>
+</string-name>. <article-title>Neuromodulation in Tourette syndrome: dopamine and beyond</article-title>. <source xml:lang="en">Neurosci Biobehav Rev</source>
+<year>2013</year>; <volume>37</volume>: <fpage>1069</fpage>–<lpage>1084</lpage>.<pub-id pub-id-type="pmid">23085211</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neubiorev.2012.10.004</pub-id></mixed-citation></ref><ref id="cti21229-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="cti21229-cit-0045">
+<string-name name-style="western">
+<surname>Felling</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Singer</surname>
+<given-names>HS</given-names>
+</string-name>. <article-title>Neurobiology of tourette syndrome: current status and need for further investigation</article-title>. <source xml:lang="en">J Neurosci</source>
+<year>2011</year>; <volume>31</volume>: <fpage>12387</fpage>–<lpage>12395</lpage>.<pub-id pub-id-type="pmid">21880899</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1523/JNEUROSCI.0150-11.2011</pub-id><pub-id pub-id-type="pmcid">PMC6703258</pub-id></mixed-citation></ref><ref id="cti21229-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="cti21229-cit-0046">
+<string-name name-style="western">
+<surname>Rodriguez</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Morer</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gonzalez‐Navarro</surname>
+<given-names>EA</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>Altered frequencies of Th17 and Treg cells in children and adolescents with obsessive‐compulsive disorder</article-title>. <source xml:lang="en">Brain Behav Immun</source>
+<year>2019</year>; <volume>81</volume>: <fpage>608</fpage>–<lpage>616</lpage>.<pub-id pub-id-type="pmid">31344493</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bbi.2019.07.022</pub-id></mixed-citation></ref><ref id="cti21229-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="cti21229-cit-0047">
+<string-name name-style="western">
+<surname>Coppieters</surname>
+<given-names>KT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dotta</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Amirian</surname>
+<given-names>N</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>Demonstration of islet‐autoreactive CD8 T cells in insulitic lesions from recent onset and long‐term type 1 diabetes patients</article-title>. <source xml:lang="en">J Exp Med</source>
+<year>2012</year>; <volume>209</volume>: <fpage>51</fpage>–<lpage>60</lpage>.<pub-id pub-id-type="pmid">22213807</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1084/jem.20111187</pub-id><pub-id pub-id-type="pmcid">PMC3260877</pub-id></mixed-citation></ref><ref id="cti21229-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="cti21229-cit-0048">
+<string-name name-style="western">
+<surname>Davies</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nicholson</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Laura</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Giovannoni</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Altmann</surname>
+<given-names>DM</given-names>
+</string-name>. <article-title>Spread of T lymphocyte immune responses to myelin epitopes with duration of multiple sclerosis</article-title>. <source xml:lang="en">J Neuropathol Exp Neurol</source>
+<year>2005</year>; <volume>64</volume>: <fpage>371</fpage>–<lpage>377</lpage>.<pub-id pub-id-type="pmid">15892293</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/jnen/64.5.371</pub-id></mixed-citation></ref><ref id="cti21229-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="cti21229-cit-0049">
+<string-name name-style="western">
+<surname>Kalman</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>Autoimmune encephalitides: a broadening field of treatable conditions</article-title>. <source xml:lang="en">Neurologist</source>
+<year>2017</year>; <volume>22</volume>: <fpage>1</fpage>–<lpage>13</lpage>.<pub-id pub-id-type="pmid">28009765</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/NRL.0000000000000087</pub-id></mixed-citation></ref><ref id="cti21229-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="cti21229-cit-0050">
+<string-name name-style="western">
+<surname>Ramanathan</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Al‐Diwani</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Waters</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Irani</surname>
+<given-names>SR</given-names>
+</string-name>. <article-title>The autoantibody‐mediated encephalitides: from clinical observations to molecular pathogenesis</article-title>. <source xml:lang="en">J Neurol</source>
+<year>2019</year>
+<pub-id pub-id-type="doi">10.1007/s00415-019-09590-9</pub-id>
+<pub-id pub-id-type="pmcid">PMC8068716</pub-id><pub-id pub-id-type="pmid">31655889</pub-id></mixed-citation></ref><ref id="cti21229-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="cti21229-cit-0051">
+<string-name name-style="western">
+<surname>Chevalier</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jarrossay</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ho</surname>
+<given-names>E</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>CXCR5 expressing human central memory CD4 T cells and their relevance for humoral immune responses</article-title>. <source xml:lang="en">J Immunol</source>
+<year>2011</year>; <volume>186</volume>: <fpage>5556</fpage>–<lpage>5568</lpage>.<pub-id pub-id-type="pmid">21471443</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.4049/jimmunol.1002828</pub-id></mixed-citation></ref><ref id="cti21229-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="cti21229-cit-0052">
+<string-name name-style="western">
+<surname>Crotty</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>T follicular helper cell differentiation, function, and roles in disease</article-title>. <source xml:lang="en">Immunity</source>
+<year>2014</year>; <volume>41</volume>: <fpage>529</fpage>–<lpage>542</lpage>.<pub-id pub-id-type="pmid">25367570</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.immuni.2014.10.004</pub-id><pub-id pub-id-type="pmcid">PMC4223692</pub-id></mixed-citation></ref><ref id="cti21229-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="cti21229-cit-0053">
+<string-name name-style="western">
+<surname>Bacher</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Scheffold</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Flow‐cytometric analysis of rare antigen‐specific T cells</article-title>. <source xml:lang="en">Cytometry Part A</source>
+<year>2013</year>; <volume>83A</volume>: <fpage>692</fpage>–<lpage>701</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/cyto.a.22317</pub-id><pub-id pub-id-type="pmid">23788442</pub-id></mixed-citation></ref><ref id="cti21229-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="cti21229-cit-0054">
+<string-name name-style="western">
+<surname>Dan</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Arlehamn</surname>
+<given-names>CSL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Weiskopf</surname>
+<given-names>D</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>A cytokine‐independent approach to identify antigen‐specific human germinal center T follicular helper cells and rare antigen‐specific CD4<sup>+</sup> T cells in blood</article-title>. <source xml:lang="en">J Immunol</source>
+<year>2016</year>; <volume>197</volume>: <fpage>983</fpage>–<lpage>993</lpage>.<pub-id pub-id-type="pmid">27342848</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.4049/jimmunol.1600318</pub-id><pub-id pub-id-type="pmcid">PMC4955771</pub-id></mixed-citation></ref><ref id="cti21229-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="cti21229-cit-0055">
+<string-name name-style="western">
+<surname>Reiss</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baxter</surname>
+<given-names>AE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cirelli</surname>
+<given-names>KM</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>Comparative analysis of activation induced marker (AIM) assays for sensitive identification of antigen‐specific CD4 T cells</article-title>. <source xml:lang="en">PLoS One</source>
+<year>2017</year>; <volume>12</volume>: <elocation-id>e0186998</elocation-id>.<pub-id pub-id-type="pmid">29065175</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0186998</pub-id><pub-id pub-id-type="pmcid">PMC5655442</pub-id></mixed-citation></ref><ref id="cti21229-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="cti21229-cit-0056">
+<string-name name-style="western">
+<surname>Velickovic</surname>
+<given-names>ZM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Carter</surname>
+<given-names>JM</given-names>
+</string-name>. <article-title>HLA‐DPA1 and DPB1 polymorphism in four Pacific Islands populations determined by sequencing based typing</article-title>. <source xml:lang="en">Tissue Antigens</source>
+<year>2001</year>; <volume>57</volume>: <fpage>493</fpage>–<lpage>501</lpage>.<pub-id pub-id-type="pmid">11556979</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1034/j.1399-0039.2001.057006493.x</pub-id></mixed-citation></ref><ref id="cti21229-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="cti21229-cit-0057">
+<string-name name-style="western">
+<surname>Hu</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>J</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>Polymorphism of HLA‐DRB1, ‐DQB1 and ‐DPB1 genes in Bai ethnic group in southwestern China</article-title>. <source xml:lang="en">Tissue Antigens</source>
+<year>2008</year>; <volume>72</volume>: <fpage>474</fpage>–<lpage>477</lpage>.<pub-id pub-id-type="pmid">18778327</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1399-0039.2008.01120.x</pub-id></mixed-citation></ref><ref id="cti21229-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="cti21229-cit-0058">
+<string-name name-style="western">
+<surname>Tracey</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Carter</surname>
+<given-names>JM</given-names>
+</string-name>. <article-title>Class II HLA allele polymorphism: DRB1, DQB1 and DPB1 alleles and haplotypes in the New Zealand Maori population</article-title>. <source xml:lang="en">Tissue Antigens</source>
+<year>2006</year>; <volume>68</volume>: <fpage>297</fpage>–<lpage>302</lpage>.<pub-id pub-id-type="pmid">17026464</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1399-0039.2006.00671.x</pub-id></mixed-citation></ref><ref id="cti21229-bib-0059"><label>59</label><mixed-citation publication-type="journal" id="cti21229-cit-0059">
+<string-name name-style="western">
+<surname>Wang</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hu</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>J</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>HLA‐DPB1 polymorphism in Blang and Puyi ethnic groups of Southwest China inferred from sequence‐based typing</article-title>. <source xml:lang="en">Tissue Antigens</source>
+<year>2008</year>; <volume>71</volume>: <fpage>81</fpage>–<lpage>84</lpage>.<pub-id pub-id-type="pmid">17971047</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1399-0039.2007.00963.x</pub-id></mixed-citation></ref><ref id="cti21229-bib-0060"><label>60</label><mixed-citation publication-type="journal" id="cti21229-cit-0060">
+<string-name name-style="western">
+<surname>Williams</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Knowler</surname>
+<given-names>WC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shuldiner</surname>
+<given-names>AR</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>Next generation sequencing and the classical HLA loci in full heritage Pima Indians of Arizona: defining the core HLA variation for North American Paleo‐Indians</article-title>. <source xml:lang="en">Hum Immunol</source>
+<year>2019</year>; <volume>80</volume>: <fpage>955</fpage>–<lpage>965</lpage>.<pub-id pub-id-type="pmid">31706744</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.humimm.2019.10.002</pub-id></mixed-citation></ref><ref id="cti21229-bib-0061"><label>61</label><mixed-citation publication-type="journal" id="cti21229-cit-0061">
+<string-name name-style="western">
+<surname>Skibola</surname>
+<given-names>CF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Akers</surname>
+<given-names>NK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Conde</surname>
+<given-names>L</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>Multi‐locus HLA class I and II allele and haplotype associations with follicular lymphoma</article-title>. <source xml:lang="en">Tissue Antigens</source>
+<year>2012</year>; <volume>79</volume>: <fpage>279</fpage>–<lpage>286</lpage>.<pub-id pub-id-type="pmid">22296171</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1399-0039.2012.01845.x</pub-id><pub-id pub-id-type="pmcid">PMC3293942</pub-id></mixed-citation></ref><ref id="cti21229-bib-0062"><label>62</label><mixed-citation publication-type="journal" id="cti21229-cit-0062">
+<string-name name-style="western">
+<surname>Binks</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Varley</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lee</surname>
+<given-names>W</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>Distinct HLA associations of LGI1 and CASPR2‐antibody diseases</article-title>. <source xml:lang="en">Brain</source>
+<year>2018</year>; <volume>141</volume>: <fpage>2263</fpage>–<lpage>2271</lpage>.<pub-id pub-id-type="pmid">29788256</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/brain/awy109</pub-id><pub-id pub-id-type="pmcid">PMC6118231</pub-id></mixed-citation></ref><ref id="cti21229-bib-0063"><label>63</label><mixed-citation publication-type="journal" id="cti21229-cit-0063">
+<string-name name-style="western">
+<surname>Shu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Qiu</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zheng</surname>
+<given-names>J</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>HLA class II allele DRB1*16:02 is associated with anti‐NMDAR encephalitis</article-title>. <source xml:lang="en">J Neurol Neurosurg Psychiatry</source>
+<year>2019</year>; <volume>90</volume>: <fpage>652</fpage>–<lpage>658</lpage>.<pub-id pub-id-type="pmid">30636700</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/jnnp-2018-319714</pub-id></mixed-citation></ref><ref id="cti21229-bib-0064"><label>64</label><mixed-citation publication-type="journal" id="cti21229-cit-0064">
+<string-name name-style="western">
+<surname>van Sonderen</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Roelen</surname>
+<given-names>DL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stoop</surname>
+<given-names>JA</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>Anti‐LGI1 encephalitis is strongly associated with HLA‐DR7 and HLA‐DRB4</article-title>. <source xml:lang="en">Ann Neurol</source>
+<year>2017</year>; <volume>81</volume>: <fpage>193</fpage>–<lpage>198</lpage>.<pub-id pub-id-type="pmid">28026046</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ana.24858</pub-id></mixed-citation></ref><ref id="cti21229-bib-0065"><label>65</label><mixed-citation publication-type="journal" id="cti21229-cit-0065">
+<string-name name-style="western">
+<surname>Brucklacher‐Waldert</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stuerner</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kolster</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wolthausen</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tolosa</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Phenotypical and functional characterization of T helper 17 cells in multiple sclerosis</article-title>. <source xml:lang="en">Brain</source>
+<year>2009</year>; <volume>132</volume>: <fpage>3329</fpage>–<lpage>3341</lpage>.<pub-id pub-id-type="pmid">19933767</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/brain/awp289</pub-id></mixed-citation></ref><ref id="cti21229-bib-0066"><label>66</label><mixed-citation publication-type="journal" id="cti21229-cit-0066">
+<string-name name-style="western">
+<surname>Michael</surname>
+<given-names>BD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Griffiths</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Granerod</surname>
+<given-names>J</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>Characteristic cytokine and chemokine profiles in encephalitis of infectious, immune‐mediated, and unknown aetiology</article-title>. <source xml:lang="en">PLoS One</source>
+<year>2016</year>; <volume>11</volume>: <elocation-id>e0146288</elocation-id>.<pub-id pub-id-type="pmid">26808276</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0146288</pub-id><pub-id pub-id-type="pmcid">PMC4726626</pub-id></mixed-citation></ref><ref id="cti21229-bib-0067"><label>67</label><mixed-citation publication-type="journal" id="cti21229-cit-0067">
+<string-name name-style="western">
+<surname>Huppert</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Closhen</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Croxford</surname>
+<given-names>A</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>Cellular mechanisms of IL‐17‐induced blood‐brain barrier disruption</article-title>. <source xml:lang="en">FASEB J</source>
+<year>2010</year>; <volume>24</volume>: <fpage>1023</fpage>–<lpage>1034</lpage>.<pub-id pub-id-type="pmid">19940258</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1096/fj.09-141978</pub-id></mixed-citation></ref><ref id="cti21229-bib-0068"><label>68</label><mixed-citation publication-type="journal" id="cti21229-cit-0068">
+<string-name name-style="western">
+<surname>Amenta</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bronzetti</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Felici</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ricci</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tayebati</surname>
+<given-names>SK</given-names>
+</string-name>. <article-title>Dopamine D2‐like receptors on human peripheral blood lymphocytes: a radioligand binding assay and immunocytochemical study</article-title>. <source xml:lang="en">J Auton Pharmacol</source>
+<year>1999</year>; <volume>19</volume>: <fpage>151</fpage>–<lpage>159</lpage>.<pub-id pub-id-type="pmid">10511471</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1046/j.1365-2680.1999.00135.x</pub-id></mixed-citation></ref><ref id="cti21229-bib-0069"><label>69</label><mixed-citation publication-type="journal" id="cti21229-cit-0069">
+<string-name name-style="western">
+<surname>Keren</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gilhar</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ullmann</surname>
+<given-names>Y</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>Instantaneous depolarization of T cells via dopamine receptors, and inhibition of activated T cells of Psoriasis patients and inflamed human skin, by D1‐like receptor agonist: fenoldopam</article-title>. <source xml:lang="en">Immunology</source>
+<year>2019</year>; <volume>158</volume>: <fpage>171</fpage>–<lpage>193</lpage>.<pub-id pub-id-type="pmid">31424569</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/imm.13109</pub-id><pub-id pub-id-type="pmcid">PMC6797875</pub-id></mixed-citation></ref><ref id="cti21229-bib-0070"><label>70</label><mixed-citation publication-type="journal" id="cti21229-cit-0070">
+<string-name name-style="western">
+<surname>Kustrimovic</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rasini</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Legnaro</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marino</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cosentino</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Expression of dopaminergic receptors on human CD4<sup>+</sup> T lymphocytes: flow cytometric analysis of naive and memory subsets and relevance for the neuroimmunology of neurodegenerative disease</article-title>. <source xml:lang="en">J Neuroimmune Pharmacol</source>
+<year>2014</year>; <volume>9</volume>: <fpage>302</fpage>–<lpage>312</lpage>.<pub-id pub-id-type="pmid">24682738</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s11481-014-9541-5</pub-id></mixed-citation></ref><ref id="cti21229-bib-0071"><label>71</label><mixed-citation publication-type="journal" id="cti21229-cit-0071">
+<string-name name-style="western">
+<surname>McKenna</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McLaughlin</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lewis</surname>
+<given-names>BJ</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>Dopamine receptor expression on human T‐ and B‐lymphocytes, monocytes, neutrophils, eosinophils and NK cells: a flow cytometric study</article-title>. <source xml:lang="en">J Neuroimmunol</source>
+<year>2002</year>; <volume>132</volume>: <fpage>34</fpage>–<lpage>40</lpage>.<pub-id pub-id-type="pmid">12417431</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0165-5728(02)00280-1</pub-id></mixed-citation></ref><ref id="cti21229-bib-0072"><label>72</label><mixed-citation publication-type="journal" id="cti21229-cit-0072">
+<string-name name-style="western">
+<surname>Besser</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ganor</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Levite</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Dopamine by itself activates either D2, D3 or D1/D5 dopaminergic receptors in normal human T‐cells and triggers the selective secretion of either IL‐10, TNFα or both</article-title>. <source xml:lang="en">J Neuroimmunol</source>
+<year>2005</year>; <volume>169</volume>: <fpage>161</fpage>–<lpage>171</lpage>.<pub-id pub-id-type="pmid">16150496</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jneuroim.2005.07.013</pub-id></mixed-citation></ref><ref id="cti21229-bib-0073"><label>73</label><mixed-citation publication-type="journal" id="cti21229-cit-0073">
+<string-name name-style="western">
+<surname>Levite</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chowers</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ganor</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Besser</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hershkovits</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cahalon</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Dopamine interacts directly with its D3 and D2 receptors on normal human T cells, and activates β1 integrin function</article-title>. <source xml:lang="en">Eur J Immunol</source>
+<year>2001</year>; <volume>31</volume>: <fpage>3504</fpage>–<lpage>3512</lpage>.<pub-id pub-id-type="pmid">11745370</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/1521-4141(200112)31:12&lt;3504::aid-immu3504&gt;3.0.co;2-f</pub-id></mixed-citation></ref><ref id="cti21229-bib-0074"><label>74</label><mixed-citation publication-type="journal" id="cti21229-cit-0074">
+<string-name name-style="western">
+<surname>Saussez</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Laumbacher</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chantrain</surname>
+<given-names>G</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>Towards Neuroimmunotherapy for Cancer: the neurotransmitters glutamate, dopamine and GnRH‐II augment substantially the ability of T cells of few Head and Neck cancer patients to perform spontaneous migration, chemotactic migration and migration towards the autologous tumor, and also elevate markedly the expression of CD3zeta and CD3epsilon TCR‐associated chains</article-title>. <source xml:lang="en">J Neural Transm</source>
+<year>2014</year>; <volume>121</volume>: <fpage>1007</fpage>–<lpage>1027</lpage>.<pub-id pub-id-type="pmid">25030361</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00702-014-1242-y</pub-id></mixed-citation></ref><ref id="cti21229-bib-0075"><label>75</label><mixed-citation publication-type="journal" id="cti21229-cit-0075">
+<string-name name-style="western">
+<surname>Boneberg</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>von Seydlitz</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Propster</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Watzl</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rockstroh</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Illges</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>D3 dopamine receptor mRNA is elevated in T cells of schizophrenic patients whereas D4 dopamine receptor mRNA is reduced in CD4<sup>+</sup> ‐T cells</article-title>. <source xml:lang="en">J Neuroimmunol</source>
+<year>2006</year>; <volume>173</volume>: <fpage>180</fpage>–<lpage>187</lpage>.<pub-id pub-id-type="pmid">16376996</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jneuroim.2005.11.018</pub-id></mixed-citation></ref><ref id="cti21229-bib-0076"><label>76</label><mixed-citation publication-type="journal" id="cti21229-cit-0076">
+<string-name name-style="western">
+<surname>Ferrari</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Termine</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Franciotta</surname>
+<given-names>D</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>Dopaminergic receptor D5 mRNA expression is increased in circulating lymphocytes of Tourette syndrome patients</article-title>. <source xml:lang="en">J Psychiatr Res</source>
+<year>2008</year>; <volume>43</volume>: <fpage>24</fpage>–<lpage>29</lpage>.<pub-id pub-id-type="pmid">18329046</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jpsychires.2008.01.014</pub-id></mixed-citation></ref><ref id="cti21229-bib-0077"><label>77</label><mixed-citation publication-type="journal" id="cti21229-cit-0077">
+<string-name name-style="western">
+<surname>Ilani</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ben‐Shachar</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Strous</surname>
+<given-names>RD</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>A peripheral marker for schizophrenia: increased levels of D3 dopamine receptor mRNA in blood lymphocytes</article-title>. <source xml:lang="en">Proc Natl Acad Sci USA</source>
+<year>2001</year>; <volume>98</volume>: <fpage>625</fpage>–<lpage>628</lpage>.<pub-id pub-id-type="pmid">11149951</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.021535398</pub-id><pub-id pub-id-type="pmcid">PMC14638</pub-id></mixed-citation></ref><ref id="cti21229-bib-0078"><label>78</label><mixed-citation publication-type="journal" id="cti21229-cit-0078">
+<string-name name-style="western">
+<surname>Nagai</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ueno</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Saeki</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Soga</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hirano</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yanagihara</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Decrease of the D3 dopamine receptor mRNA expression in lymphocytes from patients with Parkinson's disease</article-title>. <source xml:lang="en">Neurology</source>
+<year>1996</year>; <volume>46</volume>: <fpage>791</fpage>–<lpage>795</lpage>.<pub-id pub-id-type="pmid">8618685</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1212/wnl.46.3.791</pub-id></mixed-citation></ref><ref id="cti21229-bib-0079"><label>79</label><mixed-citation publication-type="journal" id="cti21229-cit-0079">
+<string-name name-style="western">
+<surname>Wandinger</surname>
+<given-names>KP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hagenah</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kluter</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rothermundt</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Peters</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vieregge</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Effects of amantadine treatment on <italic toggle="yes">in vitro</italic> production of interleukin‐2 in <italic toggle="yes">de‐novo</italic> patients with idiopathic Parkinson's disease</article-title>. <source xml:lang="en">J Neuroimmunol</source>
+<year>1999</year>; <volume>98</volume>: <fpage>214</fpage>–<lpage>220</lpage>.<pub-id pub-id-type="pmid">10430055</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0165-5728(99)00093-4</pub-id></mixed-citation></ref><ref id="cti21229-bib-0080"><label>80</label><mixed-citation publication-type="journal" id="cti21229-cit-0080">
+<string-name name-style="western">
+<surname>Farkas</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Panea</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Goto</surname>
+<given-names>Y</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>Induction of Th17 cells by segmented filamentous bacteria in the murine intestine</article-title>. <source xml:lang="en">J Immunol Methods</source>
+<year>2015</year>; <volume>421</volume>: <fpage>104</fpage>–<lpage>111</lpage>.<pub-id pub-id-type="pmid">25858227</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jim.2015.03.020</pub-id><pub-id pub-id-type="pmcid">PMC4764030</pub-id></mixed-citation></ref><ref id="cti21229-bib-0081"><label>81</label><mixed-citation publication-type="journal" id="cti21229-cit-0081">
+<string-name name-style="western">
+<surname>Cunningham</surname>
+<given-names>MW</given-names>
+</string-name>. <article-title>Rheumatic fever, autoimmunity, and molecular mimicry: the streptococcal connection</article-title>. <source xml:lang="en">Int Rev Immunol</source>
+<year>2014</year>; <volume>33</volume>: <fpage>314</fpage>–<lpage>329</lpage>.<pub-id pub-id-type="pmid">24892819</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3109/08830185.2014.917411</pub-id><pub-id pub-id-type="pmcid">PMC4669348</pub-id></mixed-citation></ref><ref id="cti21229-bib-0082"><label>82</label><mixed-citation publication-type="journal" id="cti21229-cit-0082">
+<string-name name-style="western">
+<surname>Kirvan</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Swedo</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Heuser</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cunningham</surname>
+<given-names>MW</given-names>
+</string-name>. <article-title>Mimicry and autoantibody‐mediated neuronal cell signaling in Sydenham chorea</article-title>. <source xml:lang="en">Nat Med</source>
+<year>2003</year>; <volume>9</volume>: <fpage>914</fpage>–<lpage>920</lpage>.<pub-id pub-id-type="pmid">12819778</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nm892</pub-id></mixed-citation></ref><ref id="cti21229-bib-0083"><label>83</label><mixed-citation publication-type="journal" id="cti21229-cit-0083">
+<string-name name-style="western">
+<surname>Labrie</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brundin</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Harbingers of mental disease‐infections associated with an increased risk for neuropsychiatric illness in children</article-title>. <source xml:lang="en">JAMA Psychiatry</source>
+<year>2019</year>; <volume>76</volume>: <fpage>237</fpage>–<lpage>238</lpage>.<pub-id pub-id-type="pmid">30516817</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jamapsychiatry.2018.3333</pub-id></mixed-citation></ref><ref id="cti21229-bib-0084"><label>84</label><mixed-citation publication-type="journal" id="cti21229-cit-0084">
+<string-name name-style="western">
+<surname>Carpanini</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Torvell</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Morgan</surname>
+<given-names>BP</given-names>
+</string-name>. <article-title>Therapeutic inhibition of the complement system in diseases of the central nervous system</article-title>. <source xml:lang="en">Front Immunol</source>
+<year>2019</year>; <volume>10</volume>: <elocation-id>e362</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fimmu.2019.00362</pub-id><pub-id pub-id-type="pmcid">PMC6409326</pub-id><pub-id pub-id-type="pmid">30886620</pub-id></mixed-citation></ref><ref id="cti21229-bib-0085"><label>85</label><mixed-citation publication-type="journal" id="cti21229-cit-0085">
+<string-name name-style="western">
+<surname>Hakobyan</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Boyajyan</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sim</surname>
+<given-names>RB</given-names>
+</string-name>. <article-title>Classical pathway complement activity in schizophrenia</article-title>. <source xml:lang="en">Neurosci Lett</source>
+<year>2005</year>; <volume>374</volume>: <fpage>35</fpage>–<lpage>37</lpage>.<pub-id pub-id-type="pmid">15631892</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neulet.2004.10.024</pub-id></mixed-citation></ref><ref id="cti21229-bib-0086"><label>86</label><mixed-citation publication-type="journal" id="cti21229-cit-0086">
+<string-name name-style="western">
+<surname>Lennington</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Coppola</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kataoka‐Sasaki</surname>
+<given-names>Y</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>Transcriptome analysis of the human striatum in tourette syndrome</article-title>. <source xml:lang="en">Biol Psychiatry</source>
+<year>2016</year>; <volume>79</volume>: <fpage>372</fpage>–<lpage>382</lpage>.<pub-id pub-id-type="pmid">25199956</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.biopsych.2014.07.018</pub-id><pub-id pub-id-type="pmcid">PMC4305353</pub-id></mixed-citation></ref><ref id="cti21229-bib-0087"><label>87</label><mixed-citation publication-type="journal" id="cti21229-cit-0087">
+<string-name name-style="western">
+<surname>Shastri</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bonifati</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kishore</surname>
+<given-names>U</given-names>
+</string-name>. <article-title>Innate immunity and neuroinflammation</article-title>. <source xml:lang="en">Mediators Inflamm</source>
+<year>2013</year>; <volume>2013</volume>: <elocation-id>342931</elocation-id>.<pub-id pub-id-type="pmid">23843682</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1155/2013/342931</pub-id><pub-id pub-id-type="pmcid">PMC3697414</pub-id></mixed-citation></ref><ref id="cti21229-bib-0088"><label>88</label><mixed-citation publication-type="journal" id="cti21229-cit-0088">
+<string-name name-style="western">
+<surname>Streit</surname>
+<given-names>WJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mrak</surname>
+<given-names>RE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Griffin</surname>
+<given-names>WS</given-names>
+</string-name>. <article-title>Microglia and neuroinflammation: a pathological perspective</article-title>. <source xml:lang="en">J Neuroinflammation</source>
+<year>2004</year>; <volume>1</volume>: <fpage>14</fpage>.<pub-id pub-id-type="pmid">15285801</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/1742-2094-1-14</pub-id><pub-id pub-id-type="pmcid">PMC509427</pub-id></mixed-citation></ref><ref id="cti21229-bib-0089"><label>89</label><mixed-citation publication-type="journal" id="cti21229-cit-0089">
+<string-name name-style="western">
+<surname>Shin</surname>
+<given-names>Y‐W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lee</surname>
+<given-names>S‐T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Park</surname>
+<given-names>K‐I</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>Treatment strategies for autoimmune encephalitis</article-title>. <source xml:lang="en">Ther Adv Neurol Disord</source>
+<year>2017</year>; <volume>11</volume>: <elocation-id>e1756285617722347</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/1756285617722347</pub-id><pub-id pub-id-type="pmcid">PMC5784571</pub-id><pub-id pub-id-type="pmid">29399043</pub-id></mixed-citation></ref><ref id="cti21229-bib-0090"><label>90</label><mixed-citation publication-type="journal" id="cti21229-cit-0090">
+<string-name name-style="western">
+<surname>Steward‐Tharp</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Song</surname>
+<given-names>Y‐j</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Siegel</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>O'Shea</surname>
+<given-names>JJ</given-names>
+</string-name>. <article-title>New insights into T cell biology and T cell‐directed therapy for autoimmunity, inflammation, and immunosuppression</article-title>. <source xml:lang="en">Ann N Y Acad Sci</source>
+<year>2010</year>; <volume>1183</volume>: <fpage>123</fpage>–<lpage>148</lpage>.<pub-id pub-id-type="pmid">20146712</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1749-6632.2009.05124.x</pub-id><pub-id pub-id-type="pmcid">PMC2950114</pub-id></mixed-citation></ref><ref id="cti21229-bib-0091"><label>91</label><mixed-citation publication-type="journal" id="cti21229-cit-0091">
+<string-name name-style="western">
+<surname>Ayzenberg</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kleiter</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schroder</surname>
+<given-names>A</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>Interleukin 6 receptor blockade in patients with neuromyelitis optica nonresponsive to anti‐CD20 therapy</article-title>. <source xml:lang="en">JAMA Neurol</source>
+<year>2013</year>; <volume>70</volume>: <fpage>394</fpage>–<lpage>397</lpage>.<pub-id pub-id-type="pmid">23358868</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jamaneurol.2013.1246</pub-id></mixed-citation></ref><ref id="cti21229-bib-0092"><label>92</label><mixed-citation publication-type="journal" id="cti21229-cit-0092">
+<string-name name-style="western">
+<surname>Kieseier</surname>
+<given-names>BC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stuve</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dehmel</surname>
+<given-names>T</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>Disease amelioration with tocilizumab in a treatment‐resistant patient with neuromyelitis optica: implication for cellular immune responses</article-title>. <source xml:lang="en">JAMA Neurol</source>
+<year>2013</year>; <volume>70</volume>: <fpage>390</fpage>–<lpage>393</lpage>.<pub-id pub-id-type="pmid">23599943</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jamaneurol.2013.668</pub-id></mixed-citation></ref><ref id="cti21229-bib-0093"><label>93</label><mixed-citation publication-type="journal" id="cti21229-cit-0093">
+<string-name name-style="western">
+<surname>Lee</surname>
+<given-names>WJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lee</surname>
+<given-names>ST</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Moon</surname>
+<given-names>J</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>Tocilizumab in autoimmune encephalitis refractory to rituximab: an institutional cohort Study</article-title>. <source xml:lang="en">Neurotherapeutics</source>
+<year>2016</year>; <volume>13</volume>: <fpage>824</fpage>–<lpage>832</lpage>.<pub-id pub-id-type="pmid">27215218</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s13311-016-0442-6</pub-id><pub-id pub-id-type="pmcid">PMC5081109</pub-id></mixed-citation></ref><ref id="cti21229-bib-0094"><label>94</label><mixed-citation publication-type="journal" id="cti21229-cit-0094">
+<string-name name-style="western">
+<surname>Randell</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Adams</surname>
+<given-names>AV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Van Mater</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Tocilizumab in refractory autoimmune encephalitis: a series of pediatric cases</article-title>. <source xml:lang="en">Pediatr Neurol</source>
+<year>2018</year>; <volume>86</volume>: <fpage>66</fpage>–<lpage>68</lpage>.<pub-id pub-id-type="pmid">30177347</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.pediatrneurol.2018.07.016</pub-id></mixed-citation></ref><ref id="cti21229-bib-0095"><label>95</label><mixed-citation publication-type="journal" id="cti21229-cit-0095">
+<string-name name-style="western">
+<surname>Jiang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>M</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>OX40 signaling is involved in the autoactivation of CD4<sup>+</sup>CD28<sup>‐</sup> T cells and contributes to the pathogenesis of autoimmune arthritis</article-title>. <source xml:lang="en">Arthritis Res Ther</source>
+<year>2017</year>; <volume>19</volume>: <fpage>67</fpage>.<pub-id pub-id-type="pmid">28320444</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13075-017-1261-9</pub-id><pub-id pub-id-type="pmcid">PMC5359925</pub-id></mixed-citation></ref><ref id="cti21229-bib-0096"><label>96</label><mixed-citation publication-type="journal" id="cti21229-cit-0096">
+<string-name name-style="western">
+<surname>Nohara</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Akiba</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nakajima</surname>
+<given-names>A</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>Amelioration of experimental autoimmune encephalomyelitis with anti‐OX40 ligand monoclonal antibody: a critical role for OX40 ligand in migration, but not development, of pathogenic T cells</article-title>. <source xml:lang="en">J Immunol</source>
+<year>2001</year>; <volume>166</volume>: <fpage>2108</fpage>–<lpage>2115</lpage>.<pub-id pub-id-type="pmid">11160262</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.4049/jimmunol.166.3.2108</pub-id></mixed-citation></ref><ref id="cti21229-bib-0097"><label>97</label><mixed-citation publication-type="journal" id="cti21229-cit-0097">
+<string-name name-style="western">
+<surname>Thapar</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cooper</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rutter</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Neurodevelopmental disorders</article-title>. <source xml:lang="en">Lancet Psychiatry</source>
+<year>2017</year>; <volume>4</volume>: <fpage>339</fpage>–<lpage>346</lpage>.<pub-id pub-id-type="pmid">27979720</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S2215-0366(16)30376-5</pub-id></mixed-citation></ref><ref id="cti21229-bib-0098"><label>98</label><mixed-citation publication-type="journal" id="cti21229-cit-0098">
+<string-name name-style="western">
+<surname>Gewitz</surname>
+<given-names>MH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baltimore</surname>
+<given-names>RS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tani</surname>
+<given-names>LY</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>Revision of the jones criteria for the diagnosis of acute rheumatic fever in the era of doppler echocardiography</article-title>. <source xml:lang="en">Circulation</source>
+<year>2015</year>; <volume>131</volume>: <fpage>1806</fpage>–<lpage>1818</lpage>.<pub-id pub-id-type="pmid">25908771</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/CIR.0000000000000205</pub-id></mixed-citation></ref><ref id="cti21229-bib-0099"><label>99</label><mixed-citation publication-type="journal" id="cti21229-cit-0099">
+<string-name name-style="western">
+<surname>Cardoso</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Eduardo</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Silva</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mota</surname>
+<given-names>CC</given-names>
+</string-name>. <article-title>Chorea in fifty consecutive patients with rheumatic fever</article-title>. <source xml:lang="en">Mov Disord</source>
+<year>1997</year>; <volume>12</volume>: <fpage>701</fpage>–<lpage>703</lpage>.<pub-id pub-id-type="pmid">9380051</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/mds.870120512</pub-id></mixed-citation></ref><ref id="cti21229-bib-0100"><label>100</label><mixed-citation publication-type="journal" id="cti21229-cit-0100">
+<string-name name-style="western">
+<surname>Chang</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Frankovich</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cooperstock</surname>
+<given-names>M</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>Clinical evaluation of youth with pediatric acute‐onset neuropsychiatric syndrome (PANS): recommendations from the 2013 PANS Consensus Conference</article-title>. <source xml:lang="en">J Child Adolesc Psychopharmacol</source>
+<year>2015</year>; <volume>25</volume>: <fpage>3</fpage>–<lpage>13</lpage>.<pub-id pub-id-type="pmid">25325534</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1089/cap.2014.0084</pub-id><pub-id pub-id-type="pmcid">PMC4340805</pub-id></mixed-citation></ref><ref id="cti21229-bib-0101"><label>101</label><mixed-citation publication-type="journal" id="cti21229-cit-0101">
+<string-name name-style="western">
+<surname>Tong</surname>
+<given-names>WWY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shepherd</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Garland</surname>
+<given-names>S</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>Human papillomavirus 16‐specific T‐cell responses and spontaneous regression of anal high‐grade squamous intraepithelial lesions</article-title>. <source xml:lang="en">J Infect Dis</source>
+<year>2015</year>; <volume>211</volume>: <fpage>405</fpage>–<lpage>415</lpage>.<pub-id pub-id-type="pmid">25139018</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/infdis/jiu461</pub-id></mixed-citation></ref><ref id="cti21229-bib-0102"><label>102</label><mixed-citation publication-type="journal" id="cti21229-cit-0102">
+<string-name name-style="western">
+<surname>Fleri</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Paul</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dhanda</surname>
+<given-names>SK</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>The immune epitope database and analysis resource in epitope discovery and synthetic vaccine design</article-title>. <source xml:lang="en">Front Immunol</source>
+<year>2017</year>; <volume>8</volume>: <fpage>278</fpage>.<pub-id pub-id-type="pmid">28352270</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fimmu.2017.00278</pub-id><pub-id pub-id-type="pmcid">PMC5348633</pub-id></mixed-citation></ref><ref id="cti21229-bib-0103"><label>103</label><mixed-citation publication-type="journal" id="cti21229-cit-0103">
+<string-name name-style="western">
+<surname>Tea</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pilli</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ramanathan</surname>
+<given-names>S</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>Effects of the positive threshold and data analysis on human MOG antibody detection by live flow cytometry</article-title>. <source xml:lang="en">Front Immunol</source>
+<year>2020</year>; <volume>11</volume>: <fpage>119</fpage>.<pub-id pub-id-type="pmid">32117270</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fimmu.2020.00119</pub-id><pub-id pub-id-type="pmcid">PMC7016080</pub-id></mixed-citation></ref></ref-list></back></article>

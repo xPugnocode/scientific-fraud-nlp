@@ -1,0 +1,579 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article article-type="research-article" xml:lang="en" dtd-version="1.4"><front><journal-meta><journal-id journal-id-type="nlm-ta">Int J Immunopathol Pharmacol</journal-id><journal-id journal-id-type="iso-abbrev">Int J Immunopathol Pharmacol</journal-id><journal-id journal-id-type="pmc-domain-id">3390</journal-id><journal-id journal-id-type="pmc-domain">ijip</journal-id><journal-id journal-id-type="nlm-id">8911335</journal-id><journal-id journal-id-type="publisher-id">IJI</journal-id><journal-title-group><journal-title>International Journal of Immunopathology and Pharmacology</journal-title></journal-title-group><issn pub-type="ppub">0394-6320</issn><issn pub-type="epub">2058-7384</issn><publisher><publisher-name>SAGE Publications</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC7691946</article-id><article-id pub-id-type="pmcid-ver">PMC7691946.1</article-id><article-id pub-id-type="pmcaid">7691946</article-id><article-id pub-id-type="pmcaiid">7691946</article-id><article-id pub-id-type="pmid">33237822</article-id><article-id pub-id-type="doi">10.1177/2058738420974900</article-id><article-id pub-id-type="publisher-id">10.1177_2058738420974900</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Original Research Article</subject></subj-group></article-categories><title-group><article-title>Candesartan modulates microglia activation and polarization via NF-κB
+signaling pathway</article-title></title-group><contrib-group><contrib contrib-type="author"><name name-style="western"><surname>Qie</surname><given-names initials="S">Shuyan</given-names></name><xref ref-type="aff" rid="aff1-2058738420974900">1</xref><xref ref-type="author-notes" rid="fn1-2058738420974900">*</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Ran</surname><given-names initials="Y">Yuanyuan</given-names></name><xref ref-type="aff" rid="aff2-2058738420974900">2</xref><xref ref-type="author-notes" rid="fn1-2058738420974900">*</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Lu</surname><given-names initials="X">Xiaosheng</given-names></name><xref ref-type="aff" rid="aff3-2058738420974900">3</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Su</surname><given-names initials="W">Wei</given-names></name><xref ref-type="aff" rid="aff4-2058738420974900">4</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Li</surname><given-names initials="W">Wei</given-names></name><xref ref-type="aff" rid="aff1-2058738420974900">1</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Xi</surname><given-names initials="J">Jianing</given-names></name><xref ref-type="aff" rid="aff5-2058738420974900">5</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Gong</surname><given-names initials="W">Weijun</given-names></name><xref ref-type="aff" rid="aff5-2058738420974900">5</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-4685-1057</contrib-id><name name-style="western"><surname>Liu</surname><given-names initials="Z">Zongjian</given-names></name><xref ref-type="aff" rid="aff2-2058738420974900">2</xref><xref ref-type="corresp" rid="corresp1-2058738420974900"/></contrib></contrib-group><aff id="aff1-2058738420974900"><label>1</label>Department of Rehabilitation, Beijing
+Rehabilitation Hospital, Capital Medical University, Beijing, China</aff><aff id="aff2-2058738420974900"><label>2</label>Department of Research, Beijing
+Rehabilitation Hospital, Capital Medical University, Beijing, China</aff><aff id="aff3-2058738420974900"><label>3</label>Department of Plastic Surgery,
+Affiliated Hospital of Weifang Medical University, Weifang, Shandong, China</aff><aff id="aff4-2058738420974900"><label>4</label>Department of Neurosurgery, Beijing
+Tsinghua Chang Gung Hospital, School of Clinical Medicine, Tsinghua University,
+Beijing, China</aff><aff id="aff5-2058738420974900"><label>5</label>Department of Neurological
+Rehabilitation, Beijing Rehabilitation Hospital, Capital Medical University,
+Beijing, China</aff><author-notes><corresp id="corresp1-2058738420974900">Zongjian Liu, Department of Research,
+Beijing Rehabilitation Hospital, Capital Medical University, Xixiazhuang,
+Badachu Road, Shijingshan District, Beijing 100144, China. Email:
+<email>liuzj888@ccmu.edu.cn</email></corresp><corresp id="corresp2-2058738420974900">Weijun Gong, Department of Neurological
+Rehabilitation, Beijing Rehabilitation Hospital, Capital Medical University,
+Xixiazhuang, Badachu Road, Shijingshan District, Beijing 100144, China. Email:
+<email>gwj197104@ccmu.edu.cn</email></corresp><fn fn-type="equal" id="fn1-2058738420974900"><label>*</label><p>Shuyan Qie and Yuanyuan Ran contributed equally to this paper</p></fn></author-notes><pub-date pub-type="epub"><day>25</day><month>11</month><year>2020</year></pub-date><pub-date pub-type="collection"><season>Jan-Dec</season><year>2020</year></pub-date><volume>34</volume><issue-id pub-id-type="pmc-issue-id">351103</issue-id><elocation-id>2058738420974900</elocation-id><history><date date-type="received"><day>6</day><month>6</month><year>2019</year></date><date date-type="accepted"><day>27</day><month>10</month><year>2020</year></date></history><pub-history><event event-type="pmc-release"><date><day>25</day><month>11</month><year>2020</year></date></event><event event-type="pmc-live"><date><day>04</day><month>12</month><year>2020</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2024-04-29 22:25:11.880"><day>29</day><month>04</month><year>2024</year></date></event></pub-history><permissions><copyright-statement>© The Author(s) 2020</copyright-statement><copyright-year>2020</copyright-year><copyright-holder content-type="sage">SAGE Publications Ltd unless otherwise noted.
+Manuscript content on this site is licensed under Creative Commons
+Licenses</copyright-holder><license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="creative-commons" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>This article is distributed under the terms of the Creative Commons
+Attribution-NonCommercial 4.0 License (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">https://creativecommons.org/licenses/by-nc/4.0/</ext-link>) which
+permits non-commercial use, reproduction and distribution of the work
+without further permission provided the original work is attributed as
+specified on the SAGE and Open Access pages (<ext-link ext-link-type="uri" xlink:href="https://us.sagepub.com/en-us/nam/open-access-at-sage">https://us.sagepub.com/en-us/nam/open-access-at-sage</ext-link>).</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="10.1177_2058738420974900.pdf"/><abstract><p>Microglia are diverse cells that acquire different functional phenotypes in
+response to microenvironment in which they reside. Several transcriptional
+regulators have been identified that regulate different microglia phenotypes.
+They are mainly stimulated into two opposing phenotypes, classically (M1) and
+alternatively (M2) phenotype. Regulating microglia polarization from M1 to M2
+state has been suggested as a potential therapeutic approach in treatment of CNS
+disorders. Candesartan, an angiotensin II type I receptors antagonist, exerts
+beneficial effects for antioxidant, anti-inflammation, neurotrophic, and
+anti-apoptotic function. However, the effect of candesartan on microglia
+polarization and underlying mechanisms remain unknown. In this study, the
+resting microglia were stimulated to M1 microglia with lipopolysaccharide (LPS)
+and interferon-γ (IFN-γ), and then treated with vehicle or candesartan for 24 h.
+RT-PCR was utilized to detect the mRNA expression of microglia phenotype markers
+and inflammatory cytokines. Microglia phenotype markers and toll-like receptor 4
+(TLR4)/nuclear factor kappa B (NF-κB) pathway were determined by western blot. A
+neuron-microglia co-culture system was used to determine whether candesartan
+could ameliorate the neurotoxic effect of M1 microglia to oxygen-glucose
+deprivation (OGD) neuron. Candesartan treatment reduced the expression of M1
+markers, and increased M2 markers. Meanwhile, candesartan reduced fluorescence
+intensity and protein level of M1 marker and enhanced M2 marker. Candesartan
+also regulated the neuroinflammatory response via reducing the release of
+pro-inflammatory cytokines and increasing anti-inflammatory cytokines in LPS +
+IFN-γ stimulated BV2 cells. Candesartan markedly inhibited the protein level of
+TLR4, the phosphorylation of IKBα and p65, and suppressed nuclear translocation
+of NF-κB p65. BAY 11-7085, a NF-κB inhibitor, remarkably enlarged the inhibitory
+effect of candesartan on NF-κB pathway. In addition, M1 phenotype microglia
+exacerbated post-OGD N2a cells death and LDH release, whereas candesartan
+reversed such neurotoxic effect. Candesartan treatment may ameliorate
+stroke-induced neuronal damage through shifting microglia to M2 phenotype in a
+TLR4/NF-κB-dependent manner.</p></abstract><kwd-group><kwd>BV2 cells</kwd><kwd>candesartan</kwd><kwd>microglia polarization</kwd><kwd>neuroinflammation</kwd><kwd>NF-κB</kwd></kwd-group><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January-December 2020</meta-value></custom-meta><custom-meta><meta-name>typesetter</meta-name><meta-value>ts1</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="intro" id="section1-2058738420974900"><title>Introduction</title><p>Microglia are specialized innate immune macrophages in the central nervous system
+(CNS) and perform numerous functions required for CNS development, homeostasis, and
+repair.<sup><xref rid="bibr1-2058738420974900" ref-type="bibr">1</xref>,<xref rid="bibr2-2058738420974900" ref-type="bibr">2</xref></sup>
+Clinical and experimental studies support that microglia play important roles in
+regulating immune and inflammatory responses for pathogenesis and repairment in CNS
+injuries, including Alzheimer’s disease, Parkinson’s disease, and stroke.<sup><xref rid="bibr3-2058738420974900" ref-type="bibr">3</xref>,<xref rid="bibr4-2058738420974900" ref-type="bibr">4</xref></sup> Many lines of evidence indicate
+that microglia can exhibit a diverse range of phenotypes with beneficial or
+deleterious functions in response to their surroundings.<sup><xref rid="bibr5-2058738420974900" ref-type="bibr">5</xref></sup> Microglia phenotypes have the characteristics of spatial, temporal and
+functional diversity during the progression of CNS disease.<sup><xref rid="bibr6-2058738420974900" ref-type="bibr">6</xref></sup> For instance, the classically activated M1 microglia are stimulated by
+lipopolysaccharide (LPS) and interferon-γ (IFN-γ), which lead to inflammatory
+amplification through the secretion of pro-inflammatory cytokines including tumor
+necrosis factor-α (TNF-α), interleukin-1β (IL-1β), and IFN-γ.<sup><xref rid="bibr7-2058738420974900" ref-type="bibr">7</xref></sup> In contrast, alternatively activated M2 microglia are induced by
+interleukin-4 (IL-4) or interleukin-13 (IL-13), which exert neuroprotective effects
+by removing cell debris and producing anti-inflammatory cytokines such as
+transforming growth factor-β (TGF-β) and interleukin-10 (IL-10).<sup><xref rid="bibr8-2058738420974900" ref-type="bibr">8</xref></sup> Several transcriptional regulators have been identified that regulate
+different microglia phenotypes, including nuclear factor kappa-B (NF-κB), signal
+transducer and activator of transcription (STATs), interferon regulatory factors
+(IRFs), and so on.<sup><xref rid="bibr1-2058738420974900" ref-type="bibr">1</xref></sup> Excessive inflammation responses during the course of CNS injury are
+detrimental for the recovery of neurological function.<sup><xref rid="bibr2-2058738420974900" ref-type="bibr">2</xref></sup> Not surprisingly, balancing between M1 and M2 microglia polarization play a
+key role during the CNS disease progression.<sup><xref rid="bibr9-2058738420974900" ref-type="bibr">9</xref></sup></p><p>Candesartan is an antagonist blocking angiotensin II type I receptors (AT1R, encoded
+by Atgr1) stimulation by angiotensin II when administered systemically.<sup><xref rid="bibr10-2058738420974900" ref-type="bibr">10</xref></sup> More observations strongly suggest that angiotensin II signaling may
+participate in multiple functions for cerebral circulation, stress responses and
+inflammation through the AT1Rs activation.<sup><xref rid="bibr11-2058738420974900" ref-type="bibr">11</xref>,<xref rid="bibr12-2058738420974900" ref-type="bibr">12</xref></sup> But decreasing AT1R activity
+with the AT1R antagonist candesartan is therapeutic function on hypertension,<sup><xref rid="bibr13-2058738420974900" ref-type="bibr">13</xref></sup> heart failure,<sup><xref rid="bibr14-2058738420974900" ref-type="bibr">14</xref></sup> cerebrovascular accident, or stroke.<sup><xref rid="bibr15-2058738420974900" ref-type="bibr">15</xref></sup> Toll-like receptor 4 (TLR4) can be stimulated by LPS, and further activates
+downstream NF-κB, which eventually induces the transcription of pro-inflammatory
+mediators and promotes the polarization of M1 phenotypic microglia.<sup><xref rid="bibr16-2058738420974900" ref-type="bibr">16</xref></sup> In LPS model rats, candesartan was also found to reduce gene expression of
+pro-inflammatory cytokines, and microglia activation in the brain.<sup><xref rid="bibr17-2058738420974900" ref-type="bibr">17</xref></sup> The anti-inflammatory effects of candesartan may result from the inhibition
+of Angiotensin II and LPS common signaling cascades. In LPS-stimulated human renal
+tubular epithelial model, candesartan inhibited inflammatory factors likely via
+reducing TLR4, but independent on AT1R.<sup><xref rid="bibr18-2058738420974900" ref-type="bibr">18</xref></sup> These studies indicated that candesartan treatment could ameliorate different
+pathological effect, yet candesartan has not been assessed for regulation on
+microglia polarization.</p><p>The present study was designed to test the underlying mechanism of candesartan in
+modulating microglia polarization. Firstly, candesartan was demonstrated to inhibit
+microglia M1 polarization and promote M2 polarization. Furthermore, candesartan
+treatment also significantly modulated neuroinflammatory response via attenuating
+pro-inflammatory cytokines and increasing anti-inflammatory factors. The cellular
+mechanisms of this process may be associated with the inhibition of TLR4/NF-κB
+signaling pathway. In addition, candesartan inhibited the neurotoxic effect of M1
+microglia on OGD neurons in neuron-microglia co-culture system. Therefore, these
+findings support the view that candesartan alleviates neuronal damage at least
+partially by modulating the balance between M1 and M2 microglia polarization in a
+TLR4/NF-κB-dependent manner.</p></sec><sec sec-type="materials|methods" id="section2-2058738420974900"><title>Materials and methods</title><sec id="section3-2058738420974900"><title>Microglia cell model and candesartan treatment</title><p>Both mouse microglia (BV2 cells) and neuron (N2a cells) were purchased from Cell
+Center, Institute of Basic Medical Sciences, CAMS and PUMC, Beijing, China. BV2
+cells were cultured in DMEM medium (Gibco), which was supplemented with 10%
+fetal bovine serum (Gibco), and 1% penicillin-streptomycin (Gibco). The cells
+were then incubated at 37°C in a humidified atmosphere of 5% CO<sub>2</sub>. For
+M1 microglia, microglial cells were stimulated with 100 ng/mL LPS + 20 ng/mL
+IFN-γ (PeproTech),<sup><xref rid="bibr19-2058738420974900" ref-type="bibr">19</xref>,<xref rid="bibr20-2058738420974900" ref-type="bibr">20</xref></sup> and then treated with vehicle or candesartan (Sigma). For
+M2 microglia, microglial cells were induced with 20 ng/mL IL-4 (PeproTech).<sup><xref rid="bibr20-2058738420974900" ref-type="bibr">20</xref></sup> After 24 h treatment, cells were harvested for testing the changes of
+mRNA and protein level, and the supernatant was collected for measuring the
+level of inflammatory cytokines.</p></sec><sec id="section4-2058738420974900"><title>Cell viability and LDH assay</title><p>BV2 cells (3 × 10<sup>4</sup>/well) were seeded into 96-well plates (Gibco), and
+treated with vehicle or different concentrations of candesartan (0.5, 1, 5, 10,
+20, 30, 40, and 50 µM) for 24 h. The cell viability of BV2 microglial cells was
+evaluated by the cell counting kit-8 assay (CCK-8 assay, Beyotime). Each well
+was exposed to 10 μL of CCK-8 reagent (Beyotime). During the last 1 h incubation
+at 37°C, all wells were measured for the absorbance at 450 nm in a microplate
+reader (Biotek). The cytotoxicity of candesartan on BV2 cells was analyzed by a
+lactate dehydrogenase (LDH) assay kit (Beyotime) according to the manufacturer’s
+protocol. The concentrations of LDH were measured for the absorbance at 490 nm
+using a microplate reader (Biotek). The data were expressed as percentages of
+the value of vehicle cells.</p></sec><sec id="section5-2058738420974900"><title>Nitric oxide assay</title><p>BV2 cells (1.5 × 10<sup>6</sup>/well) were cultured in 60 cm culture dish, and
+treated with LPS (100 ng/mL) + IFN-γ (20 ng/mL) followed by vehicle or optimal
+dose of candesartan for 24 h. The concentration of nitric oxide (NO) in
+supernatant was performed using the Griess reaction kit according to the
+manufacturer’s instruction (Nanjing Jiancheng Bioengineering Institute). The 490
+nm absorbance was measured by a microplate reader (Biotek). The NO concentration
+was calculated using the standard curve of sodium nitrate.</p></sec><sec id="section6-2058738420974900"><title>ELISA measurements</title><p>BV2 cells (1.5 × 10<sup>6</sup> cells/well) were cultured in 60 cm culture dish,
+and treated with LPS (100 ng/mL) + IFN-γ (20 ng/mL), together with vehicle or
+optimal dose of candesartan for 24 h. The supernatant was collected for
+detecting the protein level of pro-inflammatory (TNF-α, IL-12p70, and IL-6) and
+anti-inflammatory (TGF-β and IL-10) according to the instructions of ELISA kits
+(Nanjing Jiancheng Bioengineering Institute).</p></sec><sec id="section7-2058738420974900"><title>Immunofluorescence</title><p>BV2 microglial cells (1.5 × 10<sup>4</sup> cells/well) were seeded in a 24-well
+plate containing the coverslip. The cells were treated with LPS (100 ng/mL) +
+IFN-γ (20 ng/mL) followed by vehicle or selected dose of candesartan. After 24
+h, cells were fixed with 4% paraformaldehyde followed by blocking with 5% donkey
+serum. The cells were incubated with primary antibodies, rabbit anti-iNOS (1:100
+dilution, Abcam) or rabbit anti-CD206 (1:200 dilution, Abcam) at 4°C overnight.
+Cells were washed with PBS, followed by incubation with the secondary antibody
+for 2 h at room temperature, Alexa Fluor 488 donkey anti-rabbit IgG (1:400
+dilution, Invitrogen). After being washed, the nucleus was stained with DAPI.
+All samples were observed with a laser confocal microscope (Nikon).</p></sec><sec id="section8-2058738420974900"><title>Quantitative RT-PCR</title><p>Total RNA in BV2 cells was extracted using RNA prep Pure cell kit (TIANGEN)
+according to the manufacturer’s instructions. The cDNA was prepared by using
+Quantscript RT Kit (TIANGEN). Quantitative PCR was performed on quantitative PCR
+systems (Applied Biosystems 7500 Real-Time PCR Systems, Thermo Fisher
+Scientific, Waltham, MA, USA) using the synthetic primers and the SuperReal
+PreMix Plus (SYBR Green) kit (TIANGEN). Gene specific primers used for cDNA
+amplification were as listed in <xref rid="table1-2058738420974900" ref-type="table">Table 1</xref>. The data were analyzed by the
+2<sup>−ΔΔCt</sup> method.<sup><xref rid="bibr21-2058738420974900" ref-type="bibr">21</xref></sup></p><table-wrap id="table1-2058738420974900" orientation="portrait" position="float"><label>Table 1.</label><caption><p>Gene specific primers used for cDNA amplification.</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_2058738420974900-table1.jpg"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/></colgroup><thead><tr><th align="left" rowspan="1" colspan="1">Genes</th><th rowspan="1" colspan="1"/><th align="left" rowspan="1" colspan="1">Primers(5′-3′)</th></tr></thead><tbody><tr><td rowspan="2" colspan="1">CD11b</td><td rowspan="1" colspan="1">Forward</td><td rowspan="1" colspan="1">CCAAGACGATCTCAGCATCA</td></tr><tr><td rowspan="1" colspan="1">Reverse</td><td rowspan="1" colspan="1">TTCTGGCTTGCTGAATCCTT</td></tr><tr><td rowspan="2" colspan="1">iNOS</td><td rowspan="1" colspan="1">Forward</td><td rowspan="1" colspan="1">CAAGCACCTTGGAAGAGGAG</td></tr><tr><td rowspan="1" colspan="1">Reverse</td><td rowspan="1" colspan="1">AAGGCCAAACACAGCATACC</td></tr><tr><td rowspan="2" colspan="1">YM1/2</td><td rowspan="1" colspan="1">Forward</td><td rowspan="1" colspan="1">CAGGGTAATGAGTGGGTTGG</td></tr><tr><td rowspan="1" colspan="1">Reverse</td><td rowspan="1" colspan="1">CACGGCACCTCCTAAATTGT</td></tr><tr><td rowspan="2" colspan="1">CCL22</td><td rowspan="1" colspan="1">Forward</td><td rowspan="1" colspan="1">CTGATGCAGGTCCCTATGGT</td></tr><tr><td rowspan="1" colspan="1">Reverse</td><td rowspan="1" colspan="1">GCAGGATTTTGAGGTCCAGA</td></tr><tr><td rowspan="2" colspan="1">IL-6</td><td rowspan="1" colspan="1">Forward</td><td rowspan="1" colspan="1">GAGGATACCCCCAACAGACC</td></tr><tr><td rowspan="1" colspan="1">Reverse</td><td rowspan="1" colspan="1">AAGTGCATCATCGTTGTTCATACA</td></tr><tr><td rowspan="2" colspan="1">TNF-α</td><td rowspan="1" colspan="1">Forward</td><td rowspan="1" colspan="1">GATCTCAAAGACAACCAACTAGTG</td></tr><tr><td rowspan="1" colspan="1">Reverse</td><td rowspan="1" colspan="1">CTCCAGCTGGAAGACTCCTCCCAG</td></tr><tr><td rowspan="2" colspan="1">IL-10</td><td rowspan="1" colspan="1">Forward</td><td rowspan="1" colspan="1">CCAAGCCTTATCGGAAATGA</td></tr><tr><td rowspan="1" colspan="1">Reverse</td><td rowspan="1" colspan="1">TTTTCACAGGGGAGAAATCG</td></tr><tr><td rowspan="2" colspan="1">GAPDH</td><td rowspan="1" colspan="1">Forward</td><td rowspan="1" colspan="1">AGGTCGGTGTGAACGGATTTG</td></tr><tr><td rowspan="1" colspan="1">Reverse</td><td rowspan="1" colspan="1">GGGGTCGTTGATGGCAACA</td></tr></tbody></table></alternatives></table-wrap></sec><sec id="section9-2058738420974900"><title>Western blot</title><p>Proteins extracted from BV2 cells by RIPA buffer containing the protease and
+phosphatase inhibitors (Roche) were used for western blotting. In brief, protein
+samples (30 µg/lane) were separated on 12% SDS-PAGE and transferred to PVDF
+membrane (Millipore). Membranes were blocked with fat-free milk (5%) in TBST for
+2 h at room temperature. Membranes were then respectively incubated with the
+primary antibodies overnight at 4°C, including iNOS (1:500, Abcam), CD206
+(1:1000, Abcam), TLR4 (1:500, Abcam), NF-κB p65 (1:2000, Abcam), phospho-NF-κB
+p65 (p-p65, 1:2000, Abcam), IKBα (1:1000, Abcam), phospho-IKBα (p- IKBα, 1:2000,
+Abcam), GAPDH (1:2000, Abcam), LaminB1 (1:2000, Abcam). After washing 3 times
+with TBST, membranes were respectively incubated with HRP-conjugated secondary
+antibodies (1:4000) for 2 h at room temperature. GAPDH and LaminB1 were used as
+the internal control. Membranes were detected by the ECL chemiluminescence
+detection system (Millipore). The band intensity was measured using Image J.</p></sec><sec id="section10-2058738420974900"><title>Neuron-microglia co-culture</title><p>BV2 microglia and N2a cells were co-cultured in transwell-24 system (Corning) as
+our previous study.<sup><xref rid="bibr22-2058738420974900" ref-type="bibr">22</xref></sup> The cell density ratio is 1:10 (BV2 microglia: N2a cells). BV2 cells were
+seeded on removable culture inserts, and then treated with LPS (100 ng/mL) +
+IFN-γ (20 ng/mL), together with vehicle or selected dose of candesartan for 24
+h. Remove the medium and wash microglia with fresh medium for 3 times. N2a cells
+growing in 24-well plate were subjected to oxygen glucose deprivation (OGD) for
+3 h. Microglia-neuron co-cultures were executed by placing microglia inserts on
+the top of no-OGD or post-OGD N2a cells. After 24 h co-culture, microglia
+inserts were removed. Neuronal survival was measured by MTT assay (Roche).
+Neuronal cytotoxicity was detected by LDH assay (Beyotime). MTT and LDH assay
+were carried out according to the manufacturer’s protocol.</p></sec><sec id="section11-2058738420974900"><title>Statistical analysis</title><p>The results are expressed as the means ± SEM. Statistical significance among
+multiple experimental groups was determined by one-way ANOVA of variance with
+prism software version 5.0 (GraphPad Software, San Diego, CA, USA).
+<italic toggle="yes">P</italic> values &lt;0.05 were considered statistically
+significant.</p></sec></sec><sec sec-type="results" id="section12-2058738420974900"><title>Results</title><sec id="section13-2058738420974900"><title>Effects of candesartan on cellular viability and cytotoxicity in BV2
+cells</title><p>To assess the effects of candesartan on cellular viability and LDH release in BV2
+cells, the cells were cultured with vehicle or different concentration of
+candesartan (0.5, 1, 5, 10, 20, 30, 40, and 50 µM) for 24 h. Compared to vehicle
+group, the cell viability was markedly reduced by 20, 30, 40, and 50 µM
+candesartan (<xref ref-type="fig" rid="fig1-2058738420974900">Figure 1a</xref>).
+However, 0.5, 1, 5, and 10 µM candesartan did not significantly affect the cell
+viability. In LDH assay, no cytotoxic effects were observed following culture of
+BV2 with 0.5, 1 µM candesartan for 24 h. But candesartan (5, 10, 20, 30, 40, and
+50 µM) resulted in the significant release of LDH in BV2 cells (<xref ref-type="fig" rid="fig1-2058738420974900">Figure 1b</xref>). According to
+two experimental results, the 1 µM concentration was selected for further
+experiments. As shown in <xref ref-type="fig" rid="fig1-2058738420974900">Figure
+1c</xref>, BV2 microglia were subjected to LPS (100 ng/mL) + IFN-γ (20
+ng/mL), or IL-4 (20 ng/mL), and then treated with vehicle or candesartan (1 µM)
+for 24 h. Compared with the vehicle, LPS + IFN-γ induced microglia polarization
+toward M1 phenotype, which showed cell swelling, irregular boundary, and less
+cell number. But candesartan treatment improved morphology and numbers,
+including smaller cell body and more clear boundaries. IL-4-treated microglia,
+M2 phenotype, represented as the similar morphology and cell number with the
+vehicle group.</p><fig id="fig1-2058738420974900" orientation="portrait" position="float"><label>Figure 1.</label><caption><p>Effects of candesartan on cell viability and LDH release of BV2
+microglial cells. BV2 cells were treated with vehicle or candesartan
+(0.5, 1, 5, 10, 20, 30, 40, 50 μM) for 24 h. (a) The cell viability was
+revealed by CCK-8 assay. (b) The cytotoxicity of candesartan on BV2
+cells was detected by LDH assay. (c) Images of BV2 cells were taken
+after treatment with LPS (100 ng/mL) + IFN-γ (20 ng/mL), or IL-4
+(20 ng/mL), together with vehicle, candesartan (1 μM) for 24 h.</p><p>Scale bars represent 50 μm (lower). Data is expressed as mean ± SEM.
+Samples were collected from three independent experiments, each
+performed in duplicate.</p><p>***<italic toggle="yes">P</italic> &lt; 0.001, one-way ANOVA followed by Bonferroni
+post hoc test.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_2058738420974900-fig1.jpg"/></fig></sec><sec id="section14-2058738420974900"><title>Candesartan treatment inhibits the mRNA level of M1 markers and enhances M2
+markers</title><p>To determine the effect of candesartan on microglia polarization, we measured the
+mRNA expression of microglia phenotype markers in BV2 cells using RT-PCR at 24 h
+after LPS + IFN-γ stimulation. The mRNA expression of M1 markers (CD11b and
+iNOS) were markedly increased under the stimulation of LPS + IFN-γ, but
+significantly reduced after treatment with candesartan (1 μM) (<xref ref-type="fig" rid="fig2-2058738420974900">Figure 2a</xref> and <xref ref-type="fig" rid="fig2-2058738420974900">b</xref>). However, the mRNA
+expression of M2 marker YM1/2 was obviously reduced by LPS + IFN-γ. The
+candesartan treatment reversed the reduction in the mRNA level of YM1/2 and
+CCL22 in LPS + IFN-γ induced BV2 cells (<xref ref-type="fig" rid="fig2-2058738420974900">Figure 2c</xref> and <xref ref-type="fig" rid="fig2-2058738420974900">d</xref>). The results reveal that candesartan
+modulates microglia polarization toward M2 phenotype.</p><fig id="fig2-2058738420974900" orientation="portrait" position="float"><label>Figure 2.</label><caption><p>Candesartan suppresses the mRNA expression of M1 markers and promotes M2
+markers in LPS + IFN-γ stimulated BV2 microglia cells. BV2 cells were
+stimulated with LPS (100 ng/mL) + IFN-γ (20 ng/mL), and then treated
+with vehicle or candesartan (1 μM) for 24 h. The mRNA expression for M1
+markers CD11b (a) and iNOS (b), and M2 markers YM1/2 (c) and CCL22 (d)
+were examined by RT-PCR.</p><p>Data is expressed as mean ± SEM. Samples were collected from three
+independent experiments, each performed in duplicate.</p><p>**<italic toggle="yes">P</italic> &lt; 0.01, ***<italic toggle="yes">P</italic> &lt; 0.001, one-way
+ANOVA followed by Bonferroni post hoc test.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_2058738420974900-fig2.jpg"/></fig></sec><sec id="section15-2058738420974900"><title>Candesartan treatment inhibits the protein level of M1 marker and enhances M2
+marker</title><p>To further investigate the effect of candesartan on microglia polarization, we
+measured the protein expression of microglia phenotypic markers in LPS + IFN-γ
+stimulated BV2 cells using immunofluorescence staining and western blot at 24 h.
+As shown in <xref ref-type="fig" rid="fig3-2058738420974900">Figure 3</xref>,
+LPS + IFN-γ markedly increased the fluorescence intensity of iNOS (M1 marker),
+and significantly decreased CD206 (M2 marker). However, candesartan treatment
+greatly inhibited the fluorescence intensity of iNOS while significantly
+enhanced CD206 in LPS + IFN-γ treated BV2 cells.</p><fig id="fig3-2058738420974900" orientation="portrait" position="float"><label>Figure 3.</label><caption><p>Candesartan treatment reduces fluorescence intensity of M1 marker and
+enhances M2 marker in BV2 microglia cells. BV2 cells were stimulated
+with LPS (100 ng/mL) + IFN-γ (20 ng/mL), and then treated with vehicle
+or candesartan (1 μM) for 24 h. Representative fluorescence images show
+M1 marker iNOS (green, a) and M2 marker CD206 (green, c) staining. The
+nuclei were stained with DAPI (blue) solution. Scale bars = 20 μm.
+Quantification of the fluorescence intensity of iNOS (b) and CD206 (d)
+in BV2 cells.</p><p>Data is expressed as mean ± SEM. Samples were collected from three
+independent experiments, each performed in duplicate.</p><p>*<italic toggle="yes">P</italic> &lt; 0.05, ***<italic toggle="yes">P</italic> &lt; 0.001, one-way
+ANOVA followed by Bonferroni post hoc test.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_2058738420974900-fig3.jpg"/></fig><p>Western blot results showed that the protein level of iNOS was significantly
+higher, and CD206 was greatly lower in LPS + IFN-γ treated BV2 cells compared to
+the vehicle group. But candesartan treatment remarkably inhibited the protein
+level of iNOS and enhanced CD206 (<xref ref-type="fig" rid="fig4-2058738420974900">Figure 4</xref>). Here, these results
+demonstrate that candesartan promotes M2 polarization and inhibits M1
+polarization, indicating that candesartan shifts microglia from M1 to M2
+phenotype.</p><fig id="fig4-2058738420974900" orientation="portrait" position="float"><label>Figure 4.</label><caption><p>Candesartan treatment decreases the protein expression of M1 marker and
+increases M2 marker in BV2 cells. BV2 microglia cells were stimulated
+with LPS (100 ng/mL) + IFN-γ (20 ng/mL), and then treated with vehicle
+or candesartan (1 μM) for 24 h. Representative Western blot (a) and
+quantitative analysis of M1 marker iNOS (b) and M2 marker CD206 (c).
+GAPDH was used as a loading control.</p><p>Data is expressed as mean ± SEM. Samples were collected from three
+independent experiments, each performed in duplicate.</p><p>*<italic toggle="yes">P</italic> &lt; 0.05, ***<italic toggle="yes">P</italic> &lt; 0.001, one-way
+ANOVA followed by Bonferroni post hoc test.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_2058738420974900-fig4.jpg"/></fig></sec><sec id="section16-2058738420974900"><title>Candesartan alleviates the pro-inflammatory responses in LPS + IFN-γ
+stimulated BV2 cells</title><p>To further determine the effects of candesartan on inflammatory responses, the
+level of inflammatory factor was detected by RT-PCR and ELISA. RT-PCR results
+showed that LPS + IFN-γ treatment significantly up-regulated the mRNA level of
+pro-inflammatory cytokine (IL-6, TNF-α) in BV2 cells compared to the vehicle
+group. Candesartan significantly reduced the mRNA expression of IL-6 and TNF-α),
+and increased anti-inflammatory factor IL-10 in LPS + IFN-γ stimulated BV2 cells
+(<xref ref-type="fig" rid="fig5-2058738420974900">Figure 5a–c</xref>). Next,
+the release of inflammatory cytokines in culture supernatant after inflammatory
+stimulation was measured by ELISA. LPS + IFN-γ significantly enhanced the
+release of pro-inflammatory (IL-6, TNF-α, IL-12p70) and suppressed
+anti-inflammatory (IL-10). Candesartan markedly inhibited the release of
+pro-inflammatory cytokines (IL-6, TNF-α, IL-12p70) (<xref ref-type="fig" rid="fig5-2058738420974900">Figure 5d–f</xref>), and promoted
+anti-inflammatory factors (TGF-β, IL-10) in LPS + IFN-γ induced BV2 cells (<xref ref-type="fig" rid="fig5-2058738420974900">Figure 5g</xref> and h). In
+addition, LPS + IFN-γ markedly up-regulated the level of NO in culture
+supernatant compared to the vehicle group. But candesartan obviously
+down-regulated the NO level in LPS+IFN-γ treated BV2 cells (<xref ref-type="fig" rid="fig5-2058738420974900">Figure 5i</xref>). Taken together, the data show
+that candesartan inhibits pro-inflammatory responses after inflammatory
+stimulation.</p><fig id="fig5-2058738420974900" orientation="portrait" position="float"><label>Figure 5.</label><caption><p>Candesartan inhibits pro-inflammatory cytokines and enhances
+anti-inflammatory cytokines in LPS + IFN-γ activated BV2 microglial
+cells. BV2 cells were cultured with LPS (100 ng/mL) + IFN-γ (20 ng/mL),
+together with vehicle or candesartan (1 μM) for 24 h. (a–c) The mRNA
+expressions for pro-inflammatory cytokines (IL-6 and TNF-α) and
+anti-inflammatory cytokine (IL-10) were examined by RT-PCR. (d–h) The
+concentration of pro-inflammatory cytokines (IL-6, TNF-α, and IL-12p70)
+and anti-inflammatory cytokines (TGF-β and IL-10) were examined by ELISA
+assay. (i) NO assay.</p><p>Data is expressed as mean ± SEM. Samples were collected from three
+independent experiments, each performed in duplicate.</p><p>*<italic toggle="yes">P</italic> &lt; 0.05, **<italic toggle="yes">P</italic> &lt; 0.01,
+***<italic toggle="yes">P</italic> &lt; 0.001, one-way ANOVA followed by
+Bonferroni post hoc test.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_2058738420974900-fig5.jpg"/></fig></sec><sec id="section17-2058738420974900"><title>Candesartan regulates microglia polarization toward M2 phenotype through
+TLR4/NF-кB pathway</title><p>TLR4/NF-кB pathway participates in regulation of microglia phenotype polarization.<sup><xref rid="bibr16-2058738420974900" ref-type="bibr">16</xref></sup> In order to reveal the underlying mechanism of candesartan on modulation
+of microglia polarization, we examined the protein level of TLR4, p-IKBα, IKBα,
+p-p65, p65 in BV2 cells (<xref ref-type="fig" rid="fig6-2058738420974900">Figure
+6a</xref>). LPS + IFN-γ increased the protein level of TLR4, the ratio of
+p-IKBα/IKBα and p-p65/p65 compared to vehicle, whereas candesartan dramatically
+reduced the expression of TLR4, the ratio of p-IKBα/IKBα and p-p65/p65 (Figure
+6b–d) in LPS + IFN-γ stimulated BV2 cells. To further clarify the underlying
+role of NF-кB pathway, BAY 11-7085 was used to inhibit activation of NF-кB. We
+found that the decrease of p-IKBα/IKBα and p-p65/p65 ratio were further
+aggravated when BAY 11-7085 was added to LPS + IFN-γ stimulated BV2 cells in the
+presence of candesartan (<xref ref-type="fig" rid="fig6-2058738420974900">Figure
+6c</xref> and <xref ref-type="fig" rid="fig6-2058738420974900">d</xref>).</p><fig id="fig6-2058738420974900" orientation="portrait" position="float"><label>Figure 6.</label><caption><p>Candesartan shifts microglia polarization via the inhibition of
+TLR4/NF-κB signaling pathway. BV2 was treated for 30 min with an NF-κB
+inhibitor (BAY 11-7085, 1 μg/mL), followed by stimulation with LPS
+(100 ng/mL) + IFN-γ (20 ng/mL) in the presence of vehicle or candesartan
+(1 μM) for 24 h. Representative western blot (a) and quantification
+analysis of TLR4 (b), p-IKBα/IKBα (c), and p-p65/p65 (d). (e–g) The
+protein expressions of p65 in nuclear and cytoplasm were measured by
+western blot, respectively.</p><p>Data is expressed as mean ± SEM. Samples were collected from three
+independent experiments, each performed in duplicate.</p><p>*<italic toggle="yes">P</italic> &lt; 0.05, **<italic toggle="yes">P</italic> &lt; 0.01,
+***<italic toggle="yes">P</italic> &lt; 0.001, one-way ANOVA followed by
+Bonferroni post hoc test.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_2058738420974900-fig6.jpg"/></fig><p>To determine the effect of candesartan on nuclear translocation of NF-κB, we
+examined the protein level of p65 in nuclear and cytoplasm (<xref ref-type="fig" rid="fig6-2058738420974900">Figure 6e</xref>). LPS + IFN-γ decreased p65
+protein level in cytoplasm, but increased in nucleus. Candesartan markedly
+reversed the nuclear translocation of p65 through increasing the protein level
+of p65 in cytoplasm and decreasing p65 in nucleus after LPS + IFN-γ stimulation.
+What’s more, the nuclear translocation of p65 was obviously decreased when BAY
+11-7085 was added to LPS + IFN-γ-stimulated BV2 cells in the presence of
+candesartan (<xref ref-type="fig" rid="fig6-2058738420974900">Figure 6f</xref>
+and <xref ref-type="fig" rid="fig6-2058738420974900">g</xref>). These results
+indicate that candesartan shifts microglia phenotype polarization at least
+partially in dependent on TLR4/NF-кB pathway.</p></sec><sec id="section18-2058738420974900"><title>Candesartan reduces the neurotoxic effect of M1 microglia on post-OGD
+neurons</title><p>We have demonstrated that candesartan promoted microgli toward M2 polarization
+and enhanced the expression of anti-inflammatory cytokine in BV2 cells at 24 h
+after LPS + IFN-γ (<xref ref-type="fig" rid="fig2-2058738420974900">Figures
+2</xref><xref ref-type="fig" rid="fig3-2058738420974900"/><xref ref-type="fig" rid="fig4-2058738420974900"/>–<xref ref-type="fig" rid="fig5-2058738420974900">5</xref>). To further confirm whether
+candesartan may protect against neuronal death through the regulation of
+microglial polarization, the neuron-microglia co-culture system was performed as
+we showed previously.<sup><xref rid="bibr22-2058738420974900" ref-type="bibr">22</xref></sup> LPS + IFN-γ could stimulate microglia toward M1 polarization. When M1
+microglia co-cultured with post-OGD neurons, they significantly exacerbated
+neuronal death and enhanced LDH release. However, candesartan increased neuronal
+viability and inhibited LDH release in neuron-microglia co-culture system (<xref ref-type="fig" rid="fig7-2058738420974900">Figure 7</xref>). These findings
+suggest that candesartan inhibits the neurotoxic effect of M1 microglia to OGD
+neurons via suppressing M1 but enhancing M2 microglial polarization.</p><fig id="fig7-2058738420974900" orientation="portrait" position="float"><label>Figure 7.</label><caption><p>Candesartan reduces the neurotoxic effect of M1 microglia in co-cultured
+neurons. BV2 cells in transwell were exposed to regular microglia media
+(resting phenotype), or LPS (100 ng/mL) + IFN-γ (20 ng/mL) (M1
+phenotype) for 24 h in the absence or presence of candesartan (1 μM).
+Neuronal N2a cells were subjected to OGD for 3 h. BV2 cells in transwell
+was applied over the non-OGD or post-OGD N2a cultures for 24 h. (a) N2a
+viability was quantified by MTT assay. (b) Cytotoxicity was quantified
+by LDH release.</p><p>Data is expressed as mean ± SEM. Samples were collected from three
+independent experiments, each performed in duplicate.</p><p>*<italic toggle="yes">P</italic> &lt; 0.05, **<italic toggle="yes">P</italic> &lt; 0.01,
+***<italic toggle="yes">P</italic> &lt; 0.001, one-way ANOVA followed by
+Bonferroni post hoc test.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_2058738420974900-fig7.jpg"/></fig></sec></sec><sec sec-type="discussion" id="section19-2058738420974900"><title>Discussion</title><p>Candesartan (C<sub>24</sub>H<sub>20</sub>N<sub>6</sub>O<sub>3</sub>) is an oral
+angiotensin II receptor type I receptors antagonist, which may act against
+vasoconstriction and reduce peripheral vascular resistance.<sup><xref rid="bibr21-2058738420974900" ref-type="bibr">21</xref></sup> Angiotensin II also binds to AT2R, which is thought to be activated by
+candesartan as it blocks the actions of AT1R.<sup><xref rid="bibr23-2058738420974900" ref-type="bibr">23</xref></sup> The therapeutic potential of candesartan has been reported in some diseases,
+such as hypertension,<sup><xref rid="bibr24-2058738420974900" ref-type="bibr">24</xref></sup> renal damage,<sup><xref rid="bibr25-2058738420974900" ref-type="bibr">25</xref></sup> Alzheimer disease.<sup><xref rid="bibr26-2058738420974900" ref-type="bibr">26</xref></sup> More emerging evidence revealed that candesartan could effectively inhibit
+glial activation,<sup><xref rid="bibr27-2058738420974900" ref-type="bibr">27</xref></sup> reduce inflammatory response,<sup><xref rid="bibr28-2058738420974900" ref-type="bibr">28</xref></sup> and block NF-κB activity.<sup><xref rid="bibr24-2058738420974900" ref-type="bibr">24</xref></sup> However, in the present study, we showed that candesartan inhibited
+inflammatory response and induced the shift of microglia from pro-inflammatory M1 to
+anti-inflammatory M2 phenotype, which may be associated with TLR4-mediated NF-κB
+pathway.</p><p>Microglia are the brain-resident macrophages in the central nervous system (CNS),
+which are the target of inflammatory mediators in the CNS injuries and play a
+foremost role in the neuroinflammatory response.<sup><xref rid="bibr29-2058738420974900" ref-type="bibr">29</xref></sup> In different environmental stimuli, microglia/macrophage could differentiate
+into M1 or M2 phenotype. M1-polarized microglia release high level of
+pro-inflammatory cytokines and upregulate the expression of M1 markers. However,
+M2-polarized microglia enhance the level of anti-inflammatory factors and
+up-regulate M2 markers.<sup><xref rid="bibr30-2058738420974900" ref-type="bibr">30</xref></sup> According to the plasticity of microglia/macrophages, the balance of between
+M1 and M2 microglia polarization is a key player in neuroinflammatory response in
+CNS injuries.<sup><xref rid="bibr2-2058738420974900" ref-type="bibr">2</xref></sup> Candesartan not only blocks the activation of AT1R, but also promotes
+angiotensin II-mediated AT2R stimulation.<sup><xref rid="bibr12-2058738420974900" ref-type="bibr">12</xref></sup> Telmisartan, an antagonist blocking AT1R, was shown to prevent the
+LPS-induced microglia activation by promoting M2 polarization via
+CaMKKbeta-dependent AMPK activation.<sup><xref rid="bibr31-2058738420974900" ref-type="bibr">31</xref></sup> In this study, our results showed that candesartan can shift microglia
+polarization from M1 to M2 phenotype. AT1R blockade by candesartan inhibits glial
+activation and neuroinflammation response induced by LPS.<sup><xref rid="bibr27-2058738420974900" ref-type="bibr">27</xref></sup> Consistent with the previous report, candesartan inhibited the release of
+pro-inflammatory cytokine (IL-6, TNF-α, and IL-12p70), promoted the level of
+anti-inflammatory cytokine (IL-10, TGF-β) in LPS + IFN-γ induced BV2 cells. The data
+suggest that candesartan treatment inhibits inflammation response via regulating the
+balance of M1/M2 microglia polarization.</p><p>Our studies demonstrated that candesartan regulated microglia polarization, which was
+accompanied by the regulation of inflammatory response. But the mechanisms whereby
+candesartan promotes microglial polarization to M2 subtype are not yet clear.
+Several transcriptional regulators have been identified to participate in regulating
+microglia polarization toward M1 phenotype such as activator protein-1 family
+(AP-1), NF-κB family, STAT1.<sup><xref rid="bibr1-2058738420974900" ref-type="bibr">1</xref></sup> TLR4/NF-κB signaling pathway is one of the most widely recognized
+intracellular signaling pathways in inflammatory responses, which is demonstrated to
+participate in shifting microglial polarization toward M1.<sup><xref rid="bibr16-2058738420974900" ref-type="bibr">16</xref></sup> Curcumin was reported to alleviate neuroinflammation responses through
+promoting microglia phenotype shift toward M2, which may be associated with the
+suppression of the TLR4-mediated NF-κB signaling pathway.<sup><xref rid="bibr32-2058738420974900" ref-type="bibr">32</xref></sup> Pinocembrin reduced hemorrhagic brain injury and suppressed M1 phenotype
+microglia through inhibiting TLR4.<sup><xref rid="bibr33-2058738420974900" ref-type="bibr">33</xref></sup> In agreement with the above observation, candesartan markedly inhibited the
+protein expression of TLR4 and the phosphorylation of IKBα and p65 in LPS + IFN-γ
+treated BV-2 cells. Besides, candesartan markedly reversed the nuclear translocation
+of p65 in LPS + IFN-γ stimulated BV2 cells. The inhibitory effect of candesartan on
+NF-кB pathway was further aggravated by the NF-кB inhibitor, BAY 11-7085. These
+results further illustrate that candesartan regulates microglia polarization at
+least partially through TLR4-mediated NF-κB pathways. Meisoindigo protected against
+focal cerebral ischemia-reperfusion injury by regulating microglia/macrophage
+polarization via NF-κB signaling pathway.<sup><xref rid="bibr34-2058738420974900" ref-type="bibr">34</xref></sup> Candesartan was reported to reduce infarct volume and improve behavior after
+stroke via reducing of the TLR signaling cascade.<sup><xref rid="bibr35-2058738420974900" ref-type="bibr">35</xref></sup> In our co-culture system, candesartan ameliorated the neurotoxic effect of M1
+microglia to OGD neurons via regulating microglia polarization toward M2 phenotype.
+The data indicate that candesartan may alleviate stoke-induced neuronal damage
+through suppressing inflammatory response and modulating microglia polarization
+through inhibiting TLR4/NF-κB signaling pathway. However, both the in vivo and
+primary cell experiments are still required to confirm the underlying mechanism.</p></sec><sec sec-type="conclusions" id="section20-2058738420974900"><title>Conclusion</title><p>This present study demonstrates that candesartan inhibited LPS + IFN-γ induced
+pro-inflammatory response and increased anti-inflammatory response. Candesartan has
+a significant regulatory effect on the balance of microglia polarization, shifting
+microglia to M2 phenotype and inhibiting the polarization of M1 microglia phenotype.
+The inhibitory effects of candesartan on the neurotoxic effect of M1 microglia to
+OGD neurons may be associated with modulating inflammatory response and microglia
+polarization in a TLR4-mediated NF-κB dependent manner. Our findings suggest that
+candesartan can indirectly reduce neuronal damage via modulating microglial
+polarization, providing new evidence that candesartan might be a promising
+therapeutic strategy for stoke.</p></sec></body><back><fn-group><fn fn-type="COI-statement"><p><bold>Declaration of conflicting interests:</bold> The author(s) declared no potential conflicts of interest with respect to the
+research, authorship, and/or publication of this article.</p></fn><fn fn-type="financial-disclosure"><p><bold>Funding:</bold> The author(s) disclosed receipt of the following financial support for the
+research, authorship, and/or publication of this article: This study was funded
+by the National Natural Science Foundation of China (81671161) to Z Liu.</p></fn><fn fn-type="other"><p><bold>ORCID iD:</bold> Zongjian Liu <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="10.1177_2058738420974900-img1.jpg"/>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://orcid.org/0000-0003-4685-1057">https://orcid.org/0000-0003-4685-1057</ext-link></p></fn></fn-group><ref-list><title>References</title><ref id="bibr1-2058738420974900"><label>1.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Holtman</surname><given-names>IR</given-names></name><name name-style="western"><surname>Skola</surname><given-names>D</given-names></name><name name-style="western"><surname>Glass</surname><given-names>CK</given-names></name></person-group> (<year>2017</year>) <article-title>Transcriptional control of
+microglia phenotypes in health and disease</article-title>. <source>The
+Journal of Clinical Investigation</source>
+<volume>127</volume>(<issue>9</issue>):
+<fpage>3220</fpage>–<lpage>3229</lpage>.<pub-id pub-id-type="pmid">28758903</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1172/JCI90604</pub-id><pub-id pub-id-type="pmcid">PMC5669536</pub-id></mixed-citation></ref><ref id="bibr2-2058738420974900"><label>2.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Hu</surname><given-names>XM</given-names></name><name name-style="western"><surname>Leak</surname><given-names>RK</given-names></name><name name-style="western"><surname>Shi</surname><given-names>Y</given-names></name></person-group>, <etal>et al</etal> (<year>2015</year>)
+<article-title>Microglial and macrophage polarization—new prospects for
+brain repair</article-title>. <source>Nature Reviews. Neurology</source>
+<volume>11</volume>(<issue>1</issue>):
+<fpage>56</fpage>–<lpage>64</lpage>.<pub-id pub-id-type="pmid">25385337</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nrneurol.2014.207</pub-id><pub-id pub-id-type="pmcid">PMC4395497</pub-id></mixed-citation></ref><ref id="bibr3-2058738420974900"><label>3.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Keren-Shaul</surname><given-names>H</given-names></name><name name-style="western"><surname>Spinrad</surname><given-names>A</given-names></name><name name-style="western"><surname>Weiner</surname><given-names>A</given-names></name></person-group>, <etal>et al</etal> (<year>2017</year>) <article-title>A unique
+microglia type associated with restricting development of Alzheimer’s
+disease</article-title>. <source>Cell</source>
+<volume>169</volume>(<issue>7</issue>):
+<fpage>1276</fpage>–<lpage>1290</lpage>.<pub-id pub-id-type="pmid">28602351</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cell.2017.05.018</pub-id></mixed-citation></ref><ref id="bibr4-2058738420974900"><label>4.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Hu</surname><given-names>X</given-names></name><name name-style="western"><surname>Liou</surname><given-names>AKF</given-names></name><name name-style="western"><surname>Leak</surname><given-names>RK</given-names></name></person-group>, <etal>et al</etal> (<year>2014</year>)
+<article-title>Neurobiology of microglial action in CNS injuries:
+Receptor-mediated signaling mechanisms and functional roles</article-title>.
+<source>Progress in Neurobiology</source> 119–120:
+<fpage>60</fpage>–<lpage>84</lpage>.<pub-id pub-id-type="pmid">24923657</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.pneurobio.2014.06.002</pub-id><pub-id pub-id-type="pmcid">PMC4121732</pub-id></mixed-citation></ref><ref id="bibr5-2058738420974900"><label>5.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Erny</surname><given-names>D</given-names></name><name name-style="western"><surname>Prinz</surname><given-names>M</given-names></name></person-group> (<year>2020</year>) <article-title>How microbiota shape
+microglial phenotypes and epigenetics</article-title>. <source>Glia</source>
+<volume>68</volume>(<issue>8</issue>):
+<fpage>1655</fpage>–<lpage>1672</lpage>.<pub-id pub-id-type="pmid">32181523</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/glia.23822</pub-id></mixed-citation></ref><ref id="bibr6-2058738420974900"><label>6.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Masuda</surname><given-names>T</given-names></name><name name-style="western"><surname>Sankowski</surname><given-names>R</given-names></name><name name-style="western"><surname>Staszewski</surname><given-names>O</given-names></name></person-group>, <etal>et al</etal> (<year>2020</year>)
+<article-title>Microglia heterogeneity in the single-cell
+era</article-title>. <source>Cell Reports</source>
+<volume>30</volume>(<issue>5</issue>):
+<fpage>1271</fpage>–<lpage>1281</lpage>.<pub-id pub-id-type="pmid">32023447</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.celrep.2020.01.010</pub-id></mixed-citation></ref><ref id="bibr7-2058738420974900"><label>7.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Orihuela</surname><given-names>R</given-names></name><name name-style="western"><surname>McPherson</surname><given-names>CA</given-names></name><name name-style="western"><surname>Harry</surname><given-names>GJ</given-names></name></person-group> (<year>2016</year>) <article-title>Microglial M1/M2 polarization
+and metabolic states</article-title>. <source>British Journal of
+Pharmacology</source>
+<volume>173</volume>(<issue>4</issue>):
+<fpage>649</fpage>–<lpage>665</lpage>.<pub-id pub-id-type="pmid">25800044</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/bph.13139</pub-id><pub-id pub-id-type="pmcid">PMC4742299</pub-id></mixed-citation></ref><ref id="bibr8-2058738420974900"><label>8.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Subramaniam</surname><given-names>SR</given-names></name><name name-style="western"><surname>Federoff</surname><given-names>HJ</given-names></name></person-group> (<year>2017</year>) <article-title>Targeting microglial
+activation states as a therapeutic avenue in Parkinson’s
+disease</article-title>. <source>Frontiers in Aging Neuroscience</source>
+<volume>9</volume>: <fpage>176</fpage>.<pub-id pub-id-type="pmid">28642697</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fnagi.2017.00176</pub-id><pub-id pub-id-type="pmcid">PMC5463358</pub-id></mixed-citation></ref><ref id="bibr9-2058738420974900"><label>9.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Zhang</surname><given-names>F</given-names></name><name name-style="western"><surname>Zhong</surname><given-names>R</given-names></name><name name-style="western"><surname>Li</surname><given-names>S</given-names></name></person-group>, <etal>et al</etal> (<year>2017</year>) <article-title>Acute
+hypoxia induced an imbalanced M1/M2 activation of microglia through NF-κB
+signaling in Alzheimer’s disease mice and wild-type
+littermates</article-title>. <source>Frontiers in Aging
+Neuroscience</source>
+<volume>9</volume>: <fpage>282</fpage>.<pub-id pub-id-type="pmid">28890695</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fnagi.2017.00282</pub-id><pub-id pub-id-type="pmcid">PMC5574879</pub-id></mixed-citation></ref><ref id="bibr10-2058738420974900"><label>10.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Seltzer</surname><given-names>A</given-names></name><name name-style="western"><surname>Bregonzio</surname><given-names>C</given-names></name><name name-style="western"><surname>Armando</surname><given-names>I</given-names></name></person-group>, <etal>et al</etal> (<year>2004</year>) <article-title>Oral
+administration of an AT1 receptor antagonist prevents the central effects of
+angiotensin II in spontaneously hypertensive rats</article-title>.
+<source>Brain Research</source>
+<volume>1028</volume>(<issue>1</issue>):
+<fpage>9</fpage>–<lpage>18</lpage>.<pub-id pub-id-type="pmid">15518636</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.brainres.2004.06.079</pub-id></mixed-citation></ref><ref id="bibr11-2058738420974900"><label>11.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Ohshima</surname><given-names>K</given-names></name><name name-style="western"><surname>Mogi</surname><given-names>M</given-names></name><name name-style="western"><surname>Horiuchi</surname><given-names>M</given-names></name></person-group> (<year>2013</year>) <article-title>Therapeutic approach for
+neuronal disease by regulating renin-angiotensin system</article-title>.
+<source>Current Hypertension Reviews</source>
+<volume>9</volume>(<issue>2</issue>):
+<fpage>99</fpage>–<lpage>107</lpage>.<pub-id pub-id-type="pmid">23971691</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.2174/15734021113099990004</pub-id></mixed-citation></ref><ref id="bibr12-2058738420974900"><label>12.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Villapol</surname><given-names>S</given-names></name><name name-style="western"><surname>Saavedra</surname><given-names>JM</given-names></name></person-group> (<year>2015</year>) <article-title>Neuroprotective effects of
+angiotensin receptor blockers</article-title>. <source>American Journal of
+Hypertension</source>
+<volume>28</volume>(<issue>3</issue>):
+<fpage>289</fpage>–<lpage>299</lpage>.<pub-id pub-id-type="pmid">25362113</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/ajh/hpu197</pub-id></mixed-citation></ref><ref id="bibr13-2058738420974900"><label>13.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Gohlke</surname><given-names>P</given-names></name><name name-style="western"><surname>Jürgensen</surname><given-names>T</given-names></name><name name-style="western"><surname>von Kügelgen</surname><given-names>S</given-names></name></person-group>, <etal>et al</etal> (<year>1999</year>)
+<article-title>Candesartan cilexetil: development and preclinical
+studies</article-title>. <source>Drugs of Today</source>
+<volume>35</volume>(<issue>2</issue>):
+<fpage>105</fpage>–<lpage>115</lpage>.<pub-id pub-id-type="pmid">12973413</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1358/dot.1999.35.2.527966</pub-id></mixed-citation></ref><ref id="bibr14-2058738420974900"><label>14.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Lund</surname><given-names>LH</given-names></name><name name-style="western"><surname>Claggett</surname><given-names>B</given-names></name><name name-style="western"><surname>Liu</surname><given-names>J</given-names></name></person-group>, <etal>et al</etal> (<year>2018</year>) <article-title>Heart
+failure with mid-range ejection fraction in CHARM: characteristics, outcomes
+and effect of candesartan across the entire ejection fraction
+spectrum</article-title>. <source>European Journal of Heart Failure</source>
+<volume>20</volume>(<issue>8</issue>):
+<fpage>1230</fpage>–<lpage>1239</lpage>.<pub-id pub-id-type="pmid">29431256</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ejhf.1149</pub-id></mixed-citation></ref><ref id="bibr15-2058738420974900"><label>15.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Fu</surname><given-names>H</given-names></name><name name-style="western"><surname>Hosomi</surname><given-names>N</given-names></name><name name-style="western"><surname>Pelisch</surname><given-names>N</given-names></name></person-group>, <etal>et al</etal> (<year>2011</year>)
+<article-title>Therapeutic effects of postischemic treatment with
+hypotensive doses of an angiotensin II receptor blocker on transient focal
+cerebral ischemia</article-title>. <source>Journal of Hypertension</source>
+<volume>29</volume>(<issue>11</issue>):
+<fpage>2210</fpage>–<lpage>2219</lpage>.<pub-id pub-id-type="pmid">21934531</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/HJH.0b013e32834bbb30</pub-id></mixed-citation></ref><ref id="bibr16-2058738420974900"><label>16.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Saijo</surname><given-names>K</given-names></name><name name-style="western"><surname>Glass</surname><given-names>CK</given-names></name></person-group> (<year>2011</year>) <article-title>Microglial cell origin and
+phenotypes in health and disease</article-title>. <source>Nature Reviews.
+Immunology</source>
+<volume>11</volume>(<issue>11</issue>):
+<fpage>775</fpage>–<lpage>787</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nri3086</pub-id><pub-id pub-id-type="pmid">22025055</pub-id></mixed-citation></ref><ref id="bibr17-2058738420974900"><label>17.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Benicky</surname><given-names>J</given-names></name><name name-style="western"><surname>Sánchez-Lemus</surname><given-names>E</given-names></name><name name-style="western"><surname>Pavel</surname><given-names>J</given-names></name></person-group>, <etal>et al</etal> (<year>2009</year>)
+<article-title>Anti-inflammatory effects of angiotensin receptor blockers in
+the brain and the periphery</article-title>. <source>Cellular and Molecular
+Neurobiology</source>
+<volume>29</volume>(<issue>6–7</issue>):
+<fpage>781</fpage>–<lpage>792</lpage>.<pub-id pub-id-type="pmid">19259805</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s10571-009-9368-4</pub-id><pub-id pub-id-type="pmcid">PMC2718067</pub-id></mixed-citation></ref><ref id="bibr18-2058738420974900"><label>18.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Zhao</surname><given-names>L-Q</given-names></name><name name-style="western"><surname>Huang</surname><given-names>J-L</given-names></name><name name-style="western"><surname>Yu</surname><given-names>Y</given-names></name></person-group>, <etal>et al</etal> (<year>2013</year>)
+<article-title>Candesartan inhibits LPS-induced expression increase of
+toll-like receptor 4 and downstream inflammatory factors likely via
+angiotensin II type 1 receptor independent pathway in human renal tubular
+epithelial cells</article-title>. <source>Sheng Li Xue Bao : [Acta
+physiologica Sinica]</source>
+<volume>65</volume>(<issue>6</issue>):
+<fpage>623</fpage>–<lpage>630</lpage>.<pub-id pub-id-type="pmid">24343720</pub-id></mixed-citation></ref><ref id="bibr19-2058738420974900"><label>19.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Liu</surname><given-names>Z</given-names></name><name name-style="western"><surname>Ran</surname><given-names>Y</given-names></name><name name-style="western"><surname>Huang</surname><given-names>S</given-names></name></person-group>, <etal>et al</etal> (<year>2017</year>) <article-title>Curcumin
+protects against ischemic stroke by titrating microglia/macrophage
+polarization</article-title>. <source>Frontiers in Aging
+Neuroscience</source>
+<volume>9</volume>: <fpage>233</fpage>.<pub-id pub-id-type="pmid">28785217</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fnagi.2017.00233</pub-id><pub-id pub-id-type="pmcid">PMC5519528</pub-id></mixed-citation></ref><ref id="bibr20-2058738420974900"><label>20.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Wang</surname><given-names>G</given-names></name><name name-style="western"><surname>Shi</surname><given-names>Y</given-names></name><name name-style="western"><surname>Jiang</surname><given-names>X</given-names></name></person-group>, <etal>et al</etal> (<year>2015</year>) <article-title>HDAC
+inhibition prevents white matter injury by modulating microglia/macrophage
+polarization through the GSK3β/PTEN/Akt axis</article-title>.
+<source>Proceedings of the National Academy of Sciences of the United States
+of America</source>
+<volume>112</volume>(<issue>9</issue>):
+<fpage>2853</fpage>–<lpage>2858</lpage>.<pub-id pub-id-type="pmid">25691750</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.1501441112</pub-id><pub-id pub-id-type="pmcid">PMC4352818</pub-id></mixed-citation></ref><ref id="bibr21-2058738420974900"><label>21.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Tsutamoto</surname><given-names>T</given-names></name><name name-style="western"><surname>Nishiyama</surname><given-names>K</given-names></name><name name-style="western"><surname>Yamaji</surname><given-names>M</given-names></name></person-group>, <etal>et al</etal> (<year>2010</year>)
+<article-title>Comparison of the long‑term effects of candesartan and
+olmesartan on plasma angiotensin II and left ventricular mass index in
+patients with hypertension</article-title>. <source>Hypertension Research:
+Official Journal of the Japanese Society of Hypertension</source>
+<volume>33</volume>(<issue>2</issue>):
+<fpage>118</fpage>–<lpage>122</lpage>.<pub-id pub-id-type="pmid">19927151</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/hr.2009.192</pub-id></mixed-citation></ref><ref id="bibr22-2058738420974900"><label>22.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Liu</surname><given-names>Z-J</given-names></name><name name-style="western"><surname>Ran</surname><given-names>Y-Y</given-names></name><name name-style="western"><surname>Qie</surname><given-names>S-Y</given-names></name></person-group>, <etal>et al</etal> (<year>2019</year>)
+<article-title>Melatonin protects against ischemic stroke by modulating
+microglia/macrophage polarization toward anti-inflammatory phenotype through
+STAT3 pathway</article-title>. <source>CNS Neuroscience &amp;
+Therapeutics</source>
+<volume>25</volume>(<issue>12</issue>):
+<fpage>1353</fpage>–<lpage>1362</lpage>.<pub-id pub-id-type="pmid">31793209</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/cns.13261</pub-id><pub-id pub-id-type="pmcid">PMC6887673</pub-id></mixed-citation></ref><ref id="bibr23-2058738420974900"><label>23.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Bessaguet</surname><given-names>F</given-names></name><name name-style="western"><surname>Danigo</surname><given-names>A</given-names></name><name name-style="western"><surname>Magy</surname><given-names>L</given-names></name></person-group>, <etal>et al</etal> (<year>2017</year>)
+<article-title>Candesartan prevents resiniferatoxin-induced sensory
+small-fiber neuropathy in mice by promoting angiotensin ii-mediated AT2
+receptor stimulation</article-title>. <source>Neuropharmacology</source>
+<volume>126</volume>: <fpage>142</fpage>–<lpage>150</lpage>.<pub-id pub-id-type="pmid">28882562</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neuropharm.2017.08.039</pub-id></mixed-citation></ref><ref id="bibr24-2058738420974900"><label>24.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Zhao</surname><given-names>X</given-names></name><name name-style="western"><surname>Wang</surname><given-names>X</given-names></name></person-group> (<year>2018</year>) <article-title>Candesartan targeting of
+angiotensin II type 1 receptor demonstrates benefits for hypertension in
+pregnancy via the NF-κB signaling pathway</article-title>. <source>Molecular
+Medicine Reports</source>
+<volume>18</volume>(<issue>1</issue>):
+<fpage>705</fpage>–<lpage>714</lpage>.<pub-id pub-id-type="pmid">29845261</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3892/mmr.2018.9070</pub-id><pub-id pub-id-type="pmcid">PMC6059699</pub-id></mixed-citation></ref><ref id="bibr25-2058738420974900"><label>25.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Ahmed</surname><given-names>HI</given-names></name><name name-style="western"><surname>Mohamed</surname><given-names>EA</given-names></name></person-group> (<year>2019</year>) <article-title>Candesartan and
+epigallocatechin-3-gallate ameliorate gentamicin-induced renal damage in
+rats through p38-MAPK and NF-κB pathways</article-title>. <source>Journal of
+Biochemical and Molecular Toxicology</source>
+<volume>33</volume>(<issue>3</issue>): <fpage>e22254</fpage>.<pub-id pub-id-type="pmid">30368989</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/jbt.22254</pub-id></mixed-citation></ref><ref id="bibr26-2058738420974900"><label>26.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Trigiani</surname><given-names>LJ</given-names></name><name name-style="western"><surname>Royea</surname><given-names>J</given-names></name><name name-style="western"><surname>Lacalle-Aurioles</surname><given-names>M</given-names></name></person-group>, <etal>et al</etal> (<year>2018</year>)
+<article-title>Pleiotropic benefits of the angiotensin receptor blocker
+candesartan in a mouse model of Alzheimer disease</article-title>.
+<source>Hypertension</source>
+<volume>72</volume>(<issue>5</issue>):
+<fpage>1217</fpage>–<lpage>1226</lpage>.<pub-id pub-id-type="pmid">30354809</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/HYPERTENSIONAHA.118.11775</pub-id></mixed-citation></ref><ref id="bibr27-2058738420974900"><label>27.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Bhat</surname><given-names>SA</given-names></name><name name-style="western"><surname>Goel</surname><given-names>R</given-names></name><name name-style="western"><surname>Shukla</surname><given-names>R</given-names></name></person-group>, <etal>et al</etal> (<year>2016</year>)
+<article-title>Angiotensin receptor blockade modulates NFκB and STAT3
+signaling and inhibits glial activation and neuroinflammation better than
+angiotensin-converting enzyme inhibition</article-title>. <source>Molecular
+Neurobiology</source>
+<volume>53</volume>(<issue>10</issue>):
+<fpage>6950</fpage>–<lpage>6967</lpage>.<pub-id pub-id-type="pmid">26666666</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s12035-015-9584-5</pub-id></mixed-citation></ref><ref id="bibr28-2058738420974900"><label>28.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Larrayoz</surname><given-names>IM</given-names></name><name name-style="western"><surname>Pang</surname><given-names>T</given-names></name><name name-style="western"><surname>Benicky</surname><given-names>J</given-names></name></person-group>, <etal>et al</etal> (<year>2009</year>)
+<article-title>Candesartan reduces the innate immune response to
+lipopolysaccharide in human monocytes</article-title>. <source>Journal of
+Hypertension</source>
+<volume>27</volume>(<issue>12</issue>):
+<fpage>2365</fpage>–<lpage>2376</lpage>.<pub-id pub-id-type="pmid">19730394</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/HJH.0b013e3283314bc7</pub-id><pub-id pub-id-type="pmcid">PMC2928995</pub-id></mixed-citation></ref><ref id="bibr29-2058738420974900"><label>29.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Skaper</surname><given-names>SD</given-names></name><name name-style="western"><surname>Giusti</surname><given-names>P</given-names></name><name name-style="western"><surname>Facci</surname><given-names>L</given-names></name></person-group> (<year>2012</year>) <article-title>Microglia and mast cells: Two
+tracks on the road to neuroinflammation</article-title>. <source>FASEB
+Journal: Official Publication of the Federation of American Societies for
+Experimental Biology</source>
+<volume>26</volume>(<issue>8</issue>):
+<fpage>3103</fpage>–<lpage>3117</lpage>.<pub-id pub-id-type="pmid">22516295</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1096/fj.11-197194</pub-id></mixed-citation></ref><ref id="bibr30-2058738420974900"><label>30.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Sica</surname><given-names>A</given-names></name><name name-style="western"><surname>Mantovani</surname><given-names>A</given-names></name></person-group> (<year>2012</year>) <article-title>Macrophage plasticity and
+polarization: in vivo veritas</article-title>. <source>The Journal of
+Clinical Investigation</source>
+<volume>122</volume>(<issue>3</issue>):
+<fpage>787</fpage>–<lpage>795</lpage>.<pub-id pub-id-type="pmid">22378047</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1172/JCI59643</pub-id><pub-id pub-id-type="pmcid">PMC3287223</pub-id></mixed-citation></ref><ref id="bibr31-2058738420974900"><label>31.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Xu</surname><given-names>Y</given-names></name><name name-style="western"><surname>Xu</surname><given-names>Y</given-names></name><name name-style="western"><surname>Wang</surname><given-names>Y</given-names></name></person-group>, <etal>et al</etal> (<year>2015</year>)
+<article-title>Telmisartan prevention of LPS-induced microglia activation
+involves M2 microglia polarization via CaMKKβ-dependent AMPK
+activation</article-title>. <source>Brain, Behavior, and Immunity</source>
+<volume>50</volume>: <fpage>298</fpage>–<lpage>313</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bbi.2015.07.015</pub-id><pub-id pub-id-type="pmid">26188187</pub-id></mixed-citation></ref><ref id="bibr32-2058738420974900"><label>32.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Gao</surname><given-names>YY</given-names></name><name name-style="western"><surname>Zhuang</surname><given-names>Z</given-names></name><name name-style="western"><surname>Lu</surname><given-names>Y</given-names></name></person-group>, <etal>et al</etal> (<year>2019</year>) <article-title>Curcumin
+mitigates neuro-inflammation by modulating microglia polarization through
+inhibiting TLR4 axis signaling pathway following experimental subarachnoid
+hemorrhage</article-title>. <source>Frontiers in Neuroscience</source>
+<volume>13</volume>: <year>1223</year>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fnins.2019.01223</pub-id><pub-id pub-id-type="pmcid">PMC6872970</pub-id><pub-id pub-id-type="pmid">31803007</pub-id></mixed-citation></ref><ref id="bibr33-2058738420974900"><label>33.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Lan</surname><given-names>X</given-names></name><name name-style="western"><surname>Han</surname><given-names>X</given-names></name><name name-style="western"><surname>Li</surname><given-names>Q</given-names></name></person-group>, <etal>et al</etal> (<year>2017</year>)
+<article-title>Pinocembrin protects hemorrhagic brain primarily by
+inhibiting toll-like receptor 4 and reducing M1 phenotype
+microglia</article-title>. <source>Brain, Behavior, and Immunity</source>
+<volume>61</volume>:<fpage>326</fpage>–<lpage>339</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bbi.2016.12.012</pub-id><pub-id pub-id-type="pmcid">PMC5453178</pub-id><pub-id pub-id-type="pmid">28007523</pub-id></mixed-citation></ref><ref id="bibr34-2058738420974900"><label>34.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Ye</surname><given-names>Y</given-names></name><name name-style="western"><surname>Jin</surname><given-names>T</given-names></name><name name-style="western"><surname>Zhang</surname><given-names>X</given-names></name></person-group>, <etal>et al</etal> (<year>2019</year>)
+<article-title>Meisoindigo protects against focal cerebral
+ischemia-reperfusion injury by inhibiting NLRP3 inflammasome activation and
+regulating microglia/macrophage polarization via TLR4/NF-κB signaling
+pathway</article-title>. <source>Frontiers in Cellular Neuroscience</source>
+<volume>13</volume>: <fpage>553</fpage>.<pub-id pub-id-type="pmid">31920554</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fncel.2019.00553</pub-id><pub-id pub-id-type="pmcid">PMC6930809</pub-id></mixed-citation></ref><ref id="bibr35-2058738420974900"><label>35.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Barakat</surname><given-names>W</given-names></name><name name-style="western"><surname>Safwet</surname><given-names>N</given-names></name><name name-style="western"><surname>El-Maraghy</surname><given-names>NN</given-names></name></person-group>, <etal>et al</etal> (<year>2019</year>)
+<article-title>Candesartan and glycyrrhizin ameliorate ischemic brain damage
+through downregulation of the TLR signaling cascade</article-title>.
+<source>European Journal of Pharmacology</source>
+<volume>724</volume>: <fpage>43</fpage>–<lpage>50</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ejphar.2013.12.032</pub-id><pub-id pub-id-type="pmid">24378346</pub-id></mixed-citation></ref></ref-list></back></article>

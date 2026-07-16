@@ -1,4 +1,5 @@
 import os
+import re
 import pandas as pd
 import requests
 from requests.adapters import HTTPAdapter
@@ -13,7 +14,7 @@ S3_BASE = 'https://pmc-oa-opendata.s3.amazonaws.com' # https://pmc.ncbi.nlm.nih.
 ENTREZ_URL = 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi' # https://pmc.ncbi.nlm.nih.gov/tools/get-metadata/
 
 session = requests.Session()
-retry = Retry(status_forcelist=(429, 503), allowed_methods=("GET"))
+retry = Retry(status_forcelist=(429, 500, 502, 503, 504), allowed_methods=("GET"), backoff_factor=2)
 adapter = HTTPAdapter(max_retries=retry, pool_connections=20, pool_maxsize=20)
 session.mount("https://", adapter)
 
@@ -53,7 +54,7 @@ def find_pmcid(filtered_df):
 def check_pmcid_versions(papers):
     def get_versions(paper):
         doi, pmid, pmcid = paper
-        r = session.get(S3_BASE, params={'list-type': '2', 'prefix': pmcid, 'delimiter': '/'})
+        r = session.get(S3_BASE, params={'list-type': '2', 'prefix': f'{pmcid}.', 'delimiter': '/'})
         r.raise_for_status()
         # print(r.content)
         root = ET.fromstring(r.text)
@@ -93,7 +94,7 @@ def get_xml_link(papers):
             xml_url = meta.get('xml_url')
             if xml_url:
                 return str(doi), str(pmid), str(pmcid), str(xml_url)
-        print(f'No XML found for PMID: {pmid}')
+        # print(f'No XML found for PMID: {pmid}')
         return doi, pmid, versions[0].rsplit('.', 1)[0], None
 
     with ThreadPoolExecutor(max_workers=20) as executor:
@@ -120,6 +121,14 @@ def clean_text(element):
     return ' '.join(''.join(element.itertext()).split())
 
 
+RETRACTION_TITLE_PREFIX = re.compile(r'^RETRACTED(?:\s+ARTICLE|\s+AND\s+REMOVED)?\s*:\s*', re.IGNORECASE) # NOTE: This regex was made with the help of Google Gemini, and it is used to remove the "RETRACTED ARTICLE: " prefix from titles in the XML metadata.
+
+
+def clean_title(element):
+    title = clean_text(element)
+    return RETRACTION_TITLE_PREFIX.sub('', title)
+
+
 def get_more_metadata(fraud_metadata_df, papers_dir, data_dir):
     pubmed_articles = {}
     pmc_articles = {}
@@ -133,7 +142,7 @@ def get_more_metadata(fraud_metadata_df, papers_dir, data_dir):
 
     pmcids = [str(pmcid) for pmcid in fraud_metadata_df['PMCID']]
     for start in tqdm(range(0, len(pmcids), 200), desc='Fetching PMC metadata', unit=' batches'):
-        r = session.get(ENTREZ_URL, params={'db': 'pmc', 'id': ','.join(pmcids[start:start + 200]), 'retmode': 'xml'})
+        r = session.get(ENTREZ_URL, params={'db': 'pmc', 'id': ','.join(pmcids[start:start + 200])})
         r.raise_for_status()
         for pmc_article in ET.fromstring(r.content).findall('article'):
             pmc_articles[clean_text(pmc_article.find("front/article-meta/article-id[@pub-id-type='pmcid']"))] = pmc_article
@@ -189,7 +198,7 @@ def get_more_metadata(fraud_metadata_df, papers_dir, data_dir):
             'OriginalPaperDOI': doi, 'OriginalPaperPubMedID': pmid, 'PMCID': pmcid, 'XMLLINK': xml_link,
             'journal_nlm_ta': clean_text(root.find(".//journal-id[@journal-id-type='nlm-ta']")),
             'article_type': article.get('article-type'),
-            'title': clean_text(root.find('.//article-meta/title-group/article-title')),
+            'title': clean_title(root.find('.//article-meta/title-group/article-title')),
             'publication_year': clean_text(root.find('.//article-meta/pub-date/year')),
             'keywords': ' | '.join(term for term in keywords if term),
             'mesh_terms': ' | '.join(term for term in mesh_terms if term),
@@ -197,11 +206,11 @@ def get_more_metadata(fraud_metadata_df, papers_dir, data_dir):
             'first_author_surname': surname or None,
         })
 
-    output_file = data_dir / 'fraudulent_papers_more_metadata.csv'
+    output_file = data_dir / 'fraudulent_papers_metadata.csv'
     pd.DataFrame(parsed_papers).to_csv(output_file, index=False)
     print(f'Saved {len(parsed_papers)} papers to {output_file}')
-    print(f'Removed {removed_papers} non-research-article papers')
-    print('Failed XML files:', failed_files)
+    # print(f'Removed {removed_papers} non-research-article papers')
+    # print('Failed XML files:', failed_files)
 
 if __name__ == '__main__':
     original_df = pd.read_csv('retraction_watch.csv') # NOTE: updated daily-ish: https://gitlab.com/crossref/retraction-watch-data/-/blob/main/retraction_watch.csv 

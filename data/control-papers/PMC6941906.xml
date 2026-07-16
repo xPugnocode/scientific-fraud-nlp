@@ -1,0 +1,1083 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article article-type="research-article" xml:lang="en" dtd-version="1.4"><front><journal-meta><journal-id journal-id-type="nlm-ta">PLoS One</journal-id><journal-id journal-id-type="iso-abbrev">PLoS ONE</journal-id><journal-id journal-id-type="pmc-domain-id">440</journal-id><journal-id journal-id-type="pmc-domain">plosone</journal-id><journal-id journal-id-type="nlm-id">101285081</journal-id><journal-id journal-id-type="publisher-id">plos</journal-id><journal-title-group><journal-title>PLoS ONE</journal-title></journal-title-group><issn pub-type="epub">1932-6203</issn><publisher><publisher-name>PLOS</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC6941906</article-id><article-id pub-id-type="pmcid-ver">PMC6941906.1</article-id><article-id pub-id-type="pmcaid">6941906</article-id><article-id pub-id-type="pmcaiid">6941906</article-id><article-id pub-id-type="pmid">31899778</article-id><article-id pub-id-type="doi">10.1371/journal.pone.0227064</article-id><article-id pub-id-type="publisher-id">PONE-D-19-27579</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Physical Sciences</subject><subj-group><subject>Physics</subject><subj-group><subject>Classical Mechanics</subject><subj-group><subject>Deformation</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Physical Sciences</subject><subj-group><subject>Physics</subject><subj-group><subject>Classical Mechanics</subject><subj-group><subject>Damage Mechanics</subject><subj-group><subject>Deformation</subject></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Anatomy</subject><subj-group><subject>Biological Tissue</subject><subj-group><subject>Soft Tissues</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Anatomy</subject><subj-group><subject>Biological Tissue</subject><subj-group><subject>Soft Tissues</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Diagnostic Medicine</subject><subj-group><subject>Signs and Symptoms</subject><subj-group><subject>Ulcers</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Pathology and Laboratory Medicine</subject><subj-group><subject>Signs and Symptoms</subject><subj-group><subject>Ulcers</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Anatomy</subject><subj-group><subject>Musculoskeletal System</subject><subj-group><subject>Pelvis</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Anatomy</subject><subj-group><subject>Musculoskeletal System</subject><subj-group><subject>Pelvis</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Physical Sciences</subject><subj-group><subject>Mathematics</subject><subj-group><subject>Applied Mathematics</subject><subj-group><subject>Finite Element Analysis</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Anatomy</subject><subj-group><subject>Biological Tissue</subject><subj-group><subject>Muscle Tissue</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Anatomy</subject><subj-group><subject>Biological Tissue</subject><subj-group><subject>Muscle Tissue</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Biochemistry</subject><subj-group><subject>Lipids</subject><subj-group><subject>Fats</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Physical Sciences</subject><subj-group><subject>Materials Science</subject><subj-group><subject>Material Properties</subject><subj-group><subject>Mechanical Properties</subject><subj-group><subject>Stiffness</subject></subj-group></subj-group></subj-group></subj-group></subj-group></article-categories><title-group><article-title>Lateral pressure equalisation as a principle for designing support
+surfaces to prevent deep tissue pressure ulcers</article-title><alt-title alt-title-type="running-head">Pressure equalisation for support surface
+design</alt-title></title-group><contrib-group><contrib contrib-type="author"><contrib-id authenticated="true" contrib-id-type="orcid">http://orcid.org/0000-0002-7508-8508</contrib-id><name name-style="western"><surname>Boyle</surname><given-names initials="CJ">Colin J.</given-names></name><role content-type="http://credit.casrai.org/">Conceptualization</role><role content-type="http://credit.casrai.org/">Data curation</role><role content-type="http://credit.casrai.org/">Formal analysis</role><role content-type="http://credit.casrai.org/">Funding acquisition</role><role content-type="http://credit.casrai.org/">Investigation</role><role content-type="http://credit.casrai.org/">Methodology</role><role content-type="http://credit.casrai.org/">Visualization</role><role content-type="http://credit.casrai.org/">Writing – original draft</role><xref ref-type="aff" rid="aff001"><sup>1</sup></xref><xref ref-type="aff" rid="aff002"><sup>2</sup></xref><xref ref-type="corresp" rid="cor001">*</xref></contrib><contrib contrib-type="author"><contrib-id authenticated="true" contrib-id-type="orcid">http://orcid.org/0000-0002-6558-134X</contrib-id><name name-style="western"><surname>Carpanen</surname><given-names initials="D">Diagarajen</given-names></name><role content-type="http://credit.casrai.org/">Formal analysis</role><role content-type="http://credit.casrai.org/">Methodology</role><role content-type="http://credit.casrai.org/">Writing – review &amp;
+editing</role><xref ref-type="aff" rid="aff001"><sup>1</sup></xref></contrib><contrib contrib-type="author"><contrib-id authenticated="true" contrib-id-type="orcid">http://orcid.org/0000-0003-2107-5194</contrib-id><name name-style="western"><surname>Pandelani</surname><given-names initials="T">Thanyani</given-names></name><role content-type="http://credit.casrai.org/">Formal analysis</role><role content-type="http://credit.casrai.org/">Methodology</role><role content-type="http://credit.casrai.org/">Writing – review &amp;
+editing</role><xref ref-type="aff" rid="aff001"><sup>1</sup></xref></contrib><contrib contrib-type="author"><contrib-id authenticated="true" contrib-id-type="orcid">http://orcid.org/0000-0002-9742-5149</contrib-id><name name-style="western"><surname>Higgins</surname><given-names initials="CA">Claire A.</given-names></name><role content-type="http://credit.casrai.org/">Conceptualization</role><role content-type="http://credit.casrai.org/">Funding acquisition</role><role content-type="http://credit.casrai.org/">Supervision</role><role content-type="http://credit.casrai.org/">Writing – review &amp;
+editing</role><xref ref-type="aff" rid="aff001"><sup>1</sup></xref></contrib><contrib contrib-type="author"><contrib-id authenticated="true" contrib-id-type="orcid">http://orcid.org/0000-0002-9423-7193</contrib-id><name name-style="western"><surname>Masen</surname><given-names initials="MA">Marc A.</given-names></name><role content-type="http://credit.casrai.org/">Conceptualization</role><role content-type="http://credit.casrai.org/">Funding acquisition</role><role content-type="http://credit.casrai.org/">Supervision</role><role content-type="http://credit.casrai.org/">Writing – review &amp;
+editing</role><xref ref-type="aff" rid="aff002"><sup>2</sup></xref></contrib><contrib contrib-type="author"><contrib-id authenticated="true" contrib-id-type="orcid">http://orcid.org/0000-0003-1700-5548</contrib-id><name name-style="western"><surname>Masouros</surname><given-names initials="SD">Spyros D.</given-names></name><role content-type="http://credit.casrai.org/">Conceptualization</role><role content-type="http://credit.casrai.org/">Funding acquisition</role><role content-type="http://credit.casrai.org/">Project administration</role><role content-type="http://credit.casrai.org/">Supervision</role><role content-type="http://credit.casrai.org/">Writing – review &amp;
+editing</role><xref ref-type="aff" rid="aff001"><sup>1</sup></xref></contrib></contrib-group><aff id="aff001"><label>1</label>
+<addr-line>Department of Bioengineering, Imperial College London, London, United
+Kingdom</addr-line></aff><aff id="aff002"><label>2</label>
+<addr-line>Department of Mechanical Engineering, Imperial College London, London,
+United Kingdom</addr-line></aff><contrib-group><contrib contrib-type="editor"><name name-style="western"><surname>Oliveira</surname><given-names initials="PH">Pedro H.</given-names></name><role>Editor</role><xref ref-type="aff" rid="edit1"/></contrib></contrib-group><aff id="edit1"><addr-line>Icahn School of Medicine at Mount Sinai, UNITED
+STATES</addr-line></aff><author-notes><fn fn-type="COI-statement" id="coi001"><p><bold>Competing Interests: </bold>I have read the journal's policy and the authors of this manuscript have the
+following competing interests: CB and SM have filed a patent (application
+number 1814813.0) for a support surface device based on the principle
+described in this paper. Imperial Innovations Ltd and Imperial College
+London partly funded this work through a Proof of Concept grant to SDM and
+CJB. This does not alter our adherence to PLOS ONE policies on sharing data
+and materials. Drawing from this work, CJB and SDM have applied for a patent
+(GB1814813.0 “Device for supporting a body part”). This does not alter our
+adherence to PLOS ONE policies on sharing data and materials.</p></fn><corresp id="cor001">* E-mail: <email>c.boyle@imperial.ac.uk</email></corresp></author-notes><pub-date pub-type="epub"><day>3</day><month>1</month><year>2020</year></pub-date><pub-date pub-type="collection"><year>2020</year></pub-date><volume>15</volume><issue>1</issue><issue-id pub-id-type="pmc-issue-id">348871</issue-id><elocation-id>e0227064</elocation-id><history><date date-type="received"><day>1</day><month>10</month><year>2019</year></date><date date-type="accepted"><day>10</day><month>12</month><year>2019</year></date></history><pub-history><event event-type="pmc-release"><date><day>03</day><month>01</month><year>2020</year></date></event><event event-type="pmc-live"><date><day>10</day><month>01</month><year>2020</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-03-12 21:25:13.337"><day>12</day><month>03</month><year>2026</year></date></event></pub-history><permissions><copyright-statement>© 2020 Boyle et al</copyright-statement><copyright-year>2020</copyright-year><copyright-holder>Boyle et al</copyright-holder><license xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://creativecommons.org/licenses/by/4.0/"><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article distributed under the terms of the
+<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>,
+which permits unrestricted use, distribution, and reproduction in any
+medium, provided the original author and source are credited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="pone.0227064.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="pone.0227064.pdf"/><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="reviewed-article" ext-link-type="doi" xlink:href="10.1371/journal.pone.0227064"><pub-id pub-id-type="doi">10.1371/journal.pone.0227064</pub-id></related-article><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="editor-report" ext-link-type="doi" xlink:href="10.1371/journal.pone.0227064"><pub-id pub-id-type="doi">10.1371/journal.pone.0227064</pub-id></related-article><abstract><p>When immobile or neuropathic patients are supported by beds or chairs, their soft
+tissues undergo deformations that can cause pressure ulcers. Current support
+surfaces that redistribute under-body pressures at vulnerable body sites have
+not succeeded in reducing pressure ulcer prevalence. Here we show that adding a
+supporting lateral pressure can counter-act the deformations induced by
+under-body pressure, and that this ‘pressure equalisation’ approach is a more
+effective way to reduce ulcer-inducing deformations than current approaches
+based on redistributing under-body pressure. A finite element model of the
+seated pelvis predicts that applying a lateral pressure to the soft tissue
+reduces peak von Mises stress in the deep tissue by a factor of 2.4 relative to
+a standard cushion (from 113 kPa to 47 kPa)—a greater effect than that achieved
+by using a more conformable cushion, which reduced von Mises stress to 75 kPa.
+Combining both a conformable cushion and lateral pressure reduced peak von Mises
+stresses to 25 kPa. The ratio of peak lateral pressure to peak under-body
+pressure was shown to regulate deep tissue stress better than under-body
+pressure alone. By optimising the magnitude and position of lateral pressure,
+tissue deformations can be reduced to that induced when suspended in a fluid.
+Our results explain the lack of efficacy in current support surfaces and suggest
+a new approach to designing and evaluating support surfaces: ensuring sufficient
+lateral pressure is applied to counter-act under-body pressure.</p></abstract><funding-group><award-group id="award001"><funding-source><institution-wrap><institution-id institution-id-type="funder-id">http://dx.doi.org/10.13039/501100000266</institution-id><institution>Engineering and Physical Sciences Research
+Council</institution></institution-wrap></funding-source><award-id>EP/N026845/1</award-id><principal-award-recipient><contrib-id authenticated="true" contrib-id-type="orcid">http://orcid.org/0000-0002-9742-5149</contrib-id><name name-style="western"><surname>Higgins</surname><given-names>Claire A.</given-names></name></principal-award-recipient></award-group><award-group id="award002"><funding-source><institution-wrap><institution-id institution-id-type="funder-id">http://dx.doi.org/10.13039/501100000761</institution-id><institution>Imperial College London</institution></institution-wrap></funding-source><award-id>Proof of Concept Grant 2017</award-id><principal-award-recipient><contrib-id authenticated="true" contrib-id-type="orcid">http://orcid.org/0000-0003-1700-5548</contrib-id><name name-style="western"><surname>Masouros</surname><given-names>Spyros D.</given-names></name></principal-award-recipient></award-group><funding-statement>This project was partly funded by an Imperial College London and
+Imperial Innovations Ltd. Proof of Concept funding to CB and SM and EPSRC
+funding to CH, MM and SM (EP/N026845/1). The EPSRC had no role in study design,
+data collection and analysis, decision to publish, or preparation of the
+manuscript. Imperial College London provided support in the form of salaries for
+authors [CJB, SDM], but did not have any additional role in the study design,
+data collection and analysis, decision to publish, or preparation of the
+manuscript. To clarify further, Imperial Innovations Ltd. is a
+technology-transfer company that acted as the tech-transfer office of Imperial
+College London from 1986 to 2019. The awarding of Proof of Concept funding or
+any other associate with Imperial Innovations Ltd does not alter our adherence
+to PLOS ONE policies on sharing data and materials.</funding-statement></funding-group><counts><fig-count count="7"/><table-count count="2"/><page-count count="19"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta id="data-availability"><meta-name>Data Availability</meta-name><meta-value>All data required to reproduce the models in the paper are available
+from figshare using DOI: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://doi.org/10.6084/m9.figshare.10510787">10.6084/m9.figshare.10510787</ext-link>.</meta-value></custom-meta></custom-meta-group></article-meta><notes><title>Data Availability</title><p>All data required to reproduce the models in the paper are available
+from figshare using DOI: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://doi.org/10.6084/m9.figshare.10510787">10.6084/m9.figshare.10510787</ext-link>.</p></notes></front><body><sec sec-type="intro" id="sec001"><title>1. Introduction</title><p>Supporting the body weight of critically ill, immobilised or paraplegic people
+without causing soft-tissue injury is not an easy task. The loading induced while
+lying or sitting for prolonged periods can cause damage to skin, adipose tissue and
+muscle; this damage is known as a pressure ulcer. Pressure ulcers are estimated to
+affect one in five hospitalised patients in Europe [<xref rid="pone.0227064.ref001" ref-type="bibr">1</xref>], while prevalence in some patient groups are
+much higher. For example, 85% of spinal cord injury patients develop a pressure
+ulcer over their lifetime [<xref rid="pone.0227064.ref002" ref-type="bibr">2</xref>]
+with associated care costs of approximately $1.2 billion annually in the US [<xref rid="pone.0227064.ref003" ref-type="bibr">3</xref>]. A severe form of pressure
+ulcer develops in subdermal tissue close to bony prominences such as the ischial
+tuberosity and sacrum of the pelvis [<xref rid="pone.0227064.ref004" ref-type="bibr">4</xref>,<xref rid="pone.0227064.ref005" ref-type="bibr">5</xref>], and is
+known as a deep tissue injury. Because of the severity of deep tissue injury,
+preventative strategies have been a major focus in the field.</p><p>One approach to preventing pressure ulcers is to design support surfaces to reduce
+pathological pressures, and this has been a major area of research for the past
+forty years [<xref rid="pone.0227064.ref006" ref-type="bibr">6</xref>]—indeed
+‘invalid beds’ have been developed since the 19<sup>th</sup> century [<xref rid="pone.0227064.ref007" ref-type="bibr">7</xref>]. While support surfaces have
+become increasingly high-tech, they have yet to outperform high-specification foam
+mattresses, and their adoption in clinics has not led to a significant reduction in
+pressure ulcer prevalence [<xref rid="pone.0227064.ref008" ref-type="bibr">8</xref>,<xref rid="pone.0227064.ref009" ref-type="bibr">9</xref>]. While this
+lack of progress may indicate that we have reached the limit of support surface
+design, in this paper, we argue that current designs have been based upon a
+suboptimal design principle—that of under-body pressure re-distribution.</p><p>The presumption that high surface pressure leads to pressure ulcers, and therefore
+should be reduced, seems obvious. However, experimental, computational and clinical
+evidence suggests that high surface pressures do not necessarily cause pressure
+ulcers. Peak surface pressures (as measured by pressure mapping sensor arrays)
+cannot identify at-risk patients [<xref rid="pone.0227064.ref010" ref-type="bibr">10</xref>,<xref rid="pone.0227064.ref011" ref-type="bibr">11</xref>]. High-tech
+mattresses that reduce peak surface pressures have increasingly been adopted in
+clinical settings yet their impact on pressure ulcer prevalence has been
+disappointing [<xref rid="pone.0227064.ref008" ref-type="bibr">8</xref>,<xref rid="pone.0227064.ref009" ref-type="bibr">9</xref>]. Furthermore, soft tissue
+<italic toggle="yes">can</italic> tolerate extremely high surface pressures under certain
+circumstances. The soft tissues of a deep-sea diver, for example, are exposed to 100
+kPa of surface pressure for every 10 m descended, yet pressure-related injuries to
+soft tissues are not a common issue in diving [<xref rid="pone.0227064.ref012" ref-type="bibr">12</xref>,<xref rid="pone.0227064.ref013" ref-type="bibr">13</xref>]. Computational studies have helped to
+explain these observations, with Oomens et al. [<xref rid="pone.0227064.ref014" ref-type="bibr">14</xref>] demonstrating that peak surface pressure
+has very little impact on internal deformations near bony prominences—regions where
+deep tissue injuries are likely to occur [<xref rid="pone.0227064.ref014" ref-type="bibr">14</xref>,<xref rid="pone.0227064.ref015" ref-type="bibr">15</xref>]. Since reducing peak surface pressure has
+failed to protect deep tissue, we sought to determine if there is any way to
+manipulate the external pressure profile that can protect deep tissue.</p><p>Deep tissue pressure ulcers develop as a result of several overlapping processes:
+ischaemia [<xref rid="pone.0227064.ref016" ref-type="bibr">16</xref>],
+ischaemia-reperfusion injury [<xref rid="pone.0227064.ref017" ref-type="bibr">17</xref>] lymphatic network obstruction [<xref rid="pone.0227064.ref018" ref-type="bibr">18</xref>,<xref rid="pone.0227064.ref019" ref-type="bibr">19</xref>] and direct cell deformation [<xref rid="pone.0227064.ref020" ref-type="bibr">20</xref>]. Each of these processes is
+triggered by excessive deformation (exacerbated by shear stresses, microclimate, and
+other risk factors) within soft tissue, and so in some regards, a pressure ulcer
+could be more aptly named a ‘deformation ulcer’. Redistributing surface pressure (as
+current devices aim to do) does not necessarily reduce deformations (and hence
+pressure ulcers) because soft tissue has very different tolerances to the two
+components of stress (<xref ref-type="fig" rid="pone.0227064.g001">Fig 1A</xref>):
+deviatoric stress (which tends to change the shape of an object) and dilatational
+stress (which tends to change the volume of an object, but not its shape) [<xref rid="pone.0227064.ref021" ref-type="bibr">21</xref>,<xref rid="pone.0227064.ref022" ref-type="bibr">22</xref>]. Human soft tissues are almost
+incompressible [<xref rid="pone.0227064.ref023" ref-type="bibr">23</xref>], and so
+can tolerate high dilatational stress with minimal deformation. In contrast, soft
+tissues deform readily with deviatoric stress, therefore it is this stress that must
+be minimised to prevent ulceration. While submersed, a diver experiences nearly
+uniform pressures on all surfaces; this tends to induce dilatational stress [<xref rid="pone.0227064.ref022" ref-type="bibr">22</xref>]. On the other hand,
+interaction with very localised surface pressure–such as when sitting on a chair or
+lying on a mattress–induces large deviatoric stress (and therefore deformations) as
+the soft tissue bulges and is displaced laterally away from the load (<xref ref-type="fig" rid="pone.0227064.g001">Fig 1B</xref>).</p><fig id="pone.0227064.g001" orientation="portrait" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0227064.g001</object-id><label>Fig 1</label><caption><title>Deformations beneath a bony prominence.</title><p>The stress in soft tissue has two components, dilatational and deviatoric
+(a). Soft tissue is much more resistant to dilatational stress than
+deviatoric stress. Under a bony prominence, the soft tissue is distorted due
+to the concentrated pressures at the bone and the support (b).
+Redistributing the surface pressure has some effect on the outer
+(superficial) region, but not on the deep tissue. We hypothesise that by
+applying pressure laterally (termed pressure equalisation), bulging is
+reduced, and the tissue can bear the load in a more dilatational mode.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="pone.0227064.g001.jpg"/></fig><p>One way to prevent excessive deformations may be to restrain the soft tissue from
+deforming by applying a supporting lateral pressure. In this paper, we test the
+plausibility of this principle using a computational model of the weight-bearing
+pelvis in a seated individual. We hypothesise that actively applying pressure
+laterally to the soft tissue of the pelvis will reduce the deformation at the
+ischial tuberosity to a greater extent than the commonly applied method of
+redistributing under-body pressure (<xref ref-type="fig" rid="pone.0227064.g001">Fig
+1B</xref>). Our rationale for this work is that by making subtle changes to the
+design objectives used for support surfaces, we may be able to substantially reduce
+the risk of ulceration for high-risk patients.</p></sec><sec sec-type="materials|methods" id="sec002"><title>2. Methods</title><p>First, we adapted a previously-developed finite element model of seated buttocks
+[<xref rid="pone.0227064.ref014" ref-type="bibr">14</xref>] to test the
+hypothesis that applying lateral pressure will reduce tissue deformations (section
+2.1). The seated position was chosen because the ischial tuberosity is a common site
+for deep tissue injury [<xref rid="pone.0227064.ref001" ref-type="bibr">1</xref>].
+Next, we used the model to determine whether applying lateral pressure or changing
+the stiffness of a standard cushion has the greatest effect on deep tissue
+deformations (section 2.2). To ensure that these effects translate to a more
+realistic setting, we developed a 3D model from MRI scans (section 2.3). Finally, we
+sought to formalise the relationship between surface pressure and internal
+deformations into a design principle—equalising under-body pressure with lateral
+pressure. To do this, we described the interaction of soft tissue and a support
+surface as a surface pressure boundary condition, which could be manipulated and
+studied independently of particular cushion design (section 2.4). All finite element
+input files and analysis protocols are available in an open database
+(10.6084/m9.figshare.10510787).</p><sec id="sec003"><title>2.1 Model of the seated pelvis with lateral pressure application</title><p>2.1.1 Geometry and material models. An axisymmetric geometry was used to model
+the soft tissue surrounding a single ischial tuberosity in a seated individual.
+The geometry was similar to that used by Oomens et al. [<xref rid="pone.0227064.ref014" ref-type="bibr">14</xref>] but included more of the pelvis soft
+tissue to allow lateral pressure to be modelled (<xref ref-type="fig" rid="pone.0227064.g002">Fig 2A</xref>). The soft tissue was partitioned into
+fat, muscle and skin to produce similar patterns as found from MRI imaging
+(<xref ref-type="fig" rid="pone.0227064.g002">Fig 2B</xref>).</p><fig id="pone.0227064.g002" orientation="portrait" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0227064.g002</object-id><label>Fig 2</label><caption><title>Finite element models.</title><p>(a) An axisymmetric model of the soft tissue surrounding the ischial
+tuberosity. The model incorporates a rigid bony prominence, muscle, fat
+and skin layers interacting with a cushion and a pressure equalisation
+device. Axisymmetry was assumed, which allowed a force-controlled
+simulation of weight-bearing (W is the load borne by the ischial
+tuberosity). The pressure equalisation device was modelled as an
+air-filled chamber with a controllable internal pressure, P. (b) The
+axisymmetric region modelled is shown superimposed on saggital and
+coronal MR images of a seated male (top). A 3D model was generated from
+the MR images to assess 3D deformations (bottom).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="pone.0227064.g002.jpg"/></fig><p>There have been many material models of skeletal muscle [<xref rid="pone.0227064.ref024" ref-type="bibr">24</xref>,<xref rid="pone.0227064.ref025" ref-type="bibr">25</xref>], skin [<xref rid="pone.0227064.ref026" ref-type="bibr">26</xref>], and to a lesser extent fat [<xref rid="pone.0227064.ref027" ref-type="bibr">27</xref>]. However,
+experimentally-based models that quantify all three tissues together are rarer,
+making it difficult to combine tissues defined from different experimental
+setups. In this study, we used the material models based on Oomens et al [<xref rid="pone.0227064.ref014" ref-type="bibr">14</xref>] because it enabled
+direct comparison with that study, and because all three soft tissues were
+characterized. Each region was assigned an Ogden hyperelastic material model,
+and parameter values are listed in <xref rid="pone.0227064.t001" ref-type="table">Table 1</xref>. A flat, 76 mm-thick, two-layered
+seat cushion was modelled with hyperelastic material properties representing a
+soft cushion (<xref rid="pone.0227064.t001" ref-type="table">Table 1</xref>). An
+air-filled chamber (the pressure-equalisation device) was introduced to apply a
+lateral pressure to the soft tissues (<xref ref-type="fig" rid="pone.0227064.g002">Fig 2A</xref>). This was shaped to conform to the
+seated pelvis and was modelled using membrane elements that can resist tensile,
+but not bending, loads. The chamber wall material was modelled as sufficiently
+stiff (Young’s Modulus, E = 10 MPa) so as not to allow appreciable changes in
+length.</p><table-wrap id="pone.0227064.t001" orientation="portrait" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0227064.t001</object-id><label>Table 1</label><caption><title>Parameters for the Ogden material model for each of the materials
+modelled.</title><p>Ogden strain energy density function, <inline-formula id="pone.0227064.e001"><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="pone.0227064.e001g" position="float" orientation="portrait" xlink:href="pone.0227064.e001.jpg"/><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M1"><mml:mi>U</mml:mi><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mn>2</mml:mn><mml:mi>μ</mml:mi></mml:mrow><mml:mrow><mml:msup><mml:mrow><mml:mi>a</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msup></mml:mrow></mml:mfrac><mml:mo>(</mml:mo><mml:msubsup><mml:mrow><mml:mi>λ</mml:mi></mml:mrow><mml:mrow><mml:mn>1</mml:mn></mml:mrow><mml:mrow><mml:mi>a</mml:mi></mml:mrow></mml:msubsup><mml:mo>+</mml:mo><mml:msubsup><mml:mrow><mml:mi>λ</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow><mml:mrow><mml:mi>a</mml:mi></mml:mrow></mml:msubsup><mml:mo>+</mml:mo><mml:msubsup><mml:mrow><mml:mi>λ</mml:mi></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow><mml:mrow><mml:mi>a</mml:mi></mml:mrow></mml:msubsup><mml:mo>−</mml:mo><mml:mn>3</mml:mn><mml:mo>)</mml:mo></mml:math></alternatives></inline-formula>, where
+<italic toggle="yes">λ</italic><sub>1,2,3</sub> are the principal stretches,
+<italic toggle="yes">μ and a</italic> are material constants and
+<italic toggle="yes">U</italic> is the strain energy density.</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="pone.0227064.t001g" position="float" orientation="portrait" xlink:href="pone.0227064.t001.jpg"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" valign="middle" span="1"/><col align="left" valign="middle" span="1"/><col align="left" valign="middle" span="1"/></colgroup><thead><tr><th align="justify" rowspan="1" colspan="1">Material</th><th align="justify" rowspan="1" colspan="1"><italic toggle="yes">μ</italic> (MPa)</th><th align="justify" rowspan="1" colspan="1"><italic toggle="yes">a</italic> (-)</th></tr></thead><tbody><tr><td align="justify" rowspan="1" colspan="1">Skin</td><td align="justify" rowspan="1" colspan="1">0.04</td><td align="justify" rowspan="1" colspan="1">30</td></tr><tr><td align="justify" rowspan="1" colspan="1">Fat</td><td align="justify" rowspan="1" colspan="1">0.025</td><td align="justify" rowspan="1" colspan="1">10</td></tr><tr><td align="justify" rowspan="1" colspan="1">Muscle</td><td align="justify" rowspan="1" colspan="1">0.045</td><td align="justify" rowspan="1" colspan="1">5</td></tr><tr><td align="justify" rowspan="1" colspan="1">Stiff cushion</td><td align="justify" rowspan="1" colspan="1">0.08</td><td align="justify" rowspan="1" colspan="1">10</td></tr><tr><td align="justify" rowspan="1" colspan="1">Medium cushion</td><td align="justify" rowspan="1" colspan="1">0.005</td><td align="justify" rowspan="1" colspan="1">10</td></tr><tr><td align="justify" rowspan="1" colspan="1">Soft cushion top</td><td align="justify" rowspan="1" colspan="1">0.0035</td><td align="justify" rowspan="1" colspan="1">7</td></tr><tr><td align="justify" rowspan="1" colspan="1">Soft cushion bottom</td><td align="justify" rowspan="1" colspan="1">0.005</td><td align="justify" rowspan="1" colspan="1">10</td></tr></tbody></table></alternatives></table-wrap><p>2.1.2 Boundary <bold>c</bold>onditions. The proportion of body weight borne by
+the ischial tuberosities while seated varies from 18% to 77% [<xref rid="pone.0227064.ref014" ref-type="bibr">14</xref>]<sub>.</sub> We
+estimated the amount of load supported by the pelvis at 400N —representing
+approximately 50% of the body weight of an 80 kg adult (with each tuberosity
+bearing 200N) because it is within the range of experimental findings and
+enables direct comparison with Oomens et al [<xref rid="pone.0227064.ref014" ref-type="bibr">14</xref>]. Symmetry boundary conditions were
+prescribed to all nodes lying along the z-axis (<xref ref-type="fig" rid="pone.0227064.g002">Fig 2A</xref>). The cushion base was constrained in
+all directions. Two nodes of the pressure equalisation device were constrained
+in all directions, and a uniform pressure was applied to the inner surface of
+the chamber to a maximum of 80 kPa. Frictionless contact was assumed between the
+support surfaces and the skin. While this is a simplification of the real-world
+scenario, a sensitivity study revealed friction to have a negligible effect on
+model predictions (<xref ref-type="supplementary-material" rid="pone.0227064.s002">S2 Appendix</xref>). Normal contact behaviour was
+enforced using the penalty method with finite-sliding [<xref rid="pone.0227064.ref028" ref-type="bibr">28</xref>].</p><p>2.1.3 Solution approach and output. A mesh sensitivity analysis was performed
+leading to a final mesh of 13056 linear quadrilateral elements representing the
+soft tissues. All models were solved as quasi-static, non-linear analyses using
+the ABAQUS finite element software (v2016, Dassault Systems, France). To analyse
+and compare models, the von Mises stresses and shear strains in the soft tissue
+regions were calculated. Von Mises stress (<bold><italic toggle="yes">q</italic></bold>) is a
+scalar representing the deviatoric part of the stress tensor
+(<bold><italic toggle="yes">S</italic></bold><sub><bold><italic toggle="yes">ij</italic></bold></sub>)
+and defined as <inline-formula id="pone.0227064.e002"><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="pone.0227064.e002g" mimetype="image" position="anchor" orientation="portrait" xlink:href="pone.0227064.e002.jpg"/><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M2"><mml:mi mathvariant="bold-italic">q</mml:mi><mml:mo>=</mml:mo><mml:msqrt><mml:mfrac><mml:mrow><mml:mn mathvariant="bold">3</mml:mn></mml:mrow><mml:mrow><mml:mn mathvariant="bold">2</mml:mn></mml:mrow></mml:mfrac><mml:msub><mml:mrow><mml:mi mathvariant="bold-italic">S</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="bold-italic">i</mml:mi><mml:mi mathvariant="bold-italic">j</mml:mi></mml:mrow></mml:msub><mml:msub><mml:mrow><mml:mi mathvariant="bold-italic">S</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="bold-italic">i</mml:mi><mml:mi mathvariant="bold-italic">j</mml:mi></mml:mrow></mml:msub></mml:msqrt><mml:mo>,</mml:mo><mml:mspace width="0.25em"/><mml:msub><mml:mrow><mml:mi mathvariant="bold-italic">S</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="bold-italic">i</mml:mi><mml:mi mathvariant="bold-italic">j</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:msub><mml:mrow><mml:mi mathvariant="bold-italic">σ</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="bold-italic">i</mml:mi><mml:mi mathvariant="bold-italic">j</mml:mi></mml:mrow></mml:msub><mml:mo>+</mml:mo><mml:mi mathvariant="bold-italic">p</mml:mi><mml:msub><mml:mrow><mml:mi mathvariant="bold-italic">δ</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="bold-italic">i</mml:mi><mml:mi mathvariant="bold-italic">j</mml:mi></mml:mrow></mml:msub><mml:mo>,</mml:mo><mml:mspace width="0.25em"/><mml:mi mathvariant="bold-italic">p</mml:mi><mml:mo>=</mml:mo><mml:mo>−</mml:mo><mml:mfrac><mml:mrow><mml:mn mathvariant="bold">1</mml:mn></mml:mrow><mml:mrow><mml:mn mathvariant="bold">3</mml:mn></mml:mrow></mml:mfrac><mml:msub><mml:mrow><mml:mi mathvariant="bold-italic">σ</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="bold-italic">i</mml:mi><mml:mi mathvariant="bold-italic">i</mml:mi></mml:mrow></mml:msub></mml:math></alternatives></inline-formula>, where <bold><italic toggle="yes">σ</italic></bold> is
+the stress tensor and
+<bold><italic toggle="yes">δ</italic></bold><sub><bold><italic toggle="yes">ij</italic></bold></sub>
+is the Kronecker delta function. Shear strain was calculated as
+<bold><italic toggle="yes">ϵ</italic></bold><sub><bold>1</bold></sub>−<bold><italic toggle="yes">ϵ</italic></bold><sub><bold>3</bold></sub>,
+where <bold><italic toggle="yes">ϵ</italic></bold><sub><bold>1</bold></sub>,
+<bold><italic toggle="yes">ϵ</italic></bold><sub><bold>3</bold></sub> are the maximum
+and minimum principal strains, respectively. These were chosen to represent the
+level of deviatoric stress and strain, respectively.</p><p>To summarise the stresses and strains in the deep tissue, we sampled 1600
+elements within a 30mm radius of the ischial tuberosity. Since elements vary
+considerably in size throughout the region, we weighed our sampling by element
+volume (IVOL output from ABAQUS). For example, an element with a volume 2V is
+twice as likely to be sampled as an element with volume V. Weighting the results
+like this ensures that analyses are independent of mesh density, which varies
+throughout the model.</p><p>Peak stress was defined as the 95th percentile of the stress data to avoid
+extreme outliers that may be sensitive to boundary conditions. Effects sizes (in
+the mean and peak values) between models were estimated by calculating
+bootstrapped 95% confidence intervals [<xref rid="pone.0227064.ref029" ref-type="bibr">29</xref>]. We also analysed deep tissue stress
+along a path through the soft tissue directly beneath the ischial tuberosity,
+and along the surface of the ischial tuberosity.</p></sec><sec id="sec004"><title>2.2 Comparing lateral pressure application to changing cushion
+stiffness</title><p>Cushion stiffness is a design variable commonly used to create a more conformable
+cushion, and this was used as an intervention to compare to adding lateral
+pressure. The model described above was adapted to model load-bearing on three
+different cushion designs–a stiff, medium, and soft variety. The stiff and
+medium cushions were homogeneous, 38 mm thick cushions, while the most compliant
+(softest) was produced by defining a 76 mm thick two-layer cushion as in the
+previous section. The bottom layer of this cushion had the medium-stiffness
+cushion properties, and a softer material was assigned to the 38 mm top layer
+(<xref rid="pone.0227064.t001" ref-type="table">Table 1</xref>). These
+cushions were based on those analysed by Oomens et al. [<xref rid="pone.0227064.ref014" ref-type="bibr">14</xref>], which were in turn calibrated to model
+materials commonly used in wheelchair cushions.</p><p>For each of the three cushion simulations, load-bearing to 200N was established
+as in section 2.1. Pressure in the pressure equalisation device was then
+increased incrementally to a maximum of 80 kPa. The stresses and strains induced
+when lateral pressure is applied were computed.</p></sec><sec id="sec005"><title>2.3 Assessing deformations in 3D</title><p>Modelling the pelvis using a 2D axisymmetric model as above requires
+simplification of the bone and soft tissue geometries. To ensure that the
+beneficial effect of adding lateral pressure translates to 3D environments, we
+developed a 3D model that can more accurately capture the geometry of a seated
+pelvis. The MRI data of a male subject (age 30) was used to generate the 3D
+geometry (<xref ref-type="fig" rid="pone.0227064.g002">Fig 2B</xref>) including
+skin, fat, muscle and bone. Data usage was approved by the Imperial College
+Research Ethics committee under ethical approval number ICHTB HTA licence: 12275
+and REC Wales approval: 12/WA/0196. To aid comparison of results between models,
+material properties for each layer were assigned to be consistent with the 2D
+model. The nodes representing the outer surface of the pelvic bones were
+constrained to move in the z-direction. Central symmetry was assumed to reduce
+model size by half. The soft tissue was meshed using 669,995 linear tetrahedral
+elements. A body force of 200N was applied to the bone nodes. This represents a
+full body weight of 80 kg, with the assumption that 50% of this travels through
+the pelvis of a seated individual (as was assumed with the axisymmetric model
+and is based on Oomens et al. [<xref rid="pone.0227064.ref014" ref-type="bibr">14</xref>], see section 2.1.2). Maintaining this level of loading in the 3D
+model aids comparison between that and the axisymmetric model. The lateral
+supports were modelled as air-filled cavities, with a thin outer membrane of
+material (as in the 2D model). To model the seated load case, the body force was
+ramped incrementally over the first analysis step. Next, the lateral supports
+were displaced towards the pelvis while the internal pressure within the support
+was fixed at 1 kPa. Finally, the pressure within the lateral support was
+increased to 10 kPa incrementally, and the von Mises stresses and maximum shear
+strains were calculated over ten increments. This model was solved using
+Abaqus/Explicit, with mass scaling applied to ensure kinetic energy was less
+than 1% of internal strain energy.</p></sec><sec id="sec006"><title>2.4 Determining the relationship between surface pressure and deep tissue
+mechanics</title><p>We studied how the shape and magnitude of the surface pressure distribution
+affected internal tissue stress to understand how these stresses can be
+minimised. The specific cushions and lateral support used in the previous
+sections were removed and replaced with a surface pressure boundary condition.
+For our axisymmetric model, pressure is a function of the angle from vertical,
+<italic toggle="yes">P</italic>(<italic toggle="yes">θ</italic>). The surface pressure was constrained
+to ensure that the model was in static equilibrium: the sum of the vertical
+forces due to surface pressure is equal to body weight (<italic toggle="yes">W</italic>),
+(∮<italic toggle="yes">P</italic>(<italic toggle="yes">θ</italic>)cos<italic toggle="yes">θdS</italic> =
+<italic toggle="yes">W</italic>, where <italic toggle="yes">dS</italic> represents an infinitesimal
+surface element), and the sum of the horizontal forces is zero
+(∮<italic toggle="yes">P</italic>(<italic toggle="yes">θ</italic>)sin<italic toggle="yes">θdS</italic> = 0).</p><p>The surface pressure on the buttocks when seated on a flat cushion follows a
+characteristic distribution [<xref rid="pone.0227064.ref030" ref-type="bibr">30</xref>]—there is a pressure peak beneath each ischial tuberosity which
+gradually reduces to zero towards the periphery of the contact area (<xref ref-type="supplementary-material" rid="pone.0227064.s001">S1
+Appendix</xref>). This contact pressure was modelled as a Gaussian distribution
+(see <xref ref-type="supplementary-material" rid="pone.0227064.s001">S1
+Appendix</xref>). The spread of the pressure peak (<italic toggle="yes">α</italic>) was
+varied between 0.2 and 0.35, which represent cushions with stiffness values
+beyond the range of those tested in section 2.2. We then modelled an externally
+applied lateral pressure by defining a second Gaussian term. This was controlled
+by its spread (<italic toggle="yes">β</italic>), its magnitude
+(<italic toggle="yes">P</italic><sub><italic toggle="yes">L</italic></sub>), and its location
+(<italic toggle="yes">θ</italic><sub>0</sub>). <italic toggle="yes">β</italic> and
+<italic toggle="yes">θ</italic><sub>0</sub> were fixed (0.4 and <italic toggle="yes">π</italic>/4
+respectively) and
+<italic toggle="yes">P</italic><sub><italic toggle="yes">L</italic></sub>/<italic toggle="yes">P</italic><sub><italic toggle="yes">V</italic></sub>
+(the ratio of lateral pressure relative to under-body pressure) was varied from
+0% to 75%. This led to 16 parameter combinations, described in <xref rid="pone.0227064.t002" ref-type="table">Table 2</xref>. Each pressure field
+was then applied as a boundary condition to the soft-tissue finite element
+model, and peak stresses and strains were calculated.</p><table-wrap id="pone.0227064.t002" orientation="portrait" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0227064.t002</object-id><label>Table 2</label><caption><title>Parameters governing the spread of the under-body pressure
+(<italic toggle="yes">α</italic>) and the magnitude of lateral pressure.</title><p>Lateral pressure was defined relative to the peak under-body pressure
+(<italic toggle="yes">P</italic><sub><italic toggle="yes">L</italic></sub>/<italic toggle="yes">P</italic><sub><italic toggle="yes">V</italic></sub>).</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="pone.0227064.t002g" position="float" orientation="portrait" xlink:href="pone.0227064.t002.jpg"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" valign="middle" span="1"/><col align="left" valign="middle" span="1"/></colgroup><thead><tr><th align="justify" rowspan="1" colspan="1">Pressure re-distribution
+(<italic toggle="yes">α</italic>)</th><th align="justify" rowspan="1" colspan="1">Lateral Pressure
+(<italic toggle="yes">P</italic><sub><italic toggle="yes">L</italic></sub>/<italic toggle="yes">P</italic><sub><italic toggle="yes">V</italic></sub>)</th></tr></thead><tbody><tr><td align="justify" rowspan="1" colspan="1">0.2</td><td align="justify" rowspan="1" colspan="1">0</td></tr><tr><td align="justify" rowspan="1" colspan="1">0.25</td><td align="justify" rowspan="1" colspan="1">0</td></tr><tr><td align="justify" rowspan="1" colspan="1">0.3</td><td align="justify" rowspan="1" colspan="1">0</td></tr><tr><td align="justify" rowspan="1" colspan="1">0.35</td><td align="justify" rowspan="1" colspan="1">0</td></tr><tr><td align="justify" rowspan="1" colspan="1">0.2</td><td align="justify" rowspan="1" colspan="1">0.25</td></tr><tr><td align="justify" rowspan="1" colspan="1">0.25</td><td align="justify" rowspan="1" colspan="1">0.25</td></tr><tr><td align="justify" rowspan="1" colspan="1">0.3</td><td align="justify" rowspan="1" colspan="1">0.25</td></tr><tr><td align="justify" rowspan="1" colspan="1">0.35</td><td align="justify" rowspan="1" colspan="1">0.25</td></tr><tr><td align="justify" rowspan="1" colspan="1">0.2</td><td align="justify" rowspan="1" colspan="1">0.50</td></tr><tr><td align="justify" rowspan="1" colspan="1">0.25</td><td align="justify" rowspan="1" colspan="1">0.50</td></tr><tr><td align="justify" rowspan="1" colspan="1">0.3</td><td align="justify" rowspan="1" colspan="1">0.50</td></tr><tr><td align="justify" rowspan="1" colspan="1">0.35</td><td align="justify" rowspan="1" colspan="1">0.50</td></tr><tr><td align="justify" rowspan="1" colspan="1">0.2</td><td align="justify" rowspan="1" colspan="1">0.75</td></tr><tr><td align="justify" rowspan="1" colspan="1">0.25</td><td align="justify" rowspan="1" colspan="1">0.75</td></tr><tr><td align="justify" rowspan="1" colspan="1">0.3</td><td align="justify" rowspan="1" colspan="1">0.75</td></tr><tr><td align="justify" rowspan="1" colspan="1">0.35</td><td align="justify" rowspan="1" colspan="1">0.75</td></tr></tbody></table></alternatives></table-wrap><p>2.4.1 Optimising the surface pressure distribution. We considered the pressure
+distribution of a body suspended in a fluid as an ideal support scenario [<xref rid="pone.0227064.ref022" ref-type="bibr">22</xref>], as it results in
+minimal deviatoric stress relative to dilatational stress (see <bold><xref ref-type="supplementary-material" rid="pone.0227064.s001">S1
+Appendix</xref></bold>). We then optimised the location
+(<bold><italic toggle="yes">θ</italic></bold><sub><bold>0</bold></sub>) and relative
+magnitude of the lateral pressure
+(<bold><italic toggle="yes">P</italic></bold><sub><bold><italic toggle="yes">L</italic></bold></sub>/<bold><italic toggle="yes">P</italic></bold><sub><bold><italic toggle="yes">V</italic></bold></sub>)
+to minimise the difference between
+<bold><italic toggle="yes">P</italic></bold>(<bold><italic toggle="yes">θ</italic></bold>) and the
+distribution when suspended in a fluid, while ensuring that the full body weight
+(200N) was supported (see <bold><xref ref-type="supplementary-material" rid="pone.0227064.s001">S1 Appendix</xref></bold>).</p></sec></sec><sec sec-type="results" id="sec007"><title>3. Results</title><sec id="sec008"><title>3.1 Applying lateral pressure reduces soft tissue deformations</title><p>We first set out to determine the effect of adding lateral pressure to a person
+seated on a standard support surface. We used a finite element model of the
+pelvis to simulate weight bearing while sitting on a soft cushion. Firstly, we
+simulated weight bearing without lateral support. In agreement with other
+studies [<xref rid="pone.0227064.ref014" ref-type="bibr">14</xref>,<xref rid="pone.0227064.ref022" ref-type="bibr">22</xref>,<xref rid="pone.0227064.ref031" ref-type="bibr">31</xref>], the model predicts significant stress
+concentrations under the ischial tuberosity (<xref ref-type="fig" rid="pone.0227064.g003">Fig 3A</xref>), with peak von Mises stresses of 58
+kPa produced in the muscle. Then, when lateral pressure is applied, the peak von
+Mises stress beneath the bony prominence drops to 18 kPa, in support of our
+hypothesis. Contour plots show the stress is more evenly distributed in the soft
+tissues (<xref ref-type="fig" rid="pone.0227064.g003">Fig 3A</xref>), suggesting
+that more of the soft tissue is being recruited in transferring the load.</p><fig id="pone.0227064.g003" orientation="portrait" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0227064.g003</object-id><label>Fig 3</label><caption><title>Analysis of load-bearing when seated on a soft cushion.</title><p>In the absence of lateral pressure, the model predicts high von Mises
+stresses under the ischial tuberosity (a). With the introduction of
+lateral pressure (44 kPa chamber pressure), the region of high stress
+shrinks dramatically. Histograms of stresses and strains in the muscle
+tissue within a radius of 30 mm from the ischial tuberosity (b) indicate
+that von Mises stresses and shear strains are reduced. Analysis of the
+stress along path ABC (c) show a drop in von Mises stress and shear
+strain at the bony prominence, and throughout the muscle tissue. Shear
+strain and von Mises stress are also reduced in the skin and fat
+layers.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="pone.0227064.g003.jpg"/></fig><p>The volume of muscle tissue around the ischial tuberosity exposed to high von
+Mises stress (&gt; 20 kPa) is reduced from 58% to 4% with lateral pressure
+application (<xref ref-type="fig" rid="pone.0227064.g003">Fig 3B</xref>). The
+volume of muscle tissue exposed to high shear strains (&gt; 0.2) fell from 20%
+to 0%. Adding lateral pressure reduces the mean von Mises stress by 64% (95% CI
+61% to 68%), while mean shear strains are reduced by 42% (95% CI 41% to 43%)
+when lateral pressure is applied (<xref ref-type="fig" rid="pone.0227064.g003">Fig 3B</xref>).</p><p>Plots of stress along a path through the soft tissue show that von Mises stress
+is reduced in all tissues under the ischial tuberosity when lateral pressure is
+applied (<xref ref-type="fig" rid="pone.0227064.g003">Fig 3C</xref>), with
+stress reduction being most pronounced in the muscle (66% in muscle, 43% in fat
+and 49% in skin). These results show that adding lateral pressure can reduce
+deep tissue deviatoric stress and deformation.</p></sec><sec id="sec009"><title>3.2 Applying lateral pressure reduces deformations to a greater extent than
+changing cushion stiffness</title><p>Having established that applying lateral pressure reduces deep tissue stress and
+deformation, we next assessed the effect of this intervention compared to a
+common device design consideration—changing cushion stiffness (<xref ref-type="fig" rid="pone.0227064.g004">Fig 4</xref>). Cushion stiffness is
+usually manipulated to reduce peak pressures by maximising the contact area with
+the soft tissue. Indeed, the soft cushion provides approximately 3.5 times more
+contact area than the stiff cushion (72 cm<sup>2</sup> in the stiff cushion, 177
+cm<sup>2</sup> in the medium cushion and 255 cm<sup>2</sup> in the soft
+cushion), indicating that we are capturing a broad range of support surface
+stiffnesses. This area increase could be expected to achieve a similar reduction
+in deep tissue deformation. However, von Mises stresses (<xref ref-type="fig" rid="pone.0227064.g004">Fig 4A</xref>) and shear strains (<xref ref-type="fig" rid="pone.0227064.g004">Fig 4B</xref>) in the deep tissue are
+relatively less affected—with the change from a stiff to a soft cushion we see a
+reduction by a factor of 1.4 in peak von Mises stress (<xref ref-type="fig" rid="pone.0227064.g004">Fig 4C</xref>). Without lateral pressure, all
+cushions induce a peak von Mises stress &gt; 50 kPa. We find that introducing
+lateral pressure reduces the peak von Mises stresses observed with each cushion
+by a factor of 2.4 on average (1.9 for the stiff cushion, 2.1 for the medium
+cushion and 3.2 for the soft cushion; <xref ref-type="fig" rid="pone.0227064.g004">Fig 4C</xref>). The lowest peak deep tissue stresses
+are observed when the soft cushion is combined with lateral pressure, which
+reduces the peak von Mises stress to 18 kPa, suggesting a synergistic effect of
+combining lateral pressure with a soft cushion (<xref ref-type="fig" rid="pone.0227064.g004">Fig 4C</xref>).</p><fig id="pone.0227064.g004" orientation="portrait" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0227064.g004</object-id><label>Fig 4</label><caption><title>Applying lateral pressure is more effective than changing cushion
+stiffness.</title><p>While the contact area varies substantially with cushion stiffness, the
+pattern of internal stress remains similar (a)—stress is concentrated at
+the bony prominence. Shear strains in the fat and skin are lower when a
+softer cushion is used (b), but strains within the muscle remain high
+for all cushions. These strains are reduced when lateral pressure is
+introduced. All three cushions benefit from the introduction of lateral
+pressure, with a soft cushion and lateral pressure providing the lowest
+von Mises stresses (c) [Violin plots show mean and 95th percentile
+values, stress difference plot shows the peak difference relative to a
+stiff cushion only with 95% confidence intervals]. As lateral pressure
+is gradually increased, the von Mises stress decreases until an optimum
+pressure is reached (d); beyond this pressure, von Mises stresses begin
+to increase again. While the magnitude of the optimum lateral pressure
+is different for each cushion, the ratio of lateral to vertical pressure
+is between 0.63 and 0.79 for all cushions tested.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="pone.0227064.g004.jpg"/></fig><p>We noticed that there is an optimum magnitude of lateral pressure which is
+different for each cushion (38.5 kPa, 37.9 kPa and 12.2 kPa for stiff, medium
+and soft cushions, respectively); however, the ratio of lateral to under-body
+pressure is consistently between 0.6 and 0.8 (<xref ref-type="fig" rid="pone.0227064.g004">Fig 4D</xref>). This suggests that balancing
+under-body and lateral pressures is more important for the reduction of deep
+tissue deviatoric stress than reducing peak under-body pressures.</p></sec><sec id="sec010"><title>3.3 Lateral pressure reduces stresses in a 3D model</title><p>Upon addition of lateral pressure, stresses were reduced at the ischial
+tuberosities in a similar way to the 2D model (<xref ref-type="fig" rid="pone.0227064.g005">Fig 5A</xref>). The volume of soft tissue exposed to
+high von Mises stress greatly reduced when lateral pressure was applied (<xref ref-type="fig" rid="pone.0227064.g005">Fig 5B</xref>). Adding lateral
+pressure reduced peak von Mises stress in the muscle by a factor of 2.5 when a
+stiff cushion was used, 2.6 with a medium-stiffness cushion and 2.4 with a soft
+cushion (<xref ref-type="fig" rid="pone.0227064.g005">Fig 5C</xref>). With
+optimal lateral pressure applied, the stresses at the greater trochanter and
+bones of the hemipelvis reached no more than 22% of the load at the ischial
+tuberosity. These results demonstrate that the effects found in 2D are
+representative of the 3D environment. They also show that gentle lateral
+pressure can be applied without compromising the tissue at the femur or sacrum.
+It should be noted that the lateral device modelled here was a very simple
+design, and no optimisation of its shape was performed. By contouring the
+lateral pressure device or other optimisations, further efficacy may be
+possible.</p><fig id="pone.0227064.g005" orientation="portrait" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0227064.g005</object-id><label>Fig 5</label><caption><title>A 3D model of the seated pelvis under load.</title><p>(a) Results for the stiff cushion shown with and without lateral pressure
+applied. Coronal and transverse sections are shown to indicate von Mises
+stresses both at the ischial tuberosities and the greater trochanter.
+(b) The volume of soft tissue exposed to high stresses (&gt;32kPa) is
+shown in relation to the whole pelvis. The whole pelvis is made
+transparent to help visualise the location of high stresses (beneath the
+ischial tuberosity) (c) Change in peak von Mises stress throughout the
+soft tissue of the pelvis (surrounding both the ischium and the femur)
+as lateral pressure is increased.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="pone.0227064.g005.jpg"/></fig></sec><sec id="sec011"><title>3.4 Surface pressure equalisation is necessary to protect deep tissue from
+deformation</title><p>Having found that deep tissue deformations were minimised for each cushion when
+under-body and lateral pressure were in a specific ratio (0.6–0.8), we sought to
+test whether this ratio could form the basis of a design principle. We removed
+the cushion from the model and replaced it with a surface pressure boundary
+condition that could be manipulated independently of cushion design. We varied
+both the ratio of lateral to under-body pressure
+(<italic toggle="yes">P</italic><sub><italic toggle="yes">L</italic></sub>/<italic toggle="yes">P</italic><sub><italic toggle="yes">V</italic></sub>),
+and the spread of underbody pressure (<italic toggle="yes">α</italic>) and measured peak von
+Mises stress for all combinations (<xref rid="pone.0227064.t002" ref-type="table">Table 2</xref>).</p><p>As in the previous analyses, in the absence of lateral pressure, redistributing
+under-body pressure (increasing the spread, <italic toggle="yes">α</italic>, of the pressure
+peak), reduces peak von Mises stresses at the ischial tuberosity, but even
+substantial re-distribution fails to reduce the stress below 100 kPa (112 kPa is
+observed when <italic toggle="yes">α</italic> = 0.35; <xref ref-type="fig" rid="pone.0227064.g006">Fig 6A</xref>). In contrast, inducing a lateral to
+under-body pressure ratio of 0.25 reduces peak von Mises stress from 180 kPa to
+67 kPa. The presence of lateral pressure appears to reduce the effect of
+redistributing under-body pressure (<xref ref-type="fig" rid="pone.0227064.g006">Fig 6A</xref>), suggesting that when lateral pressure is employed, it
+becomes the most important factor in reducing deformations. These results
+indicate that controlling the ratio of lateral to under-body pressure
+(<italic toggle="yes">P</italic><sub><italic toggle="yes">L</italic></sub>/<italic toggle="yes">P</italic><sub><italic toggle="yes">V</italic></sub>)
+is necessary to achieve low deep-tissue stress.</p><fig id="pone.0227064.g006" orientation="portrait" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0227064.g006</object-id><label>Fig 6</label><caption><title>Surface pressure analysis.</title><p>Redistributing under-body pressure
+(<italic toggle="yes">P</italic><sub><italic toggle="yes">V</italic></sub>) reduces peak
+von Mises stresses when no lateral pressure is applied (a), but peak
+stresses remain above 100 kPa. Counter-acting that pressure with a
+lateral pressure (<italic toggle="yes">P</italic><sub><italic toggle="yes">L</italic></sub>)
+reduces peak stresses to a greater extent. When the magnitude and angle
+of lateral pressure is optimised, the deep tissue von Mises stresses
+approach that of suspension in a fluid (b; arrows illustrate pressure
+intensity). Path plots of von Mises stress show that lateral pressure
+can induce a similar stress profile at the bony prominence to that when
+suspended in a fluid (c).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="pone.0227064.g006.jpg"/></fig><p>To understand why lateral pressure may be critical, we studied how this ratio
+affects the shape of the pressure distribution when compared to two extreme
+scenarios: the pressure distribution while sitting on a stiff cushion (a
+high-deformation scenario), and that when suspended in a fluid (a
+low-deformation scenario). The shape of these distributions is markedly
+different (Fig 1A in <xref ref-type="supplementary-material" rid="pone.0227064.s001">S1 Appendix</xref>), with a sharp peak of pressure
+beneath the ischial tuberosity when seated on a cushion, versus a smooth, even
+pressure distribution when submersed. A parametric study showed that adding
+lateral pressure best mimicked the pressure profile of suspension in a fluid
+(<xref ref-type="supplementary-material" rid="pone.0227064.s001">S1
+Appendix</xref>).</p><p>We then optimised the magnitude and angle of the lateral pressure to best mimic
+suspension in a fluid. Contour plots show that optimising this lateral pressure
+(to
+<italic toggle="yes">P</italic><sub><italic toggle="yes">L</italic></sub>/<italic toggle="yes">P</italic><sub><italic toggle="yes">V</italic></sub>
+= 0.71 and <italic toggle="yes">θ</italic><sub>0</sub> =61.5°) can mimic the internal
+stresses experienced while suspended in a fluid (<xref ref-type="fig" rid="pone.0227064.g006">Fig 6B</xref>). In addition, with these parameters,
+von Mises stresses at the ischial tuberosity were either equal to or less than
+those induced when suspended in a fluid (<xref ref-type="fig" rid="pone.0227064.g006">Fig 6C</xref>).</p><p>In summary, not only can applying lateral pressure reduce deep tissue von Mises
+stress and deformation, we have found that an optimal magnitude and location of
+lateral pressure can mimic the environment induced when suspended in a
+fluid.</p></sec></sec><sec sec-type="conclusions" id="sec012"><title>4. Discussion</title><p>The goal of reducing peak surface pressures at vulnerable body sites has underpinned
+the design of almost all medical support surfaces to date. Meanwhile, studies have
+consistently concluded that peak surface pressures do not accurately predict
+internal tissue mechanics [<xref rid="pone.0227064.ref011" ref-type="bibr">11</xref>,<xref rid="pone.0227064.ref014" ref-type="bibr">14</xref>], nor are
+they effective in predicting patients at risk of pressure ulcers [<xref rid="pone.0227064.ref010" ref-type="bibr">10</xref>]. In this study, we have
+shown that ensuring under-body and lateral pressures are balanced—a principle we
+call pressure equalisation—is more effective at reducing deep tissue deformations
+than reducing peak under-body pressure. We postulate that devices designed to
+maintain a prescribed ratio of lateral pressure to under-body pressure will reduce
+the risk of pressure ulcer formation in the soft tissue of immobile patients.</p><p>The shift in emphasis from pressure re-distribution to pressure equalisation has
+implications for support surface design (<xref ref-type="fig" rid="pone.0227064.g007">Fig 7</xref>). The synthesised results of multiple
+clinical trials [<xref rid="pone.0227064.ref008" ref-type="bibr">8</xref>,<xref rid="pone.0227064.ref009" ref-type="bibr">9</xref>] suggest that any
+well-designed mattress is better than a standard hospital bed, but none are
+particularly successful at reducing pressure ulcer risk. Pressure redistributing
+devices (either passive or active, <xref ref-type="fig" rid="pone.0227064.g007">Fig
+7A and 7B</xref> respectively) may protect against superficial ulcers, while
+having little effect on deep tissue injuries [<xref rid="pone.0227064.ref014" ref-type="bibr">14</xref>]. Our results show that devices must be
+capable of providing sufficient lateral support to counter-act the deformations
+induced by under-body pressure. Immersion/encapsulation-based devices such as water
+beds [<xref rid="pone.0227064.ref032" ref-type="bibr">32</xref>] aim to increase the
+contact area between the soft tissue and the support surface; however, while the
+contact area may increase, the horizontal pressures at the periphery of the contact
+area are usually minimal (<xref ref-type="fig" rid="pone.0227064.g007">Fig
+7C</xref>), as pressure is primarily in reaction to gravitational body force. As
+this force acts in the vertical direction, it would be insufficient to equalise the
+under-body pressures and prevent bulging. Devices that aim to directly minimise
+shape change have also been developed [<xref rid="pone.0227064.ref033" ref-type="bibr">33</xref>], but their dependence on vertical
+translations of pistons means that they are not suited to regulating lateral
+pressure. We believe that support surface technology may yet reduce pressure ulcer
+prevalence if they are redirected to achieving pressure equalisation.</p><fig id="pone.0227064.g007" orientation="portrait" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0227064.g007</object-id><label>Fig 7</label><caption><title>Pressure equalisation and its effects on device design.</title><p>For surfaces designed to reduce peak pressure passively (a), applying a
+lateral pressure device helps to avoid lateral bulging (top, showing current
+devices, bottom showing improved design). Active devices based on
+individually controlled air cells (b) could be improved by surrounding the
+soft tissue and changing the control software to aim for equalised pressure,
+rather than reduce peak pressure. Encapsulation devices achieve large
+contact areas, but the lateral pressures exerted may be limited (c). These
+could be improved by active compression or smart materials. Pressure mapping
+systems (d) currently identify pressure peaks as undesirable. If they could
+measure pressure around the surface, then they could be re-purposed to
+measure the level of pressure equalisation.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="pone.0227064.g007.jpg"/></fig><p>The pressure equalisation principle has implications for pressure measurement as a
+diagnostic tool and as a method of evaluating support surfaces. Surfaces
+incorporating arrays of pressure sensors have been suggested as early-warning
+systems for ulceration [<xref rid="pone.0227064.ref034" ref-type="bibr">34</xref>,<xref rid="pone.0227064.ref035" ref-type="bibr">35</xref>], and are
+frequently used to evaluate new support surfaces [<xref rid="pone.0227064.ref036" ref-type="bibr">36</xref>–<xref rid="pone.0227064.ref038" ref-type="bibr">38</xref>]. Using this technology, devices can be
+readily differentiated based on the peak pressures they produce. However, when these
+devices are then compared through clinical outcomes, the differences between them
+vanish [<xref rid="pone.0227064.ref008" ref-type="bibr">8</xref>,<xref rid="pone.0227064.ref009" ref-type="bibr">9</xref>], and so the current
+predictive power of pressure measurement is limited. If surface pressure could be
+measured all around the soft tissues (<xref ref-type="fig" rid="pone.0227064.g007">Fig 7D</xref>), then the level of pressure equalisation may be a more
+predictive tool. Then, a measure of the ratio of lateral to under-body pressure
+(<italic toggle="yes">P</italic><sub><italic toggle="yes">L</italic></sub>/<italic toggle="yes">P</italic><sub><italic toggle="yes">V</italic></sub>)
+could be used to determine ulcer risk, and as a control signal for active
+devices.</p><p>The pressure gradient, defined as the spatial change in pressure from the point of
+peak pressure, has been proposed as an alternative to peak pressure for predicting
+soft tissue damage [<xref rid="pone.0227064.ref039" ref-type="bibr">39</xref>]. At
+first glance, pressure equalisation may seem to be equivalent to using pressure
+gradient as an ulceration indicator. However, the pressure gradient does not account
+for the direction of pressure, and so a body could be loaded with a low pressure
+gradient yet have little or no pressure equalisation, because lateral pressures are
+not considered. In other words, pressure gradient is a local variable, as is peak
+pressure, whereas pressure equalisation is a measure of the quality of the body
+support as a whole.</p><p>From a clinical perspective, devices that can equalise under-body pressure with
+lateral pressure may be a vital tool in reducing the incidences of pressure
+ulcers—both hospital-acquired ulcers and those that are acquired in community care
+settings. The ability to apply sufficient lateral pressure will, however, need to be
+balanced with other equally important design considerations. For example, wheelchair
+users must not be exposed to intermittent high lateral pressures as they move in the
+chair. This inflexibility is one reason why form-fitted cushions are not a solution
+to preventing tissue distortion. In contrast, a successful device must be flexible
+enough to provide a well-distributed and well-controlled lateral pressure regardless
+of patient movement. Other design considerations include regulating the temperature
+and humidity at the skin surface, as well as ease of installation, use and cleaning.
+While this work has focused on the biomechanics of lateral pressure in general, the
+practical application of this principle will be more complex and require significant
+innovation in device design.</p><p>The reductions in deep tissue stress and strain possible through surface pressure
+equalisation could be sufficient to reduce pressure ulcer risk. The safe magnitude
+of deformation (and even the most appropriate measure) is not yet fully accounted
+for [<xref rid="pone.0227064.ref040" ref-type="bibr">40</xref>] and it is likely to
+be patient, environment, and tissue-specific. In this study, we have used two
+measures of deep tissue mechanics—von Mises stress and shear strain. These measures
+aim to capture the deformations likely to lead to capillary and lymphatic vessel
+restriction, and cell deformation, which contribute to pressure ulcer onset.
+Experiments using rat muscle under compression [<xref rid="pone.0227064.ref041" ref-type="bibr">41</xref>] indicated that stresses greater than 32 kPa
+induced damage, with this threshold dropping to 9 kPa over prolonged loading, while
+work quantifying deformations in a similar model [<xref rid="pone.0227064.ref042" ref-type="bibr">42</xref>] indicated that damage occurred above a
+shear strain of 0.3. Our results indicate that redistributing under-body pressure
+would not protect soft tissue from these levels of deformation, but that applying
+lateral pressure could.</p><p>The 2D finite element model used here simplified the anatomical structure of the
+pelvis in a similar way to previous studies [<xref rid="pone.0227064.ref014" ref-type="bibr">14</xref>,<xref rid="pone.0227064.ref022" ref-type="bibr">22</xref>,<xref rid="pone.0227064.ref031" ref-type="bibr">31</xref>]. These idealisations allowed us to focus on
+the general case of a bony prominence transferring load through soft tissue to a
+support surface, and enabled the comparisons and analyses described here. The 3D
+model used here were important to support the conclusions drawn from 2D analyses,
+but there are also limitations to this model. While we have included more anatomical
+complexity including thighs, femurs and pelvis, more biofidelic models have been
+proposed [<xref rid="pone.0227064.ref043" ref-type="bibr">43</xref>–<xref rid="pone.0227064.ref045" ref-type="bibr">45</xref>]. For example, we chose
+tissue mechanical properties in line with Oomens et al. [<xref rid="pone.0227064.ref014" ref-type="bibr">14</xref>], but there are several published models of
+soft tissue mechanical properties that vary in complexity [<xref rid="pone.0227064.ref024" ref-type="bibr">24</xref>–<xref rid="pone.0227064.ref027" ref-type="bibr">27</xref>]. This makes conclusions based on absolute
+stress values difficult. A further complexity not accounted for in our model is the
+posture and secondary supports (arm rests, for example) of the patient, which may
+affect the loading boundary conditions. For these reasons, we have focused on the
+relative effects of interventions on stresses and strains, thus making the
+conclusions robust against the chosen material models and boundary conditions. Using
+more biofidelic approaches will be a key step in applying the current results in the
+clinic. In particular, models generated from high-risk patients as opposed to
+healthy volunteers will be crucial. Physical validation will need to come from
+measurements of internal tissue deformations, for example through load-bearing MRI
+[<xref rid="pone.0227064.ref046" ref-type="bibr">46</xref>,<xref rid="pone.0227064.ref047" ref-type="bibr">47</xref>].</p><p>Our results suggest a novel method for creating a safer mechanical environment. We
+hypothesize that the reduced deformations created by lateral pressure equalization
+will translate into better deep tissue blood perfusion and lower risk of
+deformation-induced cell damage. A key next step will be to test this hypothesis by
+measuring the physiological response of the soft tissues of seated patients, for
+example through measuring transcutaneous gas tension [<xref rid="pone.0227064.ref034" ref-type="bibr">34</xref>].</p><p>In conclusion, a change in focus from redistributing under-body pressure to
+equalising it with lateral pressure will lead to new innovations and improvements to
+patient care, resulting in a reduction of pressure ulcer prevalence in immobile
+patients.</p></sec><sec sec-type="supplementary-material" id="sec013"><title>Supporting information</title><supplementary-material content-type="local-data" id="pone.0227064.s001" position="float" orientation="portrait"><label>S1 Appendix</label><caption><title>Analysis of pressure distributions.</title><p>(PDF)</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="pone.0227064.s001.pdf" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pone.0227064.s002" position="float" orientation="portrait"><label>S2 Appendix</label><caption><title>Testing model assumptions.</title><p>(PDF)</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="pone.0227064.s002.pdf" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack><p>We would like to thank Surbhi Gupta and all those involved at Imperial Innovations
+Ltd. for their support in delivering this project.</p></ack><ref-list><title>References</title><ref id="pone.0227064.ref001"><label>1</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Vanderwee</surname><given-names>K</given-names></name>, <name name-style="western"><surname>Clark</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Dealey</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Gunningberg</surname><given-names>L</given-names></name>, <name name-style="western"><surname>Defloor</surname><given-names>T</given-names></name>. <article-title>Pressure ulcer prevalence in Europe: a pilot
+study</article-title>. <source>J Eval Clin Pract</source>.
+<year>2007</year>;<volume>13</volume>:
+<fpage>227</fpage>–<lpage>235</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2753.2006.00684.x</pub-id>
+<pub-id pub-id-type="pmid">17378869</pub-id></mixed-citation></ref><ref id="pone.0227064.ref002"><label>2</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Marin</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Nixon</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Gorecki</surname><given-names>C</given-names></name>. <article-title>A systematic review of risk factors for the development
+and recurrence of pressure ulcers in people with spinal cord
+injuries</article-title>. <source>Spinal Cord</source>.
+<year>2013</year>;<volume>51</volume>:
+<fpage>522</fpage>–<lpage>527</lpage>. <pub-id pub-id-type="doi">10.1038/sc.2013.29</pub-id>
+<pub-id pub-id-type="pmid">23588570</pub-id></mixed-citation></ref><ref id="pone.0227064.ref003"><label>3</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Regan</surname><given-names>MA</given-names></name>, <name name-style="western"><surname>Teasell</surname><given-names>RW</given-names></name>, <name name-style="western"><surname>Wolfe</surname><given-names>DL</given-names></name>, <name name-style="western"><surname>Keast</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Mortenson</surname><given-names>WB</given-names></name>, <name name-style="western"><surname>Aubut</surname><given-names>J-AL</given-names></name>. <article-title>A Systematic Review of Therapeutic Interventions for
+Pressure Ulcers After Spinal Cord Injury</article-title>. <source>Arch Phys
+Med Rehabil</source>. <year>2009</year>;<volume>90</volume>:
+<fpage>213</fpage>–<lpage>231</lpage>. <pub-id pub-id-type="doi">10.1016/j.apmr.2008.08.212</pub-id>
+<pub-id pub-id-type="pmid">19236976</pub-id><pub-id pub-id-type="pmcid">PMC3218078</pub-id></mixed-citation></ref><ref id="pone.0227064.ref004"><label>4</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Oomens</surname><given-names>CWJ</given-names></name>, <name name-style="western"><surname>Bader</surname><given-names>DL</given-names></name>, <name name-style="western"><surname>Loerakker</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Baaijens</surname><given-names>F</given-names></name>. <article-title>Pressure Induced Deep Tissue Injury
+Explained</article-title>. <source>Ann Biomed Eng</source>.
+<year>2015</year>;<volume>43</volume>:
+<fpage>297</fpage>–<lpage>305</lpage>. <pub-id pub-id-type="doi">10.1007/s10439-014-1202-6</pub-id>
+<pub-id pub-id-type="pmid">25480479</pub-id></mixed-citation></ref><ref id="pone.0227064.ref005"><label>5</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Edsberg</surname><given-names>LE</given-names></name>, <name name-style="western"><surname>Black</surname><given-names>JM</given-names></name>, <name name-style="western"><surname>Goldberg</surname><given-names>M</given-names></name>, <name name-style="western"><surname>McNichol</surname><given-names>L</given-names></name>, <name name-style="western"><surname>Moore</surname><given-names>L</given-names></name>, <name name-style="western"><surname>Sieggreen</surname><given-names>M</given-names></name>. <article-title>Revised National Pressure Ulcer Advisory Panel Pressure
+Injury Staging System</article-title>. <source>J Wound Ostomy Continence
+Nurs</source>. <year>2016</year>;<volume>43</volume>:
+<fpage>585</fpage>–<lpage>597</lpage>. <pub-id pub-id-type="doi">10.1097/WON.0000000000000281</pub-id>
+<pub-id pub-id-type="pmid">27749790</pub-id><pub-id pub-id-type="pmcid">PMC5098472</pub-id></mixed-citation></ref><ref id="pone.0227064.ref006"><label>6</label><mixed-citation publication-type="journal"><name name-style="western"><surname>James</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Evans</surname><given-names>P</given-names></name>. <article-title>Alternating pressure pads for bed
+patients</article-title>. US3678520A, <year>1970</year> Available:
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://patents.google.com/patent/US3678520A/en">https://patents.google.com/patent/US3678520A/en</ext-link></mixed-citation></ref><ref id="pone.0227064.ref007"><label>7</label><mixed-citation publication-type="other">T. R. JOHNSON.
+Air-Cushions for Invalid Beds. US211741A.</mixed-citation></ref><ref id="pone.0227064.ref008"><label>8</label><mixed-citation publication-type="journal"><name name-style="western"><surname>McInnes</surname><given-names>E</given-names></name>, <name name-style="western"><surname>Jammali-Blasi</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Bell-Syer</surname><given-names>SE</given-names></name>, <name name-style="western"><surname>Dumville</surname><given-names>JC</given-names></name>, <name name-style="western"><surname>Middleton</surname><given-names>V</given-names></name>, <name name-style="western"><surname>Cullum</surname><given-names>N</given-names></name>. <article-title>Support surfaces for pressure ulcer
+prevention</article-title>. <source>Cochrane Database Syst Rev</source>.
+<year>2015</year>; Cd001735. <pub-id pub-id-type="doi">10.1002/14651858.CD001735.pub5</pub-id>
+<pub-id pub-id-type="pmid">26333288</pub-id><pub-id pub-id-type="pmcid">PMC7075275</pub-id></mixed-citation></ref><ref id="pone.0227064.ref009"><label>9</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Nixon</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Smith</surname><given-names>IL</given-names></name>, <name name-style="western"><surname>Brown</surname><given-names>S</given-names></name>, <name name-style="western"><surname>McGinnis</surname><given-names>E</given-names></name>, <name name-style="western"><surname>Vargas-Palacios</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Nelson</surname><given-names>EA</given-names></name>, <etal>et al</etal>
+<article-title>Pressure Relieving Support Surfaces
+for Pressure Ulcer Prevention (PRESSURE 2): Clinical and Health Economic
+Results of a Randomised Controlled Trial</article-title>.
+<source>EClinicalMedicine</source>. <year>2019</year>;<volume>14</volume>:
+<fpage>42</fpage>–<lpage>52</lpage>. <pub-id pub-id-type="doi">10.1016/j.eclinm.2019.07.018</pub-id>
+<pub-id pub-id-type="pmid">31709401</pub-id><pub-id pub-id-type="pmcid">PMC6833358</pub-id></mixed-citation></ref><ref id="pone.0227064.ref010"><label>10</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Reenalda</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Jannink</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Nederhand</surname><given-names>M</given-names></name>, <name name-style="western"><surname>M</surname><given-names>IJ</given-names></name>. <article-title>Clinical use of interface pressure to predict pressure
+ulcer development: a systematic review</article-title>. <source>Assist
+Technol</source>. <year>2009</year>;<volume>21</volume>:
+<fpage>76</fpage>–<lpage>85</lpage>. <pub-id pub-id-type="doi">10.1080/10400430903050437</pub-id>
+<pub-id pub-id-type="pmid">19715252</pub-id></mixed-citation></ref><ref id="pone.0227064.ref011"><label>11</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Gefen</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Levine</surname><given-names>J</given-names></name>. <article-title>The false premise in measuring body-support interface
+pressures for preventing serious pressure ulcers</article-title>. <source>J
+Med Eng Technol</source>. <year>2007</year>;<volume>31</volume>:
+<fpage>375</fpage>–<lpage>380</lpage>. <pub-id pub-id-type="doi">10.1080/03091900601165256</pub-id>
+<pub-id pub-id-type="pmid">17701783</pub-id></mixed-citation></ref><ref id="pone.0227064.ref012"><label>12</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Melamed</surname><given-names>Y</given-names></name>, <name name-style="western"><surname>Shupak</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Bitterman</surname><given-names>H</given-names></name>. <article-title>Medical problems associated with underwater
+diving</article-title>. <source>N Engl J Med</source>.
+<year>1992</year>;<volume>326</volume>: <fpage>30</fpage>–<lpage>5</lpage>.
+<pub-id pub-id-type="doi">10.1056/NEJM199201023260105</pub-id>
+<pub-id pub-id-type="pmid">1727063</pub-id></mixed-citation></ref><ref id="pone.0227064.ref013"><label>13</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Bridel</surname><given-names>J.</given-names></name>
+<article-title>The aetiology of pressure sores</article-title>. <source>J Wound
+Care</source>. <year>1993</year>;<volume>2</volume>:
+<fpage>230</fpage>–<lpage>238</lpage>. <pub-id pub-id-type="doi">10.12968/jowc.1993.2.4.230</pub-id>
+<pub-id pub-id-type="pmid">27911682</pub-id></mixed-citation></ref><ref id="pone.0227064.ref014"><label>14</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Oomens</surname><given-names>CW</given-names></name>, <name name-style="western"><surname>Bressers</surname><given-names>OF</given-names></name>, <name name-style="western"><surname>Bosboom</surname><given-names>EM</given-names></name>, <name name-style="western"><surname>Bouten</surname><given-names>CV</given-names></name>, <name name-style="western"><surname>Bader</surname><given-names>DL</given-names></name>. <article-title>Can loaded interface characteristics influence strain
+distributions in muscle adjacent to bony prominences</article-title>?
+<source>Comput Methods Biomech Biomed Engin</source>.
+<year>2003</year>;<volume>6</volume>: <fpage>171</fpage>–<lpage>80</lpage>.
+<pub-id pub-id-type="doi">10.1080/1025584031000121034</pub-id>
+<pub-id pub-id-type="pmid">12888429</pub-id></mixed-citation></ref><ref id="pone.0227064.ref015"><label>15</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Bouten</surname><given-names>CV</given-names></name>, <name name-style="western"><surname>Oomens</surname><given-names>CW</given-names></name>, <name name-style="western"><surname>Baaijens</surname><given-names>FP</given-names></name>, <name name-style="western"><surname>Bader</surname><given-names>DL</given-names></name>. <article-title>The etiology of pressure ulcers: Skin deep or muscle
+bound?</article-title>
+<source>Arch Phys Med Rehabil</source>. <year>2003</year>;<volume>84</volume>:
+<fpage>616</fpage>–<lpage>619</lpage>. <pub-id pub-id-type="doi">10.1053/apmr.2003.50038</pub-id>
+<pub-id pub-id-type="pmid">12690603</pub-id></mixed-citation></ref><ref id="pone.0227064.ref016"><label>16</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Kosiak</surname><given-names>M.</given-names></name>
+<article-title>Etiology of decubitus ulcers</article-title>. <source>Arch Phys
+Med Rehabil</source>. <year>1961</year>;<volume>42</volume>:
+<fpage>19</fpage>
+<pub-id pub-id-type="pmid">13753341</pub-id></mixed-citation></ref><ref id="pone.0227064.ref017"><label>17</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Peirce</surname><given-names>SM</given-names></name>, <name name-style="western"><surname>Skalak</surname><given-names>TC</given-names></name>, <name name-style="western"><surname>Rodeheaver</surname><given-names>GT</given-names></name>. <article-title>Ischemia‐reperfusion injury in chronic pressure ulcer
+formation: a skin model in the rat</article-title>. <source>Wound Repair
+Regen</source>. <year>2000</year>;<volume>8</volume>:
+<fpage>68</fpage>–<lpage>76</lpage>. <pub-id pub-id-type="doi">10.1046/j.1524-475x.2000.00068.x</pub-id>
+<pub-id pub-id-type="pmid">10760216</pub-id></mixed-citation></ref><ref id="pone.0227064.ref018"><label>18</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Krouskop</surname><given-names>TA</given-names></name>. <article-title>A synthesis of the factors that contribute to pressure
+sore formation</article-title>. <source>Med Hypotheses</source>.
+<year>1983</year>;<volume>11</volume>:
+<fpage>255</fpage>–<lpage>267</lpage>. <pub-id pub-id-type="doi">10.1016/0306-9877(83)90067-1</pub-id>
+<pub-id pub-id-type="pmid">6888310</pub-id></mixed-citation></ref><ref id="pone.0227064.ref019"><label>19</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Reddy</surname><given-names>NP</given-names></name>, <name name-style="western"><surname>Cochran</surname><given-names>GVB</given-names></name>, <name name-style="western"><surname>Krouskop</surname><given-names>TA</given-names></name>. <article-title>Interstitial fluid flow as a factor in decubitus ulcer
+formation</article-title>. <source>J Biomech</source>.
+<year>1981</year>;<volume>14</volume>:
+<fpage>879</fpage>–<lpage>881</lpage>. <pub-id pub-id-type="doi">10.1016/0021-9290(81)90015-4</pub-id>
+<pub-id pub-id-type="pmid">7328094</pub-id></mixed-citation></ref><ref id="pone.0227064.ref020"><label>20</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Gawlitta</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Li</surname><given-names>W</given-names></name>, <name name-style="western"><surname>Oomens</surname><given-names>CWJ</given-names></name>, <name name-style="western"><surname>Baaijens</surname><given-names>FPT</given-names></name>, <name name-style="western"><surname>Bader</surname><given-names>DL</given-names></name>, <name name-style="western"><surname>Bouten</surname><given-names>CVC</given-names></name>. <article-title>The Relative Contributions of Compression and Hypoxia to
+Development of Muscle Tissue Damage: An In Vitro Study</article-title>.
+<source>Ann Biomed Eng</source>. <year>2006</year>;<volume>35</volume>:
+<fpage>273</fpage>–<lpage>284</lpage>. <pub-id pub-id-type="doi">10.1007/s10439-006-9222-5</pub-id>
+<pub-id pub-id-type="pmid">17136445</pub-id></mixed-citation></ref><ref id="pone.0227064.ref021"><label>21</label><mixed-citation publication-type="book"><name name-style="western"><surname>Holzapfel</surname><given-names>GA</given-names></name>. <source>Nonlinear Solid Mechanics: A Continuum Approach for
+Engineering</source>. <publisher-name>Wiley</publisher-name>;
+<year>2000</year>.</mixed-citation></ref><ref id="pone.0227064.ref022"><label>22</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Chow</surname><given-names>WW</given-names></name>, <name name-style="western"><surname>Odell</surname><given-names>EI</given-names></name>. <article-title>Deformations and Stresses in Soft Body Tissues of a
+Sitting Person</article-title>. <source>J Biomech Eng</source>.
+<year>1978</year>;<volume>100</volume>: <fpage>79</fpage>
+<pub-id pub-id-type="doi">10.1115/1.3426196</pub-id></mixed-citation></ref><ref id="pone.0227064.ref023"><label>23</label><mixed-citation publication-type="book"><name name-style="western"><surname>Holzapfel</surname><given-names>GA</given-names></name>. <chapter-title>Biomechanics of Soft Tissue</chapter-title>
+<source>Handbook of Materials Behavior Models</source>.
+<publisher-name>Elsevier</publisher-name>; <year>2001</year> pp.
+<fpage>1057</fpage>–<lpage>1071</lpage>. Available: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://doi.org/10.1016%2Fb978-012443341-0%2F50107-1">https://doi.org/10.1016%2Fb978-012443341-0%2F50107-1</ext-link></mixed-citation></ref><ref id="pone.0227064.ref024"><label>24</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Van Loocke</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Lyons</surname><given-names>CG</given-names></name>, <name name-style="western"><surname>Simms</surname><given-names>CK</given-names></name>. <article-title>A validated model of passive muscle in
+compression</article-title>. <source>J Biomech</source>.
+<year>2006</year>;<volume>39</volume>:
+<fpage>2999</fpage>–<lpage>3009</lpage>. <pub-id pub-id-type="doi">10.1016/j.jbiomech.2005.10.016</pub-id>
+<pub-id pub-id-type="pmid">16313914</pub-id></mixed-citation></ref><ref id="pone.0227064.ref025"><label>25</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Morrow</surname><given-names>DA</given-names></name>, <name name-style="western"><surname>Haut Donahue</surname><given-names>TL</given-names></name>, <name name-style="western"><surname>Odegard</surname><given-names>GM</given-names></name>, <name name-style="western"><surname>Kaufman</surname><given-names>KR</given-names></name>. <article-title>Transversely isotropic tensile material properties of
+skeletal muscle tissue</article-title>. <source>J Mech Behav Biomed
+Mater</source>. <year>2010</year>;<volume>3</volume>:
+<fpage>124</fpage>–<lpage>129</lpage>. <pub-id pub-id-type="doi">10.1016/j.jmbbm.2009.03.004</pub-id>
+<pub-id pub-id-type="pmid">19878911</pub-id><pub-id pub-id-type="pmcid">PMC2772832</pub-id></mixed-citation></ref><ref id="pone.0227064.ref026"><label>26</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Soetens</surname><given-names>JFJ</given-names></name>, <name name-style="western"><surname>van Vijven</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Bader</surname><given-names>DL</given-names></name>, <name name-style="western"><surname>Peters</surname><given-names>GWM</given-names></name>, <name name-style="western"><surname>Oomens</surname><given-names>CWJ</given-names></name>. <article-title>A model of human skin under large amplitude oscillatory
+shear</article-title>. <source>J Mech Behav Biomed Mater</source>.
+<year>2018</year>;<volume>86</volume>:
+<fpage>423</fpage>–<lpage>432</lpage>. <pub-id pub-id-type="doi">10.1016/j.jmbbm.2018.07.008</pub-id>
+<pub-id pub-id-type="pmid">30031246</pub-id></mixed-citation></ref><ref id="pone.0227064.ref027"><label>27</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Sommer</surname><given-names>G</given-names></name>, <name name-style="western"><surname>Eder</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Kovacs</surname><given-names>L</given-names></name>, <name name-style="western"><surname>Pathak</surname><given-names>H</given-names></name>, <name name-style="western"><surname>Bonitz</surname><given-names>L</given-names></name>, <name name-style="western"><surname>Mueller</surname><given-names>C</given-names></name>, <etal>et al</etal>
+<article-title>Multiaxial mechanical properties and
+constitutive modeling of human adipose tissue: A basis for preoperative
+simulations in plastic and reconstructive surgery</article-title>.
+<source>Acta Biomater</source>. <year>2013</year>;<volume>9</volume>:
+<fpage>9036</fpage>–<lpage>9048</lpage>. <pub-id pub-id-type="doi">10.1016/j.actbio.2013.06.011</pub-id>
+<pub-id pub-id-type="pmid">23811521</pub-id></mixed-citation></ref><ref id="pone.0227064.ref028"><label>28</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Systèmes</surname><given-names>D</given-names></name>, editor. <article-title>Abaqus 2016 Documentation</article-title>.
+<source>Dassault Systèmes</source>; <year>2016</year>.</mixed-citation></ref><ref id="pone.0227064.ref029"><label>29</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Ho</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Tumkaya</surname><given-names>T</given-names></name>, <name name-style="western"><surname>Aryal</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Choi</surname><given-names>H</given-names></name>, <name name-style="western"><surname>Claridge-Chang</surname><given-names>A</given-names></name>. <article-title>Moving beyond P values: data analysis with estimation
+graphics</article-title>. <source>Nat Methods</source>.
+<year>2019</year>;<volume>16</volume>:
+<fpage>565</fpage>–<lpage>566</lpage>. <pub-id pub-id-type="doi">10.1038/s41592-019-0470-3</pub-id>
+<pub-id pub-id-type="pmid">31217592</pub-id></mixed-citation></ref><ref id="pone.0227064.ref030"><label>30</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Ragan</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Kernozek</surname><given-names>TW</given-names></name>, <name name-style="western"><surname>Bidar</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Matheson</surname><given-names>JW</given-names></name>. <article-title>Seat-interface pressures on various thicknesses of foam
+wheelchair cushions: A finite modeling approach</article-title>.
+<source>Arch Phys Med Rehabil</source>.
+<year>2002</year>;<volume>83</volume>:
+<fpage>872</fpage>–<lpage>875</lpage>. <pub-id pub-id-type="doi">10.1053/apmr.2002.32677</pub-id>
+<pub-id pub-id-type="pmid">12048671</pub-id></mixed-citation></ref><ref id="pone.0227064.ref031"><label>31</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Dabnichki</surname><given-names>PA</given-names></name>, <name name-style="western"><surname>Crocombe</surname><given-names>AD</given-names></name>, <name name-style="western"><surname>Hughes</surname><given-names>SC</given-names></name>. <article-title>Deformation and Stress Analysis of Supported Buttock
+Contact</article-title>. <source>Proc Inst Mech Eng [H]</source>.
+<year>1994</year>;<volume>208</volume>: <fpage>9</fpage>–<lpage>17</lpage>.
+<pub-id pub-id-type="doi">10.1177/095441199420800102</pub-id></mixed-citation></ref><ref id="pone.0227064.ref032"><label>32</label><mixed-citation publication-type="other">NPUAP. Support Surface
+Initiative Terms and Definitions of Support Surface. 2007 [cited 4 May 2018].
+Available: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.npuap.org/NPUAP_S3I_TD.pdf">http://www.npuap.org/NPUAP_S3I_TD.pdf</ext-link></mixed-citation></ref><ref id="pone.0227064.ref033"><label>33</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Brienza</surname><given-names>DM</given-names></name>, <name name-style="western"><surname>Karg</surname><given-names>PE</given-names></name>, <name name-style="western"><surname>Brubaker</surname><given-names>CE</given-names></name>. <article-title>Seat cushion design for elderly wheelchair users based
+on minimization of soft tissue deformation using stiffness and pressure
+measurements</article-title>. <source>IEEE Trans Rehabil Eng</source>.
+<year>1996</year>;<volume>4</volume>: <fpage>320</fpage>–<lpage>327</lpage>.
+<pub-id pub-id-type="doi">10.1109/86.547933</pub-id>
+<pub-id pub-id-type="pmid">8973958</pub-id></mixed-citation></ref><ref id="pone.0227064.ref034"><label>34</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Bader</surname><given-names>DL</given-names></name>, <name name-style="western"><surname>Worsley</surname><given-names>PR</given-names></name>. <article-title>Technologies to monitor the health of loaded skin
+tissues</article-title>. <source>Biomed Eng OnLine</source>.
+<year>2018</year>;<volume>17</volume>
+<pub-id pub-id-type="doi">10.1186/s12938-018-0470-z</pub-id>
+<pub-id pub-id-type="pmid">29650012</pub-id><pub-id pub-id-type="pmcid">PMC5897925</pub-id></mixed-citation></ref><ref id="pone.0227064.ref035"><label>35</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Walia</surname><given-names>GS</given-names></name>, <name name-style="western"><surname>Wong</surname><given-names>AL</given-names></name>, <name name-style="western"><surname>Lo</surname><given-names>AY</given-names></name>, <name name-style="western"><surname>Mackert</surname><given-names>GA</given-names></name>, <name name-style="western"><surname>Carl</surname><given-names>HM</given-names></name>, <name name-style="western"><surname>Pedreira</surname><given-names>RA</given-names></name>, <etal>et al</etal>
+<article-title>Efficacy of Monitoring Devices in
+Support of Prevention of Pressure Injuries</article-title>. <source>Adv Skin
+Wound Care</source>. <year>2016</year>;<volume>29</volume>:
+<fpage>567</fpage>–<lpage>574</lpage>. <pub-id pub-id-type="doi">10.1097/01.ASW.0000504579.83707.f6</pub-id>
+<pub-id pub-id-type="pmid">27846030</pub-id></mixed-citation></ref><ref id="pone.0227064.ref036"><label>36</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Shelton</surname><given-names>F</given-names></name>, <name name-style="western"><surname>Barnett</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Meyer</surname><given-names>E</given-names></name>. <article-title>Full-body interface pressure testing as a method for
+performance evaluation of clinical support surfaces</article-title>.
+<source>Appl Ergon</source>. <year>1998</year>;<volume>29</volume>:
+<fpage>491</fpage>–<lpage>497</lpage>. <pub-id pub-id-type="doi">10.1016/s0003-6870(97)00069-0</pub-id>
+<pub-id pub-id-type="pmid">9796795</pub-id></mixed-citation></ref><ref id="pone.0227064.ref037"><label>37</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Gil-Agudo</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Peña-González</surname><given-names>AD la</given-names></name>, <name name-style="western"><surname>Ama-Espinosa</surname><given-names>AD</given-names></name>, <name name-style="western"><surname>E. Pérez-Rizo</surname><given-names>ED-D</given-names></name>, <name name-style="western"><surname>Sánchez-Ramos</surname><given-names>A</given-names></name>. <article-title>Comparative study of pressure distribution at the
+user-cushion interface with different cushions in a population with spinal
+cord injury</article-title>. <source>Clin Biomech</source>.
+<year>2009</year>;<volume>24</volume>:
+<fpage>558</fpage>–<lpage>563</lpage>. <pub-id pub-id-type="doi">10.1016/j.clinbiomech.2009.04.006</pub-id>
+<pub-id pub-id-type="pmid">19447532</pub-id></mixed-citation></ref><ref id="pone.0227064.ref038"><label>38</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Keller</surname><given-names>BPJA</given-names></name>, <name name-style="western"><surname>Lubbert</surname><given-names>PHW</given-names></name>, <name name-style="western"><surname>Keller</surname><given-names>E</given-names></name>, <name name-style="western"><surname>Leenen</surname><given-names>LPH</given-names></name>. <article-title>Tissue-interface pressures on three different
+support-surfaces for trauma patients</article-title>.
+<source>Injury</source>. <year>2005</year>;<volume>36</volume>:
+<fpage>946</fpage>–<lpage>948</lpage>. <pub-id pub-id-type="doi">10.1016/j.injury.2004.09.017</pub-id>
+<pub-id pub-id-type="pmid">16023909</pub-id></mixed-citation></ref><ref id="pone.0227064.ref039"><label>39</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Mueller</surname><given-names>MJ</given-names></name>, <name name-style="western"><surname>Zou</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Lott</surname><given-names>DJ</given-names></name>. “<article-title>Pressure Gradient</article-title>” as an Indicator of
+Plantar Skin Injury. <source>Diabetes Care</source>.
+<year>2005</year>;<volume>28</volume>:
+<fpage>2908</fpage>–<lpage>2912</lpage>. <pub-id pub-id-type="doi">10.2337/diacare.28.12.2908</pub-id>
+<pub-id pub-id-type="pmid">16306553</pub-id></mixed-citation></ref><ref id="pone.0227064.ref040"><label>40</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Olesen</surname><given-names>CG</given-names></name>, <article-title>Zee M de, Rasmussen J. Missing links in pressure ulcer
+research—An interdisciplinary overview</article-title>. <source>J Appl
+Physiol</source>. <year>2010</year>;<volume>108</volume>:
+<fpage>1458</fpage>–<lpage>1464</lpage>. <pub-id pub-id-type="doi">10.1152/japplphysiol.01006.2009</pub-id>
+<pub-id pub-id-type="pmid">20299616</pub-id></mixed-citation></ref><ref id="pone.0227064.ref041"><label>41</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Linder-Ganz</surname><given-names>E</given-names></name>, <name name-style="western"><surname>Engelberg</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Scheinowitz</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Gefen</surname><given-names>A</given-names></name>. <article-title>Pressure-time cell death threshold for albino rat
+skeletal muscles as related to pressure sore biomechanics</article-title>.
+<source>J Biomech</source>. <year>2006</year>;<volume>39</volume>:
+<fpage>2725</fpage>–<lpage>32</lpage>. <pub-id pub-id-type="doi">10.1016/j.jbiomech.2005.08.010</pub-id>
+<pub-id pub-id-type="pmid">16199045</pub-id></mixed-citation></ref><ref id="pone.0227064.ref042"><label>42</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Ceelen</surname><given-names>KK</given-names></name>, <name name-style="western"><surname>Stekelenburg</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Loerakker</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Strijkers</surname><given-names>GJ</given-names></name>, <name name-style="western"><surname>Bader</surname><given-names>DL</given-names></name>, <name name-style="western"><surname>Nicolay</surname><given-names>K</given-names></name>, <etal>et al</etal>
+<article-title>Compression-induced damage and
+internal tissue strains are related</article-title>. <source>J
+Biomech</source>. <year>2008</year>;<volume>41</volume>:
+<fpage>3399</fpage>–<lpage>3404</lpage>. <pub-id pub-id-type="doi">10.1016/j.jbiomech.2008.09.016</pub-id>
+<pub-id pub-id-type="pmid">19010470</pub-id></mixed-citation></ref><ref id="pone.0227064.ref043"><label>43</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Verver</surname><given-names>MM</given-names></name>, <article-title>Hoof J van, Oomens CWJ, Wismans JSHM, Baaijens FPT. A
+Finite Element Model of the Human Buttocks for Prediction of Seat Pressure
+Distributions</article-title>. <source>Comput Methods Biomech Biomed
+Engin</source>. <year>2004</year>;<volume>7</volume>:
+<fpage>193</fpage>–<lpage>203</lpage>. <pub-id pub-id-type="doi">10.1080/10255840410001727832</pub-id>
+<pub-id pub-id-type="pmid">15512763</pub-id></mixed-citation></ref><ref id="pone.0227064.ref044"><label>44</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Luboz</surname><given-names>V</given-names></name>, <name name-style="western"><surname>Petrizelli</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Bucki</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Diot</surname><given-names>B</given-names></name>, <name name-style="western"><surname>Vuillerme</surname><given-names>N</given-names></name>, <name name-style="western"><surname>Payan</surname><given-names>Y</given-names></name>. <article-title>Biomechanical modeling to prevent ischial pressure
+ulcers</article-title>. <source>J Biomech</source>.
+<year>2014</year>;<volume>47</volume>:
+<fpage>2231</fpage>–<lpage>2236</lpage>. <pub-id pub-id-type="doi">10.1016/j.jbiomech.2014.05.004</pub-id>
+<pub-id pub-id-type="pmid">24873863</pub-id></mixed-citation></ref><ref id="pone.0227064.ref045"><label>45</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Al-Dirini</surname><given-names>RMA</given-names></name>, <name name-style="western"><surname>Reed</surname><given-names>MP</given-names></name>, <name name-style="western"><surname>Thewlis</surname><given-names>D</given-names></name>. <article-title>Deformation of the gluteal soft tissues during
+sitting</article-title>. <source>Clin Biomech</source>.
+<year>2015</year>;<volume>30</volume>:
+<fpage>662</fpage>–<lpage>668</lpage>. <pub-id pub-id-type="doi">10.1016/j.clinbiomech.2015.05.008</pub-id>
+<pub-id pub-id-type="pmid">26032324</pub-id></mixed-citation></ref><ref id="pone.0227064.ref046"><label>46</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Shabshin</surname><given-names>N</given-names></name>, <name name-style="western"><surname>Zoizner</surname><given-names>G</given-names></name>, <name name-style="western"><surname>Herman</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Ougortsin</surname><given-names>V</given-names></name>, <name name-style="western"><surname>Gefen</surname><given-names>A</given-names></name>. <article-title>Use of weight-bearing MRI for evaluating wheelchair
+cushions based on internal soft-tissue deformations under ischial
+tuberosities</article-title>. <source>J Rehabil Res Dev</source>.
+<year>2010</year>;<volume>47</volume>: <fpage>31</fpage>
+<pub-id pub-id-type="doi">10.1682/jrrd.2009.07.0105</pub-id>
+<pub-id pub-id-type="pmid">20437325</pub-id></mixed-citation></ref><ref id="pone.0227064.ref047"><label>47</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Linder-Ganz</surname><given-names>E</given-names></name>, <name name-style="western"><surname>Shabshin</surname><given-names>N</given-names></name>, <name name-style="western"><surname>Itzchak</surname><given-names>Y</given-names></name>, <name name-style="western"><surname>Gefen</surname><given-names>A</given-names></name>. <article-title>Assessment of mechanical conditions in sub-dermal
+tissues during sitting: A combined experimental MRI and finite element
+approach</article-title>. <source>J Biomech</source>.
+<year>2007</year>;<volume>40</volume>:
+<fpage>1443</fpage>–<lpage>1454</lpage>. <pub-id pub-id-type="doi">10.1016/j.jbiomech.2006.06.020</pub-id>
+<pub-id pub-id-type="pmid">16920122</pub-id></mixed-citation></ref></ref-list></back><sub-article id="pone.0227064.r001" article-type="aggregated-review-documents"><front-stub><article-id pub-id-type="doi">10.1371/journal.pone.0227064.r001</article-id><title-group><article-title>Decision Letter 0</article-title></title-group><contrib-group><contrib contrib-type="author"><name name-style="western"><surname>Oliveira</surname><given-names initials="PH">Pedro H.</given-names></name><role>Academic Editor</role></contrib></contrib-group><permissions><copyright-statement>© 2019 Pedro H. Oliveira</copyright-statement><copyright-year>2019</copyright-year><copyright-holder>Pedro H. Oliveira</copyright-holder><license xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an open access article distributed under the terms of the
+<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>,
+which permits unrestricted use, distribution, and reproduction in any
+medium, provided the original author and source are credited.</license-p></license></permissions><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="reviewed-article" id="rel-obj001" ext-link-type="doi" xlink:href="10.1371/journal.pone.0227064"/><custom-meta-group><custom-meta><meta-name>Submission Version</meta-name><meta-value>0</meta-value></custom-meta></custom-meta-group></front-stub><body><p>
+<named-content content-type="letter-date">19 Nov 2019</named-content>
+</p><p>PONE-D-19-27579</p><p>Lateral pressure equalisation as a principle for designing support surfaces to
+prevent deep tissue pressure ulcers</p><p>PLOS ONE</p><p>Dear Dr Boyle,</p><p>Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we
+feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it
+currently stands. Therefore, we invite you to submit a revised version of the
+manuscript that addresses the points raised during the review process.</p><p>We would appreciate receiving your revised manuscript by Jan 03 2020 11:59PM. When
+you are ready to submit your revision, log on to <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.editorialmanager.com/pone/">https://www.editorialmanager.com/pone/</ext-link> and select the 'Submissions
+Needing Revision' folder to locate your manuscript file.</p><p>If you would like to make changes to your financial disclosure, please include your
+updated statement in your cover letter.</p><p>To enhance the reproducibility of your results, we recommend that if applicable you
+deposit your laboratory protocols in protocols.io, where a protocol can be assigned
+its own identifier (DOI) such that it can be cited independently in the future. For
+instructions see: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols">http://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols</ext-link></p><p>Please include the following items when submitting your revised manuscript:</p><p><list list-type="bullet"><list-item><p>A rebuttal letter that responds to each point raised by the academic
+editor and reviewer(s). This letter should be uploaded as separate file
+and labeled 'Response to Reviewers'.</p></list-item><list-item><p>A marked-up copy of your manuscript that highlights changes made to the
+original version. This file should be uploaded as separate file and
+labeled 'Revised Manuscript with Track Changes'.</p></list-item><list-item><p>An unmarked version of your revised paper without tracked changes. This
+file should be uploaded as separate file and labeled 'Manuscript'.</p></list-item></list></p><p>Please note while forming your response, if your article is accepted, you may have
+the opportunity to make the peer review history publicly available. The record will
+include editor decision letters (with reviews) and your responses to reviewer
+comments. If eligible, we will contact you to opt in or out.</p><p>We look forward to receiving your revised manuscript.</p><p>Kind regards,</p><p>Pedro H. Oliveira, Ph.D.</p><p>Academic Editor</p><p>PLOS ONE</p><p>Journal requirements:</p><p>1. When submitting your revision, we need you to address these additional
+requirements.</p><p>Please ensure that your manuscript meets PLOS ONE's style requirements, including
+those for file naming. The PLOS ONE style templates can be found at</p><p><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf">http://www.journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf</ext-link>
+and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf">http://www.journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf</ext-link></p><p>2. Thank you for providing the following Funding Statement: </p><p>"This project was partly funded by an Imperial College London and Imperial
+Innovations Ltd. Proof of Concept funding to CB and SM and EPSRC funding to CH, MM
+and SM (EP/N026845/1). The funders had no role in study design, data collection and
+analysis, decision to publish, or preparation of the manuscript.".</p><p>We note that one or more of the authors is affiliated with the funding organization,
+indicating the funder may have had some role in the design, data collection,
+analysis or preparation of your manuscript for publication; in other words, the
+funder played an indirect role through the participation of the co-authors.</p><p>If the funding organization did not play a role in the study design, data collection
+and analysis, decision to publish, or preparation of the manuscript and only
+provided financial support in the form of authors' salaries and/or research
+materials, please review your statements relating to the author contributions, and
+ensure you have specifically and accurately indicated the role(s) that these authors
+had in your study in the Author Contributions section of the online submission form.
+Please make any necessary amendments directly within this section of the online
+submission form.  Please also update your Funding Statement to include the following
+statement: “The funder provided support in the form of salaries for authors [insert
+relevant initials], but did not have any additional role in the study design, data
+collection and analysis, decision to publish, or preparation of the manuscript. The
+specific roles of these authors are articulated in the ‘author contributions’
+section.”</p><p>If the funding organization did have an additional role, please state and explain
+that role within your Funding Statement.</p><p>Please also provide an updated Competing Interests Statement declaring this
+commercial affiliation along with any other relevant declarations relating to
+employment, consultancy, patents, products in development, or marketed products,
+etc.  </p><p>Within your Competing Interests Statement, please confirm that this commercial
+affiliation does not alter your adherence to all PLOS ONE policies on sharing data
+and materials by including the following statement: "This does not alter our
+adherence to  PLOS ONE policies on sharing data and materials.” (as detailed online
+in our guide for authors <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://journals.plos.org/plosone/s/competing-interests">http://journals.plos.org/plosone/s/competing-interests</ext-link>). If this
+adherence statement is not accurate and  there are restrictions on sharing of data
+and/or materials, please state these. Please note that we cannot proceed with
+consideration of your article until this information has been declared.</p><p>3. We note that you have a patent relating to material pertinent to this article.
+Please provide an amended statement of Competing Interests to declare this patent
+(with details including name and number), along with any other relevant declarations
+relating to employment, consultancy, patents, products in development or modified
+products etc. Please confirm that this does not alter your adherence to all PLOS ONE
+policies on sharing data and materials, as detailed online in our guide for authors
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://journals.plos.org/plosone/s/competing-interests">http://journals.plos.org/plosone/s/competing-interests</ext-link> by including
+the following statement: "This does not alter our adherence to  PLOS ONE policies on
+sharing data and materials.” If there are restrictions on sharing of data and/or
+materials, please state these. Please note that we cannot proceed with consideration
+of your article until this information has been declared.</p><p>* This information should be included in your cover letter; we will change the online
+submission form on your behalf.</p><p>Please know it is PLOS ONE policy for corresponding authors to declare, on behalf of
+all authors, all potential competing interests for the purposes of transparency.
+PLOS defines a competing interest as anything that interferes with, or could
+reasonably be perceived as interfering with, the full and objective presentation,
+peer review, editorial decision-making, or publication of research or non-research
+articles submitted to one of the journals. Competing interests can be financial or
+non-financial, professional, or personal. Competing interests can arise in
+relationship to an organization or another person. Please follow this link to our
+website for more details on competing interests: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://journals.plos.org/plosone/s/competing-interests">http://journals.plos.org/plosone/s/competing-interests</ext-link></p><p>[Note: HTML markup is below. Please do not edit.]</p><p>Reviewers' comments:</p><p>Reviewer's Responses to Questions</p><p><bold>Comments to the Author</bold></p><p>1. Is the manuscript technically sound, and do the data support the conclusions?</p><p>The manuscript must describe a technically sound piece of scientific research with
+data that supports the conclusions. Experiments must have been conducted rigorously,
+with appropriate controls, replication, and sample sizes. The conclusions must be
+drawn appropriately based on the data presented. </p><p>Reviewer #1: Yes</p><p>Reviewer #2: Yes</p><p>**********</p><p>2. Has the statistical analysis been performed
+appropriately and rigorously? </p><p>Reviewer #1: N/A</p><p>Reviewer #2: Yes</p><p>**********</p><p>3. Have the authors made all data underlying the
+findings in their manuscript fully available?</p><p>The <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.plosone.org/static/policies.action#sharing">PLOS Data policy</ext-link> requires authors to make all
+data underlying the findings described in their manuscript fully available without
+restriction, with rare exception (please refer to the Data Availability Statement in
+the manuscript PDF file). The data should be provided as part of the manuscript or
+its supporting information, or deposited to a public repository. For example, in
+addition to summary statistics, the data points behind means, medians and variance
+measures should be available. If there are restrictions on publicly sharing
+data—e.g. participant privacy or use of data from a third party—those must be
+specified.</p><p>Reviewer #1: Yes</p><p>Reviewer #2: Yes</p><p>**********</p><p>4. Is the manuscript presented in an intelligible
+fashion and written in standard English?</p><p>PLOS ONE does not copyedit accepted manuscripts, so the language in submitted
+articles must be clear, correct, and unambiguous. Any typographical or grammatical
+errors should be corrected at revision, so please note any specific errors
+here.</p><p>Reviewer #1: Yes</p><p>Reviewer #2: Yes</p><p>**********</p><p>5. Review Comments to the Author</p><p>Please use the space provided to explain your answers to the questions above. You may
+also include additional comments for the author, including concerns about dual
+publication, research ethics, or publication ethics. (Please upload your review as
+an attachment if it exceeds 20,000 characters)</p><p>Reviewer #1: The paper deals with a basic research regarding the opportunity or not
+to use lateral pressure to be applied to the patient forced to maintain a sitting
+position for long periods in order to reduce the pressure at the interface with the
+pillow and consequently the risk of ulcerations.</p><p>The idea is good and its applicability must be verified. The preliminary study is
+well written and the methods used are appropriate.</p><p>Small improvements are required:</p><p>- always define all the parameters introduced (for example in table 1 and in the
+equations)</p><p>- in paragraph 2.1.2 it is well known that the body mass of the torso + head + upper
+limbs is equal to 2/3 of the whole body mass not 1/2</p><p>- in paragraph 2.1.2 next to the figure 80 the unit of measurement is missing</p><p>- in brackets, after the softwares used, it is necessary to mention the company that
+distributes them and their location</p><p>- in paragraph 2.3 justify the choices made on the imposed loads.</p><p>Reviewer #2: This study sought to present a novel approach to prevent ulcers due to
+deep tissue pressure. In particular the authors stated that adding a supporting
+lateral pressure (they called “pressure equalization”) to the classical under-body
+pressure redistribution approach could provide a more effective solution to reduce
+deep tissue deformation that can lead to ulcers development. The work is based on
+Finite Element (FE) Model, which is able to predict the stresses induced on the deep
+tissue; the authors used this model to assess the differences introduced by the
+lateral pressure equalization. In particular, they found that managing the ratio of
+peak lateral pressure to peak under-body pressure and the position of the lateral
+supports could be used to regulate deep tissue stresses. The authors stated that the
+overall deformation can be decreased at the induced when the body is suspended in a
+fluid. The approach can be used to design and assess novel solutions related to
+supporting devices.</p><p>General Comments</p><p>The main working hypothesis at the basis of this paper is clearly reported as far as
+the main objective. The introduction to the approach is clearly reported and the
+modelling phase well documented. Although the methodology is not that innovative,
+the application to is indeed original. I guess the audience of PLOS ONE will
+appreciate this work.</p><p>The structure of the article seems to be precise (Abstract, Introduction, Methods
+[with subheadings], Results, Discussion).</p><p>Modelling and data analysis seem to be clearly reported and coherent with the work
+objectives. Several minor concerns have been already reported to the authors.</p><p>The use of the English language seems to be correct.</p><p>The references to previous works seem to be precise and up-to-date.</p><p>Specific Comments</p><p>Abstract</p><p>In general this section is ok. Please, could you report also the magnitude of the
+deformation related to deep tissue and the differences between under-body pressure
+redistribution and lateral pressure equalization?</p><p>Introduction</p><p>Really well written. You well reported the main clinical problem, the
+state-of-the-art related to the main provided solutions, your hypothesis and the
+rationale behind your work. Really appreciated Figure 1.</p><p>Methods</p><p>• Page 8. Model properties. Oomens’ work is a modelling approach dating back to 2003.
+Is there any more recent work identifying soft tissues properties and modelling?</p><p>• Page 11 – 2.1.2 Line 6. I guess that the unit of measurements is missing.</p><p>• Please provide more hypothesis on the choice of not introducing any friction
+between the support surface and the skin. Is this condition the real one?</p><p>• Page 12. Please provide more information about the “adjusting” of data accounting
+for volume variation. It is not that clear.</p><p>• Page 16. Table 2. Please provide information about “[0.5ex]”, present in the first
+line.</p><p>Results</p><p>Very well reported both graphically and in the main text.</p><p>Discussion</p><p>In general, this section is ok. Since you reported also the most clinical
+perspective, what about pressure equalization on vessels? Could you speculate on any
+main issue?</p><p>**********</p><p>6. PLOS authors have the option to publish the peer
+review history of their article (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://journals.plos.org/plosone/s/editorial-and-peer-review-process#loc-peer-review-history">what does this mean?</ext-link>). If published, this will
+include your full peer review and any attached files.</p><p>If you choose “no”, your identity will remain anonymous but your review may still be
+made public.</p><p><bold>Do you want your identity to be public for this peer review?</bold> For
+information about this choice, including consent withdrawal, please see our
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.plos.org/privacy-policy">Privacy Policy</ext-link>.</p><p>Reviewer #1: No</p><p>Reviewer #2: Yes: Nicola Francesco Lopomo</p><p>[NOTE: If reviewer comments were submitted as an attachment file, they will be
+attached to this email and accessible via the submission site. Please log into your
+account, locate the manuscript record, and check for the action link "View
+Attachments". If this link does not appear, there are no attachment files to be
+viewed.]</p><p>While revising your submission, please upload your figure files to the Preflight
+Analysis and Conversion Engine (PACE) digital diagnostic tool, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pacev2.apexcovantage.com/">https://pacev2.apexcovantage.com/</ext-link>. PACE helps
+ensure that figures meet PLOS requirements. To use PACE, you must first register as
+a user. Registration is free. Then, login and navigate to the UPLOAD tab, where you
+will find detailed instructions on how to use the tool. If you encounter any issues
+or have any questions when using PACE, please email us at <email>figures@plos.org</email>. Please note that Supporting Information files do not
+need this step.</p></body></sub-article><sub-article id="pone.0227064.r002" article-type="author-comment"><front-stub><article-id pub-id-type="doi">10.1371/journal.pone.0227064.r002</article-id><title-group><article-title>Author response to Decision Letter 0</article-title></title-group><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="editor-report" id="rel-obj002" ext-link-type="doi" xlink:href="10.1371/journal.pone.0227064"/><custom-meta-group><custom-meta><meta-name>Submission Version</meta-name><meta-value>1</meta-value></custom-meta></custom-meta-group></front-stub><body><p>
+<named-content content-type="author-response-date">21 Nov 2019</named-content>
+</p><p>We wish to thank the reviewers for their valuable critique of our manuscript. Pease
+see below for our responses to each comment. </p><p>Reviewer #1: The paper deals with a basic research regarding the opportunity or not
+to use lateral pressure to be applied to the patient forced to maintain a sitting
+position for long periods in order to reduce the pressure at the interface with the
+pillow and consequently the risk of ulcerations.</p><p>The idea is good and its applicability must be verified. The preliminary study is
+well written and the methods used are appropriate.</p><p>Small improvements are required:</p><p>- always define all the parameters introduced (for example in table 1 and in the
+equations)</p><p>We have reviewed the manuscript to ensure all parameters are now defined at the point
+of first instance.</p><p>- in paragraph 2.1.2 it is well known that the body mass of the torso + head + upper
+limbs is equal to 2/3 of the whole body mass not ½</p><p>We agree that this 50% value does not represent all upper-body weight. Oomens et al
+[14] discuss loading boundary conditions in pelvis models. Using literature on
+experimental pressure-reading, they describe that weight borne by the IT during
+sitting varies from 18% to 77% of body weight. This variation is due to patient
+posture, including use of arm and thigh support, and inclination of back support. We
+chose 50% as a value within the experimental range, while also enabling direct
+comparison with that previous modelling work [14]. </p><p>We also argue that because we look at relative differences (between support
+surfaces), rather than draw conclusions based on absolute values, the choice of load
+magnitude does not affect our conclusions.</p><p>Changes to text:</p><p>Section 2.1.2 pg 8:</p><p>The proportion of body weight borne by the ischial tuberosities while seated varies
+from 18% to 77% [14]. We estimated the amount of load supported by the pelvis at
+400N — representing approximately 50% of the body weight of an 80 kg adult (with
+each tuberosity bearing 200N) because it is within the range of experimental
+findings and enables direct comparison with Oomens et al [14].</p><p>Discussion pg 25:</p><p>A further complexity not accounted for in our model is the posture and secondary
+supports (arm rests, for example) of the patient, which may affect the loading
+boundary conditions. For these reasons, we have focused on the relative effects of
+interventions on stresses and strains, thus making the conclusions robust against
+the chosen material models and boundary conditions. Using more biofidelic approaches
+will be a key step in applying the current results in the clinic.</p><p>- in paragraph 2.1.2 next to the figure 80 the unit of measurement is missing</p><p>Thank you, amended with kPa as units</p><p>- in brackets, after the softwares used, it is necessary to mention the company that
+distributes them and their location</p><p>Amended as suggested</p><p>- in paragraph 2.3 justify the choices made on the imposed loads.</p><p>Our objective for developing this 3D model was to ensure that the conclusions drawn
+from the axisymmetric model translated to a 3D environment. To achieve this
+objective, we modelled the same loading regime as the axisymmetric model. We accept,
+however, that a more biofidelic model – based on realistic load cases including body
+freedom-of-movement and whole-body simulation – will be required as a next step
+before translation to the clinic. </p><p>Changes to text (the alterations to section 2.1.2 are also relevant here):</p><p>Section 2.3 pg 11:</p><p>A body force of 200N was applied to the bone nodes. This represents a full body
+weight of 80 kg, with the assumption that 50% of this travels through the pelvis of
+a seated individual (as was assumed with the axisymmetric model and is based on
+Oomens et al. [14], see section 2.1.2). Maintaining this level of loading in the 3D
+model aids comparison between that and the axisymmetric model.</p><p>Reviewer #2: This study sought to present a novel approach to prevent ulcers due to
+deep tissue pressure. In particular the authors stated that adding a supporting
+lateral pressure (they called “pressure equalization”) to the classical under-body
+pressure redistribution approach could provide a more effective solution to reduce
+deep tissue deformation that can lead to ulcers development. The work is based on
+Finite Element (FE) Model, which is able to predict the stresses induced on the deep
+tissue; the authors used this model to assess the differences introduced by the
+lateral pressure equalization. In particular, they found that managing the ratio of
+peak lateral pressure to peak under-body pressure and the position of the lateral
+supports could be used to regulate deep tissue stresses. The authors stated that the
+overall deformation can be decreased at the induced when the body is suspended in a
+fluid. The approach can be used to design and assess novel solutions related to
+supporting devices.</p><p>General Comments</p><p>The main working hypothesis at the basis of this paper is clearly reported as far as
+the main objective. The introduction to the approach is clearly reported and the
+modelling phase well documented. Although the methodology is not that innovative,
+the application to is indeed original. I guess the audience of PLOS ONE will
+appreciate this work.</p><p>The structure of the article seems to be precise (Abstract, Introduction, Methods
+[with subheadings], Results, Discussion).</p><p>Modelling and data analysis seem to be clearly reported and coherent with the work
+objectives. Several minor concerns have been already reported to the authors.</p><p>The use of the English language seems to be correct.</p><p>The references to previous works seem to be precise and up-to-date.</p><p>Specific Comments</p><p>Abstract</p><p>In general this section is ok. Please, could you report also the magnitude of the
+deformation related to deep tissue and the differences between under-body pressure
+redistribution and lateral pressure equalization?</p><p>Thank you for this suggestion, we have updated the abstract to include magnitudes as
+well as fold-change.</p><p>Changes to text:</p><p>Abstract: </p><p>A finite element model of the seated pelvis predicts that applying a lateral pressure
+to the soft tissue reduces peak von Mises stress in the deep tissue by a factor of
+2.4relative to a standard cushion (from 113 kPa to 47 kPA) — a greater effect than
+that achieved by using a more conformable cushion, which reduced von Mises stress to
+75 kPa. Combining both a conformable cushion and lateral pressure reduced peak von
+Mises stresses to 25 kPa. </p><p>Introduction</p><p>Really well written. You well reported the main clinical problem, the
+state-of-the-art related to the main provided solutions, your hypothesis and the
+rationale behind your work. Really appreciated Figure 1.</p><p>Methods</p><p>• Page 8. Model properties. Oomens’ work is a modelling approach dating back to 2003.
+Is there any more recent work identifying soft tissues properties and modelling?</p><p>Thank you for this comment. We accept that the material properties chose may not be
+the definitive material models for each of the soft tissues. For example, more
+complex models that incorporate transverse isotropy of muscle/skin tissue or
+viscoelasticity may yield more accurate predictions of absolute stress/strain
+magnitudes. However, our study focuses on relative differences between groups (on
+different cushions, and with/without lateral pressure). </p><p>We argue that this focus on relative differences reduces the sensitivity of our
+conclusions to specific material models, particularly because our chosen models
+incorporate the two most important aspects of soft tissue mechanics
+(large-deformations and material non-linearity). We also note that using these
+models enabled direct comparison to the study most closely related to our work
+(Oomens et al [14]). </p><p>We also understand that incorporating more accurate material models of soft tissues
+will be a crucial part of creating more biofidelic models, and that this is a next
+step on the way to validating our pressure-equalisation approach for the clinic.</p><p>Changes to text:</p><p>Methods, page 7:</p><p>There have been many material models of skeletal muscle [24,25], skin [26], and to a
+lesser extent fat [27]. However, experimentally-based models that quantify all three
+tissues together are rarer, making it difficult to combine tissues defined from
+different experimental setups. In this study, we used the material models based on
+Oomens et al [14] because it enabled direct comparison with that study, and because
+all three soft tissues were characterized. Each region was assigned an Ogden
+hyperelastic material model, and parameter values are listed in Table 1.</p><p>Discussion, page 25:</p><p>For example, we chose tissue mechanical properties in line with Oomens et al. [14],
+but there are several published models of soft tissue mechanical properties that
+vary in complexity [24–27]. This makes conclusions based on absolute stress values
+difficult. A further complexity not accounted for in our model is the posture and
+secondary supports (arm rests, for example) of the patient, which may affect the
+loading boundary conditions. For these reasons, we have focused on the relative
+effects of interventions on stresses and strains, thus making the conclusions robust
+against the chosen material models and boundary conditions. Using more biofidelic
+approaches will be a key step in applying the current results in the clinic.</p><p>• Page 11 – 2.1.2 Line 6. I guess that the unit of measurements is missing.</p><p>Amended to include kPa as unit.</p><p>• Please provide more hypothesis on the choice of not introducing any friction
+between the support surface and the skin. Is this condition the real one?</p><p>We used frictionless contact as a simplification of the real-world situation. To
+assess the impact of this simplification, we ran a sensitivity study where the
+effect of including friction on peak stresses and strains was quantified (see S2
+Appendix). We found that in our load case, friction had negligible effect on peak
+stresses. However, we accept that in future studies that aim to simulate more
+biofidelic load cases, modelling friction effects will become increasingly
+important. In particular, a model that captured patient posture dynamically would
+require more accurate contact characterisation. </p><p>We also note that our primary focus in this study was the deep tissue (the source of
+the most dangerous pressure ulcers), while friction tends to induce superficial
+pressure ulcers.</p><p>Changes to text:</p><p>Methods page 9:</p><p>While this is a simplification of the real-world scenario, a sensitivity study
+revealed friction to have a negligible effect on model predicitons (S2
+Appendix).</p><p>• Page 12. Please provide more information about the “adjusting” of data accounting
+for volume variation. It is not that clear.</p><p>Thank you for this comment. We developed an analysis approach to ensure that our
+conclusions were insensitive to the mesh density. Our aim was to summarise the
+stress/strain in a tissue. One approach is to simply probe one point near the region
+of interest. However, this is sensitive to the choice of point. Another approach is
+to summarise all the points within a region of interest (mean, median, 95
+percentile, etc). However, this approach is affected by mesh density, so locations
+with many small elements contribute more to the summary statistic than locations
+with fewer large elements. To overcome this limitation, we took a weighted sample of
+all elements in the region of interest. The sample was weighted by the volume of the
+element, so an element with double the volume is twice as likely to be sampled. </p><p>Changes to text:</p><p>Page 10:</p><p>To summarise the stresses and strains in the deep tissue, we sampled 1600 elements
+within a 30mm radius of the ischial tuberosity. Since elements vary considerably in
+size throughout the region, we weighed our sampling by element volume (IVOL output
+from ABAQUS). For example, an element with a volume 2V is twice as likely to be
+sampled as an element with volume V. Weighting the results like this ensures that
+analyses are independent of mesh density, which varies throughout the model.</p><p>• Page 16. Table 2. Please provide information about “[0.5ex]”, present in the first
+line.</p><p>Thank you for spotting this, it is an artefact of a conversion from Latex to MS Word
+and has been deleted.</p><p>Results</p><p>Very well reported both graphically and in the main text.</p><p>Discussion</p><p>In general, this section is ok. Since you reported also the most clinical
+perspective, what about pressure equalization on vessels? Could you speculate on any
+main issue?</p><p>If we understand your question correctly, you would like us to discuss how our
+mechanical results translate into improvements to blood perfusion, thereby keeping
+tissue oxygenated and uninjured. This is a great point, and we have added a
+paragraph to the discussion.</p><p>Changes to text:</p><p>Discussion, Page 27:</p><p>Our results suggest a novel method for creating a safer mechanical environment. We
+hypothesize that the reduced deformations created by lateral pressure equalization
+will translate into better deep tissue blood perfusion and lower risk of
+deformation-induced cell damage. A key next step will be to test this hypothesis by
+measuring the physiological response of the soft tissues of seated patients, for
+example through measuring transcutaneous gas tension [34].</p><supplementary-material content-type="local-data" id="pone.0227064.s003" position="float" orientation="portrait"><label>Attachment</label><caption><p>Submitted filename: <named-content content-type="submitted-filename">responsetoReviewsR1.docx</named-content></p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="pone.0227064.s003.docx" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></body></sub-article><sub-article id="pone.0227064.r003" article-type="aggregated-review-documents"><front-stub><article-id pub-id-type="doi">10.1371/journal.pone.0227064.r003</article-id><title-group><article-title>Decision Letter 1</article-title></title-group><contrib-group><contrib contrib-type="author"><name name-style="western"><surname>Oliveira</surname><given-names initials="PH">Pedro H.</given-names></name><role>Academic Editor</role></contrib></contrib-group><permissions><copyright-statement>© 2019 Pedro H. Oliveira</copyright-statement><copyright-year>2019</copyright-year><copyright-holder>Pedro H. Oliveira</copyright-holder><license xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an open access article distributed under the terms of the
+<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>,
+which permits unrestricted use, distribution, and reproduction in any
+medium, provided the original author and source are credited.</license-p></license></permissions><related-article xmlns:xlink="http://www.w3.org/1999/xlink" id="rel-obj003" ext-link-type="doi" xlink:href="10.1371/journal.pone.0227064" related-article-type="reviewed-article"/><custom-meta-group><custom-meta><meta-name>Submission Version</meta-name><meta-value>1</meta-value></custom-meta></custom-meta-group></front-stub><body><p>
+<named-content content-type="letter-date">12 Dec 2019</named-content>
+</p><p>Lateral pressure equalisation as a principle for designing support surfaces to
+prevent deep tissue pressure ulcers</p><p>PONE-D-19-27579R1</p><p>Dear Dr. Boyle,</p><p>We are pleased to inform you that your manuscript has been judged scientifically
+suitable for publication and will be formally accepted for publication once it
+complies with all outstanding technical requirements.</p><p>Within one week, you will receive an e-mail containing information on the amendments
+required prior to publication. When all required modifications have been addressed,
+you will receive a formal acceptance letter and your manuscript will proceed to our
+production department and be scheduled for publication.</p><p>Shortly after the formal acceptance letter is sent, an invoice for payment will
+follow. To ensure an efficient production and billing process, please log into
+Editorial Manager at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.editorialmanager.com/pone/">https://www.editorialmanager.com/pone/</ext-link>, click the "Update My
+Information" link at the top of the page, and update your user information. If you
+have any billing related questions, please contact our Author Billing department
+directly at <email>authorbilling@plos.org</email>.</p><p>If your institution or institutions have a press office, please notify them about
+your upcoming paper to enable them to help maximize its impact. If they will be
+preparing press materials for this manuscript, you must inform our press team as
+soon as possible and no later than 48 hours after receiving the formal acceptance.
+Your manuscript will remain under strict press embargo until 2 pm Eastern Time on
+the date of publication. For more information, please contact <email>onepress@plos.org</email>.</p><p>With kind regards,</p><p>Pedro H. Oliveira, Ph.D.</p><p>Academic Editor</p><p>PLOS ONE</p><p><bold>Comments to the Author</bold></p><p>1. If the authors have adequately addressed your comments raised in a previous round
+of review and you feel that this manuscript is now acceptable for publication, you
+may indicate that here to bypass the “Comments to the Author” section, enter your
+conflict of interest statement in the “Confidential to Editor” section, and submit
+your "Accept" recommendation.</p><p>Reviewer #1: (No Response)</p><p>Reviewer #2: All comments have been addressed</p><p>**********</p><p>2. Is the manuscript technically sound, and do the data
+support the conclusions?</p><p>The manuscript must describe a technically sound piece of scientific research with
+data that supports the conclusions. Experiments must have been conducted rigorously,
+with appropriate controls, replication, and sample sizes. The conclusions must be
+drawn appropriately based on the data presented. </p><p>Reviewer #1: (No Response)</p><p>Reviewer #2: Yes</p><p>**********</p><p>3. Has the statistical analysis been performed
+appropriately and rigorously? </p><p>Reviewer #1: (No Response)</p><p>Reviewer #2: Yes</p><p>**********</p><p>4. Have the authors made all data underlying the
+findings in their manuscript fully available?</p><p>The <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.plosone.org/static/policies.action#sharing">PLOS Data policy</ext-link> requires authors to make all
+data underlying the findings described in their manuscript fully available without
+restriction, with rare exception (please refer to the Data Availability Statement in
+the manuscript PDF file). The data should be provided as part of the manuscript or
+its supporting information, or deposited to a public repository. For example, in
+addition to summary statistics, the data points behind means, medians and variance
+measures should be available. If there are restrictions on publicly sharing
+data—e.g. participant privacy or use of data from a third party—those must be
+specified.</p><p>Reviewer #1: (No Response)</p><p>Reviewer #2: Yes</p><p>**********</p><p>5. Is the manuscript presented in an intelligible
+fashion and written in standard English?</p><p>PLOS ONE does not copyedit accepted manuscripts, so the language in submitted
+articles must be clear, correct, and unambiguous. Any typographical or grammatical
+errors should be corrected at revision, so please note any specific errors
+here.</p><p>Reviewer #1: (No Response)</p><p>Reviewer #2: Yes</p><p>**********</p><p>6. Review Comments to the Author</p><p>Please use the space provided to explain your answers to the questions above. You may
+also include additional comments for the author, including concerns about dual
+publication, research ethics, or publication ethics. (Please upload your review as
+an attachment if it exceeds 20,000 characters)</p><p>Reviewer #1: (No Response)</p><p>Reviewer #2: The authors answered all the issues arisen during the first review. All
+the comments have been fully addressed.</p><p>**********</p><p>7. PLOS authors have the option to publish the peer
+review history of their article (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://journals.plos.org/plosone/s/editorial-and-peer-review-process#loc-peer-review-history">what does this mean?</ext-link>). If published, this will
+include your full peer review and any attached files.</p><p>If you choose “no”, your identity will remain anonymous but your review may still be
+made public.</p><p><bold>Do you want your identity to be public for this peer review?</bold> For
+information about this choice, including consent withdrawal, please see our
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.plos.org/privacy-policy">Privacy Policy</ext-link>.</p><p>Reviewer #1: No</p><p>Reviewer #2: Yes: Nicola Francesco Lopomo</p></body></sub-article><sub-article id="pone.0227064.r004" article-type="editor-report"><front-stub><article-id pub-id-type="doi">10.1371/journal.pone.0227064.r004</article-id><title-group><article-title>Acceptance letter</article-title></title-group><contrib-group><contrib contrib-type="author"><name name-style="western"><surname>Oliveira</surname><given-names initials="PH">Pedro H.</given-names></name><role>Academic Editor</role></contrib></contrib-group><permissions><copyright-statement>© 2019 Pedro H. Oliveira</copyright-statement><copyright-year>2019</copyright-year><copyright-holder>Pedro H. Oliveira</copyright-holder><license xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an open access article distributed under the terms of the
+<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>,
+which permits unrestricted use, distribution, and reproduction in any
+medium, provided the original author and source are credited.</license-p></license></permissions><related-article xmlns:xlink="http://www.w3.org/1999/xlink" id="rel-obj004" ext-link-type="doi" xlink:href="10.1371/journal.pone.0227064" related-article-type="reviewed-article"/></front-stub><body><p>
+<named-content content-type="letter-date">13 Dec 2019</named-content>
+</p><p>PONE-D-19-27579R1 </p><p>Lateral pressure equalisation as a principle for designing support surfaces to
+prevent deep tissue pressure ulcers </p><p>Dear Dr. Boyle:</p><p>I am pleased to inform you that your manuscript has been deemed suitable for
+publication in PLOS ONE. Congratulations! Your manuscript is now with our production
+department. </p><p>If your institution or institutions have a press office, please notify them about
+your upcoming paper at this point, to enable them to help maximize its impact. If
+they will be preparing press materials for this manuscript, please inform our press
+team within the next 48 hours. Your manuscript will remain under strict press
+embargo until 2 pm Eastern Time on the date of publication. For more information
+please contact <email>onepress@plos.org</email>.</p><p>For any other questions or concerns, please email <email>plosone@plos.org</email>. </p><p>Thank you for submitting your work to PLOS ONE.</p><p>With kind regards,</p><p>PLOS ONE Editorial Office Staff</p><p>on behalf of</p><p>Dr. Pedro H. Oliveira </p><p>Academic Editor</p><p>PLOS ONE</p></body></sub-article></article>

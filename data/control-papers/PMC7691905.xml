@@ -1,0 +1,588 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article article-type="research-article" xml:lang="en" dtd-version="1.4"><front><journal-meta><journal-id journal-id-type="nlm-ta">Int J Immunopathol Pharmacol</journal-id><journal-id journal-id-type="iso-abbrev">Int J Immunopathol Pharmacol</journal-id><journal-id journal-id-type="pmc-domain-id">3390</journal-id><journal-id journal-id-type="pmc-domain">ijip</journal-id><journal-id journal-id-type="nlm-id">8911335</journal-id><journal-id journal-id-type="publisher-id">IJI</journal-id><journal-title-group><journal-title>International Journal of Immunopathology and Pharmacology</journal-title></journal-title-group><issn pub-type="ppub">0394-6320</issn><issn pub-type="epub">2058-7384</issn><publisher><publisher-name>SAGE Publications</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC7691905</article-id><article-id pub-id-type="pmcid-ver">PMC7691905.1</article-id><article-id pub-id-type="pmcaid">7691905</article-id><article-id pub-id-type="pmcaiid">7691905</article-id><article-id pub-id-type="pmid">33237828</article-id><article-id pub-id-type="doi">10.1177/2058738420976309</article-id><article-id pub-id-type="publisher-id">10.1177_2058738420976309</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Original Research Article</subject></subj-group></article-categories><title-group><article-title>LINC01018 and SMIM25 sponged miR-182-5p in endometriosis revealed by
+the ceRNA network construction</article-title></title-group><contrib-group><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-4422-567X</contrib-id><name name-style="western"><surname>Jiang</surname><given-names initials="L">Li</given-names></name></contrib><contrib contrib-type="author"><name name-style="western"><surname>Zhang</surname><given-names initials="M">Mengmeng</given-names></name></contrib><contrib contrib-type="author"><name name-style="western"><surname>Wang</surname><given-names initials="S">Sixue</given-names></name></contrib><contrib contrib-type="author"><name name-style="western"><surname>Xiao</surname><given-names initials="Y">Yuzhen</given-names></name></contrib><contrib contrib-type="author"><name name-style="western"><surname>Wu</surname><given-names initials="J">Jingni</given-names></name></contrib><contrib contrib-type="author"><name name-style="western"><surname>Zhou</surname><given-names initials="Y">Yuxin</given-names></name></contrib><contrib contrib-type="author"><name name-style="western"><surname>Fang</surname><given-names initials="X">Xiaoling</given-names></name><xref ref-type="corresp" rid="corresp1-2058738420976309"/></contrib><aff id="aff1-2058738420976309">Department of Obstetrics and Gynecology, The Second
+Xiangya Hospital, Central South University, Changsha, Hunan, P.R. China</aff></contrib-group><author-notes><corresp id="corresp1-2058738420976309">Xiaoling Fang, Department of Obstetrics and
+Gynecology, The Second Xiangya Hospital, Central South University, NO.139 Middle
+Renmin Road, Changsha, Hunan 410011, China. Email:
+<email>fxlfxl0510@csu.edu.cn</email></corresp></author-notes><pub-date pub-type="epub"><day>25</day><month>11</month><year>2020</year></pub-date><pub-date pub-type="collection"><season>Jan-Dec</season><year>2020</year></pub-date><volume>34</volume><issue-id pub-id-type="pmc-issue-id">351103</issue-id><elocation-id>2058738420976309</elocation-id><history><date date-type="received"><day>4</day><month>2</month><year>2020</year></date><date date-type="accepted"><day>27</day><month>10</month><year>2020</year></date></history><pub-history><event event-type="pmc-release"><date><day>25</day><month>11</month><year>2020</year></date></event><event event-type="pmc-live"><date><day>04</day><month>12</month><year>2020</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2024-08-03 07:26:11.323"><day>03</day><month>08</month><year>2024</year></date></event></pub-history><permissions><copyright-statement>© The Author(s) 2020</copyright-statement><copyright-year>2020</copyright-year><copyright-holder content-type="sage">SAGE Publications Ltd unless otherwise noted.
+Manuscript content on this site is licensed under Creative Commons
+Licenses</copyright-holder><license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="creative-commons" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>This article is distributed under the terms of the Creative Commons
+Attribution-NonCommercial 4.0 License (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">https://creativecommons.org/licenses/by-nc/4.0/</ext-link>) which
+permits non-commercial use, reproduction and distribution of the work
+without further permission provided the original work is attributed as
+specified on the SAGE and Open Access pages (<ext-link ext-link-type="uri" xlink:href="https://us.sagepub.com/en-us/nam/open-access-at-sage">https://us.sagepub.com/en-us/nam/open-access-at-sage</ext-link>).</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="10.1177_2058738420976309.pdf"/><abstract><p>The current study intended to explore the interaction of the long non-coding RNA
+(lncRNA), microRNA (miRNA), and messenger RNA (mRNA) under the background of
+competitive endogenous RNA (ceRNA) network in endometriosis (EMs). The
+differentially expressed miRNAs (DEmiRs), differentially expressed lncRNA
+(DELs), and differentially expressed genes (DEGs) between EMs ectopic (EC) and
+eutopic (EU) endometrium based on three RNA-sequencing datasets (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE105765">GSE105765</ext-link>,
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE121406">GSE121406</ext-link>, and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE105764">GSE105764</ext-link>) were identified, which were used for the construction
+of ceRNA network. Then, DEGs in the ceRNA network were performed with Gene
+Ontology (GO), Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway, and
+protein-protein interaction (PPI) analysis. Besides, the DEmiRs in the ceRNA
+network were validated in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE124010">GSE124010</ext-link>. And the target DELs and DEGs of verified
+DEmiRs were validated in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE86534">GSE86534</ext-link>. The correlation of verified DEmiRs, DEGs, and
+DELs was explored. Moreover, gene set enrichment analysis (GSEA) was applied to
+investigate the function of verified DEmiRs, DEGs, and DELs. Overall, 1352 DEGs
+and 595 DELs from <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE105764">GSE105764</ext-link>, along with 27 overlapped DEmiRs between <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE105765">GSE105765</ext-link>
+and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE121406">GSE121406</ext-link>, were obtained. Subsequently, a ceRNA network, including 11
+upregulated and 16 downregulated DEmiRs, 7 upregulated and 13 downregulated
+DELs, 48 upregulated and 46 downregulated DEGs, was constructed. The GO and KEGG
+pathway analysis showed that this ceRNA network probably was associated with
+inflammation-related pathways. Furthermore, hsa-miR-182-5p and its target DELs
+(LINC01018 and SMIM25) and DEGs (BNC2, CHL1, HMCN1, PRDM16) were successfully
+verified in the validation analysis. Besides, hsa-miR-182-5p was significantly
+negatively correlated with these target DELs and DEGs. The GSEA analysis implied
+that high expression of LINC01018, SMIM25, and CHL1, and low expression of
+hsa-miR-182-5p would activate inflammation-related pathways in endometriosis EU
+samples.</p><p>LINC01018 and SMIM25 might sponge hsa-miR-182-5p to upregulate downstream genes
+such as CHL1 to promote the development of endometriosis.</p></abstract><kwd-group><kwd>competing endogenous RNA</kwd><kwd>endometriosis</kwd><kwd>inflammation</kwd><kwd>long non-coding RNA</kwd><kwd>messenger RNA</kwd><kwd>microRNA</kwd></kwd-group><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January-December 2020</meta-value></custom-meta><custom-meta><meta-name>typesetter</meta-name><meta-value>ts1</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="intro" id="section1-2058738420976309"><title>Introduction</title><p>Endometriosis (EMs), characterized by the subsistence of endometrial-like tissue
+(including stroma and glands) growing outside the uterine cavity, is a common benign
+gynaecological disorder.<sup><xref rid="bibr1-2058738420976309" ref-type="bibr">1</xref></sup> EMs approximately affects 6% to 10% of women worldwide, mainly during the
+reproductive age.<sup><xref rid="bibr1-2058738420976309" ref-type="bibr">1</xref></sup> It would induce infertility and various pain, such as pelvic pain,
+dysmenorrhea, and dyspareunia,<sup><xref rid="bibr2-2058738420976309" ref-type="bibr">2</xref></sup> also a risk of cancerization.<sup><xref rid="bibr3-2058738420976309" ref-type="bibr">3</xref></sup> Of note, there is still no individual theory that can thoroughly explain all
+the aspects of EMs, even the classic “retrograde menstruation” hypothesis,
+suggesting viable endometrial debris refluxed through the fallopian tubes into the
+pelvic cavity to implant.<sup><xref rid="bibr4-2058738420976309" ref-type="bibr">4</xref></sup> Not only such complexity of the disease itself but also the absence of
+sensitive and specific biomarkers challenged the diagnosis and treatment of EMs.
+Hence, it is essential to explore the potential molecular mechanisms underlying EMs
+to deepen our understanding of EMs.</p><p>The non-coding RNAs (ncRNAs), transcribed from the DNA-genome but unable to code
+proteins, function as universal regulators in cellular processes, which could be
+generally sorted into two types according to their scale: the small long non-coding
+RNAs (&lt;200 nucleotides in length) and the long non-coding RNAs (⩾200 nucleotides
+in length).<sup><xref rid="bibr5-2058738420976309" ref-type="bibr">5</xref></sup> The miRNA, one of the most concerned small ncRNAs, has been proved to be
+dysregulated in EMs, but the specific mechanism remained to clarify,<sup><xref rid="bibr6-2058738420976309" ref-type="bibr">6</xref></sup> particularly in multi-cohorts integrated analysis. The lncRNA, a new star
+with the advancement of the RNA-sequencing technology, has invoked a research
+upsurge in recent years, with no exception in Ems.<sup><xref rid="bibr7-2058738420976309" ref-type="bibr">7</xref></sup> Notably, the emerging competing endogenous RNAs (ceRNAs) hypothesis
+manifested that lncRNAs could serve as a miRNA sponge to regulate the target mRNAs.<sup><xref rid="bibr8-2058738420976309" ref-type="bibr">8</xref></sup> And this hypothesis had been attested in EMs: the first reported lncRNA H19
+in EMs sponged miRNA let-7 to regulate its downstream gene IGF1R to impact the
+proliferation of endometrial stromal cells.<sup><xref rid="bibr9-2058738420976309" ref-type="bibr">9</xref></sup> However, few comprehensive analyses of EMs-associated miRNAs and lncRNAs in
+the ceRNA network’s milieu have been conducted.</p><p>Therefore, we intended to establish an EMs-related ceRNA network to investigate the
+regulatory role of the lncRNA-miRNA-mRNA axis in EMs (<xref ref-type="fig" rid="fig1-2058738420976309">Figure 1</xref>). As far as we know, this report
+represents the first endeavour to construct a lncRNA-associated ceRNA network based
+on multiple RNA-sequencing datasets in EMs.</p><fig id="fig1-2058738420976309" orientation="portrait" position="float"><label>Figure 1.</label><caption><p>The flowchart of endometriosis-associated ceRNA network analysis.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_2058738420976309-fig1.jpg"/></fig></sec><sec sec-type="materials|methods" id="section2-2058738420976309"><title>Materials and methods</title><sec id="section3-2058738420976309"><title>Training datasets resources</title><p>Two miRNA expression datasets: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE105765">GSE105765</ext-link> (eight paired EC and EU endometrium
+tissue samples),<sup><xref rid="bibr10-2058738420976309" ref-type="bibr">10</xref></sup> and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE121406">GSE121406</ext-link> (four paired EC and EU endometrial stromal cells),<sup><xref rid="bibr11-2058738420976309" ref-type="bibr">11</xref></sup> as well as the lncRNA and mRNA expression profile <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE105764">GSE105764</ext-link> (same eight
+paired EC and EU endometrium tissue samples in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE105765">GSE105765</ext-link>),<sup><xref rid="bibr10-2058738420976309" ref-type="bibr">10</xref></sup> were obtained from the GEO database (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/geo">http://www.ncbi.nlm.nih.gov/geo</ext-link>). All these datasets were
+measured by high-throughput RNA-sequencing: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE105765">GSE105765</ext-link> was based on platform
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GPL11154">GPL11154</ext-link> (Illumina HiSeq 2000), <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE121406">GSE121406</ext-link> on platform <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GPL18573">GPL18573</ext-link> (Illumina NextSeq
+500), and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE105764">GSE105764</ext-link> on platform <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GPL20301">GPL20301</ext-link> (Illumina HiSeq 4000). There was no
+need for ethical approval or informed consent in this study because the data was
+publicly available.</p></sec><sec id="section4-2058738420976309"><title>Identification of DEmiRs, DEGs, and DELs</title><p>The “DESeq2” R package<sup><xref rid="bibr12-2058738420976309" ref-type="bibr">12</xref></sup> was applied to analyze the differentially expressed microRNAs (DEmiRs)
+with a threshold of |log<sub>2</sub> fold change (FC)| ⩾ 2 and adjust
+<italic toggle="yes">P</italic>-value &lt; 0.01; the differentially expressed genes
+(DEGs) and differentially expressed lncRNAs (DELs) with a threshold of
+|log<sub>2</sub> FC| ⩾ 3 and adjust <italic toggle="yes">P</italic>-value &lt; 0.01.
+Moreover, intersection analysis was conducted to detect the shared DEmiRs
+between <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE105765">GSE105765</ext-link> and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE121406">GSE121406</ext-link>.</p></sec><sec id="section5-2058738420976309"><title>CeRNA network construction</title><p>In the light of the ceRNA hypothesis, screened DEGs, DELs, and overlapped DEmiRs
+were applied to build the lncRNA–miRNA–mRNA regulatory network. The predicted
+lncRNAs interacted with overlapped DEmiRs were mined in downloaded databases
+StarBase v2.0<sup><xref rid="bibr13-2058738420976309" ref-type="bibr">13</xref></sup> and DIANA-LncBase v2.0,<sup><xref rid="bibr14-2058738420976309" ref-type="bibr">14</xref></sup> both of which provided the experimentally validated miRNA-lncRNA
+interactive information. Next, these predicted lncRNAs were further intersected
+with the identified DELs in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE105764">GSE105764</ext-link>. Additionally, the overlapped
+DEmiRs-targeted mRNAs were predicted from the miRTarBase<sup><xref rid="bibr15-2058738420976309" ref-type="bibr">15</xref></sup> and StarBase v2.0<sup><xref rid="bibr13-2058738420976309" ref-type="bibr">13</xref></sup> databases and later were intersected with the identified DEGs in
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE105764">GSE105764</ext-link>. Finally, the filtered DEmiR-DEL and DEmiR-DEG interactive pairs were
+employed to build a ceRNA regulatory network, which was visualized in software
+Cytoscape 3.6.1.<sup><xref rid="bibr16-2058738420976309" ref-type="bibr">16</xref></sup></p></sec><sec id="section6-2058738420976309"><title>GO and KEGG pathway enrichment analysis</title><p>The DEGs included in the established ceRNA network were performed with GO and
+KEGG pathway enrichment analysis by Enrichr (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://amp.pharm.mssm.edu/Enrichr/">http://amp.pharm.mssm.edu/Enrichr/</ext-link>), a useful online tool for
+querying functional annotation and biological information of genes. Retrieved GO
+terms and KEGG pathways with a <italic toggle="yes">P</italic>-value &lt; 0.05 were supposed
+to be significantly enriched.</p></sec><sec id="section7-2058738420976309"><title>PPI network establishment</title><p>To further explore the potential interplay of DEGs in the ceRNA network, the
+Search Tool for the Retrieval of Interacting Genes database (STRING-Version
+10.0, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://stringdb.org">http://stringdb.org</ext-link>) was adopted to create a PPI network with
+the interaction score &gt; 0.4. Then, the PPI network was carried into Cytoscape 3.6.1<sup><xref rid="bibr16-2058738420976309" ref-type="bibr">16</xref></sup> for visualization, and the degree score of nodes was analyzed by the
+plugin NetworkAnalyzer. Moreover, 10 hub genes were determined by the “Degree”
+method in the plugin CytoHubba.</p></sec><sec id="section8-2058738420976309"><title>Validation analysis of DEmiRs, DEGs, and DELs in the ceRNA network</title><p>The validation analysis of all DEmiRs in the ceRNA network was performed in
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE124010">GSE124010</ext-link> (based on platform <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GPL25134">GPL25134</ext-link>).<sup><xref rid="bibr17-2058738420976309" ref-type="bibr">17</xref></sup> This dataset contained 3 normal endometria (NM) from healthy candidates
+and 3 EU samples from EMs patients. It would be interesting to know whether the
+candidate DEmiRs in EU <italic toggle="yes">vs.</italic> EC in training datasets were also
+changed in the EU versus NM in the validation dataset. After the positively
+verified DEmiRs were acquired, their target DEGs and DELs were further chosen to
+validate in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE86534">GSE86534</ext-link>, which profiled the mRNA and lncRNA expression in four
+paired EU and EC tissue samples from EMs patients grounded on platform <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GPL20115">GPL20115</ext-link>.<sup><xref rid="bibr18-2058738420976309" ref-type="bibr">18</xref></sup> The p-value &lt; 0.05 was considered significant.</p></sec><sec id="section9-2058738420976309"><title>Correlation analysis of the verified DEmiRs, DEGs, and DELs</title><p>To explore the correlation between verified DEmiRs, and their target DEGs and
+DELs, the miRNA profile in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE105765">GSE105765</ext-link> and mRNA-lncRNA profile in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE105764">GSE105764</ext-link>
+examined on the same samples were combined to perform the Spearman correlation
+analysis. Due to the lack of validation datasets detecting the miRNA and
+mRNA-lncRNA profile in the same samples, we only validated the correlation
+between target DEGs and DELs in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE86534">GSE86534</ext-link>. The <italic toggle="yes">P</italic>-value &lt; 0.05
+was considered significant.</p></sec><sec id="section10-2058738420976309"><title>Gene set enrichment analysis (GSEA) of the verified DEmiRs, DEGs, and
+DELs</title><p>GSEA is a computational method to evaluate whether a defined gene set exerts a
+significant difference between two biological phenotypes.<sup><xref rid="bibr19-2058738420976309" ref-type="bibr">19</xref></sup> Since the EU samples might play a fundamental role in the pathogenesis of Ems,<sup><xref rid="bibr20-2058738420976309" ref-type="bibr">20</xref></sup> we investigated the function of the verified DEmiRs, DEGs, and DELs in EU
+samples by GSEA analysis. According to the median expression of the verified
+DEmiRs, DEGs and DELs, the EU samples were respectively divided into two groups:
+the high- and low-expression groups, and the file “h.all.v7.0.symbols.gmt” in
+GSEA websites (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.gsea-msigdb.org/gsea/index.jsp">https://www.gsea-msigdb.org/gsea/index.jsp</ext-link>) was used as the
+reference gene set. The analysis was performed in GSEA software, and the
+statistical threshold was FDR <italic toggle="yes">q</italic>-value &lt; 0.25. Then,
+top-ranking results were visualized in R software.</p></sec></sec><sec sec-type="results" id="section11-2058738420976309"><title>Results</title><sec id="section12-2058738420976309"><title>Differentially expressed DEGs, DELs, and DEmiRs</title><p>With the criteria of |log2 FC| ⩾ 2 and adjust <italic toggle="yes">P</italic>-value &lt; 0.01,
+116 DEmiRs (47 upregulated and 69 downregulated) were obtained from <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE105765">GSE105765</ext-link>,
+along with 70 DEmiRs (40 upregulated and 30 downregulated) from <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE121406">GSE121406</ext-link> (<xref ref-type="fig" rid="fig2-2058738420976309">Figure 2a</xref> and <xref ref-type="fig" rid="fig2-2058738420976309">b</xref>). The intersection
+analysis showed 27 common DEmiRs (11 upregulated and 16 downregulated) between
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE105765">GSE105765</ext-link> and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE121406">GSE121406</ext-link> (<xref ref-type="fig" rid="fig2-2058738420976309">Figure
+2c</xref>). Additionally, with the criteria of |log2 FC| ⩾ 3 and adjust
+<italic toggle="yes">P</italic>-value &lt; 0.01, 1352 DEGs (693 upregulated and 659
+downregulated) and 595 DELs (278 upregulated and 317 downregulated) were
+identified from <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE105764">GSE105764</ext-link> (<xref ref-type="fig" rid="fig2-2058738420976309">Figure 2d</xref> and <xref ref-type="fig" rid="fig2-2058738420976309">e</xref>).</p><fig id="fig2-2058738420976309" orientation="portrait" position="float"><label>Figure 2.</label><caption><p>Identification of DEmiRs, DELs, and DEGs in endometriosis. (a) Volcano
+plots for DEmiRs between ectopic (EC) and eutopic (EU) endometrium in
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE105764">GSE105764</ext-link>. (b) Volcano plots for DEmiRs between EC and EU endometrium in
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE121406">GSE121406</ext-link>. (c) Venn diagram for the overlapping DEmiRs between <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE105764">GSE105764</ext-link>
+and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE121406">GSE121406</ext-link>. (d) Volcano plots for DELs between EC and EU endometrium
+in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE105765">GSE105765</ext-link>. (e) Volcano plots for DEGs between EC and EU endometrium
+in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE105765">GSE105765</ext-link>. DEmiRs, differentially expressed microRNAs; DEGs,
+differentially expressed genes; DELs: differentially expressed long
+non-coding RNAs; EC, ectopic endometrium; EU, eutopic endometrium.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_2058738420976309-fig2.jpg"/></fig></sec><sec id="section13-2058738420976309"><title>CeRNA network construction</title><p>Based on the filtered DEmiR-DEL and DEmiR-DEG interactive pairs, the EMs-related
+ceRNA network was established, including 11 upregulated and 16 downregulated
+DEmiRs, 7 upregulated and 13 downregulated DELs, 48 upregulated and 46
+downregulated DEGs (<xref ref-type="fig" rid="fig3-2058738420976309">Figure
+3</xref>).</p><fig id="fig3-2058738420976309" orientation="portrait" position="float"><label>Figure 3.</label><caption><p>Competing endogenous RNA (ceRNA) network in endometriosis. The red
+indicates the upregulated RNAs in EC compared to EU samples, and the
+blue indicates the downregulated RNAs in EC compared to EU samples. The
+v-shape represents DEmiRs, the diamond represents DELs, and ellipse
+represents DEGs. DEmiRs, differentially expressed microRNAs; DELs,
+differentially expressed long noncoding RNAs; DEGs, differentially
+expressed genes. EC, ectopic endometrium; EU, eutopic endometrium.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_2058738420976309-fig3.jpg"/></fig></sec><sec id="section14-2058738420976309"><title>GO and KEGG pathway enrichment analysis</title><p>A total of 94 DEGs in the ceRNA network were processed with functional enrichment
+analysis by website Enrichr. The GO analysis revealed that the top five
+significantly enriched biological processes (BPs) were Circulatory system
+development, Positive regulation of stem cell differentiation, Male gonad
+development, Development of primary male sexual characteristics and Positive
+regulation of transcription (<xref ref-type="fig" rid="fig4-2058738420976309">Figure 4a</xref>); the top five molecular functions (MFs) were
+Transcriptional activator activity, RNA polymerase II transcription regulatory
+region sequence-specific binding, Cytokine activity, Transforming growth
+factor-beta receptor binding, Oxidoreductase activity, Acting on the CH-NH2
+group of donors and RNA polymerase II transcription factor binding (<xref ref-type="fig" rid="fig4-2058738420976309">Figure 4b</xref>); the top five
+cellular components (CCs) were Bicellular tight junction, Cytoplasmic vesicle,
+Actomyosin, Zonula adherens and Paranode region of axon (<xref ref-type="fig" rid="fig4-2058738420976309">Figure 4c</xref>). Moreover, KEGG pathway
+analysis indicated that these DEGs were primarily concentrated in
+Transcriptional misregulation in cancer, Cytokine-cytokine receptor interaction,
+Retinol metabolism, Tight junction and TNF signaling pathway (<xref ref-type="fig" rid="fig4-2058738420976309">Figure 4d</xref>).</p><fig id="fig4-2058738420976309" orientation="portrait" position="float"><label>Figure 4.</label><caption><p>GO, KEGG pathway, and PPI network analyses of DEGs in the EMs-related
+ceRNA network. The top 5 enriched (a) biological processes, (b) cellular
+components, (c) molecular functions, and (d) KEGG pathways of DEGs in
+the ceRNA network. The horizontal axis represents the number of genes,
+and the vertical axis represents GO terms or KEGG pathway names. All
+entries were ranked by p-value in the ascending order. (e) PPI network
+constructed by the DEGs in the ceRNA network. According to the degree
+score calculated by plugin NetworkAnalyzer, the node colour changes
+gradually from blue to red and the node sizes from small to large in the
+ascending order. (f) 10 hub DEGs in the PPI network analyzed by the
+“Degree” method in plugin CytoHubba. The node colour changes gradually
+from yellow to red in the ascending order according to the degree score.
+GO, gene ontology; KEGG, Kyoto Encyclopedia of Genes and Genomes; PPI,
+protein-protein interaction; DEGs, differentially expressed genes.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_2058738420976309-fig4.jpg"/></fig></sec><sec id="section15-2058738420976309"><title>PPI network establishment</title><p>By searching those 94 DEGs in the ceRNA network in the STRING database, with the
+interaction score &gt; 0.4, a PPI network consisting of 41 nodes and 74 edges
+was constructed (<xref ref-type="fig" rid="fig4-2058738420976309">Figure
+4e</xref>). Furthermore, according to the degree scores, 10 hub DEGs in the
+PPI network were selected out: GATA4, BDNF, RUNX2, SOX9, GATA6, CXCL8, CEBPA,
+EPCAM, NTF3, CHL1 (<xref ref-type="fig" rid="fig4-2058738420976309">Figure
+4f</xref>).</p></sec><sec id="section16-2058738420976309"><title>Validation analysis of DEmiRs, DEGs, and DELs in the ceRNA network</title><p>All DEmiRs in the ceRNA network were validated in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE124010">GSE124010</ext-link>. Probably due to the
+limited sample size, we only found hsa-miR-182-5p were significantly
+low-expressed in EU samples when compared to NM samples in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE124010">GSE124010</ext-link> (<xref ref-type="fig" rid="fig5-2058738420976309">Figure 5a</xref>). Since
+hsa-miR-182-5p was down-regulated in EC <italic toggle="yes">vs.</italic> EU in training
+datasets and EU <italic toggle="yes">vs</italic>. NM in the validation dataset, it might be a
+constant dysregulated miRNA in EMs development. Hence, the target DEGs and DELs
+of hsa-miR-182-5p were chosen to validated in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE86534">GSE86534</ext-link> (<xref ref-type="fig" rid="fig5-2058738420976309">Figure 5b</xref>). The results showed that two
+lncRNAs LINC01018 and SMIM25 along with four genes BNC2, CHL1, HMCN1, and PRDM16
+were significantly upregulated in EC compared to EU samples in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE86534">GSE86534</ext-link> (<xref ref-type="fig" rid="fig5-2058738420976309">Figure 5c</xref>).</p><fig id="fig5-2058738420976309" orientation="portrait" position="float"><label>Figure 5.</label><caption><p>Validation analysis of DEmiRs, DEGs, and DELs in the ceRNA network. (a)
+All DEmiRs in the ceRNA network were validated in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE124010">GSE124010</ext-link>. (b) The
+target DEGs and DELs of hsa-miR-182-5p in the ceRNA network. (c) The
+target DEGs and DELs of hsa-miR-182-5p were validated in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE86534">GSE86534</ext-link>.
+DEmiRs, differentially expressed microRNAs; DELs, differentially
+expressed long noncoding RNAs; DEGs, differentially expressed genes.
+*<italic toggle="yes">P</italic>-value &lt; 0.05.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_2058738420976309-fig5.jpg"/></fig></sec><sec id="section17-2058738420976309"><title>The relationship between hsa-miR-182-5p and its target DEGs and DELs</title><p>The correlation analysis in combined data of training datasets <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE105764">GSE105764</ext-link> and
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE105765">GSE105765</ext-link> indicated that hsa-miR-182-5p was significantly negatively associated
+with its target DELs (LINC01018 and SMIM25) and DEGs (BNC2, CHL1, HMCN1,
+PRDM16). Moreover, those target DELs (LINC01018 and SMIM25) were significantly
+positively associated with the target DEGs (BNC2, CHL1, HMCN1, PRDM16) (<xref ref-type="fig" rid="fig6-2058738420976309">Figure 6a</xref>). In the
+validation dataset <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE86534">GSE86534</ext-link>, LINC01018 and SMIM25 were also proved to be
+positively correlated with BNC2, CHL1, HMCN1, and PRDM16, respectively, although
+the <italic toggle="yes">P</italic>-value was not always lower than 0.05 probably due to the
+small sample size (<xref ref-type="fig" rid="fig6-2058738420976309">Figure
+6b</xref>). Noticeably, LINC01018 and CHL1 were respectively the most
+up-regulated DEL and DEG both in the training and validation datasets (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://journals.sagepub.com/doi/suppl/10.1177/2058738420976309">supplement Tables S1</ext-link> and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://journals.sagepub.com/doi/suppl/10.1177/2058738420976309">S2</ext-link>). Moreover, CHL1 was also identified as the hub nodes in the
+PPI network. Hence, we selected CHL1 as the representative DEG in subsequent
+GSEA analysis.</p><fig id="fig6-2058738420976309" orientation="portrait" position="float"><label>Figure 6.</label><caption><p>The relationship between hsa-miR-182-5p and its target DEGs and DELs. (a)
+The Spearman correlation analysis of hsa-miR-182-5p and its target DEGs
+and DELs in combined data of training datasets <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE105764">GSE105764</ext-link> and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE105765">GSE105765</ext-link>.
+(b) The Spearman correlation analysis of the target DEGs and DELs of
+hsa-miR-182-5p in the validation dataset <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE86534">GSE86534</ext-link>. DELs, differentially
+expressed long noncoding RNAs; DEGs, differentially expressed genes.
+*<italic toggle="yes">P</italic>-value &lt; 0.05.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_2058738420976309-fig6.jpg"/></fig></sec><sec id="section18-2058738420976309"><title>The GSEA analysis of hsa-miR-182-5p and its targets in EU samples</title><p>To investigated the function of hsa-miR-182-5p and its targets in EU samples, the
+GSEA analysis was performed. The EU samples in training datasets were divided
+into high- and low-expression groups according to the median expression of
+hsa-miR-182-5p, LINC01018, SMIM25, and CHL1, respectively. The results showed
+that the pathway “INFLAMMATORY_RESPONSE” was activated in high-expressed
+LINC01018 and low-expressed hsa-miR-182-5p EU samples compared to respective
+control samples. Besides, the pathway “INTERFERON_GAMMA_RESPONSE” and
+“TNFA_SIGNALING_VIA_NFKB” were also respectively triggered in high-expressed
+SMIM25 and CHL1 EU samples compared to low-expression controls. Interestingly,
+high expression of LINC01018 and low expression of hsa-miR-182-5p were also
+associated with activation of the pathway “EPITHELIAL_MESENCHYMAL_TRANSITION,” a
+well-described pathological process in EMs (<xref ref-type="fig" rid="fig7-2058738420976309">Figure 7</xref>).</p><fig id="fig7-2058738420976309" orientation="portrait" position="float"><label>Figure 7.</label><caption><p>The GSEA analysis of hsa-miR-182-5p and its targets in EU samples. The
+top 6 activated pathways in high-expressed LINC01018 (a), SMIM25 (b),
+CHL1 (c), and low-expressed hsa-miR-182-5p (d) EU samples compared to
+respective controls. And representative pathways were displayed in
+classic GSEA plots (e), (f), (g), (h). GSEA, gene set enrichment
+analysis; EU, eutopic endometrium. NES, normalized enrichment score.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_2058738420976309-fig7.jpg"/></fig></sec></sec><sec sec-type="discussion" id="section19-2058738420976309"><title>Discussion</title><p>Endometriosis (EMs) is a heterogeneous disorder because of the diverse implanting
+locations with different depth of infiltration and non-specific clinical symptoms.<sup><xref rid="bibr1-2058738420976309" ref-type="bibr">1</xref></sup> The pathological mechanism of EMs remains enigmatic. Progressively
+accumulating evidence declared that the dysregulation of lncRNA affected miRNA
+activity, such as the ceRNA hypothesis, which was probably involved in the pathology
+of Ems.<sup><xref rid="bibr5-2058738420976309" ref-type="bibr">5</xref>,<xref rid="bibr6-2058738420976309" ref-type="bibr">6</xref></sup> However, the
+lncRNA-associated ceRNA network based on multiple RNA-sequencing datasets remains
+unexplored in EMs.</p><p>To address this challenge, we established an EMs-associated ceRNA network comprised
+of 11 upregulated and 16 downregulated DEmiRs, 7 upregulated and 13 downregulated
+DELs, 48 upregulated and 46 downregulated DEGs. The GO and KEGG pathway analysis
+indicated that this ceRNA network was related to inflammation-related pathways, such
+as “Cytokine-cytokine receptor interaction” and “TNF signalling pathway.” And the
+inflammatory response is the central link of the genesis of Ems.<sup><xref rid="bibr21-2058738420976309" ref-type="bibr">21</xref></sup> The validation analysis revealed that hsa-miR-182-5p was not only
+downregulated in EC <italic toggle="yes">vs</italic>. EU samples but also downregulated in the EU
+versus NM samples. Besides, the target DELs (LINC01018 and SMIM25) and DEGs (BNC2,
+CHL1, HMCN1, PRDM16) of hsa-miR-182-5p were proved to be upregulated in EC versus EU
+samples. The negative correlation of hsa-miR-182-5p and these target DELs and DEGs
+was proved in training datasets. LINC01018 and SMIM25 were found positively
+correlated with BNC2, CHL1, HMCN1, PRDM16 in training and validation datasets. The
+GSEA analysis showed that high expression of LINC01018, SMIM25, and CHL1 (the DEG
+with the maximum log<sub>2</sub>FC) and low expression of hsa-miR-182-5p would
+activate inflammation-related pathways in EU samples in EMs. Hence, we supposed that
+LINC01018 and SMIM25 might sponge hsa-miR-182-5p to upregulate downstream genes such
+as CHL1 to promote the development of EMs.</p><p>To the best of our knowledge, the lncRNA LINC01018 and SMIM25 in our established
+ceRNA network are firstly reported in EMs. Wang et al. reported that LINC01018 was
+downregulated in hepatocellular carcinoma (HCC) tissues, and the over-expression of
+LINC01018 inhibited proliferation and promoted apoptosis of HCC cells via the
+up-regulation of FOXO1 by sponging hsa-miR-182-5p.<sup><xref rid="bibr22-2058738420976309" ref-type="bibr">22</xref></sup> Notably, a certain degree of proliferation and reduced apoptosis were the key
+features of Ems.<sup><xref rid="bibr21-2058738420976309" ref-type="bibr">21</xref></sup> However, the expression trend of LINC01018 in HCC in Wang et al.’s study<sup><xref rid="bibr22-2058738420976309" ref-type="bibr">22</xref></sup> was contrary to our findings in EMs. We supposed that LINC01018 might have
+tissue-specific expression and affect cell proliferation and apoptosis in EMs via
+specific mechanisms different from those in HCC. Moreover, the upregulation of
+LINC01018 would be induced by fasting in humanized livers.<sup><xref rid="bibr23-2058738420976309" ref-type="bibr">23</xref></sup> And the genome-wide association study (GWAS) indicated that the expression of
+LINC01018 in the liver was associated with the body mass index (BMI).<sup><xref rid="bibr23-2058738420976309" ref-type="bibr">23</xref></sup> Interestingly, women with EMs were reported with lower BMI<sup><xref rid="bibr24-2058738420976309" ref-type="bibr">24</xref></sup> and dysregulated lipid metabolism.<sup><xref rid="bibr25-2058738420976309" ref-type="bibr">25</xref></sup> Although our GSEA analysis indicated LINC01018 related to inflammatory
+response, it would be interesting to know whether LINC01018 affects lipid metabolism
+in EMs in future studies.</p><p>The SMIM25, also known as LINC01272, was upregulated gastric cancer (GC), and the
+over-expression of SMIM25 promoted the migration and invasion ability of GC cells by
+activating the epithelial-mesenchymal transition (EMT) process.<sup><xref rid="bibr26-2058738420976309" ref-type="bibr">26</xref></sup> The EMT defines a process by which epithelial cells lose their cell polarity
+and cell-to-cell adhesion and acquire the migratory and invasive properties to
+become mesenchymal cells.<sup><xref rid="bibr27-2058738420976309" ref-type="bibr">27</xref></sup> These changes are supposed to contribute to the establishment of
+endometriotic lesions in Ems.<sup><xref rid="bibr27-2058738420976309" ref-type="bibr">27</xref></sup> Moreover, the upregulation of SMIM25 might be an indicator of inflammatory
+bowel disease (IBD) and Crohn disease.<sup><xref rid="bibr28-2058738420976309" ref-type="bibr">28</xref>,<xref rid="bibr29-2058738420976309" ref-type="bibr">29</xref></sup> More recently, Hung <italic toggle="yes">et
+al.</italic> reported that SMIM25 was upregulated in unstable plaque and highly
+monocyte- and macrophage-specific.<sup><xref rid="bibr30-2058738420976309" ref-type="bibr">30</xref></sup> And the knockdown of SMIM25 significantly reduced the phagocytosis.<sup><xref rid="bibr30-2058738420976309" ref-type="bibr">30</xref></sup> Hence, this study renamed the SMIM25 as PELATON (plaque enriched lncRNA in
+atherosclerotic and inflammatory bowel macrophage regulation). Notably, peritoneal
+macrophages’ impaired phagocytic ability was found in women with EMs, which might
+contribute to the failure to eradicate aberrant ectopic cells.<sup><xref rid="bibr31-2058738420976309" ref-type="bibr">31</xref></sup> Additionally, aberrant SMIM25 expression might influence the endometrial
+receptivity via the inflammation reaction.<sup><xref rid="bibr32-2058738420976309" ref-type="bibr">32</xref></sup> Considering the crucial role of inflammation and abnormal immunity in EMs, we
+speculated possible involvement of SMIM25 in the pathogenesis of endometriosis.</p><p>The verified DEmiR hsa-miR-182-5p belonged to the miR-183/96/182 family, which might
+adopt a critical role in the process of apoptosis, DNA repair, lipid metabolism, and
+immune signalling.<sup><xref rid="bibr33-2058738420976309" ref-type="bibr">33</xref></sup> By RNA-sequencing, microarray profiling, and qRT-PCR validation, the
+down-regulation of hsa-miR-182-5p was observed in EC compared to EU
+samples.<sup><xref rid="bibr10-2058738420976309" ref-type="bibr">10</xref>,<xref rid="bibr34-2058738420976309" ref-type="bibr">34</xref></sup> Meanwhile, the dysregulation of hsa-miR-182-5p was also found
+in the plasma of EMs patients.<sup><xref rid="bibr35-2058738420976309" ref-type="bibr">35</xref></sup> Similarly, has-miR-183 was also reported downregulated in EC versus EU
+samples and EU versus NM samples, thus promoting invasion and suppressing apoptosis
+of endometrial stromal cells by targeting ITGB1P.<sup><xref rid="bibr36-2058738420976309" ref-type="bibr">36</xref>,<xref rid="bibr37-2058738420976309" ref-type="bibr">37</xref></sup> It has been reported that
+hsa-miR-182-5p was significantly decreased in atherosclerosis models, and the
+over-expression of hsa-miR-182-5p inhibited the oxidative stress and macrophage
+apoptosis by targeting Toll-like receptor 4 (TRL4).<sup><xref rid="bibr38-2058738420976309" ref-type="bibr">38</xref></sup> Quite a few oxidative stress biomarkers had been found significantly higher
+in women with EMs than healthy controls.<sup><xref rid="bibr39-2058738420976309" ref-type="bibr">39</xref></sup> Continued oxidative stress would contribute to chronic inflammation,<sup><xref rid="bibr40-2058738420976309" ref-type="bibr">40</xref></sup> which provides a favourable condition for the implantation and growth of
+endometriotic cells. Besides, the macrophages are abundant in ectopic lesions, in
+the peritoneal cavity and peritoneal fluid of women with EMs compared to controls.<sup><xref rid="bibr31-2058738420976309" ref-type="bibr">31</xref></sup> And two phenotypes of macrophages: “classically activated” macrophages and
+“alternatively activated” macrophages, collectively contributed to the mixed pro-
+and anti-inflammatory microenvironment for the establishment of ectopic lesions.<sup><xref rid="bibr31-2058738420976309" ref-type="bibr">31</xref></sup> Furthermore, hsa-miR-182-5p was decreased in metastatic non-small cell lung
+cancer (NSCLC) tissues compared to primary tumour tissues.<sup><xref rid="bibr41-2058738420976309" ref-type="bibr">41</xref></sup> And it inhibited the metastasis of lung cancer cells via suppressing the EMT process,<sup><xref rid="bibr41-2058738420976309" ref-type="bibr">41</xref></sup> a well-known precondition for the initial implantation of endometriotic lesions.<sup><xref rid="bibr27-2058738420976309" ref-type="bibr">27</xref></sup></p><p>Our GSEA analysis revealed that high expression of CHL1 (cell adhesion molecule L1
+Like), the target genes of has-miR-182-5p with the maximum log2FC, would activate
+the EMT process. CHL1 is a member of the L1 gene family of neural cell adhesion
+molecules (L1-CAMs), which involved developing the nervous system and a series of
+morphogenic events, such as cell migration and adhesion.<sup><xref rid="bibr42-2058738420976309" ref-type="bibr">42</xref></sup> As the homology of CHL1, L1CAM was upregulated in atypical EMs compared to
+typical EMs, aggravating pain in EMs by promoting nerve growth.<sup><xref rid="bibr43-2058738420976309" ref-type="bibr">43</xref></sup> Similarly, CHL1 was also found over-expressed in EMs,<sup><xref rid="bibr44-2058738420976309" ref-type="bibr">44</xref></sup> although it was reported under-expressed in cervical cancer,<sup><xref rid="bibr42-2058738420976309" ref-type="bibr">42</xref></sup> breast cancer,<sup><xref rid="bibr45-2058738420976309" ref-type="bibr">45</xref></sup> nasopharyngeal cancer,<sup><xref rid="bibr46-2058738420976309" ref-type="bibr">46</xref></sup> and papillary thyroid cancer.<sup><xref rid="bibr47-2058738420976309" ref-type="bibr">47</xref></sup> The overexpression of CHL1 inhibited the motility of nasopharyngeal cancer
+cells by the suppression of EMT.<sup><xref rid="bibr46-2058738420976309" ref-type="bibr">46</xref></sup> And the silencing of has-miR-182 promoted the expression of CHL1, thus
+suppressing the growth and invasion of papillary thyroid carcinoma cells.<sup><xref rid="bibr47-2058738420976309" ref-type="bibr">47</xref></sup> Notably, enhanced invasion and proliferation and the activated EMT were the
+key features of EMs.<sup><xref rid="bibr21-2058738420976309" ref-type="bibr">21</xref>,<xref rid="bibr27-2058738420976309" ref-type="bibr">27</xref></sup> Thus, CHL1 might act in specific ways to influence these
+processes in EMs.</p><p>Nevertheless, three other target genes of has-miR-182 were seldom reported in EMs.
+BNC2 (Basonuclin 2) is fundamental for the proliferation of craniofacial mesenchymal
+cells during embryogenesis.<sup><xref rid="bibr48-2058738420976309" ref-type="bibr">48</xref></sup> The polymorphisms in the BNC2 gene were associated with ovarian cancer but
+not with EMs, indicating EMs is mediated by BNC2 in other ways.<sup><xref rid="bibr49-2058738420976309" ref-type="bibr">49</xref></sup> HMCN1 (Hemicentin 1) participates in the architecture of adhesive and
+flexible epithelial cell junctions.<sup><xref rid="bibr50-2058738420976309" ref-type="bibr">50</xref></sup> The upregulation of HMCN1 was found in ovarian cancer (OC) fibroblasts, thus
+promoting the invasion of OC fibroblasts.<sup><xref rid="bibr50-2058738420976309" ref-type="bibr">50</xref></sup> PRDM16 (PR Domain Containing 16) was involved in adipose biology and also
+maintenance of hematopoietic and neuronal stem cells.<sup><xref rid="bibr51-2058738420976309" ref-type="bibr">51</xref></sup> The deletion of PRDM16 in mice contributed to increased apoptosis of
+hematopoietic stem cells (HSCs).<sup><xref rid="bibr52-2058738420976309" ref-type="bibr">52</xref></sup> And a steady flow of HSCs would facilitate the angiogenesis and inflammation
+in EMs ectopic lesions.<sup><xref rid="bibr53-2058738420976309" ref-type="bibr">53</xref></sup></p><p>However, our analysis has some limitations. Firstly, due to the scarcity of available
+lncRNA and miRNA datasets of EMs, the sample size in the available training and
+validation datasets is small. Expanding the sample size would enhance the
+reliability of the results. Secondly, the datasets are expected to include normal
+endometrium (NM) from healthy women as the normal control to explore the molecular
+changes in EU samples. Besides, the expression of target genes of hsa-miR-182-5p was
+only analyzed in the mRNA level, which would be improved by validation in the
+protein level. Moreover, functional experiments need to be performed to explain the
+detailed regulatory mechanism of hsa-miR-182-5p in a ceRNA manner in EMs.</p></sec><sec sec-type="conclusions" id="section20-2058738420976309"><title>Conclusion</title><p>In conclusion, we firstly constructed the lncRNA-associated ceRNA network based on
+multiple RNA-sequencing datasets in endometriosis. Our study revealed that the
+LINC01018 and SMIM25 sponged miR-182-5p to upregulate downstream genes such as CHL1
+to promote the development of endometriosis, which would provide new insights into
+the roles of non-coding RNAs in the pathogenesis of endometriosis.</p></sec><sec sec-type="supplementary-material" id="section21-2058738420976309" specific-use="figshare"><title>Supplemental Material</title><supplementary-material content-type="local-data" id="suppl1-2058738420976309" position="float" orientation="portrait"><caption><title>sj-xlsx-1-iji-10.1177_2058738420976309 – Supplemental material for
+LINC01018 and SMIM25 sponged miR-182-5p in endometriosis revealed by the
+ceRNA network construction</title></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="sj-xlsx-1-iji-10.1177_2058738420976309.xlsx" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media><p>Supplemental material, sj-xlsx-1-iji-10.1177_2058738420976309 for LINC01018 and
+SMIM25 sponged miR-182-5p in endometriosis revealed by the ceRNA network
+construction by Li Jiang, Mengmeng Zhang, Sixue Wang, Yuzhen Xiao, Jingni Wu,
+Yuxin Zhou and Xiaoling Fang in International Journal of Immunopathology and
+Pharmacology</p></supplementary-material><supplementary-material content-type="local-data" id="suppl2-2058738420976309" position="float" orientation="portrait"><caption><title>sj-xlsx-2-iji-10.1177_2058738420976309 – Supplemental material for
+LINC01018 and SMIM25 sponged miR-182-5p in endometriosis revealed by the
+ceRNA network construction</title></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="sj-xlsx-2-iji-10.1177_2058738420976309.xlsx" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media><p>Supplemental material, sj-xlsx-2-iji-10.1177_2058738420976309 for LINC01018 and
+SMIM25 sponged miR-182-5p in endometriosis revealed by the ceRNA network
+construction by Li Jiang, Mengmeng Zhang, Sixue Wang, Yuzhen Xiao, Jingni Wu,
+Yuxin Zhou and Xiaoling Fang in International Journal of Immunopathology and
+Pharmacology</p></supplementary-material></sec></body><back><ack><p>The authors would like to thank the GEO training course of Helix-Life as well as
+Biotrainee for the training of bioinformatics analysis, and Dr. Jianming Zeng (CEO
+of Biotrainee) and Dr. Guozi (Chongqing Medical University) for generously sharing
+their experience and codes.</p></ack><fn-group><fn fn-type="COI-statement"><p><bold>Declaration of conflicting interests:</bold> The author(s) declared no potential conflicts of interest with respect to the
+research, authorship, and/or publication of this article.</p></fn><fn fn-type="financial-disclosure"><p><bold>Funding:</bold> The author(s) disclosed receipt of the following financial support for the
+research, authorship, and/or publication of this article: This work was
+supported by the National Natural Science Foundation of China (81671437,
+81801425, 81771558) and the Natural Science Foundation of Hunan Provincial,
+China (2016JC2049). The funders had no role in study design, data collection,
+and analysis, decision to publish, or preparation of the manuscript.</p></fn><fn fn-type="other"><p><bold>ORCID iD:</bold> Li Jiang <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="10.1177_2058738420976309-img1.jpg"/>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://orcid.org/0000-0002-4422-567X">https://orcid.org/0000-0002-4422-567X</ext-link></p></fn><fn fn-type="other"><p><bold>Data Availability Statement:</bold> Data is available at NCBI GEO, accession numbers: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE105765">GSE105765</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE121406">GSE121406</ext-link>,
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE105764">GSE105764</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE124010">GSE124010</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE86534">GSE86534</ext-link>.</p></fn><fn fn-type="supplementary-material"><p><bold>Supplemental material:</bold> Supplemental material for this article is available online.</p></fn></fn-group><ref-list><title>References</title><ref id="bibr1-2058738420976309"><label>1.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Giudice</surname><given-names>LC</given-names></name></person-group> (<year>2010</year>)
+<article-title>Endometriosis</article-title>. <source>New England Journal of
+Medicine</source>
+<volume>362</volume>: <fpage>2389</fpage>–<lpage>2398</lpage>.<pub-id pub-id-type="pmid">20573927</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMcp1000274</pub-id><pub-id pub-id-type="pmcid">PMC3108065</pub-id></mixed-citation></ref><ref id="bibr2-2058738420976309"><label>2.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Berkley</surname><given-names>KJ</given-names></name><name name-style="western"><surname>Rapkin</surname><given-names>AJ</given-names></name><name name-style="western"><surname>Papka</surname><given-names>RE</given-names></name></person-group> (<year>2005</year>) <article-title>The pains of
+endometriosis</article-title>. <source>Science</source>
+<volume>308</volume>: <fpage>1587</fpage>–<lpage>1589</lpage>.<pub-id pub-id-type="pmid">15947176</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/science.1111445</pub-id></mixed-citation></ref><ref id="bibr3-2058738420976309"><label>3.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Nezhat</surname><given-names>F</given-names></name><name name-style="western"><surname>Datta</surname><given-names>MS</given-names></name><name name-style="western"><surname>Hanson</surname><given-names>V</given-names></name></person-group>, <etal>et al</etal> (<year>2008</year>) <article-title>The
+relationship of endometriosis and ovarian malignancy: A
+review</article-title>. <source>Fertility and Sterility</source>
+<volume>90</volume>: <fpage>1559</fpage>–<lpage>1570</lpage>.<pub-id pub-id-type="pmid">18993168</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.fertnstert.2008.08.007</pub-id></mixed-citation></ref><ref id="bibr4-2058738420976309"><label>4.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Sampson</surname><given-names>JA</given-names></name></person-group> (<year>1927</year>) <article-title>Peritoneal endometriosis due
+to the menstrual dissemination of endometrial tissue into the peritoneal
+cavity</article-title>. <source>American Journal of Obstetrics &amp;
+Gynecology</source>
+<volume>14</volume>: <fpage>422</fpage>–<lpage>469</lpage>.</mixed-citation></ref><ref id="bibr5-2058738420976309"><label>5.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Beermann</surname><given-names>J</given-names></name><name name-style="western"><surname>Piccoli</surname><given-names>M-T</given-names></name><name name-style="western"><surname>Viereck</surname><given-names>J</given-names></name></person-group>, <etal>et al</etal> (<year>2016</year>)
+<article-title>Non-coding RNAs in development and disease: Background,
+mechanisms, and therapeutic approaches</article-title>.
+<source>Physiological Reviews</source>
+<volume>96</volume>: <fpage>1297</fpage>–<lpage>1325</lpage>.<pub-id pub-id-type="pmid">27535639</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1152/physrev.00041.2015</pub-id></mixed-citation></ref><ref id="bibr6-2058738420976309"><label>6.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Saare</surname><given-names>M</given-names></name><name name-style="western"><surname>Rekker</surname><given-names>K</given-names></name><name name-style="western"><surname>Laisk-Podar</surname><given-names>T</given-names></name></person-group>, <etal>et al</etal> (<year>2017</year>)
+<article-title>Challenges in endometriosis miRNA studies - From tissue
+heterogeneity to disease specific miRNAs</article-title>. <source>Biochimica
+et Biophysica Acta - Molecular Basis of Disease</source>
+<volume>1863</volume>: <fpage>2282</fpage>–<lpage>2292</lpage>.<pub-id pub-id-type="pmid">28651916</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bbadis.2017.06.018</pub-id></mixed-citation></ref><ref id="bibr7-2058738420976309"><label>7.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Panir</surname><given-names>K</given-names></name><name name-style="western"><surname>Schjenken</surname><given-names>JE</given-names></name><name name-style="western"><surname>Robertson</surname><given-names>SA</given-names></name></person-group>, <etal>et al</etal> (<year>2018</year>)
+<article-title>Non-coding RNAs in endometriosis: A narrative
+review</article-title>. <source>Human Reproduction Update</source>
+<volume>24</volume>: <fpage>497</fpage>–<lpage>515</lpage>.<pub-id pub-id-type="pmid">29697794</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/humupd/dmy014</pub-id></mixed-citation></ref><ref id="bibr8-2058738420976309"><label>8.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Salmena</surname><given-names>L</given-names></name><name name-style="western"><surname>Poliseno</surname><given-names>L</given-names></name><name name-style="western"><surname>Tay</surname><given-names>Y</given-names></name></person-group>, <etal>et al</etal> (<year>2011</year>) <article-title>A ceRNA
+hypothesis: The Rosetta Stone of a hidden RNA language?</article-title>
+<source>Cell</source>
+<volume>146</volume>: <fpage>353</fpage>–<lpage>358</lpage>.<pub-id pub-id-type="pmid">21802130</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cell.2011.07.014</pub-id><pub-id pub-id-type="pmcid">PMC3235919</pub-id></mixed-citation></ref><ref id="bibr9-2058738420976309"><label>9.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Ghazal</surname><given-names>S</given-names></name><name name-style="western"><surname>McKinnon</surname><given-names>B</given-names></name><name name-style="western"><surname>Zhou</surname><given-names>J</given-names></name></person-group>, <etal>et al</etal> (<year>2015</year>) <article-title>H19
+lncRNA alters stromal cell growth via IGF signaling in the endometrium of
+women with endometriosis</article-title>. <source>EMBO Molecular
+Medicine</source>
+<volume>7</volume>: <fpage>996</fpage>–<lpage>1003</lpage>.<pub-id pub-id-type="pmid">26089099</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.15252/emmm.201505245</pub-id><pub-id pub-id-type="pmcid">PMC4551339</pub-id></mixed-citation></ref><ref id="bibr10-2058738420976309"><label>10.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Zhao</surname><given-names>L</given-names></name><name name-style="western"><surname>Gu</surname><given-names>C</given-names></name><name name-style="western"><surname>Ye</surname><given-names>M</given-names></name></person-group>, <etal>et al</etal> (<year>2018</year>)
+<article-title>Integration analysis of microRNA and mRNA paired expression
+profiling identifies deregulated microRNA-transcription factor-gene
+regulatory networks in ovarian endometriosis</article-title>.
+<source>Reproductive Biology and Endocrinology</source>
+<volume>16</volume>: <fpage>4</fpage>.<pub-id pub-id-type="pmid">29357938</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12958-017-0319-5</pub-id><pub-id pub-id-type="pmcid">PMC5776778</pub-id></mixed-citation></ref><ref id="bibr11-2058738420976309"><label>11.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Rekker</surname><given-names>K</given-names></name><name name-style="western"><surname>Tasa</surname><given-names>T</given-names></name><name name-style="western"><surname>Saare</surname><given-names>M</given-names></name></person-group>, <etal>et al</etal> (<year>2018</year>)
+<article-title>Differentially-expressed miRNAs in ectopic stromal cells
+contribute to endometriosis development: The plausible role of miR-139-5p
+and miR-375</article-title>. <source>International Journal of Molecular
+Sciences</source>
+<volume>19</volume>: <fpage>3789</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ijms19123789</pub-id><pub-id pub-id-type="pmcid">PMC6321240</pub-id><pub-id pub-id-type="pmid">30487429</pub-id></mixed-citation></ref><ref id="bibr12-2058738420976309"><label>12.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Love</surname><given-names>MI</given-names></name><name name-style="western"><surname>Huber</surname><given-names>W</given-names></name><name name-style="western"><surname>Anders</surname><given-names>S</given-names></name></person-group> (<year>2014</year>) <article-title>Moderated estimation of fold
+change and dispersion for RNA-seq data with DESeq2</article-title>.
+<source>Genome Biology</source>
+<volume>15</volume>: <fpage>550</fpage>.<pub-id pub-id-type="pmid">25516281</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13059-014-0550-8</pub-id><pub-id pub-id-type="pmcid">PMC4302049</pub-id></mixed-citation></ref><ref id="bibr13-2058738420976309"><label>13.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Li</surname><given-names>J-H</given-names></name><name name-style="western"><surname>Liu</surname><given-names>S</given-names></name><name name-style="western"><surname>Zhou</surname><given-names>H</given-names></name></person-group>, <etal>et al</etal> (<year>2014</year>) <article-title>starBase
+v2.0: Decoding miRNA-ceRNA, miRNA-ncRNA and protein-RNA interaction networks
+from large-scale CLIP-Seq data</article-title>. <source>Nucleic Acids
+Research</source>
+<volume>42</volume>: <fpage>D92</fpage>−<lpage>D97</lpage>.<pub-id pub-id-type="pmid">24297251</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/nar/gkt1248</pub-id><pub-id pub-id-type="pmcid">PMC3964941</pub-id></mixed-citation></ref><ref id="bibr14-2058738420976309"><label>14.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Paraskevopoulou</surname><given-names>MD</given-names></name><name name-style="western"><surname>Vlachos</surname><given-names>IS</given-names></name><name name-style="western"><surname>Karagkouni</surname><given-names>D</given-names></name></person-group>, <etal>et al</etal> (<year>2016</year>)
+<article-title>DIANA-LncBase v2: Indexing microRNA targets on non-coding
+transcripts</article-title>. <source>Nucleic Acids Research</source>
+<volume>44</volume>: <fpage>D231</fpage>−<lpage>D238</lpage>.<pub-id pub-id-type="pmid">26612864</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/nar/gkv1270</pub-id><pub-id pub-id-type="pmcid">PMC4702897</pub-id></mixed-citation></ref><ref id="bibr15-2058738420976309"><label>15.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Chou</surname><given-names>C-H</given-names></name><name name-style="western"><surname>Shrestha</surname><given-names>S</given-names></name><name name-style="western"><surname>Yang</surname><given-names>C-D</given-names></name></person-group>, <etal>et al</etal> (<year>2018</year>)
+<article-title>miRTarBase update 2018: A resource for experimentally
+validated microRNA-target interactions</article-title>. <source>Nucleic
+Acids Research</source>
+<volume>46</volume>: <fpage>D296</fpage>–<lpage>D302</lpage>.<pub-id pub-id-type="pmid">29126174</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/nar/gkx1067</pub-id><pub-id pub-id-type="pmcid">PMC5753222</pub-id></mixed-citation></ref><ref id="bibr16-2058738420976309"><label>16.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Shannon</surname><given-names>P</given-names></name><name name-style="western"><surname>Markiel</surname><given-names>A</given-names></name><name name-style="western"><surname>Ozier</surname><given-names>O</given-names></name></person-group>, <etal>et al</etal> (<year>2003</year>)
+<article-title>Cytoscape: A software environment for integrated models of
+biomolecular interaction networks</article-title>. <source>Genome
+Research</source>
+<volume>13</volume>: <fpage>2498</fpage>–<lpage>2504</lpage>.<pub-id pub-id-type="pmid">14597658</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1101/gr.1239303</pub-id><pub-id pub-id-type="pmcid">PMC403769</pub-id></mixed-citation></ref><ref id="bibr17-2058738420976309"><label>17.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Zhou</surname><given-names>C-F</given-names></name><name name-style="western"><surname>Liu</surname><given-names>M-J</given-names></name><name name-style="western"><surname>Wang</surname><given-names>W</given-names></name></person-group>, <etal>et al</etal> (<year>2019</year>)
+<article-title>miR-205-5p inhibits human endometriosis progression by
+targeting ANGPT2 in endometrial stromal cells</article-title>. <source>Stem
+Cell Research &amp; Therapy</source>
+<volume>10</volume>: <fpage>287</fpage>.<pub-id pub-id-type="pmid">31547870</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13287-019-1388-5</pub-id><pub-id pub-id-type="pmcid">PMC6757391</pub-id></mixed-citation></ref><ref id="bibr18-2058738420976309"><label>18.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Zhang</surname><given-names>C</given-names></name><name name-style="western"><surname>Wu</surname><given-names>W</given-names></name><name name-style="western"><surname>Zhu</surname><given-names>H</given-names></name></person-group>, <etal>et al</etal> (<year>2019</year>)
+<article-title>Knockdown of long noncoding RNA CCDC144NL-AS1 attenuates
+migration and invasion phenotypes in endometrial stromal cells from
+endometriosis†</article-title>. <source>Biology of Reproduction</source>
+<volume>100</volume>: <fpage>939</fpage>–<lpage>949</lpage>.<pub-id pub-id-type="pmid">30496345</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/biolre/ioy252</pub-id></mixed-citation></ref><ref id="bibr19-2058738420976309"><label>19.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Subramanian</surname><given-names>A</given-names></name><name name-style="western"><surname>Tamayo</surname><given-names>P</given-names></name><name name-style="western"><surname>Mootha</surname><given-names>VK</given-names></name></person-group>, <etal>et al</etal> (<year>2005</year>) <article-title>Gene set
+enrichment analysis: A knowledge-based approach for interpreting genome-wide
+expression profiles</article-title>. <source>Proceedings of the National
+Academy of Sciences</source>
+<volume>102</volume>:
+<fpage>15545</fpage>–<lpage>15550</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.0506580102</pub-id><pub-id pub-id-type="pmcid">PMC1239896</pub-id><pub-id pub-id-type="pmid">16199517</pub-id></mixed-citation></ref><ref id="bibr20-2058738420976309"><label>20.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Liu</surname><given-names>H</given-names></name><name name-style="western"><surname>Lang</surname><given-names>JH</given-names></name></person-group> (<year>2011</year>) <article-title>Is abnormal eutopic
+endometrium the cause of endometriosis? The role of eutopic endometrium in
+pathogenesis of endometriosis</article-title>. <source>Medical Science
+Monitor</source>
+<volume>17</volume>: <fpage>RA92</fpage>–<lpage>RA99</lpage>.<pub-id pub-id-type="pmid">21455119</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.12659/MSM.881707</pub-id><pub-id pub-id-type="pmcid">PMC3539524</pub-id></mixed-citation></ref><ref id="bibr21-2058738420976309"><label>21.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Bulun</surname><given-names>SE</given-names></name><name name-style="western"><surname>Yilmaz</surname><given-names>BD</given-names></name><name name-style="western"><surname>Sison</surname><given-names>C</given-names></name></person-group>, <etal>et al</etal> (<year>2019</year>)
+<article-title>Endometriosis</article-title>. <source>Endocrine
+Reviews</source>
+<volume>40</volume>: <fpage>1048</fpage>–<lpage>1079</lpage>.<pub-id pub-id-type="pmid">30994890</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1210/er.2018-00242</pub-id><pub-id pub-id-type="pmcid">PMC6693056</pub-id></mixed-citation></ref><ref id="bibr22-2058738420976309"><label>22.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Wang</surname><given-names>S</given-names></name><name name-style="western"><surname>Xu</surname><given-names>M</given-names></name><name name-style="western"><surname>Sun</surname><given-names>Z</given-names></name></person-group>, <etal>et al</etal> (<year>2019</year>)
+<article-title>LINC01018 confers a novel tumor suppressor role in
+hepatocellular carcinoma through sponging microRNA-182-5p</article-title>.
+<source>American Journal of Physiology-Gastrointestinal and Liver
+Physiology</source>
+<volume>317</volume>: <fpage>G116</fpage>–<lpage>G126</lpage>.<pub-id pub-id-type="pmid">31021172</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1152/ajpgi.00005.2019</pub-id></mixed-citation></ref><ref id="bibr23-2058738420976309"><label>23.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Ruan</surname><given-names>X</given-names></name><name name-style="western"><surname>Li</surname><given-names>P</given-names></name><name name-style="western"><surname>Chen</surname><given-names>Y</given-names></name></person-group>, <etal>et al</etal> (<year>2020</year>) <article-title>In vivo
+functional analysis of non-conserved human lncRNAs associated with
+cardiometabolic traits</article-title>. <source>Nature
+Communications</source>
+<volume>11</volume>: <fpage>45</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41467-019-13688-z</pub-id><pub-id pub-id-type="pmcid">PMC6940387</pub-id><pub-id pub-id-type="pmid">31896749</pub-id></mixed-citation></ref><ref id="bibr24-2058738420976309"><label>24.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Ferrero</surname><given-names>S</given-names></name><name name-style="western"><surname>Anserini</surname><given-names>P</given-names></name><name name-style="western"><surname>Remorgida</surname><given-names>V</given-names></name></person-group>, <etal>et al</etal> (<year>2005</year>) <article-title>Body
+mass index in endometriosis</article-title>. <source>European Journal of
+Obstetrics &amp; Gynecology and Reproductive Biology</source>
+<volume>121</volume>: <fpage>94</fpage>–<lpage>98</lpage>.<pub-id pub-id-type="pmid">15950360</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ejogrb.2004.11.019</pub-id></mixed-citation></ref><ref id="bibr25-2058738420976309"><label>25.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Melo</surname><given-names>AS</given-names></name><name name-style="western"><surname>Rosa-e-Silva</surname><given-names>JC</given-names></name><name name-style="western"><surname>de Rosa-e-Silva</surname><given-names>ACJS</given-names></name></person-group>, <etal>et al</etal> (<year>2010</year>)
+<article-title>Unfavorable lipid profile in women with
+endometriosis</article-title>. <source>Fertility and Sterility</source>
+<volume>93</volume>: <fpage>2433</fpage>–<lpage>2436</lpage>.<pub-id pub-id-type="pmid">19969295</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.fertnstert.2009.08.043</pub-id></mixed-citation></ref><ref id="bibr26-2058738420976309"><label>26.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Leng</surname><given-names>X</given-names></name><name name-style="western"><surname>Liu</surname><given-names>G</given-names></name><name name-style="western"><surname>Wang</surname><given-names>S</given-names></name></person-group>, <etal>et al</etal> (<year>2020</year>)
+<article-title>LINC01272 Promotes migration and invasion of gastric cancer
+cells via EMT</article-title>. <source>OncoTargets and Therapy</source>
+<volume>13</volume>: <fpage>3401</fpage>–<lpage>3410</lpage>.<pub-id pub-id-type="pmid">32368096</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.2147/OTT.S242073</pub-id><pub-id pub-id-type="pmcid">PMC7184168</pub-id></mixed-citation></ref><ref id="bibr27-2058738420976309"><label>27.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Yang</surname><given-names>Y-M</given-names></name><name name-style="western"><surname>Yang</surname><given-names>W-X</given-names></name></person-group> (<year>2017</year>) <article-title>Epithelial-to-mesenchymal
+transition in the development of endometriosis</article-title>.
+<source>Oncotarget</source>
+<volume>8</volume>: <fpage>41679</fpage>–<lpage>41689</lpage>.<pub-id pub-id-type="pmid">28415639</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.18632/oncotarget.16472</pub-id><pub-id pub-id-type="pmcid">PMC5522315</pub-id></mixed-citation></ref><ref id="bibr28-2058738420976309"><label>28.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Wang</surname><given-names>S</given-names></name><name name-style="western"><surname>Hou</surname><given-names>Y</given-names></name><name name-style="western"><surname>Chen</surname><given-names>W</given-names></name></person-group>, <etal>et al</etal> (<year>2018</year>)
+<article-title>KIF9‑AS1, LINC01272 and DIO3OS lncRNAs as novel biomarkers
+for inflammatory bowel disease</article-title>. <source>Molecular Medicine
+Reports</source>
+<volume>17</volume>: <fpage>2195</fpage>–<lpage>2202</lpage>.<pub-id pub-id-type="pmid">29207070</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3892/mmr.2017.8118</pub-id><pub-id pub-id-type="pmcid">PMC5783463</pub-id></mixed-citation></ref><ref id="bibr29-2058738420976309"><label>29.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Haberman</surname><given-names>Y</given-names></name><name name-style="western"><surname>BenShoshan</surname><given-names>M</given-names></name><name name-style="western"><surname>Di Segni</surname><given-names>A</given-names></name></person-group>, <etal>et al</etal> (<year>2018</year>) <article-title>Long
+ncRNA landscape in the ileum of treatment-naive early-onset Crohn
+disease</article-title>. <source>Inflammatory Bowel Disease</source>
+<volume>24</volume>: <fpage>346</fpage>–<lpage>360</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/ibd/izx013</pub-id><pub-id pub-id-type="pmcid">PMC6231367</pub-id><pub-id pub-id-type="pmid">29361088</pub-id></mixed-citation></ref><ref id="bibr30-2058738420976309"><label>30.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Hung</surname><given-names>J</given-names></name><name name-style="western"><surname>Scanlon</surname><given-names>JP</given-names></name><name name-style="western"><surname>Mahmoud</surname><given-names>AD</given-names></name></person-group>, <etal>et al</etal> (<year>2020</year>) <article-title>Novel
+plaque enriched long noncoding RNA in atherosclerotic macrophage regulation
+(PELATON)</article-title>. <source>Arteriosclerosis, Thrombosis, and
+Vascular Biology</source>
+<volume>40</volume>: <fpage>697</fpage>–<lpage>713</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/ATVBAHA.119.313430</pub-id><pub-id pub-id-type="pmcid">PMC7043732</pub-id><pub-id pub-id-type="pmid">31826651</pub-id></mixed-citation></ref><ref id="bibr31-2058738420976309"><label>31.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Vallvé-Juanico</surname><given-names>J</given-names></name><name name-style="western"><surname>Houshdaran</surname><given-names>S</given-names></name><name name-style="western"><surname>Giudice</surname><given-names>LC</given-names></name></person-group> (<year>2019</year>) <article-title>The endometrial immune
+environment of women with endometriosis</article-title>. <source>Human
+Reproduction Update</source>
+<volume>25</volume>: <fpage>564</fpage>–<lpage>591</lpage>.<pub-id pub-id-type="pmid">31424502</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/humupd/dmz018</pub-id><pub-id pub-id-type="pmcid">PMC6737540</pub-id></mixed-citation></ref><ref id="bibr32-2058738420976309"><label>32.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Xu</surname><given-names>H</given-names></name><name name-style="western"><surname>Zhou</surname><given-names>M</given-names></name><name name-style="western"><surname>Cao</surname><given-names>Y</given-names></name></person-group>, <etal>et al</etal> (<year>2019</year>)
+<article-title>Genome-wide analysis of long noncoding RNAs, microRNAs, and
+mRNAs forming a competing endogenous RNA network in repeated implantation
+failure</article-title>. <source>Gene</source>
+<volume>720</volume>: <fpage>144056</fpage>.<pub-id pub-id-type="pmid">31437466</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.gene.2019.144056</pub-id></mixed-citation></ref><ref id="bibr33-2058738420976309"><label>33.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Dambal</surname><given-names>S</given-names></name><name name-style="western"><surname>Shah</surname><given-names>M</given-names></name><name name-style="western"><surname>Mihelich</surname><given-names>B</given-names></name></person-group>, <etal>et al</etal> (<year>2015</year>) <article-title>The
+microRNA-183 cluster: The family that plays together stays
+together</article-title>. <source>Nucleic Acids Research</source>
+<volume>43</volume>: <fpage>7173</fpage>–<lpage>7188</lpage>.<pub-id pub-id-type="pmid">26170234</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/nar/gkv703</pub-id><pub-id pub-id-type="pmcid">PMC4551935</pub-id></mixed-citation></ref><ref id="bibr34-2058738420976309"><label>34.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Filigheddu</surname><given-names>N</given-names></name><name name-style="western"><surname>Gregnanin</surname><given-names>I</given-names></name><name name-style="western"><surname>Porporato</surname><given-names>PE</given-names></name></person-group>, <etal>et al</etal> (<year>2010</year>)
+<article-title>Differential expression of microRNAs between eutopic and
+ectopic endometrium in ovarian endometriosis</article-title>.
+<source>Journal of Biomedicine and Biotechnology</source>
+<volume>2010</volume>: <fpage>369549</fpage>.<pub-id pub-id-type="pmid">20300586</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1155/2010/369549</pub-id><pub-id pub-id-type="pmcid">PMC2837904</pub-id></mixed-citation></ref><ref id="bibr35-2058738420976309"><label>35.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Vanhie</surname><given-names>A</given-names></name><name name-style="western"><surname>Peterse</surname><given-names>OD</given-names></name><name name-style="western"><surname>Beckers</surname><given-names>D</given-names></name></person-group>, <etal>et al</etal> (<year>2019</year>) <article-title>Plasma
+miRNAs as biomarkers for endometriosis</article-title>. <source>Human
+Reproduction</source>
+<volume>34</volume>: <fpage>1650</fpage>–<lpage>1660</lpage>.<pub-id pub-id-type="pmid">31411334</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/humrep/dez116</pub-id><pub-id pub-id-type="pmcid">PMC6736379</pub-id></mixed-citation></ref><ref id="bibr36-2058738420976309"><label>36.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Chen</surname><given-names>J</given-names></name><name name-style="western"><surname>Gu</surname><given-names>L</given-names></name><name name-style="western"><surname>Ni</surname><given-names>J</given-names></name></person-group>, <etal>et al</etal> (<year>2015</year>) <article-title>MiR-183
+regulates ITGB1P expression and promotes invasion of endometrial stromal
+cells</article-title>. <source>BioMed Research International</source>
+<volume>2015</volume>: <fpage>1</fpage>–<lpage>10</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1155/2015/340218</pub-id><pub-id pub-id-type="pmcid">PMC4556833</pub-id><pub-id pub-id-type="pmid">26357653</pub-id></mixed-citation></ref><ref id="bibr37-2058738420976309"><label>37.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Shi</surname><given-names>X-Y</given-names></name><name name-style="western"><surname>Gu</surname><given-names>L</given-names></name><name name-style="western"><surname>Chen</surname><given-names>J</given-names></name></person-group>, <etal>et al</etal> (<year>2014</year>)
+<article-title>Downregulation of miR-183 inhibits apoptosis and enhances the
+invasive potential of endometrial stromal cells in endometriosis.
+International</article-title>
+<source>Journal of Molecular Medicine</source>
+<volume>33</volume>: <fpage>59</fpage>–<lpage>67</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.3892/ijmm.2013.1536</pub-id><pub-id pub-id-type="pmcid">PMC3868559</pub-id><pub-id pub-id-type="pmid">24173391</pub-id></mixed-citation></ref><ref id="bibr38-2058738420976309"><label>38.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Qin</surname><given-names>S-B</given-names></name><name name-style="western"><surname>Peng</surname><given-names>D-Y</given-names></name><name name-style="western"><surname>Lu</surname><given-names>J-M</given-names></name></person-group>, <etal>et al</etal> (<year>2018</year>)
+<article-title>MiR-182-5p inhibited oxidative stress and apoptosis triggered
+by oxidized low-density lipoprotein via targeting toll-like receptor
+4</article-title>. <source>Journal of Cellular Physiology</source>
+<volume>233</volume>: <fpage>6630</fpage>–<lpage>6637</lpage>.<pub-id pub-id-type="pmid">29226948</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/jcp.26389</pub-id></mixed-citation></ref><ref id="bibr39-2058738420976309"><label>39.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Carvalho</surname><given-names>LFP</given-names></name><name name-style="western"><surname>Samadder</surname><given-names>AN</given-names></name><name name-style="western"><surname>Agarwal</surname><given-names>A</given-names></name></person-group>, <etal>et al</etal> (<year>2012</year>)
+<article-title>Oxidative stress biomarkers in patients with endometriosis:
+Systematic review</article-title>. <source>Archives of Gynecology and
+Obstetrics</source>
+<volume>286</volume>: <fpage>1033</fpage>–<lpage>1040</lpage>.<pub-id pub-id-type="pmid">22791380</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00404-012-2439-7</pub-id></mixed-citation></ref><ref id="bibr40-2058738420976309"><label>40.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Reuter</surname><given-names>S</given-names></name><name name-style="western"><surname>Gupta</surname><given-names>SC</given-names></name><name name-style="western"><surname>Chaturvedi</surname><given-names>MM</given-names></name></person-group>, <etal>et al</etal> (<year>2010</year>)
+<article-title>Oxidative stress, inflammation, and cancer: How are they
+linked?</article-title>
+<source>Free Radical Biology and Medicine</source>
+<volume>49</volume>: <fpage>1603</fpage>–<lpage>1616</lpage>.<pub-id pub-id-type="pmid">20840865</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.freeradbiomed.2010.09.006</pub-id><pub-id pub-id-type="pmcid">PMC2990475</pub-id></mixed-citation></ref><ref id="bibr41-2058738420976309"><label>41.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Li</surname><given-names>Y</given-names></name><name name-style="western"><surname>Zhang</surname><given-names>H</given-names></name><name name-style="western"><surname>Li</surname><given-names>Y</given-names></name></person-group>, <etal>et al</etal> (<year>2018</year>) <article-title>MiR-182
+inhibits the epithelial to mesenchymal transition and metastasis of lung
+cancer cells by targeting the Met gene</article-title>. <source>Molecular
+Carcinogenesis</source>
+<volume>57</volume>: <fpage>125</fpage>–<lpage>136</lpage>.<pub-id pub-id-type="pmid">28940757</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/mc.22741</pub-id></mixed-citation></ref><ref id="bibr42-2058738420976309"><label>42.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Schmid</surname><given-names>RS</given-names></name><name name-style="western"><surname>Maness</surname><given-names>PF</given-names></name></person-group> (<year>2008</year>) <article-title>L1 and NCAM adhesion
+molecules as signaling coreceptors in neuronal migration and process
+outgrowth</article-title>. <source>Current Opinion in Neurobiology</source>
+<volume>18</volume>: <fpage>245</fpage>–<lpage>250</lpage>.<pub-id pub-id-type="pmid">18760361</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.conb.2008.07.015</pub-id><pub-id pub-id-type="pmcid">PMC2633433</pub-id></mixed-citation></ref><ref id="bibr43-2058738420976309"><label>43.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Finas</surname><given-names>D</given-names></name><name name-style="western"><surname>Huszar</surname><given-names>M</given-names></name><name name-style="western"><surname>Agic</surname><given-names>A</given-names></name></person-group>, <etal>et al</etal> (<year>2008</year>) <article-title>L1 cell
+adhesion molecule (L1CAM) as a pathogenetic factor in
+endometriosis</article-title>. <source>Human Reproduction</source>
+<volume>23</volume>: <fpage>1053</fpage>–<lpage>1062</lpage>.<pub-id pub-id-type="pmid">18332088</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/humrep/den044</pub-id></mixed-citation></ref><ref id="bibr44-2058738420976309"><label>44.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Zhang</surname><given-names>C</given-names></name><name name-style="western"><surname>Wu</surname><given-names>W</given-names></name><name name-style="western"><surname>Ye</surname><given-names>X</given-names></name></person-group>, <etal>et al</etal> (<year>2019</year>) <article-title>Aberrant
+expression of CHL1 gene and long non-coding RNA CHL1-AS1, CHL1-AS2 in
+ovarian endometriosis</article-title>. <source>European Journal of
+Obstetrics &amp; Gynecology and Reproductive Biology</source>
+<volume>236</volume>: <fpage>177</fpage>–<lpage>182</lpage>.<pub-id pub-id-type="pmid">30943448</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ejogrb.2019.03.020</pub-id></mixed-citation></ref><ref id="bibr45-2058738420976309"><label>45.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>He</surname><given-names>L-H</given-names></name><name name-style="western"><surname>Ma</surname><given-names>Q</given-names></name><name name-style="western"><surname>Shi</surname><given-names>Y-H</given-names></name></person-group>, <etal>et al</etal> (<year>2013</year>) <article-title>CHL1 is
+involved in human breast tumorigenesis and progression</article-title>.
+<source>Biochemical and Biophysical Research Communications</source>
+<volume>438</volume>: <fpage>433</fpage>–<lpage>438</lpage>.<pub-id pub-id-type="pmid">23906755</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bbrc.2013.07.093</pub-id></mixed-citation></ref><ref id="bibr46-2058738420976309"><label>46.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Chen</surname><given-names>J</given-names></name><name name-style="western"><surname>Jiang</surname><given-names>C</given-names></name><name name-style="western"><surname>Fu</surname><given-names>L</given-names></name></person-group>, <etal>et al</etal> (<year>2019</year>) <article-title>CHL1
+suppresses tumor growth and metastasis in nasopharyngeal carcinoma by
+repressing PI3K/AKT signaling pathway via interaction with Integrin β1 and
+Merlin</article-title>. <source>International Journal of Biological
+Sciences</source>
+<volume>15</volume>: <fpage>1802</fpage>–<lpage>1815</lpage>.<pub-id pub-id-type="pmid">31523184</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.7150/ijbs.34785</pub-id><pub-id pub-id-type="pmcid">PMC6743306</pub-id></mixed-citation></ref><ref id="bibr47-2058738420976309"><label>47.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Zhu</surname><given-names>H</given-names></name><name name-style="western"><surname>Fang</surname><given-names>J</given-names></name><name name-style="western"><surname>Zhang</surname><given-names>J</given-names></name></person-group>, <etal>et al</etal> (<year>2014</year>) <article-title>miR-182
+targets CHL1 and controls tumor growth and invasion in papillary thyroid
+carcinoma</article-title>. <source>Biochemical and Biophysical Research
+Communications</source>
+<volume>450</volume>: <fpage>857</fpage>–<lpage>862</lpage>.<pub-id pub-id-type="pmid">24971532</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bbrc.2014.06.073</pub-id></mixed-citation></ref><ref id="bibr48-2058738420976309"><label>48.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Vanhoutteghem</surname><given-names>A</given-names></name><name name-style="western"><surname>Maciejewski-Duval</surname><given-names>A</given-names></name><name name-style="western"><surname>Bouche</surname><given-names>C</given-names></name></person-group>, <etal>et al</etal> (<year>2009</year>)
+<article-title>Basonuclin 2 has a function in the multiplication of
+embryonic craniofacial mesenchymal cells and is orthologous to disco
+proteins</article-title>. <source>Proceedings of the National Academy of
+Sciences</source>
+<volume>106</volume>(<issue>34</issue>):
+<fpage>14432</fpage>−<lpage>14437</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.0905840106</pub-id><pub-id pub-id-type="pmcid">PMC2732838</pub-id><pub-id pub-id-type="pmid">19706529</pub-id></mixed-citation></ref><ref id="bibr49-2058738420976309"><label>49.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Cesaratto</surname><given-names>L</given-names></name></person-group> (<year>2016</year>) <article-title>BNC2 is a putative tumor
+suppressor gene in high-grade serous ovarian carcinoma and impacts cell
+survival after oxidative stress</article-title>. <source>Cell Death and
+Disease</source>
+<volume>7</volume>(<issue>12</issue>): <fpage>e2526</fpage>.<pub-id pub-id-type="pmid">27899818</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/cddis.2016.278</pub-id><pub-id pub-id-type="pmcid">PMC5059877</pub-id></mixed-citation></ref><ref id="bibr50-2058738420976309"><label>50.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Liu</surname><given-names>C</given-names></name><name name-style="western"><surname>Pan</surname><given-names>H</given-names></name><name name-style="western"><surname>Torng</surname><given-names>P</given-names></name></person-group>, <etal>et al</etal> (<year>2019</year>) <article-title>SRPX and
+HMCN1 regulate cancer‑associated fibroblasts to promote the invasiveness of
+ovarian carcinoma</article-title>. <source>Oncology Reports</source>. Epub
+ahead of print 17 October 2019. DOI: <pub-id pub-id-type="doi">10.3892/or.2019.7379.</pub-id><pub-id pub-id-type="pmid">31638245</pub-id></mixed-citation></ref><ref id="bibr51-2058738420976309"><label>51.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Chi</surname><given-names>J</given-names></name><name name-style="western"><surname>Cohen</surname><given-names>P</given-names></name></person-group> (<year>2016</year>) <article-title>The multifaceted roles of
+PRDM16: Adipose biology and beyond</article-title>. <source>Trends in
+Endocrinology &amp; Metabolism</source>
+<volume>27</volume>: <fpage>11</fpage>–<lpage>23</lpage>.<pub-id pub-id-type="pmid">26688472</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.tem.2015.11.005</pub-id></mixed-citation></ref><ref id="bibr52-2058738420976309"><label>52.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Aguilo</surname><given-names>F</given-names></name><name name-style="western"><surname>Avagyan</surname><given-names>S</given-names></name><name name-style="western"><surname>Labar</surname><given-names>A</given-names></name></person-group>, <etal>et al</etal> (<year>2011</year>) <article-title>Prdm16
+is a physiologic regulator of hematopoietic stem cells</article-title>.
+<source>Blood</source>
+<volume>117</volume>: <fpage>5057</fpage>–<lpage>5066</lpage>.<pub-id pub-id-type="pmid">21343612</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1182/blood-2010-08-300145</pub-id><pub-id pub-id-type="pmcid">PMC3109532</pub-id></mixed-citation></ref><ref id="bibr53-2058738420976309"><label>53.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Figueira</surname><given-names>PGM</given-names></name><name name-style="western"><surname>Abrão</surname><given-names>MS</given-names></name><name name-style="western"><surname>Krikun</surname><given-names>G</given-names></name></person-group>, <etal>et al</etal> (<year>2011</year>) <article-title>Stem
+cells in endometrium and their role in the pathogenesis of endometriosis:
+Stem cells, the endometrium, and endometriosis</article-title>.
+<source>Annals of the New York Academy of Sciences</source>
+<volume>1221</volume>: <fpage>10</fpage>–<lpage>17</lpage>.<pub-id pub-id-type="pmid">21401624</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1749-6632.2011.05969.x</pub-id><pub-id pub-id-type="pmcid">PMC3076708</pub-id></mixed-citation></ref></ref-list></back></article>

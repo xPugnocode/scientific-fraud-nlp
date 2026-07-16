@@ -1,0 +1,493 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article article-type="research-article" xml:lang="en" dtd-version="1.4"><front><journal-meta><journal-id journal-id-type="nlm-ta">Cancer Med</journal-id><journal-id journal-id-type="iso-abbrev">Cancer Med</journal-id><journal-id journal-id-type="pmc-domain-id">1974</journal-id><journal-id journal-id-type="pmc-domain">canmed</journal-id><journal-id journal-id-type="nlm-id">101595310</journal-id><journal-id journal-id-type="publisher-id">CAM4</journal-id><journal-title-group><journal-title>Cancer Medicine</journal-title></journal-title-group><issn pub-type="epub">2045-7634</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC7541147</article-id><article-id pub-id-type="pmcid-ver">PMC7541147.1</article-id><article-id pub-id-type="pmcaid">7541147</article-id><article-id pub-id-type="pmcaiid">7541147</article-id><article-id pub-id-type="pmid">33470549</article-id><article-id pub-id-type="doi">10.1002/cam4.3352</article-id><article-id pub-id-type="publisher-id">CAM43352</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Clinical Cancer Research</subject><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></subj-group></article-categories><title-group><article-title>Metabolic syndrome predicts postoperative complications after gastrectomy in gastric cancer patients: Development of an individualized usable nomogram and rating model</article-title><alt-title alt-title-type="left-running-head">CHEN et al.</alt-title></title-group><contrib-group><contrib id="cam43352-cr-0001" contrib-type="author"><name name-style="western"><surname>Chen</surname><given-names initials="X">Xiaodong</given-names></name><xref ref-type="aff" rid="cam43352-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cam43352-cr-0002" contrib-type="author"><name name-style="western"><surname>Zhang</surname><given-names initials="W">Weiteng</given-names></name><xref ref-type="aff" rid="cam43352-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cam43352-cr-0003" contrib-type="author"><name name-style="western"><surname>Sun</surname><given-names initials="X">Xiangwei</given-names></name><xref ref-type="aff" rid="cam43352-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cam43352-cr-0004" contrib-type="author"><name name-style="western"><surname>Shi</surname><given-names initials="M">Mingming</given-names></name><xref ref-type="aff" rid="cam43352-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cam43352-cr-0005" contrib-type="author"><name name-style="western"><surname>Xu</surname><given-names initials="L">Libin</given-names></name><xref ref-type="aff" rid="cam43352-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cam43352-cr-0006" contrib-type="author"><name name-style="western"><surname>Cai</surname><given-names initials="Y">Yiqi</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-9001-7284</contrib-id><xref ref-type="aff" rid="cam43352-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cam43352-cr-0007" contrib-type="author"><name name-style="western"><surname>Chen</surname><given-names initials="W">Wenjing</given-names></name><xref ref-type="aff" rid="cam43352-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cam43352-cr-0008" contrib-type="author" corresp="yes"><name name-style="western"><surname>Mao</surname><given-names initials="C">Chenchen</given-names></name><xref ref-type="aff" rid="cam43352-aff-0002">
+<sup>2</sup>
+</xref><address><email>578117567@qq.com</email></address></contrib><contrib id="cam43352-cr-0009" contrib-type="author" corresp="yes"><name name-style="western"><surname>Shen</surname><given-names initials="X">Xian</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-1164-4832</contrib-id><xref ref-type="aff" rid="cam43352-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="cam43352-aff-0002">
+<sup>2</sup>
+</xref><address><email>shenxian5166@gmail.com</email></address></contrib></contrib-group><aff id="cam43352-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Gastrointestinal Surgery</named-content>
+<institution>The Second Affiliated Hospital of Wenzhou Medical University and Yuying children's Hospital</institution>
+<city>Wenzhou</city>
+<country country="CN">China</country>
+</aff><aff id="cam43352-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Gastrointestinal Surgery</named-content>
+<institution>The First Affiliated Hospital</institution>
+<institution>Wenzhou Medical University</institution>
+<city>Wenzhou</city>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Chenchen Mao and Xian Shen, Department of Gastrointestinal Surgery, The Second Affiliated Hospital, Wenzhou Medical University, Wenzhou, Zhejiang Province, China.<break/>
+Email: <email>578117567@qq.com</email> (C. M.); <email>shenxian5166@gmail.com</email> (X. S.)<break/></corresp></author-notes><pub-date pub-type="epub"><day>17</day><month>8</month><year>2020</year></pub-date><pub-date pub-type="collection"><month>10</month><year>2020</year></pub-date><volume>9</volume><issue>19</issue><issue-id pub-id-type="pmc-issue-id">366529</issue-id><issue-id pub-id-type="doi">10.1002/cam4.v9.19</issue-id><fpage>7116</fpage><lpage>7124</lpage><history><date date-type="received"><day>30</day><month>4</month><year>2020</year></date><date date-type="rev-recd"><day>23</day><month>6</month><year>2020</year></date><date date-type="accepted"><day>14</day><month>7</month><year>2020</year></date></history><pub-history><event event-type="pmc-release"><date><day>17</day><month>08</month><year>2020</year></date></event><event event-type="pmc-live"><date><day>09</day><month>10</month><year>2020</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-02-18 05:25:13.240"><day>18</day><month>02</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2020 The Authors. <italic toggle="yes">Cancer Medicine</italic> published by John Wiley &amp; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="CAM4-9-7116.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:CAM4-9-7116.pdf"/><abstract id="cam43352-abs-0001"><title>Abstract</title><sec id="cam43352-sec-0001"><title>Background</title><p>Metabolic syndrome (MetS), a public health problem, is reportedly related to an increased risk of postoperative complications after surgery. However, whether MetS have an effect on complications after gastric cancer (GC) surgery are unknown. This study aimed to investigate the effects of preoperative MetS on complications after gastrectomy.</p></sec><sec id="cam43352-sec-0002"><title>Methods</title><p>Altogether, 718 gastric cancer patients who planned to receive radical gastrectomy between June 2014 and December 2016 were enrolled, demographic and clinicopathological characteristics were analyzed. Univariate and multivariate analyses were performed to identify potential risk factors for postoperative complications. A predictive model for postoperative complications was constructed in the form of a nomogram, and its clinical usefulness was assessed.</p></sec><sec id="cam43352-sec-0003"><title>Results</title><p>Of the 628 patients ultimately included in the study (mean age 62.92 years, 450 men and 178 women), 84 were diagnosed with MetS preoperatively. Severe postoperative complications (Clavien‐Dindo grade ≥II) were significantly more common in patients with MetS (41.7% versus 23.7%, <italic toggle="yes">P</italic> &lt; .001). Predictors of postoperative complications included MetS (odds ratio [OR] = 1.800, <italic toggle="yes">P</italic> = .023), age (OR = 1.418, <italic toggle="yes">P</italic> = .050), Charlson score (OR = 1.787, <italic toggle="yes">P</italic> = .004 for 1‐2 points) and anastomosis type (OR = 1.746, <italic toggle="yes">P</italic> = .007 for Billroth II reconstruction). The high‐risk rating had a high AUC (ROC I = 0.503, ROC Ib = 0.544, ROC IIa = 0.601, ROC IIb = 0.612, ROC IIc = 0.638, ROC III = 0.735), indicating that the risk‐rating model has good discriminative capacity and clinical usefulness.</p></sec><sec id="cam43352-sec-0004"><title>Conclusions</title><p>MetS was an independent risk factor for complications after gastrectomy. The nomogram and rating model incorporating MetS, Billroth II anastomosis, age, and Charlson score was useful for individualized prediction of postoperative complications.</p></sec></abstract><abstract abstract-type="graphical" id="cam43352-abs-0002"><p>MetS was an independent risk factor for postoperative complications after gastrectomy. We developed an useful nomogram and rating model incorporating MetS, Billroth II anastomosis, age, and Charlson score.<boxed-text position="anchor" content-type="graphic" id="cam43352-blkfxd-0001" orientation="portrait"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="nlm-graphic-1" orientation="portrait" xlink:href="CAM4-9-7116-g007.jpg"/></boxed-text>
+</p></abstract><kwd-group><kwd id="cam43352-kwd-0001">gastrectomy</kwd><kwd id="cam43352-kwd-0002">metabolic syndrome</kwd><kwd id="cam43352-kwd-0003">nomogram</kwd><kwd id="cam43352-kwd-0004">postoperative complications</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>Department of Health of Zhejiang Province, China</funding-source><award-id>2016DTA006</award-id></award-group><award-group id="funding-0002"><funding-source>Wenzhou Municipal Science and Technology Bureau</funding-source><award-id>Y20150057</award-id></award-group></funding-group><counts><fig-count count="6"/><table-count count="3"/><page-count count="9"/><word-count count="4597"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>October 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.9.2 mode:remove_FC converted:07.10.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="cam43352-cit-1001">
+<string-name name-style="western">
+<surname>Chen</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sun</surname>
+<given-names>X</given-names>
+</string-name>, et al. <article-title>Metabolic syndrome predicts postoperative complications after gastrectomy in gastric cancer patients: Development of an individualized usable nomogram and rating model</article-title>. <source xml:lang="en">Cancer Med</source>. <year>2020</year>;<volume>9</volume>:<fpage>7116</fpage>–<lpage>7124</lpage>. <pub-id pub-id-type="doi">10.1002/cam4.3352</pub-id>
+<pub-id pub-id-type="pmcid">PMC7541147</pub-id><pub-id pub-id-type="pmid">33470549</pub-id></mixed-citation>
+</p><fn-group id="cam43352-ntgp-0001"><fn id="cam43352-note-0001"><p>Xiaodong Chen, Weiteng Zhang, and Xiangwei Sun are contributed equally to this work.</p></fn><fn fn-type="funding" id="cam43352-note-0002"><p>
+<bold>Funding information</bold>
+</p><p>This study was funded by the Department of Health of Zhejiang Province, China (grant no. 2016DTA006) and the Wenzhou Municipal Science and Technology Bureau (grant no.Y20150057). There are no other commercial interests or sources of financial or material support to declare.</p></fn></fn-group></notes></front><body id="cam43352-body-0001"><sec id="cam43352-sec-0005"><label>1</label><title>INTRODUCTION</title><p>Metabolic syndrome (MetS) is characterized by a series of metabolic disturbances including obesity, hyperglycemia, dyslipidemia, and high blood pressure.<xref rid="cam43352-bib-0001" ref-type="ref">
+<sup>1</sup>
+</xref>, <xref rid="cam43352-bib-0002" ref-type="ref">
+<sup>2</sup>
+</xref>, <xref rid="cam43352-bib-0003" ref-type="ref">
+<sup>3</sup>
+</xref> Recently, studies have indicated the carcinogenic function of MetS in variety cancer including liver,<xref rid="cam43352-bib-0004" ref-type="ref">
+<sup>4</sup>
+</xref> pancreatic,<xref rid="cam43352-bib-0005" ref-type="ref">
+<sup>5</sup>
+</xref> colorectal,<xref rid="cam43352-bib-0006" ref-type="ref">
+<sup>6</sup>
+</xref> and gastric<xref rid="cam43352-bib-0007" ref-type="ref">
+<sup>7</sup>
+</xref> cancers, and associations between MetS and poor prognoses have been reported in patients with these types of cancers.<xref rid="cam43352-bib-0002" ref-type="ref">
+<sup>2</sup>
+</xref>, <xref rid="cam43352-bib-0008" ref-type="ref">
+<sup>8</sup>
+</xref> A number of studies have yielded discordant results however,<xref rid="cam43352-bib-0009" ref-type="ref">
+<sup>9</sup>
+</xref>, <xref rid="cam43352-bib-0010" ref-type="ref">
+<sup>10</sup>
+</xref> thus, it remains controversial whether preoperative MetS is related to postoperative complications.</p><p>Worldwide, the incidence and lethality of the gastric cancer (GC) has increased during the past decades, GC has been the 4th common cancer and the 3rd cause of cancer‐related‐mortality.<xref rid="cam43352-bib-0011" ref-type="ref">
+<sup>11</sup>
+</xref>, <xref rid="cam43352-bib-0012" ref-type="ref">
+<sup>12</sup>
+</xref> To date surgical resection remains the preferred therapeutic approach for gastric cancer. Postoperative complications after gastrectomy affect life quality, delay subsequent therapies, and even overall survival, and despite the development of minimally invasive surgery and the enhancement of postoperative recovery program, their reported prevalence still ranges from 10% to 46%.<xref rid="cam43352-bib-0013" ref-type="ref">
+<sup>13</sup>
+</xref>, <xref rid="cam43352-bib-0014" ref-type="ref">
+<sup>14</sup>
+</xref>, <xref rid="cam43352-bib-0015" ref-type="ref">
+<sup>15</sup>
+</xref> Risk assessment preoperatively is therefore significant, to identify postoperative complication prone patients.</p><p>Considering that the aforementioned previous ambiguous results are probably because of retrospective research designs as well as limited patient cohorts, we conducted the present prospective multicenter study incorporating a large sample size with the aim of better evaluating the potential effects of preoperative MetS on postoperative complications after gastrectomy.</p></sec><sec sec-type="materials-and-methods" id="cam43352-sec-0006"><label>2</label><title>MATERIALS AND METHODS</title><sec id="cam43352-sec-0007"><label>2.1</label><title>Patient</title><p>GC patients who received radical gastrectomy with D2 lymphadenectomy at the Department of Gastrointestinal Surgery of the Second Affiliated Hospital of Wenzhou Medical University and Yuying children's Hospital between 01 June 2014 and 31 December 2016 were screened for inclusion in the study. The inclusion criteria were as followed: (a) postoperative pathology confirmed gastric adenocarcinoma; (b) aged ≥ eighteen years old; (c) Sign the participation informed consent. The following exclusion criteria were applied: (a) Underwent palliative surgery or emergency surgery; (b) received neoadjuvant chemotherapy or radiotherapy; (c) had a severe immune disease, blood disease, endocrine disease, or thyroid dysfunction; (d) had a history of other malignant tumors; (e) had a history of previous surgery; (f) there was a substantial absence of clinical data. Further details and a flow chart depicting the study procedure are shown in Figure <xref rid="cam43352-fig-0001" ref-type="fig">1</xref>.</p><fig fig-type="Figure" xml:lang="en" id="cam43352-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Flow chart of study procedure</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-3" position="float" orientation="portrait" xlink:href="CAM4-9-7116-g001.jpg"/></fig></sec><sec id="cam43352-sec-0008"><label>2.2</label><title>Baseline data collection</title><p>Demographic details including age and sex were collated for each patient, as were details pertaining to the operation such as tumor size, tumor location, and tumor stage. Severe postoperative complications were classified as Clavien‐Dindo<xref rid="cam43352-bib-0016" ref-type="ref">
+<sup>16</sup>
+</xref> grade II or above in this study.</p></sec><sec id="cam43352-sec-0009"><label>2.3</label><title>Diagnosis of MetS</title><p>MetS is defined in accordance with the recommendations of the Chinese Diabetes Society<xref rid="cam43352-bib-0017" ref-type="ref">
+<sup>17</sup>
+</xref> preoperatively, with three or more of the following five items: (a) Body mass index (BMI) determined obesity (BMI≥ 25 kg/cm<sup>2</sup>); (b) with fasting blood glucose above 6.1 mmol/L or diabetes history; (c) systolic blood pressure above 140 mm Hg or diastolic blood pressure ≥90 mm Hg or hypertension history; (d) triglycerides above 1.70 mmol/L; (e) low high‐density lipoprotein cholesterol (&lt;0.9 mmol/L for men, &lt;1.0 mmol/L for women).</p></sec><sec id="cam43352-sec-0010"><label>2.4</label><title>Statistical analysis</title><p>Parameters Distribution equality was first assessed by Kolmogorov–Smirnov test, means/standard deviation (SD) and medians/interquartile ranges (IQR) were chosed to present normally and non‐normally distributed data, respectively. Chi‐squared test or Fisher's exact test were further performed to compare categorical data. Univariate logistic regression analysis was used and all the variables yielding <italic toggle="yes">p</italic> values &lt; .05 were then selected into multivariable logistic regression (forward stepwise variable selection) to establish the regression model. A nomogram that could quantitatively predict the incidence of secondary or higher complications was constructed, subsequently. Decision curve analysis (DCA) and Receiver operating characteristic (ROC) curve analysis were finally performed to evaluated the clinical usefulness of the nomogram as well as rating model. Statistically significant was determined as <italic toggle="yes">P</italic> &lt; .05. All the statistical analyses were performed using SPSS version 23.0 and R version 4.0.0.</p></sec></sec><sec sec-type="results" id="cam43352-sec-0011"><label>3</label><title>RESULTS</title><sec id="cam43352-sec-0012"><label>3.1</label><title>Baseline characteristics</title><p>Among the 718 patients initially included, 90 were subsequently excluded, the reasons for exclusion are detailed in Figure <xref rid="cam43352-fig-0001" ref-type="fig">1</xref>. Finally, 628 patients were included in the analysis. Table <xref rid="cam43352-tbl-0001" ref-type="table">1</xref> exhibited the overview of patient population. The mean age of the patients was 62.92 ± 11.45 years, and they included 450 men (71.7%) and 178 women (28.3%).</p><table-wrap id="cam43352-tbl-0001" xml:lang="en" content-type="Table" orientation="portrait" position="float"><label>Table 1</label><caption><p>Clinical and Pathological Characteristics</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Characteristic</th><th align="left" valign="top" rowspan="1" colspan="1">Value (N = 628)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Age (y), mean (SD)</td><td align="left" rowspan="1" colspan="1">62.92 ± 11.45</td></tr><tr><td align="left" rowspan="1" colspan="1">BMI (kg/cm2), mean (SD)</td><td align="left" rowspan="1" colspan="1">21.45 ± 3.01</td></tr><tr><td align="left" rowspan="1" colspan="1">Metabolic disorders [n, (%)]</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">No</td><td align="left" rowspan="1" colspan="1">544 (86.6%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Yes</td><td align="left" rowspan="1" colspan="1">84 (13.4%)</td></tr><tr><td align="left" rowspan="1" colspan="1">Gender [n, (%)]</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Male</td><td align="left" rowspan="1" colspan="1">450 (71.7%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Female</td><td align="left" rowspan="1" colspan="1">178 (28.3%)</td></tr><tr><td align="left" rowspan="1" colspan="1">Charlson score [n, (%)]</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">385 (61.3%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">1‐2</td><td align="left" rowspan="1" colspan="1">220 (35.0%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">3‐6</td><td align="left" rowspan="1" colspan="1">23 (3.7%)</td></tr><tr><td align="left" rowspan="1" colspan="1">Preoperative anemia [n, (%)]</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">No</td><td align="left" rowspan="1" colspan="1">517 (82.3%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Yes</td><td align="left" rowspan="1" colspan="1">111 (17.7%)</td></tr><tr><td align="left" rowspan="1" colspan="1">Preoperative hypoalbuminemia [n, (%)]</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">No</td><td align="left" rowspan="1" colspan="1">522 (%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Yes</td><td align="left" rowspan="1" colspan="1">106 (%)</td></tr><tr><td align="left" rowspan="1" colspan="1">Tumor size [n, (%)]</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">＜2.1 cm</td><td align="left" rowspan="1" colspan="1">189 (30.1%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">≥2.1 cm</td><td align="left" rowspan="1" colspan="1">439 (69.9%)</td></tr><tr><td align="left" rowspan="1" colspan="1">Tumor location [n, (%)]</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Antrum</td><td align="left" rowspan="1" colspan="1">550 (87.6%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Body</td><td align="left" rowspan="1" colspan="1">50 (8.0%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Cardia</td><td align="left" rowspan="1" colspan="1">28 (4.4%)</td></tr><tr><td align="left" rowspan="1" colspan="1">Histopathological differentiation [n, (%)]</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Differentiation</td><td align="left" rowspan="1" colspan="1">549 (87.4%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Non‐ differentiation</td><td align="left" rowspan="1" colspan="1">49 (7.8%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Signet ring cell</td><td align="left" rowspan="1" colspan="1">30 (4.8%)</td></tr><tr><td align="left" rowspan="1" colspan="1">Lymphatic invasion [n, (%)]</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">N0</td><td align="left" rowspan="1" colspan="1">258 (41.1%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">N1</td><td align="left" rowspan="1" colspan="1">108 (17.1%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">N2</td><td align="left" rowspan="1" colspan="1">131 (20.9%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">N3</td><td align="left" rowspan="1" colspan="1">131(20.9%)</td></tr><tr><td align="left" rowspan="1" colspan="1">Invasion depth [n, (%)]</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">T1/T2</td><td align="left" rowspan="1" colspan="1">229 (36.5%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">T3/T4</td><td align="left" rowspan="1" colspan="1">399 (63.5%)</td></tr><tr><td align="left" rowspan="1" colspan="1">TNM stage [n, (%)]</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">I‐II</td><td align="left" rowspan="1" colspan="1">287 (45.7%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">III‐IV</td><td align="left" rowspan="1" colspan="1">341 (54.3%)</td></tr><tr><td align="left" rowspan="1" colspan="1">Abdominal surgery history [n, (%)]</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">No</td><td align="left" rowspan="1" colspan="1">569 (90.6%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Yes</td><td align="left" rowspan="1" colspan="1">59(9.4%)</td></tr><tr><td align="left" rowspan="1" colspan="1">Preoperative obstruction [n, (%)]</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">No</td><td align="left" rowspan="1" colspan="1">536 (85.4%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Yes</td><td align="left" rowspan="1" colspan="1">92(14.6%)</td></tr><tr><td align="left" rowspan="1" colspan="1">Preoperative perforation [n, (%)]</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">No</td><td align="left" rowspan="1" colspan="1">626 (99.7%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Yes</td><td align="left" rowspan="1" colspan="1">2 (0.3%)</td></tr><tr><td align="left" rowspan="1" colspan="1">Preoperative bleeding [n, (%)]</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">No</td><td align="left" rowspan="1" colspan="1">503 (80.1%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Yes</td><td align="left" rowspan="1" colspan="1">125 (19.9%)</td></tr><tr><td align="left" rowspan="1" colspan="1">Anastomosis type [n, (%)]</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Bill‐roth I</td><td align="left" rowspan="1" colspan="1">236 (37.6%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Bill‐roth II</td><td align="left" rowspan="1" colspan="1">349 (55.6%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Other</td><td align="left" rowspan="1" colspan="1">43 (6.8%)</td></tr><tr><td align="left" rowspan="1" colspan="1">Laparoscope [n, (%)]</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">No</td><td align="left" rowspan="1" colspan="1">603 (96.0%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Yes</td><td align="left" rowspan="1" colspan="1">25 (4.0%)</td></tr><tr><td align="left" rowspan="1" colspan="1">Preoperative stroke history [n, (%)]</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">No</td><td align="left" rowspan="1" colspan="1">623 (99.2%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Yes</td><td align="left" rowspan="1" colspan="1">5 (0.8%)</td></tr><tr><td align="left" rowspan="1" colspan="1">CEA [n, (%)]</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&lt;5.0ng/ml</td><td align="left" rowspan="1" colspan="1">505 (80.4%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">≥5.0ng/ml</td><td align="left" rowspan="1" colspan="1">123 (19.6%)</td></tr><tr><td align="left" rowspan="1" colspan="1">CA199 [n, (%)]</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">＜37 kU/L</td><td align="left" rowspan="1" colspan="1">545 (86.8%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">≥37 kU/L</td><td align="left" rowspan="1" colspan="1">83 (13.2%)</td></tr></tbody></table><table-wrap-foot id="cam43352-ntgp-0002"><fn id="cam43352-note-0003"><p>Abbreviation: BMI, bodymass index.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder></permissions></table-wrap><p>With regard to tumor clinicopathological characteristics, the tumors were located in the antrum in 550/628 patients (87.6%), and 439/628 patients (69.9%) had a tumor that was &gt;2.1 cm along its longest axis. Differentiated tumor histopathology was detected in 549 of the patients (87.4%). Based on the above‐described Chinese Diabetes Society<xref rid="cam43352-bib-0017" ref-type="ref">
+<sup>17</sup>
+</xref> criteria 84 patients (13.4%) were diagnosed with MetS. The incidence of MetS increased with age, as shown in Figure <xref rid="cam43352-fig-0002" ref-type="fig">2</xref>.</p><fig fig-type="Figure" xml:lang="en" id="cam43352-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>MetS and non‐MetS Patients frequency distribution with different ages stratum</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-5" position="float" orientation="portrait" xlink:href="CAM4-9-7116-g002.jpg"/></fig></sec><sec id="cam43352-sec-0013"><label>3.2</label><title>Short‐term surgical outcomes</title><p>A total of 89 patients (23.4%) experienced severe postoperative complications (Clavien‐Dindo grade ≥ II) (Table <xref rid="cam43352-tbl-0002" ref-type="table">2</xref>). The incidence of severe postoperative complications was significantly higher in the MetS group (41.7% versus 23.7%, <italic toggle="yes">P</italic> &lt; .001). In univariate analysis, severe postoperative complications were significantly related to age ≥ 65 years (<italic toggle="yes">P</italic> = .005), metabolic syndrome (<italic toggle="yes">P</italic> = .001), higher Charlson score (<italic toggle="yes">P</italic> &lt; .001 for 1‐2 points), tumor size ≥2.1 cm along the longest axis (<italic toggle="yes">P</italic> = .041), and Billroth II reconstruction (<italic toggle="yes">P</italic> = .003) (Table <xref rid="cam43352-sup-0001" ref-type="supplementary-material">S1</xref>). Severe postoperative complications were not significantly associated with any of the other variables investigated. In multivariate logistic regression analysis MetS (OR 1.800, 95% CI 1.083‐2.991, <italic toggle="yes">P</italic> = .023), age (OR 1.418, 95% CI 0.994‐2.111, <italic toggle="yes">P</italic> = .050), Charlson score (OR 1.787, 95% CI 1.241‐2.705, <italic toggle="yes">P</italic> = .004 for 1‐2 points), and anastomosis type (OR 1.746, 95% CI 1.168‐2.616, <italic toggle="yes">P</italic> = .007 for Billroth II reconstruction) were independent risk factors (Table <xref rid="cam43352-sup-0001" ref-type="supplementary-material">S1</xref>; Figure <xref rid="cam43352-fig-0003" ref-type="fig">3</xref>).</p><table-wrap id="cam43352-tbl-0002" xml:lang="en" content-type="Table" orientation="portrait" position="float"><label>Table 2</label><caption><p>Postoperative outcomes</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Factors</th><th align="left" valign="top" rowspan="1" colspan="1">Total (n = 628)</th><th align="left" valign="top" rowspan="1" colspan="1">MetS (n = 84)</th><th align="left" valign="top" rowspan="1" colspan="1">Non‐MetS (n = 544)</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">P</italic>
+</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Total complications<xref ref-type="fn" rid="cam43352-note-0004">
+<sup>a</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">164 (26.11%)</td><td align="left" rowspan="1" colspan="1">35 (41.67%)</td><td align="left" rowspan="1" colspan="1">129 (23.71%)</td><td align="char" char="." rowspan="1" colspan="1">＜.001*</td></tr><tr><td align="left" rowspan="1" colspan="1">Detail of complications</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="char" char="." rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Surgical complications</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="char" char="." rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Gastroparesis</td><td align="left" rowspan="1" colspan="1">23 (3.66%)</td><td align="left" rowspan="1" colspan="1">9 (10.71%)</td><td align="left" rowspan="1" colspan="1">14 (2.57%)</td><td align="char" char="." rowspan="1" colspan="1">＜.001*</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Intestinal obstruction</td><td align="left" rowspan="1" colspan="1">14 (2.23%)</td><td align="left" rowspan="1" colspan="1">1 (1.19%)</td><td align="left" rowspan="1" colspan="1">13 (2.39%)</td><td align="char" char="." rowspan="1" colspan="1">.453</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">Severe wound infection</td><td align="left" rowspan="1" colspan="1">10 (1.59%)</td><td align="left" rowspan="1" colspan="1">2 (2.38%)</td><td align="left" rowspan="1" colspan="1">8 (1.47%)</td><td align="char" char="." rowspan="1" colspan="1">.558</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">Bleeding</td><td align="left" rowspan="1" colspan="1">14 (2.23%)</td><td align="left" rowspan="1" colspan="1">3 (3.57%)</td><td align="left" rowspan="1" colspan="1">11 (2.02%)</td><td align="char" char="." rowspan="1" colspan="1">.403</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">Intra‐abdominal infection</td><td align="left" rowspan="1" colspan="1">22 (3.50%)</td><td align="left" rowspan="1" colspan="1">4 (4.76%)</td><td align="left" rowspan="1" colspan="1">18 (3.31%)</td><td align="char" char="." rowspan="1" colspan="1">.500</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Anastomotic leakage</td><td align="left" rowspan="1" colspan="1">9 (1.43%)</td><td align="left" rowspan="1" colspan="1">1 (1.19%)</td><td align="left" rowspan="1" colspan="1">8 (1.47%)</td><td align="char" char="." rowspan="1" colspan="1">.841</td></tr><tr><td align="left" rowspan="1" colspan="1">Medical complications</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="char" char="." rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Pulmonary complications</td><td align="left" rowspan="1" colspan="1">16 (2.55%)</td><td align="left" rowspan="1" colspan="1">4 (4.76%)</td><td align="left" rowspan="1" colspan="1">12 (2.21%)</td><td align="char" char="." rowspan="1" colspan="1">.207</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Pleural and peritoneal effusion</td><td align="left" rowspan="1" colspan="1">11 (1.75%)</td><td align="left" rowspan="1" colspan="1">5 (5.95%)</td><td align="left" rowspan="1" colspan="1">6 (1.10%)</td><td align="char" char="." rowspan="1" colspan="1">.002*</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Cardiac complications</td><td align="left" rowspan="1" colspan="1">3 (0.48%)</td><td align="left" rowspan="1" colspan="1">0 (0.00%)</td><td align="left" rowspan="1" colspan="1">3 (0.55%)</td><td align="char" char="." rowspan="1" colspan="1">.353</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Venous thrombosis</td><td align="left" rowspan="1" colspan="1">12 (1.91%)</td><td align="left" rowspan="1" colspan="1">2 (2.38%)</td><td align="left" rowspan="1" colspan="1">10 (1.84%)</td><td align="char" char="." rowspan="1" colspan="1">.743</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Second operation</td><td align="left" rowspan="1" colspan="1">1 (0.16%)</td><td align="left" rowspan="1" colspan="1">0 (0.00%)</td><td align="left" rowspan="1" colspan="1">1 (0.18%)</td><td align="char" char="." rowspan="1" colspan="1">.592</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Complex complications (two or more complications)</td><td align="left" rowspan="1" colspan="1">29 (4.62%)</td><td align="left" rowspan="1" colspan="1">4 (4.76%)</td><td align="left" rowspan="1" colspan="1">25 (4.60%)</td><td align="char" char="." rowspan="1" colspan="1">.946</td></tr></tbody></table><table-wrap-foot id="cam43352-ntgp-0003"><fn id="cam43352-note-0004"><label><sup>a</sup></label><p>Clavien‐Dindo grade ≥ II.</p></fn><fn id="cam43352-note-0005"><label>*</label><p>Statistically significant (<italic toggle="yes">P</italic> &lt; .05).</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder></permissions></table-wrap><fig fig-type="Figure" xml:lang="en" id="cam43352-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Multivariate analysis to evaluate potential predictive factors for severe postoperative complications</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-7" position="float" orientation="portrait" xlink:href="CAM4-9-7116-g003.jpg"/></fig><p>Of the 628 gastric cancer patients, 331 (52.7%) were aged &lt;65 years (“younger” group) and the remaining 297 (47.3%) were aged ≥65 years (“older” group). Of the 331 patients in the younger group, 35 (10.6%) were diagnosed with MetS and 71 (21.5%) developed severe postoperative complications. Of the 297 patients in the older group, 49 (16.5%) were diagnosed with MetS and 93 (31.3%) developed severe postoperative complications. Interestingly, MetS was an independent risk factor for severe postoperative complications in the younger group (OR 2.235, 95% CI 1.015‐4.921, <italic toggle="yes">P</italic> = .046) but not in the older group (Table <xref rid="cam43352-sup-0002" ref-type="supplementary-material">S2</xref>).</p></sec><sec id="cam43352-sec-0014"><label>3.3</label><title>Nomogram development and usefulness</title><p>A model incorporating the independent predictors that yielded <italic toggle="yes">P</italic> &lt; .05 in multivariate analysis was developed and structured as a nomogram (Figure <xref rid="cam43352-fig-0004" ref-type="fig">4</xref>). Further DCA demonstrated that a use the nomogram adds more benefit than either the treat all or treat none scheme while the threshold probability of a patient is 13% to 54% (Figure <xref rid="cam43352-fig-0005" ref-type="fig">5</xref>). For example, if the personal threshold probability of a patient is 30% (<italic toggle="yes">ie</italic>, the patient would opt for treatment if their probability of postoperative complications was 30%), then the net benefit when using the nomogram to make a decision as to whether to undergo treatment is 0.246, constituting added benefit compared with the treat‐all or treat‐none scheme.</p><fig fig-type="Figure" xml:lang="en" id="cam43352-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Developed nomogram for predicting postoperative complications in GC patients</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-9" position="float" orientation="portrait" xlink:href="CAM4-9-7116-g004.jpg"/></fig><fig fig-type="Figure" xml:lang="en" id="cam43352-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>DCA for the nomogram. Decision curve analysis for the nomogram. The y‐axis measures the net benefit. The red line represents the nomogram. The gray line represents the assumption that all cases were concordant and The black line represents the assumption that no cases were concordant</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-11" position="float" orientation="portrait" xlink:href="CAM4-9-7116-g005.jpg"/></fig></sec><sec id="cam43352-sec-0015"><label>3.4</label><title>Development of postoperative complications risk‐rating model</title><p>Based on the univariate analyses, a postoperative complications risk‐rating model was further developed (Table <xref rid="cam43352-tbl-0003" ref-type="table">3</xref>). ROC analyses showed that higher risk‐rating predicted the occurrence of complications more accurately with a higher area under the curve (AUC) (ROC I = 0.503, ROC Ib = 0.544, ROC IIa = 0.601, ROC IIb = 0.612, ROC IIc = 0.638, ROC III = 0.735) (Figure <xref rid="cam43352-fig-0006" ref-type="fig">6</xref>).</p><table-wrap id="cam43352-tbl-0003" xml:lang="en" content-type="Table" orientation="portrait" position="float"><label>Table 3</label><caption><p>The risk rating models for postoperative complications</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">level</th><th align="left" valign="top" rowspan="1" colspan="1">Conditions</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">
+<p>Tumor size &lt; 2.1cm</p>
+<p>Age &lt; 65 years</p>
+<p>No preoperative metabolic syndrome</p>
+<p>Preoperative Charlson score = 0 points</p>
+<p>Not the Billroth II reconstruction</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Ⅰa</td><td align="left" rowspan="1" colspan="1">
+<p>Tumor size &gt; 2.1cm</p>
+<p>Age &gt; 65 years</p>
+<p>No preoperative metabolic syndrome</p>
+<p>Preoperative Charlson score = 0 points</p>
+<p>Not the Billroth II reconstruction</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Ⅰb</td><td align="left" rowspan="1" colspan="1">
+<p>Regardless of tumor size, meet one of the four conditions as</p>
+<p>Age &gt; 65 years</p>
+<p>preoperative metabolic syndrome</p>
+<p>Preoperative Charlson score &gt; 0 points</p>
+<p>Billroth II reconstruction</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Ⅱa</td><td align="left" rowspan="1" colspan="1">
+<p>Tumor size &lt; 2.1cm</p>
+<p>meet two of the four conditions as</p>
+<p>Age &gt; 65 years</p>
+<p>preoperative metabolic syndrome</p>
+<p>Preoperative Charlson score &gt; 0 points</p>
+<p>Billroth II reconstruction</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Ⅱb</td><td align="left" rowspan="1" colspan="1">
+<p>Tumor size &gt; 2.1cm</p>
+<p>meet two of the four conditions as</p>
+<p>Age &gt; 65 years</p>
+<p>preoperative metabolic syndrome</p>
+<p>Preoperative Charlson score &gt; 0 points</p>
+<p>Billroth II reconstruction</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Ⅱc</td><td align="left" rowspan="1" colspan="1">
+<p>Tumor size &gt; 2.1cm</p>
+<p>meet three of the four conditions as</p>
+<p>Age &gt; 65 years</p>
+<p>preoperative metabolic syndrome</p>
+<p>Preoperative Charlson score &gt; 0 points</p>
+<p>Billroth II reconstruction</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Ⅲ</td><td align="left" rowspan="1" colspan="1">
+<p>Tumor size &gt; 2.1cm</p>
+<p>Age &gt; 65 years</p>
+<p>preoperative metabolic syndrome</p>
+<p>Preoperative Charlson score &gt; 0 points</p>
+<p>Billroth II reconstruction</p>
+</td></tr></tbody></table><permissions><copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder></permissions></table-wrap><fig fig-type="Figure" xml:lang="en" id="cam43352-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>ROC curves for the postoperative complications risk‐rating model</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-13" position="float" orientation="portrait" xlink:href="CAM4-9-7116-g006.jpg"/></fig></sec></sec><sec sec-type="discussion" id="cam43352-sec-0016"><label>4</label><title>DISCUSSION</title><p>Considering the growing incidence rate of GC and the ongoing obesity epidemic in China, researchers have investigated associations between MetS and GC. Lin et al<xref rid="cam43352-bib-0018" ref-type="ref">
+<sup>18</sup>
+</xref> demonstrated that MetS is relevant to GC in both women and men, and Kim <xref rid="cam43352-bib-0019" ref-type="ref">
+<sup>19</sup>
+</xref> reported that patients with more than three risk factors for MetS were more probably to suffer GC. Dan Hu et al<xref rid="cam43352-bib-0002" ref-type="ref">
+<sup>2</sup>
+</xref> reported that preoperative MetS was predictive factor for mortality after radical gastrectomy, particularly those with early GC. To our knowledge however, the current investigation is the first cohort study to investigate associations between preoperative MetS and postoperative complications after gastrectomy.</p><p>In this study, the MetS incidence as diagnosed in accordance with the Chinese Diabetes Society criteria<xref rid="cam43352-bib-0017" ref-type="ref">
+<sup>17</sup>
+</xref> was 13.4%, which is comparable to that previously reported.<xref rid="cam43352-bib-0007" ref-type="ref">
+<sup>7</sup>
+</xref> MetS was further turned out to be an independent risk factor for severe postoperative complications after gastrectomy as expected. Given that MetS is consist of a bunch of metabolic abnormalities such as obesity, dyslipidemia, hypertension, and hyperglycemia, insulin resistance may be the most probable pathophysiological cause.</p><p>Mounting evidence suggests that insulin resistance influences abnormal metabolism in adipocytes, with succeeding increasing of pro‐inflammatory cytokines and decreaing of adiponectin (protective adipokine),<xref rid="cam43352-bib-0020" ref-type="ref">
+<sup>20</sup>
+</xref> thus leading to infective complications including infection of surgical site, abdominal infection, and pneumonia. Abdominal obesity is also reportedly correlated with insulin resistance—and thus reduced oxygen tension within surgical wounds—which can give rise to infectious complications.<xref rid="cam43352-bib-0021" ref-type="ref">
+<sup>21</sup>
+</xref> Furthermore, the massive and fragile fat tissue in abdominally obese patients is easily torn and greatly reduces surgical precision,<xref rid="cam43352-bib-0022" ref-type="ref">
+<sup>22</sup>
+</xref> which could prolong the surgery duration and increase intraoperative hemorrhage, resulting in an increased risk of wound infection. In another study hypertension and dyslipidemia were both related to poor microvascular circulation,<xref rid="cam43352-bib-0023" ref-type="ref">
+<sup>23</sup>
+</xref> which impaired tissue repair and increased the risk of wound complications such as anastomotic leakage. Although each individual component may only have a small influence, the risk of postoperative complications was substantially increased when these minor forms of damage occurred together.</p><p>As has been reported previously,<xref rid="cam43352-bib-0002" ref-type="ref">
+<sup>2</sup>
+</xref>, <xref rid="cam43352-bib-0024" ref-type="ref">
+<sup>24</sup>
+</xref> we also found the incidence rate of MetS was higher in the elderly. Age was another independent risk factor for postoperative complications in the present study. Considering the difference in physical condition between younger patients and older patients, we investigated whether MetS correlated with outcome separately in the younger and older groups. Interestingly MetS could only independently predicted postoperative complications in the young. It may be that the value of MetS predicting postoperative complications in the elderly is reduced by age and age‐related comparatively poorer physical condition. Thus under the same diagnostic criteria, more attention should be paid to young patients.</p><p>In the present study, Billroth II anastomosis was also an independent risk factor for postoperative complications in our study, consistent with Kang KC demonstrated that the postoperative complication was much less in a Billroth I group than in a Billroth II group.<xref rid="cam43352-bib-0025" ref-type="ref">
+<sup>25</sup>
+</xref> Notably however, in another study there was no statistical differences in morbidity derived from postoperative complications in a Billroth I group and a Billroth II group. Despite of differences in operation technique, although Billroth II reconstruction was tension‐free with the application of anastomosis of gastric‐jejunum, it has the disadvantages of altering the digestive tract and taking longer time to empty, which potentially leading to duodenal stump leakage.<xref rid="cam43352-bib-0026" ref-type="ref">
+<sup>26</sup>
+</xref>, <xref rid="cam43352-bib-0027" ref-type="ref">
+<sup>27</sup>
+</xref> Consistent with previous reports,<xref rid="cam43352-bib-0028" ref-type="ref">
+<sup>28</sup>
+</xref>, <xref rid="cam43352-bib-0029" ref-type="ref">
+<sup>29</sup>
+</xref> Charlson score was independently relevant to postoperative complications in the current study.</p><p>The nomogram incorporating MetS, anastomotic type, age, and Charlson score to predict individual risk of postoperative complications developed in the current study has potential clinical applications. Patients at a high risk of developing postoperative complications could be monitored more closely. With this aim, DCA, which offers insight into clinical consequences based on net benefit derived threshold probability, was applied in this study. The net benefit was considered as the difference between proportion of true positives and false positives and weighted by the relative harm of false positive and false negative. DCA demonstrated that while a patient's threshold probability determined by the nomogram developed in the present study is &gt; 13% and &lt; 54%, offering prophylactic measures adds more benefit than either the treat all or treat none scheme.</p><p>A postoperative complications risk rating model was finally developed in the present study. Further ROC analysis showed that a higher risk rating corresponded with a higher AUC indicating that the model could be used effectively to screen susceptible patients of postoperative complications. The current study is the first to investigate relationships between MetS and postoperative complications, and also first constructed the nomogram to quantify the possibility of postoperative complications.</p><p>The present study had several limitations. Although it can be considered representative because the patients in the study were prospectively enrolled in two large centers, the conclusions of the study is needed to confirm via a randomized controlled multicenter study. Another limitation is that the study only included short term outcomes (within 30 days postoperatively). Long term follow‐up data are also needed.</p><p>In conclusion, it is the first report of relationship between preoperative MetS and short‐term prognosis. MetS, as well as Billroth II anastomosis, age, and Charlson score affected postoperative complications after gastrectomy. A nomogram incorporating these independent risk factors was developed. Preoperative use of this prediction tool could provide useful information to surgeons with respect to better preoperative preparation to decrease the risks associated with the surgery economically and conveniently.</p></sec><sec id="cam43352-sec-0017"><title>ETHICS APPROVAL AND CONSENT TO PARTICIPATE</title><p>All participants provided their written informed consent, and the protocol for this study was approved by the ethics committee of The Second Affiliated Hospital of Wenzhou Medical University and Yuying children's Hospital.</p></sec><sec sec-type="COI-statement" id="cam43352-sec-0019"><title>CONFLICT OF INTERESTS</title><p>The authors declare that they have no competing interests, and all authors should confirm its accuracy.</p></sec><sec id="cam43352-sec-0020"><title>AUTHOR CONTRIBUTIONS</title><p>Study concepts: XDC, Study design: WTZ and XWS, Data acquisition: CCM and MMS, Data analysis and interpretation: LBX, YQC, Statistical analysis: WJC and XDC, Manuscript preparation: XDC and WTZ, Manuscript editing: CCM, Manuscript review: XS.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="cam43352-sup-0001" position="float" orientation="portrait"><caption><p>Table S1</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CAM4-9-7116-s001.docx" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="cam43352-sup-0002" position="float" orientation="portrait"><caption><p>Table S2</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CAM4-9-7116-s002.docx" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="cam43352-sec-0018"><title>ACKNOWLEDGMENTS</title><p>The authors thank all the participants in this study and the members of our research team.</p></ack><sec sec-type="data-availability" id="cam43352-sec-0022"><title>DATA AVAILABILITY STATEMENT</title><p>The datasets used during the current study are available from the corresponding author on reasonable request.</p></sec><ref-list content-type="cited-references" id="cam43352-bibl-0001"><title>REFERENCES</title><ref id="cam43352-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="cam43352-cit-0001">
+<string-name name-style="western">
+<surname>Akinyemiju</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sakhuja</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vin‐Raviv</surname>
+<given-names>N</given-names>
+</string-name>. <article-title>Vin‐Raviv N In‐Hospital Mortality and Post‐Surgical Complications Among Cancer Patients with Metabolic Syndrome</article-title>. <source xml:lang="en">Obes Surg</source>. <year>2018</year>;<volume>28</volume>:<fpage>683</fpage>‐<lpage>692</lpage>.<pub-id pub-id-type="pmid">28849323</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s11695-017-2900-6</pub-id><pub-id pub-id-type="pmcid">PMC6086347</pub-id></mixed-citation></ref><ref id="cam43352-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="cam43352-cit-0002">
+<string-name name-style="western">
+<surname>Hu</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Peng</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lin</surname>
+<given-names>X</given-names>
+</string-name>, et al. <article-title>Preoperative Metabolic Syndrome Is Predictive of Significant Gastric Cancer Mortality after Gastrectomy: The Fujian Prospective Investigation of Cancer (FIESTA) Study</article-title>. <source xml:lang="en">EBioMedicine</source>. <year>2017</year>;<volume>15</volume>:<fpage>73</fpage>‐<lpage>80</lpage>.<pub-id pub-id-type="pmid">27979733</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ebiom.2016.12.004</pub-id><pub-id pub-id-type="pmcid">PMC5233804</pub-id></mixed-citation></ref><ref id="cam43352-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="cam43352-cit-0003">
+<string-name name-style="western">
+<surname>Cornier</surname>
+<given-names>M‐A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dabelea</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hernandez</surname>
+<given-names>TL</given-names>
+</string-name>, et al. <article-title>The metabolic syndrome</article-title>. <source xml:lang="en">Endocr Rev</source>. <year>2008</year>;<volume>29</volume>:<fpage>777</fpage>‐<lpage>822</lpage>.<pub-id pub-id-type="pmid">18971485</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1210/er.2008-0024</pub-id><pub-id pub-id-type="pmcid">PMC5393149</pub-id></mixed-citation></ref><ref id="cam43352-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="cam43352-cit-0004">
+<string-name name-style="western">
+<surname>Turati</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Talamini</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pelucchi</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Metabolic syndrome and hepatocellular carcinoma risk</article-title>. <source xml:lang="en">Br J Cancer</source>. <year>2013</year>;<volume>108</volume>:<fpage>222</fpage>‐<lpage>228</lpage>.<pub-id pub-id-type="pmid">23169288</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/bjc.2012.492</pub-id><pub-id pub-id-type="pmcid">PMC3553509</pub-id></mixed-citation></ref><ref id="cam43352-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="cam43352-cit-0005">
+<string-name name-style="western">
+<surname>Rosato</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tavani</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bosetti</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Metabolic syndrome and pancreatic cancer risk: a case‐control study in Italy and meta‐analysis</article-title>. <source xml:lang="en">Metabolism</source>. <year>2011</year>;<volume>60</volume>:<fpage>1372</fpage>‐<lpage>1378</lpage>.<pub-id pub-id-type="pmid">21550085</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.metabol.2011.03.005</pub-id></mixed-citation></ref><ref id="cam43352-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="cam43352-cit-0006">
+<string-name name-style="western">
+<surname>Sturmer</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Buring</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lee</surname>
+<given-names>I‐M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gaziano</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Glynn</surname>
+<given-names>RJ</given-names>
+</string-name>. <article-title>Glynn RJ Metabolic abnormalities and risk for colorectal cancer in the physicians' health study</article-title>. <source xml:lang="en">Cancer Epidemiol Biomarkers Prev</source>. <year>2006</year>;<volume>15</volume>:<fpage>2391</fpage>‐<lpage>2397</lpage>.<pub-id pub-id-type="pmid">17164361</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/1055-9965.EPI-06-0391</pub-id><pub-id pub-id-type="pmcid">PMC1764627</pub-id></mixed-citation></ref><ref id="cam43352-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="cam43352-cit-0007">
+<string-name name-style="western">
+<surname>Li</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Du</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>The Association Between Metabolic Syndrome and Gastric Cancer in Chinese</article-title>. <source xml:lang="en">Front Oncol</source>. <year>2018</year>;<volume>8</volume>:<fpage>326</fpage>.<pub-id pub-id-type="pmid">30191141</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fonc.2018.00326</pub-id><pub-id pub-id-type="pmcid">PMC6116659</pub-id></mixed-citation></ref><ref id="cam43352-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="cam43352-cit-0008">
+<string-name name-style="western">
+<surname>Cauchy</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zalinski</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dokmak</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Surgical treatment of hepatocellular carcinoma associated with the metabolic syndrome</article-title>. <source xml:lang="en">Br J Surg</source>. <year>2013</year>;<volume>100</volume>:<fpage>113</fpage>‐<lpage>121</lpage>.<pub-id pub-id-type="pmid">23147992</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/bjs.8963</pub-id></mixed-citation></ref><ref id="cam43352-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="cam43352-cit-0009">
+<string-name name-style="western">
+<surname>Croft</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Reed</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Patrick</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kovacevich</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Voutsadakis</surname>
+<given-names>IA</given-names>
+</string-name>. <article-title>Voutsadakis IA Diabetes, Obesity, and the Metabolic Syndrome as Prognostic Factors in Stages I to III Colorectal Cancer Patients</article-title>. <source xml:lang="en">J Gastrointest Cancer</source>. <year>2019</year>;<volume>50</volume>:<fpage>221</fpage>‐<lpage>229</lpage>.<pub-id pub-id-type="pmid">29335847</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s12029-018-0056-9</pub-id></mixed-citation></ref><ref id="cam43352-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="cam43352-cit-0010">
+<string-name name-style="western">
+<surname>Ounhasuttiyanon</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Lohsiriwat V Metabolic syndrome and outcome after breast reconstruction</article-title>. <source xml:lang="en">Gland Surg</source>. <year>2014</year>;<volume>3</volume>:<fpage>85</fpage>‐<lpage>87</lpage>.<pub-id pub-id-type="pmid">25083501</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3978/j.issn.2227-684X.2014.02.07</pub-id><pub-id pub-id-type="pmcid">PMC4115766</pub-id></mixed-citation></ref><ref id="cam43352-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="cam43352-cit-0011">
+<string-name name-style="western">
+<surname>Torre</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bray</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Siegel</surname>
+<given-names>RL</given-names>
+</string-name>, et al. <article-title>Global cancer statistics, 2012</article-title>. <source xml:lang="en">CA Cancer J Clin</source>. <year>2015</year>;<volume>65</volume>:<fpage>87</fpage>‐<lpage>108</lpage>.<pub-id pub-id-type="pmid">25651787</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3322/caac.21262</pub-id></mixed-citation></ref><ref id="cam43352-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="cam43352-cit-0012">
+<string-name name-style="western">
+<surname>Ferlay</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Soerjomataram</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dikshit</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Cancer incidence and mortality worldwide: sources, methods and major patterns in GLOBOCAN 2012</article-title>. <source xml:lang="en">Int J Cancer</source>. <year>2015</year>;<volume>136</volume>:<fpage>E359</fpage>‐<lpage>E386</lpage>.<pub-id pub-id-type="pmid">25220842</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ijc.29210</pub-id></mixed-citation></ref><ref id="cam43352-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="cam43352-cit-0013">
+<string-name name-style="western">
+<surname>Chen</surname>
+<given-names>KE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mou</surname>
+<given-names>Y‐P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>
+<given-names>X‐W</given-names>
+</string-name>, et al. <article-title>Short‐term surgical and long‐term survival outcomes after laparoscopic distal gastrectomy with D2 lymphadenectomy for gastric cancer</article-title>. <source xml:lang="en">BMC Gastroenterol</source>. <year>2014</year>;<volume>14</volume>:<fpage>41</fpage>.<pub-id pub-id-type="pmid">24568165</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/1471-230X-14-41</pub-id><pub-id pub-id-type="pmcid">PMC3939636</pub-id></mixed-citation></ref><ref id="cam43352-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="cam43352-cit-0014">
+<string-name name-style="western">
+<surname>Sasako</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sano</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yamamoto</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>D2 lymphadenectomy alone or with para‐aortic nodal dissection for gastric cancer</article-title>. <source xml:lang="en">N Engl J Med</source>. <year>2008</year>;<volume>359</volume>:<fpage>453</fpage>‐<lpage>462</lpage>.<pub-id pub-id-type="pmid">18669424</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa0707035</pub-id></mixed-citation></ref><ref id="cam43352-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="cam43352-cit-0015">
+<string-name name-style="western">
+<surname>Shi</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Sarcopenia is Associated with Perioperative Outcomes in Gastric Cancer Patients Undergoing Gastrectomy</article-title>. <source xml:lang="en">Ann Nutr Metab</source>. <year>2019</year>;<fpage>1</fpage>‐<lpage>10</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1159/000504283</pub-id><pub-id pub-id-type="pmid">31846973</pub-id></mixed-citation></ref><ref id="cam43352-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="cam43352-cit-0016">
+<string-name name-style="western">
+<surname>Clavien</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barkun</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>de Oliveira</surname>
+<given-names>ML</given-names>
+</string-name>, et al. <article-title>The Clavien‐Dindo classification of surgical complications: five‐year experience</article-title>. <source xml:lang="en">Ann Surg</source>. <year>2009</year>;<volume>250</volume>:<fpage>187</fpage>‐<lpage>196</lpage>.<pub-id pub-id-type="pmid">19638912</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/SLA.0b013e3181b13ca2</pub-id></mixed-citation></ref><ref id="cam43352-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="cam43352-cit-0017">
+<string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guo</surname>
+<given-names>Z‐R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yu</surname>
+<given-names>L‐G</given-names>
+</string-name>, et al. <article-title>Evidence on the applicability of the ATPIII, IDF and CDS metabolic syndrome diagnostic criteria to identify CVD and T2DM in the Chinese population from a 6.3‐year cohort study in mid‐eastern China</article-title>. <source xml:lang="en">Diabetes Res Clin Pract</source>. <year>2010</year>;<volume>90</volume>:<fpage>319</fpage>‐<lpage>325</lpage>.<pub-id pub-id-type="pmid">20934770</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.diabres.2010.09.001</pub-id></mixed-citation></ref><ref id="cam43352-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="cam43352-cit-0018">
+<string-name name-style="western">
+<surname>Lin</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ness‐Jensen</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hveem</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lagergren</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lu</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>Metabolic syndrome and esophageal and gastric cancer</article-title>. <source xml:lang="en">Cancer Causes Control</source>. <year>2015</year>;<volume>26</volume>:<fpage>1825</fpage>‐<lpage>1834</lpage>.<pub-id pub-id-type="pmid">26450604</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s10552-015-0675-4</pub-id></mixed-citation></ref><ref id="cam43352-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="cam43352-cit-0019">
+<string-name name-style="western">
+<surname>Kim</surname>
+<given-names>EH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lee</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chung</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Impact of metabolic syndrome on oncologic outcome after radical gastrectomy for gastric cancer</article-title>. <source xml:lang="en">Clin Res Hepatol Gastroenterol</source>. <year>2014</year>;<volume>38</volume>:<fpage>372</fpage>‐<lpage>378</lpage>.<pub-id pub-id-type="pmid">24485596</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.clinre.2013.11.009</pub-id></mixed-citation></ref><ref id="cam43352-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="cam43352-cit-0020">
+<string-name name-style="western">
+<surname>Tzimas</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Petrou</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Laou</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Impact of metabolic syndrome in surgical patients: should we bother?</article-title>
+<source xml:lang="en">Br J Anaesth</source>. <year>2015</year>;<volume>115</volume>:<fpage>194</fpage>‐<lpage>202</lpage>.<pub-id pub-id-type="pmid">26109210</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/bja/aev199</pub-id></mixed-citation></ref><ref id="cam43352-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="cam43352-cit-0021">
+<string-name name-style="western">
+<surname>Nishigori</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tsunoda</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Okabe</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Impact of Sarcopenic Obesity on Surgical Site Infection after Laparoscopic Total Gastrectomy</article-title>. <source xml:lang="en">Ann Surg Oncol</source>. <year>2016</year>;<volume>23</volume>:<fpage>524</fpage>‐<lpage>531</lpage>.<pub-id pub-id-type="pmid">27380646</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1245/s10434-016-5385-y</pub-id></mixed-citation></ref><ref id="cam43352-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="cam43352-cit-0022">
+<string-name name-style="western">
+<surname>Kim</surname>
+<given-names>K‐H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kim</surname>
+<given-names>M‐C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jung</surname>
+<given-names>G‐J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kim</surname>
+<given-names>H‐H</given-names>
+</string-name>. <article-title>Kim HH The impact of obesity on LADG for early gastric cancer</article-title>. <source xml:lang="en">Gastric Cancer</source>. <year>2006</year>;<volume>9</volume>:<fpage>303</fpage>‐<lpage>307</lpage>.<pub-id pub-id-type="pmid">17235633</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s10120-006-0395-2</pub-id></mixed-citation></ref><ref id="cam43352-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="cam43352-cit-0023">
+<string-name name-style="western">
+<surname>Lohsiriwat</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pongsanguansuk</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lertakyamanee</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lohsiriwat</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Lohsiriwat D Impact of metabolic syndrome on the short‐term outcomes of colorectal cancer surgery</article-title>. <source xml:lang="en">Dis Colon Rectum</source>. <year>2010</year>;<volume>53</volume>:<fpage>186</fpage>‐<lpage>191</lpage>.<pub-id pub-id-type="pmid">20087094</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/DCR.0b013e3181bdbc32</pub-id></mixed-citation></ref><ref id="cam43352-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="cam43352-cit-0024">
+<string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>C‐J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cheng</surname>
+<given-names>Y‐F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xie</surname>
+<given-names>L‐Z</given-names>
+</string-name>, et al. <article-title>Metabolic syndrome, as defined based on parameters including visceral fat area, predicts complications after surgery for rectal cancer</article-title>. <source xml:lang="en">Obes Surg</source>. <year>2020</year>;<volume>30</volume>(<issue>1</issue>):<fpage>319</fpage>‐<lpage>326</lpage>.<pub-id pub-id-type="pmid">31625057</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s11695-019-04163-1</pub-id></mixed-citation></ref><ref id="cam43352-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="cam43352-cit-0025">
+<string-name name-style="western">
+<surname>Kang</surname>
+<given-names>K‐C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cho</surname>
+<given-names>GS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Han</surname>
+<given-names>SU</given-names>
+</string-name>, et al. <article-title>Comparison of Billroth I and Billroth II reconstructions after laparoscopy‐assisted distal gastrectomy: a retrospective analysis of large‐scale multicenter results from Korea</article-title>. <source xml:lang="en">Surg Endosc</source>. <year>2011</year>;<volume>25</volume>:<fpage>1953</fpage>‐<lpage>1961</lpage>.<pub-id pub-id-type="pmid">21136095</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00464-010-1493-0</pub-id></mixed-citation></ref><ref id="cam43352-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="cam43352-cit-0026">
+<string-name name-style="western">
+<surname>Lee</surname>
+<given-names>W‐J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>T‐C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>J‐C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ser</surname>
+<given-names>K‐H</given-names>
+</string-name>. <article-title>Ser KH Totally laparoscopic radical BII gastrectomy for the treatment of gastric cancer: a comparison with open surgery</article-title>. <source xml:lang="en">Surg Laparosc Endosc Percutan Tech</source>. <year>2008</year>;<volume>18</volume>:<fpage>369</fpage>‐<lpage>374</lpage>.<pub-id pub-id-type="pmid">18716536</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/SLE.0b013e31816fdd44</pub-id></mixed-citation></ref><ref id="cam43352-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="cam43352-cit-0027">
+<string-name name-style="western">
+<surname>Kyzer</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Binyamini</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Melki</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Comparative study of the early postoperative course and complications in patients undergoing Billroth I and Billroth II gastrectomy</article-title>. <source xml:lang="en">World J Surg</source>. <year>1997</year>;<volume>21</volume>(<issue>7</issue>):<fpage>763</fpage>‐<lpage>767</lpage>. discussion 767.<pub-id pub-id-type="pmid">9276708</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s002689900302</pub-id></mixed-citation></ref><ref id="cam43352-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="cam43352-cit-0028">
+<string-name name-style="western">
+<surname>Chen</surname>
+<given-names>X‐Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>BO</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ma</surname>
+<given-names>B‐W</given-names>
+</string-name>, et al. <article-title>Sarcopenia is an effective prognostic indicator of postoperative outcomes in laparoscopic‐assisted gastrectomy</article-title>. <source xml:lang="en">Eur J Surg Oncol</source>. <year>2019</year>;<volume>45</volume>:<fpage>1092</fpage>‐<lpage>1098</lpage>.<pub-id pub-id-type="pmid">30853168</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ejso.2018.09.030</pub-id></mixed-citation></ref><ref id="cam43352-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="cam43352-cit-0029">
+<string-name name-style="western">
+<surname>Huang</surname>
+<given-names>C‐M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tu</surname>
+<given-names>R‐H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lin</surname>
+<given-names>J‐X</given-names>
+</string-name>, et al. <article-title>A scoring system to predict the risk of postoperative complications after laparoscopic gastrectomy for gastric cancer based on a large‐scale retrospective study</article-title>. <source xml:lang="en">Medicine (Baltimore)</source>. <year>2015</year>;<volume>94</volume>:<elocation-id>e812</elocation-id>.<pub-id pub-id-type="pmid">25929938</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/MD.0000000000000812</pub-id><pub-id pub-id-type="pmcid">PMC4603032</pub-id></mixed-citation></ref></ref-list></back></article>

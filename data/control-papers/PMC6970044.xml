@@ -1,0 +1,664 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article article-type="research-article" xml:lang="en" dtd-version="1.4"><front><journal-meta><journal-id journal-id-type="nlm-ta">Cancer Med</journal-id><journal-id journal-id-type="iso-abbrev">Cancer Med</journal-id><journal-id journal-id-type="pmc-domain-id">1974</journal-id><journal-id journal-id-type="pmc-domain">canmed</journal-id><journal-id journal-id-type="nlm-id">101595310</journal-id><journal-id journal-id-type="publisher-id">CAM4</journal-id><journal-title-group><journal-title>Cancer Medicine</journal-title></journal-title-group><issn pub-type="epub">2045-7634</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC6970044</article-id><article-id pub-id-type="pmcid-ver">PMC6970044.1</article-id><article-id pub-id-type="pmcaid">6970044</article-id><article-id pub-id-type="pmcaiid">6970044</article-id><article-id pub-id-type="pmid">31957323</article-id><article-id pub-id-type="doi">10.1002/cam4.2719</article-id><article-id pub-id-type="publisher-id">CAM42719</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Cancer Biology</subject><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></subj-group></article-categories><title-group><article-title>Antitumor activity of celastrol by inhibition of proliferation, invasion, and migration in cholangiocarcinoma via PTEN/PI3K/Akt pathway</article-title><alt-title alt-title-type="left-running-head">ZHU and WEI</alt-title></title-group><contrib-group><contrib id="cam42719-cr-0001" contrib-type="author"><name name-style="western"><surname>Zhu</surname><given-names initials="B">Biqiang</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-4950-554X</contrib-id><xref ref-type="aff" rid="cam42719-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="cam42719-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cam42719-cr-0002" contrib-type="author" corresp="yes"><name name-style="western"><surname>Wei</surname><given-names initials="Y">Yunwei</given-names></name><xref ref-type="aff" rid="cam42719-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="cam42719-aff-0002">
+<sup>2</sup>
+</xref><address><email>hydwyw11@hotmail.com</email></address></contrib></contrib-group><aff id="cam42719-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Oncology and Laparoscopy Surgery</named-content>
+<institution>The First Affiliated Hospital of Harbin Medical University</institution>
+<city>Harbin</city>
+<named-content content-type="country-part">Heilongjiang</named-content>
+<country country="CN">China</country>
+</aff><aff id="cam42719-aff-0002">
+<label><sup>2</sup></label>
+<institution>Translational Medicine Research and Cooperation Center of Northern China</institution>
+<city>Harbin</city>
+<named-content content-type="country-part">Heilongjiang</named-content>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Yunwei Wei, Department of Oncology and Laparoscopy Surgery, The First Affiliated Hospital of Harbin Medical University, No. 23 You Zheng Street, Harbin 150001, Heilongjiang, China.<break/>
+Email: <email>hydwyw11@hotmail.com</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>26</day><month>11</month><year>2019</year></pub-date><pub-date pub-type="collection"><month>1</month><year>2020</year></pub-date><volume>9</volume><issue>2</issue><issue-id pub-id-type="pmc-issue-id">350325</issue-id><issue-id pub-id-type="doi">10.1002/cam4.v9.2</issue-id><fpage>783</fpage><lpage>796</lpage><history><date date-type="received"><day>01</day><month>7</month><year>2019</year></date><date date-type="rev-recd"><day>02</day><month>10</month><year>2019</year></date><date date-type="accepted"><day>30</day><month>10</month><year>2019</year></date></history><pub-history><event event-type="pmc-release"><date><day>26</day><month>11</month><year>2019</year></date></event><event event-type="pmc-live"><date><day>27</day><month>01</month><year>2020</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2024-11-01 13:25:15.797"><day>01</day><month>11</month><year>2024</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2019 The Authors. <italic toggle="yes">Cancer Medicine</italic> published by John Wiley &amp; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="CAM4-9-783.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:CAM4-9-783.pdf"/><abstract id="cam42719-abs-0001"><title>Abstract</title><sec id="cam42719-sec-0001"><title>Aim</title><p>Cholangiocarcinoma is a malignant tumor originating from bile duct epithelium. Currently, the treatment strategy is very limited and the prognosis is poor. Recent studies reported celastrol exhibits antigrowth and antimetastasis properties in many tumors. Our study aimed to assess the anti‐CCA effects of cholangiocarcinoma (CCA) and the mechanisms involved in it.</p></sec><sec id="cam42719-sec-0002"><title>Methods</title><p>In this study, the long‐term and short‐term antiproliferation effects was determined using colony formation and Cell Counting Kit‐8 (CCK‐8) assays, respectively. Flow cytometry was performed to quantify apoptosis. Furthermore, wound healing and transwell assays were performed to determine the cell migration and invasion capabilities, respectively. To further find the mechanism involved in the celastrol‐induced biological functions, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="LY204002">LY204002</ext-link>, a PI3K/Akt signaling inhibitor, and an Akt‐1 overexpression plasmid were employed to find whether PI3K/Akt pathway was involved in the celastrol‐induced CCA cell inhibition. Additionally, short interfering RNA (siRNA) was also used to investigate the mechanism involved in the celastrol‐induced PI3K/Akt signaling inhibition. Western blotting and immunofluorescence assays were also performed to detect the degree of relative proteins. Moreover, we validated the antiproliferation and antimetastasis effects of celastrol in vivo by constructing subcutaneous and lung metastasis nude mice models.</p></sec><sec id="cam42719-sec-0003"><title>Results</title><p>We discovered that celastrol effectively induced apoptotic cell death and inhibited the capacity of migration and invasion in CCA cells. Further mechanistic study identified that celastrol regulated the PI3K/Akt signaling pathway, and the antitumor efficacy was likely due to the upregulation of PTEN, a negative regulator of PI3K/Akt. Blockage of PTEN abolished the celastrol‐induced PI3K/Akt signaling inhibition. Additionally, in vivo experiments conformed celastrol inhibited the tumor growth and lung metastasis with no serious side effects.</p></sec><sec id="cam42719-sec-0004"><title>Conclusions</title><p>Overall, our study elucidated a mechanistic framework for the anti‐CCA effects of celastrol via PTEN/PI3K/Akt pathway.</p></sec></abstract><abstract abstract-type="graphical" id="cam42719-abs-0002"><p>Our research provided mechanistic insight into the anti‐CCA effect of celastrol by the regulation of the PTEN expression, and provide a novel therapeutic strategy for CCA.<boxed-text position="anchor" content-type="graphic" id="cam42719-blkfxd-0001" orientation="portrait"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="nlm-graphic-1" orientation="portrait" xlink:href="CAM4-9-783-g009.jpg"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="cam42719-kwd-0001">Akt</kwd><kwd id="cam42719-kwd-0002">apoptosis</kwd><kwd id="cam42719-kwd-0003">celastrol</kwd><kwd id="cam42719-kwd-0004">epithelial‐to‐mesenchymal transition</kwd><kwd id="cam42719-kwd-0005">phosphatase and tensin homolog</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>Heilongjiang Provincial Academy of Medical Sciences</funding-source><award-id>CR201415</award-id></award-group></funding-group><counts><fig-count count="8"/><table-count count="0"/><page-count count="14"/><word-count count="6193"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.5 mode:remove_FC converted:19.01.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="cam42719-cit-1001">
+<string-name name-style="western">
+<surname>Zhu</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wei</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>Antitumor activity of celastrol by inhibition of proliferation, invasion, and migration in cholangiocarcinoma via PTEN/PI3K/Akt pathway</article-title>. <source xml:lang="en">Cancer Med</source>. <year>2020</year>;<volume>9</volume>:<fpage>783</fpage>–<lpage>796</lpage>. <pub-id pub-id-type="doi">10.1002/cam4.2719</pub-id>
+<pub-id pub-id-type="pmcid">PMC6970044</pub-id><pub-id pub-id-type="pmid">31957323</pub-id></mixed-citation>
+</p><fn-group id="cam42719-ntgp-0001"><fn fn-type="funding" id="cam42719-note-0001"><p>
+<bold>Funding information</bold>
+</p><p>This study was supported by the Heilongjiang Provincial Academy of Medical Sciences (CR201415).</p></fn></fn-group></notes></front><body id="cam42719-body-0001"><sec id="cam42719-sec-0005"><label>1</label><title>INTRODUCTION</title><p>Cholangiocarcinoma (CCA) is a rare primary hepatobiliary malignancy with a dismal prognosis arising from the epithelial cells of extrahepatic or/and intrahepatic biliary tree.<xref rid="cam42719-bib-0001" ref-type="ref">1</xref> An increasing number of researches demonstrated that the overall morbidity and mortality are increasing in recent years.<xref rid="cam42719-bib-0002" ref-type="ref">2</xref> Therapeutic options are limited because of its aggressive nature and often diagnosed at advanced stages, for which curative surgery is not a viable option.<xref rid="cam42719-bib-0003" ref-type="ref">3</xref> Curative surgical treatment is the only viable option that can provide the possibility of cure for locally restricted disease and prolonged survival. It is worth noting that radical resection may be associated with severe postoperative complications such as hepatorenal syndrome and progressive liver failure.<xref rid="cam42719-bib-0004" ref-type="ref">4</xref> In recent years, other nonsurgical treatment, such as molecular target therapy, adjuvant radiation therapy, systemic chemotherapy, and combination treatment have been improved for CCA therapy.<xref rid="cam42719-bib-0005" ref-type="ref">5</xref>, <xref rid="cam42719-bib-0006" ref-type="ref">6</xref>, <xref rid="cam42719-bib-0007" ref-type="ref">7</xref> Unfortunately, the overall treatment outcome of CCA is still limited. Thus, we urgently need new therapeutic strategies to provide optimism for CCA patients.</p><p>Celastrol, derived from the Chinese herbal medicine Trypterygium,<xref rid="cam42719-bib-0008" ref-type="ref">8</xref> exhibits extensive biological and pharmacological activities. Zhang J claimed that celastrol ameliortes inflammation on Human Retinal Pigment Epithelial Cells.<xref rid="cam42719-bib-0009" ref-type="ref">9</xref> An SY demonstrated that celastrol can significantly suppress microbial processes.<xref rid="cam42719-bib-0010" ref-type="ref">10</xref> According to the recent discovery, celastrol exhibits an antitumor effect on several cancer cells through inhibiting cell survival, invasion/migration, and angiogenesis or promoting cell apoptosis in a wide variety of tumor models, including osteosarcoma, colorectal cancer, liver cancer, lung cancer, and breast cancer.<xref rid="cam42719-bib-0011" ref-type="ref">11</xref>, <xref rid="cam42719-bib-0012" ref-type="ref">12</xref>, <xref rid="cam42719-bib-0013" ref-type="ref">13</xref> Mechanically, celastrol meditates tumor‐related proinflammatory cytokines, adhesion molecules, TGF‐activated kinase 1 (TAK1), NF‐kB, CXCR4, VEGF receptor (VEGFR), proteasome, and STAT3.<xref rid="cam42719-bib-0014" ref-type="ref">14</xref>, <xref rid="cam42719-bib-0015" ref-type="ref">15</xref>, <xref rid="cam42719-bib-0016" ref-type="ref">16</xref>, <xref rid="cam42719-bib-0017" ref-type="ref">17</xref>, <xref rid="cam42719-bib-0018" ref-type="ref">18</xref>, <xref rid="cam42719-bib-0019" ref-type="ref">19</xref>, <xref rid="cam42719-bib-0020" ref-type="ref">20</xref> Considering CCA is also an epithelial originated cancer like liver cancer or lung cancer, we hypothesized that celastrol may be an appropriate candidate for CCA treatment.</p><p>Although the exact mechanism leading to CCA has not been fully demonstrated, cumulative studies have shown that the phosphoinositide 3‐kinase (PI3K)/Akt plays an important role in the response of cells stimulated by external signals, and the abnormal activation of the PI3K/Akt pathway is closely related to the occurrence and development of malignant tumors, including CCA.<xref rid="cam42719-bib-0021" ref-type="ref">21</xref> Blocking multiple signaling pathways is the theoretical basis of many anticancer drugs. Surprisingly, celastrol has shown the potential to block PI3K/Akt signaling pathways in many anticancer studies. Pang X et al demonstrated that celastrol targeted Akt/mTOR/P70S6K signaling pathway in endothelial cells.<xref rid="cam42719-bib-0018" ref-type="ref">18</xref> Kannaiyan et al found that celastrol induced inhibition of proliferation vis suppression of PI3K/Akt signaling pathways in RPMI‐8226 cells.<xref rid="cam42719-bib-0022" ref-type="ref">22</xref> Considering PI3K/Akt signaling pathways act as an essential role in CCA development, we put forward the hypothesis that celastrol have the potential to inhibit CCA cell growth and metastasis.</p><p>In our study, the effects in CCA cells with regard to morphology, proliferation, migration, and invasion properties following celastrol treatment were examined. Mechanically, the blockage of PI3K/Akt ‐mediated signaling by upregulating PTEN is responsible for the changes. Our discoveries provided novel insights into celastrol as a promising anti‐CCA agent.</p></sec><sec sec-type="materials-and-methods" id="cam42719-sec-0006"><label>2</label><title>MATERIALS AND METHODS</title><sec id="cam42719-sec-0007"><label>2.1</label><title>Cells and culture</title><p>Human cholangiocarcinoma TFK‐1 and HuCCT‐1 cell lines were maintained in RPMI‐1640 medium containing 10% FBS and 1% penicillin‐streptomycin solution (all from Gibco) in an incubator with 5% carbon dioxide at 37°C.</p></sec><sec id="cam42719-sec-0008"><label>2.2</label><title>Materials</title><p>Celastrol was purchased from Sigma, which was dissolved in dimethyl sulfoxide (DMSO) at the concentration of 100 mmol/L before use. LY294002 was purchased from Abcam Corporation (Cambridge, Cambridge shire, UK). The cytotoxic activity of celastrol on CCA cells was analyzed using CCK‐8 (Dojindo Molecular Technologies, Kimamoto). Primary antibodies were as followed (1:2000, CST): cleaved caspase‐3, 9, Bax, Bcl‐2, MMP‐2, 9, vimentin, E‐cadherin, PTEN, PI3K, Akt, p‐Akt, mTOR, p‐mTOR, Ki‐67, NF‐κB. In addition, β‐actin (1:1000, proteintech) was used as an internal control.</p></sec><sec id="cam42719-sec-0009"><label>2.3</label><title>Cell viability</title><p>CCK‐8 assay was used to determine the cell viability according to the manufacturer's instructions. Briefly, after cells were seeded in a 96‐well plate and incubated with celastrol for indicated hours. The optical density (OD) values were used as the index of cell viability at the absorbance of 450 nm. Five replicate wells were set up in each group.</p></sec><sec id="cam42719-sec-0010"><label>2.4</label><title>Colony formation assay</title><p>A total of 700/well cells were firstly seeded in 35‐mm dishes until most of them were attached to the bottom. Then, different concentrations of celastrol was used for each dish. After two weeks, the cells were fixed and stained. Colonies containing ≥ 20 cells were counted.</p></sec><sec id="cam42719-sec-0011"><label>2.5</label><title>Apoptosis assay</title><p>Apoptotic degree of cells was measured by Annexin V‐FITC kit (BD Pharmingen). Cells in each group were firstly digested by trypsin without EDTA. Subsequently, the collected cells were resuspended with binding buffer (500 µL) and annexin V–FITC (5 µL) for 30 minutes. After that, PI (10 µL) was added in dark for 10 minutes at room temperature. Finally, the percentage of apoptotic cells were determined using BD Accuri<sup>TM</sup> C6 flow cytometer (Becton‐Dickinson). Each experiment was conducted for three times.</p></sec><sec id="cam42719-sec-0012"><label>2.6</label><title>Wound healing assay</title><p>A total of 5 × 10<sup>4</sup> cells was initially seeded in each well of a 6‐well plate for 24 hours. Cell layer was scratched by a pipette tip (200 µL). Subsequently, cells were then continued cultured with indicated concentrations of celastrol. Representative wound was imaged by an optical microscope. Each experiment was conducted for three times.</p></sec><sec id="cam42719-sec-0013"><label>2.7</label><title>Transwell assay</title><p>The experiment was conducted using 24‐well transwell chambers with 50 µL of Matrigel (2.0 mg/mL, BD Biosciences), and the cell invasive ability is assessed by the number of cells passing through the chambers. Cells (2.5 × 10<sup>4</sup>) were initially suspended with or without celastrol into the upper chamber, and the rest of the steps are the same as our previous reports.<xref rid="cam42719-bib-0023" ref-type="ref">23</xref>
+</p></sec><sec id="cam42719-sec-0014"><label>2.8</label><title>Immunofluorescence assay</title><p>Cells were initially fixed with paraformaldehyde (4%) for 20 minutes at room temperature. To increase cell membrane permeability, cells were also incubated with goat serum (10%) and Triton (1%). Subsequently, cells were incubated with antibodies for p‐Akt (Thr308) (1:200), p‐Akt (Ser437) (1:200) or PTEN (1:200) antibodies overnight at 4°C. After that, cells were incubated with an Alexa Fluor‐conjugated IgG secondary antibody (1:500, Invitrogen) for 1 hour at room temperature. Finally, DAPI was used to locate the nuclei. Each experiment was conducted for three times.</p></sec><sec id="cam42719-sec-0015"><label>2.9</label><title>Transfection</title><p>Cells were transfected with siRNA‐PTN or scrambled siRNA using Lipofectamine 2000 (Invitrogen). The siRNA sequences were listed as follows: siRNA‐PTEN (sense:5′‐GGCGUAUACAGGAACAAUATT‐3′, antisence:5′‐UAUUGUUCCUGUAUACGCCTT‐3′), and scrambled siRNA (sense:5′‐UUCUCCGAACGUGUCACGUTT‐3′, antisense:5′‐ACGUGACACGUCCGUAGAATT‐3′). PTEN expression was detected by Western blotting. Akt‐1 plasmid was obtained from GeneCopoeia, Inc. These plasmids and siRNA were subsequently transfected into the cells using the Lipofectamine 2000 reagent (Invitrogen).</p></sec><sec id="cam42719-sec-0016"><label>2.10</label><title>Western blotting</title><p>Proteins expression were evaluated by western blotting as our previous studies described.<xref rid="cam42719-bib-0023" ref-type="ref">23</xref> Briefly, the protein concentration was detected by bicinchoninic acid disodium (BCA, Beyotime) kit. After separation by 12% SDS‐PAGE, the protein was transferred to PVDF membrane (Invitrogen). At room temperature, 5% BSA was sealed for 1 hour, diluted primary antibody was added, incubated overnight at 4°, TBST was washed three times, then 1:1000 diluted secondary antibody was added, incubated for 2 hours, washed three times in the same way, ECL chemiluminescent substrate was added to the kit instructions at night, and exposed to color. The results were observed and processed.</p></sec><sec id="cam42719-sec-0017"><label>2.11</label><title>In vivo animal assay</title><p>BALB/c nude mice (6‐week‐old, female) were obtained from Beijing Vital River Laboratory Animal Technology Co, Ltd. All the care and use of animals followed the applicable international guidelines and were approved by the Ethics Committee of the First Affiliated Hospital of Harbin Medical University. For antiproliferation studies: mice were injected with TFK‐1 cells (1 × 10<sup>7</sup>/0.2 mL PBS) subcutaneously into the right flank for xenograft model. After 2 weeks modeling, mice were randomly divided into 2 groups: celastrol (2 mg/kg) or PBS every 2 days (i.p.). Tumor size was measured every 7 days using calipers. (length × width<sup>2</sup>)/2 was used to analyzed the volume.</p><p>For antimetastasis studies: Mice were injected with TFK‐1 cells (5 × 10<sup>6</sup>/0.2 mL PBS) via trail vein. After 2 weeks modeling, mice were randomly divided into two groups: celastrol (2 mg/kg) or PBS every two days (i.p.). All the mice were sacrificed and the lung tissue was harvested after four weeks. All the lung nodules were counted before paraffin embedded.</p></sec><sec id="cam42719-sec-0018"><label>2.12</label><title>Hematoxylin and eosin (H&amp;E) staining</title><p>Tissues were fixed in 4% paraformaldehyde. Then the fixed tissues were dehydrated and embedded with paraffin for H&amp;E staining.</p></sec><sec id="cam42719-sec-0019"><label>2.13</label><title>Immunohistochemistry</title><p>Proteins in tumor tissues were also assessed by immunohistochemistry assay. Tissues were initially fixed and embedded. Antigen retrieval was completed in heated citrate buffer for 10 minutes. Ki‐67 (1:200), vimentin (1:200), cleaved caspase 3,9 (1:100), PTEN (1:100), and p‐AKT (1:50) were incubated overnight at 4°C. The corresponding secondary antibody was incubated for 1h. Finally, DAB (Invitrogen) was used for color development, and the slides were estimated by three independent pathologists individually.</p></sec><sec id="cam42719-sec-0020"><label>2.14</label><title>Statistical analysis</title><p>Statistical analysis was used to elevate all the data. Student's <italic toggle="yes">t</italic> test or one‐way ANOVA were used for the two groups or more than two groups comparison, respectively. <italic toggle="yes">P</italic> &lt; .05 was considered statistically significant, and <italic toggle="yes">P</italic> &lt; .001 was highly considered significant.</p></sec></sec><sec sec-type="results" id="cam42719-sec-0021"><label>3</label><title>RESULTS</title><sec id="cam42719-sec-0022"><label>3.1</label><title>Celastrol inhibits the proliferation of CCA cells</title><p>We initially examined the inhibitory effects of celastrol (Figure <xref rid="cam42719-fig-0001" ref-type="fig">1</xref>A showed the chemical structure<xref rid="cam42719-bib-0024" ref-type="ref">24</xref> on the proliferation of TFK‐1 and HuCCT‐1 cells. Cells were incubated with celastrol for indicated time. Subsequently, cell viability was determined using CCK8 assay. We found that celastrol suppressed the viability of TFK1 and HuCCT‐1 in a dose‐ and time‐dependent manner (Figure <xref rid="cam42719-fig-0001" ref-type="fig">1</xref>B,C). To further investigate the long‐term effects of celastrol, cells were incubated with celastrol at the concentration of 40 µmol/L for 14 days, and the colony formation was performed. As Figure <xref rid="cam42719-fig-0001" ref-type="fig">1</xref>D,E showed, the number of colonies in the experimental groups were significantly lower than the control groups. These results indicated that celastrol inhibits CCA cells proliferation.</p><fig fig-type="Figure" xml:lang="en" id="cam42719-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>The effects of celastrol on CCA cells viability. A, The chemical structure of celastrol. B and C, TFK‐1 and HuCCT‐1 cells were treated with celastrol (0, 5, 10, 20, or 40 μmol/L) for indicated time (24, 48, or 72 h). The cell viability was analyzed using CCK‐8 assay. D and E, The numbers of colonies were counted. *<italic toggle="yes">P</italic> &lt; .05, **<italic toggle="yes">P</italic> &lt; .01, or ***<italic toggle="yes">P</italic> &lt; .001 vs control group</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-3" position="float" orientation="portrait" xlink:href="CAM4-9-783-g001.jpg"/></fig></sec><sec id="cam42719-sec-0023"><label>3.2</label><title>Celastrol triggers apoptosis in CCA cells</title><p>To examine whether the antiproliferative effect was resulted from apoptosis induction, we performed apoptosis assay. After incubated with celastrol (0, 20 or 40 µmol/L), TFK‐1 and HuCCT‐1 cell lines were analyzed by flow cytometry (FCM) analysis using Annexin V/PI assay kit. Figure <xref rid="cam42719-fig-0002" ref-type="fig">2</xref>A showed that the apoptotic rate of TFK‐1 and HuCCT‐1 cell lines were increased in response to treatment with celastrol in a dose‐dependent manner.</p><fig fig-type="Figure" xml:lang="en" id="cam42719-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Celastrol‐induced CCA cell apoptosis. Cells were incubated with celastrol (0, 20, or 40 µmol/L) for 24 h. A, The apoptotic effect was analyzed via flow cytometry. B and C, Western blotting was performed to measure the degree of Bax, Bcl‐2, cleaved Caspase3, cleaved Caspase9, and Survivin. *<italic toggle="yes">P</italic> &lt; .05, **<italic toggle="yes">P</italic> &lt; .01 or ***<italic toggle="yes">P</italic> &lt; .001 vs control group</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-5" position="float" orientation="portrait" xlink:href="CAM4-9-783-g002.jpg"/></fig><p>Furthermore, western blotting was performed to assessed the important signaling proteins involved in celastrol‐induced cell apoptosis. As shown in Figure <xref rid="cam42719-fig-0002" ref-type="fig">2</xref>B, celastrol significantly upregulated Bcl‐2 associated X protein (Bax) expression and downregulated B cell lymphoma 2 protein (Bcl‐2) expression in a dose‐dependent manner. Thus, the Bax/Bcl‐2 ratio was increased obviously. We also evaluated the Cleaved caspase 3, 9, and Survivin protein expression. The increased Cleaved caspase 3, 9 were observed according to the data. (Figure <xref rid="cam42719-fig-0002" ref-type="fig">2</xref>C). All these data suggested that celastrol activates CCA cells apoptosis through caspase‐dependent pathway.</p></sec><sec id="cam42719-sec-0024"><label>3.3</label><title>Celastrol inhibits migration and invasion of CCA cells</title><p>To determine whether celastrol could inhibit migration and invasion of CCA cells, wound healing was initially performed after cultivation with celastrol for 24 hours (a low concentration that did not induce cell apoptosis). According to the data in Figure <xref rid="cam42719-fig-0003" ref-type="fig">3</xref>A, the celastrol treated cells exhibited obviously delays in wound closure. Celastrol inhibited TFK‐1 and HuCCT‐1 cells wound healing by an average of 66% and 25%, respectively, comparing to the untreated cells. Subsequently, invasion assay was performed. As data showed, the number of invaded cells was obviously decreased after celastrol incubation (Figure <xref rid="cam42719-fig-0003" ref-type="fig">3</xref>B,C).</p><fig fig-type="Figure" xml:lang="en" id="cam42719-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Celastrol inhibits CCA cells migration and invasion. Cells were treated with certain concentrations of celastrol. A, Wound healing assays were performed to determine the wound closure rate after cell layer was scratched. The micrographs represent cell layers before and after scratches, respectively. (200 × magnification). B, The invasive ability was examined by transwell chamber assay. The micrographs represent invasive cells on the other side of the membrane. (200 × magnification). C, Represents the statistical results of wound healing and invasion assays. D, Shows the effect of celastrol on morphological changes. E, Shows the analysis of MMP‐2, MMP‐9, E‐Cadherin, and vimentin by western blot. *<italic toggle="yes">P</italic> &lt; .05 vs control group</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-7" position="float" orientation="portrait" xlink:href="CAM4-9-783-g003.jpg"/></fig><p>Epithelial‐to‐mesenchymal transition (EMT) act as a primordial role in cell migration and invasion of cancer cells.<xref rid="cam42719-bib-0025" ref-type="ref">25</xref> As shown in Figure <xref rid="cam42719-fig-0003" ref-type="fig">3</xref>D, celastrol (0 or 4 µmol/L) changed TFK‐1 and HuCCT‐1 cells morphology to round, epithelioid phenotype from fibroblast‐like mesenchymal phenotype. We next assessed the EMT‐related proteins, including matrix metalloproteinases (MMPs), E‐cadherin, and vimentin, which promote tumor cell invasion.<xref rid="cam42719-bib-0026" ref-type="ref">26</xref> As expected, western blotting in Figure <xref rid="cam42719-fig-0003" ref-type="fig">3</xref>E suggested that MMP 2, 9, and vimentin proteins expression were obviously decreased, nevertheless the E‐cadherin was upregulated after celastrol incubation. All the data demonstrated that celastrol inhibits CCA cell migration and invasion through inhibiting CCA cell EMT change.</p></sec><sec id="cam42719-sec-0025"><label>3.4</label><title>Celastrol inhibits PI3K/AKT signaling pathway in CCA cells</title><p>Aberrant expression of PI3K/Akt signaling promotes the development of CCA oncogenesis, proliferation, and metastasis.<xref rid="cam42719-bib-0027" ref-type="ref">27</xref> To investigated whether the celastrol‐induced cell changes was related to the PI3K/Akt signaling, several key members were analyzed by western blotting in TFK‐1 cells. As Figure <xref rid="cam42719-fig-0004" ref-type="fig">4</xref>A,B showed, PI3K, p‐Akt, p‐mTOR, and NF‐κB expression were significantly decreased after celastrol treatment. In addition, Akt phosphorylation was observed to be inhibited at Thr 308 and Ser 473 sites by celastrol. Consistently, a significant decrease in p‐Akt was also examined by immunofluorescence assay in TFK‐1 cells (Figure <xref rid="cam42719-fig-0004" ref-type="fig">4</xref>C).</p><fig fig-type="Figure" xml:lang="en" id="cam42719-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Celastrol‐induced PI3K/Akt signaling pathways blockage. A, Representative images of relative proteins expression in response to celastrol treatment in TFK‐1 cells by western blotting assay. B, p‐Akt levels were assessed using fluorescence microscopy. Original magnification: 400×. C, TFK‐1 cells were divided into Akt overexpression and low‐expression groups by cell transfection and LY294002 treatment at different celastrol concentrations. Cell viability in each group is on shown. D, Related proteins were assessed by western blotting in each group. *<italic toggle="yes">P</italic> &lt; .05, **<italic toggle="yes">P</italic> &lt; .01 or ***<italic toggle="yes">P</italic> &lt; .001 vs control group. ###<italic toggle="yes">P</italic> &lt; .001 vs control group. <sup>&amp;&amp;&amp;</sup>
+<italic toggle="yes">P</italic> &lt; .001 vs control group. <sup>¢</sup>
+<italic toggle="yes">P</italic> &lt; .05 or <sup>¢¢¢</sup>
+<italic toggle="yes">P</italic> &lt; .001 vs control group</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-9" position="float" orientation="portrait" xlink:href="CAM4-9-783-g004.jpg"/></fig><p>To further elucidate the role of PI3K/Akt pathway in celastrol inhibiting CCA development, we initially pretreated TFK‐1 cells with celastrol at different concentrations (0, 5, 10, and 20 µmol/L), then activated or inactivated the pathway by Akt1 transfection and LY294002, respectively. Cell viability was elevated by CCK‐8 assays. Data showed that overexpression of Akt reverse the celastrol‐induced TFK‐1 cells viability inhibition. Nevertheless, LY294002 treatment resulted in a more inhibition compared to the control groups. (Figure <xref rid="cam42719-fig-0004" ref-type="fig">4</xref>C) Additionally, related apoptosis and EMT proteins were assessed by western blotting following celastrol treatment at the concentration of 20 µmol/L. Compared with the cells only treated with celastrol, the apoptosis‐related proteins were reduced after Akt‐1 plasmid transfection, but decreased after LY294002 treatment. Meanwhile, EMT‐related proteins increased after Akt‐1 plasmid transfection, but decreased after LY294002 treatment. (Figure <xref rid="cam42719-fig-0004" ref-type="fig">4</xref>D) Our data indicated that the blockage of PI3K/Akt signaling is likely responsible for the proliferation, migration, and invasion of CCA cells.</p></sec><sec id="cam42719-sec-0026"><label>3.5</label><title>Celastrol elevates PTEN expression and inhibits PI3K/AKT signaling pathway</title><p>Numerous studies have shown that phosphatase and tensin homolog (PTEN) mutations occur in CCA patients, and PTEN acts as a negative regulator of PI3K/AKT signaling pathway in CCA cells. We hypothesized that celastrol elevated PTEN expression, and thus inhibited PI3K/Akt activation. As expected, the PTEN expression was observed significantly upregulated in TFK‐1 cells by western blot, following 24 hours of celastrol treatment (Figure <xref rid="cam42719-fig-0005" ref-type="fig">5</xref>A). Additionally, immunofluorescence also conformed the increased PTEN expression by celastrol (Figure <xref rid="cam42719-fig-0005" ref-type="fig">5</xref>B). To further verify the hypothesis, specific siRNA‐PTEN was transfected into TFK‐1 cells and the western blotting assays were performed. Data showed this generated knockdown of PTEN‐induced upregulation of p‐Akt (Thr 308), p‐Akt (Ser 473), p‐mTOR, and NF‐κB was reversed by celatrol treatment. (Figure <xref rid="cam42719-fig-0005" ref-type="fig">5</xref>C) Furthermore, the apoptosis and EMT‐related proteins were detected changed after PTEN knockdown by western blotting. As expected, the changes were consistent with the PI3K/Akt pathway (Figure <xref rid="cam42719-fig-0005" ref-type="fig">5</xref>D). Collectively, our data suggested that celastrol induced antitumor activity through upregulating the PTEN expression in CCA cells.</p><fig fig-type="Figure" xml:lang="en" id="cam42719-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Celastrol elevates PTEN expression in CCA cells. Following indicated concentrations of celastrol treatment, A, PTEN expression was evaluated via western blotting in TFK‐1 cells. B, PTEN levels were assessed using fluorescence microscopy in TFK‐1 cells. Original magnification: 400×. C and D, After specific siRNA‐PTEN transfection in the TFK‐1 cells, related proteins were evaluated via western blotting. *<italic toggle="yes">P</italic> &lt; .05 or **<italic toggle="yes">P</italic> &lt; .01 vs control group</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-11" position="float" orientation="portrait" xlink:href="CAM4-9-783-g005.jpg"/></fig></sec><sec id="cam42719-sec-0027"><label>3.6</label><title>Celastrol inhibits CCA cells proliferation and lung metastasis in MICE</title><p>We initially determined the antiproliferation efficiency of celastrol using a subcutaneous xenograft mice model. 12 mice were initially injected subcutaneously with TFK‐1 cells for 2 weeks, and the tumor volume had reached to a mean size of 115 mm<sup>3</sup> followed by treatment of vehicle control or celastrol (2 mg/kg) every 2 days. Figure <xref rid="cam42719-fig-0006" ref-type="fig">6</xref>A presented the tumors harvested from the two groups. In addition, Figure <xref rid="cam42719-fig-0006" ref-type="fig">6</xref>B showed the tumors volume change dunning this experimental period, and data showed that tumors grew continuously in the celastrol group, whereas tumor growth was significantly suppressed in vehicle control group. Additionally, the mean weight of tumors in the celastrol group was 0.29 g, whereas that of tumors in the control animals was 0.81 g. (Figure <xref rid="cam42719-fig-0006" ref-type="fig">6</xref>C).</p><fig fig-type="Figure" xml:lang="en" id="cam42719-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>Celastrol inhibited CCA cells growth and metastasis in vivo A, Tumors were extracted from the two groups and the photos are shown. B, Represents the changes of tumor volume. C, Represents tumor weight's statistical analysis. D, Incidence of lung metastasis and numbers of metastatic nodules per lung are shown. E, Representative photos of lung metastatic nodules (100 × magnification) are shown. F, Statistical analysis of body weight. G, Related proteins expression was analyzed. *<italic toggle="yes">P</italic> &lt; .05 or **<italic toggle="yes">P</italic> &lt; .01 vs control group</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-13" position="float" orientation="portrait" xlink:href="CAM4-9-783-g006.jpg"/></fig><p>We subsequently determined the antimetastasis efficiency of celastrol using a lung metastatic mice model. 12 mice were injected with TFK‐1 cells via the trail vein for 2 weeks followed by celastrol treatment. After 4 weeks, the number of nodules and incident rate were drastically decreased with celastrol treatment (Figure <xref rid="cam42719-fig-0006" ref-type="fig">6</xref>D) compared to the control treatment. Furthermore, HE staining results also showed that the lung metastasis nodules in mice treated with celastrol were significantly smaller than those of mice in the control group. (Figure <xref rid="cam42719-fig-0006" ref-type="fig">6</xref>E) Importantly, to evaluate potential adverse effect of celastrol, Mice (n = 10) were treated with PBS or celastrol (2 mg/kg) every 2 days for 4 weeks. Data showed no apparent body weight changes or toxicity‐related events were observed in the celastrol group (Figure <xref rid="cam42719-fig-0006" ref-type="fig">6</xref>F).</p><p>Furthermore, PI3K/PTEN/Akt signaling‐related proteins expression was analyzed in the excised tumor tissues using Western Blot. As expected, the p‐AKT and vimentin expression were decreased, whereas the cleaved caspase‐9 and PTEN expression were increased according to the data. (Figure <xref rid="cam42719-fig-0006" ref-type="fig">6</xref>G) A immunohistochemistry assay further conformed the increased expression of PTEN and cleaved caspase‐3, and an apparent decreased expression of Ki 67, p‐AKT, and vimentin (Figure <xref rid="cam42719-fig-0007" ref-type="fig">7</xref>). Collectively, in vivo experiments conformed celastrol inhibited the tumor growth and lung metastasis with no serious side effects.</p><fig fig-type="Figure" xml:lang="en" id="cam42719-fig-0007" orientation="portrait" position="float"><label>Figure 7</label><caption><p>Immunohistochemical characterization of tumor tissues. A, Immunohistochemical analyses of Ki 67, cleaved caspase 3, vimentin, p‐AKT, and PTEN. Note the proliferation activity in tissue by Ki67‐positive tumor cells, apoptosis by cleaved caspase‐3, and EMT by vimentin (200 × magnification). B, The levels of relative proteins were analyzed. *<italic toggle="yes">P</italic> &lt; .05 or **<italic toggle="yes">P</italic> &lt; .01 vs control group</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-15" position="float" orientation="portrait" xlink:href="CAM4-9-783-g007.jpg"/></fig></sec></sec><sec sec-type="discussion" id="cam42719-sec-0028"><label>4</label><title>DISCUSSION</title><p>Limited clinical option for treatment remains an aggressive challenge for the patients with CCA, especially in advanced stage. Increasing studies suggest that natural compounds may be a new option for the development of potent cancer treatments.<xref rid="cam42719-bib-0028" ref-type="ref">28</xref>, <xref rid="cam42719-bib-0029" ref-type="ref">29</xref>, <xref rid="cam42719-bib-0030" ref-type="ref">30</xref> Celastrol, a component of traditional Chinese medicine, has been found widespread application, and exhibits many biological activities. However, whether celastrol could suppress CCA development remain unknown. In this study, our results demonstrated celastrol exhibited effects on CCA cells growth, migration, and invasion. The proapoptosis effect was also observed in the CCA cells by celastrol. Additionally, celastrol inhibited CCA cell proliferation and metastasis without apparent potential adverse effects in vivo. Further study revealed mechanism that celastrol induced the inhibitory effects through PTEN/PI3K/Akt signaling axis in vitro and in vivo.</p><p>Proapoptosis activity acts as one of the most common antitumor mechanisms to control tumor proliferation, and numerous studies proved that mitochondrial apoptosis plays a vital role in human cholangiocarcinoma.<xref rid="cam42719-bib-0031" ref-type="ref">31</xref> The mitochondrial apoptosis process can be described briefly as follows: Under the action of various apoptotic signals, mitochondrial permeability transition pore (MPTP) irreversibly opens excessively, mitochondrial transmembrane potential disintegrates, respiratory chain uncoupling, mitochondrial matrix osmotic pressure increases, intima swelling, cytochrome C (Cytc), and other apoptotic active proteins located in the mitochondrial membrane gap are released into the cytoplasm. In the presence of ATP/dATP, Cytc, and apoptotic protease activator‐1 (Apaf‐1) form a polymer complex, which activates the precursor of Caspase‐9, leading to the activation of downstream effector Caspase‐3, and cutting the substrate to induce apoptosis.<xref rid="cam42719-bib-0032" ref-type="ref">32</xref> Numerous of evidence demonstrated that celastrol inhibit cancer cells proliferation through proapoptosis mechanism, including oral cancer, lung cancer, breast cancer, and colon cancer.<xref rid="cam42719-bib-0033" ref-type="ref">33</xref>, <xref rid="cam42719-bib-0034" ref-type="ref">34</xref>, <xref rid="cam42719-bib-0035" ref-type="ref">35</xref>, <xref rid="cam42719-bib-0036" ref-type="ref">36</xref> In our study, western blotting and IF assays demonstrated that cleaved caspase‐3,9 were significantly increased when compared with the control groups, supporting that proapoptosis activity was induced after the celastrol treatment in CCA cells. Furthermore, Bax/Bcl‐2 is associated with cell apoptosis according to numerous studies.<xref rid="cam42719-bib-0037" ref-type="ref">37</xref> As our study showed, celastrol was indeed able to promote apoptosis by regulating the Bax/Bcl‐2 ratio, indicating that celastrol‐induced cell death by the mitochondria‐mediated intrinsic apoptosis pathway.</p><p>EMT is an important molecular mechanism of invasion and metastasis of malignant tumors.<xref rid="cam42719-bib-0034" ref-type="ref">34</xref> A large amount of evidence from experimental and clinical researches have highlight the important role of EMT in CCA metastasis.<xref rid="cam42719-bib-0038" ref-type="ref">38</xref> Celastrol has been reported to exhibit inhibitory effects on the progression of EMT in various of cancers.<xref rid="cam42719-bib-0039" ref-type="ref">39</xref>, <xref rid="cam42719-bib-0040" ref-type="ref">40</xref>, <xref rid="cam42719-bib-0041" ref-type="ref">41</xref> Our present studies proved that celastrol substantially inhibited the levels of epithelial marker E‐cadherin and decreased the levels of mesenchymal markers N‐cadherin and vimentin. All the results supported that celastrol could inhibit the CCA cell EMT progression, thus suppressing CCA growth and metastasis.</p><p>The PI3K/Akt pathway acts as a vital role in tumor oncogenesis and development, including cell viability, autophagy, migration, metastasis, angiogenesis, and drug resistance.<xref rid="cam42719-bib-0042" ref-type="ref">42</xref> Recent studies discovered the frequent aberrations of PI3K/Akt signaling in CCA development.<xref rid="cam42719-bib-0043" ref-type="ref">43</xref> Schuurbiers OC et al reported that p‐Akt is associated with antiapoptosis through regulating the proapoptotic protein expression.<xref rid="cam42719-bib-0044" ref-type="ref">44</xref> Importantly, mTOR and NF‐κB are key downstream effectors of the PI3K/Akt pathway.<xref rid="cam42719-bib-0045" ref-type="ref">45</xref> The activated mTOR is associated with cell viability and apoptosis, whereas the NF‐κB is with cell behavior.<xref rid="cam42719-bib-0046" ref-type="ref">46</xref>, <xref rid="cam42719-bib-0047" ref-type="ref">47</xref> To gain insight into the underlying mechanisms by celastrol, we evaluated the PI3K/Akt/mTOR and NF‐κB signaling‐related molecule proteins expression. As respected, the decreased PI3K expression was observed significantly by western blotting. Although the total levels of Akt was not altered, the NF‐κB, p‐Akt, and p‐mTOR expression was inhibited by celstral treatment in TFK‐1 cells. In our further experiments, upregulated and downregulated PI3K/Akt pathway reversed or accelerated the celastrol‐induced CCA cells proliferation and metastasis, respectively. All the data supported that celastrol induced CCA inhibition by the mechanism of PI3K/Akt/mTOR and NF‐κB signaling axis.</p><p>PTEN (phosphatase and tensin homologue) is known as a tumor suppressor, which was frequently lost or mutated in various human malignances.<xref rid="cam42719-bib-0048" ref-type="ref">48</xref>, <xref rid="cam42719-bib-0049" ref-type="ref">49</xref> Clinicopathologic data demonstrated that downregulated levels of PTEN were found in patients with T classification and stage grouping. Additionally, the increased levels of PTEN correlates with longer survival.<xref rid="cam42719-bib-0050" ref-type="ref">50</xref> Mechanically, PTEN activates PIP3 to PIP2, and then inhibits PI3K/AKT signaling pathway which meditates embryonic development, cell viability, apoptosis, differentiation, migration, and metastasis.<xref rid="cam42719-bib-0051" ref-type="ref">51</xref>, <xref rid="cam42719-bib-0052" ref-type="ref">52</xref>, <xref rid="cam42719-bib-0053" ref-type="ref">53</xref> The present data indeed proved that celastrol induced PTEN upregulation and significantly inhibited PI3K/AKT signaling pathway in CCA cells. In the additionally loss‐of‐function studies, we downregulated the expression of PTEN in by transfection with siRNA against PTEN, and found that blockage of PTEN‐induced significant upregulated PI3K/AKT signaling pathway compared to the control group. These results suggest that the celastrol‐induced blockage of the PI3K/AKT pathway is due to the upregulation of PTEN. However, PTEN knockout mice might a better option for conforming the results, and it would be used in our further studies.</p></sec><sec sec-type="conclusions" id="cam42719-sec-0029"><label>5</label><title>CONCLUSION</title><p>In summary, we report a novel component that exhibits a significant effect on CCA cells growth and metastasis in vivo and in vitro. Further mechanism studies demonstrated that the inhibitory effects are attributed to the induction of apoptosis, and the blockade of migration and invasion might be regulated by perturbations in the PI3K/Akt signaling. Furthermore, and these perturbations were regulated by the drug induce‐PTEN upregulation (Figure <xref rid="cam42719-fig-0008" ref-type="fig">8</xref>). Therefore, our study provides preclinical evidence for the CCA treatment with celastrol as a new strategy.</p><fig fig-type="Figure" xml:lang="en" id="cam42719-fig-0008" orientation="portrait" position="float"><label>Figure 8</label><caption><p>Diagram illustrating the proposed effects of celastrol on PI3K/Akt/mTOR and NF‐κB signaling pathways</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-17" position="float" orientation="portrait" xlink:href="CAM4-9-783-g008.jpg"/></fig></sec><sec sec-type="COI-statement" id="cam42719-sec-0030"><title>CONFLICTS OF INTERESTS</title><p>The authors declare no conflict of interest.</p></sec><sec id="cam42719-sec-0031"><title>AUTHOR CONTRIBUTIONS</title><p>Biqiang Zhu designed and performed the experiments. Yunwei Wei analyzed the data. Biqiang Zhu wrote the manuscript.</p></sec></body><back><ref-list content-type="cited-references" id="cam42719-bibl-0001"><title>REFERENCES</title><ref id="cam42719-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="cam42719-cit-0001">
+<string-name name-style="western">
+<surname>Carpino</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cardinale</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Renzi</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Activation of biliary tree stem cells within peribiliary glands in primary sclerosing cholangitis</article-title>. <source xml:lang="en">J Hepatol</source>. <year>2015</year>;<volume>63</volume>:<fpage>1220</fpage>‐<lpage>1228</lpage>.<pub-id pub-id-type="pmid">26119688</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jhep.2015.06.018</pub-id></mixed-citation></ref><ref id="cam42719-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="cam42719-cit-0002">
+<string-name name-style="western">
+<surname>Udali</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guarini</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Moruzzi</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Global DNA methylation and hydroxymethylation differ in hepatocellular carcinoma and cholangiocarcinoma and relate to survival rate</article-title>. <source xml:lang="en">Hepatology</source>. <year>2015</year>;<volume>62</volume>:<fpage>496</fpage>‐<lpage>504</lpage>.<pub-id pub-id-type="pmid">25833413</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/hep.27823</pub-id></mixed-citation></ref><ref id="cam42719-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="cam42719-cit-0003">
+<string-name name-style="western">
+<surname>Razumilava</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gores</surname>
+<given-names>GJ</given-names>
+</string-name>. <article-title>Cholangiocarcinoma</article-title>. <source xml:lang="en">Lancet</source>. <year>2014</year>;<volume>383</volume>:<fpage>2168</fpage>‐<lpage>2179</lpage>.<pub-id pub-id-type="pmid">24581682</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S0140-6736(13)61903-0</pub-id><pub-id pub-id-type="pmcid">PMC4069226</pub-id></mixed-citation></ref><ref id="cam42719-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="cam42719-cit-0004">
+<string-name name-style="western">
+<surname>Loosen</surname>
+<given-names>SH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Roderburg</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kauertz</surname>
+<given-names>KL</given-names>
+</string-name>, et al. <article-title>Elevated levels of circulating osteopontin are associated with a poor survival after resection of cholangiocarcinoma</article-title>. <source xml:lang="en">J Hepatol</source>. <year>2017</year>;<volume>67</volume>:<fpage>749</fpage>‐<lpage>757</lpage>.<pub-id pub-id-type="pmid">28668580</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jhep.2017.06.020</pub-id></mixed-citation></ref><ref id="cam42719-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="cam42719-cit-0005">
+<string-name name-style="western">
+<surname>Baron</surname>
+<given-names>TH</given-names>
+</string-name>. <article-title>Chemotherapy impregnated plastic biliary endoprostheses: one small step for man(agement) of cholangiocarcinoma</article-title>. <source xml:lang="en">Hepatology</source>. <year>2000</year>;<volume>32</volume>:<fpage>1170</fpage>‐<lpage>1171</lpage>.<pub-id pub-id-type="pmid">11050071</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1053/jhep.2000.19217</pub-id></mixed-citation></ref><ref id="cam42719-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="cam42719-cit-0006">
+<string-name name-style="western">
+<surname>Manceau</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Palard</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rolland</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>A MAA‐based dosimetric study in patients with intrahepatic cholangiocarcinoma treated with a combination of chemotherapy and (90)Y‐loaded glass microsphere selective internal radiation therapy</article-title>. <source xml:lang="en">Eur J Nucl Med Mol Imaging</source>. <year>2018</year>;<volume>45</volume>(<issue>10</issue>):<fpage>1731</fpage>–<lpage>1741</lpage>.<pub-id pub-id-type="pmid">29560519</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00259-018-3990-7</pub-id></mixed-citation></ref><ref id="cam42719-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="cam42719-cit-0007">
+<string-name name-style="western">
+<surname>Panya</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Thepmalee</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sawasdee</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>Cytotoxic activity of effector T cells against cholangiocarcinoma is enhanced by self‐differentiated monocyte‐derived dendritic cells</article-title>. <source xml:lang="en">Cancer Immunol Immunother</source>. <year>2018</year>;<volume>67</volume>(<issue>10</issue>):<fpage>1579</fpage>–<lpage>1588</lpage>.<pub-id pub-id-type="pmid">30056600</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00262-018-2212-2</pub-id><pub-id pub-id-type="pmcid">PMC11028072</pub-id></mixed-citation></ref><ref id="cam42719-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="cam42719-cit-0008">
+<string-name name-style="western">
+<surname>Ateba</surname>
+<given-names>SB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ngeu</surname>
+<given-names>ST</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mvondo</surname>
+<given-names>MA</given-names>
+</string-name>, et al. <article-title>Natural terpenoids against female breast cancer: a 5‐year Recent Research</article-title>. <source xml:lang="en">Curr Med Chem</source>. <year>2018</year>;<volume>25</volume>(<issue>27</issue>):<fpage>3162</fpage>–<lpage>3213</lpage>.<pub-id pub-id-type="pmid">29446727</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.2174/0929867325666180214110932</pub-id></mixed-citation></ref><ref id="cam42719-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="cam42719-cit-0009">
+<string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shang</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>Celastrol ameliorates inflammation in human retinal pigment epithelial cells by suppressing NF‐kappaB signaling</article-title>. <source xml:lang="en">J Ocul Pharmacol Ther</source>. <year>2018</year>;<volume>35</volume>(<issue>2</issue>):<fpage>116</fpage>–<lpage>123</lpage>.<pub-id pub-id-type="pmid">30596540</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1089/jop.2018.0092</pub-id></mixed-citation></ref><ref id="cam42719-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="cam42719-cit-0010">
+<string-name name-style="western">
+<surname>An</surname>
+<given-names>SY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Youn</surname>
+<given-names>GS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kim</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Choi</surname>
+<given-names>SY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Park</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Celastrol suppresses expression of adhesion molecules and chemokines by inhibiting JNK‐STAT1/NF‐kappaB activation in poly(I:C)‐stimulated astrocytes</article-title>. <source xml:lang="en">BMB Rep</source>. <year>2017</year>;<volume>50</volume>:<fpage>25</fpage>‐<lpage>30</lpage>.<pub-id pub-id-type="pmid">28027722</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.5483/BMBRep.2017.50.1.114</pub-id><pub-id pub-id-type="pmcid">PMC5319661</pub-id></mixed-citation></ref><ref id="cam42719-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="cam42719-cit-0011">
+<string-name name-style="western">
+<surname>Choi</surname>
+<given-names>JY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ramasamy</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kim</surname>
+<given-names>SY</given-names>
+</string-name>, et al. <article-title>PEGylated lipid bilayer‐supported mesoporous silica nanoparticle composite for synergistic co‐delivery of axitinib and celastrol in multi‐targeted cancer therapy</article-title>. <source xml:lang="en">Acta Biomater</source>. <year>2016</year>;<volume>39</volume>:<fpage>94</fpage>‐<lpage>105</lpage>.<pub-id pub-id-type="pmid">27163403</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.actbio.2016.05.012</pub-id></mixed-citation></ref><ref id="cam42719-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="cam42719-cit-0012">
+<string-name name-style="western">
+<surname>Han</surname>
+<given-names>LP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sun</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xie</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>LM</given-names>
+</string-name>. <article-title>Effect of celastrol on tolllike receptor 4mediated inflammatory response in free fatty acidinduced HepG2 cells</article-title>. <source xml:lang="en">Int J Mol Med</source>. <year>2018</year>;<volume>42</volume>:<fpage>2053</fpage>‐<lpage>2061</lpage>.<pub-id pub-id-type="pmid">30015859</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3892/ijmm.2018.3775</pub-id><pub-id pub-id-type="pmcid">PMC6108865</pub-id></mixed-citation></ref><ref id="cam42719-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="cam42719-cit-0013">
+<string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tan</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Meng</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>Simultaneous targeting therapy for lung metastasis and breast tumor by blocking the NF‐kappaB signaling pathway using Celastrol‐loaded micelles</article-title>. <source xml:lang="en">Drug Deliv</source>. <year>2018</year>;<volume>25</volume>:<fpage>341</fpage>‐<lpage>352</lpage>.<pub-id pub-id-type="pmid">29355035</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/10717544.2018.1425778</pub-id><pub-id pub-id-type="pmcid">PMC6058533</pub-id></mixed-citation></ref><ref id="cam42719-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="cam42719-cit-0014">
+<string-name name-style="western">
+<surname>Freudlsperger</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bian</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Contag Wise</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>TGF‐beta and NF‐kappaB signal pathway cross‐talk is mediated through TAK1 and SMAD7 in a subset of head and neck cancers</article-title>. <source xml:lang="en">Oncogene</source>. <year>2013</year>;<volume>32</volume>:<fpage>1549</fpage>‐<lpage>1559</lpage>.<pub-id pub-id-type="pmid">22641218</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/onc.2012.171</pub-id><pub-id pub-id-type="pmcid">PMC3434281</pub-id></mixed-citation></ref><ref id="cam42719-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="cam42719-cit-0015">
+<string-name name-style="western">
+<surname>Li</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhu</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Celastrol nanomicelles attenuate cytokine secretion in macrophages and inhibit macrophage‐induced corneal neovascularization in rats</article-title>. <source xml:lang="en">Int J Nanomed</source>. <year>2016</year>;<volume>11</volume>:<fpage>6135</fpage>‐<lpage>6148</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.2147/IJN.S117425</pub-id><pub-id pub-id-type="pmcid">PMC5125761</pub-id><pub-id pub-id-type="pmid">27920521</pub-id></mixed-citation></ref><ref id="cam42719-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="cam42719-cit-0016">
+<string-name name-style="western">
+<surname>Rajendran</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shanmugam</surname>
+<given-names>MK</given-names>
+</string-name>, et al. <article-title>Celastrol suppresses growth and induces apoptosis of human hepatocellular carcinoma through the modulation of STAT3/JAK2 signaling cascade in vitro and in vivo</article-title>. <source xml:lang="en">Cancer Prev Res (Phila)</source>. <year>2012</year>;<volume>5</volume>:<fpage>631</fpage>‐<lpage>643</lpage>.<pub-id pub-id-type="pmid">22369852</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/1940-6207.CAPR-11-0420</pub-id></mixed-citation></ref><ref id="cam42719-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="cam42719-cit-0017">
+<string-name name-style="western">
+<surname>Seo</surname>
+<given-names>WY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ju</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Song</surname>
+<given-names>HY</given-names>
+</string-name>, et al. <article-title>Celastrol suppresses IFN‐gamma‐induced ICAM‐1 expression and subsequent monocyte adhesiveness via the induction of heme oxygenase‐1 in the HaCaT cells</article-title>. <source xml:lang="en">Biochem Biophys Res Commun</source>. <year>2010</year>;<volume>398</volume>:<fpage>140</fpage>‐<lpage>145</lpage>.<pub-id pub-id-type="pmid">20599745</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bbrc.2010.06.053</pub-id></mixed-citation></ref><ref id="cam42719-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="cam42719-cit-0018">
+<string-name name-style="western">
+<surname>Weisberg</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Leibel</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tortoriello</surname>
+<given-names>DV</given-names>
+</string-name>. <article-title>Proteasome inhibitors, including curcumin, improve pancreatic beta‐cell function and insulin sensitivity in diabetic mice</article-title>. <source xml:lang="en">Nutr Diabetes</source>. <year>2016</year>;<volume>6</volume>:<fpage>e205</fpage>.<pub-id pub-id-type="pmid">27110686</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nutd.2016.13</pub-id><pub-id pub-id-type="pmcid">PMC4855258</pub-id></mixed-citation></ref><ref id="cam42719-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="cam42719-cit-0019">
+<string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ge</surname>
+<given-names>HY</given-names>
+</string-name>, et al. <article-title>Celastrol reverses palmitic acid (PA)‐caused TLR4‐MD2 activation‐dependent insulin resistance via disrupting MD2‐related cellular binding to PA</article-title>. <source xml:lang="en">J Cell Physiol</source>. <year>2018</year>;<volume>233</volume>:<fpage>6814</fpage>‐<lpage>6824</lpage>.<pub-id pub-id-type="pmid">29667734</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/jcp.26547</pub-id></mixed-citation></ref><ref id="cam42719-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="cam42719-cit-0020">
+<string-name name-style="western">
+<surname>de Seabra Rodrigues Dias</surname>
+<given-names>IR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mok</surname>
+<given-names>SWF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gordillo‐Martinez</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>The calcium‐induced regulation in the molecular and transcriptional circuitry of human inflammatory response and autoimmunity</article-title>. <source xml:lang="en">Front Pharmacol</source>. <year>2017</year>;<volume>8</volume>:<fpage>962</fpage>.<pub-id pub-id-type="pmid">29358919</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fphar.2017.00962</pub-id><pub-id pub-id-type="pmcid">PMC5766673</pub-id></mixed-citation></ref><ref id="cam42719-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="cam42719-cit-0021">
+<string-name name-style="western">
+<surname>Rizvi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Borad</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Patel</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gores</surname>
+<given-names>GJ</given-names>
+</string-name>. <article-title>Cholangiocarcinoma: molecular pathways and therapeutic opportunities</article-title>. <source xml:lang="en">Semin Liver Dis</source>. <year>2014</year>;<volume>34</volume>:<fpage>456</fpage>‐<lpage>464</lpage>.<pub-id pub-id-type="pmid">25369307</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1055/s-0034-1394144</pub-id><pub-id pub-id-type="pmcid">PMC4294543</pub-id></mixed-citation></ref><ref id="cam42719-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="cam42719-cit-0022">
+<string-name name-style="western">
+<surname>Ni</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kong</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ouyang</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>NF‐kappa B modulation is involved in celastrol induced human multiple myeloma cell apoptosis</article-title>. <source xml:lang="en">PLoS ONE</source>. <year>2014</year>;<volume>9</volume>:<elocation-id>e95846</elocation-id>.<pub-id pub-id-type="pmid">24755677</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0095846</pub-id><pub-id pub-id-type="pmcid">PMC3995890</pub-id></mixed-citation></ref><ref id="cam42719-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="cam42719-cit-0023">
+<string-name name-style="western">
+<surname>Zhu</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Induction of phosphatase shatterproof 2 by evodiamine suppresses the proliferation and invasion of human cholangiocarcinoma</article-title>. <source xml:lang="en">Int J Biochem Cell Biol</source>. <year>2019</year>;<volume>108</volume>:<fpage>98</fpage>‐<lpage>110</lpage>.<pub-id pub-id-type="pmid">30682488</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.biocel.2019.01.012</pub-id></mixed-citation></ref><ref id="cam42719-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="cam42719-cit-0024">
+<string-name name-style="western">
+<surname>Klaic</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Trippier</surname>
+<given-names>PC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mishra</surname>
+<given-names>RK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Morimoto</surname>
+<given-names>RI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Silverman</surname>
+<given-names>RB</given-names>
+</string-name>. <article-title>Remarkable stereospecific conjugate additions to the Hsp90 inhibitor celastrol</article-title>. <source xml:lang="en">J Am Chem Soc</source>. <year>2011</year>;<volume>133</volume>:<fpage>19634</fpage>‐<lpage>19637</lpage>.<pub-id pub-id-type="pmid">22087583</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/ja208359a</pub-id><pub-id pub-id-type="pmcid">PMC3238675</pub-id></mixed-citation></ref><ref id="cam42719-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="cam42719-cit-0025">
+<string-name name-style="western">
+<surname>Thiery</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Acloque</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huang</surname>
+<given-names>RY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nieto</surname>
+<given-names>MA</given-names>
+</string-name>. <article-title>Epithelial‐mesenchymal transitions in development and disease</article-title>. <source xml:lang="en">Cell</source>. <year>2009</year>;<volume>139</volume>:<fpage>871</fpage>‐<lpage>890</lpage>.<pub-id pub-id-type="pmid">19945376</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cell.2009.11.007</pub-id></mixed-citation></ref><ref id="cam42719-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="cam42719-cit-0026">
+<string-name name-style="western">
+<surname>Toba</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lindsey</surname>
+<given-names>ML</given-names>
+</string-name>. <article-title>Extracellular matrix roles in cardiorenal fibrosis: potential therapeutic targets for CVD and CKD in the elderly</article-title>. <source xml:lang="en">Pharmacol Ther</source>. <year>2019</year>;<volume>193</volume>:<fpage>99</fpage>‐<lpage>120</lpage>.<pub-id pub-id-type="pmid">30149103</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.pharmthera.2018.08.014</pub-id><pub-id pub-id-type="pmcid">PMC6309764</pub-id></mixed-citation></ref><ref id="cam42719-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="cam42719-cit-0027">
+<string-name name-style="western">
+<surname>Lu</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Han</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Microsomal prostaglandin E synthase‐1 inhibits PTEN and promotes experimental cholangiocarcinogenesis and tumor progression</article-title>. <source xml:lang="en">Gastroenterology</source>. <year>2011</year>;<volume>140</volume>:<fpage>2084</fpage>‐<lpage>2094</lpage>.<pub-id pub-id-type="pmid">21354147</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1053/j.gastro.2011.02.056</pub-id><pub-id pub-id-type="pmcid">PMC3109169</pub-id></mixed-citation></ref><ref id="cam42719-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="cam42719-cit-0028">
+<string-name name-style="western">
+<surname>Duan</surname>
+<given-names>YM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jin</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guo</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Duan</surname>
+<given-names>LX</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>JG</given-names>
+</string-name>. <article-title>Differentially expressed genes of HepG2 cells treated with gecko polypeptide mixture</article-title>. <source xml:lang="en">J Cancer</source>. <year>2018</year>;<volume>9</volume>:<fpage>2723</fpage>‐<lpage>2733</lpage>.<pub-id pub-id-type="pmid">30087713</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.7150/jca.26339</pub-id><pub-id pub-id-type="pmcid">PMC6072819</pub-id></mixed-citation></ref><ref id="cam42719-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="cam42719-cit-0029">
+<string-name name-style="western">
+<surname>Ma</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dong</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>Q</given-names>
+</string-name>. <article-title>Cynomorium songaricum prevents bone resorption in ovariectomized rats through RANKL/RANK/TRAF6 mediated suppression of PI3K/AKT and NF‐kappaB pathways</article-title>. <source xml:lang="en">Life Sci</source>. <year>2018</year>;<volume>209</volume>:<fpage>140</fpage>‐<lpage>148</lpage>.<pub-id pub-id-type="pmid">30092296</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.lfs.2018.08.008</pub-id></mixed-citation></ref><ref id="cam42719-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="cam42719-cit-0030">
+<string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhu</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cheng</surname>
+<given-names>X</given-names>
+</string-name>, et al. <article-title>Euphorbia factor L2 alleviates lipopolysaccharide‐induced acute lung injury and inflammation in mice through the suppression of NF‐kappaB activation</article-title>. <source xml:lang="en">Biochem Pharmacol</source>. <year>2018b</year>;<volume>155</volume>:<fpage>444</fpage>‐<lpage>454</lpage>.<pub-id pub-id-type="pmid">30055150</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bcp.2018.07.025</pub-id></mixed-citation></ref><ref id="cam42719-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="cam42719-cit-0031">
+<string-name name-style="western">
+<surname>Cadamuro</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brivio</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mertens</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Platelet‐derived growth factor‐D enables liver myofibroblasts to promote tumor lymphangiogenesis in cholangiocarcinoma</article-title>. <source xml:lang="en">J Hepatol</source>. <year>2018</year>;<volume>70</volume>:<fpage>700</fpage>‐<lpage>709</lpage>.<pub-id pub-id-type="pmid">30553841</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jhep.2018.12.004</pub-id><pub-id pub-id-type="pmcid">PMC10878126</pub-id></mixed-citation></ref><ref id="cam42719-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="cam42719-cit-0032">
+<string-name name-style="western">
+<surname>Hata</surname>
+<given-names>AN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Engelman</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Faber</surname>
+<given-names>AC</given-names>
+</string-name>. <article-title>The BCL2 family: key mediators of the apoptotic response to targeted anticancer therapeutics</article-title>. <source xml:lang="en">Cancer Discov</source>. <year>2015</year>;<volume>5</volume>:<fpage>475</fpage>‐<lpage>487</lpage>.<pub-id pub-id-type="pmid">25895919</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/2159-8290.CD-15-0011</pub-id><pub-id pub-id-type="pmcid">PMC4727530</pub-id></mixed-citation></ref><ref id="cam42719-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="cam42719-cit-0033">
+<string-name name-style="western">
+<surname>Lin</surname>
+<given-names>FZ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>SC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hsi</surname>
+<given-names>YT</given-names>
+</string-name>, et al. <article-title>Celastrol induces vincristine multidrug resistance oral cancer cell apoptosis by targeting JNK1/2 signaling pathway</article-title>. <source xml:lang="en">Phytomedicine</source>. <year>2018</year>;<volume>54</volume>:<fpage>1</fpage>‐<lpage>8</lpage>.<pub-id pub-id-type="pmid">30668359</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.phymed.2018.09.181</pub-id></mixed-citation></ref><ref id="cam42719-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="cam42719-cit-0034">
+<string-name name-style="western">
+<surname>Qi</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Celastrol suppresses tryptophan catabolism in human colon cancer cells as revealed by metabolic profiling and targeted metabolite analysis</article-title>. <source xml:lang="en">Biol Pharm Bull</source>. <year>2018</year>;<volume>41</volume>:<fpage>1243</fpage>‐<lpage>1250</lpage>.<pub-id pub-id-type="pmid">30068874</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1248/bpb.b18-00171</pub-id></mixed-citation></ref><ref id="cam42719-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="cam42719-cit-0035">
+<string-name name-style="western">
+<surname>Qu</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Qin</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Non‐triggered sequential‐release liposomes enhance anti‐breast cancer efficacy of STS and celastrol‐based microemulsion</article-title>. <source xml:lang="en">Biomater Sci</source>. <year>2018</year>;<volume>6</volume>:<fpage>3284</fpage>‐<lpage>3299</lpage>.<pub-id pub-id-type="pmid">30346001</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1039/c8bm00796a</pub-id></mixed-citation></ref><ref id="cam42719-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="cam42719-cit-0036">
+<string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mu</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cai</surname>
+<given-names>Z</given-names>
+</string-name>. <article-title>Celastrol inhibits growth and increases apoptosis of human lung cancer A549 cells</article-title>. <source xml:lang="en">Xi Bao Yu Fen Zi Mian Yi Xue Za Zhi</source>. <year>2018a</year>;<volume>34</volume>:<fpage>1111</fpage>‐<lpage>1115</lpage>.<pub-id pub-id-type="pmid">30626478</pub-id></mixed-citation></ref><ref id="cam42719-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="cam42719-cit-0037">
+<string-name name-style="western">
+<surname>Suh</surname>
+<given-names>KS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tanaka</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sarojini</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>The role of the ubiquitin proteasome system in lymphoma</article-title>. <source xml:lang="en">Crit Rev Oncol Hematol</source>. <year>2013</year>;<volume>87</volume>:<fpage>306</fpage>‐<lpage>322</lpage>.<pub-id pub-id-type="pmid">23541070</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.critrevonc.2013.02.005</pub-id></mixed-citation></ref><ref id="cam42719-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="cam42719-cit-0038">
+<string-name name-style="western">
+<surname>Yang</surname>
+<given-names>LX</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gao</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shi</surname>
+<given-names>JY</given-names>
+</string-name>, et al. <article-title>Mitogen‐activated protein kinase kinase kinase 4 deficiency in intrahepatic cholangiocarcinoma leads to invasive growth and epithelial‐mesenchymal transition</article-title>. <source xml:lang="en">Hepatology</source>. <year>2015</year>;<volume>62</volume>:<fpage>1804</fpage>‐<lpage>1816</lpage>.<pub-id pub-id-type="pmid">26340507</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/hep.28149</pub-id></mixed-citation></ref><ref id="cam42719-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="cam42719-cit-0039">
+<string-name name-style="western">
+<surname>Divya</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Velavan</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sudhandiran</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Regulation of transforming growth factor‐beta/Smad‐mediated epithelial‐mesenchymal transition by celastrol provides protection against bleomycin‐induced pulmonary fibrosis</article-title>. <source xml:lang="en">Basic Clin Pharmacol Toxicol</source>. <year>2018</year>;<volume>123</volume>:<fpage>122</fpage>‐<lpage>129</lpage>.<pub-id pub-id-type="pmid">29394529</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/bcpt.12975</pub-id></mixed-citation></ref><ref id="cam42719-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="cam42719-cit-0040">
+<string-name name-style="western">
+<surname>Kang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lee</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jang</surname>
+<given-names>SW</given-names>
+</string-name>. <article-title>Celastrol inhibits TGF‐beta1‐induced epithelial‐mesenchymal transition by inhibiting Snail and regulating E‐cadherin expression</article-title>. <source xml:lang="en">Biochem Biophys Res Commun</source>. <year>2013</year>;<volume>437</volume>:<fpage>550</fpage>‐<lpage>556</lpage>.<pub-id pub-id-type="pmid">23850675</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bbrc.2013.06.113</pub-id></mixed-citation></ref><ref id="cam42719-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="cam42719-cit-0041">
+<string-name name-style="western">
+<surname>Lin</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sun</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zheng</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zheng</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Celastrol ameliorates ulcerative colitis‐related colorectal cancer in mice via suppressing inflammatory responses and epithelial‐mesenchymal transition</article-title>. <source xml:lang="en">Front Pharmacol</source>. <year>2015</year>;<volume>6</volume>:<fpage>320</fpage>.<pub-id pub-id-type="pmid">26793111</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fphar.2015.00320</pub-id><pub-id pub-id-type="pmcid">PMC4711309</pub-id></mixed-citation></ref><ref id="cam42719-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="cam42719-cit-0042">
+<string-name name-style="western">
+<surname>Bauer</surname>
+<given-names>TM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Patel</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Infante</surname>
+<given-names>JR</given-names>
+</string-name>. <article-title>Targeting PI3 kinase in cancer</article-title>. <source xml:lang="en">Pharmacol Ther</source>. <year>2015</year>;<volume>146</volume>:<fpage>53</fpage>‐<lpage>60</lpage>.<pub-id pub-id-type="pmid">25240910</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.pharmthera.2014.09.006</pub-id></mixed-citation></ref><ref id="cam42719-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="cam42719-cit-0043">
+<string-name name-style="western">
+<surname>Loilome</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Juntana</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Namwat</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>PRKAR1A is overexpressed and represents a possible therapeutic target in human cholangiocarcinoma</article-title>. <source xml:lang="en">Int J Cancer</source>. <year>2011</year>;<volume>129</volume>:<fpage>34</fpage>‐<lpage>44</lpage>.<pub-id pub-id-type="pmid">20824711</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ijc.25646</pub-id></mixed-citation></ref><ref id="cam42719-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="cam42719-cit-0044">
+<string-name name-style="western">
+<surname>Schuurbiers</surname>
+<given-names>OC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kaanders</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van der Heijden</surname>
+<given-names>HF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dekhuijzen</surname>
+<given-names>RP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Oyen</surname>
+<given-names>WJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bussink</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>The PI3‐K/AKT‐pathway and radiation resistance mechanisms in non‐small cell lung cancer</article-title>. <source xml:lang="en">J Thorac Oncol</source>. <year>2009</year>;<volume>4</volume>:<fpage>761</fpage>‐<lpage>767</lpage>.<pub-id pub-id-type="pmid">19404218</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/JTO.0b013e3181a1084f</pub-id></mixed-citation></ref><ref id="cam42719-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="cam42719-cit-0045">
+<string-name name-style="western">
+<surname>Sabbah</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Emami</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Redeuilh</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>Molecular signature and therapeutic perspective of the epithelial‐to‐mesenchymal transitions in epithelial cancers</article-title>. <source xml:lang="en">Drug Resist Updat</source>. <year>2008</year>;<volume>11</volume>:<fpage>123</fpage>‐<lpage>151</lpage>.<pub-id pub-id-type="pmid">18718806</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.drup.2008.07.001</pub-id></mixed-citation></ref><ref id="cam42719-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="cam42719-cit-0046">
+<string-name name-style="western">
+<surname>Broekgaarden</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Weijer</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van Gulik</surname>
+<given-names>TM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hamblin</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Heger</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Tumor cell survival pathways activated by photodynamic therapy: a molecular basis for pharmacological inhibition strategies</article-title>. <source xml:lang="en">Cancer Metastasis Rev</source>. <year>2015</year>;<volume>34</volume>:<fpage>643</fpage>‐<lpage>690</lpage>.<pub-id pub-id-type="pmid">26516076</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s10555-015-9588-7</pub-id><pub-id pub-id-type="pmcid">PMC4661210</pub-id></mixed-citation></ref><ref id="cam42719-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="cam42719-cit-0047">
+<string-name name-style="western">
+<surname>Commandeur</surname>
+<given-names>AE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Styer</surname>
+<given-names>AK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Teixeira</surname>
+<given-names>JM</given-names>
+</string-name>. <article-title>Epidemiological and genetic clues for molecular mechanisms involved in uterine leiomyoma development and growth</article-title>. <source xml:lang="en">Hum Reprod Update</source>. <year>2015</year>;<volume>21</volume>:<fpage>593</fpage>‐<lpage>615</lpage>.<pub-id pub-id-type="pmid">26141720</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/humupd/dmv030</pub-id><pub-id pub-id-type="pmcid">PMC4533663</pub-id></mixed-citation></ref><ref id="cam42719-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="cam42719-cit-0048">
+<string-name name-style="western">
+<surname>Pilarski</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Burt</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kohlman</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pho</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shannon</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Swisher</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Cowden syndrome and the PTEN hamartoma tumor syndrome: systematic review and revised diagnostic criteria</article-title>. <source xml:lang="en">J Natl Cancer Inst</source>. <year>2013</year>;<volume>105</volume>:<fpage>1607</fpage>‐<lpage>1616</lpage>.<pub-id pub-id-type="pmid">24136893</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/jnci/djt277</pub-id></mixed-citation></ref><ref id="cam42719-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="cam42719-cit-0049">
+<string-name name-style="western">
+<surname>Sulis</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Parsons</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>PTEN: from pathology to biology</article-title>. <source xml:lang="en">Trends Cell Biol</source>. <year>2003</year>;<volume>13</volume>:<fpage>478</fpage>‐<lpage>483</lpage>.<pub-id pub-id-type="pmid">12946627</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0962-8924(03)00175-2</pub-id></mixed-citation></ref><ref id="cam42719-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="cam42719-cit-0050">
+<string-name name-style="western">
+<surname>Chung</surname>
+<given-names>JY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hong</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Choi</surname>
+<given-names>BY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cho</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yu</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hewitt</surname>
+<given-names>SM</given-names>
+</string-name>. <article-title>The expression of phospho‐AKT, phospho‐mTOR, and PTEN in extrahepatic cholangiocarcinoma</article-title>. <source xml:lang="en">Clin Cancer Res</source>. <year>2009</year>;<volume>15</volume>:<fpage>660</fpage>‐<lpage>667</lpage>.<pub-id pub-id-type="pmid">19147772</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/1078-0432.CCR-08-1084</pub-id><pub-id pub-id-type="pmcid">PMC7556734</pub-id></mixed-citation></ref><ref id="cam42719-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="cam42719-cit-0051">
+<string-name name-style="western">
+<surname>Martelli</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Evangelisti</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chappell</surname>
+<given-names>W</given-names>
+</string-name>, et al. <article-title>Targeting the translational apparatus to improve leukemia therapy: roles of the PI3K/PTEN/Akt/mTOR pathway</article-title>. <source xml:lang="en">Leukemia</source>. <year>2011</year>;<volume>25</volume>:<fpage>1064</fpage>‐<lpage>1079</lpage>.<pub-id pub-id-type="pmid">21436840</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/leu.2011.46</pub-id></mixed-citation></ref><ref id="cam42719-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="cam42719-cit-0052">
+<string-name name-style="western">
+<surname>Vigano</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Somigliana</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chiodo</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Abbiati</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vercellini</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Molecular mechanisms and biological plausibility underlying the malignant transformation of endometriosis: a critical analysis</article-title>. <source xml:lang="en">Hum Reprod Update</source>. <year>2006</year>;<volume>12</volume>:<fpage>77</fpage>‐<lpage>89</lpage>.<pub-id pub-id-type="pmid">16172112</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/humupd/dmi037</pub-id></mixed-citation></ref><ref id="cam42719-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="cam42719-cit-0053">
+<string-name name-style="western">
+<surname>Wang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jiang</surname>
+<given-names>X</given-names>
+</string-name>. <article-title>PTEN: a default gate‐keeping tumor suppressor with a versatile tail</article-title>. <source xml:lang="en">Cell Res</source>. <year>2008</year>;<volume>18</volume>:<fpage>807</fpage>‐<lpage>816</lpage>.<pub-id pub-id-type="pmid">18626510</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/cr.2008.83</pub-id></mixed-citation></ref></ref-list></back></article>

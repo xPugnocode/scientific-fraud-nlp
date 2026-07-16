@@ -1,0 +1,553 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article article-type="research-article" xml:lang="en" dtd-version="1.4"><front><journal-meta><journal-id journal-id-type="nlm-ta">Int J Immunopathol Pharmacol</journal-id><journal-id journal-id-type="iso-abbrev">Int J Immunopathol Pharmacol</journal-id><journal-id journal-id-type="pmc-domain-id">3390</journal-id><journal-id journal-id-type="pmc-domain">ijip</journal-id><journal-id journal-id-type="nlm-id">8911335</journal-id><journal-id journal-id-type="publisher-id">IJI</journal-id><journal-title-group><journal-title>International Journal of Immunopathology and Pharmacology</journal-title></journal-title-group><issn pub-type="ppub">0394-6320</issn><issn pub-type="epub">2058-7384</issn><publisher><publisher-name>SAGE Publications</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC7691899</article-id><article-id pub-id-type="pmcid-ver">PMC7691899.1</article-id><article-id pub-id-type="pmcaid">7691899</article-id><article-id pub-id-type="pmcaiid">7691899</article-id><article-id pub-id-type="pmid">33233960</article-id><article-id pub-id-type="doi">10.1177/2058738420974888</article-id><article-id pub-id-type="publisher-id">10.1177_2058738420974888</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Original Research Article</subject></subj-group></article-categories><title-group><article-title>Aberrant miR-219-5p is correlated with TLR4 and serves as a novel
+biomarker in patients with multiple organ dysfunction syndrome caused by acute
+paraquat poisoning</article-title></title-group><contrib-group><contrib contrib-type="author"><name name-style="western"><surname>Dai</surname><given-names initials="Y">Yunxiang</given-names></name><xref ref-type="aff" rid="aff1-2058738420974888">1</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Liu</surname><given-names initials="X">Xia</given-names></name><xref ref-type="aff" rid="aff2-2058738420974888">2</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-7133-2238</contrib-id><name name-style="western"><surname>Gao</surname><given-names initials="Y">Yuming</given-names></name><xref ref-type="aff" rid="aff1-2058738420974888">1</xref><xref ref-type="corresp" rid="corresp1-2058738420974888"/></contrib></contrib-group><aff id="aff1-2058738420974888"><label>1</label>Emergency Department, Qingdao Jiaozhou
+Central Hospital, Qingdao, Shandong, China</aff><aff id="aff2-2058738420974888"><label>2</label>Radiology Department, Qingdao Jiaozhou
+Central Hospital, Qingdao, Shandong, China</aff><author-notes><corresp id="corresp1-2058738420974888">Yuming Gao, Emergency Department, Qingdao
+Jiaozhou Central Hospital, No. 29, Xuzhou Road, Jiaozhou, Qingdao, Shandong
+266300, China. Email: <email>neuron_yun@163.com</email></corresp></author-notes><pub-date pub-type="epub"><day>25</day><month>11</month><year>2020</year></pub-date><pub-date pub-type="collection"><season>Jan-Dec</season><year>2020</year></pub-date><volume>34</volume><issue-id pub-id-type="pmc-issue-id">351103</issue-id><elocation-id>2058738420974888</elocation-id><history><date date-type="received"><day>12</day><month>6</month><year>2020</year></date><date date-type="accepted"><day>27</day><month>10</month><year>2020</year></date></history><pub-history><event event-type="pmc-release"><date><day>25</day><month>11</month><year>2020</year></date></event><event event-type="pmc-live"><date><day>04</day><month>12</month><year>2020</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-03-31 20:25:13.803"><day>31</day><month>03</month><year>2026</year></date></event></pub-history><permissions><copyright-statement>© The Author(s) 2020</copyright-statement><copyright-year>2020</copyright-year><copyright-holder content-type="sage">SAGE Publications Ltd unless otherwise noted.
+Manuscript content on this site is licensed under Creative Commons
+Licenses</copyright-holder><license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="creative-commons" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/"><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>This article is distributed under the terms of the Creative Commons
+Attribution-NonCommercial 4.0 License (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">https://creativecommons.org/licenses/by-nc/4.0/</ext-link>) which
+permits non-commercial use, reproduction and distribution of the work
+without further permission provided the original work is attributed as
+specified on the SAGE and Open Access page (<ext-link ext-link-type="uri" xlink:href="https://us.sagepub.com/en-us/nam/open-access-at-sage">https://us.sagepub.com/en-us/nam/open-access-at-sage</ext-link>).</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="10.1177_2058738420974888.pdf"/><abstract><p>This study aimed to investigate the clinical significance of serum
+microRNA-219-5p (miR-219-5p) in patients with multiple organ dysfunction
+syndrome (MODS) caused by acute paraquat (PQ) poisoning, and its correlation
+with Toll-like Receptor 4 (TLR4). Luciferase reporter assay was used to
+investigate in vitro the correlation of miR-219-5p with TLR4. Serum miR-219-5p
+levels were evaluated by quantitative real-time polymerase chain reaction. Serum
+levels of TLR4, IL-1β, and TNF-α were measured by Enzyme-linked immune sorbent
+assay (ELISA). ROC analysis was performed to assess the diagnostic significance,
+Kaplan-Meier survival curves and Cox regression analysis were used to evaluate
+the prognostic value of miR-219-5p in MODS patients. TLR4 was a target gene of
+miR-219-5p and was increased in MODS patients. Serum miR-219-5p level was
+decreased and negatively correlated with TLR4 level in MODS patients
+(<italic toggle="yes">r</italic> = −0.660, <italic toggle="yes">P</italic> &lt; 0.001), which had
+important diagnostic value and negatively correlated with APACHE II score in
+MODS patients. The miR-219-5p expression was markedly associated with the WBC,
+ALT, AST, PaCO<sub>2</sub>, Lac, and APACHE II score. Non-survivals had more
+patients with low miR-219-5p expression. Patients with low miR-219-5p expression
+had shorter survival time. MiR-219-5p and APACHE II score were two independently
+prognostic factors for 28-day survival. MiR-219-5p was negatively correlated
+with, while TLR4 was positively correlated with the levels of IL-1β and TNF-α.
+The serum miR-219-5p level may be a potential biomarker for acute PQ-induced
+MODS diagnosis and prognosis. Furthermore, miR-219-5p may be associated with the
+progression of MODS by regulating TLR4-related inflammatory response.</p></abstract><kwd-group><kwd>diagnosis</kwd><kwd>microRNA-219-5p</kwd><kwd>multiple organ dysfunction syndrome</kwd><kwd>paraquat poisoning</kwd><kwd>prognosis</kwd><kwd>TLR4</kwd></kwd-group><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January-December 2020</meta-value></custom-meta><custom-meta><meta-name>typesetter</meta-name><meta-value>ts1</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="intro" id="section1-2058738420974888"><title>Introduction</title><p>Paraquat (N, N-dimethyl-4, 4-bipyridinium dichloride, PQ) is a herbicide which is
+widely used in agriculture, because it has a faster effect and is cheaper compared
+with other herbicides.<sup><xref rid="bibr1-2058738420974888" ref-type="bibr">1</xref></sup> Besides, in the developing countries, self-poisoning by pesticides is an
+important public health problem.<sup><xref rid="bibr2-2058738420974888" ref-type="bibr">2</xref></sup> PQ is high toxic to humans, has no antidotes and no effective treatment,
+resulting in an individual mortality rate as high as 50−90%.<sup><xref rid="bibr3-2058738420974888" ref-type="bibr">3</xref></sup> Although clinical comprehensive treatment, including gastric lavage,
+international diarrhea, diuresis, and blood perfusion, has been adopted, the
+therapeutic effect is poor and the fatality rate remains high.<sup><xref rid="bibr4-2058738420974888" ref-type="bibr">4</xref></sup> Studies have found that the concentration of PQ in severely body from low to
+high was stomach wall (&lt;limit of quantitation, LOQ), cardiac blood (0.11 µg/mL),
+liver (0.2 µg/g), kidney (0.24 µg/g), brain (0.32 µg/g), and lung (0.49 µg/g).<sup><xref rid="bibr5-2058738420974888" ref-type="bibr">5</xref></sup> PQ mainly accumulates in the lungs (pulmonary concentrations can be 6 to 10
+times higher than those in plasma) and remains in the lungs even as blood levels
+begin to drop.<sup><xref rid="bibr6-2058738420974888" ref-type="bibr">6</xref></sup> PQ poisoning can lead to multiple organ dysfunction syndrome
+(MODS).<sup><xref rid="bibr7-2058738420974888" ref-type="bibr">7</xref>,<xref rid="bibr8-2058738420974888" ref-type="bibr">8</xref></sup></p><p>The development of MODS is wildly believed to be the result of uncontrolled immune
+system dysfunction and the resulting systemic inflammatory response is characterized
+by the release of large amounts of inflammatory mediators and extensive genomic
+activation patterns.<sup><xref rid="bibr9-2058738420974888" ref-type="bibr">9</xref></sup> MODS is the leading reason of morbidity and mortality in the intensive care units.<sup><xref rid="bibr10-2058738420974888" ref-type="bibr">10</xref></sup> The lost homeostasis between pro-inflammatory and anti-inflammatory reaction
+is considered to play a vital role in the progression of MODS.<sup><xref rid="bibr11-2058738420974888" ref-type="bibr">11</xref></sup> Generally, anti-inflammatory therapy is the major regimen in the early
+therapy of PQ poisoning.<sup><xref rid="bibr2-2058738420974888" ref-type="bibr">2</xref></sup> And many genes, including microRNAs (miRNAs), have been found to be
+differentially expressed in the occurrence and development of inflammation and
+therefore can be used as candidate targets for gene treatment.<sup><xref rid="bibr12-2058738420974888" ref-type="bibr">12</xref></sup> Recent study has reported that miR-27a might regulate the MODS process
+induced by PQ poisoning via regulating the inflammatory response, and IL-10 is
+involved in this process.<sup><xref rid="bibr13-2058738420974888" ref-type="bibr">13</xref></sup> Additionally, miR-146a might be involved in the occurrence of lung injury
+induced by PQ poisoning, which was achieved via IL-6.<sup><xref rid="bibr14-2058738420974888" ref-type="bibr">14</xref></sup></p><p>Toll like receptor 4 (TLR4) is a pattern recognition receptor, which is a vital part
+of the innate immune system and has the regulatory effects on the acute inflammatory response.<sup><xref rid="bibr15-2058738420974888" ref-type="bibr">15</xref></sup> Liu et al.<sup><xref rid="bibr16-2058738420974888" ref-type="bibr">16</xref></sup> found that the mRNA level of TLR4 markedly increased in lung tissue treated
+by PQ, consequently TLR4 might play a vital role in PQ-induced acute lung injury. A
+study by Dong et al.<sup><xref rid="bibr17-2058738420974888" ref-type="bibr">17</xref></sup> revealed that the TLR4 might function as a mediator, suggesting the vital
+role of TLR4 in PQ-induced myocardial injury. Up to now, the key role of miRNAs
+played in regulating TLR4 has been widely studied. In the study of the role of
+miR-124 in regulating the TLR4 signaling pathway of microglia, miR-124 could inhibit
+the TLR4 levels.<sup><xref rid="bibr18-2058738420974888" ref-type="bibr">18</xref></sup> Additionally, the TLR4 was reported to be a direct target of miR-590, and
+miR-590 promoted proliferation and blocked ox-LDL-induced apoptosis in HAECs by
+inhibiting the TLR4/NF-KB pathway.<sup><xref rid="bibr19-2058738420974888" ref-type="bibr">19</xref></sup> Yu et al.<sup><xref rid="bibr20-2058738420974888" ref-type="bibr">20</xref></sup> found that long noncoding RNAs (lncRNA) PCAT1 negatively regulated
+miR-145-5p, which promoted TLR4 expression and promoted osteogenic differentiation
+by activating the TLR signaling pathway. MiR-219-5p has been known to be associated
+with the regulation of inflammatory response.<sup><xref rid="bibr21-2058738420974888" ref-type="bibr">21</xref>,<xref rid="bibr22-2058738420974888" ref-type="bibr">22</xref></sup> However, as far as we know,
+miR-219-5p has not been previously studied in relation to PQ poisoning, nor its
+relationship with TLR4. For exploring the regulatory mechanism of TLR4, the miRNA
+molecules that may regulate TLR4 were predicted by bioinformatics prediction method.
+The complementary binding sequence of miR-219-5p was found in the 3’-UTR of TLR4
+(<xref ref-type="fig" rid="fig1-2058738420974888">Figure 1a</xref>), suggesting
+that miR-219-5p may be a potential regulator of TLR4. Therefore, we suspected that
+miR-219-5p might play a potential role in the MODS caused by PQ poisoning by
+regulating TLR4-related inflammatory response.</p><fig id="fig1-2058738420974888" orientation="portrait" position="float"><label>Figure 1.</label><caption><p>TLR4 is a direct target gene of miR-219-5p. (a) Schematic illustration of the
+miR-219-5p targeting site at the 3’-UTR of TLR4 gene. (b) The serum
+miR-219-5p expression levels was upregulated by the miR-219-5p mimic
+(***<italic toggle="yes">P</italic> &lt; 0.001). (c) Luciferase activity was
+inhibited by overexpression of miR-219-5p in WT group
+(*<italic toggle="yes">P</italic> &lt; 0.001).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_2058738420974888-fig1.jpg"/></fig><p>In this study, serum miR-219-5p levels and TLR4 levels in MODS patients induced by PQ
+poisoning were measured, the correlation between TLR4 and miR-219-5p as well as the
+correlation of them with pro-inflammatory cytokines in MODS patients were discussed,
+and the clinical value of miR-219-5p was further explored.</p></sec><sec sec-type="materials|methods" id="section2-2058738420974888"><title>Material and methods</title><sec id="section3-2058738420974888"><title>Patients and sample collection</title><p>A total of 75 patients with MODS caused by acute PQ poisoning were
+retrospectively analyzed in this study, who visited the emergency department of
+Qingdao Jiaozhou Central Hospital from 2012 to 2017. The inclusion criteria: (1)
+all patients arrived at the hospital within 24 h of poisoning; (2) the poisons
+were all taken orally with the estimated amount of 10–80 mL; (3) all patients
+were diagnosed following Fry reported diagnostic criteria.<sup><xref rid="bibr23-2058738420974888" ref-type="bibr">23</xref></sup> As soon as admission to hospital, 10–15 mL venous blood of all patients
+were collected, serum was separated and stored at −80°C for further using.
+Besides, 75 healthy subjects who had physical examinations in our hospital
+during the same period were enrolled in the control group and their fasting
+venous blood were collected. The exclusion criteria: patients suffered from
+immune or immune-related diseases, such as diabetes, tumors, chronic liver
+disease, chronic kidney disease, or connective tissue disease. All patients were
+treated according to a standard comical therapy regimens, including gastric
+lavage, catharsis, hemoperfusion, antioxidants, high-dose intravenous
+methylprednisolone and cyclophosphamide, and other treatment methods. All
+procedures of this study were approved by the Ethics Committee of Qingdao
+Jiaozhou Central Hospital and the written informed consents of each participant
+were obtained. Each patient was followed up for 28 days and survival data were
+recorded. As for the selection of sample size, which was decided based on margin
+of error (set at 10%) and confidence level (set at 90%). Therefore, the minimum
+sample size should be 68. In addition, we have also referred to other similar
+published studies for confirming that the sample size in our cohort study is
+appropriated.</p></sec><sec id="section4-2058738420974888"><title>Data collection</title><p>All data were collected and recorded on a standard basis for each patient within
+24 h after admission, including: (1) Demographic parameter, such as age and
+gender; (2) Time interval between PQ intake and admission to the emergency
+department; (3) Estimation of PQ intake; (4) Blood biochemical indexes included
+white blood count (WBC), blood urea nitrogen (BUN), alanine transaminase (ALT)
+and aspartate transaminase (AST); (5) Arterial partial pressure of carbon
+dioxide (PaCO<sub>2</sub>) and blood lactic acid (Lac) were measured using
+i-STAT blood gas analyzer (Abbott Laboratories, Abbott Park, USA).</p></sec><sec id="section5-2058738420974888"><title>Cell culture and transfection</title><p>Human kidney epithelial cells 239 cells were purchased from Shanghai Cell Bank of
+Chinese Academy of Science (Shanghai, China) for luciferase reporting
+experiment. The cells were cultured using Dulbecco’s modified Eagle’s medium
+(DMEM) supplemented with 10% fetal bovine serum (FBS; Gibco, Grand Island, New
+York), and sustained in a 5% CO<sub>2</sub> atmosphere at 37°C. MiR-219-5p mimic
+and corresponding negative control (NC) were used for cell transfection to
+regulate the miR-219-5p expression in 239 cells, which were purchased from
+GenePharma (Shanghai, China). The cells were transfected with the miR-219-5p
+mimic, mimic NC using Lipofectamine 2000 transfection reagent (Invitrogen,
+Carlsbad, California) following the manufacturer’s protocols. Cells were
+collected 24 h after transfection for subsequent analyzes.</p></sec><sec id="section6-2058738420974888"><title>Luciferase reporter assay</title><p>The putative binding site of miR-219-5p at the 3’-UTR of TLR4 was predicted using
+miRanda (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.microrna.org/microrna/home.do">http://www.microrna.org/microrna/home.do</ext-link>). To confirm whether
+there was a direct interaction between miR-219-5p and TLR4, a luciferase
+reporter assay was performed. The wild-type (WT) 3’-UTR containing the binding
+site of miR-219-5p or mutant-type (MT) 3’-UTR were inserted in the pGL-control
+vector (Promega, Madison, WI, USA). The combined vectors were respectively
+co-transfected into 239 cells with miR-219-5p mimic or mimic NC using
+Lipofectamine 3000 (Thermo Fisher Scientific, Waltham, MA, USA) according to the
+instruction of manufacturer. 48 h after transfection, the activity of firefly
+luciferase was evaluated by a Dual-Luciferase Reporter Assay System
+(Promega).</p></sec><sec id="section7-2058738420974888"><title>RNA extraction and quantitative real-time polymerase chain reaction
+(qRT-PCR)</title><p>Trizol Reagent (Invitrogen, Carlsbad, CA, USA) was used to extract total RNA from
+serum samples following the protocol of manufacturer. MiScript Reverse
+Transcription Kit (QIAGEN, Germany) was used to perform reverse transcriptions.
+The miR-219-5p expression was estimated by qRT-PCR, which was carried out with
+SYBR green I Master Mix kit (Invitrogen, Carlsbad, CA, USA). U6 was used as an
+internal control. The final miR-219-5p expression was calculated using the
+2<sup>-∆∆Ct</sup> method<sup><xref rid="bibr24-2058738420974888" ref-type="bibr">24</xref></sup> and normalized to U6.</p></sec><sec id="section8-2058738420974888"><title>Enzyme-linked immune sorbent assay</title><p>The concentration of serum TLR4 and the levels of pro-inflammatory cytokines
+(IL-1β and TNF-α) were all measured by ELISA method, which was carried out
+according to the instructions of manufacturer (Germany, IBL Company). TLR4
+concentration and the levels of pro-inflammatory cytokines were calculated
+according to the standard curves provided by the kits.</p></sec><sec id="section9-2058738420974888"><title>Statistical analysis</title><p>All statistical analyzes were performed by using SPSS 21.0 software (SPSS, Inc.,
+Chicago, USA) and GraphPad Prism 7.0 software (Inc., Chicago, USA). All data
+were presented as mean ± standard deviation (SD). The measurement data was
+compared using student’s <italic toggle="yes">t</italic> test, and the counting information
+was compared using chi-square test. Correlation of miR-219-5p and TLR4 levels
+with APACHE II score were assessed using Pearson’s correlation coefficient.
+Receiver operating characteristic (ROC) curve was applied to assess the
+diagnostic value of miR-219-5p in MODS caused by PQ poisoning. Kaplan-Meier and
+Cox regression analysis were used to evaluate the prognostic value of
+miR-219-5p. A <italic toggle="yes">P</italic> &lt; 0.05 was considered statistically
+significant.</p></sec></sec><sec sec-type="results" id="section10-2058738420974888"><title>Results</title><sec id="section11-2058738420974888"><title>TLR4 is a direct target gene of miR-219-5p</title><p>To confirm whether there was a direct interaction between miR-219-5p and TLR4, a
+luciferase reporter assay was conducted. A binding site of miR-219-5p was
+identified in the 3’-UTR of TLR4, indicating that miR-219-5p can directly bind
+toTLR4 (<xref ref-type="fig" rid="fig1-2058738420974888">Figure 1a</xref>). By
+cell transfection, miR-219-5p expression in the 239 cells was significantly
+upregulated by the miR-219-5p mimic (<italic toggle="yes">P</italic> &lt; 0.001, <xref ref-type="fig" rid="fig1-2058738420974888">Figure 1b</xref>). Additionally,
+the results luciferase reporter assay indicated that the miR-219-5p upregulation
+significantly inhibited the relative luciferase activity in WT group
+(<italic toggle="yes">P</italic> &lt; 0.05), while there was no change in the MUT group
+(<xref ref-type="fig" rid="fig1-2058738420974888">Figure 1c</xref>). These
+data indicated that miR-219-5p could directly targeted TLR4.</p></sec><sec id="section12-2058738420974888"><title>Serum miR-219-5p expression in patients with MODS induced by PQ
+poisoning</title><p>The serum miR-219-5p levels were measured using RT-qPCR in all MODS patients and
+controls. The results indicated that serum miR-219-5p level was markedly reduced
+in MODS patients compared with those in the controls (<italic toggle="yes">P</italic> &lt;
+0.001, <xref ref-type="fig" rid="fig2-2058738420974888">Figure 2</xref>).</p><fig id="fig2-2058738420974888" orientation="portrait" position="float"><label>Figure 2.</label><caption><p>Serum miR-219-5p level was markedly decreased in MODS patients induced by
+PQ poisoning compared with those in controls
+(***<italic toggle="yes">P</italic> &lt; 0.001).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_2058738420974888-fig2.jpg"/></fig></sec><sec id="section13-2058738420974888"><title>Association of miR-219-5p expression with clinicopathological characteristics
+of MODS patients induced by PQ poisoning</title><p>To explore the role of miR-219-5p in the development of MODS caused by PQ
+poisoning, the association between miR-219-5p and the clinicopathological
+features of all patients were examined. The MODS patients were classified into
+low (n = 39) and high (n = 36) miR-219-5p expression groups based on the mean
+value of the expression of miR-219-5p. As shown in <xref rid="table1-2058738420974888" ref-type="table">Table 1</xref>, miR-219-5p expression was
+clearly associated with WBC (<italic toggle="yes">P</italic> = 0.018), ALT
+(<italic toggle="yes">P</italic> = 0.012), AST (<italic toggle="yes">P</italic> = 0.003), PaCO2
+(<italic toggle="yes">P</italic> = 0.002), Lac (<italic toggle="yes">P</italic> = 0.002), and APACHE
+II score (<italic toggle="yes">P</italic> &lt; 0.001), whereas no significant association was
+observed between miR-219-5p and other clinicopathological features, including
+gender, age, time to hospital, estimated amount, BUN (all <italic toggle="yes">P</italic>
+&gt; 0.05).</p><table-wrap id="table1-2058738420974888" orientation="portrait" position="float"><label>Table 1.</label><caption><p>Association of miR-219-5p expression with the clinicopathological
+characteristics of MODS patients induced by paraquat poisoning.</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_2058738420974888-table1.jpg"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/></colgroup><thead><tr><th align="left" rowspan="1" colspan="1">Variables</th><th align="left" rowspan="1" colspan="1">Low miR-219-5p expression
+(<italic toggle="yes">n</italic> = 39)</th><th align="left" rowspan="1" colspan="1">High miR-219-5p expression
+(<italic toggle="yes">n</italic> = 36)</th><th align="left" rowspan="1" colspan="1"><italic toggle="yes">P</italic> value</th></tr></thead><tbody><tr><td colspan="4" rowspan="1">Gender</td></tr><tr><td rowspan="1" colspan="1"> Female</td><td rowspan="1" colspan="1">21</td><td rowspan="1" colspan="1">19</td><td rowspan="1" colspan="1">0.926</td></tr><tr><td rowspan="1" colspan="1"> Male</td><td rowspan="1" colspan="1">18</td><td rowspan="1" colspan="1">17</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Age (years)</td><td rowspan="1" colspan="1">29.923 ± 9.359</td><td rowspan="1" colspan="1">31.194 ± 8.978</td><td rowspan="1" colspan="1">0.551</td></tr><tr><td rowspan="1" colspan="1">Time to hospital (h)</td><td rowspan="1" colspan="1">11.256 ± 5.632</td><td rowspan="1" colspan="1">9.611 ± 4.842</td><td rowspan="1" colspan="1">0.181</td></tr><tr><td rowspan="1" colspan="1">Estimated amount (mL)</td><td rowspan="1" colspan="1">37.414 ± 16.758</td><td rowspan="1" colspan="1">36.817 ± 15.308</td><td rowspan="1" colspan="1">0.873</td></tr><tr><td rowspan="1" colspan="1">WBC</td><td rowspan="1" colspan="1">16.180 ± 2.424</td><td rowspan="1" colspan="1">14.985 ± 1.762</td><td rowspan="1" colspan="1">0.018</td></tr><tr><td rowspan="1" colspan="1">BUN</td><td rowspan="1" colspan="1">11.928 ± 1.753</td><td rowspan="1" colspan="1">11.598 ± 1.527</td><td rowspan="1" colspan="1">0.389</td></tr><tr><td rowspan="1" colspan="1">ALT</td><td rowspan="1" colspan="1">157.703 ± 28.689</td><td rowspan="1" colspan="1">142.206 ± 22.424</td><td rowspan="1" colspan="1">0.012</td></tr><tr><td rowspan="1" colspan="1">AST</td><td rowspan="1" colspan="1">147.327 ± 28.456</td><td rowspan="1" colspan="1">131.358 ± 13.836</td><td rowspan="1" colspan="1">0.003</td></tr><tr><td rowspan="1" colspan="1">PaCO<sub>2</sub></td><td rowspan="1" colspan="1">26.626 ± 2.264</td><td rowspan="1" colspan="1">28.659 ± 3.260</td><td rowspan="1" colspan="1">0.002</td></tr><tr><td rowspan="1" colspan="1">Lac</td><td rowspan="1" colspan="1">2.733 ± 0.592</td><td rowspan="1" colspan="1">2.304 ± 0.570</td><td rowspan="1" colspan="1">0.002</td></tr><tr><td rowspan="1" colspan="1">APACHE II</td><td rowspan="1" colspan="1">10.037 ± 2.518</td><td rowspan="1" colspan="1">7.255 ± 1.883</td><td rowspan="1" colspan="1">&lt;0.001</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="table-fn1-2058738420974888"><p>WBC: white blood count; BUN: blood urea nitrogen; ALT: alanine
+transaminase; AST: aspartate transaminase; PaCO<sub>2</sub>: partial
+pressure of carbon dioxide; Lac: arterial blood lactic acid; APACHE
+II: the acute physiology and chronic health evaluation II score.</p></fn></table-wrap-foot></table-wrap></sec><sec id="section14-2058738420974888"><title>Diagnostic value of miR-219-5p and its correlation with disease severity in
+MODS patients</title><p>In view of the significant dysregulation of serum miR-219-5p expression in the
+MODS patients. A ROC curve (<xref ref-type="fig" rid="fig3-2058738420974888">Figure 3a</xref>) was plotted to assess the diagnostic value of serum
+miR-219-5p in this study. The area under the curve (AUC) for miR-219-5p was
+0.891 with a sensitivity of 89.33% and a specificity of 76% at the cutoff of
+0.800, indicating the considerable diagnostic accuracy of the serum miR-219-5p
+expression in MODS patients. Additionally, we observed a negative correlation
+between miR-219-5p expression and APACHE II score in MODS patients
+(<italic toggle="yes">r</italic> = −0.403, <italic toggle="yes">P</italic> = 0.003, <xref ref-type="fig" rid="fig3-2058738420974888">Figure 3b</xref>), suggesting
+that miR-219-5p was negatively correlated with the disease severity in patients
+with MODS induced by PQ poisoning.</p><fig id="fig3-2058738420974888" orientation="portrait" position="float"><label>Figure 3.</label><caption><p>Diagnostic value of miR-219-5p and its correlation with disease severity
+in patients with MODS induced by PQ poisoning. (a) ROC curve for MODS
+patients based on serum miR-219-5p, which had an AUC of 0.891 with the
+sensitivity of 89.33% and specificity of 76%. (b) Correlation between
+APACHE Ⅱ score and miR-219-5p expression in MODS patients induced by PQ
+poisoning (<italic toggle="yes">r</italic> = –0.403, <italic toggle="yes">P</italic> = 0.003).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_2058738420974888-fig3.jpg"/></fig></sec><sec id="section15-2058738420974888"><title>Prognostic value of miR-219-5p for the 28-day survival of MODS
+patients</title><p>According to 28-day survival, all 75 MODS patients induced by PQ poisoning were
+grouped into two groups: survival group (n = 26) and non-survival group (n =
+49). Thus, the 28-day survival rate (%) was 34.67 in the 75 MODS patients. As
+shown in <xref rid="table2-2058738420974888" ref-type="table">Table 2</xref>,
+non-survivors had markedly high levels of WBC, BUN, ALT, AST, Lac, and markedly
+low levels of PaCO<sub>2</sub> compared with the survivals (all
+<italic toggle="yes">P</italic> &lt; 0.001). Besides, as for the traditional score
+between survival and non-survival group, non-survivors had markedly higher
+APACHE II score (<italic toggle="yes">P</italic> &lt; 0.001). Moreover, the miR-219-5p
+expression level was markedly different between survival and non-survival group
+(<italic toggle="yes">P</italic> &lt; 0.001), the expression of miR-219-5p was markedly
+low in non-survival group.</p><table-wrap id="table2-2058738420974888" orientation="portrait" position="float"><label>Table 2.</label><caption><p>The comparisons between survivors and non-survivors of MODS patients
+induced by paraquat poisoning.</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_2058738420974888-table2.jpg"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/></colgroup><thead><tr><th align="left" rowspan="1" colspan="1">Variables</th><th align="left" rowspan="1" colspan="1">Survivors (<italic toggle="yes">n</italic> = 26)</th><th align="left" rowspan="1" colspan="1">Non-survivors (<italic toggle="yes">n</italic> = 49)</th><th align="left" rowspan="1" colspan="1"><italic toggle="yes">P</italic> value</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">MiR-219-5p</td><td rowspan="1" colspan="1">0.683 ± 0.219</td><td rowspan="1" colspan="1">0.486 ± 0.214</td><td rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td colspan="4" rowspan="1">Gender</td></tr><tr><td rowspan="1" colspan="1"> Female</td><td rowspan="1" colspan="1">15</td><td rowspan="1" colspan="1">25</td><td rowspan="1" colspan="1">0.582</td></tr><tr><td rowspan="1" colspan="1"> Male</td><td rowspan="1" colspan="1">11</td><td rowspan="1" colspan="1">24</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Age (years)</td><td rowspan="1" colspan="1">30.115 ± 9.816</td><td rowspan="1" colspan="1">30.755 ± 8.857</td><td rowspan="1" colspan="1">0.775</td></tr><tr><td rowspan="1" colspan="1">Time to hospital (h)</td><td rowspan="1" colspan="1">10.115 ± 6.035</td><td rowspan="1" colspan="1">10.653 ± 4.918</td><td rowspan="1" colspan="1">0.679</td></tr><tr><td rowspan="1" colspan="1">Estimated amount (mL)</td><td rowspan="1" colspan="1">31.853 ± 14.305</td><td rowspan="1" colspan="1">39.926 ± 16.239</td><td rowspan="1" colspan="1">0.036</td></tr><tr><td rowspan="1" colspan="1">WBC</td><td rowspan="1" colspan="1">13.765 ± 1.323</td><td rowspan="1" colspan="1">16.583 ± 1.937</td><td rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td rowspan="1" colspan="1">BUN</td><td rowspan="1" colspan="1">10.362 ± 1.110</td><td rowspan="1" colspan="1">12.517 ± 1.375</td><td rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td rowspan="1" colspan="1">ALT</td><td rowspan="1" colspan="1">127.097 ± 19.244</td><td rowspan="1" colspan="1">162.557 ± 21.773</td><td rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td rowspan="1" colspan="1">AST</td><td rowspan="1" colspan="1">120.912 ± 13.060</td><td rowspan="1" colspan="1">149.611 ± 22.356</td><td rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td rowspan="1" colspan="1">PaCO<sub>2</sub></td><td rowspan="1" colspan="1">29.257 ± 2.982</td><td rowspan="1" colspan="1">26.723 ± 2.553</td><td rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td rowspan="1" colspan="1">Lac</td><td rowspan="1" colspan="1">2.005 ± 0.434</td><td rowspan="1" colspan="1">2.804 ± 0.512</td><td rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td rowspan="1" colspan="1">APACHE II</td><td rowspan="1" colspan="1">6.528 ± 1.546</td><td rowspan="1" colspan="1">9.855 ± 2.337</td><td rowspan="1" colspan="1">&lt;0.001</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="table-fn2-2058738420974888"><p>WBC: white blood count; BUN: blood urea nitrogen; ALT: alanine
+transaminase; AST: aspartate transaminase; PaCO<sub>2</sub>: partial
+pressure of carbon dioxide; Lac: arterial blood lactic acid; APACHE
+II: the acute physiology and chronic health evaluation Ⅱ score.</p></fn></table-wrap-foot></table-wrap><p>Moreover, the Kaplan-Meier survival curves (<xref ref-type="fig" rid="fig4-2058738420974888">Figure 4</xref>) was established to analyze the
+correlation between miR-219-5p expression and the survival depending on the
+28-day survival. From the Kaplan-Meier survival curves, we observed that the
+patients with low miR-219-5p expression had markedly shorter survival time than
+the patients with high miR-219-5p expression (log-rank <italic toggle="yes">P</italic> &lt;
+0.001). The further multivariate Cox regression analyses indicated that
+miR-219-5p expression and APACHE II score were two independent prognostic
+factors for 28-day survival in patients with MODS (all <italic toggle="yes">P</italic> &lt;
+0.05, <xref rid="table3-2058738420974888" ref-type="table">Table 3</xref>).</p><fig id="fig4-2058738420974888" orientation="portrait" position="float"><label>Figure 4.</label><caption><p>Kaplan-Meier survival curves in the MODS patients induced by PQ
+poisoning. The survival time of patients with low miR-219-5p expression
+was shorter than those patients with high miR-219-5p expression
+(Log-Rank <italic toggle="yes">P</italic> &lt; 0.001).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_2058738420974888-fig4.jpg"/></fig><table-wrap id="table3-2058738420974888" orientation="portrait" position="float"><label>Table 3.</label><caption><p>Multivariate cox regression analysis for miR-219-5p in MODS patients
+induced by paraquat poisoning.</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_2058738420974888-table3.jpg"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/></colgroup><thead><tr><th align="left" rowspan="2" colspan="1">Variables</th><th align="left" colspan="3" rowspan="1">Multivariate analysis</th></tr><tr><th align="left" rowspan="1" colspan="1">HR</th><th align="left" rowspan="1" colspan="1">95% CI</th><th align="left" rowspan="1" colspan="1"><italic toggle="yes">P</italic> value</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">MiR-219-5p</td><td rowspan="1" colspan="1">10.079</td><td rowspan="1" colspan="1">4.174–24.342</td><td rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td rowspan="1" colspan="1">Age</td><td rowspan="1" colspan="1">1.440</td><td rowspan="1" colspan="1">0.736–2.817</td><td rowspan="1" colspan="1">0.287</td></tr><tr><td rowspan="1" colspan="1">Gender</td><td rowspan="1" colspan="1">1.347</td><td rowspan="1" colspan="1">0.700–2.592</td><td rowspan="1" colspan="1">0.373</td></tr><tr><td rowspan="1" colspan="1">Time to hospital (h)</td><td rowspan="1" colspan="1">1.622</td><td rowspan="1" colspan="1">0.798–3.297</td><td rowspan="1" colspan="1">0.181</td></tr><tr><td rowspan="1" colspan="1">Estimated amount (mL)</td><td rowspan="1" colspan="1">1.445</td><td rowspan="1" colspan="1">0.755–2.766</td><td rowspan="1" colspan="1">0.267</td></tr><tr><td rowspan="1" colspan="1">WBC</td><td rowspan="1" colspan="1">1.279</td><td rowspan="1" colspan="1">0.686–2.384</td><td rowspan="1" colspan="1">0.438</td></tr><tr><td rowspan="1" colspan="1">BUN</td><td rowspan="1" colspan="1">1.234</td><td rowspan="1" colspan="1">0.622–2.452</td><td rowspan="1" colspan="1">0.547</td></tr><tr><td rowspan="1" colspan="1">ALT</td><td rowspan="1" colspan="1">1.206</td><td rowspan="1" colspan="1">0.630–2.310</td><td rowspan="1" colspan="1">0.572</td></tr><tr><td rowspan="1" colspan="1">AST</td><td rowspan="1" colspan="1">1.682</td><td rowspan="1" colspan="1">0.796–3.553</td><td rowspan="1" colspan="1">0.173</td></tr><tr><td rowspan="1" colspan="1">PaCO<sub>2</sub></td><td rowspan="1" colspan="1">1.266</td><td rowspan="1" colspan="1">0.621–2.579</td><td rowspan="1" colspan="1">0.517</td></tr><tr><td rowspan="1" colspan="1">Lac</td><td rowspan="1" colspan="1">1.391</td><td rowspan="1" colspan="1">0.622–3.111</td><td rowspan="1" colspan="1">0.422</td></tr><tr><td rowspan="1" colspan="1">APACHE II</td><td rowspan="1" colspan="1">2.269</td><td rowspan="1" colspan="1">1.090–4.724</td><td rowspan="1" colspan="1">0.028</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="table-fn3-2058738420974888"><p>WBC: white blood count; BUN: blood urea nitrogen; ALT: alanine
+transaminase; AST: aspartate transaminase; PaCO<sub>2</sub>: partial
+pressure of carbon dioxide; Lac: arterial blood lactic acid; APACHE
+II: the acute physiology and chronic health evaluation II score.</p></fn></table-wrap-foot></table-wrap></sec><sec id="section16-2058738420974888"><title>Negative correlation between miR-219-5p and TLR4 in MODS patients</title><p>The serum TLR4 expression levels was measured using ELISA in MODS patients and
+controls. The results indicated that the serum TLR4 level was markedly increased
+in MODS patients compared with the TLR4 level in the controls
+(<italic toggle="yes">P</italic> &lt; 0.001, <xref ref-type="fig" rid="fig5-2058738420974888">Figure 5a</xref>). Furthermore, we observed a
+negative correlation between serum miR-219-5p and TLR4 in patients with MODS
+induced by PQ poisoning (<italic toggle="yes">r</italic> = −0.660, <italic toggle="yes">P</italic> &lt;
+0.001, <xref ref-type="fig" rid="fig5-2058738420974888">Figure 5b</xref>).</p><fig id="fig5-2058738420974888" orientation="portrait" position="float"><label>Figure 5.</label><caption><p>The correlation between serum miR-219-5p level and TLR4 level in MODS
+patients induced by PQ poisoning. (a) Serum TLR4 level was markedly
+increased in MODS patients compared with those in controls. (b) Serum
+miR-219-5p expression levels was negatively correlated with serum TLR4
+levels in MODS patients induced by PQ poisoning
+(<italic toggle="yes">r</italic> = –0.660, <italic toggle="yes">P</italic> &lt; 0.001).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_2058738420974888-fig5.jpg"/></fig></sec><sec id="section17-2058738420974888"><title>Correlation of miR-219-5p and TLR4 with pro-inflammatory cytokines in MODS
+patients</title><p>The inflammatory response in MODS patients were determined by measuring the serum
+pro-inflammatory cytokines, including IL-1β and TNF-α. The results shown in
+<xref rid="table4-2058738420974888" ref-type="table">Table 4</xref>
+indicated the negative correlation of miR-219-5p levels with pro-inflammatory
+cytokines and positive correlation of TLR4 with pro-inflammatory cytokines,
+which implied the potential correlation of miR-219-5p and TLR4 with inflammation
+in MODS progression.</p><table-wrap id="table4-2058738420974888" orientation="portrait" position="float"><label>Table 4.</label><caption><p>Correlation of miR-219-5p and TLR4 with pro-inflammatory cytokines in
+MODS patients induced by paraquat poisoning.</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_2058738420974888-table4.jpg"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/></colgroup><thead><tr><th align="left" rowspan="2" colspan="1">Variables</th><th align="left" colspan="2" rowspan="1">IL-1β</th><th align="left" colspan="2" rowspan="1">TNF-α</th></tr><tr><th align="left" rowspan="1" colspan="1"><italic toggle="yes">r</italic> value</th><th align="left" rowspan="1" colspan="1"><italic toggle="yes">P</italic> value</th><th align="left" rowspan="1" colspan="1"><italic toggle="yes">r</italic> value</th><th align="left" rowspan="1" colspan="1"><italic toggle="yes">P</italic> value</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">MiR-219-5p</td><td rowspan="1" colspan="1">−0.482</td><td rowspan="1" colspan="1">&lt;0.001</td><td rowspan="1" colspan="1">−0.501</td><td rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td rowspan="1" colspan="1">TLR4</td><td rowspan="1" colspan="1">0.646</td><td rowspan="1" colspan="1">&lt;0.001</td><td rowspan="1" colspan="1">0.679</td><td rowspan="1" colspan="1">&lt;0.001</td></tr></tbody></table></alternatives></table-wrap></sec></sec><sec sec-type="discussion" id="section18-2058738420974888"><title>Discussion</title><p>PQ, an agent highly toxic to humans and animals, is a widely used herbicide.<sup><xref rid="bibr25-2058738420974888" ref-type="bibr">25</xref></sup>Acute PQ poisoning can cause a strong inflammatory reaction.<sup><xref rid="bibr26-2058738420974888" ref-type="bibr">26</xref></sup> Activated TLR4 is a receptor of the innate immune system that has key effect
+on the regulation of inflammation.<sup><xref rid="bibr27-2058738420974888" ref-type="bibr">27</xref></sup> A study indicated that the inflammation mediated by TLR4 played a key role in
+the occurrence of kidney damage and fibrosis in cyclosporine nephrotoxicity.<sup><xref rid="bibr28-2058738420974888" ref-type="bibr">28</xref></sup> And Nrf2 could protect lung cells by regulating the TLR4 and Akt signaling
+pathways, suggesting TLR4 mediated inflammatory-related lung injury.<sup><xref rid="bibr29-2058738420974888" ref-type="bibr">29</xref></sup> These studies suggested that TLR4 was important in inflammatory response. In
+addition, some studies has suggested that TlR4 played an important role in PQ
+poisoning.<sup><xref rid="bibr17-2058738420974888" ref-type="bibr">17</xref>,<xref rid="bibr18-2058738420974888" ref-type="bibr">18</xref></sup></p><p>MiRNAs are widely involved in a variety of pathophysiological processes, including
+cancer, cardiovascular and metabolic diseases.<sup><xref rid="bibr30-2058738420974888" ref-type="bibr">30</xref><xref rid="bibr31-2058738420974888" ref-type="bibr"/>–<xref rid="bibr32-2058738420974888" ref-type="bibr">32</xref></sup> According the results of
+bioinformatics, miR-219-5p may be a potential regulator of TLR4, suggesting the
+potential role of miR-219-5p in PQ poisoning. Thus, in this study, a total of 75
+patients with PQ poisoning MODS and 75 healthy controls were collected, and serum
+miR-219-5p levels were compared between control group and case group. The results
+showed that the serum miR-219-5p level of PQ poisoning MODS patients was
+significantly lower than the serum miR-219-3p level of health control group.
+Clinical data analysis revealed that serum miR-219-5p was significantly associated
+with WBC, ALT, AST, PaCO<sub>2</sub>, Lac and APACHE II score. We knew that patients
+with PQ poisoning develop multiple organ dysfunction, including lung, kidney, liver
+and heart. ALT and AST are indicators of liver function, while PaCO<sub>2</sub> and
+Lac are important indicators of lung function and respiratory function,
+respectively. Chen et al.<sup><xref rid="bibr33-2058738420974888" ref-type="bibr">33</xref></sup> found that miR-219-5p prevented cirrhosis through increasing keratinocyte
+growth factor (KGF). The study by Gao et al.<sup><xref rid="bibr34-2058738420974888" ref-type="bibr">34</xref></sup> indicated that miR-219-5p was differentially expressed in liver cirrhosis,
+suggesting that miR-219-5p might affect the process of liver cirrhosis. The above
+evidence indicated the important role of miR-219-5p in liver injury. Thus, we
+speculate that miR-219-5p may be involved in organ damage in MODS patients cause by
+PQ poisoning, which supported our present results.</p><p>We further analyzed the diagnostic and prognostic significance of miR-219-5p in
+patients with PQ poisoning MODS. In this study, serum miR-219-5p level was
+downregulated in patients compared with the controls. According to the ROC curve,
+miR-219-5p may be a diagnostic biomarker for MODS caused by PQ poisoning. Besides,
+we observed a significantly negative correlation between APACHE II score and
+miR-219-5p expression in MODS patients, suggesting that miR-219-5p was negatively
+correlated with the severity in patients with MODS induced by PQ poisoning. All
+patients were then divided into survival and non-survival groups based on 28-day
+survival. Compared with the surviving patients, the levels of WBC, BUN, ALT, AST and
+Lac were higher and levels of PaCO<sub>2</sub> was lower in non-surviving patients,
+reflecting the loss of kidney, liver and lung injury. We also found that there were
+more patients with low expression of miR-219-5p in the non-survival group,
+suggesting that the expression of miR-219-5p was associated with 28-day survival in
+patients with MODS caused by PQ poisoning. And the results of KM curves also showed
+that the patients with low expression of miR-219-5p had shorter survival time. In
+addition, multivariate Cox regression analysis suggested that miR-219-5p level and
+APACHE II score were two independent prognostic factor for 28-day survival. However,
+the APACHE II score has been shown to assess the prognosis of acute PQ poisoning.<sup><xref rid="bibr35-2058738420974888" ref-type="bibr">35</xref></sup> This study indicated the significant correlation of serum miR-219-5p level
+with APACHE II score, suggesting that miR-219-5p was significantly correlated with
+PQ poisoning severity. Therefore, we believe that serum miR-219-5p may be a
+valuablel clinical tool for MODS patients by PQ poisoning.</p><p>In this study, bioinformatics analysis showed that miR-219-5p may be a potential
+regulator of TLR4. The results of this study indicated that serum TLR4 expression
+was increased and serum miR-219-5p was decreased in MODS patients caused by PQ
+poisoning, and was negatively correlated with TLR4. Finally, the double luciferase
+reporter gene experiment proved that TLR4 was a direct target gene of miR-219-5p.
+Therefore, we speculate that miR-219-5p may play a potential role in the MODS
+patients caused by PQ poisoning by regulating TLR4. Furthermore, considering the
+differentially expression of miR-219-5p in the progression of inflammation and the
+regulatory effects of TLR4 on the inflammation, we explored the correlation of
+miR-219-5p and TLR4 with pro-inflammatory cytokines in MODS patients. Negative
+correlation of miR-219-5p levels with pro-inflammatory cytokines and positive
+correlation of TLR4 with pro-inflammatory cytokines were found. Thus, we considered
+that miR-219-5p might be involved in the MODS progression by regulating TLR4-related
+inflammatory response.</p><p>There are still some limitations in this study. The clinicopathological parameters of
+the included patients were not comprehensive enough and the data collection was
+incomplete. Other clinicopathological parameters can be added to better examine the
+association between miR-219-5p levels and different organ dysfunction, such as serum
+cardiac troponin I (cTnI), serum creatinine (SCr), and so on. Moreover, the sample
+size is relatively small, which needs to be further increased in the further
+research. Furthermore, recent studies have found that activation of Sirtuin 1 plays
+important role in protecting lung injury induced by PQ and Sirtuin 1 is now strongly
+linked to MODS, thus, its activation is important to prevent lung injury and
+MODS.<sup><xref rid="bibr36-2058738420974888" ref-type="bibr">36</xref><xref rid="bibr37-2058738420974888" ref-type="bibr"/><xref rid="bibr38-2058738420974888" ref-type="bibr"/>–<xref rid="bibr39-2058738420974888" ref-type="bibr">39</xref></sup> Thus, plasma Sirtuin 1 levels
+may be relevant to the diagnosis of PQ-induced MODS. We suspected that the relevance
+of Sirtuin 1 and miR-219-5p may be relevant to PQ poisoning. However, it remains to
+be determined if Sirtuin 1 analysis is more sensitive to PQ-induced MODS when
+compared with miR-219-5p, which needs to be further study in the research.</p></sec><sec sec-type="conclusions" id="section19-2058738420974888"><title>Conclusion</title><p>In summary, the results of this study indicated that serum miR-219-5p expression
+level was decreased, serum TLR4 expression level was increased, and a negative
+correlation was observed between them in MODS patients induced by acute PQ
+poisoning. Additionally, serum miR-219-5p level might be a new diagnostic and
+prognostic factor for MODS patients induced by PQ poisoning. Moreover, TLR4 was
+demonstrated as a direct target gene of miR-219-5p and significant correlation of
+miR-219-5p and TLR4 with inflammatory cytokines was found, indicating that
+miR-219-5p may be involved in the pathogenesis of MODS by regulating the
+TLR4-related inflammatory response.</p></sec></body><back><fn-group><fn fn-type="COI-statement"><p><bold>Declaration of conflicting interests:</bold> The author(s) declared no potential conflicts of interest with respect to the
+research, authorship, and/or publication of this article.</p></fn><fn fn-type="financial-disclosure"><p><bold>Funding:</bold> The author(s) received no financial support for the research, authorship, and/or
+publication of this article.</p></fn><fn fn-type="other"><p><bold>Ethics approval and consent to participate:</bold> A signed written informed consent was obtained from each patient and the
+experimental procedures were all in accordance with the guideline of the Ethics
+Committee of Qingdao Jiaozhou Central Hospital (#JZCHh20111025).</p></fn><fn fn-type="other"><p><bold>Consent for publication:</bold> Written informed consent for publication was obtained from each participant.</p></fn><fn fn-type="other"><p><bold>ORCID iD:</bold> Yuming Gao <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="10.1177_2058738420974888-img1.jpg"/>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://orcid.org/0000-0001-7133-2238">https://orcid.org/0000-0001-7133-2238</ext-link></p></fn><fn fn-type="other"><p><bold>Availability of data and material:</bold> All data generated or analyzed during this study are included in this published
+article.</p></fn></fn-group><ref-list><title>References</title><ref id="bibr1-2058738420974888"><label>1</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Ko</surname><given-names>DR</given-names></name><name name-style="western"><surname>Chung</surname><given-names>SP</given-names></name><name name-style="western"><surname>You</surname><given-names>JS</given-names></name></person-group>, <etal>et al</etal> (<year>2017</year>) <article-title>Effects
+of paraquat ban on herbicide poisoning-related mortality</article-title>.
+<source>Yonsei Medical Journal</source>
+<volume>58</volume>(<issue>4</issue>):
+<fpage>859</fpage>–<lpage>866</lpage>.<pub-id pub-id-type="pmid">28541002</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3349/ymj.2017.58.4.859</pub-id><pub-id pub-id-type="pmcid">PMC5447120</pub-id></mixed-citation></ref><ref id="bibr2-2058738420974888"><label>2</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Gawarammana</surname><given-names>IB</given-names></name><name name-style="western"><surname>Buckley</surname><given-names>NA</given-names></name></person-group> (<year>2011</year>) <article-title>Medical management of
+paraquat ingestion</article-title>. <source>British Journal of Clinical
+Pharmacology</source>
+<volume>72</volume>(<issue>5</issue>):
+<fpage>745</fpage>–<lpage>757</lpage>.<pub-id pub-id-type="pmid">21615775</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1365-2125.2011.04026.x</pub-id><pub-id pub-id-type="pmcid">PMC3243009</pub-id></mixed-citation></ref><ref id="bibr3-2058738420974888"><label>3</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Wan</surname><given-names>X</given-names></name><name name-style="western"><surname>Zhou</surname><given-names>C</given-names></name><name name-style="western"><surname>Kang</surname><given-names>X</given-names></name></person-group>, <etal>et al</etal> (<year>2018</year>)
+<article-title>Metabolic profiling of amino acids associated with mortality
+in patients with acute paraquat poisoning</article-title>. <source>Medical
+Science Monitor: International Medical Journal of Experimental and Clinical
+Research</source>
+<volume>24</volume>:<fpage>1397</fpage>–<lpage>1407</lpage>.<pub-id pub-id-type="pmid">29513648</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.12659/MSM.905843</pub-id><pub-id pub-id-type="pmcid">PMC5854108</pub-id></mixed-citation></ref><ref id="bibr4-2058738420974888"><label>4</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Sun</surname><given-names>B</given-names></name><name name-style="western"><surname>He</surname><given-names>Y</given-names></name></person-group> (<year>2017</year>) <article-title>Paraquat poisoning mechanism
+and its clinical treatment progress</article-title>. <source>Zhonghua wei
+zhong bing ji jiu yi xue</source>
+<volume>29</volume>(<issue>11</issue>):
+<fpage>1043</fpage>–<lpage>1046</lpage>.<pub-id pub-id-type="pmid">29151425</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3760/cma.j.issn.2095-4352.2017.11.018</pub-id></mixed-citation></ref><ref id="bibr5-2058738420974888"><label>5</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Chen</surname><given-names>F</given-names></name><name name-style="western"><surname>Ye</surname><given-names>Y</given-names></name><name name-style="western"><surname>Jin</surname><given-names>B</given-names></name></person-group>, <etal>et al</etal> (<year>2019</year>)
+<article-title>Homicidal paraquat poisoning</article-title>. <source>Journal
+of Forensic Sciences</source>
+<volume>64</volume>(<issue>3</issue>):
+<fpage>941</fpage>–<lpage>945</lpage>.<pub-id pub-id-type="pmid">30452771</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/1556-4029.13945</pub-id></mixed-citation></ref><ref id="bibr6-2058738420974888"><label>6</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Dinis-Oliveira</surname><given-names>RJ</given-names></name><name name-style="western"><surname>Duarte</surname><given-names>JA</given-names></name><name name-style="western"><surname>Sanchez-Navarro</surname><given-names>A</given-names></name></person-group>, <etal>et al</etal> (<year>2008</year>) <article-title>Paraquat
+poisonings: Mechanisms of lung toxicity, clinical features, and
+treatment</article-title>. <source>Critical Reviews in Toxicology</source>
+<volume>38</volume>(<issue>1</issue>):
+<fpage>13</fpage>–<lpage>71</lpage>.<pub-id pub-id-type="pmid">18161502</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/10408440701669959</pub-id></mixed-citation></ref><ref id="bibr7-2058738420974888"><label>7</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Wang</surname><given-names>WH</given-names></name><name name-style="western"><surname>Zhang</surname><given-names>H</given-names></name><name name-style="western"><surname>Yu</surname><given-names>YL</given-names></name></person-group>, <etal>et al</etal> (<year>2005</year>)
+<article-title>Correlation of plasma endothelin and multiple organ
+dysfunction syndrome caused by acute paraquat poisoning</article-title>.
+<source>Zhongguo wei zhong bing ji jiu yi xue = Chinese Critical Care
+Medicine = Zhongguo weizhongbing jijiuyixue</source>
+<volume>17</volume>(<issue>5</issue>):
+<fpage>293</fpage>–<lpage>295</lpage>.<pub-id pub-id-type="pmid">15877960</pub-id></mixed-citation></ref><ref id="bibr8-2058738420974888"><label>8</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Shi</surname><given-names>J</given-names></name><name name-style="western"><surname>Gao</surname><given-names>YF</given-names></name><name name-style="western"><surname>Huang</surname><given-names>P</given-names></name></person-group>, <etal>et al</etal> (<year>2011</year>) <article-title>Clinical
+analysis of multiple organ dysfunction syndrome caused by acute paraquat
+poisoning</article-title>. <source>Zhonghua lao dong wei sheng zhi ye bing
+za zhi = Zhonghua laodong weisheng zhiyebing zazhi = Chinese Journal of
+Industrial Hygiene and Occupational Diseases</source>
+<volume>29</volume>(<issue>7</issue>):
+<fpage>519</fpage>–<lpage>521</lpage>.<pub-id pub-id-type="pmid">22214158</pub-id></mixed-citation></ref><ref id="bibr9-2058738420974888"><label>9</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Manson</surname><given-names>J</given-names></name><name name-style="western"><surname>Cole</surname><given-names>E</given-names></name><name name-style="western"><surname>De’Ath</surname><given-names>HD</given-names></name></person-group>, <etal>et al</etal> (<year>2016</year>) <article-title>Early
+changes within the lymphocyte population are associated with the development
+of multiple organ dysfunction syndrome in trauma patients</article-title>.
+<source>Critical Care</source>
+<volume>20</volume>(<issue>1</issue>): <fpage>176</fpage>.<pub-id pub-id-type="pmid">27268230</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13054-016-1341-2</pub-id><pub-id pub-id-type="pmcid">PMC4895987</pub-id></mixed-citation></ref><ref id="bibr10-2058738420974888"><label>10</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Wang</surname><given-names>H</given-names></name><name name-style="western"><surname>Ma</surname><given-names>S</given-names></name></person-group> (<year>2008</year>) <article-title>The cytokine storm and
+factors determining the sequence and severity of organ dysfunction in
+multiple organ dysfunction syndrome</article-title>. <source>The American
+Journal of Emergency Medicine</source>
+<volume>26</volume>(<issue>6</issue>):
+<fpage>711</fpage>–<lpage>715</lpage>.<pub-id pub-id-type="pmid">18606328</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ajem.2007.10.031</pub-id></mixed-citation></ref><ref id="bibr11-2058738420974888"><label>11</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Ramirez</surname><given-names>M</given-names></name></person-group> (<year>2013</year>) <article-title>Multiple organ dysfunction
+syndrome</article-title>. <source>Current Problems in Pediatric and
+Adolescent Health Care</source>
+<volume>43</volume>(<issue>10</issue>):
+<fpage>273</fpage>–<lpage>277</lpage>.<pub-id pub-id-type="pmid">24295608</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cppeds.2013.10.003</pub-id></mixed-citation></ref><ref id="bibr12-2058738420974888"><label>12</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Torrecilla</surname><given-names>J</given-names></name><name name-style="western"><surname>Del Pozo-Rodriguez</surname><given-names>A</given-names></name><name name-style="western"><surname>Vicente-Pascual</surname><given-names>M</given-names></name></person-group>, <etal>et al</etal> (<year>2018</year>)
+<article-title>Targeting corneal inflammation by gene therapy: Emerging
+strategies for keratitis</article-title>. <source>Experimental Eye
+Research</source>
+<volume>176</volume>: <fpage>130</fpage>–<lpage>140</lpage>.<pub-id pub-id-type="pmid">29981344</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.exer.2018.07.006</pub-id></mixed-citation></ref><ref id="bibr13-2058738420974888"><label>13</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Dai</surname><given-names>H</given-names></name><name name-style="western"><surname>Zhang</surname><given-names>H</given-names></name><name name-style="western"><surname>Zu</surname><given-names>X</given-names></name></person-group>, <etal>et al</etal> (<year>2020</year>) <article-title>Clinical
+significance of serum levels of microRNA-27a and its correlation with
+interleukin-10 in patients with multiple organ dysfunction syndrome caused
+by acute paraquat poisoning</article-title>. <source>Experimental and
+Therapeutic Medicine</source>
+<volume>19</volume>(<issue>3</issue>):
+<fpage>1961</fpage>–<lpage>1968</lpage>.<pub-id pub-id-type="pmid">32104255</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3892/etm.2020.8409</pub-id><pub-id pub-id-type="pmcid">PMC7027156</pub-id></mixed-citation></ref><ref id="bibr14-2058738420974888"><label>14</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Wu</surname><given-names>W</given-names></name><name name-style="western"><surname>Li</surname><given-names>Y</given-names></name></person-group> (<year>2018</year>) <article-title>Lung injury caused by
+paraquat poisoning results in increased interleukin-6 and decreased
+microRNA-146a levels</article-title>. <source>Experimental and Therapeutic
+Medicine</source>
+<volume>16</volume>(<issue>1</issue>):
+<fpage>406</fpage>–<lpage>412</lpage>.<pub-id pub-id-type="pmid">29896267</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3892/etm.2018.6153</pub-id><pub-id pub-id-type="pmcid">PMC5995050</pub-id></mixed-citation></ref><ref id="bibr15-2058738420974888"><label>15</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Iotzova-Weiss</surname><given-names>G</given-names></name><name name-style="western"><surname>Freiberger</surname><given-names>SN</given-names></name><name name-style="western"><surname>Johansen</surname><given-names>P</given-names></name></person-group>, <etal>et al</etal> (<year>2017</year>) <article-title>TLR4 as
+a negative regulator of keratinocyte proliferation</article-title>.
+<source>PLoS One</source>
+<volume>12</volume>(<issue>10</issue>):
+<fpage>e0185668</fpage>.<pub-id pub-id-type="pmid">28982115</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0185668</pub-id><pub-id pub-id-type="pmcid">PMC5628845</pub-id></mixed-citation></ref><ref id="bibr16-2058738420974888"><label>16</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Liu</surname><given-names>W</given-names></name><name name-style="western"><surname>Shan</surname><given-names>LP</given-names></name><name name-style="western"><surname>Dong</surname><given-names>XS</given-names></name></person-group>, <etal>et al</etal> (<year>2014</year>)
+<article-title>Toll-like receptor 4 implicated in acute lung injury induced
+by paraquat poisoning in mice</article-title>. <source>International Journal
+of Clinical and Experimental Medicine</source>
+<volume>7</volume>(<issue>10</issue>):
+<fpage>3392</fpage>–<lpage>3397</lpage>.<pub-id pub-id-type="pmid">25419373</pub-id><pub-id pub-id-type="pmcid">PMC4238491</pub-id></mixed-citation></ref><ref id="bibr17-2058738420974888"><label>17</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Dong</surname><given-names>XS</given-names></name><name name-style="western"><surname>Xu</surname><given-names>XY</given-names></name><name name-style="western"><surname>Sun</surname><given-names>YQ</given-names></name></person-group>, <etal>et al</etal> (<year>2013</year>)
+<article-title>Toll-like receptor 4 is involved in myocardial damage
+following paraquat poisoning in mice</article-title>.
+<source>Toxicology</source>
+<volume>312</volume>: <fpage>115</fpage>–<lpage>122</lpage>.<pub-id pub-id-type="pmid">23969119</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.tox.2013.08.009</pub-id></mixed-citation></ref><ref id="bibr18-2058738420974888"><label>18</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Periyasamy</surname><given-names>P</given-names></name><name name-style="western"><surname>Liao</surname><given-names>K</given-names></name><name name-style="western"><surname>Kook</surname><given-names>YH</given-names></name></person-group>, <etal>et al</etal> (<year>2018</year>)
+<article-title>Cocaine-mediated downregulation of miR-124 activates
+microglia by targeting KLF4 and TLR4 signaling</article-title>.
+<source>Molecular Neurobiology</source>
+<volume>55</volume>(<issue>4</issue>):
+<fpage>3196</fpage>–<lpage>3210</lpage>.<pub-id pub-id-type="pmid">28478506</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s12035-017-0584-5</pub-id><pub-id pub-id-type="pmcid">PMC5673594</pub-id></mixed-citation></ref><ref id="bibr19-2058738420974888"><label>19</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Yang</surname><given-names>L</given-names></name><name name-style="western"><surname>Gao</surname><given-names>C</given-names></name></person-group>
+<article-title>MiR-590 inhibits endothelial cell apoptosis by
+inactivating the TLR4/NF-kappaB pathway in atherosclerosis</article-title>.
+<source>Yonsei Medical Journal</source>
+<volume>60</volume>(<issue>3</issue>):
+<fpage>298</fpage>–<lpage>307</lpage>.<pub-id pub-id-type="pmid">30799593</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3349/ymj.2019.60.3.298</pub-id><pub-id pub-id-type="pmcid">PMC6391523</pub-id><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="retraction-forward" ext-link-type="pmc" xlink:href="PMC12673646"/></mixed-citation></ref><ref id="bibr20-2058738420974888"><label>20</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Yu</surname><given-names>L</given-names></name><name name-style="western"><surname>Qu</surname><given-names>H</given-names></name><name name-style="western"><surname>Yu</surname><given-names>Y</given-names></name></person-group>, <etal>et al</etal> (<year>2018</year>)
+<article-title>LncRNA-PCAT1 targeting miR-145-5p promotes TLR4-associated
+osteogenic differentiation of adipose-derived stem cells</article-title>.
+<source>Journal of Cellular and Molecular Medicine</source>
+<volume>22</volume>(<issue>12</issue>):
+<fpage>6134</fpage>–<lpage>6147</lpage>.<pub-id pub-id-type="pmid">30338912</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/jcmm.13892</pub-id><pub-id pub-id-type="pmcid">PMC6237555</pub-id></mixed-citation></ref><ref id="bibr21-2058738420974888"><label>21</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Fredman</surname><given-names>G</given-names></name><name name-style="western"><surname>Li</surname><given-names>Y</given-names></name><name name-style="western"><surname>Dalli</surname><given-names>J</given-names></name></person-group>, <etal>et al</etal> (<year>2012</year>)
+<article-title>Self-limited versus delayed resolution of acute inflammation:
+Temporal regulation of pro-resolving mediators and microRNA</article-title>.
+<source>Scientific Reports</source>
+<volume>2</volume>: <fpage>639</fpage>.<pub-id pub-id-type="pmid">22957142</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/srep00639</pub-id><pub-id pub-id-type="pmcid">PMC3434392</pub-id></mixed-citation></ref><ref id="bibr22-2058738420974888"><label>22</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Li</surname><given-names>X</given-names></name><name name-style="western"><surname>Sun</surname><given-names>L</given-names></name><name name-style="western"><surname>Chen</surname><given-names>L</given-names></name></person-group>, <etal>et al</etal> (<year>2020</year>)
+<article-title>Upregulation of microRNA-219-5p relieves ulcerative colitis
+through balancing the differentiation of Treg/Th17 cells</article-title>.
+<source>European Journal of Gastroenterology &amp; Hepatology</source>
+<volume>32</volume>(<issue>7</issue>):
+<fpage>813</fpage>–<lpage>820</lpage>.<pub-id pub-id-type="pmid">32175983</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/MEG.0000000000001712</pub-id><pub-id pub-id-type="pmcid">PMC7269018</pub-id></mixed-citation></ref><ref id="bibr23-2058738420974888"><label>23</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Fry</surname><given-names>DE</given-names></name></person-group> (<year>1988</year>) <article-title>Multiple system organ
+failure</article-title>. <source>The Surgical Clinics of North
+America</source>
+<volume>68</volume>(<issue>1</issue>):
+<fpage>107</fpage>–<lpage>122</lpage>.<pub-id pub-id-type="pmid">3277299</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0039-6109(16)44435-x</pub-id></mixed-citation></ref><ref id="bibr24-2058738420974888"><label>24</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Livak</surname><given-names>KJ</given-names></name><name name-style="western"><surname>Schmittgen</surname><given-names>TD</given-names></name></person-group> (<year>2001</year>) <article-title>Analysis of relative gene
+expression data using real-time quantitative PCR and the 2(-Delta Delta
+C(T)) Method</article-title>. <source>Methods</source>
+<volume>25</volume>(<issue>4</issue>):
+<fpage>402</fpage>–<lpage>408</lpage>.<pub-id pub-id-type="pmid">11846609</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1006/meth.2001.1262</pub-id></mixed-citation></ref><ref id="bibr25-2058738420974888"><label>25</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Chen</surname><given-names>CW</given-names></name><name name-style="western"><surname>Wu</surname><given-names>YH</given-names></name><name name-style="western"><surname>Chien</surname><given-names>SC</given-names></name></person-group>, <etal>et al</etal> (<year>2018</year>) <article-title>A
+survival case of intravenous paraquat intoxication: A case
+report</article-title>. <source>Medicine</source>
+<volume>97</volume>(<issue>30</issue>): <fpage>e11669</fpage>.<pub-id pub-id-type="pmid">30045322</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/MD.0000000000011669</pub-id><pub-id pub-id-type="pmcid">PMC6078682</pub-id></mixed-citation></ref><ref id="bibr26-2058738420974888"><label>26</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Huang</surname><given-names>J</given-names></name><name name-style="western"><surname>Ning</surname><given-names>N</given-names></name><name name-style="western"><surname>Zhang</surname><given-names>W</given-names></name></person-group> (<year>2019</year>) <article-title>Effects of paraquat on IL-6
+and TNF-alpha in macrophages</article-title>. <source>Experimental and
+Therapeutic Medicine</source>
+<volume>17</volume>(<issue>3</issue>):
+<fpage>1783</fpage>–<lpage>1789</lpage>.<pub-id pub-id-type="pmid">30783450</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3892/etm.2018.7099</pub-id><pub-id pub-id-type="pmcid">PMC6364147</pub-id></mixed-citation></ref><ref id="bibr27-2058738420974888"><label>27</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Lucas</surname><given-names>K</given-names></name><name name-style="western"><surname>Maes</surname><given-names>M</given-names></name></person-group> (<year>2013</year>) <article-title>Role of the toll like
+receptor (TLR) radical cycle in chronic inflammation: Possible treatments
+targeting the TLR4 pathway</article-title>. <source>Molecular
+Neurobiology</source>
+<volume>48</volume>(<issue>1</issue>):
+<fpage>190</fpage>–<lpage>204</lpage>.<pub-id pub-id-type="pmid">23436141</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s12035-013-8425-7</pub-id><pub-id pub-id-type="pmcid">PMC7091222</pub-id></mixed-citation></ref><ref id="bibr28-2058738420974888"><label>28</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Gonzalez-Guerrero</surname><given-names>C</given-names></name><name name-style="western"><surname>Cannata-Ortiz</surname><given-names>P</given-names></name><name name-style="western"><surname>Guerri</surname><given-names>C</given-names></name></person-group>, <etal>et al</etal> (<year>2017</year>)
+<article-title>TLR4-mediated inflammation is a key pathogenic event leading
+to kidney damage and fibrosis in cyclosporine
+nephrotoxicity</article-title>. <source>Archives of Toxicology</source>
+<volume>91</volume>(<issue>4</issue>):
+<fpage>1925</fpage>–<lpage>1939</lpage>.<pub-id pub-id-type="pmid">27585667</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00204-016-1830-8</pub-id></mixed-citation></ref><ref id="bibr29-2058738420974888"><label>29</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Yan</surname><given-names>J</given-names></name><name name-style="western"><surname>Li</surname><given-names>J</given-names></name><name name-style="western"><surname>Zhang</surname><given-names>L</given-names></name></person-group>, <etal>et al</etal> (<year>2018</year>) <article-title>Nrf2
+protects against acute lung injury and inflammation by modulating TLR4 and
+Akt signaling</article-title>. <source>Free Radical Biology &amp;
+Medicine</source>
+<volume>121</volume>: <fpage>78</fpage>–<lpage>85</lpage>.<pub-id pub-id-type="pmid">29678610</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.freeradbiomed.2018.04.557</pub-id></mixed-citation></ref><ref id="bibr30-2058738420974888"><label>30</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Correia de Sousa</surname><given-names>M</given-names></name><name name-style="western"><surname>Gjorgjieva</surname><given-names>M</given-names></name><name name-style="western"><surname>Dolicka</surname><given-names>D</given-names></name></person-group>, <etal>et al</etal> (<year>2019</year>)
+<article-title>Deciphering miRNAs’ action through miRNA
+editing</article-title>. <source>International Journal of Molecular
+Sciences</source>
+<volume>20</volume>(<issue>24</issue>): <fpage>6249</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ijms20246249</pub-id><pub-id pub-id-type="pmcid">PMC6941098</pub-id><pub-id pub-id-type="pmid">31835747</pub-id></mixed-citation></ref><ref id="bibr31-2058738420974888"><label>31</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Barwari</surname><given-names>T</given-names></name><name name-style="western"><surname>Joshi</surname><given-names>A</given-names></name><name name-style="western"><surname>Mayr</surname><given-names>M</given-names></name></person-group> (<year>2016</year>) <article-title>MicroRNAs in cardiovascular
+disease</article-title>. <source>Journal of the American College of
+Cardiology</source>
+<volume>68</volume>(<issue>23</issue>):
+<fpage>2577</fpage>–<lpage>2584</lpage>.<pub-id pub-id-type="pmid">27931616</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jacc.2016.09.945</pub-id></mixed-citation></ref><ref id="bibr32-2058738420974888"><label>32</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Rupaimoole</surname><given-names>R</given-names></name><name name-style="western"><surname>Slack</surname><given-names>FJ</given-names></name></person-group> (<year>2017</year>) <article-title>MicroRNA therapeutics:
+Towards a new era for the management of cancer and other
+diseases</article-title>. <source>Nature Reviews Drug Discovery</source>
+<volume>16</volume>(<issue>3</issue>):
+<fpage>203</fpage>–<lpage>222</lpage>.<pub-id pub-id-type="pmid">28209991</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nrd.2016.246</pub-id></mixed-citation></ref><ref id="bibr33-2058738420974888"><label>33</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Chen</surname><given-names>L</given-names></name><name name-style="western"><surname>Cui</surname><given-names>X</given-names></name><name name-style="western"><surname>Li</surname><given-names>P</given-names></name></person-group>, <etal>et al</etal> (<year>2016</year>)
+<article-title>Suppression of microRNA-219-5p activates keratinocyte growth
+factor to mitigate severity of experimental cirrhosis</article-title>.
+<source>Cellular Physiology and Biochemistry: International Journal of
+Experimental Cellular Physiology, Biochemistry, and Pharmacology</source>
+<volume>40</volume>(<issue>1–2</issue>):
+<fpage>253</fpage>–<lpage>262</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1159/000452542</pub-id><pub-id pub-id-type="pmid">27855391</pub-id></mixed-citation></ref><ref id="bibr34-2058738420974888"><label>34</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Gao</surname><given-names>B</given-names></name><name name-style="western"><surname>Zhang</surname><given-names>X</given-names></name><name name-style="western"><surname>Huang</surname><given-names>Y</given-names></name></person-group>, <etal>et al</etal> (<year>2017</year>) <article-title>Coding
+and non-coding gene regulatory networks underlie the immune response in
+liver cirrhosis</article-title>. <source>PLoS One</source>
+<volume>12</volume>(<issue>3</issue>): <fpage>e0174142</fpage>.<pub-id pub-id-type="pmid">28355233</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0174142</pub-id><pub-id pub-id-type="pmcid">PMC5371304</pub-id></mixed-citation></ref><ref id="bibr35-2058738420974888"><label>35</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Huang</surname><given-names>NC</given-names></name><name name-style="western"><surname>Hung</surname><given-names>YM</given-names></name><name name-style="western"><surname>Lin</surname><given-names>SL</given-names></name></person-group>, <etal>et al</etal> (<year>2006</year>) <article-title>Further
+evidence of the usefulness of acute physiology and chronic health evaluation
+II scoring system in acute paraquat poisoning</article-title>.
+<source>Clinical Toxicology</source>
+<volume>44</volume>(<issue>2</issue>):
+<fpage>99</fpage>–<lpage>102</lpage>.<pub-id pub-id-type="pmid">16615662</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/15563650500514251</pub-id></mixed-citation></ref><ref id="bibr36-2058738420974888"><label>36</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Martins</surname><given-names>I</given-names></name></person-group> (<year>2017</year>) <article-title>Single gene inactivation with
+implications to diabetes and multiple organ dysfunction
+syndrome</article-title>. <source>Journal of Clinical Epigenetics</source>
+<volume>3</volume>(<issue>3</issue>): <fpage>24</fpage>.</mixed-citation></ref><ref id="bibr37-2058738420974888"><label>37</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Martins</surname><given-names>I</given-names></name></person-group> (<year>2018</year>) <article-title>Sirtuin 1, a diagnostic
+protein marker and its relevance to chronic disease and therapeutic drug
+interventions</article-title>. <source>EC Pharmacology and
+Toxicology</source>
+<volume>6</volume>(<issue>4</issue>):
+<fpage>209</fpage>–<lpage>215</lpage>.</mixed-citation></ref><ref id="bibr38-2058738420974888"><label>38</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Ding</surname><given-names>YW</given-names></name><name name-style="western"><surname>Zhao</surname><given-names>GJ</given-names></name><name name-style="western"><surname>Li</surname><given-names>XL</given-names></name></person-group>, <etal>et al</etal> (<year>2016</year>) <article-title>SIRT1
+exerts protective effects against paraquat-induced injury in mouse type II
+alveolar epithelial cells by deacetylating NRF2 in vitro</article-title>.
+<source>International Journal of Molecular Medicine</source>
+<volume>37</volume>(<issue>4</issue>):
+<fpage>1049</fpage>–<lpage>1058</lpage>.<pub-id pub-id-type="pmid">26935021</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3892/ijmm.2016.2503</pub-id></mixed-citation></ref><ref id="bibr39-2058738420974888"><label>39</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Li</surname><given-names>S</given-names></name><name name-style="western"><surname>Zhao</surname><given-names>G</given-names></name><name name-style="western"><surname>Chen</surname><given-names>L</given-names></name></person-group>, <etal>et al</etal> (<year>2016</year>)
+<article-title>Resveratrol protects mice from paraquat-induced lung injury:
+The important role of SIRT1 and NRF2 antioxidant pathways</article-title>.
+<source>Molecular Medicine Reports</source>
+<volume>13</volume>(<issue>2</issue>):
+<fpage>1833</fpage>–<lpage>1838</lpage>.<pub-id pub-id-type="pmid">26708779</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3892/mmr.2015.4710</pub-id></mixed-citation></ref></ref-list></back></article>

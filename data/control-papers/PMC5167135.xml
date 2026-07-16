@@ -1,0 +1,1584 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article article-type="research-article" xml:lang="en" dtd-version="1.4"><front><journal-meta><journal-id journal-id-type="nlm-ta">EMBO Mol Med</journal-id><journal-id journal-id-type="iso-abbrev">EMBO Mol Med</journal-id><journal-id journal-id-type="pmc-domain-id">1758</journal-id><journal-id journal-id-type="pmc-domain">emmolmed</journal-id><journal-id journal-id-type="nlm-id">101487380</journal-id><journal-id journal-id-type="publisher-id">EMMM</journal-id><journal-title-group><journal-title>EMBO Molecular Medicine</journal-title></journal-title-group><issn pub-type="ppub">1757-4676</issn><issn pub-type="epub">1757-4684</issn><publisher><publisher-name>Nature Publishing Group</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC5167135</article-id><article-id pub-id-type="pmcid-ver">PMC5167135.1</article-id><article-id pub-id-type="pmcaid">5167135</article-id><article-id pub-id-type="pmcaiid">5167135</article-id><article-id pub-id-type="pmid">27861128</article-id><article-id pub-id-type="doi">10.15252/emmm.201606623</article-id><article-id pub-id-type="publisher-id">EMMM201606623</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group></article-categories><title-group><article-title>Retinoic acid catabolizing enzyme <styled-content style="fixed-case">CYP</styled-content>26C1 is a genetic modifier in <styled-content style="fixed-case">SHOX</styled-content> deficiency</article-title><alt-title alt-title-type="left-running-head">Antonino Montalbano <italic toggle="yes">et al</italic></alt-title></title-group><contrib-group><contrib id="emmm201606623-cr-0001" contrib-type="author"><name name-style="western"><surname>Montalbano</surname><given-names initials="A">Antonino</given-names></name><xref ref-type="aff" rid="emmm201606623-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="emmm201606623-cr-0002" contrib-type="author"><name name-style="western"><surname>Juergensen</surname><given-names initials="L">Lonny</given-names></name><xref ref-type="aff" rid="emmm201606623-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="emmm201606623-cr-0003" contrib-type="author"><name name-style="western"><surname>Roeth</surname><given-names initials="R">Ralph</given-names></name><xref ref-type="aff" rid="emmm201606623-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="emmm201606623-cr-0004" contrib-type="author"><name name-style="western"><surname>Weiss</surname><given-names initials="B">Birgit</given-names></name><xref ref-type="aff" rid="emmm201606623-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="emmm201606623-cr-0005" contrib-type="author"><name name-style="western"><surname>Fukami</surname><given-names initials="M">Maki</given-names></name><xref ref-type="aff" rid="emmm201606623-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="emmm201606623-cr-0006" contrib-type="author"><name name-style="western"><surname>Fricke‐Otto</surname><given-names initials="S">Susanne</given-names></name><xref ref-type="aff" rid="emmm201606623-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="emmm201606623-cr-0007" contrib-type="author"><name name-style="western"><surname>Binder</surname><given-names initials="G">Gerhard</given-names></name><xref ref-type="aff" rid="emmm201606623-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="emmm201606623-cr-0008" contrib-type="author"><name name-style="western"><surname>Ogata</surname><given-names initials="T">Tsutomu</given-names></name><xref ref-type="aff" rid="emmm201606623-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="emmm201606623-cr-0009" contrib-type="author"><name name-style="western"><surname>Decker</surname><given-names initials="E">Eva</given-names></name><xref ref-type="aff" rid="emmm201606623-aff-0007">
+<sup>7</sup>
+</xref></contrib><contrib id="emmm201606623-cr-0010" contrib-type="author"><name name-style="western"><surname>Nuernberg</surname><given-names initials="G">Gudrun</given-names></name><xref ref-type="aff" rid="emmm201606623-aff-0008">
+<sup>8</sup>
+</xref><xref ref-type="aff" rid="emmm201606623-aff-0009">
+<sup>9</sup>
+</xref></contrib><contrib id="emmm201606623-cr-0011" contrib-type="author"><name name-style="western"><surname>Hassel</surname><given-names initials="D">David</given-names></name><xref ref-type="aff" rid="emmm201606623-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="emmm201606623-cr-0012" contrib-type="author" corresp="yes"><name name-style="western"><surname>Rappold</surname><given-names initials="GA">Gudrun A</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-3126-1508</contrib-id><address><email>gudrun.rappold@med.uni-heidelberg.de</email></address><xref ref-type="aff" rid="emmm201606623-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="emmm201606623-aff-0010">
+<sup>10</sup>
+</xref></contrib></contrib-group><aff id="emmm201606623-aff-0001"><label><sup>1</sup></label><named-content content-type="organisation-division">Department of Human Molecular Genetics</named-content><institution>Heidelberg University</institution><named-content content-type="city">Heidelberg</named-content><country country="DE">Germany</country></aff><aff id="emmm201606623-aff-0002"><label><sup>2</sup></label><named-content content-type="organisation-division">Department of Internal Medicine III ‐ Cardiology</named-content><institution>Heidelberg University Hospital</institution><named-content content-type="city">Heidelberg</named-content><country country="DE">Germany</country></aff><aff id="emmm201606623-aff-0003"><label><sup>3</sup></label><named-content content-type="organisation-division">Department of Molecular Endocrinology</named-content><institution>National Research Institute for Child Health and Development</institution><named-content content-type="city">Tokyo</named-content><country country="JP">Japan</country></aff><aff id="emmm201606623-aff-0004"><label><sup>4</sup></label><institution>Children's Hospital Krefeld</institution><named-content content-type="city">Krefeld</named-content><country country="DE">Germany</country></aff><aff id="emmm201606623-aff-0005"><label><sup>5</sup></label><named-content content-type="organisation-division">Children's Hospital</named-content><institution>University of Tübingen</institution><named-content content-type="city">Tübingen</named-content><country country="DE">Germany</country></aff><aff id="emmm201606623-aff-0006"><label><sup>6</sup></label><named-content content-type="organisation-division">Department of Pediatrics</named-content><institution>Hamamatsu University School of Medicine</institution><named-content content-type="city">Hamamatsu</named-content><country country="JP">Japan</country></aff><aff id="emmm201606623-aff-0007"><label><sup>7</sup></label><institution>Bioscientia Center for Human Genetics</institution><named-content content-type="city">Ingelheim</named-content><country country="DE">Germany</country></aff><aff id="emmm201606623-aff-0008"><label><sup>8</sup></label><institution>Center for Molecular Medicine</institution><named-content content-type="city">Cologne</named-content><country country="DE">Germany</country></aff><aff id="emmm201606623-aff-0009"><label><sup>9</sup></label><institution>Cologne Center for Genomics</institution><named-content content-type="city">Cologne</named-content><country country="DE">Germany</country></aff><aff id="emmm201606623-aff-0010"><label><sup>10</sup></label><named-content content-type="organisation-division">Interdisciplinary Centre for Neurosciences (IZN)</named-content><institution>University of Heidelberg</institution><named-content content-type="city">Heidelberg</named-content><country country="DE">Germany</country></aff><author-notes><corresp id="correspondenceTo"><label>*</label>Corresponding author. Tel: +49 6221 565059; E‐mail: <email>gudrun.rappold@med.uni-heidelberg.de</email></corresp></author-notes><pub-date pub-type="epub"><day>14</day><month>11</month><year>2016</year></pub-date><pub-date pub-type="ppub"><month>12</month><year>2016</year></pub-date><volume>8</volume><issue>12</issue><issue-id pub-id-type="pmc-issue-id">281396</issue-id><issue-id pub-id-type="doi">10.1002/emmm.v8.12</issue-id><fpage>1455</fpage><lpage>1469</lpage><history><date date-type="received"><day>22</day><month>5</month><year>2016</year></date><date date-type="rev-recd"><day>28</day><month>9</month><year>2016</year></date><date date-type="accepted"><day>10</day><month>10</month><year>2016</year></date></history><pub-history><event event-type="pmc-release"><date><day>01</day><month>12</month><year>2016</year></date></event><event event-type="pmc-live"><date><day>28</day><month>12</month><year>2016</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-07-29 15:25:19.537"><day>29</day><month>07</month><year>2025</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2016 The Authors. Published under the terms of the CC BY 4.0 license</copyright-statement><license license-type="creativeCommonsBy"><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="EMMM-8-1455.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:EMMM-8-1455.pdf"/><abstract id="emmm201606623-abs-0001"><title>Abstract</title><p>Mutations in the homeobox gene <italic toggle="yes"><styled-content style="fixed-case">SHOX</styled-content></italic> cause <styled-content style="fixed-case">SHOX</styled-content> deficiency, a condition with clinical manifestations ranging from short stature without dysmorphic signs to severe mesomelic skeletal dysplasia. In rare cases, individuals with <styled-content style="fixed-case">SHOX</styled-content> deficiency are asymptomatic. To elucidate the factors that modify disease severity/penetrance, we studied a three‐generation family with <styled-content style="fixed-case">SHOX</styled-content> deficiency. The variant p.Phe508Cys of the retinoic acid catabolizing enzyme <italic toggle="yes"><styled-content style="fixed-case">CYP</styled-content>26C1</italic> co‐segregated with the <italic toggle="yes"><styled-content style="fixed-case">SHOX</styled-content></italic> variant p.Val161Ala in the affected individuals, while the <italic toggle="yes"><styled-content style="fixed-case">SHOX</styled-content></italic> mutant alone was present in asymptomatic individuals. Two further cases with <styled-content style="fixed-case">SHOX</styled-content> deficiency and damaging <italic toggle="yes"><styled-content style="fixed-case">CYP</styled-content>26C1</italic> variants were identified in a cohort of 68 individuals with <styled-content style="fixed-case">LWD</styled-content>. The identified <styled-content style="fixed-case">CYP</styled-content>26C1 variants affected its catabolic activity, leading to an increased level of retinoic acid. High levels of retinoic acid significantly decrease <italic toggle="yes"><styled-content style="fixed-case">SHOX</styled-content></italic> expression in human primary chondrocytes and zebrafish embryos. Individual morpholino knockdown of either gene shortens the pectoral fins, whereas depletion of both genes leads to a more severe phenotype. Together, our findings describe <italic toggle="yes"><styled-content style="fixed-case">CYP</styled-content>26C1</italic> as the first genetic modifier for <styled-content style="fixed-case">SHOX</styled-content> deficiency.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="emmm201606623-kwd-0001">clinical variability</kwd><kwd id="emmm201606623-kwd-0002">genetic modifiers</kwd><kwd id="emmm201606623-kwd-0003">limb development</kwd><kwd id="emmm201606623-kwd-0004">retinoic acid</kwd><kwd id="emmm201606623-kwd-0005">skeletal dysplasia</kwd></kwd-group><kwd-group kwd-group-type="subject-categories"><title>Subject Categories</title><kwd>Development &amp; Differentiation</kwd><kwd>Genetics, Gene Therapy &amp; Genetic Disease</kwd><kwd>Musculoskeletal System</kwd></kwd-group><funding-group><award-group><funding-source>DFG (Deutsche Forschungsgemeinschaft)</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Medical Faculty of Heidelberg University</funding-source></award-group></funding-group><funding-group><award-group><funding-source>DZHK Heidelberg (German Centre for Cardiovascular Research)</funding-source></award-group></funding-group><counts><fig-count count="9"/><table-count count="0"/><page-count count="15"/><word-count count="11184"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>emmm201606623</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>December 2016</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.0.0 mode:remove_FC converted:19.12.2016</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="emmm201606623-cit-1001">
+<source>EMBO Mol Med</source> (<year>2016</year>) <volume>8</volume>: <fpage>1455</fpage>–<lpage>1469</lpage>
+<pub-id pub-id-type="pmid">27861128</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.15252/emmm.201606623</pub-id><pub-id pub-id-type="pmcid">PMC5167135</pub-id></mixed-citation>
+</p></notes></front><body><sec id="emmm201606623-sec-0001"><title>Introduction</title><p>In the last decade, many genetic variations responsible for the pathogenesis of disease have been identified. Next‐generation sequencing and high‐throughput genotyping platforms have revolutionized the pursuit of disease‐causing genetic variants. However, disease phenotypes vary—even among individuals carrying the same causative genetic variants within one family—and our understanding of the factors that modify disease severity/penetrance remains incomplete.</p><p>Human height is a complex trait with a high heritability. Short stature affects approximately 3% of children worldwide and is diagnosed when height is significantly below the average of the general population for that person's age and sex. More precisely, short stature is statistically defined as two standard deviations (SD) below the mean population height for age, sex, and ethnic group (less than the third percentile) or, when evaluating shortness in relation to family background, more than two SD below the mid‐parental height (Ranke, <xref rid="emmm201606623-bib-0052" ref-type="ref">1994</xref>). To date, many different etiologies of short stature are known and more than two hundred genes underlying growth control have been identified (Marchini <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0045" ref-type="ref">2007</xref>; Durand &amp; Rappold, <xref rid="emmm201606623-bib-0022" ref-type="ref">2013</xref>; Baron <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0007" ref-type="ref">2015</xref>).</p><p>Mutations in the short stature homeobox‐containing (<italic toggle="yes">SHOX</italic>) gene cause SHOX deficiency, the most frequent monogenic cause of short stature (Marchini <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0044" ref-type="ref">2016</xref>). The gene is localized in the pseudoautosomal region 1 (PAR1) shared between the X and Y chromosomes. Its varied clinical manifestations include idiopathic/isolated short stature (ISS), Léri‐Weill dyschondrosteosis (LWD), and Langer mesomelic dysplasia (LD). Heterozygous mutations in its coding or regulatory regions have been identified in up to 10% of patients diagnosed with ISS and 70% of patients with LWD, while homozygous mutations cause LD (Zinn <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0074" ref-type="ref">2002</xref>; Rosilio <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0055" ref-type="ref">2012</xref>; Marchini <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0044" ref-type="ref">2016</xref>). SHOX deficiency also contributes to the short stature and skeletal features in Turner syndrome (Rao <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0053" ref-type="ref">1997</xref>; Clement‐Jones <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0016" ref-type="ref">2000</xref>). Thus, SHOX deficiency is associated with a broad phenotypic spectrum ranging from short stature without dysmorphic signs to profound dysplasia (Rao <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0053" ref-type="ref">1997</xref>; Belin <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0010" ref-type="ref">1998</xref>; Shears <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0063" ref-type="ref">1998</xref>). Patients with SHOX deficiency often present mesomelic (disproportionate) short stature, a selective shortening of the lower arms/legs. The phenotype may also include Madelung deformity (MD) of the wrist, considered to be the archetypal sign of LWD, which is characterized by shortening and bowing of the radius together with distal hypoplasia of the ulna. Skeletal manifestations are usually more severe in females than in males (Binder, <xref rid="emmm201606623-bib-0012" ref-type="ref">2011</xref>).</p><p>The clinical severity of SHOX deficiency varies even in family members carrying the same <italic toggle="yes">SHOX</italic> mutation (Schiller <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0059" ref-type="ref">2000</xref>; Binder, <xref rid="emmm201606623-bib-0012" ref-type="ref">2011</xref>). In rare cases, family members with identical mutation present with stature within the normal range (Huber <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0035" ref-type="ref">2006</xref>; Benito‐Sanz <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0011" ref-type="ref">2012</xref>; Bunyan <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0014" ref-type="ref">2013</xref>). We postulated that SHOX deficiency provides a genetically sensitized background on which genetic modifiers may promote disease progression. To shed light on this phenomenon, we have analyzed a family with five affected individuals displaying LWD. All affected individuals carried a damaging missense mutation in the <italic toggle="yes">SHOX</italic> gene. Three family members with the same mutation were phenotypically unaffected. To explain this clinical variability, we hypothesized the presence of modifier gene(s). Using whole‐genome linkage analysis and whole‐exome sequencing, we identified a <italic toggle="yes">CYP26C1</italic> variant to segregate solely in the affected individuals and carried out subsequent genetic and functional assays to provide evidence for a modifying role of this gene.</p></sec><sec id="emmm201606623-sec-0002"><title>Results</title><sec id="emmm201606623-sec-0003"><title>SHOX deficiency and clinical variability</title><p>We have analyzed a three‐generation German family with five affected individuals displaying LWD (family 1). According to the pattern of transmission of the trait, a dominant inheritance was hypothesized (Fig <xref rid="emmm201606623-fig-0001" ref-type="fig">1</xref>A). All female patients (I:2, I:3, II:7, and III:2, Fig <xref rid="emmm201606623-fig-0001" ref-type="fig">1</xref>A) presented with mesomelic short stature with a SD between −3.14 and −4.51 as well as MD, the archetypal sign of LWD. The father (II:3) of the index patient (III:2) presented with mesomelic short stature with an SD of −2.63 and a borderline MD, consistent with the fact that males are less severely affected than females (<xref rid="emmm201606623-sup-0003" ref-type="supplementary-material">Table EV1</xref>). The mother (II:4), an aunt (II:8), and the stepsister (III:1) of the index patient (III:2) also presented with short stature, but mesomelia and MD were not diagnosed (<xref rid="emmm201606623-sup-0003" ref-type="supplementary-material">Table EV1</xref>). Sanger sequencing identified a heterozygous variant, c.482T&gt;C (p.Val161Ala), in the <italic toggle="yes">SHOX</italic> gene (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="NG_009385">NG_009385</ext-link>) in all individuals affected with LWD. p.Val161 resides within the DNA binding domain (Fig <xref rid="emmm201606623-fig-0002" ref-type="fig">2</xref>A) and is highly conserved among <italic toggle="yes">SHOX</italic> vertebrate homologues. To determine the functional relevance of this variant, a luciferase assay in U2OS cells was carried out using the promoter of the <italic toggle="yes">fibroblast growth factor receptor 3</italic> (<italic toggle="yes">FGFR3</italic>) gene, which is a known SHOX target (Decker <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0021" ref-type="ref">2011</xref>). We showed a strong influence of the variant on SHOX transcriptional activity (Fig <xref rid="emmm201606623-fig-0002" ref-type="fig">2</xref>A). However, three non‐affected family members also carried the <italic toggle="yes">SHOX</italic> variant p.Val161Ala (III:4, III:5, and III:6, Fig <xref rid="emmm201606623-fig-0001" ref-type="fig">1</xref>A). Using multiplex ligation‐dependent probe amplification (MLPA), other major genetic lesions in PAR1, including the previously identified enhancer elements in the vicinity of the <italic toggle="yes">SHOX</italic> locus, were excluded in all individuals.</p><fig fig-type="Figure" xml:lang="en" id="emmm201606623-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><title>Damaging variants in <italic toggle="yes"><styled-content style="fixed-case">SHOX</styled-content></italic> and <italic toggle="yes"><styled-content style="fixed-case">CYP</styled-content>26C1</italic> in patients with <styled-content style="fixed-case">LWD</styled-content>
+</title><p>
+<list list-type="alpha-upper" id="emmm201606623-list-0002"><list-item><p>Pedigree of family 1. Individuals II:3 and III:2 were analyzed by whole‐exome sequencing. Damaging variants in <italic toggle="yes">SHOX</italic> and <italic toggle="yes">CYP26C1</italic> co‐segregate with LWD.</p></list-item><list-item><p>Pedigrees of families 2 and 3.</p></list-item></list>Data information: filled symbol, LWD‐affected individual; symbol with a slash, deceased individual; slash, divorced; red text, <italic toggle="yes">SHOX</italic> locus; green text, <italic toggle="yes">CYP26C1</italic> locus; +, wild‐type allele; N.A., DNA not available; arrow, index patient.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-5" position="float" orientation="portrait" xlink:href="EMMM-8-1455-g002.jpg"/></fig><fig fig-type="Figure" xml:lang="en" id="emmm201606623-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><title>Scheme of <styled-content style="fixed-case">SHOX</styled-content> and <styled-content style="fixed-case">CYP</styled-content>26C1 proteins and luciferase assays</title><p>
+<list list-type="alpha-upper" id="emmm201606623-list-0003"><list-item><p>SHOX protein representation and luciferase assay. The variants found in SHOX are indicated in red. Luciferase assays to test the impact of SHOX mutations on its transcriptional activity were performed on the <italic toggle="yes">FGFR3</italic> promoter in U2OS cells (<italic toggle="yes">n</italic> = 4). Experiments were performed in triplicates. pcDNA4‐TO empty vector was used as control. R153L represents a mutation known to affect SHOX protein activity and was used as a positive control (Schneider <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0061" ref-type="ref">2005</xref>). Homeodomain, DNA binding domain; SH3, Src homology 3 domain; OAR, OtpAristalessRax domain; RLU, relative light units.</p></list-item><list-item><p>CYP26C1 protein representation and luciferase assay. Variants found in CYP26C1 are indicated in green. Cignal RARE system luciferase assays to test the impact of CYP26C1 variants on its RA degradation activity were performed in U2OS cells treated with 250 nM all‐<italic toggle="yes">trans</italic> retinoic acid (ATRA) for 24 h (<italic toggle="yes">n</italic> = 4). Experiments were performed in triplicates. pIRES2‐EGFP empty vector was used as control. The residue C459 represents the iron binding residue (Q6VOL0, UniProtKB) and was mutated to Ala and used as a positive control. TM, transmembrane helix; P450, cytochrome p450 domain. RLU, relative light units.</p></list-item></list>Data information: The box represents the interquartile range. The whiskers represent Min to Max. *<italic toggle="yes">P</italic>‐value =<italic toggle="yes"> </italic>0.0286, two‐tailed Mann–Whitney non‐parametric <italic toggle="yes">t</italic>‐test.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-7" position="float" orientation="portrait" xlink:href="EMMM-8-1455-g004.jpg"/></fig></sec><sec id="emmm201606623-sec-0004"><title>Identification of <italic toggle="yes">CYP26C1</italic> as genetic modifier</title><p>To address putative genetic causes of this intra‐familiar clinical variability, whole‐genome linkage analysis was performed. This analysis defined a 2.02 Mb interval in the PAR1 of chromosome X (chrX:706800‐2735491; hg19) with a total LOD score of 1.7 (Figs <xref rid="emmm201606623-fig-0001ev" ref-type="fig">EV1</xref> and <xref rid="emmm201606623-fig-0002ev" ref-type="fig">EV2</xref>). Moreover, a LOD score of 2.4 was obtained in a 19.2 Mb region of chromosome 10 (chr10:85477515–104681710; hg19) (Fig <xref rid="emmm201606623-fig-0003ev" ref-type="fig">EV3</xref>). This region encompasses 263 genes, but could not be further refined. Subsequently, whole‐exome sequencing analysis was performed on the index patient (III:2) and her father (II:3). Variant filtering was performed according to the hypothesized dominant transmission of the phenotype (see <xref rid="emmm201606623-sec-0009" ref-type="sec">Materials and Methods</xref>); 98 variants in 97 genes were obtained (<xref rid="emmm201606623-sup-0004" ref-type="supplementary-material">Dataset EV1</xref>). All variants were tested using the <italic toggle="yes">in silico</italic> mutation prediction tools PolyPhen‐2, Mutation Taster, SIFT, and PROVEAN, and 36 variants were predicted as disease causing/damaging by at least one of these programs.</p><fig fig-type="Figure" xml:lang="en" specific-use="collapsible" id="emmm201606623-fig-0001ev" orientation="portrait" position="float"><label>Figure EV1</label><caption><title>Schematic representation of genome‐wide LOD score calculations</title><p>LOD scores calculated with ALLEGRO are given along the <italic toggle="yes">y</italic>‐axis relative to genomic position cM (centiMorgan) on the <italic toggle="yes">x</italic>‐axis. Note the highest peak (LOD score 2.4) in the region on chromosome 10 and a second lower peak in the XY PAR1 (LOD score 1.7).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-9" position="float" orientation="portrait" xlink:href="EMMM-8-1455-g003.jpg"/></fig><fig fig-type="Figure" xml:lang="en" specific-use="collapsible" id="emmm201606623-fig-0002ev" orientation="portrait" position="float"><label>Figure EV2</label><caption><title>Haplotype reconstruction for the PAR1 region</title><p>Pedigree of the family with associated SNPs in the pseudoautosomal region 1 (PAR1) of chromosome X is represented. A total LOD score of 1.7 was identified between the flanking markers rs3995646 and rs5939344 and covered a 2.02 Mb sequence (chrX:706800‐2735491; hg19). Filled symbol, LWD‐affected individual; symbol with a slash, deceased individual; slash, divorced; arrow, index patient. Colored chromosomal regions show traceable inheritance: red color regions, common haplotype co‐segregating with LWD; black lines, regions affected by a crossing over of unknown location.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-11" position="float" orientation="portrait" xlink:href="EMMM-8-1455-g005.jpg"/></fig><fig fig-type="Figure" xml:lang="en" specific-use="collapsible" id="emmm201606623-fig-0003ev" orientation="portrait" position="float"><label>Figure EV3</label><caption><title>Haplotype reconstruction for chromosome 10</title><p>Pedigree of the family with associated SNPs co‐segregating with the disease phenotype on chromosome 10 is represented. A total LOD score of 2.4 was identified between the flanking markers rs10509480 and rs10509758 and covered a 19.2 Mb region (chr10:85477515‐104681710; hg19). Filled symbol, LWD‐affected individual; symbol with a slash, deceased individual; slash, divorced; arrow, index patient. Colored chromosomal regions show traceable inheritance; red color regions, common haplotype co‐segregating with LWD; black lines, regions affected by a crossing over of unknown location.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-13" position="float" orientation="portrait" xlink:href="EMMM-8-1455-g007.jpg"/></fig><p>Sanger sequencing of the 36 identified variants was performed in the five affected and in the eight non‐affected family members where DNA was available. Only variants in two genes, <italic toggle="yes">OPN4</italic> (chr10:88419701‐88419701; hg19) and <italic toggle="yes">CYP26C1</italic> (chr10:94828408‐94828408; hg19), segregated with the phenotype. Both genes reside within the chromosome 10 interval, which was previously defined by linkage analysis. OPN4 (melanopsin) is a known photopigment of photosensitive retinal ganglion cells and was not considered further (Panda <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0050" ref-type="ref">2002</xref>). <italic toggle="yes">CYP26C1</italic> (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="NG_007958.1">NG_007958.1</ext-link>) encodes for a member of the cytochrome P450 superfamily of enzymes involved in the catabolism of retinoic acid (RA) (Taimi <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0066" ref-type="ref">2004</xref>; Uehara <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0069" ref-type="ref">2006</xref>; Pennimpede <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0051" ref-type="ref">2010</xref>). Loss‐of‐function analyses in mouse and zebrafish have shown that CYP26C1 RA catabolic activity is required for proper hindbrain development (Sirbu <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0064" ref-type="ref">2005</xref>; Uehara <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0069" ref-type="ref">2006</xref>; Hernandez <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0034" ref-type="ref">2007</xref>). RA has been previously shown to play a key role in limb development (Cunningham &amp; Duester, <xref rid="emmm201606623-bib-0019" ref-type="ref">2015</xref>) and <italic toggle="yes">CYP26B1</italic>, another member of the CYP26 family, is known to be involved in skeleton development (Laue <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0038" ref-type="ref">2011</xref>). Moreover, RA has been previously shown to inhibit <italic toggle="yes">Shox</italic> expression in chicken limbs (Tiecke <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0068" ref-type="ref">2006</xref>). Therefore, we decided to further investigate <italic toggle="yes">CYP26C1</italic> as a candidate modifier in <italic toggle="yes">SHOX</italic> deficient LWD patients.</p></sec><sec id="emmm201606623-sec-0005"><title>
+<italic toggle="yes">SHOX</italic> and <italic toggle="yes">CYP26C1</italic> are members of the RA pathway</title><p>The heterozygous missense variant c.1523T&gt;G (p.Phe508Cys) in <italic toggle="yes">CYP26C1</italic> affected a highly conserved amino acid among vertebrates. p.Phe508Cys was predicted as damaging by all prediction tools that were applied (<xref rid="emmm201606623-sup-0005" ref-type="supplementary-material">Dataset EV2</xref>). The variant has not yet been described in the three major public variants databases, Exome Aggregation Consortium (ExAC), Exome Variant Server (EVS), and 1000 Genomes Project (TGP). To assess whether this mutation affects the enzymatic activity of CYP26C1, we used the Cignal RARE system, a RA‐responsive luciferase reporter assay, in U2OS cells treated with all‐<italic toggle="yes">trans</italic> retinoic acid (ATRA) (Laue <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0038" ref-type="ref">2011</xref>). Overexpression of wild‐type CYP26C1 reduced the luciferase activity, confirming that it degrades ATRA. In contrast, the CYP26C1 p.Phe508Cys mutant was not able to reduce luciferase activity, suggesting that this mutation impairs CYP26C1 enzymatic activity and consequently RA degradation (Fig <xref rid="emmm201606623-fig-0002" ref-type="fig">2</xref>B).</p><p>Next, we tested <italic toggle="yes">CYP26C1</italic> expression in human primary chondrocytes, where <italic toggle="yes">SHOX</italic> is expressed. By performing RT–PCR and Western blot analysis, we could show that <italic toggle="yes">CYP26C1</italic> is expressed in these cells (Fig <xref rid="emmm201606623-fig-0003" ref-type="fig">3</xref>A). We then asked whether RA affected <italic toggle="yes">SHOX</italic> expression in human primary chondrocytes (<xref rid="emmm201606623-sup-0001" ref-type="supplementary-material">Appendix Fig S1</xref>). Treatment of primary chondrocytes with 100 nM ATRA led to a significant reduction of <italic toggle="yes">SHOX</italic> levels (Fig <xref rid="emmm201606623-fig-0003" ref-type="fig">3</xref>B). RA exerts its function by regulating the transcriptional activity of nuclear retinoic acid receptors (RARs) that bind as heterodimers with retinoic X receptors (RXRs) to RA response elements. Binding of RA to these receptors triggers activation or repression of their target genes (Weston <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0073" ref-type="ref">2003</xref>). To verify whether RA directly or indirectly regulates <italic toggle="yes">SHOX</italic> expression, we tested a previously described <italic toggle="yes">SHOX</italic> promoter luciferase reporter assay in U2OS cells (Verdin <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0072" ref-type="ref">2015</xref>). Treatment with ATRA led to a significant reduction of luciferase activity compared to mock control (Fig <xref rid="emmm201606623-fig-0003" ref-type="fig">3</xref>C). <italic toggle="yes">In silico</italic> analysis of the <italic toggle="yes">SHOX</italic> promoter predicted three putative RXRa binding sites (Fig <xref rid="emmm201606623-fig-0003" ref-type="fig">3</xref>C). However, disruption of these binding sites did not significantly influence the ATRA effect on the <italic toggle="yes">SHOX</italic> promoter, indicating an indirect effect of RA on <italic toggle="yes">SHOX</italic> expression (Fig <xref rid="emmm201606623-fig-0003" ref-type="fig">3</xref>C). Altogether, these results provide evidence that <italic toggle="yes">CYP26C1</italic> and <italic toggle="yes">SHOX</italic> are members of the same pathway: <italic toggle="yes">CYP26C1</italic> regulates <italic toggle="yes">SHOX</italic> expression by regulating intracellular levels of RA (Fig <xref rid="emmm201606623-fig-0003" ref-type="fig">3</xref>D).</p><fig fig-type="Figure" xml:lang="en" id="emmm201606623-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><title>
+<italic toggle="yes"><styled-content style="fixed-case">CYP</styled-content>26C1</italic> is expressed in human primary chondrocytes and retinoic acid affects <italic toggle="yes"><styled-content style="fixed-case">SHOX</styled-content></italic> expression</title><p>
+<list list-type="alpha-upper" id="emmm201606623-list-0004"><list-item><p>Left panel, RT–PCR showing the expression of <italic toggle="yes">CYP26C1</italic> mRNA in human primary chondrocytes. <italic toggle="yes">SOX9</italic> was used as chondrocyte marker. Right panel, Western blot showing the expression of CYP26C1 in human primary chondrocytes on protein level. Overexpression of CYP26C1 in U2OS cells was carried out to compare protein sizes. +, cDNA; −, water; M, marker; HPC, human primary chondrocytes.</p></list-item><list-item><p>Relative expression of <italic toggle="yes">SHOX</italic> mRNA normalized to the reference genes <italic toggle="yes">SDHA</italic> and <italic toggle="yes">HPRT</italic> in human primary chondrocytes treated with ATRA 100 nM for 6 h (<italic toggle="yes">n</italic> = 5). One outlier with high relative expression (2.3‐fold) was excluded from ATRA 100 nM treatment (two‐sided Grubbs' test, <italic toggle="yes">Z</italic>‐value 2.34, <italic toggle="yes">P</italic>‐value &lt; 0.05).</p></list-item><list-item><p>
+<italic toggle="yes">SHOX</italic> promoter was cloned in pGL3basic for luciferase reporter experiments as previously described (Verdin <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0072" ref-type="ref">2015</xref>). <italic toggle="yes">In silico</italic> analysis of <italic toggle="yes">SHOX</italic> promoter identified three putative RXRa binding sites which were mutated to test their direct effect on <italic toggle="yes">SHOX</italic> expression upon treatment with ATRA 250 nM in U2OS cells (<italic toggle="yes">n</italic> = 4). Experiments were performed in triplicates. RLU, relative light units.</p></list-item><list-item><p>
+<italic toggle="yes">CYP26C1</italic> and <italic toggle="yes">SHOX</italic> are members of the retinoic acid pathway. Vitamin A, retinol (ROL), enters the cell and is oxidized to retinaldehyde (RAL). RAL is then oxidized to retinoic acid (RA). RA can enter the nucleus and regulate the expression of its targets. CYP26C1 controls RA intracellular levels by oxidizing this molecule in more hydrosoluble retinoid molecules like 4′‐hydroxy‐retinoic acid (4′‐OH‐RA), which can be readily excreted. High levels of RA downregulate <italic toggle="yes">SHOX</italic> expression.</p></list-item></list>Data information: The box represents the interquartile range. The whiskers represent Min to Max. (B) **<italic toggle="yes">P</italic> =<italic toggle="yes"> </italic>0.0079, (C) *<italic toggle="yes">P</italic>‐value =<italic toggle="yes"> </italic>0.0286, n.s., not significant, (B, C) two‐tailed Mann–Whitney non‐parametric <italic toggle="yes">t</italic>‐test.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-15" position="float" orientation="portrait" xlink:href="EMMM-8-1455-g006.jpg"/></fig></sec><sec id="emmm201606623-sec-0006"><title>Additional genetic evidence in SHOX deficiency patients presenting with LWD</title><p>We then investigated whether the co‐occurrence of damaging <italic toggle="yes">SHOX</italic> and <italic toggle="yes">CYP26C1</italic> variants in the severe phenotypes represents a unique finding specific to family 1. We screened <italic toggle="yes">CYP26C1</italic> in a cohort of 68 LWD individuals with proven SHOX deficiency and in a cohort of 350 control individuals with normal height. This analysis identified two further cases with co‐occurrence of damaging variants in <italic toggle="yes">SHOX</italic> and <italic toggle="yes">CYP26C1</italic> in the patient cohort (Fig <xref rid="emmm201606623-fig-0001" ref-type="fig">1</xref>B and <xref rid="emmm201606623-sup-0005" ref-type="supplementary-material">Dataset EV2</xref>). No functional <italic toggle="yes">CYP26C1</italic> damaging variants were found in the control individuals with normal height (<xref rid="emmm201606623-sup-0006" ref-type="supplementary-material">Dataset EV3</xref>; <xref rid="emmm201606623-sup-0001" ref-type="supplementary-material">Appendix Fig S2</xref>).</p><p>In family 2, the affected daughter (II:2) carried a heterozygous missense variant in <italic toggle="yes">SHOX</italic>, c.349C&gt;G (p.Leu132Val). This variant has been shown to affect SHOX homodimerization and DNA binding (Schneider <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0061" ref-type="ref">2005</xref>). The father (I:1) and the sister (II:1) also carried this <italic toggle="yes">SHOX</italic> variant, but they were reported to be unaffected without dysmorphic signs. Screening of <italic toggle="yes">CYP26C1</italic> identified a heterozygous missense variant c.1133G&gt;A (p.Arg378His) only in the daughter with LWD (II:2) (Fig <xref rid="emmm201606623-fig-0001" ref-type="fig">1</xref>B, <xref rid="emmm201606623-sup-0003" ref-type="supplementary-material">Table EV1</xref>). DNA from the mother (I:2) was not available for the <italic toggle="yes">CYP26C1</italic> gene analysis. The third case was an affected girl who carried a <italic toggle="yes">de novo</italic> heterozygous deletion of <italic toggle="yes">SHOX</italic> and a missense variant in <italic toggle="yes">CYP26C1</italic>, c.356A&gt;C (p.Gln119Pro) (<xref rid="emmm201606623-sup-0003" ref-type="supplementary-material">Table EV1</xref>). Both parents and the brother presented with normal stature and had no dysmorphic signs. The <italic toggle="yes">CYP26C1</italic> variant was inherited from the father. Since the <italic toggle="yes">SHOX</italic> deletion is <italic toggle="yes">de novo</italic>, this family cannot demonstrate co‐segregation, although it adds to the overall evidence that damaging variants in <italic toggle="yes">SHOX</italic> and <italic toggle="yes">CYP26C1</italic> co‐occur in individuals with severe LWD phenotypes.</p><p>We then performed luciferase analysis of all the <italic toggle="yes">SHOX</italic> and <italic toggle="yes">CYP26C1</italic> mutations and could demonstrate their negative impact on protein activity (Fig <xref rid="emmm201606623-fig-0002" ref-type="fig">2</xref>B). We conclude that in addition to family 1, two out of 68 LWD patients with SHOX deficiency presented with functional damaging mutations in <italic toggle="yes">CYP26C1</italic>, while no damaging mutations with impact on protein activity were identified in 350 control individuals with normal height. In all families where clinical information was available, all individuals with damaging mutations in both <italic toggle="yes">SHOX</italic> and <italic toggle="yes">CYP26C1</italic> presented with short stature and severe skeletal phenotypes.</p></sec><sec id="emmm201606623-sec-0007"><title>Modeling SHOX deficiency in zebrafish embryos</title><p>Finally, to gain insight into the role of <italic toggle="yes">SHOX</italic> and <italic toggle="yes">CYP26C1</italic> interaction on limb development, we performed antisense morpholino (MO) knockdown experiments in zebrafish embryos. Testing of each MO proofed efficacy (<xref rid="emmm201606623-sup-0001" ref-type="supplementary-material">Appendix Figs S4–S6</xref>). We first assessed the effect of <italic toggle="yes">shox</italic> reduction on limb/fin development. Upon <italic toggle="yes">shox</italic> knockdown, the zebrafish embryos showed an overall delayed growth and a strong impairment of the developing pectoral fins, in concordance with a previous report (Sawada <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0058" ref-type="ref">2015</xref>; Fig <xref rid="emmm201606623-fig-0004" ref-type="fig">4</xref>). Using whole‐mount <italic toggle="yes">in situ</italic> hybridization, we showed that <italic toggle="yes">col2a1</italic> expression, an established marker of chondrocytes, was dramatically reduced in the pectoral fin buds upon <italic toggle="yes">shox</italic> reduction (Fig <xref rid="emmm201606623-fig-0004" ref-type="fig">4</xref>C). Overexpression experiments in zebrafish embryos of human <italic toggle="yes">SHOX</italic> wild type and the variants identified in families 1 and 2 corroborated the functional significance of SHOX p.Val161Ala (family 1) and p.Leu132Val (family 2) (<xref rid="emmm201606623-sup-0001" ref-type="supplementary-material">Appendix Fig S7</xref>).</p><fig fig-type="Figure" xml:lang="en" id="emmm201606623-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><title>Pattern of defects in zebrafish embryos injected with anti‐<italic toggle="yes">shox</italic> morpholino</title><p>Wild‐type embryos injected with control MO or with <italic toggle="yes">shox</italic> MO.
+<list list-type="alpha-upper" id="emmm201606623-list-0005"><list-item><p>Lateral views of the embryos at 55 hours post‐fertilization (hpf).</p></list-item><list-item><p>Dorsal view and magnification on the lateral view of the embryos. Dotted line, pectoral fins. <italic toggle="yes">shox</italic> morphants show smaller fins compared to controls (<italic toggle="yes">n</italic> = 30 embryos).</p></list-item><list-item><p>Expression of <italic toggle="yes">col2a1</italic> at 55 hpf was examined by <italic toggle="yes">in situ hybridization</italic> in wild‐type embryos injected with control MO and with <italic toggle="yes">shox</italic> MO. Arrow and dotted line indicate the pectoral fin.</p></list-item><list-item><p>Pectoral fin area was measured by ImageJ (<italic toggle="yes">n</italic> = 30 embryos).</p></list-item></list>Data information: The box represents the interquartile range. The whiskers represent Min to Max. ***<italic toggle="yes">P</italic>‐value =<italic toggle="yes"> </italic>0.0001, two‐tailed unpaired Student's <italic toggle="yes">t</italic>‐test.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-17" position="float" orientation="portrait" xlink:href="EMMM-8-1455-g008.jpg"/></fig><p>We then analyzed the effect of <italic toggle="yes">cyp26c1</italic> knockdown in zebrafish embryos. Expression of <italic toggle="yes">cyp26c1</italic> in the pectoral fins has been previously demonstrated by whole‐mount <italic toggle="yes">in situ</italic> hybridization (Gu <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0029" ref-type="ref">2005</xref>). Knockdown of <italic toggle="yes">cyp26c1</italic> resulted in a significant reduction of pectoral fin size, although less strikingly compared to the <italic toggle="yes">shox</italic> knockdown (Fig <xref rid="emmm201606623-fig-0005" ref-type="fig">5</xref>B–E). The embryos also showed an abnormal development of the otic vesicles and pharyngeal arches (Fig <xref rid="emmm201606623-fig-0005" ref-type="fig">5</xref>B). As reported previously, we also found signs of cardiac dysfunction as evident by the pericardial edema (Rydeen &amp; Waxman, <xref rid="emmm201606623-bib-0057" ref-type="ref">2014</xref>) (Fig <xref rid="emmm201606623-fig-0005" ref-type="fig">5</xref>B). In the pectoral fins, we demonstrated that the expression of <italic toggle="yes">col2a1</italic> was strongly reduced or absent (Fig <xref rid="emmm201606623-fig-0005" ref-type="fig">5</xref>C). In addition, the expression of <italic toggle="yes">shox</italic> was shown to be decreased upon <italic toggle="yes">cyp26c1</italic> knockdown (Fig <xref rid="emmm201606623-fig-0005" ref-type="fig">5</xref>D and G). MO knockdown of <italic toggle="yes">cyp26c1</italic> led to a significant increase in RA levels compared to control MO, which is in line with its role in RA degradation (Fig <xref rid="emmm201606623-fig-0005" ref-type="fig">5</xref>F). We treated zebrafish embryos with RA and obtained a significant downregulation of <italic toggle="yes">shox</italic> expression, further corroborating the hypothesis of <italic toggle="yes">SHOX</italic> as a component of the RA pathway (Fig <xref rid="emmm201606623-fig-0005" ref-type="fig">5</xref>H). Finally, we tested the functional significance of the <italic toggle="yes">CYP26C1</italic> variants identified in families 1–3 in zebrafish embryos and could show a striking effect on CYP26C1 activity (<xref rid="emmm201606623-sup-0001" ref-type="supplementary-material">Appendix Fig S8</xref>). Together, these data indicate that <italic toggle="yes">CYP26C1</italic> is involved in limb development and acts by controlling RA levels.</p><fig fig-type="Figure" xml:lang="en" id="emmm201606623-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><title>Pattern of defects in zebrafish embryos injected with anti‐<italic toggle="yes">cyp26c1</italic> morpholino</title><p>Wild‐type embryos injected with control MO or with <italic toggle="yes">cyp26c1</italic> MO.
+<list list-type="simple" id="emmm201606623-list-0006"><list-item><label>A, B</label><p>(A) Lateral views of the embryos at 55 hours post‐fertilization (hpf). (B) Dorsal view and magnification on the lateral view of the embryos. Dotted line, pectoral fins; *, otic vesicle. <italic toggle="yes">cyp26c1</italic> morphants show smaller fins compared to controls (<italic toggle="yes">n</italic> = 30 embryos).</p></list-item><list-item><label>C, D</label><p>Expression of <italic toggle="yes">col2a1</italic> (C) and <italic toggle="yes">shox</italic> (D) at 55 hpf was examined by <italic toggle="yes">in situ</italic> hybridization in embryos injected with control MO or with <italic toggle="yes">cyp26c1</italic> MO. (C) Dorsal view and magnification on the pectoral fins of <italic toggle="yes">col2a1</italic> expression. Arrow and dotted line indicate the pectoral fin. (D) Dorsal view and magnification on the pectoral fins of <italic toggle="yes">shox</italic> expression. Arrow and dotted line indicate the pectoral fin.</p></list-item><list-item><label>E</label><p>Pectoral fin area was measured by ImageJ (<italic toggle="yes">n</italic> = 30 embryos).</p></list-item><list-item><label>F</label><p>Cignal‐RARE system luciferase assay to test <italic toggle="yes">cyp26c1</italic> MO knockdown effect on RA acid levels in zebrafish embryos (<italic toggle="yes">n</italic> = 5 replicates). In each replicate, 20–30 embryos per condition were assayed. RLU, relative light units.</p></list-item><list-item><label>G</label><p>Relative <italic toggle="yes">shox</italic> mRNA expression normalized to reference genes <italic toggle="yes">eef1a</italic> and <italic toggle="yes">b‐actin</italic> in zebrafish embryos injected with control MO or <italic toggle="yes">cyp26c1</italic> MO (<italic toggle="yes">n</italic> = 4). RNA was extracted from 10–15 injected embryos at 55 hpf.</p></list-item><list-item><label>H</label><p>Relative <italic toggle="yes">shox</italic> mRNA expression normalized to reference genes <italic toggle="yes">eef1a</italic> and <italic toggle="yes">b‐actin</italic> in zebrafish embryos treated with 100 nM ATRA (<italic toggle="yes">n</italic> = 4). Embryos were collected at 24 hpf and treated with mock control or ATRA. RNA was extracted from 10–15 embryos after 6‐h treatment.</p></list-item></list>Data information: The box represents the interquartile range. The whiskers represent Min to Max. (E) **<italic toggle="yes">P</italic>‐value = 0.0006, (F) *<italic toggle="yes">P</italic>‐value = 0.0119, (G) *<italic toggle="yes">P</italic>‐value = 0.0286, (H) *<italic toggle="yes">P</italic>‐value = 0.0286. (E) Two‐tailed unpaired Student's <italic toggle="yes">t</italic>‐test. (F–H) Two‐tailed Mann–Whitney non‐parametric <italic toggle="yes">t</italic>‐test.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-19" position="float" orientation="portrait" xlink:href="EMMM-8-1455-g009.jpg"/></fig><p>To test the hypothesis that <italic toggle="yes">CYP26C1</italic> is a modifier of SHOX deficiency, we tested different concentration of <italic toggle="yes">shox</italic> and <italic toggle="yes">cyp26c1</italic> MOs to determine subphenotypic dosages. While single knockdown of either <italic toggle="yes">shox</italic> or <italic toggle="yes">cyp26c1</italic> using subphenotypic MO doses did not result in any obvious phenotype, double knockdown (simultaneous injection) of <italic toggle="yes">shox</italic> and <italic toggle="yes">cyp26c1</italic> produced significantly smaller pectoral fins (Fig <xref rid="emmm201606623-fig-0006" ref-type="fig">6</xref>A–D). The relative expression of <italic toggle="yes">shox</italic> mRNA expression was also significantly reduced (Fig <xref rid="emmm201606623-fig-0006" ref-type="fig">6</xref>E). Staining for <italic toggle="yes">col2a1</italic> revealed impaired pectoral fin development (Fig <xref rid="emmm201606623-fig-0006" ref-type="fig">6</xref>B). These data further corroborate the hypothesis that <italic toggle="yes">CYP26C1</italic> damaging mutations contribute to severe phenotypes in <italic toggle="yes">SHOX</italic> deficient individuals.</p><fig fig-type="Figure" xml:lang="en" id="emmm201606623-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><title>Co‐injection of titrated subphenotypic doses of anti‐<italic toggle="yes">shox</italic> and anti‐<italic toggle="yes">cyp26c1</italic> morpholinos impairs limb development</title><p>Wild‐type embryos injected with control MO, subphenotypic doses of <italic toggle="yes">shox</italic> MO, <italic toggle="yes">cyp26c1</italic> MO, or a combination of <italic toggle="yes">shox</italic> + <italic toggle="yes">cyp26c1</italic> MOs.
+<list list-type="simple" id="emmm201606623-list-0007"><list-item><label>A</label><p>Dorsal views of the embryos at 55 hours post‐fertilization (hpf). Dotted line, pectoral fins. <italic toggle="yes">shox</italic> + <italic toggle="yes">cyp26c1</italic> double morphants show smaller fins compared to control and single MOs (<italic toggle="yes">n</italic> = 30 embryos).</p></list-item><list-item><label>B, C</label><p>Dorsal view and magnification on the pectoral fins of <italic toggle="yes">col2a1</italic> expression at 55 hpf. Arrow and dotted line indicate the pectoral fin.</p></list-item><list-item><label>D</label><p>Pectoral fin area was measured by ImageJ (<italic toggle="yes">n</italic> = 30 embryos). Data are shown as means ± SD. ***<italic toggle="yes">P </italic>=<italic toggle="yes"> </italic>0.0001 (one‐way ANOVA with Bonferroni's multiple comparison test).</p></list-item><list-item><label>E</label><p>Relative expression of <italic toggle="yes">shox</italic> mRNA normalized to reference genes <italic toggle="yes">eef1a</italic> and <italic toggle="yes">b‐actin</italic> in zebrafish embryos injected with control MO, <italic toggle="yes">shox</italic> MO, <italic toggle="yes">cyp26c1</italic> MO, or <italic toggle="yes">shox</italic> + <italic toggle="yes">cyp26c1</italic> MOs (<italic toggle="yes">n</italic> = 4). RNA was extracted from 10–15 injected embryos at 55 hpf. Data are shown as means ± SD. **<italic toggle="yes">P </italic>=<italic toggle="yes"> </italic>0.0048 (Kruskal–Wallis with Dunn's multiple comparison test). </p></list-item></list>Data information: The box represents the interquartile range. The whiskers represent Min to Max. (D) ***<italic toggle="yes">P</italic>‐value = 0.0001, (E) **<italic toggle="yes">P</italic>‐value = 0.0048. (D) One‐way ANOVA Bonferroni's multiple comparison test. (E) Klustal–Wallis Dunn's multiple comparison test.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-21" position="float" orientation="portrait" xlink:href="EMMM-8-1455-g010.jpg"/></fig></sec></sec><sec id="emmm201606623-sec-0008"><title>Discussion</title><p>Variable phenotypes can be attributed to genetic and environmental factors. Our study describes a Mendelian disorder with wide phenotypic variability, which provides a unique opportunity to identify the genetic causes of variability. Individuals with SHOX deficiency but normal stature in a three‐generation family (Family 1) prompted us to postulate genetic modifiers as the possible reasons of this variability. Three individuals with height within the normal range and neither mesomelia nor MD had inherited the same <italic toggle="yes">SHOX</italic> variant p.Val161Ala as their five affected relatives with LWD. By combining whole‐genome linkage and whole‐exome sequencing analysis in family 1, we identified <italic toggle="yes">CYP26C1</italic> as the gene co‐segregating with the clinical phenotype and hypothesized a putative modifier function on <italic toggle="yes">SHOX</italic> expression. The mother (II:4), an aunt (II:8), and the stepsister (III:1) of the index patient (III:2) presented with short stature, but dysmorphic skeletal signs were not diagnosed. These individuals did not carry damaging variants neither in <italic toggle="yes">SHOX</italic> nor in <italic toggle="yes">CYP26C1</italic>, suggesting that different factors contribute to their short stature phenotype. Mesomelia and MD were present only in those individuals carrying damaging variants in both <italic toggle="yes">SHOX</italic> and <italic toggle="yes">CYP26C1</italic>.</p><p>Defective <italic toggle="yes">CYP26C1</italic> and <italic toggle="yes">SHOX</italic> were found to lead to a more severe phenotype in two further unrelated patients with LWD (Fig <xref rid="emmm201606623-fig-0001" ref-type="fig">1</xref>B). No functionally damaging variants in <italic toggle="yes">CYP26C1</italic> were found in 350 control individuals with normal height, suggesting that this co‐occurrence is not coincidental (<italic toggle="yes">P</italic>‐value = 0.0261, two‐tailed Fisher's exact test). In addition, we browsed TGP for genotypes bearing both <italic toggle="yes">SHOX</italic> and <italic toggle="yes">CYP26C1</italic> damaging variants (predicted as damaging by at least one of the prediction tools used). A limitation of this approach is that not for all variants individual genotypes are available. We could not find any individual from the TGP database carrying damaging variants in both genes (1000 Genomes Project Consortium, <xref rid="emmm201606623-bib-0026" ref-type="ref">2015</xref>). Finally, we browsed the ExAC database and estimated the frequency of <italic toggle="yes">SHOX</italic> and <italic toggle="yes">CYP26C1</italic> damaging variants (Lek <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0040" ref-type="ref">2016</xref>). To estimate the frequencies, we summed the allele frequencies of each damaging variant (predicted as damaging by at least one of the prediction tools used) reported in the ExAC database. The estimated allele frequencies were 0.3 and 0.6% for <italic toggle="yes">SHOX</italic> and <italic toggle="yes">CYP26C1</italic>, respectively. With these estimated frequencies, the probability for an individual to bear a damaging variant in both genes is 1.8 × 10<sup>−5</sup>.</p><p>CYP26C1 is an enzyme belonging to the cytochrome P450 superfamily and is involved in the oxidation of RA to generate polar retinoid species, which are readily excreted. Thus, CYP26C1 is involved in the catabolism of RA (Taimi <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0066" ref-type="ref">2004</xref>; Uehara <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0069" ref-type="ref">2006</xref>; Pennimpede <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0051" ref-type="ref">2010</xref>). Accordingly, we found that damaging mutations in CYP26C1 reduce its RA catabolizing activity leading to a higher concentration of this retinoid in U2OS cells (Fig <xref rid="emmm201606623-fig-0002" ref-type="fig">2</xref>B).</p><p>Retinoic acid plays a key role in development, including formation of the body axis and skeleton (Pennimpede <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0051" ref-type="ref">2010</xref>; Cunningham &amp; Duester, <xref rid="emmm201606623-bib-0019" ref-type="ref">2015</xref>). During skeletal development, RA coordinates the development of central body axis, limb axis, and cranium. Moreover, it controls chondroblast differentiation and coordinates maturation and replacement of bone tissue during endochondral ossification (Weston <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0073" ref-type="ref">2003</xref>). RA also plays a role in the postnatal maintenance of bone (Green <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0027" ref-type="ref">2015</xref>). An excess or deficiency of RA dysregulates the expression of the respective target genes, which has a dramatic effect on development (Weston <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0073" ref-type="ref">2003</xref>). Excess or loss of RA has, for example, been shown to impair pectoral fin development in zebrafish and results in reduced forelimb size or complete loss of forelimb in mouse embryos (Uehara <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0069" ref-type="ref">2006</xref>; Akimenko &amp; Ekker, <xref rid="emmm201606623-bib-0004" ref-type="ref">1995</xref>; Begemann <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0009" ref-type="ref">2001</xref>; Emoto <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0024" ref-type="ref">2005</xref>; Cunningham <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0018" ref-type="ref">2013</xref>). Hence, a tight regulation of RA metabolism is essential.</p><p>We demonstrated for the first time that <italic toggle="yes">CYP26C1</italic> is expressed on RNA and protein level in human primary chondrocytes (Fig <xref rid="emmm201606623-fig-0003" ref-type="fig">3</xref>), suggesting a role for <italic toggle="yes">CYP26C1</italic> in the fine regulation of RA in these cells. Damaging mutations in CYP26C1 that affect its RA oxidation activity may therefore lead to high levels of this retinoid. In support of this hypothesis, we found that knockdown of <italic toggle="yes">cyp26c1</italic> in zebrafish embryos increased RA levels and reduced <italic toggle="yes">col2a1</italic> expression (Fig <xref rid="emmm201606623-fig-0005" ref-type="fig">5</xref>F). Previous experiments on chicken limbs have shown that treatment with excess RA strongly reduces <italic toggle="yes">Shox</italic> expression (Tiecke <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0068" ref-type="ref">2006</xref>). Consistent with a role of RA in <italic toggle="yes">SHOX</italic> regulation, we have shown that treatment of human primary chondrocytes and zebrafish embryos with 100 nM RA significantly reduced <italic toggle="yes">SHOX</italic> expression, while this was not the case at 10–50 nM RA (Fig <xref rid="emmm201606623-fig-0002" ref-type="fig">2</xref>B and <xref rid="emmm201606623-fig-0005" ref-type="fig">5</xref>H; <xref rid="emmm201606623-sup-0001" ref-type="supplementary-material">Appendix Fig S1</xref>). Luciferase reporter analyses of the human <italic toggle="yes">SHOX</italic> promoter suggest an indirect effect of RA on <italic toggle="yes">SHOX</italic> expression (Fig <xref rid="emmm201606623-fig-0003" ref-type="fig">3</xref>C). RA could lead to <italic toggle="yes">SHOX</italic> downregulation independently of RAREs, for example, by controlling the activation of other transcription factors, by non‐classical associations of receptors with other proteins, or other mechanisms (Balmer &amp; Blomhoff, <xref rid="emmm201606623-bib-0006" ref-type="ref">2002</xref>). Finally, we showed that reduction of <italic toggle="yes">cyp26c1</italic> in zebrafish embryos leads to the downregulation of <italic toggle="yes">shox</italic> expression (Fig <xref rid="emmm201606623-fig-0005" ref-type="fig">5</xref>D and G). Taken together, our results suggest that <italic toggle="yes">SHOX</italic> expression is not normally affected by endogenous RA in the nanomolar range (De Leenheer <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0020" ref-type="ref">1995</xref>; Cunningham <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0018" ref-type="ref">2013</xref>); however, loss of <italic toggle="yes">CYP26C1</italic> results in excess RA that downregulates <italic toggle="yes">SHOX</italic> expression.</p><p>Height depends mostly on the longitudinal growth of the limbs. Limbs contain long bones that are formed through endochondral ossification. This process involves the aggregation of mesenchymal progenitors that differentiate into chondrocytes, which form a cartilage template that is then replaced by bone tissue. Endochondral ossification is orchestrated by a complex network of signaling pathways and transcription factors and is highly conserved in vertebrates. <italic toggle="yes">SHOX</italic> is one of the genes involved in this network (Blaschke &amp; Rappold, <xref rid="emmm201606623-bib-0013" ref-type="ref">2001</xref>). In accordance with a role for <italic toggle="yes">SHOX</italic> in limb development, we could demonstrate that <italic toggle="yes">shox</italic> reduction impairs pectoral fin development in zebrafish embryos (Fig <xref rid="emmm201606623-fig-0004" ref-type="fig">4</xref>).</p><p>Gene dosage of the <italic toggle="yes">SHOX</italic> locus has previously been shown to determine height: SHOX deficiency causes short stature, whereas <italic toggle="yes">SHOX</italic> overdosage has been linked to tall stature in Klinefelter syndrome (Ogata <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0048" ref-type="ref">2001</xref>). SHOX has been suggested to repress growth plate fusion and skeletal maturation in the distal limbs. Unlike SHOX deficiency, which is characterized by premature epiphyseal plate fusion and relatively advanced skeletal maturation, <italic toggle="yes">SHOX</italic> overdosage leads to a delayed growth plate fusion and consequently to longer limbs (Ogata <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0048" ref-type="ref">2001</xref>). Thus, different dosages of the SHOX protein play a role in determining the adult height of an individual.</p><p>We have found that damaging mutations in <italic toggle="yes">CYP26C1</italic> increase RA levels, which affect <italic toggle="yes">SHOX</italic> dosage and exacerbate SHOX deficiency phenotypes. To corroborate this hypothesis, we have demonstrated that the co‐injection of subphenotypic dosages of <italic toggle="yes">shox</italic> and <italic toggle="yes">cyp26c1</italic> MOs strongly impaired pectoral fins (Fig <xref rid="emmm201606623-fig-0006" ref-type="fig">6</xref>). However, it is possible that damaging mutations in <italic toggle="yes">CYP26C1</italic> modify SHOX deficiency not only by directly affecting its expression, but also by misregulating other genes involved in the formation of long bones.</p><p>Homozygous/compound heterozygous mutations in <italic toggle="yes">CYP26C1</italic> have previously been associated with focal facial dermal dysplasia type IV (Slavotinek <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0065" ref-type="ref">2013</xref>), a mild disorder of the skin. However, different <italic toggle="yes">CYP26C1</italic> variants were reported and information on height in these individuals was not available. MO knockdown experiments of <italic toggle="yes">cyp26c1</italic> in zebrafish embryos revealed abnormal pectoral fin development, but also an impairment of the otic vesicle and pharyngeal arches, structures that encompass the sites of the skin lesions observed in focal facial dermal dysplasia type IV (Slavotinek <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0065" ref-type="ref">2013</xref>) (Fig <xref rid="emmm201606623-fig-0005" ref-type="fig">5</xref>B).</p><p>In 1963, Grüneberg (<xref rid="emmm201606623-bib-0028" ref-type="ref">1963</xref>) defined modifiers as “genes capable of modifying the manifestation of a mutant gene without having an obvious effect on the normal condition”. It would therefore be interesting to find out whether damaging <italic toggle="yes">CYP26C1</italic> variants have detectable phenotypes in the absence of SHOX deficiency. In family 3, the father (II:1), for example, carries a <italic toggle="yes">CYP26C1</italic> damaging variant but presented height within the normal range and no obvious dysmorphic signs. A systematic analysis on a large cohort of patients with or without dysmorphic signs and short stature is therefore needed to resolve whether <italic toggle="yes">CYP26C1</italic> variants alone can contribute to short stature phenotypes.</p><p>Taken together, this study represents an effort to elucidate the genetic causes of variability on the clinical manifestation in patients with SHOX deficiency. The RA pathway and one of its components, <italic toggle="yes">CYP26C1</italic>, were uncovered as biological triggers that we suggest to modify the severity of SHOX deficiency and alter the course of this disease. Only a few genetic modifiers have been reported in the literature so far (Oprea <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0049" ref-type="ref">2008</xref>; Ebermann <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0023" ref-type="ref">2010</xref>; Bečanović <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0008" ref-type="ref">2015</xref>; Corvol <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0017" ref-type="ref">2015</xref>; Guo <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0031" ref-type="ref">2015</xref>; Lee <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0039" ref-type="ref">2015</xref>), but recent technological advances are helping to broaden the understanding of the molecular basis of quantitative or discrete qualitative differences in phenotype. A primary reason to identify disease modifiers is to enable the accurate prediction of disease progression and improve therapeutic development. In the case of SHOX deficiency, manipulating the RA signaling pathway may be therapeutically beneficial.</p></sec><sec id="emmm201606623-sec-0009"><title>Materials and Methods</title><sec id="emmm201606623-sec-0010"><title>Patients and controls</title><sec id="emmm201606623-sec-0011"><title>Family 1</title><p>Family 1 comprised 17 German individuals with five affected members diagnosed with LWD. DNA was available from 14 individuals (I:1, I:2, I:3, II:3, II:4, II:6, II:7, II:8, III:1, III:2, III:3, III:4, III:5, III:6). Four females (I:2, I:3, II:7, III:2) presented with mesomelia and MD. In the affected male (II:3), mesomelia and MD were borderline. Individuals (II:4, II:8, III:1) presented with short stature but no dysmorphic signs. The index patient (III:2) was diagnosed with LWD at the age of 8 years and treated with growth hormone from the age of 8.9 years onwards. Age of menarche was of 12 years. Further details on the clinical data are given in <xref rid="emmm201606623-sup-0003" ref-type="supplementary-material">Table EV1</xref>.</p></sec><sec id="emmm201606623-sec-0012"><title>Cohort of patients with SHOX deficiency</title><p>The sample comprised 68 unrelated cases with LWD and proven SHOX deficiency; it comprised 60 Europeans (28 Germans) and 9 Japanese. Two out of the 68 cases carried damaging mutations in <italic toggle="yes">CYP26C1</italic> and all the available family information was retrieved (see below).</p><p>Family 2 comprised four French people with one daughter affected with LWD; parents and sister were unaffected without dysmorphic signs. The affected daughter (II:2) presented with short stature, mesomelia, and MD (available clinical data are given in <xref rid="emmm201606623-sup-0003" ref-type="supplementary-material">Table EV1</xref>).</p><p>Family 3 comprised four Japanese individuals with one daughter presenting with LWD. Parents and brother were reported with normal stature and no dysmorphic signs (available clinical data are given in <xref rid="emmm201606623-sup-0003" ref-type="supplementary-material">Table EV1</xref>).</p></sec><sec id="emmm201606623-sec-0013"><title>Controls</title><p>As controls, we screened 350 (240 Germans, 110 Japanese) individuals with normal stature and no dysmorphic signs. We also compared frequencies to publicly available databases (ExAC, TGP, and EVS).</p></sec></sec><sec id="emmm201606623-sec-0014"><title>Linkage analysis</title><p>We genotyped DNA samples from 12 family members of family 1 using the Affymetrix GeneChip Human Mapping 50K Xba 240 Array (Affymetrix). Genotypes were called by the GeneChip<sup>®</sup> DNA Analysis Software (GDAS v3.0, Affymetrix). We verified sample genders by counting heterozygous SNPs on the X chromosome. Relationship errors were evaluated with the help of the program Graphical Relationship Representation (Abecasis <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0001" ref-type="ref">2001</xref>). The program PedCheck was applied to detect Mendelian errors (O'Connell &amp; Weeks, <xref rid="emmm201606623-bib-0047" ref-type="ref">1998</xref>) and data for SNPs with such errors were removed from the dataset. Non‐Mendelian errors were identified by using the program MERLIN (Abecasis <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0002" ref-type="ref">2002</xref>) and unlikely genotypes for related samples were deleted. Non‐parametric linkage analysis using all genotypes of a chromosome simultaneously was carried out with MERLIN.</p><p>Parametric linkage analysis was performed by the program ALLEGRO (Gudbjartsson <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0030" ref-type="ref">2000</xref>), assuming dominant inheritance with complete penetrance and a disease allele frequency of 0.0001. Haplotypes were reconstructed with ALLEGRO and presented graphically with HaploPainter (Thiele &amp; Nürnberg, <xref rid="emmm201606623-bib-0067" ref-type="ref">2005</xref>). All data handling was performed using the graphical user interface ALOHOMORA (Rüschendorf &amp; Nürnberg, <xref rid="emmm201606623-bib-0056" ref-type="ref">2005</xref>). Using ALLEGRO, we identified one genomic region of 19.2 Mb on chromosome 10 (chr10:85477508‐101462931; hg19) with LOD score of 2.4 (Figs <xref rid="emmm201606623-fig-0001ev" ref-type="fig">EV1</xref> and <xref rid="emmm201606623-fig-0003ev" ref-type="fig">EV3</xref>). The LOD score obtained was the maximum LOD score expected in this family. A second peak with LOD score of 1.7 localized in a 2.02 Mb region of PAR1 (chrX:706800‐2735491; hg19) (Fig <xref rid="emmm201606623-fig-0002ev" ref-type="fig">EV2</xref>). The reason for the reduced LOD score in PAR1 is individuals III:4 and III:6 who carry the disease haplotype although they are unaffected (Fig <xref rid="emmm201606623-fig-0002ev" ref-type="fig">EV2</xref>).</p></sec><sec id="emmm201606623-sec-0015"><title>Whole‐exome sequencing</title><p>Whole‐exome sequencing was performed as previously described (Haack <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0032" ref-type="ref">2012</xref>). Exomes were enriched in solution provided by the manufacturer and indexed with SureSelect, XT Human All Exon 50 Mb kits (Agilent). Samples were sequenced as 100‐bp paired‐end runs on a HiSeq2000 system (Illumina). Read alignment to the human genome assembly was performed with the Burrows‐Wheeler Aligner (v.0.5.8.). SAMtools (v.0.1.7.) was used for detecting single nucleotide variants and small insertions and deletions. We generated 8.8 and 11.2 gigabases of sequence resulting in 89 and 93% of the target regions being covered at least 20 times for index patient (III:2) and her father (II:3), respectively. To identify putative candidate genes based on dominant inheritance, we filtered all variants that were present in both individuals, but absent in all except two of 1,297 in‐house control exomes.</p></sec><sec id="emmm201606623-sec-0016"><title>Sanger sequencing</title><p>Sanger sequencing was performed on MegaBACE sequencer using the DYEnamic™ ET Terminator Cycle Sequencing Kit (GE Healthcare Life Sciences) following the manufacturer's protocol. Sequences were analyzed using the MegaBACE Sequence Analyzer (v3.0).</p></sec><sec id="emmm201606623-sec-0017"><title>Analysis in human primary chondrocytes</title><p>Human primary chondrocytes (mycoplasma‐free) were obtained as previously described (Marchini <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0043" ref-type="ref">2004</xref>). Cells were cultured in DMEM (Gibco) containing 10% FBS (Gibco) and penicillin/streptomycin (Gibco) at 37°C, 5% CO<sub>2</sub>, 95% humidity. To test <italic toggle="yes">CYP26C1</italic> mRNA expression, cells were resuspended in Trizol<sup>®</sup> (Invitrogen) for RNA preparation according to standard protocols. cDNA synthesis was performed with SuperScript™ II (Invitrogen) according to manufacturer's protocol. Specific primers for <italic toggle="yes">CYP26C1</italic>,<italic toggle="yes"> SOX9,</italic> and <italic toggle="yes">SHOX</italic> transcripts were designed (<xref rid="emmm201606623-sup-0007" ref-type="supplementary-material">Dataset EV4</xref>) and PCR performed. PCR products were confirmed by Sanger sequencing.</p><p>To test CYP26C1 protein expression, microsomal preparations were obtained as follows: Cells were washed three times with 2 ml cold solution containing 8 mM Na<sub>2</sub>HPO<sub>4</sub>, 1.5 mM KH<sub>2</sub>PO<sub>4</sub>, and 2.7 mM KCl and subsequently suspended in 1.5 ml of this buffer. Resuspension was centrifuged at 360 <italic toggle="yes">g</italic> for 2 min at 4°C. The pellet was resuspended in 1 ml of 100 mM potassium phosphate buffer pH 7.4 containing 10 mM EDTA. Resuspension was sonicated for 20 × 1 s. Lysed cells were then centrifuged at 10,700 <italic toggle="yes">g</italic> for 1 h at 4°C. The pellet was homogenized in 100 μl of 50 mM potassium phosphate buffer pH 7.4, containing 0.1 mM EDTA and 10% glycerol (Biomol). Protein concentration was determined using the BCA method. Western blotting experiments were performed following standard protocol with the LI‐COR Odyssey<sup>®</sup> system (LI‐COR). hCyp26c1 antibody (PA5‐15059, Thermo Fischer Scientific) was diluted as recommended (dilution 1:100) in LI‐COR Blocking Buffer (LI‐COR), 1× TBS, Tween 0.1%.</p><p>
+<italic toggle="yes">SHOX</italic> expression analysis was performed as follows: Cells were plated in 6‐well plates (1 × 10<sup>6</sup> cells per well). After 24 h, cells were treated with ATRA (Sigma‐Aldrich, stock solution 1 mM in ethanol absolute) for 6 h and then resuspended in Trizol for RNA extraction according to standard protocols. cDNA synthesis was performed with SuperScript™ II according to manufacturer's protocol. <italic toggle="yes">SHOX</italic> expression was analyzed by quantitative PCR using gene‐specific primers and normalized to <italic toggle="yes">HPRT</italic> and <italic toggle="yes">SDHA</italic> (<xref rid="emmm201606623-sup-0007" ref-type="supplementary-material">Dataset EV4</xref>) with SensiFAST™ SYBR<sup>®</sup> Lo‐ROX Kit (Bioline) in the 7500 Fast Real‐Time PCR System (Applied Biosystems).</p></sec><sec id="emmm201606623-sec-0018"><title>Luciferase assays</title><p>U2OS cells (human osteosarcoma cells, ATCC; mycoplasma‐free) were cultured in DMEM containing 10% FBS and penicillin/streptomycin at 37°C, 5% CO<sub>2</sub>, 95% humidity. Luciferase assays to test <italic toggle="yes">SHOX</italic> variants were performed as follows: Cells were seeded in 24‐well plates at 1 × 10<sup>5</sup> cells per well. After 24 h, cells were transfected with Lipofectamine 2000 (Invitrogen) according to standard protocols. For each well, cells were transfected with 300 ng of pcDNA4/TO empty vector (Life Technologies), pcDNA4/TO SHOX wild type or mutants; 300 ng of pGL3basic‐FGFR3(−3,430/+464) (Decker <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0021" ref-type="ref">2011</xref>) firefly luciferase reporter construct (Promega); 150 ng pRL‐TK <italic toggle="yes">Renilla</italic> luciferase reporter construct (Promega). Mutations were introduced by site‐directed mutagenesis (QuickChange Lightning Site‐Directed Mutagenesis Kit). After 24 h of transfection, cells were lysed and luciferase activity measured with the Dual Luciferase Assay System (Promega) in a Berthold 96‐microplate luminometer. The experiments were performed each time in triplicate.</p><p>Luciferase assays to test <italic toggle="yes">CYP26C1</italic> variants were performed as follows: Cells were seeded in 96‐well plates at 1 × 10<sup>4</sup> cells per well. After 24 h, cells were transfected with Lipofectamine 2000 according to standard protocols. For each well, cells were transfected with 100 ng of pIRES2‐EGFP empty vector (obtained from Dr. Thomas Boettger), pIRES2/EGFP‐CYP26C1 wild type or mutants; 100 ng of Cignal RARE Reporter system plasmids (SABiosciences). Mutations were introduced by site‐directed mutagenesis. After 24‐h transfection, cells were treated with 250 nM ATRA. After 24‐h treatment, cells were lysed and assayed with the Dual Luciferase Assay System in a Berthold 96‐microplate luminometer. The experiments were performed each time in triplicate.</p><p>Luciferase assays to test the <italic toggle="yes">SHOX</italic> promoter were performed as follows: Cells were seeded in 24‐well plates at 1 × 10<sup>5</sup> cells per well. After 24 h, cells were transfected with Lipofectamine 2000 according to standard protocols. For each well, cells were transfected with 500 ng of pGL3basic‐empty vector (Promega) or pGL3basic‐CNE3‐SHOX promoter as previously described (Verdin <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0072" ref-type="ref">2015</xref>); 50 ng of pRL‐TK <italic toggle="yes">Renilla</italic> luciferase reporter construct. The CNE3 enhancer was chosen because it was reported with the highest activity on the <italic toggle="yes">SHOX</italic> promoter (Verdin <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0072" ref-type="ref">2015</xref>). After 24‐h transfection, cells were treated with 250 nM ATRA. After 24‐h treatment, cells were lysed and assayed with the Dual Luciferase Assay System in a Berthold 96‐microplate luminometer. The experiments were performed each time in triplicate.</p></sec><sec id="emmm201606623-sec-0019"><title>Zebrafish experiments</title><p>Experiments were carried out in wild‐type <italic toggle="yes">Danio rerio</italic> strains (AB, TL, Tübingen). Zebrafish were reared according to standard protocols. Morpholino were injected at one‐cell stage embryos as previously described (Renz <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0054" ref-type="ref">2015</xref>). The <italic toggle="yes">shox</italic> and <italic toggle="yes">cyp26c1</italic> morpholinos were obtained from Gene Tools (<xref rid="emmm201606623-sup-0007" ref-type="supplementary-material">Dataset EV4</xref>). Two splicing MOs were designed for <italic toggle="yes">shox</italic> knockdown: MO1 and MO2. In the main text, figures refer to MO1 (Figs <xref rid="emmm201606623-fig-0004" ref-type="fig">4</xref> and <xref rid="emmm201606623-fig-0006" ref-type="fig">6</xref>). Specific phenotype was confirmed by MO2 (<xref rid="emmm201606623-sup-0001" ref-type="supplementary-material">Appendix Fig S3</xref>). For <italic toggle="yes">cyp26c1</italic> knockdown, we used a published MO (Liang <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0041" ref-type="ref">2012</xref>). The standard control MO from Gene Tools was used as a control. Each embryo was injected with 1–2 ng of control, <italic toggle="yes">shox</italic>, or <italic toggle="yes">cyp26c1</italic> MOs. Embryos for double knockdown experiments were injected with 100 pg of <italic toggle="yes">shox</italic> MO and/or 800 pg of <italic toggle="yes">cyp26c1</italic> MO. RNA was extracted from 20–30 injected embryos at 36 h post‐fertilization (hpf) with Trizol<sup>®</sup> according to standard protocols. cDNA synthesis was performed with SuperScript™ II according to manufacturer's protocol. Effective splicing blocking was confirmed with test primers (<xref rid="emmm201606623-sup-0007" ref-type="supplementary-material">Dataset EV4</xref>) and PCR products were cloned in pSTBlue1 vector (Novagen) and sequenced (<xref rid="emmm201606623-sup-0001" ref-type="supplementary-material">Appendix Figs S4–S6</xref>). Sense‐capped RNA of human <italic toggle="yes">SHOX</italic> and <italic toggle="yes">CYP26C1</italic> wild type and mutants was synthesized using the mMESSAGE mMACHINE system (Ambion) from pCS2 (Hassel <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0033" ref-type="ref">2009</xref>).</p><p>Expression analyses of <italic toggle="yes">shox</italic> after MO injection were performed as follows: RNA was extracted from 10–15 injected embryos at 55 h post‐fertilization (hpf) with Trizol<sup>®</sup> according to standard protocols. cDNA synthesis was performed with SuperScript™ II according to manufacturer's protocol. <italic toggle="yes">shox</italic> expression was analyzed by quantitative PCR using gene‐specific primers and normalized to <italic toggle="yes">eef1a</italic> and <italic toggle="yes">b‐actin</italic> (<xref rid="emmm201606623-sup-0007" ref-type="supplementary-material">Dataset EV4</xref>) with SensiFAST<sup>™</sup> SYBR<sup>®</sup> Lo‐ROX Kit (Bioline) in the 7500 Fast Real‐Time PCR System (Applied Biosystems).</p><p>Luciferase experiments in zebrafish were performed injecting into one‐cell stage embryos doses in the range of 1–2 nl of a 25 nM solution of Cignal RARE Reporter system plasmids and 1–2 ng of control MO or <italic toggle="yes">cyp26c1</italic> MO. After 24‐h injection, embryos were separated in groups of 20–30, lysed and assayed with a Dual Luciferase Assay System (Promega) in a Berthold 96‐microplate luminometer.</p><p>Treatments of zebrafish embryos with RA were performed as follows: Wild‐type embryos were left developing for 24 h post‐fertilization. At 24 hpf, embryos were separated in groups of 10–15 and treated with mock control or ATRA for 6 h. Finally, RNA was extracted and used for <italic toggle="yes">shox</italic> expression analysis as described above.</p></sec><sec id="emmm201606623-sec-0020"><title>Whole‐mount <italic toggle="yes">in situ</italic> hybridization</title><p>Whole‐mount <italic toggle="yes">in situ</italic> hybridization was performed as described previously (Jowett &amp; Lettice, <xref rid="emmm201606623-bib-0036" ref-type="ref">1994</xref>). Gene‐specific primers (<xref rid="emmm201606623-sup-0007" ref-type="supplementary-material">Dataset EV4</xref>) were used to amplify <italic toggle="yes">col2a1</italic> and <italic toggle="yes">shox</italic> cDNA. Amplicons were then cloned using the psTBlue1 vector (Novagen). Digoxigenin‐labeled RNA probes were synthesized using the DIG RNA Labeling Mix (Roche) with the MAXIscript<sup>®</sup> SP6/T7 Transcription Kit (Ambion). Images were taken with the microscope SZX16, Cell<sup>D</sup>Imaging Software (Olympus). Pectoral fin area was measured with Fiji ImageJ (Schindelin <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0060" ref-type="ref">2012</xref>).</p></sec><sec id="emmm201606623-sec-0021"><title>Statistics</title><p>Samples for <italic toggle="yes">in vitro</italic> and zebrafish embryos experiments were randomly assigned to experimental groups, to processing order, and position in multi‐well devices. No statistical method was used to predetermine sample size. Group sample sizes for experiments were chosen based on previous studies. Zebrafish embryos that died before analysis were excluded. Statistical analyses were performed using GraphPad Prism version 5 for Windows (GraphPad Software). Data were tested for normality using the D'Agostino and Pearson omnibus normality test. When data fitted normal distribution parametric tests were used, otherwise non‐parametric tests were used. Specific tests are described for each group of data in the figure legends. Differences between two groups were analyzed by two‐tailed Student's <italic toggle="yes">t</italic>‐test. Differences between three or more groups were analyzed by analysis of variance (ANOVA) test. For all experiments, data are expressed as the mean ± SD. <italic toggle="yes">P</italic>‐values &lt; 0.05 were considered significant.</p></sec><sec id="emmm201606623-sec-0022"><title>Bioinformatics resources</title><p>Primers for cloning <italic toggle="yes">in situ</italic> hybridization probes, for sequencing, and for testing MO efficacy were designed using Primer3 (Untergasser <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0070" ref-type="ref">2012</xref>). Primers for quantitative PCR were designed using Universal ProbeLibrary Assay Design Center (Roche). Protein and DNA schemes were drawn using Illustrator of Biological Sequences (IBS) (Liu <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0042" ref-type="ref">2015</xref>). Mutations were tested with PolyPhen‐2 (Adzhubei <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0003" ref-type="ref">2013</xref>), Mutation Taster (Schwarz <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0062" ref-type="ref">2010</xref>), SIFT (Vaser <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0071" ref-type="ref">2016</xref>), PROVEAN (Choi &amp; Chan, <xref rid="emmm201606623-bib-0015" ref-type="ref">2015</xref>), and CADD (Kircher <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0037" ref-type="ref">2014</xref>). Transcription factor binding sites were predicted using PROMO (Messeguer <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0046" ref-type="ref">2002</xref>; Farré <italic toggle="yes">et al</italic>, <xref rid="emmm201606623-bib-0025" ref-type="ref">2003</xref>).</p></sec><sec id="emmm201606623-sec-0023"><title>Study approval</title><p>Studies involving human material were approved by the Review Board Committee at the University Hospital Heidelberg and at the Hamamatsu University School of Medicine. Written informed consent was received from all participants prior to their inclusion in the study. The study was conducted in accordance with the guidelines of the WMA Declaration of Helsinki and the Department of Health and Human Services Belmont Report. All animal experiments were conducted with approval of local Animal Care Committee and according to institutional guidelines.</p></sec></sec><sec id="emmm201606623-sec-0025"><title>Author contributions</title><p>GAR designed the project. AM, GAR, and DH designed the experiments and analyzed the data. AM performed the cell culture experiments. LJ and AM performed the experiments in zebrafish embryos. SF‐O, GB, MF, TO, and ED recruited the patients and provided DNA for sequencing. AM, RR, and BW performed the sequencing of patients and controls. GN performed whole‐genome linkage. AM and GAR wrote the manuscript. AM, RR, DH, and GAR contributed to the discussion and all authors commented the manuscript.</p></sec><sec id="emmm201606623-sec-0026"><title>Conflict of interest</title><p>The authors declare that they have no conflict of interest.</p></sec><sec id="emmm201606623-sec-0027"><boxed-text position="float" content-type="box" id="emmm201606623-blk-0001" orientation="portrait"><caption><title>The paper explained</title></caption><sec id="emmm201606623-sec-0028"><title>Problem</title><p>Mutations in the <italic toggle="yes">SHOX</italic> gene cause SHOX deficiency, the most frequent monogenic cause of short stature. The clinical severity of SHOX deficiency varies widely, ranging from short stature without skeletal signs to pronounced skeletal dysplasia. In rare cases, family members with identical mutations even have normal stature. So far, the underlying factors contributing to the phenotypic variability in individuals with SHOX deficiency are unknown. Genetic factors distinct from the <italic toggle="yes">SHOX</italic> gene may represent an important source of clinical variability in SHOX deficiency.</p><p>Genetic modifiers are genetic factors that influence the phenotypic expression of a disease‐causing gene. Identifying genetic modifiers may result in a better understanding of the clinical variability of SHOX deficiency and enable a more accurate prediction of disease progression.</p></sec><sec id="emmm201606623-sec-0029"><title>Results</title><p>We describe a large family where some individuals with a damaging <italic toggle="yes">SHOX</italic> mutation have normal stature, while other family members with the identical mutation have short stature and skeletal anomalies. To identify the genetic factors that could explain such phenotypic differences, a genetic analysis of this family was performed. This led to the identification of the retinoic acid‐degrading enzyme <italic toggle="yes">CYP26C1</italic> as a potential modifying genetic factor. Retinoic acid is the most active biological form of vitamin A and has been shown to play a role in skeleton formation. An excess of this molecule impairs limb development. Expression of <italic toggle="yes">CYP26C1</italic> in human primary chondrocytes (cells that are involved in bone formation) could be demonstrated. <italic toggle="yes">CYP26C1</italic> damaging mutations affect its ability to degrade retinoic acid, leading to higher levels of this vitamin A derivate. High levels of retinoic acid reduced <italic toggle="yes">SHOX</italic> expression in human primary chondrocytes, suggesting that <italic toggle="yes">CYP26C1</italic> regulates <italic toggle="yes">SHOX</italic> expression within the retinoic acid signaling pathway. Two further families with <italic toggle="yes">SHOX</italic> and <italic toggle="yes">CYP26C1</italic> mutations provided further evidence of the most severe phenotype.</p><p>Zebrafish represents an animal model particularly suitable to study bone disorders. Decreasing both <italic toggle="yes">SHOX</italic> and <italic toggle="yes">CYP26C1</italic> levels in zebrafish embryos led to smaller fins, further supporting that <italic toggle="yes">SHOX</italic> and <italic toggle="yes">CYP26C1</italic> interact during skeletal development. Mutations in <italic toggle="yes">CYP26C1</italic> result in increased retinoic acid levels which in turn decrease <italic toggle="yes">SHOX</italic> gene expression leading to more severe SHOX deficiency phenotypes.</p></sec><sec id="emmm201606623-sec-0030"><title>Impact</title><p>This study represents an effort to understand the genetic causes of clinical variability. Unraveling factors which modify disease toward milder or more severe phenotypes may lead to novel therapeutic approaches. We provide evidence for <italic toggle="yes">CYP26C1</italic> as a genetic factor influencing SHOX deficiency phenotypic outcomes through the retinoic acid signaling pathway. Manipulating vitamin A metabolism in SHOX deficiency patients may alleviate the skeletal abnormalities of this condition.</p></sec></boxed-text></sec><sec id="emmm201606623-sec-0031"><title>For more information</title><p>ExAC</p><p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://exac.broadinstitute.org">http://exac.broadinstitute.org</ext-link>
+</p><p>TGP</p><p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://browser.1000genomes.org">http://browser.1000genomes.org</ext-link>
+</p><p>EVS</p><p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://evs.gs.washington.edu/EVS">http://evs.gs.washington.edu/EVS</ext-link>
+</p><p>PROMO</p><p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://alggen.lsi.upc.es/cgi-bin/promo_v3/promo/promoinit.cgi?dirDB=TF_8.3">http://alggen.lsi.upc.es/cgi-bin/promo_v3/promo/promoinit.cgi?dirDB=TF_8.3</ext-link>
+</p><p>SHOX deficiency</p><p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/books/NBK1215/">http://www.ncbi.nlm.nih.gov/books/NBK1215/</ext-link>
+</p><p>X chromosome gene database</p><p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://grenada.lumc.nl/LOVD2/MR/home.php?select_db=SHOX">http://grenada.lumc.nl/LOVD2/MR/home.php?select_db=SHOX</ext-link>
+</p><p>OMIM</p><p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.omim.org/entry/312865">http://www.omim.org/entry/312865</ext-link>
+</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" position="float" orientation="portrait"/><supplementary-material content-type="local-data" id="emmm201606623-sup-0001" position="float" orientation="portrait"><caption><p>Appendix</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="EMMM-8-1455-s001.pdf" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="emmm201606623-sup-0002" position="float" orientation="portrait"><caption><p>Expanded View Figures PDF</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="EMMM-8-1455-s002.pdf" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="emmm201606623-sup-0003" position="float" orientation="portrait"><caption><p>Table EV1</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="EMMM-8-1455-s003.docx" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="emmm201606623-sup-0004" position="float" orientation="portrait"><caption><p>Dataset EV1</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="EMMM-8-1455-s004.xlsx" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="emmm201606623-sup-0005" position="float" orientation="portrait"><caption><p>Dataset EV2</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="EMMM-8-1455-s005.xlsx" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="emmm201606623-sup-0006" position="float" orientation="portrait"><caption><p>Dataset EV3</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="EMMM-8-1455-s006.xlsx" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="emmm201606623-sup-0007" position="float" orientation="portrait"><caption><p>Dataset EV4</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="EMMM-8-1455-s007.xlsx" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" position="float" orientation="portrait"><caption><p>Review Process File</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="EMMM-8-1455-s008.pdf" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="emmm201606623-sec-0024"><title>Acknowledgements</title><p>We thank Tim Strom, Werner Blum, Miriam Rosilio, Dave Bunyan, Christine Fischer, Slavil Peykov, Herbert Steinbeisser, Thomas Holstein, and Christel Herold‐Mende for support. We thank Nagarajan Paramavisam for calculating the CADD scores. Beate Niesler, Simone Berkel, and Antonio Marchini are acknowledged for comments on the manuscript. This study was supported by the DFG (Deutsche Forschungsgemeinschaft), the Medical Faculty of Heidelberg, and the DZHK Heidelberg (German Centre for Cardiovascular Research). AM is a member of the Hartmut Hoffmann‐Berling International Graduate School of Molecular and Cellular Biology (HBIGS); GAR is a member of CellNetworks Cluster for Excellence of the University of Heidelberg, Germany. DH and GAR are members of the DZHK.</p></ack><ref-list content-type="cited-references" id="emmm201606623-bibl-0001"><title>References</title><ref id="emmm201606623-bib-0001"><mixed-citation publication-type="journal" id="emmm201606623-cit-0001">
+<string-name name-style="western">
+<surname>Abecasis</surname>
+<given-names>GR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cherny</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cookson</surname>
+<given-names>WO</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cardon</surname>
+<given-names>LR</given-names>
+</string-name> (<year>2001</year>) <article-title>GRR: graphical representation of relationship errors</article-title>. <source>Bioinformatics</source>
+<volume>17</volume>: <fpage>742</fpage>–<lpage>743</lpage>
+<pub-id pub-id-type="pmid">11524377</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/bioinformatics/17.8.742</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0002"><mixed-citation publication-type="journal" id="emmm201606623-cit-0002">
+<string-name name-style="western">
+<surname>Abecasis</surname>
+<given-names>GR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cherny</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cookson</surname>
+<given-names>WO</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cardon</surname>
+<given-names>LR</given-names>
+</string-name> (<year>2002</year>) <article-title>Merlin‐rapid analysis of dense genetic maps using sparse gene flow trees</article-title>. <source>Nat Genet</source>
+<volume>30</volume>: <fpage>97</fpage>–<lpage>101</lpage>
+<pub-id pub-id-type="pmid">11731797</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/ng786</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0003"><mixed-citation publication-type="journal" id="emmm201606623-cit-0003">
+<string-name name-style="western">
+<surname>Adzhubei</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jordan</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sunyaev</surname>
+<given-names>SR</given-names>
+</string-name> (<year>2013</year>) <article-title>Predicting functional effect of human missense mutations using PolyPhen‐2</article-title>. <source>Curr Protoc Hum Genet</source>
+<volume>7</volume>: <fpage>Unit7.20</fpage>
+<pub-id pub-id-type="pmid">23315928</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/0471142905.hg0720s76</pub-id><pub-id pub-id-type="pmcid">PMC4480630</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0004"><mixed-citation publication-type="journal" id="emmm201606623-cit-0004">
+<string-name name-style="western">
+<surname>Akimenko</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ekker</surname>
+<given-names>M</given-names>
+</string-name> (<year>1995</year>) <article-title>Anterior duplication of the Sonic hedgehog expression pattern in the pectoral fin buds of zebrafish treated with retinoic acid</article-title>. <source>Dev Biol</source>
+<volume>170</volume>: <fpage>243</fpage>–<lpage>247</lpage>
+<pub-id pub-id-type="pmid">7601313</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1006/dbio.1995.1211</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0006"><mixed-citation publication-type="journal" id="emmm201606623-cit-0006">
+<string-name name-style="western">
+<surname>Balmer</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Blomhoff</surname>
+<given-names>R</given-names>
+</string-name> (<year>2002</year>) <article-title>Gene expression regulation by retinoic acid</article-title>. <source>J Lipid Res</source>
+<volume>43</volume>: <fpage>1773</fpage>–<lpage>1808</lpage>
+<pub-id pub-id-type="pmid">12401878</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1194/jlr.r100015-jlr200</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0007"><mixed-citation publication-type="journal" id="emmm201606623-cit-0007">
+<string-name name-style="western">
+<surname>Baron</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sävendahl</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>De Luca</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dauber</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Philip</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wit</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nilsson</surname>
+<given-names>O</given-names>
+</string-name> (<year>2015</year>) <article-title>Short and tall stature: a new paradigm emerges</article-title>. <source>Nat Rev Endocrinol</source>
+<volume>11</volume>: <fpage>735</fpage>–<lpage>746</lpage>
+<pub-id pub-id-type="pmid">26437621</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nrendo.2015.165</pub-id><pub-id pub-id-type="pmcid">PMC5002943</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0008"><mixed-citation publication-type="journal" id="emmm201606623-cit-0008">
+<string-name name-style="western">
+<surname>Bečanović</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nørremølle</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Neal</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kay</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Collins</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Arenillas</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lilja</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gaudenzi</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Manoharan</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Doty</surname>
+<given-names>CN</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2015</year>) <article-title>A SNP in the HTT promoter alters NF‐kB binding and is a bidirectional genetic modifier of Huntington disease</article-title>. <source>Nat Neurosci</source>
+<volume>18</volume>: <fpage>807</fpage>–<lpage>816</lpage>
+<pub-id pub-id-type="pmid">25938884</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nn.4014</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0009"><mixed-citation publication-type="journal" id="emmm201606623-cit-0009">
+<string-name name-style="western">
+<surname>Begemann</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schilling</surname>
+<given-names>TF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rauch</surname>
+<given-names>GJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Geisler</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ingham</surname>
+<given-names>PW</given-names>
+</string-name> (<year>2001</year>) <article-title>The zebrafish neckless mutation reveals a requirement for raldh2 in mesodermal signals that pattern the hindbrain</article-title>. <source>Development</source>
+<volume>128</volume>: <fpage>3081</fpage>–<lpage>3094</lpage>
+<pub-id pub-id-type="pmid">11688558</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1242/dev.128.16.3081</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0010"><mixed-citation publication-type="journal" id="emmm201606623-cit-0010">
+<string-name name-style="western">
+<surname>Belin</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cusin</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Viot</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Girlich</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Toutain</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Moncla</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Le Merrer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Munnich</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cornier‐Daire</surname>
+<given-names>V</given-names>
+</string-name> (<year>1998</year>) <article-title>SHOX mutations in dyschondrosteosis (Leri‐Weill syndrome)</article-title>. <source>Nat Genet</source>
+<volume>19</volume>: <fpage>67</fpage>–<lpage>69</lpage>
+<pub-id pub-id-type="pmid">9590292</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/ng0198-67</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0011"><mixed-citation publication-type="journal" id="emmm201606623-cit-0011">
+<string-name name-style="western">
+<surname>Benito‐Sanz</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Royo</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barroso</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Paumard‐Hérnandez</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barreda‐Bonis</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gracía</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lupski</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Campos‐Barros</surname>
+<given-names>Á</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gómoez‐Skarmeta</surname>
+<given-names>JL</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2012</year>) <article-title>Identification of the first recurrent PAR1 deletion in Léri‐Weill dyschondrosteosis and idiopathic short stature reveals the presence of a novel <italic toggle="yes">SHOX</italic> enhancer</article-title>. <source>J Med Genet</source>
+<volume>49</volume>: <fpage>442</fpage>–<lpage>450</lpage>
+<pub-id pub-id-type="pmid">22791839</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/jmedgenet-2011-100678</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0012"><mixed-citation publication-type="journal" id="emmm201606623-cit-0012">
+<string-name name-style="western">
+<surname>Binder</surname>
+<given-names>G</given-names>
+</string-name> (<year>2011</year>) <article-title>Short stature due to SHOX deficiency: genotype, phenotype, and therapy</article-title>. <source>Horm Res Paediatr</source>
+<volume>75</volume>: <fpage>81</fpage>–<lpage>89</lpage>
+<pub-id pub-id-type="pmid">21325865</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1159/000324105</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0013"><mixed-citation publication-type="journal" id="emmm201606623-cit-0013">
+<string-name name-style="western">
+<surname>Blaschke</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rappold</surname>
+<given-names>GA</given-names>
+</string-name> (<year>2001</year>) <article-title>SHOX in short stature syndromes</article-title>. <source>Horm Res</source>
+<volume>55</volume>: <fpage>21</fpage>–<lpage>23</lpage>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1159/000063458</pub-id><pub-id pub-id-type="pmid">11408757</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0014"><mixed-citation publication-type="journal" id="emmm201606623-cit-0014">
+<string-name name-style="western">
+<surname>Bunyan</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baker</surname>
+<given-names>KR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Harvey</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Thomas</surname>
+<given-names>NS</given-names>
+</string-name> (<year>2013</year>) <article-title>Diagnostic screening identifies a wild range of mutations involving the SHOX gene, including a common 47.5 kb deletion 160 kb downstream with a variable phenotypic effect</article-title>. <source>Am J Med Genet</source>
+<volume>161A</volume>: <fpage>1329</fpage>–<lpage>1338</lpage>
+<pub-id pub-id-type="pmid">23636926</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ajmg.a.35919</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0015"><mixed-citation publication-type="journal" id="emmm201606623-cit-0015">
+<string-name name-style="western">
+<surname>Choi</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chan</surname>
+<given-names>AP</given-names>
+</string-name> (<year>2015</year>) <article-title>PROVEAN web server: a tool to predict the functional effect of amino acid substitutions and indels</article-title>. <source>Bioinformatics</source>
+<volume>31</volume>: <fpage>2745</fpage>–<lpage>2747</lpage>
+<pub-id pub-id-type="pmid">25851949</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/bioinformatics/btv195</pub-id><pub-id pub-id-type="pmcid">PMC4528627</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0016"><mixed-citation publication-type="journal" id="emmm201606623-cit-0016">
+<string-name name-style="western">
+<surname>Clement‐Jones</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schiller</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rao</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Blaschke</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zuniga</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zeller</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Robson</surname>
+<given-names>SC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Binder</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Glass</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Strachan</surname>
+<given-names>T</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2000</year>) <article-title>The short stature homeobox gene SHOX is involved in skeletal abnormalities in Turner syndrome</article-title>. <source>Hum Mol Genet</source>
+<volume>22</volume>: <fpage>695</fpage>–<lpage>702</lpage>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/hmg/9.5.695</pub-id><pub-id pub-id-type="pmid">10749976</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0017"><mixed-citation publication-type="journal" id="emmm201606623-cit-0017">
+<string-name name-style="western">
+<surname>Corvol</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Blackman</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Boëlle</surname>
+<given-names>PY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gallins</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pace</surname>
+<given-names>RG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stonebraker</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Accurso</surname>
+<given-names>FJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Clement</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Collaco</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dang</surname>
+<given-names>H</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2015</year>) <article-title>Genome‐wide association meta‐analysis identifies five modifier loci of lung disease severity in cystic fibrosis</article-title>. <source>Nat Commun</source>
+<volume>6</volume>: <fpage>8382</fpage>
+<pub-id pub-id-type="pmid">26417704</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/ncomms9382</pub-id><pub-id pub-id-type="pmcid">PMC4589222</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0018"><mixed-citation publication-type="journal" id="emmm201606623-cit-0018">
+<string-name name-style="western">
+<surname>Cunningham</surname>
+<given-names>TJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sandell</surname>
+<given-names>LL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Evans</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Trainor</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Duester</surname>
+<given-names>G</given-names>
+</string-name> (<year>2013</year>) <article-title>Antagonism between retinoic acid and fibroblast growth factor signaling during limb development</article-title>. <source>Cell Rep</source>
+<volume>3</volume>: <fpage>1503</fpage>–<lpage>1511</lpage>
+<pub-id pub-id-type="pmid">23623500</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.celrep.2013.03.036</pub-id><pub-id pub-id-type="pmcid">PMC3745640</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0019"><mixed-citation publication-type="journal" id="emmm201606623-cit-0019">
+<string-name name-style="western">
+<surname>Cunningham</surname>
+<given-names>TJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Duester</surname>
+<given-names>G</given-names>
+</string-name> (<year>2015</year>) <article-title>Mechanisms of retinoic acid signaling and its roles in organ and limb development</article-title>. <source>Nat Rev Mol Cell Biol</source>
+<volume>16</volume>: <fpage>110</fpage>–<lpage>123</lpage>
+<pub-id pub-id-type="pmid">25560970</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nrm3932</pub-id><pub-id pub-id-type="pmcid">PMC4636111</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0020"><mixed-citation publication-type="journal" id="emmm201606623-cit-0020">
+<string-name name-style="western">
+<surname>De Leenheer</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lambert</surname>
+<given-names>WE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Clayes</surname>
+<given-names>I</given-names>
+</string-name> (<year>1995</year>) <article-title>All‐trans retinoic acid: measurement of reference values in human serum by high performance liquid chromatography</article-title>. <source>J Lipid Res</source>
+<volume>23</volume>: <fpage>1362</fpage>–<lpage>1367</lpage>
+<pub-id pub-id-type="pmid">7161564</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0021"><mixed-citation publication-type="journal" id="emmm201606623-cit-0021">
+<string-name name-style="western">
+<surname>Decker</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Durand</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bender</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rödelsperger</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Glaser</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hecht</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schneider</surname>
+<given-names>KU</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rappold</surname>
+<given-names>G</given-names>
+</string-name> (<year>2011</year>) <article-title>FGFR3 is a target of the homeobox transcription factor SHOX in limb development</article-title>. <source>Hum Mol Genet</source>
+<volume>20</volume>: <fpage>1524</fpage>–<lpage>1535</lpage>
+<pub-id pub-id-type="pmid">21273290</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/hmg/ddr030</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0022"><mixed-citation publication-type="journal" id="emmm201606623-cit-0022">
+<string-name name-style="western">
+<surname>Durand</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rappold</surname>
+<given-names>GA</given-names>
+</string-name> (<year>2013</year>) <article-title>Height matters‐from monogenic disorders to normal variation</article-title>. <source>Nat Rev Endocrinol</source>
+<volume>9</volume>: <fpage>171</fpage>–<lpage>177</lpage>
+<pub-id pub-id-type="pmid">23337954</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nrendo.2012.251</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0023"><mixed-citation publication-type="journal" id="emmm201606623-cit-0023">
+<string-name name-style="western">
+<surname>Ebermann</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Phillips</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liebau</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Koenekoop</surname>
+<given-names>RK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schermer</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lopez</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schäfer</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Roux</surname>
+<given-names>AF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dafinger</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bernd</surname>
+<given-names>A</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2010</year>) <article-title>PDZD7 is a modifier of retinal disease and a contributor to digenic Usher syndrome</article-title>. <source>J Clin Invest</source>
+<volume>120</volume>: <fpage>1812</fpage>–<lpage>1823</lpage>
+<pub-id pub-id-type="pmid">20440071</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1172/JCI39715</pub-id><pub-id pub-id-type="pmcid">PMC2877930</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0024"><mixed-citation publication-type="journal" id="emmm201606623-cit-0024">
+<string-name name-style="western">
+<surname>Emoto</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wada</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Okamoto</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kudo</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Imai</surname>
+<given-names>Y</given-names>
+</string-name> (<year>2005</year>) <article-title>Retinoic acid‐metabolizing enzyme Cyp26a1 is essential for determining territories of hindbrain and spinal cord in zebrafish</article-title>. <source>DevBiol</source>
+<volume>278</volume>: <fpage>415</fpage>–<lpage>427</lpage>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ydbio.2004.11.023</pub-id><pub-id pub-id-type="pmid">15680360</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0025"><mixed-citation publication-type="journal" id="emmm201606623-cit-0025">
+<string-name name-style="western">
+<surname>Farré</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Roset</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huerta</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Adsuara</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Roselló</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Albà</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Messeguer</surname>
+<given-names>X</given-names>
+</string-name> (<year>2003</year>) <article-title>Identification of patterns in biological sequences at the ALGGEN server: PROMO and MALGEN</article-title>. <source>Nucleic Acids Res</source>
+<volume>31</volume>: <fpage>3651</fpage>–<lpage>3653</lpage>
+<pub-id pub-id-type="pmid">12824386</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/nar/gkg605</pub-id><pub-id pub-id-type="pmcid">PMC169011</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0026"><mixed-citation publication-type="journal" id="emmm201606623-cit-0026">
+<collab collab-type="authors">1000 Genomes Project Consortium</collab>
+(<year>2015</year>) <article-title>A global reference for human genetic variation</article-title>. <source>Nature</source>
+<volume>526</volume>: <fpage>68</fpage>–<lpage>74</lpage>
+<pub-id pub-id-type="pmid">26432245</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nature15393</pub-id><pub-id pub-id-type="pmcid">PMC4750478</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0027"><mixed-citation publication-type="journal" id="emmm201606623-cit-0027">
+<string-name name-style="western">
+<surname>Green</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Martin</surname>
+<given-names>TJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Purton</surname>
+<given-names>LE</given-names>
+</string-name> (<year>2015</year>) <article-title>The role of vitamin A and retinoic acid receptor signaling in post‐natal maintenance of bone</article-title>. <source>J Steroid Biochem Mol Biol</source>
+<volume>155</volume>: <fpage>135</fpage>–<lpage>146</lpage>
+<pub-id pub-id-type="pmid">26435449</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jsbmb.2015.09.036</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0028"><mixed-citation publication-type="book" id="emmm201606623-cit-0028">
+<string-name name-style="western">
+<surname>Grüneberg</surname>
+<given-names>H</given-names>
+</string-name> (<year>1963</year>) <source>The pathology of development; a study of inherited skeletal disorders in animals</source>, pp. <fpage>309</fpage>
+<publisher-loc>New York, NY, USA</publisher-loc>: <publisher-name>Wiley J</publisher-name>
+</mixed-citation></ref><ref id="emmm201606623-bib-0029"><mixed-citation publication-type="journal" id="emmm201606623-cit-0029">
+<string-name name-style="western">
+<surname>Gu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gao</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>Q</given-names>
+</string-name> (<year>2005</year>) <article-title>Molecular cloning and expression of a novel CYP26 gene (cyp26d1) during zebrafish early development</article-title>. <source>Gene Expr Patterns</source>
+<volume>5</volume>: <fpage>733</fpage>–<lpage>739</lpage>
+<pub-id pub-id-type="pmid">15979416</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.modgep.2005.04.005</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0030"><mixed-citation publication-type="journal" id="emmm201606623-cit-0030">
+<string-name name-style="western">
+<surname>Gudbjartsson</surname>
+<given-names>DF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jonasson</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Frigge</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kong</surname>
+<given-names>A</given-names>
+</string-name> (<year>2000</year>) <article-title>Allegro, a new computer program for multipoint linkage analysis</article-title>. <source>Nat Genet</source>
+<volume>25</volume>: <fpage>12</fpage>–<lpage>13</lpage>
+<pub-id pub-id-type="pmid">10802644</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/75514</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0031"><mixed-citation publication-type="journal" id="emmm201606623-cit-0031">
+<string-name name-style="western">
+<surname>Guo</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chung</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McDonald‐McGinn</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kates</surname>
+<given-names>WR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hawula</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Coleman</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zackai</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Emanuel</surname>
+<given-names>BS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Morrow</surname>
+<given-names>BE</given-names>
+</string-name> (<year>2015</year>) <article-title>Histone modifier genes alter conotruncal heart phenotypes in 22q11.2 deletion syndrome</article-title>. <source>Am J Hum Genet</source>
+<volume>3</volume>: <fpage>869</fpage>–<lpage>877</lpage>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ajhg.2015.10.013</pub-id><pub-id pub-id-type="pmcid">PMC4678435</pub-id><pub-id pub-id-type="pmid">26608785</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0032"><mixed-citation publication-type="journal" id="emmm201606623-cit-0032">
+<string-name name-style="western">
+<surname>Haack</surname>
+<given-names>TB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hogarth</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kruer</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gregory</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wieland</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schwarzmayr</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Graf</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sanford</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Meyer</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kara</surname>
+<given-names>E</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2012</year>) <article-title>Exome sequencing reveals de novo WDR45 mutations causing a phenotypically distinct, X‐linked dominant form of NBIA</article-title>. <source>Am J Hum Genet</source>
+<volume>91</volume>: <fpage>1144</fpage>–<lpage>1149</lpage>
+<pub-id pub-id-type="pmid">23176820</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ajhg.2012.10.019</pub-id><pub-id pub-id-type="pmcid">PMC3516593</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0033"><mixed-citation publication-type="journal" id="emmm201606623-cit-0033">
+<string-name name-style="western">
+<surname>Hassel</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dahme</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Erdmann</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Meder</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huge</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stoll</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Just</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hess</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ehlermann</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Weichenhan</surname>
+<given-names>D</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2009</year>) <article-title>Nexilin mutations destabilize cardiac Z‐disks and lead to dilated cardiomyopathy</article-title>. <source>Nat Med</source>
+<volume>15</volume>: <fpage>1281</fpage>–<lpage>1288</lpage>
+<pub-id pub-id-type="pmid">19881492</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nm.2037</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0034"><mixed-citation publication-type="journal" id="emmm201606623-cit-0034">
+<string-name name-style="western">
+<surname>Hernandez</surname>
+<given-names>RE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Putzke</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Myers</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Margeretha</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Moens</surname>
+<given-names>CB</given-names>
+</string-name> (<year>2007</year>) <article-title>Cyp26 enzymes generate the retinoic acid response pattern necessary for hindbrain development</article-title>. <source>Development</source>
+<volume>134</volume>: <fpage>177</fpage>–<lpage>187</lpage>
+<pub-id pub-id-type="pmid">17164423</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1242/dev.02706</pub-id><pub-id pub-id-type="pmcid">PMC1765950</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0035"><mixed-citation publication-type="journal" id="emmm201606623-cit-0035">
+<string-name name-style="western">
+<surname>Huber</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rosilio</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Munnich</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cormier‐Daire</surname>
+<given-names>V</given-names>
+</string-name> (<year>2006</year>) <article-title>French SHOX GeNeSIS Module. High incidence of SHOX anomalies in individuals with short stature</article-title>. <source>J Med Genet</source>
+<volume>43</volume>: <fpage>735</fpage>–<lpage>739</lpage>
+<pub-id pub-id-type="pmid">16597678</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/jmg.2006.040998</pub-id><pub-id pub-id-type="pmcid">PMC2564573</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0036"><mixed-citation publication-type="journal" id="emmm201606623-cit-0036">
+<string-name name-style="western">
+<surname>Jowett</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lettice</surname>
+<given-names>L</given-names>
+</string-name> (<year>1994</year>) <article-title>Whole‐mount in situ hybridizations on zebrafish embryos using a mixture of digoxigenin‐ and fluorescence‐labelled probes</article-title>. <source>Trends Genet</source>
+<volume>10</volume>: <fpage>73</fpage>–<lpage>74</lpage>
+<pub-id pub-id-type="pmid">8178366</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/0168-9525(94)90220-8</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0037"><mixed-citation publication-type="journal" id="emmm201606623-cit-0037">
+<string-name name-style="western">
+<surname>Kircher</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Witten</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jain</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cooper</surname>
+<given-names>GM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shendure</surname>
+<given-names>J</given-names>
+</string-name> (<year>2014</year>) <article-title>A general framework for estimating the relative pathogenicity of human genetic variants</article-title>. <source>Nat Genet</source>
+<volume>46</volume>: <fpage>310</fpage>–<lpage>315</lpage>
+<pub-id pub-id-type="pmid">24487276</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/ng.2892</pub-id><pub-id pub-id-type="pmcid">PMC3992975</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0038"><mixed-citation publication-type="journal" id="emmm201606623-cit-0038">
+<string-name name-style="western">
+<surname>Laue</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pogoda</surname>
+<given-names>HM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Daniel</surname>
+<given-names>PB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van Haeringen</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Alanay</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>von Ameln</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rachwalski</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Morgan</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gray</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Breuning</surname>
+<given-names>MH</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2011</year>) <article-title>Craniosynostosis and multiple skeletal anomalies in humans and zebrafish result from a defect in the localized degradation of retinoic acid</article-title>. <source>Am J Hum Genet</source>
+<volume>89</volume>: <fpage>595</fpage>–<lpage>606</lpage>
+<pub-id pub-id-type="pmid">22019272</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ajhg.2011.09.015</pub-id><pub-id pub-id-type="pmcid">PMC3213388</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0039"><mixed-citation publication-type="journal" id="emmm201606623-cit-0039">
+<string-name name-style="western">
+<surname>Lee</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wheeler</surname>
+<given-names>VC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chao</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vonsattel</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pinto</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lucente</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Abu‐Elneel</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ramos</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mysore</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gillis</surname>
+<given-names>T</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2015</year>) <article-title>Identification of genetic factors that modify clinical onset of Huntington's disease</article-title>. <source>Cell</source>
+<volume>162</volume>: <fpage>516</fpage>–<lpage>526</lpage>
+<pub-id pub-id-type="pmid">26232222</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cell.2015.07.003</pub-id><pub-id pub-id-type="pmcid">PMC4524551</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0040"><mixed-citation publication-type="journal" id="emmm201606623-cit-0040">
+<string-name name-style="western">
+<surname>Lek</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Karczewski</surname>
+<given-names>KJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Minikel</surname>
+<given-names>EV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Samocha</surname>
+<given-names>KE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Banks</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fennell</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>O'Donnell‐Luria</surname>
+<given-names>AH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ware</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hill</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cummings</surname>
+<given-names>BB</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2016</year>) <article-title>Analysis of protein‐coding genetic variation in 60,706 humans</article-title>. <source>Nature</source>
+<volume>536</volume>: <fpage>285</fpage>–<lpage>291</lpage>
+<pub-id pub-id-type="pmid">27535533</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nature19057</pub-id><pub-id pub-id-type="pmcid">PMC5018207</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0041"><mixed-citation publication-type="journal" id="emmm201606623-cit-0041">
+<string-name name-style="western">
+<surname>Liang</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jia</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>Q</given-names>
+</string-name> (<year>2012</year>) <article-title>Retinoic acid signaling plays a restrictive role in zebrafish primitive myelopoiesis</article-title>. <source>PLoS One</source>
+<volume>7</volume>: <fpage>e30865</fpage>
+<pub-id pub-id-type="pmid">22363502</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0030865</pub-id><pub-id pub-id-type="pmcid">PMC3281886</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0042"><mixed-citation publication-type="journal" id="emmm201606623-cit-0042">
+<string-name name-style="western">
+<surname>Liu</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xie</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ma</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Luo</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nie</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zuo</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lahrmann</surname>
+<given-names>U</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zheng</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>Y</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2015</year>) <article-title>IBS: an illustrator for the presentation and visualization of biological sequences</article-title>. <source>Bioinformatics</source>
+<volume>31</volume>: <fpage>3359</fpage>–<lpage>3361</lpage>
+<pub-id pub-id-type="pmid">26069263</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/bioinformatics/btv362</pub-id><pub-id pub-id-type="pmcid">PMC4595897</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0043"><mixed-citation publication-type="journal" id="emmm201606623-cit-0043">
+<string-name name-style="western">
+<surname>Marchini</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marttila</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Winter</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Caldeira</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Malanchi</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Blaschke</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Häcker</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rao</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Karperien</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wit</surname>
+<given-names>JM</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2004</year>) <article-title>The short stature homeodomain protein SHOX induces cellular growth arrest and apoptosis and is expressed in human growth plate chondrocytes</article-title>. <source>J Biol Chem</source>
+<volume>279</volume>: <fpage>37103</fpage>–<lpage>37114</lpage>
+<pub-id pub-id-type="pmid">15145945</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1074/jbc.M307006200</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0044"><mixed-citation publication-type="journal" id="emmm201606623-cit-0044">
+<string-name name-style="western">
+<surname>Marchini</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ogata</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rappold</surname>
+<given-names>GA</given-names>
+</string-name> (<year>2016</year>) <article-title>A Track Record on SHOX: from Basic Research to Complex Models and Therapy</article-title>. <source>Endocr Rev</source>
+<volume>37</volume>: <fpage>417</fpage>–<lpage>448</lpage>
+<pub-id pub-id-type="pmid">27355317</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1210/er.2016-1036</pub-id><pub-id pub-id-type="pmcid">PMC4971310</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0045"><mixed-citation publication-type="journal" id="emmm201606623-cit-0045">
+<string-name name-style="western">
+<surname>Marchini</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rappold</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schneider</surname>
+<given-names>KU</given-names>
+</string-name> (<year>2007</year>) <article-title>SHOX at a glance: from gene to protein</article-title>. <source>Arch Physiol Biochem</source>
+<volume>113</volume>: <fpage>116</fpage>–<lpage>123</lpage>
+<pub-id pub-id-type="pmid">17922307</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/13813450701531201</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0046"><mixed-citation publication-type="journal" id="emmm201606623-cit-0046">
+<string-name name-style="western">
+<surname>Messeguer</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Escudero</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Farré</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nuñez</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Martinez</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Albà</surname>
+<given-names>MM</given-names>
+</string-name> (<year>2002</year>) <article-title>PROMO: detection of known transcription regulatory elements using species‐tailored searches</article-title>. <source>Bioinformatics</source>
+<volume>18</volume>: <fpage>333</fpage>–<lpage>334</lpage>
+<pub-id pub-id-type="pmid">11847087</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/bioinformatics/18.2.333</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0047"><mixed-citation publication-type="journal" id="emmm201606623-cit-0047">
+<string-name name-style="western">
+<surname>O'Connell</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Weeks</surname>
+<given-names>DE</given-names>
+</string-name> (<year>1998</year>) <article-title>PedCheck: a program for identification of genotype incompatibilities in linkage analysis</article-title>. <source>Am J Hum Genet</source>
+<volume>63</volume>: <fpage>259</fpage>–<lpage>266</lpage>
+<pub-id pub-id-type="pmid">9634505</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1086/301904</pub-id><pub-id pub-id-type="pmcid">PMC1377228</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0048"><mixed-citation publication-type="journal" id="emmm201606623-cit-0048">
+<string-name name-style="western">
+<surname>Ogata</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Matsuo</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nishimura</surname>
+<given-names>G</given-names>
+</string-name> (<year>2001</year>) <article-title>SHOX haploinsufficiency and overdosage: impact of gonadal function status</article-title>. <source>J Med Genet</source>
+<volume>38</volume>: <fpage>1</fpage>–<lpage>6</lpage>
+<pub-id pub-id-type="pmid">11134233</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/jmg.38.1.1</pub-id><pub-id pub-id-type="pmcid">PMC1734713</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0049"><mixed-citation publication-type="journal" id="emmm201606623-cit-0049">
+<string-name name-style="western">
+<surname>Oprea</surname>
+<given-names>GE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kröber</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McWorther</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rossoll</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Müller</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Krawczak</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bassell</surname>
+<given-names>GJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Beattie</surname>
+<given-names>CE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wirth</surname>
+<given-names>B</given-names>
+</string-name> (<year>2008</year>) <article-title>Plastin 3 is a protective modifier of autosomal recessive spinal muscular atrophy</article-title>. <source>Science</source>
+<volume>320</volume>: <fpage>524</fpage>–<lpage>527</lpage>
+<pub-id pub-id-type="pmid">18440926</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/science.1155085</pub-id><pub-id pub-id-type="pmcid">PMC4908855</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0050"><mixed-citation publication-type="journal" id="emmm201606623-cit-0050">
+<string-name name-style="western">
+<surname>Panda</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sato</surname>
+<given-names>TK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Castrucci</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rollag</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>DeGrip</surname>
+<given-names>WJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hogenesch</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Provencio</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kay</surname>
+<given-names>SA</given-names>
+</string-name> (<year>2002</year>) <article-title>Melanopsin (Opn4) requirement for normal light‐induced circadian phase shifting</article-title>. <source>Science</source>
+<volume>298</volume>: <fpage>2213</fpage>–<lpage>2216</lpage>
+<pub-id pub-id-type="pmid">12481141</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/science.1076848</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0051"><mixed-citation publication-type="journal" id="emmm201606623-cit-0051">
+<string-name name-style="western">
+<surname>Pennimpede</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cameron</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>MacLean</surname>
+<given-names>GA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Abu‐Abed</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Petkovich</surname>
+<given-names>M</given-names>
+</string-name> (<year>2010</year>) <article-title>The role of CYP26 enzymes in defining appropriate retinoic acid exposure during embryogenesis</article-title>. <source>Birth Defects Res A Clin Mol Teratol</source>
+<volume>88</volume>: <fpage>883</fpage>–<lpage>894</lpage>
+<pub-id pub-id-type="pmid">20842651</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/bdra.20709</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0052"><mixed-citation publication-type="book" id="emmm201606623-cit-0052">
+<string-name name-style="western">
+<surname>Ranke</surname>
+<given-names>MB</given-names>
+</string-name> (<year>1994</year>) <chapter-title>The KIGS aetiology classification system</chapter-title> In <source>Progress in growth hormone therapy‐5 years of KIGS</source>, <person-group person-group-type="editor"><name name-style="western"><surname>Ranke</surname><given-names>MB</given-names></name></person-group>, <person-group person-group-type="editor"><name name-style="western"><surname>Gunnarson</surname><given-names>R</given-names></name></person-group> (eds), pp <fpage>51</fpage>–<lpage>61</lpage>. <publisher-loc>Mannheim</publisher-loc>: <publisher-name>J&amp;J Verlag GmBH</publisher-name>
+</mixed-citation></ref><ref id="emmm201606623-bib-0053"><mixed-citation publication-type="journal" id="emmm201606623-cit-0053">
+<string-name name-style="western">
+<surname>Rao</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Weiss</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fukami</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rump</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Niesler</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mertz</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Muroya</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Binder</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kirsch</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Winkelmann</surname>
+<given-names>M</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>1997</year>) <article-title>Pseudoatusomal deletions encompassing a novel homeobox gene cause growth failure in idiopathic short stature and Turner syndrome</article-title>. <source>Nat Genet</source>
+<volume>16</volume>: <fpage>54</fpage>–<lpage>63</lpage>
+<pub-id pub-id-type="pmid">9140395</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/ng0597-54</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0054"><mixed-citation publication-type="journal" id="emmm201606623-cit-0054">
+<string-name name-style="western">
+<surname>Renz</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Otten</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Faurobert</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rudolph</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Boulday</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Duchene</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mickoleit</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dietrich</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ramspacher</surname>
+<given-names>C</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2015</year>) <article-title>Regulation of β1 integrin‐Klf2‐mediated angiogenesis by CCM proteins</article-title>. <source>Dev Cell</source>
+<volume>26</volume>: <fpage>181</fpage>–<lpage>190</lpage>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.devcel.2014.12.016</pub-id><pub-id pub-id-type="pmid">25625207</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0055"><mixed-citation publication-type="journal" id="emmm201606623-cit-0055">
+<string-name name-style="western">
+<surname>Rosilio</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huber‐Lequesne</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sapin</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Carel</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Blum</surname>
+<given-names>WF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cormier‐Daire</surname>
+<given-names>V</given-names>
+</string-name> (<year>2012</year>) <article-title>Genotypes and phenotypes of children with SHOX deficiency in France</article-title>. <source>J Clin Endocrinol Metab</source>
+<volume>97</volume>: <fpage>1257</fpage>–<lpage>1265</lpage>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1210/jc.2011-3460</pub-id><pub-id pub-id-type="pmid">22518848</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0056"><mixed-citation publication-type="journal" id="emmm201606623-cit-0056">
+<string-name name-style="western">
+<surname>Rüschendorf</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nürnberg</surname>
+<given-names>P</given-names>
+</string-name> (<year>2005</year>) <article-title>ALOHOMORA: a tool for linkage analysis using 10K SNP array data</article-title>. <source>Bioinformatics</source>
+<volume>21</volume>: <fpage>2123</fpage>–<lpage>2125</lpage>
+<pub-id pub-id-type="pmid">15647291</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/bioinformatics/bti264</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0057"><mixed-citation publication-type="journal" id="emmm201606623-cit-0057">
+<string-name name-style="western">
+<surname>Rydeen</surname>
+<given-names>AB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Waxman</surname>
+<given-names>JS</given-names>
+</string-name> (<year>2014</year>) <article-title>Cyp26 enzymes are required to balance the cardiac and vascular lineages within the anterior lateral plate mesoderm</article-title>. <source>Development</source>
+<volume>141</volume>: <fpage>1638</fpage>–<lpage>1648</lpage>
+<pub-id pub-id-type="pmid">24667328</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1242/dev.105874</pub-id><pub-id pub-id-type="pmcid">PMC3978838</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0058"><mixed-citation publication-type="journal" id="emmm201606623-cit-0058">
+<string-name name-style="western">
+<surname>Sawada</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kamei</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hakuno</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Takahashi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shimizu</surname>
+<given-names>T</given-names>
+</string-name> (<year>2015</year>) <article-title>In vivo loss of function study reveals the short stature homeobox‐containing (shox) gene plays indispensable roles in early embryonic growth and bone formation in zebrafish</article-title>. <source>Dev Dyn</source>
+<volume>244</volume>: <fpage>146</fpage>–<lpage>156</lpage>
+<pub-id pub-id-type="pmid">25483930</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/dvdy.24239</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0059"><mixed-citation publication-type="journal" id="emmm201606623-cit-0059">
+<string-name name-style="western">
+<surname>Schiller</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Spranger</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schechinger</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fukami</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Merker</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Drop</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tröger</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Knoblauch</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kunze</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Seidel</surname>
+<given-names>J</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2000</year>) <article-title>Phenotypic variation and genetic heterogeneity in Léri‐Weill syndrome</article-title>. <source>Eur J Hum Genet</source>
+<volume>8</volume>: <fpage>54</fpage>–<lpage>62</lpage>
+<pub-id pub-id-type="pmid">10713888</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/sj.ejhg.5200402</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0060"><mixed-citation publication-type="journal" id="emmm201606623-cit-0060">
+<string-name name-style="western">
+<surname>Schindelin</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Arganda‐Carreras</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Frise</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kaynig</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Longair</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pietzsch</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Preibisch</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rueden</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Saalfeld</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schmid</surname>
+<given-names>B</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2012</year>) <article-title>Fiji: an open‐source platform for biological‐image analysis</article-title>. <source>Nat Methods</source>
+<volume>9</volume>: <fpage>676</fpage>–<lpage>682</lpage>
+<pub-id pub-id-type="pmid">22743772</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nmeth.2019</pub-id><pub-id pub-id-type="pmcid">PMC3855844</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0061"><mixed-citation publication-type="journal" id="emmm201606623-cit-0061">
+<string-name name-style="western">
+<surname>Schneider</surname>
+<given-names>KU</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marchini</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sabherwal</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Röth</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Niesler</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marttila</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Blaschke</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lawson</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dumic</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rappold</surname>
+<given-names>G</given-names>
+</string-name> (<year>2005</year>) <article-title>Alteration of DNA binding, dimerization, and nuclear translocation of SHOX homedodomain mutations identified in idiopathic short stature and Leri‐Weill dyschondrosteosis</article-title>. <source>Hum Mutat</source>
+<volume>26</volume>: <fpage>44</fpage>–<lpage>52</lpage>
+<pub-id pub-id-type="pmid">15931687</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/humu.20187</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0062"><mixed-citation publication-type="journal" id="emmm201606623-cit-0062">
+<string-name name-style="western">
+<surname>Schwarz</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Roedelsperger</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schuelke</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Seelow</surname>
+<given-names>D</given-names>
+</string-name> (<year>2010</year>) <article-title>MutationTaster evaluates disease‐causing potential of sequence alterations</article-title>. <source>Nat Methods</source>
+<volume>7</volume>: <fpage>575</fpage>–<lpage>576</lpage>
+<pub-id pub-id-type="pmid">20676075</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nmeth0810-575</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0063"><mixed-citation publication-type="journal" id="emmm201606623-cit-0063">
+<string-name name-style="western">
+<surname>Shears</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vassal</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Goodman</surname>
+<given-names>FR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Palmer</surname>
+<given-names>RW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Reardon</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Superti‐Furga</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Scambler</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Winter</surname>
+<given-names>RM</given-names>
+</string-name> (<year>1998</year>) <article-title>Mutation and deletion of the pseudoautosomal gene SHOX cause Leri‐Weill dyschondrosteosis</article-title>. <source>Nat Genet</source>
+<volume>19</volume>: <fpage>70</fpage>–<lpage>73</lpage>
+<pub-id pub-id-type="pmid">9590293</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/ng0198-70</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0064"><mixed-citation publication-type="journal" id="emmm201606623-cit-0064">
+<string-name name-style="western">
+<surname>Sirbu</surname>
+<given-names>IO</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gresh</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barra</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Duester</surname>
+<given-names>G</given-names>
+</string-name> (<year>2005</year>) <article-title>Shifting boundaries of retinoic acid activity control hindbrain segmental gene expression</article-title>. <source>Development</source>
+<volume>132</volume>: <fpage>2611</fpage>–<lpage>2622</lpage>
+<pub-id pub-id-type="pmid">15872003</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1242/dev.01845</pub-id><pub-id pub-id-type="pmcid">PMC2833012</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0065"><mixed-citation publication-type="journal" id="emmm201606623-cit-0065">
+<string-name name-style="western">
+<surname>Slavotinek</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mehrotra</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nazarenko</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tang</surname>
+<given-names>PL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cameron</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chu</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chou</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marqueling</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yahyavi</surname>
+<given-names>M</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2013</year>) <article-title>Focal facial dermal dysplasia, type IV, is caused by mutations in CYP26C1</article-title>. <source>Hum Mol Genet</source>
+<volume>22</volume>: <fpage>696</fpage>–<lpage>703</lpage>
+<pub-id pub-id-type="pmid">23161670</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/hmg/dds477</pub-id><pub-id pub-id-type="pmcid">PMC3554199</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0066"><mixed-citation publication-type="journal" id="emmm201606623-cit-0066">
+<string-name name-style="western">
+<surname>Taimi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Helvig</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wisniewski</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ramshaw</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>White</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Amad</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Korcyak</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Petkovich</surname>
+<given-names>M</given-names>
+</string-name> (<year>2004</year>) <article-title>A novel human cytochrome P450, CYP26C1, involved in metabolism of 9‐cis and all‐trans isomers of retinoic acid</article-title>. <source>J Biol Chem</source>
+<volume>279</volume>: <fpage>77</fpage>–<lpage>85</lpage>
+<pub-id pub-id-type="pmid">14532297</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1074/jbc.M308337200</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0067"><mixed-citation publication-type="journal" id="emmm201606623-cit-0067">
+<string-name name-style="western">
+<surname>Thiele</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nürnberg</surname>
+<given-names>P</given-names>
+</string-name> (<year>2005</year>) <article-title>HaploPainter: a tool for drawing pedigrees with complex haplotypes</article-title>. <source>Bioinformatics</source>
+<volume>21</volume>: <fpage>1730</fpage>–<lpage>1732</lpage>
+<pub-id pub-id-type="pmid">15377505</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/bioinformatics/bth488</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0068"><mixed-citation publication-type="journal" id="emmm201606623-cit-0068">
+<string-name name-style="western">
+<surname>Tiecke</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bangs</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Blaschke</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Farrell</surname>
+<given-names>ER</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rappold</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tickle</surname>
+<given-names>C</given-names>
+</string-name> (<year>2006</year>) <article-title>Expression of the short stature homeobox gene Shox is restricted by proximal and distal signals in chick limb buds and affects the length of skeletal elements</article-title>. <source>Dev Biol</source>
+<volume>298</volume>: <fpage>585</fpage>–<lpage>596</lpage>
+<pub-id pub-id-type="pmid">16904661</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ydbio.2006.07.008</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0069"><mixed-citation publication-type="journal" id="emmm201606623-cit-0069">
+<string-name name-style="western">
+<surname>Uehara</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yashiro</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mamiya</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nishino</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chambon</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dolle</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sakai</surname>
+<given-names>Y</given-names>
+</string-name> (<year>2006</year>) <article-title>CYP26A1 and CYP26C1 cooperatively regulate anterior‐posterior patterning of the developing brain and the production of migratory cranial neural crest cells in the mouse</article-title>. <source>Dev Biol</source>
+<volume>302</volume>: <fpage>399</fpage>–<lpage>411</lpage>
+<pub-id pub-id-type="pmid">17067568</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ydbio.2006.09.045</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0070"><mixed-citation publication-type="journal" id="emmm201606623-cit-0070">
+<string-name name-style="western">
+<surname>Untergasser</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cutcutache</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Koressaar</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ye</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Faircloth</surname>
+<given-names>BC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Remm</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rozen</surname>
+<given-names>SG</given-names>
+</string-name> (<year>2012</year>) <article-title>Primer3‐new capabilities and interfaces</article-title>. <source>Nucleic Acids Res</source>
+<volume>40</volume>: <fpage>e115</fpage>
+<pub-id pub-id-type="pmid">22730293</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/nar/gks596</pub-id><pub-id pub-id-type="pmcid">PMC3424584</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0071"><mixed-citation publication-type="journal" id="emmm201606623-cit-0071">
+<string-name name-style="western">
+<surname>Vaser</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Adusumalli</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Leng</surname>
+<given-names>SN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sikic</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ng</surname>
+<given-names>PC</given-names>
+</string-name> (<year>2016</year>) <article-title>SIFT missense predictions for genomes</article-title>. <source>Nat Protoc</source>
+<volume>11</volume>: <fpage>1</fpage>–<lpage>9</lpage>
+<pub-id pub-id-type="pmid">26633127</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nprot.2015.123</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0072"><mixed-citation publication-type="journal" id="emmm201606623-cit-0072">
+<string-name name-style="western">
+<surname>Verdin</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fernández‐Miñán</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Benito‐Sanz</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Janssens</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Callewaert</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>De Waele</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>De Schepper</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>François</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Menten</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Heath</surname>
+<given-names>KE</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2015</year>) <article-title>Profiling of conserved non‐coding elements upstream of SHOX and functional characterization of the SHOX cis‐regulatory landscape</article-title>. <source>Sci Rep</source>
+<volume>5</volume>: <fpage>17667</fpage>
+<pub-id pub-id-type="pmid">26631348</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/srep17667</pub-id><pub-id pub-id-type="pmcid">PMC4668379</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0073"><mixed-citation publication-type="journal" id="emmm201606623-cit-0073">
+<string-name name-style="western">
+<surname>Weston</surname>
+<given-names>AD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hoffman</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Underhill</surname>
+<given-names>TM</given-names>
+</string-name> (<year>2003</year>) <article-title>Revisiting the role of retinoid signaling in skeletal development</article-title>. <source>Birth Defects Res C Embryo Today</source>
+<volume>69</volume>: <fpage>156</fpage>–<lpage>173</lpage>
+<pub-id pub-id-type="pmid">12955859</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/bdrc.10010</pub-id></mixed-citation></ref><ref id="emmm201606623-bib-0074"><mixed-citation publication-type="journal" id="emmm201606623-cit-0074">
+<string-name name-style="western">
+<surname>Zinn</surname>
+<given-names>AR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wei</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Elder</surname>
+<given-names>FF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sctt</surname>
+<given-names>CI</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name name-style="western">
+<surname>Marttila</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ross</surname>
+<given-names>JL</given-names>
+</string-name> (<year>2002</year>) <article-title>Complete SHOX deficiency causes Langer mesomelic dysplasia</article-title>. <source>Am J Med Genet</source>
+<volume>110</volume>: <fpage>158</fpage>–<lpage>163</lpage>
+<pub-id pub-id-type="pmid">12116254</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ajmg.10422</pub-id></mixed-citation></ref></ref-list></back></article>

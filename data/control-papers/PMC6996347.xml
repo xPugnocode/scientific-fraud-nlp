@@ -1,0 +1,478 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article article-type="research-article" xml:lang="en" dtd-version="1.4"><front><journal-meta><journal-id journal-id-type="nlm-ta">FEBS Open Bio</journal-id><journal-id journal-id-type="iso-abbrev">FEBS Open Bio</journal-id><journal-id journal-id-type="pmc-domain-id">2013</journal-id><journal-id journal-id-type="pmc-domain">febsopenbio</journal-id><journal-id journal-id-type="nlm-id">101580716</journal-id><journal-id journal-id-type="publisher-id">FEB4</journal-id><journal-title-group><journal-title>FEBS Open Bio</journal-title></journal-title-group><issn pub-type="epub">2211-5463</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC6996347</article-id><article-id pub-id-type="pmcid-ver">PMC6996347.1</article-id><article-id pub-id-type="pmcaid">6996347</article-id><article-id pub-id-type="pmcaiid">6996347</article-id><article-id pub-id-type="pmid">31804766</article-id><article-id pub-id-type="doi">10.1002/2211-5463.12772</article-id><article-id pub-id-type="publisher-id">FEB412772</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group></article-categories><title-group><article-title>Crystal structure of the translation recovery factor Trf from <italic toggle="yes">Sulfolobus solfataricus</italic>
+</article-title><alt-title alt-title-type="right-running-head">Structure of translation recovery factor Trf</alt-title><alt-title alt-title-type="left-running-head">M. Kaiser <italic toggle="yes">et al</italic>.</alt-title></title-group><contrib-group><contrib id="feb412772-cr-0001" contrib-type="author"><name name-style="western"><surname>Kaiser</surname><given-names initials="M">Marco</given-names></name><xref ref-type="aff" rid="feb412772-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="feb412772-cr-0002" contrib-type="author"><name name-style="western"><surname>Wurm</surname><given-names initials="JP">Jan Philip</given-names></name><xref ref-type="aff" rid="feb412772-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="feb412772-curr-0001">
+<sup>4</sup>
+</xref></contrib><contrib id="feb412772-cr-0003" contrib-type="author"><name name-style="western"><surname>Märtens</surname><given-names initials="B">Birgit</given-names></name><xref ref-type="aff" rid="feb412772-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="feb412772-cr-0004" contrib-type="author"><name name-style="western"><surname>Bläsi</surname><given-names initials="U">Udo</given-names></name><xref ref-type="aff" rid="feb412772-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="feb412772-cr-0005" contrib-type="author"><name name-style="western"><surname>Pogoryelov</surname><given-names initials="D">Denys</given-names></name><xref ref-type="aff" rid="feb412772-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="feb412772-cr-0006" contrib-type="author" corresp="yes"><name name-style="western"><surname>Wöhnert</surname><given-names initials="J">Jens</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-7193-401X</contrib-id><xref ref-type="aff" rid="feb412772-aff-0001">
+<sup>1</sup>
+</xref><address><email>woehnert@bio.uni-frankfurt.de</email></address></contrib></contrib-group><aff id="feb412772-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Institute of Molecular Biosciences and Center for Biomolecular Magnetic Resonance (BMRZ)</named-content>
+<institution>Goethe‐University Frankfurt</institution>
+<country country="DE">Germany</country>
+</aff><aff id="feb412772-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Microbiology, Immunobiology and Genetics</named-content>
+<named-content content-type="organisation-division">Max F. Perutz Laboratories</named-content>
+<named-content content-type="organisation-division">Center of Molecular Biology</named-content>
+<institution>University of Vienna</institution>
+<country country="AT">Austria</country>
+</aff><aff id="feb412772-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Institute of Biochemistry</named-content>
+<institution>Goethe‐University Frankfurt</institution>
+<country country="DE">Germany</country>
+</aff><aff id="feb412772-curr-0001"><label><sup>4</sup></label>Present address:
+<named-content content-type="organisation-division">Institute of Biophysics and Physical Biochemistry</named-content>
+<institution>University of Regensburg</institution>
+<country country="DE">Germany</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+J. Wöhnert, Institute of Molecular Biosciences, Goethe‐University Frankfurt, Max‐von‐Laue‐Str. 9, 60438 Frankfurt, Germany<break/>
+Fax: +49‐69‐79829527<break/>
+Tel: +49‐69‐79829785<break/>
+E‐mail: <email>woehnert@bio.uni-frankfurt.de</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>18</day><month>12</month><year>2019</year></pub-date><pub-date pub-type="collection"><month>2</month><year>2020</year></pub-date><volume>10</volume><issue>2</issue><issue-id pub-id-type="pmc-issue-id">351528</issue-id><issue-id pub-id-type="doi">10.1002/feb4.v10.2</issue-id><fpage>221</fpage><lpage>228</lpage><history><date date-type="received"><day>13</day><month>9</month><year>2019</year></date><date date-type="rev-recd"><day>25</day><month>11</month><year>2019</year></date><date date-type="accepted"><day>03</day><month>12</month><year>2019</year></date></history><pub-history><event event-type="pmc-release"><date><day>18</day><month>12</month><year>2019</year></date></event><event event-type="pmc-live"><date><day>05</day><month>02</month><year>2020</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-03-13 01:25:14.240"><day>13</day><month>03</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2019 The Authors. Published by FEBS Press and John Wiley &amp; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="FEB4-10-221.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:FEB4-10-221.pdf"/><abstract id="feb412772-abs-0001"><p>During translation initiation, the heterotrimeric archaeal translation initiation factor 2 (aIF2) recruits the initiator <styled-content style="fixed-case" toggle="no">tRNA</styled-content>
+<sub>i</sub> to the small ribosomal subunit. In the stationary growth phase and/or during nutrient stress, <italic toggle="yes">Sulfolobus solfataricus </italic>
+<styled-content style="fixed-case" toggle="no">aIF</styled-content>2 has a second function: It protects leaderless <styled-content style="fixed-case" toggle="no">mRNA</styled-content>s against degradation by binding to their 5′‐ends. The <italic toggle="yes">S. solfataricus</italic> protein Sso2509 is a translation recovery factor (Trf) that interacts with <styled-content style="fixed-case" toggle="no">aIF</styled-content>2 and is responsible for the release of <styled-content style="fixed-case" toggle="no">aIF</styled-content>2 from bound <styled-content style="fixed-case" toggle="no">mRNA</styled-content>s, thereby enabling translation re‐initiation. It is a member of the domain of unknown function 35 (<styled-content style="fixed-case" toggle="no">DUF</styled-content>35) protein family and is conserved in Sulfolobales as well as in other archaea. Here, we present the X‐ray structure of <italic toggle="yes">S. solfataricus</italic> Trf solved to a resolution of 1.65 Å. Trf is composed of an N‐terminal rubredoxin‐like domain containing a bound zinc ion and a C‐terminal oligosaccharide/oligonucleotide binding fold domain. The Trf structure reveals putative <styled-content style="fixed-case" toggle="no">mRNA</styled-content> binding sites in both domains. Surprisingly, the Trf protein is structurally but not sequentially very similar to proteins linked to acyl‐CoA utilization—for example, the Sso2064 protein from <italic toggle="yes">S. solfataricus</italic>—as well as to scaffold proteins found in the acetoacetyl‐CoA thiolase/high‐mobility group‐CoA synthase complex of the archaeon <italic toggle="yes">Methanothermococcus thermolithotrophicus</italic> and in a steroid side‐chain‐cleaving aldolase complex from the bacterium <italic toggle="yes">Thermomonospora curvata</italic>. This suggests that members of the <styled-content style="fixed-case" toggle="no">DUF</styled-content>35 protein family are able to act as scaffolding and binding proteins in a wide variety of biological processes.</p></abstract><abstract abstract-type="graphical" id="feb412772-abs-0002"><p>The X‐ray structure of the archaeal translation recovery factor (Trf) reveals a two‐domain protein with a putative <styled-content style="fixed-case" toggle="no">mRNA</styled-content>‐binding cleft. The N‐terminal domain resembles the rubredoxin fold, whereas the C‐terminal domain has an oligosaccharide/oligonucleotide binding fold. Trf is structurally similar to other proteins of the domain of unknown function 35 family that have functions not related to <styled-content style="fixed-case" toggle="no">RNA</styled-content> binding.<boxed-text position="anchor" content-type="graphic" id="feb412772-blkfxd-0001" orientation="portrait"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="nlm-graphic-1" orientation="portrait" xlink:href="FEB4-10-221-g004.jpg"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="feb412772-kwd-0001"><styled-content style="fixed-case" toggle="no">DUF</styled-content>35</kwd><kwd id="feb412772-kwd-0002">ribosome</kwd><kwd id="feb412772-kwd-0003"><italic toggle="yes">Sulfolobus solfataricus</italic></kwd><kwd id="feb412772-kwd-0004">translation initiation</kwd><kwd id="feb412772-kwd-0005">translation recovery factor Trf</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>Deutsche Forschungsgemeinschaft </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100001659</institution-id></institution-wrap></funding-source><award-id>CRC 902, B10</award-id></award-group><award-group id="funding-0002"><funding-source>European Community's Seventh Framework Programme</funding-source><award-id>FP7/2007‐2013</award-id></award-group><award-group id="funding-0003"><funding-source>BioStruct‐X</funding-source><award-id>283570</award-id></award-group></funding-group><counts><fig-count count="3"/><table-count count="1"/><page-count count="8"/><word-count count="4522"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>February 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.5 mode:remove_FC converted:03.02.2020</meta-value></custom-meta></custom-meta-group></article-meta></front><body id="feb412772-body-0001"><def-list list-content="abbreviations" id="feb412772-dl-0001"><title>Abbreviations</title><def-item><term>aIF2</term><def><p>archaeal initiation factor 2</p></def></def-item><def-item><term>DUF</term><def><p>domain of unknown function</p></def></def-item><def-item><term>EMSA</term><def><p>electrophoretic mobility shift assay</p></def></def-item><def-item><term>OB‐fold</term><def><p>oligosaccharide/oligonucleotide binding fold</p></def></def-item><def-item><term>PDB</term><def><p>Protein Data Bank</p></def></def-item><def-item><term>Trf</term><def><p>translation recovery factor</p></def></def-item></def-list><p>
+<italic toggle="yes">Sulfolobus solfataricus</italic> is a thermoacidophilic archaeon originally isolated from hot volcanic springs. It grows optimally at 350 K and in acidic environments with a pH between 2 and 4 <xref rid="feb412772-bib-0001" ref-type="ref">1</xref>. Fundamental features of translation initiation are conserved between archaea such as <italic toggle="yes">S. solfataricus</italic> and eukaryotes <xref rid="feb412772-bib-0002" ref-type="ref">2</xref>. The heterotrimeric translation initiation factor IF2 (α, β, and γ) is required for binding of the methionine‐loaded initiator tRNA (tRNA<sub>i</sub>) to the small ribosomal subunit as well as the proper positioning of tRNA<sub>i</sub> in the ribosomal P‐site in archaea and in eukaryotes. However, crenarchaeal archaeal initiation factor 2 (aIF2) lacks the tRNA<sub>i</sub> shuttle function of eukaryotic initiation factor 2 <xref rid="feb412772-bib-0003" ref-type="ref">3</xref>, <xref rid="feb412772-bib-0004" ref-type="ref">4</xref>. Interestingly, in <italic toggle="yes">S. solfataricus</italic> the aIF2γ subunit has an additional function during the stationary growth phase and/or during nutrient starvation. Under these conditions, it protects mRNAs against exonuclease‐mediated 5′–3′ decay via binding to their triphosphorylated 5′‐ends <xref rid="feb412772-bib-0005" ref-type="ref">5</xref>, <xref rid="feb412772-bib-0006" ref-type="ref">6</xref>. To reinitiate translation after nutrient replenishment, aIF2γ must be displaced from mRNAs. The small protein translation recovery factor (Trf) was identified as the factor responsible for releasing aIF2γ from bound mRNAs, thereby enabling re‐initiation of translation after relief of nutrient stress <xref rid="feb412772-bib-0005" ref-type="ref">5</xref>.</p><p>A sequence alignment of Trf homologs from different <italic toggle="yes">Sulfolobus</italic> species revealed two conserved regions predicted to be similar to an N‐terminal rubredoxin‐like and a C‐terminal oligosaccharide/oligonucleotide binding fold (OB‐fold) domain <xref rid="feb412772-bib-0005" ref-type="ref">5</xref>. Here, we report the crystal structure of the 124‐amino acid (aa) <italic toggle="yes">S. solfataricus</italic> Trf protein (Sso2509) at a resolution of 1.65 Å. Interestingly, the structure but not the sequence of Trf is similar to other proteins of the domain of unknown function 35 (DUF35) family [Protein Data Bank (pdb): pdb <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.rcsb.org/pdb/search/structidSearch.do?structureId=3irb">http://www.rcsb.org/pdb/search/structidSearch.do?structureId=3irb</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.rcsb.org/pdb/search/structidSearch.do?structureId=6et9">http://www.rcsb.org/pdb/search/structidSearch.do?structureId=6et9</ext-link> chain E, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.rcsb.org/pdb/search/structidSearch.do?structureId=6ok1">http://www.rcsb.org/pdb/search/structidSearch.do?structureId=6ok1</ext-link> chain B, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.rcsb.org/pdb/search/structidSearch.do?structureId=5m3k">http://www.rcsb.org/pdb/search/structidSearch.do?structureId=5m3k</ext-link> chain B] that have been described to bind directly or indirectly to acyl‐CoA <xref rid="feb412772-bib-0007" ref-type="ref">7</xref>, <xref rid="feb412772-bib-0008" ref-type="ref">8</xref> or act as scaffolding components of acyl‐CoA‐dependent enzyme complexes <xref rid="feb412772-bib-0008" ref-type="ref">8</xref>, <xref rid="feb412772-bib-0009" ref-type="ref">9</xref> as well as a CoA‐independent bacterial acylase <xref rid="feb412772-bib-0010" ref-type="ref">10</xref>. This suggests a general role of DUF35 family proteins as scaffolding or binding proteins in a variety of biological processes.</p><sec sec-type="materials-and-methods" id="feb412772-sec-0002"><title>Materials and methods</title><p>A codon‐optimized gene for production of Trf in <italic toggle="yes">Escherichia coli</italic> was obtained commercially from GenScript in a pUC57 plasmid vector. The gene encoded the full‐length native Trf protein sequence from <italic toggle="yes">S. solfataricus</italic>. The coding region was subcloned into a pET11a expression plasmid using the NdeI and BamHI restriction sites.</p><p>
+<italic toggle="yes">Escherichia coli</italic> BL21 (DE3) cells were transformed with this plasmid, and cells were grown at 37 °C in Luria broth medium supplemented with 100 mg·mL<sup>−1</sup> ampicillin until an optical density (OD<sub>600</sub>) of 0.8 was reached. Trf synthesis was induced by adding 1 m<sc>m</sc> isopropyl β‐<sc>d</sc>‐1‐thio‐galactopyranoside at 20 °C. Sixteen hours after induction, the cells from a 1 L culture were harvested by centrifugation at 5000 <italic toggle="yes"><bold>g</bold></italic> (10 min, 4 °C) and disrupted by sonication in 20 mL lysis buffer (50 m<sc>m</sc> BisTris pH 5.8, 200 m<sc>m</sc> NaCl, 10 m<sc>m</sc> ß‐mercaptoethanol, 200 m<sc>m</sc> imidazole) on ice. After cell lysis, a heat denaturation step was performed at 65 °C for 15 min. Subsequently, the solution was centrifuged at 7000 <italic toggle="yes"><bold>g</bold></italic> (20 min, 4 °C). The supernatant containing Trf was diluted with dilution buffer (50 m<sc>m</sc> BisTris pH 5.8, 10 m<sc>m</sc> ß‐mercaptoethanol, 200 m<sc>m</sc> imidazole) to 150 mL and loaded onto a SP‐Sepharose column (GE Healthcare, Solingen, Germany, HiPrepTM SP FF 16/60). Trf was eluted with a buffer containing 1 <sc>m</sc> NaCl in a linear gradient. Fractions containing Trf were pooled, concentrated to 4 mL, and applied to a gel filtration column (Superdex 200 HR 26/60; GE Healthcare) pre‐equilibrated with gel filtration buffer (50 m<sc>m</sc> BisTris pH 6.5, 50 m<sc>m</sc> NaCl, 5 m<sc>m</sc> ß‐mercapthoethanol, 200 m<sc>m</sc> imidazole). Fractions containing Trf were pooled and concentrated to a final protein concentration of 175 μ<sc>m</sc>. Protein purity was assessed by SDS/PAGE. MALDI mass spectrometry yielded a molecular weight of 14.78 kDa (calculated 14.78 kDa).</p><p>Crystallization of Trf was achieved by slowly removing imidazole from the buffer during a two‐step dialysis of a gel filtration sample (4 mL/175 μ<sc>m</sc>) of Trf against 1 L of an imidazole‐free dialysis buffer (50 m<sc>m</sc> BisTris pH 6.5, 50 m<sc>m</sc> NaCl, 5 m<sc>m</sc> ß‐mercapthoethanol) at 4 °C in a dialysis volume of 500 mL. After 24 h, the buffer was exchanged, and dialysis was continued for additional 72 h. After 4 days of dialysis, crystals appeared in the dialysis chamber (Slide‐A‐Lyzer™, Thermo Fisher, Waltham, MA, USA, 3.5 kDa molecular weight cutoff). A microscopic analysis revealed rod‐like crystals being UV‐active. These crystals were used for structure determination. The crystals were cryoprotected by adding 33% PEG‐400 to the crystallization solution.</p><p>X‐ray diffraction data were collected on the beamline station PXIII of the Swiss Light Source (Paul Scherrer Institut, Villigen, Switzerland). All diffraction data were obtained from a single crystal and processed with the <sc>xds</sc> software package <xref rid="feb412772-bib-0011" ref-type="ref">11</xref>. The positions of anomalous scatterers were determined using SHELXD <xref rid="feb412772-bib-0012" ref-type="ref">12</xref>. The initial phases were obtained by <sc>shelxe</sc>
+<xref rid="feb412772-bib-0013" ref-type="ref">13</xref>, <xref rid="feb412772-bib-0014" ref-type="ref">14</xref>, and the initial model was built automatically by <sc>resolve</sc>
+<xref rid="feb412772-bib-0015" ref-type="ref">15</xref>. The initial model was extended by iterative rounds of model building with <sc>coot</sc>
+<xref rid="feb412772-bib-0016" ref-type="ref">16</xref> into the 2F<sub>o</sub>–F<sub>c</sub> electron density map and refined using the <sc>phenix</sc> software package <xref rid="feb412772-bib-0017" ref-type="ref">17</xref>. The Ramachandran plots of the final structure showed no outlying residues, as assessed by model validation with the program <sc>molprobity</sc>
+<xref rid="feb412772-bib-0018" ref-type="ref">18</xref>. The graphical representations were generated using <sc>chimera</sc>
+<xref rid="feb412772-bib-0019" ref-type="ref">19</xref>. Proteins that are structurally similar to Trf were identified using the DALI server <xref rid="feb412772-bib-0020" ref-type="ref">20</xref> and PDBeFOLD <xref rid="feb412772-bib-0021" ref-type="ref">21</xref>. Cα RMSDs and <italic toggle="yes">Z</italic>‐scores were calculated using the pairwise structure comparison option available at the DALI server.</p><p>Fluorescence anisotropy‐based RNA binding assays were performed at 25 °C using a Fluorolog 3 spectrometer (Horiba, Bensheim, Germany). Excitation and emission wavelengths were set to 492 and 521 nm. 5′‐fluorescein‐labeled RNAs were obtained commercially (Dharmacon, Lafayette, CO, USA) and deprotected according to the instructions of the manufacturer. Experiments were performed in a buffer containing 50 m<sc>m</sc> BisTris, pH 6.5, and 100 m<sc>m</sc> NaCl. A NaCl concentration of 100 m<sc>m</sc> in the buffer was necessary to prevent precipitation of the protein. The concentrations of the 5′‐fluorescein‐labeled RNAs were 100 n<sc>m</sc>. Trf was added stepwise until saturation was reached. Titration experiments were performed in triplicate. Each data point represents the average value with error bars indicating the standard deviation.</p><p>Analytical gel filtration in a buffer containing 50 m<sc>m</sc> BisTris, pH 6.5, and 150 m<sc>m</sc> NaCl was performed as described previously <xref rid="feb412772-bib-0022" ref-type="ref">22</xref>. A protein concentration of 50 μ<sc>m</sc> was used. For molecular weight comparisons, we used the proteins <italic toggle="yes">Ph</italic>S11 and <italic toggle="yes">Ph</italic>Fap7 as well as the highly stable PhFap7/PhS11 complex with molecular weights of 14.74, 20.18, and 34.92 kDa, respectively <xref rid="feb412772-bib-0018" ref-type="ref">18</xref>.</p></sec><sec id="feb412772-sec-0003"><title>Results and Discussion</title><p>Structural information for the 124 aa protein Trf responsible for the release of mRNAs bound to aIF2γ during the outgrowth phase in <italic toggle="yes">S. solfataricus</italic> was so far not available <xref rid="feb412772-bib-0005" ref-type="ref">5</xref>. Here, we report the crystal structure of Trf determined from a cuboid needle‐like crystal diffracting to a resolution of 1.65 Å (Table <xref rid="feb412772-tbl-0001" ref-type="table">1</xref>). Previously, a sequence alignment suggested a N‐terminal rubredoxin‐like domain followed by a C‐terminal OB‐fold domain <xref rid="feb412772-bib-0005" ref-type="ref">5</xref>. The X‐ray structure (Fig. <xref rid="feb412772-fig-0001" ref-type="fig">1</xref>A) confirmed that Trf contains two domains, an N‐terminal rubredoxin‐like domain (aa: 19–51) and a C‐terminal OB‐fold‐like domain (aa: 54–117). Additionally, a short α‐helix (α1, aa 3–15) precedes the rubredoxin‐like domain which is composed of two antiparallel β‐strands (β1, aa 19–24; β2, aa 46–51) surrounding a loop region (aa 25–45), which complexes a zinc ion. The zinc ion is coordinated by four cysteine residues (aa 24, 27, 38, and 41) of the loop region (Fig. <xref rid="feb412772-fig-0001" ref-type="fig">1</xref>B). The β‐barrel of the OB‐fold‐like domain is formed by five antiparallel β‐strands (β3–β7, aa 54–65; 69–78; 83–88; 99–107; and 110–117) as is typical for this type of domain <xref rid="feb412772-bib-0023" ref-type="ref">23</xref>.</p><table-wrap id="feb412772-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Data collection and refinement statistics. Statistics for the highest resolution shell are shown in parentheses.</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><tbody><tr><td align="left" rowspan="1" colspan="1">Wavelength</td><td align="left" rowspan="1" colspan="1">1.0</td></tr><tr><td align="left" rowspan="1" colspan="1">Resolution range</td><td align="left" rowspan="1" colspan="1">37.44–1.65 (1.709–1.65)</td></tr><tr><td align="left" rowspan="1" colspan="1">Space group</td><td align="left" rowspan="1" colspan="1">P 21 21 21</td></tr><tr><td align="left" rowspan="1" colspan="1">Unit cell</td><td align="left" rowspan="1" colspan="1">40.291 58.493 101.366 90 90 90</td></tr><tr><td align="left" rowspan="1" colspan="1">Total reflections</td><td align="left" rowspan="1" colspan="1">398 915 (34 092)</td></tr><tr><td align="left" rowspan="1" colspan="1">Unique reflections</td><td align="left" rowspan="1" colspan="1">29 528 (2817)</td></tr><tr><td align="left" rowspan="1" colspan="1">Multiplicity</td><td align="left" rowspan="1" colspan="1">13.5 (12.1)</td></tr><tr><td align="left" rowspan="1" colspan="1">Completeness (%)</td><td align="left" rowspan="1" colspan="1">99.82 (98.26)</td></tr><tr><td align="left" rowspan="1" colspan="1">Mean <italic toggle="yes">I</italic>/sigma (<italic toggle="yes">I</italic>)</td><td align="left" rowspan="1" colspan="1">13.32 (1.78)</td></tr><tr><td align="left" rowspan="1" colspan="1">Wilson <italic toggle="yes">B</italic>‐factor</td><td align="left" rowspan="1" colspan="1">17.80</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">R</italic>‐merge</td><td align="left" rowspan="1" colspan="1">0.1447 (1.238)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">R</italic>‐meas</td><td align="left" rowspan="1" colspan="1">0.1504 (1.292)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">R</italic>‐pim</td><td align="left" rowspan="1" colspan="1">0.04051 (0.3628)</td></tr><tr><td align="left" rowspan="1" colspan="1">CC1/2</td><td align="left" rowspan="1" colspan="1">0.998 (0.662)</td></tr><tr><td align="left" rowspan="1" colspan="1">CC*</td><td align="left" rowspan="1" colspan="1">1.0 (0.893)</td></tr><tr><td align="left" rowspan="1" colspan="1">Reflections used in refinement</td><td align="left" rowspan="1" colspan="1">29 528 (2817)</td></tr><tr><td align="left" rowspan="1" colspan="1">Reflections used for <italic toggle="yes">R</italic>‐free</td><td align="left" rowspan="1" colspan="1">1476 (140)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">R</italic>‐work</td><td align="left" rowspan="1" colspan="1">0.1915 (0.2793)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">R</italic>‐free</td><td align="left" rowspan="1" colspan="1">0.2070 (0.3074)</td></tr><tr><td align="left" rowspan="1" colspan="1">CC (work)</td><td align="left" rowspan="1" colspan="1">0.959 (0.823)</td></tr><tr><td align="left" rowspan="1" colspan="1">CC (free)</td><td align="left" rowspan="1" colspan="1">0.966 (0.814)</td></tr><tr><td align="left" rowspan="1" colspan="1">Number of nonhydrogen atoms</td><td align="left" rowspan="1" colspan="1">2219</td></tr><tr><td align="left" rowspan="1" colspan="1">Macromolecules</td><td align="left" rowspan="1" colspan="1">1964</td></tr><tr><td align="left" rowspan="1" colspan="1">Ligands</td><td align="left" rowspan="1" colspan="1">2</td></tr><tr><td align="left" rowspan="1" colspan="1">Solvent</td><td align="left" rowspan="1" colspan="1">253</td></tr><tr><td align="left" rowspan="1" colspan="1">Protein residues</td><td align="left" rowspan="1" colspan="1">237</td></tr><tr><td align="left" rowspan="1" colspan="1">RMS (bonds)</td><td align="left" rowspan="1" colspan="1">0.012</td></tr><tr><td align="left" rowspan="1" colspan="1">RMS (angles)</td><td align="left" rowspan="1" colspan="1">1.18</td></tr><tr><td align="left" rowspan="1" colspan="1">Ramachandran favored (%)</td><td align="left" rowspan="1" colspan="1">99.14</td></tr><tr><td align="left" rowspan="1" colspan="1">Ramachandran allowed (%)</td><td align="left" rowspan="1" colspan="1">0.86</td></tr><tr><td align="left" rowspan="1" colspan="1">Ramachandran outliers (%)</td><td align="left" rowspan="1" colspan="1">0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">Rotamer outliers (%)</td><td align="left" rowspan="1" colspan="1">0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">Clashscore</td><td align="left" rowspan="1" colspan="1">3.57</td></tr><tr><td align="left" rowspan="1" colspan="1">Average <italic toggle="yes">B</italic>‐factor</td><td align="left" rowspan="1" colspan="1">25.74</td></tr><tr><td align="left" rowspan="1" colspan="1">Macromolecules</td><td align="left" rowspan="1" colspan="1">24.79</td></tr><tr><td align="left" rowspan="1" colspan="1">Ligands</td><td align="left" rowspan="1" colspan="1">13.77</td></tr><tr><td align="left" rowspan="1" colspan="1">Solvent</td><td align="left" rowspan="1" colspan="1">33.17</td></tr></tbody></table><permissions><copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder></permissions></table-wrap><fig fig-type="Figure" xml:lang="en" id="feb412772-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Structure of Trf. (A) Cartoon representation of the X‐ray structure for the Trf homodimer found in the crystal. Chain A is shown in magenta, chain B in medium blue, and the bound zinc ion as a blue/gravy sphere. (B) Close‐up of the zinc coordination site of Trf. The zinc‐coordinating cysteine side chains are labeled. The electron density difference map (F<sub>o</sub>–F<sub>c</sub>) for the zinc ion is shown in green at the 3σ level. (C) Superimposition of the two monomers of the crystallographic Trf dimer. Secondary structure elements are named and numbered. (D) Analytical gel filtration profile of Trf which shows that Trf is monomeric in solution. Arrows indicate the elution volumes of marker proteins in the same buffer (PhFap7: 20.18 kDa; PhS11: 14.74 kDa; PhFap7/PhS11 complex: 34.92 kDa).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-3" position="float" orientation="portrait" xlink:href="FEB4-10-221-g001.jpg"/></fig><p>The asymmetric unit contains two molecules (chains A and B; Fig. <xref rid="feb412772-fig-0001" ref-type="fig">1</xref>A). For both molecules, the refined model begins with residue 1 and terminates with residue 119. The C‐terminal residues His120, Leu121, His122, Asn123, and Phe124 could not be resolved due to insufficient electron density suggestive of a flexible C terminus. Overall, the structure contains the two protein chains A and B, two zinc ions, and 257 water molecules. Both monomers of the unit cell are virtually identical with an overall RMSD for Cα atoms 1–119 of 0.739 Å (Fig. <xref rid="feb412772-fig-0001" ref-type="fig">1</xref>C). However, the dimer interface corresponds to a buried solvent‐accessible surface area of only 789 Å<sup>2</sup> as determined with PDBePISA. This argues against the formation of a stable Trf dimer in solution <xref rid="feb412772-bib-0024" ref-type="ref">24</xref>. The retention volume of Trf on an analytical gel filtration column suggests that Trf in solution is indeed a monomeric protein (Fig. <xref rid="feb412772-fig-0001" ref-type="fig">1</xref>D).</p><p>An electrostatic surface representation of Trf shows a positively charged surface for β‐strands β3, β4, and β5 which correspond to the first three β‐strands of the OB‐fold domain as well as for a part of the zinc ribbon motif (Fig. <xref rid="feb412772-fig-0002" ref-type="fig">2</xref>A). These two positively charged surface areas are located close to each other and might therefore represent a possible interaction platform for nucleic acids. This would correspond to the RNA‐binding site in many other OB‐fold proteins where often β‐strands 2 and 3 sometimes ß‐strand 1 represent the recognition and binding surface for their nucleic acid ligands <xref rid="feb412772-bib-0023" ref-type="ref">23</xref>, <xref rid="feb412772-bib-0025" ref-type="ref">25</xref>. Two other prominent determinants for RNA binding in OB‐folds are the two loops connecting β‐strands β1 and β2 (L<sub>12</sub>) as well as β4 and β5 (L<sub>45</sub>). In agreement with an RNA binding function for Trf, these loops contain a significant number of basic residues (R65 and K66 in L<sub>12</sub> and K105, K110, and K111 in L<sub>45</sub>) augmented by aromatic residues (Y64 and Y70 in L<sub>12</sub> as well as Y112 in β4) that could contribute to RNA binding by providing base stacking interactions. Furthermore, many OB‐fold proteins feature a solvent‐exposed hydrophobic residue at the center of strand 3 which is often involved in stacking interactions with nucleic acid bases <xref rid="feb412772-bib-0023" ref-type="ref">23</xref>, <xref rid="feb412772-bib-0025" ref-type="ref">25</xref>. This residue is also present in Trf as Y85.</p><fig fig-type="Figure" xml:lang="en" id="feb412772-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Electrostatic surface potential and <styled-content style="fixed-case" toggle="no">RNA</styled-content>‐binding capability of Trf (A) Electrostatic surface potential of Trf. Blue colors correspond to positively charged areas, red colors to negatively charged areas, and white to areas with neutral electrostatic potential. For orientation, a cartoon representation of the structure of the Trf monomer in the same orientation is shown on the left. A positively charged putative <styled-content style="fixed-case" toggle="no">RNA</styled-content> binding cleft is indicated by an arrow. (B) Change in fluorescence anisotropy upon titration of Trf to fluorescein‐labeled single‐stranded and hairpin <styled-content style="fixed-case" toggle="no">RNA</styled-content>s. <styled-content style="fixed-case" toggle="no">RNA</styled-content> sequences, secondary structures, and the resulting <italic toggle="yes">K</italic>
+<sub>D</sub> values are depicted in the corresponding figure panels. Titration experiments were performed in triplicate. Each data point represents the average value with error bars indicating the standard deviation.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-5" position="float" orientation="portrait" xlink:href="FEB4-10-221-g002.jpg"/></fig><p>However, in previous experiments using electrophoretic mobility shift assays (EMSA) no evidence for direct RNA binding by Trf was found <xref rid="feb412772-bib-0005" ref-type="ref">5</xref>. We tested the binding of Trf to a single‐stranded RNA and an RNA that contains a hairpin loop next to single‐stranded segments which were 5′‐fluorescein‐labeled with fluorescence anisotropy measurements. Fluorescence anisotropy measurements are sensitive to binding events over a broader <italic toggle="yes">K</italic>
+<sub>D</sub> range compared to EMSA experiments. In titration experiments, we found that Trf bound these RNAs with <italic toggle="yes">K</italic>
+<sub>D</sub> values in the low micromolar range (Fig. <xref rid="feb412772-fig-0002" ref-type="fig">2</xref>B). Thus, Trf apparently has a genuine RNA‐binding capacity in agreement with its proposed function. However, the additional presence of a structured hairpin loop element in one of the RNAs did not lead to an increased affinity of Trf for this RNA.</p><p>To find structurally similar proteins in the PDB, we used the DALI server <xref rid="feb412772-bib-0020" ref-type="ref">20</xref> as well as PDBeFold <xref rid="feb412772-bib-0021" ref-type="ref">21</xref>. Trf has structural homology to four other published structures (PDB <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.rcsb.org/pdb/search/structidSearch.do?structureId=3irb">http://www.rcsb.org/pdb/search/structidSearch.do?structureId=3irb</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.rcsb.org/pdb/search/structidSearch.do?structureId=6et9">http://www.rcsb.org/pdb/search/structidSearch.do?structureId=6et9</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.rcsb.org/pdb/search/structidSearch.do?structureId=6ok1">http://www.rcsb.org/pdb/search/structidSearch.do?structureId=6ok1</ext-link>, and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.rcsb.org/pdb/search/structidSearch.do?structureId=5m3k">http://www.rcsb.org/pdb/search/structidSearch.do?structureId=5m3k</ext-link>, Fig. <xref rid="feb412772-fig-0003" ref-type="fig">3</xref>A). All four proteins also belong to the DUF35 family <xref rid="feb412772-bib-0007" ref-type="ref">7</xref>, <xref rid="feb412772-bib-0008" ref-type="ref">8</xref>, <xref rid="feb412772-bib-0009" ref-type="ref">9</xref>, <xref rid="feb412772-bib-0010" ref-type="ref">10</xref> but apparently have no RNA‐related functions. The first example—a protein termed Sso2064—also occurs in <italic toggle="yes">S. solfataricus</italic>
+<xref rid="feb412772-bib-0007" ref-type="ref">7</xref>. Functionally, Sso2064 is linked to acetyl‐CoA binding related to functions in the biosynthesis of lipids and polyketide antibiotics based on a genome context analysis <xref rid="feb412772-bib-0007" ref-type="ref">7</xref>. Sso2064 also crystallized as a homodimer similar to our observations for Trf. The superimposition of Trf with Sso2064 shows a similar overall fold with a Cα RMSD of 2.3 Å for 108 aligned residues and a DALI <italic toggle="yes">Z</italic>‐score of 10.4. The second DUF35 protein was recently identified as a scaffolding subunit in the acetoacetyl‐CoA thiolase/high‐mobility group‐CoA synthase complex of <italic toggle="yes">Methanothermococcus thermolithotrophicus</italic> (pdb entry <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.rcsb.org/pdb/search/structidSearch.do?structureId=6et9">http://www.rcsb.org/pdb/search/structidSearch.do?structureId=6et9</ext-link> chain E) which is part of the mevalonate pathway <xref rid="feb412772-bib-0008" ref-type="ref">8</xref>. The DUF35 subunit (chain E) in pdb entry <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.rcsb.org/pdb/search/structidSearch.do?structureId=6et9">http://www.rcsb.org/pdb/search/structidSearch.do?structureId=6et9</ext-link> aligns to Trf with a Cα RMSD of 2.2 Å for 107 residues with a DALI <italic toggle="yes">Z</italic>‐score of 12.7. Another example for a DUF35 protein acting as a scaffolding subunit in a CoA‐dependent enzyme complex was found in the structure of a steroid side‐chain‐cleaving aldolase <xref rid="feb412772-bib-0009" ref-type="ref">9</xref> from the bacterium <italic toggle="yes">Thermomonospora curvata</italic> (pdb entry <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.rcsb.org/pdb/search/structidSearch.do?structureId=6ok1">http://www.rcsb.org/pdb/search/structidSearch.do?structureId=6ok1</ext-link>, chain B). The structure of this protein aligns to Trf with a Cα RMSD of 2.4 Å for 116 aligned residues (DALI <italic toggle="yes">Z</italic>‐score 15.4). DUF35 protein family members can also occur as a scaffolding subunit in CoA‐independent enzymes <xref rid="feb412772-bib-0010" ref-type="ref">10</xref> as illustrated by the structure of a Friedel–Crafts acylase complex from the bacterium <italic toggle="yes">Pseudomonas protegens</italic> (pdb entry <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.rcsb.org/pdb/search/structidSearch.do?structureId=5m3k">http://www.rcsb.org/pdb/search/structidSearch.do?structureId=5m3k</ext-link>, chain B). However, it should be noted that this enzyme complex is apparently structurally and evolutionarily related to CoA‐dependent enzymes <xref rid="feb412772-bib-0010" ref-type="ref">10</xref>. The DUF35 subunit of this complex aligns to Trf with a Cα RMSD of 2.5 Å for 110 aligned residues (DALI <italic toggle="yes">Z</italic>‐score 12.0). All DUF35 proteins structurally characterized so far bind a zinc ion in equivalent positions. In those cases where the DUF35 homolog was crystallized as a scaffolding protein in the context of larger hetero‐oligomeric assemblies (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.rcsb.org/pdb/search/structidSearch.do?structureId=6et9">http://www.rcsb.org/pdb/search/structidSearch.do?structureId=6et9</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.rcsb.org/pdb/search/structidSearch.do?structureId=6ok1">http://www.rcsb.org/pdb/search/structidSearch.do?structureId=6ok1</ext-link>, and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.rcsb.org/pdb/search/structidSearch.do?structureId=5m3k">http://www.rcsb.org/pdb/search/structidSearch.do?structureId=5m3k</ext-link>) which are either dimers of heterodimers or dimers of heterotrimers, the DUF35 subunits are always involved in extensive interactions with the other subunits of the complex and never stabilize these complexes by homotopic interactions with each other.</p><fig fig-type="Figure" xml:lang="en" id="feb412772-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Sequence comparison and structural similarities between Trf and the other two structurally characterized <styled-content style="fixed-case" toggle="no">DUF</styled-content>35 domain‐containing proteins. (A) Sequence alignment of Trf, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.rcsb.org/pdb/search/structidSearch.do?structureId=3irb">http://www.rcsb.org/pdb/search/structidSearch.do?structureId=3irb</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.rcsb.org/pdb/search/structidSearch.do?structureId=6et9">http://www.rcsb.org/pdb/search/structidSearch.do?structureId=6et9</ext-link>: chain E, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.rcsb.org/pdb/search/structidSearch.do?structureId=6ok1">http://www.rcsb.org/pdb/search/structidSearch.do?structureId=6ok1</ext-link>: chain B, and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.rcsb.org/pdb/search/structidSearch.do?structureId=5m3k">http://www.rcsb.org/pdb/search/structidSearch.do?structureId=5m3k</ext-link>: chain B. Conservation is shown in black (identical residues) and gray (similar residues). The secondary structure of Trf is indicated above the alignment by arrows and cylinders for β‐strands and α‐helices, respectively. (B) Superimpositions of <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.rcsb.org/pdb/search/structidSearch.do?structureId=6et9">http://www.rcsb.org/pdb/search/structidSearch.do?structureId=6et9</ext-link>: chain E (left, gray), <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.rcsb.org/pdb/search/structidSearch.do?structureId=3irb">http://www.rcsb.org/pdb/search/structidSearch.do?structureId=3irb</ext-link> (second from left, forest green), <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.rcsb.org/pdb/search/structidSearch.do?structureId=6ok1">http://www.rcsb.org/pdb/search/structidSearch.do?structureId=6ok1</ext-link>: chain B (second from right, blue), and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.rcsb.org/pdb/search/structidSearch.do?structureId=5m3k">http://www.rcsb.org/pdb/search/structidSearch.do?structureId=5m3k</ext-link>: chain B (right, orange) onto Trf (magenta). (C) Comparison of the electrostatic surface characteristics of Trf (upper row, left), <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.rcsb.org/pdb/search/structidSearch.do?structureId=6et9">http://www.rcsb.org/pdb/search/structidSearch.do?structureId=6et9</ext-link> chain E (upper row, middle), <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.rcsb.org/pdb/search/structidSearch.do?structureId=3irb">http://www.rcsb.org/pdb/search/structidSearch.do?structureId=3irb</ext-link> (upper row, right), <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.rcsb.org/pdb/search/structidSearch.do?structureId=6ok1">http://www.rcsb.org/pdb/search/structidSearch.do?structureId=6ok1</ext-link>: chain B (lower row, left), and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.rcsb.org/pdb/search/structidSearch.do?structureId=5m3k">http://www.rcsb.org/pdb/search/structidSearch.do?structureId=5m3k</ext-link>: chain B (lower row, right). An arrow indicates the position of the positively charged putative <styled-content style="fixed-case" toggle="no">RNA</styled-content> binding cleft of Trf.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-7" position="float" orientation="portrait" xlink:href="FEB4-10-221-g003.jpg"/></fig><p>In comparison with Sso2064, all other structurally characterized DUF35 family members including Trf lack an additional long N‐terminal α‐Helix (Fig. <xref rid="feb412772-fig-0003" ref-type="fig">3</xref>B). Despite the high degree of structural similarity between all proteins, the level of sequence identity between Trf and all other structurally characterized DUF35 proteins is rather low (22% for Sso2509, 24% for chain E of <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.rcsb.org/pdb/search/structidSearch.do?structureId=6et9">http://www.rcsb.org/pdb/search/structidSearch.do?structureId=6et9</ext-link>, 22% for chain B of <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.rcsb.org/pdb/search/structidSearch.do?structureId=6ok1">http://www.rcsb.org/pdb/search/structidSearch.do?structureId=6ok1</ext-link>, and 19% for chain B of <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.rcsb.org/pdb/search/structidSearch.do?structureId=5m3k">http://www.rcsb.org/pdb/search/structidSearch.do?structureId=5m3k</ext-link>). A sequence alignment of the proteins is shown in Fig. <xref rid="feb412772-fig-0003" ref-type="fig">3</xref>A. Importantly, the electrostatic surface potentials of the proteins differ considerably. The N‐terminal helical parts of Trf as well as of chain E of <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.rcsb.org/pdb/search/structidSearch.do?structureId=6et9">http://www.rcsb.org/pdb/search/structidSearch.do?structureId=6et9</ext-link> show a positive electrostatic surface potential, whereas the N‐terminal helices of Sso2064 feature a negative surface potential due to the presence of an additional long N‐terminal α‐helix in this protein (Fig. <xref rid="feb412772-fig-0003" ref-type="fig">3</xref>C).</p><p>Furthermore, the parts of both domains forming the putative ‘binding cleft’ display a positive surface potential in Trf as well as in chain E of <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.rcsb.org/pdb/search/structidSearch.do?structureId=6et9">http://www.rcsb.org/pdb/search/structidSearch.do?structureId=6et9</ext-link> and chain B of <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.rcsb.org/pdb/search/structidSearch.do?structureId=5m3k">http://www.rcsb.org/pdb/search/structidSearch.do?structureId=5m3k</ext-link>, while Sso2064 and chain B of <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.rcsb.org/pdb/search/structidSearch.do?structureId=6ok1">http://www.rcsb.org/pdb/search/structidSearch.do?structureId=6ok1</ext-link> show a negative surface potential in this area (Fig. <xref rid="feb412772-fig-0003" ref-type="fig">3</xref>C). Thus, in regard to its overall structure and its surface properties Trf is most similar to chain E of <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.rcsb.org/pdb/search/structidSearch.do?structureId=6et9">http://www.rcsb.org/pdb/search/structidSearch.do?structureId=6et9</ext-link>. Interestingly, in chain E of <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.rcsb.org/pdb/search/structidSearch.do?structureId=6et9">http://www.rcsb.org/pdb/search/structidSearch.do?structureId=6et9</ext-link> the positively charged ‘binding cleft’ between the two domains interacts with the thiolase domain of the enzyme complex. For Trf, this binding cleft could be either the interaction surface for aIF2γ or for its target mRNAs. However, since <italic toggle="yes">S. solfataricus</italic> aIF2γ features only a rather limited area of negative surface potential compared to the thiolase domain of <italic toggle="yes">M. thermolithotrophicus</italic>, a potential mRNA binding surface seems to be more likely. In analogy to the function of chain E of <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.rcsb.org/pdb/search/structidSearch.do?structureId=6et9">http://www.rcsb.org/pdb/search/structidSearch.do?structureId=6et9</ext-link>, Trf might function in order to establish a transient scaffolding state between Trf, aIF2γ, and the bound mRNA to promote the release of bound mRNAs from aIF2γ.</p><p>Overall, our results demonstrate that while sequentially dissimilar DUF35 proteins fold into highly similar structures, they differ considerably in their surface features and can therefore be recruited into a potentially wide variety of biological pathways with general scaffolding and binding functions.</p></sec><sec sec-type="COI-statement" id="feb412772-sec-0005"><title>Conflict of interest</title><p>The authors declare no conflict of interest.</p></sec><sec id="feb412772-sec-0007"><title>Author contributions</title><p>MK overexpressed, purified, and crystallized protein; analyzed data; and wrote the manuscript. JPW provided protocols; assisted in purification, crystallization, and data analysis; and discussed the manuscript. BM provided reagents and protocols. UB provided reagents and protocols, conceptualized the project, analyzed data, and discussed the manuscript. DP collected, analyzed diffraction data, and discussed the manuscript. JW conceptualized the project, analyzed data, and wrote the manuscript.</p></sec></body><back><ack id="feb412772-sec-0004"><title>Acknowledgements</title><p>We are grateful to the Paul Scherrer Institute, Villigen, Switzerland, for providing synchrotron radiation beam time at the beamlines PX and PXIII of the Swiss Light Source (SLS). This work was supported by funding from the European Community's Seventh Framework Programme (FP7/2007‐2013) under BioStruct‐X (grant agreement No 283570) and from the Deutsche Forschungsgemeinschaft (DFG) through the SFB 902 ‘Molecular Mechanisms of RNA‐based Regulation’ (project B10 to JW).</p></ack><sec sec-type="data-availability" id="feb412772-sec-0006"><title>Data accessibility</title><p>The structure of <italic toggle="yes">S. solfataricus</italic> Trf has been deposited in the PDB under accession code <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.rcsb.org/pdb/search/structidSearch.do?structureId=6HTJ" specific-use="software is-supplemented-by">http://www.rcsb.org/pdb/search/structidSearch.do?structureId=6HTJ</ext-link>.</p></sec><ref-list content-type="cited-references" id="feb412772-bibl-0001"><title>References</title><ref id="feb412772-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="feb412772-cit-0001">
+<string-name name-style="western">
+<surname>de Rosa</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gambacorta</surname>
+<given-names>A</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Bu'Lock</surname>
+<given-names>JD</given-names>
+</string-name> (<year>1975</year>) <article-title>Extremely thermophilic acidophilic bacteria convergent with <italic toggle="yes">Sulfolobus acidocaldarius</italic>
+</article-title>. <source xml:lang="en">Microbiology</source>
+<volume>86</volume>, <fpage>156</fpage>–<lpage>164</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1099/00221287-86-1-156</pub-id><pub-id pub-id-type="pmid">234504</pub-id></mixed-citation></ref><ref id="feb412772-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="feb412772-cit-0002">
+<string-name name-style="western">
+<surname>La Teana</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Benelli</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Londei</surname>
+<given-names>P</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Bläsi</surname>
+<given-names>U</given-names>
+</string-name> (<year>2013</year>) <article-title>Translation initiation in the crenarchaeon <italic toggle="yes">Sulfolobus solfataricus</italic>: eukaryotic features but bacterial route</article-title>. <source xml:lang="en">Biochem Soc Trans</source>
+<volume>41</volume>, <fpage>350</fpage>–<lpage>355</lpage>.<pub-id pub-id-type="pmid">23356310</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1042/BST20120300</pub-id></mixed-citation></ref><ref id="feb412772-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="feb412772-cit-0003">
+<string-name name-style="western">
+<surname>Hasenöhrl</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fabbretti</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Londei</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gualerzi</surname>
+<given-names>CO</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Bläsi</surname>
+<given-names>U</given-names>
+</string-name> (<year>2009</year>) <article-title>Translation initiation complex formation in the crenarchaeon <italic toggle="yes">Sulfolobus solfataricus</italic>
+</article-title>. <source xml:lang="en">RNA</source>
+<volume>15</volume>, <fpage>2288</fpage>–<lpage>2298</lpage>.<pub-id pub-id-type="pmid">19861425</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1261/rna.1662609</pub-id><pub-id pub-id-type="pmcid">PMC2779686</pub-id></mixed-citation></ref><ref id="feb412772-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="feb412772-cit-0004">
+<string-name name-style="western">
+<surname>Milon</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Carotti</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Konevega</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wintermeyer</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rodnina</surname>
+<given-names>MV</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Gualerzi</surname>
+<given-names>CO</given-names>
+</string-name> (<year>2010</year>) <article-title>The ribosome‐bound initiation factor 2 recruits initiator tRNA to the 30S initiation complex</article-title>. <source xml:lang="en">EMBO Rep</source>
+<volume>11</volume>, <fpage>312</fpage>–<lpage>316</lpage>.<pub-id pub-id-type="pmid">20224578</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/embor.2010.12</pub-id><pub-id pub-id-type="pmcid">PMC2854590</pub-id></mixed-citation></ref><ref id="feb412772-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="feb412772-cit-0005">
+<string-name name-style="western">
+<surname>Märtens</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Manoharadas</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hasenöhrl</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zeichen</surname>
+<given-names>L</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Bläsi</surname>
+<given-names>U</given-names>
+</string-name> (<year>2013</year>) <article-title>Back to translation: removal of aIF2 from the 5′‐end of mRNAs by translation recovery factor in the crenarchaeon <italic toggle="yes">Sulfolobus solfataricus</italic>
+</article-title>. <source xml:lang="en">Nucleic Acids Res</source>
+<volume>42</volume>, <fpage>2505</fpage>–<lpage>2511</lpage>.<pub-id pub-id-type="pmid">24271401</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/nar/gkt1169</pub-id><pub-id pub-id-type="pmcid">PMC3936769</pub-id></mixed-citation></ref><ref id="feb412772-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="feb412772-cit-0006">
+<string-name name-style="western">
+<surname>Arkhipova</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stolboushkina</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kravchenko</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kljashtorny</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gabdulkhakov</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Garber</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nikonov</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Märtens</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bläsi</surname>
+<given-names>U</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Nikonov</surname>
+<given-names>O</given-names>
+</string-name> (<year>2015</year>) <article-title>Binding of the 5′‐triphosphate end of mRNA to the γ‐subunit of translation initiation factor 2 of the crenarchaeon <italic toggle="yes">Sulfolobus solfataricus</italic>
+</article-title>. <source xml:lang="en">J Mol Biol</source>
+<volume>427</volume>, <fpage>3086</fpage>–<lpage>3095</lpage>.<pub-id pub-id-type="pmid">26244522</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jmb.2015.07.020</pub-id></mixed-citation></ref><ref id="feb412772-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="feb412772-cit-0007">
+<string-name name-style="western">
+<surname>Krishna</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aravind</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bakolitsa</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Caruthers</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Carlton</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Miller</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Abdubek</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Astakhova</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Axelrod</surname>
+<given-names>HL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chiu</surname>
+<given-names>HJ</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2010</year>) <article-title>The structure of SSO2064, the first representative of Pfam family PF01796, reveals a novel two‐domain zinc‐ribbon OB‐fold architecture with a potential acyl‐CoA‐binding role</article-title>. <source xml:lang="en">Acta Crystallogr Sect F Struct Biol Cryst Commun</source>
+<volume>66</volume>, <fpage>1160</fpage>–<lpage>1166</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1107/S1744309110002514</pub-id><pub-id pub-id-type="pmcid">PMC2954200</pub-id><pub-id pub-id-type="pmid">20944206</pub-id></mixed-citation></ref><ref id="feb412772-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="feb412772-cit-0008">
+<string-name name-style="western">
+<surname>Vögeli</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Engilberge</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Girard</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Riobé</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maury</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Erb</surname>
+<given-names>TJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shima</surname>
+<given-names>S</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Wagner</surname>
+<given-names>T</given-names>
+</string-name> (<year>2018</year>) <article-title>Archaeal acetoacetyl‐CoA thiolase/HMG‐CoA synthase complex channels the intermediate via a fused CoA‐binding site</article-title>. <source xml:lang="en">Proc Natl Acad Sci USA</source>
+<volume>115</volume>, <fpage>3380</fpage>–<lpage>3385</lpage>.<pub-id pub-id-type="pmid">29531083</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.1718649115</pub-id><pub-id pub-id-type="pmcid">PMC5879682</pub-id></mixed-citation></ref><ref id="feb412772-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="feb412772-cit-0009">
+<string-name name-style="western">
+<surname>Aggett</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mallette</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gilbert</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vachon</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schroeter</surname>
+<given-names>KL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kimber</surname>
+<given-names>MS</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Seah</surname>
+<given-names>SYK</given-names>
+</string-name> (<year>2019</year>) <article-title>The steroid side‐chain‐cleaving aldolase Ltp2‐ChsH2<sub>DUF35</sub> is a thiolase superfamily member with a radically repurposed active site</article-title>. <source xml:lang="en">J Biol Chem</source>
+<volume>294</volume>, <fpage>11934</fpage>–<lpage>11943</lpage>.<pub-id pub-id-type="pmid">31209106</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1074/jbc.RA119.008889</pub-id><pub-id pub-id-type="pmcid">PMC6682727</pub-id></mixed-citation></ref><ref id="feb412772-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="feb412772-cit-0010">
+<string-name name-style="western">
+<surname>Pavkov‐Keller</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schmidt</surname>
+<given-names>NG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Żądło‐Dobrowolska</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kroutil</surname>
+<given-names>W</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Gruber</surname>
+<given-names>K</given-names>
+</string-name> (<year>2019</year>) <article-title>Structure and catalytic mechanism of a bacterial Friedel‐Crafts acylase</article-title>. <source xml:lang="en">ChemBioChem</source>
+<volume>20</volume>, <fpage>88</fpage>–<lpage>95</lpage>.<pub-id pub-id-type="pmid">30318713</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/cbic.201800462</pub-id><pub-id pub-id-type="pmcid">PMC6392133</pub-id></mixed-citation></ref><ref id="feb412772-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="feb412772-cit-0011">
+<string-name name-style="western">
+<surname>Kabsch</surname>
+<given-names>W</given-names>
+</string-name> (<year>2010</year>) <article-title>Xds</article-title>. <source xml:lang="en">Acta Crystallogr D Biol Crystallogr</source>
+<volume>66</volume>, <fpage>125</fpage>–<lpage>132</lpage>.<pub-id pub-id-type="pmid">20124692</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1107/S0907444909047337</pub-id><pub-id pub-id-type="pmcid">PMC2815665</pub-id></mixed-citation></ref><ref id="feb412772-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="feb412772-cit-0012">
+<string-name name-style="western">
+<surname>Schneider</surname>
+<given-names>TR</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Sheldrick</surname>
+<given-names>GM</given-names>
+</string-name> (<year>2002</year>) <article-title>Substructure solution with SHELXD</article-title>. <source xml:lang="en">Acta Crystallogr D Biol Crystallogr</source>
+<volume>58</volume>, <fpage>1772</fpage>–<lpage>1779</lpage>.<pub-id pub-id-type="pmid">12351820</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1107/s0907444902011678</pub-id></mixed-citation></ref><ref id="feb412772-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="feb412772-cit-0013">
+<string-name name-style="western">
+<surname>Sheldrick</surname>
+<given-names>GM</given-names>
+</string-name> (<year>2002</year>) <article-title>Macromolecular phasing with SHELXE</article-title>. <source xml:lang="en">Z Kristallogr Cryst Mater</source>
+<volume>217</volume>, <fpage>644</fpage>–<lpage>650</lpage>.</mixed-citation></ref><ref id="feb412772-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="feb412772-cit-0014">
+<string-name name-style="western">
+<surname>Sheldrick</surname>
+<given-names>GM</given-names>
+</string-name> (<year>2010</year>) <article-title>Experimental phasing with SHELXC/D/E: combining chain tracing with density modification</article-title>. <source xml:lang="en">Acta Crystallogr D Biol Crystallogr</source>
+<volume>66</volume>, <fpage>479</fpage>–<lpage>485</lpage>.<pub-id pub-id-type="pmid">20383001</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1107/S0907444909038360</pub-id><pub-id pub-id-type="pmcid">PMC2852312</pub-id></mixed-citation></ref><ref id="feb412772-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="feb412772-cit-0015">
+<string-name name-style="western">
+<surname>Terwilliger</surname>
+<given-names>TC</given-names>
+</string-name> (<year>2003</year>) <article-title>Automated main‐chain model building by template matching and iterative fragment extension</article-title>. <source xml:lang="en">Acta Crystallogr D Biol Crystallogr</source>
+<volume>59</volume>, <fpage>38</fpage>–<lpage>44</lpage>.<pub-id pub-id-type="pmid">12499537</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1107/S0907444902018036</pub-id><pub-id pub-id-type="pmcid">PMC2745878</pub-id></mixed-citation></ref><ref id="feb412772-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="feb412772-cit-0016">
+<string-name name-style="western">
+<surname>Emsley</surname>
+<given-names>P</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Cowtan</surname>
+<given-names>K</given-names>
+</string-name> (<year>2004</year>) <article-title>Coot: model‐building tools for molecular graphics</article-title>. <source xml:lang="en">Acta Crystallogr D Biol Crystallogr</source>
+<volume>60</volume>, <fpage>2126</fpage>–<lpage>2132</lpage>.<pub-id pub-id-type="pmid">15572765</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1107/S0907444904019158</pub-id></mixed-citation></ref><ref id="feb412772-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="feb412772-cit-0017">
+<string-name name-style="western">
+<surname>Adams</surname>
+<given-names>PD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Afonine</surname>
+<given-names>PV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bunkóczi</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>VB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Davis</surname>
+<given-names>IW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Echols</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Headd</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hung</surname>
+<given-names>LW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kapral</surname>
+<given-names>GJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Grosse‐Kunstleve</surname>
+<given-names>RW</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2010</year>) <article-title>PHENIX: a comprehensive Python‐based system for macromolecular structure solution</article-title>. <source xml:lang="en">Acta Crystallogr D Biol Crystallogr</source>
+<volume>66</volume>, <fpage>213</fpage>–<lpage>221</lpage>.<pub-id pub-id-type="pmid">20124702</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1107/S0907444909052925</pub-id><pub-id pub-id-type="pmcid">PMC2815670</pub-id></mixed-citation></ref><ref id="feb412772-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="feb412772-cit-0018">
+<string-name name-style="western">
+<surname>Chen</surname>
+<given-names>VB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Arendall</surname>
+<given-names>WB</given-names>
+<suffix>3rd</suffix>
+</string-name>, <string-name name-style="western">
+<surname>Headd</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Keedy</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Immormino</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kapral</surname>
+<given-names>GJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Murray</surname>
+<given-names>LW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Richardson</surname>
+<given-names>JS</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Richardson</surname>
+<given-names>DC</given-names>
+</string-name> (<year>2010</year>) <article-title>MolProbity: all‐atom structure validation for macromolecular crystallography</article-title>. <source xml:lang="en">Acta Crystallogr D Biol Crystallogr</source>
+<volume>66</volume>, <fpage>12</fpage>–<lpage>21</lpage>.<pub-id pub-id-type="pmid">20057044</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1107/S0907444909042073</pub-id><pub-id pub-id-type="pmcid">PMC2803126</pub-id></mixed-citation></ref><ref id="feb412772-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="feb412772-cit-0019">
+<string-name name-style="western">
+<surname>Pettersen</surname>
+<given-names>EF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Goddard</surname>
+<given-names>TD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huang</surname>
+<given-names>CC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Couch</surname>
+<given-names>GS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Greenblatt</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Meng</surname>
+<given-names>EC</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Ferrin</surname>
+<given-names>TE</given-names>
+</string-name> (<year>2004</year>) <article-title>UCSF Chimera—a visualization system for exploratory research and analysis</article-title>. <source xml:lang="en">J Comput Chem</source>
+<volume>25</volume>, <fpage>1605</fpage>–<lpage>1612</lpage>.<pub-id pub-id-type="pmid">15264254</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/jcc.20084</pub-id></mixed-citation></ref><ref id="feb412772-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="feb412772-cit-0020">
+<string-name name-style="western">
+<surname>Holm</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kääriäinen</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rosenström</surname>
+<given-names>P</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Schenkel</surname>
+<given-names>A</given-names>
+</string-name> (<year>2008</year>) <article-title>Searching protein structure databases with DaliLite vol 3</article-title>. <source xml:lang="en">Bioinformatics</source>
+<volume>24</volume>, <fpage>2780</fpage>–<lpage>2781</lpage>.<pub-id pub-id-type="pmid">18818215</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/bioinformatics/btn507</pub-id><pub-id pub-id-type="pmcid">PMC2639270</pub-id></mixed-citation></ref><ref id="feb412772-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="feb412772-cit-0021">
+<string-name name-style="western">
+<surname>Krissinel</surname>
+<given-names>E</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Henrick</surname>
+<given-names>K</given-names>
+</string-name> (<year>2004</year>) <article-title>Secondary‐structure matching (SSM), a new tool for fast protein structure alignment in three dimensions</article-title>. <source xml:lang="en">Acta Crystallogr D Biol Crystallogrv</source>
+<volume>60</volume>, <fpage>2256</fpage>–<lpage>2268</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1107/S0907444904026460</pub-id><pub-id pub-id-type="pmid">15572779</pub-id></mixed-citation></ref><ref id="feb412772-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="feb412772-cit-0022">
+<string-name name-style="western">
+<surname>Hellmich</surname>
+<given-names>UA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Weis</surname>
+<given-names>BL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lioutikov</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wurm</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kaiser</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Christ</surname>
+<given-names>NA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hantke</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kötter</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Entian</surname>
+<given-names>KD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schleiff</surname>
+<given-names>E</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2013</year>) <article-title>Essential ribosome assembly factor Fap7 regulates a hierarchy of RNA‐protein interactions during small ribosomal subunit biogenesis</article-title>. <source xml:lang="en">Proc Natl Acad Sci USA</source>
+<volume>110</volume>, <fpage>15253</fpage>–<lpage>15258</lpage>.<pub-id pub-id-type="pmid">24003121</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.1306389110</pub-id><pub-id pub-id-type="pmcid">PMC3780860</pub-id></mixed-citation></ref><ref id="feb412772-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="feb412772-cit-0023">
+<string-name name-style="western">
+<surname>Murzin</surname>
+<given-names>AG</given-names>
+</string-name> (<year>1993</year>) <article-title>OB (oligonucleotide/oligosaccharide binding)‐fold: common structural and functional solution for non‐homologous sequences</article-title>. <source xml:lang="en">EMBO J</source>
+<volume>12</volume>, <fpage>861</fpage>–<lpage>867</lpage>.<pub-id pub-id-type="pmid">8458342</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/j.1460-2075.1993.tb05726.x</pub-id><pub-id pub-id-type="pmcid">PMC413284</pub-id></mixed-citation></ref><ref id="feb412772-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="feb412772-cit-0024">
+<string-name name-style="western">
+<surname>Krissinel</surname>
+<given-names>E</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Henrick</surname>
+<given-names>K</given-names>
+</string-name> (<year>2007</year>) <article-title>Inference of macromolecular assemblies from crystalline state</article-title>. <source xml:lang="en">J Mol Biol</source>
+<volume>372</volume>, <fpage>774</fpage>–<lpage>797</lpage>.<pub-id pub-id-type="pmid">17681537</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jmb.2007.05.022</pub-id></mixed-citation></ref><ref id="feb412772-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="feb412772-cit-0025">
+<string-name name-style="western">
+<surname>Theobald</surname>
+<given-names>DL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mitton‐Fry</surname>
+<given-names>RM</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Wuttke</surname>
+<given-names>DS</given-names>
+</string-name> (<year>2003</year>) <article-title>Nucleic acid recognition by OB‐fold proteins</article-title>. <source xml:lang="en">Annu Rev Biophys</source>
+<volume>32</volume>, <fpage>115</fpage>–<lpage>133</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1146/annurev.biophys.32.110601.142506</pub-id><pub-id pub-id-type="pmcid">PMC1564333</pub-id><pub-id pub-id-type="pmid">12598368</pub-id></mixed-citation></ref></ref-list></back></article>

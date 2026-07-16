@@ -1,0 +1,884 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article id="cam44382" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Cancer Med</journal-id><journal-id journal-id-type="iso-abbrev">Cancer Med</journal-id><journal-id journal-id-type="pmc-domain-id">1974</journal-id><journal-id journal-id-type="pmc-domain">canmed</journal-id><journal-id journal-id-type="nlm-id">101595310</journal-id><journal-id journal-id-type="publisher-id">CAM4</journal-id><journal-title-group><journal-title>Cancer Medicine</journal-title></journal-title-group><issn pub-type="epub">2045-7634</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC8817094</article-id><article-id pub-id-type="pmcid-ver">PMC8817094.1</article-id><article-id pub-id-type="pmcaid">8817094</article-id><article-id pub-id-type="pmcaiid">8817094</article-id><article-id pub-id-type="pmid">34970853</article-id><article-id pub-id-type="doi">10.1002/cam4.4390</article-id><article-id pub-id-type="publisher-id">CAM44390</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Clinical Cancer Research</subject><subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group></subj-group></article-categories><title-group><article-title>Assessment of liver stiffness measurement and ultrasound findings change during inotuzumab ozogamicin cycles for relapsed or refractory acute lymphoblastic leukemia</article-title><alt-title alt-title-type="left-running-head">RAVAIOLI et al.</alt-title></title-group><contrib-group><contrib id="cam44390-cr-0001" contrib-type="author"><name name-style="western"><surname>Ravaioli</surname><given-names initials="F">Federico</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-1142-8585</contrib-id><xref rid="cam44390-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="cam44390-cr-0002" contrib-type="author"><name name-style="western"><surname>Marconi</surname><given-names initials="G">Giovanni</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-6309-0515</contrib-id><xref rid="cam44390-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="cam44390-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="cam44390-cr-0003" contrib-type="author" corresp="yes"><name name-style="western"><surname>Martinelli</surname><given-names initials="G">Giovanni</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-1025-4210</contrib-id><xref rid="cam44390-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><address><email>giovanni.martinelli@irst.emr.it</email></address></contrib><contrib id="cam44390-cr-0004" contrib-type="author"><name name-style="western"><surname>Dajti</surname><given-names initials="E">Elton</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-2905-1146</contrib-id><xref rid="cam44390-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="cam44390-cr-0005" contrib-type="author"><name name-style="western"><surname>Sartor</surname><given-names initials="C">Chiara</given-names></name><xref rid="cam44390-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="cam44390-cr-0006" contrib-type="author"><name name-style="western"><surname>Abbenante</surname><given-names initials="MC">Maria Chiara</given-names></name><xref rid="cam44390-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="cam44390-cr-0007" contrib-type="author"><name name-style="western"><surname>Alemanni</surname><given-names initials="LV">Luigina Vanessa</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-3013-7772</contrib-id><xref rid="cam44390-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="cam44390-cr-0008" contrib-type="author"><name name-style="western"><surname>Nanni</surname><given-names initials="J">Jacopo</given-names></name><xref rid="cam44390-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="cam44390-cr-0009" contrib-type="author"><name name-style="western"><surname>Rossini</surname><given-names initials="B">Benedetta</given-names></name><xref rid="cam44390-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="cam44390-cr-0010" contrib-type="author"><name name-style="western"><surname>Parisi</surname><given-names initials="S">Sarah</given-names></name><xref rid="cam44390-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="cam44390-cr-0011" contrib-type="author"><name name-style="western"><surname>Colecchia</surname><given-names initials="L">Luigi</given-names></name><xref rid="cam44390-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="cam44390-cr-0012" contrib-type="author"><name name-style="western"><surname>Cristiano</surname><given-names initials="G">Gianluca</given-names></name><xref rid="cam44390-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="cam44390-cr-0013" contrib-type="author"><name name-style="western"><surname>Marasco</surname><given-names initials="G">Giovanni</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-7167-8773</contrib-id><xref rid="cam44390-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="cam44390-cr-0014" contrib-type="author"><name name-style="western"><surname>Vestito</surname><given-names initials="A">Amanda</given-names></name><xref rid="cam44390-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="cam44390-cr-0015" contrib-type="author"><name name-style="western"><surname>Paolini</surname><given-names initials="S">Stefania</given-names></name><xref rid="cam44390-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="cam44390-cr-0016" contrib-type="author"><name name-style="western"><surname>Bonifazi</surname><given-names initials="F">Francesca</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-1544-9911</contrib-id><xref rid="cam44390-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="cam44390-cr-0017" contrib-type="author"><name name-style="western"><surname>Curti</surname><given-names initials="A">Antonio</given-names></name><xref rid="cam44390-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="cam44390-cr-0018" contrib-type="author"><name name-style="western"><surname>Festi</surname><given-names initials="D">Davide</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-9534-1745</contrib-id><xref rid="cam44390-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="cam44390-cr-0019" contrib-type="author"><name name-style="western"><surname>Cavo</surname><given-names initials="M">Michele</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-4514-3227</contrib-id><xref rid="cam44390-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="cam44390-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="cam44390-cr-0020" contrib-type="author" corresp="yes"><name name-style="western"><surname>Colecchia</surname><given-names initials="A">Antonio</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-8384-801X</contrib-id><xref rid="cam44390-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref><address><email>antonio.colecchia@unimore.it</email></address></contrib><contrib id="cam44390-cr-0021" contrib-type="author"><name name-style="western"><surname>Papayannidis</surname><given-names initials="C">Cristina</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-8705-8333</contrib-id><xref rid="cam44390-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib></contrib-group><aff id="cam44390-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">IRCCS Azienda Ospedaliero‐Universitaria di Bologna Dipartimento di Scienze Mediche e Chirurgiche (DIMEC)</named-content>
+<institution>Università di Bologna</institution>
+<city>Bologna</city>
+<country country="IT">Italy</country>
+</aff><aff id="cam44390-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">IRCCS Azienda Ospedaliero‐Universitaria di Bologna Istituto di Ematologia “Seràgnoli” Dipartimento di Medicina Specialistica</named-content>
+<named-content content-type="organisation-division">Diagnostica e Sperimentale</named-content>
+<institution>Università di Bologna</institution>
+<city>Bologna</city>
+<country country="IT">Italy</country>
+</aff><aff id="cam44390-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<institution>IRCCS Istituto Romagnolo per lo Studio dei Tumori (IRST) “Dino Amadori”</institution>
+<city>Meldola</city>
+<country country="IT">Italy</country>
+</aff><aff id="cam44390-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<institution>IRCCS Azienda Ospedaliero‐Universitaria di Bologna Istituto di Ematologia “Seràgnoli”</institution>
+<city>Bologna</city>
+<country country="IT">Italy</country>
+</aff><aff id="cam44390-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Programma Dipartimentale di Terapie Cellulari Avanzate</named-content>
+<institution>IRCCS Azienda Ospedaliero‐Universitaria di Bologna</institution>
+<city>Bologna</city>
+<country country="IT">Italy</country>
+</aff><aff id="cam44390-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Gastroenterology Unit</named-content>
+<institution>Department of Medical Specialties, University of Modena &amp; Reggio Emilia and Azienda Ospedaliero‐Universitaria di Modena</institution>
+<city>Modena</city>
+<country country="IT">Italy</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>
+Antonio Colecchia, Gastroenterology Department, Department of Medical Specialties, University of Modena &amp; Reggio Emilia and Azienda Ospedaliero‐Universitaria di Modena, Modena, Italy.<break/>
+Email: <email>antonio.colecchia@unimore.it</email>
+<break/>
+Giovanni Martinelli, Istituto Romagnolo per lo Studio dei Tumori "Dino Amadori" – IRST, Meldola, Italy.<break/>
+Email: <email>giovanni.martinelli@irst.emr.it</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>30</day><month>12</month><year>2021</year></pub-date><pub-date pub-type="collection"><month>2</month><year>2022</year></pub-date><volume>11</volume><issue seq="60">3</issue><issue-id pub-id-type="pmc-issue-id">400265</issue-id><issue-id pub-id-type="doi">10.1002/cam4.v11.3</issue-id><fpage>618</fpage><lpage>629</lpage><history><date date-type="rev-recd"><day>10</day><month>9</month><year>2021</year></date><date date-type="received"><day>04</day><month>3</month><year>2021</year></date><date date-type="accepted"><day>16</day><month>9</month><year>2021</year></date></history><pub-history><event event-type="pmc-release"><date><day>30</day><month>12</month><year>2021</year></date></event><event event-type="pmc-live"><date><day>08</day><month>02</month><year>2022</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-05-29 23:25:16.450"><day>29</day><month>05</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2021 The Authors. <italic toggle="yes">Cancer Medicine</italic> published by John Wiley &amp; Sons Ltd.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="CAM4-11-618.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:CAM4-11-618.pdf"/><abstract id="cam44390-abs-0001"><title>Abstract</title><p>In adult patients, acute lymphoblastic leukemia (ALL) is a rare hematological cancer with a cure rate below 50% and frequent relapses. With traditional therapies, patients with relapsed or refractory (R/R) ALL have a survival that may be measured in months; in these patients, inotuzumab ozogamicin (IO) is an effective therapy. IO was linked to increased risk of veno‐occlusive disease/sinusoid obstruction syndrome (VOD/SOS), liver injury, and various grade of liver‐related complications during clinical trials and real‐life settings; however, hepatologic monitoring protocol is not established in this population. In our institution, 21 patients who received IO (median of 6 doses of IO administered) for R/R ALL were prospectively followed for hepatologic surveillance, including clinical evaluation, ultrasonography, and liver stiffness measurement (LSM) biochemistry. After a median follow‐up of 17.2 months, two SOS events were reported (both after allogeneic transplant) as IO potentially related clinically relevant adverse event. Mild alterations were reported in almost the totality of patients and moderate‐severe liver biochemical alterations in a quarter of patients. Within biochemicals value, AST and ALP showed an augment related to IO administration. LSM linearly augmented for each IO course administered. Baseline LSM was related to liver‐related changes, especially with the severity of portal hypertension (PH)‐related complications. Pre‐transplant LSM was higher in patients receiving IO when compared with a control cohort. PH‐related complications were discovered in nearly 77% of patients, with clinically significant PH occurrence and development of ascites in 38% and 14%, respectively. This prospective experience constitutes the rationale to design a hepatologic monitoring program in patients receiving IO. LSM may be of pivotal importance in this program, constituting a rapid and effective screening that quantitatively correlates with liver alterations.</p></abstract><abstract abstract-type="graphical" id="cam44390-abs-0002"><p>Intensive longitudinal hepatologic monitoring detected subclinical signs of liver injury in leukemia patients treated with inotuzumab. Ultrasound and liver stiffness measurement can help diagnosing/monitoring portal hypertension‐related complications after inotuzumab therapy.<boxed-text position="anchor" content-type="graphic" id="cam44390-blkfxd-0001" orientation="portrait"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="CAM4-11-618-g005.jpg"/></boxed-text>
+</p></abstract><kwd-group><kwd id="cam44390-kwd-0001">clinical cancer research</kwd><kwd id="cam44390-kwd-0002">clinical management</kwd><kwd id="cam44390-kwd-0003">elastography</kwd><kwd id="cam44390-kwd-0004">leukemia</kwd><kwd id="cam44390-kwd-0005">liver stiffness</kwd><kwd id="cam44390-kwd-0006">risk assessment</kwd><kwd id="cam44390-kwd-0007">ultrasound</kwd></kwd-group><counts><fig-count count="6"/><table-count count="2"/><page-count count="12"/><word-count count="7204"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>February 2022</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.1.1 mode:remove_FC converted:05.02.2022</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="cam44390-cit-1001">
+<string-name name-style="western">
+<surname>Ravaioli</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marconi</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Martinelli</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>Assessment of liver stiffness measurement and ultrasound findings change during inotuzumab ozogamicin cycles for relapsed or refractory acute lymphoblastic leukemia</article-title>. <source>Cancer Med</source>. <year>2022</year>;<volume>11</volume>:<fpage>618</fpage>–<lpage>629</lpage>. doi:<pub-id pub-id-type="doi">10.1002/cam4.4390</pub-id>
+<pub-id pub-id-type="pmcid">PMC8817094</pub-id><pub-id pub-id-type="pmid">34970853</pub-id></mixed-citation>
+</p><fn-group id="cam44382-ntgp-0001"><fn fn-type="equal" id="cam44390-note-0001"><p>Federico Ravaioli and Giovanni Marconi equally contributed to the manuscript and are joint first authors</p></fn><fn id="cam44390-note-0002"><p>Antonio Colecchia and Cristina Papayannidis are joint senior authors</p></fn><fn fn-type="funding" id="cam44390-note-0003"><p>
+<bold>Funding information</bold>
+</p><p>This research received no external funding.</p></fn></fn-group></notes></front><body id="cam44390-body-0001"><p>
+<boxed-text position="anchor" content-type="box" id="cam44390-blkfxd-0002" orientation="portrait"><caption><title>Lay summary</title></caption><p>Our work changes clinical practice in acute lymphoblastic leukemia patients treated with inotuzumab ozogamicin. We have established proper intensive hepatology monitoring in our patient set. We presented data on several widely available laboratory and imaging methods for assessing liver status. To determinate a precise hepatological assessment will improve the safety and long‐term outcome of this population. Safety concerns related to inotuzumab can be overwhelmed by careful patient evaluation using noninvasive methods.</p></boxed-text>
+</p><sec id="cam44390-sec-0002"><label>1</label><title>INTRODUCTION</title><p>In relapsed or refractory B‐cell precursor acute lymphoblastic leukemia (ALL), inotuzumab ozogamicin (IO), a humanized monoclonal antibody‐drug conjugate (ADC) targeting CD22, showed extraordinary efficacy.<xref rid="cam44390-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> Since the first clinical trial using ozogamicin‐based ADCs, an increased risk of mild to moderate liver‐related adverse effects during and after the dosing period has been observed.<xref rid="cam44390-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="cam44390-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> The development of sinusoidal obstruction syndrome/veno‐occlusive disease (SOS/VOD; formerly known as a veno‐occlusive disease [VOD] of the liver) and liver toxicity was associated with gemtuzumab ozogamicin and IO administration.<xref rid="cam44390-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="cam44390-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="cam44390-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> IO was associated with the risk of SOS/VOD, especially in patients who received hematopoietic stem cell transplantation (HSCT) after IO therapy (cumulative incidence of 22%).<xref rid="cam44390-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="cam44390-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref> According to its pathogenic mechanisms, SOS/VOD is portal hypertension (PH)‐related syndrome, also reported in patients who undergo HSCT conditioned with single or de alkilant or who receive methotrexate<xref rid="cam44390-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref> and platinum‐based drugs.<xref rid="cam44390-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="cam44390-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="cam44390-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="cam44390-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> In the HSCT setting, the SOS/VOD clinical diagnosis is now established according to the European Society for Blood and Marrow Transplantation (EBMT) clinical criteria, considering the presence of hyperbilirubinemia, painful hepatomegaly, weight gain, and ascites.<xref rid="cam44390-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="cam44390-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> Hepatic vein pressure gradient (HVPG) measurement and concomitant transjugular liver biopsy (LB) represent an accurate yet invasive approach to correctly assess PH grade and diagnose doubtful SOS/VOD cases.<xref rid="cam44390-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="cam44390-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>
+</p><p>The use of noninvasive liver tests (NITs) such as the liver (LSM) and spleen (SSM) stiffness measurements by transient elastography (TE) has recently been proposed to assess the PH degree and the PH‐related alterations both in the hepatological context<xref rid="cam44390-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref> and also in the evaluation of SOS/VOD and other liver and nonliver complications after HSCT.<xref rid="cam44390-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="cam44390-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="cam44390-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="cam44390-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="cam44390-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>, <xref rid="cam44390-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref> Stiffness is not only sensitive to liver fibrosis.<xref rid="cam44390-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> Still, it is also affected by various factors such as congestion, portal hypertension, and inflammation, making its measurement suitable for studying vascular liver diseases and drug‐induced liver injury (DILI).<xref rid="cam44390-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>
+</p><p>In the same setting, the role of abdominal grayscale and Doppler ultrasound (US) has been extensively demonstrated as a helpful bedside method to contribute to the differential diagnosis of abdominal complications (cholecystitis, cholangitis, pancreatitis, etc.) and PH‐related complications.<xref rid="cam44390-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="cam44390-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="cam44390-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>
+</p><p>Thus, we aimed to investigate the role of specialistic hepatic monitoring, including biochemical, LSM, and US findings, in a cohort of patients with ALL to evaluate early hepatobiliary and PH‐related complications during and after the IO therapy.</p></sec><sec sec-type="materials-and-methods" id="cam44390-sec-0003"><label>2</label><title>MATERIALS AND METHODS</title><sec id="cam44390-sec-0004"><label>2.1</label><title>Patients and study design</title><p>Here we report a monocentric, prospective, longitudinal study on liver evaluation of patients receiving the label IO at the Istituto di Ematologia "Seràgnoli," Dipartimento di Medicina Specialistica, Diagnostica e Sperimentale, Università degli Studi, Bologna, Italy, from February 2017 to December 2020.</p><p>All patients with refractory or relapsed ALL, according to the 2016 World Health Organization criteria<xref rid="cam44390-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> aged 18 years or older, who were indicated to be treated with IO, were prospectively followed for hepatologic surveillance specialistic consultant and included in the analysis.</p><p>Patients with any contraindication for IO treatment or treated in a clinical trial or off‐label use were excluded from this study. Furthermore, to avoid possible technical LSM bias, patients with BMI over 40 kg/m<sup>2</sup>, the presence of a pacemaker or implantable device, ascites, or advanced chronic liver disease (ACLD) at screening assessment were also excluded. IO was administered at a dose of 0.8–0.5–0.5 mg/sqm in weekly administration for the first course of therapy, and 0.5–0.5–0.5 mg/sqm in weekly administration for the subsequent courses for up to two courses in patients’ candidate to allogeneic hematopoietic stem cell transplant (one patient received three courses of IO before transplant for a delay in donor matching), for up to six courses in transplant non‐eligible patients. IO was administered as single‐agent therapy and was not combined with other chemotherapy. All patients received ursodeoxycholic acid (300 mg every 12 h) during IO treatment as prophylaxis. All patients gave written informed consent to the label use of inotuzumab and clinical data according to the Declaration of Helsinki, the good clinical practice (GCP), and institutional guidelines. Data were collected in observational studies 012/2009/U/Tess, 01/2011/U/Tess, 10/2011/U/Tess, and 253/2013/O/Tess, in accordance with GCP and as approved by the local ethical review board.</p><p>The main aim of the study was to investigate the role of hepatic monitoring by LSM during IO therapy evaluated with TE through a dense evaluation program; the secondary objectives were: (i) to evaluate the role of liver biochemical evaluation in monitoring hepatic alterations in patients undergoing IO therapy; (ii) to estimate the prevalence of VOD/SOD and hepatotoxic and related to portal hypertension events by the US in patients undergoing IO therapy; and (iii) to explore the putative role of LSM assessment in patients treated with IO as bridging therapy prior to HSCT.</p><p>The study protocol foresaw a clinical evaluation, biochemical assays, a grayscale, color Doppler and US, and LSM evaluation of all patients included at enrollment (within 21 days prior to the first IO cycle). Then the LSM subsequent evaluations were performed by means of a dense schedule of LSM assessment and biochemical laboratory tests at the end of each IO cycle. At the end of the last IO cycle, an abdominal US was performed. In doubtful cases to confirm the suspect of portal hypertension‐related events and the above schedule of the study protocol, extra liver evaluation, such as liver biopsy, hepatic venous pressure gradient (HVPG), contrast enhancement RM, and upper endoscopy were carried out.</p><p>To compare INO‐ and HSCT‐treated patients with an HSCT population not previously treated with IO, we used the recently published cohort of HSCT patients of adult monocentric ELASTOVOD study.<xref rid="cam44390-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>
+</p></sec><sec id="cam44390-sec-0005"><label>2.2</label><title>Liver and spleen stiffness measurements</title><p>Liver stiffness measurement (LSM) values were assessed by expert operators using the FibroScan<sup>®</sup> apparatus with the “M” probe (Echosens, Paris, France) after overnight fasting. LSM values were obtained according to the last European Federation of Societies for Ultrasound in Medicine and Biology (EFSUMB) Guidelines and Recommendations on the Clinical Use of Ultrasound Elastography in hepatic and non‐hepatic applications<xref rid="cam44390-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="cam44390-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>; At least 10 measurements with an IQR/M ≤30% were used as reliability criteria. SSM was carried in association with the LSM assessment, with the same probe used to perform LSM using the FibroScan<sup>®</sup> apparatus, as previously described.<xref rid="cam44390-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref> Cut‐offs of 21 kPa and 52.8 kPa were used to define the presence of clinically significant PH (CSPH) by LSM and SSM, respectively.<xref rid="cam44390-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>
+</p></sec><sec id="cam44390-sec-0006"><label>2.3</label><title>Abdominal ultrasound</title><p>All patients underwent baseline grayscale and color Doppler abdominal ultrasound (US) examinations before the first IO cycle. According to EFSUMB recommendations for the performance and reporting of ultrasound examinations in portal hypertension,<xref rid="cam44390-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref> the portal hypertension‐related findings were evaluated. US examination was performed with a Sequoia™, Siemens Acuson with convex probe SC1.</p></sec><sec id="cam44390-sec-0007"><label>2.4</label><title>Hepato‐biliary and portal hypertension‐related alterations</title><p>According to the monitoring adverse events of the INO‐VATE study,<xref rid="cam44390-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref> treatment‐emergent hepato‐biliary alterations comprised adverse events related to liver toxicity and liver‐related investigations that occurred on or after cycle 1, Day 1 but within the last follow‐up visit or the death of the patient. Among these events, SOS/VOD during study treatment or follow‐up without HSCT intervention (60 days after the last dose of IO) and after HSCT treatment was considered. The National Cancer Institute Common Terminology Criteria for Adverse Events (CTCAE version 4.0) showed that hepatobiliary alterations were stratified.<xref rid="cam44390-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref> Moreover, a noninvasive diagnostic approach (mainly grayscale and color Doppler abdominal ultrasound and liver and spleen stiffness measurement) was evaluated for portal hypertension‐related signs and complications during and after IO cycles.<xref rid="cam44390-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref> When indicated, invasive PH diagnostic approaches (HVPG and upper endoscopy) were performed to confirm/exclude the presence of CSPH.</p></sec><sec id="cam44390-sec-0008"><label>2.5</label><title>Data management and statistical analysis</title><p>Data were collected and managed using REDCap electronic data capture tools hosted at the University of Bologna, Italy.<xref rid="cam44390-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref> Categorical data were expressed as numbers (percentages) and continuous variables as the median and interquartile range (IQR). Due to the small sample size, nonparametric tests were used and preferred.<xref rid="cam44390-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref> For group comparison, the Wilcoxon signed‐rank test was used for continuous variables and the Fisher's exact test for categorical variables. Boxplots and violin plots were constructed to present changes in parameters considered during the IO treatment phases. The Spearman rank correlation coefficient (Spearman rho) and its associated probability (<italic toggle="yes">p</italic>) were used to examine the correlation between LS values and hepato‐biliary and portal hypertension‐related alterations. Given the study's exploratory nature and the related limited use of IO, a calculation of the formal sample was not envisaged. Still, a time limit of a maximum of 3 years of enrollment was defined. All <italic toggle="yes">p</italic>‐values refer to two‐tailed tests of significance. Statistical analyses were performed using Stata/SE (version 16; Stata Corp) for Windows.</p></sec></sec><sec sec-type="results" id="cam44390-sec-0009"><label>3</label><title>RESULTS</title><sec id="cam44390-sec-0010"><label>3.1</label><title>Patients and treatments</title><p>At data cut‐off, 21 June 2020, 24 patients received IO at our institution. Twenty‐one patients received baseline assessment and at least a post‐IO assessment included in this study (Figure <xref rid="cam44390-fig-0001" ref-type="fig">1</xref>). In our cohort, the median age was 50 years (IQR 33–65); when receiving IO, 16/21 (76%) patients had a relapse of ALL, and 5/21 (24%) patients were refractory after a precedent line of therapy. Patients received a median of 2 (IQR 1.5–3.0) therapy lines before IO; 7/21 (33%) patients underwent HSCT before IO (1 patient had 1st and 2nd HSCT before IO); baseline laboratory results did not show significant leucocytosis, anemia, or thrombocytopenia; furthermore, laboratory tests of liver function and hepatic necrosis were within the range of normality in most of the patients and comparable with R/R ALL patients in different studies.<xref rid="cam44390-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="cam44390-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref> Baseline echography and liver stiffness measurement were comparable with the cohort of patients tested before HSCT and after chemotherapy in our previous experience<xref rid="cam44390-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref>(Table <xref rid="cam44390-tbl-0001" ref-type="table">1</xref>).</p><fig position="float" fig-type="FIGURE" id="cam44390-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>Flow chart of the enrolled patients</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="CAM4-11-618-g006.jpg"/></fig><table-wrap position="float" id="cam44390-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>Baseline features of study population</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Features</th><th align="left" valign="top" rowspan="1" colspan="1">ALL patients treated with IO (<italic toggle="yes">N</italic> = 21)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Male/female, <italic toggle="yes">n</italic> (%)</td><td align="char" char="(" rowspan="1" colspan="1">12 (57%)/9 (43%)</td></tr><tr><td align="left" rowspan="1" colspan="1">Positive BCR rearrangement, <italic toggle="yes">n</italic> (%)</td><td align="char" char="(" rowspan="1" colspan="1">10 (48%)</td></tr><tr><td align="left" rowspan="1" colspan="1">Median age (25th–75th), years</td><td align="char" char="(" rowspan="1" colspan="1">50 (33–65)</td></tr><tr><td align="left" rowspan="1" colspan="1">Median white blood cell count (25th–75th), × 10<sup>6</sup>/ml</td><td align="char" char="(" rowspan="1" colspan="1">3.7 (2.2–7.1)</td></tr><tr><td align="left" rowspan="1" colspan="1">Median hemoglobin (25th–75th), g/L</td><td align="char" char="(" rowspan="1" colspan="1">101.5 (92.2–116.2)</td></tr><tr><td align="left" rowspan="1" colspan="1">Median platelets (25th–75th), 10<sup>6</sup>/ml</td><td align="char" char="(" rowspan="1" colspan="1">71.5 (50.0–175.2)</td></tr><tr><td align="left" rowspan="1" colspan="1">Median serum albumin (25th–75th), g/L</td><td align="char" char="(" rowspan="1" colspan="1">38.8 (35.5–42.3)</td></tr><tr><td align="left" rowspan="1" colspan="1">Gamma(γ)‐glutamyltransferase (25th–75th), U/L</td><td align="char" char="(" rowspan="1" colspan="1">50.0 (20.0–135.0)</td></tr><tr><td align="left" rowspan="1" colspan="1">Alkaline phosphatase (25th–75th), U/L</td><td align="char" char="(" rowspan="1" colspan="1">73.0 (56.0–104.5)</td></tr><tr><td align="left" rowspan="1" colspan="1">Aspartate aminotransferase (25th–75th), U/L</td><td align="char" char="(" rowspan="1" colspan="1">22.0 (16.5–36.5)</td></tr><tr><td align="left" rowspan="1" colspan="1">Alanine aminotransferase (25th–75th), U/L</td><td align="char" char="(" rowspan="1" colspan="1">34.0 (18.0–64.0)</td></tr><tr><td align="left" rowspan="1" colspan="1">Total bilirubin (25th–75th), mg/dl</td><td align="char" char="(" rowspan="1" colspan="1">0.5 (0.4–0.7)</td></tr><tr><td align="left" rowspan="1" colspan="1">BMI (25th–75th), kg/m<sup>2</sup>
+</td><td align="char" char="(" rowspan="1" colspan="1">27.2 (22.8–29.3)</td></tr><tr><td align="left" rowspan="1" colspan="1">Previous lines of therapy, <italic toggle="yes">n</italic> (25th–75th)</td><td align="char" char="(" rowspan="1" colspan="1">2.0 (1.5–3.0)</td></tr><tr><td align="left" rowspan="1" colspan="1">Patients who received previous allogeneic stem cell transplant(s), <italic toggle="yes">n</italic> (%)</td><td align="char" char="(" rowspan="1" colspan="1">7 (33%)<xref rid="cam44390-note-0005" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td></tr></tbody></table><table-wrap-foot id="cam44390-ntgp-0002"><fn id="cam44390-note-0004"><p>Abbreviations: ALL, acute lymphoblastic leukemia; BCR, B‐cell receptor; BMI, body mass index; cm, centimeter; IO, inotuzumab ozogamicin; IQR, interquartile range; N, numbers; SD, standard deviation.</p></fn><fn id="cam44390-note-0005"><label>
+<sup>a</sup>
+</label><p>One patient received two previous allogeneic stem cell transplants.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder></permissions></table-wrap><p>With a median follow‐up of 17.5 months (IQR 6.0–26.6), patients received a median of six IO administrations, that is, two cycles (IQR 6–12 administrations). Seven out of 21 patients (33%) underwent HSCT after IO therapy (1 patient had a 2nd HSCT after IO). During our study, 11 (52.4%) patients died, primarily due to ALL relapse (10 pts.); 1 patient died in complete remission for complications after HSCT. A clinical diagnosis of VOD/SOS was formulated in two patients (28.6%) after HSCT, and the VOD/SOS was graded as mild and severe, respectively. Clinically relevant complications were reported in a few patients and were inconstantly related to IO therapy (Table <xref rid="cam44390-sup-0006" ref-type="supplementary-material">S1</xref>).</p></sec><sec id="cam44390-sec-0011"><label>3.2</label><title>Biochemical changes during and after IO cycles</title><p>Among liver biochemical parameters assessed before IO administration and at the end of each IO cycle, aspartate aminotransferase (AST) and alkaline phosphatase (ALP) significantly increased their values cycle after cycle (Figure <xref rid="cam44390-fig-0002" ref-type="fig">2</xref>). However, these biochemicals occasionally reached the upper limit of normality (AST &gt; 40 U/L and ALP &gt; 100 U/L) only after 3–4 courses of IO administration. All other liver biochemical parameters analyzed, such as albumin, total bilirubin, γ‐glutamyl transferase (GGT), and alanine aminotransferase (ALT), showed inconsistent variations without achieving significant changes between IO cycles (Supporting Information Figure <xref rid="cam44390-sup-0001" ref-type="supplementary-material">S1</xref>).</p><fig position="float" fig-type="FIGURE" id="cam44390-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>Violin plots and of significant changes in the biochemical parameters of the liver (A‐aspartate aminotransferase [AST]; B‐alkaline phosphatase [ALP])</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="CAM4-11-618-g004.jpg"/></fig></sec><sec id="cam44390-sec-0012"><label>3.3</label><title>Kinetics of measurement of liver stiffness in the different phases of IO therapy</title><p>Figure <xref rid="cam44390-fig-0003" ref-type="fig">3</xref> shows the kinetics of LSM during the different phases of treatment with IO represented by violin plot and boxplot. Comparing the LSM values before IO therapy (median 6 kPa [5.1–6.1]) with those evaluated at the end of the patient's last IO cycle (7.2 kPa [5.6–10.6]), a statistically significant increase (<italic toggle="yes">p</italic>‐value = 0.036) has been observed (Figure <xref rid="cam44390-fig-0003" ref-type="fig">3A</xref>). Patients showed a significant (<italic toggle="yes">p</italic>‐value &lt; 0.001) increase in median LSM cycle after cycle (6.7 kPa [5.3–7.7], 8.3 kPa [6.4–8.8], 9.2 kPa [7.9–11.5], and 9.5 kPa [8.2–12.9], respectively) reaching values &gt; 8 kPa at the end of the second cycle of IO administration with a dose‐dependent kinetic pattern (Figure <xref rid="cam44390-fig-0003" ref-type="fig">3B</xref>). When we compared patients treated with IO and subsequently undergoing HSCT with those directly undergoing HSCT (Figure <xref rid="cam44390-fig-0003" ref-type="fig">3C</xref>), it was observed that the pre‐HSCT LSM values were significantly higher both in the group that has developed SOS/VOD after HSCT (<italic toggle="yes">p</italic>‐value = 0.0455) and in the group that has not developed SOS/VOD after HSCT (<italic toggle="yes">p</italic>‐value = 0.0007). Although its trend is pointed out (Supporting Information Figure <xref rid="cam44390-sup-0002" ref-type="supplementary-material">S2</xref>), there was no significant difference between LSM values before HSCT in patients who developed SOS/VOD and received prior therapy cycles with IO. No significant differences in these groups were found when liver biochemicals such as AST and ALP were analyzed (Supporting Information Figure <xref rid="cam44390-sup-0003" ref-type="supplementary-material">S3</xref>).</p><fig position="float" fig-type="FIGURE" id="cam44390-fig-0003" orientation="portrait"><label>FIGURE 3</label><caption><p>Violin plot and boxplot of liver stiffness measurement kinetics (A) before and after IO therapy; (B) during the IO cycles; and (C) before HSCT and by the occurrence of VOD/SOS after HSCT</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="CAM4-11-618-g003.jpg"/></fig></sec><sec id="cam44390-sec-0013"><label>3.4</label><title>Hepato‐biliary and portal hypertension‐related alterations</title><p>Table <xref rid="cam44390-tbl-0002" ref-type="table">2</xref> reports the occurrence of liver alterations related to IO therapy during the study period. After evaluating the maximum values reached by patients in each biochemical parameter, following the CTCAE stratification, almost all the patients showed mild hepatobiliary alterations (grade 1). Less than 5% of patients did not experience hepatobiliary alterations. These complications were linked to hepatotoxicity directly related to hepatocellular damage (as demonstrated by the increase in hepatic cytonecrosis parameters such as AST/ALT) and the cholestatic injury caused by the drug (as evidenced by hyperbilirubinemia and increased ALP). Moderate to severe hepatobiliary alterations (grades 2–4) have been observed in nearly one‐quarter of patients treated with IO. A significant positive correlation (Figure <xref rid="cam44390-fig-0004" ref-type="fig">4C</xref>) between the highest grade reached by patients in hepatobiliary alterations and baseline LSM values (prior IO therapy) was found (<italic toggle="yes">r</italic> = 0.5849, <italic toggle="yes">p</italic> = 0.006); no significant correlation was found instead with the highest LSM value reached (Figure <xref rid="cam44390-fig-0004" ref-type="fig">4A</xref>) and the last LSM value evaluated after the IO treatment (Figure <xref rid="cam44390-fig-0004" ref-type="fig">4B</xref>).</p><table-wrap position="float" id="cam44390-tbl-0002" content-type="TABLE" orientation="portrait"><label>TABLE 2</label><caption><p>Summary of liver complications after IO cycles</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1"/><th align="left" valign="top" rowspan="1" colspan="1">ALL patients treated with IO (<italic toggle="yes">N</italic> = 21)</th></tr></thead><tbody><tr><td align="left" colspan="2" rowspan="1">
+<bold>(A) Hepato‐biliary complications by CTC</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">No complications</td><td align="char" char="(" rowspan="1" colspan="1">1/21 (4.8%)</td></tr><tr><td align="left" rowspan="1" colspan="1">CTC≥1</td><td align="char" char="(" rowspan="1" colspan="1">20/21 (95.2%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Alanine aminotransferase</td><td align="char" char="(" rowspan="1" colspan="1">11 (52.4%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Aspartate aminotransferase</td><td align="char" char="(" rowspan="1" colspan="1">14 (66.7%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">γ‐glutamyltransferase</td><td align="char" char="(" rowspan="1" colspan="1">12 (57.1%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Hyperbilirubinemia</td><td align="char" char="(" rowspan="1" colspan="1">2 (9.5%)</td></tr><tr><td align="left" rowspan="1" colspan="1">CTC≥2</td><td align="char" char="(" rowspan="1" colspan="1">6/21 (28.6%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Alanine aminotransferase</td><td align="char" char="(" rowspan="1" colspan="1">1 (4.8%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Aspartate aminotransferase</td><td align="char" char="." rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">γ‐glutamyltransferase</td><td align="char" char="(" rowspan="1" colspan="1">5 (23.8%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Hyperbilirubinemia</td><td align="char" char="." rowspan="1" colspan="1">0</td></tr><tr><td align="left" colspan="2" rowspan="1">
+<bold>(B) Portal hypertension‐related complications</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Hepatomegaly</td><td align="char" char="(" rowspan="1" colspan="1">6 (28.6%)</td></tr><tr><td align="left" rowspan="1" colspan="1">Splenomegaly</td><td align="char" char="(" rowspan="1" colspan="1">7 (33.3%)</td></tr><tr><td align="left" rowspan="1" colspan="1">Gallbladder wall thickening &gt;6 mm</td><td align="char" char="(" rowspan="1" colspan="1">1 (4.8%)</td></tr><tr><td align="left" rowspan="1" colspan="1">Portal vein diameter &gt;12 mm</td><td align="char" char="(" rowspan="1" colspan="1">2 (9.5%)</td></tr><tr><td align="left" rowspan="1" colspan="1">Portal flows mean velocity &lt;10 cm/s or hepatofugal flow</td><td align="char" char="(" rowspan="1" colspan="1">2 (9.5%)</td></tr><tr><td align="left" rowspan="1" colspan="1">Mono/bi‐phasic flow or no flow recorded in hepatic veins</td><td align="char" char="(" rowspan="1" colspan="1">4 (19%)</td></tr><tr><td align="left" rowspan="1" colspan="1">Visualization of paraumbilical vein</td><td align="char" char="(" rowspan="1" colspan="1">1 (4.8%)</td></tr><tr><td align="left" rowspan="1" colspan="1">Ascites</td><td align="char" char="(" rowspan="1" colspan="1">3 (14.3%)</td></tr><tr><td align="left" rowspan="1" colspan="1">CSPH according to LSM ≥21 kPa or SSM ≥52.8 kPa</td><td align="char" char="(" rowspan="1" colspan="1">8 (38.1%)</td></tr><tr><td align="left" rowspan="1" colspan="1">SOS/VOD after HSCT (<italic toggle="yes">n</italic> = 7 pts)</td><td align="char" char="(" rowspan="1" colspan="1">2 (28.6%)</td></tr><tr><td align="left" colspan="2" rowspan="1">PH‐related signs (<italic toggle="yes">n</italic>)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Absence (0)</td><td align="char" char="(" rowspan="1" colspan="1">7 (33.3%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Presence (≥1)</td><td align="char" char="(" rowspan="1" colspan="1">14 (77.7%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Presence (1–2)</td><td align="char" char="(" rowspan="1" colspan="1">9 (64.3%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Presence (≥3)</td><td align="char" char="(" rowspan="1" colspan="1">5 (35.7%)</td></tr></tbody></table><table-wrap-foot id="cam44390-ntgp-0003"><fn id="cam44390-note-0006"><p>Abbreviations: ALL, acute lymphoblastic leukemia; CSPH, clinically significant portal hypertension; CTC, common terminology criteria; IO, inotuzumab ozogamicin; kPa, kilopascal; LSM, liver stiffness measurement; mm, millimeter; N, numbers; PH, portal hypertension; SSM, spleen stiffness measurement.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder></permissions></table-wrap><fig position="float" fig-type="FIGURE" id="cam44390-fig-0004" orientation="portrait"><label>FIGURE 4</label><caption><p>Regression plot of the Spearman rank correlation between highest hepatobiliary complications according to CTCAE grade reached by patients and (A) highest liver stiffness measurement (LSM) value achieved; (B) last LSM value assessed after IO treatment, and (C) baseline (prior IO therapy) LSM value</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-9" orientation="portrait" xlink:href="CAM4-11-618-g001.jpg"/></fig><p>Through a noninvasive evaluation based on ultrasound techniques (US color Doppler and transient elastography), we observed that at the end of the IO cycles (Table <xref rid="cam44390-tbl-0002" ref-type="table">2</xref>), about one‐third of the patients presented with hepato‐splenomegaly; nearly a quarter of the patients had the US color Doppler features related to portal hypertension, and about 15% of patients developed ascites (of any grade). One patient developed esophageal varices (F2) treated with variceal ligation. According to the noninvasive definition of CSPH based on LSM (≥21 kPa) and SSM (≥52.8 kPa), almost 40% of patients had CSPH at the end of treatment with IO. Counting individually and adding each PH‐related sign collectively, 77% of patients experienced at least one PH‐related alteration. A significant positive correlation between the total number of PH‐related signs developed by patients and the highest LSM value achieved (Figure <xref rid="cam44390-fig-0005" ref-type="fig">5A</xref>), the last LSM value evaluated after IO treatment (Figure <xref rid="cam44390-fig-0005" ref-type="fig">5B</xref>), and baseline LSM values (prior IO therapy—Figure <xref rid="cam44390-fig-0005" ref-type="fig">5C</xref>) were found with an <italic toggle="yes">r</italic> = 0.6261, 0.5720, and 0.4073, respectively. Baseline AST values were not correlated with the higher hepatobiliary alterations based on the grade achieved by the patients (Supporting Information Figure <xref rid="cam44390-sup-0004" ref-type="supplementary-material">S4A</xref>) or the number of PH‐related signs (Supporting Information Figure <xref rid="cam44390-sup-0004" ref-type="supplementary-material">S4B</xref>).</p><fig position="float" fig-type="FIGURE" id="cam44390-fig-0005" orientation="portrait"><label>FIGURE 5</label><caption><p>Regression plot of the Spearman rank correlation between number of PH‐related signs developed by patients and (A) highest liver stiffness measurement (LSM) value achieved; (B) last LSM value assessed after IO treatment, and (C) baseline (prior IO therapy) LSM value</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-11" orientation="portrait" xlink:href="CAM4-11-618-g002.jpg"/></fig><p>Considering deaths occurred within 60 days from the last IO dose (4), there was no significant difference in the highest LSM value achieved between dead and still alive patients during IO therapy follow‐up (Supporting Information Figure <xref rid="cam44390-sup-0005" ref-type="supplementary-material">S5</xref>).</p></sec></sec><sec sec-type="discussion" id="cam44390-sec-0014"><label>4</label><title>DISCUSSION</title><p>Since drug approval studies,<xref rid="cam44390-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref> IO treatment of relapsed or refractory B‐cell precursors has shown a noteworthy relationship between treated patients and liver complications that could range from simple biochemical alteration associated with hepatocellular damage to actual clinical syndromes related to portal hypertension.<xref rid="cam44390-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="cam44390-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref>, <xref rid="cam44390-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref> This study evaluated patients treated with IO followed at our center by a dense hepatic monitoring program through clinical, laboratory, and noninvasive hepatic methods (LSM and US).</p><p>We observed that at the end of the IO courses, most of all, the patients had some hepato‐biliary alteration according to CTCAE classification (Table <xref rid="cam44390-tbl-0002" ref-type="table">2</xref>), and the baseline LSM was correlated with the development of CTCAE grade. In line with the results of phase 3 INO‐VATE study,<xref rid="cam44390-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref> most of the patients had experienced an alteration of some liver biochemical laboratory tests after the IO cycle and only a quarter of these developed a significant hepatobiliary alteration (grade ≥ 2). Although these alterations, among the different liver biochemical tests studied, only AST and ALP showed a significant cycle‐by‐cycle increase with drug‐dependent accumulation kinetics‐like (Figure <xref rid="cam44390-fig-0002" ref-type="fig">2</xref>).<xref rid="cam44390-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref> Many drugs can cause transient changes in liver biochemical tests. Most adverse reactions are idiosyncratic due to individual patient differences in susceptibility to drug‐induced liver injury (DILI) or inability to recover from injury.<xref rid="cam44390-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref>, <xref rid="cam44390-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref> Disposal of a calicheamicin metabolite by hepatocytes and subsequent biliary excretion is a possible mechanism of drug‐induced liver injury in this context.<xref rid="cam44390-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> The liver alterations expressed by CTCAE grade were significantly correlated just with prior‐IO LSM assessment (Figure <xref rid="cam44390-fig-0004" ref-type="fig">4C</xref>) and not with the highest LSM value reached or the last LSM value evaluated after the IO treatment (Figure <xref rid="cam44390-fig-0004" ref-type="fig">4A</xref>,B). This result confirms what we recently observed in a cohort of 78 patients undergoing HSCT,<xref rid="cam44390-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref> in whom LSM was able to differentiate the CTCAE grade, allowing us to speculate that hepatic status is more important than the acute IO‐related insult in developing clinically relevant complications. Thus, the baseline LSM can be considered a surrogate for an average of risk factors and previous liver damage.</p><p>To the best of our knowledge, with this study, we first monitored PH‐related signs developed by patients treated with IO by a noninvasive evaluation based on ultrasound techniques (US color Doppler and measurement of liver and spleen stiffness by transient elastography). Comparing the liver imaging before and after IO treatment, we observed (Table <xref rid="cam44390-tbl-0002" ref-type="table">2</xref>) that around 80% of those developed signs related to PH (i.e., hepatosplenomegaly, hepatic veins flow changes, ascites, and paraumbilical vein visualization). Since the 1990s, abdominal ultrasound's role in associating specific signs of portal hypertension in patients suffering from chronic liver disease<xref rid="cam44390-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref> and in the hematological application<xref rid="cam44390-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> has been widely established. These ultrasound findings were also correlated with the diagnosis and prognosis of SOS/VOD post‐HSCT.<xref rid="cam44390-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="cam44390-bib-0044" ref-type="bibr">
+<sup>44</sup>
+</xref>, <xref rid="cam44390-bib-0045" ref-type="bibr">
+<sup>45</sup>
+</xref>, <xref rid="cam44390-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref> Regarding the most fearful PH‐related complication, no patient developed SOS/VOD during treatment with IO (or in the follow‐up without HSCT intervention); however, consistent with the previous reports,<xref rid="cam44390-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="cam44390-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref> the frequency of SOS/VOD after IO and subsequent HSCT was around 30% (Table <xref rid="cam44390-tbl-0002" ref-type="table">2</xref>).</p><p>The measurement of liver stiffness through TE is the gold standard surrogate to date for assessing the degree of liver fibrosis in the context of chronic liver disease; TE has been extensively studied as a surrogate marker of PH and its complications.<xref rid="cam44390-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> Studies and meta‐analyses have confirmed the close relationship between LSM and HVPG, the gold standard for PH assessment, in patients with ACLD. Liver stiffness has been demonstrated to result from different pathophysiological mechanisms such as inflammation, cholestasis, or increased congestion within the parenchyma.<xref rid="cam44390-bib-0047" ref-type="bibr">
+<sup>47</sup>
+</xref> For these reasons, LSM increased after each dose of IO and would explain the mechanisms underlying liver toxicity and severity of post‐IO portal hypertension. Moreover, the role of these NITs in predicting SOS/VOD and post‐HSCT hepatic complications in different patient cohorts has recently been successfully studied.<xref rid="cam44390-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> Here, using a cohort of patients directly undergoing HSCT as a comparison, it was found that, although pre‐HSCT baseline values were significantly higher in the IO group, these values did not significantly stratify those who subsequently developed SOS/VOD after HSCT (Figure <xref rid="cam44390-fig-0003" ref-type="fig">3C</xref>).</p><p>The main finding of the study is that mirroring IO‐related liver damage and congestions, the LSM values significantly increase cycle by cycles with median LSM value remarkably higher at the end of the last IO cycle (Figure <xref rid="cam44390-fig-0003" ref-type="fig">3A</xref>,B). Furthermore, unlike biochemical tests (Supporting Information Figure <xref rid="cam44390-sup-0003" ref-type="supplementary-material">S3</xref>B), the LSM increases were directly correlated with the number of PH‐related signs at the end of IO courses (Figure <xref rid="cam44390-fig-0005" ref-type="fig">5</xref>). The potential mechanisms that could explain the increase in LSM following hepatic injury IO would be differently related (i) to the secondary damage to the targeting of liver sinusoidal cells expressing the antigen expressed on malignant leukemia cells (CD22) and (ii) to the possible presence of cells malignancies within the hepatic vessels with consequent release of toxins and finally hepatic exposure to the cytotoxic metabolite (N‐Ac‐γ‐calicheamicin dimethyl hydrazine).<xref rid="cam44390-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> All these mechanisms could contribute, secondarily to prolonged exposure to IO, to direct and acute hepatocyte damage with consequent deposition of extracellular matrix and formation of hepatic fibrosis, resulting (due to the sinusoidal involvements) in a gradual development of portal hypertension and consequently PH signs and complications. These results are significant because, for the first time, we have identified that noninvasive hepatic monitoring through ultrasound and elastographic evaluations can take over time the onset of possible hepatic complications in patients undergoing a necessary therapy for patients with relapsed or refractory ALL. Given the significant prevalence of hepatic complications reported here and in recent evidence,<xref rid="cam44390-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref>, <xref rid="cam44390-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref>, <xref rid="cam44390-bib-0048" ref-type="bibr">
+<sup>48</sup>
+</xref> the routine use of LSM and ultrasound before and at the end of each cycle of IO could lead the hematologist in managing the tailored administration of IO (doses, frequency, and the number of infusions per cycle) and in post‐IO follow‐up planning. Indeed, in patients treated with IO, there are basically two follow‐up scenarios; on the one hand, the patient undergoing post‐IO HSCT and on the other hand, the patient who is not eligible for HSCT and who must be followed until death.<xref rid="cam44390-bib-0049" ref-type="bibr">
+<sup>49</sup>
+</xref>
+</p><p>In the first case, it should be noted that the number of patients who developed SOS/VOD among those who underwent HSCT (2/7) was presumably too small for the formal statistical test and definitive conclusion (Supporting Information Figure <xref rid="cam44390-sup-0002" ref-type="supplementary-material">S2</xref>). Although statistical significance was not reached in our study, the median LSM values indicative of post‐IO SOS/VOD are likely to be higher than those did not previously treated with IO.</p><p>However, given the higher incidence of post‐IO HSCT SOS/VOD, patients would benefit from a pre‐HSCT assessment that considers the patient's different risk factors and adjusts conditioning regimens accordingly.<xref rid="cam44390-bib-0050" ref-type="bibr">
+<sup>50</sup>
+</xref>, <xref rid="cam44390-bib-0051" ref-type="bibr">
+<sup>51</sup>
+</xref> Furthermore, similar to what has been recently described in pediatric<xref rid="cam44390-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="cam44390-bib-0052" ref-type="bibr">
+<sup>52</sup>
+</xref> and adult populations<xref rid="cam44390-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="cam44390-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref> of patients undergoing HSCT, the bedside LSM monitoring would seem to allow a pre‐clinical diagnosis of SOS/VOD and differential diagnostics with other liver complications.<xref rid="cam44390-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="cam44390-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>
+</p><p>On the other hand, our results showed that patients followed up without HSCT referrals die in the following months, mainly for ALL‐related events. However, given the presence of long‐term survivors (Supporting Information Table <xref rid="cam44390-sup-0006" ref-type="supplementary-material">S1</xref>) and the significant number of PH‐related signs developed (Table <xref rid="cam44390-tbl-0002" ref-type="table">2</xref>), these patients may benefit from conventional clinical and imaging follow‐up of a patient with compensated ACLD (also known as cirrhosis of the liver).<xref rid="cam44390-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref> Consequently, screening and prevention of PH‐related complications such as refractory ascites<xref rid="cam44390-bib-0053" ref-type="bibr">
+<sup>53</sup>
+</xref> and esophageal varices and variceal bleeding<xref rid="cam44390-bib-0054" ref-type="bibr">
+<sup>54</sup>
+</xref> are crucial. Indeed, these complications could significantly impact the quality of life and overall survival of these patients. The development of such complications related to a chronic PH status in a patient treated with IO has similarly been described as a consequence of long‐term oxaliplatin‐based chemotherapy in colorectal cancer patients.<xref rid="cam44390-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="cam44390-bib-0055" ref-type="bibr">
+<sup>55</sup>
+</xref>, <xref rid="cam44390-bib-0056" ref-type="bibr">
+<sup>56</sup>
+</xref>, <xref rid="cam44390-bib-0057" ref-type="bibr">
+<sup>57</sup>
+</xref>, <xref rid="cam44390-bib-0058" ref-type="bibr">
+<sup>58</sup>
+</xref> Hepatic involvement secondary to oxaliplatin‐based chemotherapy likewise IO therapy could fall into a recently described classification called portal sinusoidal vascular disease (PSVD).<xref rid="cam44390-bib-0058" ref-type="bibr">
+<sup>58</sup>
+</xref> PSVD is characterized by typical manifestations of PH (appearance of esophageal varices, ascites, and portosystemic collaterals) and could probably explain the vascular and inflammatory hepatic changes identified in our study.</p><p>To the best of our knowledge, this is the first study that has the strength to perform a comprehensive laboratory and liver imaging (ultrasound and LSM) evaluation of hepatobiliary complications in patients undergoing IO treatment using an intensive cycle‐by‐cycle program.</p><p>However, the present study has some limitations. A relatively small cohort of patients was included, albeit to the best of our knowledge, this is the first single‐center study on this topic. The absence of a parallel control group did not allow us to exclude with certainty that some of the observed variations are secondary to late effects of previous therapy or other confounding factors. Moreover, nevertheless few patients subsequently undergoing HSCT were included, the prevalence of SOS/VOD was in line with what has been reported in the literature.<xref rid="cam44390-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref> Noninvasive liver assessments were arbitrarily scheduled before and after each cycle of IO. Evidence for a standard assessment program is not yet available, and our program has been arbitrarily applied due to the experimental role of these techniques in this context. Another possible limitation of our study is the lack of histological evaluation of the liver; however, liver biopsy is difficult to perform in this setting, mainly in patients with impaired coagulation and low platelet counts. Finally, our patient population was evaluated for a baseline risk factor for liver complications (e.g., previous therapies, previous HSCT, iron load, etc.); however, the number of our patient sets did not allow stratification for the analyses.</p><p>Based on our experience, future research should focus on confirming the predictive role of liver imaging on liver complications and the impact of these strategies on the overall survival of patients treated with IO in cohorts (hopefully multicenter), more extensive with a more extended follow‐up period.</p><p>In conclusion, this monocentric, prospective, longitudinal study on hepatic evaluation of patients receiving label IO suggests that a noninvasive assessment by color Doppler ultrasound and liver stiffness measurements may be promising approaches for diagnosis and monitoring portal hypertension‐related complications after IO treatment.</p></sec><sec sec-type="COI-statement" id="cam44390-sec-0016"><title>CONFLICT OF INTEREST</title><p>AC has received honoraria for participation in advisory boards from Jazz Pharma; GMart acts as a consultant for ARIAD/INCYTE, Jensen, Pfizer, Celgene/BMS, Amgen, J&amp;J, and Roche; The remaining authors declare no competing financial interests.</p></sec><sec id="cam44390-sec-0017"><title>AUTHOR CONTRIBUTIONS</title><p>FR, GMarc, AC, and CP designed the research and analyzed the data, and all authors contributed to data collection and wrote the manuscript. All authors had access to the data and were involved in this paper's analysis, interpretation, review, and preparation.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="cam44390-sup-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>Fig S1</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CAM4-11-618-s003.pdf" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material id="cam44390-sup-0002" position="float" content-type="local-data" orientation="portrait"><caption><p>Fig S2</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CAM4-11-618-s006.pdf" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material id="cam44390-sup-0003" position="float" content-type="local-data" orientation="portrait"><caption><p>Fig S3</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CAM4-11-618-s002.pdf" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material id="cam44390-sup-0004" position="float" content-type="local-data" orientation="portrait"><caption><p>Fig S4</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CAM4-11-618-s005.pdf" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material id="cam44390-sup-0005" position="float" content-type="local-data" orientation="portrait"><caption><p>Fig S5</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CAM4-11-618-s004.pdf" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material id="cam44390-sup-0006" position="float" content-type="local-data" orientation="portrait"><caption><p>Table S1</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CAM4-11-618-s001.docx" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="cam44390-sec-0015"><title>ACKNOWLEDGMENTS</title><p>This work was supported by Bologna AIL.</p></ack><sec sec-type="data-availability" id="cam44390-sec-0019"><title>DATA AVAILABILITY STATEMENT</title><p>For original data, please contact the <email>antonio.colecchia@unimore.it</email>
+</p></sec><ref-list content-type="cited-references" id="cam44390-bibl-0001"><title>REFERENCES</title><ref id="cam44390-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="cam44390-cit-0001">
+<string-name name-style="western">
+<surname>Mousavi</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sporstøl</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fladeby</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Receptor‐mediated endocytosis of immune complexes in rat liver sinusoidal endothelial cells is mediated by FcγRIIb2</article-title>. <source>Hepatology</source>. <year>2007</year>;<volume>46</volume>(<issue>3</issue>):<fpage>871</fpage>‐<lpage>884</lpage>.<pub-id pub-id-type="pmid">17680646</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/hep.21748</pub-id></mixed-citation></ref><ref id="cam44390-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="cam44390-cit-0002">
+<string-name name-style="western">
+<surname>Godwin</surname>
+<given-names>CD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McDonald</surname>
+<given-names>GB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Walter</surname>
+<given-names>RB</given-names>
+</string-name>. <article-title>Sinusoidal obstruction syndrome following CD33‐targeted therapy in acute myeloid leukemia</article-title>. <source>Blood</source>. <year>2017</year>;<volume>129</volume>(<issue>16</issue>):<fpage>2330</fpage>‐<lpage>2332</lpage>.<pub-id pub-id-type="pmid">28153826</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1182/blood-2017-01-762419</pub-id><pub-id pub-id-type="pmcid">PMC5399486</pub-id></mixed-citation></ref><ref id="cam44390-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="cam44390-cit-0003">
+<string-name name-style="western">
+<surname>Walter</surname>
+<given-names>RB</given-names>
+</string-name>. <article-title>Brief overview of antibody–drug conjugate therapy for acute leukemia</article-title>. <source>Expert Opin Biol Ther</source>. <year>2021</year>;<volume>21</volume>(<issue>7</issue>):<fpage>759</fpage>‐<lpage>799</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/14712598.2020.1817373</pub-id><pub-id pub-id-type="pmid">32857943</pub-id></mixed-citation></ref><ref id="cam44390-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="cam44390-cit-0004">
+<string-name name-style="western">
+<surname>Roeker</surname>
+<given-names>LE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kim</surname>
+<given-names>HT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Glotzbecker</surname>
+<given-names>B</given-names>
+</string-name>, et al. <article-title>Early clinical predictors of hepatic veno‐occlusive disease/sinusoidal obstruction syndrome after myeloablative stem cell transplantation</article-title>. <source>Biol Blood Marrow Transplant</source>. <year>2019</year>;<volume>25</volume>(<issue>1</issue>):<fpage>137</fpage>‐<lpage>144</lpage>.<pub-id pub-id-type="pmid">30081073</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bbmt.2018.07.039</pub-id></mixed-citation></ref><ref id="cam44390-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="cam44390-cit-0005">
+<string-name name-style="western">
+<surname>McDonald</surname>
+<given-names>GB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Freston</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Boyer</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>DeLeve</surname>
+<given-names>LD</given-names>
+</string-name>. <article-title>Liver complications following treatment of hematologic malignancy with anti‐CD22‐calicheamicin (Inotuzumab Ozogamicin)</article-title>. <source>Hepatology</source>. <year>2019</year>;<volume>69</volume>(<issue>2</issue>):<fpage>831</fpage>‐<lpage>844</lpage>.<pub-id pub-id-type="pmid">30120894</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/hep.30222</pub-id><pub-id pub-id-type="pmcid">PMC6351187</pub-id></mixed-citation></ref><ref id="cam44390-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="cam44390-cit-0006">
+<string-name name-style="western">
+<surname>Kantarjian</surname>
+<given-names>HM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>DeAngelo</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stelljes</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Inotuzumab ozogamicin versus standard therapy for acute lymphoblastic leukemia</article-title>. <source>N Engl J Med</source>. <year>2016</year>;<volume>375</volume>(<issue>8</issue>):<fpage>740</fpage>‐<lpage>753</lpage>.<pub-id pub-id-type="pmid">27292104</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa1509277</pub-id><pub-id pub-id-type="pmcid">PMC5594743</pub-id></mixed-citation></ref><ref id="cam44390-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="cam44390-cit-0007">
+<string-name name-style="western">
+<surname>Kebriaei</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cutler</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>de Lima</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Management of important adverse events associated with inotuzumab ozogamicin: expert panel review</article-title>. <source>Bone Marrow Transplant</source>. <year>2018</year>;<volume>53</volume>(<issue>4</issue>):<fpage>449</fpage>‐<lpage>456</lpage>.<pub-id pub-id-type="pmid">29330398</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41409-017-0019-y</pub-id><pub-id pub-id-type="pmcid">PMC5897380</pub-id></mixed-citation></ref><ref id="cam44390-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="cam44390-cit-0008">
+<string-name name-style="western">
+<surname>Arena</surname>
+<given-names>U</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stasi</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mannoni</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Liver stiffness correlates with methotrexate cumulative dose in patients with rheumatoid arthritis</article-title>. <source>Dig Liver Dis</source>. <year>2012</year>;<volume>44</volume>(<issue>2</issue>):<fpage>149</fpage>‐<lpage>153</lpage>.<pub-id pub-id-type="pmid">21930442</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.dld.2011.08.013</pub-id></mixed-citation></ref><ref id="cam44390-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="cam44390-cit-0009">
+<string-name name-style="western">
+<surname>Rubbia‐Brandt</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mentha</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Terris</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>Sinusoidal obstruction syndrome is a major feature of hepatic lesions associated with oxaliplatin neoadjuvant chemotherapy for liver colorectal metastases [1]</article-title>. <source>J Am Coll Surg</source>. <year>2006</year>;<volume>202</volume>(<issue>1</issue>):<fpage>199</fpage>‐<lpage>200</lpage>.<pub-id pub-id-type="pmid">16377516</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jamcollsurg.2005.09.010</pub-id></mixed-citation></ref><ref id="cam44390-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="cam44390-cit-0010">
+<string-name name-style="western">
+<surname>Dalle</surname>
+<given-names>J‐H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Giralt</surname>
+<given-names>SA</given-names>
+</string-name>. <article-title>Hepatic veno‐occlusive disease after hematopoietic stem cell transplantation: risk factors and stratification, prophylaxis, and treatment</article-title>. <source>Biol Blood Marrow Transplant</source>. <year>2015</year>;<volume>22</volume>(<issue>3</issue>):<fpage>400</fpage>‐<lpage>409</lpage>.<pub-id pub-id-type="pmid">26431626</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bbmt.2015.09.024</pub-id></mixed-citation></ref><ref id="cam44390-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="cam44390-cit-0011">
+<string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van Mierlo</surname>
+<given-names>KMC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gómez‐Ramírez</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Systematic review of the influence of chemotherapy‐associated liver injury on outcome after partial hepatectomy for colorectal liver metastases</article-title>. <source>Br J Surg</source>. <year>2017</year>;<volume>104</volume>(<issue>8</issue>):<fpage>990</fpage>‐<lpage>1002</lpage>.<pub-id pub-id-type="pmid">28542731</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/bjs.10572</pub-id></mixed-citation></ref><ref id="cam44390-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="cam44390-cit-0012">
+<string-name name-style="western">
+<surname>Rubbia‐Brandt</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lauwers</surname>
+<given-names>GY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Sinusoidal obstruction syndrome and nodular regenerative hyperplasia are frequent oxaliplatin‐associated liver lesions and partially prevented by bevacizumab in patients with hepatic colorectal metastasis</article-title>. <source>Histopathology</source>. <year>2010</year>;<volume>56</volume>(<issue>4</issue>):<fpage>430</fpage>‐<lpage>439</lpage>.<pub-id pub-id-type="pmid">20459550</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1365-2559.2010.03511.x</pub-id></mixed-citation></ref><ref id="cam44390-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="cam44390-cit-0013">
+<string-name name-style="western">
+<surname>Mohty</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Malard</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Abecassis</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Sinusoidal obstruction syndrome/veno‐occlusive disease: current situation and perspectives‐a position statement from the European Society for Blood and Marrow Transplantation (EBMT)</article-title>. <source>Bone Marrow Transplant</source>. <year>2015</year>;<volume>50</volume>(<issue>6</issue>):<fpage>781</fpage>‐<lpage>789</lpage>.<pub-id pub-id-type="pmid">25798682</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/bmt.2015.52</pub-id><pub-id pub-id-type="pmcid">PMC4456788</pub-id></mixed-citation></ref><ref id="cam44390-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="cam44390-cit-0014">
+<string-name name-style="western">
+<surname>Bonifazi</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barbato</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ravaioli</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>Diagnosis and treatment of VOD/SOS after allogeneic hematopoietic stem cell transplantation</article-title>. <source>Front Immunol</source>. <year>2020</year>;<volume>11</volume>:<fpage>489</fpage>.<pub-id pub-id-type="pmid">32318059</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fimmu.2020.00489</pub-id><pub-id pub-id-type="pmcid">PMC7147118</pub-id></mixed-citation></ref><ref id="cam44390-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="cam44390-cit-0015">
+<string-name name-style="western">
+<surname>Ravaioli</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Colecchia</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Alemanni</surname>
+<given-names>LV</given-names>
+</string-name>, et al. <article-title>Role of imaging techniques in liver veno‐occlusive disease diagnosis: recent advances and literature review</article-title>. <source>Expert Rev Gastroenterol Hepatol</source>. <year>2019</year>;<volume>13</volume>(<issue>5</issue>):<fpage>463</fpage>‐<lpage>484</lpage>.<pub-id pub-id-type="pmid">30895833</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/17474124.2019.1588111</pub-id></mixed-citation></ref><ref id="cam44390-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="cam44390-cit-0016">
+<string-name name-style="western">
+<surname>Chan</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Colecchia</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Duarte</surname>
+<given-names>RF</given-names>
+</string-name>, et al. <article-title>Imaging in hepatic veno‐occlusive disease/sinusoidal obstruction syndrome</article-title>. <source>Biol Blood Marrow Transplant</source>. <year>2020</year>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bbmt.2020.06.016</pub-id><pub-id pub-id-type="pmid">32593647</pub-id></mixed-citation></ref><ref id="cam44390-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="cam44390-cit-0017">
+<string-name name-style="western">
+<surname>Ravaioli</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Montagnani</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lisotti</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Noninvasive assessment of portal hypertension in advanced chronic liver disease: an update</article-title>. <source>Gastroenterol Res Pract</source>. <year>2018</year>;<volume>2018</volume>(<issue>1</issue>):<fpage>1</fpage>‐<lpage>11</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1155/2018/4202091</pub-id><pub-id pub-id-type="pmcid">PMC6011072</pub-id><pub-id pub-id-type="pmid">29977287</pub-id></mixed-citation></ref><ref id="cam44390-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="cam44390-cit-0018">
+<string-name name-style="western">
+<surname>Colecchia</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ravaioli</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sessa</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Liver stiffness measurement allows early diagnosis of veno‐occlusive disease/sinusoidal obstruction syndrome in adult patients who undergo hematopoietic stem cell transplantation: results from a monocentric prospective study</article-title>. <source>Biol Blood Marrow Transplant</source>. <year>2019</year>;<volume>25</volume>(<issue>5</issue>):<fpage>995</fpage>‐<lpage>1003</lpage>.<pub-id pub-id-type="pmid">30660772</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bbmt.2019.01.019</pub-id></mixed-citation></ref><ref id="cam44390-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="cam44390-cit-0019">
+<string-name name-style="western">
+<surname>Colecchia</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marasco</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ravaioli</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>Usefulness of liver stiffness measurement in predicting hepatic veno‐occlusive disease development in patients who undergo HSCT</article-title>. <source>Bone Marrow Transplant</source>. <year>2017</year>;<volume>52</volume>(<issue>3</issue>):<fpage>494</fpage>‐<lpage>497</lpage>.<pub-id pub-id-type="pmid">27941774</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/bmt.2016.320</pub-id></mixed-citation></ref><ref id="cam44390-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="cam44390-cit-0020">
+<string-name name-style="western">
+<surname>Karlas</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Weber</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nehring</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Value of liver elastography and abdominal ultrasound for detection of complications of allogeneic hemopoietic SCT</article-title>. <source>Bone Marrow Transplant</source>. <year>2014</year>;<volume>49</volume>(<issue>6</issue>):<fpage>806</fpage>‐<lpage>811</lpage>.<pub-id pub-id-type="pmid">24710567</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/bmt.2014.61</pub-id></mixed-citation></ref><ref id="cam44390-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="cam44390-cit-0021">
+<string-name name-style="western">
+<surname>Karlas</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Weiße</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Petroff</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Predicting hepatic complications of allogeneic hematopoietic stem cell transplantation using liver stiffness measurement</article-title>. <source>Bone Marrow Transplant</source>. <year>2019</year>;<volume>54</volume>(<issue>11</issue>):<fpage>1738</fpage>‐<lpage>1746</lpage>.<pub-id pub-id-type="pmid">30809042</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41409-019-0464-x</pub-id></mixed-citation></ref><ref id="cam44390-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="cam44390-cit-0022">
+<string-name name-style="western">
+<surname>Auberger</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Graziadei</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Clausen</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vogel</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nachbaur</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Non‐invasive transient elastography for the prediction of liver toxicity following hematopoietic SCT</article-title>. <source>Bone Marrow Transplant</source>. <year>2013</year>;<volume>48</volume>(<issue>1</issue>):<fpage>159</fpage>‐<lpage>160</lpage>.<pub-id pub-id-type="pmid">22705804</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/bmt.2012.113</pub-id></mixed-citation></ref><ref id="cam44390-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="cam44390-cit-0023">
+<string-name name-style="western">
+<surname>Debureaux</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bourrier</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rautou</surname>
+<given-names>P‐E</given-names>
+</string-name>, et al. <article-title>Elastography improves accuracy of early hepato‐biliary complications diagnosis after allogeneic stem cell transplantation</article-title>. <source>Haematologica</source>. <year>2020</year>;haematol.2019.245407.<pub-id pub-id-type="doi" assigning-authority="pmc">10.3324/haematol.2019.245407</pub-id><pub-id pub-id-type="pmcid">PMC8409044</pub-id><pub-id pub-id-type="pmid">32732366</pub-id></mixed-citation></ref><ref id="cam44390-bib-0024"><label>24</label><mixed-citation publication-type="book" id="cam44390-cit-0024">
+<string-name name-style="western">
+<surname>Colecchia</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ravaioli</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marasco</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Festi</surname>
+<given-names>D</given-names>
+</string-name>. <source>Spleen stiffness by ultrasound elastography</source>. <publisher-name>Diagnostic Methods Cirrhosis Portal Hypertens</publisher-name>. <year>2018</year>;<fpage>113</fpage>‐<lpage>137</lpage>.</mixed-citation></ref><ref id="cam44390-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="cam44390-cit-0025">
+<string-name name-style="western">
+<surname>Sǎftoiu</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gilja</surname>
+<given-names>OH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sidhu</surname>
+<given-names>PS</given-names>
+</string-name>, et al. <article-title>The EFSUMB guidelines and recommendations for the clinical practice of elastography in non‐hepatic applications: update 2018</article-title>. <source>Ultraschall Der Medizin</source>. <year>2019</year>;<volume>40</volume>(<issue>4</issue>):<fpage>425</fpage>‐<lpage>453</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1055/a-0838-9937</pub-id><pub-id pub-id-type="pmid">31238377</pub-id></mixed-citation></ref><ref id="cam44390-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="cam44390-cit-0026">
+<string-name name-style="western">
+<surname>Lassau</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Leclère</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Auperin</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Hepatic veno‐occlusive disease after myeloablative treatment and bone marrow transplantation: value of gray‐scale and Doppler US in 100 patients</article-title>. <source>Radiology</source>. <year>1997</year>;<volume>204</volume>(<issue>2</issue>):<fpage>545</fpage>‐<lpage>552</lpage>.<pub-id pub-id-type="pmid">9240551</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1148/radiology.204.2.9240551</pub-id></mixed-citation></ref><ref id="cam44390-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="cam44390-cit-0027">
+<string-name name-style="western">
+<surname>Nishida</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kahata</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hayase</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Novel ultrasonographic scoring system of sinusoidal obstruction syndrome after hematopoietic stem cell transplantation</article-title>. <source>Biol Blood Marrow Transplant</source>. <year>2018</year>;<volume>24</volume>(<issue>9</issue>):<fpage>1896</fpage>‐<lpage>1900</lpage>.<pub-id pub-id-type="pmid">29803752</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bbmt.2018.05.025</pub-id></mixed-citation></ref><ref id="cam44390-bib-0028"><label>28</label><mixed-citation publication-type="miscellaneous" id="cam44390-cit-0028">
+<article-title>The 2016 revision to the World Health Organization classification of myeloid neoplasms and acute leukemia | Blood | American Society of Hematology</article-title>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1182/blood-2016-03-643544</pub-id><pub-id pub-id-type="pmid">27069254</pub-id></mixed-citation></ref><ref id="cam44390-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="cam44390-cit-0029">
+<string-name name-style="western">
+<surname>Dietrich</surname>
+<given-names>CF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bamber</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Berzigotti</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>EFSUMB Guidelines and recommendations on the clinical use of liver ultrasound elastography, update 2017 (long version)</article-title>. <source>Ultraschall der Medizin</source>. <year>2017</year>;<volume>38</volume>(<issue>4</issue>):<fpage>e16</fpage>‐<lpage>e47</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1055/s-0043-103952</pub-id><pub-id pub-id-type="pmid">28407655</pub-id></mixed-citation></ref><ref id="cam44390-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="cam44390-cit-0030">
+<string-name name-style="western">
+<surname>Stefanescu</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marasco</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Calès</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>A novel spleen‐dedicated stiffness measurement by FibroScan <sup>®</sup> improves the screening of high‐risk esophageal varices</article-title>. <source>Liver Int</source>. <year>2019</year>;liv.14228.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/liv.14228</pub-id><pub-id pub-id-type="pmid">31444849</pub-id></mixed-citation></ref><ref id="cam44390-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="cam44390-cit-0031">
+<string-name name-style="western">
+<surname>Colecchia</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ravaioli</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marasco</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>A combined model based on spleen stiffness measurement and Baveno VI criteria to rule out high‐risk varices in advanced chronic liver disease</article-title>. <source>J Hepatol</source>. <year>2018</year>;<volume>69</volume>(<issue>2</issue>):<fpage>308</fpage>‐<lpage>317</lpage>.<pub-id pub-id-type="pmid">29729368</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jhep.2018.04.023</pub-id></mixed-citation></ref><ref id="cam44390-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="cam44390-cit-0032">
+<string-name name-style="western">
+<surname>Berzigotti</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Piscaglia</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>Ultrasound in portal hypertension–part 2–and EFSUMB recommendations for the performance and reporting of ultrasound examinations in portal hypertension</article-title>. <source>Ultraschall Med</source>. <year>2012</year>;<volume>33</volume>(<issue>1</issue>):<fpage>1</fpage>‐<lpage>8</lpage>.<pub-id pub-id-type="pmid">22322479</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1055/s-0031-1299145</pub-id></mixed-citation></ref><ref id="cam44390-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="cam44390-cit-0033">
+<string-name name-style="western">
+<surname>Kantarjian</surname>
+<given-names>HM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>DeAngelo</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Advani</surname>
+<given-names>AS</given-names>
+</string-name>, et al. <article-title>Hepatic adverse event profile of inotuzumab ozogamicin in adult patients with relapsed or refractory acute lymphoblastic leukaemia: results from the open‐label, randomised, phase 3 INO‐VATE study</article-title>. <source>Lancet Haematol</source>. <year>2017</year>;<volume>4</volume>(<issue>8</issue>):<fpage>e387</fpage>‐<lpage>e398</lpage>.<pub-id pub-id-type="pmid">28687420</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S2352-3026(17)30103-5</pub-id></mixed-citation></ref><ref id="cam44390-bib-0034"><label>34</label><mixed-citation publication-type="miscellaneous" id="cam44390-cit-0034">
+<article-title>NCI Common Terminology Criteria for Adverse Events (CTCAE) Version 4</article-title>.</mixed-citation></ref><ref id="cam44390-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="cam44390-cit-0035">
+<string-name name-style="western">
+<surname>Mandorfer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hernández‐Gea</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>García‐Pagán</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Reiberger</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Noninvasive diagnostics for portal hypertension: a comprehensive review</article-title>. <source>Semin Liver Dis</source>. <year>2020</year>;<volume>40</volume>(<issue>3</issue>):<fpage>240</fpage>‐<lpage>255</lpage>.<pub-id pub-id-type="pmid">32557480</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1055/s-0040-1708806</pub-id></mixed-citation></ref><ref id="cam44390-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="cam44390-cit-0036">
+<string-name name-style="western">
+<surname>Patridge</surname>
+<given-names>EF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bardyn</surname>
+<given-names>TP</given-names>
+</string-name>. <article-title>Research electronic data capture (REDCap)</article-title>. <source>J Med Libr Assoc</source>. <year>2018</year>;<volume>106</volume>(<issue>1</issue>):<fpage>142</fpage>.</mixed-citation></ref><ref id="cam44390-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="cam44390-cit-0037">
+<string-name name-style="western">
+<surname>Dwivedi</surname>
+<given-names>AK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mallawaarachchi</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Alvarado</surname>
+<given-names>LA</given-names>
+</string-name>. <article-title>Analysis of small sample size studies using nonparametric bootstrap test with pooled resampling method</article-title>. <source>Stat Med</source>. <year>2017</year>;<volume>36</volume>(<issue>14</issue>):<fpage>2187</fpage>‐<lpage>2205</lpage>.<pub-id pub-id-type="pmid">28276584</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/sim.7263</pub-id></mixed-citation></ref><ref id="cam44390-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="cam44390-cit-0038">
+<string-name name-style="western">
+<surname>Kantarjian</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stein</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gökbuget</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>Blinatumomab versus chemotherapy for advanced acute lymphoblastic leukemia</article-title>. <source>N Engl J Med</source>. <year>2017</year>;<volume>376</volume>(<issue>9</issue>):<fpage>836</fpage>‐<lpage>847</lpage>.<pub-id pub-id-type="pmid">28249141</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa1609783</pub-id><pub-id pub-id-type="pmcid">PMC5881572</pub-id></mixed-citation></ref><ref id="cam44390-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="cam44390-cit-0039">
+<string-name name-style="western">
+<surname>Colecchia</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ravaioli</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sessa</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Liver Stiffness Measurement allows to early diagnose VOD/SOS inadult patients who underwent Hemopoietic Stem Cell Transplantation: results from a monocentric prospective study</article-title>. <source>Biol Blood Marrow Transplant</source>. <year>2019</year>;<volume>25</volume>(<issue>5</issue>):<fpage>955</fpage>‐<lpage>1003</lpage>.<pub-id pub-id-type="pmid">30660772</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bbmt.2019.01.019</pub-id></mixed-citation></ref><ref id="cam44390-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="cam44390-cit-0040">
+<string-name name-style="western">
+<surname>Kantarjian</surname>
+<given-names>HM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>DeAngelo</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stelljes</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Inotuzumab ozogamicin versus standard of care in relapsed or refractory acute lymphoblastic leukemia: final report and long‐term survival follow‐up from the randomized, phase 3 INO‐VATE study</article-title>. <source>Cancer</source>. <year>2019</year>;<volume>125</volume>(<issue>14</issue>):<fpage>2474</fpage>‐<lpage>2487</lpage>.<pub-id pub-id-type="pmid">30920645</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/cncr.32116</pub-id><pub-id pub-id-type="pmcid">PMC6618133</pub-id></mixed-citation></ref><ref id="cam44390-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="cam44390-cit-0041">
+<string-name name-style="western">
+<surname>Field</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dow</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Michael</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Part I: liver function in oncology: biochemistry and beyond</article-title>. <source>Lancet Oncol</source>. <year>2008</year>;<volume>9</volume>(<issue>11</issue>):<fpage>1092</fpage>‐<lpage>1101</lpage>.<pub-id pub-id-type="pmid">19012858</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S1470-2045(08)70279-1</pub-id></mixed-citation></ref><ref id="cam44390-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="cam44390-cit-0042">
+<string-name name-style="western">
+<surname>Ramadori</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cameron</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Effects of systemic chemotherapy on the liver</article-title>. <source>Ann Hepatol</source>. <year>2010</year>;<volume>9</volume>(<issue>2</issue>):<fpage>133</fpage>‐<lpage>143</lpage>.<pub-id pub-id-type="pmid">20526005</pub-id></mixed-citation></ref><ref id="cam44390-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="cam44390-cit-0043">
+<string-name name-style="western">
+<surname>Lucena</surname>
+<given-names>MI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Camargo</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Andrade</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Perez‐Sanchez</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>De La Cuesta</surname>
+<given-names>FS</given-names>
+</string-name>. <article-title>Comparison of two clinical scales for causality assessment in hepatotoxicity</article-title>. <source>Hepatology</source>. <year>2001</year>;<volume>33</volume>(<issue>1</issue>):<fpage>123</fpage>‐<lpage>130</lpage>.<pub-id pub-id-type="pmid">11124828</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1053/jhep.2001.20645</pub-id></mixed-citation></ref><ref id="cam44390-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="cam44390-cit-0044">
+<string-name name-style="western">
+<surname>Lassau</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Auperin</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Leclere</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Prognostic value of doppler‐ultrasonography in hepatic veno‐occlusive disease</article-title>. <source>Transplantation</source>. <year>2002</year>;<volume>74</volume>(<issue>1</issue>):<fpage>60</fpage>‐<lpage>66</lpage>.<pub-id pub-id-type="pmid">12134100</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/00007890-200207150-00011</pub-id></mixed-citation></ref><ref id="cam44390-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="cam44390-cit-0045">
+<string-name name-style="western">
+<surname>Nishida</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kahata</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hayase</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Novel ultrasonographic scoring system of sinusoidal obstruction syndrome after hematopoietic stem cell transplantation</article-title>. <source>Biol Blood Marrow Transplant</source>. <year>2018</year>;<volume>24</volume>(<issue>9</issue>):<fpage>1896</fpage>‐<lpage>1900</lpage>.<pub-id pub-id-type="pmid">29803752</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bbmt.2018.05.025</pub-id></mixed-citation></ref><ref id="cam44390-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="cam44390-cit-0046">
+<string-name name-style="western">
+<surname>Dietrich</surname>
+<given-names>CF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Trenker</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fontanilla</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>New ultrasound techniques challenge the diagnosis of sinusoidal obstruction syndrome</article-title>. <source>Ultrasound Med Biol</source>; <year>2018</year>;<volume>44</volume>(<issue>11</issue>):<fpage>2171</fpage>‐<lpage>2182</lpage>.<pub-id pub-id-type="pmid">30076031</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ultrasmedbio.2018.06.002</pub-id></mixed-citation></ref><ref id="cam44390-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="cam44390-cit-0047">
+<string-name name-style="western">
+<surname>Qi</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Berzigotti</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cardenas</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sarin</surname>
+<given-names>SK</given-names>
+</string-name>. <article-title>Emerging non‐invasive approaches for diagnosis and monitoring of portal hypertension</article-title>. <source>Lancet Gastroenterol Hepatol</source>. <year>2018</year>;<volume>3</volume>(<issue>10</issue>):<fpage>708</fpage>‐<lpage>719</lpage>.<pub-id pub-id-type="pmid">30215362</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S2468-1253(18)30232-2</pub-id></mixed-citation></ref><ref id="cam44390-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="cam44390-cit-0048">
+<string-name name-style="western">
+<surname>Jabbour</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ravandi</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kebriaei</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Salvage chemoimmunotherapy with inotuzumab ozogamicin combined with mini‐hyper‐CVD for patients with relapsed or refractory philadelphia chromosome‐negative acute lymphoblastic leukemia: a phase 2 clinical trial</article-title>. <source>JAMA Oncol</source>. <year>2018</year>;<volume>4</volume>(<issue>2</issue>):<fpage>230</fpage>‐<lpage>234</lpage>.<pub-id pub-id-type="pmid">28859185</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jamaoncol.2017.2380</pub-id><pub-id pub-id-type="pmcid">PMC5838597</pub-id></mixed-citation></ref><ref id="cam44390-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="cam44390-cit-0049">
+<string-name name-style="western">
+<surname>Malard</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mohty</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Acute lymphoblastic leukaemia</article-title>. <source>Lancet</source>. <year>2020</year>;<volume>395</volume>(<issue>10230</issue>):<fpage>1146</fpage>‐<lpage>1162</lpage>.<pub-id pub-id-type="pmid">32247396</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S0140-6736(19)33018-1</pub-id></mixed-citation></ref><ref id="cam44390-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="cam44390-cit-0050">
+<string-name name-style="western">
+<surname>Bonifazi</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sica</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Angeletti</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Veno‐occlusive Disease in HSCT Patients</article-title>. <source>Transplantation</source>. <year>2020</year>;Publish Ah:<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/TP.0000000000003569</pub-id><pub-id pub-id-type="pmid">33273315</pub-id></mixed-citation></ref><ref id="cam44390-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="cam44390-cit-0051">
+<string-name name-style="western">
+<surname>Corbacioglu</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jabbour</surname>
+<given-names>EJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mohty</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Risk factors for development of and progression of hepatic veno‐occlusive disease/sinusoidal obstruction syndrome</article-title>. <source>Biol Blood Marrow Transplant</source>. <year>2019</year>;<volume>25</volume>(<issue>7</issue>):<fpage>1271</fpage>‐<lpage>1280</lpage>.<pub-id pub-id-type="pmid">30797942</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bbmt.2019.02.018</pub-id></mixed-citation></ref><ref id="cam44390-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="cam44390-cit-0052">
+<string-name name-style="western">
+<surname>Zama</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bossù</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ravaioli</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>Longitudinal evaluation of liver stiffness in three pediatric patients with veno‐occlusive disease</article-title>. <source>Pediatr Transplant</source>. <year>2019</year>;<volume>23</volume>(<issue>5</issue>):<elocation-id>e13456</elocation-id>.<pub-id pub-id-type="pmid">31081161</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/petr.13456</pub-id></mixed-citation></ref><ref id="cam44390-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="cam44390-cit-0053">
+<string-name name-style="western">
+<surname>Varma</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Abraham</surname>
+<given-names>SC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mehta</surname>
+<given-names>RS</given-names>
+</string-name>, et al. <article-title>Idiopathic refractory ascites after allogeneic stem cell transplantation: a previously unrecognized entity</article-title>. <source>Blood Adv</source>. <year>2020</year>;<volume>4</volume>(<issue>7</issue>):<fpage>1296</fpage>‐<lpage>1306</lpage>.<pub-id pub-id-type="pmid">32236526</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1182/bloodadvances.2019000638</pub-id><pub-id pub-id-type="pmcid">PMC7160275</pub-id></mixed-citation></ref><ref id="cam44390-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="cam44390-cit-0054">
+<string-name name-style="western">
+<surname>Colecchia</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ravaioli</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marasco</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>A combined model based on spleen stiffness measurement and Baveno VI criteria to rule out high‐risk varices in advanced chronic liver disease</article-title>. <source>J Hepatol</source>. <year>2018</year>;<volume>69</volume>(<issue>2</issue>):<fpage>308</fpage>‐<lpage>317</lpage>.<pub-id pub-id-type="pmid">29729368</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jhep.2018.04.023</pub-id></mixed-citation></ref><ref id="cam44390-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="cam44390-cit-0055">
+<string-name name-style="western">
+<surname>Narita</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Oussoultzoglou</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chenard</surname>
+<given-names>M‐P</given-names>
+</string-name>, et al. <article-title>Liver injury due to chemotherapy‐induced sinusoidal obstruction syndrome is associated with sinusoidal capillarization</article-title>. <source>Ann Surg Oncol</source>. <year>2012</year>;<volume>19</volume>(<issue>7</issue>):<fpage>2230</fpage>‐<lpage>2237</lpage>.<pub-id pub-id-type="pmid">22402811</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1245/s10434-011-2112-6</pub-id></mixed-citation></ref><ref id="cam44390-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="cam44390-cit-0056">
+<string-name name-style="western">
+<surname>Puente</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fortea</surname>
+<given-names>JI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Del Pozo</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Porto‐sinusoidal vascular disease associated to oxaliplatin: an entity to think about it</article-title>. <source>Cells</source>. <year>2019</year>;<volume>8</volume>(<issue>12</issue>):<fpage>1506</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/cells8121506</pub-id><pub-id pub-id-type="pmcid">PMC6952805</pub-id><pub-id pub-id-type="pmid">31771307</pub-id></mixed-citation></ref><ref id="cam44390-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="cam44390-cit-0057">
+<string-name name-style="western">
+<surname>van Mierlo</surname>
+<given-names>KMC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kleijnen</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>The influence of chemotherapy‐associated sinusoidal dilatation on short‐term outcome after partial hepatectomy for colorectal liver metastases: a systematic review with meta‐analysis</article-title>. <source>Surg Oncol</source>. <year>2016</year>;<volume>25</volume>(<issue>3</issue>):<fpage>298</fpage>‐<lpage>307</lpage>.<pub-id pub-id-type="pmid">27566036</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.suronc.2016.05.030</pub-id></mixed-citation></ref><ref id="cam44390-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="cam44390-cit-0058">
+<string-name name-style="western">
+<surname>De Gottardi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rautou</surname>
+<given-names>P‐E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schouten</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Porto‐sinusoidal vascular disease: proposal and description of a novel entity</article-title>. <source>Lancet Gastroenterol Hepatol</source>. <year>2019</year>;<volume>4</volume>(<issue>5</issue>):<fpage>399</fpage>‐<lpage>411</lpage>.<pub-id pub-id-type="pmid">30957754</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S2468-1253(19)30047-0</pub-id></mixed-citation></ref></ref-list></back></article>
