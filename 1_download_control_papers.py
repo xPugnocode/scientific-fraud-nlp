@@ -12,6 +12,12 @@ from urllib3.util.retry import Retry
 from scispacy.linking import EntityLinker
 import spacy
 import re
+import warnings
+from sklearn.exceptions import InconsistentVersionWarning
+
+warnings.filterwarnings('ignore', category=FutureWarning)
+warnings.filterwarnings('ignore', category=InconsistentVersionWarning, module='sklearn')
+
 
 nlp = spacy.load("en_core_sci_sm")
 nlp.add_pipe('scispacy_linker', config={'linker_name': 'mesh', 'threshold': 0.8, 'max_entities_per_mention': 1})
