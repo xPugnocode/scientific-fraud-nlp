@@ -93,6 +93,12 @@ def get_xml_link(papers):
             meta = r.json()
             xml_url = meta.get('xml_url')
             if xml_url:
+                xml = session.get(xml_url.replace('s3://pmc-oa-opendata', S3_BASE)).content
+                article = ET.fromstring(xml)
+                article = article.find('article') if article.tag == 'pmc-articleset' else article
+                body = article.find('body')
+                if body is None or 'retracted' in ''.join(body.itertext()).lower():
+                    continue
                 return str(doi), str(pmid), str(pmcid), str(xml_url)
         # print(f'No XML found for PMID: {pmid}')
         return doi, pmid, versions[0].rsplit('.', 1)[0], None

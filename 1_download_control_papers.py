@@ -34,7 +34,7 @@ API_KEY = os.getenv('ENTREZ_API')
 session = requests.Session()
 retry = Retry(status_forcelist=(429, 500, 502, 503, 504), allowed_methods=("GET"), backoff_factor=2)
 adapter = HTTPAdapter(max_retries=retry, pool_connections=20, pool_maxsize=20)
-session.mount("https://", adapter)
+session.mount("https://", adapter) # TODO: add retries to handle ChunkedEncodingError
 
 data_dir = Path('data')
 papers_dir = data_dir / 'fraud-papers'
@@ -184,6 +184,14 @@ def get_valid_control_xml(pmcid):
                 continue
             article = root.find('article') if root.tag == 'pmc-articleset' else root
             if article is not None and article.get('article-type') == 'research-article':
+                body = article.find('.//body')
+                if body is None:
+                    continue
+                citations = len(body.findall('.//xref[@ref-type="bibr"]'))
+                citations += len(body.findall('.//xref[@ref-type="ref"]'))
+                citations += len(body.findall('.//xref[@ref-type="bib"]'))
+                if citations == 0:
+                    continue
                 return str(xml_url), xml_response.content
     return None
 
