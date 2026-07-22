@@ -1,0 +1,489 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article article-type="research-article" xml:lang="en" dtd-version="1.4"><front><journal-meta><journal-id journal-id-type="nlm-ta">Cancer Med</journal-id><journal-id journal-id-type="iso-abbrev">Cancer Med</journal-id><journal-id journal-id-type="pmc-domain-id">1974</journal-id><journal-id journal-id-type="pmc-domain">canmed</journal-id><journal-id journal-id-type="nlm-id">101595310</journal-id><journal-id journal-id-type="publisher-id">CAM4</journal-id><journal-title-group><journal-title>Cancer Medicine</journal-title></journal-title-group><issn pub-type="epub">2045-7634</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC7476832</article-id><article-id pub-id-type="pmcid-ver">PMC7476832.1</article-id><article-id pub-id-type="pmcaid">7476832</article-id><article-id pub-id-type="pmcaiid">7476832</article-id><article-id pub-id-type="pmid">33448691</article-id><article-id pub-id-type="doi">10.1002/cam4.3186</article-id><article-id pub-id-type="publisher-id">CAM43186</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Cancer Biology</subject><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></subj-group></article-categories><title-group><article-title>MYC‐activated lncRNA <italic toggle="yes">HNF1A‐AS1</italic> overexpression facilitates glioma progression via cooperating with <italic toggle="yes">miR‐32‐5p</italic>/<italic toggle="yes">SOX4</italic> axis</article-title><alt-title alt-title-type="left-running-head">WU et al.</alt-title></title-group><contrib-group><contrib id="cam43186-cr-0001" contrib-type="author"><name name-style="western"><surname>Wu</surname><given-names initials="J">Jianheng</given-names></name><xref ref-type="aff" rid="cam43186-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cam43186-cr-0002" contrib-type="author"><name name-style="western"><surname>Li</surname><given-names initials="R">Rong</given-names></name><xref ref-type="aff" rid="cam43186-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cam43186-cr-0003" contrib-type="author"><name name-style="western"><surname>Li</surname><given-names initials="L">Linfan</given-names></name><xref ref-type="aff" rid="cam43186-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cam43186-cr-0004" contrib-type="author"><name name-style="western"><surname>Gu</surname><given-names initials="Y">Yimian</given-names></name><xref ref-type="aff" rid="cam43186-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cam43186-cr-0005" contrib-type="author"><name name-style="western"><surname>Zhan</surname><given-names initials="H">Hui</given-names></name><xref ref-type="aff" rid="cam43186-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cam43186-cr-0006" contrib-type="author"><name name-style="western"><surname>Zhou</surname><given-names initials="C">Changbao</given-names></name><xref ref-type="aff" rid="cam43186-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cam43186-cr-0007" contrib-type="author" corresp="yes"><name name-style="western"><surname>Zhong</surname><given-names initials="C">Chuanhong</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-3283-9057</contrib-id><xref ref-type="aff" rid="cam43186-aff-0003">
+<sup>3</sup>
+</xref><address><email>neurosurgery@swmu.edu.cn</email></address></contrib></contrib-group><aff id="cam43186-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Neurosurgery</named-content>
+<institution>Gaozhou People's Hospital</institution>
+<city>Gaozhou</city>
+<named-content content-type="country-part">Guangdong</named-content>
+<country country="CN">China</country>
+</aff><aff id="cam43186-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Radiation Oncology</named-content>
+<named-content content-type="organisation-division">The First Affiliated Hospital</named-content>
+<institution>Guangzhou Medical University</institution>
+<city>Guangzhou</city>
+<named-content content-type="country-part">Guangdong</named-content>
+<country country="CN">China</country>
+</aff><aff id="cam43186-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Department of Neurosurgery</named-content>
+<named-content content-type="organisation-division">The Affiliated Hospital of Southwest Medical University</named-content>
+<institution>Neurosurgical Clinical Research Center of Sichuan Province</institution>
+<city>Luzhou</city>
+<named-content content-type="country-part">Sichuan</named-content>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Chuanhong Zhong, Department of Neurosurgery, the Affiliated Hospital of Southwest Medical University, Neurosurgical Clinical Research Center of Sichuan Province, Luzhou 646000, Sichuan, China.<break/>
+Email: <email>neurosurgery@swmu.edu.cn</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>20</day><month>7</month><year>2020</year></pub-date><pub-date pub-type="collection"><month>9</month><year>2020</year></pub-date><volume>9</volume><issue>17</issue><issue-id pub-id-type="pmc-issue-id">364763</issue-id><issue-id pub-id-type="doi">10.1002/cam4.v9.17</issue-id><fpage>6387</fpage><lpage>6398</lpage><history><date date-type="received"><day>22</day><month>10</month><year>2019</year></date><date date-type="rev-recd"><day>27</day><month>2</month><year>2020</year></date><date date-type="accepted"><day>01</day><month>5</month><year>2020</year></date></history><pub-history><event event-type="pmc-release"><date><day>20</day><month>07</month><year>2020</year></date></event><event event-type="pmc-live"><date><day>11</day><month>09</month><year>2020</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-02-18 03:25:14.463"><day>18</day><month>02</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2020 The Authors. <italic toggle="yes">Cancer Medicine</italic> published by John Wiley &amp; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="CAM4-9-6387.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:CAM4-9-6387.pdf"/><abstract id="cam43186-abs-0001"><title>Abstract</title><p>Mounting literatures have revealed the crucial effects of long noncoding RNA (lncRNA) in various cancers, including glioma. <italic toggle="yes">HNF1A‐AS1</italic>, a novel lncRNA, is reported to modulate tumorigenesis and development of multiple cancers. However, the tumorigenic function of lncRNA <italic toggle="yes">HNF1A‐AS1</italic> in glioma remains largely unknown. quantitative reverse transcription and polymerase chain reaction and western blot assays were applied to evaluate the expression of relevant mRNAs and proteins. 5‐Ethynyl‐2’‐ deoxyuridine, terminal deoxynucleotidyl transferase dUTP nick‐end labeling, flow cytometry, and transwell assays were conducted for examining the influence of <italic toggle="yes">HNF1A‐AS1</italic> on glioma cell functions. The relationship among RNAs was investigated by mechanical experiments. The results demonstrated that <italic toggle="yes">HNF1A‐AS1</italic> was predominantly highly expressed in glioma cell lines compared with nontumor glial epithelial cell, which was associated with the stimulation of transcription factor myelocytomatosis oncogene. Knockdown of <italic toggle="yes">HNF1A‐AS1</italic> remarkably inhibited glioma cells proliferation, migration, and invasion, while accelerating cell apoptosis in vitro. Mechanically, <italic toggle="yes">HNF1A‐AS1</italic> served as a <italic toggle="yes">miR‐32‐5p</italic> sponge. Moreover, <italic toggle="yes">SOX4</italic> was discovered as a target of <italic toggle="yes">miR‐32‐5p</italic>. Inhibited <italic toggle="yes">miR‐32‐5p</italic> or upregulated <italic toggle="yes">SOX4</italic> could markedly counteract the inhibitory effects of silencing <italic toggle="yes">HNF1A‐AS1</italic> on glioma malignant biological behaviors. <italic toggle="yes">HNF1A‐AS1</italic> exerted oncogenic property in glioma progression via upregulating <italic toggle="yes">miR‐32‐5p</italic>–mediated <italic toggle="yes">SOX4</italic> expression, suggesting potential novel therapeutic target for future glioma treatment.</p></abstract><abstract abstract-type="graphical" id="cam43186-abs-0002"><p>Silencing <italic toggle="yes">HNF1A‐AS1</italic> dampens glioma cell proliferation, migration, and invasion, while facilitating apoptosis. Myelocytomatosis oncogene induces overexpression of <italic toggle="yes">HNF1A‐AS1</italic> via transcription activation. <italic toggle="yes">HNF1A‐AS1</italic> directly binds to <italic toggle="yes">miR‐32‐5p</italic> and <italic toggle="yes">miR‐32‐5p</italic> inhibition could reverse the restraining effects of <italic toggle="yes">HNF1A‐AS1</italic> knockdown on glioma.<boxed-text position="anchor" content-type="graphic" id="cam43186-blkfxd-0001" orientation="portrait"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="nlm-graphic-1" orientation="portrait" xlink:href="CAM4-9-6387-g006.jpg"/></boxed-text>
+</p></abstract><kwd-group><kwd id="cam43186-kwd-0001">glioma</kwd><kwd id="cam43186-kwd-0002"><italic toggle="yes">HNF1A‐AS1</italic></kwd><kwd id="cam43186-kwd-0003"><italic toggle="yes">miR‐32‐5p</italic></kwd><kwd id="cam43186-kwd-0004"><italic toggle="yes">SOX4</italic></kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>Neurosurgical Clinical Research Center</funding-source></award-group><award-group id="funding-0002"><funding-source>Southwest Medical University</funding-source><award-id>2017‐ZRQN‐180</award-id><award-id>2017‐ZRQN‐110</award-id></award-group></funding-group><counts><fig-count count="5"/><table-count count="0"/><page-count count="12"/><word-count count="4977"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>September 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.8.9 mode:remove_FC converted:07.09.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="cam43186-cit-1001">
+<string-name name-style="western">
+<surname>Wu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>MYC-activated lncRNA <italic toggle="yes">HNF1A-AS1</italic> overexpression facilitates glioma progression via cooperating with <italic toggle="yes">miR-32-5p</italic>/<italic toggle="yes">SOX4</italic> axis</article-title>. <source xml:lang="en">Cancer Med</source>. <year>2020</year>;<volume>9</volume>:<fpage>6387</fpage>–<lpage>6398</lpage>. <pub-id pub-id-type="doi">10.1002/cam4.3186</pub-id>
+<pub-id pub-id-type="pmcid">PMC7476832</pub-id><pub-id pub-id-type="pmid">33448691</pub-id></mixed-citation>
+</p><fn-group id="cam43186-ntgp-0001"><fn fn-type="funding" id="cam43186-note-0001"><p>
+<bold>Funding information</bold>
+</p><p>Project Program of Neurosurgical Clinical Research Center of Sichuan Province; Science and Technology Foundation of Southwest Medical University (2017‐ZRQN‐180, 2017‐ZRQN‐110).</p></fn></fn-group></notes></front><body id="cam43186-body-0001"><sec id="cam43186-sec-0001"><label>1</label><title>INTRODUCTION</title><p>Glioma is the most common intracranial malignant tumor and is one of the leading causes of cancer deaths.<xref rid="cam43186-bib-0001" ref-type="ref">
+<sup>1</sup>
+</xref> The occurrence of brain tumors is 21/100 000, which is much lower than other type of cancers, occupying only approximately 2% of all human cancers. However, the morbidity of glioma accounts for almost 60% among all kinds of brain tumors.<xref rid="cam43186-bib-0002" ref-type="ref">
+<sup>2</sup>
+</xref>
+</p><p>Accumulating evidence highlighted the importance of abundantly transcribed noncoding transcripts, among which long noncoding RNAs (lncRNAs) emerged as critical mediator in many processes of cell biology. Recently, <italic toggle="yes">HNF1A‐AS1</italic>, as a novel identified lncRNA, gained much attention. <italic toggle="yes">HNF1A‐AS1</italic> is correlated with tumorigenic functions including cancer cell proliferation, migration, and invasion. For instance, <italic toggle="yes">HNF1A‐AS1</italic> was revealed to facilitate colon cancer metastatic progression via regulating miR‐34a/SIRT1/p53 feedback loop.<xref rid="cam43186-bib-0003" ref-type="ref">
+<sup>3</sup>
+</xref> Besides, overexpressed <italic toggle="yes">HNF1A‐AS1</italic> activates the Wnt/β‐catenin signaling pathway to promote colorectal cancer carcinogenesis.<xref rid="cam43186-bib-0004" ref-type="ref">
+<sup>4</sup>
+</xref>
+</p><p>Substantial studies manifested that lncRNAs can function as competing endogenous RNAs (ceRNAs) in regulating the protein production of mRNA via binding to shared miRNAs post‐transcriptionally.<xref rid="cam43186-bib-0005" ref-type="ref">
+<sup>5</sup>
+</xref> This discovery deepened the understanding of human genome and highlighted the important gene regulatory role of lncRNAs, which were previously thought as “transcription noise”.<xref rid="cam43186-bib-0006" ref-type="ref">
+<sup>6</sup>
+</xref> Long noncoding RNAs could mediate various cellular biological functions including cell proliferation, apoptosis, migration, and invasion in pathology evolvement.<xref rid="cam43186-bib-0007" ref-type="ref">
+<sup>7</sup>
+</xref>, <xref rid="cam43186-bib-0008" ref-type="ref">
+<sup>8</sup>
+</xref> Increasing studies revealed the implication of lncRNAs in progression of brain tumors.<xref rid="cam43186-bib-0009" ref-type="ref">
+<sup>9</sup>
+</xref>, <xref rid="cam43186-bib-0010" ref-type="ref">
+<sup>10</sup>
+</xref> To date, the molecular relationship between lncRNA and glioma onset and progression has been unveiled. For instance, LINC00909 serves as a ceRNA to positively mediate the expression of MUC1‐C via binding to miR‐194, and consequently promotes glioma cell migration and invasion.<xref rid="cam43186-bib-0011" ref-type="ref">
+<sup>11</sup>
+</xref> Long noncoding RNA UBE2R2‐AS1 serves as a ceRNA against miR‐877‐3p to upregulate TLR4, and inhibits the malignant phenotype of glioblastoma cells.<xref rid="cam43186-bib-0012" ref-type="ref">
+<sup>12</sup>
+</xref> These studies indicated that lncRNAs are essential for glioma progression. Nevertheless, as a novel lncRNA, the biological role and molecular mechanisms of <italic toggle="yes">HNF1A‐AS1</italic> in glioma has not been explored yet. This study aimed to reveal the underlying molecular mechanism of <italic toggle="yes">HNF1A‐AS1</italic> in glioma progression.</p></sec><sec sec-type="materials-and-methods" id="cam43186-sec-0002"><label>2</label><title>MATERIALS AND METHODS</title><sec id="cam43186-sec-0003"><label>2.1</label><title>Tissue samples</title><p>In total, 35 glioma tissues and 10 normal tissues (excised from patients with other brain diseases) were obtained from Gaozhou People's Hospital with the approval from the Ethics Committee of Gaozhou People's Hospital. Each participant has signed informed consent. No patients have received chemo‐ or radiotherapy before surgery. After surgical resection, fresh tissues were instantly frozen in liquid nitrogen and stored at −80°C.</p></sec><sec id="cam43186-sec-0004"><label>2.2</label><title>Cell lines</title><p>Human glioma cell lines (LN229, A172, SHG‐44, and U87) and normal brain glial cell line (HEB) were both procured from American Type Culture Collection (ATCC; Manassas, VA) and cultured under 95% air, 5% CO<sub>2</sub> at 37°C. Dulbecco's Modified Eagle's medium (Invitrogen) adding 10% fetal bovine serum were applied for cell culture.</p></sec><sec id="cam43186-sec-0005"><label>2.3</label><title>Quantitative reverse transcription and polymerase chain reaction (qRT‐PCR)</title><p>Total RNA from A172 and U87 cells were extracted by TRIzol reagent from Invitrogen in line with the guidebook. A Reverse Transcription Kit (Toyobo) was applied for synthesizing cDNA for conducting qRT‐PCR with SYBR Green Super Mix (Bio‐Rad). All RNA levels were measured via 2<sup>−ΔΔCT</sup> method, with U6 or glyceraldehyde‐3‐phosphate dehydrogenase (GAPDH) as the internal reference.</p></sec><sec id="cam43186-sec-0006"><label>2.4</label><title>Cell transfection</title><p>Cells of A172 and U87 were seeded in the 24‐well plates for 48 hours of transfection with Lipofectamine 2000 (Invitrogen). The duplex sh‐RNAs of <italic toggle="yes">HNF1A‐AS1</italic> (sh‐<italic toggle="yes">HNF1A‐AS1</italic>#1/2) and negative control (NC; termed short hairpin‐negative control [sh‐NC]), pcDNA3.1/myelocytomatosis oncogene (MYC), pcDNA3.1/<italic toggle="yes">SOX4</italic>, and NC (pcDNA3.1), as well as the <italic toggle="yes">miR‐32‐5p</italic> mimics and NC mimics, <italic toggle="yes">miR‐32‐5p</italic> inhibitor and NC inhibitor, all these were designed and synthesized by RiboBio.</p></sec><sec id="cam43186-sec-0007"><label>2.5</label><title>5‐Ethynyl‐2’‐ deoxyuridine (EdU) staining</title><p>A172 and U87 cells on sterile coverslips were transfected and plated in the 24‐well plates for treatment with the EdU incorporation assay kit (Ribobio). Cell nucleus was counterstained with EdU and DAPI (Beyotime), and visualized with laser confocal microscopy (Olympus).</p></sec><sec id="cam43186-sec-0008"><label>2.6</label><title>Terminal deoxynucleotidyl transferase dUTP nick‐end labeling assay</title><p>Glioma cells after transfection were cultured with the terminal deoxynucleotidyl transferase dUTP nick‐end labeling (TUNEL) Apoptosis Assay Kit (Beyotime) in light of the user guide. After treating with DAPI, apoptotic cells were analyzed under confocal microscopy.</p></sec><sec id="cam43186-sec-0009"><label>2.7</label><title>Flow cytometry of apoptosis</title><p>70% cold ethanol on ice was used to fix transfected glioma cells for 1 hour. Then, cells were treated with Annexin V‐APC and 7‐AAD staining in the dark. A flow cytometer (BD Biosciences) was used to assess cell apoptosis.</p></sec><sec id="cam43186-sec-0010"><label>2.8</label><title>Transwell assay</title><p>Transfected cells were reaped and planted into the upper chamber of transwell inserts (Corning Incorporated) coating with or without Matrigel membrane (BD Biosciences) for invasion or migration analysis. After 48 hours, the invaded and migrated cells were stained in crystal violet. Then, a microscope (magnification, ×200) was used to count the cells.</p></sec><sec id="cam43186-sec-0011"><label>2.9</label><title>Chromatin immunoprecipitation assay</title><p>Cells of A172 and U87 were fixed for 10 minutes to generate DNA‐protein cross‐links. After shearing into 200‐ to 1000‐bp chromatin fragments, cell lysates were immunoprecipitated with anti‐MYC or normal control anti‐immunoglobulin G (IgG) antibody (Millipore). The retrieved chromatin DNA by beads was subjected to qRT‐PCR analysis.</p></sec><sec id="cam43186-sec-0012"><label>2.10</label><title>Dual‐luciferase reporter assays</title><p>HEK‐293T cells (ATCC) in the 24‐well plates were co‐transfected with the pGL3 vector containing <italic toggle="yes">HNF1A‐AS1</italic> promoter, pRL‐TK‐Renilla plasmid (Promega Corporation), and pcDNA3.1/MYC or pcDNA3.1. Besides, the wild‐type (WT) or mutant (MUT) reporter constructs of <italic toggle="yes">HNF1A‐AS1</italic> and <italic toggle="yes">SOX4</italic> were generated by pmirGLO vectors and co‐transfected into HEK‐293T cells with <italic toggle="yes">miR‐32‐5p</italic> mimics and NC mimics. The Dual‐Luciferase Reporter Assay System (Promega) was employed to evaluate luciferase intensity after 48 hours of transfection.</p></sec><sec id="cam43186-sec-0013"><label>2.11</label><title>Subcellular fractionation</title><p>A PARIS™ Kit (Invitrogen) was applied for isolating nuclear and cytoplasmic RNAs in 1 × 10<sup>6</sup> glioma cells, which were previously rinsed in precooled PBS. The isolated <italic toggle="yes">HNF1A‐AS1</italic> was analyzed via qRT‐PCR. U6 and GAPDH, respectively, served as the nuclear and cytoplasmic controls.</p></sec><sec id="cam43186-sec-0014"><label>2.12</label><title>Fluorescence in situ hybridization assay</title><p>After fixation, the glioma cells were collected for incubation with RNA Fluorescence in situ hybridization (FISH) probe for <italic toggle="yes">HNF1A‐AS1</italic> (RiboBio) in the hybridization buffer. After slides were cultured with DAPI solution, cells were observed under a Olympus microscope.</p></sec><sec id="cam43186-sec-0015"><label>2.13</label><title>RNA pull down</title><p>The protein extracts from glioma cells were obtained for mixing with biotin‐labeled <italic toggle="yes">HNF1A‐AS1</italic> (Biotin <italic toggle="yes">HNF1A‐AS1</italic> WT/MUT) and Biotin NC, as well as the beads for 1 hour. qRT‐PCR was followed for analyzing the mixture of pull‐down.</p></sec><sec id="cam43186-sec-0016"><label>2.14</label><title>RNA immunoprecipitation assay</title><p>1 × 10<sup>7</sup> glioma cells in RNA immunoprecipitation lysis buffer were collected and immunoprecipitated with anti‐Ago2 or normal mouse control anti‐IgG antibody (Millipore). Finally, the purified RNA was analyzed by qRT‐PCR.</p></sec><sec id="cam43186-sec-0017"><label>2.15</label><title>Western blot</title><p>The cellular protein samples from glioma cells were prepared for separation with SDS‐PAGE (10%) and electrotransferred to PVDF membranes. After culturing with 5% skimmed milk, membranes were incubated with primary antibodies (Abcam) against <italic toggle="yes">SOX4</italic> and control GAPDH all night, then with horseradish peroxidase‐tagged secondary antibody for 2 hours. The band intensity was determined by enhanced chemiluminescence reagent (Santa Cruz Biotechnology).</p></sec><sec id="cam43186-sec-0018"><label>2.16</label><title>Animal study</title><p>Six‐week‐old male nude mice was maintained in the SPF‐grade animal laboratory, acquired from the National Laboratory Animal Center (Beijing, China). All procedures were approved by the Animal Research Ethics Committee of Gaozhou People's Hospital. Animal study was achieved through subcutaneous inoculation of 5 × 10<sup>6</sup> A172 cells to mice for 4 weeks. Tumor volume was recorded every 4 days. After killing mice, tumors were excised and weighed for analysis.</p></sec><sec id="cam43186-sec-0019"><label>2.17</label><title>Statistical analysis</title><p>All data were analyzed statistically via a <italic toggle="yes">t</italic> test or one‐way ANOVA by using PRISM 6 (GraphPad), with <italic toggle="yes">P</italic> &lt; .05 as significant level. Results were given as the mean ± SD of three or more repetitive assays.</p></sec></sec><sec sec-type="results" id="cam43186-sec-0020"><label>3</label><title>RESULTS</title><sec id="cam43186-sec-0021"><label>3.1</label><title>Silencing <italic toggle="yes">HNF1A‐AS1</italic> dampens glioma cell proliferation, migration, and invasion, while facilitating apoptosis</title><p>To understand the expression status of <italic toggle="yes">HNF1A‐AS1</italic> in glioma, we performed qRT‐PCR. It was revealed that <italic toggle="yes">HNF1A‐AS1</italic> was significantly upregulated in glioma tissues than in normal tissues (Figure <xref rid="cam43186-sup-0001" ref-type="supplementary-material">S1</xref>A). We also noticed that <italic toggle="yes">HNF1A‐AS1</italic> was significantly overexpressed in glioma cells (LN229, A172, SHG‐44, and U87) in contrast to normal brain glial cell line (HEB) (Figure <xref rid="cam43186-fig-0001" ref-type="fig">1A</xref>). We also noticed that A172 and U87 cells contained the most significant upregulation of <italic toggle="yes">HNF1A‐AS1</italic>; thus they were used for following assays. For loss‐of‐function assays, we utilized two sh‐RNAs directly targeting <italic toggle="yes">HNF1A‐AS1</italic> and verified the inhibitory efficiency through qRT‐PCR (Figure <xref rid="cam43186-fig-0001" ref-type="fig">1B</xref>). The EdU assay showed that silencing <italic toggle="yes">HNF1A‐AS1</italic> significantly inhibited cell proliferation, as illustrated in Figure <xref rid="cam43186-fig-0001" ref-type="fig">1C</xref>. The TUNEL assay indicated that <italic toggle="yes">HNF1A‐AS1</italic> knockdown could markedly promote glioma cell apoptosis (Figure <xref rid="cam43186-fig-0001" ref-type="fig">1D</xref>). Flow cytometry data showed notably elevated cell apoptosis after silencing <italic toggle="yes">HNF1A‐AS1</italic>, which further confirmed the pro‐apoptosis effects of <italic toggle="yes">HNF1A‐AS1</italic> knockdown (Figure <xref rid="cam43186-fig-0001" ref-type="fig">1E</xref>). Besides, silencing <italic toggle="yes">HNF1A‐AS1</italic> could significantly restrain cell migration and invasion, as shown in transwell assays (Figure <xref rid="cam43186-fig-0001" ref-type="fig">1F</xref>,G). Together, <italic toggle="yes">HNF1A‐AS1</italic> played an oncogenic role in glioma progression.</p><fig fig-type="FIGURE" xml:lang="en" id="cam43186-fig-0001" orientation="portrait" position="float"><label>FIGURE 1</label><caption><p>Silencing <italic toggle="yes">HNF1A‐AS1</italic> dampens glioma cells proliferation, migration, and invasion, while facilitating apoptosis. A, qRT‐PCR analysis was used to determine the expression profile of <italic toggle="yes">HNF1A‐AS1</italic> in glioma cell lines and normal brain glial cell. B, The transfection efficiency of sh‐<italic toggle="yes">HNF1A‐AS1</italic>#1 and sh‐<italic toggle="yes">HNF1A‐AS1</italic>#2 were detected by qRT‐PCR analysis. C, EdU assay was performed to assess glioma cells proliferation ability. D and E, TUNEL and flow cytometry assays were performed to determine cell apoptosis. F and G, Transwell migration and invasion assays were conducted to assess glioma cells migration and invasion ability. TUNEL, terminal deoxynucleotidyl transferase dUTP nick‐end labeling. *<italic toggle="yes">P</italic> &lt; .05, **<italic toggle="yes">P</italic> &lt; .01</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-3" position="float" orientation="portrait" xlink:href="CAM4-9-6387-g001.jpg"/></fig></sec><sec id="cam43186-sec-0022"><label>3.2</label><title>MYC induces overexpression of <italic toggle="yes">HNF1A‐AS1</italic> via transcription activation</title><p>We hypothesized that transcription factor might be associated with <italic toggle="yes">HNF1A‐AS1</italic> overexpression in glioma cells. MYC might bind to <italic toggle="yes">HNF1A‐AS1</italic> promoter region by prediction of UCSC (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://genome.ucsc.edu/">http://genome.ucsc.edu/</ext-link>) and Jaspar (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://jaspardev.genereg.net/">http://jaspardev.genereg.net/</ext-link>) database jointly. The influence of MYC on <italic toggle="yes">HNF1A‐AS1</italic> expression was subsequently detected. We observed that pcDNA3.1/MYC could force the overexpression of MYC efficiently (Figure <xref rid="cam43186-fig-0002" ref-type="fig">2A</xref>). We noticed that <italic toggle="yes">HNF1A‐AS1</italic> expression was elevated after overexpressing MYC (Figure <xref rid="cam43186-fig-0002" ref-type="fig">2B</xref>). With the aid of Jaspar, we detected the putative MYC motif in human <italic toggle="yes">HNF1A‐AS1</italic> promoter region, as shown on Figure <xref rid="cam43186-fig-0002" ref-type="fig">2C</xref>. Then, we found five concrete putative MYC binding sequences in <italic toggle="yes">HNF1A‐AS1</italic> promoter by Jaspar. We divided the promoter region into five sectional area from −2500 bp according to putative binding sites predicted by Jaspar (Figure <xref rid="cam43186-fig-0002" ref-type="fig">2D</xref>). Then, the binding capacity of MYC to <italic toggle="yes">HNF1A‐AS1</italic> promoter was investigated by chromatin immunoprecipitation (ChIP) assay. Its findings depicted that MYC bound to P5 section (Figure <xref rid="cam43186-fig-0002" ref-type="fig">2E</xref>). Moreover, we constructed pGL3 luciferase vector containing <italic toggle="yes">HNF1A‐AS1</italic> full promoter region (P FL) and <italic toggle="yes">HNF1A‐AS1</italic> promoter P5 deleted region (P D) (Figure <xref rid="cam43186-fig-0002" ref-type="fig">2F</xref>). Deletion of P5 abrogated the increased promoter enrichment in anti‐MYC, indicating that P5 fragment in <italic toggle="yes">HNF1A‐AS1</italic> promoter region was indispensable for the interaction of <italic toggle="yes">HNF1A‐AS1</italic> promoter with MYC (Figure <xref rid="cam43186-fig-0002" ref-type="fig">2G</xref>). This phenomenon was further elucidated by luciferase reporter assay on HEK‐293T cell. It indicated that pcDNA3.1/MYC elevated the promoter activity of pGL3‐FL, not that of pGL3‐D (Figure <xref rid="cam43186-fig-0002" ref-type="fig">2H</xref>). These data represented that MYC interacted with <italic toggle="yes">HNF1A‐AS1</italic> promoter at approximately −2500 to −1900 bp upstream transcription start site (TSS). We found that there was only one specific binding site (−2237 to −2226) predicted by Jaspar in P5 fragment. Therefore, we intended to verify whether MYC bound to these sequences in P5 segment. We constructed P5‐WT and P5‐MUT (which mutated −2237 to −2226 sequence) accordingly (Figure <xref rid="cam43186-fig-0002" ref-type="fig">2I</xref>). Promoter activity of P5‐WT was strengthened after overexpressing MYC, while P5‐MUT, which lacked the sequence form −2237 to −2226, showed no alternation in luciferase activity after co‐transfection with pcDNA3.1/MYC (Figure <xref rid="cam43186-fig-0002" ref-type="fig">2J</xref>). Collectively, these data provided substantial proof for the activation of <italic toggle="yes">HNF1A‐AS1</italic> transcription activity by MYC in glioma cells.</p><fig fig-type="FIGURE" xml:lang="en" id="cam43186-fig-0002" orientation="portrait" position="float"><label>FIGURE 2</label><caption><p>MYC induces overexpression of <italic toggle="yes">HNF1A‐AS1</italic> via transcription activation. The expression of MYC was determined by quantitative RT‐PCR (qRT‐PCR) analysis after transfecting with pcDNA3.1 and pcDNA3.1/MYC plasmids. B, qRT‐PCR was performed to study the effects of overexpressing MYC on <italic toggle="yes">HNF1A‐AS1</italic> expression. C, The putative MYC binding motif in human <italic toggle="yes">HNF1A‐AS1</italic> promoter. D, <italic toggle="yes">HNF1A‐AS1</italic> promoter was divided into four sections according to potential MYC binding sites. E, Chromatin immunoprecipitation (ChIP) assay using antibody targeting MYC and IgG was conducted to detect the affinity of MYC with <italic toggle="yes">HNF1A‐AS1</italic> promoter. F, The full <italic toggle="yes">HNF1A‐AS1</italic> promoter (P FL) and <italic toggle="yes">HNF1A‐AS1</italic> P5 deleted (P D) were subcloned into pGL3 luciferase reporter vector. G, ChIP assay was used to investigate the relative enrichment of <italic toggle="yes">HNF1A‐AS1</italic> promoter. H, Luciferase reporter assay was performed in HEK‐293T. I, pGL3‐WT‐P5, pGL3‐MUT‐P5 luciferase vectors were constructed accordingly. J, HEK‐293T was co‐transfected with pcDNA3.1 and pcDNA3.1/MYC and a luciferase reporter was performed between WT‐P5 and MUT‐P5. **<italic toggle="yes">P</italic> &lt; .01</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-5" position="float" orientation="portrait" xlink:href="CAM4-9-6387-g002.jpg"/></fig></sec><sec id="cam43186-sec-0023"><label>3.3</label><title>
+<italic toggle="yes">HNF1A‐AS1</italic> directly binds to <italic toggle="yes">miR‐32‐5p</italic> and <italic toggle="yes">miR‐32‐5p</italic> inhibition could reverse the restraining effects of <italic toggle="yes">HNF1A‐AS1</italic> knockdown on glioma</title><p>Many cytoplasmic lncRNAs have been found as ceRNAs in the carcinogenesis of cancers. <italic toggle="yes">HNF1A‐AS1</italic> was found mainly situated in cytoplasm through subcellular fraction and FISH assays, as illustrated in Figure <xref rid="cam43186-fig-0003" ref-type="fig">3A,B</xref>. By browsing starBase tool,<xref rid="cam43186-bib-0013" ref-type="ref">
+<sup>13</sup>
+</xref> eight miRNAs were found to interact with <italic toggle="yes">HNF1A‐AS1</italic> (clip data: low stringency ≥ 1). Among them, <italic toggle="yes">miR‐32‐5p</italic> was upregulated significantly in A172 after silencing <italic toggle="yes">HNF1A‐AS1</italic> compared with other miRNA candidates from qRT‐PCR results (Figure <xref rid="cam43186-fig-0003" ref-type="fig">3C</xref>). Subsequently, we detected an abnormal low expression status of <italic toggle="yes">miR‐32‐5p</italic> in glioma cells (Figure <xref rid="cam43186-fig-0003" ref-type="fig">3D</xref>). By browsing starBase, putative <italic toggle="yes">miR‐32‐5p</italic> binding site with <italic toggle="yes">HNF1A‐AS1</italic> was detected. We mutated the putative binding site sequence correspondingly, as shown in Figure <xref rid="cam43186-fig-0003" ref-type="fig">3E</xref>. Both <italic toggle="yes">HNF1A‐AS1</italic>‐WT and <italic toggle="yes">HNF1A‐AS1</italic>‐MUT were subcloned into pmirGLO luciferase reporter vector. After co‐transfecting <italic toggle="yes">miR‐32‐5p</italic> mimics with pmirGLO vector containing <italic toggle="yes">HNF1A‐AS1</italic>‐WT or <italic toggle="yes">HNF1A‐AS1</italic>‐MUT, the luciferase activity of <italic toggle="yes">HNF1A‐AS1</italic>‐WT was markedly attenuated, instead of <italic toggle="yes">HNF1A‐AS1</italic>‐MUT in HEK‐293T, as illustrated in Figure <xref rid="cam43186-fig-0003" ref-type="fig">3F</xref>. MiR‐32‐5p was only significantly pulled down by Bio‐<italic toggle="yes">HNF1A‐AS1</italic>‐WT group, which verified the interaction between <italic toggle="yes">HNF1A‐AS1</italic> and <italic toggle="yes">miR‐32‐5p</italic> (Figure <xref rid="cam43186-fig-0003" ref-type="fig">3G</xref>). <italic toggle="yes">HNF1A‐AS1</italic> bound with <italic toggle="yes">miR‐32‐5p</italic> and negatively modulated the expression of <italic toggle="yes">miR‐32‐5p</italic> in glioma cells.</p><fig fig-type="FIGURE" xml:lang="en" id="cam43186-fig-0003" orientation="portrait" position="float"><label>FIGURE 3</label><caption><p>
+<italic toggle="yes">HNF1A‐AS1</italic> directly binds to <italic toggle="yes">miR‐32‐5p</italic> and <italic toggle="yes">miR‐32‐5p</italic> inhibition could reverse the restraining effects of <italic toggle="yes">HNF1A‐AS1</italic> knockdown on glioma. A and B, Subcellular fractionation and FISH assays were performed to determine the location of <italic toggle="yes">HNF1A‐AS1</italic>. C, Quantitative RT‐PCR (qRT‐PCR) analysis was performed to determine miRNAs expression after <italic toggle="yes">HNF1A‐AS1</italic> depletion. D, The expression status of <italic toggle="yes">miR‐32‐5p</italic> was detected in glioma cell lines and normal brain glial cell lines. E, Putative wild and mutant <italic toggle="yes">miR‐32‐5p</italic> binding sites with <italic toggle="yes">HNF1A‐AS1</italic>. F, Luciferase reporters were performed in HEK‐293T. MiR‐32‐5p mimics could impair the luciferase activity of <italic toggle="yes">HNF1A‐AS1</italic>‐WT. G, RNA pull down showed enriched <italic toggle="yes">miR‐32‐5p</italic> by biotin‐labeled <italic toggle="yes">HNF1A‐AS1</italic>‐WT. H, qRT‐PCR was used to examine the transfection efficiency of <italic toggle="yes">miR‐32‐5p</italic> inhibitor. I‐M, Functional experiments were conducted in A172 and U87 cell lines to examine the rescue effects of silenced <italic toggle="yes">miR‐32‐5p</italic> on silenced <italic toggle="yes">HNF1A‐AS1</italic> in cell proliferation, apoptosis, migration, and invasion. *<italic toggle="yes">P</italic> &lt; .05, **<italic toggle="yes">P</italic> &lt; .01</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-7" position="float" orientation="portrait" xlink:href="CAM4-9-6387-g003.jpg"/></fig><p>After that, we carried out rescue assays to determine whether <italic toggle="yes">HNF1A‐AS1</italic> contributed to glioma progression via inhibiting <italic toggle="yes">miR‐32‐5p</italic>. MiR‐32‐5p expression was silenced via transfection of plasmids containing <italic toggle="yes">miR‐32‐5p</italic> inhibitor into A172 and U87 cell lines (Figure <xref rid="cam43186-fig-0003" ref-type="fig">3H</xref>). MiR‐32‐5p inhibition obviously restored the oncogenic effects of <italic toggle="yes">HNF1A‐AS1</italic> in glioma cell proliferation (Figure <xref rid="cam43186-fig-0003" ref-type="fig">3I</xref>), apoptosis (Figure <xref rid="cam43186-fig-0003" ref-type="fig">3J</xref>,K; Figure <xref rid="cam43186-sup-0001" ref-type="supplementary-material">S1</xref>B), migration (Figure <xref rid="cam43186-fig-0003" ref-type="fig">3L</xref>; Figure <xref rid="cam43186-sup-0001" ref-type="supplementary-material">S1</xref>C), and invasion (Figure <xref rid="cam43186-fig-0003" ref-type="fig">3M</xref>; Figure <xref rid="cam43186-sup-0001" ref-type="supplementary-material">S1</xref>D). These results elucidated that <italic toggle="yes">HNF1A‐AS1</italic> mediated glioma development via downregulating <italic toggle="yes">miR‐32‐5p</italic>.</p></sec><sec id="cam43186-sec-0024"><label>3.4</label><title>
+<italic toggle="yes">SOX4</italic> is a direct target gene of <italic toggle="yes">miR‐32‐5p</italic>
+</title><p>We aimed to find mRNA targets of <italic toggle="yes">miR‐32‐5p</italic> to better understand its role in glioma. Aided by starBase, we screened three target genes (<italic toggle="yes">SOX4</italic>, ZDHHC5, ZFHX3) according to below circumstance (clip data: strict stringency ≥ 5; degradome data: high stringency ≥ 3; program number: five; predicted program: microT, miRanda, miRmap, PITA, PicTar). We found that <italic toggle="yes">SOX4</italic> was significantly downregulated in the presence of <italic toggle="yes">miR‐32‐5p</italic> mimics compared with the other two mRNA candidates (Figure <xref rid="cam43186-fig-0004" ref-type="fig">4A</xref>). From qRT‐PCR results, we found a significant elevation of <italic toggle="yes">SOX4</italic> in four glioma cells (Figure <xref rid="cam43186-fig-0004" ref-type="fig">4B</xref>). This expression status is contrary to that of <italic toggle="yes">miR‐32‐5p</italic> in glioma cells, thus we chose <italic toggle="yes">SOX4</italic> to study. The putative <italic toggle="yes">miR‐32‐5p</italic> binding site in the 3′‐untranslated region (3ʹUTR) sequence of <italic toggle="yes">SOX4</italic> (Figure <xref rid="cam43186-fig-0004" ref-type="fig">4C</xref>) was verified by the results of dual luciferase reporter assays, which showed significant decreased luciferase activity only in <italic toggle="yes">SOX4</italic>‐WT by <italic toggle="yes">miR‐32‐5p</italic> upregulation (Figure <xref rid="cam43186-fig-0004" ref-type="fig">4D</xref>). RNA immunoprecipitation assay data showed significant enriched <italic toggle="yes">miR‐32‐5p</italic>, <italic toggle="yes">HNF1A‐AS1</italic>, <italic toggle="yes">SOX4</italic> in the anti‐Ago2 group instead of the IgG group (Figure <xref rid="cam43186-fig-0004" ref-type="fig">4E</xref>). The expression of <italic toggle="yes">SOX4</italic> was examined after silencing <italic toggle="yes">HNF1A‐AS1</italic> and then inhibiting <italic toggle="yes">miR‐32‐5p</italic> in A172 and U87. It was manifested that <italic toggle="yes">SOX4</italic> was downregulated after silencing <italic toggle="yes">HNF1A‐AS1</italic>, yet increased again in the presence of <italic toggle="yes">miR‐32‐5p</italic> inhibition (Figure <xref rid="cam43186-fig-0004" ref-type="fig">4F</xref>). Together, these results confirmed the ceRNA role of <italic toggle="yes">HNF1A‐AS1</italic> in glioma via regulating <italic toggle="yes">miR‐32‐5p</italic>/<italic toggle="yes">SOX4</italic> axis.</p><fig fig-type="FIGURE" xml:lang="en" id="cam43186-fig-0004" orientation="portrait" position="float"><label>FIGURE 4</label><caption><p>
+<italic toggle="yes">SOX4</italic> is a direct target gene of <italic toggle="yes">miR‐32‐5p</italic>. A, The expression of potential target genes was detected by quantitative RT‐PCR (qRT‐PCR) after transfecting <italic toggle="yes">miR‐32‐5p</italic> mimics. B, The expression profile of <italic toggle="yes">SOX4</italic> in cell lines was detected by qRT‐PCR. C, Putative wild and mutant <italic toggle="yes">miR‐32‐5p</italic> binding sites in 3ʹUTR sequence of <italic toggle="yes">SOX4</italic> based on starBase data. D. Luciferase reporter assays were performed to investigate the association between <italic toggle="yes">miR‐32‐5p</italic> and <italic toggle="yes">SOX4</italic>. E, RIP was used performed to verify the mechanical relationship among <italic toggle="yes">miR‐32‐5p</italic>, <italic toggle="yes">HNF1A‐AS1</italic> and <italic toggle="yes">SOX4</italic>. F. The effects of silenced <italic toggle="yes">miR‐32‐5p</italic> on silenced <italic toggle="yes">HNF1A‐AS1</italic> in <italic toggle="yes">SOX4</italic> expression were studied by qRT‐PCR. *<italic toggle="yes">P</italic> &lt; .05, **<italic toggle="yes">P</italic> &lt; .01</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-9" position="float" orientation="portrait" xlink:href="CAM4-9-6387-g004.jpg"/></fig></sec><sec id="cam43186-sec-0025"><label>3.5</label><title>
+<italic toggle="yes">SOX4</italic> enrichment restores the carcinogenesis role of <italic toggle="yes">HNF1A‐AS1</italic>
+</title><p>To further determine whether <italic toggle="yes">HNF1A‐AS1</italic> facilitated glioma via acting as a ceRNA in regulating <italic toggle="yes">miR‐32‐5p</italic>/<italic toggle="yes">SOX4</italic> network, we performed rescue experiments functionally. First, we validated the overexpression efficiency of <italic toggle="yes">SOX4</italic> (Figure <xref rid="cam43186-fig-0005" ref-type="fig">5A</xref>). Next, we co‐transfected pcDNA3.1/<italic toggle="yes">SOX4</italic> into <italic toggle="yes">HNF1A‐AS1</italic>–depleted A172 and U87 cell lines. The mRNA and protein levels of <italic toggle="yes">SOX4</italic> were inhibited after silencing <italic toggle="yes">HNF1A‐AS1</italic>, while recovered again after co‐transfecting with pcDNA3.1/<italic toggle="yes">SOX4</italic> form qRT‐PCR and western blot assays (Figure <xref rid="cam43186-fig-0005" ref-type="fig">5B,C</xref>). Based on the findings of functional rescue experiments, <italic toggle="yes">SOX4</italic> upregulation could reverse <italic toggle="yes">HNF1A‐AS1</italic> silencing produced biological effects on cell proliferation (Figure <xref rid="cam43186-fig-0005" ref-type="fig">5D</xref>), apoptosis (Figure <xref rid="cam43186-fig-0005" ref-type="fig">5E,F</xref>; Figure <xref rid="cam43186-sup-0001" ref-type="supplementary-material">S1</xref>E), migration (Figure <xref rid="cam43186-fig-0005" ref-type="fig">5G</xref>; Figure <xref rid="cam43186-sup-0001" ref-type="supplementary-material">S1</xref>F), and invasion (Figure <xref rid="cam43186-fig-0005" ref-type="fig">5H</xref>; Figure <xref rid="cam43186-sup-0001" ref-type="supplementary-material">S1</xref>G). Furthermore, we constructed xenograft mice models by inoculating A172 cell lines transfected with sh‐NC, sh‐<italic toggle="yes">HNF1A‐AS1</italic>#2, and sh‐<italic toggle="yes">HNF1A‐AS1</italic>#2 + pcDNA3.1/<italic toggle="yes">SOX4</italic>. We found that silencing <italic toggle="yes">HNF1A‐AS1</italic> could suppress tumor growth, but this effect was reversed by overexpressing <italic toggle="yes">SOX4</italic> (Figure <xref rid="cam43186-fig-0005" ref-type="fig">5I</xref>; Figure <xref rid="cam43186-sup-0001" ref-type="supplementary-material">S1</xref>H). Tumor volume and weight were reduced by silenced <italic toggle="yes">HNF1A‐AS1</italic> while co‐transfection of <italic toggle="yes">SOX4</italic> rescued the suppressive influence of silenced <italic toggle="yes">HNF1A‐AS1</italic> on tumor volume and weight (Figure <xref rid="cam43186-fig-0005" ref-type="fig">5J</xref>,K). To sum up, <italic toggle="yes">HNF1A‐AS1</italic> contributed to glioma progression by targeting <italic toggle="yes">miR‐32‐5p</italic>/<italic toggle="yes">SOX4</italic> axis.</p><fig fig-type="FIGURE" xml:lang="en" id="cam43186-fig-0005" orientation="portrait" position="float"><label>FIGURE 5</label><caption><p>
+<italic toggle="yes">SOX4</italic> enrichment restores the carcinogenesis role of <italic toggle="yes">HNF1A‐AS1</italic>. A, The expression of <italic toggle="yes">SOX4</italic> after transfecting with pcDNA3.1/<italic toggle="yes">SOX4</italic> was studied through quantitative RT‐PCR (qRT‐PCR) assay. B‐C, qRT‐PCR and western blot assays were used to detect the expression of <italic toggle="yes">SOX4</italic> mRNA and protein expression level. D‐H, Rescue functional experiments were conducted among sh‐NC, sh‐<italic toggle="yes">HNF1A‐AS1</italic>#2, and sh‐<italic toggle="yes">HNF1A‐AS1</italic>#2 + pcDNA3.1/<italic toggle="yes">SOX4</italic> groups in A172 and U87 cells. I‐K, Xenograft tumor growth curve, volume, and weight were compared among sh‐NC, sh‐<italic toggle="yes">HNF1A‐AS1</italic>#2, and sh‐<italic toggle="yes">HNF1A‐AS1</italic>#2 + pcDNA3.1/<italic toggle="yes">SOX4</italic> groups. **<italic toggle="yes">P</italic> &lt; .01</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-11" position="float" orientation="portrait" xlink:href="CAM4-9-6387-g005.jpg"/></fig></sec></sec><sec sec-type="discussion" id="cam43186-sec-0026"><label>4</label><title>DISCUSSION</title><p>Glioma is one of the most common types of intracranial tumors which initiate from the central nervous system. The prognosis of patients with high‐grade glioma is much worse than those with low‐grade glioma.<xref rid="cam43186-bib-0014" ref-type="ref">
+<sup>14</sup>
+</xref> Substantial studies supported the crucial regulator roles of lncRNAs in the initiation, development, and progression of various diseases, including tumors.<xref rid="cam43186-bib-0015" ref-type="ref">
+<sup>15</sup>
+</xref>, <xref rid="cam43186-bib-0016" ref-type="ref">
+<sup>16</sup>
+</xref>, <xref rid="cam43186-bib-0017" ref-type="ref">
+<sup>17</sup>
+</xref>
+<italic toggle="yes">HNF1A‐AS1</italic> has been reported to exhibit carcinogenesis property in gastric cancer<xref rid="cam43186-bib-0018" ref-type="ref">
+<sup>18</sup>
+</xref> and non–small cell lung cancer.<xref rid="cam43186-bib-0019" ref-type="ref">
+<sup>19</sup>
+</xref> In the present study, we found the aberrant overexpression of <italic toggle="yes">HNF1A‐AS1</italic> in glioma cell lines, which was in accordance with <italic toggle="yes">HNF1A‐AS1</italic> overexpression in urothelial carcinoma of the bladder.<xref rid="cam43186-bib-0020" ref-type="ref">
+<sup>20</sup>
+</xref> We noticed that the overexpression of <italic toggle="yes">HNF1A‐AS1</italic> was activated by transcription factor MYC. Previously, MYC amplification has been discovered to promote homologous recombination via targeting CDK18 in glioblastoma.<xref rid="cam43186-bib-0021" ref-type="ref">
+<sup>21</sup>
+</xref> We found that <italic toggle="yes">HNF1A‐AS1</italic> knockdown could suppress glioma cells proliferation, migration, and invasion abilities, while markedly enhance apoptosis capacity, which revealed the crucial oncogenic role of <italic toggle="yes">HNF1A‐AS1</italic> in glioma progression. These findings accord with the function of <italic toggle="yes">HNF1A‐AS1</italic> in oral squamous cell carcinoma.<xref rid="cam43186-bib-0022" ref-type="ref">
+<sup>22</sup>
+</xref>
+</p><p>Over the last decade, the ceRNA crosstalk is prevalent. Numerous reports have found that a large number of lncRNAs were involved in the ceRNA network.<xref rid="cam43186-bib-0023" ref-type="ref">
+<sup>23</sup>
+</xref> LncRNAs could mediate the protein production of genes via acting as ceRNA according to substantial documents. Here, we detected the cytoplasmic localization of <italic toggle="yes">HNF1A‐AS1</italic> through subcellular fractionation and FISH assays. We screened downstream combinable miRNAs with <italic toggle="yes">HNF1A‐AS1</italic> and selected <italic toggle="yes">miR‐32‐5p</italic> through multiple channel. Inhibited <italic toggle="yes">miR‐32‐5p</italic> counteracted the curbing influence of inhibited <italic toggle="yes">HNF1A‐AS1</italic> in glioma progression. We initially uncovered that <italic toggle="yes">HNF1A‐AS1</italic> bound with <italic toggle="yes">miR‐32‐5p</italic> and decreased its expression in glioma cells. MiR‐32‐5p also presents low expression and involve in the ceRNA axis of SNHG14/<italic toggle="yes">miR‐32‐5p</italic>/SKIL in colorectal cancer.<xref rid="cam43186-bib-0024" ref-type="ref">
+<sup>24</sup>
+</xref> MiR‐32‐5p targets HOXB8 to repress the cellular malignant behavior in cervical cancer cells.<xref rid="cam43186-bib-0025" ref-type="ref">
+<sup>25</sup>
+</xref> LncRNA GAS5 modulates <italic toggle="yes">miR‐32‐5p</italic>/PTEN axis to suppress pancreatic cancer metastasis.<xref rid="cam43186-bib-0026" ref-type="ref">
+<sup>26</sup>
+</xref>
+</p><p>Subsequently, we screened <italic toggle="yes">SOX4</italic> as the most potential target gene of <italic toggle="yes">miR‐32‐5p</italic> with putative binding site in its 3ʹUTR sequences. <italic toggle="yes">SOX4</italic> has been reported to be an oncogene supported by multiple lines of evidence. <italic toggle="yes">SOX4</italic> gene has been reported to be frequently amplified and upregulated in over 20 types of malignant tumors.<xref rid="cam43186-bib-0027" ref-type="ref">
+<sup>27</sup>
+</xref>, <xref rid="cam43186-bib-0028" ref-type="ref">
+<sup>28</sup>
+</xref> In the field of glioma, <italic toggle="yes">SOX4</italic> has been found to be significantly elevated in glioblastoma multiforme.<xref rid="cam43186-bib-0029" ref-type="ref">
+<sup>29</sup>
+</xref> Herein, we also detected the abnormal upregulation of <italic toggle="yes">SOX4</italic> in glioma cells in comparison to normal control cell, which was the same expression profile previously revealed in medulloblastoma.<xref rid="cam43186-bib-0030" ref-type="ref">
+<sup>30</sup>
+</xref> We clarified the oncogenic role of SXO2 in glioma via a collection of functional experiments. These data showed that <italic toggle="yes">SOX4</italic> overexpression could dampen cells proliferation, migration, and invasion, while stimulating apoptosis in glioma cells. Last but not least, <italic toggle="yes">SOX4</italic> overexpression could significantly reduce the biological effects induced by silencing <italic toggle="yes">HNF1A‐AS1</italic> in glioma cells, which further confirmed the ceRNA role of <italic toggle="yes">SOX4</italic>.</p><p>All in all, we initially found that MYC induced <italic toggle="yes">HNF1A‐AS1</italic> overexpression promoted glioma progression via modulating <italic toggle="yes">miR‐32‐5p</italic>/<italic toggle="yes">SOX4</italic> axis, providing potent reference value for targeting <italic toggle="yes">HNF1A‐AS1</italic> in future therapeutic strategies of glioma.</p></sec><sec sec-type="COI-statement" id="cam43186-sec-0028"><title>CONFLICTS OF INTERESTS</title><p>None.</p></sec><sec id="cam43186-sec-0029"><title>AUTHORS' CONTRIBUTIONS</title><p>Jianheng Wu designed this study. Rong Li interpreted data. Linfan Li recorded data. Yimian Gu and Hui Zhan were responsible for preparation and investigaton. Jianheng Wu, Rong Li and Changbao Zhou devoted to data curation and methods. Chuanhong Zhong wrote the manuscript. All authors reviewed the manuscript.</p></sec><sec id="cam43186-sec-0030"><title>ETHICAL APPROVAL</title><p>All procedures were approved by the Ethics Committee of Gaozhou People's Hospital.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="cam43186-sup-0001" position="float" orientation="portrait"><caption><p>Figure S1</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CAM4-9-6387-s001.docx" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="cam43186-sec-0027"><title>ACKNOWLEDGMENT</title><p>We are very grateful to all individuals and groups involved in this study.</p></ack><sec sec-type="data-availability" id="cam43186-sec-0032"><title>DATA AVAILABILITY STATEMENT</title><p>Research data and material are not shared.</p></sec><ref-list content-type="cited-references" id="cam43186-bibl-0001"><title>REFERENCES</title><ref id="cam43186-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="cam43186-cit-0001">
+<string-name name-style="western">
+<surname>Fouladseresht</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ziaee</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Erfani</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Doroudchi</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Serum levels of APRIL increase in patients with glioma, meningioma and schwannoma</article-title>. <source xml:lang="en">Asian Pac J Cancer Prev</source>. <year>2019</year>;<volume>20</volume>(<issue>3</issue>):<fpage>751</fpage>‐<lpage>756</lpage>.<pub-id pub-id-type="pmid">30909681</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.31557/APJCP.2019.20.3.751</pub-id><pub-id pub-id-type="pmcid">PMC6825795</pub-id></mixed-citation></ref><ref id="cam43186-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="cam43186-cit-0002">
+<string-name name-style="western">
+<surname>Ahammed Muneer</surname>
+<given-names>KV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rajendran</surname>
+<given-names>VR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Paul Joseph</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Glioma tumor grade identification using artificial intelligent techniques</article-title>. <source xml:lang="en">J Med Syst</source>. <year>2019</year>;<volume>43</volume>(<issue>5</issue>):<fpage>113</fpage>.<pub-id pub-id-type="pmid">30900029</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s10916-019-1228-2</pub-id></mixed-citation></ref><ref id="cam43186-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="cam43186-cit-0003">
+<string-name name-style="western">
+<surname>Fang</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Qiu</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sun</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>Long non‐coding RNA HNF1A‐AS1 mediated repression of miR‐34a/SIRT1/p53 feedback loop promotes the metastatic progression of colon cancer by functioning as a competing endogenous RNA</article-title>. <source xml:lang="en">Cancer Lett</source>. <year>2017</year>;<volume>410</volume>:<fpage>50</fpage>‐<lpage>62</lpage>.<pub-id pub-id-type="pmid">28943452</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.canlet.2017.09.012</pub-id></mixed-citation></ref><ref id="cam43186-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="cam43186-cit-0004">
+<string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xiong</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tang</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bian</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>Long noncoding RNA HNF1A‐AS1 indicates a poor prognosis of colorectal cancer and promotes carcinogenesis via activation of the Wnt/beta‐catenin signaling pathway</article-title>. <source xml:lang="en">Biomed Pharmacother</source>. <year>2017</year>;<volume>96</volume>:<fpage>877</fpage>‐<lpage>883</lpage>.<pub-id pub-id-type="pmid">29145164</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.biopha.2017.10.033</pub-id></mixed-citation></ref><ref id="cam43186-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="cam43186-cit-0005">
+<string-name name-style="western">
+<surname>Denzler</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Agarwal</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stefano</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bartel</surname>
+<given-names>DP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stoffel</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Assessing the ceRNA hypothesis with quantitative measurements of miRNA and target abundance</article-title>. <source xml:lang="en">Mol Cell</source>. <year>2014</year>;<volume>54</volume>(<issue>5</issue>):<fpage>766</fpage>‐<lpage>776</lpage>.<pub-id pub-id-type="pmid">24793693</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.molcel.2014.03.045</pub-id><pub-id pub-id-type="pmcid">PMC4267251</pub-id></mixed-citation></ref><ref id="cam43186-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="cam43186-cit-0006">
+<string-name name-style="western">
+<surname>Hu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hong</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shang</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Knockdown of long non‐coding RNA SNHG5 inhibits malignant cellular phenotypes of glioma via Wnt/CTNNB1 signaling pathway</article-title>. <source xml:lang="en">J Cancer</source>. <year>2019</year>;<volume>10</volume>(<issue>5</issue>):<fpage>1333</fpage>‐<lpage>1340</lpage>.<pub-id pub-id-type="pmid">30854143</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.7150/jca.29517</pub-id><pub-id pub-id-type="pmcid">PMC6400671</pub-id></mixed-citation></ref><ref id="cam43186-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="cam43186-cit-0007">
+<string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Qu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xiao</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>LncRNA SNHG3 promotes clear cell renal cell carcinoma proliferation and migration by upregulating TOP2A</article-title>. <source xml:lang="en">Exp Cell Res</source>. <year>2019</year>;<volume>384</volume>(<issue>1</issue>):<fpage>111595</fpage>.<pub-id pub-id-type="pmid">31505165</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.yexcr.2019.111595</pub-id></mixed-citation></ref><ref id="cam43186-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="cam43186-cit-0008">
+<string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>LINC01210 accelerates proliferation, invasion and migration in ovarian cancer through epigenetically downregulating KLF4</article-title>. <source xml:lang="en">Biomed Pharmacother</source>. <year>2019</year>;<volume>119</volume>:<fpage>109431</fpage>.<pub-id pub-id-type="pmid">31514068</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.biopha.2019.109431</pub-id></mixed-citation></ref><ref id="cam43186-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="cam43186-cit-0009">
+<string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Luo</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>Long non‐coding RNA PVT1 promotes glioma cell proliferation and invasion by targeting miR‐200a</article-title>. <source xml:lang="en">Exp Ther Med</source>. <year>2019</year>;<volume>17</volume>(<issue>2</issue>):<fpage>1337</fpage>‐<lpage>1345</lpage>.<pub-id pub-id-type="pmid">30680011</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3892/etm.2018.7083</pub-id><pub-id pub-id-type="pmcid">PMC6327645</pub-id></mixed-citation></ref><ref id="cam43186-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="cam43186-cit-0010">
+<string-name name-style="western">
+<surname>Dong</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cao</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xue</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Long noncoding FOXD2‐AS1 is activated by CREB1 and promotes cell proliferation and metastasis in glioma by sponging miR‐185 through targeting AKT1</article-title>. <source xml:lang="en">Biochem Biophys Res Comm</source>. <year>2019</year>;<volume>508</volume>(<issue>4</issue>):<fpage>1074</fpage>‐<lpage>1081</lpage>.<pub-id pub-id-type="pmid">30553445</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bbrc.2018.12.050</pub-id></mixed-citation></ref><ref id="cam43186-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="cam43186-cit-0011">
+<string-name name-style="western">
+<surname>Liu</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lu</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hu</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>LINC00909 promotes tumor progression in human glioma through regulation of miR‐194/MUC1‐C axis</article-title>. <source xml:lang="en">Biomed Pharmacother</source>. <year>2019</year>;<volume>116</volume>:<fpage>108965</fpage>.<pub-id pub-id-type="pmid">31132669</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.biopha.2019.108965</pub-id></mixed-citation></ref><ref id="cam43186-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="cam43186-cit-0012">
+<string-name name-style="western">
+<surname>Xu</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hu</surname>
+<given-names>GQ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Da Costa</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Long noncoding RNA UBE2R2‐AS1 promotes glioma cell apoptosis via targeting the miR‐877‐3p/TLR4 axis</article-title>. <source xml:lang="en">Onco Targets Ther</source>. <year>2019</year>;<volume>12</volume>:<fpage>3467</fpage>‐<lpage>3480</lpage>.<pub-id pub-id-type="pmid">31123407</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.2147/OTT.S201732</pub-id><pub-id pub-id-type="pmcid">PMC6511244</pub-id></mixed-citation></ref><ref id="cam43186-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="cam43186-cit-0013">
+<string-name name-style="western">
+<surname>Li</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Qu</surname>
+<given-names>LH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>
+<given-names>JH</given-names>
+</string-name>. <article-title>starBase v2.0: decoding miRNA‐ceRNA, miRNA‐ncRNA and protein–RNA interaction networks from large‐scale CLIP‐Seq data</article-title>. <source xml:lang="en">Nucleic Acids Res</source>. <year>2014</year>;<volume>42</volume>(<issue>D1</issue>):<fpage>D92</fpage>‐<lpage>D97</lpage>.<pub-id pub-id-type="pmid">24297251</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/nar/gkt1248</pub-id><pub-id pub-id-type="pmcid">PMC3964941</pub-id></mixed-citation></ref><ref id="cam43186-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="cam43186-cit-0014">
+<string-name name-style="western">
+<surname>Ordys</surname>
+<given-names>BB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Launay</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Deighton</surname>
+<given-names>RF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McCulloch</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Whittle</surname>
+<given-names>IR</given-names>
+</string-name>. <article-title>The role of mitochondria in glioma pathophysiology</article-title>. <source xml:lang="en">Mol Neurobiol</source>. <year>2010</year>;<volume>42</volume>(<issue>1</issue>):<fpage>64</fpage>‐<lpage>75</lpage>.<pub-id pub-id-type="pmid">20414816</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s12035-010-8133-5</pub-id></mixed-citation></ref><ref id="cam43186-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="cam43186-cit-0015">
+<string-name name-style="western">
+<surname>Liu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yin</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Long non‐coding RNA GAS5 inhibits migration and invasion in gastric cancer via interacting with p53 protein</article-title>. <source xml:lang="en">Dig Liver Dis</source>. <year>2020</year>;<volume>52</volume>(<issue>3</issue>):<fpage>331</fpage>‐<lpage>338</lpage>.<pub-id pub-id-type="pmid">31530437</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.dld.2019.08.012</pub-id></mixed-citation></ref><ref id="cam43186-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="cam43186-cit-0016">
+<string-name name-style="western">
+<surname>Vafadar</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shabaninejad</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Movahedpour</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Long non‐coding RNAs: epigenetic regulators in cancer</article-title>. <source xml:lang="en">Curr Pharm Des</source>. <year>2019</year>;<volume>25</volume>(<issue>33</issue>):<fpage>3563</fpage>‐<lpage>3577</lpage>. <pub-id pub-id-type="pmid">31470781</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.2174/1381612825666190830161528</pub-id></mixed-citation></ref><ref id="cam43186-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="cam43186-cit-0017">
+<string-name name-style="western">
+<surname>Xu</surname>
+<given-names>YH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Deng</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhu</surname>
+<given-names>YS</given-names>
+</string-name>. <article-title>Long non‐coding RNAs in prostate cancer: functional roles and clinical implications</article-title>. <source xml:lang="en">Cancer Lett</source>. <year>2019</year>;<volume>464</volume>:<fpage>37</fpage>‐<lpage>55</lpage>.<pub-id pub-id-type="pmid">31465841</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.canlet.2019.08.010</pub-id></mixed-citation></ref><ref id="cam43186-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="cam43186-cit-0018">
+<string-name name-style="western">
+<surname>Liu</surname>
+<given-names>HT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ma</surname>
+<given-names>RR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gao</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>EGR1‐mediated transcription of lncRNA‐HNF1A‐AS1 promotes cell‐cycle progression in gastric cancer</article-title>. <source xml:lang="en">Can Res</source>. <year>2018</year>;<volume>78</volume>(<issue>20</issue>):<fpage>5877</fpage>‐<lpage>5890</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/0008-5472.CAN-18-1011</pub-id><pub-id pub-id-type="pmcid">PMC6191331</pub-id><pub-id pub-id-type="pmid">30185552</pub-id></mixed-citation></ref><ref id="cam43186-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="cam43186-cit-0019">
+<string-name name-style="western">
+<surname>Liu</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Duan</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>lncRNA HNF1A‐AS1 modulates non‐small cell lung cancer progression by targeting miR‐149‐5p/Cdk6</article-title>. <source xml:lang="en">J Cell Biochem</source>. <year>2019</year>;<volume>120</volume>(<issue>11</issue>):<fpage>18736</fpage>‐<lpage>18750</lpage>.<pub-id pub-id-type="pmid">31243821</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/jcb.29186</pub-id></mixed-citation></ref><ref id="cam43186-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="cam43186-cit-0020">
+<string-name name-style="western">
+<surname>Wang</surname>
+<given-names>YH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>YH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ji</surname>
+<given-names>YJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wei</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gao</surname>
+<given-names>TB</given-names>
+</string-name>. <article-title>Upregulation of long non‐coding RNA HNF1A‐AS1 is associated with poor prognosis in urothelial carcinoma of the bladder</article-title>. <source xml:lang="en">Eur Rev Med Pharmacol Sci</source>. <year>2018</year>;<volume>22</volume>(<issue>8</issue>):<fpage>2261</fpage>‐<lpage>2265</lpage>.<pub-id pub-id-type="pmid">29762827</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.26355/eurrev_201804_14813</pub-id></mixed-citation></ref><ref id="cam43186-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="cam43186-cit-0021">
+<string-name name-style="western">
+<surname>Ning</surname>
+<given-names>J‐F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stanciu</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Humphrey</surname>
+<given-names>MR</given-names>
+</string-name>, et al. <article-title>Myc targeted CDK18 promotes ATR and homologous recombination to mediate PARP inhibitor resistance in glioblastoma</article-title>. <source xml:lang="en">Nat Commun</source>. <year>2019</year>;<volume>10</volume>(<issue>1</issue>):<fpage>2910</fpage>.<pub-id pub-id-type="pmid">31266951</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41467-019-10993-5</pub-id><pub-id pub-id-type="pmcid">PMC6606647</pub-id></mixed-citation></ref><ref id="cam43186-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="cam43186-cit-0022">
+<string-name name-style="western">
+<surname>Liu</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fan</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lin</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lian</surname>
+<given-names>W</given-names>
+</string-name>. <article-title>STAT3‐induced upregulation of long noncoding RNA HNF1A‐AS1 promotes the progression of oral squamous cell carcinoma via activating Notch signaling pathway</article-title>. <source xml:lang="en">Cancer Biol Ther</source>. <year>2019</year>;<volume>20</volume>(<issue>4</issue>):<fpage>444</fpage>‐<lpage>453</lpage>.<pub-id pub-id-type="pmid">30404566</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/15384047.2018.1529119</pub-id><pub-id pub-id-type="pmcid">PMC6422516</pub-id></mixed-citation></ref><ref id="cam43186-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="cam43186-cit-0023">
+<string-name name-style="western">
+<surname>Gou</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zou</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>Long noncoding RNA MALAT1 knockdown inhibits progression of anaplastic thyroid carcinoma by regulating miR‐200a‐3p/FOXA1</article-title>. <source xml:lang="en">Cancer Biol Ther</source>. <year>2019</year>;<volume>20</volume>(<issue>11</issue>):<fpage>1355</fpage>‐<lpage>1365</lpage>.<pub-id pub-id-type="pmid">31500506</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/15384047.2019.1617567</pub-id><pub-id pub-id-type="pmcid">PMC6804806</pub-id></mixed-citation></ref><ref id="cam43186-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="cam43186-cit-0024">
+<string-name name-style="western">
+<surname>Ye</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>W</given-names>
+</string-name>, et al. <article-title>SNHG14 promotes the tumorigenesis and metastasis of colorectal cancer through miR‐32‐5p/SKIL axis</article-title>. <source xml:lang="en">In Vitro Cell Dev Biol Anim</source>. <year>2019</year>;<volume>55</volume>(<issue>10</issue>):<fpage>812</fpage>‐<lpage>820</lpage>.<pub-id pub-id-type="pmid">31471872</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s11626-019-00398-5</pub-id></mixed-citation></ref><ref id="cam43186-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="cam43186-cit-0025">
+<string-name name-style="western">
+<surname>Liu</surname>
+<given-names>YJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>HG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>LH</given-names>
+</string-name>, et al. <article-title>MiR‐32‐5p regulates the proliferation and metastasis of cervical cancer cells by targeting HOXB8</article-title>. <source xml:lang="en">Eur Rev Med Pharmacol Sci</source>. <year>2019</year>;<volume>23</volume>(<issue>1</issue>):<fpage>87</fpage>‐<lpage>95</lpage>.<pub-id pub-id-type="pmid">30657550</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.26355/eurrev_201901_16752</pub-id></mixed-citation></ref><ref id="cam43186-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="cam43186-cit-0026">
+<string-name name-style="western">
+<surname>Gao</surname>
+<given-names>Z‐Q</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>J‐F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>D‐H</given-names>
+</string-name>, et al. <article-title>Long non‐coding RNA GAS5 suppresses pancreatic cancer metastasis through modulating miR‐32‐5p/PTEN axis</article-title>. <source xml:lang="en">Cell Biosci</source>. <year>2017</year>;<volume>7</volume>:<fpage>66</fpage>.<pub-id pub-id-type="pmid">29225772</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13578-017-0192-0</pub-id><pub-id pub-id-type="pmcid">PMC5715988</pub-id></mixed-citation></ref><ref id="cam43186-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="cam43186-cit-0027">
+<string-name name-style="western">
+<surname>Moreno</surname>
+<given-names>CS</given-names>
+</string-name>. <article-title>SOX4: the unappreciated oncogene</article-title>. <source xml:lang="en">Semin Cancer Biol</source>. <year>2019</year>;<volume>S1044‐579X</volume>(<issue>18</issue>):<fpage>30145</fpage>‐<lpage>30147</lpage>. <pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.semcancer.2019.08.027</pub-id><pub-id pub-id-type="pmcid">PMC7043201</pub-id><pub-id pub-id-type="pmid">31445218</pub-id></mixed-citation></ref><ref id="cam43186-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="cam43186-cit-0028">
+<string-name name-style="western">
+<surname>Ha Thi</surname>
+<given-names>HT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kim</surname>
+<given-names>HY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kim</surname>
+<given-names>YM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hong</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>MicroRNA‐130a modulates a radiosensitivity of rectal cancer by targeting SOX4</article-title>. <source xml:lang="en">Neoplasia (New York, NY)</source>. <year>2019</year>;<volume>21</volume>(<issue>9</issue>):<fpage>882</fpage>‐<lpage>892</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neo.2019.07.005</pub-id><pub-id pub-id-type="pmcid">PMC6690642</pub-id><pub-id pub-id-type="pmid">31387015</pub-id></mixed-citation></ref><ref id="cam43186-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="cam43186-cit-0029">
+<string-name name-style="western">
+<surname>Lin</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Madan</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yoon</surname>
+<given-names>J‐G</given-names>
+</string-name>, et al. <article-title>Massively parallel signature sequencing and bioinformatics analysis identifies upregulation of TGFBI and SOX4 in human glioblastoma</article-title>. <source xml:lang="en">PLoS One</source>. <year>2010</year>;<volume>5</volume>(<issue>4</issue>):<elocation-id>e10210</elocation-id>.<pub-id pub-id-type="pmid">20419098</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0010210</pub-id><pub-id pub-id-type="pmcid">PMC2856677</pub-id></mixed-citation></ref><ref id="cam43186-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="cam43186-cit-0030">
+<string-name name-style="western">
+<surname>de Bont</surname>, <given-names>JM</given-names>
+</string-name>
+<string-name name-style="western">
+<surname>Kros</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Passier</surname>
+<given-names>MMCJ</given-names>
+</string-name>, et al. <article-title>Differential expression and prognostic significance of SOX genes in pediatric medulloblastoma and ependymoma identified by microarray analysis</article-title>. <source xml:lang="en">Neuro‐oncology</source>. <year>2008</year>;<volume>10</volume>(<issue>5</issue>):<fpage>648</fpage>‐<lpage>660</lpage>.<pub-id pub-id-type="pmid">18577562</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1215/15228517-2008-032</pub-id><pub-id pub-id-type="pmcid">PMC2666242</pub-id></mixed-citation></ref></ref-list></back></article>

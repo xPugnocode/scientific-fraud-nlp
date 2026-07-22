@@ -1,0 +1,720 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article article-type="research-article" xml:lang="en" dtd-version="1.4"><front><journal-meta><journal-id journal-id-type="nlm-ta">Cancer Med</journal-id><journal-id journal-id-type="iso-abbrev">Cancer Med</journal-id><journal-id journal-id-type="pmc-domain-id">1974</journal-id><journal-id journal-id-type="pmc-domain">canmed</journal-id><journal-id journal-id-type="nlm-id">101595310</journal-id><journal-id journal-id-type="publisher-id">CAM4</journal-id><journal-title-group><journal-title>Cancer Medicine</journal-title></journal-title-group><issn pub-type="epub">2045-7634</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC6434498</article-id><article-id pub-id-type="pmcid-ver">PMC6434498.1</article-id><article-id pub-id-type="pmcaid">6434498</article-id><article-id pub-id-type="pmcaiid">6434498</article-id><article-id pub-id-type="pmid">30632714</article-id><article-id pub-id-type="doi">10.1002/cam4.1934</article-id><article-id pub-id-type="publisher-id">CAM41934</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Cancer Biology</subject><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></subj-group></article-categories><title-group><article-title>The role and molecular mechanism of Trop2 induced epithelial‐mesenchymal transition through mediated β‐catenin in gastric cancer</article-title><alt-title alt-title-type="left-running-head">ZHAO et al.</alt-title></title-group><contrib-group><contrib id="cam41934-cr-0001" contrib-type="author"><name name-style="western"><surname>Zhao</surname><given-names initials="W">Wei</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0001-8557-297X</contrib-id><xref ref-type="aff" rid="cam41934-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="cam41934-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="cam41934-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="cam41934-cr-0002" contrib-type="author"><name name-style="western"><surname>Jia</surname><given-names initials="L">Lizhou</given-names></name><xref ref-type="aff" rid="cam41934-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="cam41934-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="cam41934-cr-0003" contrib-type="author"><name name-style="western"><surname>kuai</surname><given-names initials="X">Xingwang</given-names></name><xref ref-type="aff" rid="cam41934-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="cam41934-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="cam41934-cr-0004" contrib-type="author"><name name-style="western"><surname>Tang</surname><given-names initials="Q">Qi</given-names></name><xref ref-type="aff" rid="cam41934-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="cam41934-cr-0005" contrib-type="author"><name name-style="western"><surname>Huang</surname><given-names initials="X">Xiaochen</given-names></name><xref ref-type="aff" rid="cam41934-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="cam41934-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="cam41934-cr-0006" contrib-type="author"><name name-style="western"><surname>Yang</surname><given-names initials="T">Tingting</given-names></name><xref ref-type="aff" rid="cam41934-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="cam41934-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="cam41934-cr-0007" contrib-type="author"><name name-style="western"><surname>Qiu</surname><given-names initials="Z">Zhenning</given-names></name><xref ref-type="aff" rid="cam41934-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="cam41934-cr-0008" contrib-type="author"><name name-style="western"><surname>Zhu</surname><given-names initials="J">Jin</given-names></name><xref ref-type="aff" rid="cam41934-aff-0003">
+<sup>3</sup>
+</xref><xref ref-type="aff" rid="cam41934-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="cam41934-cr-0009" contrib-type="author"><name name-style="western"><surname>Huang</surname><given-names initials="J">Jianfei</given-names></name><xref ref-type="aff" rid="cam41934-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="cam41934-cr-0010" contrib-type="author" corresp="yes"><name name-style="western"><surname>Huang</surname><given-names initials="W">Wenbin</given-names></name><address><email>wbhuang348912@126.com</email></address><xref ref-type="aff" rid="cam41934-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cam41934-cr-0011" contrib-type="author" corresp="yes"><name name-style="western"><surname>Feng</surname><given-names initials="Z">Zhenqing</given-names></name><address><email>fengzhenqing@njmu.edu.cn</email></address><xref ref-type="aff" rid="cam41934-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="cam41934-aff-0003">
+<sup>3</sup>
+</xref><xref ref-type="aff" rid="cam41934-aff-0006">
+<sup>6</sup>
+</xref></contrib></contrib-group><aff id="cam41934-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Pathology, Nanjing First Hospital</named-content>
+<institution>Nanjing Medical University</institution>
+<named-content content-type="city">Nanjing</named-content>
+<country country="CN">China</country>
+</aff><aff id="cam41934-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Pathology</named-content>
+<institution>Nanjing Medical University</institution>
+<named-content content-type="city">Nanjing</named-content>
+<country country="CN">China</country>
+</aff><aff id="cam41934-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Key Laboratory of Antibody Technique of Ministry of Health</named-content>
+<institution>Nanjing Medical University</institution>
+<named-content content-type="city">Nanjing</named-content>
+<country country="CN">China</country>
+</aff><aff id="cam41934-aff-0004">
+<label><sup>4</sup></label>
+<institution>Huadong Medical Institute of Biotechniques</institution>
+<named-content content-type="city">Nanjing</named-content>
+<country country="CN">China</country>
+</aff><aff id="cam41934-aff-0005">
+<label><sup>5</sup></label>
+<named-content content-type="organisation-division">Department of Pathology</named-content>
+<institution>Affiliated Hospital of Nantong University</institution>
+<named-content content-type="city">Nantong</named-content>
+<country country="CN">China</country>
+</aff><aff id="cam41934-aff-0006">
+<label><sup>6</sup></label>
+<named-content content-type="organisation-division">Jiangsu Key Lab. of Cancer Biomarkers, Prevention and Treatment, Collaborative Innovation Center for Cancer Personalized Medicine</named-content>
+<institution>Nanjing Medical University</institution>
+<named-content content-type="city">Nanjing</named-content>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Wenbing Huang, Zhenqing Feng, Department of Pathology, Nanjing Medical University, Nanjing, China.<break/>
+Emails: <email>wbhuang348912@126.com</email> (WH), <email>fengzhenqing@njmu.edu.cn</email> (ZF)<break/></corresp></author-notes><pub-date pub-type="epub"><day>11</day><month>1</month><year>2019</year></pub-date><pub-date pub-type="collection"><month>3</month><year>2019</year></pub-date><volume>8</volume><issue>3</issue><issue-id pub-id-type="pmc-issue-id">331567</issue-id><issue-id pub-id-type="doi">10.1002/cam4.2019.8.issue-3</issue-id><fpage>1135</fpage><lpage>1147</lpage><history><date date-type="received"><day>14</day><month>5</month><year>2018</year></date><date date-type="rev-recd"><day>30</day><month>8</month><year>2018</year></date><date date-type="accepted"><day>29</day><month>10</month><year>2018</year></date></history><pub-history><event event-type="pmc-release"><date><day>11</day><month>01</month><year>2019</year></date></event><event event-type="pmc-live"><date><day>08</day><month>04</month><year>2019</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-03-01 01:25:15.380"><day>01</day><month>03</month><year>2025</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2019 The Authors. <italic toggle="yes">Cancer Medicine</italic> published by John Wiley &amp; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="CAM4-8-1135.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:CAM4-8-1135.pdf"/><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="retraction-forward" xml:lang="en" xlink:title="retraction" vol="14" journal-id="Cancer Med" journal-id-type="nlm-ta" ext-link-type="pmc" xlink:href="PMC11847708"><article-title>
+<styled-content style="fixed-case" toggle="no">RETRACTION</styled-content>: The Role and Molecular Mechanism of Trop2 Induced Epithelial–Mesenchymal Transition Through Mediated β‐Catenin in Gastric Cancer</article-title><volume>14</volume><issue seq="380">4</issue><date><day>23</day><month>2</month><year>2025</year></date><elocation-id>e70629</elocation-id><source>Cancer Medicine</source><pub-id pub-id-type="doi">10.1002/cam4.70629</pub-id><pub-id pub-id-type="pmcid">PMC11847708</pub-id><pub-id pub-id-type="pmid">39988755</pub-id></related-article><abstract id="cam41934-abs-0001"><title>Abstract</title><p>The present study elucidates the potential role of Trop2 in tumor invasion and the promotion of epithelial‐mesenchymal transition (EMT) when binding β‐catenin in GC. The role of Trop2 in promoting EMT in GC cells was examined by a variety of experimental assays. Moreover, the underlying molecular mechanism of Trop2 in promoting EMT was studied by in vivo and in vitro assays. The Trop2 expression in relation to tumor metastasis status was detected by IHC in 248 cases of GC tissues and 86 cases of matched adjacent tissues. Trop2 promoted the metastasis and induces EMT in GC. Meanwhile, the elevated protein levels of Trop2 and mesenchymal markers were also found in the TGF‐β1‐induced EMT model in GC cells. Importantly, Trop2 physically bound and activated β‐catenin to promote EMT; moreover, Trop2 increased the accumulation of β‐catenin in the nucleus to accelerate metastasis in GC cells. Inhibition of Trop2 expression in GC cells prevented the migration and invasion of GC cells in vivo. Trop2+/vimentin+ expression was higher in GC tissues than that in matched adjacent tissues, and Trop2+/vimentin+ expression in GC was associated with the differentiation, TNM stage, and distant metastases. These sets of data reveal a novel regulatory network of Trop2 in EMT and GC metastasis, suggesting Trop2 as a useful marker for inducing EMT and metastasis of GC, which may help to lead a better understanding of the pathogenesis of the GC.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="cam41934-kwd-0001">epithelial‐mesenchymal transition</kwd><kwd id="cam41934-kwd-0002">gastric cancer</kwd><kwd id="cam41934-kwd-0003">Trop2</kwd><kwd id="cam41934-kwd-0004">β‐catenin</kwd></kwd-group><funding-group><award-group><funding-source>National Natural Science Foundation of China</funding-source><award-id>81602119</award-id><award-id>81773100</award-id></award-group><award-group><funding-source>Nanjing Medical Science and Technology Development Fund</funding-source><award-id>YKK17120</award-id></award-group></funding-group><counts><fig-count count="5"/><table-count count="4"/><page-count count="13"/><word-count count="16218"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>cam41934</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>March 2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.6.1 mode:remove_FC converted:26.03.2019</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="cam41934-cit-1001">
+<string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jia</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>kuai</surname>
+<given-names>X</given-names>
+</string-name>, et al. <article-title>The role and molecular mechanism of Trop2 induced epithelial‐mesenchymal transition through mediated β‐catenin in gastric cancer</article-title>. <source xml:lang="en">Cancer Med</source>. <year>2019</year>;<volume>8</volume>:<fpage>1135</fpage>–<lpage>1147</lpage>. <pub-id pub-id-type="doi">10.1002/cam4.1934</pub-id>
+<pub-id pub-id-type="pmcid">PMC6434498</pub-id><pub-id pub-id-type="pmid">30632714</pub-id><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="retraction-forward" ext-link-type="pmc" xlink:href="PMC11847708"/></mixed-citation>
+</p><fn-group id="cam41934-ntgp-0001"><fn fn-type="equal" id="cam41934-note-0001"><p>Wei Zhao and Lizhou Jia are contributed equally to this work.</p></fn><fn fn-type="funding" id="cam41934-note-0002"><p>
+<bold>Funding information</bold>
+</p><p>This work was supported by grants from the National Natural Science Foundation of China (No. 81773100, 81602119), and Nanjing Medical Science and Technology Development Fund Project (YKK17120).</p></fn></fn-group></notes></front><body><sec id="cam41934-sec-0001"><label>1</label><title>INTRODUCTION</title><p>Gastric cancer (GC) is the most common digestive system malignancy and ranks as the third leading cause of cancer mortality worldwide.<xref rid="cam41934-bib-0001" ref-type="ref">1</xref>, <xref rid="cam41934-bib-0002" ref-type="ref">2</xref> Despite a declining rate of GC over the past decades,<xref rid="cam41934-bib-0003" ref-type="ref">3</xref> the 5‐year survival rate of GC patients is &lt;20%.<xref rid="cam41934-bib-0004" ref-type="ref">4</xref> Moreover, no less than two‐thirds of GC occurs in developing countries, and China has the most GC patients in the world.<xref rid="cam41934-bib-0005" ref-type="ref">5</xref>, <xref rid="cam41934-bib-0006" ref-type="ref">6</xref> Despite significant medical progress and efforts in promoting the survival of GC patients, the basic molecular mechanisms of the GC are until recently still not well understood. Therefore, it is still important to identify novel diagnostic biomarkers and prognostic strategies.</p><p>Human trophoblast cell surface glycoprotein (TACSTD2/Trop2/M1S1/GA733‐1) gene is located at chromosome 1q32 and is a 36 amino acid transmembrane protein expressed primarily in epithelial cells.<xref rid="cam41934-bib-0007" ref-type="ref">7</xref> Trop2 first has been identified in human trophoblasts and has several binding partners, including claudin 1, 7, cyclin D1, protein kinase C (PKC), and PIP2.<xref rid="cam41934-bib-0008" ref-type="ref">8</xref>, <xref rid="cam41934-bib-0009" ref-type="ref">9</xref>, <xref rid="cam41934-bib-0010" ref-type="ref">10</xref> Trop2 can induce tight junctions at the epithelial barrier,<xref rid="cam41934-bib-0011" ref-type="ref">11</xref> and promote tumor proliferation, podosome formation, and the activation of Raf and NF‐kappa,<xref rid="cam41934-bib-0008" ref-type="ref">8</xref>, <xref rid="cam41934-bib-0011" ref-type="ref">11</xref> it can also inhibit IGF‐1R signaling by binding to these partners.<xref rid="cam41934-bib-0012" ref-type="ref">12</xref> Trop2 has been found over‐expressed in various epithelial tumors,<xref rid="cam41934-bib-0010" ref-type="ref">10</xref>, <xref rid="cam41934-bib-0013" ref-type="ref">13</xref>, <xref rid="cam41934-bib-0014" ref-type="ref">14</xref>, <xref rid="cam41934-bib-0015" ref-type="ref">15</xref>, <xref rid="cam41934-bib-0016" ref-type="ref">16</xref> and its expression relates to aggressive tumor behavior.<xref rid="cam41934-bib-0017" ref-type="ref">17</xref>, <xref rid="cam41934-bib-0018" ref-type="ref">18</xref>
+</p><p>Epithelial‐mesenchymal transition (EMT) is a developmental process in which epithelial cells loss its phenotype and mesenchymal cells gain its phenotype, is considered to have an important role in the invasive and metastasis progression in the cancer.<xref rid="cam41934-bib-0019" ref-type="ref">19</xref>, <xref rid="cam41934-bib-0020" ref-type="ref">20</xref>, <xref rid="cam41934-bib-0021" ref-type="ref">21</xref> Moreover, EMT contributes to early‐stage metastasis and invasion of cancer cells.<xref rid="cam41934-bib-0022" ref-type="ref">22</xref> The process of EMT includes the decrease of epithelial markers such as E‐cadherin, mesenchymal, upregulation of markers, such as fibronectin, vimentin, and abnormal translocation of β‐catenin.<xref rid="cam41934-bib-0023" ref-type="ref">23</xref>, <xref rid="cam41934-bib-0024" ref-type="ref">24</xref> EMT processes have been reported to be initiated by zinc‐finger transcriptional repressors, such as snail or β‐catenin. Vimentin is known as one kind of mesenchymal marker, and upregulated vimentin is related to a poor clinical prognosis caused by many cancers including GC. But the underlying molecular mechanism of EMT processes still remains to be fully studied.</p><p>In 2014, Chen et al performed immunohistochemistry to observe the expression of Trop2 and EMT marker in gallbladder cancer. The results indicated that high Trop2 expression was significantly associated with lower E‐cadherin expression and acquisition of expression of vimentin.<xref rid="cam41934-bib-0025" ref-type="ref">25</xref> In our previous study, we also found Trop2+/E‐cadherin−was expressed in breast cancer (BC) and was associated with lymph node status, metastasis, tumor‐node‐metastasis (TNM) stage, and ER−/PR−/HER2− expression. Furthermore, BC patients that expressed Trop2+/E‐cadherin−had poor overall survival rates.<xref rid="cam41934-bib-0026" ref-type="ref">26</xref> But in these studies, the underlying molecular mechanism of Trop2 and EMT did not be fully studied.</p><p>In the present study, we found that Trop2 promoted EMT phenomenon and induced metastasis in GC. We further identified that Trop2 physically bound to β‐catenin and then increased mesenchymal markers as well as inhibited epithelial markers. Moreover, we also found that Trop2 promoted the nuclear accumulation of β‐catenin. Inhibition of Trop2 expression in GC cell lines inhibits migration and invasion both in vivo and in vitro<italic toggle="yes">. </italic>Finally, we identified that Trop2 expression positively correlated with tumor metastasis status in GC patients. Collectively, we identified potential invasion activities of Trop2 in GC cells, suggesting that Trop2 might be a promising therapeutic target for blocking the progression of GC.</p></sec><sec id="cam41934-sec-0002"><label>2</label><title>METHODS</title><sec id="cam41934-sec-0003"><label>2.1</label><title>Tissue sample</title><p>A total of 330 formalin‐fixed, paraffin‐embedded (FFPE) stomach tissue samples, including cancer tissues (n = 248) and matched adjacent tissues (n = 86), were collected from 248 patients with primary GC who had undergone routine GC resection. All tissue blocks were received from the department of pathology at the Affiliated Hospital of Nantong University from 2003 to 2010. Tissue patients’ clinical medical records included age, gender, tumor‐node‐metastasis (TNM) stage, histological type, and differentiation grade. No patients received any treatment (chemotherapy, radiation therapy, or immunotherapy) before surgical resection. Overall survival (OS) was defined as the period from initial diagnosis via biopsy to death. Information on patients who were alive at the last follow‐up date was deleted from the analysis. The study protocol was approved by the Human Research Ethics Committees of the hospital.</p></sec><sec id="cam41934-sec-0004"><label>2.2</label><title>Cell culture, reagents, and plasmid</title><p>Seven human GC cell lines (MKN45, MKN28, MGC803, MGC823, SGC7901, HGC27, and BGC823) and normal human gastric epithelial cell lines (GES‐1) were purchased from KeyGEN BioTECH (Nanjing, China). Cells were cultured in at 37°C in a 5% CO<sub>2</sub> humidified atmosphere in RPMI‐1640 containing 10% FBS. Recombinant human TGF‐β1 was purchased from Novoprotein. The sequences for Trop2 overexpression vector and control OE vector, Trop2 shRNA and control shRNA vector are listed in Table <xref rid="cam41934-sup-0001" ref-type="supplementary-material">S1</xref>.</p></sec><sec id="cam41934-sec-0005"><label>2.3</label><title>RNA extraction, reverse transcription, and qRT‐PCR</title><p>Cell RNA was extracted by TRIzol reagent (Invitrogen, Carlsbad, CA, USA) and reverse transcribed into cDNA using a PrimeScript™ RT reagent kit (Takara, Glen Burnie, MD) in accordance with the manufacturer's instructions. The primers of Trop2 were β‐catenin, E‐cadherin, fibronectin, vimentin，goocecoid, and snail. GAPDH (internal control) was purchased from GENEray (shanghai, China). qRT‐PCR was performed on an ABIPRISM 7500HT Sequence Detection System (Applied Biosystems, Foster City, CA, USA) in 96‐well plates. Relative expression levels were calculated as ratios normalized against those of GAPDH. Results were normalized to respective internal controls. The Ct‐value for each sample was calculated using the ΔΔCt method, and results were expressed as 2<sup>−ΔΔCt</sup>. Primers can be found in Table <xref rid="cam41934-sup-0001" ref-type="supplementary-material">S2</xref>.</p></sec><sec id="cam41934-sec-0006"><label>2.4</label><title>Western blot analysis and co‐immunoprecipitation</title><p>Cellular proteins were lysed using standard methods. Cellular proteins were separated by 10% SDS‐PAGE and transferred onto nitrocellulose membranes. The membranes were blocked with TBS containing 0.1% Triton X‐100 and 5% nonfat milk for 2 hours at RT and then were incubated with Trop2 (R＆D SYSTEMS), E‐cadherin (Invitrogen), fibronectin (Affinity), vimentin (Affinity), β‐catenin (Santa Cruz Biotechnology), and β‐actin antibody (Abcam) at 4°C overnight. After being washed, the membranes were incubated with HRP‐conjugated anti‐IgG at RT for 1 hour. Signal detection was carried out with an ECL system (Tanon, shanghai, China). BGC823 and MGC803 were transfected with different plasmids and then lysed in cellular lysis buffer (Sangon Biotech, Shanghai, China) for 15 minutes on ice. Extracts were clarified by centrifugation at 13 000 <italic toggle="yes">g</italic> for 25 minutes at 4°C for co‐immunoprecipitation. After centrifugation, the supernatant was collected, and then incubated with protein G PLUS‐agarose immunoprecipitation beads (Santa Cruz Biotechnology) at 4°C for 1 hour. Then, they were incubated with special antibodies against Trop2, β‐catenin at 4°C on a rocker platform. The antibody‐coated beads were then incubated with the lysates at 4°C overnight. Immunoprecipitates were collected, washed, lysed, and boiled. The boiled samples were analyzed by Western blot analysis as describe above.</p></sec><sec id="cam41934-sec-0007"><label>2.5</label><title>Immunohistochemical staining</title><p>The streptavidin‐peroxidase (SP) staining technique was used to detect protein following antigen retrieval by microwave treatment. After blocking endogenous peroxidase activity by incubating in 3% H<sub>2</sub>O<sub>2</sub>, tissues were placed in 0.01 mol/L citrate buffer, pH 6.0, and heated in a microwave for antigen retrieval. Trop2 was detected using a polyclonal goat anti‐human Trop2 (dilution 1:200), fibronectin (dilution 1:300), E‐cadherin (dilution 1:300), and vimentin (dilution 1:300). Antibody reactions were detected with an Envision™ peroxidase kit (Dako, Carpinteria, CA, USA). Tissues were then incubated in 3, 3ʹ‐diaminobenzidine plus (Dako), counterstained with hematoxylin, dehydrated through graded alcohols, and cleared in xylene. The following staining intensity scores were used: 0 indicated no staining; 1+ indicated weak staining; 2+ indicated moderate staining; and 3+ indicated intense staining. The total number of cells at each intensity level was multiplied by the corresponding intensity score to yield an intensity percentage score. Final staining scores were then calculated by summing the four intensity percentage scores; the minimum possible final staining score was 0 (no staining), and maximum possible score was 300 (100% of cells with 3+ staining intensity).</p></sec><sec id="cam41934-sec-0008"><label>2.6</label><title>Migration and invasion assays</title><p>For transwell migration assays, transfected cells (4 × 10<sup>5</sup>) were plated in the top chamber with the non‐coated membrane (24‐well insert; pore size, 8 μm; BD Biosciences, San Jose, CA, USA). For invasion assays, matrigel (BD biosciences) was polymerized in transwell inserts for 2 hours at 37°C. In both assays, cells were plated in the top chamber in medium without serum; the lower chamber was filled with 10% FBS and EGF (25 ng/mL) (Sigma, St Louis, MO, USA). Cells were incubated for 24 hours, and the cells that did not migrate or invade through the pores were removed by a cotton swab. Cells on the lower surface of the membrane were stained with crystal violet and counted.</p></sec><sec id="cam41934-sec-0009"><label>2.7</label><title>Cytoplasmic and nuclear extraction</title><p>Cytoplasmic and nuclear extraction lit for cells purchased from invent Biotechnologies. Inc The internal reference of nuclear protein was used with Lamin B1, and the internal reference of cytoplasmic was used with β‐actin. Harvest cells in suspension by low‐speed centrifugation and wash the cells through cold PBS. Collect the cells to a 1.5 mL‐microcentrifugation tube and centrifugate at 500 <italic toggle="yes">g</italic> for 1 minute, abandon supernatant, add appropriate amounts of cytoplasmic extraction buffer to cell pellets, vortex the tube vigorously, incubate on ice for 5 minutes. The procedures of cytoplasmic and nuclear protein extraction as descript in protocol.</p></sec><sec id="cam41934-sec-0010"><label>2.8</label><title>Immunofluorescence assay</title><p>The inoculated trypsinized cells were placed in cell culture dishes (6 well) and incubated with vimentin antibody, fibronectin antibody, E‐cadherin antibody, Trop2 antibody, and β‐catenin antibody for 2 hours at room temperature, respectively, then incubated with fluorescent anti‐IgG at RT for 1 hour. A fluorescence microscope or confocal laser scanning microscope was used to detect the levels of the markers.</p></sec><sec id="cam41934-sec-0011"><label>2.9</label><title>Animal experiments</title><p>Animal experiments were performed with the approval of the Institutional Committee for Animal Research and in conformity with national guidelines for the care and use of laboratory animals. ShRNA‐Trop2, shRNA‐NC‐infected BGC823 cells, and PBS were injected into the tail vein of immunodeficiency nude mice (n = 5). After 5 weeks, the mice were killed and metastatic lung tissues were used to analyze Trop2, fibronectin, E‐cadherin, vimentin protein expression.</p></sec><sec id="cam41934-sec-0012"><label>2.10</label><title>Statistical analysis</title><p>The SPSS18.0 statistical software package (SPSS Inc, Chicago, IL) was used for general statistical analysis. The differences between groups were estimated by unpaired Student's <italic toggle="yes">t </italic>test. Overall survival (OS) rates were calculated by the Kaplan‐Meier method with the log‐rank test applied for comparison. Survival data were evaluated using univariate and multivariate Cox proportional hazards model. Values of <italic toggle="yes">P </italic>&lt; 0.05 were considered statistically significant.</p></sec></sec><sec id="cam41934-sec-0013"><label>3</label><title>RESULTS</title><sec id="cam41934-sec-0014"><label>3.1</label><title>Trop2 induced metastasis through upregulated mesenchymal markers and downregulated epithelial markers</title><p>In our previous study, we detected the function of Trop2 in GC in vivo and in vitro. We found Trop2 to be an oncogene that can promote GC cell proliferation, apoptosis and induce G1‐S cell cycle progression in GC cell lines. But interestingly, our study also testified to the effect of OE‐Trop2 on cell migration and invasion. We analyzed the effect of shRNA‐Trop2 on cell migration and invasion. For shRNA‐Trop2 and shRNA‐NC (transfected MKN45 and BGC823 and then cultured in transwell apparatus), after 24 hours of incubation, the percentage of migrated cells in shRNA‐Trop2 transfected (two cell lines) were significantly lower than the shRNA‐NC cell group. By using a boyden chamber coated with matrigel, we determined that shRNA‐Trop2 could inhibit BGC823 and MKN45 cell invasion after being transfected for 48 hours (Figure <xref rid="cam41934-fig-0001" ref-type="fig">1</xref>A).</p><fig fig-type="Figure" xml:lang="en" id="cam41934-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Trop2 induced metastasis through upregulated mesenchymal markers and downregulated epithelial markers. A, Trop2 knockdown inhibits metastasis in MKN45 and BGC823 by transwell migration assay and transwell invasion assay. The number of migrated and invaded cells was counted under the panel, respectively, mean ± SD, **<italic toggle="yes">P</italic> &lt; 0.001, means compared with the shRNA‐NC control group. B, Overexpression of Trop2 prompts metastasis in MKN28 and MGC803 by transwell migration assay and transwell invasion assay. The number of migrated and invaded cells was counted under the panel, respectively, mean ± SD, **<italic toggle="yes">P</italic> &lt; 0.001, means compared with the VE‐Trop2 control group. C, Representative Western blot results for fibronectin, E‐cadherin, vimentin, and Trop2 protein expression from OE‐Trop2 or shRNA‐Trop2 treated with MGC803 and BGC823 cell lines, GAPDH was used as a control. **<italic toggle="yes">P</italic> &lt; 0.001, means compared with the NC control group. D, The mRNA level of mesenchymal markers and epithelial marker, expressed in OE‐Trop2 or shRNA‐Trop2 treated with GC cell lines, was analyzed by qRT‐PCR. GAPDH was used as a control. E, The mRNA level of EMT regulators (β‐catenin, goocecoid, snail), expressed in OE‐Trop2 or shRNA‐Trop2 treated with GC cell lines, was analyzed by qRT‐PCR, GAPDH was used as a control. All experiments were carried out in triplicate</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-3" position="float" orientation="portrait" xlink:href="CAM4-8-1135-g001.jpg"/></fig><p>For OE‐Trop2 and EV‐Trop2 plasmid (transfected MKN28 and MGC803 cultured in transwell apparatus), following 24 hours of incubation, the percentage of migrated cells in OE‐Trop2 transfected (in MGC803) were significantly higher than EV‐Trop2 group. Using a boyden chamber coated with matrigel, we found that OE‐Trop2 was able to increase cell invasion in MGC803 after transfected for 48 hours. But we did not observe a similar result in the MKN28 cell line (Figure <xref rid="cam41934-fig-0001" ref-type="fig">1</xref>B). It may be the reasons of lower transfection efficiency.</p><p>To evaluate whether Trop2 affects the EMT phenomenon in GC cells, we over‐expressed Trop2 in MGC803 and knockdown Trop2 expression in BGC823, then examined the expression of the epithelial marker (E‐cadherin) and mesenchymal markers (fibronectin and vimentin) by Western blot (Figure <xref rid="cam41934-fig-0001" ref-type="fig">1</xref>C) and qRT‐PCR (Figure <xref rid="cam41934-fig-0001" ref-type="fig">1</xref>D). Trop2 overexpression led to <italic toggle="yes">increased</italic> fibronectin and vimentin protein expression, but conversely decreased E‐cadherin protein expression. Then, with knockdown Trop2 (by shRNA‐5‐Trop2), the fibronectin and vimentin protein expression decreased and E‐cadherin protein expression increased. The mRNA profile was similar to the protein expression.</p><p>To detect which EMT regulators might be influenced by Trop2, we used qRT‐PCR to evaluate the expression level of several EMT regulators after applying OE‐Trop2 in MGC803 and shRNA‐Trop2 in BGC823. We found the expression level of β‐catenin and Trop2 was positively correlated (Figure <xref rid="cam41934-fig-0001" ref-type="fig">1</xref>E).</p><p>Collectively, this observation indicated that Trop2 might play an important role in regulating EMT phenomenon in GC cell lines.</p></sec><sec id="cam41934-sec-0015"><label>3.2</label><title>Trop2 physically associated with β‐catenin to induce EMT phenomenon</title><p>To further elucidate whether Trop2 plays a role in the EMT regulation phenomenon, we used transforming growth factor β1 (TGF‐β1) to induce EMT regulation in GC cell lines (MGC803 and BGC823) (Figure <xref rid="cam41934-fig-0002" ref-type="fig">2</xref>A). After TGF‐β1 was stimulated for 7 days, we observed the morphological changes in the MGC803 and BGC823 gastric cancer cell lines by microscopy (magnification: 400). Meanwhile, we examined the epithelial and mesenchymal markers, and Trop2 protein expression of TGF‐β1 induced GC cell lines by fluorescence microscopy (Figure <xref rid="cam41934-fig-0002" ref-type="fig">2</xref>B) and qRT‐PCR (Figure <xref rid="cam41934-fig-0002" ref-type="fig">2</xref>C). We found that the fibronectin, vimentin, and Trop2 protein expression increased but E‐cadherin protein expression decreased.</p><fig fig-type="Figure" xml:lang="en" id="cam41934-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Trop2 physically associated with β‐catenin to induced EMT phenomenon. A, TGF‐β1 induced morphologic changes in MGC803 and BGC823 GC cell lines by phase‐contrast microscopy (magnification: 400), fibronectin, E‐cadherin, vimentin, and Trop2 expressed in two types of GC cell lines or TGF‐β1‐treated GC cell lines by fluorescence microscopy (magnification: 400) (B) and qRT‐PCR(C). D, The change of the EMT regulators after TGF‐β1 induction by qRT‐PCR. E, Analysis of the interactions between Trop2 and β‐catenin using STRING database. F, MGC803 cell lysates were pre‐immunoprecipitated with anti‐Trop2 or anti‐β‐catenin antibody, and the co‐immunoprecipitated β‐catenin or Trop2 was detected using anti‐β‐catenin or anti‐Trop2 antibody, WCL means whole cell lysate, IC means immune complexes. G, Vimentin, Trop2, and β‐catenin protein expression level in EMT model cell lines and shRNA‐Trop2‐treated EMT model cell lines by Western blot, GAPDH was used as a control, mean ± SD, **means compared with NC group, <italic toggle="yes">P</italic> &lt; 0.001. All experiments were carried out in triplicate</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-5" position="float" orientation="portrait" xlink:href="CAM4-8-1135-g002.jpg"/></fig><p>We examined the EMT regulators (β‐catenin, goocecoid and snail) in induced GC cell lines (EMT model cell lines) by qRT‐PCR (Figure <xref rid="cam41934-fig-0002" ref-type="fig">2</xref>D). The result indicated that the change of the β‐catenin in two EMT model cell lines, compared to normal GC cell lines, was more significant than others (EMT model cell line MGC803 vs normal MGC803: 3.88 ± 0.59, EMT model cell line BGC823 vs normal BGC823:2.72 ± 0.53). These results showed that EMT key regulator β‐catenin might target EMT markers for its transcription in GC. We carried out STRING database analysis (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.string-db.org/cgi/network.pl?taskId=CfBlxq0SyuCt">http://www.string-db.org/cgi/network.pl?taskId=CfBlxq0SyuCt</ext-link>) to analyze the interactions between the known proteins and the predicted proteins. The result indicated that Trop2 and β‐catenin in the cell junction and cell signaling pathways may have a certain role (Figure <xref rid="cam41934-fig-0002" ref-type="fig">2</xref>E). Therefore, we hypothesized the potential involvement of Trop2 and β‐catenin in the EMT phenomenon. To further characterize the correlation between Trop2 and β‐catenin, we performed a co‐immunoprecipitation experiment in the MGC803 cell lysates (immunoprecipitated with anti‐Trop2 antibody or anti‐β‐catenin). The co‐immunoprecipitated β‐catenin or Trop2 was detected using an anti‐β‐catenin antibody or Trop2 antibody, and the physical interaction of Trop2 with β‐catenin was observed (Figure <xref rid="cam41934-fig-0002" ref-type="fig">2</xref>F).</p><p>Next, we detected the changes in Trop2, β‐catenin, and vimentin protein expression in the GC cell lines, EMT model GC cell lines, shRNA‐NC EMT model GC cell lines, and shRNA‐5‐Trop2 EMT model GC cell lines, respectively. We found that TGF‐β1 could induce vimentin, Trop2, and β‐catenin protein expression in two GC cell lines (MGC803 and BGC823), whereas knockdown Trop2 in EMT model GC cell lines could downregulate vimentin and β‐catenin protein expression compared to the control group (Figure <xref rid="cam41934-fig-0002" ref-type="fig">2</xref>G). Furthermore, we witnessed the change of vimentin and β‐catenin protein expression in the overexpression or knockdown Trop2 of the MGC803 and BGC823 by immunofluorescence assay with confocal microscopy. The result indicated that OE‐Trop2 is able to induce a higher expression in vimentin and β‐catenin protein, whereas shRNA‐Trop2 show the ability to inhibit these protein expression levels (Figure <xref rid="cam41934-fig-0003" ref-type="fig">3</xref>A‐D). Then, we detected the vimentin and β‐catenin protein expression in Trop2 inhibition or TGF‐β1‐induced Trop2‐depleted BGC823/MGC803. We found that when OE‐Trop2 or TGF‐β1 was induced, it could promote β‐catenin nuclear accumulation and vimentin expression in the cell membrane, but shRNA‐Trop2 could <italic toggle="yes">inhibit</italic> expression in MGC803 and BGC823 (Figure <xref rid="cam41934-fig-0003" ref-type="fig">3</xref>E‐H). Thus, Trop2 is required for β‐catenin nuclear accumulation and induced mesenchymal markers expression during the EMT process in GC cell lines.</p><fig fig-type="Figure" xml:lang="en" id="cam41934-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Trop2 positively mediated TGF‐β1‐induced β‐catenin nuclear accumulation by immunofluorescence assay with confocal microscopy (magnification: 400). Vimentin and β‐catenin expressed in MGC803 and OE‐Trop2‐MGC803 group (A and B), BGC823 and shRNA‐Trop2‐BGC823 (C and D). Detected vimentin and β‐catenin expression level of the shRNA‐NC, TGF‐β1 + shRNA‐NC, and TGF‐β1 + shRNA‐Trop2 treated with two types of GC cell lines(E‐H). I, The expression level of β‐catenin in nucleus and cytosol in OE or shRNA‐Trop2 GC cell lines, Lamin B1 as a control in nucleus, β‐actin as a control in cytosol. Mean ± SD, **means compared with NC group, <italic toggle="yes">P</italic> &lt; 0.001 (I). All experiments were carried out in triplicate</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-7" position="float" orientation="portrait" xlink:href="CAM4-8-1135-g003.jpg"/></fig><p>To further detect the relationship of Trop2 and β‐catenin in GC cells, we performed separation technology of nucleus and cytosol. The results indicated that OE‐Trop2 in MGC803 could induce the expression level of β‐catenin in cell nulear, while inhibit that in cell cytosol. And then, shRNA‐Trop2 in BGC823 have the adverse results (Figure <xref rid="cam41934-fig-0003" ref-type="fig">3</xref>I).</p></sec><sec id="cam41934-sec-0016"><label>3.3</label><title>Trop2 depletion inhibits metastasis of GC cell line in vivo</title><p>To assess the effects of shRNA‐Trop2 on the metastasis of the GC cells in vivo, we constructed a tail vein injection transfer model. shRNA‐Trop2 and shRNA‐NC plasmid‐transfected BGC823 cells (1 × 10<sup>6 </sup>cells/mouse) were injected into immunodeficient nude mice tail veins (n = 5/group), then compared with the PBS injected into the tail vein of the control group mice (n = 5/group). After 30 days, the mice were sacrificed, and then, their lungs were examined. The lungs from the mice injected with shRNA‐NC and shRNA‐Trop2 treated with BGC823 cells were larger and heavier than those from PBS control group, and those from shRNA‐NC group were larger and heavier than those from shRNA‐Trop2 group (<italic toggle="yes">P</italic> &lt; 0.05; Figure <xref rid="cam41934-fig-0004" ref-type="fig">4</xref>A). In a representative picture of lungs from shRNA‐NC group and shRNA‐Trop2 group, we detected some micrometastasis (Figure <xref rid="cam41934-fig-0004" ref-type="fig">4</xref>B), moreover, the number of tumor colonies in shRNA‐NC group was higher than that from shRNA‐Trop2 group (<italic toggle="yes">P</italic> &lt; 0.05; Figure <xref rid="cam41934-fig-0004" ref-type="fig">4</xref>C).</p><fig fig-type="Figure" xml:lang="en" id="cam41934-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Trop2 depletion inhibits metastasis of GC cell line in vivo<italic toggle="yes">. </italic>A, The lung from PBS control (n = 5), shRNA‐NC‐BGC823 (n = 5), and shRNA‐Trop2‐BGC823 group (n = 5). B, is the statistic graph of A, columns, mean lung weight (g); Bars, ±SD, *means compared with shRNA‐NC group, <italic toggle="yes">P</italic> &lt; 0.05, **means compared with PBS group, <italic toggle="yes">P</italic> &lt; 0.001, <italic toggle="yes">t</italic> test. C, The representative picture of lung from shRNA‐NC and shRNA‐Trop2 group. The weight of lung harboring metastases was evaluated between control and Trop2 depletion group. D, representatives of hematoxylin staining in lung tissue derived from PBS, shRNA‐NC‐BGC823, and shRNA‐Trop2‐BGC823 injected mice. Ki67, Trop2, and vimentin staining in lung tissue derived from PBS, shRNA‐NC‐BGC823, and shRNA‐Trop2‐BGC823 injected mice</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-9" position="float" orientation="portrait" xlink:href="CAM4-8-1135-g004.jpg"/></fig><p>Then, we further detected the Trop2, vimentin, and ki67 expression in lungs by immunostaining (IHC) analysis. As shown in Figure <xref rid="cam41934-fig-0004" ref-type="fig">4</xref>D, the level of Trop2 and vimentin expression in lungs from the shRNA‐NC group was much higher than those from shRAN‐Trop2. In comparison with that in shRNA‐NC group, the positive rate of ki67 expression was significantly decreased in shRNA‐Trop2 and PBS control group. These results indicated that Trop2 might induce EMT and prompt metastasis in vivo.</p></sec><sec id="cam41934-sec-0017"><label>3.4</label><title>High expression Trop2 and vimentin positively associated with metastasis in human gastric cancer</title><p>Finally, we used IHC analysis to determine whether the expression level of the EMT marker vimentin could have a correlation with that found in the Trop2 in clinical samples. In a previous study, we already found Trop2 expression to be higher in GC tissues than in gastric cancer neighbor tissues by IHC, and that Trop2 is a useful prognostic biomarker for GC<sup>25</sup>. Therefore, in our present study, gastric cancer neighbor tissues (GCN), nonmetastatic gastric cancer (NMGC) tissues, and metastatic gastric cancer tissues (MGC) were collected from patients with gastric cancer. Trop2 and vimentin protein expression was determined in 248 cases of primary GC tissues and 86 cases of matched adjacent tissue by IHC (Table <xref rid="cam41934-tbl-0001" ref-type="table">1</xref>). We observed that highly expressed vimentin was consistent with the high expression of the Trop2 in GC tissues (Table <xref rid="cam41934-tbl-0002" ref-type="table">2</xref>), especially in MGC tissues (Figure <xref rid="cam41934-fig-0005" ref-type="fig">5</xref>). Furthermore, we found that high Trop2 and high vimentin expression in GC was associated with differentiation, TNM stage, distant metastases (Tables <xref rid="cam41934-tbl-0003" ref-type="table">3</xref> and <xref rid="cam41934-tbl-0004" ref-type="table">4</xref>). GC patients with vimentin+ or Trop2+/vimentin+ expression also had poor OS rates (Figure <xref rid="cam41934-fig-0005" ref-type="fig">5</xref>B1‐B2).</p><table-wrap id="cam41934-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>vimentin and Trop2 expression in gastric tissues</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="top" colspan="1">Characteristics</th><th align="left" rowspan="2" valign="top" colspan="1">n</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Vimentin expression</th><th align="left" rowspan="2" valign="top" colspan="1">Pearson <italic toggle="yes">x</italic>
+<sup>2</sup>
+</th><th align="left" rowspan="2" valign="top" colspan="1">
+<italic toggle="yes">P</italic>
+</th><th align="left" rowspan="2" valign="top" colspan="1">Trop2+/vimentin+</th><th align="left" rowspan="2" valign="top" colspan="1">Pearson <italic toggle="yes">x</italic>
+<sup>2</sup>
+</th><th align="left" rowspan="2" valign="top" colspan="1">
+<italic toggle="yes">P</italic>
+</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Low or no</th><th align="left" valign="top" rowspan="1" colspan="1">High</th></tr></thead><tbody><tr><td align="left" colspan="9" rowspan="1">Stomach</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Cancer</td><td align="char" char="." rowspan="1" colspan="1">248</td><td align="char" char="(" rowspan="1" colspan="1">50 (20.16)</td><td align="char" char="(" rowspan="1" colspan="1">198 (79.84)</td><td align="char" char="." rowspan="2" colspan="1">14.246</td><td align="char" char="." rowspan="2" colspan="1">0.014<xref ref-type="fn" rid="cam41934-note-0004">*</xref>
+</td><td align="char" char="(" rowspan="1" colspan="1">142 (83.52)</td><td align="char" char="." rowspan="2" colspan="1">35.867</td><td align="char" char="." rowspan="2" colspan="1">0.002<xref ref-type="fn" rid="cam41934-note-0004">*</xref>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Matched adjacent tissue</td><td align="char" char="." rowspan="1" colspan="1">86</td><td align="char" char="(" rowspan="1" colspan="1">28 (32.56)</td><td align="char" char="(" rowspan="1" colspan="1">58 (67.44)</td><td align="char" char="(" rowspan="1" colspan="1">29 (17.06)</td></tr></tbody></table><table-wrap-foot><fn id="cam41934-note-0003"><p>
+<italic toggle="yes">x</italic>
+<sup>2</sup> and <italic toggle="yes">P</italic> values for stomach overall include all types gastric tissues.</p></fn><fn id="cam41934-note-0004"><label>*</label><p>
+<italic toggle="yes">P </italic>&lt; 0.05.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder></permissions></table-wrap><table-wrap id="cam41934-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Association between expression of Trop2 and vimentin in gastric cancer</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="top" colspan="1">Vimentin expression (%)</th><th align="left" rowspan="2" valign="top" colspan="1">n</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Trop2 expression (%)</th><th align="left" rowspan="2" valign="top" colspan="1">Pearson <italic toggle="yes">x</italic>
+<sup>2</sup>
+</th><th align="left" rowspan="2" valign="top" colspan="1">
+<italic toggle="yes">P</italic>
+</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Low or no</th><th align="left" valign="top" rowspan="1" colspan="1">High</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Low or no</td><td align="char" char="." rowspan="1" colspan="1">80</td><td align="char" char="(" rowspan="1" colspan="1">31 (62.00)</td><td align="char" char="(" rowspan="1" colspan="1">19 (38.00)</td><td align="char" char="." rowspan="2" colspan="1">19.927</td><td align="char" char="." rowspan="2" colspan="1">
+<bold>&lt;0.001</bold>
+<xref ref-type="fn" rid="cam41934-note-0005">*</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">High</td><td align="char" char="." rowspan="1" colspan="1">198</td><td align="char" char="(" rowspan="1" colspan="1">56 (28.28)</td><td align="char" char="(" rowspan="1" colspan="1">142 (71.71)</td></tr></tbody></table><table-wrap-foot><fn id="cam41934-note-0005"><label>*</label><p>
+<italic toggle="yes">P </italic>&lt; 0.05.</p></fn><fn id="cam41934-note-0006"><p>Bold values are statistically significant.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder></permissions></table-wrap><fig fig-type="Figure" xml:lang="en" id="cam41934-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>The expression level of Trop2 and vimentin was positively correlated in GC patients. A, The expression of Trop2 and vimentin was detected in 248 cases of GC patient tissues by IHC. a1‐2, low or no expression of Trop2 in GCN samples (IHC score, 30). b1‐2, high expression of Trop2 in NMGC samples (IHC score, 180).c1‐2, high expression of Trop2 in MGC samples (IHC score, 230). a3‐4, low or no expression of vimentin in GCN samples (IHC score, 100). b3‐4, high expression of vimentin in NMGC samples (IHC score, 150).c3‐4, high expression of vimentin in MGC samples (IHC score, 250). B, Survival curves for gastric cancer using the Kaplan‐Meier method and the log‐rank test. B1, Overall survival curves for patients with low or no expression of vimentin (blue line, 1), high expression of vimentin (green line, 2). B2, Overall survival curves for patients with Trop2−/vimentin−expression (blue line, 1), Trop2+/vimentin− (green line, 2), Trop2−/vimentin+ (gray line, 3), and Trop2+/AREG+ (purple line, 4)</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-11" position="float" orientation="portrait" xlink:href="CAM4-8-1135-g005.jpg"/></fig><table-wrap id="cam41934-tbl-0003" xml:lang="en" orientation="portrait" position="float"><label>Table 3</label><caption><p>Association of high expression of Trop2+/vimentin+ with clinicopathologic characteristics in GC patients</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="top" colspan="1">Characteristics</th><th align="left" rowspan="2" valign="top" colspan="1">n</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Vimentin expression (%)</th><th align="left" rowspan="2" valign="top" colspan="1">Pearson <italic toggle="yes">x</italic>
+<sup>2</sup>
+</th><th align="left" rowspan="2" valign="top" colspan="1">
+<italic toggle="yes">P</italic>
+</th><th align="left" rowspan="2" valign="top" colspan="1">Trop2+/vimentin+</th><th align="left" rowspan="2" valign="top" colspan="1">Pearson <italic toggle="yes">x</italic>
+<sup>2</sup>
+</th><th align="left" rowspan="2" valign="top" colspan="1">
+<italic toggle="yes">P</italic>
+</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Low or no</th><th align="left" valign="top" rowspan="1" colspan="1">High</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Total</td><td align="char" char="." rowspan="1" colspan="1">248</td><td align="char" char="." rowspan="1" colspan="1"/><td align="char" char="." rowspan="1" colspan="1"/><td align="char" char="." rowspan="1" colspan="1"/><td align="char" char="." rowspan="1" colspan="1"/><td align="char" char="(" rowspan="1" colspan="1">
+<bold>141</bold> (<bold>56.85)</bold>
+</td><td align="char" char="." rowspan="1" colspan="1"/><td align="char" char="." rowspan="1" colspan="1"/></tr><tr><td align="left" colspan="9" rowspan="1">Gender</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Male</td><td align="char" char="." rowspan="1" colspan="1">182</td><td align="char" char="(" rowspan="1" colspan="1">37 (20.33)</td><td align="char" char="(" rowspan="1" colspan="1">145 (79.67)</td><td align="char" char="." rowspan="2" colspan="1">
+<bold>0.012</bold>
+<xref ref-type="fn" rid="cam41934-note-0008">*</xref>
+</td><td align="char" char="." rowspan="2" colspan="1">0.913</td><td align="char" char="(" rowspan="1" colspan="1">101 (40.73)</td><td align="char" char="." rowspan="2" colspan="1">2.110</td><td align="char" char="." rowspan="2" colspan="1">0.550</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Female</td><td align="char" char="." rowspan="1" colspan="1">66</td><td align="char" char="(" rowspan="1" colspan="1">13 (19.70)</td><td align="char" char="(" rowspan="1" colspan="1">53 (80.30)</td><td align="char" char="(" rowspan="1" colspan="1">40 (16.13)</td></tr><tr><td align="left" colspan="9" rowspan="1">Age</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&lt;60</td><td align="char" char="." rowspan="1" colspan="1">103</td><td align="char" char="(" rowspan="1" colspan="1">20 (19.42)</td><td align="char" char="(" rowspan="1" colspan="1">83 (80.58)</td><td align="char" char="." rowspan="2" colspan="1">0.061</td><td align="char" char="." rowspan="2" colspan="1">0.806</td><td align="char" char="(" rowspan="1" colspan="1">58 (23.39)</td><td align="char" char="." rowspan="2" colspan="1">4.526</td><td align="char" char="." rowspan="2" colspan="1">0.210</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">≥60</td><td align="char" char="." rowspan="1" colspan="1">145</td><td align="char" char="(" rowspan="1" colspan="1">30 (20.69)</td><td align="char" char="(" rowspan="1" colspan="1">115 (79.31)</td><td align="char" char="(" rowspan="1" colspan="1">84 (33.87)</td></tr><tr><td align="left" colspan="9" rowspan="1">Histological type</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Tubular</td><td align="char" char="." rowspan="1" colspan="1">216</td><td align="char" char="(" rowspan="1" colspan="1">43 (19.91)</td><td align="char" char="(" rowspan="1" colspan="1">173 (80.09)</td><td align="char" char="." rowspan="4" colspan="1">3.783</td><td align="char" char="." rowspan="4" colspan="1">0.286</td><td align="char" char="(" rowspan="1" colspan="1">122 (49.19)</td><td align="char" char="." rowspan="4" colspan="1">6.900</td><td align="char" char="." rowspan="4" colspan="1">0.648</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Mucinous</td><td align="char" char="." rowspan="1" colspan="1">17</td><td align="char" char="(" rowspan="1" colspan="1">3 (17.65)</td><td align="char" char="(" rowspan="1" colspan="1">14 (82.35)</td><td align="char" char="(" rowspan="1" colspan="1">11 (4.44)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Signet ring cell</td><td align="char" char="." rowspan="1" colspan="1">10</td><td align="char" char="(" rowspan="1" colspan="1">4 (40.00)</td><td align="char" char="(" rowspan="1" colspan="1">6 (60.00)</td><td align="char" char="(" rowspan="1" colspan="1">5 (2.02)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Others<xref ref-type="fn" rid="cam41934-note-0007">a</xref>
+</td><td align="char" char="." rowspan="1" colspan="1">5</td><td align="char" char="(" rowspan="1" colspan="1">0 (0.00)</td><td align="char" char="(" rowspan="1" colspan="1">5 (100.00)</td><td align="char" char="(" rowspan="1" colspan="1">3 (1.21)</td></tr><tr><td align="left" colspan="9" rowspan="1">Differentiation</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Well</td><td align="char" char="." rowspan="1" colspan="1">23</td><td align="char" char="(" rowspan="1" colspan="1">7 (30.43)</td><td align="char" char="(" rowspan="1" colspan="1">16 (69.57)</td><td align="char" char="." rowspan="3" colspan="1">2.884</td><td align="char" char="." rowspan="3" colspan="1">0.236</td><td align="char" char="(" rowspan="1" colspan="1">9 (3.63)</td><td align="char" char="." rowspan="3" colspan="1">12.759</td><td align="char" char="." rowspan="3" colspan="1">
+<bold>0.047</bold>
+<xref ref-type="fn" rid="cam41934-note-0008">*</xref>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Moderate</td><td align="char" char="." rowspan="1" colspan="1">57</td><td align="char" char="(" rowspan="1" colspan="1">8 (14.04)</td><td align="char" char="(" rowspan="1" colspan="1">49 (85.96)</td><td align="char" char="(" rowspan="1" colspan="1">41 (16.53)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Poor</td><td align="char" char="." rowspan="1" colspan="1">168</td><td align="char" char="(" rowspan="1" colspan="1">35 (20.83)</td><td align="char" char="(" rowspan="1" colspan="1">133 (79.17)</td><td align="char" char="(" rowspan="1" colspan="1">91 (36.69)</td></tr><tr><td align="left" colspan="9" rowspan="1">TNM stage</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">0</td><td align="char" char="." rowspan="1" colspan="1">13</td><td align="char" char="(" rowspan="1" colspan="1">6 (46.15)</td><td align="char" char="(" rowspan="1" colspan="1">7 (53.85)</td><td align="char" char="." rowspan="3" colspan="1">7.258</td><td align="char" char="." rowspan="3" colspan="1">
+<bold>0.027</bold>
+<xref ref-type="fn" rid="cam41934-note-0008">*</xref>
+</td><td align="char" char="(" rowspan="1" colspan="1">3 (1.21)</td><td align="char" char="." rowspan="3" colspan="1">15.503</td><td align="char" char="." rowspan="3" colspan="1">
+<bold>0.017</bold>
+<xref ref-type="fn" rid="cam41934-note-0008">*</xref>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">I + II</td><td align="char" char="." rowspan="1" colspan="1">135</td><td align="char" char="(" rowspan="1" colspan="1">29 (21.48)</td><td align="char" char="(" rowspan="1" colspan="1">106 (78.52)</td><td align="char" char="(" rowspan="1" colspan="1">71 (28.63)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">III + IV</td><td align="char" char="." rowspan="1" colspan="1">100</td><td align="char" char="(" rowspan="1" colspan="1">15 (15.00)</td><td align="char" char="(" rowspan="1" colspan="1">85 (85.00)</td><td align="char" char="(" rowspan="1" colspan="1">67 (27.02)</td></tr><tr><td align="left" colspan="9" rowspan="1">Tumor size</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">T0</td><td align="char" char="." rowspan="1" colspan="1">58</td><td align="char" char="(" rowspan="1" colspan="1">15 (25.86)</td><td align="char" char="(" rowspan="1" colspan="1">43 (74.14)</td><td align="char" char="." rowspan="3" colspan="1">1.535</td><td align="char" char="." rowspan="3" colspan="1">0.464</td><td align="char" char="(" rowspan="1" colspan="1">28 (10.08)</td><td align="char" char="." rowspan="3" colspan="1">8.616</td><td align="char" char="." rowspan="3" colspan="1">0.196</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">T1a + T1b + T2</td><td align="char" char="." rowspan="1" colspan="1">39</td><td align="char" char="(" rowspan="1" colspan="1">7 (17.95)</td><td align="char" char="(" rowspan="1" colspan="1">32 (82.05)</td><td align="char" char="(" rowspan="1" colspan="1">21 (8.47)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">T3 + T4a + T4b</td><td align="char" char="." rowspan="1" colspan="1">151</td><td align="char" char="(" rowspan="1" colspan="1">28 (18.54)</td><td align="char" char="(" rowspan="1" colspan="1">123 (81.46)</td><td align="char" char="(" rowspan="1" colspan="1">92 (37.10)</td></tr><tr><td align="left" colspan="9" rowspan="1">Distant metastases</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">M0</td><td align="char" char="." rowspan="1" colspan="1">88</td><td align="char" char="(" rowspan="1" colspan="1">40 (45.45)</td><td align="char" char="(" rowspan="1" colspan="1">48 (54.55)</td><td align="char" char="." rowspan="2" colspan="1">54.212</td><td align="char" char="." rowspan="2" colspan="1">
+<bold>&lt;0.001</bold>
+<xref ref-type="fn" rid="cam41934-note-0008">*</xref>
+</td><td align="char" char="(" rowspan="1" colspan="1">32 (12.90)</td><td align="char" char="." rowspan="2" colspan="1">52.369</td><td align="char" char="." rowspan="2" colspan="1">
+<bold>&lt;0.001</bold>
+<xref ref-type="fn" rid="cam41934-note-0008">*</xref>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">M1</td><td align="char" char="." rowspan="1" colspan="1">160</td><td align="char" char="(" rowspan="1" colspan="1">10 (6.25)</td><td align="char" char="(" rowspan="1" colspan="1">150 (93.75)</td><td align="char" char="(" rowspan="1" colspan="1">109 (43.95)</td></tr></tbody></table><table-wrap-foot><fn id="cam41934-note-0007"><label>a</label><p>others include pallipary adenocarcinoma, 3 cases; adeno‐squamous carcinoma, 2 cases; and neuroendocrine carcinoma, 1 case.</p></fn><fn id="cam41934-note-0008"><label>*</label><p>
+<italic toggle="yes">P </italic>&lt; 0.05.</p></fn><fn id="cam41934-note-0009"><p>Bold values are statistically significant.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder></permissions></table-wrap><table-wrap id="cam41934-tbl-0004" xml:lang="en" orientation="portrait" position="float"><label>Table 4</label><caption><p>Univariate and multivariate analysis of prognostic markers for overall survival in gastric cancer</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="top" colspan="1"/><th align="left" colspan="3" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Univariate analysis</th><th align="left" colspan="3" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Multivariate analysis</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">HR</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">P </italic>&gt; |<italic toggle="yes">z</italic>|</th><th align="left" valign="top" rowspan="1" colspan="1">95% CI</th><th align="left" valign="top" rowspan="1" colspan="1">HR</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">P </italic>&gt; |<italic toggle="yes">z</italic>|</th><th align="left" valign="top" rowspan="1" colspan="1">95% CI</th></tr></thead><tbody><tr><td align="left" colspan="7" rowspan="1">Vimentin expression</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">High vs Low or no</td><td align="char" char="." rowspan="1" colspan="1">2.167</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>0.017</bold>
+<xref ref-type="fn" rid="cam41934-note-0009">
+<bold>*</bold>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">1.151‐4.079</td><td align="char" char="." rowspan="1" colspan="1">—</td><td align="char" char="." rowspan="1" colspan="1">—</td><td align="left" rowspan="1" colspan="1">—</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Trop2+/vimentin+ vs Trop2−/vimentin−</td><td align="char" char="." rowspan="1" colspan="1">1.603</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>&lt;0.001</bold>
+<xref ref-type="fn" rid="cam41934-note-0009">
+<bold>*</bold>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">1.272‐2.019</td><td align="char" char="." rowspan="1" colspan="1">1.544</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>0.007</bold>
+<xref ref-type="fn" rid="cam41934-note-0009">
+<bold>*</bold>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">1.125‐2.119</td></tr><tr><td align="left" colspan="7" rowspan="1">Age</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&lt;60 vs ≥60</td><td align="char" char="." rowspan="1" colspan="1">0.629</td><td align="char" char="." rowspan="1" colspan="1">0.074</td><td align="left" rowspan="1" colspan="1">0.378‐1.947</td><td align="char" char="." rowspan="1" colspan="1">—</td><td align="char" char="." rowspan="1" colspan="1">—</td><td align="left" rowspan="1" colspan="1">—</td></tr><tr><td align="left" colspan="7" rowspan="1">Gender</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Male vs Female</td><td align="char" char="." rowspan="1" colspan="1">1.238</td><td align="char" char="." rowspan="1" colspan="1">0.463</td><td align="left" rowspan="1" colspan="1">0.700‐2.191</td><td align="char" char="." rowspan="1" colspan="1">—</td><td align="char" char="." rowspan="1" colspan="1">—</td><td align="left" rowspan="1" colspan="1">—</td></tr><tr><td align="left" colspan="7" rowspan="1">Histological type</td></tr><tr><td align="left" rowspan="1" colspan="1">Tubular vs Mucinous vs signet ring cells vs others<xref ref-type="fn" rid="cam41934-note-0010">a</xref>
+</td><td align="char" char="." rowspan="1" colspan="1">0.776</td><td align="char" char="." rowspan="1" colspan="1">0.233</td><td align="left" rowspan="1" colspan="1">0.511‐1.178</td><td align="char" char="." rowspan="1" colspan="1">—</td><td align="char" char="." rowspan="1" colspan="1">—</td><td align="left" rowspan="1" colspan="1">—</td></tr><tr><td align="left" colspan="7" rowspan="1">Differentiation</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Well vs Moderate vs Poor</td><td align="char" char="." rowspan="1" colspan="1">2.244</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>&lt;0.001</bold>
+<xref ref-type="fn" rid="cam41934-note-0009">
+<bold>*</bold>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">1.481‐3.400</td><td align="char" char="." rowspan="1" colspan="1">—</td><td align="char" char="." rowspan="1" colspan="1">—</td><td align="left" rowspan="1" colspan="1">—</td></tr><tr><td align="left" colspan="7" rowspan="1">TNM stage</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">0 vs Ia + Ib vs IIa + IIb vs IIIa + IIIb vs IIIc + IV</td><td align="char" char="." rowspan="1" colspan="1">6.949</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>&lt;0.001</bold>
+<xref ref-type="fn" rid="cam41934-note-0009">
+<bold>*</bold>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">3.931‐12.285</td><td align="char" char="." rowspan="1" colspan="1">5.731</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>&lt;0.001</bold>
+<xref ref-type="fn" rid="cam41934-note-0009">
+<bold>*</bold>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">3.143‐10.452</td></tr><tr><td align="left" colspan="7" rowspan="1">Tumor size</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">T0 vs T1a + T1b + T2 vs T3 + T4a + T4b</td><td align="char" char="." rowspan="1" colspan="1">2.387</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>&lt;0.001</bold>
+<xref ref-type="fn" rid="cam41934-note-0009">
+<bold>*</bold>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">1.721‐3.310</td><td align="char" char="." rowspan="1" colspan="1">—</td><td align="char" char="." rowspan="1" colspan="1">—</td><td align="left" rowspan="1" colspan="1">—</td></tr><tr><td align="left" colspan="7" rowspan="1">Distant metastases</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">M0 vs M1</td><td align="char" char="." rowspan="1" colspan="1">2.297</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>0.002</bold>
+<xref ref-type="fn" rid="cam41934-note-0009">
+<bold>*</bold>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">1.351‐3.905</td><td align="char" char="." rowspan="1" colspan="1">—</td><td align="char" char="." rowspan="1" colspan="1">—</td><td align="left" rowspan="1" colspan="1">—</td></tr></tbody></table><table-wrap-foot><fn id="cam41934-note-0010"><label>a</label><p>Others include pallipary adenocarcinoma, 3 cases; adeno‐squamous carcinoma, 2 cases; and neuroendocrine carcinoma, 1 case.</p></fn><fn id="cam41934-note-0011"><label>*</label><p>
+<italic toggle="yes">P</italic> &lt; 0.05.</p></fn><fn id="cam41934-note-0012"><p>Bold values are statistically significant.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder></permissions></table-wrap></sec></sec><sec id="cam41934-sec-0018"><label>4</label><title>DISCUSSION</title><p>China has more GC patients than any other country and due to high rate of migration, invasion, and drug‐resistance, and currently, patients in an advanced stage of the GC have a poor survival rate.<xref rid="cam41934-bib-0027" ref-type="ref">27</xref>, <xref rid="cam41934-bib-0028" ref-type="ref">28</xref> Epithelial‐mesenchymal transition (EMT) is a phenomenon in which epithelial cells change into mesenchymal cells in both normal or pathological conditions and more, and more research indicates that the EMT phenomenon has an important role in the transition from early to invasive carcinomas.<xref rid="cam41934-bib-0029" ref-type="ref">29</xref>, <xref rid="cam41934-bib-0030" ref-type="ref">30</xref> Multilayer cellular structures’ normal epithelial organization is not conductive to the migration and invasion of malignant tumor cells.<xref rid="cam41934-bib-0031" ref-type="ref">31</xref>, <xref rid="cam41934-bib-0032" ref-type="ref">32</xref> So, through the EMT phenomenon, tumor cells lose epithelial phenotype but obtain a mesenchymal phenotype.<xref rid="cam41934-bib-0033" ref-type="ref">33</xref> In our present study, we found that Trop2 was able to induce the EMT phenomenon in gastric cancer cell lines. It has been previously shown that Trop2 drives hyperplasia and stem cell self‐renewal through beta‐catenin signaling pathway,<xref rid="cam41934-bib-0034" ref-type="ref">34</xref> and this opinion concurs with the findings of this study.</p><p>It also be reported that Trop2 is not up‐expressed in the lung adenocarcinoma<xref rid="cam41934-bib-0012" ref-type="ref">12</xref>; furthermore, Wang et al<xref rid="cam41934-bib-0017" ref-type="ref">17</xref> also reported that loss of Trop2 in squamous cell carcinoma fail to inhibit keratinocyte transformation, which lead to keratinocytes to pass through EMT and tumor formation. The research that both gain and loss of Trop2 function stimulate strong phenotypes indicated that this protein possesses a pleiotropic mechanism of action and potent signaling activities.</p><p>As one of the core factors of the Wnt signal pathway, β‐catenin widely exists in all kinds of cells and has multiple functions.<xref rid="cam41934-bib-0035" ref-type="ref">35</xref>, <xref rid="cam41934-bib-0036" ref-type="ref">36</xref> β‐catenin mainly exists in the membrane of cells and to a lesser extent in the cytoplasm of cells. Its main function being the regulation of intercellular adhesion and is also involved in the expression of genes.<xref rid="cam41934-bib-0037" ref-type="ref">37</xref> The level of expression of β‐catenin also directly impacts the activation of the Wnt signal pathway.<xref rid="cam41934-bib-0038" ref-type="ref">38</xref> When the degradation of β‐catenin becomes an obstacle, too much β‐catenin accumulates in the endonuclear membrane leading to cancer via an abnormal activation of the Wnt signal pathway.<xref rid="cam41934-bib-0039" ref-type="ref">39</xref> In 2012, Tanya et al reported that the function of Trop2 requires the presence of β‐catenin in nucleus. Overexpression of Trop2 induced cyclin D1 and c‐myc expression, which is the downstream target of β‐catenin. Furthermore, they demonstrated that Trop2 could drive cell sphere formation and hyperplasia only in the presence of β‐catenin in vitro and in vivo.<xref rid="cam41934-bib-0034" ref-type="ref">34</xref> Gene ontology analysis reported that Trop2 impacts Wnt/β‐catenin, TGF‐β, and phosphoinositide 3‐kinase (PI3K) pathways; all have important functions in tumorigenesis.<xref rid="cam41934-bib-0040" ref-type="ref">40</xref>, <xref rid="cam41934-bib-0041" ref-type="ref">41</xref>, <xref rid="cam41934-bib-0042" ref-type="ref">42</xref> In our study, we investigated whether Trop2 could upregulate the expression of the mesenchymal phenotypic (vimentin and fibronectin) and downregulate the epithelial phenotypic (E‐cadherin) and we also investigated whether Trop2 is involved in β‐catenin/TGF‐β1‐mediated EMT. Trop2 and EMT regulators β‐catenin were also involved in the overexpression in EMT model cell lines. Trop2 is physically associated with β‐catenin to induce EMT phenomenon by co‐immunoprecipitation. Trop2 knockdown reduces the protein expression of the vimentin and β‐catenin. Moreover, OE‐Trop2 induces the nuclear accumulation of β‐catenin; meanwhile, TGF‐β1 mediates the nuclear accumulation of β‐catenin, which is also diminished by Trop2 inhibition.</p><p>The above results indicate that Trop2 is involved in β‐catenin/TGF‐β1‐mediated EMT in GC. Collectively, our results indicate intricate mechanisms, in which Trop2 regulates the transcription of β‐catenin target genes and EMT, while Trop2 facilitates the transcription of β‐catenin target gene, but moreover promotes the nuclear translocation and accumulation of β‐catenin, thereby increasing its transcription activity.</p><p>As is known, EMT endows cells with the properties of being migratory and invasive and accelerates stem cell properties, promotes immunosuppression and deters apoptosis and senescence.<xref rid="cam41934-bib-0043" ref-type="ref">43</xref>, <xref rid="cam41934-bib-0044" ref-type="ref">44</xref> Thus, the mesenchymal program is associated with the capacity of cells that can migrate to distant organs and initiate metastasis.<xref rid="cam41934-bib-0045" ref-type="ref">45</xref> There have been reports that β‐catenin nuclear accumulation is a hallmark of β‐catenin transcriptional activation.<xref rid="cam41934-bib-0023" ref-type="ref">23</xref>, <xref rid="cam41934-bib-0046" ref-type="ref">46</xref> However, it is still unclear how Trop2 regulates the nuclear translocation of β‐catenin and the detailed regulatory mechanism needs to be further researched.</p><p>In our studies, we also found snail overexpression (apart from Trop2 and β‐catenin) in the TGF‐β1‐induced EMT model cell lines. Therefore, it is likely that other signal pathways maybe involved in Trop2 in association with the β‐catenin regulation EMT mechanism. It was also reported that snail promotes Wnt target gene expression and interacts with β‐catenin, so we speculate that snail perhaps has a similar role in the EMT program, but in order to elucidate the mechanism, further study is needed. Furthermore, we also found vimentin highly expressed in GC tissues, compared with that of the gastric cancer neighbor tissues, which is in accordance with viewpoint of the Ruixia Xie et al.<xref rid="cam41934-bib-0047" ref-type="ref">47</xref> Trop2+/vimentin+ co‐expression was associated with poor prognosis and may be regarded as useful prognostic biomarker in GC.</p><p>Recent evidence suggests Trop2 is a regulator of self‐renewal, proliferation, and transformation. However, the molecular mechanism of Trop2 in tumor metastasis and progression is still unclear. In this study, we show that Trop2 positively promotes EMT phenomenon through binding to β‐catenin, thereby forming a positive feedback loop for to amplify the EMT phenomenon.</p></sec><sec sec-type="COI-statement" id="cam41934-sec-0019"><title>CONFLICT OF INTEREST</title><p>The authors have declared that no competing financial interests exist.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="cam41934-sup-0001" position="float" orientation="portrait"><caption><p> </p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CAM4-8-1135-s001.docx" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ref-list content-type="cited-references" id="cam41934-bibl-0001"><title>REFERENCES</title><ref id="cam41934-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="cam41934-cit-0001">
+<string-name name-style="western">
+<surname>Du</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jin</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>The association analysis of lncRNA HOTAIR genetic variants and gastric cancer risk in a Chinese population</article-title>. <source xml:lang="en">Oncotarget</source>. <year>2015</year>;<volume>6</volume>:<fpage>31255</fpage>‐<lpage>31262</lpage>.<pub-id pub-id-type="pmid">26384301</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.18632/oncotarget.5158</pub-id><pub-id pub-id-type="pmcid">PMC4741602</pub-id></mixed-citation></ref><ref id="cam41934-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="cam41934-cit-0002">
+<string-name name-style="western">
+<surname>Bray</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ferlay</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Soerjomataram</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Siegel</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Torre</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jemal</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Global cancer statistics 2018: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries</article-title>. <source xml:lang="en">CA Cancer J Clin</source>. <year>2018</year>;<volume>68</volume>(<issue>6</issue>):<fpage>394</fpage>‐<lpage>424</lpage>.<pub-id pub-id-type="pmid">30207593</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3322/caac.21492</pub-id></mixed-citation></ref><ref id="cam41934-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="cam41934-cit-0003">
+<string-name name-style="western">
+<surname>Wang</surname>
+<given-names>ZS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shen</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>X</given-names>
+</string-name>, et al. <article-title>Significance and prognostic value of Gli‐1 and Snail/E‐cadherin expression in progressive gastric cancer</article-title>. <source xml:lang="en">Tumour Biol</source>. <year>2014</year>;<volume>35</volume>:<fpage>1357</fpage>‐<lpage>1363</lpage>.<pub-id pub-id-type="pmid">24081672</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s13277-013-1185-1</pub-id></mixed-citation></ref><ref id="cam41934-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="cam41934-cit-0004">
+<string-name name-style="western">
+<surname>Yoon</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kim</surname>
+<given-names>N</given-names>
+</string-name>. <article-title>Diagnosis and management of high risk group for gastric cancer</article-title>. <source xml:lang="en">Gut Liv</source>. <year>2015</year>;<volume>9</volume>:<fpage>5</fpage>‐<lpage>17</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.5009/gnl14118</pub-id><pub-id pub-id-type="pmcid">PMC4282848</pub-id><pub-id pub-id-type="pmid">25547086</pub-id></mixed-citation></ref><ref id="cam41934-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="cam41934-cit-0005">
+<string-name name-style="western">
+<surname>Sue</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shibata</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maeda</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Helicobacter pylori‐induced signaling pathways contribute to intestinal metaplasia and gastric carcinogenesis</article-title>. <source xml:lang="en">Biomed Res Int</source>. <year>2015</year>;<volume>2015</volume>:<fpage>737621</fpage>.<pub-id pub-id-type="pmid">26064948</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1155/2015/737621</pub-id><pub-id pub-id-type="pmcid">PMC4441984</pub-id></mixed-citation></ref><ref id="cam41934-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="cam41934-cit-0006">
+<string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gu</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>Q</given-names>
+</string-name>, et al. <article-title>Genetic variation in C12orf51 is associated with prognosis of intestinal‐type gastric cancer in a Chinese population</article-title>. <source xml:lang="en">Biomed Pharmacother</source>. <year>2015</year>;<volume>69</volume>:<fpage>133</fpage>‐<lpage>138</lpage>.<pub-id pub-id-type="pmid">25661349</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.biopha.2014.11.009</pub-id></mixed-citation></ref><ref id="cam41934-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="cam41934-cit-0007">
+<string-name name-style="western">
+<surname>Wanger</surname>
+<given-names>TM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dewitt</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Collins</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maitland</surname>
+<given-names>NJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Poghosyan</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Knauper</surname>
+<given-names>V</given-names>
+</string-name>. <article-title>Differential regulation of TROP2 release by PKC isoforms through vesicles and ADAM17</article-title>. <source xml:lang="en">Cell Signal</source>. <year>2015</year>;<volume>27</volume>:<fpage>1325</fpage>‐<lpage>1335</lpage>.<pub-id pub-id-type="pmid">25817572</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cellsig.2015.03.017</pub-id></mixed-citation></ref><ref id="cam41934-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="cam41934-cit-0008">
+<string-name name-style="western">
+<surname>Cubas</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yao</surname>
+<given-names>Q</given-names>
+</string-name>. <article-title>Trop2: a possible therapeutic target for late stage epithelial carcinomas</article-title>. <source xml:lang="en">Biochim Biophys Acta</source>. <year>2009</year>;<volume>1796</volume>:<fpage>309</fpage>‐<lpage>314</lpage>.<pub-id pub-id-type="pmid">19683559</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bbcan.2009.08.001</pub-id></mixed-citation></ref><ref id="cam41934-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="cam41934-cit-0009">
+<string-name name-style="western">
+<surname>Huang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Groth</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sossey‐Alaoui</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hawthorn</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Beall</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Geradts</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Aberrant expression of novel and previously described cell membrane markers in human breast cancer cell lines and tumors</article-title>. <source xml:lang="en">Clin Cancer Res</source>. <year>2005</year>;<volume>11</volume>:<fpage>4357</fpage>‐<lpage>4364</lpage>.<pub-id pub-id-type="pmid">15958618</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/1078-0432.CCR-04-2107</pub-id></mixed-citation></ref><ref id="cam41934-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="cam41934-cit-0010">
+<string-name name-style="western">
+<surname>Tsujikawa</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kurahashi</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tanaka</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>Identification of the gene responsible for gelatinous drop‐like corneal dystrophy</article-title>. <source xml:lang="en">Nat Genet</source>. <year>1999</year>;<volume>21</volume>:<fpage>420</fpage>‐<lpage>423</lpage>.<pub-id pub-id-type="pmid">10192395</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/7759</pub-id></mixed-citation></ref><ref id="cam41934-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="cam41934-cit-0011">
+<string-name name-style="western">
+<surname>Shvartsur</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bonavida</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>Trop2 and its overexpression in cancers: regulation and clinical/therapeutic implications</article-title>. <source xml:lang="en">Genes Cancer</source>. <year>2015</year>;<volume>6</volume>:<fpage>84</fpage>‐<lpage>105</lpage>.<pub-id pub-id-type="pmid">26000093</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.18632/genesandcancer.40</pub-id><pub-id pub-id-type="pmcid">PMC4426947</pub-id></mixed-citation></ref><ref id="cam41934-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="cam41934-cit-0012">
+<string-name name-style="western">
+<surname>Lin</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>YY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>JY</given-names>
+</string-name>, et al. <article-title>TROP2 is epigenetically inactivated and modulates IGF‐1R signalling in lung adenocarcinoma</article-title>. <source xml:lang="en">EMBO Mol Med</source>. <year>2012</year>;<volume>4</volume>:<fpage>472</fpage>‐<lpage>485</lpage>.<pub-id pub-id-type="pmid">22419550</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/emmm.201200222</pub-id><pub-id pub-id-type="pmcid">PMC3443948</pub-id></mixed-citation></ref><ref id="cam41934-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="cam41934-cit-0013">
+<string-name name-style="western">
+<surname>Fong</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Spizzo</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gostner</surname>
+<given-names>JM</given-names>
+</string-name>, et al. <article-title>TROP2: a novel prognostic marker in squamous cell carcinoma of the oral cavity</article-title>. <source xml:lang="en">Mod Pathol</source>. <year>2008</year>;<volume>21</volume>:<fpage>186</fpage>‐<lpage>191</lpage>.<pub-id pub-id-type="pmid">18084248</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/modpathol.3801001</pub-id></mixed-citation></ref><ref id="cam41934-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="cam41934-cit-0014">
+<string-name name-style="western">
+<surname>Muhlmann</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Spizzo</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gostner</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>TROP2 expression as prognostic marker for gastric carcinoma</article-title>. <source xml:lang="en">J Clin Pathol</source>. <year>2009</year>;<volume>62</volume>:<fpage>152</fpage>‐<lpage>158</lpage>.<pub-id pub-id-type="pmid">18930986</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/jcp.2008.060590</pub-id></mixed-citation></ref><ref id="cam41934-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="cam41934-cit-0015">
+<string-name name-style="western">
+<surname>Wu</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Potential therapeutic target and independent prognostic marker of TROP2 in laryngeal squamous cell carcinoma</article-title>. <source xml:lang="en">Head Neck</source>. <year>2013</year>;<volume>35</volume>:<fpage>1373</fpage>‐<lpage>1378</lpage>.<pub-id pub-id-type="pmid">22987366</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/hed.23138</pub-id></mixed-citation></ref><ref id="cam41934-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="cam41934-cit-0016">
+<string-name name-style="western">
+<surname>Ju</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jiao</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ertel</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Oncogene induces Trop2 proteolytic activation via cyclin D1</article-title>. <source xml:lang="en">Cancer Res</source>. <year>2016</year>;<volume>76</volume>:<fpage>6723</fpage>‐<lpage>6734</lpage>.<pub-id pub-id-type="pmid">27634768</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/0008-5472.CAN-15-3327</pub-id><pub-id pub-id-type="pmcid">PMC5330252</pub-id></mixed-citation></ref><ref id="cam41934-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="cam41934-cit-0017">
+<string-name name-style="western">
+<surname>Wang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Grabowska</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Loss of Trop2 promotes carcinogenesis and features of epithelial to mesenchymal transition in squamous cell carcinoma</article-title>. <source xml:lang="en">Mol Cancer Res</source>. <year>2011</year>;<volume>9</volume>:<fpage>1686</fpage>‐<lpage>1695</lpage>.<pub-id pub-id-type="pmid">21970857</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/1541-7786.MCR-11-0241</pub-id><pub-id pub-id-type="pmcid">PMC3243826</pub-id></mixed-citation></ref><ref id="cam41934-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="cam41934-cit-0018">
+<string-name name-style="western">
+<surname>Zeng</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>MB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>LN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tang</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>CY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lu</surname>
+<given-names>PH</given-names>
+</string-name>. <article-title>Impact of TROP2 expression on prognosis in solid tumors: a systematic review and meta‐analysis</article-title>. <source xml:lang="en">Sci Rep</source>. <year>2016</year>;<volume>6</volume>:<fpage>33658</fpage>.<pub-id pub-id-type="pmid">27645103</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/srep33658</pub-id><pub-id pub-id-type="pmcid">PMC5028884</pub-id></mixed-citation></ref><ref id="cam41934-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="cam41934-cit-0019">
+<string-name name-style="western">
+<surname>Chaffer</surname>
+<given-names>CL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Weinberg</surname>
+<given-names>RA</given-names>
+</string-name>. <article-title>A perspective on cancer cell metastasis</article-title>. <source xml:lang="en">Science</source>. <year>2011</year>;<volume>331</volume>:<fpage>1559</fpage>‐<lpage>1564</lpage>.<pub-id pub-id-type="pmid">21436443</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/science.1203543</pub-id></mixed-citation></ref><ref id="cam41934-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="cam41934-cit-0020">
+<string-name name-style="western">
+<surname>Hennessy</surname>
+<given-names>BT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gonzalez‐Angulo</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stemke‐Hale</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Characterization of a naturally occurring breast cancer subset enriched in epithelial‐to‐mesenchymal transition and stem cell characteristics</article-title>. <source xml:lang="en">Cancer Res</source>. <year>2009</year>;<volume>69</volume>:<fpage>4116</fpage>‐<lpage>4124</lpage>.<pub-id pub-id-type="pmid">19435916</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/0008-5472.CAN-08-3441</pub-id><pub-id pub-id-type="pmcid">PMC2737191</pub-id></mixed-citation></ref><ref id="cam41934-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="cam41934-cit-0021">
+<string-name name-style="western">
+<surname>Thiery</surname>
+<given-names>JP</given-names>
+</string-name>. <article-title>Epithelial‐mesenchymal transitions in tumour progression</article-title>. <source xml:lang="en">Nat Rev Cancer</source>. <year>2002</year>;<volume>2</volume>:<fpage>442</fpage>‐<lpage>454</lpage>.<pub-id pub-id-type="pmid">12189386</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nrc822</pub-id></mixed-citation></ref><ref id="cam41934-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="cam41934-cit-0022">
+<string-name name-style="western">
+<surname>Chaudhury</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cheema</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fachini</surname>
+<given-names>JM</given-names>
+</string-name>, et al. <article-title>CELF1 is a central node in post‐transcriptional regulatory programmes underlying EMT</article-title>. <source xml:lang="en">Nat Commun</source>. <year>2016</year>;<volume>7</volume>:<fpage>13362</fpage>.<pub-id pub-id-type="pmid">27869122</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/ncomms13362</pub-id><pub-id pub-id-type="pmcid">PMC5121338</pub-id></mixed-citation></ref><ref id="cam41934-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="cam41934-cit-0023">
+<string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zang</surname>
+<given-names>W</given-names>
+</string-name>, et al. <article-title>JMJD2B promotes epithelial‐mesenchymal transition by cooperating with beta‐catenin and enhances gastric cancer metastasis</article-title>. <source xml:lang="en">Clin Cancer Res</source>. <year>2013</year>;<volume>19</volume>:<fpage>6419</fpage>‐<lpage>6429</lpage>.<pub-id pub-id-type="pmid">24077348</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/1078-0432.CCR-13-0254</pub-id></mixed-citation></ref><ref id="cam41934-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="cam41934-cit-0024">
+<string-name name-style="western">
+<surname>Li</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhong</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>The integrated pathway of TGFbeta/Snail with TNFalpha/NFkappaB may facilitate the tumor‐stroma interaction in the EMT process and colorectal cancer prognosis</article-title>. <source xml:lang="en">Sci Rep</source>. <year>2017</year>;<volume>7</volume>:<fpage>4915</fpage>.<pub-id pub-id-type="pmid">28687755</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41598-017-05280-6</pub-id><pub-id pub-id-type="pmcid">PMC5501852</pub-id></mixed-citation></ref><ref id="cam41934-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="cam41934-cit-0025">
+<string-name name-style="western">
+<surname>Chen</surname>
+<given-names>MB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>HF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhan</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Prognostic value of TROP2 expression in patients with gallbladder cancer</article-title>. <source xml:lang="en">Tumour Biol</source>. <year>2014</year>;<volume>35</volume>:<fpage>11565</fpage>‐<lpage>11569</lpage>.<pub-id pub-id-type="pmid">25135430</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s13277-014-2469-9</pub-id></mixed-citation></ref><ref id="cam41934-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="cam41934-cit-0026">
+<string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kuai</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>X</given-names>
+</string-name>, et al. <article-title>Trop2 is a potential biomarker for the promotion of EMT in human breast cancer</article-title>. <source xml:lang="en">Oncol Rep</source>. <year>2018</year>;<volume>40</volume>:<fpage>759</fpage>‐<lpage>766</lpage>.<pub-id pub-id-type="pmid">29901160</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3892/or.2018.6496</pub-id></mixed-citation></ref><ref id="cam41934-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="cam41934-cit-0027">
+<string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhu</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Trop2 is overexpressed in gastric cancer and predicts poor prognosis</article-title>. <source xml:lang="en">Oncotarget</source>. <year>2016</year>;<volume>7</volume>:<fpage>6136</fpage>‐<lpage>6145</lpage>.<pub-id pub-id-type="pmid">26716416</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.18632/oncotarget.6733</pub-id><pub-id pub-id-type="pmcid">PMC4868745</pub-id></mixed-citation></ref><ref id="cam41934-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="cam41934-cit-0028">
+<string-name name-style="western">
+<surname>Diao</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cheng</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Song</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dang</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>D‐dimer is an essential accompaniment of circulating tumor cells in gastric cancer</article-title>. <source xml:lang="en">BMC Cancer</source>. <year>2017</year>;<volume>17</volume>:<fpage>56</fpage>.<pub-id pub-id-type="pmid">28086824</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12885-016-3043-1</pub-id><pub-id pub-id-type="pmcid">PMC5237231</pub-id></mixed-citation></ref><ref id="cam41934-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="cam41934-cit-0029">
+<string-name name-style="western">
+<surname>Somarelli</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shetler</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jolly</surname>
+<given-names>MK</given-names>
+</string-name>, et al. <article-title>Mesenchymal‐epithelial transition in sarcomas is controlled by the combinatorial expression of MicroRNA 200s and GRHL2</article-title>. <source xml:lang="en">Mol Cell Biol</source>. <year>2016</year>;<volume>36</volume>:<fpage>2503</fpage>‐<lpage>2513</lpage>.<pub-id pub-id-type="pmid">27402864</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1128/MCB.00373-16</pub-id><pub-id pub-id-type="pmcid">PMC5021378</pub-id></mixed-citation></ref><ref id="cam41934-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="cam41934-cit-0030">
+<string-name name-style="western">
+<surname>Wei</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>ZNF143 enhances metastasis of gastric cancer by promoting the process of EMT through PI3K/AKT signaling pathway</article-title>. <source xml:lang="en">Tumour Biol</source>. <year>2016</year>;<volume>37</volume>:<fpage>12813</fpage>‐<lpage>12821</lpage>.<pub-id pub-id-type="pmid">27449034</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s13277-016-5239-z</pub-id></mixed-citation></ref><ref id="cam41934-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="cam41934-cit-0031">
+<string-name name-style="western">
+<surname>Cong</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Du</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Downregulated microRNA‐200a promotes EMT and tumor growth through the wnt/beta‐catenin pathway by targeting the E‐cadherin repressors ZEB1/ZEB2 in gastric adenocarcinoma</article-title>. <source xml:lang="en">Oncol Rep</source>. <year>2013</year>;<volume>29</volume>:<fpage>1579</fpage>‐<lpage>1587</lpage>.<pub-id pub-id-type="pmid">23381389</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3892/or.2013.2267</pub-id></mixed-citation></ref><ref id="cam41934-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="cam41934-cit-0032">
+<string-name name-style="western">
+<surname>Chen</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Han</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mo</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Upregulation of long noncoding RNA HOTTIP promotes metastasis of esophageal squamous cell carcinoma via induction of EMT</article-title>. <source xml:lang="en">Oncotarget</source>. <year>2016</year>;<volume>7</volume>:<fpage>84480</fpage>‐<lpage>84485</lpage>.<pub-id pub-id-type="pmid">27806322</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.18632/oncotarget.12995</pub-id><pub-id pub-id-type="pmcid">PMC5356674</pub-id></mixed-citation></ref><ref id="cam41934-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="cam41934-cit-0033">
+<string-name name-style="western">
+<surname>Puppo</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bucci</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rossi</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>miRNA‐mediated KHSRP silencing rewires distinct post‐transcriptional programs during TGF‐beta‐induced epithelial‐to‐mesenchymal transition</article-title>. <source xml:lang="en">Cell Rep</source>. <year>2016</year>;<volume>16</volume>:<fpage>967</fpage>‐<lpage>978</lpage>.<pub-id pub-id-type="pmid">27396342</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.celrep.2016.06.055</pub-id></mixed-citation></ref><ref id="cam41934-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="cam41934-cit-0034">
+<string-name name-style="western">
+<surname>Stoyanova</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Goldstein</surname>
+<given-names>AS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cai</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Drake</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Witte</surname>
+<given-names>ON</given-names>
+</string-name>. <article-title>Regulated proteolysis of Trop2 drives epithelial hyperplasia and stem cell self‐renewal via beta‐catenin signaling</article-title>. <source xml:lang="en">Genes Dev</source>. <year>2012</year>;<volume>26</volume>:<fpage>2271</fpage>‐<lpage>2285</lpage>.<pub-id pub-id-type="pmid">23070813</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1101/gad.196451.112</pub-id><pub-id pub-id-type="pmcid">PMC3475800</pub-id></mixed-citation></ref><ref id="cam41934-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="cam41934-cit-0035">
+<string-name name-style="western">
+<surname>Han</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ren</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>JMJD2B is required for Helicobacter pylori‐induced gastric carcinogenesis via regulating COX‐2 expression</article-title>. <source xml:lang="en">Oncotarget</source>. <year>2016</year>;<volume>7</volume>:<fpage>38626</fpage>‐<lpage>38637</lpage>.<pub-id pub-id-type="pmid">27232941</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.18632/oncotarget.9573</pub-id><pub-id pub-id-type="pmcid">PMC5122416</pub-id></mixed-citation></ref><ref id="cam41934-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="cam41934-cit-0036">
+<string-name name-style="western">
+<surname>Li</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>ZY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ji</surname>
+<given-names>PP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Luo</surname>
+<given-names>HS</given-names>
+</string-name>. <article-title>Knockdown of beta‐catenin by siRNA influences proliferation, apoptosis and invasion of the colon cancer cell line SW480</article-title>. <source xml:lang="en">Oncol Lett</source>. <year>2016</year>;<volume>11</volume>:<fpage>3896</fpage>‐<lpage>3900</lpage>.<pub-id pub-id-type="pmid">27313713</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3892/ol.2016.4481</pub-id><pub-id pub-id-type="pmcid">PMC4888144</pub-id></mixed-citation></ref><ref id="cam41934-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="cam41934-cit-0037">
+<string-name name-style="western">
+<surname>Brafman</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Willert</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Wnt/beta‐catenin signaling during early vertebrate neural development</article-title>. <source xml:lang="en">Dev Neurobiol</source>. <year>2017</year>;<volume>77</volume>:<fpage>1239</fpage>‐<lpage>1259</lpage>.<pub-id pub-id-type="pmid">28799266</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/dneu.22517</pub-id><pub-id pub-id-type="pmcid">PMC5819875</pub-id></mixed-citation></ref><ref id="cam41934-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="cam41934-cit-0038">
+<string-name name-style="western">
+<surname>Duan</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yan</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>W</given-names>
+</string-name>, et al. <article-title>TET1 inhibits EMT of ovarian cancer cells through activating Wnt/beta‐catenin signaling inhibitors DKK1 and SFRP2</article-title>. <source xml:lang="en">Gynecol Oncol</source>. <year>2017</year>;<volume>147</volume>:<fpage>408</fpage>‐<lpage>417</lpage>.<pub-id pub-id-type="pmid">28851501</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ygyno.2017.08.010</pub-id></mixed-citation></ref><ref id="cam41934-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="cam41934-cit-0039">
+<string-name name-style="western">
+<surname>Chen</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zong</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Growth‐induced stress enhances epithelial‐mesenchymal transition induced by IL‐6 in clear cell renal cell carcinoma via the Akt/GSK‐3beta/beta‐catenin signaling pathway</article-title>. <source xml:lang="en">Oncogenesis</source>. <year>2017</year>;<volume>6</volume>:<fpage>e375</fpage>.<pub-id pub-id-type="pmid">28846080</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/oncsis.2017.74</pub-id><pub-id pub-id-type="pmcid">PMC5608922</pub-id></mixed-citation></ref><ref id="cam41934-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="cam41934-cit-0040">
+<string-name name-style="western">
+<surname>Zuo</surname>
+<given-names>ZK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gong</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>XH</given-names>
+</string-name>, et al. <article-title>TGFbeta1‐induced LncRNA UCA1 upregulation promotes gastric cancer invasion and migration</article-title>. <source xml:lang="en">DNA Cell Biol</source>. <year>2017</year>;<volume>36</volume>:<fpage>159</fpage>‐<lpage>167</lpage>.<pub-id pub-id-type="pmid">28075173</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1089/dna.2016.3553</pub-id></mixed-citation></ref><ref id="cam41934-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="cam41934-cit-0041">
+<string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>Z</given-names>
+</string-name>. <article-title>Tumor necrosis factor receptor 2 promotes growth of colorectal cancer via the PI3K/AKT signaling pathway</article-title>. <source xml:lang="en">Oncol Lett</source>. <year>2017</year>;<volume>13</volume>:<fpage>342</fpage>‐<lpage>346</lpage>.<pub-id pub-id-type="pmid">28123565</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3892/ol.2016.5403</pub-id><pub-id pub-id-type="pmcid">PMC5244884</pub-id></mixed-citation></ref><ref id="cam41934-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="cam41934-cit-0042">
+<string-name name-style="western">
+<surname>Lu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chai</surname>
+<given-names>X</given-names>
+</string-name>, et al. <article-title>Long noncoding RNA HULC promotes cell proliferation by regulating PI3K/AKT signaling pathway in chronic myeloid leukemia</article-title>. <source xml:lang="en">Gene</source>. <year>2017</year>;<volume>607</volume>:<fpage>41</fpage>‐<lpage>46</lpage>.<pub-id pub-id-type="pmid">28069548</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.gene.2017.01.004</pub-id></mixed-citation></ref><ref id="cam41934-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="cam41934-cit-0043">
+<string-name name-style="western">
+<surname>Ikezono</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Koga</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Akiba</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Pancreatic neuroendocrine tumors and EMT behavior are driven by the CSC marker DCLK1</article-title>. <source xml:lang="en">Mol Cancer Res</source>. <year>2017</year>;<volume>15</volume>:<fpage>744</fpage>‐<lpage>752</lpage>.<pub-id pub-id-type="pmid">28179411</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/1541-7786.MCR-16-0285</pub-id></mixed-citation></ref><ref id="cam41934-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="cam41934-cit-0044">
+<string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>JQ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gu</surname>
+<given-names>JN</given-names>
+</string-name>, et al. <article-title>MicroRNA‐300 promotes apoptosis and inhibits proliferation, migration, invasion and epithelial‐mesenchymal transition via the Wnt/beta‐catenin signaling pathway by targeting CUL4B in pancreatic cancer cells</article-title>. <source xml:lang="en">J Cell Biochem</source>. <year>2017</year>;<volume>119</volume>:<fpage>1027</fpage>‐<lpage>1040</lpage>.<pub-id pub-id-type="pmid">28685847</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/jcb.26270</pub-id></mixed-citation></ref><ref id="cam41934-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="cam41934-cit-0045">
+<string-name name-style="western">
+<surname>Thiery</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Acloque</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huang</surname>
+<given-names>RY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nieto</surname>
+<given-names>MA</given-names>
+</string-name>. <article-title>Epithelial‐mesenchymal transitions in development and disease</article-title>. <source xml:lang="en">Cell</source>. <year>2009</year>;<volume>139</volume>:<fpage>871</fpage>‐<lpage>890</lpage>.<pub-id pub-id-type="pmid">19945376</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cell.2009.11.007</pub-id></mixed-citation></ref><ref id="cam41934-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="cam41934-cit-0046">
+<string-name name-style="western">
+<surname>Oral</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Erkekoglu</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kocer‐Gumusel</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chao</surname>
+<given-names>MW</given-names>
+</string-name>. <article-title>Epithelial‐mesenchymal transition: a special focus on phthalates and bisphenol A</article-title>. <source xml:lang="en">J Environ Pathol Toxicol Oncol</source>. <year>2016</year>;<volume>35</volume>:<fpage>43</fpage>‐<lpage>58</lpage>.<pub-id pub-id-type="pmid">27279583</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1615/JEnvironPatholToxicolOncol.2016014200</pub-id></mixed-citation></ref><ref id="cam41934-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="cam41934-cit-0047">
+<string-name name-style="western">
+<surname>Xie</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Qi</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>DDR1 enhances invasion and metastasis of gastric cancer via epithelial‐mesenchymal transition</article-title>. <source xml:lang="en">Tumour Biol</source>. <year>2016</year>;<volume>37</volume>:<fpage>12049</fpage>‐<lpage>12059</lpage>.<pub-id pub-id-type="pmid">27179963</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s13277-016-5070-6</pub-id></mixed-citation></ref></ref-list></back></article>

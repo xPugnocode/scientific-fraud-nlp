@@ -40,6 +40,7 @@ data_dir = Path('data')
 papers_dir = data_dir / 'fraud-papers'
 control_papers_dir = data_dir / 'control-papers'
 fraud_metadata_df = pd.read_csv(data_dir / 'fraudulent_papers_metadata.csv')
+fraud_metadata_df['pair_id'] = range(len(fraud_metadata_df))
 
 def add_to_query(query, things, connector='AND'):
     if not isinstance(things, list):
@@ -242,6 +243,7 @@ def choose_control(row, claimed_pmids=None, claimed_pmids_lock=None):
                     claimed_pmids.add(pmid)
             xml_url, xml_content = valid_xml
             return (
+                row.pair_id,
                 str(int(row.OriginalPaperPubMedID)),
                 str(pmid),
                 str(pmcid),
@@ -333,7 +335,7 @@ def get_xml_link(papers):
 
 def download_papers(papers, papers_dir):
     def download_paper(paper):
-        _, _, pmcid, _, xml_content = paper
+        _, _, _, pmcid, _, xml_content = paper
         xml_filename = papers_dir / f'{pmcid}.xml'
         xml_filename.write_bytes(xml_content)
         
@@ -344,6 +346,7 @@ def download_papers(papers, papers_dir):
 
 def save_control_metadata(control_papers, papers_dir, data_dir):
     pubmed_articles = {}
+    pmc_articles = {}
 
     pmids = [str(pmid) for pmid in control_papers['ControlPaperPubMedID']]
     for start in tqdm(range(0, len(pmids), 200), desc='Fetching PubMed metadata', unit=' batches'):
@@ -352,12 +355,19 @@ def save_control_metadata(control_papers, papers_dir, data_dir):
         for pubmed_article in ET.fromstring(r.content).findall('PubmedArticle'):
             pubmed_articles[clean_text(pubmed_article.find('MedlineCitation/PMID'))] = pubmed_article
 
+    pmcids = [str(pmcid) for pmcid in control_papers['PMCID']]
+    for start in tqdm(range(0, len(pmcids), 200), desc='Fetching PMC metadata', unit=' batches'):
+        r = session.get(EFETCH_URL, params={'db': 'pmc', 'id': ','.join(pmcids[start:start + 200])})
+        r.raise_for_status()
+        for pmc_article in ET.fromstring(r.content).findall('article'):
+            pmc_articles[clean_text(pmc_article.find("front/article-meta/article-id[@pub-id-type='pmcid']"))] = pmc_article
+
     parsed_papers = []
     failed_files = []
     removed_papers = 0
 
     for row in tqdm(control_papers.itertuples(index=False), total=len(control_papers), desc='Parsing XML', unit=' papers'):
-        original_pmid, pmid, pmcid, xml_link = row
+        pair_id, original_pmid, pmid, pmcid, xml_link = row
         xml_file = papers_dir / f'{pmcid}.xml'
         try:
             root = ET.parse(xml_file).getroot()
@@ -370,15 +380,38 @@ def save_control_metadata(control_papers, papers_dir, data_dir):
             removed_papers += 1
             continue
         pubmed_article = pubmed_articles.get(str(pmid))
+        pmc_article = pmc_articles.get(str(pmcid))
+
+        mesh_terms = []
+        mesh_headings = pubmed_article.find('MedlineCitation/MeshHeadingList') if pubmed_article is not None else None
+        if mesh_headings is not None:
+            for mesh_heading in mesh_headings.findall('MeshHeading'):
+                descriptor = clean_text(mesh_heading.find('DescriptorName'))
+                qualifiers = [clean_text(qualifier) for qualifier in mesh_heading.findall('QualifierName')]
+                mesh_terms.append(f"{descriptor} / {', '.join(qualifiers)}" if qualifiers else descriptor)
+
+        keyword_list = pubmed_article.find('MedlineCitation/KeywordList') if pubmed_article is not None else None
+        keywords = [clean_text(keyword) for keyword in keyword_list.findall('Keyword')] if keyword_list is not None else []
+        if not mesh_terms and pmc_article is not None:
+            mesh_group = pmc_article.find("front/article-meta/kwd-group[@kwd-group-type='MESH']")
+            if mesh_group is not None:
+                mesh_terms = [clean_text(keyword) for keyword in mesh_group.findall('kwd')]
+        if not keywords and pmc_article is not None:
+            for keyword_group in pmc_article.findall('front/article-meta/kwd-group'):
+                if (keyword_group.get('kwd-group-type') or '').upper() != 'MESH':
+                    keywords.extend(clean_text(keyword) for keyword in keyword_group.findall('kwd'))
+
         first_author_element = root.find(".//article-meta/contrib-group/contrib[@contrib-type='author']/name")
         if first_author_element is not None:
             given_names = clean_text(first_author_element.find('given-names'))
             surname = clean_text(first_author_element.find('surname'))
         else:
+            pmc_author = pmc_article.find("front/article-meta/contrib-group/contrib[@contrib-type='author']/name") if pmc_article is not None else None
             pubmed_author = pubmed_article.find('MedlineCitation/Article/AuthorList/Author') if pubmed_article is not None else None
-            given_names = clean_text(pubmed_author.find('ForeName')) if pubmed_author is not None else None
-            surname = clean_text(pubmed_author.find('LastName')) if pubmed_author is not None else None
+            given_names = clean_text(pmc_author.find('given-names')) if pmc_author is not None else clean_text(pubmed_author.find('ForeName')) if pubmed_author is not None else None
+            surname = clean_text(pmc_author.find('surname')) if pmc_author is not None else clean_text(pubmed_author.find('LastName')) if pubmed_author is not None else None
         parsed_papers.append({
+            'pair_id': pair_id,
             'OriginalPaperPubMedID': original_pmid,
             'ControlPaperPubMedID': pmid,
             'PMCID': pmcid,
@@ -387,6 +420,8 @@ def save_control_metadata(control_papers, papers_dir, data_dir):
             'article_type': article.get('article-type'),
             'title': clean_title(root.find('.//article-meta/title-group/article-title')),
             'publication_year': clean_text(root.find('.//article-meta/pub-date/year')),
+            'keywords': ' | '.join(term for term in keywords if term),
+            'mesh_terms': ' | '.join(term for term in mesh_terms if term),
             'first_author_given_names': given_names or None,
             'first_author_surname': surname or None,
         })
@@ -399,6 +434,8 @@ def save_control_metadata(control_papers, papers_dir, data_dir):
 
 
 if __name__ == '__main__':
+    fraud_metadata_df.to_csv(data_dir / 'fraudulent_papers_metadata.csv', index=False)
+
     claimed_control_pmids = set()
     claimed_control_pmids_lock = Lock()
 
@@ -414,7 +451,7 @@ if __name__ == '__main__':
         checked_results = list(tqdm(executor.map(find_control_paper, rows), total=len(rows), desc='Finding control papers', unit=' papers'))
         control_papers = pd.DataFrame(
             [result for result in checked_results if result is not None],
-            columns=['OriginalPaperPubMedID', 'ControlPaperPubMedID', 'PMCID', 'XMLLink', 'XMLContent'],
+            columns=['pair_id', 'OriginalPaperPubMedID', 'ControlPaperPubMedID', 'PMCID', 'XMLLink', 'XMLContent'],
         )
     os.mkdir('data/control-papers') if not os.path.exists('data/control-papers') else None
     download_papers(control_papers, control_papers_dir)

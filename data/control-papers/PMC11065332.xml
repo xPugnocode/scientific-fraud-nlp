@@ -1,0 +1,685 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article id="elsc1599" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Eng Life Sci</journal-id><journal-id journal-id-type="iso-abbrev">Eng Life Sci</journal-id><journal-id journal-id-type="pmc-domain-id">3786</journal-id><journal-id journal-id-type="pmc-domain">englifesci</journal-id><journal-id journal-id-type="nlm-id">101193313</journal-id><journal-id journal-id-type="publisher-id">ELSC</journal-id><journal-title-group><journal-title>Engineering in Life Sciences</journal-title></journal-title-group><issn pub-type="ppub">1618-0240</issn><issn pub-type="epub">1618-2863</issn><publisher><publisher-name>Maximum Academic Press</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC11065332</article-id><article-id pub-id-type="pmcid-ver">PMC11065332.1</article-id><article-id pub-id-type="pmcaid">11065332</article-id><article-id pub-id-type="pmcaiid">11065332</article-id><article-id pub-id-type="pmid">38708413</article-id><article-id pub-id-type="doi">10.1002/elsc.202300216</article-id><article-id pub-id-type="publisher-id">ELSC1599</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group></article-categories><title-group><article-title>Microbiome dynamics and products profiles of biowaste fermentation under different organic loads and additives</article-title><alt-title alt-title-type="left-running-head">ZHU <sc>et al</sc>.</alt-title></title-group><contrib-group><contrib id="elsc1599-cr-0001" contrib-type="author"><name name-style="western"><surname>Zhu</surname><given-names initials="X">Xinyu</given-names></name><xref rid="elsc1599-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="elsc1599-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="elsc1599-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="elsc1599-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="elsc1599-cr-0002" contrib-type="author"><name name-style="western"><surname>Li</surname><given-names initials="P">Ping</given-names></name><xref rid="elsc1599-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="elsc1599-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="elsc1599-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="elsc1599-cr-0003" contrib-type="author" corresp="yes"><name name-style="western"><surname>Ju</surname><given-names initials="F">Feng</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-4137-5928</contrib-id><xref rid="elsc1599-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="elsc1599-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="elsc1599-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="elsc1599-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><address><email>jufeng@westlake.edu.cn</email></address></contrib></contrib-group><aff id="elsc1599-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Key Laboratory of Coastal Environment and Resources of Zhejiang Province</named-content>
+<named-content content-type="organisation-division">School of Engineering</named-content>
+<institution>Westlake University</institution>
+<city>Hangzhou</city>
+<named-content content-type="country-part">Zhejiang Province</named-content>
+<country country="CN">China</country>
+</aff><aff id="elsc1599-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Environmental Microbiome and Biotechnology Laboratory, Center of Synthetic Biology and Integrated Bioengineering</named-content>
+<institution>Westlake University</institution>
+<city>Hangzhou</city>
+<named-content content-type="country-part">Zhejiang Province</named-content>
+<country country="CN">China</country>
+</aff><aff id="elsc1599-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Institute of Advanced Technology</named-content>
+<institution>Westlake Institute for Advanced Study</institution>
+<city>Hangzhou</city>
+<named-content content-type="country-part">Zhejiang Province</named-content>
+<country country="CN">China</country>
+</aff><aff id="elsc1599-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<institution>Westlake Laboratory of Life Sciences and Biomedicine</institution>
+<city>Hangzhou</city>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>Feng Ju, Environmental Microbiome and Biotechnology Laboratory (EMBLab), Westlake University, 600 Dunyu Road, Hangzhou 310030, Zhejiang Province, China.<break/> Email: <email>jufeng@westlake.edu.cn</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>13</day><month>11</month><year>2023</year></pub-date><pub-date pub-type="collection"><month>5</month><year>2024</year></pub-date><volume>24</volume><issue seq="70">5</issue><issue-id pub-id-type="pmc-issue-id">461566</issue-id><issue-id pub-id-type="doi">10.1002/elsc.v24.5</issue-id><issue-title content-type="special-issue-title">Special Issue: Microbiome Research for Engineering in Life Science</issue-title><elocation-id>2300216</elocation-id><history><date date-type="rev-recd"><day>26</day><month>8</month><year>2023</year></date><date date-type="received"><day>31</day><month>5</month><year>2023</year></date><date date-type="accepted"><day>05</day><month>10</month><year>2023</year></date></history><pub-history><event event-type="pmc-release"><date><day>13</day><month>11</month><year>2023</year></date></event><event event-type="pmc-live"><date><day>03</day><month>05</month><year>2024</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2024-12-21 11:25:40.337"><day>21</day><month>12</month><year>2024</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2023 The Authors. <italic toggle="yes">Engineering in Life Sciences</italic> published by Wiley‐VCH GmbH.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non‐commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="ELSC-24-2300216.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:ELSC-24-2300216.pdf"/><abstract><title>Abstract</title><p>Biowaste fermentation is a promising technology for low‐carbon print bioenergy and biochemical production. Although it is believed that the microbiome determines both the fermentation efficiency and the product profiles of biowastes, the explicit mechanisms of how microbial activity controls fermentation processes remained to be unexplored. The current study investigated the microbiome dynamics and fermentation product profiles of biowaste fermentation under different organic loads (5, 20, and 40 g‐VS/L) and with additives that potentially modulate the fermentation process via methanogenesis inhibition (2‐bromoethanesulfonate) or electron transfer promotion (i.e., reduced iron, magnetite iron, and activated carbon). The overall fermentation products yields were 440, 373 and 208 CH<sub>4</sub>‐eq/g‐VS for low‐, medium‐ and high‐load fermentation. For low‐ and medium‐load fermentation, volatile fatty acids (VFAs) were first accumulated and were gradually converted to methane. For high‐load fermentation, VFAs were the main fermentation products during the entire fermentation period, accounting for 62% of all products. 16S rRNA‐based analyses showed that both 2‐bromoethanesulfonate addition and increase of organic loads inhibited the activity of methanogens and promoted the activity of distinct VFA‐producing bacterial microbiomes. Moreover, the addition of activated carbon promoted the activity of H<sub>2</sub>‐producing <italic toggle="yes">Bacteroides</italic>, homoacetogenic <italic toggle="yes">Eubacteriaceae</italic> and methanogenic <italic toggle="yes">Methanosarcinaceae</italic>, whose activity dynamics during the fermentation led to changes in acetate and methane production. The current results unveiled mechanisms of microbiome activity dynamics shaping the biowaste fermentation product profiles and provided the fundamental basis for the development of microbiome‐guided engineering approaches to modulate biowaste fermentation toward high‐value product recovery.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="elsc1599-kwd-0001">biowaste fermentation</kwd><kwd id="elsc1599-kwd-0002">methanogenesis</kwd><kwd id="elsc1599-kwd-0003">microbiome dynamics</kwd><kwd id="elsc1599-kwd-0004">organic load</kwd><kwd id="elsc1599-kwd-0005">volatile fatty acids</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>Key R&amp;D Program of Zhejiang</funding-source><award-id>2022C03075</award-id></award-group><award-group id="funding-0002"><funding-source><institution-wrap><institution>China Postdoctoral Science Foundation
+</institution><institution-id institution-id-type="doi">10.13039/501100002858</institution-id></institution-wrap></funding-source><award-id>2022M712842</award-id></award-group><award-group id="funding-0003"><funding-source>Zhejiang Provincial Natural Science Foundation of China</funding-source><award-id>LR22D010001</award-id></award-group></funding-group><counts><fig-count count="5"/><table-count count="2"/><page-count count="15"/><word-count count="8417"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC-ND</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>May 2024</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.4.2 mode:remove_FC converted:02.05.2024</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="elsc1599-cit-0055">
+<string-name name-style="western">
+<surname>Zhu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ju</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>Microbiome dynamics and products profiles of biowaste fermentation under different organic loads and additives</article-title>. <source>Eng Life Sci</source>. <year>2024</year>;<volume>24</volume>:<elocation-id>e2300216</elocation-id>. <pub-id pub-id-type="doi">10.1002/elsc.202300216</pub-id>
+<pub-id pub-id-type="pmcid">PMC11065332</pub-id><pub-id pub-id-type="pmid">38708413</pub-id></mixed-citation>
+</p><fn-group><fn id="elsc1599-note-0001" fn-type="equal"><p>Xinyu Zhu and Ping Li contributed equally to the study.</p></fn></fn-group></notes></front><body><def-list list-content="abbreviations" id="elsc1599-dl-0001"><title>Abbreviations</title><def-item><term>VFAs</term><def><p>volatile fatty acids</p></def></def-item><def-item><term>SS</term><def><p>sewage sludge</p></def></def-item><def-item><term>FW</term><def><p>food waste</p></def></def-item><def-item><term>PWS</term><def><p>primary waste sludge</p></def></def-item><def-item><term>AD</term><def><p>anaerobic digestion</p></def></def-item><def-item><term>VS</term><def><p>volatile solids</p></def></def-item><def-item><term>BES</term><def><p>2‐bromoethanesulfonate</p></def></def-item><def-item><term>mFe</term><def><p>magnetite‐iron</p></def></def-item><def-item><term>rFe</term><def><p>reduced iron</p></def></def-item><def-item><term>AC</term><def><p>activated carbon</p></def></def-item><def-item><term>L‐OL</term><def><p>low‐load</p></def></def-item><def-item><term>M‐OL</term><def><p>medium‐load</p></def></def-item><def-item><term>H‐OL</term><def><p>high‐load</p></def></def-item><def-item><term>RDA</term><def><p>redundancy analysis</p></def></def-item><def-item><term>PCoA</term><def><p>principal coordinate analysis</p></def></def-item><def-item><term>LDA</term><def><p>linear discriminant analysis</p></def></def-item><def-item><term>ASV</term><def><p>amplicon sequence variant</p></def></def-item></def-list><sec id="elsc1599-sec-0010"><label>1</label><title>INTRODUCTION</title><p>The global population increase, economic growth, and urbanization have led to the massive generation of biowaste, often including the sewage sludge (SS) from wastewater treatment plants, food waste (FW), animal manure, and etc. Biowaste is expected to increase 70% by 2050 [<xref rid="elsc1599-bib-0001" ref-type="bibr">1</xref>] and to cause unsanitary conditions that affect human health and exacerbate environmental pollution worldwide. Biowaste consists of organic carbon and inorganic nutrients (i.e., nitrogen and phosphorus) and is considered as potential sources for renewable bioenergy and biochemical production by fermentation. Anaerobic digestion (AD) is one of the promising technologies for biowaste valorization, converting organic residues to bioenergy. Many studies have shown a higher energy recovery from the co‐digestion of various substrates than mono‐digestion due to co‐digestion could use multiple feedstocks providing the system stability and overcoming limitations, such as high ammonia content and unbalanced C‐N ratio [<xref rid="elsc1599-bib-0002" ref-type="bibr">2</xref>] Thus, anaerobic co‐digestion is a vital biotechnology in the circular economy [<xref rid="elsc1599-bib-0003" ref-type="bibr">3</xref>].</p><p>Traditionally, methane is considered as the main AD product, which is commonly used for electricity and heat generation. Nevertheless, during fermentation, other low‐molecular‐weight intermediate products, such as volatile fatty acids (VFAs), alcohols and other carboxylic acids [<xref rid="elsc1599-bib-0004" ref-type="bibr">4</xref>], are produced by mixed microorganisms that decompose organic matter via hydrolysis and acidogenesis. Among all fermentation products, VFAs was mainly focused on because they are the major fermentation projects during complex substrate fermentation without strong engineering intervention [<xref rid="elsc1599-bib-0005" ref-type="bibr">5</xref>]. Although H<sub>2</sub> and bioalcohol were also targeted in some scenario, the production of H<sub>2</sub> and bioalcohol relied solely on saccharide substrates, limiting their substrate range and efficiency [<xref rid="elsc1599-bib-0006" ref-type="bibr">6</xref>, <xref rid="elsc1599-bib-0007" ref-type="bibr">7</xref>]. VFAs have a higher market value than methane [<xref rid="elsc1599-bib-0008" ref-type="bibr">8</xref>] and have a wide application. Specifically, waste stream VFAs could be used as the biological nutrient removal process [<xref rid="elsc1599-bib-0009" ref-type="bibr">9</xref>, <xref rid="elsc1599-bib-0010" ref-type="bibr">10</xref>] and the purified VFAs are precursors for many valuable products such as pharmaceuticals, foods, chemicals, and fuels [<xref rid="elsc1599-bib-0011" ref-type="bibr">11</xref>]. Therefore, exploring biowastes fermentation products profiles under different operating conditions and identifying the deterministic parameters that modulate the products profiles attracted wide research efforts in recent decades [<xref rid="elsc1599-bib-0012" ref-type="bibr">12</xref>].</p><p>It has been well demonstrated that the biowaste fermentation products profiles depended on the substrate composition, process design, reactor types, and operational parameters [<xref rid="elsc1599-bib-0013" ref-type="bibr">13</xref>, <xref rid="elsc1599-bib-0014" ref-type="bibr">14</xref>]. For example, organic loading rates were found to be positively related to total VFA concentrations during the fermentation of organic fraction of municipal solid waste [<xref rid="elsc1599-bib-0015" ref-type="bibr">15</xref>] and fruit waste [<xref rid="elsc1599-bib-0016" ref-type="bibr">16</xref>], achieving the highest VFA conversion yield at 14 g‐VS/(L.day). Besides organic loading rate, pH control was also proved as one of the most common methods influencing VFAs production. Specifically, maintaining at 10.0 ± 0.2 with NaOH and Ca(OH)<sub>2</sub> led to 2 and 2.5 times increase of VFA concentration in the final fermentation products (from 6.7 to 12.4 and 17.4 mg COD/L) [<xref rid="elsc1599-bib-0017" ref-type="bibr">17</xref>]. Besides operating parameters, some additives were proposed to modulate biowaste fermentation profiles. The addition of 2‐bromoethanesulfonate (BES) was proved to inhibit methanogenesis during biowaste fermentation, and promoted the production of carboxylic acids [<xref rid="elsc1599-bib-0018" ref-type="bibr">18</xref>]. The conductive materials, that is, magnetite‐iron (mFe) [<xref rid="elsc1599-bib-0019" ref-type="bibr">19</xref>], reduced iron (zero valent iron, rFe) [<xref rid="elsc1599-bib-0020" ref-type="bibr">20</xref>] and activated carbon (AC) [<xref rid="elsc1599-bib-0021" ref-type="bibr">21</xref>], were proved to promote the production of VFAs or methane depending on the applied dosage. Although the empirically experience showed that both operational parameters (e.g., organic loads) and additives affect the fermentation product (e.g., VFAs) profiles of biowastes, the mechanisms behind the observations remained to be not fully clarified.</p><boxed-text position="float" content-type="box" orientation="portrait"><sec id="elsc1599-sec-0020"><title>PRACTICAL APPLICATION</title><p>Biowaste fermentation has been one of the most promising strategies for waste valorization due to its moderate operating conditions and its wide applicability to various substrate types. The composition and activity of the fermentation microbiome are tightly related to the fermentation performance and product profiles. In the current study, we unveiled the microbial activity and dynamicity during biowaste fermentation under different organic loads and with/without the addition of magnetite iron, reduced iron and activated carbon. The results identified specific biomarkers for the fermentation microbiome during different organic loads. The result showed that the high organic load could convert fermentation products from methane to higher value VFAs in the sacrifice of the conversion efficiency. The significant difference between high‐load and low‐load acidogenic members could be one of the reasons for the relatively low substrate conversation yields during high‐load fermentation. Microbiome engineering strategies could be promising for future process optimization.</p></sec></boxed-text><p>Most current investigation has hypothesized that both operating parameters and additives should affect the activity of the fermentation microbiome and then led to distinctive fermentation performance. The hypothesis was proved in many studies by identifying the significant correlation between microbial community composition (DNA‐based) and fermentation performance (yields and profiles) [<xref rid="elsc1599-bib-0013" ref-type="bibr">13</xref>, <xref rid="elsc1599-bib-0025" ref-type="bibr">25</xref>]. For example, with 16S rRNA gene amplicon sequencing, <italic toggle="yes">Lactobacillus</italic>, <italic toggle="yes">Clostridium_sensu_stricto_12</italic>, and <italic toggle="yes">Caproiciproducens</italic> has been proved to be closely related to anaerobic VFA production [<xref rid="elsc1599-bib-0016" ref-type="bibr">16</xref>], due to the significant correlation between their relative abundance and VFA concentration. In another study<italic toggle="yes">, Bacillaceae, Proteinivoracales_uncultured</italic> and <italic toggle="yes">Dysgonomonadaceae</italic> were identified as the most important VFA producers based on their high relative abundance (34%, 16%, and 52.18%, respectively) in alkalic biowaste fermentation systems [<xref rid="elsc1599-bib-0022" ref-type="bibr">22</xref>]. Although informative, the above‐mentioned DNA‐based investigations ignored the regulation on gene transcription and translation and could not fully illustrate the in‐situ microbial activities. Previous studies have observed significant differences between compositional profiles (DNA‐based) and activity profiles (RNA‐based) and suggested that the microbial activity correlated better to the biochemical conversations than composition in biowaste fermentation systems [<xref rid="elsc1599-bib-0023" ref-type="bibr">23</xref>]. Thus, RNA‐based microbial activity investigations on biowaste fermentation microbiome could further unveil the explicit correlation between microbial activity dynamics and fermentation processes.</p><p>Considering the above knowledge gaps, this study aims to investigate the association between microbiome activity and product profiles of biowaste fermentation. Specifically, the biowaste fermentation products were quantified during the entire fermentation processes under three different organic loads and with additives that potentially modulate the fermentation process via methanogenesis inhibition (2‐bromoethanesulfonate) or electron transfer promotion (i.e., reduced iron, magnetite iron, and activated carbon). The microbiome dynamics of biowaste fermentation was illustrated with 16S rRNA amplicon (RNA‐based) sequencing‐based analysis. The results unveiled the activity‐level microbial insights during the biowaste fermentation and provided the fundamental knowledge for future microbiome‐guided process optimization.</p></sec><sec id="elsc1599-sec-0030"><label>2</label><title>MATERIALS AND METHODS</title><sec id="elsc1599-sec-0040"><label>2.1</label><title>Characterizations of the fermentation substrate and inoculum</title><p>The biowaste used for the current study consisted of primary waste sludge (PWS) and FW with 1:1 volume ratio. The PWS were obtained from the primary sedimentation tank of a WWTP located in Zhejiang, China. The FW was collected from a canteen of a university in Zhejiang, China. The biowaste were stored in a refrigerator at 4°C. The inoculum (INO) was collected from the Municipal Sewage Treatment Plant, situated in Beijing, China and was stored in an anaerobic incubator at 35°C about 1 week to reduce the remaining organic matter. The main characteristics of PWS are presented in Table <xref rid="elsc1599-tbl-0001" ref-type="table">1</xref>.</p><table-wrap position="float" id="elsc1599-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>Characterizations of the fermentation substrate and inoculum.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="center" span="1"/><col align="left" span="1"/><thead><tr><th rowspan="2" align="left" colspan="1">Characterizations</th><th rowspan="2" align="left" colspan="1">Inoculum</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" rowspan="1">Substrate</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">PWS</th><th align="left" rowspan="1" colspan="1">FW</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">pH</td><td align="left" rowspan="1" colspan="1">7.49</td><td align="left" rowspan="1" colspan="1">6.91</td><td align="left" rowspan="1" colspan="1">5.64</td></tr><tr><td align="left" rowspan="1" colspan="1">TSS (g/L)</td><td align="left" rowspan="1" colspan="1">22.88</td><td align="left" rowspan="1" colspan="1">20.90</td><td align="left" rowspan="1" colspan="1">155.28</td></tr><tr><td align="left" rowspan="1" colspan="1">VSS (g/L)</td><td align="left" rowspan="1" colspan="1">11.45</td><td align="left" rowspan="1" colspan="1">10.90</td><td align="left" rowspan="1" colspan="1">148.95</td></tr><tr><td align="left" rowspan="1" colspan="1">Acetic acid (mg/L)</td><td align="left" rowspan="1" colspan="1">10.41</td><td align="left" colspan="2" rowspan="1">4.51</td></tr><tr><td align="left" rowspan="1" colspan="1">Propionic acid (mg/L)</td><td align="left" rowspan="1" colspan="1">2.67</td><td colspan="2" align="center" rowspan="1">0.54</td></tr><tr><td align="left" rowspan="1" colspan="1">Isobutyric acid (mg/L)</td><td align="left" rowspan="1" colspan="1">3.01</td><td colspan="2" align="center" rowspan="1">0.06</td></tr><tr><td align="left" rowspan="1" colspan="1">Butyric acid (mg/L)</td><td align="left" rowspan="1" colspan="1">0</td><td colspan="2" align="center" rowspan="1">0</td></tr><tr><td align="left" rowspan="1" colspan="1">Isovaleric acid (mg/L)</td><td align="left" rowspan="1" colspan="1">0</td><td colspan="2" align="center" rowspan="1">0</td></tr><tr><td align="left" rowspan="1" colspan="1">Valeric acid (mg/L)</td><td align="left" rowspan="1" colspan="1">0.26</td><td colspan="2" align="center" rowspan="1">0</td></tr><tr><td align="left" rowspan="1" colspan="1">Isocaproic acid (mg/L)</td><td align="left" rowspan="1" colspan="1">0.48</td><td colspan="2" align="center" rowspan="1">0.01</td></tr><tr><td align="left" rowspan="1" colspan="1">Caproic acid (mg/L)</td><td align="left" rowspan="1" colspan="1">1.26</td><td colspan="2" align="center" rowspan="1">0</td></tr><tr><td align="left" rowspan="1" colspan="1">Heptanoic acid (mg/L)</td><td align="left" rowspan="1" colspan="1">2.31</td><td colspan="2" align="center" rowspan="1">0.01</td></tr></tbody></table><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec><sec id="elsc1599-sec-0050"><label>2.2</label><title>Set‐up of batch fermentation</title><p>The batch fermentation experiments were conducted in 1L glass reactors with working volume of 500 mL and under 37°C. Three organic loads were tested: Low‐load (L‐OL, 5 g‐VS/L), Medium‐load (M‐OL, 20 g‐VS/L), High‐load (H‐OL,40 g‐VS/L). The basic medium (BA medium) was used for substrate dilution to achieve the target organic load [<xref rid="elsc1599-bib-0024" ref-type="bibr">24</xref>].</p><p>The 2‐bromoethanesulfonate (BES, 50 mM) was added to a L‐OL reactor to inhibit methanogenic activity [<xref rid="elsc1599-bib-0025" ref-type="bibr">25</xref>]. We added reduced iron (50 mg/L, rFe), magnetite iron (50 mg/L, mFe), and activated carbon (5 g/L, Ac) to the H‐OL reactor to study how the conductive material affects the microbiome in the co‐digestion system. In summary, there were seven reactors including L‐OL no treatment (L‐OL), L‐OL with BES treatment (L‐BES), M‐OL no treatment (M‐OL), H‐OL no treatment (H‐OL), H‐OL with reduced iron (H‐rFe), H‐OL with magnetite iron (H‐mFe) and H‐OL with active carbon (H‐Ac). The conditions of the experimental organic loads and additives are presented in Table <xref rid="elsc1599-tbl-0002" ref-type="table">2</xref>. Sludge samples (<italic toggle="yes">n</italic> = 72) were collected from reactors on day 3, 9, 12, 15, 20, 25, and 45. The sludge samples were centrifuged at 12,000 r·min<sup>−1</sup> for 5 min. The supernatant was filtered through a 0.45 μm membrane for VFA quantification. The pellets were collected for DNA and RNA extraction and sequencing.</p><table-wrap position="float" id="elsc1599-tbl-0002" content-type="TABLE" orientation="portrait"><label>TABLE 2</label><caption><p>The operating conditions of the fermentation experiments with primary waste sludge and food waste (1:1 volume) as the substrate.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Condition</th><th align="center" rowspan="1" colspan="1">Load (g‐VS/L)</th><th align="center" rowspan="1" colspan="1">Type of additive</th><th align="center" rowspan="1" colspan="1">Concentration (g/L)</th></tr></thead><tbody><tr><td rowspan="2" align="left" colspan="1">Low‐load (L‐OL)</td><td rowspan="2" align="center" colspan="1">5</td><td align="center" rowspan="1" colspan="1">no treatment</td><td align="center" rowspan="1" colspan="1">0</td></tr><tr><td align="center" rowspan="1" colspan="1">2‐bromoethanesulfonate</td><td align="center" rowspan="1" colspan="1">5.275</td></tr><tr><td align="left" rowspan="1" colspan="1">Medium‐load (M‐OL)</td><td align="center" rowspan="1" colspan="1">20</td><td align="center" rowspan="1" colspan="1">no treatment</td><td align="center" rowspan="1" colspan="1">0</td></tr><tr><td rowspan="4" align="left" colspan="1">High‐load (H‐OL)</td><td rowspan="4" align="center" colspan="1">40</td><td align="center" rowspan="1" colspan="1">no treatment</td><td align="center" rowspan="1" colspan="1">0</td></tr><tr><td align="center" rowspan="1" colspan="1">reduce iron</td><td align="center" rowspan="1" colspan="1">0.05</td></tr><tr><td align="center" rowspan="1" colspan="1">magnetite iron</td><td align="center" rowspan="1" colspan="1">0.05</td></tr><tr><td align="center" rowspan="1" colspan="1">activated carbon</td><td align="center" rowspan="1" colspan="1">5</td></tr></tbody></table><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec><sec id="elsc1599-sec-0060"><label>2.3</label><title>Analytical methods</title><p>A bench pH meter Innolab20P (Prima) for determination of pH value. The Total Solids (TS) and Volatile Solids (VS) were determined according to standard methods [<xref rid="elsc1599-bib-0026" ref-type="bibr">26</xref>]. Methane was collected and quantitated by the Automated Methane Potential Analyzer (MultiTanlent 203, China). VFAs were quantified using a gas chromatographer (GC, 7890B Agilent Technologies) equipped with an HP‐FFAP column and flame ionization detector (FID) [<xref rid="elsc1599-bib-0027" ref-type="bibr">27</xref>]. The temperature of the components of GC, such as column (80°C), inlet (200°C) and FID (250°C), was maintained with a constant pressure of 6 psi using Argon as a carrier gas. Nine VFA standards were used for quantification, namely acetic acid, propionic acid, isobutyric acid, butyric acid, valeric acid, isovaleric acid, isocaproic acid, caproic acid and heptanoic acid.</p><p>The genomic DNA was isolated from the collected sample using Mag‐Bind Soil DNA Kit (M5635‐02) (Omega Bio‐Tek, Norcross, GA, USA). For samples from inoculum, day 30, the V4 variable region of the 16S rRNA gene was amplified and sequenced to detect microbial community dynamics. The primers used for the PCR were 515F (5′‐ GTGCCAGCMGCCGCGGTAA‐3′) and 806R (5′‐ GGACTACHVGGGTWTCTAAT‐3′) [<xref rid="elsc1599-bib-0028" ref-type="bibr">28</xref>]. The PCR amplification uses the Pfu high‐fidelity DNA polymerase of TransGen Biotech Company (Beijing, China). The PCR products were further sequenced using Illumina's Novaseq platform with a 250 bp paired‐end strategy. To analyze the activity of microbes during hydrolysis, fermentation, acetogenesis, and methanogenesis, the total RNA samples at day 3, 9, 12, 20, 25, and 45 were extracted using RNA PowerSoil Total RNA Isolation Kit (12866‐25) (MoBio, USA) according to the manufacturer's instructions. The PrimeScript 1st Strand cDNA Synthesis Kit was used to synthesize cDNA from total RNA. The V4 variable region of cDNA was amplified and sequenced in the same manner as DNA amplicon sequencing described above. The raw sequencing results were deposited in China National GenBank Database with accession number CNP0004386.</p></sec><sec id="elsc1599-sec-0070"><label>2.4</label><title>Bioinformatics analysis</title><p>Fastp was used to check the quality of the raw data and the primers were removed by using cutadapt software (Germany) according to the primer information at the beginning and the end of the sequence. The obtained clean data was analyzed with QIIME2 (v2022.2; USA) pipeline and the DADA2 algorithm [<xref rid="elsc1599-bib-0029" ref-type="bibr">29</xref>]. The following steps were performed: 1, filter out noisy sequences, 2, correct errors in marginal sequences, 3, remove chimeras sequence and singletons, 4, join denoised paired‐end reads, and 5, conduct sequence dereplication using a command of qiime dada2 denoise‐paired with the parameter of –p‐trunc‐len‐f 220 and –p‐trunc‐len‐r 200. A total of 7645 ASVs (Amplicon Sequence Variants) were calculated from 51 samples repenting the microbial diversity in all experimental conditions. The representative sequences of the important OTUs were manually blasted against NCBI 16S ribosomal RNA sequences (Bacteria and Archaea) database to calculate the specific identity and coverage with the best hit organisms. To determine if the richness of the samples was fully sequenced, alpha rarefaction was analyzed using a command of qiime diversity alpha‐rarefaction and visualized by the qiime2 view website. A specific taxonomic classifier was trained based on the Silva_138.1_SSURef_NR99 database and used for taxonomic analysis [<xref rid="elsc1599-bib-0030" ref-type="bibr">30</xref>]. The specific procedure for classifier training is presented in Supplementary Information Text <xref rid="elsc1599-supitem-0001" ref-type="supplementary-material">1</xref>.</p></sec><sec id="elsc1599-sec-0080"><label>2.5</label><title>Statistical analysis</title><p>The biochemical data including methane gas analyses and VFA were visualized by Origin 2021. The statistical analyses including redundancy analysis (RDA), principal coordinate analysis (PCoA), and correlation analysis were performed using the R package vegan [<xref rid="elsc1599-bib-0031" ref-type="bibr">31</xref>]. The significant differences among the microbiome groups were tested with Mann–Whitney U test. The biomarkers of the microbiome in the reactors in different organic loads were identified with Linear Discriminant Analysis [<xref rid="elsc1599-bib-0032" ref-type="bibr">32</xref>]. The microbiome diversity and dynamics were visualized by Microeco v0.17.0 [<xref rid="elsc1599-bib-0033" ref-type="bibr">33</xref>].</p></sec></sec><sec id="elsc1599-sec-0090"><label>3</label><title>RESULTS</title><sec id="elsc1599-sec-0100"><label>3.1</label><title>Distinctive products profiles were formulated in biowaste fermentation processes</title><p>To modulate the products profiles, the biowaste fermentation was performed under low (5 g‐VS/L), medium (20 g‐VS/L) and high (40 g‐VS/L) and with various additives, that is, 2‐bromoethanesulfonate (BES, 50 mM), magnetite iron (mFe, 50 mg/L), reduce iron (rFe, 50 mg/L) and activated carbon (Ac, 5 g/L). BES was a structural analog of mercaptoethane sulfonate (CoM) and was added to inhibit the methanogenesis and to promote VFA production during low‐load biowaste fermentation [<xref rid="elsc1599-bib-0025" ref-type="bibr">25</xref>] The mFe, rFe, and AC were proved to promote electron transfer during biowaste fermentation and was added to high‐load fermentation to influenced the fermentation product profiles.</p><sec id="elsc1599-sec-0110"><label>3.1.1</label><title>The overall substrate conversion</title><p>The substrate conversion efficiency decreased with the increase of organic loads. The low organic load achieved high substrate conversion efficiency, achieving 440 CH<sub>4</sub>‐eq/g‐VS (without 2‐bromoethanesulfonate, BES. L‐OL) and 415 CH<sub>4</sub>‐eq/g‐VS (with BES, L‐BES) (Figure <xref rid="elsc1599-fig-0001" ref-type="fig">1B</xref>). The medium load reactor showed low conversion efficiency (197 CH<sub>4</sub>‐eq/g‐VS) during the first 30 days, and the yield increased to 373 CH<sub>4</sub>‐eq/g‐VS by day 45 due to the initiation of methane production. The high‐load fermentation (with no treatment) processes yielded 208 ± 9 CH<sub>4</sub>‐eq/g‐VS on average.</p><fig position="float" fig-type="FIGURE" id="elsc1599-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>Total production and proportion of production. A, The pH values during biowaste fermentation. B, The production yields of biowaste fermentation. C The proportion of products of low (L‐OL) and middle organic load (M‐OL) biowaste fermentation. D, The proportion of products of high organic load (H‐OL) biowaste fermentation.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="ELSC-24-2300216-g004.jpg"/></fig><p>Overall, the substrate was converted mainly to methane and VFAs. The product profile of the low‐ and medium load fermentation dynamically changed during the fermentation process with VFAs as the main products at the beginning and methane as the main fermentation products towards the end of the fermentation. For high‐load fermentation and low‐load fermentation with BES addition, the product profiles were formulated at the beginning (day 3) with VFAs as the dominant product and maintained for at least 20 days.</p></sec><sec id="elsc1599-sec-0120"><label>3.1.2</label><title>Methane produced from biowaste fermentation</title><p>Methane was mainly produced in low‐ and medium‐load biowaste fermentation and the CH<sub>4</sub> accounted for 72.9% and 85.3% of all products for low and medium‐load fermentation processes (Figure <xref rid="elsc1599-fig-0001" ref-type="fig">1C</xref>). The methanogenic activity was significantly inhibited by BES and decreased by 4.5 times compared with the reactor without BES addition. Besides BES, the low pH led by high organic loads also inhibited the methanogenesis. Specifically, the pH values were below 7 for the medium‐load between day 3 to day 9 and for the high‐load reactors (without AC addition) between day 3 to day 30. Consequentially, no methane production was observed during the above‐mentioned periods. It is worth noting the AC addition to the high‐load fermentation led to increase of pH and initiation of methanogenic activity at day 25.</p><p>The methanation process has been extensively applied for reduction biowaste reduction and valorization. The produced biogas can be used for heat and electricity production. However, recent studies argued that the low market value of methane hindered the profitability of the biogas industries and thus further limited the further expansion of its application [<xref rid="elsc1599-bib-0034" ref-type="bibr">34</xref>]. Therefore, value added products extraction has to be considered for biowaste valorization.</p></sec><sec id="elsc1599-sec-0130"><label>3.1.3</label><title>VFAs produced from biowaste fermentation</title><p>To increase the values recovered from biowaste, the high‐value VFAs could be targeted as final biowaste fermentation products instead of methane. In the current study, the VFAs were mainly produced in the early stage of low‐ and medium‐load fermentation, low‐load fermentation with BES addition, and high‐load fermentation.</p><p>During the early stage of low‐load fermentation, propionic acid was dominant accounting for 22% of the total produced VFAs in the first 9 days, followed by acetic acid (19%), isobutyric acid (10%), butyric acid (10%). For the early stage of medium‐load fermentation, the acetic acid proportion was the most abundant and reached 43% on average. In both conditions, the accumulated VFAs were converted to methane during the late stage of fermentation. In the case of BES added low‐load fermentation, the accumulated VFAs were acetic acid, propionic acid isobutyric acid, and butyric acid accounting for 31%, 20%, 9%, and 10%, respectively.</p><p>Different from the VFAs accumulated in low‐ and medium‐load fermentation reactors, the butyric acid was the dominant acid with an average of 32% of the total product in high‐load reactors. Following the butyric acid, acetic acid was also the main product of VFAs, and it was about 21% before day 30 on average, yet it decreased to 6.35% on day 45. The AC addition to the high‐load fermentation reactor led to a significant decrease of acetate during day 25 to 30, indicating that acetate methanation occurred. The low butyrate and high acetate proportion further suggested the butyrate conversion to acetate. No significant difference was observed for mFe and rFe addition.</p></sec></sec><sec id="elsc1599-sec-0140"><label>3.2</label><title>Composition and activity profiles of biowaste fermentation microbiome</title><p>It is plausible that a complex microbiome involved in biowaste fermentation and the activity of the microbes dynamically changed according to the nutrient availability during the fermentation process [<xref rid="elsc1599-bib-0035" ref-type="bibr">35</xref>]. Thus, both 16S rDNA gene and rRNA amplicon sequencing were performed to characterize the composition and activity profile of the microbiome (Figure <xref rid="elsc1599-supitem-0004" ref-type="supplementary-material">S1A</xref>). The former showed the composition all members including both active, dormant, and dead members. While the latter describes only the active members at the time of sampling. Comparing the composition (DNA‐based) and activity (RNA‐based) profiles, the activity profile showed significantly higher beta‐diversity than composition profiles (Figure <xref rid="elsc1599-supitem-0004" ref-type="supplementary-material">S1B</xref>), suggesting RNA‐based survey reflected more distinctive features among different fermentation microbiomes. The observation is consistent with the previous transcriptomic survey, showing that the microbes changed their activity profiles in the community in face of the changes in the environments [<xref rid="elsc1599-bib-0023" ref-type="bibr">23</xref>]. The relatively similar composition profiles were attributed to the batch operation, where microbiome biomass was retained in the reactor during the entire fermentation process. Thus, the activity profiles were selected to further unveil the dynamics of microbiome activity during biowaste fermentation. The relative activity, taxonomy assignment, and their representative sequences were presented in Supplementary Dataset <xref rid="elsc1599-supitem-0001" ref-type="supplementary-material">1</xref>.</p><p>To record the dynamics of microbiome activity, time‐series RNA samples were obtained. The overall PCoA analysis (Figure <xref rid="elsc1599-fig-0002" ref-type="fig">2A</xref>) of the fermentation microbiome activity profiles showed that different organic loads led to significantly different microbial community activity profile (<italic toggle="yes">P</italic> &lt; 0.05). According to the coordinate of the microbiomes from different days, the microbiomes at day 3 showed less compositional differences than the later fermentation stages (day 9‐day 45), suggesting the microbial community gradually developed distinctive activity profiles under different organic loads. The association between microbial community and fermentation profiles was further explored with RDA analysis (Figure <xref rid="elsc1599-fig-0002" ref-type="fig">2B</xref>). The nexus between microbiome activity profiles and their fermentation products were visualized with the first two RDA axes, jointly explaining 70.3% of the total microbiome variation. On both RDA axes, the methane correlated negatively with most VFAs (except butyrate) because VFAs were the intermediates of methane production. The mantel test has shown that the fermentation products (except the rare caproic acid) significantly correlated with the microbiome community (Table <xref rid="elsc1599-supitem-0004" ref-type="supplementary-material">S1</xref>). Specifically, <italic toggle="yes">Acetornicrobium</italic>, <italic toggle="yes">Coprothermobacter</italic>, and <italic toggle="yes">Methanosarcina</italic> positively correlated with methane yields and negatively correlated with VFAs yields, suggesting their important roles during methanogenesis and syntrophic acids oxidation. Moreover, butyrate was found positively related to <italic toggle="yes">Streptococcus</italic> and negatively related to <italic toggle="yes">Clostridia</italic> D8A‐2 which belongs to <italic toggle="yes">Advenella</italic>, suggesting their potential function of producing and consuming butyrate.</p><fig position="float" fig-type="FIGURE" id="elsc1599-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>The diversity of the biowaste fermentation microbiome. (A) The principal coordinates analysis of microbial community. (B) Redundancy analysis (RDA) of the nexus between the microbial community and fermentation products. (C) The Chao1 richness index of high (H‐OL), middle (M‐OL) and low (L‐OL) organic load microbiome. (D) The weighted UniFac distance within H‐OL, M‐OL and L‐OL microbiome. The statistical significance of the difference of alpha and beta diversity metrics between reactors with different organic loads was examined with anova test.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="ELSC-24-2300216-g003.jpg"/></fig><p>Future comparison of the Chao1 richness index of the fermentation microbiomes (Figure <xref rid="elsc1599-fig-0002" ref-type="fig">2C</xref>) suggested that the high‐load fermentation microbiome showed significantly higher alpha diversity compared with medium and low‐load fermentation microbiomes. As the added additives didn't significantly affect the alpha diversity of the microbiome in the high‐load reactors (Figure <xref rid="elsc1599-supitem-0004" ref-type="supplementary-material">S2</xref>), the relative higher diversity in the high‐load fermentation microbiome were potentially attributed to the wide availability of substrates. Nevertheless, the weighed UniFrac distance between the microbiome within three organic loads were visualized on Figure <xref rid="elsc1599-fig-0002" ref-type="fig">2D</xref>. The results showed that the high‐load biowaste fermentation microbiome presented significantly higher beta‐diversity than medium‐load and low‐load fermentation microbiome.</p></sec><sec id="elsc1599-sec-0150"><label>3.3</label><title>BES inhibited the methanogen's activity during low‐load biowaste fermentation</title><p>To illustrate the explicit correlation between microbial activity dynamics and fermentation processes, the detailed microbial activity profiles were analyzed and compared in the following sections. In the current study, a methanogenic community was naturally formulated under low‐load fermentation condition because a methanogenic inoculum was used. Besides the conventional methanogenic microbiome, a VFA‐producing microbiome was formulated with the addition of BES. The detailed activity profiles of low‐load methanogenic and VFA‐producing microbiome were presented in Figure <xref rid="elsc1599-fig-0003" ref-type="fig">3A</xref>, and the compassion of selected important microbial families was presented in Figure <xref rid="elsc1599-fig-0003" ref-type="fig">3B</xref>.</p><fig position="float" fig-type="FIGURE" id="elsc1599-fig-0003" orientation="portrait"><label>FIGURE 3</label><caption><p>The activity profile the low‐load biowaste fermentation microbiome. (A) The relative activity of the most abundant families in low organic load biowaste fermentation. (B) The activity of abundant families with typical dynamicity trends and their activity comparison between with and without BES addition. The color of the y‐axis labels in (A) represents their dynamics features as grouped on the (B).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="ELSC-24-2300216-g005.jpg"/></fig><sec id="elsc1599-sec-0160"><label>3.3.1</label><title>The methanogenic activity in low‐load fermentation</title><p>According the microbiome activity profiles, archaeal activity accounting for 6.59% of the overall prokaryote activity on average in the low‐load biowaste fermentation system. Among the archaeal community, two <italic toggle="yes">Methanosaetaceae</italic> ASVs accounted for more than half of the methanogens, which were 99.21% and 98.82% identical to <italic toggle="yes">Methanothrix</italic> and <italic toggle="yes">soehngenii</italic>. Besides the <italic toggle="yes">Methanothrix</italic> ASVs, <italic toggle="yes">Methanobacteriaceae, Methanomicrobiaceae</italic> and <italic toggle="yes">Methanoscrcinaceae</italic> were also active methanogens, showing the mean activity of 0.912%, 0.65% and 0.58% during the entire fermentation process (Figure <xref rid="elsc1599-fig-0003" ref-type="fig">3</xref>). The highest relative activity for individual methanogenic family were 8.48% for <italic toggle="yes">Methanosaetaceae</italic> on day 9, 1.59% for <italic toggle="yes">Methanobacteriaceae</italic> on day 25, 1.32% for <italic toggle="yes">Methanomicrobiaceae</italic> on day 12, and 1.10% for <italic toggle="yes">Methanoscrcinaceae</italic> on day 20.</p></sec><sec id="elsc1599-sec-0170"><label>3.3.2</label><title>The bacterial activity in low‐load fermentation</title><p>Besides the methanogens, the bacterial community dynamically changed along the fermentation process. <italic toggle="yes">Oscillospiraceae</italic> showed high activity at early stage (3–12 days) fermentation, with the highest activity of 6.74% at day 3. Its activity sharply decreased at day 20 and almost disappeared at day 45 (0.09%). Similarly, the <italic toggle="yes">Bacteroidaceae</italic> and <italic toggle="yes">Tannerellaceae</italic> were only active at day 3 (5.47% and 5.35%, respectively) and decreased to lower than 0.2% during the fermentation after day 9. The high activity of these members suggested its participation in hydrolysis during biowaste fermentation and their hydrolytic function could also be confirmed with the physiology of the representative strains within the taxa [<xref rid="elsc1599-bib-0036" ref-type="bibr">36</xref>].</p><p>On the contrary, the <italic toggle="yes">Synergistaceae</italic>, <italic toggle="yes">Rhodocyclaceae</italic> and D8A‐2 increased their relative activity during sludge fermentation (to 6.20%, 3.87%, and 15.76%, respectively). The activity increase of <italic toggle="yes">Dysgonomonadaceae</italic> and <italic toggle="yes">Synergistacaece</italic> during later phase of biowaste fermentation consisted with the previous study and was mainly attributed to their contribution the degradation of recalcitrant polysaccharides [<xref rid="elsc1599-bib-0022" ref-type="bibr">22</xref>] and syntrophic acids oxidation [<xref rid="elsc1599-bib-0037" ref-type="bibr">37</xref>]. Interestingly, D8A‐2, a poorly characterized family from <italic toggle="yes">Firmicutes</italic> showed that highest activity on Day 45 (15.76%). Previous studies suggested its function as an ammonia tolerant syntrophic acetate oxidizer [<xref rid="elsc1599-bib-0038" ref-type="bibr">38</xref>, <xref rid="elsc1599-bib-0039" ref-type="bibr">39</xref>] and form syntrophic activity with hydrogenotrophic methanogens. In the current study, the syntrophic activity among D8A‐2, <italic toggle="yes">Methanomicrobiaceae</italic> and <italic toggle="yes">Methanobacteriaceae</italic> could be suggested based on their co‐occurrence during the later phase of the low‐load biowaste fermentation.</p></sec><sec id="elsc1599-sec-0180"><label>3.3.3</label><title>BES inhibited methanogen's activity and led to distinctive bacterial activity profiles</title><p>The addition of BES significantly inhibited the activity of the methanogens (0.01% on average). In addition, the activity of the syntrophic D8A‐2 was also inhibited (<italic toggle="yes">P</italic> &lt; 0.05). The bacteria activity dynamics showed a similar tendency as the low‐load reactor without BES addition, with the hydrolytic <italic toggle="yes">Oscillospiraceae</italic> (11.56%), <italic toggle="yes">Bacteroidaceae</italic> (8.08%), and <italic toggle="yes">Tannerellaceae</italic> (4.99%) accounting for the major activity at day 3. Compared with the microbiome without BES addition, the bacteria community developed distinctive activity profiles with BES addition during the following fermentation. The BES added microbiome showed significantly higher activity of many fermentative families such as <italic toggle="yes">Alcliganaceae</italic>, <italic toggle="yes">Dysgonomonadaceae</italic>, and <italic toggle="yes">Bacillaceae</italic> (<italic toggle="yes">P</italic> &lt; 0.05) consistent with VFA accumulation in the reactor. Specifically, <italic toggle="yes">Alcliganaceae</italic> increased its activity from almost 0 to 13.06% (day 20) during fermentation. <italic toggle="yes">Dysgonomonadaceae</italic> showed relative activity of 1.04% on day 3 and maintained at 5.2% on average during the following fermentation processes.</p></sec></sec><sec id="elsc1599-sec-0190"><label>3.4</label><title>Methanogen's activity was inhibited through the increase of organic loads</title><p>Besides the addition of BES, the increase in the organic load could also lead to inhibition on methanogenesis and promotion of VFA accumulation. In this study, we increased the organic load to 20 g/L (medium load) and 40 g/L (high load). The medium load reactor temporally promoted the VFA accumulation at the early‐stage fermentation but resumed methanogenesis during the later stage (Figure <xref rid="elsc1599-fig-0001" ref-type="fig">1</xref>). The increase of organic load changed the composition and activity of the biowaste fermentation microbiome (Figure <xref rid="elsc1599-fig-0004" ref-type="fig">4</xref>). The linear discriminant analysis (LDA) effect size (LEfSe) method identified 466 biomarkers in high (189), medium (59) and low (218) load reactors (Supplementary Dataset <xref rid="elsc1599-supitem-0002" ref-type="supplementary-material">2</xref>). Figure <xref rid="elsc1599-fig-0004" ref-type="fig">4A</xref> presented the top 200 taxa and 50 biomarkers with highest LDA scores. The results showed major <italic toggle="yes">Firmicutes</italic> taxa were biomarkers for high‐load fermentation with a few exceptions such as <italic toggle="yes">Peptostreptococcaceae, Bacillaceae</italic> and <italic toggle="yes">Syntrophomonadaceae</italic>. On the contrary, most taxa in the <italic toggle="yes">Proteobacteria</italic>, <italic toggle="yes">Bacteroidota</italic>, <italic toggle="yes">Synergistota</italic> and <italic toggle="yes">Desulfobacterota</italic> were presented in low‐load reactors. The medium load reactors showed the lowest number of unique biomarkers. The less biomarkers for medium load fermentation microbiome were because the most microbial members in medium reactors were shared with high or low‐load fermentation microbiome.</p><fig position="float" fig-type="FIGURE" id="elsc1599-fig-0004" orientation="portrait"><label>FIGURE 4</label><caption><p>The activity profiles and biomarkders of high (H‐OL), middle (M‐OL) and low (L‐OL) organic load biowaste fermentation microbiome. (A) The biomarks in L‐OL, M‐OL and H‐OL biowaste fermentation microbiome identified by Linear discriminant analysis EFfect SizE (LEfSe) method. (B) The activity profiles of the L‐OL, M‐OL, and H‐OL biowaste fermentation microbiome.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="ELSC-24-2300216-g001.jpg"/></fig><p>Specifically, comparing with L‐OL microbiome, the M‐OL microbiome showed activity of a few additional hydrolytic members during the early‐stage fermentation (day 3 to 12), such as <italic toggle="yes">Carnobacteriaceae</italic> (10.42%), <italic toggle="yes">Enterobacteriaceae</italic> (2.17%), <italic toggle="yes">Ruminococcaceae</italic> (2.93%) and <italic toggle="yes">Streptococcaceae</italic> (1.82%), in addition to the hydrolytic members that were previously in load reactors, including <italic toggle="yes">Oscillospiraceae</italic> (8.56%), <italic toggle="yes">Bacteroidaceae</italic> (6.54%), and <italic toggle="yes">Tannerellaceae</italic> (2.87%). Similar to the previously identified hydrolytic members, these hydrolytic members were specifically enriched during the early stages of biowaste fermentation. Different from the L‐OL reactors, the relative activity of <italic toggle="yes">Coprothermobacteriaceae</italic> gradually increased during M‐OL fermentation and reached to 38.74% during day 25. The <italic toggle="yes">Coprothermobacteriaceae</italic> were originally suggested as proteolytic anaerobic bacteria [<xref rid="elsc1599-bib-0040" ref-type="bibr">40</xref>]. However, recent studies suggested it was also involved in syntrophic acid oxidation with the production of hydrogen, ammonia assimilation, amino acid biosynthesis and general protein turnover [<xref rid="elsc1599-bib-0041" ref-type="bibr">41</xref>]. In the current study, <italic toggle="yes">Coprothermobacteriaceae</italic>’s low activity (2.11% on average) at early phase (day 3–12) fermentation and high activity (27.99% on average) at the later phase (day 20–25) suggested its potential roles of syntrophic acid oxidation. Finally on day 45, the activity of <italic toggle="yes">Methanoscrcinaceae</italic> increased to 22.35% consisting with the increase of methane yields on day 45. The increase of methane yields attributed to <italic toggle="yes">Methanoscrcinaceae's</italic> capability of converting acetate to methane.</p><p>Further increasing the organic load caused irreversible inhibition on methanogenesis and the activity of <italic toggle="yes">Methanosarcinaceae</italic> was 0.58% on average during the entire fermentation period. The hydrolytic bacteria that specifically enriched in M‐OL fermentation (<italic toggle="yes">Caloramatoraceae</italic>, <italic toggle="yes">Enterobacteriaceae</italic>, <italic toggle="yes">Ruminococcaceae</italic> and <italic toggle="yes">Streptococcaceae</italic>) were also active during high‐load fermentation, with relatively activity as 15.57%, 6.01%, 5.19% and 8.20% on average for during day 3–12. In addition, we observed a gradual increase of <italic toggle="yes">Caloramatoraceae</italic> during the entire fermentation period and reached to 66.77% at day 45. There were limited knowledge about the specific functional role of <italic toggle="yes">Caloramatoraceae</italic> during biowaste fermentation<sub>,</sub> except for the report that produce formate, aceate, ethanol, and CO2 as the main fermentation products. [<xref rid="elsc1599-bib-0042" ref-type="bibr">42</xref>]<sub>.</sub> Nevertheless, the high activity (31%) of the <italic toggle="yes">Caloramatoraceae</italic> was also observed in a biowaste fermentation system with 20 kg COD m<sup>−3</sup> vinasse concentration and VFA as the main fermentation products [<xref rid="elsc1599-bib-0043" ref-type="bibr">43</xref>]. The results suggested that <italic toggle="yes">Caloramatoraceae</italic> was a potential key functional member during the high‐load biowaste fermentation process.</p></sec><sec id="elsc1599-sec-0200"><label>3.5</label><title>Activated carbon promoted the activity of syntrophic bacteria and facilitated methane production</title><p>To further modulate the fermentation efficiency and the products profiles, we added mFe, rFe, and AC to the high‐load fermentation process. The addition of mFe and rFe led to few significant changes on the microbiome activity profile (Figure <xref rid="elsc1599-supitem-0004" ref-type="supplementary-material">S3</xref>) and fermentation products profiles (Figure <xref rid="elsc1599-fig-0001" ref-type="fig">1</xref>). While the addition of activated carbon has significantly changed the activity profile of biowaste fermentation microbiome.</p><p>The profound increase of <italic toggle="yes">Methanosarcinaceae</italic> activity at day 25 was the most important difference between the microbial activity profiles with and without AC addition, consistent with the initiation of methanogenesis and the decrease of acetate from day 25. The promoted <italic toggle="yes">Methanosarcinaceae</italic> member mainly was attributed by a ASV, which was 100% identical to <italic toggle="yes">Methanosarcina spelaei</italic>, Although <italic toggle="yes">Methanosarcina</italic> members are known to mediate both hydrogenotrophic and acetolactic methanogenesis, previous study showed that <italic toggle="yes">M. spelaei</italic> mainly grew on H<sub>2</sub> and CO<sub>2</sub> and very low growth was observed on acetate [<xref rid="elsc1599-bib-0044" ref-type="bibr">44</xref>, <xref rid="elsc1599-bib-0045" ref-type="bibr">45</xref>]. Thus, initiation of <italic toggle="yes">Methanosarcinaceae</italic> activity requires the help of H<sub>2</sub> producing bacteria.</p><p>Among the bacterial families, the added AC led to a significant increase of <italic toggle="yes">Bacteroidaceae</italic>, and <italic toggle="yes">Eubacteriaceae</italic> (Figure <xref rid="elsc1599-fig-0005" ref-type="fig">5</xref>, Supplementary Dataset <xref rid="elsc1599-supitem-0003" ref-type="supplementary-material">3</xref>). The <italic toggle="yes">Bacteroidaceae</italic> were enriched for 4.0 times especially during the early‐stage fermentation. All <italic toggle="yes">Bacteroidaceae</italic> members in the H‐OL biowaste fermentation microbiome were mainly attributed to two ASVs, with 100% and 99.21% identity to <italic toggle="yes">Bacteroides graminisolvens</italic>. The <italic toggle="yes">B. graminisolvens</italic> was initially discovered from rice‐straw residue in a methanogenic reactor treating waste from cattle farms suggesting its importance during biowaste fermentation and potentially formulating syntrophic activity with methanogens through H<sub>2</sub> transfer. The relatively high activity of <italic toggle="yes">B. graminisolvens</italic> in the H‐AC group was potentially one of the reasons for the methanogenic activity in the late stage of biowaste fermentation. Besides <italic toggle="yes">Bacteroidaceae</italic>, <italic toggle="yes">Eubacteriaceae</italic> increased 4.8 times in H‐AC reactors compared with H‐OL. The main <italic toggle="yes">Eubacteriaceae</italic> ASV in the biowaste fermentation system is 100% identical to <italic toggle="yes">Eubacterium aggregans</italic>. <italic toggle="yes">E. aggregan</italic> is a homoacetogenic bacterium from olive mill wastewater treatment digestor [<xref rid="elsc1599-bib-0046" ref-type="bibr">46</xref>] and has been suggested to play an important role of acetate production under relatively high hydrogen partial pressure. The positive correlation between the activity of <italic toggle="yes">Methanosarcinaceae</italic> and <italic toggle="yes">Eubacteriaceae</italic> because both families use H<sub>2</sub> as energy source and will be active under high H<sub>2</sub> partial pressures. With <italic toggle="yes">Methanosarcinaceae</italic> and <italic toggle="yes">Eubacteriaceae</italic> consuming H<sub>2</sub>, the activity of known syntrophic acids oxidation bacteria, that is, <italic toggle="yes">Synergistaceae</italic>, <italic toggle="yes">Coprothermobacteraceae</italic> and <italic toggle="yes">Syntrophomonadaceae</italic>, increased to 2.98%, 2.21%, and 1.96% respectively, converting the accumulated butyrate to acetate and further to methane.</p><fig position="float" fig-type="FIGURE" id="elsc1599-fig-0005" orientation="portrait"><label>FIGURE 5</label><caption><p>The change in microbial composition led by addition of activated carbon. (A) The significant difference of bacterial activity between the reactors with and without activated carbon addition. (B) The dynamics of the bacterial families with most significant differences.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-9" orientation="portrait" xlink:href="ELSC-24-2300216-g002.jpg"/></fig><p>In summary, activated carbon promoted the activity of H<sub>2</sub> producing bacteria (<italic toggle="yes">Bacteroides</italic>) and led to the accumulation of H<sub>2</sub> in the fermentation systems. Before the initiation of methanogenesis, the H<sub>2</sub> were first utilized by homoacetogenic bacteria (<italic toggle="yes">Eubacteriaceae</italic>), and VFA was produced as main products. With the H<sub>2</sub> accumulated during the fermentation, the methanogens (<italic toggle="yes">Methanosarcinaceae</italic>) were activated and consumed both H<sub>2</sub> and acetate for methane production. With the help of the H<sub>2</sub> scavengers (<italic toggle="yes">Eubacteriaceae</italic> and <italic toggle="yes">Methanosarcinaceae)</italic>, the H<sub>2</sub> patrial pressure in the reactor decreased, and syntrophic acids oxidation bacteria were activated, converting butyrate to acetate and methane.</p></sec></sec><sec id="elsc1599-sec-0210"><label>4</label><title>DISCUSSION</title><p>Fermentation processes have shown great potential for biowaste reduction and valorization with a wide range of products. The results of current study showed that methanogenesis inhibitor, organic loads, and activated carbon could modulate the biowaste fermentation processes and lead distinctive fermentation products profiles. Although mainly methanogenic fermentation, also known as anerobic digestion, has been extensively applied in large‐scale infrastructures, other value‐added products, that is, VFAs, are also of great interest for further research and technology development.</p><p>The results showed that biowaste fermentation could formulate distinctive product profiles with wide range of applications. Specifically, a methanogenic microbiome naturally occurred in low‐load fermentation, but the products could be modulated to VFA‐dominant profiles by applying methanogenic inhibitors or increasing the organic loads (Figure <xref rid="elsc1599-fig-0001" ref-type="fig">1</xref>). The current experiment indicated that some conductive additives (rFe and mFe) had limited effect on the products profile. This observation contradicted previous experiments where the VFA products were significantly modulated by rFe and mFe [<xref rid="elsc1599-bib-0019" ref-type="bibr">19</xref>, <xref rid="elsc1599-bib-0047" ref-type="bibr">47</xref>]. The inconsistency between the different experiments could attribute to the difference on dosage, reaction time and endogenous microbial composition in the reactors. Further investigations are required to reveal the deeper insight into the effect of conductive additives on fermentation microbiome. Acetate was found as the most abundant VFAs during low‐load fermentation with BES, whereas butyrate as the major VFAs during high‐load fermentation. The VFAs produced from the biowaste fermentation could be used in a wide scenario depending on its specific composition. For example, the acetate‐dominated VFAs produced for sludge fermentation could be used as carbon source supplements in the wastewater treatment facilities and decreasing the operation cost and carbon footprint of biological carbon removal [<xref rid="elsc1599-bib-0048" ref-type="bibr">48</xref>]. While butyrate‐dominant VFA streams showed high potential on the biosynthesis of biodegradable polymers. Specifically, butyrate could obtain the highest maximum dry cell weight of 1.53 ± 0.06 g/L and polyhydroxyalkanoates (PHA) production of 1.04 ± 0.04 g/L [<xref rid="elsc1599-bib-0049" ref-type="bibr">49</xref>]. The current study showed that adding a methanogenic inhibitor (BES) a is undoubtedly the most efficient method to promote VFA production on a laboratory scale. However, this method has a major drawback, which is the cost of BES. In a large‐scale application, the choice of method has to consider the downstream application of produced VFAs. When the produced VFAs tend to be used in low‐value scenario, for example, carbon source for wastewater treatment, increasing organic load would be suitable as the method is cheap to operate. On the other hand, if the produced VFAs are aimed to be used as pressor to produce high value products, for example, PHAs, the methanogenic inhibitor could be considered. In this case the type and dosage of the inhibitor could be further optimized to decrease the operational cost in the large‐scale application.</p><p>Based on the correlation between the microbial activity and fermentation process, we also proposed several microbes’ novel functional roles and niche preferences during biowaste hydrolysis and fermentation, which provided new knowledge to inform the development of microbiome‐guided process optimization approaches. For bacteria, members of family D8A‐2 and H<sub>2</sub>‐producers <italic toggle="yes">Coprothermobacteriaceae</italic> expressed activity positively related to methanogenic activities during waste fermentation, suggesting that these yet‐to‐be‐cultured anaerobes may play an important role in syntrophic acids oxidation during the later phase of low‐and medium‐load fermentation (day 20 to 45, Figures <xref rid="elsc1599-fig-0003" ref-type="fig">3</xref> and <xref rid="elsc1599-fig-0004" ref-type="fig">4</xref>, Supplementary Information Figure <xref rid="elsc1599-supitem-0004" ref-type="supplementary-material">S4</xref>). Our hypothesis is well supported by prior reports of highly positive correlation (i) between <italic toggle="yes">Coprothermobacteriaceae</italic> members and H<sub>2</sub>‐utilising <italic toggle="yes">Hydrogenedentiales</italic> [<xref rid="elsc1599-bib-0050" ref-type="bibr">50</xref>, <xref rid="elsc1599-bib-0051" ref-type="bibr">51</xref>] and (ii) between D8A‐2 and hydrogenotrophic methanogen <italic toggle="yes">Methanoculleus</italic> [<xref rid="elsc1599-bib-0052" ref-type="bibr">52</xref>]. Thus, precise control of D8A‐2 and <italic toggle="yes">Coprothermobacteriacea</italic>’s activity could potentially lead to VFA accumulations during biowaste fermentation and achieve similar effects as BES. Another interesting observation is that <italic toggle="yes">Caloramatoraceae</italic> members dominate the microbial activity (more than 50%) t during the late stage of high‐load fermentation. Although similar observation has also been made during high‐load fermentation of vinasse [<xref rid="elsc1599-bib-0043" ref-type="bibr">43</xref>], the specific functions of <italic toggle="yes">Caloramatoraceae</italic> are still not clear. Previous studies suggested that <italic toggle="yes">Caloramatoraceae</italic> members could be hydrolytic microbes, which mainly degrade cellulose and other complex organic compounds by secreting hydrolytic enzymes [<xref rid="elsc1599-bib-0053" ref-type="bibr">53</xref>, <xref rid="elsc1599-bib-0054" ref-type="bibr">54</xref>]. However, this activity was deducted based on the functionality of the overall microbiome and the relative abundance of <italic toggle="yes">Caloramatoraceae</italic> members in the community. In the current study, considering the relatively stable fermentation product profiles of high fermentation over time, what are the carbon and energy source for <italic toggle="yes">Caloramatoraceae</italic>’s activity remained to be a mystery. Further transcriptomic and proteomic surveys could be used to illustrate the in‐situ metabolic traits of <italic toggle="yes">Caloramatoraceae</italic> during biowaste fermentation and the <italic toggle="yes">Caloramatoraceae's</italic> survival strategies could provide new knowledge on the function distribution in complex microbiome, such as biowaste fermentation microbiome. Besides <italic toggle="yes">Caloramatoraceae</italic>, the activity of H<sub>2</sub> scavenging <italic toggle="yes">Eubacteriaceae</italic> and <italic toggle="yes">Methanosarcinaceae</italic> played an important role in balancing the H<sub>2</sub> for acetate and methane production during high‐load fermentation. Current results implied that inhibiting the <italic toggle="yes">Eubacteriaceae</italic> activity could potentially accelerate the H<sub>2</sub> accumulation during biowaste fermentation and trigger the methanogenesis. On the other hand, promoting the activity of <italic toggle="yes">Eubacteriaceae</italic> will lead to the accumulation of acetate during biowaste fermentation.</p><p>As for the methanogenic archaea, the current study observed that M<italic toggle="yes">ethanosarcinaceae</italic> sp. (98.03% identical to <italic toggle="yes">Methanosarcina soligelidi</italic>.) and <italic toggle="yes">Methanosarcina spelaei</italic> were the most active methanogens for low‐, medium‐ and high‐load fermentation. Although <italic toggle="yes">Methanosarcinaceae</italic> members were known for versatile metabolism, including hydrogenotrophic and acetolactic methanogenesis, the previous study showed that both <italic toggle="yes">M. soligelidi</italic> and <italic toggle="yes">M. spelaei</italic> mainly grew on H<sub>2</sub> and CO<sub>2</sub>, while they exhibited very low growth on acetate [<xref rid="elsc1599-bib-0044" ref-type="bibr">44</xref>, <xref rid="elsc1599-bib-0045" ref-type="bibr">45</xref>], suggesting that the hydrogen producing bacteria played an important role in the hydrogenotrophic methanogenesis of biowaste fermentation processes under medium‐ and high‐load conditions.</p><p>Combined, although the up‐mentioned proposals of microbial functional roles and niche preferences required further physiology investigation on the relevant microbial strains, the results of current study benefit studies on biowaste fermentation microbiome and provided fundamental basis to develop microbiome‐guided optimizing strategies for harvesting target fermentation products from biowastes.</p></sec><sec id="elsc1599-sec-0220"><label>5</label><title>CONCLUDING REMARKS</title><p>In the current study, the activity profiles of the biowaste fermentation process and its microbiome dynamics were investigated with RNA based amplicon sequencing. The results showed that a methanogenic fermentation process naturally occurred under low organic load and the fermentation profiles were shifted to VFAs with the increase of the organic load. Microbial activity significantly changed with the increased organic load. The microbial difference between the high, medium, and low‐load biowaste fermentation microbiome presumably attributed to the differences in fermentation profiles and the substrate conversion yields. Among the three additives tested in the current study, magnetite iron and reduced iron played a minor role in shaping the fermentation microbiome and product profiles. The activated carbon addition promoted methanogenesis by enriching the activity of H<sub>2</sub> producing and consuming microbes, whose activity dynamics determined the fermentation production profiles. The results of the current study highlighted the microbial activity profiles played an important role in shaping the biowaste fermentation products profiles and further microbiome engineering approaches are promising in modulating biowaste fermentation toward high value product recovery.</p></sec><sec sec-type="COI-statement" id="elsc1599-sec-0240"><title>CONFLICT OF INTEREST STATEMENT</title><p>The authors declare no conflicts of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="elsc1599-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ELSC-24-2300216-s003.txt" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="elsc1599-supitem-0002" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ELSC-24-2300216-s002.txt" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="elsc1599-supitem-0003" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ELSC-24-2300216-s004.txt" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="elsc1599-supitem-0004" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ELSC-24-2300216-s001.pdf" position="float" orientation="portrait"/></supplementary-material></sec></body><back><ack id="elsc1599-sec-0230"><title>ACKNOWLEDGEMENTS</title><p>The authors thank the Key R&amp;D Program of Zhejiang (Grant No. 2022C03075 to F.J.), China Postdoctoral Science Foundation (2022M712842 to X.Z.), and Zhejiang Provincial Natural Science Foundation of China (Grant No. LR22D010001 to F.J.) for financial support. We thank Dandan Li from Beijing Drainage Group Co. ltd for obtaining inoculum from the wastewater treatment plant. We thank Dr. Yinjuan Chen and Ke Wang from Instrumentation and Service Center for Molecular Sciences at Westlake University for supporting in data measurements. We acknowledge the Research Center for Industries of the Future (WU2022C030) and the Center of Synthetic Biology and Integrated Bioengineering (WU2022A008) at Westlake University for support and thank the Westlake University HPC Center for computational support.</p></ack><sec sec-type="data-availability" id="elsc1599-sec-0260"><title>DATA AVAILABILITY STATEMENT</title><p>The data that support the findings of this study are openly available in China National GeneBank DataBase at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://db.cngb.org/" ext-link-type="uri" specific-use="software is-supplemented-by">https://db.cngb.org/</ext-link>, reference number CNP0004386.</p></sec><ref-list id="elsc1599-bibl-0001"><title>REFERENCES</title><ref id="elsc1599-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="elsc1599-cit-0001">
+<string-name name-style="western">
+<surname>Chew</surname>
+<given-names>KR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Leong</surname>
+<given-names>HY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Khoo</surname>
+<given-names>KS</given-names>
+</string-name>, et al. <article-title>Effects of anaerobic digestion of food waste on biogas production and environmental impacts: a review</article-title>. <source>Environ Chem Lett</source>. <year>2021</year>;<volume>19</volume>:<fpage>2921</fpage>‐<lpage>2939</lpage>.</mixed-citation></ref><ref id="elsc1599-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="elsc1599-cit-0002">
+<string-name name-style="western">
+<surname>Paranjpe</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Saxena</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jain</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>A Review on performance improvement of anaerobic digestion using co‐digestion of food waste and sewage sludge</article-title>. <source>J Environ Manage</source>. <year>2023</year>;<volume>338</volume>:<elocation-id>117733</elocation-id>.<pub-id pub-id-type="pmid">37004482</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jenvman.2023.117733</pub-id></mixed-citation></ref><ref id="elsc1599-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="elsc1599-cit-0003">
+<string-name name-style="western">
+<surname>Harirchi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wainaina</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sar</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>Microbiological insights into anaerobic digestion for biogas, hydrogen or volatile fatty acids (VFAs): a review</article-title>. <source>Bioengineered</source>. <year>2022</year>;<volume>13</volume>:<fpage>6521</fpage>‐<lpage>6557</lpage>.<pub-id pub-id-type="pmid">35212604</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/21655979.2022.2035986</pub-id><pub-id pub-id-type="pmcid">PMC8973982</pub-id></mixed-citation></ref><ref id="elsc1599-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="elsc1599-cit-0004">
+<string-name name-style="western">
+<surname>Soomro</surname>
+<given-names>AF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Abbasi</surname>
+<given-names>IA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ni</surname>
+<given-names>Z</given-names>
+</string-name>, et al. <article-title>Influence of temperature on enhancement of volatile fatty acids fermentation from organic fraction of municipal solid waste: synergism between food and paper components</article-title>. <source>Bioresour Technol</source>. <year>2020</year>;<volume>304</volume>:<elocation-id>122980</elocation-id>.<pub-id pub-id-type="pmid">32062392</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.biortech.2020.122980</pub-id></mixed-citation></ref><ref id="elsc1599-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="elsc1599-cit-0005">
+<string-name name-style="western">
+<surname>Fernández‐Domínguez</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Astals</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Peces</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Volatile fatty acids production from biowaste at mechanical‐biological treatment plants: focusing on fermentation temperature</article-title>. <source>Bioresour Technol</source>. <year>2020</year>;<volume>314</volume>:<elocation-id>123729</elocation-id>.<pub-id pub-id-type="pmid">32622279</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.biortech.2020.123729</pub-id></mixed-citation></ref><ref id="elsc1599-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="elsc1599-cit-0006">
+<string-name name-style="western">
+<surname>Cheng</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ngo</surname>
+<given-names>HH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guo</surname>
+<given-names>W</given-names>
+</string-name>, et al. <article-title>Enhanced photo‐fermentative biohydrogen production from biowastes: an overview</article-title>. <source>Bioresour Technol</source>. <year>2022</year>;<volume>357</volume>:<elocation-id>127341</elocation-id>.<pub-id pub-id-type="pmid">35605780</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.biortech.2022.127341</pub-id></mixed-citation></ref><ref id="elsc1599-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="elsc1599-cit-0007">
+<string-name name-style="western">
+<surname>Hasan</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Anzar</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sharma</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Converting biowaste into sustainable bioenergy through various processes</article-title>. <source>Bioresour Technol Rep</source>. <year>2023</year>;<volume>3</volume>:<elocation-id>101542</elocation-id>.</mixed-citation></ref><ref id="elsc1599-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="elsc1599-cit-0008">
+<string-name name-style="western">
+<surname>Yin</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Application and improvement methods of sludge alkaline fermentation liquid as a carbon source for biological nutrient removal: a review</article-title>. <source>Sci Total Environ</source>. <year>2023</year>;<volume>873</volume>:<elocation-id>162341</elocation-id>.<pub-id pub-id-type="pmid">36828064</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.scitotenv.2023.162341</pub-id></mixed-citation></ref><ref id="elsc1599-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="elsc1599-cit-0009">
+<string-name name-style="western">
+<surname>Ladipo‐Obasa</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Forney</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Riffat</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Partial denitrification–anammox (PdNA) application in mainstream IFAS configuration using raw fermentate as carbon source</article-title>. <source>Water Environ Res</source>. <year>2022</year>;<volume>94</volume>:<elocation-id>e10711</elocation-id>.<pub-id pub-id-type="pmid">35388559</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/wer.10711</pub-id></mixed-citation></ref><ref id="elsc1599-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="elsc1599-cit-0010">
+<string-name name-style="western">
+<surname>Rasi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vainio</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Blasco</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Changes in volatile fatty acid production and microbiome during fermentation of food waste from hospitality sector</article-title>. <source>J Environ Manage</source>. <year>2022</year>;<volume>308</volume>:<elocation-id>114640</elocation-id>.<pub-id pub-id-type="pmid">35124316</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jenvman.2022.114640</pub-id></mixed-citation></ref><ref id="elsc1599-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="elsc1599-cit-0011">
+<string-name name-style="western">
+<surname>Parchami</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wainaina</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mahboubi</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>MBR‐Assisted VFAs production from excess sewage sludge and food waste slurry for sustainable wastewater treatment</article-title>. <source>Appl Sci</source>. <year>2020</year>;<volume>10</volume>:<fpage>2921</fpage>.</mixed-citation></ref><ref id="elsc1599-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="elsc1599-cit-0012">
+<string-name name-style="western">
+<surname>Ferguson</surname>
+<given-names>RMW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Coulon</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Villa</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Organic loading rate: a promising microbial management tool in anaerobic digestion</article-title>. <source>Water Res</source>. <year>2016</year>;<volume>100</volume>:<fpage>348</fpage>‐<lpage>356</lpage>.<pub-id pub-id-type="pmid">27214347</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.watres.2016.05.009</pub-id></mixed-citation></ref><ref id="elsc1599-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="elsc1599-cit-0013">
+<string-name name-style="western">
+<surname>Rossi</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pecorini</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Paoli</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Iannelli</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Plug‐flow reactor for volatile fatty acid production from the organic fraction of municipal solid waste: influence of organic loading rate</article-title>. <source>J Environ Chem Eng</source>. <year>2022</year>;<volume>10</volume>:<elocation-id>106963</elocation-id>.</mixed-citation></ref><ref id="elsc1599-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="elsc1599-cit-0014">
+<string-name name-style="western">
+<surname>Strazzera</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Battista</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Andreolli</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Influence of different household food wastes fractions on volatile fatty acids production by anaerobic fermentation</article-title>. <source>Bioresour Technol</source>. <year>2021</year>;<volume>335</volume>:<elocation-id>125289</elocation-id>.<pub-id pub-id-type="pmid">34015569</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.biortech.2021.125289</pub-id></mixed-citation></ref><ref id="elsc1599-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="elsc1599-cit-0015">
+<string-name name-style="western">
+<surname>Li</surname>
+<given-names>B‐Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xia</surname>
+<given-names>Z‐Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gou</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Production of volatile fatty acid from fruit waste by anaerobic digestion at high organic loading rates: performance and microbial community characteristics</article-title>. <source>Bioresour Technol</source>. <year>2022</year>;<volume>346</volume>:<elocation-id>126648</elocation-id>.<pub-id pub-id-type="pmid">34974105</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.biortech.2021.126648</pub-id></mixed-citation></ref><ref id="elsc1599-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="elsc1599-cit-0016">
+<string-name name-style="western">
+<surname>Owusu‐Agyeman</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Balachandran</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Plaza</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cetecioglu</surname>
+<given-names>Z</given-names>
+</string-name>. <article-title>Co‐fermentation of municipal waste streams: effects of pretreatment methods on volatile fatty acids production</article-title>. <source>Biomass Bioenergy</source>. <year>2021</year>;<volume>145</volume>:<elocation-id>105950</elocation-id>.</mixed-citation></ref><ref id="elsc1599-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="elsc1599-cit-0017">
+<string-name name-style="western">
+<surname>Bahreini</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nazari</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ho</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Enzymatic pre‐treatment for enhancement of primary sludge fermentation</article-title>. <source>Bioresour Technol</source>. <year>2020</year>;<volume>305</volume>:<elocation-id>123071</elocation-id>.<pub-id pub-id-type="pmid">32114298</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.biortech.2020.123071</pub-id></mixed-citation></ref><ref id="elsc1599-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="elsc1599-cit-0018">
+<string-name name-style="western">
+<surname>Qiu</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xia</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Impacts of 2‐bromoethanesulfonic sodium on methanogenesis: methanogen metabolism and community structure</article-title>. <source>Water Res</source>. <year>2023</year>;<volume>230</volume>:<elocation-id>119527</elocation-id>.<pub-id pub-id-type="pmid">36580800</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.watres.2022.119527</pub-id></mixed-citation></ref><ref id="elsc1599-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="elsc1599-cit-0019">
+<string-name name-style="western">
+<surname>Lu</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xing</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Enhanced production of short‐chain fatty acids from waste activated sludge by addition of magnetite under suitable alkaline condition</article-title>. <source>Bioresour Technol</source>. <year>2019</year>;<volume>289</volume>:<elocation-id>121713</elocation-id>.<pub-id pub-id-type="pmid">31276993</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.biortech.2019.121713</pub-id></mixed-citation></ref><ref id="elsc1599-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="elsc1599-cit-0020">
+<string-name name-style="western">
+<surname>Kong</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Niu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>W</given-names>
+</string-name>, et al. <article-title>Mini art review for zero valent iron application in anaerobic digestion and technical bottlenecks</article-title>. <source>Sci Total Environ</source>. <year>2021</year>;<volume>791</volume>:<elocation-id>148415</elocation-id>.<pub-id pub-id-type="pmid">34412392</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.scitotenv.2021.148415</pub-id></mixed-citation></ref><ref id="elsc1599-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="elsc1599-cit-0021">
+<string-name name-style="western">
+<surname>Guo</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zheng</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Enhancing two‐phase anaerobic digestion of mixture of primary and secondary sludge by adding granular activated carbon (GAC): evaluating acidogenic and methanogenic efficiency</article-title>. <source>Bioresour Technol</source>. <year>2022</year>;<volume>363</volume>:<elocation-id>127900</elocation-id>.<pub-id pub-id-type="pmid">36075345</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.biortech.2022.127900</pub-id></mixed-citation></ref><ref id="elsc1599-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="elsc1599-cit-0022">
+<string-name name-style="western">
+<surname>Owusu‐Agyeman</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Plaza</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cetecioglu</surname>
+<given-names>Z</given-names>
+</string-name>. <article-title>Long‐term alkaline volatile fatty acids production from waste streams: impact of pH and dominance of Dysgonomonadaceae</article-title>. <source>Bioresour Technol</source>. <year>2022</year>;<volume>346</volume>:<elocation-id>126621</elocation-id>.<pub-id pub-id-type="pmid">34958905</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.biortech.2021.126621</pub-id></mixed-citation></ref><ref id="elsc1599-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="elsc1599-cit-0023">
+<string-name name-style="western">
+<surname>Treu</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Campanaro</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kougias</surname>
+<given-names>PG</given-names>
+</string-name>, et al. <article-title>Untangling the effect of fatty acid addition at species level revealed different transcriptional responses of the biogas microbial community members</article-title>. <source>Environ Sci Technol</source>. <year>2016</year>;<volume>50</volume>:<fpage>6079</fpage>‐<lpage>6090</lpage>.<pub-id pub-id-type="pmid">27154312</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/acs.est.6b00296</pub-id></mixed-citation></ref><ref id="elsc1599-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="elsc1599-cit-0024">
+<string-name name-style="western">
+<surname>Angelidaki</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Petersen</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ahring</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>Effects of lipids on thermophilic anaerobic digestion and reduction of lipid inhibition upon addition of bentonite</article-title>. <source>Appl Microbiol Biotechnol</source>. <year>1990</year>;<volume>33</volume>:<fpage>469</fpage>‐<lpage>472</lpage>.<pub-id pub-id-type="pmid">1366749</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/BF00176668</pub-id></mixed-citation></ref><ref id="elsc1599-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="elsc1599-cit-0025">
+<string-name name-style="western">
+<surname>Xu</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Effect of classic methanogenic inhibitors on the quantity and diversity of archaeal community and the reductive homoacetogenic activity during the process of anaerobic sludge digestion</article-title>. <source>Bioresour Technol</source>. <year>2010</year>;<volume>101</volume>:<fpage>2600</fpage>‐<lpage>2607</lpage>.<pub-id pub-id-type="pmid">19939675</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.biortech.2009.10.059</pub-id></mixed-citation></ref><ref id="elsc1599-bib-0026"><label>26</label><mixed-citation publication-type="book" id="elsc1599-cit-0026">
+<string-name name-style="western">
+<surname>Rice</surname>
+<given-names>EW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baird</surname>
+<given-names>RB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Eaton</surname>
+<given-names>AD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Clesceri</surname>
+<given-names>LS</given-names>
+</string-name>. <article-title>Standard methods for the examination of water and wastewater, American public health association</article-title>
+<publisher-loc>Washington, DC</publisher-loc>, <year>2012</year>.</mixed-citation></ref><ref id="elsc1599-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="elsc1599-cit-0027">
+<string-name name-style="western">
+<surname>Ju</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lau</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Linking microbial community, environmental variables, and methanogenesis in anaerobic biogas digesters of chemically enhanced primary treatment sludge</article-title>. <source>Environ Sci Technol</source>. <year>2017</year>;<volume>51</volume>:<fpage>3982</fpage>‐<lpage>3992</lpage>.<pub-id pub-id-type="pmid">28240534</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/acs.est.6b06344</pub-id></mixed-citation></ref><ref id="elsc1599-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="elsc1599-cit-0028">
+<string-name name-style="western">
+<surname>Thompson</surname>
+<given-names>LR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sanders</surname>
+<given-names>JG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McDonald</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>A communal catalogue reveals Earth's multiscale microbial diversity</article-title>. <source>Nature</source>. <year>2017</year>;<volume>551</volume>:<fpage>457</fpage>‐<lpage>463</lpage>.<pub-id pub-id-type="pmid">29088705</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nature24621</pub-id><pub-id pub-id-type="pmcid">PMC6192678</pub-id></mixed-citation></ref><ref id="elsc1599-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="elsc1599-cit-0029">
+<string-name name-style="western">
+<surname>Bolyen</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rideout</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dillon</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bokulich</surname>
+<given-names>NA</given-names>
+</string-name>, et al. <article-title>Reproducible, interactive, scalable and extensible microbiome data science using QIIME 2</article-title>. <source>Nat Biotechnol</source>. <year>2019</year>;<volume>37</volume>:<fpage>852</fpage>‐<lpage>857</lpage>.<pub-id pub-id-type="pmid">31341288</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41587-019-0209-9</pub-id><pub-id pub-id-type="pmcid">PMC7015180</pub-id></mixed-citation></ref><ref id="elsc1599-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="elsc1599-cit-0030">
+<string-name name-style="western">
+<surname>Bokulich</surname>
+<given-names>NA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kaehler</surname>
+<given-names>BD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rideout</surname>
+<given-names>JR</given-names>
+</string-name>, et al. <article-title>Optimizing taxonomic classification of marker‐gene amplicon sequences with QIIME 2's q2‐feature‐classifier plugin</article-title>. <source>Microbiome</source>. <year>2018</year>;<volume>6</volume>:<fpage>1</fpage>‐<lpage>17</lpage>.<pub-id pub-id-type="pmid">29773078</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s40168-018-0470-z</pub-id><pub-id pub-id-type="pmcid">PMC5956843</pub-id></mixed-citation></ref><ref id="elsc1599-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="elsc1599-cit-0031">
+<string-name name-style="western">
+<surname>Dixon</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>VEGAN, a package of R functions for community ecology</article-title>. <source>J Veg Sci</source>. <year>2003</year>;<volume>14</volume>:<fpage>927</fpage>‐<lpage>930</lpage>.</mixed-citation></ref><ref id="elsc1599-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="elsc1599-cit-0032">
+<string-name name-style="western">
+<surname>Segata</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Izard</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Waldron</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Metagenomic biomarker discovery and explanation</article-title>. <source>Genome Biol</source>. <year>2011</year>;<volume>12</volume>:<fpage>R60</fpage>.<pub-id pub-id-type="pmid">21702898</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/gb-2011-12-6-r60</pub-id><pub-id pub-id-type="pmcid">PMC3218848</pub-id></mixed-citation></ref><ref id="elsc1599-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="elsc1599-cit-0033">
+<string-name name-style="western">
+<surname>Liu</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cui</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yao</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>microeco: an R package for data mining in microbial community ecology</article-title>. <source>FEMS Microbiol Ecol</source>. <year>2021</year>;<volume>97</volume>:<elocation-id>fiaa255</elocation-id>.<pub-id pub-id-type="pmid">33332530</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/femsec/fiaa255</pub-id></mixed-citation></ref><ref id="elsc1599-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="elsc1599-cit-0034">
+<string-name name-style="western">
+<surname>Wang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chai</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shao</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Qian</surname>
+<given-names>X</given-names>
+</string-name>. <article-title>Techno‐economic Assessment of biogas project: a Longitudinal case study from japan</article-title>. <source>Resour Conserv Recycl</source>. <year>2021</year>;<volume>164</volume>:<elocation-id>105174</elocation-id>.</mixed-citation></ref><ref id="elsc1599-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="elsc1599-cit-0035">
+<string-name name-style="western">
+<surname>Zhu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Campanaro</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Treu</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Metabolic dependencies govern microbial syntrophies during methanogenesis in an anaerobic digestion ecosystem</article-title>. <source>Microbiome</source>. <year>2020</year>;<volume>8</volume>:<fpage>22</fpage>.<pub-id pub-id-type="pmid">32061251</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s40168-019-0780-9</pub-id><pub-id pub-id-type="pmcid">PMC7024554</pub-id></mixed-citation></ref><ref id="elsc1599-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="elsc1599-cit-0036">
+<string-name name-style="western">
+<surname>Pascual</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hahnke</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Abendroth</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Draft genome sequence of a new <italic toggle="yes">Oscillospiraceae</italic> bacterium isolated from anaerobic digestion of biomass</article-title>. <source>Microbiol Resour Announc</source>. <year>2020</year>;<volume>9</volume>:<fpage>e00507</fpage>‐<lpage>e00520</lpage>.<pub-id pub-id-type="pmid">32616639</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1128/MRA.00507-20</pub-id><pub-id pub-id-type="pmcid">PMC7330241</pub-id></mixed-citation></ref><ref id="elsc1599-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="elsc1599-cit-0037">
+<string-name name-style="western">
+<surname>Zhu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Campanaro</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Treu</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Novel ecological insights and functional roles during anaerobic digestion of saccharides unveiled by genome‐centric metagenomics</article-title>. <source>Water Res</source>. <year>2019</year>;<volume>151</volume>:<fpage>271</fpage>‐<lpage>279</lpage>.<pub-id pub-id-type="pmid">30612083</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.watres.2018.12.041</pub-id></mixed-citation></ref><ref id="elsc1599-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="elsc1599-cit-0038">
+<string-name name-style="western">
+<surname>Shi</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Effect of thermal hydrolysis pretreatment on anaerobic digestion of protein‐rich biowaste: process performance and microbial community structures shift</article-title>. <source>Front Environ Sci</source>. <year>2022</year>;<volume>9</volume>.</mixed-citation></ref><ref id="elsc1599-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="elsc1599-cit-0039">
+<string-name name-style="western">
+<surname>Lee</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Koo</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yulisa</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hwang</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Magnetite as an enhancer in methanogenic degradation of volatile fatty acids under ammonia‐stressed condition</article-title>. <source>J Environ Manage</source>. <year>2019</year>;<volume>241</volume>:<fpage>418</fpage>‐<lpage>426</lpage>.<pub-id pub-id-type="pmid">31035235</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jenvman.2019.04.038</pub-id></mixed-citation></ref><ref id="elsc1599-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="elsc1599-cit-0040">
+<string-name name-style="western">
+<surname>Lü</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bize</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guillot</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Metaproteomics of cellulose methanisation under thermophilic conditions reveals a surprisingly high proteolytic activity</article-title>. <source>ISME J</source>. <year>2014</year>;<volume>8</volume>:<fpage>88</fpage>‐<lpage>102</lpage>.<pub-id pub-id-type="pmid">23949661</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/ismej.2013.120</pub-id><pub-id pub-id-type="pmcid">PMC3869005</pub-id></mixed-citation></ref><ref id="elsc1599-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="elsc1599-cit-0041">
+<string-name name-style="western">
+<surname>Gagliano</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Braguglia</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Petruccioli</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rossetti</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Ecology and biotechnological potential of the thermophilic fermentative Coprothermobacter spp</article-title>. <source>FEMS Microbiol Ecol</source>. <year>2015</year>;<volume>91</volume>:<elocation-id>fiv018</elocation-id>.<pub-id pub-id-type="pmid">25764466</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/femsec/fiv018</pub-id></mixed-citation></ref><ref id="elsc1599-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="elsc1599-cit-0042">
+<string-name name-style="western">
+<surname>Fraj</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ben Hania</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Postec</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Fonticella tunisiensis gen. nov., sp. nov., isolated from a hot spring</article-title>. <source>Int J Syst Evol Microbiol</source>. <year>2013</year>;<volume>63</volume>:<fpage>1947</fpage>‐<lpage>1950</lpage>.<pub-id pub-id-type="pmid">23024143</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1099/ijs.0.041947-0</pub-id></mixed-citation></ref><ref id="elsc1599-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="elsc1599-cit-0043">
+<string-name name-style="western">
+<surname>Couto</surname>
+<given-names>PT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Eng</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bovio‐Winkler</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Modeling of hydrogen and organic acid production using different concentrations of sugarcane vinasse under thermophilic conditions and a link with microbial community 16S rRNA gene sequencing data</article-title>. <source>J Cleaner Prod</source>. <year>2022</year>;<volume>370</volume>:<elocation-id>133437</elocation-id>.</mixed-citation></ref><ref id="elsc1599-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="elsc1599-cit-0044">
+<string-name name-style="western">
+<surname>Wagner</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schirmack</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ganzert</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Methanosarcinasoligelidi sp. nov., a desiccation‐ and freeze‐thaw‐resistant methanogenic archaeon from a Siberian permafrost‐affected soil</article-title>. <source>Int J Syst Evol Microbiol</source>. <year>2013</year>;<volume>63</volume>:<fpage>2986</fpage>‐<lpage>2991</lpage>.<pub-id pub-id-type="pmid">23378113</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1099/ijs.0.046565-0</pub-id></mixed-citation></ref><ref id="elsc1599-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="elsc1599-cit-0045">
+<string-name name-style="western">
+<surname>Ganzert</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schirmack</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Alawi</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Methanosarcina spelaei sp. nov., a methanogenic archaeon isolated from a floating biofilm of a subsurface sulphurous lake</article-title>. <source>Int J Syst Evol Microbiol</source>. <year>2014</year>;<volume>64</volume>:<fpage>3478</fpage>‐<lpage>3484</lpage>.<pub-id pub-id-type="pmid">25052394</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1099/ijs.0.064956-0</pub-id></mixed-citation></ref><ref id="elsc1599-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="elsc1599-cit-0046">
+<string-name name-style="western">
+<surname>Mechichi</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Labat</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Woo</surname>
+<given-names>TH</given-names>
+</string-name>, et al. <article-title>Eubacterium aggreganssp. Nov., a new homoacetogenic bacterium from olive mill wastewater treatment digestor</article-title>. <source>Anaerobe</source>. <year>1998</year>;<volume>4</volume>:<fpage>283</fpage>‐<lpage>291</lpage>.<pub-id pub-id-type="pmid">16887654</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1006/anae.1998.0179</pub-id></mixed-citation></ref><ref id="elsc1599-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="elsc1599-cit-0047">
+<string-name name-style="western">
+<surname>Kong</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yu</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Effect of Fe0 addition on volatile fatty acids evolution on anaerobic digestion at high organic loading rates</article-title>. <source>Waste Manag</source>. <year>2018</year>;<volume>71</volume>:<fpage>719</fpage>‐<lpage>727</lpage>.<pub-id pub-id-type="pmid">28320620</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.wasman.2017.03.019</pub-id></mixed-citation></ref><ref id="elsc1599-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="elsc1599-cit-0048">
+<string-name name-style="western">
+<surname>Kang</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>Redirecting carbon to recover VFA to facilitate biological short‐cut nitrogen removal in wastewater treatment: a critical review</article-title>. <source>Water Res</source>. <year>2023</year>;<volume>238</volume>:<elocation-id>120015</elocation-id>.<pub-id pub-id-type="pmid">37146394</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.watres.2023.120015</pub-id></mixed-citation></ref><ref id="elsc1599-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="elsc1599-cit-0049">
+<string-name name-style="western">
+<surname>Cai</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lin</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jin</surname>
+<given-names>W</given-names>
+</string-name>, et al. <article-title>Biosynthesis of poly(3‐hydroxybutyrate‐co‐3‐hydroxvalerate) from volatile fatty acids by Cupriavidus necator</article-title>. <source>J Basic Microbiol</source>. <year>2023</year>;<volume>63</volume>:<fpage>128</fpage>‐<lpage>139</lpage>.<pub-id pub-id-type="pmid">36192143</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/jobm.202200448</pub-id></mixed-citation></ref><ref id="elsc1599-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="elsc1599-cit-0050">
+<string-name name-style="western">
+<surname>Nobu</surname>
+<given-names>MK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Narihiro</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rinke</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Microbial dark matter ecogenomics reveals complex synergistic networks in a methanogenic bioreactor</article-title>. <source>ISME J</source>. <year>2015</year>;<volume>9</volume>:<fpage>1710</fpage>‐<lpage>1722</lpage>.<pub-id pub-id-type="pmid">25615435</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/ismej.2014.256</pub-id><pub-id pub-id-type="pmcid">PMC4511927</pub-id></mixed-citation></ref><ref id="elsc1599-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="elsc1599-cit-0051">
+<string-name name-style="western">
+<surname>Cardona</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cao</surname>
+<given-names>KAL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Puig‐Castellví</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>Integrative analyses to investigate the link between microbial activity and metabolite degradation during anaerobic digestion</article-title>. <source>J Proteome Res</source>. <year>2020</year>;<volume>19</volume>:<fpage>3981</fpage>‐<lpage>3992</lpage>.<pub-id pub-id-type="pmid">32864973</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/acs.jproteome.0c00251</pub-id></mixed-citation></ref><ref id="elsc1599-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="elsc1599-cit-0052">
+<string-name name-style="western">
+<surname>Li</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hao</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lü</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Duan</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Syntrophic acetate‐oxidizing microbial consortia enriched from full‐scale mesophilic food waste anaerobic digesters showing high biodiversity and functional redundancy</article-title>. <source>mSystems</source>. <year>2022</year>;<volume>7</volume>:<elocation-id>e0033922</elocation-id>.<pub-id pub-id-type="pmid">36073802</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1128/msystems.00339-22</pub-id><pub-id pub-id-type="pmcid">PMC9600251</pub-id></mixed-citation></ref><ref id="elsc1599-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="elsc1599-cit-0053">
+<string-name name-style="western">
+<surname>Lu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Miao</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Particle size effects in microbial characteristics in thermophilic anaerobic digestion of cattle manure containing copper oxide</article-title>. <source>Environ Sci Pollut Res</source>. <year>2022</year>;<volume>29</volume>:<fpage>62994</fpage>‐<lpage>63004</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s11356-022-20327-6</pub-id><pub-id pub-id-type="pmid">35449326</pub-id></mixed-citation></ref><ref id="elsc1599-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="elsc1599-cit-0054">
+<string-name name-style="western">
+<surname>Xiang</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Insights into thermal hydrolysis pretreatment temperature for enhancing volatile fatty acids production from sludge fermentation: performance and mechanism</article-title>. <source>Bioresour Technol</source>. <year>2023</year>;<volume>379</volume>:<elocation-id>129032</elocation-id>.<pub-id pub-id-type="pmid">37031805</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.biortech.2023.129032</pub-id></mixed-citation></ref></ref-list></back></article>

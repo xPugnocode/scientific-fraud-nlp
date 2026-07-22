@@ -8,14 +8,20 @@ click==8.4.2
 cloudpathlib==0.24.0
 confection==0.1.5
 conllu==6.0.0
+contourpy==1.3.3
+cycler==0.12.1
 cymem==2.0.13
 en_core_sci_sm @ https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.4/en_core_sci_sm-0.5.4.tar.gz#sha256=a54a114ee11dab7cf6db8cf69ef485145011537f45f3c16c71338c48fd6f070b
+fonttools==4.63.0
+ftfy==6.3.1
 idna==3.18
 Jinja2==3.1.6
 joblib==1.5.3
+kiwisolver==1.5.0
 langcodes==3.5.1
 markdown-it-py==4.2.0
 MarkupSafe==3.0.3
+matplotlib==3.11.0
 mdurl==0.1.2
 murmurhash==1.0.15
 narwhals==2.24.0
@@ -23,6 +29,7 @@ nmslib-metabrainz==2.1.3
 numpy==1.26.4
 packaging==26.2
 pandas==3.0.3
+pillow==12.3.0
 pipdeptree==3.1.1
 preshed==3.0.13
 psutil==7.2.2
@@ -30,6 +37,8 @@ pybind11==3.0.4
 pydantic==2.13.4
 pydantic_core==2.46.4
 Pygments==2.20.0
+pyparsing==3.3.2
+pyphen==0.16.0
 pysbd==0.3.4
 python-dateutil==2.9.0.post0
 python-dotenv==1.2.2
@@ -45,7 +54,9 @@ smart_open==7.7.1
 spacy==3.7.5
 spacy-legacy==3.0.12
 spacy-loggers==1.0.5
+spacy-lookups-data==1.0.5
 srsly==2.5.3
+textdescriptives==2.8.4
 thinc==8.2.5
 threadpoolctl==3.6.0
 tqdm==4.68.4
@@ -55,5 +66,6 @@ typing-inspection==0.4.2
 typing_extensions==4.16.0
 urllib3==2.7.0
 wasabi==1.1.3
+wcwidth==0.8.2
 weasel==0.4.3
 wrapt==2.2.2

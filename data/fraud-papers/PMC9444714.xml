@@ -1,0 +1,562 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article id="elsc1535" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Eng Life Sci</journal-id><journal-id journal-id-type="iso-abbrev">Eng Life Sci</journal-id><journal-id journal-id-type="pmc-domain-id">3786</journal-id><journal-id journal-id-type="pmc-domain">englifesci</journal-id><journal-id journal-id-type="nlm-id">101193313</journal-id><journal-id journal-id-type="publisher-id">ELSC</journal-id><journal-title-group><journal-title>Engineering in Life Sciences</journal-title></journal-title-group><issn pub-type="ppub">1618-0240</issn><issn pub-type="epub">1618-2863</issn><publisher><publisher-name>Maximum Academic Press</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC9444714</article-id><article-id pub-id-type="pmcid-ver">PMC9444714.1</article-id><article-id pub-id-type="pmcaid">9444714</article-id><article-id pub-id-type="pmcaiid">9444714</article-id><article-id pub-id-type="pmid">36093361</article-id><article-id pub-id-type="doi">10.1002/elsc.202200002</article-id><article-id pub-id-type="publisher-id">ELSC1535</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group></article-categories><title-group><article-title>Evaluation of SDS‐coated iron nanostructure on the gene expression of bio surfactant‐producing genes by <italic toggle="yes">Pseudomonas aeruginosa</italic>
+</article-title><alt-title alt-title-type="left-running-head">Ahsani Arani et al.</alt-title></title-group><contrib-group><contrib id="elsc1535-cr-0001" contrib-type="author"><name name-style="western"><surname>Ahsani Arani</surname><given-names initials="Y">Yaser</given-names></name><xref rid="elsc1535-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="elsc1535-cr-0002" contrib-type="author"><name name-style="western"><surname>Noormohammadi</surname><given-names initials="Z">Zahra</given-names></name><xref rid="elsc1535-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="elsc1535-cr-0003" contrib-type="author" corresp="yes"><name name-style="western"><surname>Rasekh</surname><given-names initials="B">Behnam</given-names></name><xref rid="elsc1535-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>b.rasekh@gmail.com</email></address></contrib><contrib id="elsc1535-cr-0004" contrib-type="author"><name name-style="western"><surname>Yazdian</surname><given-names initials="F">Fatemeh</given-names></name><xref rid="elsc1535-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="elsc1535-cr-0005" contrib-type="author"><name name-style="western"><surname>kazemi</surname><given-names initials="H">Hojjat</given-names></name><xref rid="elsc1535-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib></contrib-group><aff id="elsc1535-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Biology Science and Research Branch</named-content>
+<institution>Islamic Azad University</institution>
+<named-content content-type="country-part">Tehran</named-content>
+<country country="IR">Iran</country>
+</aff><aff id="elsc1535-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Environment &amp; Biotechnology Research Division</named-content>
+<institution>Research Institute of Petroleum Industry (RIPI)</institution>
+<named-content content-type="country-part">Tehran</named-content>
+<country country="IR">Iran</country>
+</aff><aff id="elsc1535-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Department of Life Science Engineering</named-content>
+<named-content content-type="organisation-division">Faculty of New Science and Technologies</named-content>
+<institution>University of Tehran</institution>
+<named-content content-type="country-part">Tehran</named-content>
+<country country="IR">Iran</country>
+</aff><aff id="elsc1535-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Analytical Chemistry Research Group</named-content>
+<institution>Research Institute of Petroleum Industry (RIPI)</institution>
+<named-content content-type="country-part">Tehran</named-content>
+<country country="IR">Iran</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>Behnam Rasekh, Environment &amp; Biotechnology Research Division, Research Institute of Petroleum Industry (RIPI), Tehran, Iran.<break/>Email: <email>b.rasekh@gmail.com</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>24</day><month>8</month><year>2022</year></pub-date><pub-date pub-type="collection"><month>9</month><year>2022</year></pub-date><volume>22</volume><issue seq="40">9</issue><issue-id pub-id-type="pmc-issue-id">416312</issue-id><issue-id pub-id-type="doi">10.1002/elsc.v22.9</issue-id><fpage>584</fpage><lpage>593</lpage><history><date date-type="rev-recd"><day>22</day><month>6</month><year>2022</year></date><date date-type="received"><day>08</day><month>2</month><year>2022</year></date><date date-type="accepted"><day>27</day><month>7</month><year>2022</year></date></history><pub-history><event event-type="pmc-release"><date><day>24</day><month>08</month><year>2022</year></date></event><event event-type="pmc-live"><date><day>09</day><month>09</month><year>2022</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-07-10 04:25:16.860"><day>10</day><month>07</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2022 The Authors. <italic toggle="yes">Engineering in Life Sciences</italic> published by Wiley‐VCH GmbH.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="ELSC-22-584.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:ELSC-22-584.pdf"/><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="retraction-forward" xml:lang="en" xlink:title="retraction" vol="25" journal-id="Eng Life Sci" journal-id-type="nlm-ta" ext-link-type="pmc" xlink:href="PMC11864921"><article-title>RETRACTION: Evaluation of SDS‐Coated Iron Nanostructure on the Gene Expression of Bio Surfactant‐Producing Genes by <italic toggle="yes">Pseudomonas Aeruginosa</italic>
+</article-title><volume>25</volume><issue seq="110">2</issue><date><day>26</day><month>2</month><year>2025</year></date><elocation-id>e70007</elocation-id><source>Engineering in Life Sciences</source><pub-id pub-id-type="doi">10.1002/elsc.70007</pub-id><pub-id pub-id-type="pmcid">PMC11864921</pub-id><pub-id pub-id-type="pmid">40018698</pub-id></related-article><abstract><title>Abstract</title><p>Bio surfactants are natural surfactants that induce emulsification, displacement, increased solubility, and mobility of hydrophobic organic compounds. In this study, the gene expression of biosurfactant production genes by <italic toggle="yes">Pseudomonas aeruginosa</italic> in the presence of sodium dodecyl sulfate coated iron nanostructure (Fe/SDS) were evaluated. Emulsification Index and Surface Tension reduction test to check stability and emulsification the rhamnolipid were done. Purification was evaluated using thin layer chromatography (TLC) and expression of <italic toggle="yes">rhlA</italic>, <italic toggle="yes">mvfR, lasR, rhlR</italic> genes was determined using q‐PCR technique. Binding of nanoparticles to bio surfactants was confirmed by TEM. The best emulsification index, was by the sample that exposed to 1 mg/L Fe/SDS nanoparticles for 2 days. Rhamnolipid produced in the presence of nanoparticles had an acceptable ability to reduce surface tension. The Rf (retention factor) value obtained was 0.63 by chromatography. q‐PCR results showed that the expression <italic toggle="yes">of rhlA, mvfR, lasR, rhlR</italic> genes was significantly increased in Fe/SDS treated cells, which indicates the significant positive effect (<italic toggle="yes">P</italic> &lt; 0.05) of nanoparticles on biosurfactant production of treated cells. While, SDS and Fe alone were not affected significantly (<italic toggle="yes">P</italic> &gt; 0.05) on the expression of these genes. Our findings indicated the importance of nanoparticles in increasing the expression of genes involved in the bio surfactant production pathway of <italic toggle="yes">Pseudomonas aeruginosa</italic>.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="elsc1535-kwd-0001">bio surfactant</kwd><kwd id="elsc1535-kwd-0002">Fe/SDS nanoparticle</kwd><kwd id="elsc1535-kwd-0003">gene expression</kwd><kwd id="elsc1535-kwd-0004"><italic toggle="yes">Pseudomonas aeruginosa</italic></kwd></kwd-group><counts><fig-count count="7"/><table-count count="1"/><page-count count="10"/><word-count count="5360"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>September 2022</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.1.8 mode:remove_FC converted:05.09.2022</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="elsc1535-cit-0039">
+<string-name name-style="western">
+<surname>Ahsani Arani</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Noormohammadi</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rasekh</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yazdian</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>kazemi</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Evaluation of SDS‐coated iron nanostructure on the gene expression of bio surfactant‐producing genes by <italic toggle="yes">Pseudomonas aeruginosa</italic>
+</article-title>. <source>Eng Life Sci</source>. <year>2022</year>;<volume>22</volume>:<fpage>584</fpage>–<lpage>593</lpage>. <pub-id pub-id-type="doi">10.1002/elsc.202200002</pub-id>
+<pub-id pub-id-type="pmcid">PMC9444714</pub-id><pub-id pub-id-type="pmid">36093361</pub-id><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="retraction-forward" ext-link-type="pmc" xlink:href="PMC11864921"/></mixed-citation>
+</p></notes></front><body><def-list list-content="abbreviations" id="elsc1535-lp-0001"><title>Abbreviations</title><def-item><term>Fe/SDS</term><def><p>sodium dodecyl sulfate coated iron nanostructure</p></def></def-item><def-item><term>QS</term><def><p>quorum sensing</p></def></def-item><def-item><term>qPCR</term><def><p>quantitative polymerase chain reaction</p></def></def-item><def-item><term>SDS</term><def><p>sodium dodecyl sulfate</p></def></def-item><def-item><term>SEM</term><def><p>scanning electron microscope</p></def></def-item><def-item><term>TEM</term><def><p>transmission electron microscopy</p></def></def-item><def-item><term>TLC</term><def><p>thin layer chromatography</p></def></def-item></def-list><sec id="elsc1535-sec-0010"><label>1</label><title>INTRODUCTION</title><p>Some microorganisms in nature are able to secrete extracellular substances, including various enzymes and biosurfactants. Biosurfactants are surface‐active molecules [<xref rid="elsc1535-bib-0001" ref-type="bibr">1</xref>, <xref rid="elsc1535-bib-0002" ref-type="bibr">2</xref>]. Development of biosurfactants and their commercialization have increased significant in recent years [<xref rid="elsc1535-bib-0003" ref-type="bibr">3</xref>]. Biosurfactants are unique amphiphilic compounds that have both hydrophobic and hydrophilic components, therefore increase the bioavailability of water in the compounds and alter the bacterial cell wall. Surface activity has turned these materials into excellent emulsifiers [<xref rid="elsc1535-bib-0004" ref-type="bibr">4</xref>, <xref rid="elsc1535-bib-0005" ref-type="bibr">5</xref>]. Bio surfactants are one of the most important products of industrial microbiology and are produced by bacteria, fungi and yeasts in stationary phase [<xref rid="elsc1535-bib-0006" ref-type="bibr">6</xref>]. Some characteristics of bio surfactants that make them superior to chemical surfactants include: reduction of surface and interfacial tension, low toxicity, high biodegradability, emulsification, selective performance, specific activity, possibility of production from cheap raw materials, antimicrobial properties, easier production and more variety [<xref rid="elsc1535-bib-0007" ref-type="bibr">7</xref>, <xref rid="elsc1535-bib-0008" ref-type="bibr">8</xref>].</p><p>The reduction in the surface tension of the culture medium indicates the production of surfactants by bacterial cultures and has been shown to contribute to substrate metabolism [<xref rid="elsc1535-bib-0009" ref-type="bibr">9</xref>]. The main application of bio surfactants is in petroleum industry which are used in oil purification and decontamination of organic compounds, increasing the bioavailability of these compounds, removing contaminants with increasing solubility and emulsification during purification, removal of residual oil from storage tanks, enhancing oil recovery and soil and water bioremediation [<xref rid="elsc1535-bib-0010" ref-type="bibr">10</xref>].</p><p>Rhamnolipids are one of the most important glycolipid bio surfactants, which are produced by two bacterial species of <italic toggle="yes">Pseudomonas Aeruginosa</italic> and <italic toggle="yes">Burkholderia</italic> [<xref rid="elsc1535-bib-0011" ref-type="bibr">11</xref>]. Ramnolipid has a high emulsion capacity and is often used in the pharmaceutical and environmental industries such as increasing oil recovery and bioremediation [<xref rid="elsc1535-bib-0012" ref-type="bibr">12</xref>]. <italic toggle="yes">Pseudomonas</italic> species are the largest producers of rhamnolipids. <italic toggle="yes">Pseudomonas</italic> is one of the most important soil bacteria that can break down polycyclic aromatic hydrocarbons to produce rhamnolipids, quinolones, hydrogen cyanides and lectins, indicating the microorganism's inherent resistance to a variety of chemicals [<xref rid="elsc1535-bib-0013" ref-type="bibr">13</xref>]. Also <italic toggle="yes">Pseudomonas aeruginosa</italic> is one of the most important Infectious agents [<xref rid="elsc1535-bib-0014" ref-type="bibr">14</xref>]. <italic toggle="yes">Pseudomonas aeruginosa</italic> produces two different types of rhamnolipids that differ in the number of rhamnose sugars. Mono‐rhamnolipids and di‐rhamnolipids are the main rhamnolipids. These molecules have high surface activity and are used in various medical fields as antifungal, antibacterial and antiviral materials. Other application of rhamnolipids in the oil industry is in microbial enhanced oil recycling and removal of oil contaminants from the environment, as well as cleaning tankers and facilitating crude oil transportation [<xref rid="elsc1535-bib-0013" ref-type="bibr">13</xref>]. The limitation of using rhamnolipid for cleaning of oil tanks is the separation of bio surfactants.</p><p>One of the methods of recycling and separation of bio surfactants is the use of magnetic iron nanoparticles [<xref rid="elsc1535-bib-0015" ref-type="bibr">15</xref>]. Nowadays, study of the effects of metal nanoparticles on bacterial growth and production of bio surfactants has gained a great attention. One of the recent studies showed the antibacterial properties for some types nanoparticles by physical destruction of the cell wall or oxidative stress, while there are several types of nanoparticles that have significant positive effects on bacterial growth, possibly due to their higher specific surface area and ability to release electrons [<xref rid="elsc1535-bib-0016" ref-type="bibr">16</xref>]. Some of the nanoparticles in certain concentrations not only don't have antimicrobial effects, but also they increase the level of bacterial contact with the compounds in the culture medium and further exchange of nutrients and thus increase the production of bio surfactants. The results of these studies vary depending on the type of bacteria, type of nanoparticles, concentration of nanoparticles, and duration of interaction of nanoparticles with bacteria [<xref rid="elsc1535-bib-0016" ref-type="bibr">16</xref>].</p><boxed-text position="float" content-type="box" orientation="portrait"><sec id="elsc1535-sec-0020"><title>PRACTICAL APPLICATION</title><p>This research is the use of Fe/SDS nanoparticles in production of bio surfactant and increasing gene expression involved in the production of bio surfactant from <italic toggle="yes">Pseudomonas aeruginosa</italic>.</p></sec></boxed-text><p>The effect of Fe nanoparticles and their derivatives, such as iron oxide or coated iron nanoparticles, on various bacterial processes, such as bacterial growth rate, has been studied. The coating of Fe nanoparticles is often performed to reduce oxidizing power of these nanoparticles. [<xref rid="elsc1535-bib-0017" ref-type="bibr">17</xref>, <xref rid="elsc1535-bib-0018" ref-type="bibr">18</xref>]. Rezazadeh et al. investigated the production of bio surfactant by <italic toggle="yes">Pseudomonas aeruginosa</italic> using iron/starch nanoparticles. In this study, starch‐coated iron nanoparticles did not show any bacterial toxicity at 1mg/ml and increased the growth rate and production of bio surfactants to 20.62% [<xref rid="elsc1535-bib-0019" ref-type="bibr">19</xref>]. Modabber et al., was investigated the effect of starch coated Fe<sup>0</sup> and Fe<sup>3+</sup> nanoparticles on the production of surfactin from <italic toggle="yes">Bacillus subtilis</italic> [<xref rid="elsc1535-bib-0020" ref-type="bibr">20</xref>]. The expression of most <italic toggle="yes">Pseudomonas aeruginosa</italic> genes is controlled by the Quorum sensing (QS) gene system. According to the genetic pathway of bio surfactant synthesis in <italic toggle="yes">Pseudomonas aeruginosa</italic> and its relationship with QS signaling pathway, genes related to bio surfactant production include <italic toggle="yes">rhl A, rhl B, lasR/I, rhlR/I, pqsR/pqsA</italic> [<xref rid="elsc1535-bib-0021" ref-type="bibr">21</xref>]. QS is a cell‐to‐cell communication system using small signaling molecules in single‐celled organisms [<xref rid="elsc1535-bib-0022" ref-type="bibr">22</xref>]. In <italic toggle="yes">Pseudomonas</italic> bacteria, the QS system consists of two gene systems, <italic toggle="yes">LasI‐LasR</italic> and <italic toggle="yes">RhlI‐RhlR</italic>. The <italic toggle="yes">LasI</italic> and <italic toggle="yes">RhlI</italic> genes synthetize two enzymes (HSL‐acyl) (lactone hemoserine‐a), while the <italic toggle="yes">LasR</italic> and <italic toggle="yes">RhlR</italic> produce transcriptional regulatory proteins that bind to their own signal to activate genes [<xref rid="elsc1535-bib-0023" ref-type="bibr">23</xref>]. The <italic toggle="yes">lasI</italic> gene regulates the production of elastase, exotoxin A and alkaline protease, while the <italic toggle="yes">rhlI</italic> gene is responsible for regulating the production of rhamnolipid, alkaline protease, elastase and cyanide [<xref rid="elsc1535-bib-0024" ref-type="bibr">24</xref>].</p><p>Despite the ecological importance of <italic toggle="yes">Pseudomonas aeruginosa</italic> bio surfactant, rare researches have been reported on the effect of nanoparticles on the genes regulating the production of this bio surfactant and their related control systems. The sodium dodecyl sulfate coated iron (Fe/SDS) as iron nanoparticle were used in present study. SDS was chosen as a coating for iron nanoparticles due to the wide application of this detergent in industries related to the removal of oil pollution from the environment, especially soil [<xref rid="elsc1535-bib-0025" ref-type="bibr">25</xref>]. The aim of this study was 1‐ to evaluate gene expression profile involved in the production and, 2‐ to survey the regulation of <italic toggle="yes">Pseudomonas aeruginosa</italic> bio surfactant production in the presence of Fe/SDS nanoparticles.</p></sec><sec id="elsc1535-sec-0030"><label>2</label><title>MATERIALS AND METHODS</title><sec id="elsc1535-sec-0040"><label>2.1</label><title>Materials</title><p>Fe/SDS nanoparticles were purchased from Zist‐Tajhiz Pars Company, Tehran, Iran and the effect of nanoparticle on bacteria was investigated at a concentration of 1 mg/L. PBS buffer was used (pH 7.4, KH<sub>2</sub>PO<sub>4</sub> 0.27 g/L, Na<sub>2</sub>HPO<sub>4</sub>⋅2H<sub>2</sub>O 1.78 g/L, KCl 0.2 g/L, Nacl 8.01 g/L) [<xref rid="elsc1535-bib-0026" ref-type="bibr">26</xref>].</p></sec><sec id="elsc1535-sec-0050"><label>2.2</label><title>Microorganism</title><p>
+<italic toggle="yes">Pseudomonas aeruginosa</italic> PBCC5 was used. It was prepared from petroleum biotechnology culture collection (WDCM 964) of the Research Institute Petroleum Industry (RIPI). It is Gram‐negative and rod‐shaped and Gram‐negative Bacterium by diagnostic methods and microscopic observation by the naked eye, after 48 h of incubation in nutrient agar medium.</p></sec><sec id="elsc1535-sec-0060"><label>2.3</label><title>Preparation of bacterial growth curve in molasses culture medium</title><p>The molasses used in this research were prepared from Marvdasht Sugar Factory in Shiraz. Two types of culture medium, liquid nutrient culture medium for overnight culture and molasses culture medium 15% (w/v) were prepared as the main culture medium for growth and production of <italic toggle="yes">rhamnolipid</italic>. The ambient pH was raised to 7 by 1M HCl and sterilized by autoclave [<xref rid="elsc1535-bib-0027" ref-type="bibr">27</xref>]. To prepare the bacterial growth curve, after preparing the overnight culture, microbial inoculation was performed on the molasses medium and every 2 h in sterile conditions, 2 ml of the culture medium was sampled and bacterial growth was measured based on cell density using spectrophotometer at 600 nm [<xref rid="elsc1535-bib-0028" ref-type="bibr">28</xref>], In several studies, nanoparticles increase the growth of microorganisms by decreasing the lag phase and increasing the logarithmic and Stationary phase, for this purpose, they are added to the bacterial culture medium at the beginning. In this study, nanoparticles were inoculated into the bacterial culture medium at the end of the Lag phase.</p></sec><sec id="elsc1535-sec-0070"><label>2.4</label><title>Emulsification activity (E<sub>24</sub>)</title><p>This test is to check the stability and emulsification of the sop from the bacteria after 24 h. Within 1 tube, 2 ml gas oil and 2 ml of supernatant with a volume ratio of 1:1, was poured. The sample was exposed to severe vortexed for 2 min. The samples were then kept for 24 h stabile and the emulsification activity (E<sub>24</sub>) were calculated after 24 h using the following formula: This test was done in three repetitions [<xref rid="elsc1535-bib-0029" ref-type="bibr">29</xref>, <xref rid="elsc1535-bib-0030" ref-type="bibr">30</xref>].
+<disp-formula id="elsc1535-disp-0001">
+<label>(1)</label>
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-1" display="block"><mml:mrow><mml:mrow><mml:msub><mml:mi mathvariant="normal">E</mml:mi><mml:mn>24</mml:mn></mml:msub><mml:mo linebreak="badbreak">=</mml:mo><mml:mfrac><mml:mrow><mml:mi>H</mml:mi><mml:mi>e</mml:mi><mml:mi>i</mml:mi><mml:mi>g</mml:mi><mml:mi>h</mml:mi><mml:mi>t</mml:mi><mml:mspace/><mml:mi>o</mml:mi><mml:mi>f</mml:mi><mml:mspace/><mml:mi>e</mml:mi><mml:mi>m</mml:mi><mml:mi>u</mml:mi><mml:mi>l</mml:mi><mml:mi>s</mml:mi><mml:mi>i</mml:mi><mml:mi>o</mml:mi><mml:mi>n</mml:mi><mml:mspace/><mml:mi>l</mml:mi><mml:mi>a</mml:mi><mml:mi>y</mml:mi><mml:mi>e</mml:mi><mml:mi>r</mml:mi></mml:mrow><mml:mrow><mml:mi>H</mml:mi><mml:mi>e</mml:mi><mml:mi>i</mml:mi><mml:mi>g</mml:mi><mml:mi>h</mml:mi><mml:mi>t</mml:mi><mml:mspace/><mml:mi>o</mml:mi><mml:mi>f</mml:mi><mml:mspace/><mml:mi>t</mml:mi><mml:mi>o</mml:mi><mml:mi>t</mml:mi><mml:mi>a</mml:mi><mml:mi>l</mml:mi><mml:mspace/><mml:mi>l</mml:mi><mml:mi>i</mml:mi><mml:mi>q</mml:mi><mml:mi>u</mml:mi><mml:mi>i</mml:mi><mml:mi>d</mml:mi></mml:mrow></mml:mfrac><mml:mspace/><mml:mo linebreak="goodbreak">×</mml:mo><mml:mn>100</mml:mn></mml:mrow></mml:mrow></mml:math>
+</disp-formula>
+</p></sec><sec id="elsc1535-sec-0080"><label>2.5</label><title>Surface tension measurement</title><p>Twenty‐five milliliter of 96 h culture of each sample were centrifuged at 10,000 rpm for 20 min, in order to remove the cells. Then surface tension was measured by tension meter (FTM‐TN‐556, Toos Nano). An effective bio surfactant can decrease the surface tension of water from 72 to 35 mN/m. This test was done in three repetitions [<xref rid="elsc1535-bib-0031" ref-type="bibr">31</xref>].</p></sec><sec id="elsc1535-sec-0090"><label>2.6</label><title>Fe/SDS nanoparticle</title><p>Four Erlenmeyer flasks (250 ml) containing 50 mL of 15% sterile molasses culture medium with Fe/SDS nanoparticles at a concentration of 1 mg/L, Fe at a concentration of 1 mg/l, SDS at a concentration of 1 mg/L and no additive as control sample were used.</p><p>SEM (KYKY_EM3200 model) was used to ensure the placement of nanoparticles on the bacterial surface and to examine the morphology of the surface. For this purpose, 25 μl of the sample was poured onto a slide and the solution was dried in the presence of air. The samples were coated with gold for a few seconds to make them conductive. Then, the surface morphology was examined by SEM.</p></sec><sec id="elsc1535-sec-0100"><label>2.7</label><title>Gene expression assay</title><p>In this research Genes expression <italic toggle="yes">rhlA mvfR</italic>, <italic toggle="yes">lasR, rhlR</italic> genes by RT PCR reaction were investigation. To study gene expressions, RNA was extracted from cells by RNX‐PLUS. Treated cells were cultured for 72 h and were centrifuged, then 500 μL RNX‐PLUS solution was added to the cell sample and vortexed for 5 s. Then, 200 μL chloroform was added. The resulting mixture was centrifuged at 12,000 g for 15 min at 4°C, and was placed in the freezer for 30 min, the supernatant was discarded and 1 mL of 75% ethanol was added and centrifuged for 8 min at 4°C and the mixture was allowed to dry. Then, water 50°C was added. RNA concentration was measured by optical density method using Nano drop device. RNA was evaluated at 280 and 260 nm.</p><p>A bio Fact kit (bio Fact, Korea) was used for cDNA synthesis according manufacturer protocol. In order to make cDNAs, a volume equivalent to 1000 ng was used. The final volume was 20 Landa. In a free RNase micro type, 10 μL 2X RT Pre‐Mix, 10 ng–5 μg Total RNA, 1 ng–0.5 μg mRNA, Primer (Oligo (dT) 20:50, Random Hexamer 50 μM, Sequence‐Specific Primer 15–20 μM) and for the remaining volume up to 20 Landa, water was added to each sample. The micro tubes were placed in a thermo cycler for 5 min at 37°C, 30 min at 50°C and 5 min at 95°C, and cDNA was synthesized during the set time.</p><p>The qPCR reaction was performed for quantitative analysis of gene expression by cyber green method using Corbett device. The materials required to perform the PCR reaction Include: cDNA samples, DNA ase and RNAase free Water, Taq DNA Polymerase Master Mix RED (Amplicon), Forward Primer, Reverse Primer were used.</p><p>Primer design was done using Primer 3 program. The thermodynamic properties and three‐dimensional shape of the primers were checked with Gene runner software. The primers designed for the genes are according to Table <xref rid="elsc1535-tbl-0001" ref-type="table">1</xref>.</p><table-wrap position="float" id="elsc1535-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>Sequence of primers used in <italic toggle="yes">Pseudomonas aeruginosa</italic>
+</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Name</th><th align="left" rowspan="1" colspan="1">Forward or reverse</th><th align="left" rowspan="1" colspan="1">Sequence (5′ → 3′)</th><th align="left" rowspan="1" colspan="1">Length</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">rhlA</italic>
+</td><td align="left" rowspan="1" colspan="1">F</td><td align="left" rowspan="1" colspan="1">ACATTTCAACGTGGTGCTGT</td><td align="left" rowspan="1" colspan="1">20</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">R</td><td align="left" rowspan="1" colspan="1">GTGATTGACCTCGAAGCGC</td><td align="left" rowspan="1" colspan="1">19</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">mvfR</italic>
+</td><td align="left" rowspan="1" colspan="1">F</td><td align="left" rowspan="1" colspan="1">AAACTTCGACGACATGCTGC</td><td align="left" rowspan="1" colspan="1">20</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">R</td><td align="left" rowspan="1" colspan="1">TCGTAGAGTTCGCTGAGGAC</td><td align="left" rowspan="1" colspan="1">20</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">lasR</italic>
+</td><td align="left" rowspan="1" colspan="1">F</td><td align="left" rowspan="1" colspan="1">CTTCGAACATCCGGTCAGC</td><td align="left" rowspan="1" colspan="1">19</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">R</td><td align="left" rowspan="1" colspan="1">AGTTCACATTGGCTTCCGAG</td><td align="left" rowspan="1" colspan="1">20</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">rhlR</italic>
+</td><td align="left" rowspan="1" colspan="1">F</td><td align="left" rowspan="1" colspan="1">CTGGGCTTCGATTACTACGC</td><td align="left" rowspan="1" colspan="1">20</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">R</td><td align="left" rowspan="1" colspan="1">TCTGCATCTGGTATCGCTCC</td><td align="left" rowspan="1" colspan="1">20</td></tr><tr><td align="left" rowspan="1" colspan="1">16S rRNA</td><td align="left" rowspan="1" colspan="1">F</td><td align="left" rowspan="1" colspan="1">TCGGACCTCACGCTATCAGA</td><td align="left" rowspan="1" colspan="1">20</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">R</td><td align="left" rowspan="1" colspan="1">CCGTGTCTCAGTTCCAGTGT</td><td align="left" rowspan="1" colspan="1">20</td></tr></tbody></table><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>Reaction temperature cycle of PCR is as follows: primary denaturation at 94°C for 5 min, double strand opening at 94°C for 1 min, primer binding at binding temperature of 52°C for 1 min, polymerization at 72°C for 90 s and final elongation at 72°C for 10 min [<xref rid="elsc1535-bib-0032" ref-type="bibr">32</xref>].</p></sec><sec id="elsc1535-sec-0110"><label>2.8</label><title>Partial purification of rhamnolipids</title><p>The rhamnolipids were recovered by solvent extraction. Cell‐free supernatant was obtained by centrifugation of olive oil broth at 6000 rpm and 4°C for 15 min. The supernatant was acidifying to pH 2 using 6 N HCl and was incubated overnight at 4°C. Then, the supernatant was mixed with chloroform and methanol (2:1), and the organic layer was separated and dried at 40°C within 5–6 h [<xref rid="elsc1535-bib-0031" ref-type="bibr">31</xref>].</p></sec><sec id="elsc1535-sec-0120"><label>2.9</label><title>Thin layer chromatography (TLC)</title><p>Thin layer chromatography was used to determine the number of compounds and active ingredients. In order to perform TLC, 60 silica paper with dimensions of 15×5 Cm was arranged. 0.1 mg of dried bio surfactant was dissolved in 10 μl of 90% ethanol and 5 μl of samples were dotted at a distance of 1Cm from the edge of the paper. The mobile phase consisting of chloroform, methanol, and acetic acid with a ratio of 2/15/65 v/v/v was selected. For staining, the solution containing 0.15 orcinol and 8.2 ml of 60% sulfuric acid in 42 ml of distilled water was sprayed on paper and dried at 140°C for 10 min.</p><p>Rf (retention factor) is a measure of the velocity at which a substance moves in a chromatographic system. The value of Rf, due to its uniqueness in each compound, can be used to identify compounds. When comparing two different compounds under the same conditions, a compound with a larger Rf value has less polarity. To determine Rf, the distance traveled by the object from the starting line to the middle of the stain is measured and divided by the distance traveled by the solvent. This distance is measured with the same starting line [<xref rid="elsc1535-bib-0033" ref-type="bibr">33</xref>].</p></sec><sec id="elsc1535-sec-0130"><label>2.10</label><title>Data analysis</title><p>One‐way ANOVA statistical test was performed to compare the significant difference the values obtained from the expression of the desired genes between the study groups at the statistical level of 5% and Duncan multivariate test at the level of 1%. Values ​​less than 0.05 were considered significant. Statistical Data analysis was performed by SPSS 22 software.</p></sec></sec><sec id="elsc1535-sec-0140"><label>3</label><title>RESULTS</title><p>Figure <xref rid="elsc1535-fig-0001" ref-type="fig">1</xref> shows the growth curve obtained from <italic toggle="yes">Pseudomonas aeruginosa PBCC5</italic>. According to the growth curve, the bacterium leaves the Lag phase at the 10th hour of its growth and enters the logarithmic phase, and the bacterial stationary phase begins at the 28th hour, when rhamnolipid production takes place at this stage.</p><fig position="float" fig-type="FIGURE" id="elsc1535-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>(A) Growth curve of <italic toggle="yes">Pseudomonas aeruginosa</italic> PBCC5 in molasses culture medium. (B) Growth curve of <italic toggle="yes">Pseudomonas aeruginosa</italic> PBCC5 in molasses culture medium after addition nanoparticles</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="ELSC-22-584-g004.jpg"/></fig><sec id="elsc1535-sec-0150"><label>3.1</label><title>Emulsification index test (E<sub>24</sub>)</title><p>Emulsification index test was used to check stability and emulsification the rhamnolipid after 24 h. Emulsification activity was measured daily (24, 48, 72, and 96 h). Emulsification was not observed in any of the samples on the first day (24 h). On the second, third and fourth day (48, 72, 96, h), all samples had foam from the rhamnolipid emulsion, which indicated the onset of rhamnolipid production from 48 h after bacterial growth. From 48 to 96 h, the bio surfactant production was increased.</p><p>Emulsification indexes reduced with increasing the concentration of Fe/SDS nanoparticles from 500 to 1000 mg/l compared with control sample on the second day (48 h) while for sample exposed to 1 mg/l Fe/SDS, the emulsification index was higher than for control sample.</p><p>It is likely that this concentration of Fe/SDS (1 mg/l) causes bacteria to reach stationary phase sooner and produce biosurfactant. Any changes in emulsification indexes were observed on fourth day (96 h). According to the results of E<sub>24</sub>, it can be said that the low concentration of Fe/SDS (1 mg/l) nanoparticles caused the bacteria to reach stationary phase sooner and enhanced production of biosurfactant, while higher concentrations of nanoparticles (500, 1000 mg/l) decreased biosurfactant production in the first 48 h (Figure <xref rid="elsc1535-fig-0002" ref-type="fig">2</xref>).</p><fig position="float" fig-type="FIGURE" id="elsc1535-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>Effects of Fe/SDS nanoparticles on emulsification activity (E<sub>24</sub>)</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="ELSC-22-584-g005.jpg"/></fig><p>In the present research, all samples had good emulsification activity in all days, but the best emulsification index, was by the sample that exposed to 1 mg/l Fe/SDS nanoparticles for 2 days, because of the faster <italic toggle="yes">rhamnolipid</italic> production in this sample.</p></sec><sec id="elsc1535-sec-0160"><label>3.2</label><title>Surface tension reduction test</title><p>Surface tension reduction of samples was measured after 96 h of incubation and were compared to water surface tension (72 mN/m). The results showed samples had the surface tension less than 40 mN/m and were reduced the surface tension of distilled water from 72 to 33–35.5 mN/m. In the similar study, by Alamdar et al. Effects of Fe/SDS and Au nanoparticles on <italic toggle="yes">Pseudomonas aeruginosa</italic> bacterial growth and biosurfactant production were examined. All samples, the surface tension of distilled water decreased from 72 to 32–35 mN/m [<xref rid="elsc1535-bib-0035" ref-type="bibr">35</xref>].</p><p>The results showed that all samples decreased the surface tension from 72 of distilled water to 32–35 mN/m. According to these results, it was demonstrated that Fe/SDS nanoparticles at different concentrations did not have a negative effect on surface tension (Figure <xref rid="elsc1535-fig-0003" ref-type="fig">3</xref>).</p><fig position="float" fig-type="FIGURE" id="elsc1535-fig-0003" orientation="portrait"><label>FIGURE 3</label><caption><p>Effect of Fe/SDS nanoparticle concentration on the surface tension of biosurfactants after 96 h of incubation</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="ELSC-22-584-g006.jpg"/></fig></sec><sec id="elsc1535-sec-0170"><label>3.3</label><title>Morphology of Fe/SDS nanoparticles with bacteria</title><p>SEM image of the Fe/SDS nanoparticles is provided in Figure <xref rid="elsc1535-fig-0004" ref-type="fig">4</xref>. According to the image, the nanoparticles were spherical in shape and had an average size of 20 nm.</p><fig position="float" fig-type="FIGURE" id="elsc1535-fig-0004" orientation="portrait"><label>FIGURE 4</label><caption><p>SEM image of Fe/SDS nanoparticles</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="ELSC-22-584-g002.jpg"/></fig><p>Transmission electron microscopy (TEM) image (Figure <xref rid="elsc1535-fig-0005" ref-type="fig">5</xref>) showed the placement of nanoparticles on the surface and membrane of bacteria. Nanoparticles in different concentrations increase the exchange of bacterial nutrients with the culture medium by increasing the bacterial surface and thus increase the growth and production of biosurfactant. Exposure of Fe/SDS nanoparticles to <italic toggle="yes">Pseudomonas aeruginosa PBCC5</italic> was performed at the beginning of the bacterial growth phase at a concentration of 1 mg/l and the results were compared with a control sample (without the presence of nanoparticles).</p><fig position="float" fig-type="FIGURE" id="elsc1535-fig-0005" orientation="portrait"><label>FIGURE 5</label><caption><p>TEM image of bacteria in the presence of Fe/SDS nanoparticles</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-9" orientation="portrait" xlink:href="ELSC-22-584-g003.jpg"/></fig></sec><sec id="elsc1535-sec-0180"><label>3.4</label><title>Expression of <italic toggle="yes">mvfR, lasR, rhlR, rhlA</italic> genes</title><p>Our findings showed that <italic toggle="yes">rhlA</italic> gene expression was significantly increased (<italic toggle="yes">P</italic> = 0.0001) in Fe/SDS treated cells (Figure <xref rid="elsc1535-fig-0004" ref-type="fig">4</xref>), indicating the strong effect of this nanoparticle on the biosurfactant production of treated cells. However, SDS and Fe particles treatments alone were not effective in expressing the <italic toggle="yes">rhlA</italic> gene and were almost identical to the control sample.</p><p>The expression of <italic toggle="yes">lasR, rhlR</italic> and <italic toggle="yes">mvfR</italic> genes was also significantly increased (<italic toggle="yes">P</italic> = 0.0004, <italic toggle="yes">P</italic> = 0.005, <italic toggle="yes">P</italic> = 0.0001, respectively) in Fe/SDS‐treated cells, indicating the positive effect of nanoparticle on the treated cells. No significant effects were reported in <italic toggle="yes">lasR</italic> gene expression in SDS as well as Fe treated cells separately (Figure <xref rid="elsc1535-fig-0006" ref-type="fig">6</xref>). Table <xref rid="elsc1535-tbl-0001" ref-type="table">1</xref> shows the analysis of variance of <italic toggle="yes">mvfR, lasR, rhlR, rhlA</italic> genes.</p><fig position="float" fig-type="FIGURE" id="elsc1535-fig-0006" orientation="portrait"><label>FIGURE 6</label><caption><p>Expression of <italic toggle="yes">lasR(A)</italic>, <italic toggle="yes">rhlA(B)</italic>, <italic toggle="yes">mvfR(C)</italic>, <italic toggle="yes">rhlR(D)</italic> genes by RT‐PCR method in Fe/SDS treated cells</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-11" orientation="portrait" xlink:href="ELSC-22-584-g001.jpg"/></fig><p>Based on analysis, all four genes, the means of gene expression levels in cells treated with Fe/SDS nanoparticles showed significant differences (Table <xref rid="elsc1535-tbl-0001" ref-type="table">1</xref>), while SDS and Fe nanoparticles separately treatments showed no significant difference in the expression of <italic toggle="yes">mvfR, lasR, rhlR</italic> and <italic toggle="yes">rhlA</italic> genes (<italic toggle="yes">P</italic> = 0.0001, <italic toggle="yes">P</italic> = 0.0004, <italic toggle="yes">P</italic> = 0.005, <italic toggle="yes">P</italic> = 0.0001). the analysis indicated the importance of nanoparticles in increasing the expression of genes involved in the production of bi osurfactant from <italic toggle="yes">Pseudomonas aeruginosa</italic>.</p></sec><sec id="elsc1535-sec-0190"><label>3.5</label><title>Thin layer chromatography (TLC)</title><p>Thin layer chromatography was used to confirm the presence of biosurfactant from <italic toggle="yes">Pseudomonas aeruginosa</italic>. Rf (retention factor) was determined by the ratio of the distance traveled by the produced bio surfactant to the distance traveled by solvent. The Rf value obtained from TLC was 0.63 (Figure <xref rid="elsc1535-fig-0007" ref-type="fig">7</xref>).</p><fig position="float" fig-type="FIGURE" id="elsc1535-fig-0007" orientation="portrait"><label>FIGURE 7</label><caption><p>Thin layer chromatography (TLC)</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-13" orientation="portrait" xlink:href="ELSC-22-584-g007.jpg"/></fig></sec></sec><sec id="elsc1535-sec-0200"><label>4</label><title>DISCUSSION AND CONCLUSION</title><p>The most of expression genes in <italic toggle="yes">Pseudomonas aeruginosa</italic> are controlled by a gene system called the QS system. Today, several studies have been conducted to study the effects of metal nanoparticles on the growth of bacteria and the production of bio surfactants in various industrial fields. The results of these studies varied depending on the type of bacteria, the type of nanoparticles and the concentration of nanoparticles. Alamdar et al., reported the effect of Fe/SDS and Au nanoparticles on the growth and production of biosurfactant from <italic toggle="yes">Pseudomonas aeruginosa PBCC5</italic> [<xref rid="elsc1535-bib-0035" ref-type="bibr">35</xref>]. Sahebnazar et al. used iron‐silica nanoparticles in molasses culture medium to increase the growth of <italic toggle="yes">Pseudomonas aeruginosa</italic> and increase the production of rhamnolipid [<xref rid="elsc1535-bib-0027" ref-type="bibr">27</xref>]. In another study, the effect of nanoparticles on the expression of bacterial genes was investigated. The results showed an increase in the expression of some genes at specific concentrations of nanoparticles. Therefore, in addition to increasing bacterial surface in the presence of nanoparticles, nanoparticles may increase the expression of some genes involved in the bacterial growth and production of bacterial bio surfactants [<xref rid="elsc1535-bib-0015" ref-type="bibr">15</xref>]. In this study, the expression of genes involved in the production of biosurfactant by <italic toggle="yes">Pseudomonas aeruginosa</italic> in the presence of Fe/SDS nanoparticles was investigated. At the first, in order to evaluate the efficiency of rhamnolipid produced, surface tension test and Emulsification activity (E<sub>24</sub>) were performed, which shows the proper performance of rhamnolipid in the presence of nanoparticles. In the study of Bendaha et al, emulsification index of bio surfactant produced by Pseudomonas aeruginosa PBCC5 for sample of 1 mg/l Fe/SDS, was reported at the second day of incubation [<xref rid="elsc1535-bib-0034" ref-type="bibr">34</xref>], Which was consistent with the data in our research. Also, EI‐Sheshtawy reported that the most biosurfactant production by Bacillus licheniformis happen after 72 h, and their bio surfactants were secondary metabolites [<xref rid="elsc1535-bib-0031" ref-type="bibr">31</xref>]. The results show that, rhamnolipid produced by <italic toggle="yes">Pseudomonas aeruginosa</italic> in the presence of nanoparticles, has an acceptable ability to reduce surface tension and can be used as a natural emulsifier in the oil industry. Expression of <italic toggle="yes">rhlA, mvfR, lasR, rhlR</italic> genes was evaluated using RT‐PCR and TLC chromatography. Data were analyzed by SPSS<sub>22</sub> software and the means were compared based on ANOVA at 5% level and Duncan multivariate test at 1% level.</p><p>RT‐PCR results showed that the expression of <italic toggle="yes">rhlA, mvfR, lasR, rhlR</italic> genes was significantly increased in Fe/SDS treated cells, which indicates the positive effect of nanoparticles on treated cells. While SDS and Fe alone were not effective in the expression of these genes and were similar to the control sample.</p><p>According to the results, the highest and lowest gene expression in the presence of Fe/SDS nanoparticles belonged to <italic toggle="yes">lasR</italic> gene and <italic toggle="yes">mvfR</italic> gene, respectively. Statistically, the expression of <italic toggle="yes">mvfR, lasR, rhlR</italic> and <italic toggle="yes">rhlA</italic> genes were significantly increased in Fe/SDS‐treated cells. In a similar study, the frequency of quorum genes was reported to be 43.3%, 63%, 3.71%, and 3% for <italic toggle="yes">laslI, rhlR, lasI</italic> and <italic toggle="yes">lasR</italic> genes, respectively [<xref rid="elsc1535-bib-0027" ref-type="bibr">27</xref>], In the study of <italic toggle="yes">Senturk</italic> et al., four isolates had <italic toggle="yes">lasR, lasI, rhlR</italic> and <italic toggle="yes">rhlA</italic> genes. One of the isolates lacked <italic toggle="yes">lasR</italic> gene and one isolate had none of the three <italic toggle="yes">lasR</italic>, <italic toggle="yes">lasI</italic> and <italic toggle="yes">rhlR</italic> genes [<xref rid="elsc1535-bib-0036" ref-type="bibr">36</xref>]. Deficiency in the production of QS genes can be due to the production of extracellular enzymes that lead to the breakdown of genes encoding quorum sensing [<xref rid="elsc1535-bib-0036" ref-type="bibr">36</xref>]. Another reason for the difference in the expression of QS genes may be due to point mutations in the genes encoding the QS system. Bjarnsholt et al. found that increased mutations in point mutations genes led to functional defects in <italic toggle="yes">lasR</italic> and <italic toggle="yes">rhlR</italic> genes [<xref rid="elsc1535-bib-0037" ref-type="bibr">37</xref>]. The presence of several strains of <italic toggle="yes">Pseudomonas aeruginosa</italic> at the site of infection may lead to a defect in the expression of genes encoding the QS system [<xref rid="elsc1535-bib-0036" ref-type="bibr">36</xref>].</p><p>The reason for this difference in the expression of QS genes and its association with drug resistance in <italic toggle="yes">Pseudomonas aeruginosa</italic> isolates requires further research. Due to the presence of different genes in <italic toggle="yes">Pseudomonas aeruginosa</italic> and due to the main role of QS genes, the frequency of these genes is not well defined and has been reported differently in various studies around the world.</p><p>In this research, according to the statistical results, <italic toggle="yes">P</italic>‐value &lt;0.05 was obtained in all 4 genes for cells treated with Fe/SDS nanoparticles, which indicates the importance of nanoparticles in increasing gene expression involved in the production of bio surfactant from <italic toggle="yes">Pseudomonas aeruginosa</italic>.</p></sec><sec sec-type="COI-statement" id="elsc1535-sec-0210"><title>CONFLICT OF INTEREST</title><p>The authors certify they have no affiliations with or involvement in any organization or entity with any financial interest.</p></sec></body><back><sec sec-type="data-availability" id="elsc1535-sec-0230"><title>DATA AVAILABILITY STATEMENT</title><p>All data generated or analyzed during this study are included in this article.</p></sec><ref-list id="elsc1535-bibl-0001"><title>REFERENCES</title><ref id="elsc1535-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="elsc1535-cit-0001">
+<string-name name-style="western">
+<surname>Biniarz</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Łukaszewicz</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Janek</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Screening concepts, characterization and structural analysis of microbial‐derived bioactive lipopeptides: a review</article-title>. <source>Crit Rev Biotechnol</source>. <year>2017</year>;<volume>37</volume>:<fpage>393</fpage>–<lpage>410</lpage>.<pub-id pub-id-type="pmid">27098391</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3109/07388551.2016.1163324</pub-id></mixed-citation></ref><ref id="elsc1535-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="elsc1535-cit-0002">
+<string-name name-style="western">
+<surname>Sharma</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sundar</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Srivastava</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Bio surfactants: potential agents for controlling cellular communication, motility, and antagonism</article-title>. <source>Front Mol Bio Sci</source>. <year>2021</year>;<volume>11</volume>(<issue>8</issue>):<elocation-id>727070</elocation-id>. <pub-id pub-id-type="doi">10.3389/fmolb.2021.727070</pub-id>
+<pub-id pub-id-type="pmcid">PMC8542798</pub-id><pub-id pub-id-type="pmid">34708073</pub-id></mixed-citation></ref><ref id="elsc1535-bib-0003"><label>3</label><mixed-citation publication-type="book" id="elsc1535-cit-0003">
+<string-name name-style="western">
+<surname>Henkel</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hausmann</surname>
+<given-names>R</given-names>
+</string-name>. <source>Chapter 2 – Diversity and Classification of Microbial Surfactants, Biobased Surfactants</source>. <edition>2nd ed</edition>. <publisher-name>Synthesis, Properties, and Applications</publisher-name>. <year>2019</year>:<fpage>41</fpage>–<lpage>63</lpage>.</mixed-citation></ref><ref id="elsc1535-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="elsc1535-cit-0004">
+<string-name name-style="western">
+<surname>Nayarisseri</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Singh</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Singh</surname>
+<given-names>SK</given-names>
+</string-name>. <article-title>Screening, isolation and characterization of biosurfactant producing Bacillus subtilis strain ANSKLAB03</article-title>. <source>Bioinformation</source>. <year>2018</year>;<volume>14</volume>(<issue>6</issue>):<fpage>304</fpage>–<lpage>314</lpage>.<pub-id pub-id-type="pmid">30237676</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.6026/97320630014304</pub-id><pub-id pub-id-type="pmcid">PMC6137570</pub-id></mixed-citation></ref><ref id="elsc1535-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="elsc1535-cit-0005">
+<string-name name-style="western">
+<surname>Meliani</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bensoltane</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>The ability of some pseudomonas strains to produce biosurfactant. Meliani and Bensoltane</article-title>. <source>Poult Fish Wildl Sci</source>. <year>2014</year>;<volume>2</volume>:<fpage>1</fpage>.</mixed-citation></ref><ref id="elsc1535-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="elsc1535-cit-0006">
+<string-name name-style="western">
+<surname>Khajavi‐Shojaei</surname>
+<given-names>S,h</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Moezzi</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Enayatizamir</surname>
+<given-names>N</given-names>
+</string-name>. <article-title>Investigation of bio surfactant production by Bacillus pumilus 1529 <italic toggle="yes">Bacillus subtilis</italic> WPI</article-title>. <source>Biol J Micro Org</source>. <year>2016</year>;<volume>5</volume>(<issue>17</issue>):<fpage>97</fpage>–<lpage>110</lpage>.</mixed-citation></ref><ref id="elsc1535-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="elsc1535-cit-0007">
+<string-name name-style="western">
+<surname>De Giani</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zampolli</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Di Gennaro</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Recent trends on biosurfactants with antimicrobial activity produced by bacteria associated with human health: different perspectives on their properties, challenges, and potential applications</article-title>. <source>Front Microbiol.</source>
+<year>2021</year>;<volume>12</volume>:<elocation-id>655150</elocation-id>. <pub-id pub-id-type="doi">10.3389/fmicb.2021.655150</pub-id>
+<pub-id pub-id-type="pmid">33967992</pub-id><pub-id pub-id-type="pmcid">PMC8104271</pub-id></mixed-citation></ref><ref id="elsc1535-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="elsc1535-cit-0008">
+<string-name name-style="western">
+<surname>Bagheri Lotfaabad</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shahceraghi</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>shooraj</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>Assessment of antibacterial capability of rhamnolipids produced by two indigenous <italic toggle="yes">Pseudomonas aeruginosa</italic> strains</article-title>. <source>Jundishapur J Microbiol</source>. <year>2013</year>;<volume>6</volume>(<issue>1</issue>):<fpage>29</fpage>–<lpage>35</lpage>.</mixed-citation></ref><ref id="elsc1535-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="elsc1535-cit-0009">
+<string-name name-style="western">
+<surname>Liu</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liua</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wei</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Weakening or losing of surfactant drag reduction ability: a coarse‐grained molecular dynamics study</article-title>. <source>Chem Eng Sci</source>. <year>2020</year>;<volume>219</volume>:<elocation-id>115610</elocation-id>.</mixed-citation></ref><ref id="elsc1535-bib-0010"><label>10</label><mixed-citation publication-type="book" id="elsc1535-cit-0010">
+<string-name name-style="western">
+<surname>Kardena</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Helmy</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Funamizu</surname>
+<given-names>N</given-names>
+</string-name>. <part-title>Bio surfactants and soil bioremediation</part-title>. In: <person-group person-group-type="editor">
+<string-name name-style="western">
+<surname>Kosaric</surname>
+<given-names>N</given-names>
+</string-name>
+</person-group>, <person-group person-group-type="editor">
+<string-name name-style="western">
+<surname>Vardar‐Sukan &amp; Sukan</surname>
+<given-names>N</given-names>
+</string-name>
+</person-group>, eds. <source>Bio surfactants Production and Utilization‐Processes</source>. <publisher-name>Technologies, and Economics CRC Press New York</publisher-name>. <year>2014</year>;<fpage>327</fpage>–<lpage>360</lpage>.</mixed-citation></ref><ref id="elsc1535-bib-0011"><label>11</label><mixed-citation publication-type="book" id="elsc1535-cit-0011">
+<string-name name-style="western">
+<surname>Fracchia</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cavallo</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Martinotti</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Banat</surname>
+<given-names>IM</given-names>
+</string-name>. <article-title>Bio surfactants and bio emulsifiers biomedical and related applications‐present status and future potentials</article-title>. In: <person-group person-group-type="editor">
+<string-name name-style="western">
+<surname>Ghista</surname>
+<given-names>DN</given-names>
+</string-name>
+</person-group>. <source>Biomedical Science, Engineering and Technology</source>. <publisher-name>Norderstedt: Books on Demand</publisher-name>. <year>2012</year>;<fpage>325</fpage>–<lpage>370</lpage>.</mixed-citation></ref><ref id="elsc1535-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="elsc1535-cit-0012">
+<string-name name-style="western">
+<surname>Suhandono</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hadi Kusuma</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Meitha</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Characterization and production of rhamnolipid biosurfactant in recombinant escherichia coli using autoinduction medium and palm oil mill effluent</article-title>. <source>Braz Arch Biol Technol</source>. <year>2021</year>;<volume>64</volume>(<issue>e21200301</issue>):<fpage>1</fpage>–<lpage>13</lpage>.</mixed-citation></ref><ref id="elsc1535-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="elsc1535-cit-0013">
+<string-name name-style="western">
+<surname>Kask</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yildiz</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gumustas</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ozkan</surname>
+<given-names>SA</given-names>
+</string-name>. <article-title>Bio surtactant production by <italic toggle="yes">Psedomonas aeroginosa</italic> in kefir and fish meal</article-title>. <source>Braz J Microbiol</source>. <year>2015</year>;<volume>46</volume>(<issue>3</issue>):<fpage>855</fpage>–<lpage>859</lpage>.<pub-id pub-id-type="pmid">26413070</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1590/S1517-838246320140727</pub-id><pub-id pub-id-type="pmcid">PMC4568859</pub-id></mixed-citation></ref><ref id="elsc1535-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="elsc1535-cit-0014">
+<string-name name-style="western">
+<surname>Mohammad</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Molavi</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dolatabadi</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Synergistic effect of silver nanoparticles and streptomycin antibiotic on the MexX gene expression of pump efflux system in drug‐resistant <italic toggle="yes">Pseudomonas aeruginosa</italic> strains</article-title>. <source>J Ilam Univ Med Sci</source>. <year>2022</year>;<volume>30</volume>(<issue>2</issue>):<fpage>41</fpage>–<lpage>50</lpage>.</mixed-citation></ref><ref id="elsc1535-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="elsc1535-cit-0015">
+<string-name name-style="western">
+<surname>Bisch</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ogier</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Médigue</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Comparative genomics between two Xenorhabdus bovienii strains highlights differential evolutionary scenarios within an entomopathogenic bacterial species</article-title>. <source>Genome Biol Evolution</source>. <year>2016</year>;<volume>8</volume>:<fpage>148</fpage>–<lpage>160</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/gbe/evv248</pub-id><pub-id pub-id-type="pmcid">PMC4758244</pub-id><pub-id pub-id-type="pmid">26769959</pub-id></mixed-citation></ref><ref id="elsc1535-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="elsc1535-cit-0016">
+<string-name name-style="western">
+<surname>Rezazadeh Mofradnia</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yazdian</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rashedi</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Experimental and Simulation of nanoparticle capability for bio surfactant production using in MEOR</article-title>. <source>J App Biotechnol Rep</source>. <year>2017</year>;<volume>4</volume>(<issue>2</issue>):<fpage>177</fpage>.</mixed-citation></ref><ref id="elsc1535-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="elsc1535-cit-0017">
+<string-name name-style="western">
+<surname>Ahmed</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rudden</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Smyth</surname>
+<given-names>TJ</given-names>
+</string-name>, et al. <article-title>Natural quorum sensing inhibitors effectively downregulate gene expression of <italic toggle="yes">Pseudomonas aeruginosa</italic> virulence factors</article-title>. <source>Appl Microbiol Biotechnol</source>. <year>2019</year>;<volume>103</volume>(<issue>8</issue>):<fpage>3521</fpage>–<lpage>3535</lpage>.<pub-id pub-id-type="pmid">30852658</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00253-019-09618-0</pub-id><pub-id pub-id-type="pmcid">PMC6449319</pub-id></mixed-citation></ref><ref id="elsc1535-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="elsc1535-cit-0018">
+<string-name name-style="western">
+<surname>Etemadi</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>A</surname>
+<given-names>AS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yazdian</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gh</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>The optimization of culture medium bacillus thermoamylovorance strain EAMYO by RSM and improvement Biodesulfurization activity by starch/iron nano particles</article-title>. <source>Modares J Biotechnol</source>. <year>2020</year>;<volume>11</volume>(<issue>1</issue>).</mixed-citation></ref><ref id="elsc1535-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="elsc1535-cit-0019">
+<string-name name-style="western">
+<surname>Rezazadeh Mofradnia</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tavakoli</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yazdian</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rashedi</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rasekh</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>Fe/starch nanoparticle – <italic toggle="yes">Pseudomonas aeruginosa</italic>: bio‐physiochemical and MD studies</article-title>. <source>In J Biol Macromol</source>. <year>2018</year>;<volume>117</volume>:<fpage>51</fpage>–<lpage>61</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ijbiomac.2018.04.191</pub-id><pub-id pub-id-type="pmid">29730011</pub-id></mixed-citation></ref><ref id="elsc1535-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="elsc1535-cit-0020">
+<string-name name-style="western">
+<surname>Modabber</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Akhavan Sepahi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yazdian</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rashedi</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Surfactin production in the bioreactor: emphasis on magnetic nanoparticles application</article-title>. <source>Eng in Life Sci</source>. <year>2020</year>;<volume>20</volume>:<fpage>466</fpage>–<lpage>475</lpage>.<pub-id pub-id-type="pmid">33204233</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/elsc.201900163</pub-id><pub-id pub-id-type="pmcid">PMC7645645</pub-id></mixed-citation></ref><ref id="elsc1535-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="elsc1535-cit-0021">
+<string-name name-style="western">
+<surname>Reis</surname>
+<given-names>RS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pereira</surname>
+<given-names>AG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Neves</surname>
+<given-names>BC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Freire</surname>
+<given-names>DMG</given-names>
+</string-name>. <article-title>Gene regulation of <italic toggle="yes">rhamnolipid</italic> production in <italic toggle="yes">Pseudomonas aeruginosa</italic>
+</article-title>. <source>Biores Technol</source>. <year>2011</year>;<volume>102</volume>:<fpage>6377</fpage>‐<lpage>6384</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.biortech.2011.03.074</pub-id><pub-id pub-id-type="pmid">21498076</pub-id></mixed-citation></ref><ref id="elsc1535-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="elsc1535-cit-0022">
+<string-name name-style="western">
+<surname>Cornforth</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Popat</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McNally</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Combinatorial quorum sensing allows bacteria to resolve their social and physical environment</article-title>. <source>Proc Nat Acad Sci</source>. <year>2014</year>;<volume>111</volume>(<issue>11</issue>):<fpage>4280</fpage>–<lpage>4284</lpage>.<pub-id pub-id-type="pmid">24594597</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.1319175111</pub-id><pub-id pub-id-type="pmcid">PMC3964068</pub-id></mixed-citation></ref><ref id="elsc1535-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="elsc1535-cit-0023">
+<string-name name-style="western">
+<surname>Sharma</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rao</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bansal</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dang</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gupta</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gabrani</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>
+<italic toggle="yes">Pseudomonas aeruginosa</italic> biofilm: potential therapeutic targets</article-title>. <source>Biologicals</source>. <year>2014</year>;<volume>42</volume>(<issue>1</issue>):<fpage>1</fpage>–<lpage>7</lpage>.<pub-id pub-id-type="pmid">24309094</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.biologicals.2013.11.001</pub-id></mixed-citation></ref><ref id="elsc1535-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="elsc1535-cit-0024">
+<string-name name-style="western">
+<surname>Senturk</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ulusoy</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bosgelmez‐Tinaz</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yagci</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Quorum sensing and virulence of <italic toggle="yes">Pseudomonas aeruginosa</italic> during urinary tract infections</article-title>. <source>J Infect Dev Ctries</source>. <year>2012</year>;<volume>6</volume>(<issue>6</issue>):<fpage>501</fpage>–<lpage>507</lpage>.<pub-id pub-id-type="pmid">22706193</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3855/jidc.2543</pub-id></mixed-citation></ref><ref id="elsc1535-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="elsc1535-cit-0025">
+<string-name name-style="western">
+<surname>Yi</surname>
+<given-names>Xu</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chao</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jun</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Peifang</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guoxiang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lingzhan</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Mechanistic understanding of cerium oxide nanoparticle‐mediated biofilm formation in <italic toggle="yes">Pseudomonas aeruginosa</italic>
+</article-title>. <source>Environment Sci Pollution Res</source>. <year>2018</year>;<volume>25</volume>:<fpage>34765</fpage>–<lpage>34776</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s11356-018-3418-8</pub-id><pub-id pub-id-type="pmid">30324376</pub-id></mixed-citation></ref><ref id="elsc1535-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="elsc1535-cit-0026">
+<string-name name-style="western">
+<surname>Lia</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vipulanandan</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Effects of Au/Fe and Fe nanoparticles on Serratia bacterial growth and production of bio surfactant</article-title>. <source>Mater Sci Eng</source>. <year>2013</year>;<volume>33</volume>(<issue>7</issue>):<fpage>3909</fpage>–<lpage>3915</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.msec.2013.05.026</pub-id><pub-id pub-id-type="pmid">23910295</pub-id></mixed-citation></ref><ref id="elsc1535-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="elsc1535-cit-0027">
+<string-name name-style="western">
+<surname>Sahebnazar</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mowla</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Karimi</surname>
+<given-names>Gh</given-names>
+</string-name>. <article-title>Enhancement of <italic toggle="yes">Pseudomonas Aeruginosa</italic> growth and rhamnolipid production using iron‐silica nanoparticles in low‐cost medium</article-title>. <source>J Nanostruct</source>. <year>2018</year>;<volume>8</volume>(<issue>1</issue>):<fpage>1</fpage>–<lpage>10</lpage>.</mixed-citation></ref><ref id="elsc1535-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="elsc1535-cit-0028">
+<string-name name-style="western">
+<surname>Chatterjee</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bandyopadhyay</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sarkar</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Effect of iron oxide and gold nanoparticles on bacterial growth leading towards biological application</article-title>. <source>J Nanobiotechnol</source>. <year>2011</year>;<volume>9</volume>:<fpage>34</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/1477-3155-9-34</pub-id><pub-id pub-id-type="pmcid">PMC3180348</pub-id><pub-id pub-id-type="pmid">21859494</pub-id></mixed-citation></ref><ref id="elsc1535-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="elsc1535-cit-0029">
+<string-name name-style="western">
+<surname>Rikalovic</surname>
+<given-names>MG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cvijovic</surname>
+<given-names>GG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vrvic</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Karadzic</surname>
+<given-names>I</given-names>
+</string-name>. <article-title>Production and characterization of rhamnolipids from <italic toggle="yes">Pseudomonas aeruginosa</italic> san‐ai</article-title>. <source>J Serbian Chem Soc Res</source>. <year>2012</year>;<volume>77</volume>(<issue>1</issue>):<fpage>27</fpage>–<lpage>42</lpage>.</mixed-citation></ref><ref id="elsc1535-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="elsc1535-cit-0030">
+<string-name name-style="western">
+<surname>Kiran</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nishanth</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Priyadharshini</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Anitha</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Selvin</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Effect of Fe nanoparticle on growth and glycolipid bio surfactant production under solid state culture by marine Nocardiopsis sp. MSA13A</article-title>. <source>BMC Biotechnol Res</source>. <year>2014</year>;<volume>14</volume>(<issue>48</issue>):<fpage>1</fpage>–<lpage>10</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/1472-6750-14-48</pub-id><pub-id pub-id-type="pmcid">PMC4229807</pub-id><pub-id pub-id-type="pmid">24885470</pub-id></mixed-citation></ref><ref id="elsc1535-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="elsc1535-cit-0031">
+<string-name name-style="western">
+<surname>Fracchia</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cavallo</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Giovanna Martinotti</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Banat</surname>
+<given-names>IM</given-names>
+</string-name>. <article-title>Bio surfactants and bio emulsifiers biomedical and related applications – present status and future potentials</article-title>. <source>Biomed Sci Eng Technol</source>. <year>2012</year>;<fpage>325</fpage>–<lpage>370</lpage>.</mixed-citation></ref><ref id="elsc1535-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="elsc1535-cit-0032">
+<string-name name-style="western">
+<surname>Zhu</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bandara</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Conibear</surname>
+<given-names>TC</given-names>
+</string-name>, et al. <article-title>
+<italic toggle="yes">Pseudomonas aeruginosa</italic> with lasI quorum‐sensing deficiency during corneal infection</article-title>. <source>Inves Ophthalmol Visual Sci</source>. <year>2004</year>;<volume>45</volume>(<issue>6</issue>):<fpage>1897</fpage>–<lpage>903</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1167/iovs.03-0980</pub-id><pub-id pub-id-type="pmid">15161855</pub-id></mixed-citation></ref><ref id="elsc1535-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="elsc1535-cit-0033">
+<string-name name-style="western">
+<surname>Jafari</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Raheb</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bardania</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Isolation, cloning and expression of <italic toggle="yes">rhamnolipid</italic> operon from <italic toggle="yes">Pseudomonas aeruginosa</italic> ATCC 9027 in logarithmic phase in E. coli BL21</article-title>. <source>American J life Sci</source>. <year>2014</year>;<volume>2</volume>:<fpage>22</fpage>–<lpage>30</lpage>.</mixed-citation></ref><ref id="elsc1535-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="elsc1535-cit-0034">
+<string-name name-style="western">
+<surname>Bendaha</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mebrek</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Naimi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tifrit</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Belaouni</surname>
+<given-names>HA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Abbouni</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>Isolation and comparison of <italic toggle="yes">Rhamnolipids</italic> production in <italic toggle="yes">Pseudomonas aeruginosa</italic> P.B:2 and <italic toggle="yes">Pseudomonas fluorescens</italic> P.V:10</article-title>. <source>Scientif Rep Res</source>. <year>2012</year>;<volume>1</volume>(<issue>12</issue>):<fpage>1</fpage>–<lpage>7</lpage>.</mixed-citation></ref><ref id="elsc1535-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="elsc1535-cit-0035">
+<string-name name-style="western">
+<surname>Kadhim</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>MiR</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Prevalence study of quorum sensing groups among clinical isolates of <italic toggle="yes">Pseudomonas aeruginosa</italic>
+</article-title>. <source>Int J Curr Microbiol App Sci</source>. <year>2014</year>;<volume>3</volume>(<issue>11</issue>):<fpage>204</fpage>–<lpage>215</lpage>.</mixed-citation></ref><ref id="elsc1535-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="elsc1535-cit-0036">
+<string-name name-style="western">
+<surname>Senturk</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ulusoy</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bosgelmez‐Tinaz</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yagci</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Quorum sensing and virulence of <italic toggle="yes">Pseudomonas aeruginosa</italic> during urinary tract infections</article-title>. <source>J Infec Dev Cou</source>. <year>2012</year>;<volume>6</volume>(<issue>06</issue>):<fpage>501</fpage>–<lpage>507</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.3855/jidc.2543</pub-id><pub-id pub-id-type="pmid">22706193</pub-id></mixed-citation></ref><ref id="elsc1535-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="elsc1535-cit-0037">
+<string-name name-style="western">
+<surname>Bjarnsholt</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jensen</surname>
+<given-names>PØ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fiandaca</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pedersen</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hansen</surname>
+<given-names>CR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Andersen</surname>
+<given-names>CB</given-names>
+</string-name>. <article-title>
+<italic toggle="yes">Pseudomonas aeruginosa</italic> biofilms in the respiratory tract of cystic fibrosis patients</article-title>. <source>Pediat Pulmonol</source>. <year>2009</year>;<volume>44</volume>(<issue>6</issue>):<fpage>547</fpage>–<lpage>555</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ppul.21011</pub-id><pub-id pub-id-type="pmid">19418571</pub-id></mixed-citation></ref><ref id="elsc1535-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="elsc1535-cit-0038">
+<string-name name-style="western">
+<surname>Sohail</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jamil</surname>
+<given-names>N</given-names>
+</string-name>. <article-title>Isolation of biosurfactant producing bacteria from Potwar oil fields: effect of non‐fossil fuel based carbon sources</article-title>. <source>Green Process Synth</source>. <year>2020</year>;<volume>9</volume>:<fpage>77</fpage>–<lpage>86</lpage>.</mixed-citation></ref></ref-list></back></article>
