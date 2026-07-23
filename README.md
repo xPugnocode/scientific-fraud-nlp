@@ -13,6 +13,18 @@ python3 0_download_fraud_papers.py
 ```bash
 python3 1_download_control_papers.py
 ```
+5. Extract the NLP features from each paper.
+```bash
+python3 2_extract_features.py
+```
+6. Optional: Run statistics on the extracted NLP features.
+```bash
+python3 3_run_stats.py
+```
+7. Run the ML pipeline to build the prediction model.
+```bash
+python3 4_ML_pipeline.py
+```
 
 ## License
 The original source code in this repository is licensed under the BSD 3-Clause License.
