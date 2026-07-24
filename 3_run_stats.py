@@ -47,11 +47,22 @@ def distribution_summary(values, prefix):
     }
 
 
+def point_biserial_summary(feature_values, labels):
+    valid = np.isfinite(feature_values) & np.isfinite(labels)
+    feature_values = feature_values[valid]
+    labels = labels[valid]
+
+    test_result = stats.pointbiserialr(labels, feature_values)
+    return test_result.statistic
+
+
 for feature in feature_columns:
     paired = data.pivot(index='pair_id', columns='isFraud', values=feature)
 
     control = paired[False].to_numpy()
     retracted = paired[True].to_numpy()
+    feature_values = data[feature].to_numpy()
+    labels = data['isFraud'].astype(int).to_numpy()
 
     # positive difference means higher in retracted papers
     differences = retracted - control
@@ -76,6 +87,7 @@ for feature in feature_columns:
         'wilcoxon_statistic': statistic,
         'p_value': p_value,
         'rank_biserial': effect_size,
+        'point_biserial_r': point_biserial_summary(feature_values, labels)
     }
     result.update(distribution_summary(control, 'control'))
     result.update(distribution_summary(retracted, 'retracted'))
@@ -90,10 +102,9 @@ results['q_value'] = multipletests(results['p_value'], alpha=0.05, method='fdr_b
 results['significant'] = results['q_value'] < 0.05
 results = results.sort_values(['q_value'])
 
-results.to_csv('data/wilcoxon_feature_results.csv', index=False)
+results.to_csv('data/feature_stats.csv', index=False)
 
-things_to_plot = ['pos_prop_ADJ', 'pos_prop_NOUN', 'duplicate_ngram_chr_fraction_5']
-
+things_to_plot = ['pos_prop_ADJ', 'duplicate_ngram_chr_fraction_5', 'passive_voice_rate']
 fig, axes = plt.subplots(1, len(things_to_plot), figsize=(15, 4))
 for axis, feature in zip(axes, things_to_plot):
     for is_fraud, label, color in ((False, 'Control', 'tab:blue'), (True, 'Retracted', 'tab:orange')):
