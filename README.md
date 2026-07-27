@@ -2,45 +2,58 @@
 
 ## How to Run
 
-1. Install the required dependencies.
+1. Download the project from GitHub, then create a virtual environment.
 
    ```bash
+   git clone https://github.com/xPugnocode/scientific-fraud-nlp.git
+   cd scientific-fraud-nlp
+   python3 -m venv .venv
+   ```
+
+2. Enter the virtual environment and install the required dependencies.
+
+   ```bash
+   source .venv/bin/activate
    python3 -m pip install -r requirements.txt
    ```
 
-2. Download the most recent version of the Retraction Watch dataset from [Crossref's Retraction Watch data repository](https://gitlab.com/crossref/retraction-watch-data/-/blob/main/retraction_watch.csv), then save it as `retraction_watch.csv` in the project root.
+3. Download the most recent version of the Retraction Watch dataset from [Crossref's Retraction Watch data repository](https://gitlab.com/crossref/retraction-watch-data/-/blob/main/retraction_watch.csv) and save it as `retraction_watch.csv` in the project root.
 
-3. Filter and download the set of fraudulent papers to use.
+   ```bash
+   curl -L "https://gitlab.com/crossref/retraction-watch-data/-/raw/main/retraction_watch.csv" -o retraction_watch.csv
+   ```
+
+4. Filter and download the set of fraudulent papers to use.
 
    ```bash
    python3 0_download_fraud_papers.py
    ```
 
-4. Search for and download a control set of comparable non-fraudulent papers on similar topics.
+5. Search for and download a control set of comparable non-fraudulent papers on similar topics.
 
    ```bash
    python3 1_download_control_papers.py
    ```
 
-5. Extract the NLP features from each paper.
+6. Extract the NLP features from each paper.
 
    ```bash
    python3 2_extract_features.py
    ```
 
-6. Optional: Run statistics on the extracted NLP features.
+7. Optional: Run statistics on the extracted NLP features.
 
    ```bash
    python3 3_run_stats.py
    ```
 
-7. Build the paper embeddings. This only needs to be run once unless the paper data changes.
+8. Build the paper embeddings. This only needs to be run once unless the paper data changes.
 
    ```bash
    python3 4_make_pubmed_embeddings.py
    ```
 
-8. Run the ML pipeline to build the prediction model.
+9. Run the ML pipeline to build the prediction model.
 
    ```bash
    python3 4_ML_pipeline.py
