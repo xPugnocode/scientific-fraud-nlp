@@ -1,12 +1,12 @@
 import sklearn
-from sklearn.model_selection import train_test_split
+from sklearn.model_selection import GroupShuffleSplit, train_test_split
 import pandas as pd
 import random
 from joblib import dump, load
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.impute import SimpleImputer
 from sklearn.linear_model import LogisticRegression
-from sklearn.metrics import accuracy_score, balanced_accuracy_score, confusion_matrix, precision_score, recall_score
+from sklearn.metrics import accuracy_score, balanced_accuracy_score, confusion_matrix, f1_score, precision_score, recall_score, roc_auc_score
 from sklearn.model_selection import cross_validate
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import StandardScaler
@@ -38,9 +38,12 @@ selected_papers = features.groupby(['pair_id', 'isFraud'], as_index=False).head(
 
 tested_splits = []
 
-# testing many random splits to pick the best one based on the similarity between the training and testing sets
+# testing many random group splits to pick the best one based on the similarity between the training and testing sets
 for i in range(100):
-    train_data, test_data = train_test_split(selected_papers, test_size=0.2, stratify=selected_papers['isFraud'], random_state=i)
+    splitter = GroupShuffleSplit(n_splits=1, test_size=0.2, random_state=i)
+    train_index, test_index = next(splitter.split(selected_papers, groups=selected_papers['pair_id']))
+    train_data = selected_papers.iloc[train_index]
+    test_data = selected_papers.iloc[test_index]
     year_mean_diff = abs(train_data['publication_year'].mean() - test_data['publication_year'].mean())
     year_std_diff = abs(train_data['publication_year'].std() - test_data['publication_year'].std())
     journal_diff = train_data['journal_nlm_ta'].value_counts(normalize=True).sub(test_data['journal_nlm_ta'].value_counts(normalize=True), fill_value=0).abs().sum()
@@ -49,7 +52,10 @@ for i in range(100):
 tested_splits = pd.DataFrame(tested_splits, columns=['random_state', 'year_mean_diff', 'year_std_diff', 'journal_diff'])
 tested_splits['score'] = tested_splits[['year_mean_diff', 'year_std_diff', 'journal_diff']].rank().sum(axis=1)
 optimal_split = int(tested_splits.sort_values('score').iloc[0]['random_state'])
-train_data, test_data = train_test_split(selected_papers, test_size=0.2, stratify=selected_papers['isFraud'], random_state=optimal_split)
+splitter = GroupShuffleSplit(n_splits=1, test_size=0.2, random_state=optimal_split)
+train_index, test_index = next(splitter.split(selected_papers, groups=selected_papers['pair_id']))
+train_data = selected_papers.iloc[train_index]
+test_data = selected_papers.iloc[test_index]
 
 # feature_list = embedding_columns
 
@@ -94,9 +100,14 @@ for model in models.keys():
     # results = cross_validate(pipeline, X_train, Y_train, scoring=scoring, n_jobs=-1, error_score='raise')
     pipeline.fit(X_train, Y_train)
     actual_results = pipeline.predict(X_test)
+    if hasattr(pipeline, 'predict_proba'):
+        actual_scores = pipeline.predict_proba(X_test)[:, 1]
+    else:
+        actual_scores = pipeline.decision_function(X_test)
 
     test_results = test_data.copy()
     test_results['predicted_isFraud'] = actual_results
+    test_results['predicted_score_isFraud'] = actual_scores
     # test_results.to_csv(f'data/{OUTPUT_NAME}_results.csv', index=False)
 
     tn, fp, fn, tp = confusion_matrix(Y_test, actual_results, labels=[0, 1]).ravel()
@@ -108,6 +119,10 @@ for model in models.keys():
         'false_positive_pct': 100 * fp / test_count,
         'false_negative_pct': 100 * fn / test_count,
         'total_accuracy': 100 * (tp + tn) / test_count,
+        'precision': 100 * precision_score(Y_test, actual_results, zero_division=0),
+        'recall': 100 * recall_score(Y_test, actual_results, zero_division=0),
+        'f1': 100 * f1_score(Y_test, actual_results, zero_division=0),
+        'roc_auc': 100 * roc_auc_score(Y_test, actual_scores),
     }
     tested_models.append(metrics)
 
