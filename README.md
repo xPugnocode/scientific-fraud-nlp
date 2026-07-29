@@ -59,7 +59,7 @@
    python3 4_ML_pipeline.py
    ```
 
-10. Test an individual paper with the best model, the combined RBF SVM. Save the paper body text as a plain text file without the bibliography, then pass the file path and the number of in-body citation markers. 
+10. Test an individual paper with the best model, the combined RBF SVM. Save the paper body text as a plain text file without the bibliography, then pass the file path and the number of in-body citation markers.
 
    ```bash
    python3 5_test_individual_paper.py path/to/paper_body.txt 67
