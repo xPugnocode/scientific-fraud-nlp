@@ -17,7 +17,7 @@
    python3 -m pip install -r requirements.txt
    ```
 
-3. Download the most recent version of the Retraction Watch dataset from [Crossref's Retraction Watch data repository](https://gitlab.com/crossref/retraction-watch-data/-/blob/main/retraction_watch.csv) and save it as `retraction_watch.csv` in the project root.
+3. Optional: Download the most recent version of the Retraction Watch dataset from [Crossref's Retraction Watch data repository](https://gitlab.com/crossref/retraction-watch-data/-/blob/main/retraction_watch.csv) and save it as `retraction_watch.csv` in the project root. Otherwise, the version of the Retraction Watch dataset contained within the repository is the same one used in the paper.
 
    ```bash
    curl -L "https://gitlab.com/crossref/retraction-watch-data/-/raw/main/retraction_watch.csv" -o retraction_watch.csv

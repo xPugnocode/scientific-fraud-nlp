@@ -100,21 +100,25 @@ results = pd.DataFrame(results)
 results['q_value'] = multipletests(results['p_value'], alpha=0.05, method='fdr_bh')[1]
 
 results['significant'] = results['q_value'] < 0.05
-results = results.sort_values(['q_value'])
+results = results.sort_values(['point_biserial_r'])
 
 results.to_csv('data/feature_stats.csv', index=False)
 
-things_to_plot = ['pos_prop_ADJ', 'duplicate_ngram_chr_fraction_5', 'passive_voice_rate']
-fig, axes = plt.subplots(1, len(things_to_plot), figsize=(15, 4))
-for axis, feature in zip(axes, things_to_plot):
+things_to_plot = [
+    ('pos_prop_ADJ', '(a) Adjective Proportion', 'Adjectives (% of words)'),
+    ('duplicate_ngram_chr_fraction_5', '(b) Repeated 5-Token Sequences', 'Repeated 5-token sequences (% of chars)'),
+    ('passive_voice_rate', '(c) Passive-Voice Rate', 'Passive-voice (% of sentences)'),
+]
+fig, axes = plt.subplots(3, 1, figsize=(3.4, 8.0), constrained_layout=True)
+for axis, (feature, title, xlabel) in zip(axes, things_to_plot):
     for is_fraud, label, color in ((False, 'Control', 'tab:blue'), (True, 'Retracted', 'tab:orange')):
-        values = data.loc[data['isFraud'] == is_fraud, feature].dropna()
-        axis.hist(values, bins=30, alpha=0.55, density=True, label=label, color=color)
-    axis.set_title(feature)
-    axis.set_xlabel('Value')
-    axis.set_ylabel('Papers')
-    axis.legend()
+        values = data.loc[data['isFraud'] == is_fraud, feature].dropna() * 100
+        weights = np.ones(len(values)) / len(values) * 100
+        axis.hist(values, bins=30, weights=weights, alpha=0.55, label=label, color=color)
+    axis.set_title(title, fontsize=10)
+    axis.set_xlabel(xlabel, fontsize=9)
+    axis.set_ylabel('Papers (%)', fontsize=9)
+    axis.tick_params(axis='both', labelsize=8)
 
-fig.tight_layout()
-fig.savefig('data/selected_feature_distributions.png', dpi=150)
+fig.savefig('data/selected_feature_distributions.png', dpi=300, bbox_inches='tight')
 plt.close(fig)
