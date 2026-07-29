@@ -59,6 +59,10 @@
    python3 4_ML_pipeline.py
    ```
 
+## Paper
+
+The LaTeX source for the paper is in `paper/`. See `paper/README.md` for instructions on building the PDF.
+
 ## License
 
 The original source code in this repository is licensed under the BSD 3-Clause License.

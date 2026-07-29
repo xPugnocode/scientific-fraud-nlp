@@ -1,0 +1,141 @@
+% Required packages:
+% \usepackage{booktabs}
+% \usepackage{longtable}
+% \usepackage{pdflscape}
+% \usepackage{array}
+
+\clearpage
+\onecolumn
+\begin{landscape}
+\scriptsize
+\setlength{\tabcolsep}{2.5pt}
+\renewcommand{\arraystretch}{1.08}
+\setcounter{table}{0}
+\renewcommand{\thetable}{\arabic{table}}
+\renewcommand{\tablename}{Supplementary Table}
+
+
+\begin{longtable}{@{}p{5.2cm}p{2.65cm}p{2.65cm}p{2.85cm}p{2.85cm}ccc@{}}
+\caption{Complete statistical comparison of the 78 retained handcrafted features.}
+\label{tab:supplementary-feature-statistics}\\
+
+\toprule
+Feature &
+\shortstack{Control\\mean (SD)} &
+\shortstack{Retracted\\mean (SD)} &
+\shortstack{Control\\median [IQR]} &
+\shortstack{Retracted\\median [IQR]} &
+$r_{\mathrm{pb}}$ &
+$r_{\mathrm{rb}}$ &
+BH $q$ \\
+\midrule
+\endfirsthead
+
+\multicolumn{8}{c}{\tablename\ \thetable{}---continued from previous page}\\
+\toprule
+Feature &
+\shortstack{Control\\mean (SD)} &
+\shortstack{Retracted\\mean (SD)} &
+\shortstack{Control\\median [IQR]} &
+\shortstack{Retracted\\median [IQR]} &
+$r_{\mathrm{pb}}$ &
+$r_{\mathrm{rb}}$ &
+BH $q$ \\
+\midrule
+\endhead
+
+\midrule
+\multicolumn{8}{r}{Continued on next page}\\
+\endfoot
+
+\bottomrule
+\endlastfoot
+Adjective tokens (\% of all tokens) & 8.93 (1.78) & 7.84 (1.68) & 8.89 [7.71--10.05] & 7.64 [6.66--8.79] & $-0.301$ & $-0.526$ & $8.07 \times 10^{-32}$ \\
+Noun tokens (\% of all tokens) & 30.87 (2.69) & 32.43 (2.30) & 30.97 [29.19--32.68] & 32.58 [31.03--33.94] & $0.297$ & $0.523$ & $8.23 \times 10^{-32}$ \\
+Characters in repeated 5-token sequences (\%) & 15.16 (7.71) & 19.65 (8.11) & 13.79 [9.36--19.95] & 19.23 [13.55--24.21] & $0.273$ & $0.484$ & $1.84 \times 10^{-27}$ \\
+Characters in repeated 6-token sequences (\%) & 10.89 (6.80) & 14.63 (7.39) & 9.40 [5.83--14.68] & 13.95 [9.10--18.55] & $0.255$ & $0.465$ & $1.93 \times 10^{-25}$ \\
+Characters in repeated 7-token sequences (\%) & 8.21 (6.04) & 11.23 (6.69) & 6.78 [3.74--11.31] & 10.20 [6.32--14.89] & $0.231$ & $0.428$ & $1.02 \times 10^{-21}$ \\
+Sentences containing passive voice (\%) & 51.52 (10.49) & 56.27 (9.77) & 52.05 [44.69--58.93] & 56.76 [50.51--62.87] & $0.228$ & $0.380$ & $2.73 \times 10^{-17}$ \\
+Modal verbs per 1,000 words & 5.46 (2.70) & 4.30 (2.35) & 5.08 [3.48--6.92] & 3.89 [2.66--5.59] & $-0.224$ & $-0.360$ & $9.76 \times 10^{-16}$ \\
+Characters in repeated 8-token sequences (\%) & 6.51 (5.44) & 8.99 (6.08) & 5.12 [2.48--9.04] & 7.73 [4.37--12.33] & $0.211$ & $0.395$ & $1.26 \times 10^{-18}$ \\
+Negation dependencies per 1,000 words & 3.86 (2.21) & 3.00 (2.08) & 3.59 [2.17--5.16] & 2.56 [1.50--4.05] & $-0.197$ & $-0.360$ & $9.76 \times 10^{-16}$ \\
+Characters in repeated 9-token sequences (\%) & 5.36 (4.95) & 7.47 (5.57) & 3.91 [1.77--7.61] & 6.19 [3.33--10.41] & $0.196$ & $0.369$ & $1.95 \times 10^{-16}$ \\
+Determiner tokens (\% of all tokens) & 6.84 (1.74) & 6.20 (1.51) & 6.70 [5.62--7.91] & 5.99 [5.12--7.12] & $-0.193$ & $-0.347$ & $8.58 \times 10^{-15}$ \\
+Characters in repeated 10-token sequences (\%) & 4.51 (4.54) & 6.35 (5.14) & 3.16 [1.27--6.49] & 5.18 [2.52--8.81] & $0.187$ & $0.354$ & $3.18 \times 10^{-15}$ \\
+Acronym mentions per 1,000 words & 64.66 (34.72) & 76.50 (30.57) & 61.88 [40.74--85.52] & 74.78 [55.30--97.66] & $0.178$ & $0.338$ & $4.40 \times 10^{-14}$ \\
+Pronoun tokens (\% of all tokens) & 1.09 (0.51) & 0.94 (0.38) & 0.99 [0.75--1.36] & 0.91 [0.69--1.14] & $-0.167$ & $-0.276$ & $1.02 \times 10^{-9}$ \\
+Coordinating-conjunction tokens (\% of all tokens) & 3.53 (0.69) & 3.76 (0.72) & 3.49 [3.07--3.88] & 3.72 [3.29--4.15] & $0.166$ & $0.274$ & $1.42 \times 10^{-9}$ \\
+Measure of textual lexical diversity (MTLD) & 83.48 (16.00) & 78.59 (13.13) & 82.58 [71.95--93.20] & 78.12 [69.64--87.52] & $-0.165$ & $-0.249$ & $4.78 \times 10^{-8}$ \\
+Unique acronyms with extracted definitions (\%) & 6.34 (6.31) & 4.69 (3.80) & 4.76 [2.44--8.14] & 4.00 [2.18--6.25] & $-0.157$ & $-0.231$ & $5.16 \times 10^{-7}$ \\
+Second-order sentence coherence & 0.671 (0.039) & 0.661 (0.035) & 0.670 [0.644--0.697] & 0.660 [0.638--0.680] & $-0.135$ & $-0.235$ & $2.74 \times 10^{-7}$ \\
+Segmented type--token ratio & 0.798 (0.024) & 0.792 (0.022) & 0.800 [0.782--0.814] & 0.793 [0.779--0.808] & $-0.135$ & $-0.218$ & $1.58 \times 10^{-6}$ \\
+Unique tokens (\% of all tokens) & 27.25 (4.86) & 26.01 (4.60) & 27.17 [23.92--30.46] & 25.75 [22.76--29.08] & $-0.130$ & $-0.246$ & $6.90 \times 10^{-8}$ \\
+Verb tokens (\% of all tokens) & 7.70 (1.11) & 7.96 (0.93) & 7.74 [7.01--8.46] & 8.01 [7.35--8.62] & $0.128$ & $0.221$ & $1.25 \times 10^{-6}$ \\
+LIX readability index & 62.60 (5.60) & 61.24 (4.92) & 62.05 [58.76--65.22] & 60.93 [57.77--63.91] & $-0.128$ & $-0.219$ & $1.42 \times 10^{-6}$ \\
+RIX readability index & 9.68 (1.85) & 9.24 (1.60) & 9.43 [8.41--10.50] & 9.09 [8.12--10.04] & $-0.127$ & $-0.214$ & $2.58 \times 10^{-6}$ \\
+Adverb tokens (\% of all tokens) & 2.28 (0.54) & 2.15 (0.51) & 2.23 [1.91--2.61] & 2.10 [1.82--2.43] & $-0.126$ & $-0.220$ & $1.42 \times 10^{-6}$ \\
+Sentiment polarity score & 0.0646 (0.0333) & 0.0560 (0.0337) & 0.0643 [0.0444--0.0849] & 0.0558 [0.0361--0.0765] & $-0.126$ & $-0.205$ & $6.44 \times 10^{-6}$ \\
+First-order sentence coherence & 0.699 (0.035) & 0.690 (0.032) & 0.699 [0.674--0.721] & 0.689 [0.671--0.708] & $-0.125$ & $-0.228$ & $5.83 \times 10^{-7}$ \\
+Hypergeometric distribution diversity (HDD) & 0.869 (0.019) & 0.865 (0.018) & 0.871 [0.858--0.882] & 0.867 [0.854--0.877] & $-0.121$ & $-0.209$ & $3.96 \times 10^{-6}$ \\
+Automated Readability Index & 18.81 (2.68) & 18.22 (2.40) & 18.48 [16.96--20.17] & 17.96 [16.55--19.50] & $-0.116$ & $-0.204$ & $6.74 \times 10^{-6}$ \\
+Unique acronyms (count) & 71.4 (54.1) & 82.7 (42.4) & 60.5 [36.0--97.8] & 77.0 [54.0--104.0] & $0.116$ & $0.297$ & $5.70 \times 10^{-11}$ \\
+Particle tokens (\% of all tokens) & 1.56 (0.43) & 1.47 (0.40) & 1.53 [1.28--1.81] & 1.42 [1.19--1.72] & $-0.115$ & $-0.211$ & $3.53 \times 10^{-6}$ \\
+Median sentence length (tokens) & 23.76 (3.38) & 23.03 (3.30) & 23.00 [22.00--26.00] & 23.00 [21.00--25.00] & $-0.109$ & $-0.196$ & $3.64 \times 10^{-5}$ \\
+Characters in top 4-token sequences (\%) & 0.71 (0.54) & 0.83 (0.63) & 0.57 [0.36--0.93] & 0.69 [0.42--1.05] & $0.102$ & $0.190$ & $3.11 \times 10^{-5}$ \\
+Numeric tokens (\% of all tokens) & 4.12 (1.42) & 3.87 (1.22) & 3.98 [3.23--4.82] & 3.74 [3.03--4.48] & $-0.095$ & $-0.175$ & $1.34 \times 10^{-4}$ \\
+Mean sentence length (tokens) & 27.92 (4.58) & 27.09 (4.47) & 27.25 [24.90--30.23] & 26.40 [24.14--29.23] & $-0.092$ & $-0.163$ & $3.77 \times 10^{-4}$ \\
+Characters in top 3-token sequences (\%) & 0.93 (0.74) & 1.06 (0.79) & 0.73 [0.41--1.25] & 0.87 [0.49--1.40] & $0.087$ & $0.157$ & $6.27 \times 10^{-4}$ \\
+Coleman--Liau Index & 15.92 (1.68) & 15.67 (1.39) & 15.82 [14.83--16.97] & 15.59 [14.75--16.43] & $-0.082$ & $-0.150$ & 0.001 \\
+Mean word length (characters) & 4.90 (0.26) & 4.86 (0.22) & 4.89 [4.74--5.06] & 4.85 [4.73--4.99] & $-0.081$ & $-0.162$ & $4.15 \times 10^{-4}$ \\
+Hash symbols per 100 words & 0.029 (0.090) & 0.047 (0.146) & 0.000 [0.000--0.000] & 0.000 [0.000--0.021] & $0.074$ & $0.150$ & 0.029 \\
+Number-like tokens per 1,000 words & 52.57 (26.78) & 49.18 (17.89) & 49.02 [39.76--61.04] & 47.09 [37.54--57.51] & $-0.074$ & $-0.134$ & 0.004 \\
+Sentence-length standard deviation (tokens) & 18.39 (8.50) & 17.28 (6.56) & 16.36 [13.62--20.96] & 15.44 [13.43--18.90] & $-0.073$ & $-0.138$ & 0.003 \\
+Mean token length (characters) & 5.58 (0.28) & 5.54 (0.24) & 5.56 [5.39--5.76] & 5.53 [5.38--5.68] & $-0.072$ & $-0.131$ & 0.005 \\
+Sentence count & 179.5 (88.9) & 192.1 (87.6) & 159.0 [118.0--219.0] & 181.0 [132.2--232.0] & $0.072$ & $0.178$ & $1.10 \times 10^{-4}$ \\
+Gunning Fog Index & 18.76 (2.04) & 18.47 (1.92) & 18.42 [17.43--19.85] & 18.33 [17.08--19.58] & $-0.072$ & $-0.117$ & 0.011 \\
+Adposition tokens (\% of all tokens) & 10.79 (1.25) & 10.95 (1.13) & 10.72 [10.03--11.54] & 10.97 [10.26--11.66] & $0.067$ & $0.124$ & 0.007 \\
+Flesch--Kincaid Grade Level & 15.13 (1.92) & 14.88 (1.83) & 14.89 [13.85--16.19] & 14.72 [13.59--15.90] & $-0.067$ & $-0.113$ & 0.014 \\
+First-person singular pronouns per 1,000 words & 0.55 (1.39) & 0.38 (1.33) & 0.12 [0.00--0.56] & 0.13 [0.00--0.42] & $-0.064$ & $-0.167$ & 0.002 \\
+Adjacent dependency relations, sentence-level mean (\%) & 36.48 (0.95) & 36.36 (0.99) & 36.49 [35.88--37.07] & 36.36 [35.69--37.02] & $-0.064$ & $-0.124$ & 0.007 \\
+Auxiliary-verb tokens (\% of all tokens) & 3.84 (0.73) & 3.74 (0.69) & 3.80 [3.40--4.33] & 3.72 [3.30--4.15] & $-0.064$ & $-0.133$ & 0.004 \\
+SMOG Index & 16.20 (1.33) & 16.05 (1.22) & 16.02 [15.31--17.00] & 15.99 [15.15--16.80] & $-0.058$ & $-0.091$ & 0.049 \\
+Punctuation tokens (\% of all tokens) & 14.18 (2.32) & 14.43 (1.98) & 14.12 [12.82--15.39] & 14.43 [13.12--15.61] & $0.058$ & $0.153$ & $8.89 \times 10^{-4}$ \\
+Citation markers per 1,000 words & 15.35 (5.98) & 14.71 (5.85) & 14.45 [11.14--18.56] & 13.64 [10.63--17.33] & $-0.055$ & $-0.108$ & 0.018 \\
+Mean syllables per token & 1.68 (0.08) & 1.69 (0.07) & 1.68 [1.63--1.73] & 1.69 [1.64--1.73] & $0.044$ & $0.068$ & 0.150 \\
+Token count & 4,890 (2,378) & 5,086 (2,198) & 4,362 [3,319--5,973] & 4,783 [3,672--6,158] & $0.043$ & $0.121$ & 0.008 \\
+Document length (quality-component tokens) & 5,758 (2,864) & 5,993 (2,608) & 5,117 [3,860--7,020] & 5,624 [4,338--7,267] & $0.043$ & $0.125$ & 0.007 \\
+Character count & 27,980 (13,192) & 29,015 (12,343) & 25,058 [19,368--34,292] & 27,238 [21,001--35,253] & $0.041$ & $0.109$ & 0.017 \\
+Syllables-per-token standard deviation & 1.08 (0.17) & 1.10 (0.19) & 1.06 [1.01--1.11] & 1.07 [1.03--1.12] & $0.040$ & $0.120$ & 0.009 \\
+Median token length (characters) & 4.62 (0.50) & 4.58 (0.49) & 5.00 [4.00--5.00] & 5.00 [4.00--5.00] & $-0.037$ & $-0.087$ & 0.169 \\
+Subordinating-conjunction tokens (\% of all tokens) & 0.87 (0.33) & 0.89 (0.32) & 0.83 [0.65--1.04] & 0.87 [0.67--1.07] & $0.036$ & $0.074$ & 0.118 \\
+Entropy score & 142.6 (72.2) & 147.2 (64.2) & 125.6 [96.1--173.4] & 138.3 [106.3--178.3] & $0.033$ & $0.116$ & 0.011 \\
+Proper-noun tokens (\% of all tokens) & 2.58 (1.09) & 2.52 (1.01) & 2.44 [1.75--3.19] & 2.39 [1.80--3.12] & $-0.029$ & $-0.051$ & 0.278 \\
+First-person plural pronouns per 1,000 words & 5.86 (3.89) & 5.64 (3.65) & 5.54 [2.86--8.22] & 5.36 [2.86--7.56] & $-0.028$ & $-0.066$ & 0.161 \\
+Token-length standard deviation (characters) & 4.20 (2.68) & 4.03 (3.32) & 3.63 [3.44--4.06] & 3.61 [3.44--3.88] & $-0.027$ & $-0.130$ & 0.005 \\
+Mean dependency distance & 3.56 (0.27) & 3.55 (0.28) & 3.54 [3.41--3.70] & 3.52 [3.39--3.69] & $-0.027$ & $-0.057$ & 0.226 \\
+Median syllables per token & 1.00 (0.00) & 1.00 (0.04) & 1.00 [1.00--1.00] & 1.00 [1.00--1.00] & $0.027$ & $1.000$ & 1.000 \\
+Alphabetic-word count & 4,238 (2,021) & 4,338 (1,844) & 3,750 [2,919--5,143] & 4,012 [3,142--5,216] & $0.026$ & $0.081$ & 0.084 \\
+Flesch Reading Ease & 36.32 (7.54) & 36.64 (6.88) & 36.78 [31.97--41.40] & 37.17 [32.68--41.37] & $0.022$ & $0.029$ & 0.573 \\
+Other/unknown tokens (\% of all tokens) & 0.765 (0.801) & 0.796 (0.800) & 0.472 [0.281--0.874] & 0.513 [0.298--0.960] & $0.020$ & $0.060$ & 0.204 \\
+Sentiment subjectivity score & 0.432 (0.042) & 0.430 (0.041) & 0.431 [0.407--0.460] & 0.431 [0.403--0.455] & $-0.020$ & $-0.038$ & 0.433 \\
+Interjection tokens (\% of all tokens) & 0.0101 (0.0202) & 0.0093 (0.0261) & 0.0000 [0.0000--0.0148] & 0.0000 [0.0000--0.0111] & $-0.018$ & $-0.108$ & 0.097 \\
+Tokens containing alphabetic characters (\%) & 80.73 (3.59) & 80.85 (2.99) & 81.14 [78.87--82.94] & 81.05 [79.30--82.68] & $0.018$ & $0.016$ & 0.765 \\
+Stop-word count & 1,767 (866) & 1,793 (780) & 1,566 [1,194--2,123] & 1,659 [1,275--2,170] & $0.016$ & $0.067$ & 0.159 \\
+Dependency-distance standard deviation & 1.23 (0.64) & 1.22 (0.51) & 1.14 [0.99--1.31] & 1.12 [1.00--1.31] & $-0.015$ & $0.018$ & 0.728 \\
+Symbol tokens (\% of all tokens) & 0.048 (0.119) & 0.045 (0.117) & 0.010 [0.000--0.050] & 0.007 [0.000--0.042] & $-0.011$ & $-0.025$ & 0.695 \\
+Acronyms with extracted definitions (count) & 3.58 (2.91) & 3.53 (2.62) & 3.00 [2.00--5.00] & 3.00 [2.00--5.00] & $-0.008$ & $0.002$ & 0.984 \\
+Adjacent dependency relations, sentence-level SD (\%) & 5.67 (0.70) & 5.66 (0.65) & 5.62 [5.22--6.00] & 5.59 [5.20--6.01] & $-0.008$ & $-0.020$ & 0.708 \\
+Characters in top 2-token sequences (\%) & 1.03 (0.91) & 1.02 (0.82) & 0.81 [0.42--1.24] & 0.80 [0.43--1.28] & $-0.005$ & $-0.004$ & 0.968 \\
+Unique-token count & 1,248 (414) & 1,245 (359) & 1,187 [983--1,455] & 1,220 [1,000--1,430] & $-0.004$ & $-0.003$ & 0.981 \\
+Out-of-vocabulary words (\%) & 3.89 (1.72) & 3.88 (1.69) & 3.65 [2.57--4.81] & 3.55 [2.71--4.58] & $-0.002$ & $0.002$ & 0.981 \\
+\end{longtable}
+
+\begin{minipage}{\linewidth}
+\footnotesize
+\textit{Note.} Features are ordered by descending absolute point-biserial correlation with retraction status. 
+SD, standard deviation; IQR, interquartile range; $r_{\mathrm{pb}}$, point-biserial correlation; $r_{\mathrm{rb}}$, rank-biserial correlation; BH $q$, Benjamini--Hochberg-adjusted $p$-value from the paired two-sided Wilcoxon signed-rank test. The analysis included 706 matched pairs. Positive correlations indicate higher values among retracted articles; negative correlations indicate higher values among control articles.
+\end{minipage}
+
+\end{landscape}
+\clearpage
+\twocolumn
