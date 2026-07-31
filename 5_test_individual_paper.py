@@ -3,7 +3,17 @@ import json
 from pathlib import Path
 import warnings
 
+import numpy as np
+import pandas as pd
+import spacy
+import textdescriptives as td
+from joblib import load
+from sentence_transformers import SentenceTransformer
+from sentence_transformers.sentence_transformer.modules import StaticEmbedding
 from sklearn.exceptions import InconsistentVersionWarning
+from spacytextblob.spacytextblob import SpacyTextBlob
+from textacy.extract.acros import acronyms, acronyms_and_definitions
+from textacy.text_stats import diversity
 
 
 warnings.filterwarnings('ignore', category=FutureWarning)
@@ -20,13 +30,6 @@ sentence_nlp = None
 
 def load_everything():
     global pipeline, nlp, model, sentence_nlp
-
-    import spacy
-    import textdescriptives as td
-    from joblib import load
-    from sentence_transformers import SentenceTransformer
-    from sentence_transformers.sentence_transformer.modules import StaticEmbedding
-    from spacytextblob.spacytextblob import SpacyTextBlob
 
     pipeline = load(MODEL_PATH)
 
@@ -46,10 +49,6 @@ def clean_text(text):
 
 
 def get_features(article, citations):
-    import textdescriptives as td
-    from textacy.extract.acros import acronyms, acronyms_and_definitions
-    from textacy.text_stats import diversity
-
     doc = nlp(article)
     features = td.extract_dict(doc, include_text=False)[0]
 
@@ -96,8 +95,6 @@ def get_features(article, citations):
 
 
 def create_paper_vector(text):
-    import numpy as np
-
     doc = sentence_nlp(text)
     sentences = [sentence.text.strip() for sentence in doc.sents]
 
@@ -114,8 +111,6 @@ def create_paper_vector(text):
 
 
 def predict_paper(text_file, citations):
-    import pandas as pd
-
     article = clean_text(text_file.read_text(encoding='utf-8'))
     features = get_features(article, citations)
     paper_vector = create_paper_vector(article)
