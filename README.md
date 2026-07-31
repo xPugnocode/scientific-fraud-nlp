@@ -59,10 +59,13 @@
    python3 4_ML_pipeline.py
    ```
 
-10. Test an individual paper with the best model, the combined RBF SVM. Save the paper body text as a plain text file without the bibliography, then pass the file path and the number of in-body citation markers. You can test this on a draft of my paper located in paper/just_text.txt
+10. Test an individual paper with the best model, the combined RBF SVM. Save the paper body text as a plain text file without the bibliography, then pass the file path and the number of in-body citation markers.
 
    ```bash
    python3 5_test_individual_paper.py path/to/paper_body.txt 67
+
+   # You can test this on a draft of my paper!
+   python3 5_test_individual_paper.py paper/just_text.txt 39
    ```
 
    The citation number should count how many times references are cited in the body of the paper, not how many references appear in the bibliography.
