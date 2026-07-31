@@ -71,6 +71,10 @@
 
 The LaTeX source for the paper is in `paper/`. See `paper/README.md` for instructions on building the PDF.
 
+## Slideshow
+
+The OpenDocument Presentation source for the paper is in `slides/`. See `slides/README.md` for instructions on building the PDF.
+
 ## License
 
 The original source code in this repository is licensed under the BSD 3-Clause License.

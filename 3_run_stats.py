@@ -109,16 +109,24 @@ things_to_plot = [
     ('duplicate_ngram_chr_fraction_5', '(b) Repeated 5-Token Sequences', 'Repeated 5-token sequences (% of chars)'),
     ('passive_voice_rate', '(c) Passive-Voice Rate', 'Passive-voice (% of sentences)'),
 ]
-fig, axes = plt.subplots(3, 1, figsize=(3.4, 8.0), constrained_layout=True)
-for axis, (feature, title, xlabel) in zip(axes, things_to_plot):
-    for is_fraud, label, color in ((False, 'Control', 'tab:blue'), (True, 'Retracted', 'tab:orange')):
-        values = data.loc[data['isFraud'] == is_fraud, feature].dropna() * 100
-        weights = np.ones(len(values)) / len(values) * 100
-        axis.hist(values, bins=30, weights=weights, alpha=0.55, label=label, color=color)
-    axis.set_title(title, fontsize=10)
-    axis.set_xlabel(xlabel, fontsize=9)
-    axis.set_ylabel('Papers (%)', fontsize=9)
-    axis.tick_params(axis='both', labelsize=8)
 
-fig.savefig('data/selected_feature_distributions.png', dpi=300, bbox_inches='tight')
-plt.close(fig)
+
+def plot_selected_feature_distributions(nrows, ncols, figsize, output_path):
+    fig, axes = plt.subplots(nrows, ncols, figsize=figsize, constrained_layout=True)
+    for axis, (feature, title, xlabel) in zip(np.ravel(axes), things_to_plot):
+        for is_fraud, label, color in ((False, 'Legitimate', 'tab:blue'), (True, 'Fraudulent', 'tab:orange')):
+            values = data.loc[data['isFraud'] == is_fraud, feature].dropna() * 100
+            weights = np.ones(len(values)) / len(values) * 100
+            axis.hist(values, bins=30, weights=weights, alpha=0.55, label=label, color=color)
+        axis.set_title(title, fontsize=10)
+        axis.set_xlabel(xlabel, fontsize=9)
+        axis.set_ylabel('Papers (%)', fontsize=9)
+        axis.tick_params(axis='both', labelsize=8)
+
+    axes.flat[0].legend(fontsize=8)
+    fig.savefig(output_path, dpi=300, bbox_inches='tight')
+    plt.close(fig)
+
+
+plot_selected_feature_distributions(3, 1, (3.4, 8.0), 'data/selected_feature_distributions.png')
+plot_selected_feature_distributions(1, 3, (10.2, 2.8), 'data/selected_feature_distributions_horizontal.png')

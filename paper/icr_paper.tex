@@ -19,6 +19,7 @@
 \usepackage{pdflscape}
 \usepackage{array}
 \usepackage{float}
+\usepackage[table]{xcolor}
 
 \naaclfinalcopy
 
@@ -237,7 +238,7 @@ Coordinating conjunctions (\% of words)
 \begin{figure}[H]
     \centering
     \includegraphics{figures/selected_feature_distributions.png}
-    \caption{Distributions of three linguistic features selected to represent the strongest associations distinguishing between the fraudulent and genuine papers.}
+    \caption{Distributions of three linguistic features selected to represent the strongest associations distinguishing between the fraudulent and genuine papers. The orange represents the fraudulent papers, and the blue represents the legitimate ones.}
     \label{fig:top-feature-distributions}
 \end{figure}
 
@@ -382,7 +383,7 @@ Overall, the classifier performed very competitively with previous approaches de
 
 \subsection{Practical Implications}
 
-The model may be useful as a screening tool for journals or peer reviewers. Its sensitivity of 81.0\% means that it correctly identified 115 of the 142 fraudulent papers in the testing set. Instead of closely investigating every submission, reviewers could use the model to flag papers that may require additional checks, such as image analysis, requests for raw data, or closer statistical review.
+The model may be useful as a screening tool for journals or peer reviewers. Its sensitivity of 81.0\% means that it correctly identified 115 of the 142 fraudulent papers in the testing set. Instead of closely investigating every submission, reviewers could use the model to flag papers that may require additional checks, such as image analysis, requests for raw data, or closer statistical review. And having less false negatives (19.0\%) than false positives (28.2\%) is useful because this is a screening tool that should be used by the journals, not the general public. It would be better to review a few extra papers than let possibly fraudulent ones pass without any scrutiny.
 
 However, the model should not be used to accuse an author of misconduct. It incorrectly flagged 40 control papers and missed 27 fraudulent papers. Therefore, its predictions should only be used to prioritize further review, with any final decision based on human judgment and additional evidence.
 

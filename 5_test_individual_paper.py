@@ -136,7 +136,7 @@ def predict_paper(text_file, citations):
 
     return {
         'text_file': str(text_file),
-        'prediction': 'fraud' if prediction == 1 else 'control',
+        'prediction': 'fraud' if prediction == 1 else 'legitimate',
         'predicted_isFraud': bool(prediction),
         'probability_control': float(probability_control),
         'probability_fraud': float(probability_fraud),
