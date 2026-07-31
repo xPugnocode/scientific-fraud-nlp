@@ -8,6 +8,13 @@ This folder contains the OpenDocument Presentation source used to build the proj
 
 ## Build
 
+Install the required build command:
+
+```bash
+sudo apt update
+sudo apt install libreoffice
+```
+
 Open `slideshow.odp` in LibreOffice Impress to view or edit the slides.
 
 To export the slideshow as a PDF from this folder:

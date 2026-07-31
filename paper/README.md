@@ -12,21 +12,18 @@ This folder contains the LaTeX source used to build the paper.
 
 ## Build
 
-From this folder, build the PDF with `latexmk`:
+Install the required build command:
+
+```bash
+sudo apt update
+sudo apt install latexmk
+```
+
+From this folder, build the PDF:
 
 ```bash
 cd paper
 latexmk -pdf icr_paper.tex
-```
-
-If `latexmk` is not installed, run the LaTeX and BibTeX steps manually:
-
-```bash
-cd paper
-pdflatex icr_paper.tex
-bibtex icr_paper
-pdflatex icr_paper.tex
-pdflatex icr_paper.tex
 ```
 
 The output PDF will be `icr_paper.pdf`.
