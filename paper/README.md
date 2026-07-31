@@ -16,14 +16,14 @@ Install the required build command:
 
 ```bash
 sudo apt update
-sudo apt install latexmk
+sudo apt install latexmk texlive-latex-recommended texlive-latex-extra
 ```
 
 From this folder, build the PDF:
 
 ```bash
 cd paper
-latexmk -pdf icr_paper.tex
+latexmk -pdf icr_paper.tex -f
 ```
 
 The output PDF will be `icr_paper.pdf`.
